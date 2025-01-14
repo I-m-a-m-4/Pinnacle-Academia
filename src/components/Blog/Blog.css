@@ -1,0 +1,29 @@
+.custom-carousel .carousel .slide {
+  display: flex;
+  justify-content: center;
+}
+#blog{
+  background-image: url(../../assets/bghy_modifFied.png);
+
+}
+@media (min-width: 768px) {
+  .custom-carousel .carousel .slide {
+    width: 33.33%;
+  }
+}
+
+@media (max-width: 767px) {
+  .custom-carousel .carousel .slide {
+    width: 100%;
+  }
+
+  .arrow-button {
+    display: none;
+  }
+}
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

@@ -1,0 +1,12 @@
+/* filepath: /c:/Users/Bello Imam/Downloads/DOWNLOADED CODE FOLDERS/thecodingjourney-main/src/components/Services/Services.css */
+.background-shapes {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: url("path/to/your/background-shapes.png") no-repeat center center;
+  background-size: cover;
+  opacity: 0.1; /* Adjust opacity as needed */
+}
