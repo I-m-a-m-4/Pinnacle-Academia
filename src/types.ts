@@ -1,0 +1,476 @@
+
+
+export interface Product {
+    id: string;
+    businessId: string;
+    name: string;
+    sku: string;
+    category: string;
+    price: number;
+    costPrice?: number;
+    stock: number;
+    imageUrl?: string;
+    imageHint?: string;
+    description?: string;
+    lowStockThreshold?: number;
+    createdAt?: any;
+    updatedAt?: any;
+    expiryDate?: any;
+    categoryType?: 'product' | 'service';
+    lowercaseName?: string;
+
+    // --- Premium Inventory Features ---
+    type?: 'single' | 'variant' | 'composite';
+    parentId?: string; // For variants, references the main template product
+    variantName?: string; // e.g., 'Size'
+    variantValue?: string; // e.g., 'Large'
+    components?: { productId: string; quantity: number }[]; // For composite items
+    baseUnit?: string; // e.g., 'Piece'
+    uomConversions?: {
+        unitName: string; // e.g., 'Carton'
+        multiplier: number; // e.g., 24
+        price?: number; // Optional override price for this UoM
+    }[];
+}
+export type InventoryItem = Product;
+export interface CartItem {
+    product: Product;
+    quantity: number;
+    unit?: string;
+    multiplier?: number;
+    isPriceOverride?: boolean;
+    originalPrice?: number;
+}
+
+export interface HeldSale {
+    id: string;
+    items: CartItem[];
+    customer?: Customer | null;
+    timestamp: number;
+    total: number;
+    notes?: string;
+}
+
+export type TopSellingItem = Product & {
+    quantitySold: number;
+};
+
+export type UserRole = 'admin' | 'manager' | 'vendor_operator';
+
+export interface UserProfile {
+    id: string;
+    businessId: string;
+    name: string;
+    email: string;
+    phone?: string;
+    role: UserRole;
+    createdAt?: any;
+    surveyCompleted?: boolean;
+    status?: 'active' | 'inactive' | 'deleted';
+    lastSeen?: any;
+    permissions?: Record<string, boolean>;
+}
+
+export interface CustomerInsightsOutput {
+    summary: string;
+    productSuggestions: string[];
+    engagementTactics: string[];
+    createdAt?: any;
+}
+
+export interface Customer {
+    id: string;
+    businessId: string;
+    name: string;
+    email: string;
+    phone?: string;
+    code?: string;
+    loyaltyPoints?: number;
+    totalSpent?: number;
+    lastPurchaseDate?: any;
+    createdAt?: any;
+    updatedAt?: any;
+    lowercaseName?: string;
+    lowercaseEmail?: string;
+    aiInsights?: CustomerInsightsOutput;
+}
+
+export interface Receipt {
+    id: string;
+    businessId: string;
+    receiptNumber?: string;
+    items: {
+        productId: string;
+        name: string;
+        quantity: number;
+        price: number;
+        costPrice?: number;
+    }[];
+    customer?: { id: string, name: string, email: string } | null;
+    subtotal: number;
+    tax: number;
+    discount: number;
+    total: number;
+    totalCost?: number;
+    profit?: number;
+    paymentMethod: 'Cash' | 'Card' | 'Bank Transfer' | 'Invoice';
+    status?: 'paid' | 'unpaid' | 'pending';
+    createdAt: any; // Can be a Date or a Firestore Timestamp
+    createdBy?: string;
+    flagged?: {
+        reason: string;
+        openTime?: string;
+        closeTime?: string;
+    } | null;
+}
+
+export interface OnlineOrder {
+    id: string;
+    businessId: string;
+    customerId?: string;
+    customerName: string;
+    customerEmail: string;
+    customerPhone: string;
+    customerAddress: string;
+    items: {
+        productId: string;
+        name: string;
+        quantity: number;
+        price: number;
+    }[];
+    total: number;
+    shippingDetails?: {
+        name: string;
+        price: number;
+        type: 'delivery' | 'pickup';
+        location?: string;
+    };
+    status: 'pending' | 'paid' | 'shipped' | 'cancelled';
+    paymentMethod?: 'Paystack' | 'Bank Transfer';
+    paymentReference?: string;
+    createdAt: any;
+}
+
+export interface QueuedAction {
+    id: string;
+    type: 'complete-sale' | 'update-product' | 'add-customer' | 'update-customer' | 'delete-customer' | 'bulk-update-products' | 'add-product' | 'delete-product' | 'update-settings';
+    description: string;
+    payload: any;
+    timestamp: number;
+    status: 'pending' | 'processing' | 'completed' | 'failed';
+    errorMessage?: string;
+}
+
+export interface AISuggestion {
+    title: string;
+    description: string;
+    severity: 'High' | 'Medium' | 'Low';
+}
+
+export interface AISuggestions {
+    suggestions: AISuggestion[];
+    createdAt: any; // Firestore Timestamp
+}
+
+// --- New AI Analysis Types ---
+
+export interface SmartStockRecommendation {
+    productId: string;
+    name: string;
+    recommendedStock: number;
+    confidence: number;
+    reason: string;
+}
+
+export interface DemandHeatmap {
+    title: string;
+    insight: string;
+}
+
+export interface RevenueOpportunity {
+    productId: string;
+    name: string;
+    lostRevenue: number;
+    reason: string;
+    suggestion: string;
+}
+
+export interface SmartMerchandising {
+    primaryProductName: string;
+    pairedProductName: string;
+    insight: string;
+    recommendation: string;
+}
+
+export interface SlowMovingInventory {
+    productId: string;
+    name: string;
+    daysUnsold: number;
+    capitalLocked: number;
+    suggestion: string;
+}
+
+export interface PricingRecommendation {
+    productId: string;
+    name: string;
+    currentPrice: number;
+    suggestedPrice: number;
+    strategy: 'Psychological' | 'Penetration' | 'Bundle';
+    reasoning: string;
+}
+
+export interface IrresistibleOffer {
+    offerName: string;
+    productIds: string[];
+    productNames: string[];
+    originalTotalPrice: number;
+    suggestedBundlePrice: number;
+    savings: number;
+    marketingPitch: string;
+}
+
+export interface BusinessHealth {
+    score: number; // 0-100
+    status: 'Healthy' | 'Needs Attention' | 'At Risk';
+    summary: string; // A brief sentence about the score.
+}
+
+export interface CustomerSegment {
+    segmentName: string;
+    description: string;
+    customers: {
+        name: string;
+        email?: string;
+    }[];
+    suggestedCampaign: {
+        title: string;
+        body: string;
+        ctaText: string;
+    };
+}
+
+
+export interface BlogHeadline {
+    headline: string;
+    difficulty: 'low' | 'med' | 'high';
+    searchVolume: string;
+}
+
+export interface ContentPlanner {
+    blogFocus: string;
+    headlines: BlogHeadline[];
+}
+
+export interface BusinessAnalysisOutput {
+    smartStockRecommendations?: SmartStockRecommendation[];
+    demandHeatmap?: DemandHeatmap;
+    revenueOpportunities?: RevenueOpportunity[];
+    smartMerchandising?: SmartMerchandising[];
+    irresistibleOffers?: IrresistibleOffer[];
+    slowMovingInventory?: SlowMovingInventory[];
+    businessHealth?: BusinessHealth;
+    customerSegments?: CustomerSegment[];
+    pricingRecommendations?: PricingRecommendation[];
+    contentPlanner?: ContentPlanner;
+    createdAt?: any;
+}
+
+
+export interface BusinessInstance {
+    id: string;
+    name: string;
+    address?: string;
+    ownerId: string;
+    createdAt: any; // Firestore Timestamp
+    trialExpiresAt?: any; // Firestore Timestamp
+    plan?: 'starter' | 'pro' | 'business';
+    accessLevel?: 'lifetime';
+    status?: 'active' | 'deleted';
+    deletedAt?: any;
+    settings?: {
+        phone?: string;
+        email?: string;
+        currency?: string;
+        timezone?: string;
+        defaultTaxRate?: number;
+        primaryColor?: string;
+        logoUrl?: string;
+        paymentBankAccountId?: string;
+        paymentBankName?: string;
+        paymentAccountName?: string;
+        paymentBankCode?: string;
+        paymentInstructions?: string;
+        paystackSubaccount?: string;
+        usdToNgnRate?: number;
+        vendorPolicyEnabled?: boolean;
+        vendorPolicyText?: string;
+        loyaltyProgramEnabled?: boolean;
+        pointsPerUnit?: number;
+        loyaltyPointsForReward?: number;
+        loyaltyRewardDiscountPercentage?: number;
+        productCategories?: string[];
+        aiTroubleshootSuggestions?: AISuggestions;
+        businessAnalysis?: BusinessAnalysisOutput;
+        publicStore?: {
+            enabled?: boolean;
+            headline?: string;
+            slug?: string;
+            bannerImageUrl?: string;
+            desktopColumns?: 3 | 4 | 5;
+            footerText?: string;
+            description?: string;
+            socialTwitter?: string;
+            socialInstagram?: string;
+            socialFacebook?: string;
+            socialWhatsapp?: string;
+            hideOutOfStock?: boolean;
+            officeLocations?: string;
+            contactPhone?: string;
+            contactEmail?: string;
+            businessHours?: string;
+            googleMapsLink?: string;
+            shippingOptions?: { name: string; price: number; type: 'delivery' | 'pickup'; location?: string; }[];
+        },
+        industry?: string;
+        language?: string;
+        inventoryStartDate?: any;
+        fiscalYearStart?: string;
+        state?: string;
+        country?: string;
+        operatingHours?: {
+            enabled: boolean;
+            openTime: string; // HH:mm
+            closeTime: string; // HH:mm
+            preventSalesOutsideHours: boolean;
+        };
+    };
+}
+
+export interface Invitation {
+    id: string;
+    businessId: string;
+    email: string;
+    name: string;
+    role: 'manager' | 'vendor_operator';
+    createdAt: any; // Firestore timestamp
+}
+
+export interface Purchase {
+    id: string;
+    userId: string;
+    businessId: string;
+    plan: 'Pro' | 'Business';
+    amount: number;
+    currency: 'NGN';
+    timestamp: any; // Firestore Timestamp
+    userProfile?: UserProfile; // For admin dashboard display
+}
+
+export interface SubscriptionHistory {
+    id: string;
+    action: string;
+    amount: number;
+    currency: 'NGN';
+    timestamp: any; // Firestore Timestamp
+}
+
+export interface BlogPost {
+    id: string;
+    title: string;
+    slug: string;
+    content: string;
+    excerpt?: string;
+    imageUrl?: string;
+    authorId: string;
+    authorName: string;
+    published: boolean;
+    createdAt: any;
+    updatedAt: any;
+    category?: string;
+}
+
+// Platform-wide notifications sent by admin
+export interface AdminNotification {
+    id: string;
+    title: string;
+    body: string;
+    sentBy: string;
+    createdAt: any;
+}
+
+export interface UserNotification {
+    id: string;
+    title: string;
+    body: string;
+    read: boolean;
+    createdAt: any;
+    isGlobal?: boolean;
+    queuedActionId?: string;
+}
+
+export interface SystemBroadcast {
+    id: string;
+    title: string;
+    message: string;
+    type: 'info' | 'warning' | 'alert';
+    expiresAt: any; // Firestore Timestamp
+    createdAt: any; // Firestore Timestamp
+    isActive: boolean;
+    createdBy: string;
+}
+
+
+
+export interface SupportThread {
+    id: string;
+    userId: string;
+    userName: string;
+    userEmail: string;
+    subject: string;
+    status: 'open' | 'closed';
+    lastMessageAt: any; // Timestamp
+    lastMessageSnippet: string;
+    isReadByAdmin: boolean;
+    createdAt: any;
+}
+
+export interface SupportMessage {
+    id: string;
+    senderId: string;
+    senderName: string;
+    text: string;
+    createdAt: any; // Timestamp
+}
+
+
+export interface PressArticle {
+    title: string;
+    publication: string;
+    logoUrl?: string;
+    url: string;
+}
+
+export interface AuditLog {
+    id: string;
+    businessId: string;
+    userId: string;
+    userName: string;
+    userEmail: string;
+    userRole?: string;
+    action: string; // e.g., 'product.create', 'sale.void'
+    entityType: string; // e.g., 'Product', 'Receipt'
+    entityId: string;
+    details: Record<string, any>; // e.g., { name: 'New Product' } or { changes: [...] }
+    createdAt: any; // Firestore Timestamp
+}
+
+export interface BusinessStats {
+    id: string; // The businessId
+    totalCustomers: number;
+    totalProducts: number;
+    totalRevenue: number;
+    totalSales: number;
+    totalUnitsSold?: number;
+    updatedAt: any;
+}
+
