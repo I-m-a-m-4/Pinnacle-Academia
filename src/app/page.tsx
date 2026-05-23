@@ -177,8 +177,8 @@ export default function Home() {
                             {/* Right Column: UI Mockups */}
                             <div className="mt-8 sm:mt-0 relative [perspective:1000px]">
                                 <Image 
-                                    src="/computer-P.png" 
-                                    alt="Product UI" 
+                                    src="/pinnacle_dashboard.png" 
+                                    alt="Pinnacle Academia Student Portal Mockup" 
                                     width={1600} 
                                     height={1200} 
                                     className="w-full h-auto block" 
@@ -770,8 +770,8 @@ export default function Home() {
                                         {/* Soft glow behind the image */}
                                         <div className="absolute inset-0 bg-primary/20 blur-[100px] rounded-full -z-10 scale-125"></div>
                                         <Image 
-                                            src="/global-payment.png" 
-                                            alt="Multi-currency Payment Integration" 
+                                            src="/academic_payments.png" 
+                                            alt="Secure Tuition & Exam Registrations Payments" 
                                             width={600} 
                                             height={400} 
                                             className="w-full max-w-sm h-auto drop-shadow-[0_20px_50px_rgba(0,0,0,0.3)] rounded-xl"

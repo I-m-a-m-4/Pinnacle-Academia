@@ -22,58 +22,57 @@ import { SplashScreen } from '@/components/shared/splash-screen';
 
 import { ThemeProvider } from '@/components/theme-provider';
 
-const siteUrl = 'https://zeneva.space';
+const siteUrl = 'https://pinnacle-academia.com';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: 'Zeneva - Advanced Inventory Management & Global POS Operating System',
-    template: '%s | Zeneva'
+    default: 'Pinnacle Academia - Igniting Minds, Achieving Excellence',
+    template: '%s | Pinnacle Academia'
   },
-  description: 'Zeneva is a borderless retail operating system that unifies inventory management, multi-store POS, analytics, and USD/NGN payments into one powerful platform. Built for modern retailers scaling globally.',
+  description: 'Pinnacle Academia is a vibrant academic community driving excellence through online and physical tutorials, exam registration, and admission processing.',
   keywords: [
-    'inventory management software', 
-    'retail pos system', 
-    'cloud pos nigeria', 
-    'multi-currency billing', 
-    'usd payment gateway for retail', 
-    'pharmacy inventory software', 
-    'boutique management system', 
-    'business analytics dashboard', 
-    'global retail OS'
+    'JAMB prep', 
+    'WAEC tutorial', 
+    'NECO classes', 
+    'SAT coaching', 
+    'IELTS tutorials', 
+    'JUPEB direct entry', 
+    'admission processing nigeria', 
+    'Pinnacle Academia'
   ],
-  applicationName: 'Zeneva',
-  authors: [{ name: 'Zeneva Team' }],
+  applicationName: 'Pinnacle Academia',
+  authors: [{ name: 'Pinnacle Academia Team' }],
   generator: 'Next.js',
-  publisher: 'Zeneva',
+  publisher: 'Pinnacle Academia',
   referrer: 'origin-when-cross-origin',
   manifest: '/manifest.json',
   icons: {
     icon: [
-      { url: '/icon-pwa.png', type: 'image/png', sizes: '512x512' },
-      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/pinlogo.png', type: 'image/png', sizes: '512x512' },
+      { url: '/pinlogo.png', sizes: 'any' },
     ],
     apple: [
-      { url: '/apple-icon.png', sizes: '180x180', type: 'image/png' },
+      { url: '/pinlogo.png', sizes: '180x180', type: 'image/png' },
     ],
   },
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: 'Zeneva',
+    title: 'Pinnacle Academia',
   },
   openGraph: {
-    title: 'Zeneva - Advanced Inventory Management & Global POS',
-    description: 'Track every product, capture every sale, and scale globally. Zeneva unifies inventory, analytics, and multi-currency payments for the modern retailer.',
+    title: 'Pinnacle Academia - Igniting Minds, Achieving Excellence',
+    description: 'Join Pinnacle Academia for top-tier tutorials (JAMB, WAEC, SAT, IELTS), exam registrations, and tertiary admission counseling.',
     url: siteUrl,
-    siteName: 'Zeneva',
+    siteName: 'Pinnacle Academia',
     images: [
       {
-        url: `${siteUrl}/zeneva-og-image.png?v=5`,
-        width: 1200,
-        height: 630,
+        url: `${siteUrl}/pinlogo.png`,
+        width: 512,
+        height: 512,
         type: 'image/png',
-        alt: 'Zeneva Retail Operating System',
+        alt: 'Pinnacle Academia Logo',
       },
     ],
     locale: 'en_US',
@@ -81,10 +80,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Zeneva - Global Retail OS & POS Platform',
-    description: 'Transform your retail operations with Zeneva. Inventory, analytics, and global payments in one unified platform.',
-    images: [`${siteUrl}/zeneva-og-image.png?v=5`],
-    creator: '@zeneva_retail',
+    title: 'Pinnacle Academia - Igniting Minds, Achieving Excellence',
+    description: 'Join Pinnacle Academia for top-tier tutorials (JAMB, WAEC, SAT, IELTS), exam registrations, and tertiary admission counseling.',
+    images: [`${siteUrl}/pinlogo.png`],
+    creator: '@pinnacle_academia',
   },
   alternates: {
     canonical: siteUrl,
