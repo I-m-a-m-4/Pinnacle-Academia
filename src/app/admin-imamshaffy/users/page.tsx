@@ -362,6 +362,8 @@ export default function UsersPage() {
           businessId={currentUser.businessId}
           businessName={businessInstance?.name || ''}
           inviterName={currentUser.name}
+          currentUserCount={users?.length || 0}
+          pendingInvitationCount={invitations?.length || 0}
         />
       )}
 

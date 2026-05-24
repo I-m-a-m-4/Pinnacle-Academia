@@ -4,7 +4,7 @@ import type { NextRequest } from "next/server";
 export function middleware(req: NextRequest) {
     const url = req.nextUrl;
 
-    // Get hostname (e.g. zeneva.space, shop.zeneva.space, localhost:3000)
+    // Get hostname (e.g. pinnacle-academia.com, shop.pinnacle-academia.com, localhost:3000)
     const hostname = req.headers.get("host") || "";
 
     // Remove port if present
@@ -13,17 +13,17 @@ export function middleware(req: NextRequest) {
     // Define restricted subdomains that should NOT be rewritten to /store
     const restrictedSubdomains = ["www", "app", "localhost"];
 
-    // Logic for zeneva.space subdomains
-    if (domain.endsWith(".zeneva.space") && domain !== "zeneva.space") {
-        const subdomain = domain.replace(".zeneva.space", "");
+    // Logic for pinnacle-academia.com subdomains
+    if (domain.endsWith(".pinnacle-academia.com") && domain !== "pinnacle-academia.com") {
+        const subdomain = domain.replace(".pinnacle-academia.com", "");
 
-        // If it's a restricted subdomain (like www.zeneva.space), let it pass through (don't rewrite to store)
+        // If it's a restricted subdomain (like www.pinnacle-academia.com), let it pass through (don't rewrite to store)
         if (restrictedSubdomains.includes(subdomain)) {
             return NextResponse.next();
         }
 
         // Rewrite to the store path
-        // e.g. zeneva-shop.zeneva.space/cart -> zeneva.space/store/zeneva-shop/cart
+        // e.g. shop.pinnacle-academia.com/cart -> pinnacle-academia.com/store/shop/cart
         console.log(`[Middleware] Rewriting subdomain ${subdomain} to /store/${subdomain}`);
         url.pathname = `/store/${subdomain}${url.pathname}`;
         return NextResponse.rewrite(url);

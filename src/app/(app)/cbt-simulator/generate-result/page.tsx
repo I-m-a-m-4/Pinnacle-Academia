@@ -84,8 +84,8 @@ function ReviewPageContent() {
             if (!isService && (!productFromCache || (productFromCache.stock || 0) < cartItem.quantity)) {
                 toast({
                     variant: 'backorder' as any,
-                    title: 'Backorder Sale',
-                    description: `This sale will record a debt as there is insufficient stock for ${cartItem.product.name}.`
+                    title: 'Offline Simulation Mode',
+                    description: `This simulation will register offline mode for ${cartItem.product.name}.`
                 });
             }
         }
@@ -109,8 +109,8 @@ function ReviewPageContent() {
             if (isOutsideHours && operatingHours.preventSalesOutsideHours && !isAdmin) {
                 toast({
                     variant: 'destructive',
-                    title: 'Operating Hours Violation',
-                    description: `Sales are not allowed outside of operating hours (${operatingHours.openTime} - ${operatingHours.closeTime}).`
+                    title: 'Simulator Hours Violation',
+                    description: `Simulations are not allowed outside of active hours (${operatingHours.openTime} - ${operatingHours.closeTime}).`
                 });
                 return;
             }
@@ -208,7 +208,7 @@ function ReviewPageContent() {
                 productUpdates,
                 customerUpdate
             }
-        }, `Recording Sale: ${receiptData.receiptNumber}`);
+        }, `Starting Simulation: ${receiptData.receiptNumber}`);
 
         // 4. Handle Email Receipt (Try sending immediately if online)
         if (navigator.onLine && shouldSendEmail && selectedCustomer?.email) {
@@ -250,7 +250,7 @@ function ReviewPageContent() {
             setTimeout(() => {
                 const handleAfterPrint = () => {
                     window.removeEventListener('afterprint', handleAfterPrint);
-                    router.push('/sales/pos/select-products');
+                    router.push('/cbt-simulator/select-subjects');
                     resetPOS();
                 };
                 window.addEventListener('afterprint', handleAfterPrint);
@@ -272,20 +272,20 @@ function ReviewPageContent() {
                     window.removeEventListener('afterprint', handleAfterPrint);
                     // Check if we haven't already navigated (resetPOS clears cart)
                     if (cart.length > 0) {
-                       router.push('/sales/pos/select-products');
+                       router.push('/cbt-simulator/select-subjects');
                        resetPOS();
                     }
                 }, isMobile ? 1500 : 3000); // 1.5s on mobile, 3s on desktop fallback instead of 60s
             }, 500);
         } else if (!autoPrint) {
-            router.push('/sales/pos/select-products');
+            router.push('/cbt-simulator/select-subjects');
             resetPOS();
         }
 
         toast({
             variant: navigator.onLine ? 'success' : 'default',
-            title: navigator.onLine ? "Sale Recorded" : "Sale Queued (Offline)",
-            description: navigator.onLine ? `Receipt ${receiptData.receiptNumber} generated.` : "Success! This sale is saved locally and will sync to the cloud automatically.",
+            title: navigator.onLine ? "Simulation Started" : "Simulation Queued (Offline)",
+            description: navigator.onLine ? `Examination Slip ${receiptData.receiptNumber} generated.` : "Success! This simulation is registered locally and will sync to the cloud automatically.",
         });
         
         // Note: We don't set isCompleting(false) here if redirect is happening
@@ -313,7 +313,7 @@ function ReviewPageContent() {
         return (
             <div className="flex flex-col items-center justify-center p-12 space-y-4">
                 <Loader2 className="h-8 w-8 animate-spin text-primary" />
-                <p className="text-muted-foreground animate-pulse">Initializing checkout...</p>
+                <p className="text-muted-foreground animate-pulse">Preparing simulator...</p>
             </div>
         );
     }
@@ -321,9 +321,9 @@ function ReviewPageContent() {
     if (cart.length === 0 && !isCompleting) {
         return (
             <div className="text-center">
-                <p>Your cart is empty.</p>
+                <p>Selected subjects list is empty.</p>
                 <Button asChild variant="link">
-                    <Link href="/sales/pos/select-products">Start a new sale</Link>
+                    <Link href="/cbt-simulator/select-subjects">Start a new simulation</Link>
                 </Button>
             </div>
         )
@@ -332,14 +332,14 @@ function ReviewPageContent() {
     return (
         <div className="grid md:grid-cols-3 gap-8">
             <div className="md:col-span-2">
-                <h2 className="text-2xl font-bold mb-4 font-headline no-print">Review Your Sale</h2>
+                <h2 className="text-2xl font-bold mb-4 font-headline no-print">Review Exam Slip</h2>
                 <ReceiptDetails ref={receiptContentRef} receipt={displayReceipt} business={business} currencySymbol={currencySymbol} />
             </div>
             <div className="no-print">
                 <div className="p-4 rounded-lg bg-card border space-y-4">
-                    <h3 className="text-lg font-semibold">Ready to Complete?</h3>
+                    <h3 className="text-lg font-semibold">Ready to Begin?</h3>
                     <p className="text-sm text-muted-foreground">
-                        This will finalize the sale, generate a receipt, and update your inventory. This action works offline.
+                        This will finalize your subject setup, generate an examination slip, and initiate the CBT simulator. This works offline.
                     </p>
 
                     {isAdmin && (
@@ -347,9 +347,9 @@ function ReviewPageContent() {
                             <Separator />
                             <div className="flex flex-col gap-2 py-2">
                                 <Label htmlFor="backdate" className="text-sm font-semibold flex flex-col gap-1 cursor-pointer">
-                                    <span>Backdate Sale (Admin/Owner Only)</span>
+                                    <span>Backdate Examination (Admin/Owner Only)</span>
                                     <span className="font-normal text-muted-foreground text-xs">
-                                        Record a missed sale from a previous date. This action will be flagged in the audit log.
+                                        Record a simulated exam result from a previous date. This action will be flagged in the audit log.
                                     </span>
                                 </Label>
                                 <Input
@@ -368,7 +368,7 @@ function ReviewPageContent() {
                             <Separator />
                             <div className="flex items-center justify-between py-2">
                                 <Label htmlFor="send-email-receipt" className="flex flex-col gap-1 cursor-pointer">
-                                    <span>Email Receipt</span>
+                                    <span>Email Exam Slip</span>
                                     <span className="font-normal text-muted-foreground text-xs">
                                         Send a copy to {selectedCustomer.email}
                                     </span>
@@ -385,7 +385,7 @@ function ReviewPageContent() {
                     <Separator />
                     <div className="flex items-center justify-between py-2">
                         <Label htmlFor="auto-print" className="cursor-pointer font-medium text-sm">
-                            Print Receipt
+                            Print Examination Slip
                         </Label>
                         <input
                             type="checkbox"
@@ -399,16 +399,16 @@ function ReviewPageContent() {
                     <div className="flex flex-col gap-2 pt-2">
                         <Button size="lg" className="w-full text-lg h-12 shadow-md hover:shadow-lg transition-all" onClick={handleCompleteSale} disabled={isCompleting}>
                             {isCompleting && <Loader2 className="mr-2 h-5 w-5 animate-spin" />}
-                            {isCompleting ? 'Finalizing...' : (paymentMethod === 'Invoice' ? 'Issue Professional Invoice' : 'Complete Sale')}
+                            {isCompleting ? 'Preparing Exam...' : (paymentMethod === 'Invoice' ? 'Start Offline Exam' : 'Start Examination')}
                         </Button>
                         <Button size="lg" className="w-full h-12" variant="outline" onClick={() => {
                             holdCurrentSale();
-                            router.push('/sales/pos/select-products');
+                            router.push('/cbt-simulator/select-subjects');
                         }} disabled={isCompleting}>
-                            Park Sale
+                            Park Setup
                         </Button>
                         <Button size="lg" className="w-full" variant="outline" asChild>
-                            <Link href="/sales/pos/payment">Back to Payment</Link>
+                            <Link href="/cbt-simulator/exam-mode">Back to Mode Settings</Link>
                         </Button>
                     </div>
                 </div>
@@ -422,7 +422,7 @@ export default function ReviewPage() {
         <React.Suspense fallback={
             <div className="flex flex-col items-center justify-center p-12 space-y-4">
                 <Loader2 className="h-8 w-8 animate-spin text-primary" />
-                <p className="text-muted-foreground animate-pulse">Initializing checkout...</p>
+                <p className="text-muted-foreground animate-pulse">Preparing simulator...</p>
             </div>
         }>
             <ReviewPageContent />

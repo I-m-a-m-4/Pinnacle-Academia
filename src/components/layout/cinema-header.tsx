@@ -72,11 +72,10 @@ export default function CinemaHeader({ threshold = 50 }: { threshold?: number })
             <div className="transition-all duration-300">
                 <img 
                     src={AppConfig.logoUrl} 
-                    alt="Zeneva Logo" 
+                    alt="Pinnacle Academia Logo" 
                     className={cn(
                         "w-auto transition-all duration-300",
-                        scrolled ? "h-14" : "h-16",
-                        !scrolled && "[filter:invert(41%)_sepia(85%)_saturate(3062%)_hue-rotate(4deg)_brightness(101%)_contrast(101%)]"
+                        scrolled ? "h-14" : "h-16"
                     )} 
                 />
             </div>
@@ -125,8 +124,8 @@ export default function CinemaHeader({ threshold = 50 }: { threshold?: number })
                 <div className="p-6 flex items-center justify-between border-b border-dashed border-slate-200">
                     <img 
                         src={AppConfig.logoUrl} 
-                        alt="Zeneva Logo" 
-                        className="h-8 w-auto [filter:invert(41%)_sepia(85%)_saturate(3062%)_hue-rotate(4deg)_brightness(101%)_contrast(101%)]" 
+                        alt="Pinnacle Academia Logo" 
+                        className="h-8 w-auto" 
                     />
                     <button 
                         onClick={() => setIsMenuOpen(false)}
@@ -161,7 +160,7 @@ export default function CinemaHeader({ threshold = 50 }: { threshold?: number })
                         {mounted && user ? (
                             <>
                                 <Link 
-                                    href="/sales/pos/select-products"
+                                    href="/cbt-simulator/select-subjects"
                                     onClick={() => setIsMenuOpen(false)}
                                     className="w-full text-center hover:bg-[#0f172a] transition-colors text-xs font-bold text-white tracking-[0.2em] font-dm-sans bg-[#1e293b] rounded-md py-4 shadow-sm uppercase"
                                 >

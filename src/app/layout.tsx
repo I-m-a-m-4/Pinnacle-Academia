@@ -94,34 +94,20 @@ const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
     {
-      '@type': 'Organization',
+      '@type': 'EducationalOrganization',
       '@id': `${siteUrl}/#organization`,
-      name: 'Zeneva',
+      name: 'Pinnacle Academia',
       url: siteUrl,
-      logo: `${siteUrl}/zeneva-og-image.png?v=5`,
+      logo: `${siteUrl}/pinlogo.png`,
       sameAs: [
-        'https://x.com/zeneva_retail',
-        'https://www.instagram.com/zeneva_pos/',
-        'https://www.tiktok.com/@zeneva_retail',
-        'https://www.youtube.com/@ZenevaPos'
+        'https://share.google/zSJOsFEcwRPpem4A2'
       ]
     },
     {
-      '@type': 'SoftwareApplication',
-      name: 'Zeneva',
-      applicationCategory: 'BusinessApplication',
-      operatingSystem: 'Web, Android, iOS, Windows, macOS, Linux',
-      offers: {
-        '@type': 'Offer',
-        price: '0',
-        priceCurrency: 'NGN',
-        description: 'Starter plan is free forever. Paid plans start at ₦10,000/month.'
-      },
-      aggregateRating: {
-        '@type': 'AggregateRating',
-        ratingValue: '4.9',
-        ratingCount: '156'
-      }
+      '@type': 'WebSite',
+      name: 'Pinnacle Academia',
+      url: siteUrl,
+      description: 'A vibrant academic community driving excellence through online and physical tutorials, exam registration, and admission processing.'
     },
     {
       '@type': 'BreadcrumbList',

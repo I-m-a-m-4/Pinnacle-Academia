@@ -55,7 +55,7 @@ export default function ForgotPasswordPage() {
         <div className="mx-auto grid w-full max-w-[350px] gap-6">
           <div className="grid gap-2 text-center">
             <Link href="/" className="flex items-center justify-center gap-2 mb-4">
-              <img src={AppConfig.logoUrl} alt="Zeneva Logo" className="h-16 w-auto" />
+              <img src={AppConfig.logoUrl} alt="Pinnacle Academia Logo" className="h-16 w-auto" />
             </Link>
             <h1 className="text-3xl font-bold">Forgot Password</h1>
             <p className="text-balance text-muted-foreground">
@@ -122,8 +122,8 @@ export default function ForgotPasswordPage() {
       </div>
       <div className="hidden bg-slate-900 lg:block relative overflow-hidden">
         <Image
-          src="/zeneva-forgot-password-premium.png"
-          alt="Tactical Intelligence Background"
+          src="/assets/login_cbt.png"
+          alt="Secure Exam Lab Background"
           width="1920"
           height="1080"
           className="h-full w-full object-cover opacity-90 transition-transform [transition-duration:20s] hover:scale-110"
@@ -138,11 +138,11 @@ export default function ForgotPasswordPage() {
           >
             <h2 className="text-white text-5xl font-medium tracking-tighter font-display">Security First.</h2>
             <p className="text-white/60 mt-6 text-xl font-dm-sans leading-relaxed max-w-lg">
-              Protecting your business data is our primary mission. Follow the reset instructions sent to your email to regain secure access to your Command Center.
+              Protecting your academic data and progress is our primary mission. Follow the reset instructions sent to your email to regain secure access to your Student Portal.
             </p>
             <div className="mt-8 flex items-center gap-3 text-orange-500 text-sm font-bold uppercase tracking-[0.2em] bg-orange-500/10 w-fit px-4 py-2 rounded-full border border-orange-500/20">
                <ShieldCheck className="h-5 w-5" />
-               Tactical Vault Locked
+               Student Account Secured
             </div>
           </motion.div>
         </div>

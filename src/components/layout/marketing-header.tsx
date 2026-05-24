@@ -88,7 +88,7 @@ export default function MarketingHeader() {
             <div className="hidden sm:flex items-center gap-4">
               {mounted && user ? (
                 <>
-                  <Link href="/sales/pos/select-products" className="hover:bg-[#0f172a] transition-colors text-sm font-medium text-white tracking-tight font-dm-sans bg-[#1e293b] rounded-md pt-2.5 pr-5 pb-2.5 pl-5 shadow-sm">Student Portal</Link>
+                  <Link href="/cbt-simulator/select-subjects" className="hover:bg-[#0f172a] transition-colors text-sm font-medium text-white tracking-tight font-dm-sans bg-[#1e293b] rounded-md pt-2.5 pr-5 pb-2.5 pl-5 shadow-sm">Student Portal</Link>
                   <Button onClick={handleLogout} variant="outline" size="sm">
                     <LogOut className="mr-2 h-4 w-4" />
                     Logout
@@ -136,7 +136,7 @@ export default function MarketingHeader() {
           <div className="mt-8 flex flex-col gap-4">
             {mounted && user ? (
               <>
-                <Link href="/sales/pos/select-products" onClick={() => setIsMobileMenuOpen(false)} className="w-full text-center hover:bg-[#0f172a] transition-colors text-base font-medium text-white tracking-tight font-dm-sans bg-[#1e293b] rounded-md py-3 px-5 shadow-sm">Student Portal</Link>
+                <Link href="/cbt-simulator/select-subjects" onClick={() => setIsMobileMenuOpen(false)} className="w-full text-center hover:bg-[#0f172a] transition-colors text-base font-medium text-white tracking-tight font-dm-sans bg-[#1e293b] rounded-md py-3 px-5 shadow-sm">Student Portal</Link>
                 <Button onClick={() => { handleLogout(); setIsMobileMenuOpen(false); }} variant="outline" size="lg">
                   <LogOut className="mr-2 h-4 w-4" />
                   Logout

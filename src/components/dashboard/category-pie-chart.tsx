@@ -54,19 +54,19 @@ export default function CategoryPieChart({ products }: CategoryPieChartProps) {
 
   const noData = chartData.length === 0;
 
-  return (
+    return (
     <Card className="flex flex-col shadow-md transition-all duration-300 hover:-translate-y-1 hover:scale-105 cursor-pointer">
       <CardHeader>
-        <CardTitle>Inventory by Category</CardTitle>
-        <CardDescription>Distribution of your total stock across categories.</CardDescription>
+        <CardTitle>Syllabus by Subject</CardTitle>
+        <CardDescription>Topics distribution across subject syllabi.</CardDescription>
       </CardHeader>
       <CardContent className="flex-1 pb-0">
         {noData ? (
           <div className="h-[250px] flex flex-col items-center justify-center text-center text-muted-foreground">
             <PieChartIcon className="h-16 w-16 opacity-50 mb-4" />
             <div className="text-sm p-2 rounded-md bg-muted/50 max-w-sm">
-              <p className="font-semibold flex items-center gap-2 justify-center"><Bot className="h-4 w-4 text-primary" /> Zen AI</p>
-              <p>Add products with categories to see your stock distribution here.</p>
+              <p className="font-semibold flex items-center gap-2 justify-center"><Bot className="h-4 w-4 text-primary" /> AI Analyst</p>
+              <p>Add subjects with topics to see your syllabus distribution here.</p>
             </div>
           </div>
         ) : (
@@ -95,10 +95,10 @@ export default function CategoryPieChart({ products }: CategoryPieChartProps) {
       </CardContent>
       <CardFooter className="flex-col gap-2 text-sm">
         <div className="flex items-center gap-2 font-medium leading-none">
-          Total Items: {totalItems.toLocaleString()}
+          Total Topics: {totalItems.toLocaleString()}
         </div>
         <div className="leading-none text-muted-foreground">
-          Showing distribution of all items in stock.
+          Showing topic distribution of all active subjects.
         </div>
       </CardFooter>
     </Card>

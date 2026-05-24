@@ -31,6 +31,13 @@ export interface Product {
         multiplier: number; // e.g., 24
         price?: number; // Optional override price for this UoM
     }[];
+    questions?: {
+        id: string;
+        questionText: string;
+        options: string[];
+        correctAnswer: 'A' | 'B' | 'C' | 'D';
+        explanation?: string;
+    }[];
 }
 export type InventoryItem = Product;
 export interface CartItem {

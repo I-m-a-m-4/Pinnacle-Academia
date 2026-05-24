@@ -423,7 +423,7 @@ export function POSProvider({ children }: { children: ReactNode }) {
   const { data: onlineOrders } = useCollection<OnlineOrder>(onlineOrdersQuery);
 
   const products = useMemo(() => {
-    if (initialProducts === null && syncedProducts.length === 0 && isRealOnline && !!businessId) return null;
+    if (initialProducts === null && syncedProducts.length === 0 && isRealOnline && !!businessId && isFullSyncingProducts) return null;
     let merged = [...(initialProducts || [])];
     const existingIds = new Set(merged.map(p => p.id));
     syncedProducts.forEach(p => { if (!existingIds.has(p.id)) merged.push(p); else { const idx = merged.findIndex(m => m.id === p.id); if (idx !== -1) merged[idx] = p; } });

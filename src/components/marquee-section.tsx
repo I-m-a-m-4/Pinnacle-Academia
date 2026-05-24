@@ -1,72 +1,67 @@
 import React from 'react';
 import {
-    Package,
-    BarChart3,
-    Users,
+    Monitor,
     FileText,
-    Tag,
-    Globe,
-    CreditCard,
-    TrendingUp,
-    WifiOff,
-    ShieldCheck,
-    Smartphone,
-    Printer,
-    ScanBarcode
+    Check,
+    Users,
+    Calendar,
+    Calculator,
+    Bell,
+    Video,
+    BookOpen,
+    Database,
+    Trophy,
+    Award
 } from 'lucide-react';
 
 const MARQUEE_ITEMS = [
     {
-        label: "Smart Inventory",
-        icon: <Package className="w-6 h-6 text-slate-700" />
+        label: "CBT Exam Simulator",
+        icon: <Monitor className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Advanced Analytics",
-        icon: <BarChart3 className="w-6 h-6 text-slate-700" />
-    },
-    {
-        label: "Staff Accounts",
-        icon: <Users className="w-6 h-6 text-slate-700" />
-    },
-    {
-        label: "Invoices & Receipts",
+        label: "Verified News Feed",
         icon: <FileText className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Discounts & Promos",
-        icon: <Tag className="w-6 h-6 text-slate-700" />
+        label: "Syllabus Checklist Tracker",
+        icon: <Check className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Online Storefront",
-        icon: <Globe className="w-6 h-6 text-slate-700" />
+        label: "Nairaland-Style Forums",
+        icon: <Users className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Instant Payments",
-        icon: <CreditCard className="w-6 h-6 text-slate-700" />
+        label: "1-on-1 Mentorship Booking",
+        icon: <Calendar className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Profit Analysis",
-        icon: <TrendingUp className="w-6 h-6 text-slate-700" />
+        label: "Aggregate Calculator",
+        icon: <Calculator className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Offline Mode",
-        icon: <WifiOff className="w-6 h-6 text-slate-700" />
+        label: "Scholarship Alerts",
+        icon: <Bell className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Audit Logs",
-        icon: <ShieldCheck className="w-6 h-6 text-slate-700" />
+        label: "Interactive Online Classes",
+        icon: <Video className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Mobile POS",
-        icon: <Smartphone className="w-6 h-6 text-slate-700" />
+        label: "Physical Center Tutorials",
+        icon: <BookOpen className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Barcode Scanning",
-        icon: <ScanBarcode className="w-6 h-6 text-slate-700" />
+        label: "Past Questions Library",
+        icon: <Database className="w-6 h-6 text-slate-700" />
     },
     {
-        label: "Receipt Printing",
-        icon: <Printer className="w-6 h-6 text-slate-700" />
+        label: "UTME Mock Exams",
+        icon: <Trophy className="w-6 h-6 text-slate-700" />
+    },
+    {
+        label: "Admission Advisory",
+        icon: <Award className="w-6 h-6 text-slate-700" />
     }
 ];
 

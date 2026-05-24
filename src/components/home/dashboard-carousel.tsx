@@ -5,12 +5,12 @@ import { useState } from 'react';
 import Image from 'next/image';
 
 const slides = [
-    { src: "/herolytics.svg", alt: "Zeneva Dashboard View", label: "Dashboard" },
-    { src: "/poslytics.svg", alt: "Zeneva POS View", label: "POS Page" },
-    { src: "/inventory.svg", alt: "Zeneva Inventory View", label: "Inventory Page" },
-    { src: "/loglytics.svg", alt: "Audit Log", label: "Audit Log" },
-    { src: "/storelytics.svg", alt: "Storefront Page", label: "Storefront" },
-    { src: "/reportlytics.svg", alt: "Reports Page", label: "Advanced Report" }
+    { src: "/pinnacle_dashboard.png", alt: "Pinnacle Student Dashboard View", label: "Student Dashboard" },
+    { src: "/cbt_mockup.png", alt: "Pinnacle CBT Simulator View", label: "CBT Simulator" },
+    { src: "/syllabus_mockup.png", alt: "Pinnacle Syllabus Tracker View", label: "Syllabus Tracker" },
+    { src: "/news_mockup.png", alt: "Pinnacle Verified News Hub View", label: "Verified News" },
+    { src: "/forum_mockup.png", alt: "Pinnacle Community Forums View", label: "Community Forum" },
+    { src: "/academic_payments.png", alt: "Pinnacle Tuition Payments View", label: "Tuition Payments" }
 ];
 
 export function DashboardCarousel() {

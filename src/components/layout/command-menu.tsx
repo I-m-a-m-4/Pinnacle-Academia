@@ -21,11 +21,11 @@ interface CommandMenuProps {
 
 const navLinks = [
     { href: '/dashboard', label: 'Dashboard', icon: Home, roles: ['admin', 'manager', 'vendor_operator'] },
-    { href: '/inventory', label: 'Inventory', icon: Package, roles: ['admin', 'manager', 'vendor_operator'] },
-    { href: '/sales/pos/select-products', label: 'Point of Sale', icon: ShoppingCart, roles: ['admin', 'manager', 'vendor_operator'] },
+    { href: '/inventory', label: 'Syllabus Tracker', icon: Package, roles: ['admin', 'manager', 'vendor_operator'] },
+    { href: '/cbt-simulator/select-subjects', label: 'CBT Exam Simulator', icon: ShoppingCart, roles: ['admin', 'manager', 'vendor_operator'] },
     { href: '/users', label: 'Users & Staff', icon: Users, roles: ['admin'] },
-    { href: '/customers', label: 'Customers', icon: Users, roles: ['admin', 'manager', 'vendor_operator'] },
-    { href: '/receipts', label: 'Receipts', icon: FileText, roles: ['admin', 'manager'] },
+    { href: '/customers', label: 'Peers & Mentors', icon: Users, roles: ['admin', 'manager', 'vendor_operator'] },
+    { href: '/receipts', label: 'Admission Calculator', icon: FileText, roles: ['admin', 'manager'] },
     { href: '/inventory/troubleshoot', label: 'AI Troubleshoot', icon: Bot, roles: ['admin', 'manager'] },
     { href: '/billing', label: 'Billing', icon: CreditCard, roles: ['admin'] },
     { href: '/settings', label: 'Settings', icon: Settings, roles: ['admin'] },

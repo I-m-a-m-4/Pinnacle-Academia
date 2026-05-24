@@ -205,9 +205,9 @@ export default function InvoicesPage() {
                         <div className="flex flex-col items-center justify-center py-20 text-center border-2 border-dashed rounded-lg bg-muted/20">
                             <Inbox className="h-12 w-12 text-muted-foreground/30 mb-4" />
                             <h3 className="text-xl font-semibold">No Invoices Found</h3>
-                            <p className="text-muted-foreground mt-1 max-w-sm">Complete a sale in the POS to generate your first invoice.</p>
+                            <p className="text-muted-foreground mt-1 max-w-sm">Run a CBT simulation and select offline mode to generate your first invoice.</p>
                             <Button asChild className="mt-6">
-                                <Link href="/sales/pos/select-products">Go to POS</Link>
+                                <Link href="/cbt-simulator/select-subjects">Go to Simulator</Link>
                             </Button>
                         </div>
                     )}

@@ -73,6 +73,10 @@ import { logAuditEvent } from '@/lib/audit';
 import { BarcodeScanner } from '@/components/inventory/barcode-scanner';
 import { cn } from '@/lib/utils';
 import { Combobox } from '@/components/ui/combobox';
+import Papa from 'papaparse';
+
+import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
+import { UploadCloud, FileSpreadsheet, CheckCircle2 as CheckCircleIcon } from "lucide-react";
 
 const productSchema = z.object({
     name: z.string().min(3, "Product name must be at least 3 characters."),
@@ -96,9 +100,77 @@ const productSchema = z.object({
         productId: z.string().min(1, "Product required"),
         quantity: z.coerce.number().min(1, "Quantity required")
     })).optional(),
+    questions: z.array(z.object({
+        id: z.string(),
+        questionText: z.string(),
+        options: z.array(z.string()),
+        correctAnswer: z.enum(['A', 'B', 'C', 'D']),
+        explanation: z.string().optional(),
+    })).optional(),
 });
 
 type ProductFormValues = z.infer<typeof productSchema>;
+
+const parseQuestionsCSV = (file: File): Promise<any[]> => {
+    return new Promise((resolve, reject) => {
+        Papa.parse(file, {
+            header: true,
+            skipEmptyLines: true,
+            complete: (results) => {
+                const headers = results.meta.fields || [];
+                const lowerCaseHeaders = headers.map(h => h.toLowerCase().trim());
+                
+                const findHeader = (possibleNames: string[]): string | undefined => {
+                    for (const name of possibleNames) {
+                        const index = lowerCaseHeaders.indexOf(name.toLowerCase());
+                        if (index !== -1) return headers[index];
+                    }
+                    return undefined;
+                };
+
+                const hQuestion = findHeader(['question', 'questiontext', 'text', 'body', 'question_text', 'question text']);
+                const hA = findHeader(['a', 'option a', 'option_a', 'choice a', 'choice_a', 'option1', 'option_1']);
+                const hB = findHeader(['b', 'option b', 'option_b', 'choice b', 'choice_b', 'option2', 'option_2']);
+                const hC = findHeader(['c', 'option c', 'option_c', 'choice c', 'choice_c', 'option3', 'option_3']);
+                const hD = findHeader(['d', 'option d', 'option_d', 'choice d', 'choice_d', 'option4', 'option_4']);
+                const hAnswer = findHeader(['answer', 'correct', 'correctanswer', 'correct_answer', 'key', 'correct option']);
+                const hExplanation = findHeader(['explanation', 'explain', 'reason', 'solution']);
+
+                if (!hQuestion || !hA || !hB || !hC || !hD || !hAnswer) {
+                    reject(new Error("CSV must contain columns for Question, Option A, Option B, Option C, Option D, and Correct Answer."));
+                    return;
+                }
+
+                const questionsList = results.data.map((row: any) => {
+                    let ans = String(row[hAnswer] || '').trim().toUpperCase();
+                    if (ans.startsWith('A') || ans === '1') ans = 'A';
+                    else if (ans.startsWith('B') || ans === '2') ans = 'B';
+                    else if (ans.startsWith('C') || ans === '3') ans = 'C';
+                    else if (ans.startsWith('D') || ans === '4') ans = 'D';
+                    else ans = 'A';
+
+                    return {
+                        id: crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).substring(2, 11),
+                        questionText: String(row[hQuestion] || '').trim(),
+                        options: [
+                            String(row[hA] || '').trim(),
+                            String(row[hB] || '').trim(),
+                            String(row[hC] || '').trim(),
+                            String(row[hD] || '').trim()
+                        ],
+                        correctAnswer: ans as 'A' | 'B' | 'C' | 'D',
+                        explanation: hExplanation ? String(row[hExplanation] || '').trim() : ''
+                    };
+                }).filter(q => q.questionText.length > 0);
+
+                resolve(questionsList);
+            },
+            error: (err) => {
+                reject(err);
+            }
+        });
+    });
+};
 
 function useCurrentUserProfile() {
     const { user } = useUser();
@@ -250,6 +322,7 @@ function EditProductContent() {
             baseUnit: "Piece",
             uomConversions: [],
             components: [],
+            questions: [],
         },
     });
 
@@ -265,6 +338,55 @@ function EditProductContent() {
 
     const productType = form.watch("type");
     const categoryType = form.watch("categoryType");
+
+    const { fields: questionFields, append: appendQuestion, remove: removeQuestion } = useFieldArray({
+        control: form.control,
+        name: "questions"
+    });
+
+    const [questionSearch, setQuestionSearch] = React.useState("");
+    const [isCsvParsing, setIsCsvParsing] = React.useState(false);
+
+    const watchedQuestions = form.watch("questions") || [];
+    const filteredQuestions = React.useMemo(() => {
+        return watchedQuestions.map((q, idx) => ({ q, idx })).filter(item => {
+            return (item.q?.questionText || "").toLowerCase().includes(questionSearch.toLowerCase());
+        });
+    }, [watchedQuestions, questionSearch]);
+
+    const handleCSVUpload = async (event: React.ChangeEvent<HTMLInputElement>) => {
+        const file = event.target.files?.[0];
+        if (!file) return;
+
+        setIsCsvParsing(true);
+        try {
+            const parsedQuestions = await parseQuestionsCSV(file);
+            if (parsedQuestions.length === 0) {
+                toast({
+                    variant: 'destructive',
+                    title: 'Empty CSV',
+                    description: 'No valid questions found in the CSV.'
+                });
+                return;
+            }
+            form.setValue('questions', parsedQuestions, { shouldDirty: true, shouldValidate: true });
+            toast({
+                variant: 'success',
+                title: 'Import Successful',
+                description: `Successfully loaded ${parsedQuestions.length} questions.`
+            });
+        } catch (err: any) {
+            console.error(err);
+            toast({
+                variant: 'destructive',
+                title: 'Parse Failed',
+                description: err.message || 'Failed to parse CSV file.'
+            });
+        } finally {
+            setIsCsvParsing(false);
+            event.target.value = '';
+        }
+    };
 
 
     React.useEffect(() => {
@@ -440,295 +562,515 @@ function EditProductContent() {
                 </div>
                 <div className="grid gap-4 md:grid-cols-[1fr_250px] lg:grid-cols-3 lg:gap-8">
                     <div className="grid auto-rows-max items-start gap-4 lg:col-span-2 lg:gap-8">
-                        <Card>
-                            <CardHeader>
-                                <CardTitle>{categoryType === 'service' ? 'Service' : 'Product'} Details</CardTitle>
-                                <CardDescription>
-                                    Update the core details for your {categoryType === 'service' ? 'service' : 'product'}.
-                                </CardDescription>
-                            </CardHeader>
-                            <CardContent>
-                                <div className="grid gap-6">
-                                    <FormField
-                                        control={form.control}
-                                        name="name"
-                                        render={({ field }) => (
-                                            <FormItem>
-                                                <FormLabel>Name</FormLabel>
-                                                <FormControl>
-                                                    <Input placeholder="e.g. Quantum HD Monitor" {...field} disabled={!canManageProduct} />
-                                                </FormControl>
-                                                <FormMessage />
-                                            </FormItem>
-                                        )}
-                                    />
-                                    <FormField
-                                        control={form.control}
-                                        name="description"
-                                        render={({ field }) => (
-                                            <FormItem>
-                                                <FormLabel>Description</FormLabel>
-                                                <FormControl>
-                                                    <Textarea placeholder="A detailed description of the product." className="min-h-32" {...field} disabled={!canManageProduct} />
-                                                </FormControl>
-                                                <FormMessage />
-                                            </FormItem>
-                                        )}
-                                    />
-                                </div>
-                            </CardContent>
-                        </Card>
-
-                        {categoryType === 'product' && (
-                            <Card>
-                                <CardHeader>
-                                    <CardTitle>Inventory Configuration</CardTitle>
-                                    <CardDescription>Configure how this item is organized and sold.</CardDescription>
-                                </CardHeader>
-                                <CardContent className="space-y-6">
-                                    <FormField
-                                        control={form.control}
-                                        name="type"
-                                        render={({ field }) => (
-                                            <FormItem className="space-y-3">
-                                                <FormLabel>Product Type</FormLabel>
-                                                <FormControl>
-                                                    <RadioGroup
-                                                        onValueChange={field.onChange}
-                                                        defaultValue={field.value}
-                                                        className="flex flex-col sm:flex-row gap-4"
-                                                        disabled={!canManageProduct}
-                                                    >
-                                                        <FormItem className="flex items-center space-x-3 space-y-0">
-                                                            <FormControl>
-                                                                <RadioGroupItem value="single" />
-                                                            </FormControl>
-                                                            <FormLabel className="font-normal">Standard Item</FormLabel>
-                                                        </FormItem>
-                                                        <FormItem className="flex items-center space-x-3 space-y-0">
-                                                            <FormControl>
-                                                                <RadioGroupItem value="composite" />
-                                                            </FormControl>
-                                                            <FormLabel className="font-normal">Composite (Bundle)</FormLabel>
-                                                        </FormItem>
-                                                    </RadioGroup>
-                                                </FormControl>
-                                                <FormDescription>
-                                                    {productType === 'composite' ? "This item is built from other products. Stock is automatically managed." : "Standard individual product with its own stock."}
-                                                </FormDescription>
-                                                <FormMessage />
-                                            </FormItem>
-                                        )}
-                                    />
-
-                                    <Separator />
-
-                                    <div className="space-y-4">
-                                        <div className="flex items-center justify-between">
-                                            <FormLabel>Units of Measure (UoM)</FormLabel>
-                                            <Button type="button" variant="outline" size="sm" onClick={() => appendUom({ unitName: "", multiplier: 1 })} disabled={!canManageProduct}>
-                                                <Plus className="h-4 w-4 mr-2" /> Add UoM
-                                            </Button>
-                                        </div>
-
-                                        <div className="grid gap-4 sm:grid-cols-2">
+                        <Tabs defaultValue="details" className="w-full">
+                            <TabsList className="grid w-full grid-cols-2">
+                                <TabsTrigger value="details">Subject Details</TabsTrigger>
+                                <TabsTrigger value="questions" className="relative">
+                                    CBT Questions Bank
+                                    {watchedQuestions.length > 0 && (
+                                        <Badge variant="secondary" className="ml-2 bg-primary/10 text-primary hover:bg-primary/20 border-none">
+                                            {watchedQuestions.length}
+                                        </Badge>
+                                    )}
+                                </TabsTrigger>
+                            </TabsList>
+                            
+                            <TabsContent value="details" className="space-y-4 lg:space-y-8 mt-4 animate-in fade-in-50 duration-200">
+                                <Card>
+                                    <CardHeader>
+                                        <CardTitle>{categoryType === 'service' ? 'Service' : 'Product'} Details</CardTitle>
+                                        <CardDescription>
+                                            Update the core details for your {categoryType === 'service' ? 'service' : 'product'}.
+                                        </CardDescription>
+                                    </CardHeader>
+                                    <CardContent>
+                                        <div className="grid gap-6">
                                             <FormField
                                                 control={form.control}
-                                                name="baseUnit"
+                                                name="name"
                                                 render={({ field }) => (
                                                     <FormItem>
-                                                        <FormLabel className="text-xs">Base Unit</FormLabel>
+                                                        <FormLabel>Name</FormLabel>
                                                         <FormControl>
-                                                            <Input placeholder="e.g. Piece" {...field} disabled={!canManageProduct} />
+                                                            <Input placeholder="e.g. Quantum HD Monitor" {...field} disabled={!canManageProduct} />
+                                                        </FormControl>
+                                                        <FormMessage />
+                                                    </FormItem>
+                                                )}
+                                            />
+                                            <FormField
+                                                control={form.control}
+                                                name="description"
+                                                render={({ field }) => (
+                                                    <FormItem>
+                                                        <FormLabel>Description</FormLabel>
+                                                        <FormControl>
+                                                            <Textarea placeholder="A detailed description of the product." className="min-h-32" {...field} disabled={!canManageProduct} />
                                                         </FormControl>
                                                         <FormMessage />
                                                     </FormItem>
                                                 )}
                                             />
                                         </div>
+                                    </CardContent>
+                                </Card>
 
-                                        {uomFields.map((field, index) => (
-                                            <div key={field.id} className="grid grid-cols-1 sm:grid-cols-3 gap-3 items-end p-3 border rounded-lg bg-muted/30">
-                                                <FormField
-                                                    control={form.control}
-                                                    name={`uomConversions.${index}.unitName`}
-                                                    render={({ field }) => (
-                                                        <FormItem>
-                                                            <FormLabel className="text-xs">Unit Name</FormLabel>
-                                                            <FormControl><Input placeholder="e.g. Carton" {...field} disabled={!canManageProduct} /></FormControl>
-                                                            <FormMessage />
-                                                        </FormItem>
-                                                    )}
-                                                />
-                                                <FormField
-                                                    control={form.control}
-                                                    name={`uomConversions.${index}.multiplier`}
-                                                    render={({ field }) => (
-                                                        <FormItem>
-                                                            <FormLabel className="text-xs">Contains (multiplier)</FormLabel>
-                                                            <FormControl><Input type="number" {...field} disabled={!canManageProduct} /></FormControl>
-                                                            <FormMessage />
-                                                        </FormItem>
-                                                    )}
-                                                />
-                                                <div className="flex gap-2">
+                                {categoryType === 'product' && (
+                                    <Card>
+                                        <CardHeader>
+                                            <CardTitle>Inventory Configuration</CardTitle>
+                                            <CardDescription>Configure how this item is organized and sold.</CardDescription>
+                                        </CardHeader>
+                                        <CardContent className="space-y-6">
+                                            <FormField
+                                                control={form.control}
+                                                name="type"
+                                                render={({ field }) => (
+                                                    <FormItem className="space-y-3">
+                                                        <FormLabel>Product Type</FormLabel>
+                                                        <FormControl>
+                                                            <RadioGroup
+                                                                onValueChange={field.onChange}
+                                                                defaultValue={field.value}
+                                                                className="flex flex-col sm:flex-row gap-4"
+                                                                disabled={!canManageProduct}
+                                                            >
+                                                                <FormItem className="flex items-center space-x-3 space-y-0">
+                                                                    <FormControl>
+                                                                        <RadioGroupItem value="single" />
+                                                                    </FormControl>
+                                                                    <FormLabel className="font-normal">Standard Item</FormLabel>
+                                                                </FormItem>
+                                                                <FormItem className="flex items-center space-x-3 space-y-0">
+                                                                    <FormControl>
+                                                                        <RadioGroupItem value="composite" />
+                                                                    </FormControl>
+                                                                    <FormLabel className="font-normal">Composite (Bundle)</FormLabel>
+                                                                </FormItem>
+                                                            </RadioGroup>
+                                                        </FormControl>
+                                                        <FormDescription>
+                                                            {productType === 'composite' ? "This item is built from other products. Stock is automatically managed." : "Standard individual product with its own stock."}
+                                                        </FormDescription>
+                                                        <FormMessage />
+                                                    </FormItem>
+                                                )}
+                                            />
+
+                                            <Separator />
+
+                                            <div className="space-y-4">
+                                                <div className="flex items-center justify-between">
+                                                    <FormLabel>Units of Measure (UoM)</FormLabel>
+                                                    <Button type="button" variant="outline" size="sm" onClick={() => appendUom({ unitName: "", multiplier: 1 })} disabled={!canManageProduct}>
+                                                        <Plus className="h-4 w-4 mr-2" /> Add UoM
+                                                    </Button>
+                                                </div>
+
+                                                <div className="grid gap-4 sm:grid-cols-2">
                                                     <FormField
                                                         control={form.control}
-                                                        name={`uomConversions.${index}.price`}
+                                                        name="baseUnit"
                                                         render={({ field }) => (
-                                                            <FormItem className="flex-1">
-                                                                <FormLabel className="text-xs">Price (Opt.)</FormLabel>
-                                                                <FormControl><Input type="number" placeholder="Override" {...field} disabled={!canManageProduct} /></FormControl>
+                                                            <FormItem>
+                                                                <FormLabel className="text-xs">Base Unit</FormLabel>
+                                                                <FormControl>
+                                                                    <Input placeholder="e.g. Piece" {...field} disabled={!canManageProduct} />
+                                                                </FormControl>
                                                                 <FormMessage />
                                                             </FormItem>
                                                         )}
                                                     />
-                                                    <Button type="button" variant="ghost" size="icon" onClick={() => removeUom(index)} className="text-destructive" disabled={!canManageProduct}><Trash className="h-4 w-4" /></Button>
                                                 </div>
-                                            </div>
-                                        ))}
-                                    </div>
 
-                                    {productType === 'composite' && (
-                                        <>
-                                            <Separator />
-                                            <div className="space-y-4">
-                                                <div className="flex items-center justify-between">
-                                                    <FormLabel>Composite Components</FormLabel>
-                                                    <Button type="button" variant="outline" size="sm" onClick={() => appendComponent({ productId: "", quantity: 1 })} disabled={!canManageProduct}>
-                                                        <Plus className="h-4 w-4 mr-2" /> Add Component
-                                                    </Button>
-                                                </div>
-                                                <FormDescription>Select products that make up this bundle.</FormDescription>
-
-                                                {componentFields.map((field, index) => (
-                                                    <div key={field.id} className="grid grid-cols-1 sm:grid-cols-5 gap-3 items-end p-3 border rounded-lg bg-muted/30">
+                                                {uomFields.map((field, index) => (
+                                                    <div key={field.id} className="grid grid-cols-1 sm:grid-cols-3 gap-3 items-end p-3 border rounded-lg bg-muted/30">
                                                         <FormField
                                                             control={form.control}
-                                                            name={`components.${index}.productId`}
+                                                            name={`uomConversions.${index}.unitName`}
                                                             render={({ field }) => (
-                                                                <FormItem className="sm:col-span-3">
-                                                                    <FormLabel className="text-xs">Product</FormLabel>
-                                                                        <FormControl>
-                                                                            <Combobox
-                                                                                options={products?.filter(p => (!p.type || p.type === 'single') && p.id !== productId).map(p => ({
-                                                                                    label: `${p.name} (Stock: ${p.stock})`,
-                                                                                    value: p.id
-                                                                                })) || []}
-                                                                                value={field.value}
-                                                                                onChange={field.onChange}
-                                                                                placeholder="Select component"
-                                                                                searchPlaceholder="Search products..."
-                                                                                disabled={!canManageProduct}
-                                                                            />
-                                                                        </FormControl>
+                                                                <FormItem>
+                                                                    <FormLabel className="text-xs">Unit Name</FormLabel>
+                                                                    <FormControl><Input placeholder="e.g. Carton" {...field} disabled={!canManageProduct} /></FormControl>
                                                                     <FormMessage />
                                                                 </FormItem>
                                                             )}
                                                         />
                                                         <FormField
                                                             control={form.control}
-                                                            name={`components.${index}.quantity`}
+                                                            name={`uomConversions.${index}.multiplier`}
                                                             render={({ field }) => (
                                                                 <FormItem>
-                                                                    <FormLabel className="text-xs">Qty</FormLabel>
+                                                                    <FormLabel className="text-xs">Contains (multiplier)</FormLabel>
                                                                     <FormControl><Input type="number" {...field} disabled={!canManageProduct} /></FormControl>
                                                                     <FormMessage />
                                                                 </FormItem>
                                                             )}
                                                         />
-                                                        <Button type="button" variant="ghost" size="icon" onClick={() => removeComponent(index)} className="text-destructive" disabled={!canManageProduct}><Trash className="h-4 w-4" /></Button>
+                                                        <div className="flex gap-2">
+                                                            <FormField
+                                                                control={form.control}
+                                                                name={`uomConversions.${index}.price`}
+                                                                render={({ field }) => (
+                                                                    <FormItem className="flex-1">
+                                                                        <FormLabel className="text-xs">Price (Opt.)</FormLabel>
+                                                                        <FormControl><Input type="number" placeholder="Override" {...field} disabled={!canManageProduct} /></FormControl>
+                                                                        <FormMessage />
+                                                                    </FormItem>
+                                                                )}
+                                                            />
+                                                            <Button type="button" variant="ghost" size="icon" onClick={() => removeUom(index)} className="text-destructive" disabled={!canManageProduct}><Trash className="h-4 w-4" /></Button>
+                                                        </div>
                                                     </div>
                                                 ))}
                                             </div>
-                                        </>
-                                    )}
-                                </CardContent>
-                            </Card>
-                        )}
-                        <Card>
-                            <CardHeader>
-                                <CardTitle>Pricing{categoryType === 'product' && ' & Stock'}</CardTitle>
-                                <CardDescription>
-                                    Manage {categoryType === 'service' ? 'pricing information for this service' : 'inventory and pricing information for this product'}.
-                                </CardDescription>
-                            </CardHeader>
-                            <CardContent>
-                                <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-4">
-                                    {categoryType === 'product' && (
-                                        <FormField
-                                            control={form.control}
-                                            name="sku"
-                                            render={({ field }) => (
-                                                <FormItem>
-                                                    <FormLabel>Barcode (SKU)</FormLabel>
-                                                    <div className="flex gap-2">
-                                                        <FormControl>
-                                                            <Input placeholder="QHDM-001" {...field} disabled={!canManageProduct} />
-                                                        </FormControl>
-                                                        {canManageProduct && (
-                                                            <Button
-                                                                type="button"
-                                                                variant="outline"
-                                                                size="icon"
-                                                                onClick={() => setIsScannerOpen(true)}
-                                                                className="shrink-0"
-                                                            >
-                                                                <QrCode className="h-4 w-4" />
+
+                                            {productType === 'composite' && (
+                                                <>
+                                                    <Separator />
+                                                    <div className="space-y-4">
+                                                        <div className="flex items-center justify-between">
+                                                            <FormLabel>Composite Components</FormLabel>
+                                                            <Button type="button" variant="outline" size="sm" onClick={() => appendComponent({ productId: "", quantity: 1 })} disabled={!canManageProduct}>
+                                                                <Plus className="h-4 w-4 mr-2" /> Add Component
                                                             </Button>
-                                                        )}
+                                                        </div>
+                                                        <FormDescription>Select products that make up this bundle.</FormDescription>
+
+                                                        {componentFields.map((field, index) => (
+                                                            <div key={field.id} className="grid grid-cols-1 sm:grid-cols-5 gap-3 items-end p-3 border rounded-lg bg-muted/30">
+                                                                <FormField
+                                                                    control={form.control}
+                                                                    name={`components.${index}.productId`}
+                                                                    render={({ field }) => (
+                                                                        <FormItem className="sm:col-span-3">
+                                                                            <FormLabel className="text-xs">Product</FormLabel>
+                                                                                <FormControl>
+                                                                                    <Combobox
+                                                                                        options={products?.filter(p => (!p.type || p.type === 'single') && p.id !== productId).map(p => ({
+                                                                                            label: `${p.name} (Stock: ${p.stock})`,
+                                                                                            value: p.id
+                                                                                        })) || []}
+                                                                                        value={field.value}
+                                                                                        onChange={field.onChange}
+                                                                                        placeholder="Select component"
+                                                                                        searchPlaceholder="Search products..."
+                                                                                        disabled={!canManageProduct}
+                                                                                    />
+                                                                                </FormControl>
+                                                                            <FormMessage />
+                                                                        </FormItem>
+                                                                    )}
+                                                                />
+                                                                <FormField
+                                                                    control={form.control}
+                                                                    name={`components.${index}.quantity`}
+                                                                    render={({ field }) => (
+                                                                        <FormItem>
+                                                                            <FormLabel className="text-xs">Qty</FormLabel>
+                                                                            <FormControl><Input type="number" {...field} disabled={!canManageProduct} /></FormControl>
+                                                                            <FormMessage />
+                                                                        </FormItem>
+                                                                    )}
+                                                                />
+                                                                <Button type="button" variant="ghost" size="icon" onClick={() => removeComponent(index)} className="text-destructive" disabled={!canManageProduct}><Trash className="h-4 w-4" /></Button>
+                                                            </div>
+                                                        ))}
                                                     </div>
-                                                    <FormMessage />
-                                                </FormItem>
+                                                </>
                                             )}
-                                        />
-                                    )}
-                                    {categoryType === 'product' && (
-                                        <FormField
-                                            control={form.control}
-                                            name="stock"
-                                            render={({ field }) => (
-                                                <FormItem>
-                                                    <FormLabel>Stock</FormLabel>
-                                                    <FormControl>
-                                                        <Input type="number" placeholder="25" {...field} disabled={!canManageProduct} />
-                                                    </FormControl>
-                                                    <FormMessage />
-                                                </FormItem>
+                                        </CardContent>
+                                    </Card>
+                                )}
+                                <Card>
+                                    <CardHeader>
+                                        <CardTitle>Pricing{categoryType === 'product' && ' & Stock'}</CardTitle>
+                                        <CardDescription>
+                                            Manage {categoryType === 'service' ? 'pricing information for this service' : 'inventory and pricing information for this product'}.
+                                        </CardDescription>
+                                    </CardHeader>
+                                    <CardContent>
+                                        <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-4">
+                                            {categoryType === 'product' && (
+                                                <FormField
+                                                    control={form.control}
+                                                    name="sku"
+                                                    render={({ field }) => (
+                                                        <FormItem>
+                                                            <FormLabel>Barcode (SKU)</FormLabel>
+                                                            <div className="flex gap-2">
+                                                                <FormControl>
+                                                                    <Input placeholder="QHDM-001" {...field} disabled={!canManageProduct} />
+                                                                </FormControl>
+                                                                {canManageProduct && (
+                                                                    <Button
+                                                                        type="button"
+                                                                        variant="outline"
+                                                                        size="icon"
+                                                                        onClick={() => setIsScannerOpen(true)}
+                                                                        className="shrink-0"
+                                                                    >
+                                                                        <QrCode className="h-4 w-4" />
+                                                                    </Button>
+                                                                )}
+                                                            </div>
+                                                            <FormMessage />
+                                                        </FormItem>
+                                                    )}
+                                                />
                                             )}
-                                        />
-                                    )}
-                                    <FormField
-                                        control={form.control}
-                                        name="price"
-                                        render={({ field }) => (
-                                            <FormItem>
-                                                <FormLabel>Price</FormLabel>
-                                                <FormControl>
-                                                    <Input type="number" step="0.01" placeholder="349.99" {...field} disabled={!canManageProduct} />
-                                                </FormControl>
-                                                <FormMessage />
-                                            </FormItem>
-                                        )}
-                                    />
-                                    <FormField
-                                        control={form.control}
-                                        name="costPrice"
-                                        render={({ field }) => (
-                                            <FormItem>
-                                                <FormLabel>Cost Price</FormLabel>
-                                                <FormControl>
-                                                    <Input type="number" step="0.01" placeholder="250.00" {...field} disabled={!canManageProduct} />
-                                                </FormControl>
-                                                <FormMessage />
-                                            </FormItem>
-                                        )}
-                                    />
-                                </div>
-                            </CardContent>
-                        </Card>
+                                            {categoryType === 'product' && (
+                                                <FormField
+                                                    control={form.control}
+                                                    name="stock"
+                                                    render={({ field }) => (
+                                                        <FormItem>
+                                                            <FormLabel>Stock</FormLabel>
+                                                            <FormControl>
+                                                                <Input type="number" placeholder="25" {...field} disabled={!canManageProduct} />
+                                                            </FormControl>
+                                                            <FormMessage />
+                                                        </FormItem>
+                                                    )}
+                                                />
+                                            )}
+                                            <FormField
+                                                control={form.control}
+                                                name="price"
+                                                render={({ field }) => (
+                                                    <FormItem>
+                                                        <FormLabel>Price</FormLabel>
+                                                        <FormControl>
+                                                            <Input type="number" step="0.01" placeholder="349.99" {...field} disabled={!canManageProduct} />
+                                                        </FormControl>
+                                                        <FormMessage />
+                                                    </FormItem>
+                                                )}
+                                            />
+                                            <FormField
+                                                control={form.control}
+                                                name="costPrice"
+                                                render={({ field }) => (
+                                                    <FormItem>
+                                                        <FormLabel>Cost Price</FormLabel>
+                                                        <FormControl>
+                                                            <Input type="number" step="0.01" placeholder="250.00" {...field} disabled={!canManageProduct} />
+                                                        </FormControl>
+                                                        <FormMessage />
+                                                    </FormItem>
+                                                )}
+                                            />
+                                        </div>
+                                    </CardContent>
+                                </Card>
+                            </TabsContent>
 
+                            <TabsContent value="questions" className="space-y-4 mt-4 animate-in fade-in-50 duration-200">
+                                <Card>
+                                    <CardHeader className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+                                        <div className="space-y-1">
+                                            <CardTitle>CBT Questions Bank</CardTitle>
+                                            <CardDescription>
+                                                Upload, search, and edit multiple-choice questions for this subject.
+                                            </CardDescription>
+                                        </div>
+                                        <div className="flex flex-wrap items-center gap-2">
+                                            <Input
+                                                type="file"
+                                                accept=".csv"
+                                                className="hidden"
+                                                id="questions-csv-file"
+                                                onChange={handleCSVUpload}
+                                                disabled={isCsvParsing || !canManageProduct}
+                                            />
+                                            <Button asChild variant="outline" size="sm" type="button" disabled={isCsvParsing || !canManageProduct}>
+                                                <label htmlFor="questions-csv-file" className="flex items-center gap-1.5 cursor-pointer">
+                                                    {isCsvParsing ? <Loader2 className="w-3.5 h-3.5 animate-spin" /> : <UploadCloud className="w-3.5 h-3.5" />}
+                                                    Import CSV Template
+                                                </label>
+                                            </Button>
+                                            
+                                            <Button
+                                                type="button"
+                                                variant="outline"
+                                                size="sm"
+                                                onClick={() => appendQuestion({
+                                                    id: crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).substring(2, 11),
+                                                    questionText: "",
+                                                    options: ["", "", "", ""],
+                                                    correctAnswer: "A",
+                                                    explanation: ""
+                                                })}
+                                                disabled={!canManageProduct}
+                                            >
+                                                <Plus className="w-3.5 h-3.5 mr-1" /> Add Question
+                                            </Button>
 
+                                            {watchedQuestions.length > 0 && (
+                                                <Button
+                                                    type="button"
+                                                    variant="destructive"
+                                                    size="sm"
+                                                    onClick={() => form.setValue('questions', [], { shouldDirty: true, shouldValidate: true })}
+                                                    disabled={!canManageProduct}
+                                                >
+                                                    <Trash className="w-3.5 h-3.5 mr-1" /> Clear All
+                                                </Button>
+                                            )}
+                                        </div>
+                                    </CardHeader>
+                                    <CardContent className="space-y-4">
+                                        <div className="bg-muted/40 p-4 rounded-lg border text-xs space-y-2 text-muted-foreground">
+                                            <p className="font-semibold text-foreground flex items-center gap-1">
+                                                <FileSpreadsheet className="w-3.5 h-3.5 text-primary" /> CSV Formatting Rules:
+                                            </p>
+                                            <p>Your CSV should contain the following column headers (case-insensitive):</p>
+                                            <code className="block bg-muted p-2 rounded text-[10px] select-all overflow-x-auto text-primary">
+                                                Question, Option A, Option B, Option C, Option D, Correct Answer, Explanation
+                                            </code>
+                                            <p>Correct Answer must be A, B, C, or D.</p>
+                                        </div>
+
+                                        <div className="flex items-center gap-2">
+                                            <div className="relative flex-1">
+                                                <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
+                                                <Input
+                                                    type="search"
+                                                    placeholder="Search questions..."
+                                                    className="pl-8"
+                                                    value={questionSearch}
+                                                    onChange={e => setQuestionSearch(e.target.value)}
+                                                />
+                                            </div>
+                                        </div>
+
+                                        <ScrollArea className="h-[500px] pr-4">
+                                            <div className="space-y-4">
+                                                {filteredQuestions.length === 0 ? (
+                                                    <div className="text-center py-12 border border-dashed rounded-lg bg-muted/20">
+                                                        <AlertCircle className="w-8 h-8 mx-auto text-muted-foreground/50 mb-2" />
+                                                        <p className="text-sm font-semibold text-muted-foreground">No questions found</p>
+                                                        <p className="text-xs text-muted-foreground/70 mt-1">
+                                                            {questionSearch ? "Try refining your search keyword." : "Add a question manually or import from a CSV template."}
+                                                        </p>
+                                                    </div>
+                                                ) : (
+                                                    filteredQuestions.map(({ q, idx }) => (
+                                                        <div key={q.id || idx} className="border rounded-lg p-4 space-y-4 bg-card/60 backdrop-blur-sm shadow-sm relative hover:border-primary/20 transition-colors">
+                                                            <div className="flex justify-between items-start gap-4">
+                                                                <span className="font-semibold text-xs text-primary bg-primary/5 px-2.5 py-1 rounded-full border border-primary/10">
+                                                                    Question {idx + 1}
+                                                                </span>
+                                                                <Button
+                                                                    type="button"
+                                                                    variant="ghost"
+                                                                    size="icon"
+                                                                    className="text-destructive h-8 w-8 hover:bg-destructive/10"
+                                                                    onClick={() => removeQuestion(idx)}
+                                                                    disabled={!canManageProduct}
+                                                                >
+                                                                    <Trash className="w-4 h-4" />
+                                                                </Button>
+                                                            </div>
+                                                            
+                                                            <FormField
+                                                                control={form.control}
+                                                                name={`questions.${idx}.questionText`}
+                                                                render={({ field }) => (
+                                                                    <FormItem>
+                                                                        <FormLabel className="text-xs font-medium">Question Text</FormLabel>
+                                                                        <FormControl>
+                                                                            <Textarea 
+                                                                                placeholder="Type question text..." 
+                                                                                className="min-h-16" 
+                                                                                {...field} 
+                                                                                disabled={!canManageProduct}
+                                                                            />
+                                                                        </FormControl>
+                                                                        <FormMessage />
+                                                                    </FormItem>
+                                                                )}
+                                                            />
+
+                                                            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                                                                {['A', 'B', 'C', 'D'].map((opt, optIdx) => (
+                                                                    <FormField
+                                                                        key={opt}
+                                                                        control={form.control}
+                                                                        name={`questions.${idx}.options.${optIdx}`}
+                                                                        render={({ field }) => (
+                                                                            <FormItem>
+                                                                                <FormLabel className="text-xs font-medium">Option {opt}</FormLabel>
+                                                                                <FormControl>
+                                                                                    <Input 
+                                                                                        placeholder={`Option ${opt} text`} 
+                                                                                        {...field} 
+                                                                                        disabled={!canManageProduct}
+                                                                                    />
+                                                                                </FormControl>
+                                                                                <FormMessage />
+                                                                            </FormItem>
+                                                                        )}
+                                                                    />
+                                                                ))}
+                                                            </div>
+
+                                                            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                                                                <FormField
+                                                                    control={form.control}
+                                                                    name={`questions.${idx}.correctAnswer`}
+                                                                    render={({ field }) => (
+                                                                        <FormItem>
+                                                                            <FormLabel className="text-xs font-medium">Correct Option</FormLabel>
+                                                                            <Select 
+                                                                                onValueChange={field.onChange} 
+                                                                                value={field.value}
+                                                                                disabled={!canManageProduct}
+                                                                            >
+                                                                                <FormControl>
+                                                                                    <SelectTrigger>
+                                                                                        <SelectValue placeholder="Select correct answer" />
+                                                                                    </SelectTrigger>
+                                                                                </FormControl>
+                                                                                <SelectContent>
+                                                                                    <SelectItem value="A">Option A</SelectItem>
+                                                                                    <SelectItem value="B">Option B</SelectItem>
+                                                                                    <SelectItem value="C">Option C</SelectItem>
+                                                                                    <SelectItem value="D">Option D</SelectItem>
+                                                                                </SelectContent>
+                                                                            </Select>
+                                                                            <FormMessage />
+                                                                        </FormItem>
+                                                                    )}
+                                                                />
+
+                                                                <FormField
+                                                                    control={form.control}
+                                                                    name={`questions.${idx}.explanation`}
+                                                                    render={({ field }) => (
+                                                                        <FormItem>
+                                                                            <FormLabel className="text-xs font-medium">Explanation (Optional)</FormLabel>
+                                                                            <FormControl>
+                                                                                <Input 
+                                                                                    placeholder="Why is this answer correct?" 
+                                                                                    {...field} 
+                                                                                    disabled={!canManageProduct}
+                                                                                />
+                                                                            </FormControl>
+                                                                            <FormMessage />
+                                                                        </FormItem>
+                                                                    )}
+                                                                />
+                                                            </div>
+                                                        </div>
+                                                    ))
+                                                )}
+                                            </div>
+                                        </ScrollArea>
+                                    </CardContent>
+                                </Card>
+                            </TabsContent>
+                        </Tabs>
                     </div>
                     <div className="grid auto-rows-max items-start gap-4 lg:gap-8">
                         <Card>

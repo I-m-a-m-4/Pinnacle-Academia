@@ -632,7 +632,7 @@ function AdminDashboardContent({ users, businesses, products, receipts, purchase
                 orderBy('sentAt', 'desc')
             );
             const snapshot = await getDocs(logsQuery);
-            const logs = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+            const logs = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })) as any[];
             
             setOutreachLogs(logs);
             setOutreachSentCount(logs.filter(log => log.status !== 'failed').length);

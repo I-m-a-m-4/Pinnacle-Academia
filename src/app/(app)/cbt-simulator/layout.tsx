@@ -5,13 +5,13 @@ import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
 
 const steps = [
-  { name: "Select Products", path: "/sales/pos/select-products" },
-  { name: "Customer", path: "/sales/pos/customer" },
-  { name: "Payment", path: "/sales/pos/payment" },
-  { name: "Review", path: "/sales/pos/review" },
+  { name: "Select Subjects", path: "/cbt-simulator/select-subjects" },
+  { name: "Student Details", path: "/cbt-simulator/student-details" },
+  { name: "Exam Mode", path: "/cbt-simulator/exam-mode" },
+  { name: "Generate Result", path: "/cbt-simulator/generate-result" },
 ];
 
-export default function POSLayout({ children }: { children: React.ReactNode }) {
+export default function CBTLayout({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
   const currentStepIndex = steps.findIndex((step) => pathname === step.path);
 

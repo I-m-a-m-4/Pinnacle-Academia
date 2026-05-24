@@ -40,6 +40,7 @@ import Link from 'next/link';
 import MarketingHeader from '@/components/layout/marketing-header';
 import MarketingFooter from '@/components/layout/marketing-footer';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
+import { AppConfig } from '@/lib/config';
 import { Button } from '@/components/ui/button';
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { MarqueeSection } from '@/components/marquee-section';
@@ -393,15 +394,15 @@ export default function Home() {
                             <div className="text-center mb-16">
                                 <span className="inline-flex items-center gap-1 rounded-full bg-primary/10 px-2 py-1 text-[10px] text-primary ring-1 ring-primary/20 uppercase tracking-tight mb-4 font-semibold">
                                     <Workflow className="mr-1 h-3 w-3" />
-                                    The Operating System for Profit-Driven Retail
+                                    The Platform for Academic Success
                                 </span>
                                 <h2 className="text-4xl md:text-5xl font-light tracking-tight text-slate-900 mb-6 font-bricolage">
                                     <Link href="/about/our-mission" className="text-primary transition-colors cursor-pointer">
-                                        Zen AI: The Brain Behind Every Sale
+                                        Pinnacle AI: The Engine of Success
                                     </Link>
                                 </h2>
                                 <p className="text-lg text-slate-600 font-light max-w-3xl mx-auto mb-8">
-                                    Zeneva connects POS, inventory, storefront, CRM, and analytics into one intelligent system — with Zen AI at the center, turning daily operations into profit-maximizing decisions.
+                                    Pinnacle Academia connects CBT prep, syllabus tracking, admission advisory, and community forums into one unified experience — with Pinnacle AI guiding you to your target score.
                                 </p>
 
                                 <div className="bg-white border-2 border-dashed border-slate-200 rounded-lg p-6 md:p-8 max-w-4xl mx-auto text-left relative overflow-hidden shadow-sm">
@@ -410,16 +411,16 @@ export default function Home() {
                                     </div>
                                     <div className="grid md:grid-cols-2 gap-8 relative z-10">
                                         <div>
-                                            <h3 className="text-xl font-semibold mb-8 text-slate-900">What Zen AI actually does:</h3>
+                                            <h3 className="text-xl font-semibold mb-8 text-slate-900">What Pinnacle AI actually does:</h3>
                                             <ul className="space-y-8">
                                                 <li className="flex items-start gap-4">
                                                     <div className="bg-primary/10 p-2.5 rounded-xl shrink-0 border border-primary/20 shadow-sm">
                                                         <TrendingUp className="w-6 h-6 text-primary" />
                                                     </div>
                                                     <div>
-                                                        <h4 className="font-semibold text-slate-900 text-base">Revenue Opportunities</h4>
+                                                        <h4 className="font-semibold text-slate-900 text-base">Score Forecasting</h4>
                                                         <p className="text-sm text-slate-600 mt-1 leading-relaxed">
-                                                            Predicts what will sell, when, and how much. Identifies best-selling SKUs by time and day.
+                                                            Predicts your likely exam performance based on mock test trends and suggests high-yield topics to study.
                                                         </p>
                                                     </div>
                                                 </li>
@@ -428,9 +429,9 @@ export default function Home() {
                                                         <Store className="w-6 h-6 text-primary" />
                                                     </div>
                                                     <div>
-                                                        <h4 className="font-semibold text-slate-900 text-base">Smart Merchandising</h4>
+                                                        <h4 className="font-semibold text-slate-900 text-base">Personalized Quizzing</h4>
                                                         <p className="text-sm text-slate-600 mt-1 leading-relaxed">
-                                                            The best merchandiser that would increase impulse buying by showing optimal product placement.
+                                                            Adapts daily practice quizzes to target your specific weak areas and reinforce active recall.
                                                         </p>
                                                     </div>
                                                 </li>
@@ -439,9 +440,9 @@ export default function Home() {
                                                         <Search className="w-6 h-6 text-primary" />
                                                     </div>
                                                     <div>
-                                                        <h4 className="font-semibold text-slate-900 text-base">Market Opportunities</h4>
+                                                        <h4 className="font-semibold text-slate-900 text-base">Admission Probability</h4>
                                                         <p className="text-sm text-slate-600 mt-1 leading-relaxed">
-                                                            Shows the business owner new untapped market opportunities and flags cash trapped in inventory.
+                                                            Calculates your university aggregate admission chances instantly using post-UTME and JAMB requirements.
                                                         </p>
                                                     </div>
                                                 </li>
@@ -459,31 +460,31 @@ export default function Home() {
                                         <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-neutral-100 border border-neutral-200 shadow-lg group-hover:scale-110 group-hover:border-primary/50 group-hover:shadow-[0_0_20px_rgba(var(--primary-rgb),0.1)] transition-all duration-300">
                                             <Monitor className="text-neutral-600 group-hover:text-primary transition-colors h-6 w-6" />
                                         </span>
-                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">POS</span>
+                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">CBT Engine</span>
                                     </div>
                                     <div className="group relative cursor-pointer">
                                         <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-neutral-100 border border-neutral-200 shadow-lg group-hover:scale-110 group-hover:border-primary/50 group-hover:shadow-[0_0_20px_rgba(var(--primary-rgb),0.1)] transition-all duration-300">
-                                            <Package className="text-neutral-600 group-hover:text-primary transition-colors h-6 w-6" />
+                                            <Check className="text-neutral-600 group-hover:text-primary transition-colors h-6 w-6" />
                                         </span>
-                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">Inventory</span>
+                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">Syllabus</span>
                                     </div>
                                     <div className="group relative cursor-pointer">
                                         <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-neutral-100 border border-neutral-200 shadow-lg group-hover:scale-110 group-hover:border-primary/50 group-hover:shadow-[0_0_20px_rgba(var(--primary-rgb),0.1)] transition-all duration-300">
                                             <Globe className="text-neutral-600 group-hover:text-primary transition-colors h-6 w-6" />
                                         </span>
-                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">Storefront</span>
+                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">Portal</span>
                                     </div>
                                     <div className="group relative cursor-pointer">
                                         <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-neutral-100 border border-neutral-200 shadow-lg group-hover:scale-110 group-hover:border-primary/50 group-hover:shadow-[0_0_20px_rgba(var(--primary-rgb),0.1)] transition-all duration-300">
                                             <Users className="text-neutral-600 group-hover:text-primary transition-colors h-6 w-6" />
                                         </span>
-                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">CRM</span>
+                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">Forum</span>
                                     </div>
                                     <div className="group relative cursor-pointer">
                                         <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-neutral-100 border border-neutral-200 shadow-lg group-hover:scale-110 group-hover:border-primary/50 group-hover:shadow-[0_0_20px_rgba(var(--primary-rgb),0.1)] transition-all duration-300">
                                             <BarChart2 className="text-neutral-600 group-hover:text-primary transition-colors h-6 w-6" />
                                         </span>
-                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">Analytics</span>
+                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-[10px] font-semibold tracking-wide text-neutral-500 uppercase transition-opacity">Reports</span>
                                     </div>
                                 </div>
 
@@ -520,50 +521,10 @@ export default function Home() {
 
                                     <div className="absolute bottom-2 left-1/2 -translate-x-1/2">
                                         <span className="inline-flex h-20 w-20 items-center justify-center rounded-2xl bg-background/80 ring-1 ring-slate-200 backdrop-blur-lg shadow-[0_0_50px_rgba(var(--primary-rgb),0.15)] relative z-20">
-                                            <svg width="40" height="40" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <defs>
-                                                    <linearGradient id="thickBlueGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-                                                        <stop offset="0%" style={{ stopColor: '#1e293b;stop-opacity:1' }} />
-                                                        <stop offset="100%" style={{ stopColor: '#0f172a;stop-opacity:1' }} /> </linearGradient>
-
-                                                    <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
-                                                        <feGaussianBlur in="SourceAlpha" stdDeviation="1.5" />
-                                                        <feOffset dx="0" dy="2" result="offsetblur" />
-                                                        <feComponentTransfer>
-                                                            <feFuncA type="linear" slope="0.3" />
-                                                        </feComponentTransfer>
-                                                        <feMerge>
-                                                            <feMergeNode />
-                                                            <feMergeNode in="SourceGraphic" />
-                                                        </feMerge>
-                                                    </filter>
-                                                </defs>
-
-                                                <g filter="url(#dropShadow)">
-                                                    <path d="M 100 55
-                                                            A 35 35 0 1 0 100 125
-                                                            A 35 35 0 1 0 100 55
-                                                            Z
-                                                            M 100 63
-                                                            A 27 27 0 1 1 100 117
-                                                            A 27 27 0 1 1 100 63
-                                                            Z"
-                                                        fill="url(#thickBlueGradient)"
-                                                        stroke="#1e293b"
-                                                        strokeWidth="0.5" />
-
-                                                    <path d="M 60 127
-                                                            Q 100 154 140 127
-                                                            Q 100 142 60 127
-                                                            Z"
-                                                        fill="url(#thickBlueGradient)"
-                                                        stroke="#1e293b"
-                                                        strokeWidth="0.5" />
-                                                </g>
-                                            </svg>
+                                            <img src={AppConfig.logoIconUrl} alt="Pinnacle AI Logo" className="h-10 w-10 object-contain" />
                                             <span className="absolute inset-0 rounded-2xl bg-primary/20 blur-xl animate-pulse"></span>
                                         </span>
-                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-sm font-bold tracking-wide text-slate-900 whitespace-nowrap">Zen AI</span>
+                                        <span className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-sm font-bold tracking-wide text-slate-900 whitespace-nowrap">Pinnacle AI</span>
                                     </div>
                                 </div>
                             </div>
@@ -725,7 +686,7 @@ export default function Home() {
                                 {/* Glow Effect */}
                                 <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-orange-500/30 blur-[100px] rounded-full -z-10 mix-blend-multiply"></div>
                                 <Image
-                                    src="/boyyy.jpg"
+                                    src="/student_portrait.png"
                                     alt="Pinnacle Academia Student"
                                     width={500}
                                     height={500}

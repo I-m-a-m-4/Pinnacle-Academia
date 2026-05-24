@@ -72,23 +72,23 @@ const AiInsightsIcon = (props: React.SVGProps<SVGSVGElement>) => (
 
 const navItems = [
   { href: '/dashboard', icon: Home, label: 'Dashboard', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/inventory', icon: Package, label: 'Inventory', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/sales/pos/select-products', icon: ShoppingCart, label: 'POS', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/storefront', icon: Paintbrush, label: 'Storefront', roles: ['admin'] },
-  { href: '/online-orders', icon: Globe, label: 'Online Orders', roles: ['admin', 'manager'] },
-  { href: '/receipts', icon: FileText, label: 'Receipts', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/invoices', icon: FileDigit, label: 'Invoices', roles: ['admin', 'manager'] },
-  { href: '/reports', icon: BarChart2, label: 'Reports', roles: ['admin', 'owner'] },
-  { href: '/ai-insights', icon: AiInsightsIcon, label: 'Zen AI', roles: ['admin', 'manager'] },
-  { href: '/customers', icon: Users, label: 'Customers', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/users', icon: UserRound, label: 'Users', roles: ['admin'] },
-  { href: '/audit-log', icon: HistoryIcon, label: 'Audit Log', roles: ['admin'] },
+  { href: '/inventory', icon: Package, label: 'Syllabus Tracker', roles: ['admin', 'manager', 'vendor_operator'] },
+  { href: '/cbt-simulator/select-subjects', icon: ShoppingCart, label: 'CBT Exam Simulator', roles: ['admin', 'manager', 'vendor_operator'] },
+  { href: '/storefront', icon: Paintbrush, label: 'Verified News Hub', roles: ['admin'] },
+  { href: '/online-orders', icon: Globe, label: 'Mentorship Booking', roles: ['admin', 'manager'] },
+  { href: '/receipts', icon: FileText, label: 'Admission Calculator', roles: ['admin', 'manager', 'vendor_operator'] },
+  { href: '/invoices', icon: FileDigit, label: 'Scholarship Alerts', roles: ['admin', 'manager'] },
+  { href: '/reports', icon: BarChart2, label: 'Performance Analytics', roles: ['admin', 'owner'] },
+  { href: '/ai-insights', icon: AiInsightsIcon, label: 'Smart AI Insights', roles: ['admin', 'manager'] },
+  { href: '/customers', icon: Users, label: 'Peers & Mentors', roles: ['admin', 'manager', 'vendor_operator'] },
+  { href: '/users', icon: UserRound, label: 'Student Profile', roles: ['admin'] },
+  { href: '/audit-log', icon: HistoryIcon, label: 'Activity Logs', roles: ['admin'] },
 ];
 
 const bottomLinks = [
-  { href: '/billing', icon: CreditCard, label: 'Billing', roles: ['admin'] },
-  { href: '/settings', icon: Settings, label: 'Settings', roles: ['admin'] },
-  { href: '/support', icon: LifeBuoy, label: 'Support', roles: ['admin', 'manager', 'vendor_operator'] },
+  { href: '/billing', icon: CreditCard, label: 'Subscriptions', roles: ['admin'] },
+  { href: '/settings', icon: Settings, label: 'Portal Settings', roles: ['admin'] },
+  { href: '/support', icon: LifeBuoy, label: 'Help Desk', roles: ['admin', 'manager', 'vendor_operator'] },
 ];
 
 const moreNavLinks: { href: string; icon: React.ElementType; label: string; roles: string[]; }[] = [
@@ -416,7 +416,7 @@ export default function AuthenticatedLayout({
         
         // If they can't access POS, send them to dashboard. Otherwise send to POS.
         const canAccessPos = permissions.record_sales !== false && (userRole === 'admin' || userRole === 'manager' || userRole === 'vendor_operator');
-        router.replace(canAccessPos ? '/sales/pos/select-products' : '/dashboard');
+        router.replace(canAccessPos ? '/cbt-simulator/select-subjects' : '/dashboard');
       }
     }
   }, [pathname, currentUserProfile, isLoading, isUserLoading, router, toast]);
@@ -652,7 +652,7 @@ export default function AuthenticatedLayout({
   const visibleBottomLinks = filterNavByRole(bottomLinks);
   const visibleMoreNavLinks = filterNavByRole(moreNavLinks);
 
-  const mainMobileNavItems = visibleNavItems.filter(item => ['/dashboard', '/inventory', '/sales/pos/select-products'].includes(item.href));
+  const mainMobileNavItems = visibleNavItems.filter(item => ['/dashboard', '/inventory', '/cbt-simulator/select-subjects'].includes(item.href));
   const extraMobileNavItems = visibleNavItems.filter(item => !mainMobileNavItems.some(main => main.href === item.href));
   const allMoreNavItems = [...extraMobileNavItems, ...visibleBottomLinks, ...visibleMoreNavLinks];
 
@@ -740,14 +740,14 @@ export default function AuthenticatedLayout({
                   {/* Expanded state logo */}
                   <CachedImage 
                     src={AppConfig.logoUrl} 
-                    alt="Zeneva Logo" 
+                    alt="Pinnacle Academia Logo" 
                     className="w-28 h-auto group-data-[state=expanded]:block hidden" 
                   />
                   {/* Collapsed state logo */}
                   <div className="w-12 h-12 group-data-[state=collapsed]:block hidden">
                     <CachedImage 
                       src={AppConfig.logoIconUrl} 
-                      alt="Zeneva Icon" 
+                      alt="Pinnacle Academia Icon" 
                       className="w-10 h-10 mx-auto" 
                     />
                   </div>
@@ -854,6 +854,10 @@ export default function AuthenticatedLayout({
             <div className="flex-1 flex flex-col overflow-hidden bg-background">
               <header className="no-print flex h-16 shrink-0 items-center gap-4 border-b bg-background px-4 sm:px-6 z-10">
                 <SidebarTrigger className="hidden md:flex" />
+                <SidebarTrigger className="flex md:hidden" />
+                <Link href="/dashboard" className="flex items-center gap-2 md:hidden">
+                  <img src={AppConfig.logoIconUrl} alt="Pinnacle Academia" className="h-8 w-8" />
+                </Link>
                 <BusinessHealthIndicator />
                 {isMounted && <Badge variant="outline" className="hidden md:inline-flex text-[10px] h-5 bg-muted/50 font-mono opacity-60 hover:opacity-100 transition-opacity">v{AppConfig.version}</Badge>}
                 <div className="flex-1" />

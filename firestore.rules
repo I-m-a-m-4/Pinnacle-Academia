@@ -24,7 +24,7 @@ service cloud.firestore {
 
     // Direct access to user profile data - cached within a single request
     function getUserData() {
-      return get(/databases/$(database)/documents/users/$(request.auth.uid)).data;
+      return exists(/databases/$(database)/documents/users/$(request.auth.uid)) ? get(/databases/$(database)/documents/users/$(request.auth.uid)).data : {};
     }
 
     function getCurrentUserBusinessId() {

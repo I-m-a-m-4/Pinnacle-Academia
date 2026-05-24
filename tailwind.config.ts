@@ -21,6 +21,20 @@ export default {
         'bricolage': ['"Bricolage Grotesque"', 'sans-serif'],
       },
       colors: {
+        orange: {
+          50: '#FAF3EA',
+          100: '#F5E7D5',
+          200: '#EAD0B0',
+          300: '#DFB98B',
+          400: '#D5A266',
+          500: '#D3B38C',
+          600: '#C29F75',
+          700: '#A17F5B',
+          800: '#806041',
+          900: '#604328',
+          950: '#402914',
+          DEFAULT: '#d3b38c',
+        },
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
         card: {

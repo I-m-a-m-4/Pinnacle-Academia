@@ -18,28 +18,28 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 const loginSlides = [
   {
-    src: "/zeneva-login.png?v=2",
-    alt: "Modern retail store interior with minimalist design and warm lighting.",
-    title: "Operating System for Business",
-    description: "Streamline your inventory, maximize your profit, and build lasting customer relationships."
+    src: "/assets/login_cbt.png",
+    alt: "A modern exam hall where students sit at laptop computers taking a computer based test (CBT).",
+    title: "High-Fidelity CBT Engine",
+    description: "Simulate real computer-based tests for UNILAG, UI, OAU, and more with smart AI topic analysis and offline capability."
   },
   {
-    src: "/zeneva-login-2.png",
-    alt: "Elite dashboard on a black marble counter.",
-    title: "Precision Analytics",
-    description: "Real-time insights tailored for high-growth retail environments."
+    src: "/assets/login_syllabus.png",
+    alt: "A student studying textbooks and a digital syllabus checklist tracker on a phone.",
+    title: "Syllabus Tracker & Checker",
+    description: "Track your coverage of official JAMB & WAEC syllabus outlines and summary novel checklists automatically."
   },
   {
-    src: "/zeneva-login-3.png",
-    alt: "Organized luxury retail storage room.",
-    title: "Inventory Mastery",
-    description: "Never lose track of a single item with our intelligent stock management system."
+    src: "/assets/login_news.png",
+    alt: "A student checking real-time news on a smartphone showing notifications with official verified badges.",
+    title: "Verified News Hub",
+    description: "Avoid rumors. Get double-checked official updates and admission feeds directly from campus representatives."
   },
   {
-    src: "/zeneva-login-4.png",
-    alt: "Minimalist cafe interior.",
-    title: "Work From Anywhere",
-    description: "Secure, cloud-based access that puts your business in the palm of your hand."
+    src: "/assets/login_mentorship.png",
+    alt: "A student smiling during a 1-on-1 tutoring session with a mentor.",
+    title: "Community & Mentorship",
+    description: "Connect on real-time forums or schedule interactive 15-minute consultations with top student mentors."
   }
 ];
 
@@ -110,7 +110,7 @@ export default function LoginPage() {
         <div className="mx-auto grid w-full max-w-[350px] gap-6">
           <div className="grid gap-2 text-center">
             <div className="flex items-center justify-center gap-2 mb-4">
-              <img src={AppConfig.logoUrl} alt="Zeneva Logo" className="h-16 w-auto" />
+              <img src={AppConfig.logoUrl} alt="Pinnacle Academia Logo" className="h-16 w-auto" />
             </div>
             <h1 className="text-3xl font-bold">Login</h1>
             <p className="text-balance text-muted-foreground">
@@ -204,7 +204,7 @@ export default function LoginPage() {
               <h2 className="text-white text-4xl font-bold font-headline leading-tight tracking-tight drop-shadow-lg">
                 {loginSlides[currentSlide].title.split(" ").map((word, i) => (
                   <React.Fragment key={i}>
-                    {word === "for" || word === "Galaxy" || word === "System" ? <span className="text-primary italic"> {word} </span> : word + " "}
+                    {word === "CBT" || word === "Syllabus" || word === "News" || word === "Mentorship" || word === "AI" ? <span className="text-primary italic"> {word} </span> : word + " "}
                   </React.Fragment>
                 ))}
               </h2>

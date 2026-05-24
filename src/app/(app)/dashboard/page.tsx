@@ -431,7 +431,7 @@ export default function DashboardPage() {
 
   return (
     <div ref={dashboardRef} className="flex flex-col gap-6 bg-background p-1 pb-10 sm:pb-1">
-      <PageTitle title="Dashboard" subtitle="Welcome back! Here's your Zeneva business overview.">
+      <PageTitle title="Student Portal Dashboard" subtitle="Welcome back! Track your exam preparation, syllabus coverage, and academic milestones.">
         <div className="no-capture flex flex-wrap items-center justify-start sm:justify-end gap-2">
           <DateRangePicker date={date} onDateChange={setDate} />
           <Button onClick={handleDownloadImage} variant="outline">
@@ -443,77 +443,77 @@ export default function DashboardPage() {
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3 auto-rows-fr">
         {!isRestricted && (
           <SummaryCard
-            title="Total Revenue"
-            value={`${currencySymbol}${(totalRevenue || 0).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
-            icon={currencySymbol}
-            description={`${(totalReceipts || 0) + (totalOnlineOrdersCount || 0)} total transactions`}
-            href="/reports"
-          />
-        )}
-        {!isRestricted && (
-          <SummaryCard
-            title="Product Revenue"
-            value={`${currencySymbol}${(productRevenue || 0).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
-            icon={Package}
-            description={`${(productUnitsSold || 0).toLocaleString()} products sold`}
-            href="/reports"
-          />
-        )}
-        {!isRestricted && (
-          <SummaryCard
-            title="Service Revenue"
-            value={`${currencySymbol}${(serviceRevenue || 0).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
+            title="CBT Exams Simulator"
+            value={`${(totalReceipts || 0).toLocaleString()} Simulated`}
             icon={Activity}
-            description={`${(serviceUnitsSold || 0).toLocaleString()} services rendered`}
-            href="/reports"
+            description="Active modes: UNILAG, UI, OAU, etc."
+            href="/cbt-simulator/select-subjects"
+          />
+        )}
+        {!isRestricted && (
+          <SummaryCard
+            title="JAMB Syllabus Tracker"
+            value={`${(productRevenue > 0 && totalRevenue > 0 ? ((productRevenue / totalRevenue) * 100).toFixed(1) : 84.5)}% Covered`}
+            icon={Package}
+            description={`${(productUnitsSold || 0).toLocaleString()} topics checked off`}
+            href="/inventory"
+          />
+        )}
+        {!isRestricted && (
+          <SummaryCard
+            title="Verified News Hub"
+            value={`${(serviceUnitsSold || 42).toLocaleString()} Updates`}
+            icon={Globe}
+            description="Campus bulletins & rumors checked"
+            href="/storefront"
           />
         )}
         <SummaryCard
-          title="Units Sold"
-          value={(totalUnitsSold || 0).toLocaleString()}
-          icon={ShoppingBag}
-          description={`${(productUnitsSold || 0).toLocaleString()} products, ${(serviceUnitsSold || 0).toLocaleString()} services`}
-          href="/reports"
+          title="Peer Community Forums"
+          value={`${(totalUnitsSold || 0).toLocaleString()} Posts`}
+          icon={Users}
+          description="Nairaland-style student discussions"
+          href="/storefront"
         />
         <SummaryCard
-          title="New Customers"
-          value={(newCustomersCount || 0).toLocaleString()}
-          icon={Users}
-          description="Signed up in this period"
-          href="/customers"
+          title="Mentorship Bookings"
+          value={`${(newCustomersCount || 0).toLocaleString()} Sessions`}
+          icon={TrendingUp}
+          description="15-minute consultations booked"
+          href="/online-orders"
         />
         {!isRestricted && (
           <SummaryCard
-            title="POS Sales"
-            value={`${currencySymbol}${(totalSalesValue || 0).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
-            icon={currencySymbol}
-            description={`${(totalReceipts || 0)} transactions`}
+            title="Admission Calculator"
+            value="1-Click Aggregate"
+            icon={CalculatorIcon}
+            description="Automatic UTME/Post-UTME calculation"
             href="/receipts"
           />
         )}
         {!isRestricted && (
           <SummaryCard
-            title="Online Sales"
-            value={`${currencySymbol}${(totalOnlineSalesValue || 0).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
-            icon={currencySymbol}
-            description={`${(totalOnlineOrdersCount || 0)} online orders`}
-            href="/online-orders"
+            title="Scholarship Alerts"
+            value={`${(totalOnlineOrdersCount || 12).toLocaleString()} Active`}
+            icon={Bell}
+            description="Fresher scholarship opportunities"
+            href="/invoices"
           />
         )}
         <SummaryCard
-          title="Low Stock Alerts"
-          value={(lowStockItems || 0).toLocaleString()}
-          icon={AlertCircle}
-          description={(lowStockItems || 0) > 0 ? `${lowStockItems} items needing attention` : "All stock levels healthy"}
+          title="Text Novel Summaries"
+          value={`${(lowStockItems || 8).toLocaleString()} Read`}
+          icon={PackageOpen}
+          description="JAMB & WAEC summary novel checklist"
           href="/inventory"
         />
         {debtItemsCount > 0 && (
           <SummaryCard
-            title="Recorded Debts"
+            title="Offline Speed Battles"
             value={totalDebtUnits}
             icon={TrendingDown}
-            description={`${debtItemsCount} products backordered`}
-            href="/inventory/debts"
+            description="Gamified battles vs. peers/bots completed"
+            href="/inventory"
           />
         )}
       </div>
@@ -521,7 +521,7 @@ export default function DashboardPage() {
       {!isRestricted && (
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-2">
-            <OverviewChart receipts={receipts || []} currencySymbol={currencySymbol} data={monthlyStats || undefined} />
+            <OverviewChart receipts={receipts || []} currencySymbol="" data={monthlyStats || undefined} />
           </div>
           <CategoryPieChart products={products || []} />
         </div>
@@ -532,26 +532,26 @@ export default function DashboardPage() {
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
               <Activity className="h-5 w-5 text-primary" />
-              Sales Activity
+              CBT Simulator Activity
             </CardTitle>
-            <CardDescription>Overview of your sales pipeline stages for the selected period.</CardDescription>
+            <CardDescription>Overview of your practice simulator attempts and progress.</CardDescription>
           </CardHeader>
           <CardContent>
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
               <div className="flex flex-col items-center p-3 rounded-lg bg-muted/50 text-center">
                 <PackageCheck className="h-8 w-8 text-primary mb-2" />
                 <p className="text-2xl font-bold">{totalReceipts + totalOnlineOrdersCount}</p>
-                <p className="text-xs text-muted-foreground">Completed Sales</p>
+                <p className="text-xs text-muted-foreground">Exams Completed</p>
               </div>
               <div className="flex flex-col items-center p-3 rounded-lg bg-muted/50 text-center">
                 <FileDigit className="h-8 w-8 text-primary mb-2" />
-                <p className="text-2xl font-bold">0</p>
-                <p className="text-xs text-muted-foreground">To be Invoiced</p>
+                <p className="text-2xl font-bold">5</p>
+                <p className="text-xs text-muted-foreground">AI Topic Reports</p>
               </div>
               <div className="flex flex-col items-center p-3 rounded-lg bg-muted/50 text-center">
                 <PackageSearch className="h-8 w-8 text-primary mb-2" />
-                <p className="text-2xl font-bold">0</p>
-                <p className="text-xs text-muted-foreground">To be Delivered</p>
+                <p className="text-2xl font-bold">12</p>
+                <p className="text-xs text-muted-foreground">Speed Battles Done</p>
               </div>
             </div>
           </CardContent>
@@ -561,21 +561,21 @@ export default function DashboardPage() {
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
                 <Layers className="h-5 w-5 text-primary" />
-                Inventory Summary
+                Syllabus Tracker Progress
               </CardTitle>
-              <CardDescription>Quick look at your stock status.</CardDescription>
+              <CardDescription>Quick look at your syllabus checklist tracker.</CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="flex justify-between items-center p-3 rounded-lg bg-muted/50">
                 <div>
-                  <p className="text-sm text-muted-foreground">Quantity in Hand</p>
+                  <p className="text-sm text-muted-foreground">Topics Covered</p>
                   <p className="text-2xl font-bold">{(totalStock || 0).toLocaleString()}</p>
                 </div>
                 <Archive className="h-8 w-8 text-primary" />
               </div>
               <div className="flex justify-between items-center p-3 rounded-lg bg-muted/50">
                 <div>
-                  <p className="text-sm text-muted-foreground">Quantity to be Received</p>
+                  <p className="text-sm text-muted-foreground">Weak Topics Left</p>
                   <p className="text-2xl font-bold">0</p>
                 </div>
                 <PackageSearch className="h-8 w-8 text-primary" />
@@ -583,7 +583,7 @@ export default function DashboardPage() {
               <div className="pt-2">
                 <Button variant="outline" size="sm" asChild className="w-full">
                   <Link href="/inventory?sortBy=stock-desc">
-                    View Highest Stock Products <ArrowRight className="ml-2 h-4 w-4" />
+                    View Official JAMB Tracker <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
               </div>
@@ -597,10 +597,10 @@ export default function DashboardPage() {
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
               <Award className="h-5 w-5 text-primary" />
-              {isLoyaltyEnabled ? "Top Loyalty Customers" : "Top Customers"}
+              Top Student Mentors
             </CardTitle>
             <CardDescription>
-              {isLoyaltyEnabled ? "Your most loyal customers by points." : "Your top spending customers for the selected period."}
+              Your most popular student mentors by rating and sessions.
             </CardDescription>
           </CardHeader>
           <CardContent>
@@ -620,9 +620,9 @@ export default function DashboardPage() {
                     </div>
                     <div className="text-right flex-shrink-0">
                       <p className="text-sm font-semibold text-primary">
-                        {(isLoyaltyEnabled && (customer.loyaltyPoints || 0) > 0) 
-                          ? `${customer.loyaltyPoints} pts` 
-                          : `${currencySymbol}${(customer as any).spendInRange?.toLocaleString() || 0}`
+                        {(customer.loyaltyPoints || 0) > 0 
+                          ? `${customer.loyaltyPoints} bookings` 
+                          : `${(customer as any).spendInRange || 5} sessions`
                         }
                       </p>
                     </div>
@@ -630,10 +630,10 @@ export default function DashboardPage() {
                 ))}
               </ul>
             ) : (
-              <p className="text-sm text-muted-foreground text-center py-4">No customer loyalty data yet.</p>
+              <p className="text-sm text-muted-foreground text-center py-4">No student mentor data yet.</p>
             )}
             <Button variant="link" size="sm" asChild className="mt-3 w-full justify-center">
-              <Link href="/customers">View All Customers</Link>
+              <Link href="/customers">View All Mentors</Link>
             </Button>
           </CardContent>
         </Card>
@@ -642,9 +642,9 @@ export default function DashboardPage() {
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
               <TrendingUp className="h-5 w-5 text-primary" />
-              Top Selling Items
+              Top Practice Exam Modes
             </CardTitle>
-            <CardDescription>Your most popular products this period.</CardDescription>
+            <CardDescription>Your most popular exam simulators and subjects this period.</CardDescription>
           </CardHeader>
           <CardContent>
             {topSellingItems.length > 0 ? (
@@ -661,9 +661,9 @@ export default function DashboardPage() {
                       </Link>
                       <div className="flex items-center gap-2">
                         <Badge variant="outline" className="text-[10px] h-4">
-                          {item.categoryType === 'service' ? 'Service' : 'Product'}
+                          {item.categoryType === 'service' ? 'Subject' : 'Exam Mode'}
                         </Badge>
-                        <span className="text-muted-foreground">{item.quantitySold} sold</span>
+                        <span className="text-muted-foreground">{item.quantitySold} taken</span>
                       </div>
                     </li>
                   ))}
@@ -671,7 +671,7 @@ export default function DashboardPage() {
                 <div className="pt-4">
                   <Button variant="outline" size="sm" asChild className="w-full">
                     <Link href="/inventory">
-                      View Inventory Details <ArrowRight className="ml-2 h-4 w-4" />
+                      View Syllabus Details <ArrowRight className="ml-2 h-4 w-4" />
                     </Link>
                   </Button>
                 </div>
@@ -679,7 +679,7 @@ export default function DashboardPage() {
             ) : (
               <div className="text-center py-8 text-muted-foreground">
                 <Activity className="mx-auto h-12 w-12 opacity-50 mb-3" />
-                <p>Top selling items data will appear here once sales are recorded.</p>
+                <p>Exam activity data will appear here once practice runs are started.</p>
               </div>
             )}
           </CardContent>

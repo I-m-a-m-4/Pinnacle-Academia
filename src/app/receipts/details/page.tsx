@@ -158,7 +158,7 @@ function ReceiptContent() {
       <div className="flex flex-wrap items-center justify-center gap-3 no-print">
         {user && (
           <Button asChild variant="outline">
-            <Link href="/sales/pos/select-products"><PlusCircle className="mr-2 h-4 w-4" /> New Sale</Link>
+            <Link href="/cbt-simulator/select-subjects"><PlusCircle className="mr-2 h-4 w-4" /> New Simulation</Link>
           </Button>
         )}
         <Button onClick={handlePrint} variant="outline">

@@ -10,22 +10,22 @@
     --card-foreground: 224 71% 4%;
     --popover: 0 0% 100%;
     --popover-foreground: 224 71% 4%;
-    --primary: 22 90% 55%;
+    --primary: 33 45% 69%;
     --primary-foreground: 0 0% 100%;
     --secondary: 210 40% 96.1%;
     --secondary-foreground: 222.2 47.4% 11.2%;
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
-    --accent: 22 90% 55%;
+    --accent: 33 45% 69%;
     --accent-foreground: 0 0% 100%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
     --border: 0 0% 90%; /* Crisp silver for definitive hairline borders */
     --input: 220 13% 94%;
-    --ring: 22 90% 55%;
+    --ring: 33 45% 69%;
     --radius: 0.5rem;
 
-    --chart-1: 22 90% 55%;
+    --chart-1: 33 45% 69%;
     --chart-2: 25 95% 65%;
     --chart-3: 15 80% 45%;
     --chart-4: 35 90% 60%;
@@ -36,9 +36,9 @@
     --sidebar-border: 214.3 31.8% 91.4%;
     --sidebar-accent: 210 40% 92%;
     --sidebar-accent-foreground: 222.2 47.4% 11.2%;
-    --sidebar-primary: 22 90% 45%;
+    --sidebar-primary: 33 45% 59%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-ring: 22 90% 45%;
+    --sidebar-ring: 33 45% 59%;
   }
 
   .dark {
@@ -48,7 +48,7 @@
     --card-foreground: 0 0% 98%;
     --popover: 240 10% 3.9%;
     --popover-foreground: 0 0% 98%;
-    --primary: 22 90% 55%;
+    --primary: 33 45% 69%;
     --primary-foreground: 0 0% 100%;
     --secondary: 240 3.7% 15.9%;
     --secondary-foreground: 0 0% 98%;
@@ -60,16 +60,16 @@
     --destructive-foreground: 0 0% 98%;
     --border: 240 3.7% 12%; /* Keep dark but allow for sharper contrast */
     --input: 240 3.7% 12%;
-    --ring: 22 90% 55%;
+    --ring: 33 45% 69%;
 
     --sidebar-background: 240 5.9% 5%;
     --sidebar-foreground: 240 4.8% 95.9%;
-    --sidebar-primary: 22 90% 55%;
+    --sidebar-primary: 33 45% 69%;
     --sidebar-primary-foreground: 0 0% 100%;
     --sidebar-accent: 240 3.7% 15.9%;
     --sidebar-accent-foreground: 240 4.8% 95.9%;
     --sidebar-border: 240 3.7% 15.9%;
-    --sidebar-ring: 22 90% 55%;
+    --sidebar-ring: 33 45% 69%;
 
     --chart-1: 220 70% 50%;
     --chart-2: 160 60% 45%;

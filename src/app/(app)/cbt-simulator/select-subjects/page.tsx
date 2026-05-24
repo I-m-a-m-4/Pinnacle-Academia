@@ -73,15 +73,15 @@ const ProductItem = React.memo(({ product, currencySymbol, handleAddToCart, addT
                 <CardTitle className="text-sm font-medium leading-tight line-clamp-3 min-h-[3.25rem] text-foreground flex items-center gap-1.5 flex-wrap">
                     {product.name}
                     {(product.categoryType === 'service' || product.category?.toLowerCase() === 'service' || product.category?.toLowerCase() === 'services') ? (
-                        <Badge variant="outline" className="text-[10px] h-4 bg-blue-500/10 text-blue-500 border-blue-500/20 px-1 py-0">Service</Badge>
+                        <Badge variant="outline" className="text-[10px] h-4 bg-blue-500/10 text-blue-500 border-blue-500/20 px-1 py-0">Optional</Badge>
                     ) : (
-                        (product.stock || 0) <= 0 && <Badge variant="destructive" className="text-[10px] h-4 px-1 py-0 bg-red-500/10 text-red-500 border-red-500/20">Out of Stock</Badge>
+                        (product.stock || 0) <= 0 && <Badge variant="destructive" className="text-[10px] h-4 px-1 py-0 bg-red-500/10 text-red-500 border-red-500/20">Unavailable</Badge>
                     )}
                 </CardTitle>
             </CardHeader>
             <CardFooter className="px-4 pb-4 pt-0 flex justify-between items-end mt-auto">
                 <div className="flex flex-col">
-                    <span className="text-lg font-bold text-foreground dark:text-white">{currencySymbol}{product.price.toLocaleString()}</span>
+                    <span className="text-lg font-bold text-foreground dark:text-white">{product.price.toLocaleString()} Qs</span>
                     {product.baseUnit && <span className="text-[10px] text-muted-foreground">per {product.baseUnit}</span>}
                 </div>
 
@@ -105,10 +105,10 @@ const ProductItem = React.memo(({ product, currencySymbol, handleAddToCart, addT
                                     }
                                 }
                             }}>
-                                <DropdownMenuRadioItem value="base">1 {product.baseUnit || 'Piece'} ({currencySymbol}{product.price.toLocaleString()})</DropdownMenuRadioItem>
+                                <DropdownMenuRadioItem value="base">1 {product.baseUnit || 'Paper'} ({product.price.toLocaleString()} Qs)</DropdownMenuRadioItem>
                                 {product.uomConversions.map((uom) => (
                                     <DropdownMenuRadioItem key={uom.unitName} value={uom.unitName}>
-                                        1 {uom.unitName} ({uom.multiplier} {product.baseUnit || 'pcs'}) - {currencySymbol}{(uom.price || product.price).toLocaleString()}
+                                        1 {uom.unitName} ({uom.multiplier} {product.baseUnit || 'papers'}) - {(uom.price || product.price).toLocaleString()} Qs
                                     </DropdownMenuRadioItem>
                                 ))}
                             </DropdownMenuRadioGroup>
@@ -145,7 +145,7 @@ const CartContents = () => {
             {cart.length === 0 ? (
                 <div className="flex flex-col items-center justify-center text-center text-muted-foreground p-8">
                     <ShoppingCart className="h-12 w-12" />
-                    <p className="mt-4">Your cart is empty.</p>
+                    <p className="mt-4 text-xs">No subjects selected. Choose your UTME subject combination from the left.</p>
                 </div>
             ) : (
                 <div className="space-y-4">
@@ -158,7 +158,7 @@ const CartContents = () => {
                                 className="h-8 gap-1.5 px-2 text-xs font-medium border-dashed"
                             >
                                 <Archive className="h-3.5 w-3.5" />
-                                Hold
+                                Save Setup
                             </Button>
                         </div>
                         <Button
@@ -168,7 +168,7 @@ const CartContents = () => {
                             className="text-destructive hover:text-destructive hover:bg-destructive/10 h-8 gap-1.5 px-2 text-xs font-medium"
                         >
                             <Trash2 className="h-3.5 w-3.5" />
-                            Clear Cart
+                            Clear Selection
                         </Button>
                     </div>
                     {cart.map(item => {
@@ -180,7 +180,7 @@ const CartContents = () => {
                                         {item.product.name}
                                         {item.unit && <Badge variant="secondary" className="ml-2 text-[10px] py-0 h-4">{item.unit}</Badge>}
                                     </p>
-                                    <p className="text-xs text-muted-foreground">{currencySymbol}{(item.product.price * item.quantity).toLocaleString()}</p>
+                                    <p className="text-xs text-muted-foreground">{(item.product.price * item.quantity).toLocaleString()} Questions</p>
                                 </div>
                                 <div className="flex items-center gap-2">
                                     <Input
@@ -199,8 +199,8 @@ const CartContents = () => {
                     })}
                     <Separator />
                     <div className="flex justify-between font-semibold">
-                        <span>Subtotal</span>
-                        <span>{currencySymbol}{subtotal.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</span>
+                        <span>Total Questions</span>
+                        <span>{cart.reduce((acc, item) => acc + (item.product.price * item.quantity), 0).toLocaleString()} Qs</span>
                     </div>
                 </div>
             )}
@@ -320,7 +320,7 @@ export default function SelectProductsPage() {
 
     const handleNext = () => {
         setIsNavigating(true);
-        router.push('/sales/pos/customer');
+        router.push('/cbt-simulator/student-details');
     };
 
     return (
@@ -331,7 +331,7 @@ export default function SelectProductsPage() {
                         <div className="relative flex-1 group">
                             <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground group-focus-within:text-primary transition-colors" />
                             <Input
-                                placeholder="Search name or SKU..."
+                                placeholder="Search subjects or exam modes..."
                                 className="pl-8 ring-offset-background focus-visible:ring-primary h-11"
                                 value={searchTerm}
                                 onChange={(e) => setSearchTerm(e.target.value)}
@@ -369,10 +369,10 @@ export default function SelectProductsPage() {
                                 </Button>
                             </DropdownMenuTrigger>
                             <DropdownMenuContent align="end">
-                                <DropdownMenuLabel>Filter by Category</DropdownMenuLabel>
+                                <DropdownMenuLabel>Filter by Department/Field</DropdownMenuLabel>
                                 <DropdownMenuSeparator />
                                 <DropdownMenuRadioGroup value={categoryFilter} onValueChange={setCategoryFilter}>
-                                    <DropdownMenuRadioItem value="all">All Categories</DropdownMenuRadioItem>
+                                    <DropdownMenuRadioItem value="all">All Departments</DropdownMenuRadioItem>
                                     {business?.settings?.productCategories?.map(cat => (
                                         <DropdownMenuRadioItem key={cat} value={cat}>{cat}</DropdownMenuRadioItem>
                                     ))}
@@ -394,7 +394,7 @@ export default function SelectProductsPage() {
                     {isSyncing && (
                         <div className="flex items-center gap-2 ml-1">
                             <div className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse" />
-                            <span className="text-[10px] text-muted-foreground font-medium uppercase tracking-widest leading-none">Global Catalog Syncing...</span>
+                            <span className="text-[10px] text-muted-foreground font-medium uppercase tracking-widest leading-none">Global Syllabus Syncing...</span>
                         </div>
                     )}
                 </div>
@@ -402,7 +402,7 @@ export default function SelectProductsPage() {
                     {isLoading || products === null ? (
                         <div className="flex flex-col items-center justify-center p-12 min-h-[300px] text-center">
                             <Loader2 className="h-12 w-12 animate-spin text-primary opacity-50 mb-4" />
-                            <p className="text-muted-foreground animate-pulse">Filtering products...</p>
+                            <p className="text-muted-foreground animate-pulse">Filtering subjects...</p>
                         </div>
                     ) : (
                         <>
@@ -424,9 +424,9 @@ export default function SelectProductsPage() {
                             ) : (
                                 <div className="flex flex-col items-center justify-center p-12 text-center border-2 border-dashed rounded-lg min-h-[400px]">
                                     <Package className="h-16 w-16 text-muted-foreground opacity-30 mb-4" />
-                                    <h3 className="text-xl font-semibold">No products found</h3>
+                                    <h3 className="text-xl font-semibold">No subjects found</h3>
                                     <p className="text-muted-foreground mt-2 mb-6 max-w-[250px] mx-auto">
-                                        {searchTerm ? `We couldn't find matches for "${searchTerm}" in your synchronized catalog.` : "This category is currently empty."}
+                                        {searchTerm ? `We couldn't find matches for "${searchTerm}" in your synchronized syllabus.` : "This department is currently empty."}
                                     </p>
                                     {searchTerm ? (
                                         <Button variant="outline" size="sm" onClick={() => { setSearchTerm(''); }}>
@@ -435,7 +435,7 @@ export default function SelectProductsPage() {
                                     ) : (
                                         <Button size="sm" asChild>
                                             <Link href="/inventory/add">
-                                                <PlusCircle className="h-4 w-4 mr-2" /> Add Product
+                                                <PlusCircle className="h-4 w-4 mr-2" /> Add Subject
                                             </Link>
                                         </Button>
                                     )}
@@ -455,7 +455,7 @@ export default function SelectProductsPage() {
                     <CardHeader>
                         <CardTitle className="flex items-center gap-2">
                             <ShoppingCart className="h-5 w-5" />
-                            <span>Cart</span>
+                            <span>Selected Exam Subjects</span>
                         </CardTitle>
                     </CardHeader>
                     <CardContent>
@@ -466,7 +466,7 @@ export default function SelectProductsPage() {
                     <CardFooter>
                         <Button className="w-full" onClick={handleNext} disabled={cart.length === 0 || isNavigating}>
                             {isNavigating && <Loader2 className="mr-2 h-4 w-4 animate-spin" />}
-                            Next: Customer
+                            Next: Student Details
                         </Button>
                     </CardFooter>
                 </Card>
@@ -480,15 +480,15 @@ export default function SelectProductsPage() {
                             <div className="flex justify-between items-center w-full">
                                 <div className="flex items-center gap-2">
                                     <ChevronsUp className="h-5 w-5" />
-                                    <span>View Cart ({cart.reduce((acc, item) => acc + item.quantity, 0)})</span>
+                                    <span>Selected Subjects ({cart.reduce((acc, item) => acc + item.quantity, 0)})</span>
                                 </div>
-                                <span>{currencySymbol}{subtotal.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</span>
+                                <span>{cart.reduce((acc, item) => acc + (item.product.price * item.quantity), 0).toLocaleString()} Qs</span>
                             </div>
                         </Button>
                     </SheetTrigger>
                     <SheetContent side="bottom" className="h-[75%] flex flex-col">
                         <SheetHeader className="p-4 border-b text-left">
-                            <SheetTitle>Your Cart</SheetTitle>
+                            <SheetTitle>Selected Exam Subjects</SheetTitle>
                         </SheetHeader>
                         <ScrollArea className="flex-1 p-4">
                             <CartContents />
@@ -496,7 +496,7 @@ export default function SelectProductsPage() {
                         <SheetFooter className="p-4 border-t bg-background">
                             <Button className="w-full" size="lg" onClick={handleNext} disabled={cart.length === 0 || isNavigating}>
                                 {isNavigating && <Loader2 className="mr-2 h-4 w-4 animate-spin" />}
-                                Next: Customer
+                                Next: Student Details
                             </Button>
                         </SheetFooter>
                     </SheetContent>

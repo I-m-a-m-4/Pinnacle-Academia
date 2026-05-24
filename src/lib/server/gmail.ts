@@ -7,7 +7,7 @@ const GMAIL_CLIENT_ID = process.env.GMAIL_CLIENT_ID;
 const GMAIL_CLIENT_SECRET = process.env.GMAIL_CLIENT_SECRET;
 const GMAIL_REFRESH_TOKEN = process.env.GMAIL_REFRESH_TOKEN;
 const GMAIL_USER = process.env.GMAIL_SENDER_EMAIL; // The account used to send
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || 'https://zeneva.space';
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || 'https://pinnacle-academia.com';
 
 export interface FollowUpParams {
   to: string;
@@ -71,7 +71,7 @@ export async function sendGmailFollowUp(params: FollowUpParams, retryCount = 0):
 
     // 4. Send Email
     const info = await transporter.sendMail({
-      from: `Zeneva Success Team <${GMAIL_USER}>`,
+      from: `Pinnacle Academia Team <${GMAIL_USER}>`,
       to: params.to,
       subject: params.subject,
       html: htmlWithPixel,

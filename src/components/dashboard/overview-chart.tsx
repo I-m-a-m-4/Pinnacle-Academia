@@ -13,7 +13,7 @@ import { safeToDate } from '@/lib/utils';
 
 const chartConfig = {
   totalSales: {
-    label: "Total Sales",
+    label: "Exams Completed",
     color: "#ea580c", // Zeneva Orange
   },
 } satisfies ChartConfig;
@@ -56,16 +56,16 @@ export default function OverviewChart({ receipts, currencySymbol, data }: Overvi
     <Card className="shadow-md transition-all duration-300">
       <CardHeader>
 
-        <CardTitle>Sales Overview</CardTitle>
-        <CardDescription>Monthly sales performance for the current year.</CardDescription>
+        <CardTitle>Exam Prep & Simulator Activity</CardTitle>
+        <CardDescription>Monthly simulated examinations and practice tests completed.</CardDescription>
       </CardHeader>
       <CardContent>
         {noData ? (
           <div className="h-[300px] flex flex-col items-center justify-center text-center text-muted-foreground p-4">
             <TrendingUp className="h-16 w-16 opacity-50 mb-4" />
             <div className="text-sm p-2 rounded-md bg-muted/50 max-w-sm">
-              <p className="font-semibold flex items-center gap-2 justify-center"><Bot className="h-4 w-4 text-primary" /> Zen AI</p>
-              <p>This chart will track your revenue over time once you complete your first sale through the POS.</p>
+              <p className="font-semibold flex items-center gap-2 justify-center"><Bot className="h-4 w-4 text-primary" /> AI Analyst</p>
+              <p>This chart will track your exam activity over time once you start your first simulated exam.</p>
             </div>
           </div>
         ) : (
@@ -94,14 +94,14 @@ export default function OverviewChart({ receipts, currencySymbol, data }: Overvi
                       width={60}
                       tickFormatter={(value) => {
                         const val = Number(value);
-                        if (val >= 1000000) return `${currencySymbol}${(val / 1000000).toFixed(val >= 10000000 ? 0 : 1)}M`;
-                        if (val >= 1000) return `${currencySymbol}${(val / 1000).toLocaleString()}k`;
-                        return `${currencySymbol}${val}`;
+                        if (val >= 1000000) return `${(val / 1000000).toFixed(val >= 10000000 ? 0 : 1)}M`;
+                        if (val >= 1000) return `${(val / 1000).toLocaleString()}k`;
+                        return `${val}`;
                       }}
                     />
                     <ChartTooltip
                       cursor={false}
-                      content={<ChartTooltipContent indicator="dot" formatter={(value) => `${currencySymbol}${Number(value).toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 0 })}`} />}
+                      content={<ChartTooltipContent indicator="dot" formatter={(value) => `${Number(value).toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 0 })}`} />}
                     />
                     <Bar dataKey="totalSales" fill="#ea580c" radius={4} />
                   </BarChart>

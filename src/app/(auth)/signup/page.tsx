@@ -34,28 +34,28 @@ import { cn } from '@/lib/utils';
 
 const signupSlides = [
   {
-    src: "/zeneva-signup-v3.png",
-    alt: "Luxury boutique storefront at night.",
-    title: "Scale Your Business Galaxy",
-    description: "Join a network of thriving businesses and unlock premium tools designed for exponential growth."
+    src: "/assets/login_cbt.png",
+    alt: "A modern exam hall where students sit at laptop computers taking a computer based test (CBT).",
+    title: "High-Fidelity CBT Engine",
+    description: "Simulate real computer-based tests for UNILAG, UI, OAU, and more with smart AI topic analysis and offline capability."
   },
   {
-    src: "/zeneva-signup-2.png",
-    alt: "Modern high-end shopping street at twilight.",
-    title: "Thriving Ecosystem",
-    description: "Place your business in the spotlight with an infrastructure built for success."
+    src: "/assets/login_syllabus.png",
+    alt: "A student studying textbooks and a digital syllabus checklist tracker on a phone.",
+    title: "Syllabus Tracker & Checker",
+    description: "Track your coverage of official JAMB & WAEC syllabus outlines and summary novel checklists automatically."
   },
   {
-    src: "/zeneva-signup-3.png",
-    alt: "Minimalist glass boutique entrance.",
-    title: "Seamless Entry",
-    description: "Launch your business in minutes with our intuitive onboarding and management suite."
+    src: "/assets/login_news.png",
+    alt: "A student checking real-time news on a smartphone showing notifications with official verified badges.",
+    title: "Verified News Hub",
+    description: "Avoid rumors. Get double-checked official updates and admission feeds directly from campus representatives."
   },
   {
-    src: "/zeneva-signup-4.png",
-    alt: "Futuristic modern marketplace visualization.",
-    title: "Global Reach",
-    description: "Scale from a single location to a global franchise with Zeneva's multi-store intelligence."
+    src: "/assets/login_mentorship.png",
+    alt: "A student smiling during a 1-on-1 tutoring session with a mentor.",
+    title: "Community & Mentorship",
+    description: "Connect on real-time forums or schedule interactive 15-minute consultations with top student mentors."
   }
 ];
 
@@ -140,7 +140,7 @@ export default function SignupPage() {
 
       triggerRefresh();
       await new Promise(resolve => setTimeout(resolve, 1500));
-      router.push(invitationCode ? '/sales/pos/select-products' : '/onboarding');
+      router.push(invitationCode ? '/cbt-simulator/select-subjects' : '/onboarding');
 
     } catch (error: any) {
       let description = "Please try again.";
@@ -167,7 +167,7 @@ export default function SignupPage() {
         <div className="mx-auto grid w-full max-w-[380px] gap-6">
           <div className="grid gap-2 text-center">
             <div className="flex items-center justify-center gap-2 mb-4">
-              <img src={AppConfig.logoUrl} alt="Zeneva Logo" className="h-16 w-auto" />
+              <img src={AppConfig.logoUrl} alt="Pinnacle Academia Logo" className="h-16 w-auto" />
             </div>
             <h1 className="text-3xl font-bold">Create an account</h1>
             <p className="text-balance text-muted-foreground">
@@ -300,7 +300,7 @@ export default function SignupPage() {
               <h2 className="text-white text-4xl font-bold font-headline leading-tight tracking-tight drop-shadow-lg">
                 {signupSlides[currentSlide].title.split(" ").map((word, i) => (
                   <React.Fragment key={i}>
-                    {word === "Galaxy" || word === "Ecosystem" || word === "Entry" || word === "Reach" ? <span className="text-primary italic"> {word} </span> : word + " "}
+                    {word === "CBT" || word === "Syllabus" || word === "News" || word === "Mentorship" || word === "AI" ? <span className="text-primary italic"> {word} </span> : word + " "}
                   </React.Fragment>
                 ))}
               </h2>
