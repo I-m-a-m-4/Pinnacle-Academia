@@ -190,7 +190,7 @@ export function POSProvider({ children }: { children: ReactNode }) {
         const controller = new AbortController();
         // INCREASE TIMEOUT WINDOW TO 8.5 SECONDS TO ACCOMMODATE WEAK/SLUGGISH CELLULAR LINKS
         const id = setTimeout(() => controller.abort(), 8500);
-        await fetch("https://fonts.googleapis.com", {
+        await fetch("https://www.google.com", {
           mode: "no-cors",
           cache: "no-store",
           signal: controller.signal,
@@ -230,7 +230,7 @@ export function POSProvider({ children }: { children: ReactNode }) {
     const tasks = [
       checkFetch(),
       checkImage("https://www.google.com/favicon.ico"),
-      checkImage("https://www.cloudflare.com/favicon.ico")
+      checkImage("https://github.com/favicon.ico")
     ];
 
     // Custom Race: Resolve to TRUE immediately on the FIRST successful probe.
