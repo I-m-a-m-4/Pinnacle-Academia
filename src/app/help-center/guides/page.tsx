@@ -89,12 +89,12 @@ export default function HelpGuidesPage() {
     {
       id: 'staff-permissions',
       title: "Setting up staff permissions and roles",
-      description: "Manage access levels and protect sensitive business data.",
+      description: "Manage access levels and protect sensitive academy data.",
       icon: <Users className="w-5 h-5" />,
       content: (
         <div className="space-y-8">
           <p className="text-slate-600 text-lg">
-            Protect your business by granting the right access to the right people. Zeneva&apos;s RBAC (Role-Based Access Control) is designed for multi-staff retail operations.
+            Protect your academy by granting the right access to the right people. Zeneva&apos;s RBAC (Role-Based Access Control) is designed for multi-staff retail operations.
           </p>
 
           <section className="space-y-6">
@@ -102,8 +102,8 @@ export default function HelpGuidesPage() {
             <div className="space-y-4">
               {[
                 { name: 'Administrator', access: 'Unrestricted access to financials, settings, and team management.' },
-                { name: 'Store Manager', access: 'Full access to inventory, sales records, and returns, but restricted from sensitive business settings.' },
-                { name: 'Cashier', access: 'Access restricted to the POS terminal, processing sales, and adding customers only.' },
+                { name: 'Store Manager', access: 'Full access to inventory, sales records, and returns, but restricted from sensitive academy settings.' },
+                { name: 'Cashier', access: 'Access restricted to the POS terminal, processing sales, and adding students only.' },
                 { name: 'Stock Clerk', access: 'Restricted to inventory updates, barcode scanning, and low-stock reports.' }
               ].map((role) => (
                 <div key={role.name} className="flex items-center justify-between p-4 bg-slate-50 rounded-xl border border-slate-100">
@@ -127,7 +127,7 @@ export default function HelpGuidesPage() {
                 'View Profit Margins on Inventory',
                 'Access Historical Multi-Store Reports',
                 'Modify Tax & VAT Configurations',
-                'Delete Customer Records'
+                'Delete Student Records'
               ].map((perm) => (
                 <li key={perm} className="flex items-center gap-2 text-sm text-slate-700 bg-white p-3 rounded-lg border border-slate-100">
                   <div className="w-2 h-2 rounded-full bg-primary" />
@@ -227,7 +227,7 @@ export default function HelpGuidesPage() {
               </li>
               <li className="flex items-center gap-3 text-sm text-slate-700">
                 <CheckCircle2 className="w-4 h-4 text-primary" />
-                <span>**Scan-to-Quantity**: Double-scanning an item automatically increments its quantity in the cart.</span>
+                <span>**Scan-to-Quantity**: Double-scanning an item automatically increments its quantity in the syllabus.</span>
               </li>
               <li className="flex items-center gap-3 text-sm text-slate-700">
                 <CheckCircle2 className="w-4 h-4 text-primary" />

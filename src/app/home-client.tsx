@@ -111,12 +111,12 @@ const faqItems = [
         answer: "Zen AI improves continuously using your historical sales, time-based demand, and customer behavior. Accuracy increases as your data grows."
     },
     {
-        question: "Can I manage multiple business locations?",
+        question: "Can I manage multiple academy locations?",
         answer: "Yes. Zeneva’s Enterprise Plus plan allows you to sync stock levels, track staff movements, and view unified analytics across multiple storefronts or warehouses from one dashboard."
     },
     {
         question: "Does Zeneva support international payments?",
-        answer: "Yes! Zeneva now supports international payments via Paystack. You can accept USD and other global currencies from customers anywhere in the world on our Pro and Enterprise plans."
+        answer: "Yes! Zeneva now supports international payments via Paystack. You can accept USD and other global currencies from students anywhere in the world on our Pro and Enterprise plans."
     },
     {
         question: "Can Zeneva replace my existing POS or inventory system?",
@@ -124,11 +124,11 @@ const faqItems = [
     },
     {
         question: "Is my data secure?",
-        answer: "Yes. All data is encrypted, isolated per business, and protected using enterprise-grade cloud infrastructure."
+        answer: "Yes. All data is encrypted, isolated per academy, and protected using enterprise-grade cloud infrastructure."
     },
     {
         question: "How long does setup take?",
-        answer: "Most businesses are live within hours — products can be imported, staff invited, and selling started the same day."
+        answer: "Most businesses are live within hours — subjects can be imported, staff invited, and selling started the same day."
     }
 ];
 
@@ -143,14 +143,14 @@ const features = [
     {
         icon: Globe,
         title: "E-Commerce Storefront",
-        description: "Launch a beautiful, customizable online store in minutes. Your products sync automatically, and you can accept payments online with Paystack integration.",
+        description: "Launch a beautiful, customizable online store in minutes. Your subjects sync automatically, and you can accept payments online with Paystack integration.",
         bgColor: "bg-green-100",
         iconColor: "text-green-600"
     },
     {
         icon: Bot,
         title: "AI-Powered Insights",
-        description: "Go beyond simple reports. Zen AI acts as a sentinel for your business, identifying your most valuable products, customers, and at-risk stock.",
+        description: "Go beyond simple reports. Zen AI acts as a sentinel for your academy, identifying your most valuable subjects, students, and at-risk stock.",
         bgColor: "bg-purple-100",
         iconColor: "text-purple-600"
     },
@@ -164,7 +164,7 @@ const features = [
     {
         icon: BarChart3,
         title: "Advanced Reporting",
-        description: "Deep-dive into your business performance with detailed reports on sales, profit & loss, top products, and customer behavior, all filterable by date.",
+        description: "Deep-dive into your academy performance with detailed reports on sales, profit & loss, top subjects, and customer behavior, all filterable by date.",
         bgColor: "bg-sky-100",
         iconColor: "text-sky-600"
     },
@@ -251,7 +251,7 @@ export default function Home() {
         "Blue denim sales spike 40% on pay-day weekends. Stock 15 extra units to capture demand.",
         "Summer dresses are trending. Move to front window display to increase foot traffic.",
         "Red sneakers are low in stock. Reorder now to avoid missing weekend sales.",
-        "Customer X buys formal wear every 3 months. Send personalized offer now.",
+        "Student X buys formal wear every 3 months. Send personalized offer now.",
         "Winter coats are moving slow. Bundle with scarves to clear inventory."
     ];
 
@@ -508,7 +508,7 @@ export default function Home() {
 
                             {/* Right Column: UI Mockups */}
                             <div className="mt-8 sm:mt-0 relative [perspective:1000px]">
-                                <Image src="/computer-P.png" alt="Product UI" width={1600} height={1200} className="w-full h-auto block" priority />
+                                <Image src="/computer-P.png" alt="Subject UI" width={1600} height={1200} className="w-full h-auto block" priority />
                             </div>
                         </div>
                     </main>
@@ -608,7 +608,7 @@ export default function Home() {
                                     Everything You Need to Grow
                                 </h2>
                                 <p className="text-lg text-slate-500 tracking-tight font-dm-sans mb-6">
-                                    Zeneva is an all-in-one platform. From point-of-sale to a public storefront, we provide the tools to run your business efficiently.
+                                    Zeneva is an all-in-one platform. From point-of-sale to a public storefront, we provide the tools to run your academy efficiently.
                                 </p>
                                 <Button asChild variant="outline" size="sm">
                                     <Link href="/use-cases">Explore Use Cases</Link>
@@ -627,7 +627,7 @@ export default function Home() {
                                     {
                                         icon: Globe,
                                         title: "E-Commerce Storefront",
-                                        description: "Launch a beautiful, customizable online store in minutes. Your products sync automatically.",
+                                        description: "Launch a beautiful, customizable online store in minutes. Your subjects sync automatically.",
                                         bgColor: "bg-green-100",
                                         iconColor: "text-green-600",
                                         hoverBg: "bg-[#FFF1F2]" // Light Pink
@@ -635,7 +635,7 @@ export default function Home() {
                                     {
                                         icon: Bot,
                                         title: "AI-Powered Insights",
-                                        description: "Go beyond simple reports. Zen AI acts as a sentinel for your business, identifying your most valuable products.",
+                                        description: "Go beyond simple reports. Zen AI acts as a sentinel for your academy, identifying your most valuable subjects.",
                                         bgColor: "bg-purple-100",
                                         iconColor: "text-purple-600",
                                         hoverBg: "bg-[#FAFAF9]" // Light Stone/White
@@ -651,12 +651,13 @@ export default function Home() {
                                     {
                                         icon: BarChart2,
                                         title: "Advanced Reporting",
-                                        description: "Deep-dive into your business performance with detailed reports on sales, profit & loss, and top products.",
+                                        description: "Deep-dive into your academy performance with detailed reports on sales, profit & loss, and top subjects.",
                                         bgColor: "bg-sky-100",
                                         iconColor: "text-sky-600",
                                         hoverBg: "bg-[#EFF6FF]" // Light Blue
                                     },
                                     {
+                                        icon: UserCog,
                                         title: "Granular User Permissions",
                                         description: "Securely manage your team by inviting staff and assigning roles with granular permissions for inventory, reports, and sales.",
                                         bgColor: "bg-yellow-100",
@@ -690,7 +691,7 @@ export default function Home() {
                                     {
                                         icon: InfinityIcon,
                                         title: "Unlimited Sales Recording",
-                                        description: "Record an infinite amount of sales transactions. The system scales effortlessly with your business volume without slowing down.",
+                                        description: "Record an infinite amount of sales transactions. The system scales effortlessly with your academy volume without slowing down.",
                                         bgColor: "bg-cyan-100",
                                         iconColor: "text-cyan-600",
                                         hoverBg: "bg-[#ECFEFF]" // Light Cyan
@@ -714,7 +715,7 @@ export default function Home() {
                                     {
                                         icon: Package,
                                         title: "Inventory Management",
-                                        description: "Effortlessly track stock levels, manage variants, and receive low-stock alerts to ensure you never run out of your best-selling products.",
+                                        description: "Effortlessly track stock levels, manage variants, and receive low-stock alerts to ensure you never run out of your best-selling subjects.",
                                         bgColor: "bg-orange-100",
                                         iconColor: "text-orange-600",
                                         hoverBg: "bg-[#FFF7ED]" // Light Orange
@@ -729,8 +730,8 @@ export default function Home() {
                                     },
                                     {
                                         icon: Printer,
-                                        title: "Receipt Printing",
-                                        description: "Provide professional, branded receipts for every transaction. Compatible with most thermal receipt printers.",
+                                        title: "Admission Printing",
+                                        description: "Provide professional, branded admissions for every transaction. Compatible with most thermal receipt printers.",
                                         bgColor: "bg-amber-100",
                                         iconColor: "text-amber-600",
                                         hoverBg: "bg-[#FFFBEB]" // Light Amber
@@ -810,7 +811,7 @@ export default function Home() {
                                                     <div>
                                                         <h4 className="font-semibold text-slate-900 text-base">Market Opportunities</h4>
                                                         <p className="text-sm text-slate-500 mt-1 leading-relaxed">
-                                                            Shows the business owner new untapped market opportunities and flags cash trapped in inventory.
+                                                            Shows the academy owner new untapped market opportunities and flags cash trapped in inventory.
                                                         </p>
                                                     </div>
                                                 </li>
@@ -1034,7 +1035,7 @@ export default function Home() {
 
 
 
-                    <section id="business-types" className="py-24 px-6 bg-white border-t border-slate-100">
+                    <section id="academy-types" className="py-24 px-6 bg-white border-t border-slate-100">
                         <div className="max-w-7xl mx-auto">
                             <div className="text-center max-w-2xl mx-auto mb-16">
                                 <h2 className="text-4xl font-light text-slate-900 tracking-tight font-bricolage mb-4">
@@ -1109,7 +1110,7 @@ export default function Home() {
                                         <span className="text-4xl font-bold tracking-tight">Free</span>
                                     </div>
                                     <ul className="mt-6 space-y-4 text-sm">
-                                        <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Up to 500 products</li>
+                                        <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Up to 500 subjects</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> 1 Staff Account</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Standard POS (Unlimited Sales)</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Basic Analytics</li>
@@ -1140,13 +1141,13 @@ export default function Home() {
                                         )}
                                     </div>
                                     <ul className="mt-6 space-y-4 text-sm">
-                                        <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Up to 1,500 products</li>
+                                        <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Up to 1,500 subjects</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> 5 Staff Accounts</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Customizable E-Commerce Storefront</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Backorders & Backdating Capability</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Invoicing & Debt Management</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Advanced Reports & Analytics</li>
-                                        <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> AI Product Troubleshooter</li>
+                                        <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> AI Subject Troubleshooter</li>
                                         <li className="flex items-center gap-3 font-semibold"><Check className="h-5 w-5 text-primary" /> Granular Staff Permissions (RBAC)</li>
                                     </ul>
                                     <div className="mt-auto pt-6">
@@ -1172,7 +1173,7 @@ export default function Home() {
                                         )}
                                     </div>
                                     <ul className="mt-6 space-y-4 text-sm">
-                                        <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Unlimited products & staff accounts</li>
+                                        <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Unlimited subjects & staff accounts</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> All features in Pro</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> AI Business Performance Dashboard</li>
                                         <li className="flex items-center gap-3"><Check className="h-5 w-5 text-primary" /> Granular Role-Based Access Control</li>
@@ -1225,7 +1226,7 @@ export default function Home() {
                                     Turn Data Into Profit — <span className="text-primary">Automatically</span>
                                 </h2>
                                 <p className="text-lg text-slate-500 mb-8 leading-relaxed">
-                                    Zeneva doesn’t just track activity. It actively pushes your business toward maximum profit by balancing demand, stock levels, and customer behavior in real time.
+                                    Zeneva doesn’t just track activity. It actively pushes your academy toward maximum profit by balancing demand, stock levels, and customer behavior in real time.
                                 </p>
 
                                 <div className="space-y-6 mb-10">
@@ -1261,7 +1262,7 @@ export default function Home() {
                                             <Trophy className="w-6 h-6 text-primary" />
                                         </div>
                                         <div>
-                                            <h4 className="text-lg font-semibold text-slate-900">Identify winning products</h4>
+                                            <h4 className="text-lg font-semibold text-slate-900">Identify winning subjects</h4>
                                             <p className="text-slate-500">Double down with confidence.</p>
                                         </div>
                                     </div>

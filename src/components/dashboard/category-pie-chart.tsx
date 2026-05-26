@@ -8,18 +8,18 @@ import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/
 import { PieChart, Pie, Cell, ResponsiveContainer } from "recharts";
 import type { ChartConfig } from "@/components/ui/chart";
 import { PieChart as PieChartIcon, Bot } from "lucide-react";
-import type { Product } from '@/types';
+import type { Subject } from '@/types';
 
 interface CategoryPieChartProps {
-  products: Product[];
+  subjects: Subject[];
 }
 
-export default function CategoryPieChart({ products }: CategoryPieChartProps) {
+export default function CategoryPieChart({ subjects }: CategoryPieChartProps) {
   const chartDataResult = React.useMemo(() => {
-    if (!products) return { data: [], config: {} };
+    if (!subjects) return { data: [], config: {} };
 
     const categoryCounts: Record<string, number> = {};
-    products.forEach(product => {
+    subjects.forEach(product => {
       if (product.categoryType === 'service') return;
       const categoryKey = product.category || 'Uncategorized';
       categoryCounts[categoryKey] = (categoryCounts[categoryKey] || 0) + Math.max(0, product.stock || 0);
@@ -44,13 +44,13 @@ export default function CategoryPieChart({ products }: CategoryPieChartProps) {
     });
 
     return { data: sortedData, config: newConfig };
-  }, [products]);
+  }, [subjects]);
 
   const { data: chartData, config: chartConfig } = chartDataResult;
 
   const totalItems = React.useMemo(() => {
-    return products.filter(p => p.categoryType !== 'service').reduce((acc, curr) => acc + Math.max(0, curr.stock || 0), 0);
-  }, [products]);
+    return subjects.filter(p => p.categoryType !== 'service').reduce((acc, curr) => acc + Math.max(0, curr.stock || 0), 0);
+  }, [subjects]);
 
   const noData = chartData.length === 0;
 
@@ -64,10 +64,7 @@ export default function CategoryPieChart({ products }: CategoryPieChartProps) {
         {noData ? (
           <div className="h-[250px] flex flex-col items-center justify-center text-center text-muted-foreground">
             <PieChartIcon className="h-16 w-16 opacity-50 mb-4" />
-            <div className="text-sm p-2 rounded-md bg-muted/50 max-w-sm">
-              <p className="font-semibold flex items-center gap-2 justify-center"><Bot className="h-4 w-4 text-primary" /> AI Analyst</p>
-              <p>Add subjects with topics to see your syllabus distribution here.</p>
-            </div>
+            <p className="text-sm max-w-sm">Add subjects with topics to see your syllabus distribution here.</p>
           </div>
         ) : (
           <ChartContainer config={chartConfig} className="mx-auto aspect-square h-[250px]">

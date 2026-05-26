@@ -5,7 +5,7 @@ import { sendNotificationToUser } from '@/lib/server/notifications';
 
 export async function POST(request: Request) {
   try {
-    const { reference, expectedAmount, businessId } = await request.json();
+    const { reference, expectedAmount, academyId } = await request.json();
 
     if (!reference) {
       return NextResponse.json({ error: 'Transaction reference is required' }, { status: 400 });
@@ -47,11 +47,11 @@ export async function POST(request: Request) {
       }
 
       // Trigger Notification to Merchant
-      if (businessId) {
+      if (academyId) {
         try {
-          // 1. Find users associated with this business (Owner/Admin)
+          // 1. Find users associated with this academy (Owner/Admin)
           const employeesSnapshot = await adminFirestore.collection('users')
-            .where('businessId', '==', businessId)
+            .where('academyId', '==', academyId)
             .where('role', 'in', ['owner', 'admin', 'manager'])
             .get();
 

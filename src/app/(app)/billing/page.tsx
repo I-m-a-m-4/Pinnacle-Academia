@@ -9,7 +9,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { useUser, useFirestore, useDoc, useMemoFirebase, useCollection } from '@/firebase';
 import { doc, collection, query, orderBy } from 'firebase/firestore';
 import { format } from 'date-fns';
-import { BusinessInstance, SubscriptionHistory, UserProfile } from '@/types';
+import { Academy, SubscriptionHistory, StudentProfile } from '@/types';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import { Loader2, History, ShieldCheck } from 'lucide-react';
@@ -18,7 +18,7 @@ import { Skeleton } from '@/components/ui/skeleton';
 import { Badge } from '@/components/ui/badge';
 import { cn, safeToDate } from '@/lib/utils';
 import RefreshButton from '@/components/shared/refresh-button';
-import { usePOS } from '@/context/pos-context';
+import { useAcademy } from '@/context/academy-context';
 
 const SubscriptionSection = dynamic(
     () => import('@/components/settings/subscription-section'),
@@ -81,13 +81,13 @@ const LifetimeAccessStatus = () => (
 
 function BillingPage() {
   const { user, isUserLoading } = useUser();
-  const { business: currentBusiness, currentUserProfile: userProfile, isLoading: isPosLoading } = usePOS();
+  const { academy: currentAcademy, currentUserProfile: userProfile, isLoading: isPosLoading } = useAcademy();
   const firestore = useFirestore();
 
   const subscriptionHistoryQuery = useMemoFirebase(() => {
-    if (!currentBusiness?.id || !firestore) return null;
-    return query(collection(firestore, 'businessInstances', currentBusiness.id, 'subscription_history'), orderBy('timestamp', 'desc'));
-  }, [currentBusiness?.id, firestore]);
+    if (!currentAcademy?.id || !firestore) return null;
+    return query(collection(firestore, 'businessInstances', currentAcademy.id, 'subscription_history'), orderBy('timestamp', 'desc'));
+  }, [currentAcademy?.id, firestore]);
   const { data: subscriptionHistory, isLoading: isHistoryLoading } = useCollection<SubscriptionHistory>(subscriptionHistoryQuery);
   
   const isLoading = isUserLoading || isPosLoading || isHistoryLoading;
@@ -96,8 +96,8 @@ function BillingPage() {
     return <BillingPageSkeleton />;
   }
   
-  if (!currentBusiness || !userProfile) {
-    return <div className="p-8 text-center text-muted-foreground">Business profile not found. Please refresh or contact support.</div>;
+  if (!currentAcademy || !userProfile) {
+    return <div className="p-8 text-center text-muted-foreground">Academy profile not found. Please refresh or contact support.</div>;
   }
 
   return (
@@ -115,14 +115,14 @@ function BillingPage() {
         <CardContent className="space-y-6">
             <div className="p-4 border rounded-lg bg-muted/50 space-y-2">
                 <p className="text-sm text-muted-foreground font-medium uppercase tracking-wider">Current Status</p>
-                {currentBusiness.accessLevel === 'lifetime' ? (
+                {currentAcademy.accessLevel === 'lifetime' ? (
                     <LifetimeAccessStatus />
                 ) : (
-                    <TrialCountdown expiryDate={currentBusiness.trialExpiresAt ? safeToDate(currentBusiness.trialExpiresAt) : null} />
+                    <TrialCountdown expiryDate={currentAcademy.trialExpiresAt ? safeToDate(currentAcademy.trialExpiresAt) : null} />
                 )}
                 
             </div>
-            <SubscriptionSection userProfile={userProfile} businessInstance={currentBusiness} />
+            <SubscriptionSection userProfile={userProfile} academyInstance={currentAcademy} />
         </CardContent>
       </Card>
       

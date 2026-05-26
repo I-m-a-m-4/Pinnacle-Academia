@@ -30,7 +30,7 @@ export async function POST(req: NextRequest) {
 
     // 2. Parse Body
     const body = await req.json();
-    const { to, name, subject, html, businessId, type } = body;
+    const { to, name, subject, html, academyId, type } = body;
 
     if (!to || !subject || !html) {
       return NextResponse.json({ message: 'Missing required fields' }, { status: 400, headers: corsHeaders });
@@ -42,7 +42,7 @@ export async function POST(req: NextRequest) {
       name,
       subject,
       body: html,
-      businessId,
+      academyId,
       type
     });
 

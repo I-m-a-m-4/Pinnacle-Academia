@@ -2,26 +2,26 @@
 'use client';
 
 import * as React from 'react';
-import { usePOS } from '@/context/pos-context';
-import type { Receipt, Customer } from '@/types';
+import { useAcademy } from '@/context/academy-context';
+import type { Admission, Student } from '@/types';
 import PageTitle from '@/components/shared/page-title';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { DollarSign, FileText, Package, ShoppingCart, Users, Download, Loader2, BarChart, Bot } from 'lucide-react';
-import SalesOverTimeChart from '@/components/reports/sales-over-time-chart';
-import TopProductsChart from '@/components/reports/top-products-chart';
-import { DateRangePicker } from '@/components/reports/date-range-picker';
+import SessionsOverTimeChart from '@/components/performance-analytics/sessions-over-time-chart';
+import TopProductsChart from '@/components/performance-analytics/top-subjects-chart';
+import { DateRangePicker } from '@/components/performance-analytics/date-range-picker';
 import { DateRange } from 'react-day-picker';
 import { subDays } from 'date-fns';
-import TopCustomersList from '@/components/reports/top-customers-list';
+import TopCustomersList from '@/components/performance-analytics/top-students-list';
 import { Button } from '@/components/ui/button';
 import { useToast } from '@/hooks/use-toast';
 import html2canvas from 'html2canvas';
 import RefreshButton from '@/components/shared/refresh-button';
 import Link from 'next/link';
-import ProfitLossChart from '@/components/reports/profit-loss-chart';
-import CustomerAnalytics from '@/components/reports/customer-analytics';
+import ProfitLossChart from '@/components/performance-analytics/academic-progress-chart';
+import CustomerAnalytics from '@/components/performance-analytics/student-analytics';
 import FeatureGate from '@/components/shared/feature-gate';
-import AbcAnalysis from '@/components/reports/abc-analysis';
+import AbcAnalysis from '@/components/performance-analytics/abc-analysis';
 
 function ReportStatCard({ title, value, icon: Icon }: { title: string, value: string | number, icon: React.ElementType }) {
     return (
@@ -69,7 +69,7 @@ const ReportsPlaceholder = () => (
 
 
 export default function ReportsDashboard() {
-    const { currencySymbol, business, products, customers, isLoading: isPosLoading, receipts: allReceipts } = usePOS();
+    const { currencySymbol, academy, subjects, students, isLoading: isPosLoading, admissions: allReceipts } = useAcademy();
     const dashboardRef = React.useRef<HTMLDivElement>(null);
     const { toast } = useToast();
 
@@ -78,9 +78,9 @@ export default function ReportsDashboard() {
       to: new Date(),
     });
 
-    const hasLifetimeAccess = business?.accessLevel === 'lifetime';
+    const hasLifetimeAccess = academy?.accessLevel === 'lifetime';
 
-    const receipts = React.useMemo(() => {
+    const admissions = React.useMemo(() => {
         if (!allReceipts) return [];
 
         const fromDate = date?.from;
@@ -103,25 +103,25 @@ export default function ReportsDashboard() {
     const isLoading = isPosLoading;
 
     const reportData = React.useMemo(() => {
-        if (isLoading || !receipts || !products || !customers) return { totalRevenue: 0, totalSales: 0, averageOrderValue: 0, inventoryValue: 0, totalCustomers: 0, totalProductsSold: 0 };
+        if (isLoading || !admissions || !subjects || !students) return { totalBookingValue: 0, totalSessions: 0, averageSessionValue: 0, inventoryValue: 0, totalCustomers: 0, totalProductsSold: 0 };
 
-        const totalRevenue = receipts.reduce((sum, r) => sum + r.total, 0);
-        const totalSales = receipts.length;
-        const averageOrderValue = totalSales > 0 ? totalRevenue / totalSales : 0;
-        const inventoryValue = products.reduce((sum, p) => sum + (p.price * (p.stock || 0)), 0);
-        const totalProductsSold = receipts.reduce((sum, r) => sum + r.items.reduce((itemSum, i) => itemSum + i.quantity, 0), 0);
+        const totalBookingValue = admissions.reduce((sum, r) => sum + r.total, 0);
+        const totalSessions = admissions.length;
+        const averageSessionValue = totalSessions > 0 ? totalBookingValue / totalSessions : 0;
+        const inventoryValue = subjects.reduce((sum, p) => sum + (p.price * (p.stock || 0)), 0);
+        const totalProductsSold = admissions.reduce((sum, r) => sum + r.items.reduce((itemSum, i) => itemSum + i.quantity, 0), 0);
 
 
         return {
-            totalRevenue,
-            totalSales,
-            averageOrderValue,
+            totalBookingValue,
+            totalSessions,
+            averageSessionValue,
             inventoryValue,
-            totalCustomers: customers.length,
+            totalCustomers: students.length,
             totalProductsSold,
         }
 
-    }, [receipts, products, customers, isLoading]);
+    }, [admissions, subjects, students, isLoading]);
     
     const handleDownloadImage = async () => {
         const element = dashboardRef.current;
@@ -147,14 +147,14 @@ export default function ReportsDashboard() {
     
     return (
         <div ref={dashboardRef} className="flex flex-col gap-6 bg-background p-1">
-            <PageTitle title="Reports" subtitle="Deep dive into your business performance." />
+            <PageTitle title="Reports" subtitle="Deep dive into your academy performance." />
             
             <FeatureGate
                 requiredPlan="pro"
-                currentPlan={business?.plan}
+                currentPlan={academy?.plan}
                 hasLifetimeAccess={hasLifetimeAccess}
                 featureName="Advanced Reports"
-                featureDescription="Get a complete overview of your business performance with detailed sales, product, and customer analytics."
+                featureDescription="Get a complete overview of your academy performance with detailed sales, product, and customer analytics."
                 className="flex-grow flex flex-col"
                  placeholderContent={<ReportsPlaceholder />}
             >
@@ -173,17 +173,17 @@ export default function ReportsDashboard() {
                     <div className="grid gap-4 md:grid-cols-3 lg:grid-cols-5">
                         <ReportStatCard 
                             title="Total Revenue"
-                            value={`${currencySymbol}${reportData?.totalRevenue.toLocaleString(undefined, { maximumFractionDigits: 0 }) || '0'}`}
+                            value={`${currencySymbol}${reportData?.totalBookingValue.toLocaleString(undefined, { maximumFractionDigits: 0 }) || '0'}`}
                             icon={DollarSign}
                         />
                         <ReportStatCard 
                             title="Total Sales"
-                            value={reportData?.totalSales.toLocaleString() || '0'}
+                            value={reportData?.totalSessions.toLocaleString() || '0'}
                             icon={ShoppingCart}
                         />
                         <ReportStatCard 
                             title="Avg. Order Value"
-                            value={`${currencySymbol}${reportData?.averageOrderValue.toLocaleString(undefined, { maximumFractionDigits: 2 }) || '0.00'}`}
+                            value={`${currencySymbol}${reportData?.averageSessionValue.toLocaleString(undefined, { maximumFractionDigits: 2 }) || '0.00'}`}
                             icon={FileText}
                         />
                         <ReportStatCard 
@@ -200,40 +200,40 @@ export default function ReportsDashboard() {
 
                     <div className="grid grid-cols-1 lg:grid-cols-5 gap-6">
                         <div className="lg:col-span-3">
-                            <SalesOverTimeChart receipts={receipts || []} currencySymbol={currencySymbol} />
+                            <SessionsOverTimeChart admissions={admissions || []} currencySymbol={currencySymbol} />
                         </div>
                         <div className="lg:col-span-2">
-                            <TopProductsChart receipts={receipts || []} />
+                            <TopProductsChart admissions={admissions || []} />
                         </div>
                     </div>
 
                     <div className="grid grid-cols-1 lg:grid-cols-5 gap-6">
                         <div className="lg:col-span-3">
-                            <ProfitLossChart receipts={receipts || []} currencySymbol={currencySymbol} />
+                            <ProfitLossChart admissions={admissions || []} currencySymbol={currencySymbol} />
                         </div>
                         <div className="lg:col-span-2">
-                            <TopCustomersList receipts={receipts || []} currencySymbol={currencySymbol} />
+                            <TopCustomersList admissions={admissions || []} currencySymbol={currencySymbol} />
                         </div>
                     </div>
                     
                     <FeatureGate
-                        requiredPlan="business"
-                        currentPlan={business?.plan}
+                        requiredPlan="academy"
+                        currentPlan={academy?.plan}
                         hasLifetimeAccess={hasLifetimeAccess}
-                        featureName="Customer Intelligence"
+                        featureName="Student Intelligence"
                         featureDescription="Unlock advanced CRM analytics like customer lifetime value, purchase frequency, and churn risk."
                     >
-                        <CustomerAnalytics customers={customers || []} receipts={receipts || []} currencySymbol={currencySymbol} />
+                        <CustomerAnalytics students={students || []} admissions={admissions || []} currencySymbol={currencySymbol} />
                     </FeatureGate>
                     
                     <FeatureGate
-                        requiredPlan="business"
-                        currentPlan={business?.plan}
+                        requiredPlan="academy"
+                        currentPlan={academy?.plan}
                         hasLifetimeAccess={hasLifetimeAccess}
                         featureName="Inventory Velocity"
-                        featureDescription="Identify your fastest-moving products and optimize stock levels with data-driven ABC analysis."
+                        featureDescription="Identify your fastest-moving subjects and optimize stock levels with data-driven ABC analysis."
                     >
-                       <AbcAnalysis receipts={receipts || []} products={products || []} currencySymbol={currencySymbol} />
+                       <AbcAnalysis admissions={admissions || []} subjects={subjects || []} currencySymbol={currencySymbol} />
                     </FeatureGate>
                 </div>
                 )}

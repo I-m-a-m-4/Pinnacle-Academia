@@ -2,7 +2,7 @@
 "use client";
 
 import dynamic from 'next/dynamic';
-import { usePOS } from '@/context/pos-context';
+import { useAcademy } from '@/context/academy-context';
 import { Loader2 } from 'lucide-react';
 import { Skeleton } from '../ui/skeleton';
 
@@ -17,7 +17,7 @@ const CategoryPieChart = dynamic(() => import('@/components/dashboard/category-p
 });
 
 export default function DashboardClientContent() {
-    const { receipts, products, isLoading, currencySymbol } = usePOS();
+    const { admissions, subjects, isLoading, currencySymbol } = useAcademy();
 
     if (isLoading) {
         return (
@@ -31,9 +31,9 @@ export default function DashboardClientContent() {
     return (
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         <div className="lg:col-span-2">
-            <OverviewChart receipts={receipts || []} currencySymbol={currencySymbol} />
+            <OverviewChart admissions={admissions || []} currencySymbol={currencySymbol} />
         </div>
-            <CategoryPieChart products={products || []} />
+            <CategoryPieChart subjects={subjects || []} />
         </div>
     );
 }

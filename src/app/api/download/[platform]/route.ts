@@ -5,9 +5,9 @@ import crypto from 'crypto';
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { platform: string } }
+  { params }: { params: Promise<{ platform: string }> }
 ) {
-  const { platform } = params;
+  const { platform } = await params;
   let version = AppConfig.version;
   let assets: Array<{ name: string; browser_download_url: string }> = [];
 

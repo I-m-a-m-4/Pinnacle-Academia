@@ -7,7 +7,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { useToast } from '@/hooks/use-toast';
 import { Check, ArrowRight, Loader2, ShieldCheck } from 'lucide-react';
-import type { UserProfile, BusinessInstance } from '@/types';
+import type { StudentProfile, Academy } from '@/types';
 import { useFirestore } from '@/firebase';
 import { writeBatch, doc, serverTimestamp, collection } from 'firebase/firestore';
 import { add, format } from 'date-fns';
@@ -27,29 +27,29 @@ const plans = [
         price: 10000,
         priceUSD: 7,
         features: [
-            'Up to 1,500 products & 5 staff accounts',
-            'Advanced Point of Sale (POS)',
-            'Customizable Public Storefront',
-            'Advanced Reports & Analytics',
-            'AI Product Data Troubleshooter',
-            'Secure Audit Log',
+            'Up to 1,500 subjects & 5 study-group slots',
+            'CBT Exam Simulator & Syllabus tracker',
+            'Discussion forum access',
+            'Standard Reports & Analytics',
+            'AI Study Plan Assistant',
+            'Student Activity logs',
         ],
         planId: 'pro',
     },
     {
-        name: 'Business',
+        name: 'Academy Premium',
         price: 30000,
         priceUSD: 20,
         features: [
             'Everything in Pro',
-            'Unlimited products & staff accounts',
-            'AI Business Performance Dashboard',
-            'Advanced Customer Intelligence (CRM+)',
-            'Inventory Velocity Reports (ABC Analysis)',
-            'Automated Email Receipts',
-            'Priority Phone & Email Support'
+            'Unlimited simulator attempts & channels',
+            'Advanced performance analytics',
+            'Student peer mentorship bookings',
+            'Complete WAEC/JAMB syllabus downloads',
+            'Auto-generated diagnostic topic summaries',
+            'Priority tutor assistance & support',
         ],
-        planId: 'business',
+        planId: 'academy',
     }
 ];
 
@@ -66,7 +66,7 @@ const PaystackSubscriptionButton = ({
     cycle,
     finalAmount,
     userProfile, 
-    businessInstance, 
+    academyInstance, 
     isCurrentPlan, 
     isProcessing, 
     setProcessingPlan,
@@ -75,8 +75,8 @@ const PaystackSubscriptionButton = ({
     plan: typeof plans[0], 
     cycle: typeof billingCycles[0],
     finalAmount: number,
-    userProfile: UserProfile, 
-    businessInstance: BusinessInstance,
+    userProfile: StudentProfile, 
+    academyInstance: Academy,
     isCurrentPlan: boolean,
     isProcessing: boolean,
     setProcessingPlan: (planId: string | null) => void;
@@ -87,7 +87,7 @@ const PaystackSubscriptionButton = ({
     const { initializePayment, isScriptLoaded } = usePaystack();
 
     const handleSuccessfulPayment = useCallback(async (transaction: { reference: string }) => {
-        if (!firestore || !userProfile || !businessInstance) {
+        if (!firestore || !userProfile || !academyInstance) {
             toast({ variant: 'destructive', title: 'Error', description: 'Session expired. Please refresh and try again.' });
             setProcessingPlan(null);
             return;
@@ -96,10 +96,14 @@ const PaystackSubscriptionButton = ({
         try {
             // Step 1: Verify payment on our backend
             toast({ title: "Processing...", description: "Verifying your payment securely." });
-            const verifyResponse = await fetch('https://zeneva.space/api/paystack/verify-transaction', {
+            const verifyResponse = await fetch('/api/paystack/verify-transaction', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ reference: transaction.reference }),
+                body: JSON.stringify({ 
+                    reference: transaction.reference,
+                    expectedAmount: Math.round(finalAmount * 100),
+                    academyId: academyInstance.id
+                }),
             });
 
             const verifyResult = await verifyResponse.json();
@@ -121,11 +125,11 @@ const PaystackSubscriptionButton = ({
             const batch = writeBatch(firestore);
             
             // If renewing, add time to the existing expiry. Otherwise, start from now.
-            const currentExpiry = safeToDate(businessInstance.trialExpiresAt);
+            const currentExpiry = safeToDate(academyInstance.trialExpiresAt);
             const startDate = currentExpiry > new Date() ? currentExpiry : new Date();
             const newExpiryDate = add(startDate, { months: cycle.months });
             
-            const businessDocRef = doc(firestore, 'businessInstances', businessInstance.id);
+            const businessDocRef = doc(firestore, 'businessInstances', academyInstance.id);
             batch.update(businessDocRef, {
                 plan: plan.planId,
                 trialExpiresAt: newExpiryDate,
@@ -136,7 +140,7 @@ const PaystackSubscriptionButton = ({
             const purchaseDocRef = doc(purchasesRef); // Auto-generate ID
             batch.set(purchaseDocRef, {
                 userId: userProfile.id,
-                businessId: businessInstance.id,
+                academyId: academyInstance.id,
                 plan: plan.name,
                 amount: finalAmount,
                 currency: currency,
@@ -144,7 +148,7 @@ const PaystackSubscriptionButton = ({
                 reference: transaction.reference,
             });
 
-            const historyRef = collection(firestore, 'businessInstances', businessInstance.id, 'subscription_history');
+            const historyRef = collection(firestore, 'businessInstances', academyInstance.id, 'subscription_history');
             const historyDocRef = doc(historyRef); // Auto-generate ID
             batch.set(historyDocRef, {
                 action: `Subscribed to ${plan.name} Plan for ${cycle.label}`,
@@ -166,7 +170,7 @@ const PaystackSubscriptionButton = ({
         } finally {
             setProcessingPlan(null);
         }
-    }, [firestore, userProfile, businessInstance, plan, cycle, finalAmount, toast, setProcessingPlan]);
+    }, [firestore, userProfile, academyInstance, plan, cycle, finalAmount, toast, setProcessingPlan]);
     
     const handleSubscribe = useCallback(() => {
         if (!isScriptLoaded) {
@@ -201,13 +205,13 @@ const PaystackSubscriptionButton = ({
             email: userProfile.email,
             amount: Math.round(finalAmount * 100), // Ensure it's an integer
             currency: currency,
-            reference: `z-${businessInstance.id.substring(0, 6)}-${Date.now()}`,
+            reference: `z-${academyInstance.id.substring(0, 6)}-${Date.now()}`,
             metadata: {
                 custom_fields: [
                     {
                         display_name: "Business ID",
                         variable_name: "business_id",
-                        value: businessInstance.id
+                        value: academyInstance.id
                     },
                     {
                         display_name: "Plan",
@@ -223,7 +227,7 @@ const PaystackSubscriptionButton = ({
                 setProcessingPlan(null);
             },
         });
-    }, [initializePayment, userProfile, businessInstance, plan, finalAmount, isProcessing, setProcessingPlan, handleSuccessfulPayment, toast]);
+    }, [initializePayment, userProfile, academyInstance, plan, finalAmount, isProcessing, setProcessingPlan, handleSuccessfulPayment, toast]);
 
     const buttonText = isCurrentPlan ? 'Renew Subscription' : `Subscribe to ${plan.name}`;
 
@@ -243,15 +247,15 @@ const DodoSubscriptionButton = ({
     plan, 
     cycle,
     userProfile, 
-    businessInstance, 
+    academyInstance, 
     isCurrentPlan, 
     isProcessing, 
     setProcessingPlan
 }: { 
     plan: typeof plans[0], 
     cycle: typeof billingCycles[0],
-    userProfile: UserProfile, 
-    businessInstance: BusinessInstance,
+    userProfile: StudentProfile, 
+    academyInstance: Academy,
     isCurrentPlan: boolean,
     isProcessing: boolean,
     setProcessingPlan: (planId: string | null) => void;
@@ -275,7 +279,7 @@ const DodoSubscriptionButton = ({
                 body: JSON.stringify({
                     planId: plan.planId,
                     email: userProfile.email,
-                    businessId: businessInstance.id,
+                    academyId: academyInstance.id,
                     cycleMonths: cycle.months
                 }),
             });
@@ -297,7 +301,7 @@ const DodoSubscriptionButton = ({
         } finally {
             setProcessingPlan(null);
         }
-    }, [isScriptLoaded, isProcessing, plan, userProfile, businessInstance, cycle, initializeCheckout, toast, setProcessingPlan]);
+    }, [isScriptLoaded, isProcessing, plan, userProfile, academyInstance, cycle, initializeCheckout, toast, setProcessingPlan]);
 
     const buttonText = isCurrentPlan ? 'Renew Subscription' : `Subscribe to ${plan.name}`;
 
@@ -314,16 +318,16 @@ const DodoSubscriptionButton = ({
 }
 
 // Main component that uses the button
-export default function SubscriptionSection({ userProfile, businessInstance }: { userProfile: UserProfile; businessInstance: BusinessInstance; }) {
+export default function SubscriptionSection({ userProfile, academyInstance }: { userProfile: StudentProfile; academyInstance: Academy; }) {
     const [processingPlan, setProcessingPlan] = useState<string | null>(null);
-    const [selectedCycles, setSelectedCycles] = useState({ pro: '1m', business: '1m' });
+    const [selectedCycles, setSelectedCycles] = useState({ pro: '1m', academy: '1m' });
     const [currency, setCurrency] = useState<'NGN' | 'USD'>('NGN');
 
     const handleCycleChange = (planId: string, cycleId: string) => {
         setSelectedCycles(prev => ({ ...prev, [planId]: cycleId }));
     };
 
-    if (businessInstance.accessLevel === 'lifetime') {
+    if (academyInstance.accessLevel === 'lifetime') {
         return (
             <Card className="mt-6 border-green-500/20 bg-green-500/5">
                 <CardHeader className="pb-2">
@@ -337,7 +341,7 @@ export default function SubscriptionSection({ userProfile, businessInstance }: {
                 </CardHeader>
                 <CardContent>
                     <div className="flex flex-wrap gap-4 text-sm text-green-600/80">
-                        <div className="flex items-center gap-1.5"><Check className="h-4 w-4" /> Unlimited products</div>
+                        <div className="flex items-center gap-1.5"><Check className="h-4 w-4" /> Unlimited subjects</div>
                         <div className="flex items-center gap-1.5"><Check className="h-4 w-4" /> Unlimited users</div>
                         <div className="flex items-center gap-1.5"><Check className="h-4 w-4" /> AI Insights</div>
                     </div>
@@ -382,7 +386,7 @@ export default function SubscriptionSection({ userProfile, businessInstance }: {
                     const displayBasePrice = currency === 'NGN' ? plan.price : (plan as any).priceUSD;
                     const finalAmount = displayBasePrice * selectedCycle.months * (1 - selectedCycle.discount / 100);
                     
-                    const isCurrentPlan = plan.planId === businessInstance.plan;
+                    const isCurrentPlan = plan.planId === academyInstance.plan;
 
                     return (
                         <Card key={plan.name} className={`flex flex-col ${isCurrentPlan ? 'border-primary ring-1 ring-primary/20' : ''}`}>
@@ -463,7 +467,7 @@ export default function SubscriptionSection({ userProfile, businessInstance }: {
                                         cycle={selectedCycle}
                                         finalAmount={finalAmount}
                                         userProfile={userProfile}
-                                        businessInstance={businessInstance}
+                                        academyInstance={academyInstance}
                                         isCurrentPlan={isCurrentPlan}
                                         isProcessing={processingPlan === plan.planId}
                                         setProcessingPlan={setProcessingPlan}
@@ -474,7 +478,7 @@ export default function SubscriptionSection({ userProfile, businessInstance }: {
                                         plan={plan}
                                         cycle={selectedCycle}
                                         userProfile={userProfile}
-                                        businessInstance={businessInstance}
+                                        academyInstance={academyInstance}
                                         isCurrentPlan={isCurrentPlan}
                                         isProcessing={processingPlan === plan.planId}
                                         setProcessingPlan={setProcessingPlan}

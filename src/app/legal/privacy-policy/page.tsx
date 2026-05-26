@@ -22,12 +22,12 @@ export default function PrivacyPolicyPage() {
       
       <h3>B. Business Data</h3>
       <p>
-        Information related to your business that you provide or generate, including but not limited to:
+        Information related to your academy that you provide or generate, including but not limited to:
       </p>
       <ul>
-        <li>Product details (names, SKUs, prices, stock levels, images)</li>
-        <li>Sales transaction records (receipts, items sold, totals)</li>
-        <li>Customer information (names, emails, phone numbers, purchase history)</li>
+        <li>Subject details (names, SKUs, prices, stock levels, images)</li>
+        <li>Sales transaction records (admissions, items sold, totals)</li>
+        <li>Student information (names, emails, phone numbers, purchase history)</li>
         <li>Business settings and configurations</li>
       </ul>
       <p>
@@ -60,7 +60,7 @@ export default function PrivacyPolicyPage() {
       <ul>
         <li><strong>By Law or to Protect Rights:</strong> If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others.</li>
         <li><strong>Third-Party Service Providers:</strong> We may share your information with third parties that perform services for us, including local and international payment processing (Paystack), data analysis, email delivery (EmailJS), and hosting services.</li>
-        <li><strong>Business Transfers:</strong> We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.</li>
+        <li><strong>Business Transfers:</strong> We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our academy to another company.</li>
       </ul>
       
       <h2>4. Data Security & Encryption</h2>
@@ -68,7 +68,7 @@ export default function PrivacyPolicyPage() {
         We use administrative, technical, and physical security measures to protect your personal information and Business Data. This includes:
       </p>
       <ul>
-        <li><strong>Encryption at Rest:</strong> Sensitive business and transaction data is protected using AES-256 bank-grade encryption to ensure information remains confidential even when stored locally.</li>
+        <li><strong>Encryption at Rest:</strong> Sensitive academy and transaction data is protected using AES-256 bank-grade encryption to ensure information remains confidential even when stored locally.</li>
         <li><strong>Secure Transmission:</strong> All data transmitted between your device and our servers is encrypted using industry-standard SSL/TLS protocols.</li>
         <li><strong>Multi-Tenant Isolation:</strong> We use strict logical boundaries to ensure your data is accessible only by you and your authorized staff.</li>
       </ul>

@@ -72,7 +72,7 @@ export const INDUSTRY_CONFIGS: Record<IndustryType, IndustryConfig> = {
     },
     default: {
         label: 'General Retail',
-        measurementLabels: ['Customer Note', 'Reference', 'Engagement Level'],
+        measurementLabels: ['Student Note', 'Reference', 'Engagement Level'],
         defaultUnit: 'Unit',
         hasStock: true,
         hasExpiry: false,

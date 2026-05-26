@@ -1,8 +1,8 @@
 
 
-export interface Product {
+export interface Subject {
     id: string;
-    businessId: string;
+    academyId: string;
     name: string;
     sku: string;
     category: string;
@@ -24,7 +24,7 @@ export interface Product {
     parentId?: string; // For variants, references the main template product
     variantName?: string; // e.g., 'Size'
     variantValue?: string; // e.g., 'Large'
-    components?: { productId: string; quantity: number }[]; // For composite items
+    components?: { subjectId: string; quantity: number }[]; // For composite items
     baseUnit?: string; // e.g., 'Piece'
     uomConversions?: {
         unitName: string; // e.g., 'Carton'
@@ -37,11 +37,22 @@ export interface Product {
         options: string[];
         correctAnswer: 'A' | 'B' | 'C' | 'D';
         explanation?: string;
+        year?: string;
+    }[];
+    tutorName?: string;
+    tutorEmail?: string;
+    tutorBio?: string;
+    modules?: {
+        title: string;
+        topics: {
+            id: string;
+            title: string;
+        }[];
     }[];
 }
-export type InventoryItem = Product;
-export interface CartItem {
-    product: Product;
+export type InventoryItem = Subject;
+export interface SyllabusItem {
+    product: Subject;
     quantity: number;
     unit?: string;
     multiplier?: number;
@@ -49,24 +60,24 @@ export interface CartItem {
     originalPrice?: number;
 }
 
-export interface HeldSale {
+export interface SavedSession {
     id: string;
-    items: CartItem[];
-    customer?: Customer | null;
+    items: SyllabusItem[];
+    customer?: Student | null;
     timestamp: number;
     total: number;
     notes?: string;
 }
 
-export type TopSellingItem = Product & {
+export type TopSellingItem = Subject & {
     quantitySold: number;
 };
 
-export type UserRole = 'admin' | 'manager' | 'vendor_operator';
+export type UserRole = 'admin' | 'manager' | 'vendor_operator' | 'owner' | 'super-admin';
 
-export interface UserProfile {
+export interface StudentProfile {
     id: string;
-    businessId: string;
+    academyId: string;
     name: string;
     email: string;
     phone?: string;
@@ -76,18 +87,23 @@ export interface UserProfile {
     status?: 'active' | 'inactive' | 'deleted';
     lastSeen?: any;
     permissions?: Record<string, boolean>;
+    targetUTMEScore?: number;
+    targetInstitution?: string;
+    targetCourse?: string;
+    department?: string;
+    utmeSubjects?: string[];
 }
 
-export interface CustomerInsightsOutput {
+export interface StudentInsightsOutput {
     summary: string;
     productSuggestions: string[];
     engagementTactics: string[];
     createdAt?: any;
 }
 
-export interface Customer {
+export interface Student {
     id: string;
-    businessId: string;
+    academyId: string;
     name: string;
     email: string;
     phone?: string;
@@ -99,15 +115,15 @@ export interface Customer {
     updatedAt?: any;
     lowercaseName?: string;
     lowercaseEmail?: string;
-    aiInsights?: CustomerInsightsOutput;
+    aiInsights?: StudentInsightsOutput;
 }
 
-export interface Receipt {
+export interface Admission {
     id: string;
-    businessId: string;
+    academyId: string;
     receiptNumber?: string;
     items: {
-        productId: string;
+        subjectId: string;
         name: string;
         quantity: number;
         price: number;
@@ -131,16 +147,16 @@ export interface Receipt {
     } | null;
 }
 
-export interface OnlineOrder {
+export interface MentorshipBooking {
     id: string;
-    businessId: string;
-    customerId?: string;
+    academyId: string;
+    studentId?: string;
     customerName: string;
     customerEmail: string;
     customerPhone: string;
     customerAddress: string;
     items: {
-        productId: string;
+        subjectId: string;
         name: string;
         quantity: number;
         price: number;
@@ -160,7 +176,7 @@ export interface OnlineOrder {
 
 export interface QueuedAction {
     id: string;
-    type: 'complete-sale' | 'update-product' | 'add-customer' | 'update-customer' | 'delete-customer' | 'bulk-update-products' | 'add-product' | 'delete-product' | 'update-settings';
+    type: 'complete-registration' | 'update-product' | 'add-customer' | 'update-customer' | 'delete-customer' | 'bulk-update-subjects' | 'add-product' | 'delete-product' | 'update-settings' | 'add-audit-log' | 'delete-receipt' | 'add-post-utme-mapping' | 'delete-post-utme-mapping';
     description: string;
     payload: any;
     timestamp: number;
@@ -182,7 +198,7 @@ export interface AISuggestions {
 // --- New AI Analysis Types ---
 
 export interface SmartStockRecommendation {
-    productId: string;
+    subjectId: string;
     name: string;
     recommendedStock: number;
     confidence: number;
@@ -195,7 +211,7 @@ export interface DemandHeatmap {
 }
 
 export interface RevenueOpportunity {
-    productId: string;
+    subjectId: string;
     name: string;
     lostRevenue: number;
     reason: string;
@@ -210,7 +226,7 @@ export interface SmartMerchandising {
 }
 
 export interface SlowMovingInventory {
-    productId: string;
+    subjectId: string;
     name: string;
     daysUnsold: number;
     capitalLocked: number;
@@ -218,7 +234,7 @@ export interface SlowMovingInventory {
 }
 
 export interface PricingRecommendation {
-    productId: string;
+    subjectId: string;
     name: string;
     currentPrice: number;
     suggestedPrice: number;
@@ -245,7 +261,7 @@ export interface BusinessHealth {
 export interface CustomerSegment {
     segmentName: string;
     description: string;
-    customers: {
+    students: {
         name: string;
         email?: string;
     }[];
@@ -268,7 +284,7 @@ export interface ContentPlanner {
     headlines: BlogHeadline[];
 }
 
-export interface BusinessAnalysisOutput {
+export interface AcademyAnalysisOutput {
     smartStockRecommendations?: SmartStockRecommendation[];
     demandHeatmap?: DemandHeatmap;
     revenueOpportunities?: RevenueOpportunity[];
@@ -283,14 +299,14 @@ export interface BusinessAnalysisOutput {
 }
 
 
-export interface BusinessInstance {
+export interface Academy {
     id: string;
     name: string;
     address?: string;
     ownerId: string;
     createdAt: any; // Firestore Timestamp
     trialExpiresAt?: any; // Firestore Timestamp
-    plan?: 'starter' | 'pro' | 'business';
+    plan?: 'starter' | 'pro' | 'academy';
     accessLevel?: 'lifetime';
     status?: 'active' | 'deleted';
     deletedAt?: any;
@@ -302,6 +318,7 @@ export interface BusinessInstance {
         defaultTaxRate?: number;
         primaryColor?: string;
         logoUrl?: string;
+        aiTokensUsed?: number;
         paymentBankAccountId?: string;
         paymentBankName?: string;
         paymentAccountName?: string;
@@ -317,7 +334,7 @@ export interface BusinessInstance {
         loyaltyRewardDiscountPercentage?: number;
         productCategories?: string[];
         aiTroubleshootSuggestions?: AISuggestions;
-        businessAnalysis?: BusinessAnalysisOutput;
+        academyAnalysis?: AcademyAnalysisOutput;
         publicStore?: {
             enabled?: boolean;
             headline?: string;
@@ -355,7 +372,7 @@ export interface BusinessInstance {
 
 export interface Invitation {
     id: string;
-    businessId: string;
+    academyId: string;
     email: string;
     name: string;
     role: 'manager' | 'vendor_operator';
@@ -365,12 +382,12 @@ export interface Invitation {
 export interface Purchase {
     id: string;
     userId: string;
-    businessId: string;
+    academyId: string;
     plan: 'Pro' | 'Business';
     amount: number;
     currency: 'NGN';
     timestamp: any; // Firestore Timestamp
-    userProfile?: UserProfile; // For admin dashboard display
+    userProfile?: StudentProfile; // For admin dashboard display
 }
 
 export interface SubscriptionHistory {
@@ -403,6 +420,7 @@ export interface AdminNotification {
     body: string;
     sentBy: string;
     createdAt: any;
+    clickable?: boolean;
 }
 
 export interface UserNotification {
@@ -413,6 +431,7 @@ export interface UserNotification {
     createdAt: any;
     isGlobal?: boolean;
     queuedActionId?: string;
+    clickable?: boolean;
 }
 
 export interface SystemBroadcast {
@@ -457,27 +476,27 @@ export interface PressArticle {
     url: string;
 }
 
-export interface AuditLog {
+export interface ActivityLog {
     id: string;
-    businessId: string;
+    academyId: string;
     userId: string;
     userName: string;
     userEmail: string;
     userRole?: string;
     action: string; // e.g., 'product.create', 'sale.void'
-    entityType: string; // e.g., 'Product', 'Receipt'
+    entityType: string; // e.g., 'Subject', 'Admission'
     entityId: string;
-    details: Record<string, any>; // e.g., { name: 'New Product' } or { changes: [...] }
+    details: Record<string, any>; // e.g., { name: 'New Subject' } or { changes: [...] }
     createdAt: any; // Firestore Timestamp
 }
 
-export interface BusinessStats {
-    id: string; // The businessId
+export interface AcademyStats {
+    id: string; // The academyId
     totalCustomers: number;
     totalProducts: number;
-    totalRevenue: number;
-    totalSales: number;
-    totalUnitsSold?: number;
+    totalBookingValue: number;
+    totalSessions: number;
+    totalUnitsCompleted?: number;
     updatedAt: any;
 }
 

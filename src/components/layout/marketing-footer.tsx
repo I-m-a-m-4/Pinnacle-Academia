@@ -99,7 +99,7 @@ export default function MarketingFooter() {
                     </div>
                     <div className="sm:col-span-2">
                       <label htmlFor="message" className="block text-xs font-medium mb-1 text-white/80">How can we help?</label>
-                      <textarea name="message" rows={4} placeholder="A few sentences about your business goals and current challenges." className="placeholder-white/40 outline-none focus:ring-2 focus:ring-primary/60 focus:border-primary transition text-sm w-full border rounded pt-2.5 pr-3 pb-2.5 pl-3 text-white bg-white/10 border-white/10" id="message"></textarea>
+                      <textarea name="message" rows={4} placeholder="A few sentences about your academy goals and current challenges." className="placeholder-white/40 outline-none focus:ring-2 focus:ring-primary/60 focus:border-primary transition text-sm w-full border rounded pt-2.5 pr-3 pb-2.5 pl-3 text-white bg-white/10 border-white/10" id="message"></textarea>
                     </div>
                     <div className="sm:col-span-2 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
                       <div className="flex gap-2 text-xs items-center text-white/70">

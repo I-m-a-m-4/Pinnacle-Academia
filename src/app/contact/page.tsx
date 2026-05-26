@@ -4,7 +4,7 @@ import ContactContent from './contact-content';
 
 export const metadata: Metadata = {
   title: 'Contact Us | Zeneva Operational Support',
-  description: 'Need help scaling your retail business? Get in touch with our tactical support team for inquiries about our POS, inventory management, or enterprise solutions.',
+  description: 'Need help scaling your retail academy? Get in touch with our tactical support team for inquiries about our POS, inventory management, or enterprise solutions.',
   openGraph: {
     title: 'Contact Zeneva - Tactical Support for Retailers',
     description: 'Reach out to the Zeneva team for support, pricing inquiries, or partnership opportunities.',

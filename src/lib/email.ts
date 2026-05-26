@@ -37,7 +37,7 @@ export const sendInvitationEmail = async (params: ContactEmailParams) => {
 };
 
 
-// --- For Receipt Emails ---
+// --- For Admission Emails ---
 export interface ReceiptEmailParams {
     to_email: string;
     to_name: string;

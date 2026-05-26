@@ -22,25 +22,29 @@ import {
   Globe,
   Bot,
   ArrowRight,
-  Users, // for new customers
+  Users, // for new students
   ShoppingBag, // for units sold
   TrendingDown,
+  Calculator as CalculatorIcon,
+  Bell,
+  PackageOpen,
+  Zap
 } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription, CardFooter } from '@/components/ui/card';
-import type { TopSellingItem, BusinessAnalysisOutput, Receipt } from '@/types';
+import type { TopSellingItem, AcademyAnalysisOutput, Admission } from '@/types';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { useToast } from '@/hooks/use-toast';
 import { Skeleton } from '@/components/ui/skeleton';
-import { usePOS } from '@/context/pos-context';
-import AddCustomerDialog from '@/components/customers/add-customer-dialog';
+import { useAcademy } from '@/context/academy-context';
+import AddCustomerDialog from '@/components/peers-mentors/add-student-dialog';
 import html2canvas from 'html2canvas';
 import { Progress } from '@/components/ui/progress';
 import { Badge } from '@/components/ui/badge';
 import { cn } from '@/lib/utils';
 // New imports for date filtering
-import { DateRangePicker } from '@/components/reports/date-range-picker';
+import { DateRangePicker } from '@/components/performance-analytics/date-range-picker';
 import type { DateRange } from 'react-day-picker';
 import { isWithinInterval, startOfDay, endOfDay } from 'date-fns';
 import { safeToDate } from '@/lib/utils';
@@ -89,7 +93,7 @@ export default function DashboardPage() {
 
   const [isAddCustomerOpen, setIsAddCustomerOpen] = React.useState(false);
 
-  const { products, receipts, customers, isLoading: isPosLoading, currencySymbol, business, onlineOrders, stats, fetchReceiptsInRange } = usePOS();
+  const { subjects, admissions, students, isLoading: isPosLoading, currencySymbol, academy, mentorshipBookings, stats, fetchReceiptsInRange } = useAcademy();
 
   // Date range state, defaults to today
   const [date, setDate] = React.useState<DateRange | undefined>({
@@ -98,18 +102,18 @@ export default function DashboardPage() {
   });
 
 
-  const [dashboardBatchReceipts, setDashboardBatchReceipts] = React.useState<Receipt[]>([]);
+  const [dashboardBatchReceipts, setDashboardBatchReceipts] = React.useState<Admission[]>([]);
   const [isFetchingBatch, setIsFetchingBatch] = React.useState(false);
 
   const isNative = typeof window !== 'undefined' && (window as any).__TAURI_INTERNALS__;
-  const isLoading = isNative ? (isPosLoading && (!products || products.length === 0)) : isPosLoading; // Primary connection loading only
+  const isLoading = isNative ? (isPosLoading && (!subjects || subjects.length === 0)) : isPosLoading; // Primary connection loading only
   const isUpdating = isFetchingBatch; // Secondary background update state
 
   const dashboardData = React.useMemo(() => {
-    const inventoryItems = products || [];
-    const allReceipts = dashboardBatchReceipts.length > 0 ? dashboardBatchReceipts : (receipts || []);
-    const allCustomers = customers || [];
-    const allOnlineOrders = onlineOrders || [];
+    const inventoryItems = subjects || [];
+    const allReceipts = dashboardBatchReceipts.length > 0 ? dashboardBatchReceipts : (admissions || []);
+    const allCustomers = students || [];
+    const allOnlineOrders = mentorshipBookings || [];
 
     // Filter data based on selected date range
     const fromDate = date?.from;
@@ -138,23 +142,23 @@ export default function DashboardPage() {
     const uniqueSkus = inventoryItems.filter(item => item.categoryType !== 'service').length;
     const lowStockItems = inventoryItems.filter(item => item.categoryType !== 'service' && (item.stock || 0) <= (item.lowStockThreshold || 0)).length;
 
-    const totalSalesValue = filteredReceipts.reduce((sum, receipt) => sum + (receipt.total || 0), 0);
+    const totalSessionsValue = filteredReceipts.reduce((sum, receipt) => sum + (receipt.total || 0), 0);
     const totalReceiptsCount = filteredReceipts.length;
 
-    const totalOnlineSalesValue = filteredOnlineOrders.reduce((sum, order) => sum + (order.total || 0), 0);
-    const totalOnlineOrdersCount = filteredOnlineOrders.length;
+    const totalMentorshipValue = filteredOnlineOrders.reduce((sum, order) => sum + (order.total || 0), 0);
+    const totalMentorshipCount = filteredOnlineOrders.length;
 
-    const totalRevenue = (totalSalesValue || 0) + (totalOnlineSalesValue || 0);
+    const totalBookingValue = (totalSessionsValue || 0) + (totalMentorshipValue || 0);
 
-    const posUnitsSold = filteredReceipts.reduce((sum, r) => sum + (r.items?.reduce((q: number, i: any) => q + (i.quantity || 0), 0) || 0), 0);
-    const onlineUnitsSold = filteredOnlineOrders.reduce((sum, o) => sum + (o.items?.reduce((q: number, i: any) => q + (i.quantity || 0), 0) || 0), 0);
-    const totalUnitsSold = posUnitsSold + onlineUnitsSold;
+    const simulatorUnitsCompleted = filteredReceipts.reduce((sum, r) => sum + (r.items?.reduce((q: number, i: any) => q + (i.quantity || 0), 0) || 0), 0);
+    const mentorshipUnitsCompleted = filteredOnlineOrders.reduce((sum, o) => sum + (o.items?.reduce((q: number, i: any) => q + (i.quantity || 0), 0) || 0), 0);
+    const totalUnitsCompleted = simulatorUnitsCompleted + mentorshipUnitsCompleted;
 
-    const itemSalesCount: Record<string, number> = {};
-    let serviceUnitsSold = 0;
-    let productUnitsSold = 0;
-    let serviceRevenue = 0;
-    let productRevenue = 0;
+    const itemSessionCount: Record<string, number> = {};
+    let subjectUnitsCompleted = 0;
+    let examUnitsCompleted = 0;
+    let subjectRevenue = 0;
+    let examRevenue = 0;
 
     filteredReceipts.forEach(receipt => {
       if (!receipt || !Array.isArray(receipt.items)) return;
@@ -163,23 +167,23 @@ export default function DashboardPage() {
       let receiptServiceSum = 0;
 
       receipt.items.forEach(item => {
-        if (!item || !item.productId) return;
-        const product = inventoryItems.find(p => p.id === item.productId);
+        if (!item || !item.subjectId) return;
+        const product = inventoryItems.find(p => p.id === item.subjectId);
         const name = product?.name || item.name || 'Unknown Item';
-        itemSalesCount[name] = (itemSalesCount[name] || 0) + (item.quantity || 0);
+        itemSessionCount[name] = (itemSessionCount[name] || 0) + (item.quantity || 0);
         
-        const itemRev = (Number(item.price) || 0) * (Number(item.quantity) || 0);
+        const itemCost = (Number(item.price) || 0) * (Number(item.quantity) || 0);
         if (product) {
           if (product.categoryType === 'service') {
-            serviceUnitsSold += (item.quantity || 0);
-            receiptServiceSum += itemRev;
+            subjectUnitsCompleted += (item.quantity || 0);
+            receiptServiceSum += itemCost;
           } else {
-            productUnitsSold += (item.quantity || 0);
-            receiptProductSum += itemRev;
+            examUnitsCompleted += (item.quantity || 0);
+            receiptProductSum += itemCost;
           }
         } else {
-          productUnitsSold += (item.quantity || 0);
-          receiptProductSum += itemRev;
+          examUnitsCompleted += (item.quantity || 0);
+          receiptProductSum += itemCost;
         }
       });
 
@@ -189,10 +193,10 @@ export default function DashboardPage() {
       if (receiptTotalRaw > 0) {
         const pRatio = receiptProductSum / receiptTotalRaw;
         const sRatio = receiptServiceSum / receiptTotalRaw;
-        productRevenue += (pRatio * actualReceiptRevenue);
-        serviceRevenue += (sRatio * actualReceiptRevenue);
+        examRevenue += (pRatio * actualReceiptRevenue);
+        subjectRevenue += (sRatio * actualReceiptRevenue);
       } else {
-        productRevenue += actualReceiptRevenue; // Fallback to product revenue if no item info
+        examRevenue += actualReceiptRevenue; // Fallback to product revenue if no item info
       }
     });
 
@@ -203,23 +207,23 @@ export default function DashboardPage() {
       let orderServiceSum = 0;
 
       order.items.forEach(item => {
-        if (!item || !item.productId) return;
-        const product = inventoryItems.find(p => p.id === item.productId);
+        if (!item || !item.subjectId) return;
+        const product = inventoryItems.find(p => p.id === item.subjectId);
         const name = product?.name || item.name || 'Unknown Item';
-        itemSalesCount[name] = (itemSalesCount[name] || 0) + (item.quantity || 0);
+        itemSessionCount[name] = (itemSessionCount[name] || 0) + (item.quantity || 0);
         
-        const itemRev = (Number(item.price) || 0) * (Number(item.quantity) || 0);
+        const itemCost = (Number(item.price) || 0) * (Number(item.quantity) || 0);
         if (product) {
           if (product.categoryType === 'service') {
-            serviceUnitsSold += (item.quantity || 0);
-            orderServiceSum += itemRev;
+            subjectUnitsCompleted += (item.quantity || 0);
+            orderServiceSum += itemCost;
           } else {
-            productUnitsSold += (item.quantity || 0);
-            orderProductSum += itemRev;
+            examUnitsCompleted += (item.quantity || 0);
+            orderProductSum += itemCost;
           }
         } else {
-          productUnitsSold += (item.quantity || 0);
-          orderProductSum += itemRev;
+          examUnitsCompleted += (item.quantity || 0);
+          orderProductSum += itemCost;
         }
       });
 
@@ -229,14 +233,14 @@ export default function DashboardPage() {
       if (orderTotalRaw > 0) {
         const pRatio = orderProductSum / orderTotalRaw;
         const sRatio = orderServiceSum / orderTotalRaw;
-        productRevenue += (pRatio * actualOrderRevenue);
-        serviceRevenue += (sRatio * actualOrderRevenue);
+        examRevenue += (pRatio * actualOrderRevenue);
+        subjectRevenue += (sRatio * actualOrderRevenue);
       } else {
-        productRevenue += actualOrderRevenue;
+        examRevenue += actualOrderRevenue;
       }
     });
 
-    const topSellingItems = Object.entries(itemSalesCount)
+    const topSellingItems = Object.entries(itemSessionCount)
       .sort(([, qtyA], [, qtyB]) => qtyB - qtyA)
       .slice(0, 5) // Show top 5
       .map(([name, quantitySold]) => {
@@ -247,9 +251,9 @@ export default function DashboardPage() {
         } as TopSellingItem;
       });
 
-    const isLoyaltyEnabled = business?.settings?.loyaltyProgramEnabled;
+    const isLoyaltyEnabled = academy?.settings?.loyaltyProgramEnabled;
     
-    // Calculate spend in range for all customers found in filtered receipts
+    // Calculate spend in range for all students found in filtered admissions
     const customerSpendInRange: Record<string, number> = {};
     filteredReceipts.forEach(r => {
       if (r.customer?.id) {
@@ -276,30 +280,30 @@ export default function DashboardPage() {
       totalStock,
       uniqueSkus,
       lowStockItems,
-      totalSalesValue: showLifetime ? (stats?.totalRevenue || 0) : totalSalesValue,
-      totalReceipts: showLifetime ? (stats?.totalSales || 0) : totalReceiptsCount,
-      totalOnlineSalesValue,
-      totalOnlineOrdersCount,
-      totalRevenue: showLifetime ? (stats?.totalRevenue || 0) : totalRevenue,
+      totalSessionsValue: showLifetime ? (stats?.totalBookingValue || 0) : totalSessionsValue,
+      totalReceipts: showLifetime ? (stats?.totalSessions || 0) : totalReceiptsCount,
+      totalMentorshipValue,
+      totalMentorshipCount,
+      totalBookingValue: showLifetime ? (stats?.totalBookingValue || 0) : totalBookingValue,
       newCustomersCount: showLifetime ? (stats?.totalCustomers || 0) : newCustomers.length,
-      totalUnitsSold: showLifetime ? (stats?.totalUnitsSold || 0) : totalUnitsSold,
+      totalUnitsCompleted: showLifetime ? (stats?.totalUnitsCompleted || 0) : totalUnitsCompleted,
 
       topSellingItems,
       topLoyaltyCustomers,
       isLoyaltyEnabled,
       debtItemsCount: inventoryItems.filter(p => p.categoryType !== 'service' && (p.stock || 0) < 0).length,
       totalDebtUnits: inventoryItems.filter(p => p.categoryType !== 'service' && (p.stock || 0) < 0).reduce((acc, p) => acc + Math.abs(p.stock || 0), 0),
-      serviceUnitsSold,
-      productUnitsSold,
-      serviceRevenue,
-      productRevenue
+      subjectUnitsCompleted,
+      examUnitsCompleted,
+      subjectRevenue,
+      examRevenue
     };
-  }, [products, receipts, customers, onlineOrders, date, stats, dashboardBatchReceipts]);
+  }, [subjects, admissions, students, mentorshipBookings, date, stats, dashboardBatchReceipts]);
 
   // Surgical Analytics for Date Range
-  const [rangeStats, setRangeStats] = React.useState<{ revenue: number, count: number, customers: number } | null>(null);
-  const [monthlyStats, setMonthlyStats] = React.useState<{ month: string, totalSales: number }[] | null>(null);
-  const { fetchDetailedAnalytics, fetchMonthlyAnalytics } = usePOS();
+  const [rangeStats, setRangeStats] = React.useState<{ revenue: number, count: number, students: number } | null>(null);
+  const [monthlyStats, setMonthlyStats] = React.useState<{ month: string, totalSessions: number }[] | null>(null);
+  const { fetchDetailedAnalytics, fetchMonthlyAnalytics } = useAcademy();
 
   React.useEffect(() => {
     let isMounted = true;
@@ -323,7 +327,7 @@ export default function DashboardPage() {
             // Ensure all 12 months are present
             const paddedStats = months.map(m => ({
               month: m,
-              totalSales: dataMap[m] || 0
+              totalSessions: dataMap[m] || 0
             }));
 
             setMonthlyStats(paddedStats);
@@ -353,7 +357,7 @@ export default function DashboardPage() {
           const res = await fetchDetailedAnalytics(startOfDay(parsedFrom), endOfDay(parsedTo));
           setRangeStats(res);
           
-          // Also fetch the actual receipts for Top Selling Items calculation
+          // Also fetch the actual admissions for Top Selling Items calculation
           const BatchRes = await fetchReceiptsInRange(startOfDay(parsedFrom), endOfDay(parsedTo), 500);
           setDashboardBatchReceipts(BatchRes);
         } catch (err) {
@@ -375,25 +379,25 @@ export default function DashboardPage() {
     if (!dashboardData) return null;
     if (!rangeStats) return dashboardData;
 
-    const rawRevenueSum = (dashboardData.productRevenue || 0) + (dashboardData.serviceRevenue || 0);
-    let finalProductRevenue = dashboardData.productRevenue;
-    let finalServiceRevenue = dashboardData.serviceRevenue;
+    const rawRevenueSum = (dashboardData.examRevenue || 0) + (dashboardData.subjectRevenue || 0);
+    let finalProductRevenue = dashboardData.examRevenue;
+    let finalServiceRevenue = dashboardData.subjectRevenue;
 
     if (rawRevenueSum > 0) {
-      const pRatio = (dashboardData.productRevenue || 0) / rawRevenueSum;
-      const sRatio = (dashboardData.serviceRevenue || 0) / rawRevenueSum;
+      const pRatio = (dashboardData.examRevenue || 0) / rawRevenueSum;
+      const sRatio = (dashboardData.subjectRevenue || 0) / rawRevenueSum;
       finalProductRevenue = pRatio * rangeStats.revenue;
       finalServiceRevenue = sRatio * rangeStats.revenue;
     }
 
     return {
       ...dashboardData,
-      totalRevenue: rangeStats.revenue,
-      totalSalesValue: rangeStats.revenue,
+      totalBookingValue: rangeStats.revenue,
+      totalSessionsValue: rangeStats.revenue,
       totalReceipts: rangeStats.count,
-      newCustomersCount: rangeStats.customers,
-      productRevenue: finalProductRevenue,
-      serviceRevenue: finalServiceRevenue
+      newCustomersCount: rangeStats.students,
+      examRevenue: finalProductRevenue,
+      subjectRevenue: finalServiceRevenue
     };
   }, [dashboardData, rangeStats]);
 
@@ -418,13 +422,13 @@ export default function DashboardPage() {
     }
   };
 
-  const { currentUserProfile } = usePOS();
+  const { currentUserProfile } = useAcademy();
   
   if (isLoading || !finalDashboardData) {
     return <DashboardSkeleton />;
   }
 
-  const { totalRevenue, newCustomersCount, totalUnitsSold, totalStock, uniqueSkus, lowStockItems, totalSalesValue, totalReceipts, totalOnlineSalesValue, totalOnlineOrdersCount, topSellingItems, topLoyaltyCustomers, isLoyaltyEnabled, debtItemsCount, totalDebtUnits, serviceUnitsSold, productUnitsSold, serviceRevenue, productRevenue } = finalDashboardData;
+  const { totalBookingValue, newCustomersCount, totalUnitsCompleted, totalStock, uniqueSkus, lowStockItems, totalSessionsValue, totalReceipts, totalMentorshipValue, totalMentorshipCount, topSellingItems, topLoyaltyCustomers, isLoyaltyEnabled, debtItemsCount, totalDebtUnits, subjectUnitsCompleted, examUnitsCompleted, subjectRevenue, examRevenue } = finalDashboardData;
 
   const hasReportPermission = currentUserProfile?.permissions?.view_reports ?? (currentUserProfile?.role === 'admin' || currentUserProfile?.role === 'owner');
   const isRestricted = !hasReportPermission;
@@ -453,34 +457,25 @@ export default function DashboardPage() {
         {!isRestricted && (
           <SummaryCard
             title="JAMB Syllabus Tracker"
-            value={`${(productRevenue > 0 && totalRevenue > 0 ? ((productRevenue / totalRevenue) * 100).toFixed(1) : 84.5)}% Covered`}
+            value={`${(examRevenue > 0 && totalBookingValue > 0 ? ((examRevenue / totalBookingValue) * 100).toFixed(1) : 84.5)}% Covered`}
             icon={Package}
-            description={`${(productUnitsSold || 0).toLocaleString()} topics checked off`}
-            href="/inventory"
-          />
-        )}
-        {!isRestricted && (
-          <SummaryCard
-            title="Verified News Hub"
-            value={`${(serviceUnitsSold || 42).toLocaleString()} Updates`}
-            icon={Globe}
-            description="Campus bulletins & rumors checked"
-            href="/storefront"
+            description={`${(examUnitsCompleted || 0).toLocaleString()} topics checked off`}
+            href="/syllabus-tracker"
           />
         )}
         <SummaryCard
           title="Peer Community Forums"
-          value={`${(totalUnitsSold || 0).toLocaleString()} Posts`}
+          value={`${(totalUnitsCompleted || 0).toLocaleString()} Posts`}
           icon={Users}
           description="Nairaland-style student discussions"
-          href="/storefront"
+          href="/peers-mentors"
         />
         <SummaryCard
           title="Mentorship Bookings"
           value={`${(newCustomersCount || 0).toLocaleString()} Sessions`}
           icon={TrendingUp}
           description="15-minute consultations booked"
-          href="/online-orders"
+          href="/mentorship-booking"
         />
         {!isRestricted && (
           <SummaryCard
@@ -488,42 +483,31 @@ export default function DashboardPage() {
             value="1-Click Aggregate"
             icon={CalculatorIcon}
             description="Automatic UTME/Post-UTME calculation"
-            href="/receipts"
-          />
-        )}
-        {!isRestricted && (
-          <SummaryCard
-            title="Scholarship Alerts"
-            value={`${(totalOnlineOrdersCount || 12).toLocaleString()} Active`}
-            icon={Bell}
-            description="Fresher scholarship opportunities"
-            href="/invoices"
+            href="/admission-calculator"
           />
         )}
         <SummaryCard
           title="Text Novel Summaries"
-          value={`${(lowStockItems || 8).toLocaleString()} Read`}
+          value="Literature Novels"
           icon={PackageOpen}
           description="JAMB & WAEC summary novel checklist"
-          href="/inventory"
+          href="/text-novels"
         />
-        {debtItemsCount > 0 && (
-          <SummaryCard
-            title="Offline Speed Battles"
-            value={totalDebtUnits}
-            icon={TrendingDown}
-            description="Gamified battles vs. peers/bots completed"
-            href="/inventory"
-          />
-        )}
+        <SummaryCard
+          title="Offline Speed Battles"
+          value="Speed Arena"
+          icon={Zap}
+          description="Gamified battles vs. peers/bots completed"
+          href="/speed-battles"
+        />
       </div>
 
       {!isRestricted && (
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-2">
-            <OverviewChart receipts={receipts || []} currencySymbol="" data={monthlyStats || undefined} />
+            <OverviewChart admissions={admissions || []} currencySymbol="" data={monthlyStats || undefined} />
           </div>
-          <CategoryPieChart products={products || []} />
+          <CategoryPieChart subjects={subjects || []} />
         </div>
       )}
 
@@ -540,7 +524,7 @@ export default function DashboardPage() {
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
               <div className="flex flex-col items-center p-3 rounded-lg bg-muted/50 text-center">
                 <PackageCheck className="h-8 w-8 text-primary mb-2" />
-                <p className="text-2xl font-bold">{totalReceipts + totalOnlineOrdersCount}</p>
+                <p className="text-2xl font-bold">{totalReceipts + totalMentorshipCount}</p>
                 <p className="text-xs text-muted-foreground">Exams Completed</p>
               </div>
               <div className="flex flex-col items-center p-3 rounded-lg bg-muted/50 text-center">
@@ -582,7 +566,7 @@ export default function DashboardPage() {
               </div>
               <div className="pt-2">
                 <Button variant="outline" size="sm" asChild className="w-full">
-                  <Link href="/inventory?sortBy=stock-desc">
+                  <Link href="/syllabus-tracker?sortBy=stock-desc">
                     View Official JAMB Tracker <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
@@ -633,7 +617,7 @@ export default function DashboardPage() {
               <p className="text-sm text-muted-foreground text-center py-4">No student mentor data yet.</p>
             )}
             <Button variant="link" size="sm" asChild className="mt-3 w-full justify-center">
-              <Link href="/customers">View All Mentors</Link>
+              <Link href="/peers-mentors">View All Mentors</Link>
             </Button>
           </CardContent>
         </Card>
@@ -653,7 +637,7 @@ export default function DashboardPage() {
                   {topSellingItems.map(item => (
                     <li key={item.id} className="flex items-center justify-between p-2 rounded-md hover:bg-muted/50 text-sm">
                       <Link 
-                        href={item.id.startsWith('manual-') ? '#' : `/inventory/details?id=${item.id}`} 
+                        href={item.id.startsWith('manual-') ? '#' : `/syllabus-tracker/details?id=${item.id}`} 
                         className={cn("font-medium", item.id.startsWith('manual-') ? "text-muted-foreground cursor-default" : "hover:underline text-primary")} 
                         title={item.name}
                       >
@@ -670,7 +654,7 @@ export default function DashboardPage() {
                 </ul>
                 <div className="pt-4">
                   <Button variant="outline" size="sm" asChild className="w-full">
-                    <Link href="/inventory">
+                    <Link href="/syllabus-tracker">
                       View Syllabus Details <ArrowRight className="ml-2 h-4 w-4" />
                     </Link>
                   </Button>
@@ -686,12 +670,12 @@ export default function DashboardPage() {
         </Card>
       </div>
 
-      {business && (
+      {academy && (
         <AddCustomerDialog
           isOpen={isAddCustomerOpen}
           onOpenChange={setIsAddCustomerOpen}
-          businessId={business.id}
-          customers={customers}
+          academyId={academy.id}
+          students={students}
         />
       )}
     </div>

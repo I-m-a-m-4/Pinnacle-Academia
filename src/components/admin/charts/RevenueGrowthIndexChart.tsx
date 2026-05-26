@@ -4,7 +4,7 @@ import * as React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { ResponsiveContainer, BarChart as ReBarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip as ReTooltip } from 'recharts';
 import { Activity } from 'lucide-react';
-import { TimeframePicker, type Timeframe } from '@/components/reports/timeframe-picker';
+import { TimeframePicker, type Timeframe } from '@/components/performance-analytics/timeframe-picker';
 import { subDays, startOfDay, format, eachDayOfInterval } from 'date-fns';
 import type { Purchase } from '@/types';
 

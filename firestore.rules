@@ -1,4 +1,4 @@
-// Force rules update - Version 2.0.7
+// Force rules update - Version 3.0.0 (Pinnacle Academia)
 rules_version = '2';
 
 service cloud.firestore {
@@ -71,6 +71,11 @@ service cloud.firestore {
       allow write: if isSuperAdmin();
     }
 
+    match /job_applications/{appId} {
+      allow create: if true;
+      allow read, write: if isSuperAdmin();
+    }
+
     match /notifications/{notificationId} {
       allow list, get: if isUserAuthenticated();
       allow create, delete: if isSuperAdmin();
@@ -120,7 +125,22 @@ service cloud.firestore {
         allow update, delete: if false;
       }
 
+      // Academic alias: activityLogs = auditLogs
+      match /activityLogs/{logId} {
+        allow list, get: if isSuperAdmin() || (isUserAuthenticated() && isRequestingUserAdmin() && isRequestingUserMemberOf(businessId));
+        allow create: if isUserAuthenticated();
+        allow update, delete: if false;
+      }
+
       match /onlineOrders/{orderId} {
+         allow read, list: if isSuperAdmin() || (isUserAuthenticated() && isRequestingUserMemberOf(businessId));
+         allow create: if true; 
+         allow update: if isSuperAdmin() || (isUserAuthenticated() && isRequestingUserMemberOf(businessId));
+         allow delete: if false;
+      }
+
+      // Academic alias: mentorshipBookings = onlineOrders
+      match /mentorshipBookings/{bookingId} {
          allow read, list: if isSuperAdmin() || (isUserAuthenticated() && isRequestingUserMemberOf(businessId));
          allow create: if true; 
          allow update: if isSuperAdmin() || (isUserAuthenticated() && isRequestingUserMemberOf(businessId));
@@ -169,6 +189,81 @@ service cloud.firestore {
       allow list: if isSuperAdmin() || isUserAuthenticated();
       allow delete: if isSuperAdmin() || (isUserAuthenticated() && isRequestingUserAdmin() && isRequestingUserMemberOf(resource.data.businessId));
     }
+
+    // =================================================================
+    // Academic Collections (Pinnacle Academia - Primary)
+    // =================================================================
+
+    // subjects: Academic subjects with questions (admin can upload Q&A)
+    match /subjects/{subjectId} {
+      allow get: if isSuperAdmin() || (isUserAuthenticated() && (resource == null || isRequestingUserMemberOf(resource.data.get('businessId', null))));
+      allow list: if isSuperAdmin() || (isUserAuthenticated() && (resource.data.get('businessId', 'none') == getCurrentUserBusinessId() || resource.data.get('createdBy', null) == request.auth.uid));
+      
+      allow create: if isSuperAdmin() || (isUserAuthenticated() && 
+                      isRequestingUserStaff() && 
+                      hasPermission('manage_inventory') &&
+                      isRequestingUserMemberOf(request.resource.data.get('businessId', null)) && 
+                      isSubscriptionActive(request.resource.data.get('businessId', null)));
+      allow update: if isSuperAdmin() || (isUserAuthenticated() && 
+                      isRequestingUserStaff() && 
+                      isRequestingUserMemberOf(resource.data.get('businessId', null)) && 
+                      isSubscriptionActive(resource.data.get('businessId', null)) &&
+                      (
+                        hasPermission('manage_inventory') ||
+                        (hasPermission('record_sales') && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['stock', 'updatedAt']))
+                      ));
+      allow delete: if isSuperAdmin() || (isUserAuthenticated() && (resource == null || (
+                      isRequestingUserManager() && 
+                      hasPermission('manage_inventory') &&
+                      isRequestingUserMemberOf(resource.data.get('businessId', null)) && 
+                      isSubscriptionActive(resource.data.get('businessId', null)))));
+    }
+
+    // admissions: Admission calculator results
+    match /admissions/{admissionId} {
+        allow get: if true;
+        allow list: if isSuperAdmin() || (isUserAuthenticated() && (resource.data.get('businessId', 'none') == getCurrentUserBusinessId() || resource.data.get('createdBy', null) == request.auth.uid));
+        
+        allow create: if isSuperAdmin() || (isUserAuthenticated() && 
+                        isRequestingUserMemberOf(request.resource.data.get('businessId', null)) && 
+                        hasPermission('record_sales') &&
+                        isSubscriptionActive(request.resource.data.get('businessId', null)));
+        allow update: if isSuperAdmin() || (isUserAuthenticated() && 
+                                isRequestingUserManager() && 
+                                hasPermission('record_sales') &&
+                                isRequestingUserMemberOf(resource.data.get('businessId', null)) && 
+                                isSubscriptionActive(resource.data.get('businessId', null)));
+        allow delete: if isSuperAdmin() || (isUserAuthenticated() && (resource == null || (
+                                isRequestingUserManager() && 
+                                hasPermission('record_sales') &&
+                                isRequestingUserMemberOf(resource.data.get('businessId', null)) && 
+                                isSubscriptionActive(resource.data.get('businessId', null)))));
+    }
+    
+    // students: Peer/mentor profiles (replaces customers)
+    match /students/{studentId} {
+      allow get: if isSuperAdmin() || (isUserAuthenticated() && (resource == null || isRequestingUserMemberOf(resource.data.get('businessId', null)) || resource.data.get('createdBy', null) == request.auth.uid));
+      allow list: if isSuperAdmin() || (isUserAuthenticated() && (resource.data.get('businessId', 'none') == getCurrentUserBusinessId() || resource.data.get('createdBy', null) == request.auth.uid));
+      
+      allow create: if isUserAuthenticated() && hasPermission('view_customers'); 
+      allow update: if isSuperAdmin() || (isUserAuthenticated() && 
+                      isRequestingUserStaff() && 
+                      isRequestingUserMemberOf(resource.data.get('businessId', null)) && 
+                      isSubscriptionActive(resource.data.get('businessId', null)) &&
+                      (
+                        hasPermission('view_customers') ||
+                        (hasPermission('record_sales') && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['totalSpent', 'loyaltyPoints', 'updatedAt']))
+                      ));
+      allow delete: if isSuperAdmin() || (isUserAuthenticated() && (resource == null || (
+                      isRequestingUserManager() && 
+                      hasPermission('view_customers') &&
+                      isRequestingUserMemberOf(resource.data.get('businessId', null)) && 
+                      isSubscriptionActive(resource.data.get('businessId', null)))));
+    }
+
+    // =================================================================
+    // Legacy Collections (kept for backward compatibility)
+    // =================================================================
 
     match /products/{productId} {
       allow get: if isSuperAdmin() || (isUserAuthenticated() && (resource == null || isRequestingUserMemberOf(resource.data.get('businessId', null))));

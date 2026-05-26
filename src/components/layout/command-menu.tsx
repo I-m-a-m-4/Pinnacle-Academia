@@ -12,7 +12,7 @@ import {
   CommandSeparator,
 } from '@/components/ui/command';
 import { Home, Package, ShoppingCart, Users, LifeBuoy, CreditCard, Settings, FileText, Bot } from 'lucide-react';
-import { usePOS } from '@/context/pos-context';
+import { useAcademy } from '@/context/academy-context';
 
 interface CommandMenuProps {
     open: boolean;
@@ -20,20 +20,21 @@ interface CommandMenuProps {
 }
 
 const navLinks = [
-    { href: '/dashboard', label: 'Dashboard', icon: Home, roles: ['admin', 'manager', 'vendor_operator'] },
-    { href: '/inventory', label: 'Syllabus Tracker', icon: Package, roles: ['admin', 'manager', 'vendor_operator'] },
-    { href: '/cbt-simulator/select-subjects', label: 'CBT Exam Simulator', icon: ShoppingCart, roles: ['admin', 'manager', 'vendor_operator'] },
-    { href: '/users', label: 'Users & Staff', icon: Users, roles: ['admin'] },
-    { href: '/customers', label: 'Peers & Mentors', icon: Users, roles: ['admin', 'manager', 'vendor_operator'] },
-    { href: '/receipts', label: 'Admission Calculator', icon: FileText, roles: ['admin', 'manager'] },
-    { href: '/inventory/troubleshoot', label: 'AI Troubleshoot', icon: Bot, roles: ['admin', 'manager'] },
-    { href: '/billing', label: 'Billing', icon: CreditCard, roles: ['admin'] },
-    { href: '/settings', label: 'Settings', icon: Settings, roles: ['admin'] },
+    { href: '/dashboard', label: 'Dashboard', icon: Home, roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+    { href: '/syllabus-tracker', label: 'Syllabus Tracker', icon: Package, roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+    { href: '/cbt-simulator/select-subjects', label: 'CBT Exam Simulator', icon: ShoppingCart, roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+    { href: '/student-profile', label: 'Student Profile', icon: Users, roles: ['admin', 'owner'] },
+    { href: '/peers-mentors', label: 'Peers & Mentors', icon: Users, roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+    { href: '/admission-calculator', label: 'Admission Calculator', icon: FileText, roles: ['admin', 'manager', 'owner'] },
+    { href: '/syllabus-tracker/troubleshoot', label: 'AI Troubleshoot', icon: Bot, roles: ['admin', 'manager', 'owner'] },
+    { href: '/billing', label: 'Billing', icon: CreditCard, roles: ['admin', 'owner'] },
+    { href: '/settings', label: 'Portal Settings', icon: Settings, roles: ['admin', 'owner'] },
 ];
+
 
 export default function CommandMenu({ open, onOpenChange }: CommandMenuProps) {
     const router = useRouter();
-    const { products, currentUserProfile } = usePOS();
+    const { subjects, currentUserProfile } = useAcademy();
     const userRole = currentUserProfile?.role;
 
     const runCommand = React.useCallback((command: () => unknown) => {
@@ -59,12 +60,12 @@ export default function CommandMenu({ open, onOpenChange }: CommandMenuProps) {
                         </CommandItem>
                     ))}
                 </CommandGroup>
-                {products && products.length > 0 && (
+                {subjects && subjects.length > 0 && (
                     <>
                     <CommandSeparator />
                     <CommandGroup heading="Products">
-                        {products.slice(0, 5).map(product => (
-                            <CommandItem key={product.id} value={product.name} onSelect={() => runCommand(() => router.push(`/inventory/${product.id}`))}>
+                        {subjects.slice(0, 5).map(product => (
+                            <CommandItem key={product.id} value={product.name} onSelect={() => runCommand(() => router.push(`/syllabus-tracker/details?id=${product.id}`))}>
                                 <Package className="mr-2 h-4 w-4" />
                                 <span>{product.name}</span>
                             </CommandItem>

@@ -23,7 +23,7 @@ export function middleware(req: NextRequest) {
         }
 
         // Rewrite to the store path
-        // e.g. shop.pinnacle-academia.com/cart -> pinnacle-academia.com/store/shop/cart
+        // e.g. shop.pinnacle-academia.com/syllabus -> pinnacle-academia.com/store/shop/syllabus
         console.log(`[Middleware] Rewriting subdomain ${subdomain} to /store/${subdomain}`);
         url.pathname = `/store/${subdomain}${url.pathname}`;
         return NextResponse.rewrite(url);

@@ -1,7 +1,7 @@
 'use client';
 
 import { collection, addDoc, serverTimestamp, type Firestore } from 'firebase/firestore';
-import type { UserProfile } from '@/types';
+import type { StudentProfile } from '@/types';
 
 type AuditAction =
     | 'product.create' | 'product.update' | 'product.delete' | 'product.bulk_update' | 'product.stock_adjustment'
@@ -23,8 +23,8 @@ interface AuditEvent {
 
 export const logAuditEvent = async (
     firestore: Firestore,
-    businessId: string,
-    user: UserProfile,
+    academyId: string,
+    user: StudentProfile,
     event: AuditEvent
 ) => {
     try {
@@ -37,7 +37,7 @@ export const logAuditEvent = async (
         Object.keys(details).forEach(key => details[key] === undefined && delete details[key]);
 
         const logData = {
-            businessId,
+            academyId,
             userId: user?.id || 'unknown',
             userName: user?.name || 'Unknown User',
             userEmail: user?.email || 'N/A',
@@ -49,7 +49,7 @@ export const logAuditEvent = async (
             createdAt: serverTimestamp(),
         };
 
-        const auditLogRef = collection(firestore, 'businessInstances', businessId, 'auditLogs');
+        const auditLogRef = collection(firestore, 'businessInstances', academyId, 'activityLogs');
         await addDoc(auditLogRef, logData);
     } catch (error) {
         // Log to console but don't block the user's action

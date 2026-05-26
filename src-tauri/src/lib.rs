@@ -32,7 +32,7 @@ fn validate_subscription(access_level: String, trial_expires_at: i64) -> bool {
 
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
-  println!("Zeneva: Initializing Builder...");
+  println!("Pinnacle Academia: Initializing Builder...");
   
   #[allow(unused_mut)]
   let mut builder = tauri::Builder::default()
@@ -40,15 +40,15 @@ pub fn run() {
       .level(log::LevelFilter::Info)
       .build())
     .invoke_handler(tauri::generate_handler![
-        calculate_secure_loyalty, 
-        calculate_royalty, 
-        validate_subscription
+      calculate_secure_loyalty, 
+      calculate_royalty, 
+      validate_subscription
     ])
     .plugin(tauri_plugin_sql::Builder::default().build())
     .plugin(tauri_plugin_fs::init())
     .plugin(tauri_plugin_dialog::init())
     .plugin(tauri_plugin_stronghold::Builder::new(|_password| {
-        "zeneva-secure-key-2024".as_bytes().to_vec()
+      "pinnacle-academia-secure-key-2026".as_bytes().to_vec()
     }).build())
     .plugin(tauri_plugin_updater::Builder::new().build())
     .plugin(tauri_plugin_process::init())
@@ -61,88 +61,88 @@ pub fn run() {
   {
     use tauri::Manager;
     builder = builder.plugin(tauri_plugin_single_instance::init(|app, _args, _cwd| {
-        println!("Zeneva: Second instance detected — focusing existing window.");
-        if let Some(window) = app.get_webview_window("main") {
-            let _ = window.show();
-            let _ = window.unminimize();
-            let _ = window.set_focus();
-        }
+      println!("Pinnacle Academia: Second instance detected — focusing existing window.");
+      if let Some(window) = app.get_webview_window("main") {
+        let _ = window.show();
+        let _ = window.unminimize();
+        let _ = window.set_focus();
+      }
     }));
   }
 
   builder
     .setup(|app| {
-        println!("Zeneva: Entering setup...");
+      println!("Pinnacle Academia: Entering setup...");
 
-        #[cfg(desktop)]
-        {
-            use tauri::Manager;
-            // FIX: Explicitly show and focus the main window on startup.
-            // This is the primary fix — without this, the window can start hidden.
-            if let Some(window) = app.get_webview_window("main") {
-                println!("Zeneva: Showing and focusing main window...");
-                let _ = window.show();
-                let _ = window.unminimize();
-                let _ = window.set_focus();
-            } else {
-                println!("Zeneva: WARNING — could not find 'main' window in setup!");
-            }
+      #[cfg(desktop)]
+      {
+        use tauri::Manager;
+        // FIX: Explicitly show and focus the main window on startup.
+        // This is the primary fix — without this, the window can start hidden.
+        if let Some(window) = app.get_webview_window("main") {
+          println!("Pinnacle Academia: Showing and focusing main window...");
+          let _ = window.show();
+          let _ = window.unminimize();
+          let _ = window.set_focus();
+        } else {
+          println!("Pinnacle Academia: WARNING — could not find 'main' window in setup!");
+        }
 
-            // Build tray menu
-            let quit_i = MenuItem::with_id(app, "quit", "Quit Zeneva", true, None::<&str>)?;
-            let show_i = MenuItem::with_id(app, "show", "Show Zeneva Dashboard", true, None::<&str>)?;
-            let menu = Menu::with_items(app, &[&show_i, &quit_i])?;
+        // Build tray menu
+        let quit_i = MenuItem::with_id(app, "quit", "Quit Pinnacle Academia", true, None::<&str>)?;
+        let show_i = MenuItem::with_id(app, "show", "Show Pinnacle Dashboard", true, None::<&str>)?;
+        let menu = Menu::with_items(app, &[&show_i, &quit_i])?;
 
-            // Build tray icon (non-fatal if icon is missing)
-            if let Some(tray_icon) = app.default_window_icon().cloned() {
-                println!("Zeneva: Building tray icon...");
-                let tray_result = TrayIconBuilder::new()
-                    .icon(tray_icon)
-                    .menu(&menu)
-                    .on_menu_event(|app, event| {
-                        match event.id.as_ref() {
-                            "quit" => {
-                                println!("Zeneva: Quit requested from tray.");
-                                std::process::exit(0);
-                            }
-                            "show" => {
-                                if let Some(win) = app.get_webview_window("main") {
-                                    let _ = win.show();
-                                    let _ = win.unminimize();
-                                    let _ = win.set_focus();
-                                }
-                            }
-                            _ => {}
-                        }
-                    })
-                    .on_tray_icon_event(|tray, event| {
-                        if let TrayIconEvent::Click { button: tauri::tray::MouseButton::Left, .. } = event {
-                            let app = tray.app_handle();
-                            if let Some(win) = app.get_webview_window("main") {
-                                let _ = win.show();
-                                let _ = win.unminimize();
-                                let _ = win.set_focus();
-                            }
-                        }
-                    })
-                    .build(app);
-
-                match tray_result {
-                    Ok(_) => println!("Zeneva: Tray icon built successfully."),
-                    Err(e) => println!("Zeneva: WARNING — Tray icon failed to build: {:?}", e),
+        // Build tray icon (non-fatal if icon is missing)
+        if let Some(tray_icon) = app.default_window_icon().cloned() {
+          println!("Pinnacle Academia: Building tray icon...");
+          let tray_result = TrayIconBuilder::new()
+            .icon(tray_icon)
+            .menu(&menu)
+            .on_menu_event(|app, event| {
+              match event.id.as_ref() {
+                "quit" => {
+                  println!("Pinnacle Academia: Quit requested from tray.");
+                  std::process::exit(0);
                 }
-            } else {
-                println!("Zeneva: WARNING — No default window icon found, skipping tray.");
-            }
-        }
-        
-        #[cfg(mobile)]
-        {
-            let _ = app;
-        }
+                "show" => {
+                  if let Some(win) = app.get_webview_window("main") {
+                    let _ = win.show();
+                    let _ = win.unminimize();
+                    let _ = win.set_focus();
+                  }
+                }
+                _ => {}
+              }
+            })
+            .on_tray_icon_event(|tray, event| {
+              if let TrayIconEvent::Click { button: tauri::tray::MouseButton::Left, .. } = event {
+                let app = tray.app_handle();
+                if let Some(win) = app.get_webview_window("main") {
+                  let _ = win.show();
+                  let _ = win.unminimize();
+                  let _ = win.set_focus();
+                }
+              }
+            })
+            .build(app);
 
-        println!("Zeneva: Setup completed successfully.");
-        Ok(())
+          match tray_result {
+            Ok(_) => println!("Pinnacle Academia: Tray icon built successfully."),
+            Err(e) => println!("Pinnacle Academia: WARNING — Tray icon failed to build: {:?}", e),
+          }
+        } else {
+          println!("Pinnacle Academia: WARNING — No default window icon found, skipping tray.");
+        }
+      }
+      
+      #[cfg(mobile)]
+      {
+        let _ = app;
+      }
+
+      println!("Pinnacle Academia: Setup completed successfully.");
+      Ok(())
     })
     .run(tauri::generate_context!())
     .expect("error while running tauri application");

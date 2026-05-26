@@ -1,14 +1,14 @@
 'use client';
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Separator } from "@/components/ui/separator";
-import { usePOS } from "@/context/pos-context";
-import { PlusCircle, Search, ShoppingCart, Trash2, Package, PackageOpen, Columns, Loader2, ChevronsUp, ListFilter, Archive, History, Clock } from "lucide-react";
+import { useAcademy } from "@/context/academy-context";
+import { PlusCircle, Search, ShoppingCart, Trash2, Package, PackageOpen, Columns, Loader2, ChevronsUp, ListFilter, Archive, History, Clock, BookOpen } from "lucide-react";
 import { CachedImage } from "@/components/shared/cached-image";
 import Link from "next/link";
 import *as React from "react";
-import type { Product } from '@/types';
+import type { Subject } from '@/types';
 import { Skeleton } from "@/components/ui/skeleton";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { cn } from "@/lib/utils";
@@ -18,10 +18,11 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { useToast } from "@/hooks/use-toast";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuLabel, DropdownMenuRadioGroup, DropdownMenuRadioItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
 import { Badge } from "@/components/ui/badge";
-import { BarcodeScanner } from "@/components/inventory/barcode-scanner";
+import { BarcodeScanner } from "@/components/syllabus-tracker/barcode-scanner";
 import { QrCode } from "lucide-react";
 import { ImageDialog } from "@/components/shared/image-dialog";
-import HeldSalesDrawer from "@/components/pos/held-sales-drawer";
+import SavedSessionsDrawer from "@/components/cbt-simulator/saved-sessions-drawer";
+import { collection, query, where, onSnapshot } from "firebase/firestore";
 
 
 function ProductCardSkeleton() {
@@ -42,9 +43,9 @@ function ProductCardSkeleton() {
 }
 
 const ProductItem = React.memo(({ product, currencySymbol, handleAddToCart, addToCart, onPreview }: {
-    product: Product,
+    product: Subject,
     currencySymbol: string,
-    handleAddToCart: (product: Product) => void,
+    handleAddToCart: (product: Subject) => void,
     addToCart: any,
     onPreview: (src: string, alt: string) => void
 }) => {
@@ -128,21 +129,21 @@ ProductItem.displayName = 'ProductItem';
 
 const CartContents = () => {
     const { 
-        cart, 
+        syllabus, 
         removeFromCart, 
         updateQuantity, 
         subtotal, 
         currencySymbol, 
         clearCart,
-        holdCurrentSale,
-        heldSales,
-        resumeHeldSale,
-        deleteHeldSale
-    } = usePOS();
+        saveCurrentSession,
+        savedSessions,
+        resumeSavedSession,
+        deleteSavedSession
+    } = useAcademy();
 
     return (
         <>
-            {cart.length === 0 ? (
+            {syllabus.length === 0 ? (
                 <div className="flex flex-col items-center justify-center text-center text-muted-foreground p-8">
                     <ShoppingCart className="h-12 w-12" />
                     <p className="mt-4 text-xs">No subjects selected. Choose your UTME subject combination from the left.</p>
@@ -154,7 +155,7 @@ const CartContents = () => {
                             <Button
                                 variant="outline"
                                 size="sm"
-                                onClick={() => holdCurrentSale()}
+                                onClick={() => saveCurrentSession()}
                                 className="h-8 gap-1.5 px-2 text-xs font-medium border-dashed"
                             >
                                 <Archive className="h-3.5 w-3.5" />
@@ -171,7 +172,7 @@ const CartContents = () => {
                             Clear Selection
                         </Button>
                     </div>
-                    {cart.map(item => {
+                    {syllabus.map(item => {
                         const cartItemId = item.unit ? `${item.product.id}-${item.unit}` : item.product.id;
                         return (
                             <div key={cartItemId} className="flex justify-between items-center">
@@ -200,7 +201,7 @@ const CartContents = () => {
                     <Separator />
                     <div className="flex justify-between font-semibold">
                         <span>Total Questions</span>
-                        <span>{cart.reduce((acc, item) => acc + (item.product.price * item.quantity), 0).toLocaleString()} Qs</span>
+                        <span>{syllabus.reduce((acc, item) => acc + (item.product.price * item.quantity), 0).toLocaleString()} Qs</span>
                     </div>
                 </div>
             )}
@@ -211,30 +212,117 @@ const CartContents = () => {
 
 export default function SelectProductsPage() {
     const { 
-        cart, 
+        syllabus, 
         addToCart, 
+        clearCart,
         subtotal, 
         currencySymbol, 
-        products, 
+        subjects, 
         isLoading: isPosLoading, 
-        business,
+        academy,
+        currentUserProfile,
+        firestore,
         searchProducts,
         searchProductsByField,
         findProductBySku,
         fetchMoreProducts,
         isSyncing,
-        heldSales,
-        resumeHeldSale,
-        deleteHeldSale,
-        holdCurrentSale
-    } = usePOS();
+        savedSessions,
+        resumeSavedSession,
+        deleteSavedSession,
+        saveCurrentSession
+    } = useAcademy();
     const router = useRouter();
     const { toast } = useToast();
-    const [searchTerm, setSearchTerm] = React.useState('');
+        const [searchTerm, setSearchTerm] = React.useState('');
     const [categoryFilter, setCategoryFilter] = React.useState('all');
     const [columnClass, setColumnClass] = React.useState('lg:grid-cols-4');
     const [isNavigating, setIsNavigating] = React.useState(false);
     const [isScannerOpen, setIsScannerOpen] = React.useState(false);
+
+    const [activeUni, setActiveUni] = React.useState('');
+    const [activeCourse, setActiveCourse] = React.useState('');
+    const [mappings, setMappings] = React.useState<any[]>([]);
+    const [isLoadingMappings, setIsLoadingMappings] = React.useState(true);
+
+    React.useEffect(() => {
+        if (currentUserProfile) {
+            setActiveUni(currentUserProfile.targetInstitution || '');
+            setActiveCourse(currentUserProfile.targetCourse || '');
+        }
+    }, [currentUserProfile]);
+
+    React.useEffect(() => {
+        if (!academy?.id || !firestore) return;
+
+        const q = query(collection(firestore, 'postUtmeMappings'), where('academyId', '==', academy.id));
+        const unsubscribe = onSnapshot(q, (snapshot) => {
+            const data = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+            setMappings(data);
+            setIsLoadingMappings(false);
+        }, (err) => {
+            console.error(err);
+            setIsLoadingMappings(false);
+        });
+
+        return () => unsubscribe();
+    }, [academy?.id, firestore]);
+
+    const activeMapping = React.useMemo(() => {
+        if (!activeUni || !activeCourse || mappings.length === 0) return null;
+        return mappings.find(m => 
+            m.university.toLowerCase() === activeUni.toLowerCase() && 
+            m.course.toLowerCase() === activeCourse.toLowerCase()
+        ) || null;
+    }, [activeUni, activeCourse, mappings]);
+
+    const availableUniversities = React.useMemo(() => {
+        const unis = new Set<string>();
+        if (currentUserProfile?.targetInstitution) {
+            unis.add(currentUserProfile.targetInstitution);
+        }
+        mappings.forEach(m => unis.add(m.university));
+        return Array.from(unis);
+    }, [mappings, currentUserProfile]);
+
+    const availableCoursesForSelectedUni = React.useMemo(() => {
+        const courses = new Set<string>();
+        if (currentUserProfile?.targetCourse && currentUserProfile?.targetInstitution?.toLowerCase() === activeUni?.toLowerCase()) {
+            courses.add(currentUserProfile.targetCourse);
+        }
+        mappings.filter(m => m.university.toLowerCase() === activeUni.toLowerCase()).forEach(m => courses.add(m.course));
+        return Array.from(courses);
+    }, [mappings, activeUni, currentUserProfile]);
+
+    const handleApplyRecommended = () => {
+        if (!activeMapping || !subjects) return;
+
+        // Clear existing selections
+        clearCart();
+
+        let addedCount = 0;
+        activeMapping.subjects.forEach((subName: string) => {
+            const matchedSubject = subjects.find(s => s.name.toLowerCase() === subName.toLowerCase());
+            if (matchedSubject) {
+                addToCart(matchedSubject);
+                addedCount++;
+            }
+        });
+
+        if (addedCount > 0) {
+            toast({
+                variant: 'success',
+                title: 'Combination Applied',
+                description: `Successfully loaded recommended subjects for ${activeCourse} at ${activeUni}.`
+            });
+        } else {
+            toast({
+                variant: 'destructive',
+                title: 'Subject Match Failed',
+                description: 'Could not find matching subjects in the syllabus catalog. Please contact your tutor/admin.'
+            });
+        }
+    };
 
 
     const [previewImage, setPreviewImage] = React.useState<{ src: string, alt: string } | null>(null);
@@ -243,15 +331,14 @@ export default function SelectProductsPage() {
     // Subscription status is now managed by the background glassmorphism overlay in layout.tsx.
 
     const [isFetchingMore, setIsFetchingMore] = React.useState(false);
-    const [hasMore, setHasMore] = React.useState(products ? products.length >= 50 : true);
+    const [hasMore, setHasMore] = React.useState(subjects ? subjects.length >= 50 : true);
 
-    const isNative = typeof window !== 'undefined' && (window as any).__TAURI_INTERNALS__;
-    const isLoading = isNative ? (isPosLoading && (!products || products.length === 0)) : isPosLoading;
+    const isLoading = isPosLoading && (!subjects || subjects.length === 0);
 
     const performManualSearch = () => {
         if (!searchTerm.trim()) return;
         
-        const exactMatch = products?.find(p =>
+        const exactMatch = subjects?.find(p =>
             p.sku?.toLowerCase() === searchTerm.toLowerCase() ||
             p.name.toLowerCase() === searchTerm.toLowerCase()
         );
@@ -268,7 +355,7 @@ export default function SelectProductsPage() {
 
 
     const filteredProducts = React.useMemo(() => {
-        let base = [...(products || [])];
+        let base = [...(subjects || [])];
         
         // Apply instant local substring filter
         if (searchTerm.trim()) {
@@ -285,7 +372,7 @@ export default function SelectProductsPage() {
         }
 
         return base;
-    }, [products, searchTerm, categoryFilter]);
+    }, [subjects, searchTerm, categoryFilter]);
 
     const handleLoadMore = async () => {
         setIsFetchingMore(true);
@@ -294,24 +381,24 @@ export default function SelectProductsPage() {
         setIsFetchingMore(false);
     };
 
-    const handleAddToCart = React.useCallback((product: Product) => {
+    const handleAddToCart = React.useCallback((product: Subject) => {
         addToCart(product);
     }, [addToCart]);
 
     const handleScan = (sku: string) => {
-        const product = products?.find(p => p.sku === sku);
+        const product = subjects?.find(p => p.sku === sku);
         
         if (product) {
             addToCart(product);
             toast({
-                title: "Product Added",
-                description: `${product.name} has been added to the cart.`,
+                title: "Subject Added",
+                description: `${product.name} has been added to the syllabus.`,
             });
             setIsScannerOpen(false);
         } else {
             toast({
                 variant: "destructive",
-                title: "Product Not Found",
+                title: "Subject Not Found",
                 description: `No product found with SKU: ${sku}`,
             });
         }
@@ -326,6 +413,79 @@ export default function SelectProductsPage() {
     return (
         <div className="grid md:grid-cols-3 md:gap-8">
             <div className="md:col-span-2">
+                {/* Post-UTME Mapping Configurator */}
+                <Card className="mb-6 border border-primary/20 bg-primary/5 backdrop-blur-md shadow-md rounded-2xl">
+                    <CardHeader className="pb-3">
+                        <CardTitle className="text-lg font-bold flex items-center gap-2 text-primary">
+                            <BookOpen className="h-5 w-5" />
+                            Post-UTME Exam Configurator
+                        </CardTitle>
+                        <CardDescription>
+                            Select your target university and course to auto-configure your Post-UTME simulator subjects.
+                        </CardDescription>
+                    </CardHeader>
+                    <CardContent className="space-y-4">
+                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                            <div className="space-y-1.5">
+                                <label className="text-xs font-semibold text-muted-foreground">Target University</label>
+                                <Select value={activeUni} onValueChange={setActiveUni}>
+                                    <SelectTrigger className="bg-background/80">
+                                        <SelectValue placeholder="Select University" />
+                                    </SelectTrigger>
+                                    <SelectContent>
+                                        {availableUniversities.map(uni => (
+                                            <SelectItem key={uni} value={uni}>{uni}</SelectItem>
+                                        ))}
+                                    </SelectContent>
+                                </Select>
+                            </div>
+                            <div className="space-y-1.5">
+                                <label className="text-xs font-semibold text-muted-foreground">Desired Course</label>
+                                <Select value={activeCourse} onValueChange={setActiveCourse}>
+                                    <SelectTrigger className="bg-background/80">
+                                        <SelectValue placeholder="Select Course" />
+                                    </SelectTrigger>
+                                    <SelectContent>
+                                        {availableCoursesForSelectedUni.map(course => (
+                                            <SelectItem key={course} value={course}>{course}</SelectItem>
+                                        ))}
+                                    </SelectContent>
+                                </Select>
+                            </div>
+                        </div>
+
+                        {activeMapping ? (
+                            <div className="p-4 rounded-xl border border-primary/10 bg-primary/10 animate-in fade-in slide-in-from-top-2 duration-300">
+                                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+                                    <div>
+                                        <h4 className="font-semibold text-sm text-foreground">Recommended Combination found!</h4>
+                                        <p className="text-xs text-muted-foreground mt-0.5">
+                                            Post-UTME subjects for <strong className="text-foreground">{activeCourse}</strong> at <strong className="text-foreground">{activeUni}</strong>:
+                                        </p>
+                                        <div className="flex flex-wrap gap-1.5 mt-2">
+                                            {activeMapping.subjects.map((sub: string) => (
+                                                <Badge key={sub} variant="secondary" className="bg-background border text-[11px]">{sub}</Badge>
+                                            ))}
+                                        </div>
+                                    </div>
+                                    <Button onClick={handleApplyRecommended} size="sm" className="shadow-sm active:scale-95 transition-transform shrink-0">
+                                        Auto-select Combination
+                                    </Button>
+                                </div>
+                            </div>
+                        ) : (
+                            activeUni && activeCourse && (
+                                <div className="p-4 rounded-xl border border-muted bg-muted/30 text-center">
+                                    <p className="text-xs text-muted-foreground">
+                                        No official mapping configured for <strong className="text-foreground">{activeCourse}</strong> at <strong className="text-foreground">{activeUni}</strong>.
+                                    </p>
+                                    <p className="text-[10px] text-muted-foreground/60 mt-1">Please select your subjects manually using the catalog below.</p>
+                                </div>
+                            )
+                        )}
+                    </CardContent>
+                </Card>
+
                 <div className="flex flex-col mb-4 gap-2 sticky top-0 bg-background py-2 z-10 border-b">
                     <div className="flex items-center gap-2">
                         <div className="relative flex-1 group">
@@ -373,7 +533,7 @@ export default function SelectProductsPage() {
                                 <DropdownMenuSeparator />
                                 <DropdownMenuRadioGroup value={categoryFilter} onValueChange={setCategoryFilter}>
                                     <DropdownMenuRadioItem value="all">All Departments</DropdownMenuRadioItem>
-                                    {business?.settings?.productCategories?.map(cat => (
+                                    {academy?.settings?.productCategories?.map(cat => (
                                         <DropdownMenuRadioItem key={cat} value={cat}>{cat}</DropdownMenuRadioItem>
                                     ))}
                                 </DropdownMenuRadioGroup>
@@ -399,7 +559,7 @@ export default function SelectProductsPage() {
                     )}
                 </div>
                 <div className="pb-24 md:pb-0">
-                    {isLoading || products === null ? (
+                    {isLoading || subjects === null ? (
                         <div className="flex flex-col items-center justify-center p-12 min-h-[300px] text-center">
                             <Loader2 className="h-12 w-12 animate-spin text-primary opacity-50 mb-4" />
                             <p className="text-muted-foreground animate-pulse">Filtering subjects...</p>
@@ -434,7 +594,7 @@ export default function SelectProductsPage() {
                                         </Button>
                                     ) : (
                                         <Button size="sm" asChild>
-                                            <Link href="/inventory/add">
+                                            <Link href="/syllabus-tracker/add">
                                                 <PlusCircle className="h-4 w-4 mr-2" /> Add Subject
                                             </Link>
                                         </Button>
@@ -464,7 +624,7 @@ export default function SelectProductsPage() {
                         </ScrollArea>
                     </CardContent>
                     <CardFooter>
-                        <Button className="w-full" onClick={handleNext} disabled={cart.length === 0 || isNavigating}>
+                        <Button className="w-full" onClick={handleNext} disabled={syllabus.length === 0 || isNavigating}>
                             {isNavigating && <Loader2 className="mr-2 h-4 w-4 animate-spin" />}
                             Next: Student Details
                         </Button>
@@ -480,9 +640,9 @@ export default function SelectProductsPage() {
                             <div className="flex justify-between items-center w-full">
                                 <div className="flex items-center gap-2">
                                     <ChevronsUp className="h-5 w-5" />
-                                    <span>Selected Subjects ({cart.reduce((acc, item) => acc + item.quantity, 0)})</span>
+                                    <span>Selected Subjects ({syllabus.reduce((acc, item) => acc + item.quantity, 0)})</span>
                                 </div>
-                                <span>{cart.reduce((acc, item) => acc + (item.product.price * item.quantity), 0).toLocaleString()} Qs</span>
+                                <span>{syllabus.reduce((acc, item) => acc + (item.product.price * item.quantity), 0).toLocaleString()} Qs</span>
                             </div>
                         </Button>
                     </SheetTrigger>
@@ -494,7 +654,7 @@ export default function SelectProductsPage() {
                             <CartContents />
                         </ScrollArea>
                         <SheetFooter className="p-4 border-t bg-background">
-                            <Button className="w-full" size="lg" onClick={handleNext} disabled={cart.length === 0 || isNavigating}>
+                            <Button className="w-full" size="lg" onClick={handleNext} disabled={syllabus.length === 0 || isNavigating}>
                                 {isNavigating && <Loader2 className="mr-2 h-4 w-4 animate-spin" />}
                                 Next: Student Details
                             </Button>

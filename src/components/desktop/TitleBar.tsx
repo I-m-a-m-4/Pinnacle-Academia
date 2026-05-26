@@ -5,14 +5,14 @@ import { X, Minus, Square, Copy } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { AppConfig } from '@/lib/config';
 import { CachedImage } from '@/components/shared/cached-image';
-import { usePOS } from '@/context/pos-context';
+import { useAcademy } from '@/context/academy-context';
 
 export function DesktopTitleBar() {
-  const { business } = usePOS();
+  const { academy } = useAcademy();
   const [isTauri, setIsTauri] = useState(false);
   const [isMaximized, setIsMaximized] = useState(false);
   
-  const displayLogo = business?.settings?.logoUrl || AppConfig.logoIconUrl;
+  const displayLogo = academy?.settings?.logoUrl || AppConfig.logoIconUrl;
 
   useEffect(() => {
     // Check if we are in Tauri or Web

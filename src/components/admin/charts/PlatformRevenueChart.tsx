@@ -4,15 +4,15 @@ import * as React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { ResponsiveContainer, LineChart as ReLineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip as ReTooltip } from 'recharts';
 import { DollarSign } from 'lucide-react';
-import { TimeframePicker, type Timeframe } from '@/components/reports/timeframe-picker';
+import { TimeframePicker, type Timeframe } from '@/components/performance-analytics/timeframe-picker';
 import { subDays, startOfDay, format, eachDayOfInterval } from 'date-fns';
-import type { Receipt } from '@/types';
+import type { Admission } from '@/types';
 
 interface PlatformRevenueChartProps {
-  receipts: Receipt[];
+  admissions: Admission[];
 }
 
-export default function PlatformRevenueChart({ receipts }: PlatformRevenueChartProps) {
+export default function PlatformRevenueChart({ admissions }: PlatformRevenueChartProps) {
   const [timeframe, setTimeframe] = React.useState<Timeframe>('30d');
 
   const chartData = React.useMemo(() => {
@@ -31,7 +31,7 @@ export default function PlatformRevenueChart({ receipts }: PlatformRevenueChartP
       dailyData[format(day, 'MMM d')] = 0;
     });
 
-    receipts.forEach(r => {
+    admissions.forEach(r => {
       const date = r.createdAt?.toDate ? r.createdAt.toDate() : new Date(r.createdAt);
       if (date >= limitDate) {
         const dayKey = format(date, 'MMM d');
@@ -42,14 +42,14 @@ export default function PlatformRevenueChart({ receipts }: PlatformRevenueChartP
     });
 
     return Object.entries(dailyData).map(([date, Revenue]) => ({ date, Revenue }));
-  }, [receipts, timeframe]);
+  }, [admissions, timeframe]);
 
   return (
     <Card>
       <CardHeader className="flex flex-row items-center justify-between">
         <div>
-          <CardTitle className="flex items-center gap-2"><DollarSign className="h-5 w-5 text-green-500" /> Platform Revenue Velocity (GMV)</CardTitle>
-          <CardDescription>Combined sales across all Zeneva businesses.</CardDescription>
+          <CardTitle className="flex items-center gap-2"><DollarSign className="h-5 w-5 text-green-500" /> Platform Revenue Velocity (Admissions Value)</CardTitle>
+          <CardDescription>Combined admissions revenue across all Pinnacle academies.</CardDescription>
         </div>
         <TimeframePicker value={timeframe} onValueChange={setTimeframe} />
       </CardHeader>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { usePOS } from '@/context/pos-context';
+import { useAcademy } from '@/context/academy-context';
 import { Button } from '@/components/ui/button';
 import {
     Popover,
@@ -12,7 +12,7 @@ import { Cloud, RefreshCw, UploadCloud, AlertTriangle, CheckCircle2, XCircle, Tr
 import { cn } from '@/lib/utils';
 
 export default function QueueStatus() {
-    const { queuedActions, isQueueProcessing, clearFailedActions, processQueue, removeFromQueue } = usePOS();
+    const { queuedActions, isQueueProcessing, clearFailedActions, processQueue, removeFromQueue } = useAcademy();
     const [isOnline, setIsOnline] = React.useState(true);
 
     React.useEffect(() => {
@@ -94,7 +94,7 @@ export default function QueueStatus() {
                                         {action.status === 'pending' && <Cloud className="h-4 w-4 text-muted-foreground" />}
                                         {action.status === 'processing' && <RefreshCw className="h-4 w-4 animate-spin text-primary" />}
                                         {action.status === 'failed' && <XCircle className="h-4 w-4 text-destructive" />}
-                                        {action.status === 'synced' && <CheckCircle2 className="h-4 w-4 text-green-500" />}
+                                        {action.status === 'completed' && <CheckCircle2 className="h-4 w-4 text-green-500" />}
                                     </div>
                                     <div className="flex-1 space-y-1">
                                         <p className="text-sm font-medium leading-none">{action.description || 'Unknown Action'}</p>

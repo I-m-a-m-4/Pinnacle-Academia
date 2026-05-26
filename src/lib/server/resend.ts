@@ -18,7 +18,7 @@ export interface EmailParams {
   name: string;
   subject: string;
   body: string; // HTML body
-  businessId?: string;
+  academyId?: string;
   type?: string;
 }
 
@@ -89,7 +89,7 @@ export async function sendEmail(params: EmailParams & { behaviorContext?: any })
     subject: params.subject,
     sentAt: new Date(),
     status: 'pending',
-    businessId: params.businessId || 'unknown',
+    academyId: params.academyId || 'unknown',
     type: params.type || 'follow-up',
     behavior: params.behaviorContext || {}, 
     html: htmlWithBranding, 

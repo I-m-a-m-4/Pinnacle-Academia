@@ -8,9 +8,6 @@ const getAI = () => {
     _instance = genkit({
       plugins: [googleAI({ apiKey: process.env.GEMINI_API_KEY })],
       model: 'googleai/gemini-2.0-flash',
-      telemetry: {
-        disable: true
-      }
     });
   }
   return _instance;

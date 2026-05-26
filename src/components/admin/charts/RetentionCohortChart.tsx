@@ -4,14 +4,14 @@ import * as React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 import { format, startOfMonth, subMonths, isSameMonth } from 'date-fns';
-import type { UserProfile, Receipt } from '@/types';
+import type { StudentProfile, Admission } from '@/types';
 
 interface RetentionCohortChartProps {
-  users: UserProfile[];
-  receipts: Receipt[];
+  users: StudentProfile[];
+  admissions: Admission[];
 }
 
-export default function RetentionCohortChart({ users, receipts }: RetentionCohortChartProps) {
+export default function RetentionCohortChart({ users, admissions }: RetentionCohortChartProps) {
   const cohortData = React.useMemo(() => {
     const now = new Date();
     const monthsToShow = 5;
@@ -33,17 +33,17 @@ export default function RetentionCohortChart({ users, receipts }: RetentionCohor
             retention: []
         };
 
-        const businessIds = new Set(cohortUsers.map(u => u.businessId).filter(Boolean));
+        const businessIds = new Set(cohortUsers.map(u => u.academyId).filter(Boolean));
 
         // 2. For each subsequent month, calculate how many were active
         for (let j = 0; j < monthsToShow - i; j++) {
             const checkMonth = startOfMonth(subMonths(now, i - j));
             const activeBusinesses = new Set();
             
-            receipts.forEach(r => {
+            admissions.forEach(r => {
                 const receiptDate = r.createdAt?.toDate ? r.createdAt.toDate() : new Date(r.createdAt);
-                if (isSameMonth(receiptDate, checkMonth) && businessIds.has(r.businessId)) {
-                    activeBusinesses.add(r.businessId);
+                if (isSameMonth(receiptDate, checkMonth) && businessIds.has(r.academyId)) {
+                    activeBusinesses.add(r.academyId);
                 }
             });
 
@@ -57,7 +57,7 @@ export default function RetentionCohortChart({ users, receipts }: RetentionCohor
     }
 
     return cohorts;
-  }, [users, receipts]);
+  }, [users, admissions]);
 
   const getHeatmapColor = (percent: number) => {
     if (percent === 100) return 'bg-primary text-primary-foreground';
@@ -71,7 +71,7 @@ export default function RetentionCohortChart({ users, receipts }: RetentionCohor
     <Card>
       <CardHeader>
         <CardTitle>Retention Cohort Heatmap</CardTitle>
-        <CardDescription>Percentage of monthly cohorts remaining active (selling) over time.</CardDescription>
+        <CardDescription>Percentage of monthly cohorts remaining active (enrolling) over time.</CardDescription>
       </CardHeader>
       <CardContent>
         <div className="overflow-x-auto">

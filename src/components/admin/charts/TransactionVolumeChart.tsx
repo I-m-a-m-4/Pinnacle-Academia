@@ -4,15 +4,15 @@ import * as React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { ResponsiveContainer, BarChart as ReBarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip as ReTooltip } from 'recharts';
 import { ShoppingCart } from 'lucide-react';
-import { TimeframePicker, type Timeframe } from '@/components/reports/timeframe-picker';
+import { TimeframePicker, type Timeframe } from '@/components/performance-analytics/timeframe-picker';
 import { subDays, startOfDay, format, eachDayOfInterval } from 'date-fns';
-import type { Receipt } from '@/types';
+import type { Admission } from '@/types';
 
 interface TransactionVolumeChartProps {
-  receipts: Receipt[];
+  admissions: Admission[];
 }
 
-export default function TransactionVolumeChart({ receipts }: TransactionVolumeChartProps) {
+export default function TransactionVolumeChart({ admissions }: TransactionVolumeChartProps) {
   const [timeframe, setTimeframe] = React.useState<Timeframe>('30d');
 
   const { chartData, averageSales } = React.useMemo(() => {
@@ -31,7 +31,7 @@ export default function TransactionVolumeChart({ receipts }: TransactionVolumeCh
       dailyData[format(day, 'MMM d')] = 0;
     });
 
-    receipts.forEach(r => {
+    admissions.forEach(r => {
       const date = r.createdAt?.toDate ? r.createdAt.toDate() : new Date(r.createdAt);
       if (date >= limitDate) {
         const dayKey = format(date, 'MMM d');
@@ -42,11 +42,11 @@ export default function TransactionVolumeChart({ receipts }: TransactionVolumeCh
     });
 
     const dataArray = Object.entries(dailyData).map(([date, count]) => ({ date, Sales: count }));
-    const totalSales = dataArray.reduce((acc, curr) => acc + curr.Sales, 0);
-    const average = dataArray.length > 0 ? totalSales / dataArray.length : 0;
+    const totalSessions = dataArray.reduce((acc, curr) => acc + curr.Sales, 0);
+    const average = dataArray.length > 0 ? totalSessions / dataArray.length : 0;
 
     return { chartData: dataArray, averageSales: average };
-  }, [receipts, timeframe]);
+  }, [admissions, timeframe]);
 
   return (
     <Card>
@@ -55,14 +55,14 @@ export default function TransactionVolumeChart({ receipts }: TransactionVolumeCh
           <div className="flex items-center justify-between">
             <CardTitle className="flex items-center gap-2">
               <ShoppingCart className="h-5 w-5 text-orange-500" /> 
-              Transaction Volume
+              Admission Volume
             </CardTitle>
             <div className="text-right mr-4">
-              <span className="text-2xl font-bold">{averageSales.toFixed(1)}</span>
-              <p className="text-[10px] text-muted-foreground uppercase tracking-wider font-semibold">Avg Sales / Day</p>
+               <span className="text-2xl font-bold">{averageSales.toFixed(1)}</span>
+              <p className="text-[10px] text-muted-foreground uppercase tracking-wider font-semibold">Avg Admissions / Day</p>
             </div>
           </div>
-          <CardDescription>Daily number of receipts generated platform-wide.</CardDescription>
+          <CardDescription>Daily number of admissions generated platform-wide.</CardDescription>
         </div>
         <TimeframePicker value={timeframe} onValueChange={setTimeframe} />
       </CardHeader>
@@ -75,7 +75,7 @@ export default function TransactionVolumeChart({ receipts }: TransactionVolumeCh
             <ReTooltip 
                 contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 10px 15px -3px rgb(0 0 0 / 0.1)' }}
             />
-            <Bar name="Sales" dataKey="Sales" fill="#f97316" radius={[4, 4, 0, 0]} />
+            <Bar name="Admissions" dataKey="Sales" fill="#f97316" radius={[4, 4, 0, 0]} />
           </ReBarChart>
         </ResponsiveContainer>
       </CardContent>

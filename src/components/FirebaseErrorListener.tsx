@@ -27,7 +27,7 @@ export function FirebaseErrorListener({ user }: { user: User | null }) {
     const handleError = (error: FirestorePermissionError) => {
       // Ignore permission errors during the stabilization window.
       if (Date.now() < stabilizeUntil) {
-        console.warn(`[Firebase] Swallowed transient permission error for ${error.path} during auth stabilization.`);
+        console.warn(`[Firebase] Swallowed transient permission error for ${error.request.path} during auth stabilization.`);
         return;
       }
       

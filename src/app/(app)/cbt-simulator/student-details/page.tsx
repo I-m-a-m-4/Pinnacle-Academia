@@ -4,7 +4,7 @@ import * as React from 'react';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
-import { usePOS } from "@/context/pos-context";
+import { useAcademy } from "@/context/academy-context";
 import { PlusCircle, Search, User, UserCheck, Loader2 } from "lucide-react";
 import Link from "next/link";
 import {
@@ -18,17 +18,17 @@ import {
 } from "@/components/ui/dialog"
 import { useUser, useFirestore } from '@/firebase';
 import { collection, addDoc, serverTimestamp } from 'firebase/firestore';
-import type { Customer, UserProfile } from '@/types';
+import type { Student, StudentProfile } from '@/types';
 import { useToast } from '@/hooks/use-toast';
 import { Skeleton } from '@/components/ui/skeleton';
 import { useRouter } from 'next/navigation';
 import { v4 as uuidv4 } from 'uuid';
 
 
-function AddCustomerForm({ businessId, onCustomerAdded }: { businessId: string, onCustomerAdded: (customer: Customer) => void }) {
+function AddCustomerForm({ academyId, onCustomerAdded }: { academyId: string, onCustomerAdded: (customer: Student) => void }) {
     const firestore = useFirestore();
     const { toast } = useToast();
-    const { triggerRefresh, customers, addToQueue } = usePOS();
+    const { triggerRefresh, students, addToQueue } = useAcademy();
     const [name, setName] = React.useState('');
     const [email, setEmail] = React.useState('');
     const [phone, setPhone] = React.useState('');
@@ -44,7 +44,7 @@ function AddCustomerForm({ businessId, onCustomerAdded }: { businessId: string, 
         }
 
         if (email) {
-            const emailExists = customers?.some(c => c.email.toLowerCase() === email.toLowerCase());
+            const emailExists = students?.some(c => c.email.toLowerCase() === email.toLowerCase());
             if (emailExists) {
                 toast({ title: 'Student Exists', description: 'A student with this email already exists.', variant: 'destructive' });
                 return;
@@ -52,7 +52,7 @@ function AddCustomerForm({ businessId, onCustomerAdded }: { businessId: string, 
         }
 
         if (phone) {
-            const phoneExists = customers?.some(c => c.phone === phone);
+            const phoneExists = students?.some(c => c.phone === phone);
             if (phoneExists) {
                 toast({ title: 'Duplicate Phone Number', description: 'A student with this phone number already exists.', variant: 'destructive' });
                 return;
@@ -60,7 +60,7 @@ function AddCustomerForm({ businessId, onCustomerAdded }: { businessId: string, 
         }
 
         if (code) {
-            const codeExists = customers?.some(c => c.code?.toLowerCase() === code.toLowerCase());
+            const codeExists = students?.some(c => c.code?.toLowerCase() === code.toLowerCase());
             if (codeExists) {
                 toast({ title: 'Duplicate Code', description: 'A student with this unique code already exists.', variant: 'destructive' });
                 return;
@@ -77,7 +77,7 @@ function AddCustomerForm({ businessId, onCustomerAdded }: { businessId: string, 
                 email,
                 phone,
                 code: code.trim().toUpperCase(),
-                businessId,
+                academyId,
                 loyaltyPoints: 0,
                 totalSpent: 0,
                 id,
@@ -96,7 +96,7 @@ function AddCustomerForm({ businessId, onCustomerAdded }: { businessId: string, 
 
             toast({ title: 'Student Registered', description: `${name} has been registered successfully.`, variant: 'success' });
             triggerRefresh();
-            onCustomerAdded(newCustomerData as Customer);
+            onCustomerAdded(newCustomerData as Student);
 
         } catch (error) {
             toast({ title: 'Error', description: 'Could not register student.', variant: 'destructive' });
@@ -136,19 +136,19 @@ function AddCustomerForm({ businessId, onCustomerAdded }: { businessId: string, 
 }
 
 export default function CustomerPage() {
-    const { selectedCustomer, selectCustomer, customers, isLoading: isPosLoading, currentUserProfile: currentUser, searchCustomers } = usePOS();
+    const { selectedStudent, selectStudent, students, isLoading: isPosLoading, currentUserProfile: currentUser, searchCustomers } = useAcademy();
     const router = useRouter();
     const [searchTerm, setSearchTerm] = React.useState('');
-    const [searchedCustomers, setSearchedCustomers] = React.useState<Customer[] | null>(null);
+    const [searchedCustomers, setSearchedCustomers] = React.useState<Student[] | null>(null);
     const [isSearching, setIsSearching] = React.useState(false);
     const [isAddCustomerOpen, setIsAddCustomerOpen] = React.useState(false);
     const [isNavigating, setIsNavigating] = React.useState(false);
 
     const filteredCustomers = React.useMemo(() => {
-        if (!searchTerm.trim()) return customers || [];
+        if (!searchTerm.trim()) return students || [];
 
         const lowerTerm = searchTerm.toLowerCase();
-        const localResults = customers?.filter(customer => {
+        const localResults = students?.filter(customer => {
             return (
                 (customer.name && customer.name.toLowerCase().includes(lowerTerm)) ||
                 (customer.email && customer.email.toLowerCase().includes(lowerTerm)) ||
@@ -178,7 +178,7 @@ export default function CustomerPage() {
             };
             return safeDate(b) - safeDate(a);
         });
-    }, [searchTerm, customers, searchedCustomers]);
+    }, [searchTerm, students, searchedCustomers]);
 
 
     const isLoading = isPosLoading || (searchTerm.trim() && isSearching && (!filteredCustomers || filteredCustomers.length === 0));
@@ -187,7 +187,7 @@ export default function CustomerPage() {
         const delayDebounceFn = setTimeout(async () => {
             if (searchTerm.trim()) {
                 setIsSearching(true);
-                // We still call searchCustomers to hit the DB for potential customers outside the initial 10k batch
+                // We still call searchCustomers to hit the DB for potential students outside the initial 10k batch
                 const results = await searchCustomers(searchTerm);
                 setSearchedCustomers(results);
                 setIsSearching(false);
@@ -236,11 +236,11 @@ export default function CustomerPage() {
                                             Enter the details for the new student/peer.
                                         </DialogDescription>
                                     </DialogHeader>
-                                    {currentUser?.businessId && (
+                                    {currentUser?.academyId && (
                                         <AddCustomerForm 
-                                            businessId={currentUser.businessId} 
+                                            academyId={currentUser.academyId} 
                                             onCustomerAdded={(c) => {
-                                                selectCustomer(c);
+                                                selectStudent(c);
                                                 setIsAddCustomerOpen(false);
                                             }} 
                                         />
@@ -259,8 +259,8 @@ export default function CustomerPage() {
                             </div>
                         ) : filteredCustomers && filteredCustomers.length > 0 ? (
                             filteredCustomers.map(customer => (
-                                <button key={customer.id} onClick={() => selectCustomer(customer)} className="w-full text-left">
-                                    <Card className={selectedCustomer?.id === customer.id ? "border-primary" : ""}>
+                                <button key={customer.id} onClick={() => selectStudent(customer)} className="w-full text-left">
+                                    <Card className={selectedStudent?.id === customer.id ? "border-primary" : ""}>
                                         <CardContent className="p-3 flex items-center justify-between">
                                             <div>
                                                 <div className="flex items-center gap-2">
@@ -269,7 +269,7 @@ export default function CustomerPage() {
                                                 </div>
                                                 <p className="text-sm text-muted-foreground">{customer.email}</p>
                                             </div>
-                                            {selectedCustomer?.id === customer.id && <UserCheck className="h-5 w-5 text-primary" />}
+                                            {selectedStudent?.id === customer.id && <UserCheck className="h-5 w-5 text-primary" />}
                                         </CardContent>
                                     </Card>
                                 </button>
@@ -286,12 +286,12 @@ export default function CustomerPage() {
                         <CardTitle>Selected Peer / Mentor</CardTitle>
                     </CardHeader>
                     <CardContent className="text-center">
-                        {selectedCustomer ? (
+                        {selectedStudent ? (
                             <div>
                                 <User className="mx-auto h-12 w-12 text-muted-foreground" />
-                                <p className="font-semibold mt-2">{selectedCustomer.name}</p>
-                                <p className="text-sm text-muted-foreground">{selectedCustomer.email}</p>
-                                <Button variant="link" onClick={() => selectCustomer(null)}>Clear selection</Button>
+                                <p className="font-semibold mt-2">{selectedStudent.name}</p>
+                                <p className="text-sm text-muted-foreground">{selectedStudent.email}</p>
+                                <Button variant="link" onClick={() => selectStudent(null)}>Clear selection</Button>
                             </div>
                         ) : (
                             <div className="py-8">

@@ -14,7 +14,7 @@ export interface FollowUpParams {
   name: string;
   subject: string;
   body: string; // HTML body
-  businessId?: string;
+  academyId?: string;
   type?: string;
 }
 
@@ -35,7 +35,7 @@ export async function sendGmailFollowUp(params: FollowUpParams, retryCount = 0):
     subject: params.subject,
     sentAt: new Date(),
     status: 'pending',
-    businessId: params.businessId || 'unknown',
+    academyId: params.academyId || 'unknown',
     type: params.type || 'follow-up',
     openCount: 0
   });

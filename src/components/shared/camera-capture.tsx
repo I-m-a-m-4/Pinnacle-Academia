@@ -74,7 +74,7 @@ export function CameraCapture({ onCapture, isProcessing = false }: CameraCapture
                     </div>
                     <div className="text-center space-y-1">
                         <h3 className="font-semibold text-lg">Take a Photo</h3>
-                        <p className="text-sm text-muted-foreground">Tap to scan shelves or products</p>
+                        <p className="text-sm text-muted-foreground">Tap to scan shelves or subjects</p>
                     </div>
                     <Button variant="secondary" size="sm" className="mt-2">
                         <Upload className="w-4 h-4 mr-2" />

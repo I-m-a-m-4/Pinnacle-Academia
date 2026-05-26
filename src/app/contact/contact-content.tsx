@@ -116,7 +116,7 @@ export default function ContactContent() {
                                 <div className="space-y-4">
                                     <h2 className="text-3xl font-bold text-slate-900">Reach out to our team</h2>
                                     <p className="text-slate-600 text-lg">
-                                        Choose the method that works best for you. Our support team is ready to help you optimize your business operations.
+                                        Choose the method that works best for you. Our support team is ready to help you optimize your academy operations.
                                     </p>
                                 </div>
 
@@ -147,7 +147,7 @@ export default function ContactContent() {
                                         href="/pricing"
                                         icon={<Tag className="w-6 h-6 text-primary" />}
                                         title="Sales & Pricing"
-                                        description="Looking for specific plans for your business?"
+                                        description="Looking for specific plans for your academy?"
                                         info="View Pricing Tiers"
                                     />
                                 </div>
@@ -202,7 +202,7 @@ export default function ContactContent() {
                                             <option value="sales">Sales & Pricing</option>
                                             <option value="support">Technical Support</option>
                                             <option value="partnership">Partnership</option>
-                                            <option value="feedback">Product Feedback</option>
+                                            <option value="feedback">Subject Feedback</option>
                                             <option value="other">Other</option>
                                         </select>
                                     </div>
@@ -214,7 +214,7 @@ export default function ContactContent() {
                                             name="message"
                                             required 
                                             rows={6}
-                                            placeholder="How can we help your business flourish?"
+                                            placeholder="How can we help your academy flourish?"
                                             className="w-full px-4 py-3 rounded-xl border border-dashed border-slate-200 focus:outline-none focus:ring-4 focus:ring-primary/5 focus:border-primary transition-all bg-slate-50/50 resize-none"
                                         />
                                     </div>

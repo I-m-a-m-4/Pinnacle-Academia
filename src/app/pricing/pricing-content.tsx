@@ -19,11 +19,11 @@ import { InteractiveGrid } from '@/components/interactive-grid';
 const faqItems = [
     {
       question: "Can I use Zeneva for free?",
-      answer: "Yes! Our Starter plan is 100% free forever for small shops with up to 500 products. It includes our robust POS and basic analytics to help you get off the ground."
+      answer: "Yes! Our Starter plan is 100% free forever for small shops with up to 500 subjects. It includes our robust POS and basic analytics to help you get off the ground."
     },
     {
       question: "What happens after my 30-day trial?",
-      answer: "You can choose to subscribe to the plan that fits your business or downgrade to our free Starter plan. Your data remains safe and accessible regardless of your choice."
+      answer: "You can choose to subscribe to the plan that fits your academy or downgrade to our free Starter plan. Your data remains safe and accessible regardless of your choice."
     },
     {
       question: "Do I need a credit card to sign up?",
@@ -43,7 +43,7 @@ const faqItems = [
     },
     {
       question: "Is my data secure?",
-      answer: "Absolutely. Zeneva uses AES-256 bank-grade encryption to protect your local data at rest and industry-standard SSL/TLS for data in transit. We also provide full audit logs to track every movement in your business."
+      answer: "Absolutely. Zeneva uses AES-256 bank-grade encryption to protect your local data at rest and industry-standard SSL/TLS for data in transit. We also provide full audit logs to track every movement in your academy."
     }
   ];
 
@@ -165,7 +165,7 @@ export default function PricingContent() {
                                     <span className="text-4xl font-bold tracking-tight text-slate-900">Free</span>
                                 </div>
                                 <ul className="mt-6 space-y-4 text-sm flex-1">
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Up to 500 products</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Up to 500 subjects</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> 1 Staff Account</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Standard POS (Unlimited Sales)</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Basic Analytics</li>
@@ -202,13 +202,13 @@ export default function PricingContent() {
                                     )}
                                 </div>
                                 <ul className="mt-6 space-y-4 text-sm flex-1">
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Up to 1,500 products</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Up to 1,500 subjects</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> 5 Staff Accounts</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Customizable E-Commerce Storefront</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Backorders & Backdating Capability</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Invoicing & Debt Management</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Advanced Reports & Analytics</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> AI Product Troubleshooter</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> AI Subject Troubleshooter</li>
                                     <li className="flex items-center gap-3 text-slate-700 font-semibold"><Check className="h-5 w-5 text-primary" /> Granular Staff Permissions (RBAC)</li>
                                 </ul>
                                 <div className="mt-auto pt-8">
@@ -240,7 +240,7 @@ export default function PricingContent() {
                                     )}
                                 </div>
                                 <ul className="mt-6 space-y-4 text-sm flex-1">
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Unlimited products & staff accounts</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Unlimited subjects & staff accounts</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> All features in Pro</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> AI Business Performance Dashboard</li>
                                     <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Granular Role-Based Access Control</li>

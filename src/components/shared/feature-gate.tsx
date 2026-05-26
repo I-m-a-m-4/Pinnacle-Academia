@@ -7,8 +7,8 @@ import Link from 'next/link';
 
 interface FeatureGateProps {
   children: React.ReactNode;
-  requiredPlan: 'pro' | 'business';
-  currentPlan: 'starter' | 'pro' | 'business' | undefined;
+  requiredPlan: 'pro' | 'academy';
+  currentPlan: 'starter' | 'pro' | 'academy' | undefined;
   hasLifetimeAccess: boolean;
   featureName: string;
   featureDescription: string;
@@ -31,7 +31,7 @@ export default function FeatureGate({
   const planHierarchy = {
     starter: 0,
     pro: 1,
-    business: 2,
+    academy: 2,
   };
 
   const userPlanLevel = planHierarchy[currentPlan || 'starter'];
@@ -55,7 +55,7 @@ export default function FeatureGate({
   const UpgradeNotice = () => (
     <div className="text-center p-8 bg-card border rounded-lg shadow-lg max-w-md">
         <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-primary/10 mb-4">
-        {requiredPlan === 'business' ? (
+        {requiredPlan === 'academy' ? (
             <ShieldCheck className="h-6 w-6 text-primary" />
         ) : (
             <Zap className="h-6 w-6 text-primary" />

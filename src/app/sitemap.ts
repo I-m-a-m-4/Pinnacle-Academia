@@ -61,7 +61,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         .where('published', '==', true)
         .get();
 
-      dynamicBlogRoutes = blogSnapshot.docs.reduce((acc: MetadataRoute.Sitemap, doc) => {
+      dynamicBlogRoutes = blogSnapshot.docs.reduce((acc: MetadataRoute.Sitemap, doc: any) => {
         const data = doc.data();
         const slug = data.slug || doc.id;
         

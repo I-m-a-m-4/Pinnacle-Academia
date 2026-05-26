@@ -214,7 +214,7 @@ export default function BlogPostClient() {
                 <div className="flex flex-wrap items-center gap-4 text-[11px] font-bold text-slate-400 uppercase tracking-widest">
                    <div className="flex items-center gap-1.5">
                       <Briefcase className="h-3.5 w-3.5" />
-                      <span>{post.category || 'Operational Mastery'}</span>
+                      <span>{post.category || 'Academic Updates'}</span>
                    </div>
                    <span className="text-slate-200">•</span>
                    <time dateTime={post.createdAt ? post.createdAt.toDate().toISOString() : ''}>
@@ -287,28 +287,28 @@ export default function BlogPostClient() {
 
                 {/* FAQ Section */}
                 <div className="mt-24 pt-16 border-t border-slate-100">
-                  <h3 className="text-2xl font-black text-slate-950 mb-8 tracking-tight font-bricolage">Operational FAQ</h3>
+                  <h3 className="text-2xl font-black text-slate-950 mb-8 tracking-tight font-bricolage">Academic FAQ</h3>
                   <Accordion type="multiple" className="w-full">
                     {((post as any).faq || [
                       {
-                        question: "How does Zeneva track profit automatically?",
-                        answer: "Zeneva links every transaction to your product cost and sales price in real-time. Our system calculates your gross and net margins instantly across all outlets, so you always know exactly how much profit you've made today."
+                        question: "How do I access study materials on Pinnacle Academia?",
+                        answer: "You can easily browse, download, and study exam preparation materials, syllabus guidelines, and past questions from our comprehensive digital library."
                       },
                       {
-                        question: "What makes Zeneva different from other inventory tools?",
-                        answer: "Most tools report the past. Zeneva predicts the future. Zen AI analyzes demand patterns and recommends exact stock decisions to maximize profit and reduce wastage."
+                        question: "What exams are covered by Pinnacle Academia?",
+                        answer: "We support a wide range of exams, including JAMB, WAEC, NECO, post-UTME, and university-level prep assessments across major Nigerian and international institutions."
                       },
                       {
-                        question: "Does Zeneva work without internet?",
-                        answer: "Yes. The Zeneva POS works fully offline. All transactions are queued and synced automatically once connectivity returns—ensuring no sales are ever lost even in low-signal areas."
+                        question: "Can I download materials for offline study?",
+                        answer: "Yes. Our mobile application allows you to download textbooks, past questions, and lecture notes directly to your device so you can study anytime without internet data."
                       },
                       {
-                        question: "Can I manage multiple shops from one account?",
-                        answer: "Absolutely. Zeneva was built for enterprise scale. You can monitor stock levels, sales, and staff across 50+ locations from a single high-fidelity dashboard."
+                        question: "Does Pinnacle Academia provide performance tracking?",
+                        answer: "Absolutely. Our analytics tool tracks study patterns, practice test scores, and learning progress to highlight strengths and areas needing improvement."
                       },
                       {
-                        question: "How accurate are the Zen AI predictions?",
-                        answer: "Zen AI improves continuously using your historical sales, time-based demand, and customer behavior. Accuracy typically reaches over 94% after just 30 days of consistent data."
+                        question: "How does the Pinnacle AI tutor help students?",
+                        answer: "The Pinnacle AI assistant provides instant explanations of complex topics, custom practice quizzes, and guided hints for solving difficult past questions."
                       }
                     ]).map((item: any, index: number) => (
                       <AccordionItem key={index} value={`item-${index}`} className="border-slate-100">
@@ -329,11 +329,11 @@ export default function BlogPostClient() {
                 <div className="absolute inset-0 grid-lines opacity-10 pointer-events-none"></div>
                 <div className="relative z-10 flex flex-col md:flex-row items-center justify-between gap-8 text-center md:text-left">
                   <div className="max-w-md">
-                    <h3 className="text-3xl md:text-4xl font-black tracking-tight mb-4 leading-tight text-slate-950">Ready to transform your retail operations?</h3>
-                    <p className="text-slate-600 font-medium text-lg">Join the thousands of retailers using Zeneva to automate profit and scale without limits.</p>
+                    <h3 className="text-3xl md:text-4xl font-black tracking-tight mb-4 leading-tight text-slate-950">Ready to excel in your academic journey?</h3>
+                    <p className="text-slate-600 font-medium text-lg">Join thousands of students using Pinnacle Academia to master exams and achieve outstanding results.</p>
                   </div>
                   <div className="flex flex-col sm:flex-row gap-4 w-full md:w-auto">
-                    <Link href="/pricing" className="hover:bg-[#0f172a] transition-colors text-sm font-medium text-white tracking-tight font-dm-sans bg-[#1e293b] rounded-md pt-2.5 pr-8 pb-2.5 pl-8 shadow-sm text-center">View Pricing</Link>
+                    <Link href="/study-materials" className="hover:bg-[#0f172a] transition-colors text-sm font-medium text-white tracking-tight font-dm-sans bg-[#1e293b] rounded-md pt-2.5 pr-8 pb-2.5 pl-8 shadow-sm text-center">Explore Materials</Link>
                     <Link href="/about/our-mission" className="transition-colors text-sm font-medium bg-[#ffffff] border rounded-md px-8 py-2.5 font-dm-sans tracking-tight hover:text-slate-600 text-slate-900 border-stone-200 shadow-sm text-center">Our Mission</Link>
                   </div>
                 </div>
@@ -369,7 +369,7 @@ export default function BlogPostClient() {
                     <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-400 mb-6">On this page</p>
                     <div className="space-y-6">
                        <p className="text-sm font-medium text-slate-500 leading-relaxed border-l-2 border-slate-100 pl-4 mb-4">
-                         {post.excerpt || "Strategic breakdown of mission-critical retail operations."}
+                         {post.excerpt || "Academic guidelines and preparation strategies for excellence."}
                        </p>
                        <nav className="flex flex-col gap-4">
                          {headings.map((heading) => {
@@ -397,7 +397,7 @@ export default function BlogPostClient() {
                   <div className="pt-10 border-t border-slate-100">
                     <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-400 mb-6 font-mono">Follow Mission</p>
                     <Link 
-                      href="https://instagram.com/zeneva_pos" 
+                      href="https://instagram.com/pinnacle_academia" 
                       target="_blank"
                       className="group flex flex-col gap-4 p-5 rounded-2xl bg-slate-50 hover:bg-white border border-transparent hover:border-slate-200 transition-all duration-300 shadow-sm hover:shadow-md"
                     >
@@ -408,11 +408,11 @@ export default function BlogPostClient() {
                             </div>
                          </div>
                          <div>
-                            <p className="text-xs font-black text-slate-950 uppercase tracking-tighter">@zeneva_pos</p>
-                            <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Follow Tactical Feed</p>
+                            <p className="text-xs font-black text-slate-950 uppercase tracking-tighter">@pinnacle_academia</p>
+                            <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Follow Academic Feed</p>
                          </div>
                       </div>
-                      <p className="text-[10px] leading-relaxed text-slate-500 font-medium">Join 2.5k+ retailers getting daily growth tactics and operational insights on the gram.</p>
+                      <p className="text-[10px] leading-relaxed text-slate-500 font-medium">Join our growing community getting daily study tips, exam strategies, and academic updates on the gram.</p>
                       <div className="flex items-center gap-1.5 text-[10px] font-black text-slate-950 uppercase tracking-widest group-hover:gap-2 transition-all">
                         Follow Now <ArrowRight className="h-3 w-3" />
                       </div>

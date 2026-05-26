@@ -1,14 +1,14 @@
 
 "use client";
 
-import { businessAnalysis } from "@/ai/flows/business-analysis-flow";
-import type { BusinessAnalysisOutput, SmartStockRecommendation, RevenueOpportunity, SmartMerchandising, SlowMovingInventory, Product, Customer, CustomerSegment, PricingRecommendation, BusinessInstance, IrresistibleOffer, BlogHeadline, ContentPlanner } from "@/types";
+import { academyAnalysis } from "@/ai/flows/academy-analysis-flow";
+import type { AcademyAnalysisOutput, SmartStockRecommendation, RevenueOpportunity, SmartMerchandising, SlowMovingInventory, Subject, Student, CustomerSegment, PricingRecommendation, Academy, IrresistibleOffer, BlogHeadline, ContentPlanner } from "@/types";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle, CardFooter } from "@/components/ui/card";
-import { usePOS } from "@/context/pos-context";
+import { useAcademy } from "@/context/academy-context";
 import { Lightbulb, Loader2, Package, TrendingUp, ShoppingCart, AlertTriangle, Users, Bot, Layers, DollarSign, Send, Edit, Copy, Mail, Search, ShoppingBasket, TrendingDown, Info, PenTool, ShieldQuestion, Activity, CloudOff, Database, Wifi, Terminal } from "lucide-react";
 import React, { useState, useTransition, useEffect, useMemo } from "react";
-import { doc, serverTimestamp, updateDoc } from "firebase/firestore";
+import { doc, serverTimestamp, updateDoc, increment } from "firebase/firestore";
 import { useFirestore } from "@/firebase";
 import { useToast } from "@/hooks/use-toast";
 import { formatDistanceToNow, subDays, format } from "date-fns";
@@ -61,7 +61,7 @@ const GenerationProgress = ({ progress, statusText }: { progress: number; status
     </div>
 );
 
-const GenerateBriefingCTA = ({ analysis, handleGenerateAnalysis, isPending }: { analysis: BusinessAnalysisOutput | null, handleGenerateAnalysis: () => void, isPending: boolean }) => (
+const GenerateBriefingCTA = ({ analysis, handleGenerateAnalysis, isPending }: { analysis: AcademyAnalysisOutput | null, handleGenerateAnalysis: () => void, isPending: boolean }) => (
     <div className="flex items-center justify-end gap-4 mt-4">
         {analysis?.createdAt && (
             <p className="text-xs text-muted-foreground">
@@ -78,7 +78,7 @@ const GenerateBriefingCTA = ({ analysis, handleGenerateAnalysis, isPending }: { 
 
 // --- Client-side calculated top product type ---
 export interface TopPerformingProduct {
-    productId: string;
+    subjectId: string;
     name: string;
     unitsSold: number;
     revenue: number;
@@ -131,14 +131,14 @@ function ProductDetailModal({ product, isOpen, onOpenChange, currencySymbol }: {
                 </div>
                 <DialogFooter>
                     <Button variant="outline" onClick={() => onOpenChange(false)}>Close</Button>
-                    <Button asChild><Link href={`/inventory/details?id=${product.productId}`}>Go to Product</Link></Button>
+                    <Button asChild><Link href={`/inventory/details?id=${product.subjectId}`}>Go to Subject</Link></Button>
                 </DialogFooter>
             </DialogContent>
         </Dialog>
     )
 }
 
-function StockRecDetailModal({ recommendation, product, isOpen, onOpenChange }: { recommendation: SmartStockRecommendation | null; product: Product | null; isOpen: boolean; onOpenChange: (open: boolean) => void; }) {
+function StockRecDetailModal({ recommendation, product, isOpen, onOpenChange }: { recommendation: SmartStockRecommendation | null; product: Subject | null; isOpen: boolean; onOpenChange: (open: boolean) => void; }) {
     if (!recommendation || !product) return null;
     return (
         <Dialog open={isOpen} onOpenChange={onOpenChange}>
@@ -184,22 +184,22 @@ function StockRecDetailModal({ recommendation, product, isOpen, onOpenChange }: 
                 </div>
                 <DialogFooter>
                     <Button variant="outline" onClick={() => onOpenChange(false)}>Close</Button>
-                    <Button asChild><Link href={`/inventory/details?id=${product.id}`}>Go to Product</Link></Button>
+                    <Button asChild><Link href={`/inventory/details?id=${product.id}`}>Go to Subject</Link></Button>
                 </DialogFooter>
             </DialogContent>
         </Dialog>
     )
 }
 
-function CustomerSegmentDetailModal({ segment, isOpen, onOpenChange, business, businessPrimaryColor }: { segment: CustomerSegment | null; isOpen: boolean; onOpenChange: (open: boolean) => void; business: BusinessInstance | null; businessPrimaryColor?: string; }) {
+function CustomerSegmentDetailModal({ segment, isOpen, onOpenChange, academy, businessPrimaryColor }: { segment: CustomerSegment | null; isOpen: boolean; onOpenChange: (open: boolean) => void; academy: Academy | null; businessPrimaryColor?: string; }) {
     const { toast } = useToast();
-    if (!segment || !business) return null;
+    if (!segment || !academy) return null;
 
-    const customerEmails = (segment.customers || []).map(c => c.email).join(',');
+    const customerEmails = (segment.students || []).map(c => c.email).join(',');
 
     const handleSendEmail = () => {
         const subject = encodeURIComponent(segment.suggestedCampaign.title);
-        const body = encodeURIComponent(segment.suggestedCampaign.body.replace(/\{\{customerName\}\}/g, 'Valued Customer').replace(/\*\*(.*?)\*\*/g, '$1').replace(/\*(.*?)\*/g, '$1'));
+        const body = encodeURIComponent(segment.suggestedCampaign.body.replace(/\{\{customerName\}\}/g, 'Valued Student').replace(/\*\*(.*?)\*\*/g, '$1').replace(/\*(.*?)\*/g, '$1'));
         window.location.href = `mailto:?bcc=${customerEmails}&subject=${subject}&body=${body}`;
     }
 
@@ -212,7 +212,7 @@ function CustomerSegmentDetailModal({ segment, isOpen, onOpenChange, business, b
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
         .replace(/\*(.*?)\*/g, '<em>$1</em>')
         .replace(/\n/g, '<br />')
-        .replace(/\{\{customerName\}\}/g, 'Valued Customer');
+        .replace(/\{\{customerName\}\}/g, 'Valued Student');
 
     return (
         <Dialog open={isOpen} onOpenChange={onOpenChange}>
@@ -223,7 +223,7 @@ function CustomerSegmentDetailModal({ segment, isOpen, onOpenChange, business, b
                 </DialogHeader>
                 <div className="grid md:grid-cols-2 gap-6 flex-1 overflow-hidden">
                     <div className="space-y-4 flex flex-col">
-                        <h4 className="font-semibold">Customers in this Segment ({(segment.customers || []).length})</h4>
+                        <h4 className="font-semibold">Customers in this Segment ({(segment.students || []).length})</h4>
                         <ScrollArea className="flex-1 border rounded-lg">
                             <Table>
                                 <TableHeader>
@@ -233,7 +233,7 @@ function CustomerSegmentDetailModal({ segment, isOpen, onOpenChange, business, b
                                     </TableRow>
                                 </TableHeader>
                                 <TableBody>
-                                    {(segment.customers || []).map(customer => (
+                                    {(segment.students || []).map(customer => (
                                         <TableRow key={customer.email}>
                                             <TableCell className="font-medium">{customer.name}</TableCell>
                                             <TableCell className="text-muted-foreground">{customer.email}</TableCell>
@@ -254,8 +254,8 @@ function CustomerSegmentDetailModal({ segment, isOpen, onOpenChange, business, b
                                 <div className="w-full max-w-lg mx-auto bg-white dark:bg-gray-900 rounded-lg shadow-lg flex flex-col h-full">
                                     <div className="p-4 flex justify-between items-center" style={{ backgroundColor: `hsl(${businessPrimaryColor || '24 9.8% 10%'})` }}>
                                         <div className="flex items-center gap-2">
-                                            <img src={business.settings?.logoUrl || AppConfig.logoIconUrl} alt={`${business.name} Logo`} className="h-8 w-8 rounded-md bg-white p-1" />
-                                            <span className="font-bold text-white text-lg">{business.name}</span>
+                                            <img src={academy.settings?.logoUrl || AppConfig.logoIconUrl} alt={`${academy.name} Logo`} className="h-8 w-8 rounded-md bg-white p-1" />
+                                            <span className="font-bold text-white text-lg">{academy.name}</span>
                                         </div>
                                         <div className="text-right">
                                             <p className="text-xs text-white/80">Your Reward Points</p>
@@ -275,22 +275,22 @@ function CustomerSegmentDetailModal({ segment, isOpen, onOpenChange, business, b
 
                                     <div className="px-6 pb-6 mt-auto">
                                         <Button asChild className="w-full h-12 text-base" style={{ backgroundColor: `hsl(${businessPrimaryColor || '24 9.8% 10%'})` }}>
-                                            <Link href={`/store/${business?.settings?.publicStore?.slug || business.id}`} target="_blank">
+                                            <Link href={`/store/${academy?.settings?.publicStore?.slug || academy.id}`} target="_blank">
                                                 {segment.suggestedCampaign.ctaText || 'Learn More'}
                                             </Link>
                                         </Button>
                                     </div>
 
                                     <div className="bg-muted p-4 text-center text-xs text-muted-foreground">
-                                        <p>{business.address}</p>
-                                        <p>© {new Date().getFullYear()} {business.name}. All rights reserved.</p>
+                                        <p>{academy.address}</p>
+                                        <p>© {new Date().getFullYear()} {academy.name}. All rights reserved.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="flex flex-wrap gap-2 p-4 border-t bg-background rounded-b-lg">
                                 <Button size="sm" variant="default" onClick={handleSendEmail}><Mail className="mr-2 h-4 w-4" /> Send Email</Button>
                                 <Button size="sm" variant="outline" onClick={() => handleCopy(segment.suggestedCampaign.body)}><Copy className="mr-2 h-4 w-4" /> Copy Body</Button>
-                                <Button size="sm" variant="outline" onClick={() => handleCopy(customerEmails)}><Users className="mr-2 h-4 w-4" /> Copy Emails ({(segment.customers || []).length})</Button>
+                                <Button size="sm" variant="outline" onClick={() => handleCopy(customerEmails)}><Users className="mr-2 h-4 w-4" /> Copy Emails ({(segment.students || []).length})</Button>
                             </div>
                         </div>
                     </div>
@@ -307,7 +307,7 @@ function MerchandisingDetailModal({
     onOpenChange,
 }: {
     recommendation: SmartMerchandising | null;
-    allProducts: Product[];
+    allProducts: Subject[];
     isOpen: boolean;
     onOpenChange: (open: boolean) => void;
 }) {
@@ -392,10 +392,10 @@ function MerchandisingDetailModal({
     );
 }
 
-function OfferDetailModal({ offer, allProducts, isOpen, onOpenChange, currencySymbol }: { offer: IrresistibleOffer | null, allProducts: Product[], isOpen: boolean, onOpenChange: (open: boolean) => void, currencySymbol: string }) {
+function OfferDetailModal({ offer, allProducts, isOpen, onOpenChange, currencySymbol }: { offer: IrresistibleOffer | null, allProducts: Subject[], isOpen: boolean, onOpenChange: (open: boolean) => void, currencySymbol: string }) {
     if (!offer) return null;
 
-    const offerProducts = offer.productIds.map(id => allProducts.find(p => p.id === id)).filter((p): p is Product => !!p);
+    const offerProducts = offer.productIds.map(id => allProducts.find(p => p.id === id)).filter((p): p is Subject => !!p);
 
     return (
         <Dialog open={isOpen} onOpenChange={onOpenChange}>
@@ -445,7 +445,7 @@ function OfferDetailModal({ offer, allProducts, isOpen, onOpenChange, currencySy
     );
 }
 
-function RevenueOpportunityModal({ opportunity, product, isOpen, onOpenChange, currencySymbol }: { opportunity: RevenueOpportunity | null, product: Product | null, isOpen: boolean, onOpenChange: (open: boolean) => void, currencySymbol: string }) {
+function RevenueOpportunityModal({ opportunity, product, isOpen, onOpenChange, currencySymbol }: { opportunity: RevenueOpportunity | null, product: Subject | null, isOpen: boolean, onOpenChange: (open: boolean) => void, currencySymbol: string }) {
     if (!opportunity || !product) return null;
     return (
         <Dialog open={isOpen} onOpenChange={onOpenChange}>
@@ -473,14 +473,14 @@ function RevenueOpportunityModal({ opportunity, product, isOpen, onOpenChange, c
                 </div>
                 <DialogFooter>
                     <Button variant="outline" onClick={() => onOpenChange(false)}>Close</Button>
-                    <Button asChild><Link href={`/inventory/details?id=${product.id}`}>Go to Product</Link></Button>
+                    <Button asChild><Link href={`/inventory/details?id=${product.id}`}>Go to Subject</Link></Button>
                 </DialogFooter>
             </DialogContent>
         </Dialog>
     );
 }
 
-function SlowMovingInventoryModal({ item, product, isOpen, onOpenChange, currencySymbol }: { item: SlowMovingInventory | null, product: Product | null, isOpen: boolean, onOpenChange: (open: boolean) => void, currencySymbol: string }) {
+function SlowMovingInventoryModal({ item, product, isOpen, onOpenChange, currencySymbol }: { item: SlowMovingInventory | null, product: Subject | null, isOpen: boolean, onOpenChange: (open: boolean) => void, currencySymbol: string }) {
     if (!item || !product) return null;
     return (
         <Dialog open={isOpen} onOpenChange={onOpenChange}>
@@ -510,14 +510,14 @@ function SlowMovingInventoryModal({ item, product, isOpen, onOpenChange, currenc
                 </div>
                 <DialogFooter>
                     <Button variant="outline" onClick={() => onOpenChange(false)}>Close</Button>
-                    <Button asChild><Link href={`/inventory/details?id=${product.id}`}>Go to Product</Link></Button>
+                    <Button asChild><Link href={`/inventory/details?id=${product.id}`}>Go to Subject</Link></Button>
                 </DialogFooter>
             </DialogContent>
         </Dialog>
     );
 }
 
-function PricingStrategyModal({ recommendation, product, isOpen, onOpenChange, currencySymbol }: { recommendation: PricingRecommendation | null, product: Product | null, isOpen: boolean, onOpenChange: (open: boolean) => void, currencySymbol: string }) {
+function PricingStrategyModal({ recommendation, product, isOpen, onOpenChange, currencySymbol }: { recommendation: PricingRecommendation | null, product: Subject | null, isOpen: boolean, onOpenChange: (open: boolean) => void, currencySymbol: string }) {
     if (!recommendation || !product) return null;
     return (
         <Dialog open={isOpen} onOpenChange={onOpenChange}>
@@ -541,7 +541,7 @@ function PricingStrategyModal({ recommendation, product, isOpen, onOpenChange, c
                 </div>
                 <DialogFooter>
                     <Button variant="outline" onClick={() => onOpenChange(false)}>Close</Button>
-                    <Button asChild><Link href={`/inventory/details?id=${product.id}`}>Go to Product</Link></Button>
+                    <Button asChild><Link href={`/inventory/details?id=${product.id}`}>Go to Subject</Link></Button>
                 </DialogFooter>
             </DialogContent>
         </Dialog>
@@ -554,18 +554,18 @@ function PricingStrategyModal({ recommendation, product, isOpen, onOpenChange, c
 
 
 
-const ProductPerformanceCard = ({ products, analysis, searchTerm, onSearchChange, onProductClick, currencySymbol }: { products: TopPerformingProduct[], analysis: BusinessAnalysisOutput | null, searchTerm: string, onSearchChange: (val: string) => void, onProductClick: (p: TopPerformingProduct) => void, currencySymbol: string }) => {
+const ProductPerformanceCard = ({ subjects, analysis, searchTerm, onSearchChange, onProductClick, currencySymbol }: { subjects: TopPerformingProduct[], analysis: AcademyAnalysisOutput | null, searchTerm: string, onSearchChange: (val: string) => void, onProductClick: (p: TopPerformingProduct) => void, currencySymbol: string }) => {
     const filteredProducts = useMemo(() => {
-        if (!searchTerm) return products.slice(0, 10);
-        return products.filter(p => p.name.toLowerCase().includes(searchTerm.toLowerCase()));
-    }, [products, searchTerm]);
+        if (!searchTerm) return subjects.slice(0, 10);
+        return subjects.filter(p => p.name.toLowerCase().includes(searchTerm.toLowerCase()));
+    }, [subjects, searchTerm]);
 
-    const hasAiInsight = (productId: string) => {
+    const hasAiInsight = (subjectId: string) => {
         if (!analysis) return false;
-        const inStockRec = analysis.smartStockRecommendations?.some(r => r.productId === productId);
-        const inRevenueOpp = analysis.revenueOpportunities?.some(r => r.productId === productId);
-        const inSlowMoving = analysis.slowMovingInventory?.some(r => r.productId === productId);
-        const inPricing = analysis.pricingRecommendations?.some(r => r.productId === productId);
+        const inStockRec = analysis.smartStockRecommendations?.some(r => r.subjectId === subjectId);
+        const inRevenueOpp = analysis.revenueOpportunities?.some(r => r.subjectId === subjectId);
+        const inSlowMoving = analysis.slowMovingInventory?.some(r => r.subjectId === subjectId);
+        const inPricing = analysis.pricingRecommendations?.some(r => r.subjectId === subjectId);
         return inStockRec || inRevenueOpp || inSlowMoving || inPricing;
     };
 
@@ -577,7 +577,7 @@ const ProductPerformanceCard = ({ products, analysis, searchTerm, onSearchChange
             <CardHeader>
                 <CardTitle className="flex items-center gap-2 text-xl font-bold text-primary">
                     <Search className="h-5 w-5" />
-                    Product Performance Search
+                    Subject Performance Search
                 </CardTitle>
                 <CardDescription>Search for any product to see its stats and AI-driven insights.</CardDescription>
                 <div className="relative pt-2">
@@ -595,7 +595,7 @@ const ProductPerformanceCard = ({ products, analysis, searchTerm, onSearchChange
                     <Table>
                         <TableHeader className="bg-muted/50">
                             <TableRow>
-                                <TableHead className="w-[300px]">Product</TableHead>
+                                <TableHead className="w-[300px]">Subject</TableHead>
                                 <TableHead className="text-center">Orders</TableHead>
                                 <TableHead className="text-center">Units Sold</TableHead>
                                 <TableHead className="text-right">Revenue</TableHead>
@@ -604,10 +604,10 @@ const ProductPerformanceCard = ({ products, analysis, searchTerm, onSearchChange
                         <TableBody>
                             {filteredProducts.length > 0 ? (
                                 filteredProducts.map((p) => {
-                                    const aiBadge = hasAiInsight(p.productId);
+                                    const aiBadge = hasAiInsight(p.subjectId);
                                     return (
                                         <TableRow
-                                            key={p.productId}
+                                            key={p.subjectId}
                                             className="cursor-pointer hover:bg-primary/5 transition-colors group"
                                             onClick={() => onProductClick(p)}
                                         >
@@ -651,7 +651,7 @@ const ProductPerformanceCard = ({ products, analysis, searchTerm, onSearchChange
                                     <TableCell colSpan={4} className="h-32 text-center text-muted-foreground">
                                         <div className="flex flex-col items-center gap-2">
                                             <Package className="h-8 w-8 opacity-20" />
-                                            <p>No products found matching "{searchTerm}"</p>
+                                            <p>No subjects found matching "{searchTerm}"</p>
                                         </div>
                                     </TableCell>
                                 </TableRow>
@@ -659,15 +659,15 @@ const ProductPerformanceCard = ({ products, analysis, searchTerm, onSearchChange
                         </TableBody>
                     </Table>
                 </div>
-                {!searchTerm && products.length > 10 && (
-                    <p className="text-center text-[10px] text-muted-foreground mt-4 uppercase tracking-wider font-semibold opacity-50">Showing top 10 products · Search to find any catalog item</p>
+                {!searchTerm && subjects.length > 10 && (
+                    <p className="text-center text-[10px] text-muted-foreground mt-4 uppercase tracking-wider font-semibold opacity-50">Showing top 10 subjects · Search to find any catalog item</p>
                 )}
             </CardContent>
         </Card>
     );
 };
 
-const SmartStockRecommendationCard = ({ recommendations, allProducts, searchTerm, onSearchChange, onRowClick }: { recommendations: SmartStockRecommendation[], allProducts: Product[], searchTerm: string, onSearchChange: (term: string) => void, onRowClick: (rec: SmartStockRecommendation) => void }) => {
+const SmartStockRecommendationCard = ({ recommendations, allProducts, searchTerm, onSearchChange, onRowClick }: { recommendations: SmartStockRecommendation[], allProducts: Subject[], searchTerm: string, onSearchChange: (term: string) => void, onRowClick: (rec: SmartStockRecommendation) => void }) => {
     const filteredRecommendations = useMemo(() => {
         if (!recommendations) return [];
         const filtered = recommendations.filter(rec =>
@@ -697,7 +697,7 @@ const SmartStockRecommendationCard = ({ recommendations, allProducts, searchTerm
                         <Table>
                             <TableHeader>
                                 <TableRow>
-                                    <TableHead>Product</TableHead>
+                                    <TableHead>Subject</TableHead>
                                     <TableHead className="text-center">Current Stock</TableHead>
                                     <TableHead className="text-center">Stock for next 30 Days</TableHead>
 
@@ -707,9 +707,9 @@ const SmartStockRecommendationCard = ({ recommendations, allProducts, searchTerm
                             </TableHeader>
                             <TableBody>
                                 {filteredRecommendations.length > 0 ? filteredRecommendations.map(r => {
-                                    const product = allProducts.find(p => p.id === r.productId);
+                                    const product = allProducts.find(p => p.id === r.subjectId);
                                     return (
-                                        <TableRow key={r.productId} onClick={() => onRowClick(r)} className="cursor-pointer">
+                                        <TableRow key={r.subjectId} onClick={() => onRowClick(r)} className="cursor-pointer">
                                             <TableCell className="font-medium flex items-center gap-2">
                                                 <div className="w-10 h-10 bg-muted rounded-md relative flex-shrink-0">
                                                     {product?.imageUrl && <Image src={product.imageUrl} alt={r.name} fill className="object-cover rounded-md" />}
@@ -742,11 +742,11 @@ const CustomerSegmentsCard = ({ segments, onSegmentClick }: { segments: Customer
         return (
             <Card>
                 <CardHeader>
-                    <CardTitle className="flex items-center gap-2"><Users /> AI Customer Segments</CardTitle>
-                    <CardDescription>Groups of customers with similar behaviors, and ready-to-use email campaigns to engage them.</CardDescription>
+                    <CardTitle className="flex items-center gap-2"><Users /> AI Student Segments</CardTitle>
+                    <CardDescription>Groups of students with similar behaviors, and ready-to-use email campaigns to engage them.</CardDescription>
                 </CardHeader>
                 <CardContent className="text-center py-8 text-muted-foreground">
-                    <p>Link sales to customers in the POS to unlock valuable CRM insights here.</p>
+                    <p>Link sales to students in the POS to unlock valuable CRM insights here.</p>
                 </CardContent>
             </Card>
         )
@@ -755,8 +755,8 @@ const CustomerSegmentsCard = ({ segments, onSegmentClick }: { segments: Customer
     return (
         <Card>
             <CardHeader>
-                <CardTitle className="flex items-center gap-2"><Users /> AI Customer Segments</CardTitle>
-                <CardDescription>Groups of customers with similar behaviors, with targeted campaigns to re-engage them.</CardDescription>
+                <CardTitle className="flex items-center gap-2"><Users /> AI Student Segments</CardTitle>
+                <CardDescription>Groups of students with similar behaviors, with targeted campaigns to re-engage them.</CardDescription>
             </CardHeader>
             <CardContent>
                 <Accordion type="single" collapsible defaultValue={segments[0]?.segmentName}>
@@ -765,7 +765,7 @@ const CustomerSegmentsCard = ({ segments, onSegmentClick }: { segments: Customer
                             <AccordionTrigger>
                                 <div className="text-left">
                                     <p className="font-semibold">{segment.segmentName}</p>
-                                    <p className="text-sm text-muted-foreground">{(segment.customers || []).length} Customers</p>
+                                    <p className="text-sm text-muted-foreground">{(segment.students || []).length} Customers</p>
                                 </div>
                             </AccordionTrigger>
                             <AccordionContent className="space-y-4">
@@ -781,7 +781,7 @@ const CustomerSegmentsCard = ({ segments, onSegmentClick }: { segments: Customer
 };
 
 
-const StrategicInsightsAccordion = ({ opportunities, merchandising, slowMoving, pricing, offers, currencySymbol, allProducts, onMerchClick, onRevenueOppClick, onSlowMovingClick, onPricingClick, onOfferClick }: { opportunities: RevenueOpportunity[], merchandising: SmartMerchandising[], slowMoving: SlowMovingInventory[], pricing: PricingRecommendation[], offers: IrresistibleOffer[], currencySymbol: string, allProducts: Product[], onMerchClick: (merch: SmartMerchandising) => void, onRevenueOppClick: (opp: RevenueOpportunity) => void, onSlowMovingClick: (item: SlowMovingInventory) => void, onPricingClick: (item: PricingRecommendation) => void, onOfferClick: (offer: IrresistibleOffer) => void }) => {
+const StrategicInsightsAccordion = ({ opportunities, merchandising, slowMoving, pricing, offers, currencySymbol, allProducts, onMerchClick, onRevenueOppClick, onSlowMovingClick, onPricingClick, onOfferClick }: { opportunities: RevenueOpportunity[], merchandising: SmartMerchandising[], slowMoving: SlowMovingInventory[], pricing: PricingRecommendation[], offers: IrresistibleOffer[], currencySymbol: string, allProducts: Subject[], onMerchClick: (merch: SmartMerchandising) => void, onRevenueOppClick: (opp: RevenueOpportunity) => void, onSlowMovingClick: (item: SlowMovingInventory) => void, onPricingClick: (item: PricingRecommendation) => void, onOfferClick: (offer: IrresistibleOffer) => void }) => {
     const allEmpty = !opportunities?.length && !merchandising?.length && !slowMoving?.length && !pricing?.length && !offers?.length;
 
     return (
@@ -804,7 +804,7 @@ const StrategicInsightsAccordion = ({ opportunities, merchandising, slowMoving, 
                                 </AccordionTrigger>
                                 <AccordionContent className="p-4 pt-0 grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
                                     {offers.map((offer, i) => {
-                                        const offerProducts = offer.productIds.slice(0, 4).map(id => allProducts.find(p => p.id === id)).filter((p): p is Product => !!p);
+                                        const offerProducts = offer.productIds.slice(0, 4).map(id => allProducts.find(p => p.id === id)).filter((p): p is Subject => !!p);
                                         return (
                                             <button key={`offer-${i}`} className="block group text-left w-full" onClick={() => onOfferClick(offer)}>
                                                 <Card className="flex flex-col h-full hover:shadow-lg transition-shadow">
@@ -839,7 +839,7 @@ const StrategicInsightsAccordion = ({ opportunities, merchandising, slowMoving, 
                                 </AccordionTrigger>
                                 <AccordionContent className="p-4 pt-0 grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
                                     {opportunities.map((opp, i) => {
-                                        const product = allProducts.find(p => p.id === opp.productId);
+                                        const product = allProducts.find(p => p.id === opp.subjectId);
                                         return (
                                             <button key={`opp-${i}`} className="block group text-left w-full" onClick={() => onRevenueOppClick(opp)}>
                                                 <Card className="flex flex-col h-full hover:shadow-lg transition-shadow">
@@ -901,7 +901,7 @@ const StrategicInsightsAccordion = ({ opportunities, merchandising, slowMoving, 
                                 </AccordionTrigger>
                                 <AccordionContent className="p-4 pt-0 grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
                                     {slowMoving.filter(item => item.capitalLocked > 0).map((item, i) => {
-                                        const product = allProducts.find(p => p.id === item.productId);
+                                        const product = allProducts.find(p => p.id === item.subjectId);
                                         return (
                                             <button key={`slow-${i}`} className="block group text-left w-full" onClick={() => onSlowMovingClick(item)}>
                                                 <Card className="flex flex-col h-full hover:shadow-lg transition-shadow">
@@ -934,7 +934,7 @@ const StrategicInsightsAccordion = ({ opportunities, merchandising, slowMoving, 
                                 </AccordionTrigger>
                                 <AccordionContent className="p-4 pt-0 grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
                                     {pricing.map((item, i) => {
-                                        const product = allProducts.find(p => p.id === item.productId);
+                                        const product = allProducts.find(p => p.id === item.subjectId);
                                         return (
                                             <button key={`price-${i}`} className="block group text-left w-full" onClick={() => onPricingClick(item)}>
                                                 <Card className="flex flex-col h-full hover:shadow-lg transition-shadow">
@@ -1041,7 +1041,7 @@ const ContentPlannerCard = ({ planner }: { planner: ContentPlanner }) => (
         </CardContent>
         <CardFooter className="pt-2 border-t mt-4">
             <Button variant="link" size="sm" className="text-primary p-0 h-auto font-semibold hover:no-underline group" asChild>
-                <Link href="/admin-imamshaffy/blog/create">
+                <Link href="/admin-sheun/blog/create">
                     Start writing this content
                     <Edit className="ml-1.5 h-3.5 w-3.5 group-hover:translate-x-0.5 transition-transform" />
                 </Link>
@@ -1055,8 +1055,8 @@ const ContentPlannerCard = ({ planner }: { planner: ContentPlanner }) => (
 
 function ExecutiveBriefingTab() {
     const [isPending, startTransition] = useTransition();
-    const { products, receipts, business, currencySymbol, onlineOrders, customers, triggerRefresh } = usePOS();
-    const [analysis, setAnalysis] = useState<BusinessAnalysisOutput | null>(business?.settings?.businessAnalysis || null);
+    const { subjects, admissions, academy, currencySymbol, mentorshipBookings, students, triggerRefresh } = useAcademy();
+    const [analysis, setAnalysis] = useState<AcademyAnalysisOutput | null>(academy?.settings?.academyAnalysis || null);
     const [detailProduct, setDetailProduct] = React.useState<TopPerformingProduct | null>(null);
     const [stockRecProduct, setStockRecProduct] = React.useState<SmartStockRecommendation | null>(null);
     const [segmentDetail, setSegmentDetail] = React.useState<CustomerSegment | null>(null);
@@ -1073,10 +1073,10 @@ function ExecutiveBriefingTab() {
     const [productPerformanceSearchTerm, setProductPerformanceSearchTerm] = React.useState('');
 
     useEffect(() => {
-        if (business?.settings?.businessAnalysis) {
-            setAnalysis(business.settings.businessAnalysis);
+        if (academy?.settings?.academyAnalysis) {
+            setAnalysis(academy.settings.academyAnalysis);
         }
-    }, [business?.settings?.businessAnalysis]);
+    }, [academy?.settings?.academyAnalysis]);
 
     React.useEffect(() => {
         let timer: NodeJS.Timeout | undefined;
@@ -1104,9 +1104,9 @@ function ExecutiveBriefingTab() {
     }, [isPending]);
 
     const allProductPerformance = useMemo(() => {
-        if (!receipts && !onlineOrders && !products) return [];
+        if (!admissions && !mentorshipBookings && !subjects) return [];
 
-        const allSales = [...(receipts || []), ...(onlineOrders || [])];
+        const allSales = [...(admissions || []), ...(mentorshipBookings || [])];
         const thirtyDaysAgo = subDays(new Date(), 30);
         const recentSales = allSales.filter(s => {
             const saleDate = safeToDate(s.createdAt);
@@ -1122,16 +1122,16 @@ function ExecutiveBriefingTab() {
 
             // Use a Set to count unique orders per product
             sale.items?.forEach(item => {
-                if (!productSales[item.productId]) {
-                    productSales[item.productId] = { name: item.name, revenue: 0, unitsSold: 0, orderCount: 0, salesTimestamps: [] };
+                if (!productSales[item.subjectId]) {
+                    productSales[item.subjectId] = { name: item.name, revenue: 0, unitsSold: 0, orderCount: 0, salesTimestamps: [] };
                 }
-                productSales[item.productId].revenue += (item.price || 0) * (item.quantity || 0);
-                productSales[item.productId].unitsSold += (item.quantity || 0);
-                productSales[item.productId].salesTimestamps.push(saleDate);
+                productSales[item.subjectId].revenue += (item.price || 0) * (item.quantity || 0);
+                productSales[item.subjectId].unitsSold += (item.quantity || 0);
+                productSales[item.subjectId].salesTimestamps.push(saleDate);
             });
 
             // Increment order count once per receipt for each unique product
-            const uniqueProductIdsInSale = new Set((sale.items || []).map(i => i.productId).filter(Boolean));
+            const uniqueProductIdsInSale = new Set((sale.items || []).map(i => i.subjectId).filter(Boolean));
             uniqueProductIdsInSale.forEach(pid => {
                 if (productSales[pid]) {
                     productSales[pid].orderCount += 1;
@@ -1167,7 +1167,7 @@ function ExecutiveBriefingTab() {
             return { peakDay, peakTime };
         };
 
-        const allStats: TopPerformingProduct[] = (products || []).map(p => {
+        const allStats: TopPerformingProduct[] = (subjects || []).map(p => {
             const data = productSales[p.id] || { name: p.name, revenue: 0, unitsSold: 0, orderCount: 0, salesTimestamps: [] };
             let insight = "A product in your catalog.";
             if (data.revenue > 0 && totalRevenueLast30Days > 0) {
@@ -1175,7 +1175,7 @@ function ExecutiveBriefingTab() {
             }
 
             return {
-                productId: p.id,
+                subjectId: p.id,
                 ...data,
                 ...getPeakTimes(data.salesTimestamps),
                 insight,
@@ -1184,13 +1184,13 @@ function ExecutiveBriefingTab() {
         });
 
         return allStats.sort((a, b) => b.revenue - a.revenue);
-    }, [receipts, onlineOrders, products]);
+    }, [admissions, mentorshipBookings, subjects]);
 
 
 
 
     const handleGenerateAnalysis = () => {
-        if (!products || !business?.id || !firestore) {
+        if (!subjects || !academy?.id || !firestore) {
             toast({
                 variant: "destructive",
                 title: "Cannot Run Analysis",
@@ -1201,7 +1201,7 @@ function ExecutiveBriefingTab() {
         startTransition(async () => {
             // --- ADVANCED DATA ABSTRACTION & AGGREGATION ---
             const sixtyDaysAgo = subDays(new Date(), 60);
-            const allSales = [...(receipts || []), ...(onlineOrders || [])];
+            const allSales = [...(admissions || []), ...(mentorshipBookings || [])];
             const recentSales = allSales.filter(s => {
                 const saleDate = safeToDate(s.createdAt);
                 return saleDate >= sixtyDaysAgo;
@@ -1211,33 +1211,33 @@ function ExecutiveBriefingTab() {
                 return dateB.getTime() - dateA.getTime();
             });
 
-            // 1. Calculate Per-Product Metrics
+            // 1. Calculate Per-Subject Metrics
             const productSummaryMap: Record<string, { revenue: number, units: number, orders: number }> = {};
             recentSales.forEach(sale => {
                 if (!sale) return;
-                const uniqueInSale = new Set((sale.items || []).map(i => i.productId).filter(Boolean));
+                const uniqueInSale = new Set((sale.items || []).map(i => i.subjectId).filter(Boolean));
                 uniqueInSale.forEach(pid => {
                     if (!productSummaryMap[pid]) productSummaryMap[pid] = { revenue: 0, units: 0, orders: 0 };
                     productSummaryMap[pid].orders++;
                 });
                 (sale.items || []).forEach(item => {
-                    if (!item || !item.productId) return;
-                    if (!productSummaryMap[item.productId]) productSummaryMap[item.productId] = { revenue: 0, units: 0, orders: 0 };
-                    productSummaryMap[item.productId].revenue += ((item.price || 0) * (item.quantity || 0));
-                    productSummaryMap[item.productId].units += (item.quantity || 0);
+                    if (!item || !item.subjectId) return;
+                    if (!productSummaryMap[item.subjectId]) productSummaryMap[item.subjectId] = { revenue: 0, units: 0, orders: 0 };
+                    productSummaryMap[item.subjectId].revenue += ((item.price || 0) * (item.quantity || 0));
+                    productSummaryMap[item.subjectId].units += (item.quantity || 0);
                 });
             });
 
             // 2. ABC Analysis Classification (70-20-10 Rule)
             const sortedForABC = Object.entries(productSummaryMap)
                 .sort(([, a], [, b]) => b.revenue - a.revenue);
-            const totalRevenue = sortedForABC.reduce((sum, [, d]) => sum + d.revenue, 0);
+            const totalBookingValue = sortedForABC.reduce((sum, [, d]) => sum + d.revenue, 0);
             let runningRevenue = 0;
             const abcAnalysis: { tierA: string[], tierB: string[], tierC: string[] } = { tierA: [], tierB: [], tierC: [] };
             sortedForABC.forEach(([pid, data]) => {
                 runningRevenue += data.revenue;
-                const pName = products?.find(p => p.id === pid)?.name || pid;
-                const revenueShare = totalRevenue > 0 ? runningRevenue / totalRevenue : 0;
+                const pName = subjects?.find(p => p.id === pid)?.name || pid;
+                const revenueShare = totalBookingValue > 0 ? runningRevenue / totalBookingValue : 0;
                 if (revenueShare <= 0.7) {
                     if (abcAnalysis.tierA.length < 20) abcAnalysis.tierA.push(pName);
                 } else if (revenueShare <= 0.9) {
@@ -1257,32 +1257,32 @@ function ExecutiveBriefingTab() {
                 dailyMap[dStr].revenue += (sale.total || 0);
                 dailyMap[dStr].orders++;
                 (sale.items || []).forEach(item => {
-                    if (!item || !item.productId) return;
-                    const cat = products?.find(p => p.id === item.productId)?.category || 'Uncategorized';
+                    if (!item || !item.subjectId) return;
+                    const cat = subjects?.find(p => p.id === item.subjectId)?.category || 'Uncategorized';
                     dailyMap[dStr].cats[cat] = (dailyMap[dStr].cats[cat] || 0) + ((item.price || 0) * (item.quantity || 0));
                 });
             });
             const dailySummaries = Object.entries(dailyMap).map(([date, data]) => ({
-                date, totalRevenue: data.revenue, orderCount: data.orders,
+                date, totalBookingValue: data.revenue, orderCount: data.orders,
                 topCategory: Object.entries(data.cats).sort(([, a], [, b]) => b - a)[0]?.[0]
             })).slice(0, 30);
 
             // 4. Category Performance Breakdown
-            const categoryMap: Record<string, { revenue: number, units: number, customers: Set<string> }> = {};
+            const categoryMap: Record<string, { revenue: number, units: number, students: Set<string> }> = {};
             recentSales.forEach(sale => {
                 if (!sale) return;
                 const cId = ('customer' in sale && sale.customer?.id) ? sale.customer.id : 'Guest';
                 (sale.items || []).forEach(item => {
-                    if (!item || !item.productId) return;
-                    const cat = products?.find(p => p.id === item.productId)?.category || 'Uncategorized';
-                    if (!categoryMap[cat]) categoryMap[cat] = { revenue: 0, units: 0, customers: new Set() };
+                    if (!item || !item.subjectId) return;
+                    const cat = subjects?.find(p => p.id === item.subjectId)?.category || 'Uncategorized';
+                    if (!categoryMap[cat]) categoryMap[cat] = { revenue: 0, units: 0, students: new Set() };
                     categoryMap[cat].revenue += ((item.price || 0) * (item.quantity || 0));
                     categoryMap[cat].units += (item.quantity || 0);
-                    categoryMap[cat].customers.add(cId);
+                    categoryMap[cat].students.add(cId);
                 });
             });
             const categorySummaries = Object.entries(categoryMap).map(([name, data]) => ({
-                name, totalRevenue: data.revenue, unitsSold: data.units, uniqueCustomers: data.customers.size
+                name, totalBookingValue: data.revenue, unitsSold: data.units, uniqueCustomers: data.students.size
             }));
 
             // 5. MATH LOGIC: Trend Analysis & Anomaly Detection
@@ -1314,7 +1314,7 @@ function ExecutiveBriefingTab() {
             const growthMoM = revPrev > 0 ? ((rev30 - revPrev) / revPrev) * 100 : 0;
             const avgOrderValue = last30DaysSales.length > 0 ? rev30 / last30DaysSales.length : 0;
 
-            const churnRiskCount = (customers || []).filter(c => {
+            const churnRiskCount = (students || []).filter(c => {
                 const cId = c.id;
                 const lastOrder = allSales.find(s => 'customer' in s && s.customer?.id === cId);
                 if (!lastOrder) return false;
@@ -1328,8 +1328,8 @@ function ExecutiveBriefingTab() {
                 churnRiskCount
             };
 
-            // 6. Optimized Product Data (Top items + ABC context)
-            const productInput = products.map(p => {
+            // 6. Optimized Subject Data (Top items + ABC context)
+            const productInput = subjects.map(p => {
                 const stats = productSummaryMap[p.id] || { revenue: 0, units: 0, orders: 0 };
                 return {
                     id: p.id, name: p.name || 'Unknown', price: p.price || 0, costPrice: p.costPrice || 0,
@@ -1338,7 +1338,7 @@ function ExecutiveBriefingTab() {
             }).sort((a, b) => (productSummaryMap[b.id]?.revenue || 0) - (productSummaryMap[a.id]?.revenue || 0))
                 .slice(0, 100); 
 
-            // 6. Optimized Customer Sampling
+            // 6. Optimized Student Sampling
             const recentCustomerIds = new Set(recentSales.map(sale => 'customer' in sale && sale.customer ? sale.customer.id : null).filter(Boolean));
             const customerStatsMap: Record<string, { total: number, orders: number }> = {};
             recentSales.forEach(sale => {
@@ -1350,7 +1350,7 @@ function ExecutiveBriefingTab() {
                 }
             });
 
-            const customerInput = (customers || [])
+            const customerInput = (students || [])
                 .filter(c => recentCustomerIds.has(c.id))
                 .sort((a, b) => (customerStatsMap[b.id]?.total || 0) - (customerStatsMap[a.id]?.total || 0))
                 .slice(0, 20)
@@ -1363,14 +1363,14 @@ function ExecutiveBriefingTab() {
                 }));
 
             try {
-                const result = await businessAnalysis({
-                    products: productInput,
+                const result = await academyAnalysis({
+                    subjects: productInput,
                     dailySummaries,
                     categorySummaries,
                     abcAnalysis,
                     trends,
                     anomalies: anomalies as any,
-                    customers: customerInput,
+                    students: customerInput,
                     currencySymbol
                 });
 
@@ -1381,13 +1381,13 @@ function ExecutiveBriefingTab() {
                 const unitsSoldLast30: Record<string, number> = {};
                 salesLast30.forEach(s => {
                     (s.items || []).forEach(item => {
-                        if (item.productId) {
-                            unitsSoldLast30[item.productId] = (unitsSoldLast30[item.productId] || 0) + (item.quantity || 0);
+                        if (item.subjectId) {
+                            unitsSoldLast30[item.subjectId] = (unitsSoldLast30[item.subjectId] || 0) + (item.quantity || 0);
                         }
                     });
                 });
 
-                const hardcoreStockRecs: SmartStockRecommendation[] = products.map(p => {
+                const hardcoreStockRecs: SmartStockRecommendation[] = subjects.map(p => {
                     const sold = unitsSoldLast30[p.id] || 0;
                     const ads = sold / 30;
                     const buffer = 1.5; // 50% safety buffer
@@ -1395,7 +1395,7 @@ function ExecutiveBriefingTab() {
                     
                     if (recommended > 0 || (p.stock || 0) < 5) {
                         return {
-                            productId: p.id,
+                            subjectId: p.id,
                             name: p.name,
                             recommendedStock: Math.max(recommended, 10), // Min 10 for any active product
                             confidence: 100,
@@ -1407,24 +1407,27 @@ function ExecutiveBriefingTab() {
                   .sort((a, b) => b.recommendedStock - a.recommendedStock)
                   .slice(0, 50); // Top 50 recommendations
 
-                const dataToSave: BusinessAnalysisOutput = { 
+                const dataToSave: AcademyAnalysisOutput = { 
                     ...result, 
                     smartStockRecommendations: hardcoreStockRecs, // Override AI with Hardcore Logic
                     createdAt: new Date() 
                 };
 
 
-                const businessDocRef = doc(firestore, 'businessInstances', business.id);
-                await updateDoc(businessDocRef, { 'settings.businessAnalysis': { ...result, createdAt: serverTimestamp() } });
+                const businessDocRef = doc(firestore, 'businessInstances', academy.id);
+                await updateDoc(businessDocRef, { 
+                    'settings.academyAnalysis': { ...result, createdAt: serverTimestamp() },
+                    'settings.aiTokensUsed': increment(15000)
+                });
 
                 setProgress(100);
                 setAnalysis(dataToSave);
                 triggerRefresh();
-                toast({ variant: 'success', title: 'Analysis Complete!', description: 'Your new business insights are ready.' });
+                toast({ variant: 'success', title: 'Analysis Complete!', description: 'Your new academy insights are ready.' });
                 setTimeout(() => setProgress(0), 1000);
 
             } catch (e: any) {
-                console.error("Failed to generate or save business analysis:", e);
+                console.error("Failed to generate or save academy analysis:", e);
                 toast({ variant: 'destructive', title: 'Analysis Failed', description: e.message || 'An unexpected error occurred. This can happen if the AI server is busy. Please try again in a moment.' });
                 setProgress(0);
             }
@@ -1435,9 +1438,9 @@ function ExecutiveBriefingTab() {
 
     return (
         <FeatureGate
-            requiredPlan="business"
-            currentPlan={business?.plan}
-            hasLifetimeAccess={business?.accessLevel === "lifetime"}
+            requiredPlan="academy"
+            currentPlan={academy?.plan}
+            hasLifetimeAccess={academy?.accessLevel === "lifetime"}
             featureName="AI Executive Briefing"
             featureDescription="Unlock a comprehensive AI-powered analysis of your sales, inventory, and customer trends."
         >
@@ -1450,13 +1453,13 @@ function ExecutiveBriefingTab() {
                             <Bot className="h-8 w-8" />
                         </div>
                         <CardTitle className="text-xl text-foreground">Awaiting Analysis</CardTitle>
-                        <CardDescription className="mt-2 mb-4 max-w-md mx-auto text-muted-foreground">Click "Generate Briefing" to get your first AI-powered executive summary of your business.</CardDescription>
+                        <CardDescription className="mt-2 mb-4 max-w-md mx-auto text-muted-foreground">Click "Generate Briefing" to get your first AI-powered executive summary of your academy.</CardDescription>
                         <Button onClick={handleGenerateAnalysis}>Generate Your First Briefing</Button>
                     </Card>
                 ) : (
                     <div className="space-y-6">
                         <ProductPerformanceCard
-                            products={allProductPerformance}
+                            subjects={allProductPerformance}
                             analysis={analysis}
                             searchTerm={productPerformanceSearchTerm}
                             onSearchChange={setProductPerformanceSearchTerm}
@@ -1466,7 +1469,7 @@ function ExecutiveBriefingTab() {
 
                         <SmartStockRecommendationCard
                             recommendations={displayData.smartStockRecommendations || []}
-                            allProducts={products || []}
+                            allProducts={subjects || []}
                             searchTerm={stockSearchTerm}
                             onSearchChange={setStockSearchTerm}
                             onRowClick={setStockRecProduct}
@@ -1481,7 +1484,7 @@ function ExecutiveBriefingTab() {
                             pricing={displayData.pricingRecommendations || []}
                             offers={displayData.irresistibleOffers || []}
                             currencySymbol={currencySymbol}
-                            allProducts={products || []}
+                            allProducts={subjects || []}
                             onMerchClick={setMerchDetail}
                             onRevenueOppClick={setRevenueOppDetail}
                             onSlowMovingClick={setSlowMovingDetail}
@@ -1505,7 +1508,7 @@ function ExecutiveBriefingTab() {
             />
             <StockRecDetailModal
                 recommendation={stockRecProduct}
-                product={stockRecProduct ? products?.find(p => p.id === stockRecProduct.productId) || null : null}
+                product={stockRecProduct ? subjects?.find(p => p.id === stockRecProduct.subjectId) || null : null}
                 isOpen={!!stockRecProduct}
                 onOpenChange={(open) => !open && setStockRecProduct(null)}
             />
@@ -1513,39 +1516,39 @@ function ExecutiveBriefingTab() {
                 segment={segmentDetail}
                 isOpen={!!segmentDetail}
                 onOpenChange={(open) => !open && setSegmentDetail(null)}
-                business={business}
-                businessPrimaryColor={business?.settings?.primaryColor}
+                academy={academy}
+                businessPrimaryColor={academy?.settings?.primaryColor}
             />
             <MerchandisingDetailModal
                 recommendation={merchDetail}
-                allProducts={products || []}
+                allProducts={subjects || []}
                 isOpen={!!merchDetail}
                 onOpenChange={(open) => !open && setMerchDetail(null)}
             />
             <RevenueOpportunityModal
                 opportunity={revenueOppDetail}
-                product={revenueOppDetail ? products?.find(p => p.id === revenueOppDetail.productId) || null : null}
+                product={revenueOppDetail ? subjects?.find(p => p.id === revenueOppDetail.subjectId) || null : null}
                 isOpen={!!revenueOppDetail}
                 onOpenChange={(open) => !open && setRevenueOppDetail(null)}
                 currencySymbol={currencySymbol}
             />
             <SlowMovingInventoryModal
                 item={slowMovingDetail}
-                product={slowMovingDetail ? products?.find(p => p.id === slowMovingDetail.productId) || null : null}
+                product={slowMovingDetail ? subjects?.find(p => p.id === slowMovingDetail.subjectId) || null : null}
                 isOpen={!!slowMovingDetail}
                 onOpenChange={(open) => !open && setSlowMovingDetail(null)}
                 currencySymbol={currencySymbol}
             />
             <PricingStrategyModal
                 recommendation={pricingDetail}
-                product={pricingDetail ? products?.find(p => p.id === pricingDetail.productId) || null : null}
+                product={pricingDetail ? subjects?.find(p => p.id === pricingDetail.subjectId) || null : null}
                 isOpen={!!pricingDetail}
                 onOpenChange={(open) => !open && setPricingDetail(null)}
                 currencySymbol={currencySymbol}
             />
             <OfferDetailModal
                 offer={offerDetail}
-                allProducts={products || []}
+                allProducts={subjects || []}
                 isOpen={!!offerDetail}
                 onOpenChange={(open) => !open && setOfferDetail(null)}
                 currencySymbol={currencySymbol}
@@ -1555,12 +1558,12 @@ function ExecutiveBriefingTab() {
 }
 
 export default function AiInsightsPage() {
-    const { isLoading: isPosLoading } = usePOS();
+    const { isLoading: isPosLoading } = useAcademy();
     return (
         <div className="space-y-6">
             <PageTitle
                 title="Zen AI"
-                subtitle="Your AI-powered command center for business intelligence."
+                subtitle="Your AI-powered command center for academy intelligence."
             />
             {isPosLoading ? (
                 <div className="mt-6 space-y-6">
@@ -1573,12 +1576,12 @@ export default function AiInsightsPage() {
                     </Card>
                 </div>
             ) : (
-                <Tabs defaultValue="business-performance" className="w-full">
+                <Tabs defaultValue="academy-performance" className="w-full">
                     <TabsList className="grid w-full grid-cols-1 sm:grid-cols-2 gap-2">
-                        <TabsTrigger value="business-performance">Executive Briefing</TabsTrigger>
+                        <TabsTrigger value="academy-performance">Executive Briefing</TabsTrigger>
                         <TabsTrigger value="product-quality">Inventory Health</TabsTrigger>
                     </TabsList>
-                    <TabsContent value="business-performance" className="pt-6">
+                    <TabsContent value="academy-performance" className="pt-6">
                         <ExecutiveBriefingTab />
                     </TabsContent>
                     <TabsContent value="product-quality" className="pt-6">

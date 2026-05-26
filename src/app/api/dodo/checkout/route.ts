@@ -5,34 +5,34 @@ const DODO_API_KEY = process.env.DODO_SECRET_KEY;
 const DODO_MODE = process.env.NEXT_PUBLIC_DODO_MODE === 'live' ? 'live' : 'test';
 const DODO_API_URL = `https://${DODO_MODE}.dodopayments.com/checkouts`;
 
-// Replace these with your actual Dodo Product IDs from the dashboard
+// Replace these with your actual Dodo Subject IDs from the dashboard
 const DODO_PRODUCT_IDS: Record<string, string> = {
   'pro': process.env.DODO_PRO_PRODUCT_ID || 'pdp_pro_placeholder',
-  'business': process.env.DODO_BUSINESS_PRODUCT_ID || 'pdp_business_placeholder',
+  'academy': process.env.DODO_BUSINESS_PRODUCT_ID || 'pdp_business_placeholder',
 };
 
 export async function POST(req: NextRequest) {
   try {
-    const { planId, email, businessId, cycleMonths } = await req.json();
-    console.log('Dodo Checkout Request:', { planId, email, businessId, cycleMonths });
+    const { planId, email, academyId, cycleMonths } = await req.json();
+    console.log('Dodo Checkout Request:', { planId, email, academyId, cycleMonths });
 
     if (!DODO_API_KEY) {
       console.error('Dodo API key is missing from environment variables');
       return NextResponse.json({ error: 'Dodo API key not configured' }, { status: 500 });
     }
 
-    const productId = DODO_PRODUCT_IDS[planId];
-    console.log('Target Product ID:', productId);
+    const subjectId = DODO_PRODUCT_IDS[planId];
+    console.log('Target Subject ID:', subjectId);
 
-    if (!productId || productId.includes('placeholder')) {
-      console.error('Dodo Product ID not configured for plan:', planId);
-      return NextResponse.json({ error: 'Dodo Product ID not configured for this plan' }, { status: 400 });
+    if (!subjectId || subjectId.includes('placeholder')) {
+      console.error('Dodo Subject ID not configured for plan:', planId);
+      return NextResponse.json({ error: 'Dodo Subject ID not configured for this plan' }, { status: 400 });
     }
 
     const body = {
       product_cart: [
         {
-          product_id: productId,
+          product_id: subjectId,
           quantity: 1,
         },
       ],
@@ -40,7 +40,7 @@ export async function POST(req: NextRequest) {
         email: email,
       },
       metadata: {
-        businessId: businessId,
+        academyId: academyId,
         planId: planId,
         cycleMonths: cycleMonths.toString(),
       },

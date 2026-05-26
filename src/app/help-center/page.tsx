@@ -20,7 +20,7 @@ export default function HelpCenterPage() {
   const categories = [
     {
       title: "Getting Started",
-      description: "Learn how to set up your store and add your first products.",
+      description: "Learn how to set up your store and add your first subjects.",
       icon: <Book className="w-6 h-6 text-primary" />,
       href: "#"
     },
@@ -241,17 +241,17 @@ export default function HelpCenterPage() {
 
                   <section id="inventory" className="space-y-4">
                     <h3 className="text-xl font-bold text-slate-900">2. Eligibility</h3>
-                    <p className="text-slate-600 text-[15px]">To operate Zeneva within your business, you must meet the following hardware and operational requirements:</p>
+                    <p className="text-slate-600 text-[15px]">To operate Zeneva within your academy, you must meet the following hardware and operational requirements:</p>
                     <ul className="list-disc pl-6 space-y-2 text-slate-600 text-[15px]">
                       <li>Maintain a compatible iOS or Android terminal</li>
-                      <li>Provide authentic business identity for tax compliance</li>
+                      <li>Provide authentic academy identity for tax compliance</li>
                       <li>Operate within the regulatory guidelines of your operating region</li>
                     </ul>
                   </section>
 
                   <section id="pos" className="space-y-4">
                     <h3 className="text-xl font-bold text-slate-900">3. Account Registration</h3>
-                    <p className="text-slate-600 text-[15px]">Registration requires a verified email and business identity. Once registered, you are responsible for maintaining the security of your authentication tokens and staff access pins.</p>
+                    <p className="text-slate-600 text-[15px]">Registration requires a verified email and academy identity. Once registered, you are responsible for maintaining the security of your authentication tokens and staff access pins.</p>
                   </section>
 
                   <section id="ai" className="space-y-4">

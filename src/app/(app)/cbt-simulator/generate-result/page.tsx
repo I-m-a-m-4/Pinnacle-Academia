@@ -1,13 +1,13 @@
 
 'use client';
 import * as React from 'react';
-import ReceiptDetails from "@/components/receipts/receipt-details";
+import ReceiptDetails from "@/components/admissions/receipt-details";
 import { Button } from "@/components/ui/button";
 import { useToast } from "@/hooks/use-toast";
-import { usePOS } from "@/context/pos-context";
+import { useAcademy } from "@/context/academy-context";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
-import { useBusiness } from '@/context/pos-context';
+import { useBusiness } from '@/context/academy-context';
 import { useUser, useFirestore } from '@/firebase';
 import { collection, doc, writeBatch, serverTimestamp, DocumentReference, DocumentSnapshot } from 'firebase/firestore';
 import { Loader2 } from 'lucide-react';
@@ -23,16 +23,16 @@ import { logAuditEvent } from '@/lib/audit';
 function ReviewPageContent() {
     const router = useRouter();
     const { toast } = useToast();
-    const { cart, selectedCustomer, subtotal, tax, discount, total, paymentMethod, currencySymbol, resetPOS, products, currentUserProfile, customers, autoPrint, setAutoPrint, addToQueue, holdCurrentSale } = usePOS();
+    const { syllabus, selectedStudent, subtotal, tax, taxRate, discount, total, paymentMethod, currencySymbol, resetSimulator, subjects, currentUserProfile, students, autoPrint, setAutoPrint, addToQueue, saveCurrentSession } = useAcademy();
     const firestore = useFirestore();
-    const business = useBusiness();
+    const academy = useBusiness();
     const { user } = useUser();
     const [isCompleting, setIsCompleting] = React.useState(false);
     const [shouldSendEmail, setShouldSendEmail] = React.useState(false);
     const searchParams = useSearchParams();
     const isAutoPrompted = searchParams.get('auto') === 'true';
     const [backdate, setBackdate] = React.useState('');
-    const isAdmin = currentUserProfile?.role === 'admin' || business?.ownerId === currentUserProfile?.id;
+    const isAdmin = currentUserProfile?.role === 'admin' || academy?.ownerId === currentUserProfile?.id;
     const receiptContentRef = React.useRef<HTMLDivElement>(null);
     const hasPrintedRef = React.useRef(false);
     const checkoutStartedRef = React.useRef(false);
@@ -47,16 +47,16 @@ function ReviewPageContent() {
     // Create a temporary receipt object for display before saving
     const displayReceipt = React.useMemo(() => ({
         id: 'temp-id',
-        businessId: business?.id || 'temp-biz-id',
+        academyId: academy?.id || 'temp-biz-id',
         receiptNumber: stableReceiptNumber,
-        items: cart.map(item => ({
-            productId: item.product.id,
+        items: syllabus.map(item => ({
+            subjectId: item.product.id,
             name: item.product.name,
             quantity: item.quantity,
             price: item.product.price,
             costPrice: item.product.costPrice || 0,
         })),
-        customer: selectedCustomer || undefined,
+        customer: selectedStudent || undefined,
         subtotal,
         tax,
         discount,
@@ -64,13 +64,13 @@ function ReviewPageContent() {
         paymentMethod: paymentMethod as 'Cash' | 'Card' | 'Bank Transfer' | 'Invoice',
         status: (paymentMethod === 'Bank Transfer' ? 'pending' : (paymentMethod === 'Invoice' ? 'unpaid' : 'paid')) as 'pending' | 'unpaid' | 'paid',
         createdAt: backdate ? new Date(backdate) : new Date(), // Use a real date for optimistic display
-    }), [stableReceiptNumber, business?.id, cart, selectedCustomer, subtotal, tax, discount, total, paymentMethod, backdate]);
+    }), [stableReceiptNumber, academy?.id, syllabus, selectedStudent, subtotal, tax, discount, total, paymentMethod, backdate]);
 
     const handleCompleteSale = React.useCallback(() => {
         if (checkoutStartedRef.current) return;
         
-        if (!business || !user || cart.length === 0 || !products || !currentUserProfile) {
-            toast({ variant: 'destructive', title: 'Error', description: 'Cannot complete sale. Missing session data or empty cart.' });
+        if (!academy || !user || syllabus.length === 0 || !subjects || !currentUserProfile) {
+            toast({ variant: 'destructive', title: 'Error', description: 'Cannot complete sale. Missing session data or empty syllabus.' });
             setIsCompleting(false);
             return;
         }
@@ -78,8 +78,8 @@ function ReviewPageContent() {
         checkoutStartedRef.current = true;
 
         // 1. Validations (Backorder & Operating Hours)
-        for (const cartItem of cart) {
-            const productFromCache = products.find(p => p.id === cartItem.product.id);
+        for (const cartItem of syllabus) {
+            const productFromCache = subjects.find(p => p.id === cartItem.product.id);
             const isService = productFromCache?.categoryType === 'service';
             if (!isService && (!productFromCache || (productFromCache.stock || 0) < cartItem.quantity)) {
                 toast({
@@ -90,7 +90,7 @@ function ReviewPageContent() {
             }
         }
 
-        const operatingHours = business.settings?.operatingHours;
+        const operatingHours = academy.settings?.operatingHours;
         let isOutsideHours = false;
         if (operatingHours?.enabled) {
             const saleDate = backdate ? new Date(backdate) : new Date();
@@ -123,8 +123,8 @@ function ReviewPageContent() {
         let secureSubtotal = 0;
         let secureTotalCost = 0;
         
-        const itemsForReceipt = cart.map(cartItem => {
-            const masterProduct = products.find(p => p.id === cartItem.product.id);
+        const itemsForReceipt = syllabus.map(cartItem => {
+            const masterProduct = subjects.find(p => p.id === cartItem.product.id);
             const costPrice = masterProduct?.costPrice || 0;
             
             // SECURITY: If not a manual override, use the price from the master product list
@@ -139,7 +139,7 @@ function ReviewPageContent() {
                 }
             }
 
-            // Detect if the price in cart was tampered with (different from expected)
+            // Detect if the price in syllabus was tampered with (different from expected)
             if (finalPrice !== cartItem.product.price) {
                 console.warn(`Price mismatch detected for ${cartItem.product.name}. Expected ${finalPrice}, got ${cartItem.product.price}. Reverting to secure price.`);
             }
@@ -148,7 +148,7 @@ function ReviewPageContent() {
             secureTotalCost += costPrice * cartItem.quantity;
 
             return {
-                productId: cartItem.product.id,
+                subjectId: cartItem.product.id,
                 name: cartItem.unit ? `${cartItem.product.name} (${cartItem.unit})` : cartItem.product.name,
                 quantity: cartItem.quantity,
                 unit: cartItem.unit || null,
@@ -158,17 +158,17 @@ function ReviewPageContent() {
             };
         });
 
-        const secureTax = secureSubtotal * (business.settings?.defaultTaxRate || 0) / 100;
+        const secureTax = secureSubtotal * (academy.settings?.defaultTaxRate || 0) / 100;
         const secureTotal = secureSubtotal + secureTax - discount;
         const profit = secureTotal - secureTotalCost;
         const status = paymentMethod === 'Bank Transfer' ? 'pending' : (paymentMethod === 'Invoice' ? 'unpaid' : 'paid');
 
         const receiptData = {
             id: newReceiptId,
-            businessId: business.id,
+            academyId: academy.id,
             receiptNumber: displayReceipt.receiptNumber,
             items: itemsForReceipt,
-            customer: selectedCustomer ? { id: selectedCustomer.id, name: selectedCustomer.name, email: selectedCustomer.email } : null,
+            customer: selectedStudent ? { id: selectedStudent.id, name: selectedStudent.name, email: selectedStudent.email } : null,
             subtotal: secureSubtotal, 
             tax: secureTax, 
             discount, 
@@ -182,8 +182,8 @@ function ReviewPageContent() {
             flagged: isOutsideHours ? { reason: 'outside_operating_hours', openTime: operatingHours?.openTime, closeTime: operatingHours?.closeTime } : null,
         };
 
-        const productUpdates = cart.map(cartItem => {
-            const product = products.find(p => p.id === cartItem.product.id);
+        const productUpdates = syllabus.map(cartItem => {
+            const product = subjects.find(p => p.id === cartItem.product.id);
             const multiplier = cartItem.multiplier || 1;
             const baseQuantitySold = cartItem.quantity * multiplier;
             return {
@@ -194,15 +194,15 @@ function ReviewPageContent() {
             };
         });
 
-        const customerUpdate = selectedCustomer ? {
-            id: selectedCustomer.id,
-            loyaltyPoints: business.settings?.loyaltyProgramEnabled ? (selectedCustomer.loyaltyPoints || 0) + Math.floor(secureTotal * (business.settings.pointsPerUnit || 0)) : (selectedCustomer.loyaltyPoints || 0),
+        const customerUpdate = selectedStudent ? {
+            id: selectedStudent.id,
+            loyaltyPoints: academy.settings?.loyaltyProgramEnabled ? (selectedStudent.loyaltyPoints || 0) + Math.floor(secureTotal * (academy.settings.pointsPerUnit || 0)) : (selectedStudent.loyaltyPoints || 0),
             totalSpent: secureTotal
         } : null;
 
         // 3. ADD TO QUEUE (This is now instant and handles SQLite)
         addToQueue({
-            type: 'complete-sale',
+            type: 'complete-registration',
             payload: {
                 receiptData: { ...receiptData, createdAt: receiptData.createdAt.toISOString() }, // Stringify date for queue
                 productUpdates,
@@ -210,12 +210,12 @@ function ReviewPageContent() {
             }
         }, `Starting Simulation: ${receiptData.receiptNumber}`);
 
-        // 4. Handle Email Receipt (Try sending immediately if online)
-        if (navigator.onLine && shouldSendEmail && selectedCustomer?.email) {
-            const isEmailAllowed = business.plan === 'business' || business.accessLevel === 'lifetime' || business.plan === 'pro';
+        // 4. Handle Email Admission (Try sending immediately if online)
+        if (navigator.onLine && shouldSendEmail && selectedStudent?.email) {
+            const isEmailAllowed = academy.plan === 'academy' || academy.accessLevel === 'lifetime' || academy.plan === 'pro';
             if (isEmailAllowed) {
                 const numberFormat = new Intl.NumberFormat('en-NG', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-                const items_html = cart.map(item =>
+                const items_html = syllabus.map(item =>
                     `<tr>
                         <td style="padding: 5px; border-bottom: 1px solid #eee;">
                             <div style="font-weight: bold;">${item.product.name}</div>
@@ -228,9 +228,9 @@ function ReviewPageContent() {
                 ).join('');
 
                 sendReceiptEmail({
-                    to_email: selectedCustomer.email,
-                    to_name: selectedCustomer.name,
-                    business_name: business.name,
+                    to_email: selectedStudent.email,
+                    to_name: selectedStudent.name,
+                    business_name: academy.name,
                     receipt_id: newReceiptId.substring(0, 8),
                     items_html,
                     currency_symbol: currencySymbol,
@@ -244,14 +244,31 @@ function ReviewPageContent() {
             }
         }
 
+        // Write active exam details to sessionStorage
+        if (typeof window !== 'undefined') {
+            const activeSession = {
+                receiptNumber: displayReceipt.receiptNumber,
+                subjects: syllabus.map(item => ({
+                    id: item.product.id,
+                    name: item.product.name,
+                    questions: item.product.questions || []
+                })),
+                mode: paymentMethod, // Full Exam, Speed Battle, Practice Mode, Offline Study
+                timeLimit: discount || 40, // standard duration
+                targetScore: taxRate || 70, // target minimum score
+                studentName: selectedStudent?.name || currentUserProfile?.name || 'Student'
+            };
+            sessionStorage.setItem('active_exam_session', JSON.stringify(activeSession));
+        }
+
         // 5. Cleanup & Navigation
         if (autoPrint && !hasPrintedRef.current) {
             hasPrintedRef.current = true;
             setTimeout(() => {
                 const handleAfterPrint = () => {
                     window.removeEventListener('afterprint', handleAfterPrint);
-                    router.push('/cbt-simulator/select-subjects');
-                    resetPOS();
+                    router.push('/cbt-simulator/active-test');
+                    resetSimulator();
                 };
                 window.addEventListener('afterprint', handleAfterPrint);
                 
@@ -270,16 +287,16 @@ function ReviewPageContent() {
                 const isMobile = typeof window !== 'undefined' && /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent);
                 setTimeout(() => {
                     window.removeEventListener('afterprint', handleAfterPrint);
-                    // Check if we haven't already navigated (resetPOS clears cart)
-                    if (cart.length > 0) {
-                       router.push('/cbt-simulator/select-subjects');
-                       resetPOS();
+                    // Check if we haven't already navigated (resetSimulator clears syllabus)
+                    if (syllabus.length > 0) {
+                       router.push('/cbt-simulator/active-test');
+                       resetSimulator();
                     }
                 }, isMobile ? 1500 : 3000); // 1.5s on mobile, 3s on desktop fallback instead of 60s
             }, 500);
         } else if (!autoPrint) {
-            router.push('/cbt-simulator/select-subjects');
-            resetPOS();
+            router.push('/cbt-simulator/active-test');
+            resetSimulator();
         }
 
         toast({
@@ -292,22 +309,22 @@ function ReviewPageContent() {
         // to prevent the auto-submit useEffect from re-firing.
         // It will be reset when the component unmounts or POS is reset.
 
-    }, [business, user, cart, products, currentUserProfile, subtotal, tax, discount, total, paymentMethod, currencySymbol, resetPOS, router, autoPrint, backdate, shouldSendEmail, toast, addToQueue, displayReceipt.receiptNumber, selectedCustomer]);
+    }, [academy, user, syllabus, subjects, currentUserProfile, subtotal, tax, taxRate, discount, total, paymentMethod, currencySymbol, resetSimulator, router, autoPrint, backdate, shouldSendEmail, toast, addToQueue, displayReceipt.receiptNumber, selectedStudent]);
 
     // **Auto-Submit Logic**
     // We only want to trigger this ONCE when auto-prompted
     React.useEffect(() => {
-        if (isAutoPrompted && !isCompleting && cart.length > 0) {
+        if (isAutoPrompted && !isCompleting && syllabus.length > 0) {
             handleCompleteSale();
         }
-    }, [isAutoPrompted, isCompleting, cart.length, handleCompleteSale]);
+    }, [isAutoPrompted, isCompleting, syllabus.length, handleCompleteSale]);
 
     const canSendEmail = React.useMemo(() => {
-        const plan = business?.plan;
-        const access = business?.accessLevel;
-        const allowed = plan === 'business' || access === 'lifetime' || plan === 'pro'; 
+        const plan = academy?.plan;
+        const access = academy?.accessLevel;
+        const allowed = plan === 'academy' || access === 'lifetime' || plan === 'pro'; 
         return allowed;
-    }, [business]);
+    }, [academy]);
 
     if (!mounted) {
         return (
@@ -318,7 +335,7 @@ function ReviewPageContent() {
         );
     }
 
-    if (cart.length === 0 && !isCompleting) {
+    if (syllabus.length === 0 && !isCompleting) {
         return (
             <div className="text-center">
                 <p>Selected subjects list is empty.</p>
@@ -333,7 +350,7 @@ function ReviewPageContent() {
         <div className="grid md:grid-cols-3 gap-8">
             <div className="md:col-span-2">
                 <h2 className="text-2xl font-bold mb-4 font-headline no-print">Review Exam Slip</h2>
-                <ReceiptDetails ref={receiptContentRef} receipt={displayReceipt} business={business} currencySymbol={currencySymbol} />
+                <ReceiptDetails ref={receiptContentRef} receipt={displayReceipt} academy={academy} currencySymbol={currencySymbol} />
             </div>
             <div className="no-print">
                 <div className="p-4 rounded-lg bg-card border space-y-4">
@@ -363,14 +380,14 @@ function ReviewPageContent() {
                         </>
                     )}
 
-                    {selectedCustomer?.email && canSendEmail && (
+                    {selectedStudent?.email && canSendEmail && (
                         <>
                             <Separator />
                             <div className="flex items-center justify-between py-2">
                                 <Label htmlFor="send-email-receipt" className="flex flex-col gap-1 cursor-pointer">
                                     <span>Email Exam Slip</span>
                                     <span className="font-normal text-muted-foreground text-xs">
-                                        Send a copy to {selectedCustomer.email}
+                                        Send a copy to {selectedStudent.email}
                                     </span>
                                 </Label>
                                 <Switch
@@ -402,10 +419,10 @@ function ReviewPageContent() {
                             {isCompleting ? 'Preparing Exam...' : (paymentMethod === 'Invoice' ? 'Start Offline Exam' : 'Start Examination')}
                         </Button>
                         <Button size="lg" className="w-full h-12" variant="outline" onClick={() => {
-                            holdCurrentSale();
+                            saveCurrentSession();
                             router.push('/cbt-simulator/select-subjects');
                         }} disabled={isCompleting}>
-                            Park Setup
+                            Save Setup
                         </Button>
                         <Button size="lg" className="w-full" variant="outline" asChild>
                             <Link href="/cbt-simulator/exam-mode">Back to Mode Settings</Link>

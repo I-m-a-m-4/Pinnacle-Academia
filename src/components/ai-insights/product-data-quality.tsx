@@ -1,8 +1,8 @@
 
 "use client";
 
-import { productTroubleshoot } from "@/ai/flows/product-troubleshoot-flow";
-import type { Product, AISuggestions } from "@/types";
+import { subjectTroubleshoot } from "@/ai/flows/subject-troubleshoot-flow";
+import type { Subject, AISuggestions } from "@/types";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { Button } from "@/components/ui/button";
 import {
@@ -14,7 +14,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
-import { usePOS } from "@/context/pos-context";
+import { useAcademy } from "@/context/academy-context";
 import {
   AlertTriangle,
   CheckCircle,
@@ -60,7 +60,7 @@ function IssueDetailsDialog({
 }: {
   isOpen: boolean;
   onOpenChange: (open: boolean) => void;
-  issue: { title: string; items: Product[] } | null;
+  issue: { title: string; items: Subject[] } | null;
 }) {
   if (!issue) return null;
 
@@ -70,7 +70,7 @@ function IssueDetailsDialog({
         <DialogHeader>
           <DialogTitle>{issue.title}</DialogTitle>
           <DialogDescription>
-            Found {issue.items.length} products with this issue. Click on a
+            Found {issue.items.length} subjects with this issue. Click on a
             product to go to its edit page and resolve the issue.
           </DialogDescription>
         </DialogHeader>
@@ -78,7 +78,7 @@ function IssueDetailsDialog({
           <div className="space-y-2 pr-4">
             {issue.items.map((product) => (
               <Link
-                href={`/inventory/details?id=${product.id}`}
+                href={`/syllabus-tracker/details?id=${product.id}`}
                 key={product.id}
                 className="block p-3 rounded-md border hover:bg-muted"
                 onClick={() => onOpenChange(false)}
@@ -118,7 +118,7 @@ function IssueCard({
   title: string;
   description: string;
   count: number;
-  items: Product[];
+  items: Subject[];
   unit?: string;
   onFixClick: () => void;
 }) {
@@ -151,22 +151,22 @@ export default function ProductDataQualityTab() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedIssue, setSelectedIssue] = useState<{
     title: string;
-    items: Product[];
+    items: Subject[];
   } | null>(null);
 
-  const { products, isLoading } = usePOS();
+  const { subjects, isLoading } = useAcademy();
   
   const analysis = useMemo(() => {
-    if (!products) return null;
-    const productsWithoutPrice = products.filter((p) => !p.price || p.price <= 0);
-    const productsWithoutImage = products.filter((p) => !p.imageUrl);
-    const productsWithoutSku = products.filter((p) => !p.sku);
-    const productsWithoutCategory = products.filter((p) => !p.category);
-    const productsWithoutDescription = products.filter(
+    if (!subjects) return null;
+    const productsWithoutPrice = subjects.filter((p) => !p.price || p.price <= 0);
+    const productsWithoutImage = subjects.filter((p) => !p.imageUrl);
+    const productsWithoutSku = subjects.filter((p) => !p.sku);
+    const productsWithoutCategory = subjects.filter((p) => !p.category);
+    const productsWithoutDescription = subjects.filter(
       (p) => !p.description || p.description.length < 20
     );
 
-    const totalPoints = products.length * 5;
+    const totalPoints = subjects.length * 5;
     const issuePoints =
       productsWithoutPrice.length +
       productsWithoutImage.length +
@@ -186,11 +186,11 @@ export default function ProductDataQualityTab() {
       productsWithoutCategory,
       productsWithoutDescription,
       dataQualityScore,
-      totalProducts: products.length,
+      totalProducts: subjects.length,
     };
-  }, [products]);
+  }, [subjects]);
 
-  const handleFixClick = (title: string, items: Product[]) => {
+  const handleFixClick = (title: string, items: Subject[]) => {
     setSelectedIssue({ title, items });
     setIsModalOpen(true);
   };
@@ -219,7 +219,7 @@ export default function ProductDataQualityTab() {
           <Package className="h-16 w-16 mx-auto text-muted-foreground/50" />
           <h3 className="text-xl font-semibold mt-4">No Products to Analyze</h3>
           <p className="text-muted-foreground mt-2">
-            Add some products to your inventory to get started.
+            Add some subjects to your inventory to get started.
           </p>
         </CardContent>
       </Card>
@@ -244,7 +244,7 @@ export default function ProductDataQualityTab() {
     {
       icon: FileText,
       title: "Weak Description",
-      description: "Good descriptions improve SEO and help customers make buying decisions.",
+      description: "Good descriptions improve SEO and help students make buying decisions.",
       count: analysis.productsWithoutDescription.length,
       items: analysis.productsWithoutDescription,
     },
@@ -272,7 +272,7 @@ export default function ProductDataQualityTab() {
         <CardHeader>
           <CardTitle>Inventory Data Health</CardTitle>
           <CardDescription>
-            Automated analysis of your {analysis.totalProducts} products to identify
+            Automated analysis of your {analysis.totalProducts} subjects to identify
             potential data quality issues that could affect sales.
           </CardDescription>
         </CardHeader>
@@ -313,7 +313,7 @@ export default function ProductDataQualityTab() {
                 Excellent Data Quality!
               </AlertTitle>
               <AlertDescription>
-                All your products have prices, images, descriptions, categories, and SKUs. Great job!
+                All your subjects have prices, images, descriptions, categories, and SKUs. Great job!
               </AlertDescription>
             </Alert>
           )}

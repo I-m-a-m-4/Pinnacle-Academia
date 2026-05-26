@@ -8,23 +8,23 @@ import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/
 import { BarChart, XAxis, YAxis, Bar, CartesianGrid, ResponsiveContainer } from "recharts";
 import type { ChartConfig } from "@/components/ui/chart";
 import { TrendingUp, Bot } from "lucide-react";
-import type { Receipt } from '@/types';
+import type { Admission } from '@/types';
 import { safeToDate } from '@/lib/utils';
 
 const chartConfig = {
-  totalSales: {
+  totalSessions: {
     label: "Exams Completed",
     color: "#ea580c", // Zeneva Orange
   },
 } satisfies ChartConfig;
 
 interface OverviewChartProps {
-  receipts: Receipt[];
+  admissions: Admission[];
   currencySymbol: string;
-  data?: { month: string, totalSales: number }[];
+  data?: { month: string, totalSessions: number }[];
 }
 
-export default function OverviewChart({ receipts, currencySymbol, data }: OverviewChartProps) {
+export default function OverviewChart({ admissions, currencySymbol, data }: OverviewChartProps) {
   const chartData = React.useMemo(() => {
     if (data) return data;
     
@@ -32,7 +32,7 @@ export default function OverviewChart({ receipts, currencySymbol, data }: Overvi
     const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
     const currentYear = new Date().getFullYear();
 
-    (receipts || []).forEach(receipt => {
+    (admissions || []).forEach(receipt => {
       if (!receipt) return;
       const date = safeToDate(receipt.createdAt);
       if (isNaN(date.getTime())) return;
@@ -46,11 +46,11 @@ export default function OverviewChart({ receipts, currencySymbol, data }: Overvi
 
     return monthNames.map(month => ({
       month,
-      totalSales: monthlySales[month] || 0,
+      totalSessions: monthlySales[month] || 0,
     }));
-  }, [receipts, data]);
+  }, [admissions, data]);
 
-  const noData = chartData.every(d => d.totalSales === 0);
+  const noData = chartData.every(d => d.totalSessions === 0);
 
   return (
     <Card className="shadow-md transition-all duration-300">
@@ -63,10 +63,7 @@ export default function OverviewChart({ receipts, currencySymbol, data }: Overvi
         {noData ? (
           <div className="h-[300px] flex flex-col items-center justify-center text-center text-muted-foreground p-4">
             <TrendingUp className="h-16 w-16 opacity-50 mb-4" />
-            <div className="text-sm p-2 rounded-md bg-muted/50 max-w-sm">
-              <p className="font-semibold flex items-center gap-2 justify-center"><Bot className="h-4 w-4 text-primary" /> AI Analyst</p>
-              <p>This chart will track your exam activity over time once you start your first simulated exam.</p>
-            </div>
+            <p className="text-sm max-w-sm">This chart will track your practice exam attempts and coverage trends over time once you start your first simulated exam.</p>
           </div>
         ) : (
           <div className="overflow-x-auto pb-4">
@@ -103,7 +100,7 @@ export default function OverviewChart({ receipts, currencySymbol, data }: Overvi
                       cursor={false}
                       content={<ChartTooltipContent indicator="dot" formatter={(value) => `${Number(value).toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 0 })}`} />}
                     />
-                    <Bar dataKey="totalSales" fill="#ea580c" radius={4} />
+                    <Bar dataKey="totalSessions" fill="#ea580c" radius={4} />
                   </BarChart>
                 </ResponsiveContainer>
               </ChartContainer>

@@ -19,12 +19,12 @@ import {
 } from 'firebase/firestore';
 import type { User } from 'firebase/auth';
 import { add } from 'date-fns';
-import type { UserProfile, UserRole, BusinessInstance } from '@/types';
+import type { StudentProfile, UserRole, Academy } from '@/types';
 
 
 /**
  * Creates a user profile document in Firestore, ensuring atomicity for signup.
- * This is the single source of truth for creating a new user and their associated business.
+ * This is the single source of truth for creating a new user and their associated academy.
  * It's designed to be called only once upon successful user creation in Firebase Auth.
  */
 export const createUserProfileDocument = async (
@@ -39,7 +39,7 @@ export const createUserProfileDocument = async (
   try {
     const batch = writeBatch(firestore);
       
-    let businessId: string;
+    let academyId: string;
     let userRole: UserRole;
     let surveyCompleted = true; // Default for invited users
 
@@ -57,7 +57,7 @@ export const createUserProfileDocument = async (
         throw new Error("This invitation is for a different email address.");
       }
 
-      businessId = invitationData.businessId;
+      academyId = invitationData.academyId;
       userRole = invitationData.role;
       batch.delete(invDocRef);
     } else {
@@ -68,11 +68,11 @@ export const createUserProfileDocument = async (
       }
 
       const businessDocRef = doc(collection(firestore, 'businessInstances'));
-      businessId = businessDocRef.id;
+      academyId = businessDocRef.id;
       userRole = 'admin';
       surveyCompleted = false;
       const trialEndDate = add(new Date(), { days: 30 });
-      const newBusiness: Omit<BusinessInstance, 'id'> = {
+      const newBusiness: Omit<Academy, 'id'> = {
         name: displayName,
         createdAt: serverTimestamp(),
         ownerId: user.uid,
@@ -84,12 +84,12 @@ export const createUserProfileDocument = async (
       batch.set(businessDocRef, newBusiness);
     }
 
-    const userProfile: Omit<UserProfile, 'id'> = {
+    const userProfile: Omit<StudentProfile, 'id'> = {
       email: user.email!,
       name: displayName,
       phone: phone || '',
       createdAt: serverTimestamp(),
-      businessId: businessId,
+      academyId: academyId,
       role: userRole,
       surveyCompleted: surveyCompleted,
       status: 'active',

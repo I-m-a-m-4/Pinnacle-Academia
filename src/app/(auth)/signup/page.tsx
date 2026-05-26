@@ -12,7 +12,7 @@ import { Form, FormField, FormItem, FormLabel, FormControl, FormMessage } from '
 import { useAuth, useFirestore } from '@/firebase';
 import { createUserWithEmailAndPassword, updateProfile } from 'firebase/auth';
 import { createUserProfileDocument, waitForUserProfile } from '@/firebase/users';
-import { usePOS } from '@/context/pos-context';
+import { useAcademy } from '@/context/academy-context';
 import Link from 'next/link';
 import { Eye, EyeOff, Loader, ChevronLeft, Building, UserCheck } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
@@ -64,7 +64,7 @@ export default function SignupPage() {
   const auth = useAuth();
   const firestore = useFirestore();
   const searchParams = useSearchParams();
-  const { triggerRefresh } = usePOS();
+  const { triggerRefresh } = useAcademy();
   const [isLoading, setIsLoading] = useState(false);
   const [showPassword, setShowPassword] = useState(false);
   const { toast } = useToast();
@@ -95,7 +95,7 @@ export default function SignupPage() {
           const invSnap = await getDoc(invRef);
           if (invSnap.exists()) {
             const invData = invSnap.data();
-            const businessRef = doc(firestore, 'businessInstances', invData.businessId);
+            const businessRef = doc(firestore, 'businessInstances', invData.academyId);
             const businessSnap = await getDoc(businessRef);
             if (businessSnap.exists()) {
               setInvitationDetails({
@@ -104,7 +104,7 @@ export default function SignupPage() {
               });
               form.setValue('email', invData.email);
             } else {
-              throw new Error("Associated business not found.");
+              throw new Error("Associated academy not found.");
             }
           } else {
             toast({ variant: "destructive", title: "Invalid Invitation", description: "This invitation link is either invalid or has already been used." });

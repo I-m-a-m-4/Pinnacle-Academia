@@ -550,7 +550,7 @@ export default function Home() {
                         </div>
                     </section>
 
-                    <section id="business-types" className="py-24 px-6 bg-white border-t border-slate-100">
+                    <section id="academy-types" className="py-24 px-6 bg-white border-t border-slate-100">
                         <div className="max-w-7xl mx-auto">
                             <div className="text-center max-w-2xl mx-auto mb-16">
                                 <h2 className="text-4xl font-light text-slate-900 tracking-tight font-bricolage mb-4">

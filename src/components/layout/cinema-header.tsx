@@ -5,7 +5,7 @@ import { useUser } from '@/firebase';
 import Link from "next/link";
 import * as React from 'react';
 import { useState, useEffect } from 'react';
-import { Menu, X, LogOut, Download, Home, User, CreditCard, Newspaper, Mail } from 'lucide-react';
+import { Menu, X, LogOut, Download, Home, User, CreditCard, Newspaper, Mail, GraduationCap } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { getAuth, signOut } from 'firebase/auth';
 import { useToast } from '@/hooks/use-toast';
@@ -51,6 +51,7 @@ export default function CinemaHeader({ threshold = 50 }: { threshold?: number })
     { href: "/download", label: "Download", icon: Download },
     { href: "/about/our-mission", label: "Our Mission", icon: User },
     { href: "/pricing", label: "Pricing", icon: CreditCard },
+    { href: "/scholarships", label: "Scholarships", icon: GraduationCap },
     { href: "/blog", label: "Blog", icon: Newspaper },
     { href: "/contact", label: "Contact", icon: Mail },
   ];

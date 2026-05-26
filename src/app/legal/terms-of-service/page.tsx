@@ -12,7 +12,7 @@ export default function TermsOfServicePage() {
 
       <h2>2. Description of Service</h2>
       <p>
-        Zeneva provides a comprehensive business management platform that includes inventory management, a Point of Sale (POS) system, customer relationship management (CRM), sales analytics, and an optional public-facing e-commerce storefront.
+        Zeneva provides a comprehensive academy management platform that includes inventory management, a Point of Sale (POS) system, customer relationship management (CRM), sales analytics, and an optional public-facing e-commerce storefront.
       </p>
 
       <h2>3. User Accounts</h2>

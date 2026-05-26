@@ -14,7 +14,7 @@ export async function sendNotificationToUser(userId: string, payload: { title: s
             return;
         }
 
-        const tokens = tokensSnapshot.docs.map(doc => doc.data().token);
+        const tokens = tokensSnapshot.docs.map((doc: any) => doc.data().token);
 
         // 2. Send multicast message
         const message = {
@@ -36,7 +36,7 @@ export async function sendNotificationToUser(userId: string, payload: { title: s
         // 3. Cleanup invalid tokens
         if (response.failureCount > 0) {
             const failedTokens: string[] = [];
-            response.responses.forEach((resp, idx) => {
+            response.responses.forEach((resp: any, idx: number) => {
                 if (!resp.success) {
                     failedTokens.push(tokens[idx]);
                 }

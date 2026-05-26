@@ -149,34 +149,34 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
     const [isDestructionModalOpen, setIsDestructionModalOpen] = useState(false);
     const [destructionEmail, setDestructionEmail] = useState('');
     const [destructionId, setDestructionId] = useState('');
-    const [targetStats, setTargetStats] = useState<{ products: number; customers: number; sizeKB: number } | null>(null);
+    const [targetStats, setTargetStats] = useState<{ subjects: number; students: number; sizeKB: number } | null>(null);
     const [isLoadingStats, setIsLoadingStats] = useState(false);
 
-    const fetchTargetStats = async (businessId: string) => {
+    const fetchTargetStats = async (academyId: string) => {
         if (!firestore) return;
         setIsLoadingStats(true);
         setTargetStats(null);
         try {
-            const collections = ['products', 'customers', 'receipts', 'purchases', 'expenses', 'inventory_logs'];
+            const collections = ['subjects', 'students', 'admissions', 'purchases', 'expenses', 'inventory_logs'];
             let totalDocs = 0;
             let productCount = 0;
             let customerCount = 0;
 
             for (const collName of collections) {
-                const q = query(collection(firestore, collName), where("businessId", "==", businessId));
+                const q = query(collection(firestore, collName), where("academyId", "==", academyId));
                 const snapshot = await getCountFromServer(q);
                 const count = snapshot.data().count;
                 totalDocs += count;
-                if (collName === 'products') productCount = count;
-                if (collName === 'customers') customerCount = count;
+                if (collName === 'subjects') productCount = count;
+                if (collName === 'students') customerCount = count;
             }
 
             // Rough estimate: 0.8KB per document
             const sizeKB = Math.max(1, Math.round(totalDocs * 0.8));
             
             setTargetStats({
-                products: productCount,
-                customers: customerCount,
+                subjects: productCount,
+                students: customerCount,
                 sizeKB
             });
         } catch (err) {
@@ -247,7 +247,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
         const lookupId = directLookupId.trim();
         if (!lookupId || !allBusinesses) return;
         
-        // 1. Try to find by business fields directly (ID, Email, Settings Email)
+        // 1. Try to find by academy fields directly (ID, Email, Settings Email)
         let target = allBusinesses.find(b => 
             b.id === lookupId || 
             (b.email || '').toLowerCase() === lookupId.toLowerCase() ||
@@ -257,8 +257,8 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
         // 2. Fallback: Find by Owner Email (searching across users)
         if (!target && allUsers) {
             const ownerMatch = allUsers.find(u => (u.email || '').toLowerCase() === lookupId.toLowerCase());
-            if (ownerMatch && ownerMatch.businessId) {
-                target = allBusinesses.find(b => b.id === ownerMatch.businessId);
+            if (ownerMatch && ownerMatch.academyId) {
+                target = allBusinesses.find(b => b.id === ownerMatch.academyId);
             }
         }
 
@@ -361,7 +361,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
         setDestructionStatus('Locating entity in grid...');
 
         try {
-            // 1. Target the business instance directly
+            // 1. Target the academy instance directly
             const businessRef = doc(firestore, 'businessInstances', destructionId);
             const businessSnap = await getDoc(businessRef);
 
@@ -369,7 +369,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                 throw new Error("Entity not found in current grid. Node ID may be invalid.");
             }
 
-            const businessId = businessSnap.id;
+            const academyId = businessSnap.id;
             const businessData = businessSnap.data();
 
             setDestructionProgress(15);
@@ -377,9 +377,9 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
 
             // Collections to purge
             const collectionsToPurge = [
-                'products',
-                'receipts',
-                'customers',
+                'subjects',
+                'admissions',
+                'students',
                 'purchases',
                 'expenses',
                 'suppliers',
@@ -388,13 +388,13 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
             ];
 
             let completedSteps = 0;
-            const totalSteps = collectionsToPurge.length + 4; // + users + sub-business + audit + final
+            const totalSteps = collectionsToPurge.length + 4; // + users + sub-academy + audit + final
 
             // 1. Purge standard top-level collections
             for (const collName of collectionsToPurge) {
                 setDestructionStatus(`Purging ${collName} nodes...`);
                 const collRef = collection(firestore, collName);
-                const q = query(collRef, where("businessId", "==", businessId));
+                const q = query(collRef, where("academyId", "==", academyId));
                 const snap = await getDocs(q);
 
                 if (!snap.empty) {
@@ -415,7 +415,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
             // 2. Purge Users and their subcollections
             setDestructionStatus('Purging user identities and sub-nodes...');
             const usersRef = collection(firestore, 'users');
-            const usersQuery = query(usersRef, where("businessId", "==", businessId));
+            const usersQuery = query(usersRef, where("academyId", "==", academyId));
             const usersSnap = await getDocs(usersQuery);
 
             if (!usersSnap.empty) {
@@ -445,10 +445,10 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
             setDestructionProgress(15 + (completedSteps / totalSteps) * 80);
 
             // 3. Purge Business Subcollections (Stats, OnlineOrders, AuditLogs)
-            setDestructionStatus('Sanitizing business sub-architectures...');
-            const subCollections = ['stats', 'onlineOrders', 'auditLogs', 'expenses', 'suppliers'];
+            setDestructionStatus('Sanitizing academy sub-architectures...');
+            const subCollections = ['stats', 'mentorshipBookings', 'activityLogs', 'expenses', 'suppliers'];
             for (const sub of subCollections) {
-                const subRef = collection(firestore, 'businessInstances', businessId, sub);
+                const subRef = collection(firestore, 'businessInstances', academyId, sub);
                 const subSnap = await getDocs(subRef);
                 if (!subSnap.empty) {
                     const chunks = [];
@@ -465,20 +465,20 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
             completedSteps++;
             setDestructionProgress(15 + (completedSteps / totalSteps) * 80);
 
-            // Finally, delete the business document
+            // Finally, delete the academy document
             setDestructionStatus('Finalizing sanitization...');
-            await deleteDoc(doc(firestore, 'businessInstances', businessId));
+            await deleteDoc(doc(firestore, 'businessInstances', academyId));
             
             setDestructionProgress(95);
             setDestructionStatus('Recording termination in permanent logs...');
             try {
                 await addDoc(collection(firestore, 'terminationLogs'), {
-                    businessId: businessId,
+                    academyId: academyId,
                     name: businessData.name || 'Unnamed',
                     email: businessData.email || destructionEmail || "N/A",
                     terminatedAt: serverTimestamp(),
                     terminatedBy: authUser?.email,
-                    stats: targetStats || { products: 0, customers: 0, sizeKB: 0 }
+                    stats: targetStats || { subjects: 0, students: 0, sizeKB: 0 }
                 });
             } catch (logErr) {
                 console.error("Failed to write termination log:", logErr);
@@ -489,7 +489,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
 
             toast({ 
                 title: "Destruction Complete", 
-                description: "Business and all associated nodes have been scrubbed from the grid.",
+                description: "Academy and all associated nodes have been scrubbed from the grid.",
                 className: "bg-black text-emerald-500 border-emerald-500/50 font-mono"
             });
 
@@ -626,7 +626,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                                 <span className="text-[10px] font-bold text-muted-foreground">Active Network Status</span>
                             </div>
                             <p className="text-[11px] font-black text-primary/80 uppercase">
-                                zeneva.space - Certified Result
+                                pinnacle-academia.com - Certified Result
                             </p>
                         </div>
                         <div className="h-28 overflow-hidden relative">
@@ -658,7 +658,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                     </div>
                     <div className="flex-1 flex gap-2 w-full">
                         <Input 
-                            placeholder="Enter Business ID or Owner Email (e.g. bim.ex4@gmail.com)..." 
+                            placeholder="Enter Academy ID or Owner Email (e.g. bim.ex4@gmail.com)..." 
                             value={directLookupId}
                             onChange={(e) => setDirectLookupId(e.target.value)}
                             onKeyDown={(e) => e.key === 'Enter' && handleDirectLookup()}
@@ -690,7 +690,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                         <div className="space-y-1">
                             <CardTitle className="text-sm flex items-center gap-2 font-bold tracking-tighter text-primary">
                                 <Server className="h-4 w-4 animate-pulse" />
-                                Business Intelligence Unit
+                                Academy Intelligence Unit
                             </CardTitle>
                             <CardDescription className="text-xs font-medium text-muted-foreground opacity-70">
                             Entity Management & Security Verification
@@ -739,19 +739,19 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                                         </TableCell>
                                     </TableRow>
                                 ) : (
-                                    filteredBusinesses.map((business) => (
-                                        <TableRow key={business.id} className="hover:bg-muted/5 border-border/50 group transition-colors">
+                                    filteredBusinesses.map((academy) => (
+                                        <TableRow key={academy.id} className="hover:bg-muted/5 border-border/50 group transition-colors">
                                             <TableCell className="font-bold text-[11px] tracking-tight text-foreground/80 py-4">
-                                                {business.name || 'Unnamed Entity'}
+                                                {academy.name || 'Unnamed Entity'}
                                             </TableCell>
                                             <TableCell className="text-[11px] font-medium text-muted-foreground">
-                                                {business.email || 'N/A'}
+                                                {academy.email || 'N/A'}
                                             </TableCell>
                                             <TableCell className="text-[11px] font-medium text-muted-foreground/60">
-                                                {business.settings?.phone || 'N/A'}
+                                                {academy.settings?.phone || 'N/A'}
                                             </TableCell>
                                             <TableCell className="font-mono text-[9px] text-muted-foreground/40">
-                                                {business.id}
+                                                {academy.id}
                                             </TableCell>
                                             <TableCell className="text-right px-6">
                                                 <Button 
@@ -759,10 +759,10 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                                                     size="sm" 
                                                     className="h-8 text-[9px] font-bold text-rose-600 hover:text-white hover:bg-rose-600 border border-rose-600/20 hover:border-rose-600 transition-all rounded-md"
                                                     onClick={() => {
-                                                        setDestructionEmail(business.email || "");
-                                                        setDestructionId(business.id);
+                                                        setDestructionEmail(academy.email || "");
+                                                        setDestructionId(academy.id);
                                                         setIsDestructionModalOpen(true);
-                                                        fetchTargetStats(business.id);
+                                                        fetchTargetStats(academy.id);
                                                     }}
                                                 >
                                                     <Trash2 className="h-3 w-3 mr-2" />
@@ -830,7 +830,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                                                 {log.terminatedAt?.toDate ? format(log.terminatedAt.toDate(), 'MMM dd, HH:mm') : 'Pending...'}
                                             </TableCell>
                                             <TableCell className="text-[10px] font-bold text-rose-600/50">
-                                                {log.stats?.products}P / {log.stats?.customers}C
+                                                {log.stats?.subjects}P / {log.stats?.students}C
                                             </TableCell>
                                             <TableCell className="text-right">
                                                 <Button 
@@ -860,20 +860,20 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                             Confirm Entity Termination
                         </DialogTitle>
                         <DialogDescription className="text-xs font-bold text-muted-foreground mt-2 border-b pb-4">
-                            You are about to permanently delete a business and all its data.
+                            You are about to permanently delete an academy and all its data.
                         </DialogDescription>
                         
                         {targetStats && (
                             <div className="grid grid-cols-3 gap-2 mt-4">
                                 <div className="bg-rose-50/50 border border-rose-100 rounded p-2 text-center">
                                     <Package className="h-3 w-3 text-rose-500 mx-auto mb-1" />
-                                    <p className="text-[9px] font-bold text-rose-900">{targetStats.products}</p>
-                                    <p className="text-[8px] text-rose-600 uppercase font-bold">Products</p>
+                                    <p className="text-[9px] font-bold text-rose-900">{targetStats.subjects}</p>
+                                    <p className="text-[8px] text-rose-600 uppercase font-bold">Subjects</p>
                                 </div>
                                 <div className="bg-rose-50/50 border border-rose-100 rounded p-2 text-center">
                                     <Users className="h-3 w-3 text-rose-500 mx-auto mb-1" />
-                                    <p className="text-[9px] font-bold text-rose-900">{targetStats.customers}</p>
-                                    <p className="text-[8px] text-rose-600 uppercase font-bold">Customers</p>
+                                    <p className="text-[9px] font-bold text-rose-900">{targetStats.students}</p>
+                                    <p className="text-[8px] text-rose-600 uppercase font-bold">Students</p>
                                 </div>
                                 <div className="bg-rose-50/50 border border-rose-100 rounded p-2 text-center">
                                     <Database className="h-3 w-3 text-rose-500 mx-auto mb-1" />
@@ -916,7 +916,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                                 <div className="space-y-1">
                                     <p className="text-xs font-bold text-rose-700 tracking-tight">Destructive Action Warning</p>
                                     <p className="text-[11px] text-rose-600 leading-relaxed font-medium">
-                                        This will purge the business record and ALL related data across the platform. All session tokens will be invalidated immediately.
+                                        This will purge the academy record and ALL related data across the platform. All session tokens will be invalidated immediately.
                                     </p>
                                 </div>
                             </div>

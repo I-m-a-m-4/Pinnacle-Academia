@@ -8,7 +8,7 @@ import PageTitle from '@/components/shared/page-title';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Award, DollarSign, PartyPopper, PlusCircle, Target, Users, Download } from 'lucide-react';
 import html2canvas from 'html2canvas';
-import { usePOS } from '@/context/pos-context';
+import { useAcademy } from '@/context/academy-context';
 import { Progress } from '@/components/ui/progress';
 import { Button } from '@/components/ui/button';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from '@/components/ui/dialog';
@@ -42,7 +42,7 @@ const CUSTOMER_MILESTONES = [
     { value: 500, label: '500 Customers', image: '/badges/community-cultivator.png' },
 ];
 
-type GoalMetric = 'totalSales' | 'customerCount';
+type GoalMetric = 'totalSessions' | 'customerCount';
 interface Goal {
     id: number;
     title: string;
@@ -51,12 +51,12 @@ interface Goal {
 }
 
 function GoalSetting() {
-    const { receipts, customers } = usePOS();
+    const { admissions, students } = useAcademy();
     const [goals, setGoals] = React.useState<Goal[]>(() => {
         return secureStorage.getItem<Goal[]>('userGoals') || [];
     });
     const [isDialogOpen, setIsDialogOpen] = React.useState(false);
-    const [newGoal, setNewGoal] = React.useState({ title: '', target: '', metric: 'totalSales' as GoalMetric });
+    const [newGoal, setNewGoal] = React.useState({ title: '', target: '', metric: 'totalSessions' as GoalMetric });
     const { toast } = useToast();
 
     React.useEffect(() => {
@@ -71,7 +71,7 @@ function GoalSetting() {
         const newId = goals.length > 0 ? Math.max(...goals.map(g => g.id)) + 1 : 1;
         setGoals([...goals, { ...newGoal, id: newId, target: Number(newGoal.target) }]);
         setIsDialogOpen(false);
-        setNewGoal({ title: '', target: '', metric: 'totalSales' });
+        setNewGoal({ title: '', target: '', metric: 'totalSessions' });
         toast({ variant: 'success', title: 'Goal Set!', description: 'Your new goal has been added.' });
     };
 
@@ -81,12 +81,12 @@ function GoalSetting() {
     }
 
     const calculateProgress = (goal: Goal) => {
-        if (goal.metric === 'totalSales') {
-            const totalSales = receipts?.reduce((sum, r) => sum + r.total, 0) || 0;
-            return (totalSales / goal.target) * 100;
+        if (goal.metric === 'totalSessions') {
+            const totalSessions = admissions?.reduce((sum, r) => sum + r.total, 0) || 0;
+            return (totalSessions / goal.target) * 100;
         }
         if (goal.metric === 'customerCount') {
-            const totalCustomers = customers?.length || 0;
+            const totalCustomers = students?.length || 0;
             return (totalCustomers / goal.target) * 100;
         }
         return 0;
@@ -102,7 +102,7 @@ function GoalSetting() {
                     </div>
                     <Button size="sm" onClick={() => setIsDialogOpen(true)}><PlusCircle className="mr-2 h-4 w-4" /> Set New Goal</Button>
                 </CardTitle>
-                <CardDescription>Set custom targets for your business and track your progress. Goals are saved on this device.</CardDescription>
+                <CardDescription>Set custom targets for your academy and track your progress. Goals are saved on this device.</CardDescription>
             </CardHeader>
             <CardContent className="space-y-6">
                 {goals.length > 0 ? (
@@ -118,7 +118,7 @@ function GoalSetting() {
                                 <Progress value={progress} />
                                 <div className="flex justify-between text-xs text-muted-foreground mt-2">
                                     <span>Progress: {progress.toFixed(1)}%</span>
-                                    <span>Target: {goal.metric === 'totalSales' ? `₦${goal.target.toLocaleString()}` : goal.target.toLocaleString()}</span>
+                                    <span>Target: {goal.metric === 'totalSessions' ? `₦${goal.target.toLocaleString()}` : goal.target.toLocaleString()}</span>
                                 </div>
                                 {isAchieved && (
                                     <div className="text-green-600 font-semibold text-sm mt-2 flex items-center gap-2">
@@ -139,7 +139,7 @@ function GoalSetting() {
                 <DialogContent>
                     <DialogHeader>
                         <DialogTitle>Set a New Goal</DialogTitle>
-                        <DialogDescription>Define a new target for your business to work towards.</DialogDescription>
+                        <DialogDescription>Define a new target for your academy to work towards.</DialogDescription>
                     </DialogHeader>
                     <div className="space-y-4 py-4">
                         <div>
@@ -151,8 +151,8 @@ function GoalSetting() {
                             <Select value={newGoal.metric} onValueChange={(value: GoalMetric) => setNewGoal({ ...newGoal, metric: value })}>
                                 <SelectTrigger><SelectValue /></SelectTrigger>
                                 <SelectContent>
-                                    <SelectItem value="totalSales"><DollarSign className="inline-block mr-2 h-4 w-4" />Total Sales</SelectItem>
-                                    <SelectItem value="customerCount"><Users className="inline-block mr-2 h-4 w-4" />Customer Count</SelectItem>
+                                    <SelectItem value="totalSessions"><DollarSign className="inline-block mr-2 h-4 w-4" />Total Sales</SelectItem>
+                                    <SelectItem value="customerCount"><Users className="inline-block mr-2 h-4 w-4" />Student Count</SelectItem>
                                 </SelectContent>
                             </Select>
                         </div>
@@ -173,7 +173,7 @@ function GoalSetting() {
 
 export default function AchievementsPage() {
     const { toast } = useToast();
-    const { receipts, products, customers, triggerConfetti, business } = usePOS();
+    const { admissions, subjects, students, triggerConfetti, academy } = useAcademy();
     const [seenMilestones, setSeenMilestones] = React.useState<Set<string>>(new Set());
     const [selectedMilestone, setSelectedMilestone] = React.useState<{ label: string; date: Date; description: string; imageUrl: string; details?: string } | null>(null);
     const cardRef = React.useRef<HTMLDivElement>(null);
@@ -215,8 +215,8 @@ export default function AchievementsPage() {
         const achieved: { id: string; label: string; date: Date; description: string; imageUrl: string; details: string }[] = [];
         const currentYear = new Date().getFullYear();
 
-        if (receipts) {
-            const sortedReceipts = [...receipts].sort((a, b) => a.createdAt.toDate().getTime() - b.createdAt.toDate().getTime());
+        if (admissions) {
+            const sortedReceipts = [...admissions].sort((a, b) => a.createdAt.toDate().getTime() - b.createdAt.toDate().getTime());
 
             let yearTotal = 0;
             for (const receipt of sortedReceipts) {
@@ -239,9 +239,9 @@ export default function AchievementsPage() {
             }
         }
 
-        if (products) {
+        if (subjects) {
             for (const milestone of PRODUCT_MILESTONES) {
-                if (products.length >= milestone.value && !achieved.some(a => a.label.includes(milestone.label))) {
+                if (subjects.length >= milestone.value && !achieved.some(a => a.label.includes(milestone.label))) {
                     // Offset date slightly so higher milestones appear "newer" (top of list)
                     // or "older" (bottom) depending on sort.
                     // We want: 500 (Newest/Top), 100 (Oldest/Bottom).
@@ -252,30 +252,30 @@ export default function AchievementsPage() {
                     date.setMilliseconds(date.getMilliseconds() + (milestone.value / 10)); // Higher value = later time
 
                     achieved.push({
-                        id: `products-${milestone.value}`,
+                        id: `subjects-${milestone.value}`,
                         label: `Reached ${milestone.label}`,
                         date: date,
                         description: "Your catalog is growing fast. Great job!",
                         imageUrl: milestone.image,
-                        details: `Catalog Size: ${products.length} Products`
+                        details: `Catalog Size: ${subjects.length} Products`
                     });
                 }
             }
         }
 
-        if (customers) {
+        if (students) {
             for (const milestone of CUSTOMER_MILESTONES) {
-                if (customers.length >= milestone.value && !achieved.some(a => a.label.includes(milestone.label))) {
+                if (students.length >= milestone.value && !achieved.some(a => a.label.includes(milestone.label))) {
                     const date = new Date();
                     date.setMilliseconds(date.getMilliseconds() + (milestone.value / 10));
 
                     achieved.push({
-                        id: `customers-${milestone.value}`,
+                        id: `students-${milestone.value}`,
                         label: `Joined by ${milestone.label}`,
                         date: date,
                         description: "Your community is expanding. Fantastic work!",
                         imageUrl: milestone.image,
-                        details: `Community Size: ${customers.length} Customers`
+                        details: `Community Size: ${students.length} Customers`
                     });
                 }
             }
@@ -283,7 +283,7 @@ export default function AchievementsPage() {
 
         return achieved.sort((a, b) => b.date.getTime() - a.date.getTime());
 
-    }, [receipts, products, customers]);
+    }, [admissions, subjects, students]);
 
     React.useEffect(() => {
         if (milestones.length > 0 && triggerConfetti) {
@@ -306,7 +306,7 @@ export default function AchievementsPage() {
 
     return (
         <div className="space-y-6">
-            <PageTitle title="Achievements & Goals" subtitle="Celebrate your milestones and set new targets for your business." />
+            <PageTitle title="Achievements & Goals" subtitle="Celebrate your milestones and set new targets for your academy." />
 
             <Card>
                 <CardHeader>
@@ -369,7 +369,7 @@ export default function AchievementsPage() {
                     ) : (
                         <div className="text-center text-muted-foreground p-12 border-2 border-dashed rounded-lg">
                             <p>Your milestones will appear here as you grow!</p>
-                            <p className="text-sm">Keep adding products and making sales.</p>
+                            <p className="text-sm">Keep adding subjects and making sales.</p>
                         </div>
                     )}
                 </CardContent>
@@ -398,7 +398,7 @@ export default function AchievementsPage() {
                         {/* Business Name Badge */}
                         <div className="relative z-10 mb-4 px-3 py-1 bg-primary/10 backdrop-blur-md border border-primary/20 rounded-full">
                             <p className="text-xs font-bold text-primary tracking-wide uppercase">
-                                {business?.name || 'My Store'}
+                                {academy?.name || 'My Store'}
                             </p>
                         </div>
 

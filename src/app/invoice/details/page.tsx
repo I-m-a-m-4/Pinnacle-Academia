@@ -1,5 +1,5 @@
 'use client';
-import ReceiptDetails from "@/components/receipts/receipt-details";
+import ReceiptDetails from "@/components/admissions/receipt-details";
 import { Button } from "@/components/ui/button";
 import { useToast } from "@/hooks/use-toast";
 import { Download, Printer, Share2, Loader2, PlusCircle, CheckCircle, ArrowLeft } from "lucide-react";
@@ -9,8 +9,8 @@ import { useRef, Suspense } from "react";
 // Dynamic imports for browser-only libraries handled in the function to avoid SSR initialization errors
 import { useDoc, useFirestore, useMemoFirebase } from "@/firebase";
 import { doc, updateDoc } from "firebase/firestore";
-import type { Receipt, BusinessInstance } from "@/types";
-import { usePOS } from "@/context/pos-context";
+import type { Admission, Academy } from "@/types";
+import { useAcademy } from "@/context/academy-context";
 import { CURRENCY_SYMBOLS } from "@/lib/constants";
 import Link from 'next/link';
 
@@ -19,24 +19,24 @@ function InvoiceContent() {
     const searchParams = useSearchParams();
     const invoiceId = searchParams.get('id');
     const router = useRouter();
-    const { business: posBusiness, user, receipts } = usePOS();
+    const { academy: posBusiness, user, admissions } = useAcademy();
 
     const firestore = useFirestore();
-    const invoiceRef = useMemoFirebase(() => (firestore && invoiceId ? doc(firestore, 'receipts', invoiceId) : null), [firestore, invoiceId]);
-    const { data: firestoreInvoice, isLoading: isInvoiceLoading } = useDoc<Receipt>(invoiceRef);
+    const invoiceRef = useMemoFirebase(() => (firestore && invoiceId ? doc(firestore, 'admissions', invoiceId) : null), [firestore, invoiceId]);
+    const { data: firestoreInvoice, isLoading: isInvoiceLoading } = useDoc<Admission>(invoiceRef);
 
     const invoice = React.useMemo(() => {
         if (firestoreInvoice) return firestoreInvoice;
         if (!invoiceId) return null;
-        return receipts?.find(r => r.id === invoiceId) || null;
-    }, [firestoreInvoice, invoiceId, receipts]);
+        return admissions?.find(r => r.id === invoiceId) || null;
+    }, [firestoreInvoice, invoiceId, admissions]);
 
-    // Fetch business info directly from Firestore if not provided by global POS context (e.g. public link)
-    const businessRef = useMemoFirebase(() => (firestore && invoice?.businessId ? doc(firestore, 'businessInstances', invoice.businessId) : null), [firestore, invoice?.businessId]);
-    const { data: dbBusiness, isLoading: isBusinessLoading } = useDoc<BusinessInstance>(businessRef);
+    // Fetch academy info directly from Firestore if not provided by global POS context (e.g. public link)
+    const businessRef = useMemoFirebase(() => (firestore && invoice?.academyId ? doc(firestore, 'businessInstances', invoice.academyId) : null), [firestore, invoice?.academyId]);
+    const { data: dbBusiness, isLoading: isBusinessLoading } = useDoc<Academy>(businessRef);
 
-    const business = posBusiness || dbBusiness;
-    const currencySymbol = business?.settings?.currency ? CURRENCY_SYMBOLS[business.settings.currency] : '₦';
+    const academy = posBusiness || dbBusiness;
+    const currencySymbol = academy?.settings?.currency ? CURRENCY_SYMBOLS[academy.settings.currency] : '₦';
 
     const receiptContentRef = useRef<HTMLDivElement>(null);
     const [mounted, setMounted] = React.useState(false);
@@ -45,7 +45,7 @@ function InvoiceContent() {
         setMounted(true);
     }, []);
 
-    const isLoading = isInvoiceLoading || (invoice && !business && isBusinessLoading);
+    const isLoading = isInvoiceLoading || (invoice && !academy && isBusinessLoading);
 
     if (!mounted || (isLoading && !invoice) || !firestore) {
         return <div className="flex justify-center items-center h-64"><Loader2 className="h-8 w-8 animate-spin text-primary" /> <span className="ml-2">Loading Invoice...</span></div>;
@@ -55,9 +55,9 @@ function InvoiceContent() {
         notFound();
     }
 
-    // If this record is NOT an invoice, redirect to receipts
+    // If this record is NOT an invoice, redirect to admissions
     if (invoice.paymentMethod !== 'Invoice') {
-        router.replace(`/receipts/details?id=${invoice.id}`);
+        router.replace(`/admissions/details?id=${invoice.id}`);
         return null;
     }
 
@@ -94,7 +94,7 @@ function InvoiceContent() {
     const handleMarkPaid = async () => {
         if (!firestore || !invoice) return;
         try {
-            await updateDoc(doc(firestore, 'receipts', invoice.id), {
+            await updateDoc(doc(firestore, 'admissions', invoice.id), {
                 status: 'paid'
             });
             toast({ variant: 'success', title: 'Payment Recorded', description: 'The invoice has been marked as paid.' });
@@ -106,7 +106,7 @@ function InvoiceContent() {
     const handleShare = async () => {
         const shareData = {
             title: `Invoice ${invoice.id.substring(0, 8)}`,
-            text: `View your invoice from ${business?.name || 'Zeneva POS'}: ${currencySymbol}${invoice.total.toLocaleString()}`,
+            text: `View your invoice from ${academy?.name || 'Zeneva POS'}: ${currencySymbol}${invoice.total.toLocaleString()}`,
             url: window.location.href,
         };
 
@@ -135,7 +135,7 @@ function InvoiceContent() {
             )}
 
             <div ref={receiptContentRef} className="border rounded-lg bg-card overflow-hidden">
-                <ReceiptDetails receipt={invoice} business={business} currencySymbol={currencySymbol} isInvoice={true} />
+                <ReceiptDetails receipt={invoice} academy={academy} currencySymbol={currencySymbol} isInvoice={true} />
             </div>
 
             <div className="flex flex-wrap items-center justify-center gap-3 no-print">

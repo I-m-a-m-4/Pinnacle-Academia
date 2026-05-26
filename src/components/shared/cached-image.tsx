@@ -39,7 +39,7 @@ export function CachedImage({ src, className, alt, fallback, ...props }: CachedI
         }
       } catch (err) {
         if (isMounted) {
-          setDisplaySrc(src); // Fallback to raw URL
+          setDisplaySrc(src as string); // Fallback to raw URL
           setLoading(false);
         }
       }

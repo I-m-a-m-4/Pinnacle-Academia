@@ -6,13 +6,13 @@ export const CURRENCY_SYMBOLS: Record<string, string> = {
   'GBP': '£',
 };
 
-export const POS_CART_KEY = 'pinnacle_pos_cart';
-export const POS_CUSTOMER_KEY = 'pinnacle_pos_customer';
-export const POS_TAX_RATE_KEY = 'pinnacle_pos_tax_rate';
-export const POS_DISCOUNT_KEY = 'pinnacle_pos_discount';
-export const POS_PAYMENT_METHOD_KEY = 'pinnacle_pos_payment_method';
-export const POS_AUTO_PRINT_KEY = 'pinnacle_pos_auto_print';
+export const ACADEMY_CART_KEY = 'pinnacle_simulator_cart';
+export const ACADEMY_STUDENT_KEY = 'pinnacle_simulator_student';
+export const ACADEMY_TAX_RATE_KEY = 'pinnacle_simulator_tax_rate';
+export const ACADEMY_DISCOUNT_KEY = 'pinnacle_simulator_discount';
+export const ACADEMY_PAYMENT_METHOD_KEY = 'pinnacle_simulator_payment_method';
+export const ACADEMY_AUTO_PRINT_KEY = 'pinnacle_simulator_auto_print';
 export const QUEUED_ACTIONS_KEY = 'pinnacle_offline_queue';
 export const USER_PROFILE_KEY = 'pinnacle_user_profile';
 export const BUSINESS_INSTANCE_KEY = 'pinnacle_business_instance';
-export const POS_HELD_SALES_KEY = 'pinnacle_pos_held_sales';
+export const ACADEMY_SAVED_SESSIONS_KEY = 'pinnacle_saved_sessions';

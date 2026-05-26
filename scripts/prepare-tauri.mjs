@@ -8,7 +8,7 @@ const pathsToDelete = [
   'src/app/industries',
   'src/app/blog',
   'src/app/store',
-  'src/app/admin-imamshaffy',
+  'src/app/admin-sheun',
   'firestore.rules',
   'firestore.indexes.json',
   'firebase.json',

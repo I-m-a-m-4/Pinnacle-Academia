@@ -1,7 +1,7 @@
 
 import type { NextConfig } from 'next';
 
-const isTauri = process.env.TAURI_PLATFORM || process.env.IS_TAURI === 'true';
+const isTauri = !!(process.env.TAURI_PLATFORM || process.env.IS_TAURI === 'true');
 
 const nextConfig: NextConfig = {
   output: isTauri ? 'export' : undefined,
@@ -210,7 +210,6 @@ const withPWA = withPWAInit({
   dest: "public",
   disable: isTauri || process.env.NODE_ENV === "development",
   register: true,
-  skipWaiting: true,
   workboxOptions: {
     importScripts: [
       'https://cdn.jsdelivr.net/npm/regenerator-runtime@0.13.7/runtime.min.js',

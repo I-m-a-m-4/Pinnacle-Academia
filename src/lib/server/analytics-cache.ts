@@ -35,26 +35,26 @@ export async function getCachedPlatformAnalytics(forceRefresh = false) {
     const [usersSnap, businessSnap, receiptsSnap, productSnap] = await Promise.all([
       adminFirestore.collection('users').select('id').get(),
       adminFirestore.collection('businessInstances').get(),
-      adminFirestore.collection('receipts').limit(50000).get(),
-      adminFirestore.collection('products').limit(50000).get()
+      adminFirestore.collection('admissions').limit(50000).get(),
+      adminFirestore.collection('subjects').limit(50000).get()
     ]);
 
     const users = usersSnap.docs;
     const businesses = businessSnap.docs.map((d: any) => ({ id: d.id, ...d.data() }));
-    const receipts = receiptsSnap.docs.map((d: any) => ({ id: d.id, ...d.data() }));
-    const products = productSnap.docs.map((d: any) => ({ id: d.id, ...d.data() }));
+    const admissions = receiptsSnap.docs.map((d: any) => ({ id: d.id, ...d.data() }));
+    const subjects = productSnap.docs.map((d: any) => ({ id: d.id, ...d.data() }));
 
     // Basic stats
-    const totalGmv = receipts.reduce((sum: number, r: any) => sum + (r.total || 0), 0);
-    const totalReceipts = receipts.length;
+    const totalGmv = admissions.reduce((sum: number, r: any) => sum + (r.total || 0), 0);
+    const totalReceipts = admissions.length;
     
     // Platform stats
     const platformStatsDoc = await adminFirestore.collection('platform').doc('stats').get();
     const appInstalls = platformStatsDoc.exists ? platformStatsDoc.data()?.appInstalls || 0 : 0;
 
     const activatedBusinesses = businesses.filter((b: any) => {
-        const hasProducts = products.some((p: any) => p.businessId === b.id);
-        const hasReceipts = receipts.some((r: any) => r.businessId === b.id);
+        const hasProducts = subjects.some((p: any) => p.academyId === b.id);
+        const hasReceipts = admissions.some((r: any) => r.academyId === b.id);
         return hasProducts && hasReceipts;
     }).length;
 

@@ -7,16 +7,16 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Separator } from "@/components/ui/separator";
-import { usePOS } from "@/context/pos-context";
+import { useAcademy } from "@/context/academy-context";
 import Link from "next/link";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { Banknote, CreditCard, Landmark, Loader2, FileText } from "lucide-react";
-import { useBusiness } from '@/context/pos-context';
+import { useBusiness } from '@/context/academy-context';
 import { useRouter } from 'next/navigation';
 
 export default function PaymentPage() {
-    const { subtotal, tax, taxRate, discount, total, setTax, setDiscount, paymentMethod, setPaymentMethod, currencySymbol, autoPrint, setAutoPrint } = usePOS();
-    const business = useBusiness();
+    const { subtotal, tax, taxRate, discount, total, setTax, setDiscount, paymentMethod, setPaymentMethod, currencySymbol, autoPrint, setAutoPrint } = useAcademy();
+    const academy = useBusiness();
     const router = useRouter();
     const [isNavigating, setIsNavigating] = React.useState(false);
 

@@ -43,7 +43,7 @@ export function FeaturesFloatingSection() {
                 {/* Central Content */}
                 <div className="max-w-2xl relative z-20 mb-12 md:mb-0">
                     <h2 className="text-4xl md:text-5xl font-medium tracking-tight font-bricolage text-slate-900 mb-8 leading-tight">
-                        One app that has all the features your business needs to grow.
+                        One app that has all the features your academy needs to grow.
                     </h2>
                     {/* Updated to orange theme (primary) */}
                     <Button asChild size="lg" className="bg-primary hover:bg-orange-600 text-white px-8 h-12 text-base font-medium rounded-md shadow-lg shadow-orange-900/10">
@@ -73,7 +73,7 @@ export function FeaturesFloatingSection() {
 
                 {/* Bottom Center/Left */}
                 <FeatureIcon icon={ScanBarcode} label="Barcode Generator" className="bottom-8 right-[35%] hidden lg:flex" />
-                <FeatureIcon icon={UserCircle} label="Customer Records" className="bottom-12 left-[32%] hidden md:flex" />
+                <FeatureIcon icon={UserCircle} label="Student Records" className="bottom-12 left-[32%] hidden md:flex" />
 
                 {/* Left Side */}
                 <FeatureIcon icon={ClipboardList} label="Record Expenses" className="bottom-8 left-[5%] hidden md:flex" />

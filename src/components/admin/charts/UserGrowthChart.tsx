@@ -4,12 +4,12 @@ import * as React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { ResponsiveContainer, LineChart as ReLineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip as ReTooltip } from 'recharts';
 import { Users } from 'lucide-react';
-import { TimeframePicker, type Timeframe } from '@/components/reports/timeframe-picker';
+import { TimeframePicker, type Timeframe } from '@/components/performance-analytics/timeframe-picker';
 import { subDays, startOfDay, format, eachDayOfInterval } from 'date-fns';
-import type { UserProfile } from '@/types';
+import type { StudentProfile } from '@/types';
 
 interface UserGrowthChartProps {
-  users: UserProfile[];
+  users: StudentProfile[];
 }
 
 export default function UserGrowthChart({ users }: UserGrowthChartProps) {

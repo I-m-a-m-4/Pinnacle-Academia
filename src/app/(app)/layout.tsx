@@ -28,10 +28,10 @@ import { useFirestore, useMemoFirebase, useCollection } from '@/firebase';
 import { doc, updateDoc, query, collection, orderBy, writeBatch, serverTimestamp, getDoc, addDoc } from 'firebase/firestore';
 import { getAuth, signOut } from 'firebase/auth';
 import MobileBottomNav from '@/components/layout/mobile-bottom-nav';
-import type { UserNotification, BusinessInstance, AdminNotification, UserProfile } from '@/types';
+import type { UserNotification, Academy, AdminNotification, StudentProfile } from '@/types';
 import { formatDistanceToNow } from 'date-fns';
 import Calculator from '@/components/shared/calculator';
-import { usePOS } from '@/context/pos-context';
+import { useAcademy } from '@/context/academy-context';
 import { Badge } from '@/components/ui/badge';
 import { cn, safeToDate } from '@/lib/utils';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
@@ -40,7 +40,6 @@ import NetworkStatusIndicator from '@/components/shared/network-status-indicator
 import { useToast } from '@/hooks/use-toast';
 import Confetti from '@/components/shared/confetti';
 import { AppConfig } from '@/lib/config';
-import BusinessHealthIndicator from '@/components/dashboard/business-health-indicator';
 import QueueStatus from '@/components/layout/queue-status';
 import { Skeleton } from '@/components/ui/skeleton';
 import { CachedImage } from '@/components/shared/cached-image';
@@ -48,7 +47,7 @@ import { useNativeNotifications } from '@/hooks/use-native-notifications';
 import { useFCM } from '@/hooks/use-fcm';
 import { errorEmitter } from '@/firebase/error-emitter';
 import { FirestorePermissionError } from '@/firebase/errors';
-import HeldSalesDrawer from '@/components/pos/held-sales-drawer';
+import SavedSessionsDrawer from '@/components/cbt-simulator/saved-sessions-drawer';
 import { History } from 'lucide-react';
 
 
@@ -71,24 +70,20 @@ const AiInsightsIcon = (props: React.SVGProps<SVGSVGElement>) => (
 );
 
 const navItems = [
-  { href: '/dashboard', icon: Home, label: 'Dashboard', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/inventory', icon: Package, label: 'Syllabus Tracker', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/cbt-simulator/select-subjects', icon: ShoppingCart, label: 'CBT Exam Simulator', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/storefront', icon: Paintbrush, label: 'Verified News Hub', roles: ['admin'] },
-  { href: '/online-orders', icon: Globe, label: 'Mentorship Booking', roles: ['admin', 'manager'] },
-  { href: '/receipts', icon: FileText, label: 'Admission Calculator', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/invoices', icon: FileDigit, label: 'Scholarship Alerts', roles: ['admin', 'manager'] },
-  { href: '/reports', icon: BarChart2, label: 'Performance Analytics', roles: ['admin', 'owner'] },
-  { href: '/ai-insights', icon: AiInsightsIcon, label: 'Smart AI Insights', roles: ['admin', 'manager'] },
-  { href: '/customers', icon: Users, label: 'Peers & Mentors', roles: ['admin', 'manager', 'vendor_operator'] },
-  { href: '/users', icon: UserRound, label: 'Student Profile', roles: ['admin'] },
-  { href: '/audit-log', icon: HistoryIcon, label: 'Activity Logs', roles: ['admin'] },
+  { href: '/dashboard', icon: Home, label: 'Dashboard', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+  { href: '/syllabus-tracker', icon: Package, label: 'Syllabus Tracker', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+  { href: '/cbt-simulator/select-subjects', icon: ShoppingCart, label: 'CBT Exam Simulator', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+  { href: '/mentorship-booking', icon: Globe, label: 'Mentorship Booking', roles: ['admin', 'manager', 'owner'] },
+  { href: '/admission-calculator', icon: FileText, label: 'Admission Calculator', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+  { href: '/performance-analytics', icon: BarChart2, label: 'Performance Analytics', roles: ['admin', 'owner'] },
+  { href: '/peers-mentors', icon: Users, label: 'Peers & Mentors', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+  { href: '/student-profile', icon: UserRound, label: 'Student Profile', roles: ['admin', 'owner'] },
 ];
 
 const bottomLinks = [
-  { href: '/billing', icon: CreditCard, label: 'Subscriptions', roles: ['admin'] },
-  { href: '/settings', icon: Settings, label: 'Portal Settings', roles: ['admin'] },
-  { href: '/support', icon: LifeBuoy, label: 'Help Desk', roles: ['admin', 'manager', 'vendor_operator'] },
+  { href: '/billing', icon: CreditCard, label: 'Subscriptions', roles: ['admin', 'owner'] },
+  { href: '/settings', icon: Settings, label: 'Portal Settings', roles: ['admin', 'owner'] },
+  { href: '/support', icon: LifeBuoy, label: 'Help Desk', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
 ];
 
 const moreNavLinks: { href: string; icon: React.ElementType; label: string; roles: string[]; }[] = [
@@ -161,15 +156,15 @@ export default function AuthenticatedLayout({
     isUserLoading,
     currentUserProfile,
     user,
-    business: businessInstance,
+    academy: academyInstance,
     isConfettiActive,
     triggerConfetti,
     setIsConfettiActive,
-    products,
+    subjects,
     queuedActions,
     isSubscriptionActive,
-    onlineOrders
-  } = usePOS();
+    mentorshipBookings
+  } = useAcademy();
 
   const { notify } = useNativeNotifications();
   const { requestPermission: handleRequestFcmPermission } = useFCM();
@@ -194,8 +189,8 @@ export default function AuthenticatedLayout({
     const handlePermissionError = (error: FirestorePermissionError) => {
       console.warn("Global Permission Error Caught:", error);
       
-      // If the error is related to the current business, we might need to block access
-      if (error.path?.includes('businessInstances') || error.path?.includes('onlineOrders')) {
+      // If the error is related to the current academy, we might need to block access
+      if (error.request?.path?.includes('businessInstances') || error.request?.path?.includes('mentorshipBookings')) {
         setHasPermissionError(true);
         setPermissionErrorDetails(error);
       } else {
@@ -249,14 +244,16 @@ export default function AuthenticatedLayout({
     }
     return "";
   };
-  const fallbackInitials = getInitials(currentUserProfile?.name) || (currentUserProfile?.email || 'U').charAt(0).toUpperCase();
+  const fallbackInitials = getInitials(currentUserProfile?.name) || 
+    getInitials(user?.displayName) || 
+    (currentUserProfile?.email || user?.email || 'U').charAt(0).toUpperCase();
 
   // Helper: resolve a navigation link for each notification
   const getNotificationLink = React.useCallback((notif: any): string => {
     if (notif.link) return notif.link;
-    if (notif.type === 'inventory' || notif.body?.toLowerCase().includes('stock') || notif.body?.toLowerCase().includes('backorder')) return '/inventory';
-    if (notif.type === 'sale' || notif.body?.toLowerCase().includes('order')) return '/online-orders';
-    if (notif.type === 'sync') return '/audit-log';
+    if (notif.type === 'inventory' || notif.body?.toLowerCase().includes('stock') || notif.body?.toLowerCase().includes('syllabus')) return '/syllabus-tracker';
+    if (notif.type === 'sale' || notif.body?.toLowerCase().includes('order') || notif.body?.toLowerCase().includes('mentorship')) return '/mentorship-booking';
+    if (notif.type === 'sync') return '/activity-logs';
     if (notif.isGlobal) return '/support';
     return '/';
   }, []);
@@ -342,83 +339,15 @@ export default function AuthenticatedLayout({
 
   React.useEffect(() => {
     const isSuperAdmin = currentUserProfile?.email === 'belloimam431@gmail.com';
-    if (!isLoading && currentUserProfile && !currentUserProfile.surveyCompleted && pathname !== '/onboarding' && !isSuperAdmin) {
+    if (!isLoading && currentUserProfile && currentUserProfile.surveyCompleted === false && pathname !== '/onboarding' && !isSuperAdmin) {
       router.replace('/onboarding');
     }
   }, [isLoading, currentUserProfile, pathname, router]);
 
-  // RBAC Route Guard
+  // RBAC Route Guard (Disabled)
   React.useEffect(() => {
-    if (isLoading || isUserLoading || !currentUserProfile) return;
-
-    const userRole = currentUserProfile.role;
-    const isSuperAdmin = currentUserProfile.email === 'belloimam431@gmail.com';
-
-    if (isSuperAdmin) return; // Super admin has access to everything
-
-    const ROUTE_PERMISSIONS: Record<string, string[]> = {
-      '/dashboard': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-      '/inventory/debts': ['admin', 'manager', 'owner', 'super-admin'],
-      '/inventory/troubleshoot': ['admin', 'manager', 'owner', 'super-admin'],
-      '/inventory/add': ['admin', 'manager', 'owner', 'super-admin'],
-      '/inventory': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-      '/sales': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-      '/storefront': ['admin', 'owner', 'super-admin'],
-      '/online-orders': ['admin', 'manager', 'owner', 'super-admin'],
-      '/receipts': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-      '/invoices': ['admin', 'manager', 'owner', 'super-admin'],
-      '/reports': ['admin', 'owner', 'super-admin'],
-      '/ai-insights': ['admin', 'manager', 'owner', 'super-admin'],
-      '/customers': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-      '/users': ['admin', 'owner', 'super-admin'],
-      '/audit-log': ['admin', 'owner', 'super-admin'],
-      '/billing': ['admin', 'owner', 'super-admin'],
-      '/settings': ['admin', 'owner', 'super-admin'],
-      '/support': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-      '/achievements': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-    };
-
-    const protectedRoute = Object.keys(ROUTE_PERMISSIONS)
-      .sort((a, b) => b.length - a.length)
-      .find(route => pathname.startsWith(route));
-
-    if (protectedRoute) {
-      const allowedRoles = ROUTE_PERMISSIONS[protectedRoute];
-      const permissions = currentUserProfile.permissions || {};
-      
-      // 1. Check for explicit granular DENIAL (Highest Priority)
-      const isExplicitlyDenied = 
-        (protectedRoute.startsWith('/sales') && permissions.record_sales === false) ||
-        (protectedRoute === '/reports' && permissions.view_reports === false) ||
-        (protectedRoute.startsWith('/inventory') && permissions.manage_inventory === false) ||
-        (protectedRoute === '/customers' && permissions.view_customers === false) ||
-        (protectedRoute === '/audit-log' && permissions.view_audit_logs === false) ||
-        (protectedRoute === '/online-orders' && permissions.manage_online_orders === false);
-
-      // 2. Check for explicit granular ALLOWANCE
-      const isExplicitlyAllowed = 
-        (protectedRoute === '/reports' && permissions.view_reports === true) ||
-        (protectedRoute.startsWith('/inventory') && permissions.manage_inventory === true) ||
-        (protectedRoute === '/customers' && permissions.view_customers === true) ||
-        (protectedRoute === '/audit-log' && permissions.view_audit_logs === true) ||
-        (protectedRoute === '/online-orders' && permissions.manage_online_orders === true) ||
-        (protectedRoute.startsWith('/sales') && permissions.record_sales === true);
-
-      // Final decision logic
-      const hasAccess = isSuperAdmin || (allowedRoles.includes(userRole) && !isExplicitlyDenied) || isExplicitlyAllowed;
-
-      if (!hasAccess) {
-        toast({
-          variant: "destructive",
-          title: "Access Denied",
-          description: "You do not have permission to view this page.",
-        });
-        
-        // If they can't access POS, send them to dashboard. Otherwise send to POS.
-        const canAccessPos = permissions.record_sales !== false && (userRole === 'admin' || userRole === 'manager' || userRole === 'vendor_operator');
-        router.replace(canAccessPos ? '/cbt-simulator/select-subjects' : '/dashboard');
-      }
-    }
+    // RBAC completely disabled per user request
+    return;
   }, [pathname, currentUserProfile, isLoading, isUserLoading, router, toast]);
 
   // --- End of Hooks ---
@@ -470,14 +399,14 @@ export default function AuthenticatedLayout({
 
   // 1. Subscription Reminders (3 days before expiry)
   React.useEffect(() => {
-    if (businessInstance && businessInstance.trialExpiresAt && currentUserProfile) {
-      const expiryDate = safeToDate(businessInstance.trialExpiresAt);
+    if (academyInstance && academyInstance.trialExpiresAt && currentUserProfile) {
+      const expiryDate = safeToDate(academyInstance.trialExpiresAt);
       const now = new Date();
       const diffTime = expiryDate.getTime() - now.getTime();
       const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
 
       if (diffDays <= 3 && diffDays > 0) {
-        const lastReminded = localStorage.getItem(`reminded_expiry_${businessInstance.id}`);
+        const lastReminded = localStorage.getItem(`reminded_expiry_${academyInstance.id}`);
         const todayStr = now.toISOString().split('T')[0];
         
         if (lastReminded !== todayStr) {
@@ -488,19 +417,19 @@ export default function AuthenticatedLayout({
             read: false,
             type: 'billing'
           }).then(() => {
-            localStorage.setItem(`reminded_expiry_${businessInstance.id}`, todayStr);
+            localStorage.setItem(`reminded_expiry_${academyInstance.id}`, todayStr);
           }).catch(console.error);
         }
       }
     }
-  }, [businessInstance, currentUserProfile, firestore]);
+  }, [academyInstance, currentUserProfile, firestore]);
 
   // 2. New Online Orders Alerts
   const [lastOnlineOrderId, setLastOnlineOrderId] = React.useState<string | null>(null);
   React.useEffect(() => {
-    if (onlineOrders && onlineOrders.length > 0 && currentUserProfile) {
+    if (mentorshipBookings && mentorshipBookings.length > 0 && currentUserProfile) {
       // Find the latest pending order
-      const latestPendingOrder = [...onlineOrders]
+      const latestPendingOrder = [...mentorshipBookings]
         .sort((a, b) => {
           const dateA = safeToDate(a.createdAt).getTime();
           const dateB = safeToDate(b.createdAt).getTime();
@@ -517,17 +446,17 @@ export default function AuthenticatedLayout({
         if (diffSeconds < 600) {
           addDoc(collection(firestore, `users/${currentUserProfile.id}/notifications`), {
             title: "New Online Order!",
-            body: `You received a new order for ${businessInstance?.settings?.currency || 'NGN'} ${latestPendingOrder.total}.`,
+            body: `You received a new order for ${academyInstance?.settings?.currency || 'NGN'} ${latestPendingOrder.total}.`,
             createdAt: serverTimestamp(),
             read: false,
             type: 'order',
-            orderId: latestPendingOrder.id
+            bookingId: latestPendingOrder.id
           }).catch(console.error);
         }
         setLastOnlineOrderId(latestPendingOrder.id);
       }
     }
-  }, [onlineOrders, lastOnlineOrderId, currentUserProfile, businessInstance, firestore]);
+  }, [mentorshipBookings, lastOnlineOrderId, currentUserProfile, academyInstance, firestore]);
 
   if (isLoggingOut) {
     return <AppLoader text="Logging out..." />;
@@ -541,9 +470,8 @@ export default function AuthenticatedLayout({
 
   // --- Start of Checks for Active/Valid Accounts ---
 
-  if (currentUserProfile && currentUserProfile.surveyCompleted === false && pathname !== '/onboarding') {
-    return <AppLoader text="Finalizing your setup..." />;
-  }
+  // NOTE: Don't block rendering — the useEffect above already handles redirect to /onboarding.
+  // Showing a loader here for non-onboarding pages while survey isn't done.
 
   if (currentUserProfile && currentUserProfile.status === 'inactive') {
     return (
@@ -569,7 +497,7 @@ export default function AuthenticatedLayout({
     )
   }
 
-  if (businessInstance?.status === 'deleted' || (hasPermissionError && !isLoading)) {
+  if (academyInstance?.status === 'deleted' || (hasPermissionError && !isLoading)) {
     return (
       <div className="flex h-full w-full items-center justify-center bg-muted p-4">
         <Card className="w-full max-w-md text-center shadow-lg">
@@ -578,18 +506,18 @@ export default function AuthenticatedLayout({
               <ShieldAlert className="h-10 w-10 text-destructive" />
             </div>
             <CardTitle className="text-2xl font-bold">
-              {businessInstance?.status === 'deleted' ? "Business Deleted" : "Access Revoked"}
+              {academyInstance?.status === 'deleted' ? "Business Deleted" : "Access Revoked"}
             </CardTitle>
             <CardDescription>
-              {businessInstance?.status === 'deleted' 
-                ? "The business associated with this account has been deleted by the owner."
-                : "Your access to this business or resource has been revoked or expired."}
+              {academyInstance?.status === 'deleted' 
+                ? "The academy associated with this account has been deleted by the owner."
+                : "Your access to this academy or resource has been revoked or expired."}
             </CardDescription>
           </CardHeader>
           <CardContent>
             <p className="text-sm text-muted-foreground">
               {hasPermissionError && permissionErrorDetails 
-                ? `Details: ${permissionErrorDetails.operation} on ${permissionErrorDetails.path}`
+                ? `Details: ${permissionErrorDetails.request?.method} on ${permissionErrorDetails.request?.path}`
                 : "For security, please log out and contact your administrator if you believe this is an error."}
             </p>
           </CardContent>
@@ -605,81 +533,49 @@ export default function AuthenticatedLayout({
   }
   // --- End of Checks ---
 
-  if (pathname === '/onboarding') {
-    return <main className="p-4 sm:p-6">{children}</main>;
-  }
+  const isOnboarding = pathname === '/onboarding';
 
   // --- Subscription Guard Configuration ---
-  const restrictedRoutes = ['/sales', '/storefront', '/ai-insights', '/customers', '/inventory', '/reports', '/receipts', '/online-orders', '/audit-log'];
+  const restrictedRoutes = ['/syllabus-tracker', '/ai-insights', '/peers-mentors', '/performance-analytics', '/admission-calculator', '/mentorship-booking', '/activity-logs', '/invoice-tracking'];
   const isRestrictedRoute = restrictedRoutes.some(route => pathname.startsWith(route));
-  const showSubscriptionBlock = !isSubscriptionActive && isRestrictedRoute && !isLoading;
+  const showSubscriptionBlock = !isSubscriptionActive && isRestrictedRoute && !isLoading && !isOnboarding;
   // --- End of Subscription Guard Config ---
 
   const userRole = currentUserProfile?.role;
-  const plan = businessInstance?.plan || 'starter';
-  const hasLifetimeAccess = businessInstance?.accessLevel === 'lifetime';
+  const plan = academyInstance?.plan || 'starter';
+  const hasLifetimeAccess = academyInstance?.accessLevel === 'lifetime';
 
   const filterNavByRole = (items: any[]) => {
-    if (!userRole) return [];
-    const permissions = currentUserProfile?.permissions || {};
-    
-    return items.filter(item => {
-      // 1. Explicitly Enabled Override
-      if (item.href.startsWith('/sales') && permissions.record_sales === true) return true;
-      if (item.href === '/reports' && permissions.view_reports === true) return true;
-      if (item.href.startsWith('/inventory') && permissions.manage_inventory === true) return true;
-      if (item.href === '/customers' && permissions.view_customers === true) return true;
-      if (item.href === '/audit-log' && permissions.view_audit_logs === true) return true;
-      if (item.href === '/online-orders' && permissions.manage_online_orders === true) return true;
-
-      // 2. Role Match
-      const roleMatch = !item.roles || (item.roles as string[]).includes(userRole);
-      if (!roleMatch) return false;
-
-      // 3. Explicitly Disabled Override (for roles that have it by default)
-      if (item.href.startsWith('/sales') && permissions.record_sales === false) return false;
-      if (item.href === '/reports' && permissions.view_reports === false) return false;
-      if (item.href.startsWith('/inventory') && permissions.manage_inventory === false) return false;
-      if (item.href === '/customers' && permissions.view_customers === false) return false;
-      if (item.href === '/audit-log' && permissions.view_audit_logs === false) return false;
-      if (item.href === '/online-orders' && permissions.manage_online_orders === false) return false;
-
-      return true;
-    });
+    return items;
   };
 
   const visibleNavItems = filterNavByRole(navItems);
   const visibleBottomLinks = filterNavByRole(bottomLinks);
   const visibleMoreNavLinks = filterNavByRole(moreNavLinks);
 
-  const mainMobileNavItems = visibleNavItems.filter(item => ['/dashboard', '/inventory', '/cbt-simulator/select-subjects'].includes(item.href));
+  const mainMobileNavItems = visibleNavItems.filter(item => ['/dashboard', '/syllabus-tracker', '/cbt-simulator/select-subjects'].includes(item.href));
   const extraMobileNavItems = visibleNavItems.filter(item => !mainMobileNavItems.some(main => main.href === item.href));
   const allMoreNavItems = [...extraMobileNavItems, ...visibleBottomLinks, ...visibleMoreNavLinks];
 
   const isLinkActive = (linkHref: string, currentPathname: string) => {
     if (linkHref === '/dashboard') return currentPathname === linkHref;
-    if (linkHref === '/inventory') return currentPathname.startsWith('/inventory');
-    if (linkHref === '/storefront') return currentPathname.startsWith('/storefront');
+    if (linkHref === '/syllabus-tracker') return currentPathname.startsWith('/syllabus-tracker');
     if (linkHref === '/ai-insights') return currentPathname.startsWith('/ai-insights');
     return currentPathname.startsWith(linkHref);
   };
 
   const ROUTE_PERMISSIONS: Record<string, string[]> = {
     '/dashboard': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-    '/inventory/debts': ['admin', 'manager', 'owner', 'super-admin'],
-    '/inventory/troubleshoot': ['admin', 'manager', 'owner', 'super-admin'],
-    '/inventory/add': ['admin', 'manager', 'owner', 'super-admin'],
-    '/inventory': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-    '/sales': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-    '/storefront': ['admin', 'owner', 'super-admin'],
-    '/online-orders': ['admin', 'manager', 'owner', 'super-admin'],
-    '/receipts': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-    '/invoices': ['admin', 'manager', 'owner', 'super-admin'],
-    '/reports': ['admin', 'owner', 'super-admin'],
+    '/syllabus-tracker': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
+    '/cbt-simulator': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
+    '/mentorship-booking': ['admin', 'manager', 'owner', 'super-admin'],
+    '/admission-calculator': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
+    '/invoice-tracking': ['admin', 'manager', 'owner', 'super-admin'],
+    '/performance-analytics': ['admin', 'owner', 'super-admin'],
     '/ai-insights': ['admin', 'manager', 'owner', 'super-admin'],
-    '/customers': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
-    '/users': ['admin', 'owner', 'super-admin'],
-    '/audit-log': ['admin', 'owner', 'super-admin'],
+    '/peers-mentors': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
+    '/student-profile': ['admin', 'owner', 'super-admin'],
+    '/activity-logs': ['admin', 'owner', 'super-admin'],
     '/billing': ['admin', 'owner', 'super-admin'],
     '/settings': ['admin', 'owner', 'super-admin'],
     '/support': ['admin', 'manager', 'vendor_operator', 'owner', 'super-admin'],
@@ -691,30 +587,6 @@ export default function AuthenticatedLayout({
     .find(route => pathname.startsWith(route));
 
   let hasRouteAccess = true;
-  if (protectedRoute && currentUserProfile && !isLoading && !isUserLoading) {
-    const userRole = currentUserProfile.role;
-    const isSuperAdmin = currentUserProfile.email === 'belloimam431@gmail.com';
-    const allowedRoles = ROUTE_PERMISSIONS[protectedRoute];
-    const permissions = currentUserProfile.permissions || {};
-
-    const isExplicitlyDenied = 
-      (protectedRoute.startsWith('/sales') && permissions.record_sales === false) ||
-      (protectedRoute === '/reports' && permissions.view_reports === false) ||
-      (protectedRoute.startsWith('/inventory') && permissions.manage_inventory === false) ||
-      (protectedRoute === '/customers' && permissions.view_customers === false) ||
-      (protectedRoute === '/audit-log' && permissions.view_audit_logs === false) ||
-      (protectedRoute === '/online-orders' && permissions.manage_online_orders === false);
-
-    const isExplicitlyAllowed = 
-      (protectedRoute === '/reports' && permissions.view_reports === true) ||
-      (protectedRoute.startsWith('/inventory') && permissions.manage_inventory === true) ||
-      (protectedRoute === '/customers' && permissions.view_customers === true) ||
-      (protectedRoute === '/audit-log' && permissions.view_audit_logs === true) ||
-      (protectedRoute === '/online-orders' && permissions.manage_online_orders === true) ||
-      (protectedRoute.startsWith('/sales') && permissions.record_sales === true);
-
-    hasRouteAccess = isSuperAdmin || (allowedRoles.includes(userRole) && !isExplicitlyDenied) || isExplicitlyAllowed;
-  }
 
   const formatBodyText = (text: string) => {
     if (!text) return '';
@@ -773,8 +645,9 @@ export default function AuthenticatedLayout({
                             asChild
                             tooltip={{ children: link.label, side: 'right', sideOffset: 10 }}
                             isActive={isLinkActive(link.href, pathname)}
+                            className={isOnboarding ? 'pointer-events-none opacity-40' : ''}
                           >
-                            <Link href={link.href}>
+                            <Link href={isOnboarding ? '#' : link.href}>
                               <link.icon className="h-5 w-5" />
                               <span className="group-data-[state=collapsed]:hidden">{link.label}</span>
                             </Link>
@@ -827,7 +700,7 @@ export default function AuthenticatedLayout({
                             <>
                               <span className="truncate text-sm font-medium" title={currentUserProfile?.name || currentUserProfile?.email || ''}>{currentUserProfile?.name || currentUserProfile?.email}</span>
                               {hasLifetimeAccess && <Badge className="bg-gradient-to-r from-amber-500 to-orange-600 text-white border-0 shadow-sm animate-pulse-slow">Lifetime</Badge>}
-                              {!hasLifetimeAccess && plan && <Badge variant={plan === 'pro' ? 'secondary' : 'default'} className={cn('capitalize text-xs px-1.5 py-0.5 mt-1', (plan === 'starter' || plan === 'business') && 'bg-orange-500 hover:bg-orange-300 border-orange-600 text-white')}>{plan}</Badge>}
+                              {!hasLifetimeAccess && plan && <Badge variant={plan === 'pro' ? 'secondary' : 'default'} className={cn('capitalize text-xs px-1.5 py-0.5 mt-1', (plan === 'starter' || plan === 'academy') && 'bg-orange-500 hover:bg-orange-300 border-orange-600 text-white')}>{plan}</Badge>}
                             </>
                           )}
                         </div>
@@ -858,7 +731,34 @@ export default function AuthenticatedLayout({
                 <Link href="/dashboard" className="flex items-center gap-2 md:hidden">
                   <img src={AppConfig.logoIconUrl} alt="Pinnacle Academia" className="h-8 w-8" />
                 </Link>
-                <BusinessHealthIndicator />
+                {isMounted && (
+                  <Tooltip>
+                    <TooltipTrigger asChild>
+                      <div className="hidden lg:flex items-center gap-2 px-3 py-1.5 rounded-full border border-primary/20 bg-primary/5 text-xs font-medium cursor-help shadow-sm transition-all hover:bg-primary/10">
+                        <Bot className="h-4 w-4 text-primary animate-pulse" />
+                        <span className="text-muted-foreground">AI Tokens:</span>
+                        <span className="font-semibold text-primary">
+                          {Math.max(0, 100000 - (academyInstance?.settings?.aiTokensUsed || 0)).toLocaleString()} / 100,000
+                        </span>
+                      </div>
+                    </TooltipTrigger>
+                    <TooltipContent side="bottom" align="start" className="max-w-xs p-3 space-y-2">
+                      <p className="font-semibold text-foreground">Free Tier AI Usage Limit</p>
+                      <p className="text-xs text-muted-foreground leading-relaxed">
+                        Each AI briefing consumes approx. 15,000 tokens, and troubleshooting consumes 5,000 tokens.
+                      </p>
+                      <div className="w-full bg-muted rounded-full h-1.5 overflow-hidden">
+                        <div 
+                          className="bg-primary h-full rounded-full transition-all duration-500" 
+                          style={{ width: `${Math.max(0, Math.min(100, (100000 - (academyInstance?.settings?.aiTokensUsed || 0)) / 1000))}%` }} 
+                        />
+                      </div>
+                      <p className="text-[10px] text-muted-foreground text-right">
+                        {Math.round(Math.max(0, Math.min(100, (100000 - (academyInstance?.settings?.aiTokensUsed || 0)) / 1000)))}% remaining
+                      </p>
+                    </TooltipContent>
+                  </Tooltip>
+                )}
                 {isMounted && <Badge variant="outline" className="hidden md:inline-flex text-[10px] h-5 bg-muted/50 font-mono opacity-60 hover:opacity-100 transition-opacity">v{AppConfig.version}</Badge>}
                 <div className="flex-1" />
                 <div className="flex items-center gap-1 md:gap-2 ml-auto">
@@ -866,10 +766,10 @@ export default function AuthenticatedLayout({
                   <NetworkStatusIndicator />
                   <Tooltip>
                     <TooltipTrigger asChild>
-                      <HeldSalesDrawer />
+                      <SavedSessionsDrawer />
                     </TooltipTrigger>
                     <TooltipContent>
-                      <p>Parked Sales</p>
+                      <p>Saved Sessions</p>
                     </TooltipContent>
                   </Tooltip>
                   <Tooltip>
@@ -995,7 +895,7 @@ export default function AuthenticatedLayout({
                         <div className="flex flex-col space-y-2">
                           <div className="flex justify-between items-center">
                             <p className="text-sm font-medium leading-none truncate">{currentUserProfile?.name || "Zeneva User"}</p>
-                            {plan && <Badge variant={plan === 'pro' ? 'secondary' : 'default'} className={cn('capitalize text-xs', (plan === 'starter' || plan === 'business') && 'bg-orange-500 hover:bg-orange-300 border-orange-600 text-white')}>{plan}</Badge>}
+                            {plan && <Badge variant={plan === 'pro' ? 'secondary' : 'default'} className={cn('capitalize text-xs', (plan === 'starter' || plan === 'academy') && 'bg-orange-500 hover:bg-orange-300 border-orange-600 text-white')}>{plan}</Badge>}
                           </div>
                           <p className="text-xs leading-none text-muted-foreground">
                             {currentUserProfile?.email}
@@ -1052,7 +952,7 @@ export default function AuthenticatedLayout({
                           Trial Expired
                         </CardTitle>
                         <CardDescription className="text-lg mt-3 px-4">
-                          Your trial period or subscription has ended. To continue using <span className="font-bold text-foreground">{(businessInstance?.name || 'your business').toLowerCase()}</span>, please subscribe to a plan.
+                          Your trial period or subscription has ended. To continue using <span className="font-bold text-foreground">{(academyInstance?.name || 'your academy').toLowerCase()}</span>, please subscribe to a plan.
                         </CardDescription>
                       </CardHeader>
                       <CardContent className="px-8 pb-10">
@@ -1067,7 +967,7 @@ export default function AuthenticatedLayout({
                             </ul>
                           </div>
                           <div className="p-5 rounded-2xl bg-orange-500/5 border border-orange-500/10 flex flex-col justify-center text-center">
-                            <p className="text-xs text-muted-foreground mb-5 leading-relaxed">Unlock all features instantly with our business-ready plans.</p>
+                            <p className="text-xs text-muted-foreground mb-5 leading-relaxed">Unlock all features instantly with our academy-ready plans.</p>
                             <Button asChild className="w-full h-12 shadow-lg shadow-orange-500/20 hover:scale-[1.05] active:scale-95 transition-all duration-300 bg-orange-500 hover:bg-orange-600 font-bold">
                               <Link href="/billing">
                                 <ArrowRight className="mr-2 h-4 w-4" />
@@ -1084,7 +984,7 @@ export default function AuthenticatedLayout({
               {currentUserProfile && currentUserProfile.id !== user?.uid && (
                 <div className="bg-destructive/10 border-t border-destructive/20 p-2 text-center text-sm text-destructive font-medium flex items-center justify-center gap-4">
                   <span>You are viewing {currentUserProfile.name}'s account.</span>
-                  <Button size="sm" variant="destructive" onClick={() => window.location.href = '/admin-imamshaffy'}>Exit View</Button>
+                  <Button size="sm" variant="destructive" onClick={() => window.location.href = '/admin-sheun'}>Exit View</Button>
                 </div>
               )}
             </div>
@@ -1104,7 +1004,7 @@ export default function AuthenticatedLayout({
             <div>
               <DialogTitle className="text-2xl">Notifications Center</DialogTitle>
               <DialogDescription>
-                Stay updated with your business performance, inventory alerts, and system updates.
+                Stay updated with your academy performance, inventory alerts, and system updates.
               </DialogDescription>
             </div>
             <div className="flex gap-2">

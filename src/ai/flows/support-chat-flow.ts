@@ -42,24 +42,24 @@ const prompt = ai.definePrompt({
 `,
   prompt: `
 **ZENEVA APP FEATURES:**
-*   **Onboarding:** A multi-step survey new users complete to set up their business profile, including industry, location, and financial year details.
+*   **Onboarding:** A multi-step survey new users complete to set up their academy profile, including industry, location, and financial year details.
 *   **Dashboard:** Provides an overview of total sales, online sales, inventory units, low-stock alerts, sales activity pipeline, and recent orders. It also features charts for sales overview and inventory by category.
-*   **Inventory Management:** Users can add, edit, and delete products. They can import products in bulk via a CSV file. The inventory page shows a list of all products with their stock status, price, and image.
+*   **Inventory Management:** Users can add, edit, and delete subjects. They can import subjects in bulk via a CSV file. The inventory page shows a list of all subjects with their stock status, price, and image.
 *   **AI Troubleshoot (Pro/Business):** An AI-powered feature in the Inventory section that analyzes product data for issues like missing prices or descriptions and provides actionable suggestions.
 *   **Point of Sale (POS):** A multi-step process to create sales.
-    1.  Select Products: Users can add products to a cart from a visual grid.
-    2.  Customer: Optionally, a sale can be linked to a customer from the CRM.
+    1.  Select Products: Users can add subjects to a syllabus from a visual grid.
+    2.  Student: Optionally, a sale can be linked to a customer from the CRM.
     3.  Payment: Users can apply discounts, set tax, and choose a payment method (Cash, Card, Bank Transfer).
     4.  Review & Complete: Users review the final sale and complete it, which automatically generates a receipt and updates inventory stock.
 *   **Receipts:** A page that lists all past transactions. Admins and Managers can "Void" a sale, which deletes the receipt and restores the inventory stock.
 *   **Storefront Customization (Pro/Business):** A page to design and launch a public online store. Users can enable/disable the store, set a custom URL (slug), choose a theme color, upload a banner, and add social media links.
 *   **Online Orders:** A page to view and manage orders coming from the public storefront.
-*   **Reports (Pro/Business):** An advanced analytics dashboard with date-range filtering. It shows detailed reports on sales, products, and customers. A 'Business' plan unlocks even deeper insights like Customer Intelligence and ABC Analysis.
+*   **Reports (Pro/Business):** An advanced analytics dashboard with date-range filtering. It shows detailed reports on sales, subjects, and students. A 'Business' plan unlocks even deeper insights like Student Intelligence and ABC Analysis.
 *   **Customers:** A basic CRM to manage customer information (name, email, phone) and track their purchase history.
-*   **User Management (Admin only):** Admins can invite new users (Managers, Vendor Operators) to their business via email.
-*   **Achievements & Goals:** A page to celebrate sales milestones (e.g., reaching ₦100k in sales) and for users to set their own custom business goals.
-*   **Audit Log (Pro/Business):** A secure, chronological log of important actions taken within the business, like creating products or voiding sales.
-*   **Settings:** Users can manage business details, payment info (for POS), payment gateways (for storefront), and product categories.
+*   **User Management (Admin only):** Admins can invite new users (Managers, Vendor Operators) to their academy via email.
+*   **Achievements & Goals:** A page to celebrate sales milestones (e.g., reaching ₦100k in sales) and for users to set their own custom academy goals.
+*   **Audit Log (Pro/Business):** A secure, chronological log of important actions taken within the academy, like creating subjects or voiding sales.
+*   **Settings:** Users can manage academy details, payment info (for POS), payment gateways (for storefront), and product categories.
 *   **Billing:** Page for admins to manage their subscription plan (Starter, Pro, Business), view payment history, and upgrade their account.
 *   **Support:** A page with FAQs and a support chat to talk with the team. You, Zen AI, are also on this page to provide instant answers.
 
@@ -77,7 +77,7 @@ const supportChatFlow = ai.defineFlow(
     inputSchema: ZenevaSupportChatInputSchema,
     outputSchema: ZenevaSupportChatOutputSchema,
   },
-  async (input) => {
+  async (input: ZenevaSupportChatInput) => {
     const {output} = await prompt(input);
     return output!;
   }

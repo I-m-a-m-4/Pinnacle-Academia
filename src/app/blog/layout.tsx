@@ -1,11 +1,11 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Blog | Retail Insights & Business Growth | Zeneva',
-  description: 'Stay updated with the latest retail trends, inventory management tips, and success stories from the Zeneva community. Expert advice for Nigerian businesses.',
+  title: 'Blog | Exam Prep & Academic Insights | Pinnacle Academia',
+  description: 'Stay updated with the latest academic trends, exam preparation tips, and success stories from the Pinnacle Academia community. Expert advice for students.',
   openGraph: {
-    title: 'Zeneva Blog - Master Your Retail Business',
-    description: 'Expert insights on growth, operations, and inventory intelligence.',
+    title: 'Pinnacle Academia Blog - Master Your Exams',
+    description: 'Expert insights on admission guidelines, exam strategies, and educational updates.',
   }
 };
 

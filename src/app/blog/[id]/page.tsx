@@ -4,19 +4,19 @@ import { allBlogPosts } from '@/lib/blog-data';
 import BlogPostClient from './blog-post-client';
 
 type Props = {
-  params: { id: string };
-  searchParams: { [key: string]: string | string[] | undefined };
+  params: Promise<{ id: string }>;
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const id = params.id;
+  const { id } = await params;
   
   // Try to find in static blog posts first for immediate SEO
   const staticPost = allBlogPosts.find(p => p.slug === id);
   
   if (staticPost) {
     return {
-      title: `${staticPost.title} | Zeneva Blog`,
+      title: `${staticPost.title} | Pinnacle Academia Blog`,
       description: staticPost.excerpt,
       openGraph: {
         title: staticPost.title,
@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   // Fallback for dynamic posts or if not found
   return {
-    title: 'Blog Post | Zeneva',
-    description: 'Read the latest from Zeneva on retail operations, AI, and business growth.',
+    title: 'Blog Post | Pinnacle Academia',
+    description: 'Read the latest from Pinnacle Academia on exams, study guidelines, and educational updates.',
   };
 }
 

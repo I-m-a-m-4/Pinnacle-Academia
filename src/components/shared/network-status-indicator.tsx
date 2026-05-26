@@ -4,10 +4,10 @@ import { useState, useEffect, useRef } from 'react';
 import { Wifi, WifiOff, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { cn } from '@/lib/utils';
-import { usePOS } from '@/context/pos-context';
+import { useAcademy } from '@/context/academy-context';
 
 export default function NetworkStatusIndicator() {
-  const { isOnline } = usePOS();
+  const { isOnline } = useAcademy();
   const [bannerVisible, setBannerVisible] = useState(false);
   const [bannerType, setBannerType] = useState<'offline' | 'online' | null>(null);
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);

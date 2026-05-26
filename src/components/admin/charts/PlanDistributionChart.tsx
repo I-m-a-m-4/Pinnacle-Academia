@@ -4,12 +4,12 @@ import * as React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { ResponsiveContainer, PieChart as RePieChart, Pie, Cell, Tooltip as ReTooltip, Legend } from 'recharts';
 import { PieChart as PieChartIcon } from 'lucide-react';
-import { TimeframePicker, type Timeframe } from '@/components/reports/timeframe-picker';
+import { TimeframePicker, type Timeframe } from '@/components/performance-analytics/timeframe-picker';
 import { subDays, startOfDay } from 'date-fns';
-import type { BusinessInstance } from '@/types';
+import type { Academy } from '@/types';
 
 interface PlanDistributionChartProps {
-  businesses: BusinessInstance[];
+  businesses: Academy[];
 }
 
 const COLORS = ['#3b82f6', '#10b981', '#f59e0b', '#8b5cf6'];
@@ -34,13 +34,13 @@ export default function PlanDistributionChart({ businesses }: PlanDistributionCh
     const groups: Record<string, number> = {
       'Starter': 0,
       'Pro': 0,
-      'Business': 0,
+      'Academy': 0,
       'Lifetime': 0
     };
 
     filtered.forEach(b => {
       if (b.accessLevel === 'lifetime') groups['Lifetime']++;
-      else if (b.plan === 'business') groups['Business']++;
+      else if (b.plan === 'academy') groups['Academy']++;
       else if (b.plan === 'pro') groups['Pro']++;
       else groups['Starter']++;
     });
@@ -48,7 +48,7 @@ export default function PlanDistributionChart({ businesses }: PlanDistributionCh
     return [
       { name: 'Starter', value: groups['Starter'], fill: '#3b82f6' },
       { name: 'Pro', value: groups['Pro'], fill: '#10b981' },
-      { name: 'Business', value: groups['Business'], fill: '#f59e0b' },
+      { name: 'Academy', value: groups['Academy'], fill: '#f59e0b' },
       { name: 'Lifetime', value: groups['Lifetime'], fill: '#8b5cf6' }
     ].filter(d => d.value > 0);
   }, [businesses, timeframe]);
@@ -58,7 +58,7 @@ export default function PlanDistributionChart({ businesses }: PlanDistributionCh
       <CardHeader className="flex flex-row items-center justify-between">
         <div>
           <CardTitle className="flex items-center gap-2"><PieChartIcon className="h-5 w-5 text-purple-500" /> Plan Distribution</CardTitle>
-          <CardDescription>Businesses created in selected period.</CardDescription>
+          <CardDescription>Academies created in selected period.</CardDescription>
         </div>
         <TimeframePicker value={timeframe} onValueChange={setTimeframe} />
       </CardHeader>

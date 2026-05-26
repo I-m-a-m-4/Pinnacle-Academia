@@ -68,8 +68,8 @@ export async function POST(req: Request) {
       case 'subscription.created':
       case 'subscription.active':
       case 'subscription.updated':
-        console.log(`Processing ${event.type} for business:`, event.data?.business_id);
-        // TODO: Update business subscription status in Firestore
+        console.log(`Processing ${event.type} for academy:`, event.data?.business_id);
+        // TODO: Update academy subscription status in Firestore
         // const { business_id, status, plan_id } = event.data;
         break;
         
@@ -78,16 +78,16 @@ export async function POST(req: Request) {
         console.log('Processing Payment Success:', pData?.payment_id, 'Amount:', pData?.total_amount);
         
         const metadata = pData?.metadata || {};
-        const { businessId, planId, cycleMonths } = metadata;
+        const { academyId, planId, cycleMonths } = metadata;
 
         if (!adminFirestore) {
           console.error('Firestore admin failed to initialize, cannot process payment event.');
           break;
         }
 
-        if (businessId && planId) {
+        if (academyId && planId) {
           try {
-            const businessRef = adminFirestore.collection('businessInstances').doc(businessId);
+            const businessRef = adminFirestore.collection('businessInstances').doc(academyId);
             const businessDoc = await businessRef.get();
 
             if (businessDoc.exists) {
@@ -108,7 +108,7 @@ export async function POST(req: Request) {
 
               const batch = adminFirestore.batch();
               
-              // 1. Upgrade the business instance
+              // 1. Upgrade the academy instance
               batch.update(businessRef, {
                   plan: planId,
                   trialExpiresAt: newExpiryDate,
@@ -119,7 +119,7 @@ export async function POST(req: Request) {
               // 2. Record core purchase audit record
               const purchasesRef = adminFirestore.collection('purchases').doc();
               batch.set(purchasesRef, {
-                  businessId: businessId,
+                  academyId: academyId,
                   plan: planId,
                   amount: (pData.total_amount || 0) / 100, // Dodo yields total_amount in fractional units/cents
                   currency: pData.currency || 'USD',
@@ -128,7 +128,7 @@ export async function POST(req: Request) {
                   gateway: 'dodopayments'
               });
 
-              // 3. Log sub-history entry within the business
+              // 3. Log sub-history entry within the academy
               const historyRef = businessRef.collection('subscription_history').doc();
               batch.set(historyRef, {
                   action: `Subscribed via Dodo for ${monthsToAdd} month(s)`,
@@ -139,9 +139,9 @@ export async function POST(req: Request) {
               });
 
               await batch.commit();
-              console.log(`✅ Server Successfully applied Dodo update to Business: ${businessId}`);
+              console.log(`✅ Server Successfully applied Dodo update to Business: ${academyId}`);
             } else {
-              console.error(`Business record NOT FOUND in Firestore: ${businessId}`);
+              console.error(`Business record NOT FOUND in Firestore: ${academyId}`);
             }
           } catch (dbError: any) {
             console.error("Failed to update Firestore in Dodo Webhook:", dbError.message);
@@ -149,7 +149,7 @@ export async function POST(req: Request) {
             throw dbError; 
           }
         } else {
-          console.warn('Warning: Received payment.succeeded without valid metadata (businessId/planId). Skipping automation.');
+          console.warn('Warning: Received payment.succeeded without valid metadata (academyId/planId). Skipping automation.');
         }
         break;
       }

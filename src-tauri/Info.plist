@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
     <key>NSCameraUsageDescription</key>
-    <string>Zeneva needs access to your camera to scan product barcodes.</string>
+    <string>Pinnacle Academia needs access to your camera to scan barcodes and profile details.</string>
     <key>NSMicrophoneUsageDescription</key>
-    <string>Zeneva needs access to your microphone for media support.</string>
+    <string>Pinnacle Academia needs access to your microphone for voice support.</string>
 </dict>
 </plist>

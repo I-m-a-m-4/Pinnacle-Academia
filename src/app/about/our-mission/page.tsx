@@ -7,13 +7,6 @@ import { Barcode, Package, Box, Tag } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { InteractiveGrid } from '@/components/interactive-grid';
 
-declare global {
-  namespace JSX {
-    interface IntrinsicElements {
-      'iconify-icon': any;
-    }
-  }
-}
 
 export default function OurMissionPage() {
   const railRef = useRef<HTMLDivElement>(null);
@@ -231,7 +224,7 @@ export default function OurMissionPage() {
                       </div>
                       <div>
                          <h4 className="text-lg font-semibold font-jakarta text-neutral-900">Instant Visibility</h4>
-                         <p className="text-sm text-neutral-500 mt-1">See your entire business health across all locations in one beautiful, real-time dashboard.</p>
+                         <p className="text-sm text-neutral-500 mt-1">See your entire academy health across all locations in one beautiful, real-time dashboard.</p>
                       </div>
                     </div>
                     <div className="flex items-start gap-4">
@@ -321,7 +314,7 @@ export default function OurMissionPage() {
 
                   <article className="min-w-[400px] md:min-w-[500px] bg-white border border-neutral-100 rounded-3xl p-8 backdrop-blur-md -rotate-2 shadow-xl flex-shrink-0">
                     <p className="text-xl md:text-2xl text-neutral-900 tracking-tight font-jakarta font-medium">
-                      "I used to spend 4 hours a night reconcilling numbers. Now, Zeneva does it in real-time. My business is finally operating with clarity."
+                      "I used to spend 4 hours a night reconcilling numbers. Now, Zeneva does it in real-time. My academy is finally operating with clarity."
                     </p>
                     <div className="mt-8 flex items-center gap-4">
                       <div className="h-12 w-12 rounded-xl bg-primary/10 flex items-center justify-center font-bold text-primary">CO</div>
@@ -360,7 +353,7 @@ export default function OurMissionPage() {
                {mounted && <iconify-icon icon="solar:rocket-linear" class="h-4 w-4 text-primary" />}
                <span className="font-geist">Join 30+ Forward-Thinking Retailers</span>
              </div>
-             <h2 className="text-4xl md:text-6xl lg:text-7xl font-medium tracking-tighter text-neutral-900 mb-8 font-jakarta">Ready to see your business clearly?</h2>
+             <h2 className="text-4xl md:text-6xl lg:text-7xl font-medium tracking-tighter text-neutral-900 mb-8 font-jakarta">Ready to see your academy clearly?</h2>
              <p className="text-neutral-600 text-lg md:text-xl mb-12 max-w-2xl mx-auto font-geist">
                Stop firefighting and start leading. Experience the future of retail management today with Zeneva.
              </p>
