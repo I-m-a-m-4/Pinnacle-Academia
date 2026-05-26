@@ -1,8 +1,7 @@
-
 'use client';
 
 import React, { useState } from 'react';
-import { Check, Zap, Barcode, Package, Box, Tag, Receipt } from "lucide-react";
+import { Check, Zap, BookOpen, GraduationCap, Award, Calendar, HelpCircle } from "lucide-react";
 import { motion } from 'framer-motion';
 import MarketingHeader from "@/components/layout/marketing-header";
 import MarketingFooter from "@/components/layout/marketing-footer";
@@ -18,32 +17,28 @@ import { InteractiveGrid } from '@/components/interactive-grid';
 
 const faqItems = [
     {
-      question: "Can I use Zeneva for free?",
-      answer: "Yes! Our Starter plan is 100% free forever for small shops with up to 500 subjects. It includes our robust POS and basic analytics to help you get off the ground."
+      question: "Can I use Pinnacle Academia for free?",
+      answer: "Yes! Our Starter plan is 100% free forever. It includes access to basic syllabus tracking, one active mock CBT test simulation, and easy-mode bot challenges."
     },
     {
-      question: "What happens after my 30-day trial?",
-      answer: "You can choose to subscribe to the plan that fits your academy or downgrade to our free Starter plan. Your data remains safe and accessible regardless of your choice."
+      question: "What is included in the Pro Plan?",
+      answer: "The Pro Plan gives you unlimited access to full CBT mock exam simulations for OAU, UI, and UNILAG, complete study tracking for 5+ subjects, all text novels summaries/quizzes, offline speed battles, and AI-powered performance analysis."
     },
     {
-      question: "Do I need a credit card to sign up?",
-      answer: "No credit card is required to start your 30-day free trial. You only provide payment details when you're ready to subscribe to a paid plan."
+      question: "What is the Elite Mentorship plan?",
+      answer: "The Elite Plan includes all Pro features plus two 1-on-1 private peer mentorship sessions per month with top-scoring university students, a custom study plan built for your target course, and 24/7 access to the AI Study Coach."
     },
     {
-      question: "Can I cancel my subscription anytime?",
-      answer: "Yes, you can cancel at any time from your dashboard. If you've paid for a year upfront, you'll continue to have access until the end of your billing cycle."
+      question: "How do mentorship sessions work?",
+      answer: "Once booked on the platform, sessions are scheduled on our calendar. You will have a private 1-on-1 online consultation with an elite mentor who scored high in UTME for your chosen course."
     },
     {
-      question: "Do you offer discounts for non-profits?",
-      answer: "We support businesses that give back. Please reach out to our team at zenevapos@gmail.com to discuss special pricing for registered charitable organizations."
+      question: "Can I change my plan or cancel anytime?",
+      answer: "Yes, you can cancel or change your plan at any time directly from your student settings panel."
     },
     {
-      question: "Can I accept international payments?",
-      answer: "Yes! Zeneva now supports international payments via our Paystack integration. You can accept USD and other global currencies from cards anywhere in the world on our Pro and Enterprise plans."
-    },
-    {
-      question: "Is my data secure?",
-      answer: "Absolutely. Zeneva uses AES-256 bank-grade encryption to protect your local data at rest and industry-standard SSL/TLS for data in transit. We also provide full audit logs to track every movement in your academy."
+      question: "Is there support for payment in USD?",
+      answer: "Yes, we support both Naira payments and global USD card payments via our Paystack gateway integration."
     }
   ];
 
@@ -70,28 +65,28 @@ export default function PricingContent() {
                                 transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
                                 className="absolute -top-10 left-[10%]"
                             >
-                                <Barcode className="w-16 h-16 text-slate-400" />
+                                <GraduationCap className="w-16 h-16 text-slate-400" />
                             </motion.div>
                             <motion.div 
                                 animate={{ y: [0, 30, 0], rotate: [0, -15, 0] }}
                                 transition={{ duration: 8, repeat: Infinity, ease: "easeInOut", delay: 1 }}
                                 className="absolute top-20 right-[5%]"
                             >
-                                <Package className="w-20 h-20 text-slate-400" />
+                                <BookOpen className="w-20 h-20 text-slate-400" />
                             </motion.div>
                             <motion.div 
                                 animate={{ y: [0, -20, 0], scale: [1, 1.1, 1] }}
                                 transition={{ duration: 7, repeat: Infinity, ease: "easeInOut", delay: 0.5 }}
                                 className="absolute bottom-20 left-[5%]"
                             >
-                                <Box className="w-14 h-14 text-slate-400" />
+                                <Award className="w-14 h-14 text-slate-400" />
                             </motion.div>
                             <motion.div 
                                 animate={{ y: [0, 35, 0], rotate: [0, 20, 0] }}
                                 transition={{ duration: 9, repeat: Infinity, ease: "easeInOut", delay: 1.5 }}
                                 className="absolute -bottom-10 right-[10%]"
                             >
-                                <Tag className="w-24 h-24 text-slate-400" />
+                                <Calendar className="w-24 h-24 text-slate-400" />
                             </motion.div>
                         </div>
 
@@ -103,18 +98,18 @@ export default function PricingContent() {
                             <div className="w-px h-3 bg-slate-300"></div>
                             <div className="flex items-center gap-2">
                                 <Check className="w-3.5 h-3.5 text-emerald-500" />
-                                <span className="text-[10px] font-bold text-emerald-600 uppercase tracking-wider">Accepting Global USD (Paystack)</span>
+                                <span className="text-[10px] font-bold text-emerald-600 uppercase tracking-wider">Secure Payment via Paystack</span>
                             </div>
                         </div>
                         <h1 className="text-4xl md:text-6xl font-light text-slate-900 tracking-tight font-bricolage max-w-3xl mx-auto mb-6">
-                            Choose the Perfect Plan for Your Business
+                            Choose the Perfect Plan for Your Studies
                         </h1>
                         <p className="text-lg text-slate-500 max-w-2xl mx-auto font-dm-sans tracking-tight mb-12">
-                            Start for free, and scale as you grow. All plans come with a 30-day free trial of our premium features. No credit card required.
+                            Start for free, and unlock premium features as you prepare for your university admissions mock exams.
                         </p>
 
                         <div className="flex flex-col md:flex-row justify-center items-center gap-4 mb-4">
-                            {/* Billing Toggle */}
+                            {/* Billing Cycle Toggle */}
                             <div className="inline-flex items-center p-1 bg-neutral-100/80 border-2 border-dashed border-neutral-200 rounded-xl">
                                 <button
                                     onClick={() => setBillingCycle('monthly')}
@@ -152,25 +147,23 @@ export default function PricingContent() {
                     </div>
                 </section>
 
-                {/* Pricing Section (Exact Replica of Homepage) */}
+                {/* Pricing Section Grid */}
                 <section className="py-24 px-6 bg-white">
                     <div className="max-w-6xl mx-auto">
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                             {/* Starter Plan */}
                             <div className="relative flex flex-col p-8 bg-white border-2 border-dashed border-slate-200 rounded-lg shadow-sm">
                                 <h3 className="text-lg font-semibold leading-5 text-slate-900">Starter</h3>
-                                <p className="mt-4 text-slate-500 text-sm">For new businesses getting started with inventory management.</p>
+                                <p className="mt-4 text-slate-500 text-sm">For students getting started with basic UTME exam preparations.</p>
 
                                 <div className="mt-4">
                                     <span className="text-4xl font-bold tracking-tight text-slate-900">Free</span>
                                 </div>
                                 <ul className="mt-6 space-y-4 text-sm flex-1">
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Up to 500 subjects</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> 1 Staff Account</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Standard POS (Unlimited Sales)</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Basic Analytics</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Invoicing & Receipts</li>
-                                    <li className="flex items-center gap-3 text-slate-700 font-bold">Free Online Storefront</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Access to limited syllabus tracking</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Take 1 Active Mock Test at a time</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Basic Performance Reports</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Standard Bot Challenge (Easy Mode)</li>
                                 </ul>
                                 <div className="mt-auto pt-8">
                                     <Button asChild size="lg" className="w-full">
@@ -183,13 +176,13 @@ export default function PricingContent() {
                             <div className="relative flex flex-col p-8 bg-white border-2 border-dashed border-primary rounded-lg shadow-2xl shadow-primary/10">
                                 <p className="absolute top-0 -translate-y-1/2 bg-primary text-white px-3 py-1 text-sm font-semibold tracking-wide rounded-full">Most Popular</p>
                                 <h3 className="text-lg font-semibold leading-5 text-slate-900">Pro</h3>
-                                <p className="mt-4 text-slate-500 text-sm">For growing businesses that need advanced tools and an online presence.</p>
+                                <p className="mt-4 text-slate-500 text-sm">Comprehensive study features for top-scoring university candidates.</p>
 
                                 <div className="mt-4">
                                     <span className="text-4xl font-bold tracking-tight text-slate-900">
                                         {currency === 'NGN' 
-                                            ? (billingCycle === 'monthly' ? '₦10,000' : '₦100,000')
-                                            : (billingCycle === 'monthly' ? '$7' : '$70')
+                                            ? (billingCycle === 'monthly' ? '₦1,500' : '₦15,000')
+                                            : (billingCycle === 'monthly' ? '$1.50' : '$15.00')
                                         }
                                     </span>
                                     <span className="text-base font-medium text-slate-500">
@@ -197,37 +190,35 @@ export default function PricingContent() {
                                     </span>
                                     {billingCycle === 'yearly' && (
                                         <div className="text-xs text-emerald-600 font-bold mt-1 block animate-pulse">
-                                            Save {currency === 'NGN' ? '₦20,000!' : '$14!'}
+                                            Save {currency === 'NGN' ? '₦3,000!' : '$3.00!'}
                                         </div>
                                     )}
                                 </div>
                                 <ul className="mt-6 space-y-4 text-sm flex-1">
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Up to 1,500 subjects</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> 5 Staff Accounts</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Customizable E-Commerce Storefront</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Backorders & Backdating Capability</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Invoicing & Debt Management</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Advanced Reports & Analytics</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> AI Subject Troubleshooter</li>
-                                    <li className="flex items-center gap-3 text-slate-700 font-semibold"><Check className="h-5 w-5 text-primary" /> Granular Staff Permissions (RBAC)</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Full access to 5+ subjects syllabus</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Unlimited Mock CBT simulations</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Offline Speed Battles (All difficulties)</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Novel Chapter Summaries & Quizzes</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Smart AI Study Insights & reports</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Target Course Admission analysis</li>
                                 </ul>
                                 <div className="mt-auto pt-8">
                                     <Button asChild size="lg" className="w-full">
-                                        <Link href="/signup">Start Your Pro Trial</Link>
+                                        <Link href="/signup">Start Pro Trial</Link>
                                     </Button>
                                 </div>
                             </div>
 
-                            {/* Business Plan */}
+                            {/* Elite Plan */}
                             <div className="relative flex flex-col p-8 bg-white border-2 border-dashed border-slate-200 rounded-lg shadow-sm">
-                                <h3 className="text-lg font-semibold leading-5 text-slate-900">Business</h3>
-                                <p className="mt-4 text-slate-500 text-sm">For established businesses that require our most powerful AI tools and support.</p>
+                                <h3 className="text-lg font-semibold leading-5 text-slate-900">Elite</h3>
+                                <p className="mt-4 text-slate-500 text-sm">Complete learning resources plus private university student mentoring.</p>
 
                                 <div className="mt-4">
                                     <span className="text-4xl font-bold tracking-tight text-slate-900">
                                         {currency === 'NGN'
-                                            ? (billingCycle === 'monthly' ? '₦30,000' : '₦300,000')
-                                            : (billingCycle === 'monthly' ? '$20' : '$200')
+                                            ? (billingCycle === 'monthly' ? '₦5,000' : '₦50,000')
+                                            : (billingCycle === 'monthly' ? '$5.00' : '$50.00')
                                         }
                                     </span>
                                     <span className="text-base font-medium text-slate-500">
@@ -235,20 +226,20 @@ export default function PricingContent() {
                                     </span>
                                     {billingCycle === 'yearly' && (
                                         <div className="text-xs text-emerald-600 font-bold mt-1 block">
-                                            Save {currency === 'NGN' ? '₦60,000!' : '$40!'}
+                                            Save {currency === 'NGN' ? '₦10,000!' : '$10.00!'}
                                         </div>
                                     )}
                                 </div>
                                 <ul className="mt-6 space-y-4 text-sm flex-1">
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Unlimited subjects & staff accounts</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> All features in Pro</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> AI Business Performance Dashboard</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Granular Role-Based Access Control</li>
-                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Priority Phone & Email Support</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> All features in Pro Plan</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> 2 Private Peer Mentorship sessions / month</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Custom Study Planner creation</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> AI Study Coach active 24/7</li>
+                                    <li className="flex items-center gap-3 text-slate-700"><Check className="h-5 w-5 text-primary" /> Priority review of mock test queries</li>
                                 </ul>
                                 <div className="mt-auto pt-8">
                                     <Button asChild size="lg" className="w-full">
-                                        <Link href="/signup">Start Your Business Trial</Link>
+                                        <Link href="/signup">Start Elite Trial</Link>
                                     </Button>
                                 </div>
                             </div>

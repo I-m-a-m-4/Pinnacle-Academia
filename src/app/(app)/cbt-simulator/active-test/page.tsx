@@ -25,7 +25,8 @@ import {
     Award, 
     BookOpen, 
     FileText,
-    History
+    History,
+    X
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
@@ -65,6 +66,8 @@ export default function ActiveTestPage() {
     // Gamified Bot state for Speed Battle mode
     const [botProgress, setBotProgress] = React.useState(0);
     const [botIntervalId, setBotIntervalId] = React.useState<any>(null);
+
+    const isLoadedRef = React.useRef(false);
 
     // Load active session from sessionStorage
     React.useEffect(() => {
@@ -148,6 +151,9 @@ export default function ActiveTestPage() {
                     }, 5000);
                     setBotIntervalId(interval);
                 }
+
+                // Set hydration ref to true after load batch finishes
+                isLoadedRef.current = true;
             } else {
                 toast({
                     variant: 'destructive',
@@ -161,7 +167,7 @@ export default function ActiveTestPage() {
 
     // Save progress to sessionStorage on changes
     React.useEffect(() => {
-        if (sessionData && !isSubmitted) {
+        if (isLoadedRef.current && sessionData && !isSubmitted) {
             const progress = {
                 timeLeft,
                 currentSubjectIndex,
@@ -387,6 +393,19 @@ export default function ActiveTestPage() {
         router.push('/cbt-simulator/select-subjects');
     };
 
+    const handleQuitExam = () => {
+        if (confirm("Are you sure you want to quit the exam? All unsaved progress for this session will be lost.")) {
+            if (botIntervalId) clearInterval(botIntervalId);
+            sessionStorage.removeItem('active_exam_session');
+            sessionStorage.removeItem('active_exam_progress');
+            toast({
+                title: 'Exam Quit',
+                description: 'You have quit the examination session.'
+            });
+            router.push('/cbt-simulator/select-subjects');
+        }
+    };
+
     const isPracticeMode = sessionData.mode === 'Bank Transfer' || sessionData.mode === 'Practice Mode';
     const isSpeedBattle = sessionData.mode === 'Card' || sessionData.mode === 'Speed Battle';
     const totalExamQuestions = sessionData.subjects.reduce((sum: number, s: any) => sum + s.questions.length, 0);
@@ -450,7 +469,7 @@ export default function ActiveTestPage() {
                         </div>
                     </CardContent>
                     <CardFooter className="flex justify-center gap-4 pt-6">
-                        <Button variant="outline" onClick={() => router.push('/dashboard')} className="min-w-[150px]"><Home className="mr-2 h-4 w-4" /> Go Dashboard</Button>
+                        <Button variant="outline" onClick={() => router.push('/dashboard')} className="min-w-[150px] hover:bg-muted hover:text-foreground"><Home className="mr-2 h-4 w-4" /> Go Dashboard</Button>
                         <Button onClick={() => {
                             sessionStorage.removeItem('active_exam_session');
                             router.push('/cbt-simulator/select-subjects');
@@ -543,15 +562,27 @@ export default function ActiveTestPage() {
                             </div>
                         )}
 
-                        <Button 
-                            variant="outline" 
-                            size="sm" 
-                            onClick={handleParkTest}
-                            className="text-xs font-bold rounded-xl h-9 border border-primary/20 text-primary hover:bg-primary/5 gap-1.5"
-                        >
-                            <History className="h-3.5 w-3.5" />
-                            Park Test
-                        </Button>
+                        <div className="flex items-center gap-2">
+                            <Button 
+                                variant="outline" 
+                                size="sm" 
+                                onClick={handleParkTest}
+                                className="text-xs font-bold rounded-xl h-9 border border-primary/20 text-primary hover:bg-primary/10 hover:text-primary gap-1.5"
+                            >
+                                <History className="h-3.5 w-3.5" />
+                                Park Test
+                            </Button>
+
+                            <Button 
+                                variant="outline" 
+                                size="sm" 
+                                onClick={handleQuitExam}
+                                className="text-xs font-bold rounded-xl h-9 border border-red-500/20 text-red-600 hover:bg-red-50 hover:text-red-700 gap-1.5"
+                            >
+                                <X className="h-3.5 w-3.5" />
+                                Quit Exam
+                            </Button>
+                        </div>
 
                         <div className="flex items-center gap-2 bg-destructive/10 border border-destructive/20 text-destructive rounded-lg px-3 py-1 text-sm font-bold font-mono">
                             <Clock className="h-4 w-4" />
@@ -594,8 +625,8 @@ export default function ActiveTestPage() {
                             size="sm"
                             onClick={toggleFlagQuestion}
                             className={cn(
-                                "h-8 border hover:bg-muted/80 rounded-xl",
-                                isQuestionFlagged && "text-amber-600 bg-amber-500/10 border-amber-500/20"
+                                "h-8 border hover:bg-muted/80 hover:text-foreground rounded-xl",
+                                isQuestionFlagged && "text-amber-600 bg-amber-500/10 border-amber-500/20 hover:text-amber-700"
                             )}
                         >
                             <Flag className="h-4 w-4 mr-1.5" /> {isQuestionFlagged ? 'Flagged' : 'Flag'}
@@ -658,7 +689,7 @@ export default function ActiveTestPage() {
                             variant="outline"
                             onClick={handlePrevQuestion}
                             disabled={currentSubjectIndex === 0 && currentQuestionIndex === 0}
-                            className="rounded-xl px-4"
+                            className="rounded-xl px-4 hover:bg-muted hover:text-foreground"
                         >
                             <ChevronLeft className="mr-1 h-4 w-4" /> Previous
                         </Button>
@@ -681,20 +712,25 @@ export default function ActiveTestPage() {
                         <CardDescription>Click to jump to a question directly.</CardDescription>
                     </CardHeader>
 
-                    <div className="flex-1 overflow-y-auto pr-1 scrollbar-none hover:scrollbar-thin">
-                        <div className="space-y-4">
-                            <div>
-                                <h4 className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-2 flex items-center gap-1.5"><BookOpen className="h-3 w-3" /> {currentSubject.name}</h4>
-                                <div className="grid grid-cols-5 gap-2">
-                                    {currentSubject?.questions.map((_: any, idx: number) => {
-                                        const isAnswered = answers[currentSubject.name]?.[idx] !== undefined;
-                                        const isFlagged = flags[currentSubject.name]?.includes(idx);
-                                        const isCurrent = idx === currentQuestionIndex;
+                    <div className="flex-1 overflow-y-auto pr-1 scrollbar-none hover:scrollbar-thin space-y-4">
+                        {sessionData.subjects.map((sub: any, subIdx: number) => (
+                            <div key={sub.name} className="space-y-2">
+                                <h4 className="text-[10px] font-bold text-muted-foreground uppercase tracking-wider flex items-center gap-1.5 border-b pb-1">
+                                    <BookOpen className="h-3 w-3 text-primary" /> {sub.name}
+                                </h4>
+                                <div className="grid grid-cols-5 gap-1.5">
+                                    {sub.questions.map((_: any, idx: number) => {
+                                        const isAnswered = answers[sub.name]?.[idx] !== undefined;
+                                        const isFlagged = flags[sub.name]?.includes(idx);
+                                        const isCurrent = subIdx === currentSubjectIndex && idx === currentQuestionIndex;
 
                                         return (
                                             <button
                                                 key={idx}
-                                                onClick={() => setCurrentQuestionIndex(idx)}
+                                                onClick={() => {
+                                                    setCurrentSubjectIndex(subIdx);
+                                                    setCurrentQuestionIndex(idx);
+                                                }}
                                                 className={cn(
                                                     "h-8 w-8 rounded-lg text-xs font-bold transition-all duration-200 border flex items-center justify-center active:scale-90",
                                                     isCurrent
@@ -712,7 +748,7 @@ export default function ActiveTestPage() {
                                     })}
                                 </div>
                             </div>
-                        </div>
+                        ))}
                     </div>
                 </div>
 

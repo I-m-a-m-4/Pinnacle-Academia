@@ -159,6 +159,39 @@ import { Input } from '@/components/ui/input';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import CyberShield from '@/components/admin/cyber-shield';
 
+const DEFAULT_QUESTIONS = [
+  {
+    id: 'sb-q1',
+    questionText: 'Which of the following is a unit of power?',
+    options: ['Newton', 'Watt', 'Joule', 'Pascal'],
+    correctAnswer: 'Watt'
+  },
+  {
+    id: 'sb-q2',
+    questionText: 'Identify the synonym of the word "Pragmatic".',
+    options: ['Idealistic', 'Practical', 'Theoretical', 'Impulsive'],
+    correctAnswer: 'Practical'
+  },
+  {
+    id: 'sb-q3',
+    questionText: 'Solve for x: 3x - 7 = 14.',
+    options: ['x = 5', 'x = 6', 'x = 7', 'x = 8'],
+    correctAnswer: 'x = 7'
+  },
+  {
+    id: 'sb-q4',
+    questionText: 'What is the chemical symbol for Gold?',
+    options: ['Au', 'Ag', 'Fe', 'Cu'],
+    correctAnswer: 'Au'
+  },
+  {
+    id: 'sb-q5',
+    questionText: 'Which organelle is referred to as the powerhouse of the cell?',
+    options: ['Nucleus', 'Mitochondria', 'Ribosome', 'Golgi Body'],
+    correctAnswer: 'Mitochondria'
+  }
+];
+
 const CustomTooltipContent = ({ active, payload, label }: any) => {
     if (active && payload && payload.length) {
         const isRevenue = payload[0].name === 'Revenue';

@@ -47,7 +47,7 @@ export default function MarketingHeader() {
     { href: "/", label: "Home" },
     { href: "/about", label: "About Us" },
     { href: "/our-services", label: "Our Services" },
-    { href: "/study-materials", label: "Study Materials" },
+    { href: "/study-materials", label: "Testimonials" },
     { href: "/blog", label: "Latest News" },
   ];
 

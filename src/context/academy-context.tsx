@@ -1939,7 +1939,7 @@ export function AcademyProvider({ children }: { children: ReactNode }) {
         product: { id: sub.id || 'sub-manual', name: sub.name, price: sub.questions.length },
         quantity: 1
       })),
-      customer: { name: sessionData.studentName || 'Student', id: 'temp-std', lowercaseName: 'student', lowercaseEmail: '', email: '', phone: '', loyaltyPoints: 0, totalSpent: 0, createdAt: new Date() },
+      customer: { name: sessionData.studentName || 'Student', id: 'temp-std', lowercaseName: 'student', lowercaseEmail: '', email: '', phone: '', loyaltyPoints: 0, totalSpent: 0, createdAt: new Date(), academyId: academy?.id || '' },
       timestamp: Date.now(),
       total: sessionData.subjects.reduce((acc: number, sub: any) => acc + sub.questions.length, 0),
       notes: `Active Exam Session`

@@ -21,33 +21,48 @@ import { biologyQuestions } from '../data/biology';
 const DEFAULT_MAPPINGS = [
     {
         university: 'Obafemi Awolowo University (OAU)',
-        course: 'General Aptitude Test',
-        subjects: ['OAU Aptitude Test']
-    },
-    {
-        university: 'University of Ibadan (UI)',
-        course: 'Medicine and Surgery',
-        subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
-    },
-    {
-        university: 'University of Ibadan (UI)',
-        course: 'Computer Science',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
-    },
-    {
-        university: 'University of Lagos (UNILAG)',
-        course: 'Computer Science',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
-    },
-    {
-        university: 'University of Lagos (UNILAG)',
         course: 'Medicine and Surgery',
         subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
-        course: 'Medicine and Surgery (Specialized)',
+        course: 'Engineering Courses',
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'Obafemi Awolowo University (OAU)',
+        course: 'Computer Science',
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'University of Ibadan (UI)',
+        course: 'Medicine and Surgery',
         subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
+    },
+    {
+        university: 'University of Ibadan (UI)',
+        course: 'Computer Science',
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'University of Ibadan (UI)',
+        course: 'Engineering Courses',
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'University of Lagos (UNILAG)',
+        course: 'Computer Science',
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'University of Lagos (UNILAG)',
+        course: 'Medicine and Surgery',
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
+    },
+    {
+        university: 'University of Lagos (UNILAG)',
+        course: 'Engineering Courses',
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
     }
 ];
 
@@ -65,7 +80,7 @@ export default function SelectProductsPage() {
     const { toast } = useToast();
 
     const [activeUni, setActiveUni] = React.useState('Obafemi Awolowo University (OAU)');
-    const [activeCourse, setActiveCourse] = React.useState('General Aptitude Test');
+    const [activeCourse, setActiveCourse] = React.useState('Medicine and Surgery');
     const [isNavigating, setIsNavigating] = React.useState(false);
     const [customSubjects, setCustomSubjects] = React.useState<string[]>([]);
 
@@ -123,68 +138,50 @@ export default function SelectProductsPage() {
         clearCart(); // Clear old selection
 
         let examSubjects: any[] = [];
-        const isOAU = activeUni.toLowerCase().includes('oau') || activeUni.toLowerCase().includes('obafemi');
-        const isGeneralAptitude = activeCourse === 'General Aptitude Test';
 
-        if (isOAU && isGeneralAptitude) {
-            // 40 questions total for OAU general aptitude
-            const combinedQuestions = [
-                ...englishQuestions.slice(0, 15),
-                ...mathematicsQuestions.slice(0, 15),
-                ...physicsQuestions.slice(0, 5),
-                ...chemistryQuestions.slice(0, 5)
-            ].map((q, idx) => ({
-                ...q,
-                id: `oau-apt-${idx + 1}`
-            }));
-
-            examSubjects = [{
-                name: 'OAU Aptitude Test',
-                questions: combinedQuestions
-            }];
-        } else {
-            // Load based on selected subjects
-            const subjectsToUse = customSubjects.length > 0
-                ? DEFAULT_SUBJECTS.filter(s => customSubjects.includes(s.name))
-                : DEFAULT_SUBJECTS.filter(sub => {
-                    if (activeMapping) {
-                        return activeMapping.subjects.some((s: string) => s.toLowerCase() === sub.name.toLowerCase());
-                    }
-                    return true;
-                });
-
-            if (subjectsToUse.length === 0) {
-                toast({
-                    variant: 'destructive',
-                    title: 'Configuration Error',
-                    description: 'Please select at least one subject to begin.'
-                });
-                setIsNavigating(false);
-                return;
-            }
-
-            examSubjects = subjectsToUse.map(sub => {
-                let questions = [];
-                if (sub.name === 'Use of English') questions = englishQuestions;
-                else if (sub.name === 'Mathematics') questions = mathematicsQuestions;
-                else if (sub.name === 'Physics') questions = physicsQuestions;
-                else if (sub.name === 'Chemistry') questions = chemistryQuestions;
-                else if (sub.name === 'Biology') questions = biologyQuestions;
-                else questions = englishQuestions;
-
-                return {
-                    id: sub.id,
-                    name: sub.name,
-                    questions: questions.slice(0, 40) // 40 questions per subject
-                };
+        // Load based on selected subjects
+        const subjectsToUse = customSubjects.length > 0
+            ? DEFAULT_SUBJECTS.filter(s => customSubjects.includes(s.name))
+            : DEFAULT_SUBJECTS.filter(sub => {
+                if (activeMapping) {
+                    return activeMapping.subjects.some((s: string) => s.toLowerCase() === sub.name.toLowerCase());
+                }
+                return true;
             });
+
+        if (subjectsToUse.length === 0) {
+            toast({
+                variant: 'destructive',
+                title: 'Configuration Error',
+                description: 'Please select at least one subject to begin.'
+            });
+            setIsNavigating(false);
+            return;
         }
+
+        const isOAU = activeUni.toLowerCase().includes('oau') || activeUni.toLowerCase().includes('obafemi');
+
+        examSubjects = subjectsToUse.map(sub => {
+            let questions = [];
+            if (sub.name === 'Use of English') questions = englishQuestions;
+            else if (sub.name === 'Mathematics') questions = mathematicsQuestions;
+            else if (sub.name === 'Physics') questions = physicsQuestions;
+            else if (sub.name === 'Chemistry') questions = chemistryQuestions;
+            else if (sub.name === 'Biology') questions = biologyQuestions;
+            else questions = englishQuestions;
+
+            return {
+                id: sub.id,
+                name: sub.name,
+                questions: questions.slice(0, isOAU ? 10 : 40) // 10 questions per subject for OAU, 40 for others
+            };
+        });
 
         const activeSession = {
             receiptNumber: `slip-${Math.floor(100000 + Math.random() * 900000)}`,
             subjects: examSubjects,
             mode: 'Full Exam',
-            timeLimit: (isOAU && isGeneralAptitude) ? 40 : examSubjects.length * 30, // 40 mins for OAU, 30 mins per subject for others
+            timeLimit: isOAU ? 40 : examSubjects.length * 30, // 40 mins for OAU, 30 mins per subject for others
             targetScore: 70,
             studentName: currentUserProfile?.name || 'Student'
         };
@@ -194,9 +191,7 @@ export default function SelectProductsPage() {
         toast({
             variant: 'success',
             title: 'Exam Slip Generated',
-            description: (isOAU && isGeneralAptitude)
-                ? 'Starting Obafemi Awolowo University 40-question general aptitude test.'
-                : `Starting Post-UTME Exam with ${examSubjects.length} subjects.`
+            description: `Starting Post-UTME Exam with ${examSubjects.length} subjects.`
         });
 
         router.push('/cbt-simulator/active-test');
@@ -279,7 +274,7 @@ export default function SelectProductsPage() {
                                 {DEFAULT_SUBJECTS.map(sub => {
                                     const isSelected = customSubjects.length > 0 
                                         ? customSubjects.includes(sub.name)
-                                        : (activeMapping?.subjects.includes(sub.name) || (activeUni.toLowerCase().includes('oau') && activeCourse === 'General Aptitude Test'));
+                                        : activeMapping?.subjects.includes(sub.name);
                                     
                                     return (
                                         <button
@@ -323,8 +318,8 @@ export default function SelectProductsPage() {
                             <div>
                                 <span className="text-[10px] text-muted-foreground font-semibold uppercase tracking-wider block">Timing & Questions</span>
                                 <span className="text-sm font-semibold text-foreground">
-                                    {activeUni.toLowerCase().includes('oau') && activeCourse === 'General Aptitude Test'
-                                        ? '40 Questions | 40 Minutes'
+                                    {activeUni.toLowerCase().includes('oau') || activeUni.toLowerCase().includes('obafemi')
+                                        ? `${(customSubjects.length > 0 ? customSubjects.length : (activeMapping?.subjects.length || 0)) * 10} Questions | 40 Minutes`
                                         : `${(customSubjects.length > 0 ? customSubjects.length : (activeMapping?.subjects.length || 0)) * 40} Questions | ${(customSubjects.length > 0 ? customSubjects.length : (activeMapping?.subjects.length || 0)) * 30} Minutes`
                                     }
                                 </span>
