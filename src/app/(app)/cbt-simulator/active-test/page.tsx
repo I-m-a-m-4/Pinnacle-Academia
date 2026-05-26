@@ -28,147 +28,18 @@ import {
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
-// High-quality Seeded Mock Questions for common subjects
+import { englishQuestions } from '../data/use-of-english';
+import { mathematicsQuestions } from '../data/mathematics';
+import { physicsQuestions } from '../data/physics';
+import { chemistryQuestions } from '../data/chemistry';
+import { biologyQuestions } from '../data/biology';
+
 const SEED_QUESTIONS: Record<string, any[]> = {
-    'Use of English': [
-        {
-            id: 'eng-1',
-            questionText: 'Choose the option nearest in meaning to the capitalized word: The tutor gave a COGENT explanation for the solution.',
-            options: ['Vague', 'Compelling', 'Weak', 'Complicated'],
-            correctAnswer: 'B',
-            explanation: 'Cogent means clear, logical, and convincing; compelling is the nearest synonym.'
-        },
-        {
-            id: 'eng-2',
-            questionText: 'Choose the word that is opposite in meaning to the capitalized word: Pinnacle Academia has an ABUNDANT repository of study resources.',
-            options: ['Scant', 'Plentiful', 'Lavish', 'Overflowing'],
-            correctAnswer: 'A',
-            explanation: 'Abundant means existing or available in large quantities. Scant means barely sufficient or lacking, which is the opposite.'
-        },
-        {
-            id: 'eng-3',
-            questionText: 'Fill in the blank: Neither the students nor the instructor ______ ready for the speed battle.',
-            options: ['were', 'was', 'are', 'been'],
-            correctAnswer: 'B',
-            explanation: 'When subjects are joined by "neither... nor", the verb agrees with the closer subject ("the instructor", which is singular: "was").'
-        },
-        {
-            id: 'eng-4',
-            questionText: 'Identify the grammatically correct sentence:',
-            options: [
-                'He has been staying here since five years.',
-                'He has stayed here for five years.',
-                'He stayed here since five years ago.',
-                'He is staying here since five years.'
-            ],
-            correctAnswer: 'B',
-            explanation: 'For duration of time, we use "for" (for five years). For starting point, we use "since" (since 2021).'
-        }
-    ],
-    'Mathematics': [
-        {
-            id: 'math-1',
-            questionText: 'Solve for x: log₂(x + 3) + log₂(x - 3) = 4',
-            options: ['x = 4', 'x = 5', 'x = 3', 'x = 7'],
-            correctAnswer: 'B',
-            explanation: 'Using log rules: log₂((x+3)(x-3)) = 4 => x² - 9 = 2⁴ => x² - 9 = 16 => x² = 25 => x = 5 (since log is undefined for negative arguments).'
-        },
-        {
-            id: 'math-2',
-            questionText: 'Find the derivative of f(x) = 3x³ - 5x² + 2x - 7 at x = 2.',
-            options: ['18', '24', '20', '16'],
-            correctAnswer: 'A',
-            explanation: 'f\'(x) = 9x² - 10x + 2. Evaluating at x = 2: f\'(2) = 9(4) - 10(2) + 2 = 36 - 20 + 2 = 18.'
-        },
-        {
-            id: 'math-3',
-            questionText: 'The sum of the first ten terms of an arithmetic progression (AP) is 150. If the first term is 6, find the common difference.',
-            options: ['2', '3', '4', '1.5'],
-            correctAnswer: 'A',
-            explanation: 'S_n = n/2 [2a + (n-1)d] => 150 = 5 [12 + 9d] => 30 = 12 + 9d => 18 = 9d => d = 2.'
-        },
-        {
-            id: 'math-4',
-            questionText: 'A bag contains 5 red balls and 3 blue balls. If two balls are drawn at random without replacement, find the probability that both are red.',
-            options: ['5/14', '25/64', '5/8', '3/14'],
-            correctAnswer: 'A',
-            explanation: 'P(Red then Red) = (5/8) * (4/7) = 20/56 = 5/14.'
-        }
-    ],
-    'Physics': [
-        {
-            id: 'phys-1',
-            questionText: 'A car travelling at 20 m/s decelerates uniformly to a stop over a distance of 40m. Find the magnitude of deceleration.',
-            options: ['5.0 m/s²', '2.5 m/s²', '10 m/s²', '4.0 m/s²'],
-            correctAnswer: 'A',
-            explanation: 'Using v² = u² - 2as => 0 = 20² - 2*a*40 => 80a = 400 => a = 5.0 m/s².'
-        },
-        {
-            id: 'phys-2',
-            questionText: 'An object of mass 2kg is suspended from a spring of force constant 200 N/m. Find the period of oscillation. (Take π = 3.14)',
-            options: ['0.63s', '1.26s', '0.31s', '2.00s'],
-            correctAnswer: 'A',
-            explanation: 'T = 2π * √(m/k) = 2 * 3.14 * √(2/200) = 6.28 * √(0.01) = 6.28 * 0.1 = 0.628s ≈ 0.63s.'
-        },
-        {
-            id: 'phys-3',
-            questionText: 'Which of the following electromagnetic waves has the highest frequency?',
-            options: ['Gamma rays', 'X-rays', 'Ultraviolet rays', 'Radio waves'],
-            correctAnswer: 'A',
-            explanation: 'In the EM spectrum, gamma rays have the shortest wavelength and highest frequency.'
-        }
-    ],
-    'Chemistry': [
-        {
-            id: 'chem-1',
-            questionText: 'What is the oxidation state of sulfur in H₂SO₄?',
-            options: ['+4', '+6', '+2', '-2'],
-            correctAnswer: 'B',
-            explanation: 'H₂SO₄ is neutral: 2(+1) + S + 4(-2) = 0 => 2 + S - 8 = 0 => S - 6 = 0 => S = +6.'
-        },
-        {
-            id: 'chem-2',
-            questionText: 'Which of the following organic compounds will decolorize bromine water?',
-            options: ['Ethane', 'Ethene', 'Propane', 'Butane'],
-            correctAnswer: 'B',
-            explanation: 'Alkenes (like ethene) are unsaturated hydrocarbons and undergo addition reactions with bromine water, decolorizing it.'
-        },
-        {
-            id: 'chem-3',
-            questionText: 'According to Le Chatelier\'s principle, what is the effect of increasing pressure on the equilibrium: N₂ (g) + 3H₂ (g) ⇌ 2NH₃ (g) ?',
-            options: [
-                'Equilibrium shifts to the left',
-                'Equilibrium shifts to the right',
-                'No effect on the equilibrium',
-                'Yield of ammonia decreases'
-            ],
-            correctAnswer: 'B',
-            explanation: 'Increasing pressure shifts equilibrium to the side with fewer gas moles. Left has 4 moles, right has 2 moles. Shift goes right.'
-        }
-    ],
-    'Biology': [
-        {
-            id: 'bio-1',
-            questionText: 'Which organelle is responsible for cellular respiration and ATP generation?',
-            options: ['Chloroplast', 'Mitochondrion', 'Ribosome', 'Golgi apparatus'],
-            correctAnswer: 'B',
-            explanation: 'Mitochondria are the powerhouses of the cell, generating adenosine triphosphate (ATP) via respiration.'
-        },
-        {
-            id: 'bio-2',
-            questionText: 'In double-stranded DNA, what pairs with Adenine (A)?',
-            options: ['Cytosine', 'Guanine', 'Thymine', 'Uracil'],
-            correctAnswer: 'C',
-            explanation: 'Adenine pairs with Thymine in DNA (and Uracil in RNA) via two hydrogen bonds.'
-        },
-        {
-            id: 'bio-3',
-            questionText: 'Which hormone is responsible for lowering blood glucose levels?',
-            options: ['Glucagon', 'Adrenaline', 'Insulin', 'Thyroxine'],
-            correctAnswer: 'C',
-            explanation: 'Insulin, produced by beta cells of the pancreas, facilitates glucose uptake by cells, lowering blood levels.'
-        }
-    ]
+    'Use of English': englishQuestions,
+    'Mathematics': mathematicsQuestions,
+    'Physics': physicsQuestions,
+    'Chemistry': chemistryQuestions,
+    'Biology': biologyQuestions
 };
 
 export default function ActiveTestPage() {
