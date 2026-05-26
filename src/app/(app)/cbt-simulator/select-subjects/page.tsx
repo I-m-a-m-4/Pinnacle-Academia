@@ -25,6 +25,47 @@ import SavedSessionsDrawer from "@/components/cbt-simulator/saved-sessions-drawe
 import { collection, query, where, onSnapshot } from "firebase/firestore";
 
 
+const DEFAULT_MAPPINGS = [
+    {
+        university: 'University of Ibadan (UI)',
+        course: 'Medicine and Surgery',
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
+    },
+    {
+        university: 'University of Ibadan (UI)',
+        course: 'Computer Science',
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'University of Lagos (UNILAG)',
+        course: 'Computer Science',
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'University of Lagos (UNILAG)',
+        course: 'Medicine and Surgery',
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
+    },
+    {
+        university: 'Obafemi Awolowo University (OAU)',
+        course: 'Computer Science',
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'Obafemi Awolowo University (OAU)',
+        course: 'Medicine and Surgery',
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
+    }
+];
+
+const DEFAULT_SUBJECTS = [
+    { id: 'sub-eng', name: 'Use of English', price: 50, category: 'General', stock: 100, imageUrl: '' },
+    { id: 'sub-math', name: 'Mathematics', price: 50, category: 'Science', stock: 100, imageUrl: '' },
+    { id: 'sub-phys', name: 'Physics', price: 50, category: 'Science', stock: 100, imageUrl: '' },
+    { id: 'sub-chem', name: 'Chemistry', price: 50, category: 'Science', stock: 100, imageUrl: '' },
+    { id: 'sub-bio', name: 'Biology', price: 50, category: 'Science', stock: 100, imageUrl: '' }
+];
+
 function ProductCardSkeleton() {
     return (
         <Card className="overflow-hidden">
@@ -268,41 +309,49 @@ export default function SelectProductsPage() {
         return () => unsubscribe();
     }, [academy?.id, firestore]);
 
+    const allMappings = React.useMemo(() => {
+        return mappings.length > 0 ? mappings : DEFAULT_MAPPINGS;
+    }, [mappings]);
+
+    const allAvailableSubjects = React.useMemo(() => {
+        return subjects && subjects.length > 0 ? subjects : DEFAULT_SUBJECTS;
+    }, [subjects]);
+
     const activeMapping = React.useMemo(() => {
-        if (!activeUni || !activeCourse || mappings.length === 0) return null;
-        return mappings.find(m => 
+        if (!activeUni || !activeCourse || allMappings.length === 0) return null;
+        return allMappings.find(m => 
             m.university.toLowerCase() === activeUni.toLowerCase() && 
             m.course.toLowerCase() === activeCourse.toLowerCase()
         ) || null;
-    }, [activeUni, activeCourse, mappings]);
+    }, [activeUni, activeCourse, allMappings]);
 
     const availableUniversities = React.useMemo(() => {
         const unis = new Set<string>();
         if (currentUserProfile?.targetInstitution) {
             unis.add(currentUserProfile.targetInstitution);
         }
-        mappings.forEach(m => unis.add(m.university));
+        allMappings.forEach(m => unis.add(m.university));
         return Array.from(unis);
-    }, [mappings, currentUserProfile]);
+    }, [allMappings, currentUserProfile]);
 
     const availableCoursesForSelectedUni = React.useMemo(() => {
         const courses = new Set<string>();
         if (currentUserProfile?.targetCourse && currentUserProfile?.targetInstitution?.toLowerCase() === activeUni?.toLowerCase()) {
             courses.add(currentUserProfile.targetCourse);
         }
-        mappings.filter(m => m.university.toLowerCase() === activeUni.toLowerCase()).forEach(m => courses.add(m.course));
+        allMappings.filter(m => m.university.toLowerCase() === activeUni.toLowerCase()).forEach(m => courses.add(m.course));
         return Array.from(courses);
-    }, [mappings, activeUni, currentUserProfile]);
+    }, [allMappings, activeUni, currentUserProfile]);
 
     const handleApplyRecommended = () => {
-        if (!activeMapping || !subjects) return;
+        if (!activeMapping) return;
 
         // Clear existing selections
         clearCart();
 
         let addedCount = 0;
         activeMapping.subjects.forEach((subName: string) => {
-            const matchedSubject = subjects.find(s => s.name.toLowerCase() === subName.toLowerCase());
+            const matchedSubject = allAvailableSubjects.find(s => s.name.toLowerCase() === subName.toLowerCase());
             if (matchedSubject) {
                 addToCart(matchedSubject);
                 addedCount++;
@@ -331,14 +380,14 @@ export default function SelectProductsPage() {
     // Subscription status is now managed by the background glassmorphism overlay in layout.tsx.
 
     const [isFetchingMore, setIsFetchingMore] = React.useState(false);
-    const [hasMore, setHasMore] = React.useState(subjects ? subjects.length >= 50 : true);
+    const [hasMore, setHasMore] = React.useState(allAvailableSubjects ? allAvailableSubjects.length >= 50 : true);
 
     const isLoading = isPosLoading && (!subjects || subjects.length === 0);
 
     const performManualSearch = () => {
         if (!searchTerm.trim()) return;
         
-        const exactMatch = subjects?.find(p =>
+        const exactMatch = allAvailableSubjects.find(p =>
             p.sku?.toLowerCase() === searchTerm.toLowerCase() ||
             p.name.toLowerCase() === searchTerm.toLowerCase()
         );
@@ -355,7 +404,7 @@ export default function SelectProductsPage() {
 
 
     const filteredProducts = React.useMemo(() => {
-        let base = [...(subjects || [])];
+        let base = [...allAvailableSubjects];
         
         // Apply instant local substring filter
         if (searchTerm.trim()) {
@@ -372,7 +421,7 @@ export default function SelectProductsPage() {
         }
 
         return base;
-    }, [subjects, searchTerm, categoryFilter]);
+    }, [allAvailableSubjects, searchTerm, categoryFilter]);
 
     const handleLoadMore = async () => {
         setIsFetchingMore(true);
