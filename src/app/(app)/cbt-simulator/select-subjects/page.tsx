@@ -69,6 +69,16 @@ export default function SelectProductsPage() {
     const [isNavigating, setIsNavigating] = React.useState(false);
     const [customSubjects, setCustomSubjects] = React.useState<string[]>([]);
 
+    // If there is an active exam session, redirect to the active test page directly
+    React.useEffect(() => {
+        if (typeof window !== 'undefined') {
+            const activeSession = sessionStorage.getItem('active_exam_session');
+            if (activeSession) {
+                router.push('/cbt-simulator/active-test');
+            }
+        }
+    }, [router]);
+
     // Sync user target profile
     React.useEffect(() => {
         if (currentUserProfile?.targetInstitution) {

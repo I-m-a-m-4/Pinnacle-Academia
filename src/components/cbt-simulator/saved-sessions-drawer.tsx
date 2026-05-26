@@ -11,12 +11,15 @@ import { formatDistanceToNow } from 'date-fns';
 import { CURRENCY_SYMBOLS } from '@/lib/constants';
 import { motion, AnimatePresence } from 'framer-motion';
 
+import { useRouter } from 'next/navigation';
+
 interface SavedSessionsDrawerProps {
     trigger?: React.ReactNode;
 }
 
 export default function SavedSessionsDrawer({ trigger }: SavedSessionsDrawerProps) {
     const { savedSessions, resumeSavedSession, deleteSavedSession, academy } = useAcademy();
+    const router = useRouter();
     const [isOpen, setIsOpen] = React.useState(false);
     const [isMounted, setIsMounted] = React.useState(false);
     const currencySymbol = CURRENCY_SYMBOLS[academy?.settings?.currency || 'NGN'] || '₦';
@@ -26,6 +29,17 @@ export default function SavedSessionsDrawer({ trigger }: SavedSessionsDrawerProp
     }, []);
 
     const handleResume = (id: string) => {
+        const session = savedSessions.find(s => s.id === id);
+        if (session && (session as any).isExamSession) {
+            // Restore active exam session in sessionStorage
+            sessionStorage.setItem('active_exam_session', JSON.stringify((session as any).examSessionData));
+            // Navigate to active-test page
+            router.push('/cbt-simulator/active-test');
+            // Remove from saved sessions list
+            deleteSavedSession(id);
+            setIsOpen(false);
+            return;
+        }
         resumeSavedSession(id);
         setIsOpen(false);
     };

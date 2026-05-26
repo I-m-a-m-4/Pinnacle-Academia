@@ -24,7 +24,8 @@ import {
     Home, 
     Award, 
     BookOpen, 
-    FileText 
+    FileText,
+    History
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
@@ -45,7 +46,7 @@ const SEED_QUESTIONS: Record<string, any[]> = {
 export default function ActiveTestPage() {
     const router = useRouter();
     const { toast } = useToast();
-    const { currentUserProfile, academy } = useAcademy();
+    const { currentUserProfile, academy, parkActiveExamSession } = useAcademy();
     const firestore = useFirestore();
 
     const [sessionData, setSessionData] = React.useState<any>(null);
@@ -83,17 +84,53 @@ export default function ActiveTestPage() {
                 });
                 parsed.subjects = hydratedSubjects;
                 setSessionData(parsed);
-                setTimeLeft(parsed.timeLimit * 60);
 
-                // Initialize answers and flags structures
-                const initialAnswers: Record<string, Record<number, string>> = {};
-                const initialFlags: Record<string, number[]> = {};
-                parsed.subjects.forEach((sub: any) => {
-                    initialAnswers[sub.name] = {};
-                    initialFlags[sub.name] = [];
-                });
-                setAnswers(initialAnswers);
-                setFlags(initialFlags);
+                if (parsed.isParked) {
+                    setTimeLeft(parsed.timeLeft);
+                    setCurrentSubjectIndex(parsed.currentSubjectIndex || 0);
+                    setCurrentQuestionIndex(parsed.currentQuestionIndex || 0);
+                    setAnswers(parsed.answers || {});
+                    setFlags(parsed.flags || {});
+                    
+                    // Clear parked state flags
+                    parsed.isParked = false;
+                    sessionStorage.setItem('active_exam_session', JSON.stringify(parsed));
+                } else {
+                    const progressStored = sessionStorage.getItem('active_exam_progress');
+                    if (progressStored) {
+                        try {
+                            const progress = JSON.parse(progressStored);
+                            setTimeLeft(progress.timeLeft);
+                            setCurrentSubjectIndex(progress.currentSubjectIndex || 0);
+                            setCurrentQuestionIndex(progress.currentQuestionIndex || 0);
+                            setAnswers(progress.answers || {});
+                            setFlags(progress.flags || {});
+                        } catch (e) {
+                            console.error("Failed to restore exam progress:", e);
+                            setTimeLeft(parsed.timeLimit * 60);
+                            const initialAnswers: Record<string, Record<number, string>> = {};
+                            const initialFlags: Record<string, number[]> = {};
+                            parsed.subjects.forEach((sub: any) => {
+                                initialAnswers[sub.name] = {};
+                                initialFlags[sub.name] = [];
+                            });
+                            setAnswers(initialAnswers);
+                            setFlags(initialFlags);
+                        }
+                    } else {
+                        setTimeLeft(parsed.timeLimit * 60);
+
+                        // Initialize answers and flags structures
+                        const initialAnswers: Record<string, Record<number, string>> = {};
+                        const initialFlags: Record<string, number[]> = {};
+                        parsed.subjects.forEach((sub: any) => {
+                            initialAnswers[sub.name] = {};
+                            initialFlags[sub.name] = [];
+                        });
+                        setAnswers(initialAnswers);
+                        setFlags(initialFlags);
+                    }
+                }
 
                 // Start Speed Battle Bot AI simulator
                 if (parsed.mode === 'Card' || parsed.mode === 'Speed Battle') {
@@ -121,6 +158,20 @@ export default function ActiveTestPage() {
             }
         }
     }, [router, toast]);
+
+    // Save progress to sessionStorage on changes
+    React.useEffect(() => {
+        if (sessionData && !isSubmitted) {
+            const progress = {
+                timeLeft,
+                currentSubjectIndex,
+                currentQuestionIndex,
+                answers,
+                flags
+            };
+            sessionStorage.setItem('active_exam_progress', JSON.stringify(progress));
+        }
+    }, [timeLeft, currentSubjectIndex, currentQuestionIndex, answers, flags, sessionData, isSubmitted]);
 
     // Timer countdown effect
     React.useEffect(() => {
@@ -298,11 +349,42 @@ export default function ActiveTestPage() {
             }
         }
 
+        sessionStorage.removeItem('active_exam_progress');
+
         toast({
             variant: 'success',
             title: auto ? 'Time Expired!' : 'Exam Submitted!',
             description: `Your CBT Simulation is complete. Score: ${finalScore}/400 (${finalPercentage}%)`
         });
+    };
+
+    const handleParkTest = () => {
+        if (!sessionData) return;
+
+        const sessionToPark = {
+            ...sessionData,
+            timeLeft,
+            currentSubjectIndex,
+            currentQuestionIndex,
+            answers,
+            flags,
+            isParked: true
+        };
+
+        parkActiveExamSession(sessionToPark);
+
+        // Clear active session states from sessionStorage
+        sessionStorage.removeItem('active_exam_session');
+        sessionStorage.removeItem('active_exam_progress');
+
+        toast({
+            variant: 'success',
+            title: 'Test Parked',
+            description: 'Your test progress has been stored. You can safely return later.'
+        });
+
+        // Redirect to select subjects
+        router.push('/cbt-simulator/select-subjects');
     };
 
     const isPracticeMode = sessionData.mode === 'Bank Transfer' || sessionData.mode === 'Practice Mode';
@@ -460,6 +542,16 @@ export default function ActiveTestPage() {
                                 <Progress value={(botProgress / totalExamQuestions) * 100} className="w-16 h-1.5 rounded-full" />
                             </div>
                         )}
+
+                        <Button 
+                            variant="outline" 
+                            size="sm" 
+                            onClick={handleParkTest}
+                            className="text-xs font-bold rounded-xl h-9 border border-primary/20 text-primary hover:bg-primary/5 gap-1.5"
+                        >
+                            <History className="h-3.5 w-3.5" />
+                            Park Test
+                        </Button>
 
                         <div className="flex items-center gap-2 bg-destructive/10 border border-destructive/20 text-destructive rounded-lg px-3 py-1 text-sm font-bold font-mono">
                             <Clock className="h-4 w-4" />

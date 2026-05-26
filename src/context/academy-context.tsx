@@ -119,6 +119,7 @@ interface AcademyContextType {
   saveCurrentSession: (notes?: string) => void;
   resumeSavedSession: (parkedSessionId: string) => void;
   deleteSavedSession: (parkedSessionId: string) => void;
+  parkActiveExamSession: (sessionData: any) => void;
   voidReceipt: (admissionId: string) => Promise<void>;
   users: StudentProfile[];
   activityLogs: ActivityLog[];
@@ -1931,6 +1932,35 @@ export function AcademyProvider({ children }: { children: ReactNode }) {
     secureStorage.setItem(ACADEMY_SAVED_SESSIONS_KEY, updated);
   }, [savedSessions]);
 
+  const parkActiveExamSession = useCallback((sessionData: any) => {
+    const newSavedSession: SavedSession = {
+      id: uuidv4(),
+      items: sessionData.subjects.map((sub: any) => ({
+        product: { id: sub.id || 'sub-manual', name: sub.name, price: sub.questions.length },
+        quantity: 1
+      })),
+      customer: { name: sessionData.studentName || 'Student', id: 'temp-std', lowercaseName: 'student', lowercaseEmail: '', email: '', phone: '', loyaltyPoints: 0, totalSpent: 0, createdAt: new Date() },
+      timestamp: Date.now(),
+      total: sessionData.subjects.reduce((acc: number, sub: any) => acc + sub.questions.length, 0),
+      notes: `Active Exam Session`
+    };
+
+    // Flag it as an exam session so the resume handler loads it correctly
+    (newSavedSession as any).isExamSession = true;
+    (newSavedSession as any).examSessionData = sessionData;
+
+    setSavedSessions(prev => {
+      const updated = [newSavedSession, ...prev];
+      secureStorage.setItem(ACADEMY_SAVED_SESSIONS_KEY, updated);
+      return updated;
+    });
+
+    toast({
+      title: "Exam Session Parked",
+      description: "You can resume this test from the top bar 'Saved Sessions' menu at any time.",
+    });
+  }, [toast]);
+
   const voidReceipt = useCallback(async (admissionId: string) => {
     // 1. Optimistic local state updates
     setSyncedReceipts(prev => prev.filter(r => r.id !== admissionId));
@@ -2170,13 +2200,13 @@ export function AcademyProvider({ children }: { children: ReactNode }) {
     fetchMonthlyAnalytics,
     fetchMoreReceipts: async () => 0, fetchMoreCustomers: async () => 0, fetchMoreProducts: async () => 0,
 
-    savedSessions, saveCurrentSession, resumeSavedSession, deleteSavedSession, voidReceipt,
+    savedSessions, saveCurrentSession, resumeSavedSession, deleteSavedSession, parkActiveExamSession, voidReceipt,
     users, activityLogs,
     isOnline: isRealOnline,
-
+ 
     stats,
     isSubscriptionActive: academy ? (academy.accessLevel === 'lifetime' || (academy.trialExpiresAt && safeToDate(academy.trialExpiresAt).getTime() > Date.now())) : true
-  }), [academy, subjects, admissions, students, mentorshipBookings, currentUserProfile, isUserLoading, user, firestore, syllabus, selectedStudent, taxRate, discount, paymentMethod, autoPrint, isConfettiActive, triggerRefresh, triggerConfetti, queuedActions, isQueueProcessing, addToQueue, processQueue, mutateBusiness, isSyncing, isFullSyncingStudents, isFullSyncingSubjects, isFullSyncingAdmissions, impersonatedUserId, isImpersonating, stats, currencySymbol, currencyCode, subtotal, tax, total, impersonateUser, stopImpersonation, searchCustomers, searchProducts, fetchDetailedAnalytics, fetchMonthlyAnalytics, isProfileReady, isLoadingBusiness, isLoadingSubjects, isLoadingStudents, isMounted, savedSessions, voidReceipt, users, activityLogs, isRealOnline]);
+  }), [academy, subjects, admissions, students, mentorshipBookings, currentUserProfile, isUserLoading, user, firestore, syllabus, selectedStudent, taxRate, discount, paymentMethod, autoPrint, isConfettiActive, triggerRefresh, triggerConfetti, queuedActions, isQueueProcessing, addToQueue, processQueue, mutateBusiness, isSyncing, isFullSyncingStudents, isFullSyncingSubjects, isFullSyncingAdmissions, impersonatedUserId, isImpersonating, stats, currencySymbol, currencyCode, subtotal, tax, total, impersonateUser, stopImpersonation, searchCustomers, searchProducts, fetchDetailedAnalytics, fetchMonthlyAnalytics, isProfileReady, isLoadingBusiness, isLoadingSubjects, isLoadingStudents, isMounted, savedSessions, parkActiveExamSession, voidReceipt, users, activityLogs, isRealOnline]);
 
   return <AcademyContext.Provider value={value}>{children}</AcademyContext.Provider>;
 }
