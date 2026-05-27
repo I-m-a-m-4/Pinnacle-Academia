@@ -192,8 +192,7 @@ export default function Home() {
 
                     <MarqueeSection />
 
-                    {/* Dashboard Preview Section - Carousel */}
-                    <DashboardCarousel />
+
 
                     {/* Social Proof Section */}
                     <section className="bg-black">
