@@ -423,10 +423,9 @@ export default function ActiveTestPage() {
     const isSpeedBattle = sessionData.mode === 'Card' || sessionData.mode === 'Speed Battle';
     const totalExamQuestions = sessionData.subjects.reduce((sum: number, s: any) => sum + s.questions.length, 0);
 
-    // Results Summary Screen
     if (isSubmitted && scoreSummary) {
         return (
-            <div className="max-w-4xl mx-auto space-y-6 animate-in fade-in zoom-in-95 duration-500 pb-16">
+            <div className="max-w-5xl mx-auto space-y-6 animate-in fade-in zoom-in-95 duration-500 pb-16 px-6">
                 <Card className="border-[0.5px] border-border/40 bg-card/40 backdrop-blur-md shadow-xl rounded-2xl p-6 text-center">
                     <CardHeader className="items-center pb-2">
                         <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-primary/10 mb-2 border border-primary/20 animate-bounce">
@@ -554,7 +553,7 @@ export default function ActiveTestPage() {
     const isQuestionFlagged = flags[currentSubject.name]?.includes(currentQuestionIndex);
 
     return (
-        <div className="grid lg:grid-cols-4 gap-6 pb-16 max-w-6xl mx-auto h-[calc(100vh-140px)]">
+        <div className="grid lg:grid-cols-4 gap-6 pb-16 max-w-[1440px] mx-auto px-6 h-[calc(100vh-140px)]">
             {/* Left Exam Pane */}
             <div className="lg:col-span-3 flex flex-col justify-between h-full space-y-4">
                 {/* Exam Navigation Header */}
