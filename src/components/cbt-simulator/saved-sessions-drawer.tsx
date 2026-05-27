@@ -106,7 +106,13 @@ export default function SavedSessionsDrawer({ trigger }: SavedSessionsDrawerProp
                                                 </div>
                                             </div>
                                             <div className="text-right">
-                                                <div className="font-bold text-lg">{currencySymbol}{sale.total.toLocaleString()}</div>
+                                                <div className="font-bold text-lg">
+                                                    {(sale as any).isExamSession ? (
+                                                        `${sale.total} Questions`
+                                                    ) : (
+                                                        `${currencySymbol}${sale.total.toLocaleString()}`
+                                                    )}
+                                                </div>
                                                 <div className="text-[10px] text-muted-foreground uppercase tracking-wider">{sale.items.length} subjects</div>
                                             </div>
                                         </div>

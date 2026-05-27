@@ -45,9 +45,7 @@ export default function AboutPage() {
         <div className="aura-background"></div>
       </div>
 
-      <MarketingHeader />
-
-      <main className="z-10 pt-24 relative">
+      <div className="z-10 pt-24 relative">
         {/* Hero */}
         <section className="md:pl-6 md:pr-6 md:pt-20 text-center max-w-5xl mt-20 mr-auto mb-20 ml-auto pt-20 pr-6 pl-6 bg-transparent">
           <div className="absolute inset-0 overflow-hidden pointer-events-none opacity-[0.15]">
@@ -353,24 +351,22 @@ export default function AboutPage() {
              <div className="inline-flex items-center gap-2 rounded-full border border-neutral-200 bg-neutral-50 px-4 py-2 text-xs text-neutral-600 mb-8 backdrop-blur-sm animate-pulse">
                <span className="h-2 w-2 rounded-full bg-primary"></span>
                <span>Join 5,000+ Accomplished Students</span>
-             </div>
-             <h2 className="text-4xl md:text-6xl font-medium tracking-tighter text-neutral-900 mb-8">Ready to achieve academic excellence?</h2>
-             <p className="text-neutral-600 text-lg md:text-xl mb-12 max-w-2xl mx-auto font-geist">
-               Take the guesswork out of exam preparation. Learn with the best tutors and step into university with confidence.
-             </p>
+              </div>
+              <h2 className="text-4xl md:text-6xl font-medium tracking-tighter text-neutral-900 mb-8">Ready to achieve academic excellence?</h2>
+              <p className="text-neutral-600 text-lg md:text-xl mb-12 max-w-2xl mx-auto font-geist">
+                Take the guesswork out of exam preparation. Learn with the best tutors and step into university with confidence.
+              </p>
 
-             <div className="flex flex-col sm:flex-row gap-4 items-center justify-center">
-               <Link href="/signup" className="hover:bg-primary/90 transition-colors text-base font-semibold text-white tracking-tight font-dm-sans bg-primary rounded-full py-4 px-10 shadow-md">
-                  Register Now
-               </Link>
-               <a href="#contact" className="text-sm font-semibold text-neutral-600 hover:text-primary transition-colors flex items-center gap-2">
-                 Get in touch &rarr;
-               </a>
-             </div>
-          </section>
-      </main>
-
-      <MarketingFooter />
+              <div className="flex flex-col sm:flex-row gap-4 items-center justify-center">
+                <Link href="/signup" className="hover:bg-primary/90 transition-colors text-base font-semibold text-white tracking-tight font-dm-sans bg-primary rounded-full py-4 px-10 shadow-md">
+                   Register Now
+                </Link>
+                <a href="#contact" className="text-sm font-semibold text-neutral-600 hover:text-primary transition-colors flex items-center gap-2">
+                  Get in touch &rarr;
+                </a>
+              </div>
+           </section>
+      </div>
 
       <style jsx>{`
         .hide-scrollbar::-webkit-scrollbar {

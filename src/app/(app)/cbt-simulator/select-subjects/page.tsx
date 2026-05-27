@@ -17,6 +17,11 @@ import { mathematicsQuestions } from '../data/mathematics';
 import { physicsQuestions } from '../data/physics';
 import { chemistryQuestions } from '../data/chemistry';
 import { biologyQuestions } from '../data/biology';
+import { governmentQuestions } from '../data/government';
+import { literatureQuestions } from '../data/literature';
+import { economicsQuestions } from '../data/economics';
+import { accountingQuestions } from '../data/accounting';
+import { crsQuestions } from '../data/crs';
 
 const DEFAULT_MAPPINGS = [
     {
@@ -35,6 +40,16 @@ const DEFAULT_MAPPINGS = [
         subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
     },
     {
+        university: 'Obafemi Awolowo University (OAU)',
+        course: 'Arts / Literature / Law',
+        subjects: ['Use of English', 'Literature in English', 'Government', 'Christian Religious Studies']
+    },
+    {
+        university: 'Obafemi Awolowo University (OAU)',
+        course: 'Accounting / Finance / Social Sciences',
+        subjects: ['Use of English', 'Mathematics', 'Economics', 'Financial Accounting']
+    },
+    {
         university: 'University of Ibadan (UI)',
         course: 'Medicine and Surgery',
         subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
@@ -50,6 +65,16 @@ const DEFAULT_MAPPINGS = [
         subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
     },
     {
+        university: 'University of Ibadan (UI)',
+        course: 'Arts / Literature / Law',
+        subjects: ['Use of English', 'Literature in English', 'Government', 'Christian Religious Studies']
+    },
+    {
+        university: 'University of Ibadan (UI)',
+        course: 'Accounting / Finance / Social Sciences',
+        subjects: ['Use of English', 'Mathematics', 'Economics', 'Financial Accounting']
+    },
+    {
         university: 'University of Lagos (UNILAG)',
         course: 'Computer Science',
         subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
@@ -63,6 +88,16 @@ const DEFAULT_MAPPINGS = [
         university: 'University of Lagos (UNILAG)',
         course: 'Engineering Courses',
         subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'University of Lagos (UNILAG)',
+        course: 'Arts / Literature / Law',
+        subjects: ['Use of English', 'Literature in English', 'Government', 'Christian Religious Studies']
+    },
+    {
+        university: 'University of Lagos (UNILAG)',
+        course: 'Accounting / Finance / Social Sciences',
+        subjects: ['Use of English', 'Mathematics', 'Economics', 'Financial Accounting']
     }
 ];
 
@@ -71,8 +106,14 @@ const DEFAULT_SUBJECTS = [
     { id: 'sub-math', name: 'Mathematics', price: 50, category: 'Science', stock: 100, imageUrl: '' },
     { id: 'sub-phys', name: 'Physics', price: 50, category: 'Science', stock: 100, imageUrl: '' },
     { id: 'sub-chem', name: 'Chemistry', price: 50, category: 'Science', stock: 100, imageUrl: '' },
-    { id: 'sub-bio', name: 'Biology', price: 50, category: 'Science', stock: 100, imageUrl: '' }
+    { id: 'sub-bio', name: 'Biology', price: 50, category: 'Science', stock: 100, imageUrl: '' },
+    { id: 'sub-lit', name: 'Literature in English', price: 50, category: 'Arts', stock: 100, imageUrl: '' },
+    { id: 'sub-gov', name: 'Government', price: 50, category: 'Arts', stock: 100, imageUrl: '' },
+    { id: 'sub-eco', name: 'Economics', price: 50, category: 'Social Sciences', stock: 100, imageUrl: '' },
+    { id: 'sub-acc', name: 'Financial Accounting', price: 50, category: 'Social Sciences', stock: 100, imageUrl: '' },
+    { id: 'sub-crs', name: 'Christian Religious Studies', price: 50, category: 'Arts', stock: 100, imageUrl: '' }
 ];
+
 
 export default function SelectProductsPage() {
     const { currentUserProfile, clearCart } = useAcademy();
@@ -168,6 +209,11 @@ export default function SelectProductsPage() {
             else if (sub.name === 'Physics') questions = physicsQuestions;
             else if (sub.name === 'Chemistry') questions = chemistryQuestions;
             else if (sub.name === 'Biology') questions = biologyQuestions;
+            else if (sub.name === 'Government') questions = governmentQuestions;
+            else if (sub.name === 'Literature in English') questions = literatureQuestions;
+            else if (sub.name === 'Economics') questions = economicsQuestions;
+            else if (sub.name === 'Financial Accounting') questions = accountingQuestions;
+            else if (sub.name === 'Christian Religious Studies') questions = crsQuestions;
             else questions = englishQuestions;
 
             return {

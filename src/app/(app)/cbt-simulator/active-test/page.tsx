@@ -29,6 +29,16 @@ import {
     X
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { 
+    AlertDialog, 
+    AlertDialogAction, 
+    AlertDialogCancel, 
+    AlertDialogContent, 
+    AlertDialogDescription, 
+    AlertDialogFooter, 
+    AlertDialogHeader, 
+    AlertDialogTitle 
+} from "@/components/ui/alert-dialog";
 
 import { englishQuestions } from '../data/use-of-english';
 import { mathematicsQuestions } from '../data/mathematics';
@@ -67,6 +77,7 @@ export default function ActiveTestPage() {
     const [botProgress, setBotProgress] = React.useState(0);
     const [botIntervalId, setBotIntervalId] = React.useState<any>(null);
 
+    const [isQuitDialogOpen, setIsQuitDialogOpen] = React.useState(false);
     const isLoadedRef = React.useRef(false);
 
     // Load active session from sessionStorage
@@ -394,16 +405,18 @@ export default function ActiveTestPage() {
     };
 
     const handleQuitExam = () => {
-        if (confirm("Are you sure you want to quit the exam? All unsaved progress for this session will be lost.")) {
-            if (botIntervalId) clearInterval(botIntervalId);
-            sessionStorage.removeItem('active_exam_session');
-            sessionStorage.removeItem('active_exam_progress');
-            toast({
-                title: 'Exam Quit',
-                description: 'You have quit the examination session.'
-            });
-            router.push('/cbt-simulator/select-subjects');
-        }
+        setIsQuitDialogOpen(true);
+    };
+
+    const confirmQuitExam = () => {
+        if (botIntervalId) clearInterval(botIntervalId);
+        sessionStorage.removeItem('active_exam_session');
+        sessionStorage.removeItem('active_exam_progress');
+        toast({
+            title: 'Exam Quit',
+            description: 'You have quit the examination session.'
+        });
+        router.push('/cbt-simulator/select-subjects');
     };
 
     const isPracticeMode = sessionData.mode === 'Bank Transfer' || sessionData.mode === 'Practice Mode';
@@ -762,6 +775,30 @@ export default function ActiveTestPage() {
                     </Button>
                 </div>
             </Card>
+            {/* Custom Quit Exam Dialog */}
+            <AlertDialog open={isQuitDialogOpen} onOpenChange={setIsQuitDialogOpen}>
+                <AlertDialogContent className="rounded-2xl max-w-md">
+                    <AlertDialogHeader>
+                        <AlertDialogTitle className="text-xl font-bold flex items-center gap-2 text-destructive">
+                            Quit Examination Session?
+                        </AlertDialogTitle>
+                        <AlertDialogDescription className="text-sm">
+                            Are you sure you want to quit this exam? Any unsaved progress will be permanently lost. To save your progress, use the <strong>Park Test</strong> button instead.
+                        </AlertDialogDescription>
+                    </AlertDialogHeader>
+                    <AlertDialogFooter className="mt-6 flex gap-2">
+                        <AlertDialogCancel className="rounded-xl border border-border">
+                            Cancel
+                        </AlertDialogCancel>
+                        <AlertDialogAction 
+                            onClick={confirmQuitExam} 
+                            className="bg-destructive hover:bg-destructive/90 text-destructive-foreground rounded-xl"
+                        >
+                            Yes, Quit Exam
+                        </AlertDialogAction>
+                    </AlertDialogFooter>
+                </AlertDialogContent>
+            </AlertDialog>
         </div>
     );
 }
