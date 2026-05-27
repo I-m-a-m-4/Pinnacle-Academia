@@ -22,97 +22,98 @@ import { literatureQuestions } from '../data/literature';
 import { economicsQuestions } from '../data/economics';
 import { accountingQuestions } from '../data/accounting';
 import { crsQuestions } from '../data/crs';
+import { aptitudeQuestions } from '../data/aptitude';
 
 const DEFAULT_MAPPINGS = [
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Medicine and Surgery',
-        subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Engineering Courses',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Computer Science',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Agricultural Science / Forestry / Food Science',
-        subjects: ['Use of English', 'Biology', 'Chemistry', 'Mathematics']
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Arts / Literature / Law',
-        subjects: ['Use of English', 'Literature in English', 'Government', 'Christian Religious Studies']
+        subjects: ['Use of English', 'Literature in English', 'Government', 'Aptitude Test']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Accounting / Finance / Social Sciences',
-        subjects: ['Use of English', 'Mathematics', 'Economics', 'Financial Accounting']
+        subjects: ['Use of English', 'Mathematics', 'Economics', 'Aptitude Test']
     },
     {
         university: 'University of Ibadan (UI)',
         course: 'Medicine and Surgery',
-        subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
     },
     {
         university: 'University of Ibadan (UI)',
         course: 'Computer Science',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
     },
     {
         university: 'University of Ibadan (UI)',
         course: 'Engineering Courses',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
     },
     {
         university: 'University of Ibadan (UI)',
         course: 'Agricultural Science / Forestry / Food Science',
-        subjects: ['Use of English', 'Biology', 'Chemistry', 'Mathematics']
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
     },
     {
         university: 'University of Ibadan (UI)',
         course: 'Arts / Literature / Law',
-        subjects: ['Use of English', 'Literature in English', 'Government', 'Christian Religious Studies']
+        subjects: ['Use of English', 'Literature in English', 'Government', 'Aptitude Test']
     },
     {
         university: 'University of Ibadan (UI)',
         course: 'Accounting / Finance / Social Sciences',
-        subjects: ['Use of English', 'Mathematics', 'Economics', 'Financial Accounting']
+        subjects: ['Use of English', 'Mathematics', 'Economics', 'Aptitude Test']
     },
     {
         university: 'University of Lagos (UNILAG)',
         course: 'Computer Science',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
     },
     {
         university: 'University of Lagos (UNILAG)',
         course: 'Medicine and Surgery',
-        subjects: ['Use of English', 'Biology', 'Chemistry', 'Physics']
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
     },
     {
         university: 'University of Lagos (UNILAG)',
         course: 'Engineering Courses',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+        subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
     },
     {
         university: 'University of Lagos (UNILAG)',
         course: 'Agricultural Science / Forestry / Food Science',
-        subjects: ['Use of English', 'Biology', 'Chemistry', 'Mathematics']
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
     },
     {
         university: 'University of Lagos (UNILAG)',
         course: 'Arts / Literature / Law',
-        subjects: ['Use of English', 'Literature in English', 'Government', 'Christian Religious Studies']
+        subjects: ['Use of English', 'Literature in English', 'Government', 'Aptitude Test']
     },
     {
         university: 'University of Lagos (UNILAG)',
         course: 'Accounting / Finance / Social Sciences',
-        subjects: ['Use of English', 'Mathematics', 'Economics', 'Financial Accounting']
+        subjects: ['Use of English', 'Mathematics', 'Economics', 'Aptitude Test']
     }
 ];
 
@@ -126,7 +127,8 @@ const DEFAULT_SUBJECTS = [
     { id: 'sub-gov', name: 'Government', price: 50, category: 'Arts', stock: 100, imageUrl: '' },
     { id: 'sub-eco', name: 'Economics', price: 50, category: 'Social Sciences', stock: 100, imageUrl: '' },
     { id: 'sub-acc', name: 'Financial Accounting', price: 50, category: 'Social Sciences', stock: 100, imageUrl: '' },
-    { id: 'sub-crs', name: 'Christian Religious Studies', price: 50, category: 'Arts', stock: 100, imageUrl: '' }
+    { id: 'sub-crs', name: 'Christian Religious Studies', price: 50, category: 'Arts', stock: 100, imageUrl: '' },
+    { id: 'sub-apt', name: 'Aptitude Test', price: 50, category: 'General', stock: 100, imageUrl: '' }
 ];
 
 
@@ -229,6 +231,7 @@ export default function SelectProductsPage() {
             else if (sub.name === 'Economics') questions = economicsQuestions;
             else if (sub.name === 'Financial Accounting') questions = accountingQuestions;
             else if (sub.name === 'Christian Religious Studies') questions = crsQuestions;
+            else if (sub.name === 'Aptitude Test') questions = aptitudeQuestions;
             else questions = englishQuestions;
 
             return {
