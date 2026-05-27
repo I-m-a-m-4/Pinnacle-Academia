@@ -9,8 +9,7 @@ const slides = [
     { src: "/cbt_mockup.png", alt: "Pinnacle CBT Simulator View", label: "CBT Simulator" },
     { src: "/syllabus_mockup.png", alt: "Pinnacle Syllabus Tracker View", label: "Syllabus Tracker" },
     { src: "/news_mockup.png", alt: "Pinnacle Verified News Hub View", label: "Verified News" },
-    { src: "/forum_mockup.png", alt: "Pinnacle Community Forums View", label: "Community Forum" },
-    { src: "/academic_payments.png", alt: "Pinnacle Tuition Payments View", label: "Tuition Payments" }
+    { src: "/forum_mockup.png", alt: "Pinnacle Community Forums View", label: "Community Forum" }
 ];
 
 export function DashboardCarousel() {
