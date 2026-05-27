@@ -56,32 +56,32 @@ const DEFAULT_MAPPINGS = [
         subjects: ['Use of English', 'Mathematics', 'Economics', 'Aptitude Test']
     },
     {
-        university: 'University of Ibadan (UI)',
+        university: 'University of Ilorin (UNILORIN)',
         course: 'Medicine and Surgery',
         subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
     },
     {
-        university: 'University of Ibadan (UI)',
+        university: 'University of Ilorin (UNILORIN)',
         course: 'Computer Science',
         subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
     },
     {
-        university: 'University of Ibadan (UI)',
+        university: 'University of Ilorin (UNILORIN)',
         course: 'Engineering Courses',
         subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
     },
     {
-        university: 'University of Ibadan (UI)',
+        university: 'University of Ilorin (UNILORIN)',
         course: 'Agricultural Science / Forestry / Food Science',
         subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
     },
     {
-        university: 'University of Ibadan (UI)',
+        university: 'University of Ilorin (UNILORIN)',
         course: 'Arts / Literature / Law',
         subjects: ['Use of English', 'Literature in English', 'Government', 'Aptitude Test']
     },
     {
-        university: 'University of Ibadan (UI)',
+        university: 'University of Ilorin (UNILORIN)',
         course: 'Accounting / Finance / Social Sciences',
         subjects: ['Use of English', 'Mathematics', 'Economics', 'Aptitude Test']
     },
@@ -247,7 +247,8 @@ export default function SelectProductsPage() {
             mode: 'Full Exam',
             timeLimit: isOAU ? 40 : examSubjects.length * 30, // 40 mins for OAU, 30 mins per subject for others
             targetScore: 70,
-            studentName: currentUserProfile?.name || 'Student'
+            studentName: currentUserProfile?.name || 'Student',
+            university: activeUni
         };
 
         sessionStorage.setItem('active_exam_session', JSON.stringify(activeSession));

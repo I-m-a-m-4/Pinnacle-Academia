@@ -327,18 +327,27 @@ export default function ActiveTestPage() {
             };
         });
 
-        // Compute aggregate score out of 400 (JAMB equivalent scale)
-        const finalScore = maxScore > 0 ? Math.round((totalScore / maxScore) * 400) : 0;
+        const university = sessionData.university || '';
+        const isOAU = university.toLowerCase().includes('oau') || university.toLowerCase().includes('obafemi');
+        const isUnilag = university.toLowerCase().includes('unilag') || university.toLowerCase().includes('lagos');
+
+        let maxScoreScale = 100; // default for others (e.g. UNILORIN)
+        if (isOAU) maxScoreScale = 40;
+        else if (isUnilag) maxScoreScale = 30;
+
+        // Compute aggregate score out of university max scale
+        const finalScore = maxScore > 0 ? Math.round((totalScore / maxScore) * maxScoreScale) : 0;
         const finalPercentage = maxScore > 0 ? Math.round((correctCount / totalQuestionsCount) * 100) : 0;
 
         const summary = {
-            finalScore, // e.g. 280/400
+            finalScore, // e.g. 28/40
             finalPercentage, // e.g. 70%
             correctCount,
             incorrectCount,
             unansweredCount,
             totalQuestionsCount,
-            subjectBreakdown
+            subjectBreakdown,
+            maxScoreScale
         };
 
         setScoreSummary(summary);
@@ -371,7 +380,7 @@ export default function ActiveTestPage() {
         toast({
             variant: 'success',
             title: auto ? 'Time Expired!' : 'Exam Submitted!',
-            description: `Your CBT Simulation is complete. Score: ${finalScore}/400 (${finalPercentage}%)`
+            description: `Your CBT Simulation is complete. Score: ${finalScore}/${maxScoreScale} (${finalPercentage}%)`
         });
     };
 
@@ -438,7 +447,7 @@ export default function ActiveTestPage() {
                         <div className="flex justify-center gap-12 flex-wrap">
                             <div className="p-4 bg-muted/30 border rounded-2xl min-w-[150px] shadow-sm">
                                 <span className="text-xs text-muted-foreground font-semibold uppercase tracking-wider block">Aggregate Score</span>
-                                <span className="text-4xl font-extrabold text-primary mt-1 block">{scoreSummary.finalScore} <span className="text-lg text-muted-foreground">/ 400</span></span>
+                                <span className="text-4xl font-extrabold text-primary mt-1 block">{scoreSummary.finalScore} <span className="text-lg text-muted-foreground">/ {scoreSummary.maxScoreScale}</span></span>
                             </div>
                             <div className="p-4 bg-muted/30 border rounded-2xl min-w-[150px] shadow-sm">
                                 <span className="text-xs text-muted-foreground font-semibold uppercase tracking-wider block">Success Rate</span>
