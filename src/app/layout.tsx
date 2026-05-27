@@ -22,7 +22,7 @@ import { SplashScreen } from '@/components/shared/splash-screen';
 
 import { ThemeProvider } from '@/components/theme-provider';
 
-const siteUrl = 'https://pinnacle-academia.com';
+const siteUrl = 'https://pinnacle-academia.vercel.app';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -68,10 +68,10 @@ export const metadata: Metadata = {
     siteName: 'Pinnacle Academia',
     images: [
       {
-        url: `${siteUrl}/pinlogo.png`,
+        url: `${siteUrl}/assets/pinlogo.jpg`,
         width: 512,
         height: 512,
-        type: 'image/png',
+        type: 'image/jpeg',
         alt: 'Pinnacle Academia Logo',
       },
     ],
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Pinnacle Academia - Igniting Minds, Achieving Excellence',
     description: 'Join Pinnacle Academia for top-tier tutorials (JAMB, WAEC, SAT, IELTS), exam registrations, and tertiary admission counseling.',
-    images: [`${siteUrl}/pinlogo.png`],
+    images: [`${siteUrl}/assets/pinlogo.jpg`],
     creator: '@pinnacle_academia',
   },
   alternates: {
