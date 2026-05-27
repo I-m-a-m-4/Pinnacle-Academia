@@ -41,6 +41,11 @@ const DEFAULT_MAPPINGS = [
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
+        course: 'Agricultural Science / Forestry / Food Science',
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Mathematics']
+    },
+    {
+        university: 'Obafemi Awolowo University (OAU)',
         course: 'Arts / Literature / Law',
         subjects: ['Use of English', 'Literature in English', 'Government', 'Christian Religious Studies']
     },
@@ -66,6 +71,11 @@ const DEFAULT_MAPPINGS = [
     },
     {
         university: 'University of Ibadan (UI)',
+        course: 'Agricultural Science / Forestry / Food Science',
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Mathematics']
+    },
+    {
+        university: 'University of Ibadan (UI)',
         course: 'Arts / Literature / Law',
         subjects: ['Use of English', 'Literature in English', 'Government', 'Christian Religious Studies']
     },
@@ -88,6 +98,11 @@ const DEFAULT_MAPPINGS = [
         university: 'University of Lagos (UNILAG)',
         course: 'Engineering Courses',
         subjects: ['Use of English', 'Mathematics', 'Physics', 'Chemistry']
+    },
+    {
+        university: 'University of Lagos (UNILAG)',
+        course: 'Agricultural Science / Forestry / Food Science',
+        subjects: ['Use of English', 'Biology', 'Chemistry', 'Mathematics']
     },
     {
         university: 'University of Lagos (UNILAG)',
