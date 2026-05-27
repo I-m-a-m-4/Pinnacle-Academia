@@ -59,7 +59,7 @@ export function TauriUpdater() {
                 setUpdateReady(true);
                 toast({
                   title: "Update Downloaded",
-                  description: "Zeneva is ready to update. Click the restart button to apply.",
+                  description: "Pinnacle Academia is ready to update. Click the restart button to apply.",
                   variant: "success",
                 });
                 break;

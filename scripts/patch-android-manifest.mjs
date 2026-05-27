@@ -45,7 +45,7 @@ function processManifest(filePath) {
   let content = fs.readFileSync(filePath, 'utf8');
   
   const permissions = `
-    <!-- Zeneva System-level Hardware Integrations -->
+    <!-- Pinnacle Academia System-level Hardware Integrations -->
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-feature android:name="android.hardware.camera" android:required="false" />
     <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />

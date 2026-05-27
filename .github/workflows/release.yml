@@ -74,8 +74,8 @@ jobs:
           TAURI_SIGNING_PRIVATE_KEY_PASSWORD: ${{ secrets.TAURI_SIGNING_PRIVATE_KEY_PASSWORD }}
         with:
           tagName: v__VERSION__
-          releaseName: 'Zeneva v__VERSION__'
-          releaseBody: 'Zeneva Multi-Platform Release (Windows/macOS). For the best experience, use the auto-updater within the application settings.'
+          releaseName: 'Pinnacle Academia v__VERSION__'
+          releaseBody: 'Pinnacle Academia Multi-Platform Release (Windows/macOS). For the best experience, use the auto-updater within the application settings.'
           releaseDraft: false
           prerelease: false
 
@@ -100,7 +100,7 @@ jobs:
       - name: Upload Built App Artifacts (Windows/macOS)
         uses: actions/upload-artifact@v4
         with:
-          name: zeneva-${{ matrix.platform }}-bundle
+          name: pinnacle-academia-${{ matrix.platform }}-bundle
           path: |
             src-tauri/target/release/bundle/msi/*.msi
             src-tauri/target/release/bundle/nsis/*.exe
@@ -145,7 +145,7 @@ jobs:
             NDK_PATH=$ANDROID_NDK_HOME
           fi
           
-          echo "Zeneva: Using NDK at $NDK_PATH"
+          echo "Pinnacle Academia: Using NDK at $NDK_PATH"
           echo "NDK_HOME=$NDK_PATH" >> $GITHUB_ENV
           echo "ANDROID_NDK_HOME=$NDK_PATH" >> $GITHUB_ENV
           
@@ -159,7 +159,7 @@ jobs:
           CLANG_PATH=$(find $TOOLCHAIN -name "aarch64-linux-android*-clang" | head -n 1)
           echo "CARGO_TARGET_AARCH64_LINUX_ANDROID_LINKER=$CLANG_PATH" >> $GITHUB_ENV
           echo "CC_aarch64_linux_android=$CLANG_PATH" >> $GITHUB_ENV
-          echo "Zeneva: Linker set to $CLANG_PATH"
+          echo "Pinnacle Academia: Linker set to $CLANG_PATH"
 
       - name: Sync node version and setup cache
         uses: actions/setup-node@v4
@@ -208,7 +208,7 @@ jobs:
         continue-on-error: true
 
       - name: Generate App Icons
-        run: npm run tauri icon public/zeneva-app-icon.png
+        run: npm run tauri icon public/pinlogo_square.png
         continue-on-error: true
 
       - name: Build Android APK
@@ -230,10 +230,10 @@ jobs:
           if [ -n "$APK_PATH" ]; then
             echo "Found APK at: $APK_PATH"
             
-            # Check if zeneva.keystore exists, otherwise fallback to temp
-            if [ ! -f "zeneva.keystore" ]; then
-                echo "Zeneva Keystore not found, falling back to temp"
-                keytool -genkey -v -keystore zeneva.keystore -alias zeneva -keyalg RSA -keysize 2048 -validity 10000 -storepass zenevapass -keypass zenevapass -dname "CN=Zeneva, OU=Mobile, O=Zeneva, L=Lagos, S=Lagos, C=NG"
+            # Check if pinnacle-academia.keystore exists, otherwise fallback to temp
+            if [ ! -f "pinnacle-academia.keystore" ]; then
+                echo "Pinnacle Academia Keystore not found, falling back to temp"
+                keytool -genkey -v -keystore pinnacle-academia.keystore -alias pinnacle -keyalg RSA -keysize 2048 -validity 10000 -storepass pinnaclepass -keypass pinnaclepass -dname "CN=Pinnacle Academia, OU=Mobile, O=Pinnacle Academia, L=Lagos, S=Lagos, C=NG"
             fi
             
             # Find apksigner
@@ -241,9 +241,9 @@ jobs:
             echo "Using apksigner at: $APKSIGNER"
             
             # Sign the APK
-            $APKSIGNER sign --ks zeneva.keystore --ks-key-alias zeneva --ks-pass pass:zenevapass --key-pass pass:zenevapass --out "./zeneva-v${{ env.APP_VERSION }}-SIGNED.apk" "$APK_PATH"
+            $APKSIGNER sign --ks pinnacle-academia.keystore --ks-key-alias pinnacle --ks-pass pass:pinnaclepass --key-pass pass:pinnaclepass --out "./pinnacle-academia-v${{ env.APP_VERSION }}-SIGNED.apk" "$APK_PATH"
             
-            echo "SIGNED APK ready at ./zeneva-v${{ env.APP_VERSION }}-SIGNED.apk"
+            echo "SIGNED APK ready at ./pinnacle-academia-v${{ env.APP_VERSION }}-SIGNED.apk"
           else
             echo "CRITICAL: No APK file found!"
             exit 1
@@ -252,13 +252,13 @@ jobs:
       - name: Upload APK to Release
         uses: softprops/action-gh-release@v2
         with:
-          files: ./zeneva-v${{ env.APP_VERSION }}-SIGNED.apk
+          files: ./pinnacle-academia-v${{ env.APP_VERSION }}-SIGNED.apk
           tag_name: v${{ env.APP_VERSION }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload APK as Workflow Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: zeneva-android-apk
-          path: ./zeneva-*-SIGNED.apk
+          name: pinnacle-academia-android-apk
+          path: ./pinnacle-academia-*-SIGNED.apk
           if-no-files-found: warn

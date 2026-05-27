@@ -114,7 +114,7 @@ export default function ReportsDashboard() {
             const data = canvas.toDataURL('image/png');
             const link = document.createElement('a');
             link.href = data;
-            link.download = `zeneva-report-${new Date().toISOString().split('T')[0]}.png`;
+            link.download = `pinnacle-report-${new Date().toISOString().split('T')[0]}.png`;
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);

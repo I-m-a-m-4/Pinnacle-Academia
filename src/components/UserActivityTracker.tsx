@@ -17,7 +17,7 @@ export function UserActivityTracker() {
         const checkAndUpdateActivity = async (user: any) => {
             if (!user) return;
             const userRef = doc(firestore, 'users', user.uid);
-            const sessionIdKey = `zeneva_session_id_${user.uid}`;
+            const sessionIdKey = `pinnacle_session_id_${user.uid}`;
             let sessionId = sessionStorage.getItem(sessionIdKey);
 
             if (!sessionId) {
