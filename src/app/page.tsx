@@ -702,58 +702,7 @@ export default function Home() {
                         </svg>
                     </a>
 
-                    {/* Global Payments Banner */}
-                    <section className="pt-20 pb-0 px-6">
-                        <div className="max-w-7xl mx-auto">
-                            <div className="relative overflow-hidden rounded-3xl bg-stone-950 text-white p-8 md:p-12 flex flex-col md:flex-row items-center justify-between gap-12 group shadow-2xl border border-white/5">
-                                {/* Abstract background pattern */}
-                                <div className="absolute inset-0 z-0 opacity-[0.1]" style={{
-                                    backgroundImage: 'radial-gradient(circle at 2px 2px, white 1px, transparent 0)',
-                                    backgroundSize: '32px 32px'
-                                }}></div>
-                                <div className="absolute -top-24 -left-24 w-64 h-64 bg-white/5 rounded-full blur-3xl"></div>
-                                
-                                <div className="relative z-10 max-w-xl text-left">
-                                    <h2 className="text-2xl md:text-3xl font-bold tracking-tight mb-4 font-bricolage leading-tight">
-                                        Global Access. <br />Seamless <span className="text-primary">Admissions</span> & Prep.
-                                    </h2>
-                                    <p className="text-sm md:text-base text-white/70 mb-8 leading-relaxed max-w-md font-light">
-                                        Pinnacle Academia is built for learners worldwide. We accept payments for international exams (SAT, IELTS) and admissions processing, ensuring you can access our premium educational services from anywhere.
-                                    </p>
-                                    <Link href="/signup" className="inline-flex items-center gap-2 text-white font-semibold group/link border-b border-transparent hover:border-white transition-all py-1">
-                                        <span className="text-sm">Get Started on Pinnacle Academia Today</span>
-                                        <ArrowRight className="w-4 h-4 transition-transform group-hover/link:translate-x-1" />
-                                    </Link>
-                                </div>
-                                
-                                <div className="relative z-10 w-full md:w-1/2 flex justify-center md:justify-end">
-                                    <div className="relative transition-all duration-700 group-hover:translate-x-2 group-hover:-translate-y-2">
-                                        {/* Soft glow behind the image */}
-                                        <div className="absolute inset-0 bg-primary/20 blur-[100px] rounded-full -z-10 scale-125"></div>
-                                        <Image 
-                                            src="/academic_payments.png" 
-                                            alt="Secure Tuition & Exam Registrations Payments" 
-                                            width={600} 
-                                            height={400} 
-                                            className="w-full max-w-sm h-auto drop-shadow-[0_20px_50px_rgba(0,0,0,0.3)] rounded-xl"
-                                        />
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            {/* Architectural Connection Lines */}
-                            <div className="flex justify-between px-12 md:px-32 h-28 pointer-events-none">
-                                <div className="flex gap-24">
-                                    <div className="w-px h-full border-l border-dashed border-stone-400/80"></div>
-                                    <div className="w-px h-full border-l border-dashed border-stone-400/80"></div>
-                                </div>
-                                <div className="flex gap-24">
-                                    <div className="w-px h-full border-l border-dashed border-stone-400/80"></div>
-                                    <div className="w-px h-full border-l border-dashed border-stone-400/80"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
+
 
                     <MarketingFooter />
                 </div >
