@@ -24,10 +24,12 @@ import {
   HelpCircle,
   BookOpen,
   School,
-  GraduationCap
+  GraduationCap,
+  X,
+  CornerUpLeft
 } from "lucide-react";
 import { useFirestore, useCollection, useMemoFirebase } from '@/firebase';
-import { collection, query, where, orderBy, addDoc, serverTimestamp, limit } from 'firebase/firestore';
+import { collection, query, where, addDoc, serverTimestamp, limit } from 'firebase/firestore';
 import { useAcademy } from '@/context/academy-context';
 import { useToast } from '@/hooks/use-toast';
 import { cn } from '@/lib/utils';
@@ -41,6 +43,11 @@ interface ChatMessage {
   senderRole: string;
   text: string;
   createdAt: any;
+  replyTo?: {
+    id: string;
+    senderName: string;
+    text: string;
+  };
 }
 
 export default function PeersMentorsPage() {
@@ -72,6 +79,7 @@ export default function PeersMentorsPage() {
   const [messageText, setMessageText] = React.useState('');
   const [showSidebarMobile, setShowSidebarMobile] = React.useState(true);
   const [isSending, setIsSending] = React.useState(false);
+  const [replyToMessage, setReplyToMessage] = React.useState<ChatMessage | null>(null);
   const messagesEndRef = React.useRef<HTMLDivElement>(null);
 
   // Sync activeChannelId if cohortYear changes
@@ -79,14 +87,13 @@ export default function PeersMentorsPage() {
     setActiveChannelId(`${cohortYear}-general`);
   }, [cohortYear]);
 
-  // Firestore query: Scoped to cohort channel so students in the same year can talk.
-  // Note: Ordered by createdAt so they display in historical order. Limit to last 150 to keep load light.
+  // Firestore query: Scoped to cohort channel.
+  // Note: We removed orderBy to prevent composite index requirement so messages show up immediately.
   const chatsQuery = useMemoFirebase(() => {
     if (!firestore) return null;
     return query(
       collection(firestore, 'peers_chats'),
       where('channelId', '==', activeChannelId),
-      orderBy('createdAt', 'asc'),
       limit(150)
     );
   }, [firestore, activeChannelId]);
@@ -115,19 +122,30 @@ export default function PeersMentorsPage() {
     return defaultText[activeChannelId] || [];
   }, [activeChannelId, cohortYear]);
 
-  // Combine Firestore messages and initial fallbacks
+  // Combine Firestore messages and initial fallbacks, sorting client-side
   const messages = React.useMemo(() => {
-    if (!dbMessages || dbMessages.length === 0) {
+    let list = [...(dbMessages || [])];
+    
+    // Sort client side to avoid missing index errors
+    list.sort((a, b) => {
+      const getMs = (val: any) => {
+        if (!val) return Date.now();
+        if (val.toDate) return val.toDate().getTime();
+        if (val.seconds) return val.seconds * 1000;
+        const parsed = new Date(val).getTime();
+        return isNaN(parsed) ? Date.now() : parsed;
+      };
+      return getMs(a.createdAt) - getMs(b.createdAt);
+    });
+
+    if (list.length === 0) {
       return fallbackMessages;
     }
+
     // Prevent duplicate entries if fallbacks get pushed to DB
-    const dbIds = new Set(dbMessages.map(m => m.id));
+    const dbIds = new Set(list.map(m => m.id));
     const filteredFallback = fallbackMessages.filter(f => !dbIds.has(f.id));
-    return [...filteredFallback, ...dbMessages].sort((a, b) => {
-      const timeA = a.createdAt?.toDate ? a.createdAt.toDate().getTime() : new Date(a.createdAt).getTime();
-      const timeB = b.createdAt?.toDate ? b.createdAt.toDate().getTime() : new Date(b.createdAt).getTime();
-      return timeA - timeB;
-    });
+    return [...filteredFallback, ...list];
   }, [dbMessages, fallbackMessages]);
 
   const activeChannel = channels.find(c => c.id === activeChannelId) || channels[0];
@@ -161,17 +179,28 @@ export default function PeersMentorsPage() {
     const contentText = messageText.trim();
     setMessageText('');
 
+    const messagePayload: any = {
+      channelId: activeChannelId,
+      academyId: academy?.id || 'public',
+      senderId: currentUser.id || 'anonymous',
+      senderName: currentUser.name || 'Anonymous Student',
+      senderEmail: currentUser.email || '',
+      senderRole: currentUser.role || 'student',
+      text: contentText,
+      createdAt: serverTimestamp(),
+    };
+
+    if (replyToMessage) {
+      messagePayload.replyTo = {
+        id: replyToMessage.id,
+        senderName: replyToMessage.senderName,
+        text: replyToMessage.text
+      };
+    }
+
     try {
-      await addDoc(collection(firestore, 'peers_chats'), {
-        channelId: activeChannelId,
-        academyId: academy?.id || 'public',
-        senderId: currentUser.id || 'anonymous',
-        senderName: currentUser.name || 'Anonymous Student',
-        senderEmail: currentUser.email || '',
-        senderRole: currentUser.role || 'student',
-        text: contentText,
-        createdAt: serverTimestamp(),
-      });
+      await addDoc(collection(firestore, 'peers_chats'), messagePayload);
+      setReplyToMessage(null);
       scrollToBottom();
     } catch (err) {
       console.error("Failed to send message:", err);
@@ -335,7 +364,7 @@ export default function PeersMentorsPage() {
                   <div 
                     key={message.id || index} 
                     className={cn(
-                      "flex gap-3 max-w-[85%] animate-in fade-in slide-in-from-bottom-2 duration-300",
+                      "flex gap-3 max-w-[85%] animate-in fade-in slide-in-from-bottom-2 duration-300 group relative",
                       isCurrentUser ? "ml-auto flex-row-reverse" : "mr-auto"
                     )}
                   >
@@ -348,7 +377,7 @@ export default function PeersMentorsPage() {
                       </AvatarFallback>
                     </Avatar>
 
-                    <div className="space-y-1">
+                    <div className="space-y-1 max-w-[85%]">
                       {/* Message sender header */}
                       <div className={cn(
                         "flex items-center gap-2 text-xs",
@@ -358,6 +387,14 @@ export default function PeersMentorsPage() {
                         {getRoleBadge(message.senderRole)}
                         <span className="text-[10px] text-muted-foreground">{formatMessageTime(message.createdAt)}</span>
                       </div>
+
+                      {/* Reply quote presentation */}
+                      {message.replyTo && (
+                        <div className="p-2 rounded bg-muted/70 border-l-4 border-primary text-[11px] leading-snug truncate max-w-full mb-1">
+                          <span className="font-bold text-primary block">{message.replyTo.senderName}</span>
+                          <span className="text-muted-foreground truncate block">{message.replyTo.text}</span>
+                        </div>
+                      )}
 
                       {/* Message text bubble */}
                       <div className={cn(
@@ -369,6 +406,23 @@ export default function PeersMentorsPage() {
                         {message.text}
                       </div>
                     </div>
+
+                    {/* Quick Reply Button on Hover */}
+                    <div className={cn(
+                      "flex items-center self-center opacity-0 group-hover:opacity-100 transition-opacity duration-200",
+                      isCurrentUser ? "mr-2" : "ml-2"
+                    )}>
+                      <Button
+                        type="button"
+                        variant="ghost"
+                        size="icon"
+                        className="h-7 w-7 rounded-full bg-background border hover:bg-muted shadow-sm"
+                        onClick={() => setReplyToMessage(message)}
+                        title="Reply to message"
+                      >
+                        <CornerUpLeft className="h-3.5 w-3.5 text-muted-foreground" />
+                      </Button>
+                    </div>
                   </div>
                 );
               })}
@@ -376,6 +430,25 @@ export default function PeersMentorsPage() {
             </>
           )}
         </div>
+
+        {/* Reply Message Preview Area */}
+        {replyToMessage && (
+          <div className="px-4 py-2 border-t bg-muted/40 flex items-center justify-between text-xs animate-in slide-in-from-bottom duration-200">
+            <div className="border-l-4 border-primary pl-2 truncate flex-1 mr-4">
+              <span className="font-bold block text-primary">Replying to {replyToMessage.senderName}</span>
+              <span className="text-muted-foreground truncate block max-w-2xl">{replyToMessage.text}</span>
+            </div>
+            <Button 
+              type="button" 
+              variant="ghost" 
+              size="icon" 
+              className="h-6 w-6 rounded-full hover:bg-muted" 
+              onClick={() => setReplyToMessage(null)}
+            >
+              <X className="h-4 w-4" />
+            </Button>
+          </div>
+        )}
 
         {/* Message Input box */}
         <form onSubmit={handleSendMessage} className="p-3 border-t bg-card/80 flex items-center gap-2">
@@ -390,7 +463,7 @@ export default function PeersMentorsPage() {
             type="submit" 
             size="icon" 
             disabled={!messageText.trim() || isSending}
-            className="bg-primary hover:bg-primary/90 text-primary-foreground h-10 w-10 shrink-0"
+            className="bg-primary hover:bg-primary/95 text-primary-foreground h-10 w-10 shrink-0"
           >
             <Send className="h-4.5 w-4.5" />
           </Button>

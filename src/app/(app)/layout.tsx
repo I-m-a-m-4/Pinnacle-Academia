@@ -329,7 +329,6 @@ export default function AuthenticatedLayout({
   }, [currentUserProfile, userNotifications, firestore, toast]);
 
   const handleConfettiComplete = React.useCallback(() => setIsConfettiActive(false), [setIsConfettiActive]);
-
   React.useEffect(() => {
     // If auth checking is complete and there's no authenticated user, redirect to login.
     if (!isUserLoading && !user) {
@@ -339,7 +338,7 @@ export default function AuthenticatedLayout({
 
   React.useEffect(() => {
     const isSuperAdmin = currentUserProfile?.email === 'belloimam431@gmail.com';
-    if (!isLoading && currentUserProfile && currentUserProfile.surveyCompleted === false && pathname !== '/onboarding' && !isSuperAdmin) {
+    if (!isLoading && currentUserProfile && currentUserProfile.surveyCompleted !== true && pathname !== '/onboarding' && !isSuperAdmin) {
       router.replace('/onboarding');
     }
   }, [isLoading, currentUserProfile, pathname, router]);
@@ -351,7 +350,7 @@ export default function AuthenticatedLayout({
   }, [pathname, currentUserProfile, isLoading, isUserLoading, router, toast]);
 
   // --- End of Hooks ---
-  
+
   // New Effect: Trigger Push Notifications when new unread notifications arrive
   const [lastNotifiedId, setLastNotifiedId] = React.useState<string | null>(null);
   const [permissionPopup, setPermissionPopup] = React.useState<{ id: string, title: string, body: string } | null>(null);
