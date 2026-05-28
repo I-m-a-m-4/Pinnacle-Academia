@@ -159,6 +159,21 @@ import { Input } from '@/components/ui/input';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import CyberShield from '@/components/admin/cyber-shield';
 
+// Import static question data files to support static file curation
+import { englishQuestions } from '@/app/(app)/cbt-simulator/data/use-of-english';
+import { mathematicsQuestions } from '@/app/(app)/cbt-simulator/data/mathematics';
+import { physicsQuestions } from '@/app/(app)/cbt-simulator/data/physics';
+import { chemistryQuestions } from '@/app/(app)/cbt-simulator/data/chemistry';
+import { biologyQuestions } from '@/app/(app)/cbt-simulator/data/biology';
+import { governmentQuestions } from '@/app/(app)/cbt-simulator/data/government';
+import { literatureQuestions } from '@/app/(app)/cbt-simulator/data/literature';
+import { economicsQuestions } from '@/app/(app)/cbt-simulator/data/economics';
+import { accountingQuestions } from '@/app/(app)/cbt-simulator/data/accounting';
+import { crsQuestions } from '@/app/(app)/cbt-simulator/data/crs';
+import { aptitudeQuestions } from '@/app/(app)/cbt-simulator/data/aptitude';
+import { geographyQuestions } from '@/app/(app)/cbt-simulator/data/geography';
+import { agricScienceQuestions } from '@/app/(app)/cbt-simulator/data/agric-science';
+
 const DEFAULT_QUESTIONS = [
   {
     id: 'sb-q1',
@@ -423,14 +438,6 @@ function PinnacleMilestoneDialog({ open, onOpenChange, daysActive, totalSessions
                                 PINNACLE ACADEMIA
                             </h2>
                             
-                            {/* Massive Counter */}
-                            <div className="my-6 px-8 py-3 rounded-3xl bg-gradient-to-b from-white/[0.07] to-transparent border border-white/10 backdrop-blur-md shadow-[inset_0px_1px_1px_rgba(255,255,255,0.1)] relative overflow-hidden w-full max-w-[220px]">
-                                <div className="text-6xl font-black text-transparent bg-clip-text bg-gradient-to-b from-white via-zinc-200 to-zinc-600 leading-none select-none">
-                                    {daysActive}
-                                </div>
-                                <div className="text-[9px] uppercase font-black tracking-[0.25em] text-cyan-400 mt-2 select-none">Days Online</div>
-                            </div>
-
                             <p className="text-xs text-zinc-400 font-medium mb-6 leading-relaxed select-none max-w-[260px]">
                                 Active on the grid since <span className="text-zinc-100 font-bold underline decoration-dotted decoration-indigo-400 underline-offset-2">{format(launchDate, 'PPP')}</span>.
                             </p>
@@ -689,7 +696,26 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
             const subject = subjects.find(s => s.id === selectedSubjectId);
             if (subject) {
                 setSubjectModules(subject.modules || []);
-                setSubjectQuestions(subject.questions || []);
+                
+                // Load questions statically from codebase files instead of Firestore
+                let localQuestions: any[] = [];
+                const name = subject.name.toLowerCase();
+                if (name.includes('english')) localQuestions = englishQuestions;
+                else if (name.includes('math')) localQuestions = mathematicsQuestions;
+                else if (name.includes('phys')) localQuestions = physicsQuestions;
+                else if (name.includes('chem')) localQuestions = chemistryQuestions;
+                else if (name.includes('biol')) localQuestions = biologyQuestions;
+                else if (name.includes('govt') || name.includes('govern')) localQuestions = governmentQuestions;
+                else if (name.includes('liter')) localQuestions = literatureQuestions;
+                else if (name.includes('econ')) localQuestions = economicsQuestions;
+                else if (name.includes('account')) localQuestions = accountingQuestions;
+                else if (name.includes('crs') || name.includes('relig')) localQuestions = crsQuestions;
+                else if (name.includes('apti')) localQuestions = aptitudeQuestions;
+                else if (name.includes('geog')) localQuestions = geographyQuestions;
+                else if (name.includes('agric') || name.includes('agriculture')) localQuestions = agricScienceQuestions;
+                else localQuestions = englishQuestions;
+
+                setSubjectQuestions(localQuestions);
             }
         } else {
             setSubjectModules([]);
@@ -697,7 +723,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
         }
     }, [selectedSubjectId, subjects]);
 
-    // Save changes back to Firebase for subject modules and questions
+    // Save changes back to Firebase for subject modules
     const handleSaveSubjectData = async () => {
         if (!selectedSubjectId) {
             toast({ variant: 'destructive', title: 'Error', description: 'Please select a subject first.' });
@@ -708,10 +734,10 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
             const subjectRef = doc(firestore, 'subjects', selectedSubjectId);
             await updateDoc(subjectRef, {
                 modules: subjectModules,
-                questions: subjectQuestions,
+                // Do not update questions in Firestore (handled statically in files)
                 updatedAt: serverTimestamp()
             });
-            toast({ variant: 'success', title: 'Subject Config Saved', description: 'Curriculum syllabus and CBT questions have been successfully updated.' });
+            toast({ variant: 'success', title: 'Curriculum Syllabus Saved', description: 'Curriculum syllabus has been successfully updated.' });
         } catch (error: any) {
             toast({ variant: 'destructive', title: 'Failed to Save', description: error.message || 'An error occurred.' });
         } finally {
@@ -3635,7 +3661,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
 export default function AdminDashboardPage() {
     const firestore = useFirestore();
 
-    const usersQuery = useMemoFirebase(() => query(collection(firestore, 'users'), orderBy('name')), [firestore]);
+    const usersQuery = useMemoFirebase(() => query(collection(firestore, 'users')), [firestore]);
     const businessesQuery = useMemoFirebase(() => query(collection(firestore, 'businessInstances')), [firestore]);
     const subjectsQuery = useMemoFirebase(() => query(collection(firestore, 'subjects')), [firestore]);
     const applicationsQuery = useMemoFirebase(() => query(collection(firestore, 'job_applications'), orderBy('createdAt', 'desc')), [firestore]);

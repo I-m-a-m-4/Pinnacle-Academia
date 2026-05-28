@@ -23,6 +23,8 @@ import { economicsQuestions } from '../data/economics';
 import { accountingQuestions } from '../data/accounting';
 import { crsQuestions } from '../data/crs';
 import { aptitudeQuestions } from '../data/aptitude';
+import { geographyQuestions } from '../data/geography';
+import { agricScienceQuestions } from '../data/agric-science';
 
 const DEFAULT_MAPPINGS = [
     {
@@ -44,6 +46,16 @@ const DEFAULT_MAPPINGS = [
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Agricultural Science / Forestry / Food Science',
         subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
+    },
+    {
+        university: 'Obafemi Awolowo University (OAU)',
+        course: 'Geography / Environmental Design',
+        subjects: ['Use of English', 'Geography', 'Aptitude Test', 'Mathematics']
+    },
+    {
+        university: 'Obafemi Awolowo University (OAU)',
+        course: 'Agric. Science / Pure & Applied Biology',
+        subjects: ['Use of English', 'Agricultural Science', 'Biology', 'Aptitude Test']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
@@ -128,7 +140,9 @@ const DEFAULT_SUBJECTS = [
     { id: 'sub-eco', name: 'Economics', price: 50, category: 'Social Sciences', stock: 100, imageUrl: '' },
     { id: 'sub-acc', name: 'Financial Accounting', price: 50, category: 'Social Sciences', stock: 100, imageUrl: '' },
     { id: 'sub-crs', name: 'Christian Religious Studies', price: 50, category: 'Arts', stock: 100, imageUrl: '' },
-    { id: 'sub-apt', name: 'Aptitude Test', price: 50, category: 'General', stock: 100, imageUrl: '' }
+    { id: 'sub-apt', name: 'Aptitude Test', price: 50, category: 'General', stock: 100, imageUrl: '' },
+    { id: 'sub-geo', name: 'Geography', price: 50, category: 'Science', stock: 100, imageUrl: '' },
+    { id: 'sub-agr', name: 'Agricultural Science', price: 50, category: 'Science', stock: 100, imageUrl: '' }
 ];
 
 
@@ -139,6 +153,7 @@ export default function SelectProductsPage() {
 
     const [activeUni, setActiveUni] = React.useState('Obafemi Awolowo University (OAU)');
     const [activeCourse, setActiveCourse] = React.useState('Medicine and Surgery');
+    const [selectedYear, setSelectedYear] = React.useState('All');
     const [isNavigating, setIsNavigating] = React.useState(false);
     const [customSubjects, setCustomSubjects] = React.useState<string[]>([]);
 
@@ -232,12 +247,25 @@ export default function SelectProductsPage() {
             else if (sub.name === 'Financial Accounting') questions = accountingQuestions;
             else if (sub.name === 'Christian Religious Studies') questions = crsQuestions;
             else if (sub.name === 'Aptitude Test') questions = aptitudeQuestions;
+            else if (sub.name === 'Geography') questions = geographyQuestions;
+            else if (sub.name === 'Agricultural Science') questions = agricScienceQuestions;
             else questions = englishQuestions;
+
+            let filteredQuestions = questions;
+            if (selectedYear !== 'All') {
+                filteredQuestions = questions.filter(q => {
+                    const yearMatch = q.questionText.match(/\b(20\d{2})\b/);
+                    return yearMatch && yearMatch[1] === selectedYear;
+                });
+                if (filteredQuestions.length === 0) {
+                    filteredQuestions = questions;
+                }
+            }
 
             return {
                 id: sub.id,
                 name: sub.name,
-                questions: questions.slice(0, isOAU ? 10 : 40) // 10 questions per subject for OAU, 40 for others
+                questions: filteredQuestions.slice(0, isOAU ? 10 : 40) // 10 questions per subject for OAU, 40 for others
             };
         });
 
@@ -328,6 +356,26 @@ export default function SelectProductsPage() {
                                     </SelectContent>
                                 </Select>
                             </div>
+
+                            <div className="space-y-1.5">
+                                <label className="text-xs font-semibold text-muted-foreground">Exam Year</label>
+                                <Select value={selectedYear} onValueChange={setSelectedYear}>
+                                    <SelectTrigger className="bg-background/80 h-11 border-border/60">
+                                        <SelectValue placeholder="Select Exam Year" />
+                                    </SelectTrigger>
+                                    <SelectContent>
+                                        <SelectItem value="All">All Years (Randomized Mix)</SelectItem>
+                                        <SelectItem value="2022">2022 Past Questions</SelectItem>
+                                        <SelectItem value="2021">2021 Past Questions</SelectItem>
+                                        <SelectItem value="2020">2020 Past Questions</SelectItem>
+                                        <SelectItem value="2019">2019 Past Questions</SelectItem>
+                                        <SelectItem value="2018">2018 Past Questions</SelectItem>
+                                        <SelectItem value="2017">2017 Past Questions</SelectItem>
+                                        <SelectItem value="2016">2016 Past Questions</SelectItem>
+                                        <SelectItem value="2015">2015 Past Questions</SelectItem>
+                                    </SelectContent>
+                                </Select>
+                            </div>
                         </div>
 
                         {/* Subject Customizer Catalog */}
@@ -377,8 +425,8 @@ export default function SelectProductsPage() {
                                 <span className="text-sm font-bold text-foreground">{activeUni}</span>
                             </div>
                             <div>
-                                <span className="text-[10px] text-muted-foreground font-semibold uppercase tracking-wider block">Course / Mode</span>
-                                <span className="text-sm font-semibold text-foreground">{activeCourse}</span>
+                                <span className="text-[10px] text-muted-foreground font-semibold uppercase tracking-wider block">Course & Exam Year</span>
+                                <span className="text-sm font-semibold text-foreground">{activeCourse} ({selectedYear === 'All' ? 'All Years' : `${selectedYear} Past Questions`})</span>
                             </div>
                             <div>
                                 <span className="text-[10px] text-muted-foreground font-semibold uppercase tracking-wider block">Timing & Questions</span>

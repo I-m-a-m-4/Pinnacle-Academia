@@ -104,7 +104,16 @@ export default function UsersPage() {
   const { data: academyInstance, isLoading: isBusinessLoading } = useDoc<Academy>(businessDocRef);
 
   const usersQuery = useMemoFirebase(() => {
-    if (!currentUser?.academyId || !firestore || currentUser.role !== 'admin') return null;
+    if (!firestore || !currentUser) return null;
+    const isSuperAdmin = currentUser.role === 'super-admin';
+    const isAdminOrOwner = currentUser.role === 'admin' || currentUser.role === 'owner';
+    if (!isSuperAdmin && !isAdminOrOwner) return null;
+
+    if (isSuperAdmin) {
+      return query(collection(firestore, "users"));
+    }
+
+    if (!currentUser.academyId) return null;
     return query(collection(firestore, "users"), where("academyId", "==", currentUser.academyId));
   }, [currentUser, firestore]);
   const { data: users, isLoading: areUsersLoading } = useCollection<StudentProfile>(usersQuery);
@@ -127,13 +136,17 @@ export default function UsersPage() {
   }, [users, sortBy]);
 
   const invitationsQuery = useMemoFirebase(() => {
-    if (!currentUser?.academyId || !firestore) return null;
+    if (!firestore || !currentUser) return null;
+    if (currentUser.role === 'super-admin') {
+      return query(collection(firestore, 'invitations'));
+    }
+    if (!currentUser.academyId) return null;
     return query(collection(firestore, 'invitations'), where('academyId', '==', currentUser.academyId));
-  }, [currentUser?.academyId, firestore]);
+  }, [currentUser, firestore]);
   const { data: invitations, isLoading: areInvitationsLoading } = useCollection<Invitation>(invitationsQuery);
 
   const isLoading = isProfileLoading || areUsersLoading || areInvitationsLoading || isBusinessLoading;
-  const canManageUsers = currentUser?.role === 'admin';
+  const canManageUsers = currentUser?.role === 'admin' || currentUser?.role === 'super-admin' || currentUser?.role === 'owner';
 
   const handleRevokeInvitation = async () => {
     if (!invitationToRevoke || !firestore) return;
