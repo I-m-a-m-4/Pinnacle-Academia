@@ -26,10 +26,11 @@ import {
   School,
   GraduationCap,
   X,
-  CornerUpLeft
+  CornerUpLeft,
+  Trash
 } from "lucide-react";
 import { useFirestore, useCollection, useMemoFirebase } from '@/firebase';
-import { collection, query, where, addDoc, serverTimestamp, limit } from 'firebase/firestore';
+import { collection, query, where, addDoc, serverTimestamp, limit, deleteDoc, doc } from 'firebase/firestore';
 import { useAcademy } from '@/context/academy-context';
 import { useToast } from '@/hooks/use-toast';
 import { cn } from '@/lib/utils';
@@ -212,6 +213,25 @@ export default function PeersMentorsPage() {
       setMessageText(contentText); // Restore draft
     } finally {
       setIsSending(false);
+    }
+  };
+
+  const handleDeleteMessage = async (messageId: string) => {
+    if (!firestore || !messageId) return;
+    try {
+      await deleteDoc(doc(firestore, 'peers_chats', messageId));
+      toast({
+        variant: 'success',
+        title: 'Message deleted',
+        description: 'Your message was successfully deleted.',
+      });
+    } catch (err) {
+      console.error("Failed to delete message:", err);
+      toast({
+        variant: 'destructive',
+        title: 'Delete failed',
+        description: 'Could not delete the message. Please try again.',
+      });
     }
   };
 
@@ -407,10 +427,10 @@ export default function PeersMentorsPage() {
                       </div>
                     </div>
 
-                    {/* Quick Reply Button on Hover */}
+                    {/* Quick Action Buttons on Hover */}
                     <div className={cn(
-                      "flex items-center self-center opacity-0 group-hover:opacity-100 transition-opacity duration-200",
-                      isCurrentUser ? "mr-2" : "ml-2"
+                      "flex items-center gap-1.5 self-center opacity-0 group-hover:opacity-100 transition-opacity duration-200",
+                      isCurrentUser ? "mr-2 flex-row-reverse" : "ml-2"
                     )}>
                       <Button
                         type="button"
@@ -422,6 +442,18 @@ export default function PeersMentorsPage() {
                       >
                         <CornerUpLeft className="h-3.5 w-3.5 text-muted-foreground" />
                       </Button>
+                      {isCurrentUser && !message.id.startsWith('g') && !message.id.startsWith('j') && !message.id.startsWith('p') && !message.id.startsWith('w') && !message.id.startsWith('m') && (
+                        <Button
+                          type="button"
+                          variant="ghost"
+                          size="icon"
+                          className="h-7 w-7 rounded-full bg-background border border-destructive/20 hover:bg-destructive/10 text-destructive shadow-sm"
+                          onClick={() => handleDeleteMessage(message.id)}
+                          title="Delete message"
+                        >
+                          <Trash className="h-3.5 w-3.5" />
+                        </Button>
+                      )}
                     </div>
                   </div>
                 );
