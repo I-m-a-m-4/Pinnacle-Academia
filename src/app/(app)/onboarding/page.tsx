@@ -120,7 +120,7 @@ export default function OnboardingPage() {
   const router = useRouter();
   const { toast } = useToast();
   const firestore = useFirestore();
-  const { academy, currentUserProfile, triggerRefresh } = useAcademy();
+  const { academy, currentUserProfile, triggerRefresh, user } = useAcademy();
 
   const [step, setStep] = React.useState(1);
   const [isSubmitting, setIsSubmitting] = React.useState(false);
@@ -142,11 +142,15 @@ export default function OnboardingPage() {
   });
 
   const onSubmit = async (data: OnboardingFormValues) => {
-    const authUser = getAuth().currentUser;
-    const bId = currentUserProfile?.academyId || academy?.id;
+    const authUser = getAuth().currentUser || user;
+    const bId = currentUserProfile?.academyId || (currentUserProfile as any)?.businessId || academy?.id;
 
     if (!authUser || !bId) {
-      toast({ variant: 'destructive', title: 'Session Error', description: 'Your session has expired. Please log in again.' });
+      toast({ 
+        variant: 'destructive', 
+        title: 'Session Error', 
+        description: `Your session has expired. Please log in again. (Auth: ${!!authUser}, bId: ${!!bId}, profileLoaded: ${!!currentUserProfile})` 
+      });
       return;
     }
 
