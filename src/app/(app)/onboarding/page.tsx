@@ -229,7 +229,7 @@ export default function OnboardingPage() {
           <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-primary/10 mb-2 border border-primary/20">
             <GraduationCap className="h-10 w-10 text-primary" />
           </div>
-          <h1 className="text-4xl font-extrabold tracking-tight mb-3">Set Up Your Study space, {currentUserProfile.name.split(' ')[0]}</h1>
+          <h1 className="text-4xl font-extrabold tracking-tight mb-3">Set Up Your Study space, {(currentUserProfile?.name || '').split(' ')[0] || 'Student'}</h1>
           <p className="text-muted-foreground text-lg max-w-xl mx-auto">
             Configure your academic profile to calibrate our computer-based test simulator and smart syllabus tracker.
           </p>
