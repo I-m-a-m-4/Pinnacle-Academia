@@ -126,6 +126,11 @@ export default function OnboardingPage() {
   const [isSubmitting, setIsSubmitting] = React.useState(false);
   const [otherUni, setOtherUni] = React.useState(false);
   const [otherCourse, setOtherCourse] = React.useState(false);
+  const [mounted, setMounted] = React.useState(false);
+
+  React.useEffect(() => {
+    setMounted(true);
+  }, []);
 
   const form = useForm<OnboardingFormValues>({
     resolver: zodResolver(onboardingSchema),
@@ -222,7 +227,7 @@ export default function OnboardingPage() {
     setStep(prev => prev - 1);
   };
 
-  if (!currentUserProfile) {
+  if (!mounted || !currentUserProfile) {
     return <div className="flex suppress-hydration-warning justify-center items-center h-screen bg-background"><Loader2 className="h-8 w-8 animate-spin text-primary" /></div>
   }
 
