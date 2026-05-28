@@ -297,7 +297,7 @@ export default function SelectProductsPage() {
     };
 
     return (
-        <div className="max-w-4xl mx-auto space-y-8 py-6">
+        <div className="w-full max-w-7xl mx-auto space-y-8 py-6 px-4 md:px-6">
             {/* Header section with brand colors */}
             <div className="flex items-center justify-between pb-6 border-b border-border/40">
                 <div>
