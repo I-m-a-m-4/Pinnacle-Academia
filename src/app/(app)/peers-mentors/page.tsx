@@ -27,7 +27,7 @@ import {
   GraduationCap
 } from "lucide-react";
 import { useFirestore, useCollection, useMemoFirebase } from '@/firebase';
-import { collection, query, where, orderBy, addDoc, serverTimestamp } from 'firebase/firestore';
+import { collection, query, where, orderBy, addDoc, serverTimestamp, limit } from 'firebase/firestore';
 import { useAcademy } from '@/context/academy-context';
 import { useToast } from '@/hooks/use-toast';
 import { cn } from '@/lib/utils';
@@ -43,74 +43,106 @@ interface ChatMessage {
   createdAt: any;
 }
 
-const CHANNELS = [
-  { id: 'general', name: 'general-study', description: 'General academic discussions, questions, and study advice.', icon: MessageSquare },
-  { id: 'jamb', name: 'jamb-prep', description: 'JAMB UTME past questions, registrations, and exam strategies.', icon: BookOpen },
-  { id: 'post-utme', name: 'post-utme-talk', description: 'Post-UTME updates, screening details, and admission aggregate help.', icon: School },
-  { id: 'waec-neco', name: 'waec-neco-corner', description: 'WAEC, NECO, and GCE syllabus prep and exam topics.', icon: GraduationCap },
-  { id: 'mentors', name: 'ask-a-mentor', description: 'Get direct advice from high-performing student mentors.', icon: Sparkles },
-];
-
-const FALLBACK_MESSAGES: Record<string, ChatMessage[]> = {
-  general: [
-    { id: 'g1', channelId: 'general', senderId: 'chidi', senderName: 'Chidi Benson', senderEmail: 'chidi@example.com', senderRole: 'mentor', text: 'Welcome to the general study room! Feel free to share any study challenges or questions here.', createdAt: { toDate: () => new Date(Date.now() - 3600000 * 2) } },
-    { id: 'g2', channelId: 'general', senderId: 'amina', senderName: 'Amina Yusuf', senderEmail: 'amina@example.com', senderRole: 'admin', text: 'Hey guys! Don\'t forget to use the Syllabus Tracker to monitor your JAMB prep progress.', createdAt: { toDate: () => new Date(Date.now() - 3600000) } },
-    { id: 'g3', channelId: 'general', senderId: 'tunde', senderName: 'Tunde Bakare', senderEmail: 'tunde@example.com', senderRole: 'student', text: 'Does anyone have the WAEC Chemistry past questions for 2025?', createdAt: { toDate: () => new Date(Date.now() - 1800000) } }
-  ],
-  jamb: [
-    { id: 'j1', channelId: 'jamb', senderId: 'amina', senderName: 'Amina Yusuf', senderEmail: 'amina@example.com', senderRole: 'admin', text: 'Welcome to the JAMB Prep room! Use this channel to discuss subject combinations and past questions.', createdAt: { toDate: () => new Date(Date.now() - 3600000 * 3) } },
-    { id: 'j2', channelId: 'jamb', senderId: 'emeka', senderName: 'Emeka Obi', senderEmail: 'emeka@example.com', senderRole: 'mentor', text: 'Tip: For Physics, make sure you focus on Mechanics and Waves. Those topics carry a lot of marks.', createdAt: { toDate: () => new Date(Date.now() - 3600000) } }
-  ],
-  'post-utme': [
-    { id: 'p1', channelId: 'post-utme', senderId: 'chidi', senderName: 'Chidi Benson', senderEmail: 'chidi@example.com', senderRole: 'mentor', text: 'Post-UTME screening formats vary by school. UNILAG uses CBT (Maths, Eng, Gen Paper), OAU has subject exams.', createdAt: { toDate: () => new Date(Date.now() - 3600000 * 5) } }
-  ],
-  'waec-neco': [
-    { id: 'w1', channelId: 'waec-neco', senderId: 'amina', senderName: 'Amina Yusuf', senderEmail: 'amina@example.com', senderRole: 'admin', text: 'WAEC timetables are out. Let\'s use this space to share tips for practicals.', createdAt: { toDate: () => new Date(Date.now() - 3600000 * 12) } }
-  ],
-  mentors: [
-    { id: 'm1', channelId: 'mentors', senderId: 'chidi', senderName: 'Chidi Benson', senderEmail: 'chidi@example.com', senderRole: 'mentor', text: 'Hello! I scored 335 in JAMB last year. Ask me anything about scheduling study hours or tackling tough topics.', createdAt: { toDate: () => new Date(Date.now() - 3600000 * 4) } }
-  ]
-};
-
 export default function PeersMentorsPage() {
-  const { academy, currentUserProfile: currentUser, students } = useAcademy();
+  const { academy, currentUserProfile: currentUser, users, students } = useAcademy();
   const firestore = useFirestore();
   const { toast } = useToast();
 
-  const [activeChannelId, setActiveChannelId] = React.useState('general');
+  // Dynamic Cohort Year calculation based on user's profile creation or current year
+  const cohortYear = React.useMemo(() => {
+    if (!currentUser) return new Date().getFullYear();
+    const date = currentUser.createdAt?.toDate 
+      ? currentUser.createdAt.toDate() 
+      : new Date(currentUser.createdAt || Date.now());
+    return date.getFullYear();
+  }, [currentUser]);
+
+  // Dynamic Channel list perpetual with the cohort year
+  const channels = React.useMemo(() => {
+    return [
+      { id: `${cohortYear}-general`, name: `general-study-${cohortYear}`, description: `General academic discussions and prep advice for Class of ${cohortYear}.`, icon: MessageSquare },
+      { id: `${cohortYear}-jamb`, name: `jamb-prep-${cohortYear}`, description: `JAMB UTME past questions and strategies for Class of ${cohortYear}.`, icon: BookOpen },
+      { id: `${cohortYear}-post-utme`, name: `post-utme-talk-${cohortYear}`, description: `Post-UTME screening updates and admission help for Class of ${cohortYear}.`, icon: School },
+      { id: `${cohortYear}-waec-neco`, name: `waec-neco-corner-${cohortYear}`, description: `WAEC & NECO exam topics and practical prep for Class of ${cohortYear}.`, icon: GraduationCap },
+      { id: `${cohortYear}-mentors`, name: `ask-a-mentor-${cohortYear}`, description: `Direct advice from high-performing student mentors for Class of ${cohortYear}.`, icon: Sparkles },
+    ];
+  }, [cohortYear]);
+
+  const [activeChannelId, setActiveChannelId] = React.useState(`${cohortYear}-general`);
   const [messageText, setMessageText] = React.useState('');
   const [showSidebarMobile, setShowSidebarMobile] = React.useState(true);
   const [isSending, setIsSending] = React.useState(false);
   const messagesEndRef = React.useRef<HTMLDivElement>(null);
 
-  // Firestore collection query for real-time messages
+  // Sync activeChannelId if cohortYear changes
+  React.useEffect(() => {
+    setActiveChannelId(`${cohortYear}-general`);
+  }, [cohortYear]);
+
+  // Firestore query: Scoped to cohort channel so students in the same year can talk.
+  // Note: Ordered by createdAt so they display in historical order. Limit to last 150 to keep load light.
   const chatsQuery = useMemoFirebase(() => {
-    if (!firestore || !academy?.id) return null;
+    if (!firestore) return null;
     return query(
       collection(firestore, 'peers_chats'),
-      where('academyId', '==', academy.id),
       where('channelId', '==', activeChannelId),
-      orderBy('createdAt', 'asc')
+      orderBy('createdAt', 'asc'),
+      limit(150)
     );
-  }, [firestore, academy?.id, activeChannelId]);
+  }, [firestore, activeChannelId]);
 
   const { data: dbMessages, isLoading: isChatLoading } = useCollection<ChatMessage>(chatsQuery);
 
+  // Fallback messages for when the database is empty (customized for the cohort year)
+  const fallbackMessages = React.useMemo(() => {
+    const defaultText: Record<string, ChatMessage[]> = {
+      [`${cohortYear}-general`]: [
+        { id: 'g1', channelId: `${cohortYear}-general`, senderId: 'chidi', senderName: 'Chidi Benson', senderEmail: 'chidi@example.com', senderRole: 'mentor', text: `Welcome to the Class of ${cohortYear} study room! Let's work together to smash our exams.`, createdAt: { toDate: () => new Date(Date.now() - 3600000 * 2) } }
+      ],
+      [`${cohortYear}-jamb`]: [
+        { id: 'j1', channelId: `${cohortYear}-jamb`, senderId: 'emeka', senderName: 'Emeka Obi', senderEmail: 'emeka@example.com', senderRole: 'mentor', text: `Class of ${cohortYear} JAMB room is open! Share subject combinations or past questions you need help with.`, createdAt: { toDate: () => new Date(Date.now() - 3600000) } }
+      ],
+      [`${cohortYear}-post-utme`]: [
+        { id: 'p1', channelId: `${cohortYear}-post-utme`, senderId: 'chidi', senderName: 'Chidi Benson', senderEmail: 'chidi@example.com', senderRole: 'mentor', text: `Post-UTME discussions for the ${cohortYear} session. Share target schools here!`, createdAt: { toDate: () => new Date(Date.now() - 3600000 * 3) } }
+      ],
+      [`${cohortYear}-waec-neco`]: [
+        { id: 'w1', channelId: `${cohortYear}-waec-neco`, senderId: 'amina', senderName: 'Amina Yusuf', senderEmail: 'amina@example.com', senderRole: 'admin', text: `WAEC & NECO preparation corner. Drop complex questions or study sheets.`, createdAt: { toDate: () => new Date(Date.now() - 3600000 * 4) } }
+      ],
+      [`${cohortYear}-mentors`]: [
+        { id: 'm1', channelId: `${cohortYear}-mentors`, senderId: 'chidi', senderName: 'Chidi Benson', senderEmail: 'chidi@example.com', senderRole: 'mentor', text: `Hi! Ask me anything about preparing, timed practice, or choosing courses.`, createdAt: { toDate: () => new Date(Date.now() - 3600000 * 5) } }
+      ]
+    };
+    return defaultText[activeChannelId] || [];
+  }, [activeChannelId, cohortYear]);
+
   // Combine Firestore messages and initial fallbacks
   const messages = React.useMemo(() => {
-    const fallbackList = FALLBACK_MESSAGES[activeChannelId] || [];
     if (!dbMessages || dbMessages.length === 0) {
-      return fallbackList;
+      return fallbackMessages;
     }
-    // Filter fallback messages so they don't duplicate if already stored/saved in DB
-    return [...fallbackList, ...dbMessages].sort((a, b) => {
+    // Prevent duplicate entries if fallbacks get pushed to DB
+    const dbIds = new Set(dbMessages.map(m => m.id));
+    const filteredFallback = fallbackMessages.filter(f => !dbIds.has(f.id));
+    return [...filteredFallback, ...dbMessages].sort((a, b) => {
       const timeA = a.createdAt?.toDate ? a.createdAt.toDate().getTime() : new Date(a.createdAt).getTime();
       const timeB = b.createdAt?.toDate ? b.createdAt.toDate().getTime() : new Date(b.createdAt).getTime();
       return timeA - timeB;
     });
-  }, [dbMessages, activeChannelId]);
+  }, [dbMessages, fallbackMessages]);
 
-  const activeChannel = CHANNELS.find(c => c.id === activeChannelId) || CHANNELS[0];
+  const activeChannel = channels.find(c => c.id === activeChannelId) || channels[0];
+
+  // Filter classmates belonging to the same cohort/year
+  const cohortClassmates = React.useMemo(() => {
+    if (!users) return [];
+    return users.filter(u => {
+      if (u.id === currentUser?.id) return false;
+      const uYear = u.createdAt?.toDate 
+        ? u.createdAt.toDate().getFullYear() 
+        : new Date(u.createdAt || Date.now()).getFullYear();
+      return uYear === cohortYear;
+    });
+  }, [users, currentUser, cohortYear]);
 
   // Auto Scroll to bottom
   const scrollToBottom = () => {
@@ -123,7 +155,7 @@ export default function PeersMentorsPage() {
 
   const handleSendMessage = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!messageText.trim() || !firestore || !academy?.id || !currentUser) return;
+    if (!messageText.trim() || !firestore || !currentUser) return;
 
     setIsSending(true);
     const contentText = messageText.trim();
@@ -132,7 +164,7 @@ export default function PeersMentorsPage() {
     try {
       await addDoc(collection(firestore, 'peers_chats'), {
         channelId: activeChannelId,
-        academyId: academy.id,
+        academyId: academy?.id || 'public',
         senderId: currentUser.id || 'anonymous',
         senderName: currentUser.name || 'Anonymous Student',
         senderEmail: currentUser.email || '',
@@ -146,7 +178,7 @@ export default function PeersMentorsPage() {
       toast({
         variant: 'destructive',
         title: 'Message failed',
-        description: 'Your message could not be sent. Please check your internet connection.',
+        description: 'Your message could not be sent. Please check your connection.',
       });
       setMessageText(contentText); // Restore draft
     } finally {
@@ -186,15 +218,15 @@ export default function PeersMentorsPage() {
             <Users className="h-5 w-5 text-primary" />
             Peers & Mentors
           </h3>
-          <p className="text-xs text-muted-foreground mt-0.5">Discuss preparation with fellow candidates.</p>
+          <p className="text-xs text-muted-foreground mt-0.5">Cohort year {cohortYear} study rooms</p>
         </div>
 
         {/* Channels Section */}
         <div className="flex-1 overflow-y-auto p-3 space-y-4">
           <div>
-            <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest px-2">Rooms / Channels</span>
+            <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest px-2">Cohort {cohortYear} Rooms</span>
             <ul className="mt-2 space-y-1">
-              {CHANNELS.map((channel) => {
+              {channels.map((channel) => {
                 const Icon = channel.icon;
                 const isActive = channel.id === activeChannelId;
                 return (
@@ -220,28 +252,28 @@ export default function PeersMentorsPage() {
             </ul>
           </div>
 
-          {/* Online Peers List */}
+          {/* Classmates List */}
           <div>
-            <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest px-2">Classmates & Mentors</span>
+            <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest px-2">Classmates ({cohortYear})</span>
             <ul className="mt-2 space-y-2">
-              {students && students.slice(0, 10).map((student) => (
-                <li key={student.id} className="flex items-center gap-2.5 px-3 py-1.5 rounded-lg hover:bg-muted/30">
+              {cohortClassmates.slice(0, 10).map((classmate) => (
+                <li key={classmate.id} className="flex items-center gap-2.5 px-3 py-1.5 rounded-lg hover:bg-muted/30">
                   <div className="relative">
                     <Avatar className="h-7 w-7 border">
                       <AvatarFallback className="text-[10px] font-bold bg-primary/10 text-primary">
-                        {student.name.split(' ').map(n => n[0]).join('').toUpperCase().slice(0, 2)}
+                        {classmate.name.split(' ').map(n => n[0]).join('').toUpperCase().slice(0, 2)}
                       </AvatarFallback>
                     </Avatar>
                     <span className="absolute bottom-0 right-0 h-2 w-2 rounded-full bg-emerald-500 ring-2 ring-background" />
                   </div>
                   <div className="min-w-0">
-                    <p className="text-xs font-semibold text-foreground truncate">{student.name}</p>
-                    <p className="text-[10px] text-muted-foreground truncate">{student.email}</p>
+                    <p className="text-xs font-semibold text-foreground truncate">{classmate.name}</p>
+                    <p className="text-[10px] text-muted-foreground truncate">{classmate.email}</p>
                   </div>
                 </li>
               ))}
-              {(!students || students.length === 0) && (
-                <li className="text-xs text-muted-foreground text-center py-4">No classmates found.</li>
+              {cohortClassmates.length === 0 && (
+                <li className="text-xs text-muted-foreground text-center py-4">No classmates found in {cohortYear} cohort.</li>
               )}
             </ul>
           </div>
@@ -259,6 +291,7 @@ export default function PeersMentorsPage() {
               <p className="text-xs font-bold text-foreground truncate">{currentUser.name}</p>
               <div className="flex items-center gap-1.5 mt-0.5">
                 {getRoleBadge(currentUser.role)}
+                <span className="text-[9px] text-muted-foreground font-semibold">Cohort {cohortYear}</span>
               </div>
             </div>
           </div>
