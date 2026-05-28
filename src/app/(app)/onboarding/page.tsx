@@ -148,36 +148,62 @@ export default function OnboardingPage() {
 
   const onSubmit = async (data: OnboardingFormValues) => {
     const authUser = getAuth().currentUser || user;
-    const bId = currentUserProfile?.academyId || (currentUserProfile as any)?.businessId || academy?.id;
+    let bId = currentUserProfile?.academyId || (currentUserProfile as any)?.businessId || academy?.id;
+    const isNewAcademy = !bId;
 
-    if (!authUser || !bId) {
+    if (!authUser) {
       toast({ 
         variant: 'destructive', 
         title: 'Session Error', 
-        description: `Your session has expired. Please log in again. (Auth: ${!!authUser}, bId: ${!!bId}, profileLoaded: ${!!currentUserProfile})` 
+        description: 'Your session has expired. Please log in again.' 
       });
       return;
+    }
+
+    if (isNewAcademy) {
+      bId = doc(collection(firestore, 'businessInstances')).id;
     }
 
     setIsSubmitting(true);
     try {
       const batch = writeBatch(firestore);
       
-      // 1. Update Student Study Business Instance name & setup
+      // 1. Update or Create Student Study Business Instance name & setup
       const businessDocRef = doc(firestore, 'businessInstances', bId);
-      batch.set(businessDocRef, {
-        name: `${data.studentName}'s Pinnacle Portal`,
-        settings: {
-          currency: 'Qs',
-          productCategories: [data.department],
-          state: 'Lagos',
-          country: 'Nigeria',
-        }
-      }, { merge: true });
+      if (isNewAcademy) {
+        const { add } = await import('date-fns');
+        const trialEndDate = add(new Date(), { days: 30 });
+        batch.set(businessDocRef, {
+          name: `${data.studentName}'s Pinnacle Portal`,
+          createdAt: serverTimestamp(),
+          ownerId: authUser.uid,
+          plan: 'starter',
+          trialExpiresAt: trialEndDate,
+          status: 'active',
+          settings: {
+            currency: 'Qs',
+            timezone: 'Africa/Lagos',
+            defaultTaxRate: 0,
+            productCategories: [data.department],
+            state: 'Lagos',
+            country: 'Nigeria'
+          }
+        });
+      } else {
+        batch.set(businessDocRef, {
+          name: `${data.studentName}'s Pinnacle Portal`,
+          settings: {
+            currency: 'Qs',
+            productCategories: [data.department],
+            state: 'Lagos',
+            country: 'Nigeria',
+          }
+        }, { merge: true });
+      }
 
       // 2. Update Student User Profile with specific academic goals
       const userDocRef = doc(firestore, 'users', authUser.uid);
-      batch.update(userDocRef, {
+      const userUpdates: any = {
         name: data.studentName,
         surveyCompleted: true,
         targetUTMEScore: Number(data.targetUTMEScore),
@@ -185,7 +211,12 @@ export default function OnboardingPage() {
         targetCourse: data.targetCourse,
         department: data.department,
         utmeSubjects: ['English Language', data.subject1, data.subject2, data.subject3],
-      });
+      };
+      if (isNewAcademy) {
+        userUpdates.academyId = bId;
+        userUpdates.businessId = bId; // set both for safety in security rules
+      }
+      batch.update(userDocRef, userUpdates);
 
       // 3. Create Welcome Notification
       const notifRef = doc(collection(firestore, `users/${authUser.uid}/notifications`));
