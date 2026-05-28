@@ -156,13 +156,15 @@ export default function OnboardingPage() {
       
       // 1. Update Student Study Business Instance name & setup
       const businessDocRef = doc(firestore, 'businessInstances', bId);
-      batch.update(businessDocRef, {
+      batch.set(businessDocRef, {
         name: `${data.studentName}'s Pinnacle Portal`,
-        'settings.currency': 'Qs',
-        'settings.productCategories': [data.department],
-        'settings.state': 'Lagos',
-        'settings.country': 'Nigeria',
-      });
+        settings: {
+          currency: 'Qs',
+          productCategories: [data.department],
+          state: 'Lagos',
+          country: 'Nigeria',
+        }
+      }, { merge: true });
 
       // 2. Update Student User Profile with specific academic goals
       const userDocRef = doc(firestore, 'users', authUser.uid);
@@ -216,7 +218,7 @@ export default function OnboardingPage() {
     setStep(prev => prev - 1);
   };
 
-  if (!academy || !currentUserProfile) {
+  if (!currentUserProfile) {
     return <div className="flex suppress-hydration-warning justify-center items-center h-screen bg-background"><Loader2 className="h-8 w-8 animate-spin text-primary" /></div>
   }
 
