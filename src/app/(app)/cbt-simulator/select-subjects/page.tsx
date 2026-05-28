@@ -297,7 +297,7 @@ export default function SelectProductsPage() {
     };
 
     return (
-        <div className="w-full max-w-7xl mx-auto space-y-8 py-6 px-4 md:px-6">
+        <div className="w-full max-w-[1600px] mx-auto space-y-8 py-6 px-4 md:px-10 xl:px-16">
             {/* Header section with brand colors */}
             <div className="flex items-center justify-between pb-6 border-b border-border/40">
                 <div>
@@ -311,9 +311,9 @@ export default function SelectProductsPage() {
                 </div>
             </div>
 
-            <div className="grid md:grid-cols-5 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-5 lg:grid-cols-12 gap-8">
                 {/* Configuration Panel */}
-                <Card className="md:col-span-3 border-[0.5px] border-border/40 bg-card/40 backdrop-blur-md shadow-lg rounded-2xl">
+                <Card className="md:col-span-3 lg:col-span-8 border-[0.5px] border-border/40 bg-card/40 backdrop-blur-md shadow-lg rounded-2xl">
                     <CardHeader>
                         <CardTitle className="text-lg font-bold flex items-center gap-2">
                             <Settings className="h-5 w-5 text-primary" />
@@ -383,7 +383,7 @@ export default function SelectProductsPage() {
                             <label className="text-xs font-semibold text-muted-foreground flex items-center gap-1.5">
                                 <Layers className="h-3.5 w-3.5" /> Adjust Target Subjects (Optional Override)
                             </label>
-                            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
                                 {DEFAULT_SUBJECTS.map(sub => {
                                     const isSelected = customSubjects.length > 0 
                                         ? customSubjects.includes(sub.name)
@@ -411,7 +411,7 @@ export default function SelectProductsPage() {
                 </Card>
 
                 {/* Slip Summary & Play CTA */}
-                <Card className="md:col-span-2 border-[0.5px] border-border/40 bg-card/40 backdrop-blur-md shadow-lg rounded-2xl flex flex-col justify-between">
+                <Card className="md:col-span-2 lg:col-span-4 border-[0.5px] border-border/40 bg-card/40 backdrop-blur-md shadow-lg rounded-2xl flex flex-col justify-between">
                     <CardHeader>
                         <CardTitle className="text-md font-bold text-primary flex items-center gap-1.5">
                             Exam Workspace Summary
