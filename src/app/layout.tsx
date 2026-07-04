@@ -170,6 +170,7 @@ export default function RootLayout({
     <html lang="en" prefix="og: http://ogp.me/ns#" suppressHydrationWarning>
       <head>
         <meta name="google-site-verification" content="QGYrHkSlC71065ymk6dZc6DFesm14JeSPw-myjzZVso" />
+        <meta name="google-site-verification" content="h4KW6zLUY11SNW4vSDtKaEMH73RbwSHjSvEtv4PJsCo" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=Instrument+Serif:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Bricolage+Grotesque:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
