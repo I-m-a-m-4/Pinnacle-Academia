@@ -186,25 +186,7 @@ export function AcademyProvider({ children }: { children: ReactNode }) {
       return false;
     }
 
-    // Channel 1: Micro-fetch sensor (Routed through whitelisted CSP endpoint)
-    const checkFetch = async (): Promise<boolean> => {
-      try {
-        const controller = new AbortController();
-        // INCREASE TIMEOUT WINDOW TO 8.5 SECONDS TO ACCOMMODATE WEAK/SLUGGISH CELLULAR LINKS
-        const id = setTimeout(() => controller.abort(), 8500);
-        await fetch("https://api.github.com", {
-          mode: "no-cors",
-          cache: "no-store",
-          signal: controller.signal,
-        });
-        clearTimeout(id);
-        return true;
-      } catch {
-        return false;
-      }
-    };
-
-    // Channel 2 & 3: Browser-native Image Beaconing (bypasses ALL CORS/CORB/CSP limitations)
+    // Browser-native Image Beaconing (bypasses ALL CORS/CORB/CSP limitations)
     const checkImage = (url: string): Promise<boolean> => {
       return new Promise((resolve) => {
         const img = new Image();
@@ -230,8 +212,7 @@ export function AcademyProvider({ children }: { children: ReactNode }) {
 
     // Define multiple disparate endpoints to bypass any regional or provider blocks
     const tasks = [
-      checkFetch(),
-      checkImage("https://api.github.com/favicon.ico"),
+      checkImage("https://www.google.com/favicon.ico"),
       checkImage("https://github.com/favicon.ico")
     ];
 

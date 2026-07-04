@@ -144,6 +144,7 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
     const { toast } = useToast();
     const [isRevoking, setIsRevoking] = useState<string | null>(null);
     const [searchBusiness, setSearchBusiness] = useState('');
+    const [searchUser, setSearchUser] = useState('');
 
     // Entity Termination State
     const [isDestructionModalOpen, setIsDestructionModalOpen] = useState(false);
@@ -189,6 +190,12 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
     const [isDestroying, setIsDestroying] = useState(false);
     const [destructionProgress, setDestructionProgress] = useState(0);
     const [destructionStatus, setDestructionStatus] = useState('');
+
+    // Individual User Termination State
+    const [isUserDestructionModalOpen, setIsUserDestructionModalOpen] = useState(false);
+    const [targetUserForDestruction, setTargetUserForDestruction] = useState<any>(null);
+    const [isDestroyingUser, setIsDestroyingUser] = useState(false);
+    const [hasConfirmedUserDestruction, setHasConfirmedUserDestruction] = useState(false);
 
 
     // MFA Enrollment State
@@ -241,6 +248,21 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
             return dateB - dateA;
         });
     }, [allBusinesses, searchBusiness]);
+
+    const filteredUsers = useMemo(() => {
+        if (!allUsers) return [];
+        let result = allUsers.filter(u => {
+            const searchLower = searchUser.trim().toLowerCase();
+            if (!searchLower) return true;
+            return (
+                (u.name || '').toLowerCase().includes(searchLower) || 
+                (u.email || '').toLowerCase().includes(searchLower) ||
+                (u.id || '').toLowerCase().includes(searchLower)
+            );
+        });
+
+        return result;
+    }, [allUsers, searchUser]);
 
     const [directLookupId, setDirectLookupId] = useState('');
     const handleDirectLookup = async () => {
@@ -524,6 +546,91 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
         }
     };
 
+    const handleUserTermination = async () => {
+        if (!firestore || !authUser || !targetUserForDestruction) return;
+        
+        if (!hasConfirmedUserDestruction) {
+            toast({ variant: 'destructive', title: "Confirmation Required", description: "Please acknowledge the destructive nature of this action." });
+            return;
+        }
+
+        setIsDestroyingUser(true);
+        setDestructionProgress(20);
+        setDestructionStatus('Deauthorizing user identity (Auth Cleanup)...');
+
+        try {
+            const userId = targetUserForDestruction.id;
+            
+            try {
+                await deleteBusinessUsersAuth([userId]);
+            } catch (authErr) {
+                console.error("Auth deauthorization partial failure:", authErr);
+            }
+
+            setDestructionProgress(50);
+            setDestructionStatus('Purging user sub-nodes...');
+
+            // Purge user notifications
+            const userNotifsRef = collection(firestore, 'users', userId, 'notifications');
+            const notifsSnap = await getDocs(userNotifsRef);
+            if (!notifsSnap.empty) {
+                const batch = writeBatch(firestore);
+                notifsSnap.forEach(d => batch.delete(d.ref));
+                await batch.commit();
+            }
+
+            setDestructionProgress(80);
+            setDestructionStatus('Removing user document...');
+            
+            // Delete user doc
+            const userRef = doc(firestore, 'users', userId);
+            await deleteDoc(userRef);
+
+            setDestructionProgress(95);
+            setDestructionStatus('Recording termination in permanent logs...');
+            try {
+                await addDoc(collection(firestore, 'terminationLogs'), {
+                    academyId: targetUserForDestruction.academyId || 'N/A',
+                    name: targetUserForDestruction.name || 'Unnamed',
+                    email: targetUserForDestruction.email || "N/A",
+                    terminatedAt: serverTimestamp(),
+                    terminatedBy: authUser?.email,
+                    stats: { subjects: 0, students: 0, sizeKB: 1 },
+                    type: 'user'
+                });
+            } catch (logErr) {
+                console.error("Failed to write termination log:", logErr);
+            }
+
+            setDestructionProgress(100);
+            setDestructionStatus('Entity Terminated');
+
+            toast({ 
+                title: "Destruction Complete", 
+                description: "User account has been scrubbed from the grid.",
+                className: "bg-black text-emerald-500 border-emerald-500/50 font-mono"
+            });
+
+            setTimeout(() => {
+                setIsUserDestructionModalOpen(false);
+                setTargetUserForDestruction(null);
+                setHasConfirmedUserDestruction(false);
+                setIsDestroyingUser(false);
+                setDestructionProgress(0);
+            }, 2000);
+
+        } catch (error: any) {
+            console.error("User termination failed:", error);
+            toast({ 
+                variant: 'destructive', 
+                title: "Termination Aborted", 
+                description: error.message || "Unknown error during purge." 
+            });
+            setIsDestroyingUser(false);
+            setDestructionProgress(0);
+        }
+    };
+
     const securityMatrix = useMemo(() => {
         const suspiciousCount = allUsers?.filter(u => u.status === 'suspended').length || 0;
         
@@ -794,6 +901,114 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                 </CardFooter>
             </Card>
 
+            {/* User Intelligence Unit */}
+            <Card className="border-blue-500/20 bg-white/40 backdrop-blur-md shadow-xl overflow-hidden relative z-10 group/uiu mt-8">
+                <div className="absolute inset-0 bg-gradient-to-br from-blue-500/5 via-transparent to-transparent pointer-events-none" />
+                <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-right from-transparent via-blue-500/20 to-transparent" />
+                
+                <CardHeader className="bg-muted/30 border-b p-6 relative">
+                    <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                        <div className="space-y-1">
+                            <CardTitle className="text-sm flex items-center gap-2 font-bold tracking-tighter text-blue-600">
+                                <Users className="h-4 w-4 animate-pulse" />
+                                User Intelligence Unit
+                            </CardTitle>
+                            <CardDescription className="text-xs font-medium text-muted-foreground opacity-70">
+                            Individual User Management & Security Verification
+                        </CardDescription>
+                        </div>
+                        <div className="relative w-full md:w-80 group">
+                            <div className="absolute -inset-1 bg-gradient-to-r from-blue-500/20 to-indigo-500/20 rounded-lg blur opacity-25 group-focus-within:opacity-100 transition duration-1000" />
+                            <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-3.5 w-3.5 text-muted-foreground" />
+                            <Input 
+                                placeholder="Search users by name or email..." 
+                                value={searchUser}
+                                onChange={(e) => setSearchUser(e.target.value)}
+                                className="relative pl-9 h-10 text-xs bg-white/80 border-border/50 focus:bg-white transition-all font-bold placeholder:text-muted-foreground/40"
+                            />
+                        </div>
+                    </div>
+                </CardHeader>
+                <CardContent className="p-0">
+                    <div className="overflow-x-auto max-h-[400px]">
+                        <Table>
+                            <TableHeader className="bg-muted/10">
+                                <TableRow className="hover:bg-transparent border-border/50">
+                                        <TableHead className="text-xs font-medium">User Name</TableHead>
+                                        <TableHead className="text-xs font-medium">Email Address</TableHead>
+                                        <TableHead className="text-xs font-medium">Role / Status</TableHead>
+                                        <TableHead className="text-xs font-medium">Node ID</TableHead>
+                                        <TableHead className="text-xs font-medium text-right">Actions</TableHead>
+                                </TableRow>
+                            </TableHeader>
+                            <TableBody>
+                                {!filteredUsers || filteredUsers.length === 0 ? (
+                                    <TableRow className="border-border/50">
+                                        <TableCell colSpan={5} className="h-48 text-center">
+                                            <div className="flex flex-col items-center justify-center space-y-3 opacity-50">
+                                                <div className="p-3 bg-muted rounded-full">
+                                                    <Users className="h-6 w-6 text-muted-foreground" />
+                                                </div>
+                                                <p className="text-[10px] font-bold text-muted-foreground">
+                                                    No users detected matching criteria
+                                                </p>
+                                            </div>
+                                        </TableCell>
+                                    </TableRow>
+                                ) : (
+                                    filteredUsers.map((user) => (
+                                        <TableRow key={user.id} className="hover:bg-muted/5 border-border/50 group transition-colors">
+                                            <TableCell className="font-bold text-[11px] tracking-tight text-foreground/80 py-4">
+                                                {user.name || 'Unnamed User'}
+                                            </TableCell>
+                                            <TableCell className="text-[11px] font-medium text-muted-foreground">
+                                                {user.email || 'N/A'}
+                                            </TableCell>
+                                            <TableCell className="text-[11px] font-medium text-muted-foreground/60">
+                                                <span className="capitalize">{user.role || 'student'}</span>
+                                                {' / '}
+                                                <Badge variant={user.status === 'suspended' ? 'destructive' : 'secondary'} className="text-[9px] uppercase tracking-tighter">
+                                                    {user.status || 'active'}
+                                                </Badge>
+                                            </TableCell>
+                                            <TableCell className="font-mono text-[9px] text-muted-foreground/40">
+                                                {user.id}
+                                            </TableCell>
+                                            <TableCell className="text-right px-6">
+                                                <Button 
+                                                    variant="ghost" 
+                                                    size="sm" 
+                                                    className="h-8 text-[9px] font-bold text-rose-600 hover:text-white hover:bg-rose-600 border border-rose-600/20 hover:border-rose-600 transition-all rounded-md"
+                                                    onClick={() => {
+                                                        setTargetUserForDestruction(user);
+                                                        setIsUserDestructionModalOpen(true);
+                                                    }}
+                                                >
+                                                    <UserMinus className="h-3 w-3 mr-2" />
+                                                    Delete User
+                                                </Button>
+                                            </TableCell>
+                                        </TableRow>
+                                    ))
+                                )}
+                            </TableBody>
+                        </Table>
+                    </div>
+                </CardContent>
+                <CardFooter className="bg-muted/20 border-t py-3 p-6 flex justify-between items-center">
+                    <div className="flex items-center gap-4">
+                        <div className="flex items-center gap-1.5">
+                            <Users className="h-3 w-3 text-muted-foreground/40" />
+                            <span className="text-[9px] font-bold text-muted-foreground">User Infrastructure</span>
+                        </div>
+                        <div className="h-3 w-px bg-border/50" />
+                        <span className="text-[9px] font-bold text-muted-foreground/60">
+                            {filteredUsers.length} Users Identified
+                        </span>
+                    </div>
+                </CardFooter>
+            </Card>
+
             {/* Terminated Entities Log */}
             <Card className="border-rose-500/10 bg-white/40 backdrop-blur-md shadow-lg overflow-hidden mt-8">
                 <CardHeader className="bg-rose-50/30 border-b p-4">
@@ -957,6 +1172,98 @@ export default function CyberShield({ allBusinesses, allUsers, isLoadingBusiness
                                 size="sm"
                                 disabled={!hasConfirmedDestruction}
                                 onClick={handleEntityTermination}
+                                className="bg-rose-600 hover:bg-rose-700 font-bold text-[10px] px-8 shadow-lg shadow-rose-500/20"
+                            >
+                                <Zap className="h-3.5 w-3.5 mr-2" />
+                                Execute Termination
+                            </Button>
+                        )}
+                    </DialogFooter>
+                </DialogContent>
+            </Dialog>
+
+            {/* User Termination Confirmation Dialog */}
+            <Dialog open={isUserDestructionModalOpen} onOpenChange={(open) => !isDestroyingUser && setIsUserDestructionModalOpen(open)}>
+                <DialogContent className="sm:max-w-[500px] border-rose-500/50 bg-background shadow-2xl shadow-rose-500/10">
+                    <DialogHeader>
+                        <DialogTitle className="flex items-center gap-3 text-rose-600 text-xl font-bold tracking-tighter">
+                            <UserMinus className="h-6 w-6 animate-pulse" />
+                            Confirm User Deletion
+                        </DialogTitle>
+                        <DialogDescription className="text-xs font-bold text-muted-foreground mt-2 border-b pb-4">
+                            You are about to permanently delete a user account and their personal data.
+                        </DialogDescription>
+                    </DialogHeader>
+
+                    {isDestroyingUser ? (
+                        <div className="py-12 flex flex-col items-center justify-center space-y-6">
+                            <div className="relative w-24 h-24">
+                                <motion.div 
+                                    animate={{ rotate: 360 }}
+                                    transition={{ duration: 2, repeat: Infinity, ease: "linear" }}
+                                    className="absolute inset-0 border-4 border-rose-500/20 border-t-rose-600 rounded-full"
+                                />
+                                <div className="absolute inset-0 flex items-center justify-center">
+                                    <UserMinus className="h-10 w-10 text-rose-600" />
+                                </div>
+                            </div>
+                            <div className="w-full max-w-xs space-y-2">
+                                <Progress value={destructionProgress} className="h-2 bg-rose-500/10" indicatorClassName="bg-rose-600" />
+                                <p className="text-[10px] font-bold font-mono text-center text-rose-600 animate-pulse">
+                                    {destructionStatus}
+                                </p>
+                            </div>
+                        </div>
+                    ) : (
+                        <div className="space-y-6 py-4">
+                            <div className="p-4 bg-rose-50 border border-rose-100 rounded-lg flex gap-3 items-start">
+                                <AlertCircle className="h-5 w-5 text-rose-600 mt-0.5 shrink-0" />
+                                <div className="space-y-1">
+                                    <p className="text-xs font-bold text-rose-700 tracking-tight">Destructive Action Warning</p>
+                                    <p className="text-[11px] text-rose-600 leading-relaxed font-medium">
+                                        This will purge the user record and authentication credentials. They will lose access immediately.
+                                    </p>
+                                    {targetUserForDestruction && (
+                                        <div className="mt-2 text-[10px] font-mono text-rose-800 bg-rose-100 p-2 rounded">
+                                            Target: {targetUserForDestruction.email} ({targetUserForDestruction.name})
+                                        </div>
+                                    )}
+                                </div>
+                            </div>
+
+                            <div className="space-y-4">
+                                <div className="flex items-center space-x-2 pt-2">
+                                    <input 
+                                        type="checkbox" 
+                                        id="confirm-user" 
+                                        checked={hasConfirmedUserDestruction}
+                                        onChange={(e) => setHasConfirmedUserDestruction(e.target.checked)}
+                                        className="h-4 w-4 rounded border-rose-300 text-rose-600 focus:ring-rose-500"
+                                    />
+                                    <label htmlFor="confirm-user" className="text-[11px] font-bold text-muted-foreground leading-none">
+                                        I confirm that I am authorized to permanently purge this user.
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    )}
+
+                    <DialogFooter className="border-t pt-4">
+                        <Button 
+                            variant="ghost" 
+                            size="sm"
+                            onClick={() => setIsUserDestructionModalOpen(false)}
+                            disabled={isDestroyingUser}
+                            className="font-bold text-[10px]"
+                        >
+                            Abort Protocol
+                        </Button>
+                        {!isDestroyingUser && (
+                            <Button 
+                                variant="destructive" 
+                                size="sm"
+                                disabled={!hasConfirmedUserDestruction}
+                                onClick={handleUserTermination}
                                 className="bg-rose-600 hover:bg-rose-700 font-bold text-[10px] px-8 shadow-lg shadow-rose-500/20"
                             >
                                 <Zap className="h-3.5 w-3.5 mr-2" />

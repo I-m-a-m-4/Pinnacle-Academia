@@ -86,7 +86,7 @@ import {
     Save,
     BookOpen,
     HelpCircle,
-    Calculator as CalculatorIcon,
+    Calculator as CalculatorIcon
 } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { ScrollArea } from '@/components/ui/scroll-area';
@@ -1893,8 +1893,10 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                         Text Novels Config
                     </TabsTrigger>
                     <TabsTrigger value="speed-battles-config" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2">
-                        <Zap className="h-4 w-4" />
-                        Speed Battles
+                        <Zap className="h-4 w-4" /> Speed Battles Config
+                    </TabsTrigger>
+                    <TabsTrigger value="cyber-shield" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2 text-red-500 hover:text-red-600 data-[state=active]:text-red-500 data-[state=active]:border-red-500">
+                        <ShieldCheck className="h-4 w-4" /> Cyber Shield
                     </TabsTrigger>
                 </TabsList>
 
