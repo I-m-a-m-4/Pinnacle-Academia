@@ -48,6 +48,7 @@ import { useFCM } from '@/hooks/use-fcm';
 import { errorEmitter } from '@/firebase/error-emitter';
 import { FirestorePermissionError } from '@/firebase/errors';
 import SavedSessionsDrawer from '@/components/cbt-simulator/saved-sessions-drawer';
+import { PinnacleAIWidget } from '@/components/ai/pinnacle-ai-widget';
 import { History } from 'lucide-react';
 
 
@@ -1094,6 +1095,7 @@ export default function AuthenticatedLayout({
           </div>
         </DialogContent>
       </Dialog>
+      <PinnacleAIWidget />
     </>
   );
 }

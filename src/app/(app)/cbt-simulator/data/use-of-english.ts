@@ -143,31 +143,31 @@ export const englishQuestions = [
 
     if (q.type === 'nearest') {
       questionText = `Choose the option nearest in meaning to the capitalized word: The student is extremely ${q.word}. (${q.year})`;
-      correctAnswer = String.fromCharCode(65 + options.indexOf(q.nearest));
+      correctAnswer = String.fromCharCode(65 + options.indexOf(q.nearest || ''));
     } else if (q.type === 'opposite') {
       questionText = `Choose the word that is opposite in meaning to the capitalized word: The description was very ${q.word}. (${q.year})`;
-      correctAnswer = String.fromCharCode(65 + options.indexOf(q.opposite));
+      correctAnswer = String.fromCharCode(65 + options.indexOf(q.opposite || ''));
     } else if (q.type === 'nearest_lower') {
       questionText = `Choose the option nearest in meaning to the underlined word: We had to <u>${q.word}</u> him to stop. (${q.year})`;
-      correctAnswer = String.fromCharCode(65 + options.indexOf(q.nearest));
+      correctAnswer = String.fromCharCode(65 + options.indexOf(q.nearest || ''));
     } else if (q.type === 'opposite_lower') {
       questionText = `Choose the word that is opposite in meaning to the underlined word: The path is highly <u>${q.word}</u>. (${q.year})`;
-      correctAnswer = String.fromCharCode(65 + options.indexOf(q.opposite));
+      correctAnswer = String.fromCharCode(65 + options.indexOf(q.opposite || ''));
     } else if (q.phrase) {
       questionText = `Choose the option that best explains the underlined phrase: The student <u>${q.phrase}</u>. (${q.year})`;
-      correctAnswer = String.fromCharCode(65 + options.indexOf(q.meaning));
+      correctAnswer = String.fromCharCode(65 + options.indexOf(q.meaning || ''));
     } else if (q.tag) {
       questionText = `Choose the correct question tag to complete the sentence: "${q.tag}, ______?" (${q.year})`;
-      correctAnswer = String.fromCharCode(65 + options.indexOf(q.ans));
+      correctAnswer = String.fromCharCode(65 + options.indexOf(q.ans || ''));
     } else if (q.sound) {
       questionText = `Choose the word that has the same vowel sound as the one represented by the underlined letters in: <b>${q.sound}</b>. (${q.year})`;
-      correctAnswer = String.fromCharCode(65 + options.indexOf(q.ans));
+      correctAnswer = String.fromCharCode(65 + options.indexOf(q.ans || ''));
     } else if (q.spell) {
       questionText = `Choose the option that is correctly spelled: (${q.year})`;
-      correctAnswer = String.fromCharCode(65 + options.indexOf(q.spell));
+      correctAnswer = String.fromCharCode(65 + options.indexOf(q.spell || ''));
     } else if (q.concord) {
       questionText = `Fill in the blank with the correct option: ${q.concord} (${q.year})`;
-      correctAnswer = String.fromCharCode(65 + options.indexOf(q.ans));
+      correctAnswer = String.fromCharCode(65 + options.indexOf(q.ans || ''));
     }
 
     return {

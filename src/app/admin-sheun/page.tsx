@@ -1941,16 +1941,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                                 description="Academies with active enrollments"
                             />
                         </button>
-                        <button onClick={() => setIsAgeMilestoneOpen(true)} className="text-left w-full h-full transition-transform active:scale-95">
-                            <StatCard 
-                                title="Pinnacle Age" 
-                                value={analyticsData.daysActive > 365 
-                                    ? `${(analyticsData.daysActive / 365).toFixed(1)} Years` 
-                                    : `${analyticsData.daysActive} Days`} 
-                                icon={Clock} 
-                                description={`Launched ${format(analyticsData.earliestBusiness, 'MMM yyyy')}`}
-                            />
-                        </button>
+
                         <button 
                             onClick={() => toast({ title: "Download Traffic Intelligence", description: `Total engagement: ${analyticsData.downloadStats.totalClicks} total clicks. Breakdown: ${analyticsData.downloadStats.windows} Windows, ${analyticsData.downloadStats.macos} macOS, ${analyticsData.downloadStats.android} Android.` })} 
                             className="text-left w-full h-full transition-transform active:scale-95"
@@ -2464,6 +2455,10 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                             </Card>
                         </div>
                     </div>
+                </TabsContent>
+
+                <TabsContent value="cyber-shield" className="space-y-6">
+                    <CyberShield allBusinesses={businesses} allUsers={users} isLoadingBusinesses={!businesses} />
                 </TabsContent>
 
                 <TabsContent value="broadcasts">

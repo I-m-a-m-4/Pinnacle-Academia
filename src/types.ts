@@ -92,6 +92,7 @@ export interface StudentProfile {
     targetCourse?: string;
     department?: string;
     utmeSubjects?: string[];
+    aiCredits?: number;
 }
 
 export interface StudentInsightsOutput {

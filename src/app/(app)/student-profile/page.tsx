@@ -254,11 +254,13 @@ export default function StudentProfilePage() {
                     />
                   </div>
                   <div className="space-y-1.5">
-                    <label className="text-xs font-bold text-muted-foreground uppercase">Target UTME Score (400 Max)</label>
+                    <label className="text-xs font-bold text-muted-foreground uppercase">Target OAU Post UTME Score (40 Max)</label>
                     <Input 
                       type="number"
+                      min="0"
+                      max="40"
                       value={targetScore}
-                      onChange={(e) => setTargetScore(Math.min(400, Math.max(0, Number(e.target.value))))}
+                      onChange={(e) => setTargetScore(Math.min(40, Math.max(0, Number(e.target.value))))}
                       placeholder="e.g. 320"
                     />
                   </div>
@@ -345,7 +347,7 @@ export default function StudentProfilePage() {
               <Card className="shadow-sm">
                 <CardHeader className="pb-2">
                   <CardTitle className="text-sm font-bold text-muted-foreground uppercase tracking-wider flex items-center gap-1.5">
-                    <Target className="h-4 w-4 text-primary" /> Target UTME Score
+                    <Target className="h-4 w-4 text-primary" /> Target OAU Post UTME Score
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-4">

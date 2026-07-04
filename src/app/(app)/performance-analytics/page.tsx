@@ -370,7 +370,7 @@ export default function ReportsDashboard() {
                                         <div>
                                             <h4 className="font-bold text-amber-600">Improvement Needed</h4>
                                             <p className="text-[11px] text-muted-foreground leading-normal mt-0.5">
-                                                You are {currentUserProfile.targetUTMEScore - academicStats.avgScore} points below your target UTME score. Focus on your weakest subject: <strong className="text-foreground">{academicStats.bestSubject !== 'N/A' ? 'Syllabus topics' : 'Practice tests'}</strong>.
+                                                You are {currentUserProfile.targetUTMEScore - academicStats.avgScore} points below your target OAU Post UTME score. Focus on your weakest subject: <strong className="text-foreground">{academicStats.bestSubject !== 'N/A' ? 'Syllabus topics' : 'Practice tests'}</strong>.
                                             </p>
                                         </div>
                                     </>

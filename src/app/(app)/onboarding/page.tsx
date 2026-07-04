@@ -21,7 +21,7 @@ import { cn } from '@/lib/utils';
 
 const onboardingSchema = z.object({
   studentName: z.string().min(3, 'Student name must be at least 3 characters.'),
-  targetUTMEScore: z.coerce.number().min(180, 'Score must be at least 180.').max(400, 'Score cannot exceed 400.'),
+  targetUTMEScore: z.coerce.number().min(0, 'Score must be at least 0.').max(40, 'Score cannot exceed 40.'),
   targetInstitution: z.string().min(3, 'Target Institution is required.'),
   targetCourse: z.string().min(3, 'Target Course is required.'),
   department: z.string().min(1, 'Please select a department.'),
@@ -136,8 +136,8 @@ export default function OnboardingPage() {
     resolver: zodResolver(onboardingSchema),
     defaultValues: {
       studentName: currentUserProfile?.name || '',
-      targetUTMEScore: 300,
-      targetInstitution: '',
+      targetUTMEScore: 25,
+      targetInstitution: 'Obafemi Awolowo University (OAU)',
       targetCourse: '',
       department: '',
       subject1: '',
@@ -222,7 +222,7 @@ export default function OnboardingPage() {
       const notifRef = doc(collection(firestore, `users/${authUser.uid}/notifications`));
       batch.set(notifRef, {
           title: "Welcome to Pinnacle Academia! 🎓",
-          body: `Hi ${data.studentName.split(' ')[0]}, your study dashboard is ready. Let's aim for that ${data.targetUTMEScore} UTME score!`,
+          body: `Hi ${data.studentName.split(' ')[0]}, your study dashboard is ready. Let's aim for that ${data.targetUTMEScore} OAU Post UTME score!`,
           createdAt: serverTimestamp(),
           read: false,
           type: 'system',
@@ -291,7 +291,7 @@ export default function OnboardingPage() {
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <FormField control={form.control} name="targetUTMEScore" render={({ field }) => (
-                      <FormItem><FormLabel>Target UTME Score (180 - 400)</FormLabel><FormControl><Input type="number" min="180" max="400" {...field} /></FormControl><FormMessage /></FormItem>
+                      <FormItem><FormLabel>Target OAU Post UTME Score (40 Max)</FormLabel><FormControl><Input type="number" min="0" max="40" {...field} /></FormControl><FormMessage /></FormItem>
                     )} />
 
                     <FormField control={form.control} name="department" render={({ field }) => (
@@ -394,8 +394,8 @@ export default function OnboardingPage() {
               )}
               {step === 3 && (
                 <CardContent className="pt-6 space-y-6">
-                  <CardTitle className="flex items-center gap-3"><BookOpen className="text-primary" /> UTME Subject Combination</CardTitle>
-                  <p className="text-sm text-muted-foreground">Select your UTME subject combination. <strong>English Language</strong> is selected by default.</p>
+                  <CardTitle className="flex items-center gap-3"><BookOpen className="text-primary" /> OAU Post UTME Subject Combination</CardTitle>
+                  <p className="text-sm text-muted-foreground">Select your OAU Post UTME subject combination. <strong>English Language</strong> is selected by default.</p>
                   
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <FormField control={form.control} name="subject1" render={({ field }) => (
@@ -438,7 +438,7 @@ export default function OnboardingPage() {
                   <div className="text-xs text-muted-foreground p-3 bg-muted/40 rounded-lg flex items-start gap-2 border border-border/50">
                     <CheckCircle2 className="h-4 w-4 text-primary shrink-0 mt-0.5" />
                     <div>
-                      <strong>Compulsory selection:</strong> English Language is automatically added as your 4th UTME subject combination.
+                      <strong>Compulsory selection:</strong> English Language is automatically added as your 4th OAU Post UTME subject combination.
                     </div>
                   </div>
                 </CardContent>
