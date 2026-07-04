@@ -78,11 +78,11 @@ const navItems = [
   { href: '/admission-calculator', icon: FileText, label: 'Admission Calculator', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
   { href: '/performance-analytics', icon: BarChart2, label: 'Performance Analytics', roles: ['admin', 'owner'] },
   { href: '/peers-mentors', icon: Users, label: 'Peers & Mentors', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+  { href: '/pinnacle-ai', icon: Bot, label: 'Pinnacle AI', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
   { href: '/student-profile', icon: UserRound, label: 'Student Profile', roles: ['admin', 'owner'] },
 ];
 
 const bottomLinks = [
-  { href: '/billing', icon: CreditCard, label: 'Subscriptions', roles: ['admin', 'owner'] },
   { href: '/settings', icon: Settings, label: 'Portal Settings', roles: ['admin', 'owner'] },
   { href: '/support', icon: LifeBuoy, label: 'Help Desk', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
 ];
@@ -538,7 +538,7 @@ export default function AuthenticatedLayout({
   // --- Subscription Guard Configuration ---
   const restrictedRoutes = ['/syllabus-tracker', '/ai-insights', '/peers-mentors', '/performance-analytics', '/admission-calculator', '/mentorship-booking', '/activity-logs', '/invoice-tracking'];
   const isRestrictedRoute = restrictedRoutes.some(route => pathname.startsWith(route));
-  const showSubscriptionBlock = !isSubscriptionActive && isRestrictedRoute && !isLoading && !isOnboarding;
+  const showSubscriptionBlock = false; // Disabled by user request
   // --- End of Subscription Guard Config ---
 
   const userRole = currentUserProfile?.role;

@@ -645,7 +645,7 @@ export function AcademyProvider({ children }: { children: ReactNode }) {
       secureStorage.setItem('pos_last_synced_timestamp', now);
 
       if ((newProducts.length > 0 || newCustomers.length > 0 || newReceipts.length > 0) && !hasShownSyncToast.current && !silent) {
-        toast({ title: "Operational Sync Complete", description: `Successfully synchronized inventory, customer, and recent sales data.` });
+        toast({ title: "Operational Sync Complete", description: `Successfully synchronized subjects, students, and recent enrollment data.` });
         hasShownSyncToast.current = true;
       }
     } catch (error) {
@@ -961,7 +961,7 @@ export function AcademyProvider({ children }: { children: ReactNode }) {
 
       const lastToast = Number(localStorage.getItem('last_receipt_sync_toast_time') || 0);
       if (Date.now() - lastToast > 24 * 60 * 60 * 1000) {
-        toast({ title: "Sales History Synced", description: `Synchronized ${allFetched.length} admissions and invoices for full offline access.` });
+        toast({ title: "Enrollment History Synced", description: `Synchronized ${allFetched.length} admissions for full offline access.` });
         localStorage.setItem('last_receipt_sync_toast_time', Date.now().toString());
       }
     } catch (error) {

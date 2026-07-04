@@ -1867,11 +1867,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                 <TabsList className="flex flex-wrap gap-1 bg-transparent border-b h-auto p-0 rounded-none mb-6">
                     <TabsTrigger value="overview" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2">Overview</TabsTrigger>
                     <TabsTrigger value="users" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2">User Management</TabsTrigger>
-                    <TabsTrigger value="broadcasts" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2">Comms Center</TabsTrigger>
-                    <TabsTrigger value="recruitment" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2">
-                        <Briefcase className="h-4 w-4" />
-                        Recruitment
-                    </TabsTrigger>
+
                     <TabsTrigger value="academic-data" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2">
                         <Database className="h-4 w-4" />
                         Academic Data
@@ -1892,9 +1888,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                         <BookOpen className="h-4 w-4" />
                         Text Novels Config
                     </TabsTrigger>
-                    <TabsTrigger value="speed-battles-config" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2">
-                        <Zap className="h-4 w-4" /> Speed Battles Config
-                    </TabsTrigger>
+
                     <TabsTrigger value="cyber-shield" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2 text-red-500 hover:text-red-600 data-[state=active]:text-red-500 data-[state=active]:border-red-500">
                         <ShieldCheck className="h-4 w-4" /> Cyber Shield
                     </TabsTrigger>
@@ -2461,138 +2455,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                     <CyberShield allBusinesses={businesses} allUsers={users} isLoadingBusinesses={!businesses} />
                 </TabsContent>
 
-                <TabsContent value="broadcasts">
-                    <Card>
-                        <CardHeader>
-                            <CardTitle className="flex items-center gap-2"><Megaphone className="h-5 w-5 text-primary" /> System-Wide Broadcast</CardTitle>
-                            <CardDescription>Send a notification to all active users on the platform.</CardDescription>
-                        </CardHeader>
-                        <CardContent className="space-y-4 max-w-2xl">
-                            <div className="space-y-2">
-                                <Label>Broadcast Title</Label>
-                                <Input placeholder="e.g. Scheduled Maintenance" value={broadcastTitle} onChange={(e) => setBroadcastTitle(e.target.value)} />
-                            </div>
-                            <div className="space-y-2">
-                                <Label>Message Body</Label>
-                                <Textarea placeholder="Details about the announcement..." value={broadcastMessage} onChange={(e) => setBroadcastMessage(e.target.value)} />
-                            </div>
-                            <div className="grid grid-cols-2 gap-4">
-                                <div className="space-y-2">
-                                    <Label>Type</Label>
-                                    <Select value={broadcastType} onValueChange={(v: any) => setBroadcastType(v)}>
-                                        <SelectTrigger><SelectValue /></SelectTrigger>
-                                        <SelectContent>
-                                            <SelectItem value="info">Info (Blue)</SelectItem>
-                                            <SelectItem value="warning">Warning (Orange)</SelectItem>
-                                            <SelectItem value="alert">Alert (Red)</SelectItem>
-                                        </SelectContent>
-                                    </Select>
-                                </div>
-                                <div className="space-y-2">
-                                    <Label>Duration (Hours)</Label>
-                                    <Select value={broadcastDuration} onValueChange={setBroadcastDuration}>
-                                        <SelectTrigger><SelectValue /></SelectTrigger>
-                                        <SelectContent>
-                                            <SelectItem value="1">1 Hour</SelectItem>
-                                            <SelectItem value="6">6 Hours</SelectItem>
-                                            <SelectItem value="24">24 Hours</SelectItem>
-                                            <SelectItem value="48">48 Hours</SelectItem>
-                                        </SelectContent>
-                                    </Select>
-                                </div>
-                            </div>
-                        </CardContent>
-                        <CardFooter>
-                            <Button onClick={handleSendBroadcast} disabled={isSendingBroadcast} className="w-full sm:w-auto">
-                                {isSendingBroadcast && <Loader className="mr-2 h-4 w-4 animate-spin" />}
-                                Send Broadcast
-                            </Button>
-                        </CardFooter>
-                    </Card>
-                </TabsContent>
-                <TabsContent value="recruitment" className="space-y-6">
-                    <Card>
-                        <CardHeader>
-                            <CardTitle className="flex items-center gap-2">
-                                <Briefcase className="h-5 w-5 text-primary" />
-                                Talent Acquisitions ({applications?.length || 0})
-                            </CardTitle>
-                            <CardDescription>
-                                Review and manage job applications for Pinnacle Academia roles.
-                            </CardDescription>
-                        </CardHeader>
-                        <CardContent>
-                            <div className="rounded-md border">
-                                <Table>
-                                    <TableHeader>
-                                        <TableRow>
-                                            <TableHead>Candidate</TableHead>
-                                            <TableHead>Role</TableHead>
-                                            <TableHead>Applied</TableHead>
-                                            <TableHead>Pitch</TableHead>
-                                            <TableHead>Links</TableHead>
-                                            <TableHead>Status</TableHead>
-                                            <TableHead className="text-right">Actions</TableHead>
-                                        </TableRow>
-                                    </TableHeader>
-                                    <TableBody>
-                                        {applications && applications.length > 0 ? (
-                                            applications.map((app) => (
-                                                <TableRow key={app.id}>
-                                                    <TableCell className="font-medium">
-                                                        <div>{app.name}</div>
-                                                        <div className="text-xs text-muted-foreground">{app.email}</div>
-                                                        <div className="text-xs text-muted-foreground">{app.phone}</div>
-                                                    </TableCell>
-                                                    <TableCell>
-                                                        <Badge variant="outline">{app.jobTitle || app.jobId}</Badge>
-                                                    </TableCell>
-                                                    <TableCell className="text-sm">
-                                                        {app.createdAt?.toDate ? format(app.createdAt.toDate(), 'MMM d, yyyy') : 'Recently'}
-                                                    </TableCell>
-                                                    <TableCell className="max-w-xs truncate text-sm" title={app.pitch}>
-                                                        {app.pitch}
-                                                    </TableCell>
-                                                    <TableCell>
-                                                        {app.portfolio && (
-                                                            <Button variant="link" size="sm" asChild className="h-auto p-0">
-                                                                <a href={app.portfolio} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1">
-                                                                    View File <Globe className="h-3 w-3" />
-                                                                </a>
-                                                            </Button>
-                                                        )}
-                                                    </TableCell>
-                                                    <TableCell>
-                                                        <Badge variant={app.status === 'pending' ? 'secondary' : 'default'} className="capitalize">
-                                                            {app.status || 'pending'}
-                                                        </Badge>
-                                                    </TableCell>
-                                                    <TableCell className="text-right">
-                                                        <Button 
-                                                            variant="ghost" 
-                                                            size="sm" 
-                                                            onClick={() => handleDeleteApplication(app.id)}
-                                                            className="hover:bg-destructive/10 hover:text-destructive group"
-                                                            title="Delete Application"
-                                                        >
-                                                            <Trash2 className="h-4 w-4 text-muted-foreground group-hover:text-destructive transition-colors" />
-                                                        </Button>
-                                                    </TableCell>
-                                                </TableRow>
-                                            ))
-                                        ) : (
-                                            <TableRow>
-                                                <TableCell colSpan={6} className="text-center py-10 text-muted-foreground">
-                                                    No applications received yet.
-                                                </TableCell>
-                                            </TableRow>
-                                        )}
-                                    </TableBody>
-                                </Table>
-                            </div>
-                        </CardContent>
-                    </Card>
-                </TabsContent>
+
                 <TabsContent value="academic-data" className="space-y-6">
                     <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 pb-4 border-b border-white/5">
                         <div>
@@ -3459,29 +3322,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                     </div>
                 </TabsContent>
 
-                <TabsContent value="speed-battles-config" className="space-y-6">
-                    <Card>
-                        <CardHeader>
-                            <CardTitle className="flex items-center gap-2"><Zap className="h-5 w-5 text-primary" /> Timed Speed Battles Config</CardTitle>
-                            <CardDescription>Configure global timed battle rules, multipliers, and view engagement metrics.</CardDescription>
-                        </CardHeader>
-                        <CardContent className="space-y-4 max-w-xl">
-                            <div className="space-y-2">
-                                <Label htmlFor="battleTime">Round Timer Limit (Seconds)</Label>
-                                <Input id="battleTime" type="number" min={5} max={60} value={battleTimeLimit} onChange={e => setBattleTimeLimit(parseInt(e.target.value))} />
-                            </div>
-                            <div className="space-y-2">
-                                <Label htmlFor="battleMult">Point Streak Multiplier Weight</Label>
-                                <Input id="battleMult" type="number" min={1} max={5} value={battleMultiplier} onChange={e => setBattleMultiplier(parseInt(e.target.value))} />
-                            </div>
-                        </CardContent>
-                        <CardFooter>
-                            <Button onClick={handleSaveBattleConfig} disabled={isSavingBattleConfig}>
-                                {isSavingBattleConfig ? "Saving..." : "Save Battle Parameters"}
-                            </Button>
-                        </CardFooter>
-                    </Card>
-                </TabsContent>
+
             </Tabs>
 
             <Dialog open={certificateModalState?.open || false} onOpenChange={(open) => !open && setCertificateModalState(null)}>

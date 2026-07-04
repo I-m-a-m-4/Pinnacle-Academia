@@ -135,7 +135,7 @@ export default function AdminLoginPage() {
                   onChange={(e) => setEmail(e.target.value)}
                   required
                   disabled={isProcessing}
-                  placeholder="admin@zeneva.com"
+                  placeholder="admin@pinnacle.com"
                   autoComplete="off"
                   className="bg-muted/30"
                 />
@@ -177,8 +177,8 @@ export default function AdminLoginPage() {
 
       <div className="hidden bg-muted lg:block relative overflow-hidden">
         <Image
-          src="/zeneva-login.png?v=2"
-          alt="Modern retail store interior with minimalist design and warm lighting."
+          src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1920&auto=format&fit=crop"
+          alt="Modern university library with warm lighting."
           width="1920"
           height="1080"
           quality={100}
@@ -188,14 +188,14 @@ export default function AdminLoginPage() {
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
         <div className="absolute bottom-12 left-12 right-12 p-0 bg-transparent">
           <h2 className="text-white text-4xl font-bold font-headline leading-tight tracking-tight drop-shadow-lg">
-            Zen Command <span className="text-primary">Center</span>
+            Pinnacle Admin <span className="text-primary">Hub</span>
           </h2>
           <p className="text-white/90 mt-4 text-xl font-light leading-relaxed drop-shadow-md max-w-[600px]">
-             Manage the heartbeat of Zeneva. Monitor platform growth, oversee academy health, and coordinate strategic outreach from one secure intelligence hub.
+             Manage the heartbeat of Pinnacle Academia. Monitor platform growth, oversee student performance, and coordinate strategic outreach from one secure intelligence hub.
           </p>
           <div className="mt-6 flex items-center gap-3">
             <div className="h-1.5 w-12 bg-primary rounded-full shadow-[0_0_10px_rgba(255,165,0,0.5)]" />
-            <span className="text-[10px] font-bold text-white/60 uppercase tracking-[0.3em] drop-shadow-sm">Command Hub v2.4</span>
+            <span className="text-[10px] font-bold text-white/60 uppercase tracking-[0.3em] drop-shadow-sm">Pinnacle OS v1.0</span>
           </div>
         </div>
       </div>
