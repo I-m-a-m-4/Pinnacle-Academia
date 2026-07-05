@@ -260,7 +260,7 @@ export default function Home() {
                                         description: "Double-layered authenticity checks (Verified badges vs. Rumors), direct bulletin feeds from campus reps, and student-profile personalization.",
                                         bgColor: "bg-green-100",
                                         iconColor: "text-green-600",
-                                        hoverBg: "bg-[#FFF1F2]"
+                                        hoverBg: "bg-[#F0FDF4]"
                                     },
                                     {
                                         icon: FileText,
@@ -268,110 +268,110 @@ export default function Home() {
                                         description: "Official JAMB tracker with checklist state, summary cards for text novels, and an automated subject combination finder.",
                                         bgColor: "bg-purple-100",
                                         iconColor: "text-purple-600",
-                                        hoverBg: "bg-[#FAFAF9]"
+                                        hoverBg: "bg-[#F5F3FF]"
                                     },
                                     {
                                         icon: Globe,
                                         title: "Community & Mentorship",
                                         description: "Nairaland-style real-time forum using Firebase Firestore, and an interactive 15-minute booking system to consult top student mentors.",
-                                        bgColor: "bg-pink-100",
-                                        iconColor: "text-pink-600",
+                                        bgColor: "bg-amber-100",
+                                        iconColor: "text-amber-600",
                                         hoverBg: "bg-[#FFFBEB]"
                                     },
                                     {
                                         icon: BookOpen,
                                         title: "Smart Calculators & Alerts",
                                         description: "One-Click aggregate admission calculators and fresher scholarship alerts to give you a competitive edge.",
-                                        bgColor: "bg-sky-100",
-                                        iconColor: "text-sky-600",
-                                        hoverBg: "bg-[#EFF6FF]"
-                                    },
-                                    {
-                                        icon: Users,
-                                        title: "Expert Instructors",
-                                        description: "Learn from highly experienced and dedicated educators committed to providing personalized guidance to help you succeed.",
-                                        bgColor: "bg-yellow-100",
-                                        iconColor: "text-yellow-600",
-                                        hoverBg: "bg-[#FFF1F2]"
-                                    },
-                                    {
-                                        icon: Database,
-                                        title: "Past Questions Library",
-                                        description: "Get years of exam past questions with verified answers for thorough preparation and confidence building.",
-                                        bgColor: "bg-gray-200",
-                                        iconColor: "text-gray-700",
-                                        hoverBg: "bg-[#FFFBEB]"
-                                    },
-                                    {
-                                        icon: Trophy,
-                                        title: "Mock Examinations",
-                                        description: "Take regular timed practice examinations simulating actual computer-based test (CBT) environments.",
-                                        bgColor: "bg-teal-100",
-                                        iconColor: "text-teal-600",
-                                        hoverBg: "bg-[#EFF6FF]"
-                                    },
-                                    {
-                                        icon: UserCog,
-                                        title: "Personalized Mentorship",
-                                        description: "Participate in 1-on-1 feedback sessions to identify weaker subjects and map out target improvement plans.",
                                         bgColor: "bg-rose-100",
                                         iconColor: "text-rose-600",
                                         hoverBg: "bg-[#FFF1F2]"
                                     },
                                     {
-                                        icon: Clock,
-                                        title: "Flexible Scheduling",
-                                        description: "Choose from morning, evening, or weekend batches to balance tutorials with your other commitments.",
+                                        icon: Users,
+                                        title: "Expert Instructors",
+                                        description: "Learn from highly experienced and dedicated educators committed to providing personalized guidance to help you succeed.",
                                         bgColor: "bg-cyan-100",
                                         iconColor: "text-cyan-600",
                                         hoverBg: "bg-[#ECFEFF]"
                                     },
                                     {
-                                        icon: TrendingUp,
-                                        title: "Progress Tracking",
-                                        description: "Review detailed performance analytics and statistics mapping your preparation levels over time.",
+                                        icon: Database,
+                                        title: "Past Questions Library",
+                                        description: "Get years of exam past questions with verified answers for thorough preparation and confidence building.",
                                         bgColor: "bg-fuchsia-100",
                                         iconColor: "text-fuchsia-600",
                                         hoverBg: "bg-[#FDF4FF]"
                                     },
                                     {
-                                        icon: Layers,
-                                        title: "Academic Library",
-                                        description: "Utilize our physical quiet study areas and a vast e-library of recommended textbooks and references.",
-                                        bgColor: "bg-red-100",
-                                        iconColor: "text-red-600",
-                                        hoverBg: "bg-[#FAFAF9]"
-                                    },
-                                    {
-                                        icon: BrainCircuit,
-                                        title: "Interactive Quizzes",
-                                        description: "Participate in quick daily quizzes designed to reinforce classroom lessons and memory retention.",
+                                        icon: Trophy,
+                                        title: "Mock Examinations",
+                                        description: "Take regular timed practice examinations simulating actual computer-based test (CBT) environments.",
                                         bgColor: "bg-orange-100",
                                         iconColor: "text-orange-600",
                                         hoverBg: "bg-[#FFF7ED]"
                                     },
                                     {
-                                        icon: Sparkles,
-                                        title: "Scholarship Guidance",
-                                        description: "Get updates and advisory on local and international scholarship opportunities and requirements.",
+                                        icon: UserCog,
+                                        title: "Personalized Mentorship",
+                                        description: "Participate in 1-on-1 feedback sessions to identify weaker subjects and map out target improvement plans.",
                                         bgColor: "bg-indigo-100",
                                         iconColor: "text-indigo-600",
                                         hoverBg: "bg-[#EEF2FF]"
                                     },
                                     {
+                                        icon: Clock,
+                                        title: "Flexible Scheduling",
+                                        description: "Choose from morning, evening, or weekend batches to balance tutorials with your other commitments.",
+                                        bgColor: "bg-teal-100",
+                                        iconColor: "text-teal-600",
+                                        hoverBg: "bg-[#F0FDFA]"
+                                    },
+                                    {
+                                        icon: TrendingUp,
+                                        title: "Progress Tracking",
+                                        description: "Review detailed performance analytics and statistics mapping your preparation levels over time.",
+                                        bgColor: "bg-sky-100",
+                                        iconColor: "text-sky-600",
+                                        hoverBg: "bg-[#F0F9FF]"
+                                    },
+                                    {
+                                        icon: Layers,
+                                        title: "Academic Library",
+                                        description: "Utilize our physical quiet study areas and a vast e-library of recommended textbooks and references.",
+                                        bgColor: "bg-pink-100",
+                                        iconColor: "text-pink-600",
+                                        hoverBg: "bg-[#FDF2F8]"
+                                    },
+                                    {
+                                        icon: BrainCircuit,
+                                        title: "Interactive Quizzes",
+                                        description: "Participate in quick daily quizzes designed to reinforce classroom lessons and memory retention.",
+                                        bgColor: "bg-lime-100",
+                                        iconColor: "text-lime-600",
+                                        hoverBg: "bg-[#F7FEE7]"
+                                    },
+                                    {
+                                        icon: Sparkles,
+                                        title: "Scholarship Guidance",
+                                        description: "Get updates and advisory on local and international scholarship opportunities and requirements.",
+                                        bgColor: "bg-slate-100",
+                                        iconColor: "text-slate-600",
+                                        hoverBg: "bg-[#F8FAFC]"
+                                    },
+                                    {
                                         icon: Award,
                                         title: "University Portals Prep",
                                         description: "Receive specialized coaching and registration guidance for various university screening tests.",
-                                        bgColor: "bg-amber-100",
-                                        iconColor: "text-amber-600",
-                                        hoverBg: "bg-[#FFFBEB]"
+                                        bgColor: "bg-red-100",
+                                        iconColor: "text-red-600",
+                                        hoverBg: "bg-[#FEF2F2]"
                                     }
                                 ].map((feature: any, index: number) => (
                                     <div key={index} className="group relative p-8 bg-white border-2 border-dashed border-slate-200 rounded-lg overflow-hidden transition-all duration-300 isolate cursor-pointer shadow-sm">
-                                        {/* Slide-in Background Animation */}
-                                        <div className={`absolute inset-0 w-0 group-hover:w-full transition-all duration-500 ease-out ${feature.hoverBg} -z-10`}></div>
+                                        {/* Permanent Background Color */}
+                                        <div className={`absolute inset-0 w-full transition-all duration-500 ease-out ${feature.hoverBg} -z-10`}></div>
 
-                                        <div className={`w-12 h-12 ${feature.bgColor} ${feature.iconColor} rounded-xl flex items-center justify-center mb-6 relative z-10 transition-colors duration-300 group-hover:bg-white/80`}>
+                                        <div className={`w-12 h-12 bg-white/85 ${feature.iconColor} rounded-xl flex items-center justify-center mb-6 relative z-10 shadow-sm border border-white/40`}>
                                             <feature.icon width="24" height="24" />
                                         </div>
                                         <h3 className="text-xl font-semibold text-slate-900 mb-2 relative z-10">{feature.title}</h3>
@@ -619,6 +619,48 @@ export default function Home() {
                         </div>
                     </section>
 
+                    {/* Tutors & Life at the Academy Videos */}
+                    <section className="py-24 px-6 bg-white border-t border-slate-100 relative overflow-hidden">
+                        <div className="max-w-7xl mx-auto relative z-10">
+                            <div className="text-center max-w-2xl mx-auto mb-16">
+                                <span className="inline-flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-xs text-primary ring-1 ring-primary/20 uppercase tracking-tight mb-4 font-semibold">
+                                    Life at Pinnacle
+                                </span>
+                                <h2 className="text-4xl font-light text-slate-900 tracking-tight font-bricolage mb-4">
+                                    Our Tutors at Work
+                                </h2>
+                                <p className="text-lg text-slate-600 tracking-tight font-dm-sans">
+                                    Watch our dedicated, highly experienced tutors preparing students for academic excellence in interactive sessions.
+                                </p>
+                            </div>
+
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+                                <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-200 bg-slate-50 aspect-video group">
+                                    <video 
+                                        src="/pinnace tutors at work.mp4" 
+                                        controls 
+                                        className="w-full h-full object-cover" 
+                                        poster="/pinnacle academia building at ngiht.jpeg"
+                                    />
+                                    <div className="absolute top-4 left-4 bg-black/60 backdrop-blur-md px-3 py-1 rounded-full text-xs text-white font-medium">
+                                        Session 1: Active Classroom Tutoring
+                                    </div>
+                                </div>
+                                <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-200 bg-slate-50 aspect-video group">
+                                    <video 
+                                        src="/pinnace tutors at work 2.mp4" 
+                                        controls 
+                                        className="w-full h-full object-cover" 
+                                        poster="/pinnacle academia gate.jpeg"
+                                    />
+                                    <div className="absolute top-4 left-4 bg-black/60 backdrop-blur-md px-3 py-1 rounded-full text-xs text-white font-medium">
+                                        Session 2: Intensive Exam Prep & Advisory
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
                     {/* Profit Dial Section */}
                     <section className="py-24 px-6 bg-[#F9F8F6] text-slate-900 relative overflow-hidden text-center">
                         {/* Grid Background */}
@@ -685,7 +727,7 @@ export default function Home() {
                                 {/* Glow Effect */}
                                 <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-orange-500/30 blur-[100px] rounded-full -z-10 mix-blend-multiply"></div>
                                 <Image
-                                    src="/student_portrait.png"
+                                    src="/a person holdign flier fo pinnacel academia.jpeg"
                                     alt="Pinnacle Academia Student"
                                     width={500}
                                     height={500}
@@ -695,7 +737,7 @@ export default function Home() {
                         </div>
                     </section>
 
-                    <a href="https://wa.me/2349064233805?text=Hello%2C%20I'm%20interested%20in%20Pinnacle%20Academia.%20I'd%20like%20to%20learn%20more%20about%20your%20tutorial%20services." target="_blank" rel="noopener noreferrer" className="whatsapp-button z-50" aria-label="Contact us on WhatsApp">
+                    <a href="https://wa.me/2348143606458?text=Hello%2C%20I'm%20interested%20in%20Pinnacle%20Academia.%20I'd%20like%20to%20learn%20more%20about%20your%20tutorial%20services." target="_blank" rel="noopener noreferrer" className="whatsapp-button z-50" aria-label="Contact us on WhatsApp">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
                             <path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z" fillRule="evenodd" fill="#ffffff"></path>
                         </svg>

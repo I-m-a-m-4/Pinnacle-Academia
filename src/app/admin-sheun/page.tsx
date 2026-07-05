@@ -158,6 +158,7 @@ import { Textarea } from '@/components/ui/textarea';
 import { Input } from '@/components/ui/input';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import CyberShield from '@/components/admin/cyber-shield';
+import AdminBlogTabContent from '@/components/admin/blog-tab-content';
 
 // Import static question data files to support static file curation
 import { englishQuestions } from '@/app/(app)/cbt-simulator/data/use-of-english';
@@ -1889,6 +1890,10 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                         Text Novels Config
                     </TabsTrigger>
 
+                    <TabsTrigger value="latest-news" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2">
+                        <Newspaper className="h-4 w-4" /> Latest News
+                    </TabsTrigger>
+
                     <TabsTrigger value="cyber-shield" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2 text-red-500 hover:text-red-600 data-[state=active]:text-red-500 data-[state=active]:border-red-500">
                         <ShieldCheck className="h-4 w-4" /> Cyber Shield
                     </TabsTrigger>
@@ -2031,137 +2036,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                         </Card>
                     </div>
 
-                    <Card>
-                        <CardHeader>
-                            <CardTitle className="flex items-center gap-2">
-                                <BarChart2 className="h-5 w-5 text-primary" />
-                                Platform Activity Overview
-                            </CardTitle>
-                        </CardHeader>
-                        <CardContent className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                            <Card className="group cursor-pointer hover:shadow-lg transition-transform hover:-translate-y-1 overflow-hidden relative border-yellow-500/20" onClick={() => {
-                                setCertificateModalState({ open: true, title: 'Push Subscribers', description: `There are currently ${totalSubscribers} devices that have installed the app.`, value: String(totalSubscribers), icon: Megaphone });
-                            }}>
-                                <div className="absolute inset-0 bg-gradient-to-br from-yellow-500/10 to-transparent pointer-events-none" />
-                                <CardHeader className="pb-2">
-                                    <CardTitle className="flex justify-between items-center text-lg">
-                                        Push Subscribers
-                                        <div className="p-2 bg-yellow-100 dark:bg-yellow-900/30 rounded-full group-hover:bg-yellow-200 transition-colors">
-                                            <Megaphone className="h-5 w-5 text-yellow-600 dark:text-yellow-500" />
-                                        </div>
-                                    </CardTitle>
-                                </CardHeader>
-                                <CardContent>
-                                    <p className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-yellow-600 to-yellow-400">
-                                        {totalSubscribers}
-                                    </p>
-                                    <p className="text-sm text-muted-foreground mt-2">Active devices opted-in</p>
-                                    <p className="text-xs text-yellow-600/80 font-semibold mt-4 flex items-center"><Download className="h-3 w-3 mr-1" /> Click to download certified visual</p>
-                                </CardContent>
-                                              <Card className="group cursor-pointer hover:shadow-lg transition-transform hover:-translate-y-1 overflow-hidden relative border-green-500/20" onClick={() => {
-                                setCertificateModalState({ open: true, title: 'Platform Admissions Value', description: `Total gross admissions value across the Pinnacle platform.`, value: `₦${analyticsData.platformGmv.toLocaleString(undefined, { maximumFractionDigits: 0 })}`, icon: DollarSign });
-                            }}>
-                                <div className="absolute inset-0 bg-gradient-to-br from-green-500/10 to-transparent pointer-events-none" />
-                                <CardHeader className="pb-2">
-                                    <CardTitle className="flex justify-between items-center text-lg">
-                                        Platform Admissions Value
-                                        <div className="p-2 bg-green-100 dark:bg-green-900/30 rounded-full group-hover:bg-green-200 transition-colors">
-                                            <DollarSign className="h-5 w-5 text-green-600 dark:text-green-500" />
-                                        </div>
-                                    </CardTitle>
-                                </CardHeader>
-                                <CardContent>
-                                    <p className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-green-600 to-green-400">
-                                        ₦{analyticsData.platformGmv.toLocaleString(undefined, { maximumFractionDigits: 0 })}
-                                    </p>
-                                    <p className="text-sm text-muted-foreground mt-2">Value of admissions sold</p>
-                                    <p className="text-xs text-green-600/80 font-semibold mt-4 flex items-center"><Download className="h-3 w-3 mr-1" /> Click to download certified visual</p>
-                                </CardContent>
-                            </Card>
 
-                            <Card className="group cursor-pointer hover:shadow-lg transition-transform hover:-translate-y-1 overflow-hidden relative border-blue-500/20" onClick={() => {
-                                setCertificateModalState({ open: true, title: 'Total Admissions', description: `Total number of admissions across the platform.`, value: analyticsData.totalReceipts.toLocaleString(), icon: FileText });
-                            }}>
-                                <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-transparent pointer-events-none" />
-                                <CardHeader className="pb-2">
-                                    <CardTitle className="flex justify-between items-center text-lg">
-                                        Total Admissions
-                                        <div className="p-2 bg-blue-100 dark:bg-blue-900/30 rounded-full group-hover:bg-blue-200 transition-colors">
-                                            <FileText className="h-5 w-5 text-blue-600 dark:text-blue-500" />
-                                        </div>
-                                    </CardTitle>
-                                </CardHeader>
-                                <CardContent>
-                                    <p className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-400">
-                                        {analyticsData.totalReceipts.toLocaleString()}
-                                    </p>
-                                    <p className="text-sm text-muted-foreground mt-2">Total number of student admissions</p>
-                                    <p className="text-xs text-blue-600/80 font-semibold mt-4 flex items-center"><Download className="h-3 w-3 mr-1" /> Click to download certified visual</p>
-                                </CardContent>
-                            </Card>
-
-                            <Card className="group cursor-pointer hover:shadow-lg transition-transform hover:-translate-y-1 overflow-hidden relative border-purple-500/20" onClick={() => {
-                                setCertificateModalState({ open: true, title: 'Total Subjects', description: `We currently host ${analyticsData.totalProducts.toLocaleString()} unique subjects on the Pinnacle platform across all academies.`, value: analyticsData.totalProducts.toLocaleString(), icon: Package });
-                            }}>
-                                <div className="absolute inset-0 bg-gradient-to-br from-purple-500/10 to-transparent pointer-events-none" />
-                                <CardHeader className="pb-2">
-                                    <CardTitle className="flex justify-between items-center text-lg">
-                                        Total Subjects
-                                        <div className="p-2 bg-purple-100 dark:bg-purple-900/30 rounded-full group-hover:bg-purple-200 transition-colors">
-                                            <Package className="h-5 w-5 text-purple-600 dark:text-purple-500" />
-                                        </div>
-                                    </CardTitle>
-                                </CardHeader>
-                                <CardContent>
-                                    <p className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-purple-400">
-                                        {analyticsData.totalProducts.toLocaleString()}
-                                    </p>
-                                    <p className="text-sm text-muted-foreground mt-2">Unique subject catalog variants</p>
-                                    <p className="text-xs text-purple-600/80 font-semibold mt-4 flex items-center"><Download className="h-3 w-3 mr-1" /> Click to download certified visual</p>
-                                </CardContent>
-                            </Card>
-
-                            <Card className="group cursor-pointer hover:shadow-lg transition-transform hover:-translate-y-1 overflow-hidden relative border-orange-500/20" onClick={() => {
-                                setCertificateModalState({ open: true, title: 'Total Admissions Sold', description: `Total enrolled student slots across all registered academies.`, value: analyticsData.totalProductsSold.toLocaleString(), icon: ShoppingCart });
-                            }}>
-                                <div className="absolute inset-0 bg-gradient-to-br from-orange-500/10 to-transparent pointer-events-none" />
-                                <CardHeader className="pb-2">
-                                    <CardTitle className="flex justify-between items-center text-lg">
-                                        Total Admissions Sold
-                                        <div className="p-2 bg-orange-100 dark:bg-orange-900/30 rounded-full group-hover:bg-orange-200 transition-colors">
-                                            <ShoppingCart className="h-5 w-5 text-orange-600 dark:text-orange-500" />
-                                        </div>
-                                    </CardTitle>
-                                </CardHeader>
-                                <CardContent>
-                                    <p className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-orange-600 to-orange-400">
-                                        {analyticsData.totalProductsSold.toLocaleString()}
-                                    </p>
-                                    <p className="text-sm text-muted-foreground mt-2">Enrolled student slots</p>
-                                    <p className="text-xs text-orange-600/80 font-semibold mt-4 flex items-center"><Download className="h-3 w-3 mr-1" /> Click to download certified visual</p>
-                                </CardContent>
-                            </Card>                   </Card>
-
-                            <Card className="group cursor-pointer hover:shadow-lg transition-transform hover:-translate-y-1 overflow-hidden relative border-pink-500/20" onClick={() => router.push('/admin-sheun/blog')}>
-                                <div className="absolute inset-0 bg-gradient-to-br from-pink-500/10 to-transparent pointer-events-none" />
-                                <CardHeader className="pb-2">
-                                    <CardTitle className="flex justify-between items-center text-lg">
-                                        Blog Management
-                                        <div className="p-2 bg-pink-100 dark:bg-pink-900/30 rounded-full group-hover:bg-pink-200 transition-colors">
-                                            <Newspaper className="h-5 w-5 text-pink-600 dark:text-pink-500" />
-                                        </div>
-                                    </CardTitle>
-                                </CardHeader>
-                                <CardContent>
-                                    <p className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-600 to-pink-400">
-                                        Manage
-                                    </p>
-                                    <p className="text-sm text-muted-foreground mt-2">Update, create, or delete blog posts</p>
-                                    <p className="text-xs text-pink-600/80 font-semibold mt-4 flex items-center"><ArrowRight className="h-3 w-3 mr-1" /> Click to manage blog content</p>
-                                </CardContent>
-                            </Card>
-                        </CardContent>
-                    </Card>
                     <div className="mb-8">
 
 
@@ -3322,6 +3197,9 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                     </div>
                 </TabsContent>
 
+                <TabsContent value="latest-news" className="space-y-6">
+                    <AdminBlogTabContent />
+                </TabsContent>
 
             </Tabs>
 

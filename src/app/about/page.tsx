@@ -144,8 +144,8 @@ export default function AboutPage() {
               {/* Image Frame */}
               <div className="relative rounded-[36px] overflow-hidden aspect-square border border-slate-200 shadow-xl bg-slate-50">
                 <Image
-                  src="/assets/about.jpg"
-                  alt="Students learning"
+                  src="/pinnacle academia gate.jpeg"
+                  alt="Pinnacle Academia Physical Center Gate"
                   fill
                   className="object-cover"
                 />
@@ -230,44 +230,68 @@ export default function AboutPage() {
                   ref={railRef}
                   onScroll={checkScroll}
                 >
-                   <article className="min-w-[400px] md:min-w-[500px] bg-white border border-neutral-200 rounded-3xl p-8 shadow-xl flex-shrink-0">
-                    <p className="text-xl md:text-2xl text-slate-900 tracking-tight font-medium">
-                      "Pinnacle Academia helped me clear my JAMB exam on my first attempt with a score of 312. The weekly mock tests were incredibly accurate!"
-                    </p>
-                    <div className="mt-8 flex items-center gap-4">
-                      <div className="h-12 w-12 rounded-xl bg-emerald-500/10 flex items-center justify-center font-bold text-emerald-500">CE</div>
-                      <div>
-                        <div className="text-base font-semibold text-slate-900">Chidi Egwu</div>
-                        <div className="text-xs text-slate-500">Unilag Medical Student</div>
-                      </div>
-                    </div>
-                  </article>
+                   <div className="flex-shrink-0 w-[300px] h-[350px] relative rounded-3xl overflow-hidden border border-neutral-200 shadow-xl bg-white group hover:scale-[1.02] transition-transform duration-300">
+                     <Image 
+                       src="/a pinnacle std testimonial.jpeg" 
+                       alt="Pinnacle Student Testimonial" 
+                       fill 
+                       className="object-contain p-4"
+                     />
+                   </div>
 
-                  <article className="min-w-[400px] md:min-w-[500px] bg-white border border-neutral-200 rounded-3xl p-8 shadow-xl flex-shrink-0">
-                    <p className="text-xl md:text-2xl text-slate-900 tracking-tight font-medium">
-                      "The online classes were a lifesaver. The tutors explain complex topics in Mathematics and Chemistry so clearly. I got 7 A1s in my WAEC!"
-                    </p>
-                    <div className="mt-8 flex items-center gap-4">
-                      <div className="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center font-bold text-blue-500">AI</div>
-                      <div>
-                        <div className="text-base font-semibold text-slate-900">Aisha Ibrahim</div>
-                        <div className="text-xs text-slate-500">OAU Engineering Student</div>
-                      </div>
-                    </div>
-                  </article>
+                   <div className="flex-shrink-0 w-[300px] h-[350px] relative rounded-3xl overflow-hidden border border-neutral-200 shadow-xl bg-white group hover:scale-[1.02] transition-transform duration-300">
+                     <Image 
+                       src="/another testimonail form pinnacle academia student.jpeg" 
+                       alt="Student Success Testimonial" 
+                       fill 
+                       className="object-contain p-4"
+                     />
+                   </div>
 
-                  <article className="min-w-[400px] md:min-w-[500px] bg-white border border-neutral-200 rounded-3xl p-8 shadow-xl flex-shrink-0">
-                    <p className="text-xl md:text-2xl text-slate-900 tracking-tight font-medium">
-                      "Their admission processing services are unmatched. They handled everything from documentation to visa advisory for my studies in Canada."
-                    </p>
-                    <div className="mt-8 flex items-center gap-4">
-                      <div className="h-12 w-12 rounded-xl bg-primary/10 flex items-center justify-center font-bold text-primary">TB</div>
-                      <div>
-                        <div className="text-base font-semibold text-slate-900">Tunde Bakare</div>
-                        <div className="text-xs text-slate-500">University of Toronto Student</div>
-                      </div>
-                    </div>
-                  </article>
+                   <div className="flex-shrink-0 w-[300px] h-[350px] relative rounded-3xl overflow-hidden border border-neutral-200 shadow-xl bg-white group hover:scale-[1.02] transition-transform duration-300">
+                     <Image 
+                       src="/another testimonali].jpeg" 
+                       alt="WhatsApp Feedback Testimonial" 
+                       fill 
+                       className="object-contain p-4"
+                     />
+                   </div>
+
+                   <div className="flex-shrink-0 w-[300px] h-[350px] relative rounded-3xl overflow-hidden border border-neutral-200 shadow-xl bg-white group hover:scale-[1.02] transition-transform duration-300">
+                     <Image 
+                       src="/pinnacle student testimonials.jpeg" 
+                       alt="Pinnacle Students Feedback" 
+                       fill 
+                       className="object-contain p-4"
+                     />
+                   </div>
+
+                   <div className="flex-shrink-0 w-[300px] h-[350px] relative rounded-3xl overflow-hidden border border-neutral-200 shadow-xl bg-white group hover:scale-[1.02] transition-transform duration-300">
+                     <Image 
+                       src="/result testimonials.jpeg" 
+                       alt="Exam Result Proof" 
+                       fill 
+                       className="object-contain p-4"
+                     />
+                   </div>
+
+                   <div className="flex-shrink-0 w-[300px] h-[350px] relative rounded-3xl overflow-hidden border border-neutral-200 shadow-xl bg-white group hover:scale-[1.02] transition-transform duration-300">
+                     <Image 
+                       src="/WhatsApp Image 2026-07-04 at 12.00.46 PM.jpeg" 
+                       alt="Pinnacle Academic Score Testimonial" 
+                       fill 
+                       className="object-contain p-4"
+                     />
+                   </div>
+
+                   <div className="flex-shrink-0 w-[300px] h-[350px] relative rounded-3xl overflow-hidden border border-neutral-200 shadow-xl bg-white group hover:scale-[1.02] transition-transform duration-300">
+                     <Image 
+                       src="/WhatsApp Image 2026-07-04 at 12.00.48 PM.jpeg" 
+                       alt="Pinnacle Student Review" 
+                       fill 
+                       className="object-contain p-4"
+                     />
+                   </div>
                 </div>
 
                 <div className="absolute bottom-6 right-10 flex items-center gap-4">

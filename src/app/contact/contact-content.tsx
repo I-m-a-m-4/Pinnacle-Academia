@@ -129,11 +129,11 @@ export default function ContactContent() {
                                         info="zenevapos@gmail.com"
                                     />
                                     <ContactCard 
-                                        href="https://wa.me/2349064233805"
+                                        href="https://wa.me/2348143606458"
                                         icon={<MessageCircle className="w-6 h-6 text-primary" />}
                                         title="WhatsApp"
                                         description="Chat directly with our success managers."
-                                        info="+234 906 423 3805"
+                                        info="+234 814 360 6458"
                                         isExternal
                                     />
                                     <ContactCard 
