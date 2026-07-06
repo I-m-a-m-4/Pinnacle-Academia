@@ -72,7 +72,7 @@ export default function LoginPage() {
     signInWithEmailAndPassword(auth, email, password)
       .then((userCredential) => {
         const user = userCredential.user;
-        const isSuperAdmin = user.email === 'belloimam431@gmail.com';
+        const isSuperAdmin = user.email === 'belloimam431@gmail.com' || user.email === 'ibrahimakinola10@gmail.com';
         
         // Check for MFA enrollment if Super Admin
         if (isSuperAdmin && user.providerData[0].providerId === 'password') {

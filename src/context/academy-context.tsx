@@ -1327,7 +1327,7 @@ export function AcademyProvider({ children }: { children: ReactNode }) {
     const effectiveProfile = currentUserProfile || offlineProfile;
     const permissions = effectiveProfile?.permissions || {};
     const userRole = effectiveProfile?.role;
-    const isSuperAdmin = effectiveProfile?.email === 'belloimam431@gmail.com';
+    const isSuperAdmin = effectiveProfile?.email === 'belloimam431@gmail.com' || effectiveProfile?.email === 'ibrahimakinola10@gmail.com';
 
     // Debug Log to catch the culprit
     if (action.type === 'complete-registration' || action.type === 'add-product' || action.type === 'update-product' || action.type === 'delete-product') {
@@ -1776,7 +1776,7 @@ export function AcademyProvider({ children }: { children: ReactNode }) {
     }
 
     // Safety check: only allow impersonation if current user is super admin
-    const isSuperAdmin = user?.email === 'belloimam431@gmail.com';
+    const isSuperAdmin = user?.email === 'belloimam431@gmail.com' || user?.email === 'ibrahimakinola10@gmail.com';
     if (impersonatedUserId && !isSuperAdmin) {
       setImpersonatedUserId(null);
       if (typeof window !== 'undefined') sessionStorage.removeItem('zeneva_impersonated_user_id');
