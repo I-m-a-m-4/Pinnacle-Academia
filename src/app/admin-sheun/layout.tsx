@@ -13,7 +13,7 @@ import Confetti from '@/components/shared/confetti';
 import { useAcademy } from '@/context/academy-context';
 
 
-const ADMIN_EMAIL = 'belloimam431@gmail.com';
+const ADMIN_EMAILS = ['belloimam431@gmail.com', 'ibrahimakinola10@gmail.com'];
 
 const navLinks = [
   { href: '/admin-sheun', label: 'Dashboard', icon: LayoutDashboard },
@@ -43,7 +43,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       return;
     }
 
-    const isAuthorizedAdmin = user.email === ADMIN_EMAIL;
+    const isAuthorizedAdmin = user.email && ADMIN_EMAILS.includes(user.email);
 
     if (!isAuthorizedAdmin && !isLoginPage) {
       // If not an admin and not on the login page, redirect away (e.g., to main dashboard)
@@ -79,7 +79,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   }
 
   // Render layout for an authorized admin
-  if (user && user.email === ADMIN_EMAIL) {
+  if (user && user.email && ADMIN_EMAILS.includes(user.email)) {
     return (
       <div className="flex h-full w-full flex-col relative overflow-hidden">
         <Confetti trigger={isConfettiActive} onComplete={() => setIsConfettiActive(false)} />

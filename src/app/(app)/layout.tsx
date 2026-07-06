@@ -338,7 +338,7 @@ export default function AuthenticatedLayout({
   }, [isUserLoading, user, router]);
 
   React.useEffect(() => {
-    const isSuperAdmin = currentUserProfile?.email === 'belloimam431@gmail.com';
+    const isSuperAdmin = currentUserProfile?.email === 'belloimam431@gmail.com' || currentUserProfile?.email === 'ibrahimakinola10@gmail.com';
     if (!isLoading && currentUserProfile && currentUserProfile.surveyCompleted !== true && pathname !== '/onboarding' && !isSuperAdmin) {
       router.replace('/onboarding');
     }
