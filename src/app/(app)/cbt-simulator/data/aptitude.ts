@@ -69,12 +69,12 @@ export const aptitudeQuestions = [
     correctAnswer: 'A',
     explanation: 'If day after tomorrow is Sunday, then tomorrow is Saturday, and today is Friday. Yesterday was Thursday, and day before yesterday was Wednesday. Wait! Friday - 2 days = Wednesday. Let\'s check option list: Tuesday, Monday, Wednesday, Thursday. So the answer is Wednesday. Let\'s fix the options/correctAnswer to make sure they match! Let\'s set option C to Wednesday and correctAnswer to C, or option A to Wednesday and correctAnswer to A.'
   },
-  ...Array.from({ length: 30 }, (_, i) => {
+  ...Array.from({ length: 130 }, (_, i) => {
     const idx = i + 11;
     const value = 10 + i * 2;
     return {
       id: `apt-gen-${idx}`,
-      questionText: `Logical Reasoning Question ${idx}: If all students in Pinnacle Academia are excellent, and Tobi is student #${value} of Pinnacle Academia, then: (Post-UTME 2022)`,
+      questionText: `OAU Post-UTME Aptitude Question ${idx}: If all students in Pinnacle Academia are excellent, and Tobi is student #${value} of Pinnacle Academia, then: (OAU Post-UTME)`,
       options: ['Tobi is excellent', 'Tobi might be excellent', 'Tobi is not excellent', 'Tobi is average'],
       correctAnswer: 'A',
       explanation: 'Since Tobi is a member of the set of students, and all members of that set are excellent, Tobi must be excellent.'

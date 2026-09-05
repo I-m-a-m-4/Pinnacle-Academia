@@ -603,6 +603,15 @@ export default function ActiveTestPage() {
                                 <X className="h-3.5 w-3.5" />
                                 Quit Exam
                             </Button>
+
+                            <Button 
+                                size="sm" 
+                                onClick={() => handleSubmitExam()}
+                                className="text-xs font-bold rounded-xl h-9 bg-green-600 hover:bg-green-700 text-white gap-1.5 lg:hidden"
+                            >
+                                <CheckCircle2 className="h-3.5 w-3.5" />
+                                Submit
+                            </Button>
                         </div>
 
                         <div className="flex items-center gap-2 bg-destructive/10 border border-destructive/20 text-destructive rounded-lg px-3 py-1 text-sm font-bold font-mono">
@@ -714,13 +723,21 @@ export default function ActiveTestPage() {
                         >
                             <ChevronLeft className="mr-1 h-4 w-4" /> Previous
                         </Button>
-                        <Button
-                            onClick={handleNextQuestion}
-                            disabled={currentSubjectIndex === totalSubjects - 1 && currentQuestionIndex === totalSubjectQuestions - 1}
-                            className="rounded-xl px-4"
-                        >
-                            Next <ChevronRight className="ml-1 h-4 w-4" />
-                        </Button>
+                        {currentSubjectIndex === totalSubjects - 1 && currentQuestionIndex === totalSubjectQuestions - 1 ? (
+                            <Button
+                                onClick={() => handleSubmitExam()}
+                                className="rounded-xl px-4 shadow-md bg-green-600 hover:bg-green-700 text-white"
+                            >
+                                Submit Exam <CheckCircle2 className="ml-1 h-4 w-4" />
+                            </Button>
+                        ) : (
+                            <Button
+                                onClick={handleNextQuestion}
+                                className="rounded-xl px-4 shadow-sm"
+                            >
+                                Next <ChevronRight className="ml-1 h-4 w-4" />
+                            </Button>
+                        )}
                     </CardFooter>
                 </Card>
             </div>
