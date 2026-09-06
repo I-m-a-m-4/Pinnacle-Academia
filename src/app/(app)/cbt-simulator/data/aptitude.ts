@@ -1320,5 +1320,1085 @@ export const aptitudeQuestions = [
     ],
     "correctAnswer": "A",
     "explanation": "The ratio of Quantitative to Verbal is directly given by the ratio 160:105."
+  },
+  {
+    "id": "oau-apt-111",
+    "questionText": "A tap can fill a tank in 6 hours and another tap can empty it in 8 hours. If both taps are opened together, in how many hours will the tank be filled? (OAU Post-UTME 2021)",
+    "options": [
+      "24 hours",
+      "14 hours",
+      "12 hours",
+      "18 hours"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Net rate per hour = 1/6 - 1/8 = (4 - 3)/24 = 1/24. Therefore, it will take 24 hours to fill the tank."
+  },
+  {
+    "id": "oau-apt-112",
+    "questionText": "If the price of petrol increases by 25%, by what percentage must a motorist reduce consumption to keep the total expenditure unchanged? (OAU Post-UTME 2020)",
+    "options": [
+      "20%",
+      "25%",
+      "15%",
+      "30%"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Reduction in consumption = [r / (100 + r)] × 100% = [25 / 125] × 100% = 20%."
+  },
+  {
+    "id": "oau-apt-113",
+    "questionText": "In a class of 50 students, 30 study Physics, 25 study Chemistry, and 10 study both. How many students study neither Physics nor Chemistry? (OAU Post-UTME 2019)",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "0"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total studying at least one = n(P ∪ C) = n(P) + n(C) - n(P ∩ C) = 30 + 25 - 10 = 45. Neither = 50 - 45 = 5."
+  },
+  {
+    "id": "oau-apt-114",
+    "questionText": "Find the odd one out among the following words: (OAU Post-UTME Aptitude 2022)",
+    "options": [
+      "Triangle",
+      "Hexagon",
+      "Cylinder",
+      "Pentagon"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Cylinder is a three-dimensional (3D) solid geometric figure, whereas triangle, hexagon, and pentagon are two-dimensional (2D) planar polygons."
+  },
+  {
+    "id": "oau-apt-115",
+    "questionText": "Complete the analogy: PHYSICIAN : HEAL :: ARCHITECT : ? (OAU Post-UTME 2018)",
+    "options": [
+      "DESIGN",
+      "BUILD",
+      "CURE",
+      "MEASURE"
+    ],
+    "correctAnswer": "A",
+    "explanation": "A physician's primary professional action is to heal, just as an architect's primary professional action is to design."
+  },
+  {
+    "id": "oau-apt-116",
+    "questionText": "If 'PENCIL' is coded as 'QFOEJM', how will 'ERASER' be coded in that same pattern? (OAU Post-UTME 2021)",
+    "options": [
+      "FSBTFS",
+      "FSBSER",
+      "FQASFS",
+      "ESBTFS"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Each letter is shifted forward by 1 in the alphabet: E->F, R->S, A->B, S->T, E->F, R->S => FSBTFS."
+  },
+  {
+    "id": "oau-apt-117",
+    "questionText": "A train 150 metres long passes a telephone pole in 15 seconds. What is the speed of the train in kilometres per hour (km/h)? (OAU Post-UTME 2020)",
+    "options": [
+      "36 km/h",
+      "40 km/h",
+      "25 km/h",
+      "54 km/h"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = Distance / Time = 150 m / 15 s = 10 m/s. In km/h = 10 × (18/5) = 36 km/h."
+  },
+  {
+    "id": "oau-apt-118",
+    "questionText": "Introducing a girl, Babatunde said, 'She is the daughter of the only son of my mother.' How is Babatunde related to the girl? (OAU Post-UTME 2019)",
+    "options": [
+      "Father",
+      "Uncle",
+      "Brother",
+      "Cousin"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The only son of Babatunde's mother is Babatunde himself. Hence, the girl is Babatunde's daughter, and Babatunde is her father."
+  },
+  {
+    "id": "oau-apt-119",
+    "questionText": "The average score of 4 tests is 72. What score must a student obtain on the fifth test to raise the overall average to 75? (OAU Post-UTME 2022)",
+    "options": [
+      "87",
+      "85",
+      "90",
+      "82"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sum of first 4 tests = 4 × 72 = 288. Required sum for 5 tests = 5 × 75 = 375. Fifth score = 375 - 288 = 87."
+  },
+  {
+    "id": "oau-apt-120",
+    "questionText": "What is the capital city of Osun State, the home state of Obafemi Awolowo University? (General Knowledge / OAU Post-UTME)",
+    "options": [
+      "Osogbo",
+      "Ile-Ife",
+      "Ede",
+      "Ilesa"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Osogbo is the administrative capital of Osun State, while Ile-Ife is known as the cradle of Yoruba civilization and the location of OAU."
+  },
+  {
+    "id": "oau-apt-121",
+    "questionText": "Which famous Nigerian architect designed the iconic master plan and iconic structures (such as Spider building) of Obafemi Awolowo University? (General Knowledge / OAU Post-UTME)",
+    "options": [
+      "Arieh Sharon",
+      "Fola Alade",
+      "David Aradeon",
+      "Herbert Macaulay"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The celebrated Bauhaus-trained architect Arieh Sharon, in collaboration with A.A. Egbor and Nigerian engineers, designed the iconic campus of OAU."
+  },
+  {
+    "id": "oau-apt-122",
+    "questionText": "If 12 men can reap a field in 20 days, in how many days can 15 men reap the same field? (OAU Post-UTME 2018)",
+    "options": [
+      "16 days",
+      "18 days",
+      "15 days",
+      "12 days"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Men × Days = constant. 12 × 20 = 15 × D => D = 240 / 15 = 16 days."
+  },
+  {
+    "id": "oau-apt-123",
+    "questionText": "A sum of money doubles itself in 5 years at simple interest. What is the rate of interest per annum? (OAU Post-UTME 2020)",
+    "options": [
+      "20%",
+      "25%",
+      "15%",
+      "10%"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let principal be P. Interest I = P. Rate R = (100 × I) / (P × T) = (100 × P) / (P × 5) = 20%."
+  },
+  {
+    "id": "oau-apt-124",
+    "questionText": "Choose the word opposite in meaning to 'NEBULOUS': (OAU Post-UTME Verbal)",
+    "options": [
+      "Clear",
+      "Vague",
+      "Dark",
+      "Gloomy"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Nebulous means hazy, vague, or indistinct. Its exact opposite is clear or distinct."
+  },
+  {
+    "id": "oau-apt-125",
+    "questionText": "Choose the word nearest in meaning to 'METICULOUS': (OAU Post-UTME Verbal)",
+    "options": [
+      "Painstaking",
+      "Careless",
+      "Hasty",
+      "Indifferent"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Meticulous means showing great attention to detail; very careful and precise. Painstaking is the closest synonym."
+  },
+  {
+    "id": "oau-apt-126",
+    "questionText": "Find the missing number in the matrix pattern: [4, 9, 16], [25, 36, 49], [64, 81, ?] (OAU Post-UTME Logic)",
+    "options": [
+      "100",
+      "99",
+      "121",
+      "144"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The numbers are consecutive perfect squares: 2², 3², 4², 5², 6², 7², 8², 9², 10² = 100."
+  },
+  {
+    "id": "oau-apt-127",
+    "questionText": "Pointing to a photograph, a woman says, 'His mother's only son is my brother.' How is the man in the photograph related to the woman? (OAU Post-UTME 2021)",
+    "options": [
+      "Brother",
+      "Father",
+      "Son",
+      "Nephew"
+    ],
+    "correctAnswer": "A",
+    "explanation": "His mother's only son is the man himself. Since he is her brother, the man is her brother."
+  },
+  {
+    "id": "oau-apt-128",
+    "questionText": "If SOUTH-EAST becomes NORTH, NORTH-EAST becomes WEST and so on, what will WEST become? (OAU Post-UTME 2022)",
+    "options": [
+      "SOUTH-EAST",
+      "NORTH-EAST",
+      "SOUTH-WEST",
+      "NORTH-WEST"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The directions are rotated 135 degrees anti-clockwise. Rotating West 135 degrees anti-clockwise brings it to South-East."
+  },
+  {
+    "id": "oau-apt-129",
+    "questionText": "Two numbers are in the ratio 3 : 5. If 6 is added to each number, the ratio becomes 2 : 3. Find the original numbers. (OAU Post-UTME 2020)",
+    "options": [
+      "18 and 30",
+      "15 and 25",
+      "12 and 20",
+      "21 and 35"
+    ],
+    "correctAnswer": "A",
+    "explanation": "(3x + 6)/(5x + 6) = 2/3 => 3(3x + 6) = 2(5x + 6) => 9x + 18 = 10x + 12 => x = 6. Numbers are 3(6)=18 and 5(6)=30."
+  },
+  {
+    "id": "oau-apt-130",
+    "questionText": "In how many different ways can the letters of the word 'LEADER' be arranged? (OAU Post-UTME Quantitative)",
+    "options": [
+      "360",
+      "720",
+      "120",
+      "180"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total letters = 6, with 'E' repeating 2 times. Permutations = 6! / 2! = 720 / 2 = 360."
+  },
+  {
+    "id": "oau-apt-131",
+    "questionText": "In which year was the University of Ife (now Obafemi Awolowo University) officially founded? (OAU History / General Knowledge)",
+    "options": [
+      "1962",
+      "1960",
+      "1965",
+      "1970"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The University of Ife was established in 1962 by the government of the Western Region of Nigeria led by Chief Obafemi Awolowo."
+  },
+  {
+    "id": "oau-apt-132",
+    "questionText": "Who was the first indigenous Vice-Chancellor of the University of Ife? (OAU General Knowledge)",
+    "options": [
+      "Prof. Hezekiah Oluwasanmi",
+      "Prof. Wande Abimbola",
+      "Prof. Ade Ajayi",
+      "Prof. Saburi Biobaku"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Prof. Hezekiah Adedunmola Oluwasanmi served as Vice-Chancellor from 1966 to 1975, overseeing the monumental transformation of the permanent campus."
+  },
+  {
+    "id": "oau-apt-133",
+    "questionText": "A vendor buys mangoes at 5 for ₦200 and sells them at 4 for ₦240. What is his profit percentage? (OAU Post-UTME 2021)",
+    "options": [
+      "50%",
+      "40%",
+      "30%",
+      "25%"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cost price per mango = 200/5 = ₦40. Selling price per mango = 240/4 = ₦60. Profit = 60 - 40 = ₦20. Percentage = (20/40) × 100% = 50%."
+  },
+  {
+    "id": "oau-apt-134",
+    "questionText": "Complete the series: B2D, D4F, F6H, H8J, ___? (OAU Post-UTME Logic)",
+    "options": [
+      "J10L",
+      "I10K",
+      "J10K",
+      "K12M"
+    ],
+    "correctAnswer": "A",
+    "explanation": "First letter advances by 2 (B, D, F, H, J). Number advances by 2 (2, 4, 6, 8, 10). Last letter advances by 2 (D, F, H, J, L) => J10L."
+  },
+  {
+    "id": "oau-apt-135",
+    "questionText": "If 'ALL ROADS LEAD TO ROME' has 18 consonants and vowels, what is the probability of picking a vowel at random from the letters of 'ACADEMIA'? (OAU Post-UTME Quantitative)",
+    "options": [
+      "5/8",
+      "1/2",
+      "3/8",
+      "3/4"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The word 'ACADEMIA' has 8 letters: A, C, A, D, E, M, I, A. Vowels are A, A, E, I, A (5 vowels). Probability = 5/8."
+  },
+  {
+    "id": "oau-apt-136",
+    "questionText": "A man walks 3 km North, then turns East and walks 4 km. How far is he from his starting point? (OAU Post-UTME 2019)",
+    "options": [
+      "5 km",
+      "7 km",
+      "6 km",
+      "4.5 km"
+    ],
+    "correctAnswer": "A",
+    "explanation": "By Pythagoras theorem: Distance = √(3² + 4²) = √(9 + 16) = √25 = 5 km."
+  },
+  {
+    "id": "oau-apt-137",
+    "questionText": "Find the value of x if log₂(x) + log₂(4) = 5. (OAU Post-UTME Mathematics/Aptitude)",
+    "options": [
+      "8",
+      "16",
+      "4",
+      "32"
+    ],
+    "correctAnswer": "A",
+    "explanation": "log₂(x × 4) = 5 => 4x = 2⁵ = 32 => x = 32 / 4 = 8."
+  },
+  {
+    "id": "oau-apt-138",
+    "questionText": "Which Nigerian currency denomination features the portrait of Chief Obafemi Awolowo? (General Knowledge / OAU Post-UTME)",
+    "options": [
+      "₦100 note",
+      "₦200 note",
+      "₦500 note",
+      "₦50 note"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The ₦100 Nigerian banknote features the portrait of Chief Obafemi Awolowo, commemorating the centenary of Nigeria's amalgamation."
+  },
+  {
+    "id": "oau-apt-139",
+    "questionText": "A clock shows 3:30. What is the angle between the hour hand and the minute hand? (OAU Post-UTME Aptitude 2021)",
+    "options": [
+      "75 degrees",
+      "90 degrees",
+      "60 degrees",
+      "80 degrees"
+    ],
+    "correctAnswer": "A",
+    "explanation": "At 3:30, minute hand is at 180°. Hour hand is at (3 × 30°) + (30 × 0.5°) = 90° + 15° = 105°. Angle = 180° - 105° = 75°."
+  },
+  {
+    "id": "oau-apt-140",
+    "questionText": "Statement: Some doctors are teachers. All teachers are counsellors. Conclusion: (OAU Post-UTME Syllogism)",
+    "options": [
+      "Some doctors are counsellors",
+      "All doctors are counsellors",
+      "No doctor is a counsellor",
+      "All counsellors are teachers"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Since some doctors are teachers and all teachers are counsellors, the doctors who are teachers must also be counsellors. Thus, some doctors are counsellors."
+  },
+  {
+    "id": "oau-apt-141",
+    "questionText": "If 3 pumps can empty a reservoir in 12 hours, how long will it take 5 pumps working at the identical rate? (OAU Aptitude Rate Problem 0)",
+    "options": [
+      "7 hours",
+      "10 hours",
+      "5 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((3) × (12)) / (5) = 7 hours."
+  },
+  {
+    "id": "oau-apt-142",
+    "questionText": "An item originally marked at ₦5000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 1)",
+    "options": [
+      "₦4230",
+      "₦4250",
+      "₦4600",
+      "₦3750"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦4230."
+  },
+  {
+    "id": "oau-apt-143",
+    "questionText": "Complete the verbal analogy: SCALPEL : SURGEON :: CHISEL : ? (OAU Post-UTME Verbal 2)",
+    "options": [
+      "SCULPTOR",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "SCALPEL is functionally associated with SURGEON, just as CHISEL is associated with SCULPTOR."
+  },
+  {
+    "id": "oau-apt-144",
+    "questionText": "In a row of 33 candidates facing North, Ade is 12th from the left end and Bola is 13th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 3)",
+    "options": [
+      "8",
+      "10",
+      "7",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 33 - (25) = 8."
+  },
+  {
+    "id": "oau-apt-145",
+    "questionText": "What is the official Latin motto of Obafemi Awolowo University? (OAU General Knowledge 4)",
+    "options": [
+      "For Learning and Culture",
+      "Knowledge is Light",
+      "Excellence and Integrity",
+      "Truth and Service"
+    ],
+    "correctAnswer": "A",
+    "explanation": "OAU's motto is 'For Learning and Culture' (in Yoruba: Fun Eko ati Asa)."
+  },
+  {
+    "id": "oau-apt-146",
+    "questionText": "If 8 pumps can empty a reservoir in 12 hours, how long will it take 10 pumps working at the identical rate? (OAU Aptitude Rate Problem 5)",
+    "options": [
+      "10 hours",
+      "13 hours",
+      "8 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((8) × (12)) / (10) = 10 hours."
+  },
+  {
+    "id": "oau-apt-147",
+    "questionText": "An item originally marked at ₦10000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 6)",
+    "options": [
+      "₦8460",
+      "₦8500",
+      "₦9200",
+      "₦7500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦8460."
+  },
+  {
+    "id": "oau-apt-148",
+    "questionText": "Complete the verbal analogy: EPICENTRE : EARTHQUAKE :: EYE : ? (OAU Post-UTME Verbal 7)",
+    "options": [
+      "HURRICANE",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "EPICENTRE is functionally associated with EARTHQUAKE, just as EYE is associated with HURRICANE."
+  },
+  {
+    "id": "oau-apt-149",
+    "questionText": "In a row of 38 candidates facing North, Ade is 12th from the left end and Bola is 10th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 8)",
+    "options": [
+      "16",
+      "18",
+      "15",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 38 - (22) = 16."
+  },
+  {
+    "id": "oau-apt-150",
+    "questionText": "What is the historical name of the Great Ife student union building at OAU? (OAU General Knowledge 9)",
+    "options": [
+      "Sub (Students' Union Building)",
+      "Ken Saro-Wiwa Hall",
+      "Awolowo Hall",
+      "Oduduwa Hall"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The SUB (Students' Union Building) at OAU is the historic epicentre of Nigerian student unionism."
+  },
+  {
+    "id": "oau-apt-151",
+    "questionText": "If 13 pumps can empty a reservoir in 12 hours, how long will it take 15 pumps working at the identical rate? (OAU Aptitude Rate Problem 10)",
+    "options": [
+      "10 hours",
+      "13 hours",
+      "8 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((13) × (12)) / (15) = 10 hours."
+  },
+  {
+    "id": "oau-apt-152",
+    "questionText": "An item originally marked at ₦15000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 11)",
+    "options": [
+      "₦12690",
+      "₦12750",
+      "₦13800",
+      "₦11250"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦12690."
+  },
+  {
+    "id": "oau-apt-153",
+    "questionText": "Complete the verbal analogy: INSULIN : PANCREAS :: BILE : ? (OAU Post-UTME Verbal 12)",
+    "options": [
+      "LIVER",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "INSULIN is functionally associated with PANCREAS, just as BILE is associated with LIVER."
+  },
+  {
+    "id": "oau-apt-154",
+    "questionText": "In a row of 43 candidates facing North, Ade is 12th from the left end and Bola is 11th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 13)",
+    "options": [
+      "20",
+      "22",
+      "19",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 43 - (23) = 20."
+  },
+  {
+    "id": "oau-apt-155",
+    "questionText": "Which Nigerian Nobel Laureate was a distinguished Professor in Comparative Literature at Obafemi Awolowo University? (OAU General Knowledge 14)",
+    "options": [
+      "Prof. Wole Soyinka",
+      "Chinua Achebe",
+      "Chimamanda Adichie",
+      "Ben Okri"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Prof. Wole Soyinka was Professor of Comparative Literature at the University of Ife when he won the Nobel Prize in Literature in 1986."
+  },
+  {
+    "id": "oau-apt-156",
+    "questionText": "If 18 pumps can empty a reservoir in 12 hours, how long will it take 20 pumps working at the identical rate? (OAU Aptitude Rate Problem 15)",
+    "options": [
+      "11 hours",
+      "14 hours",
+      "9 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((18) × (12)) / (20) = 11 hours."
+  },
+  {
+    "id": "oau-apt-157",
+    "questionText": "An item originally marked at ₦20000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 16)",
+    "options": [
+      "₦16920",
+      "₦17000",
+      "₦18400",
+      "₦15000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦16920."
+  },
+  {
+    "id": "oau-apt-158",
+    "questionText": "Complete the verbal analogy: MALARIA : MOSQUITO :: CHOLERA : ? (OAU Post-UTME Verbal 17)",
+    "options": [
+      "VIBRIO",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "MALARIA is functionally associated with MOSQUITO, just as CHOLERA is associated with VIBRIO."
+  },
+  {
+    "id": "oau-apt-159",
+    "questionText": "In a row of 48 candidates facing North, Ade is 12th from the left end and Bola is 12th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 18)",
+    "options": [
+      "24",
+      "26",
+      "23",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 48 - (24) = 24."
+  },
+  {
+    "id": "oau-apt-160",
+    "questionText": "Which major Nigerian archaeological culture is renowned for terracotta sculptures found in the vicinity of Ile-Ife? (OAU General Knowledge 19)",
+    "options": [
+      "Ife Art / Nok Culture",
+      "Igbo-Ukwu",
+      "Benin Bronze",
+      "Daima Culture"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Ife Art is globally celebrated for its naturalistic bronze and terracotta sculptures dating from the 12th-14th centuries."
+  },
+  {
+    "id": "oau-apt-161",
+    "questionText": "If 23 pumps can empty a reservoir in 12 hours, how long will it take 25 pumps working at the identical rate? (OAU Aptitude Rate Problem 20)",
+    "options": [
+      "11 hours",
+      "14 hours",
+      "9 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((23) × (12)) / (25) = 11 hours."
+  },
+  {
+    "id": "oau-apt-162",
+    "questionText": "An item originally marked at ₦25000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 21)",
+    "options": [
+      "₦21150",
+      "₦21250",
+      "₦23000",
+      "₦18750"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦21150."
+  },
+  {
+    "id": "oau-apt-163",
+    "questionText": "Complete the verbal analogy: THERMOMETER : TEMPERATURE :: BAROMETER : ? (OAU Post-UTME Verbal 22)",
+    "options": [
+      "PRESSURE",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "THERMOMETER is functionally associated with TEMPERATURE, just as BAROMETER is associated with PRESSURE."
+  },
+  {
+    "id": "oau-apt-164",
+    "questionText": "In a row of 53 candidates facing North, Ade is 12th from the left end and Bola is 13th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 23)",
+    "options": [
+      "28",
+      "30",
+      "27",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 53 - (25) = 28."
+  },
+  {
+    "id": "oau-apt-165",
+    "questionText": "What is the official Latin motto of Obafemi Awolowo University? (OAU General Knowledge 24)",
+    "options": [
+      "For Learning and Culture",
+      "Knowledge is Light",
+      "Excellence and Integrity",
+      "Truth and Service"
+    ],
+    "correctAnswer": "A",
+    "explanation": "OAU's motto is 'For Learning and Culture' (in Yoruba: Fun Eko ati Asa)."
+  },
+  {
+    "id": "oau-apt-166",
+    "questionText": "If 28 pumps can empty a reservoir in 12 hours, how long will it take 30 pumps working at the identical rate? (OAU Aptitude Rate Problem 25)",
+    "options": [
+      "11 hours",
+      "14 hours",
+      "9 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((28) × (12)) / (30) = 11 hours."
+  },
+  {
+    "id": "oau-apt-167",
+    "questionText": "An item originally marked at ₦30000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 26)",
+    "options": [
+      "₦25380",
+      "₦25500",
+      "₦27600",
+      "₦22500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦25380."
+  },
+  {
+    "id": "oau-apt-168",
+    "questionText": "Complete the verbal analogy: COURT : JUSTICE :: HOSPITAL : ? (OAU Post-UTME Verbal 27)",
+    "options": [
+      "HEALTH",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "COURT is functionally associated with JUSTICE, just as HOSPITAL is associated with HEALTH."
+  },
+  {
+    "id": "oau-apt-169",
+    "questionText": "In a row of 58 candidates facing North, Ade is 12th from the left end and Bola is 10th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 28)",
+    "options": [
+      "36",
+      "38",
+      "35",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 58 - (22) = 36."
+  },
+  {
+    "id": "oau-apt-170",
+    "questionText": "What is the historical name of the Great Ife student union building at OAU? (OAU General Knowledge 29)",
+    "options": [
+      "Sub (Students' Union Building)",
+      "Ken Saro-Wiwa Hall",
+      "Awolowo Hall",
+      "Oduduwa Hall"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The SUB (Students' Union Building) at OAU is the historic epicentre of Nigerian student unionism."
+  },
+  {
+    "id": "oau-apt-171",
+    "questionText": "If 33 pumps can empty a reservoir in 12 hours, how long will it take 35 pumps working at the identical rate? (OAU Aptitude Rate Problem 30)",
+    "options": [
+      "11 hours",
+      "14 hours",
+      "9 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((33) × (12)) / (35) = 11 hours."
+  },
+  {
+    "id": "oau-apt-172",
+    "questionText": "An item originally marked at ₦35000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 31)",
+    "options": [
+      "₦29610",
+      "₦29750",
+      "₦32200",
+      "₦26250"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦29610."
+  },
+  {
+    "id": "oau-apt-173",
+    "questionText": "Complete the verbal analogy: SCALPEL : SURGEON :: CHISEL : ? (OAU Post-UTME Verbal 32)",
+    "options": [
+      "SCULPTOR",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "SCALPEL is functionally associated with SURGEON, just as CHISEL is associated with SCULPTOR."
+  },
+  {
+    "id": "oau-apt-174",
+    "questionText": "In a row of 63 candidates facing North, Ade is 12th from the left end and Bola is 11th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 33)",
+    "options": [
+      "40",
+      "42",
+      "39",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 63 - (23) = 40."
+  },
+  {
+    "id": "oau-apt-175",
+    "questionText": "Which Nigerian Nobel Laureate was a distinguished Professor in Comparative Literature at Obafemi Awolowo University? (OAU General Knowledge 34)",
+    "options": [
+      "Prof. Wole Soyinka",
+      "Chinua Achebe",
+      "Chimamanda Adichie",
+      "Ben Okri"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Prof. Wole Soyinka was Professor of Comparative Literature at the University of Ife when he won the Nobel Prize in Literature in 1986."
+  },
+  {
+    "id": "oau-apt-176",
+    "questionText": "If 38 pumps can empty a reservoir in 12 hours, how long will it take 40 pumps working at the identical rate? (OAU Aptitude Rate Problem 35)",
+    "options": [
+      "11 hours",
+      "14 hours",
+      "9 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((38) × (12)) / (40) = 11 hours."
+  },
+  {
+    "id": "oau-apt-177",
+    "questionText": "An item originally marked at ₦40000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 36)",
+    "options": [
+      "₦33840",
+      "₦34000",
+      "₦36800",
+      "₦30000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦33840."
+  },
+  {
+    "id": "oau-apt-178",
+    "questionText": "Complete the verbal analogy: EPICENTRE : EARTHQUAKE :: EYE : ? (OAU Post-UTME Verbal 37)",
+    "options": [
+      "HURRICANE",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "EPICENTRE is functionally associated with EARTHQUAKE, just as EYE is associated with HURRICANE."
+  },
+  {
+    "id": "oau-apt-179",
+    "questionText": "In a row of 68 candidates facing North, Ade is 12th from the left end and Bola is 12th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 38)",
+    "options": [
+      "44",
+      "46",
+      "43",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 68 - (24) = 44."
+  },
+  {
+    "id": "oau-apt-180",
+    "questionText": "Which major Nigerian archaeological culture is renowned for terracotta sculptures found in the vicinity of Ile-Ife? (OAU General Knowledge 39)",
+    "options": [
+      "Ife Art / Nok Culture",
+      "Igbo-Ukwu",
+      "Benin Bronze",
+      "Daima Culture"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Ife Art is globally celebrated for its naturalistic bronze and terracotta sculptures dating from the 12th-14th centuries."
+  },
+  {
+    "id": "oau-apt-181",
+    "questionText": "If 43 pumps can empty a reservoir in 12 hours, how long will it take 45 pumps working at the identical rate? (OAU Aptitude Rate Problem 40)",
+    "options": [
+      "11 hours",
+      "14 hours",
+      "9 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((43) × (12)) / (45) = 11 hours."
+  },
+  {
+    "id": "oau-apt-182",
+    "questionText": "An item originally marked at ₦45000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 41)",
+    "options": [
+      "₦38070",
+      "₦38250",
+      "₦41400",
+      "₦33750"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦38070."
+  },
+  {
+    "id": "oau-apt-183",
+    "questionText": "Complete the verbal analogy: INSULIN : PANCREAS :: BILE : ? (OAU Post-UTME Verbal 42)",
+    "options": [
+      "LIVER",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "INSULIN is functionally associated with PANCREAS, just as BILE is associated with LIVER."
+  },
+  {
+    "id": "oau-apt-184",
+    "questionText": "In a row of 73 candidates facing North, Ade is 12th from the left end and Bola is 13th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 43)",
+    "options": [
+      "48",
+      "50",
+      "47",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 73 - (25) = 48."
+  },
+  {
+    "id": "oau-apt-185",
+    "questionText": "What is the official Latin motto of Obafemi Awolowo University? (OAU General Knowledge 44)",
+    "options": [
+      "For Learning and Culture",
+      "Knowledge is Light",
+      "Excellence and Integrity",
+      "Truth and Service"
+    ],
+    "correctAnswer": "A",
+    "explanation": "OAU's motto is 'For Learning and Culture' (in Yoruba: Fun Eko ati Asa)."
+  },
+  {
+    "id": "oau-apt-186",
+    "questionText": "If 48 pumps can empty a reservoir in 12 hours, how long will it take 50 pumps working at the identical rate? (OAU Aptitude Rate Problem 45)",
+    "options": [
+      "12 hours",
+      "15 hours",
+      "10 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((48) × (12)) / (50) = 12 hours."
+  },
+  {
+    "id": "oau-apt-187",
+    "questionText": "An item originally marked at ₦50000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 46)",
+    "options": [
+      "₦42300",
+      "₦42500",
+      "₦46000",
+      "₦37500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦42300."
+  },
+  {
+    "id": "oau-apt-188",
+    "questionText": "Complete the verbal analogy: MALARIA : MOSQUITO :: CHOLERA : ? (OAU Post-UTME Verbal 47)",
+    "options": [
+      "VIBRIO",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "MALARIA is functionally associated with MOSQUITO, just as CHOLERA is associated with VIBRIO."
+  },
+  {
+    "id": "oau-apt-189",
+    "questionText": "In a row of 78 candidates facing North, Ade is 12th from the left end and Bola is 10th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 48)",
+    "options": [
+      "56",
+      "58",
+      "55",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 78 - (22) = 56."
+  },
+  {
+    "id": "oau-apt-190",
+    "questionText": "What is the historical name of the Great Ife student union building at OAU? (OAU General Knowledge 49)",
+    "options": [
+      "Sub (Students' Union Building)",
+      "Ken Saro-Wiwa Hall",
+      "Awolowo Hall",
+      "Oduduwa Hall"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The SUB (Students' Union Building) at OAU is the historic epicentre of Nigerian student unionism."
+  },
+  {
+    "id": "oau-apt-191",
+    "questionText": "If 53 pumps can empty a reservoir in 12 hours, how long will it take 55 pumps working at the identical rate? (OAU Aptitude Rate Problem 50)",
+    "options": [
+      "12 hours",
+      "15 hours",
+      "10 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((53) × (12)) / (55) = 12 hours."
+  },
+  {
+    "id": "oau-apt-192",
+    "questionText": "An item originally marked at ₦55000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 51)",
+    "options": [
+      "₦46530",
+      "₦46750",
+      "₦50600",
+      "₦41250"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦46530."
+  },
+  {
+    "id": "oau-apt-193",
+    "questionText": "Complete the verbal analogy: THERMOMETER : TEMPERATURE :: BAROMETER : ? (OAU Post-UTME Verbal 52)",
+    "options": [
+      "PRESSURE",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "THERMOMETER is functionally associated with TEMPERATURE, just as BAROMETER is associated with PRESSURE."
+  },
+  {
+    "id": "oau-apt-194",
+    "questionText": "In a row of 83 candidates facing North, Ade is 12th from the left end and Bola is 11th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 53)",
+    "options": [
+      "60",
+      "62",
+      "59",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 83 - (23) = 60."
+  },
+  {
+    "id": "oau-apt-195",
+    "questionText": "Which Nigerian Nobel Laureate was a distinguished Professor in Comparative Literature at Obafemi Awolowo University? (OAU General Knowledge 54)",
+    "options": [
+      "Prof. Wole Soyinka",
+      "Chinua Achebe",
+      "Chimamanda Adichie",
+      "Ben Okri"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Prof. Wole Soyinka was Professor of Comparative Literature at the University of Ife when he won the Nobel Prize in Literature in 1986."
+  },
+  {
+    "id": "oau-apt-196",
+    "questionText": "If 58 pumps can empty a reservoir in 12 hours, how long will it take 60 pumps working at the identical rate? (OAU Aptitude Rate Problem 55)",
+    "options": [
+      "12 hours",
+      "15 hours",
+      "10 hours",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Inverse proportion: Time = (Pumps₁ × Time₁) / Pumps₂ = ((58) × (12)) / (60) = 12 hours."
+  },
+  {
+    "id": "oau-apt-197",
+    "questionText": "An item originally marked at ₦60000 is sold after two successive discounts of 10% and 6%. What is the net selling price? (OAU Post-UTME Quantitative 56)",
+    "options": [
+      "₦50760",
+      "₦51000",
+      "₦55200",
+      "₦45000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price = Marked Price × (1 - d₁) × (1 - d₂) = ₦50760."
+  },
+  {
+    "id": "oau-apt-198",
+    "questionText": "Complete the verbal analogy: COURT : JUSTICE :: HOSPITAL : ? (OAU Post-UTME Verbal 57)",
+    "options": [
+      "HEALTH",
+      "STOMACH",
+      "CLINIC",
+      "KIDNEY"
+    ],
+    "correctAnswer": "A",
+    "explanation": "COURT is functionally associated with JUSTICE, just as HOSPITAL is associated with HEALTH."
+  },
+  {
+    "id": "oau-apt-199",
+    "questionText": "In a row of 88 candidates facing North, Ade is 12th from the left end and Bola is 12th from the right end. How many candidates are between Ade and Bola? (OAU Analytical Reasoning 58)",
+    "options": [
+      "64",
+      "66",
+      "63",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Candidates between = Total - (Left rank + Right rank) = 88 - (24) = 64."
+  },
+  {
+    "id": "oau-apt-200",
+    "questionText": "Which major Nigerian archaeological culture is renowned for terracotta sculptures found in the vicinity of Ile-Ife? (OAU General Knowledge 59)",
+    "options": [
+      "Ife Art / Nok Culture",
+      "Igbo-Ukwu",
+      "Benin Bronze",
+      "Daima Culture"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Ife Art is globally celebrated for its naturalistic bronze and terracotta sculptures dating from the 12th-14th centuries."
   }
 ];

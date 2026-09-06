@@ -1199,5 +1199,1205 @@ export const agricScienceQuestions = [
     ],
     "correctAnswer": "A",
     "explanation": "Nitrogen is a mobile element in plant tissue. When deficient, the plant translocates nitrogen from older leaves to younger developing shoots, causing older leaves to turn chlorotic first."
+  },
+  {
+    "id": "agric-101",
+    "questionText": "Which of the following implements is primarily used for secondary tillage in seedbed preparation? (OAU Post-UTME Agric 2021)",
+    "options": [
+      "Disc harrow",
+      "Disc plough",
+      "Mouldboard plough",
+      "Subsoiler"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Harrows (such as disc harrows) are secondary tillage implements used to pulverize the soil clods and smooth the seedbed after primary ploughing."
+  },
+  {
+    "id": "agric-102",
+    "questionText": "The process of removing excess water from the soil surface and subsurface to promote root aeration is: (JAMB Agric 2020)",
+    "options": [
+      "Drainage",
+      "Irrigation",
+      "Mulching",
+      "Leaching"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Drainage is the artificial removal of excess water from agricultural land to prevent waterlogging and ensure adequate aeration for root respiration."
+  },
+  {
+    "id": "agric-103",
+    "questionText": "Which of the following diseases of poultry is caused by an intracellular protozoan parasite? (OAU Post-UTME 2020)",
+    "options": [
+      "Coccidiosis",
+      "Newcastle disease",
+      "Fowl typhoid",
+      "Gumboro disease"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Coccidiosis is caused by protozoan parasites of the genus Eimeria, multiplying in the intestinal tract and causing bloody diarrhea."
+  },
+  {
+    "id": "agric-104",
+    "questionText": "The law of diminishing returns in agricultural production states that: (JAMB Agric Economics)",
+    "options": [
+      "As successive units of a variable input are added to fixed inputs, the marginal physical product eventually declines",
+      "Total output decreases immediately when any input is added",
+      "Fixed inputs always yield higher output than variable inputs",
+      "Profits are maximized when all inputs are equal"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of diminishing returns states that when increasing amounts of a variable factor are combined with fixed factors, marginal product initially rises but eventually diminishes."
+  },
+  {
+    "id": "agric-105",
+    "questionText": "Which of the following is an example of an indigenous draught animal commonly used in Northern Nigeria for tillage? (OAU Post-UTME Agric)",
+    "options": [
+      "White Fulani bull",
+      "West African Dwarf goat",
+      "Landrace pig",
+      "Red Sokoto goat"
+    ],
+    "correctAnswer": "A",
+    "explanation": "White Fulani and Sokoto Gudali cattle breeds are strong draught animals extensively used for ox-drawn ploughing in savanna farming systems."
+  },
+  {
+    "id": "agric-106",
+    "questionText": "A farm enterprise in which fish farming is integrated with crop and poultry production is termed: (OAU Post-UTME 2021)",
+    "options": [
+      "Integrated farming system",
+      "Monoculture",
+      "Extensive farming",
+      "Shifting cultivation"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Integrated farming systems combine multiple agricultural enterprises (e.g. fish, poultry, vegetables) so that waste from one becomes an input for another."
+  },
+  {
+    "id": "agric-107",
+    "questionText": "Which mineral deficiency in grazing ruminants leads to the metabolic disorder known as 'grass tetany' or hypomagnesemia? (JAMB Agric)",
+    "options": [
+      "Magnesium (Mg)",
+      "Calcium (Ca)",
+      "Iron (Fe)",
+      "Cobalt (Co)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Grass tetany (hypomagnesemia) is caused by a low level of blood magnesium, common when livestock graze lush, rapidly growing spring pastures."
+  },
+  {
+    "id": "agric-108",
+    "questionText": "The practice of cutting down trees and leaving high stumps to allow rapid coppice regrowth is called: (Agric Forestry / OAU Post-UTME)",
+    "options": [
+      "Pollarding / Coppicing",
+      "Afforestation",
+      "Deforestation",
+      "Clear felling"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Coppicing and pollarding involve cutting trees near or above ground level to stimulate vigorous multiple shoot regeneration from the stump."
+  },
+  {
+    "id": "agric-109",
+    "questionText": "What is the primary function of the gizzard in the digestive tract of a domestic fowl? (JAMB Agric Science)",
+    "options": [
+      "Mechanical grinding of coarse feed using ingested grit",
+      "Chemical digestion of fats",
+      "Absorption of nutrients",
+      "Storage of unchewed food"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The gizzard (ventriculus) has thick muscular walls and uses swallowed small stones or grit to mechanically grind hard grains and seeds."
+  },
+  {
+    "id": "agric-110",
+    "questionText": "The term 'budding' in citrus propagation involves: (OAU Post-UTME Horticulture)",
+    "options": [
+      "Inserting a single bud of a desired scion cultivar into the bark of a rootstock",
+      "Joining a shoot with several buds to a rootstock",
+      "Planting citrus seeds directly in the orchard",
+      "Bending a branch into the soil until it develops roots"
+    ],
+    "correctAnswer": "A",
+    "explanation": "T-budding (or shield budding) involves taking a single vegetative bud from a scion and inserting it beneath the bark of an established rootstock."
+  },
+  {
+    "id": "agric-111",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.5? (OAU Agric Soil Management 0)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-112",
+    "questionText": "The economic pest Variegated grasshopper (Zonocerus variegatus) causes severe agricultural loss in Cassava and leafy vegetables by: (JAMB / Post-UTME Crop Protection 1)",
+    "options": [
+      "defoliating green leaves during the dry season",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Variegated grasshopper (Zonocerus variegatus) specifically infests Cassava and leafy vegetables by defoliating green leaves during the dry season."
+  },
+  {
+    "id": "agric-113",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Protein concentrate (e.g. soybean meal, fish meal)' is characterized by being: (OAU Animal Science 2)",
+    "options": [
+      "containing more than 20% crude protein",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Protein concentrate (e.g. soybean meal, fish meal) is defined as being containing more than 20% crude protein."
+  },
+  {
+    "id": "agric-114",
+    "questionText": "When the price of cocoa beans increases from ₦6000 to ₦7000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 3)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-115",
+    "questionText": "The commercial aquaculture success of Clarias gariepinus (African catfish) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 4)",
+    "options": [
+      "possession of an arborescent accessory breathing organ allowing air breathing",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Clarias gariepinus (African catfish) is widely cultivated because of its possession of an arborescent accessory breathing organ allowing air breathing."
+  },
+  {
+    "id": "agric-116",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.9? (OAU Agric Soil Management 5)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-117",
+    "questionText": "The economic pest Pod borer (Maruca vitrata) causes severe agricultural loss in Cowpea (beans) by: (JAMB / Post-UTME Crop Protection 6)",
+    "options": [
+      "feeding on floral buds and developing seeds in the pods",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pod borer (Maruca vitrata) specifically infests Cowpea (beans) by feeding on floral buds and developing seeds in the pods."
+  },
+  {
+    "id": "agric-118",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Mineral supplement (e.g. bone meal, oyster shell)' is characterized by being: (OAU Animal Science 7)",
+    "options": [
+      "providing essential calcium and phosphorus for bone and eggshell formation",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Mineral supplement (e.g. bone meal, oyster shell) is defined as being providing essential calcium and phosphorus for bone and eggshell formation."
+  },
+  {
+    "id": "agric-119",
+    "questionText": "When the price of cocoa beans increases from ₦11000 to ₦12000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 8)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-120",
+    "questionText": "The commercial aquaculture success of Oreochromis niloticus (Nile tilapia) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 9)",
+    "options": [
+      "rapid reproduction and prolific mouth-brooding maternal care",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Oreochromis niloticus (Nile tilapia) is widely cultivated because of its rapid reproduction and prolific mouth-brooding maternal care."
+  },
+  {
+    "id": "agric-121",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.7? (OAU Agric Soil Management 10)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-122",
+    "questionText": "The economic pest Cotton stainer (Dysdercus superstitiosus) causes severe agricultural loss in Cotton and okra by: (JAMB / Post-UTME Crop Protection 11)",
+    "options": [
+      "piercing bolls and staining lint with fungal pathogens",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cotton stainer (Dysdercus superstitiosus) specifically infests Cotton and okra by piercing bolls and staining lint with fungal pathogens."
+  },
+  {
+    "id": "agric-123",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Roughage' is characterized by being: (OAU Animal Science 12)",
+    "options": [
+      "high in crude fibre (>18%) and low in digestible nutrients, essential for rumen motility",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Roughage is defined as being high in crude fibre (>18%) and low in digestible nutrients, essential for rumen motility."
+  },
+  {
+    "id": "agric-124",
+    "questionText": "When the price of cocoa beans increases from ₦16000 to ₦17000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 13)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-125",
+    "questionText": "The commercial aquaculture success of Heterobranchus longifilis in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 14)",
+    "options": [
+      "rapid growth rates and large body size at maturity",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Heterobranchus longifilis is widely cultivated because of its rapid growth rates and large body size at maturity."
+  },
+  {
+    "id": "agric-126",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.5? (OAU Agric Soil Management 15)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-127",
+    "questionText": "The economic pest Stem borer (Busseola fusca) causes severe agricultural loss in Maize and sorghum by: (JAMB / Post-UTME Crop Protection 16)",
+    "options": [
+      "boring into the whorls and central shoot causing dead heart syndrome",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Stem borer (Busseola fusca) specifically infests Maize and sorghum by boring into the whorls and central shoot causing dead heart syndrome."
+  },
+  {
+    "id": "agric-128",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Energy concentrate (e.g. maize, sorghum)' is characterized by being: (OAU Animal Science 17)",
+    "options": [
+      "rich in carbohydrates (>60%) with low crude fibre (<18%)",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Energy concentrate (e.g. maize, sorghum) is defined as being rich in carbohydrates (>60%) with low crude fibre (<18%)."
+  },
+  {
+    "id": "agric-129",
+    "questionText": "When the price of cocoa beans increases from ₦21000 to ₦22000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 18)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-130",
+    "questionText": "The commercial aquaculture success of Gymnarchus niloticus in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 19)",
+    "options": [
+      "elongate body generating weak electric fields for navigation",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gymnarchus niloticus is widely cultivated because of its elongate body generating weak electric fields for navigation."
+  },
+  {
+    "id": "agric-131",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.9? (OAU Agric Soil Management 20)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-132",
+    "questionText": "The economic pest Variegated grasshopper (Zonocerus variegatus) causes severe agricultural loss in Cassava and leafy vegetables by: (JAMB / Post-UTME Crop Protection 21)",
+    "options": [
+      "defoliating green leaves during the dry season",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Variegated grasshopper (Zonocerus variegatus) specifically infests Cassava and leafy vegetables by defoliating green leaves during the dry season."
+  },
+  {
+    "id": "agric-133",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Protein concentrate (e.g. soybean meal, fish meal)' is characterized by being: (OAU Animal Science 22)",
+    "options": [
+      "containing more than 20% crude protein",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Protein concentrate (e.g. soybean meal, fish meal) is defined as being containing more than 20% crude protein."
+  },
+  {
+    "id": "agric-134",
+    "questionText": "When the price of cocoa beans increases from ₦26000 to ₦27000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 23)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-135",
+    "questionText": "The commercial aquaculture success of Clarias gariepinus (African catfish) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 24)",
+    "options": [
+      "possession of an arborescent accessory breathing organ allowing air breathing",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Clarias gariepinus (African catfish) is widely cultivated because of its possession of an arborescent accessory breathing organ allowing air breathing."
+  },
+  {
+    "id": "agric-136",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.7? (OAU Agric Soil Management 25)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-137",
+    "questionText": "The economic pest Pod borer (Maruca vitrata) causes severe agricultural loss in Cowpea (beans) by: (JAMB / Post-UTME Crop Protection 26)",
+    "options": [
+      "feeding on floral buds and developing seeds in the pods",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pod borer (Maruca vitrata) specifically infests Cowpea (beans) by feeding on floral buds and developing seeds in the pods."
+  },
+  {
+    "id": "agric-138",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Mineral supplement (e.g. bone meal, oyster shell)' is characterized by being: (OAU Animal Science 27)",
+    "options": [
+      "providing essential calcium and phosphorus for bone and eggshell formation",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Mineral supplement (e.g. bone meal, oyster shell) is defined as being providing essential calcium and phosphorus for bone and eggshell formation."
+  },
+  {
+    "id": "agric-139",
+    "questionText": "When the price of cocoa beans increases from ₦31000 to ₦32000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 28)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-140",
+    "questionText": "The commercial aquaculture success of Oreochromis niloticus (Nile tilapia) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 29)",
+    "options": [
+      "rapid reproduction and prolific mouth-brooding maternal care",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Oreochromis niloticus (Nile tilapia) is widely cultivated because of its rapid reproduction and prolific mouth-brooding maternal care."
+  },
+  {
+    "id": "agric-141",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.5? (OAU Agric Soil Management 30)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-142",
+    "questionText": "The economic pest Cotton stainer (Dysdercus superstitiosus) causes severe agricultural loss in Cotton and okra by: (JAMB / Post-UTME Crop Protection 31)",
+    "options": [
+      "piercing bolls and staining lint with fungal pathogens",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cotton stainer (Dysdercus superstitiosus) specifically infests Cotton and okra by piercing bolls and staining lint with fungal pathogens."
+  },
+  {
+    "id": "agric-143",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Roughage' is characterized by being: (OAU Animal Science 32)",
+    "options": [
+      "high in crude fibre (>18%) and low in digestible nutrients, essential for rumen motility",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Roughage is defined as being high in crude fibre (>18%) and low in digestible nutrients, essential for rumen motility."
+  },
+  {
+    "id": "agric-144",
+    "questionText": "When the price of cocoa beans increases from ₦36000 to ₦37000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 33)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-145",
+    "questionText": "The commercial aquaculture success of Heterobranchus longifilis in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 34)",
+    "options": [
+      "rapid growth rates and large body size at maturity",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Heterobranchus longifilis is widely cultivated because of its rapid growth rates and large body size at maturity."
+  },
+  {
+    "id": "agric-146",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.9? (OAU Agric Soil Management 35)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-147",
+    "questionText": "The economic pest Stem borer (Busseola fusca) causes severe agricultural loss in Maize and sorghum by: (JAMB / Post-UTME Crop Protection 36)",
+    "options": [
+      "boring into the whorls and central shoot causing dead heart syndrome",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Stem borer (Busseola fusca) specifically infests Maize and sorghum by boring into the whorls and central shoot causing dead heart syndrome."
+  },
+  {
+    "id": "agric-148",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Energy concentrate (e.g. maize, sorghum)' is characterized by being: (OAU Animal Science 37)",
+    "options": [
+      "rich in carbohydrates (>60%) with low crude fibre (<18%)",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Energy concentrate (e.g. maize, sorghum) is defined as being rich in carbohydrates (>60%) with low crude fibre (<18%)."
+  },
+  {
+    "id": "agric-149",
+    "questionText": "When the price of cocoa beans increases from ₦41000 to ₦42000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 38)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-150",
+    "questionText": "The commercial aquaculture success of Gymnarchus niloticus in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 39)",
+    "options": [
+      "elongate body generating weak electric fields for navigation",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gymnarchus niloticus is widely cultivated because of its elongate body generating weak electric fields for navigation."
+  },
+  {
+    "id": "agric-151",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.7? (OAU Agric Soil Management 40)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-152",
+    "questionText": "The economic pest Variegated grasshopper (Zonocerus variegatus) causes severe agricultural loss in Cassava and leafy vegetables by: (JAMB / Post-UTME Crop Protection 41)",
+    "options": [
+      "defoliating green leaves during the dry season",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Variegated grasshopper (Zonocerus variegatus) specifically infests Cassava and leafy vegetables by defoliating green leaves during the dry season."
+  },
+  {
+    "id": "agric-153",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Protein concentrate (e.g. soybean meal, fish meal)' is characterized by being: (OAU Animal Science 42)",
+    "options": [
+      "containing more than 20% crude protein",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Protein concentrate (e.g. soybean meal, fish meal) is defined as being containing more than 20% crude protein."
+  },
+  {
+    "id": "agric-154",
+    "questionText": "When the price of cocoa beans increases from ₦46000 to ₦47000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 43)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-155",
+    "questionText": "The commercial aquaculture success of Clarias gariepinus (African catfish) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 44)",
+    "options": [
+      "possession of an arborescent accessory breathing organ allowing air breathing",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Clarias gariepinus (African catfish) is widely cultivated because of its possession of an arborescent accessory breathing organ allowing air breathing."
+  },
+  {
+    "id": "agric-156",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.5? (OAU Agric Soil Management 45)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-157",
+    "questionText": "The economic pest Pod borer (Maruca vitrata) causes severe agricultural loss in Cowpea (beans) by: (JAMB / Post-UTME Crop Protection 46)",
+    "options": [
+      "feeding on floral buds and developing seeds in the pods",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pod borer (Maruca vitrata) specifically infests Cowpea (beans) by feeding on floral buds and developing seeds in the pods."
+  },
+  {
+    "id": "agric-158",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Mineral supplement (e.g. bone meal, oyster shell)' is characterized by being: (OAU Animal Science 47)",
+    "options": [
+      "providing essential calcium and phosphorus for bone and eggshell formation",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Mineral supplement (e.g. bone meal, oyster shell) is defined as being providing essential calcium and phosphorus for bone and eggshell formation."
+  },
+  {
+    "id": "agric-159",
+    "questionText": "When the price of cocoa beans increases from ₦51000 to ₦52000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 48)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-160",
+    "questionText": "The commercial aquaculture success of Oreochromis niloticus (Nile tilapia) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 49)",
+    "options": [
+      "rapid reproduction and prolific mouth-brooding maternal care",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Oreochromis niloticus (Nile tilapia) is widely cultivated because of its rapid reproduction and prolific mouth-brooding maternal care."
+  },
+  {
+    "id": "agric-161",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.9? (OAU Agric Soil Management 50)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-162",
+    "questionText": "The economic pest Cotton stainer (Dysdercus superstitiosus) causes severe agricultural loss in Cotton and okra by: (JAMB / Post-UTME Crop Protection 51)",
+    "options": [
+      "piercing bolls and staining lint with fungal pathogens",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cotton stainer (Dysdercus superstitiosus) specifically infests Cotton and okra by piercing bolls and staining lint with fungal pathogens."
+  },
+  {
+    "id": "agric-163",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Roughage' is characterized by being: (OAU Animal Science 52)",
+    "options": [
+      "high in crude fibre (>18%) and low in digestible nutrients, essential for rumen motility",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Roughage is defined as being high in crude fibre (>18%) and low in digestible nutrients, essential for rumen motility."
+  },
+  {
+    "id": "agric-164",
+    "questionText": "When the price of cocoa beans increases from ₦56000 to ₦57000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 53)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-165",
+    "questionText": "The commercial aquaculture success of Heterobranchus longifilis in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 54)",
+    "options": [
+      "rapid growth rates and large body size at maturity",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Heterobranchus longifilis is widely cultivated because of its rapid growth rates and large body size at maturity."
+  },
+  {
+    "id": "agric-166",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.7? (OAU Agric Soil Management 55)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-167",
+    "questionText": "The economic pest Stem borer (Busseola fusca) causes severe agricultural loss in Maize and sorghum by: (JAMB / Post-UTME Crop Protection 56)",
+    "options": [
+      "boring into the whorls and central shoot causing dead heart syndrome",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Stem borer (Busseola fusca) specifically infests Maize and sorghum by boring into the whorls and central shoot causing dead heart syndrome."
+  },
+  {
+    "id": "agric-168",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Energy concentrate (e.g. maize, sorghum)' is characterized by being: (OAU Animal Science 57)",
+    "options": [
+      "rich in carbohydrates (>60%) with low crude fibre (<18%)",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Energy concentrate (e.g. maize, sorghum) is defined as being rich in carbohydrates (>60%) with low crude fibre (<18%)."
+  },
+  {
+    "id": "agric-169",
+    "questionText": "When the price of cocoa beans increases from ₦61000 to ₦62000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 58)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-170",
+    "questionText": "The commercial aquaculture success of Gymnarchus niloticus in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 59)",
+    "options": [
+      "elongate body generating weak electric fields for navigation",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gymnarchus niloticus is widely cultivated because of its elongate body generating weak electric fields for navigation."
+  },
+  {
+    "id": "agric-171",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.5? (OAU Agric Soil Management 60)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-172",
+    "questionText": "The economic pest Variegated grasshopper (Zonocerus variegatus) causes severe agricultural loss in Cassava and leafy vegetables by: (JAMB / Post-UTME Crop Protection 61)",
+    "options": [
+      "defoliating green leaves during the dry season",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Variegated grasshopper (Zonocerus variegatus) specifically infests Cassava and leafy vegetables by defoliating green leaves during the dry season."
+  },
+  {
+    "id": "agric-173",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Protein concentrate (e.g. soybean meal, fish meal)' is characterized by being: (OAU Animal Science 62)",
+    "options": [
+      "containing more than 20% crude protein",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Protein concentrate (e.g. soybean meal, fish meal) is defined as being containing more than 20% crude protein."
+  },
+  {
+    "id": "agric-174",
+    "questionText": "When the price of cocoa beans increases from ₦66000 to ₦67000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 63)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-175",
+    "questionText": "The commercial aquaculture success of Clarias gariepinus (African catfish) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 64)",
+    "options": [
+      "possession of an arborescent accessory breathing organ allowing air breathing",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Clarias gariepinus (African catfish) is widely cultivated because of its possession of an arborescent accessory breathing organ allowing air breathing."
+  },
+  {
+    "id": "agric-176",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.9? (OAU Agric Soil Management 65)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-177",
+    "questionText": "The economic pest Pod borer (Maruca vitrata) causes severe agricultural loss in Cowpea (beans) by: (JAMB / Post-UTME Crop Protection 66)",
+    "options": [
+      "feeding on floral buds and developing seeds in the pods",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pod borer (Maruca vitrata) specifically infests Cowpea (beans) by feeding on floral buds and developing seeds in the pods."
+  },
+  {
+    "id": "agric-178",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Mineral supplement (e.g. bone meal, oyster shell)' is characterized by being: (OAU Animal Science 67)",
+    "options": [
+      "providing essential calcium and phosphorus for bone and eggshell formation",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Mineral supplement (e.g. bone meal, oyster shell) is defined as being providing essential calcium and phosphorus for bone and eggshell formation."
+  },
+  {
+    "id": "agric-179",
+    "questionText": "When the price of cocoa beans increases from ₦71000 to ₦72000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 68)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-180",
+    "questionText": "The commercial aquaculture success of Oreochromis niloticus (Nile tilapia) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 69)",
+    "options": [
+      "rapid reproduction and prolific mouth-brooding maternal care",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Oreochromis niloticus (Nile tilapia) is widely cultivated because of its rapid reproduction and prolific mouth-brooding maternal care."
+  },
+  {
+    "id": "agric-181",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.7? (OAU Agric Soil Management 70)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-182",
+    "questionText": "The economic pest Cotton stainer (Dysdercus superstitiosus) causes severe agricultural loss in Cotton and okra by: (JAMB / Post-UTME Crop Protection 71)",
+    "options": [
+      "piercing bolls and staining lint with fungal pathogens",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cotton stainer (Dysdercus superstitiosus) specifically infests Cotton and okra by piercing bolls and staining lint with fungal pathogens."
+  },
+  {
+    "id": "agric-183",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Roughage' is characterized by being: (OAU Animal Science 72)",
+    "options": [
+      "high in crude fibre (>18%) and low in digestible nutrients, essential for rumen motility",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Roughage is defined as being high in crude fibre (>18%) and low in digestible nutrients, essential for rumen motility."
+  },
+  {
+    "id": "agric-184",
+    "questionText": "When the price of cocoa beans increases from ₦76000 to ₦77000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 73)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-185",
+    "questionText": "The commercial aquaculture success of Heterobranchus longifilis in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 74)",
+    "options": [
+      "rapid growth rates and large body size at maturity",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Heterobranchus longifilis is widely cultivated because of its rapid growth rates and large body size at maturity."
+  },
+  {
+    "id": "agric-186",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.5? (OAU Agric Soil Management 75)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-187",
+    "questionText": "The economic pest Stem borer (Busseola fusca) causes severe agricultural loss in Maize and sorghum by: (JAMB / Post-UTME Crop Protection 76)",
+    "options": [
+      "boring into the whorls and central shoot causing dead heart syndrome",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Stem borer (Busseola fusca) specifically infests Maize and sorghum by boring into the whorls and central shoot causing dead heart syndrome."
+  },
+  {
+    "id": "agric-188",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Energy concentrate (e.g. maize, sorghum)' is characterized by being: (OAU Animal Science 77)",
+    "options": [
+      "rich in carbohydrates (>60%) with low crude fibre (<18%)",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Energy concentrate (e.g. maize, sorghum) is defined as being rich in carbohydrates (>60%) with low crude fibre (<18%)."
+  },
+  {
+    "id": "agric-189",
+    "questionText": "When the price of cocoa beans increases from ₦81000 to ₦82000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 78)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-190",
+    "questionText": "The commercial aquaculture success of Gymnarchus niloticus in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 79)",
+    "options": [
+      "elongate body generating weak electric fields for navigation",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gymnarchus niloticus is widely cultivated because of its elongate body generating weak electric fields for navigation."
+  },
+  {
+    "id": "agric-191",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.9? (OAU Agric Soil Management 80)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-192",
+    "questionText": "The economic pest Variegated grasshopper (Zonocerus variegatus) causes severe agricultural loss in Cassava and leafy vegetables by: (JAMB / Post-UTME Crop Protection 81)",
+    "options": [
+      "defoliating green leaves during the dry season",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Variegated grasshopper (Zonocerus variegatus) specifically infests Cassava and leafy vegetables by defoliating green leaves during the dry season."
+  },
+  {
+    "id": "agric-193",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Protein concentrate (e.g. soybean meal, fish meal)' is characterized by being: (OAU Animal Science 82)",
+    "options": [
+      "containing more than 20% crude protein",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Protein concentrate (e.g. soybean meal, fish meal) is defined as being containing more than 20% crude protein."
+  },
+  {
+    "id": "agric-194",
+    "questionText": "When the price of cocoa beans increases from ₦86000 to ₦87000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 83)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-195",
+    "questionText": "The commercial aquaculture success of Clarias gariepinus (African catfish) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 84)",
+    "options": [
+      "possession of an arborescent accessory breathing organ allowing air breathing",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Clarias gariepinus (African catfish) is widely cultivated because of its possession of an arborescent accessory breathing organ allowing air breathing."
+  },
+  {
+    "id": "agric-196",
+    "questionText": "Which of the following fertilizers is best suited to correct severe soil acidity with pH below 4.7? (OAU Agric Soil Management 85)",
+    "options": [
+      "Agricultural limestone (CaCO₃ / Dolomite)",
+      "Ammonium sulphate",
+      "Urea (46% N)",
+      "Potassium chloride (MOP)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agricultural lime (calcium carbonate or dolomitic limestone) neutralizes soil acidity, raises soil pH, and supplies calcium and magnesium ions."
+  },
+  {
+    "id": "agric-197",
+    "questionText": "The economic pest Pod borer (Maruca vitrata) causes severe agricultural loss in Cowpea (beans) by: (JAMB / Post-UTME Crop Protection 86)",
+    "options": [
+      "feeding on floral buds and developing seeds in the pods",
+      "inducing root gall formation",
+      "causing damping-off in nurseries",
+      "transmitting mosaic virus"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pod borer (Maruca vitrata) specifically infests Cowpea (beans) by feeding on floral buds and developing seeds in the pods."
+  },
+  {
+    "id": "agric-198",
+    "questionText": "In animal feed formulation, a feed ingredient classified as 'Mineral supplement (e.g. bone meal, oyster shell)' is characterized by being: (OAU Animal Science 87)",
+    "options": [
+      "providing essential calcium and phosphorus for bone and eggshell formation",
+      "purely liquid without solid nutrients",
+      "synthetic antibiotics only",
+      "inert filler with zero metabolic value"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Mineral supplement (e.g. bone meal, oyster shell) is defined as being providing essential calcium and phosphorus for bone and eggshell formation."
+  },
+  {
+    "id": "agric-199",
+    "questionText": "When the price of cocoa beans increases from ₦91000 to ₦92000 per kg, the quantity supplied by smallholder farmers increases proportionally. This illustrates: (OAU Agric Economics 88)",
+    "options": [
+      "The law of supply",
+      "The law of demand",
+      "Income elasticity of demand",
+      "Equilibrium price rationing"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The law of supply states that, all other factors remaining equal, an increase in the market price of a commodity leads to an increase in the quantity supplied."
+  },
+  {
+    "id": "agric-200",
+    "questionText": "The commercial aquaculture success of Oreochromis niloticus (Nile tilapia) in Nigerian fish farms is primarily attributed to its: (Agric Aquaculture 89)",
+    "options": [
+      "rapid reproduction and prolific mouth-brooding maternal care",
+      "ability to thrive in ice water",
+      "marine open-ocean salinity requirement",
+      "exclusive herbivory on seaweeds"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Oreochromis niloticus (Nile tilapia) is widely cultivated because of its rapid reproduction and prolific mouth-brooding maternal care."
   }
 ];

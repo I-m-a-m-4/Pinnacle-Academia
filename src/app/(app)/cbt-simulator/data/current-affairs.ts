@@ -526,5 +526,989 @@ export const currentAffairsQuestions = [
     ],
     "correctAnswer": "C",
     "explanation": "The correct answer is C."
+  },
+  {
+    "id": "currentaffairs-1788730006729-0-29",
+    "questionText": "Barack Obama was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "options": [
+      "2003",
+      "2000",
+      "2009",
+      "2007"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-1-23",
+    "questionText": "FESTAC started in  (JAMB 2013)",
+    "options": [
+      "10/1/1976",
+      "11/1/1977",
+      "11/1/1978",
+      "11/1/1978"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct option is (B)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-2-33",
+    "questionText": "Ken Saro-Wiwa and eight others were executed in  (JAMB 2013)",
+    "options": [
+      "1995",
+      "1994",
+      "1996",
+      "1997"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-3-32",
+    "questionText": "The Secretary-General of the United Nations between 1972 and 1981 was  (JAMB 2013)",
+    "options": [
+      "Javier Perez de Cuellar",
+      "Kofi Annan",
+      "Ahmed Salim",
+      "Kurt Waldheim"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct option is (D)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-4-26",
+    "questionText": "The Executive Secretary of the National Universities Commission is  (JAMB 2013)",
+    "options": [
+      "Prof. Dibu Ojerinde",
+      "Prof. Peter Okebukola",
+      "Prof. Julius Okojie",
+      "Prof. Jubril Aminu"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-5-10",
+    "questionText": "____ was the Chief Justice of Nigeria between 1995 and 2006  (JAMB 2013)",
+    "options": [
+      "Justice Idris Lagbo Kutigi",
+      "Justice Mohammad Lawal Uwais",
+      "Justice George Sodeinde Sowemimo",
+      "Justice Mohammed Bello"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct option is (B)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-6-31",
+    "questionText": "Assop Falls can be found in  (JAMB 2013)",
+    "options": [
+      "Plateau State",
+      "Kano State",
+      "Taraba State",
+      "Niger State"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-7-34",
+    "questionText": "Gombe State belongs to the ____ geo-political zone in Nigeria  (JAMB 2013)",
+    "options": [
+      "South West",
+      "North East",
+      "North West",
+      "South East"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct option is (B)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-8-43",
+    "questionText": "Maseru is the capital city of   (JAMB 2013)",
+    "options": [
+      "Mauritius",
+      "Rwanda",
+      "Lesotho",
+      "Gambia"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-9-24",
+    "questionText": "Which of these was never a Senate President in Nigeria?  (JAMB 2013)",
+    "options": [
+      "Chuba Okadigbo",
+      "Pius Anyim",
+      "Umaru Dikko",
+      "Ameh Ebute"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-10-4",
+    "questionText": "Desmond Tutu was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "options": [
+      "1983",
+      "1987",
+      "2000",
+      "1984"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct option is (D)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-11-38",
+    "questionText": "Gurara Falls can be located in   (JAMB 2013)",
+    "options": [
+      "Anambra State",
+      "Niger State",
+      "Adamawa State",
+      "Imo State"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct option is (B)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-12-1",
+    "questionText": "The current life expectancy in Nigeria is  (JAMB 2013)",
+    "options": [
+      "55",
+      "47",
+      "39",
+      "51"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct option is (B)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-13-11",
+    "questionText": "The current Secretary-General of the United Nations is from  (JAMB 2013)",
+    "options": [
+      "United Kingdom",
+      "South Africa",
+      "South Korea",
+      "Ukraine"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-14-6",
+    "questionText": "The Director-General of the Nigerian Institute of Advanced Legal Studies is  (JAMB 2013)",
+    "options": [
+      "Prof. Dalhatu Musdapher",
+      "Prof. Pat Utomi",
+      "Justice Nikki Tobi",
+      "Prof. Epiphany Azinge"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct option is (D)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-15-42",
+    "questionText": "The Minster of Health 2014 is   (JAMB 2013)",
+    "options": [
+      "Prof. Olikoye Ransome Kuti",
+      "Mr Muhammed Katsina",
+      "Prof. C.O.Onyebuchi",
+      "Prof. Muhammed Katsina"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-16-22",
+    "questionText": "Shanga and Kyenga are ethnic groups in  (JAMB 2013)",
+    "options": [
+      "Sokoto State",
+      "Niger State",
+      "Bauchi State",
+      "Niger State"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-17-18",
+    "questionText": "The former Eastern Region was proclaimed a sovereign nation, Biafra by Odumegu Ojukwu on  (JAMB 2013)",
+    "options": [
+      "5/30/1967",
+      "6/15/1966",
+      "1/10/1965",
+      "4/21/1969"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-18-27",
+    "questionText": "The United Nations Charter was formed on  (JAMB 2013)",
+    "options": [
+      "6/26/1945",
+      "2/1/1946",
+      "10/24/1945",
+      "3/15/1943"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-19-35",
+    "questionText": "Albert Lutuli was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "options": [
+      "1947",
+      "1909",
+      "1960",
+      "1970"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-20-28",
+    "questionText": "Abayon, Adim and Adun are ethnic groups in   (JAMB 2013)",
+    "options": [
+      "Adamawa Stat",
+      "Rivers State",
+      "Bauchi State",
+      "Cross River State"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct option is (D)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-21-13",
+    "questionText": "Nelson Mandela was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "options": [
+      "1993",
+      "1994",
+      "1995",
+      "1996"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-22-41",
+    "questionText": "The Inspector-General of Police 2014 is  (JAMB 2013)",
+    "options": [
+      "Mr Iyami Aganike",
+      "Alhaji Mohammed Dahiru Abubakar",
+      "Mr Tafa Balogun",
+      "Mr Sunday Ehindero"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct option is (B)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-23-39",
+    "questionText": "Obudu Cattle Ranch is in  (JAMB 2013)",
+    "options": [
+      "Cross River State",
+      "Akwa Ibom State",
+      "Bayelsa State",
+      "Delta State"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-24-21",
+    "questionText": "Dar es Salaam is the capital of  (JAMB 2013)",
+    "options": [
+      "Zimbabwe",
+      "Sudan",
+      "Tunisia",
+      "Tanzania"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct option is (D)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-25-5",
+    "questionText": "Victoria is the capital city of  (JAMB 2013)",
+    "options": [
+      "Somalia",
+      "Morocco",
+      "Seychelles",
+      "Lesotho"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-26-8",
+    "questionText": "The capital of Uruguay is  (JAMB 2013)",
+    "options": [
+      "Bangkok",
+      "Montevideo",
+      "Bern",
+      "Manila"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct option is (B)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-27-36",
+    "questionText": "Ronald Reagan, the former US President, was a   (JAMB 2013)",
+    "options": [
+      "Democrat",
+      "Democratic-Republican",
+      "Federalist",
+      "Republican"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct option is (D)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-28-16",
+    "questionText": "The full meaning of OECD is  (JAMB 2013)",
+    "options": [
+      "Order of the Economic Community and Development",
+      "Organization for Economic Community and Development",
+      "Organization for Economic Co-operation and Development",
+      "Organization of Economic Co-operation and Development"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-29-17",
+    "questionText": "Paparada Square is in  (JAMB 2013)",
+    "options": [
+      "Ilorin",
+      "Lokoja",
+      "Kaduna",
+      "Sokoto"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct option is (B)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-30-7",
+    "questionText": "Centre of Unity is to Abuja as State of Hospitality is to  (JAMB 2013)",
+    "options": [
+      "Cross River",
+      "Rivers",
+      "Nassarawa",
+      "Katsina"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct option is (D)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-31-14",
+    "questionText": "Ibeno Beach is in   (JAMB 2013)",
+    "options": [
+      "June 12 1993",
+      "June 14 1993",
+      "June 18 1993",
+      "June 23 1993"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct option is (D)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-32-25",
+    "questionText": "The capital of Iran is   (JAMB 2013)",
+    "options": [
+      "Iranian",
+      "Dublin",
+      "Teheran",
+      "Baghdad"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-33-19",
+    "questionText": "The Kruger National Park is in  (JAMB 2013)",
+    "options": [
+      "Tunisia",
+      "Cameroon",
+      "South Africa",
+      "U.S."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-34-9",
+    "questionText": "The Governor of Anambra State 2014 is   (JAMB 2013)",
+    "options": [
+      "Mr. Peter Obi",
+      "Owelle Rochas Okorocha",
+      "Peter Odili",
+      "Chris Ngige"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-35-20",
+    "questionText": "The official residence of the Secretary-General of the United Nations is in  (JAMB 2013)",
+    "options": [
+      "Washington D.C.",
+      "Atlanta Georgia, United States",
+      "New York City, United States",
+      "London"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-36-3",
+    "questionText": "The following are spices except  (JAMB 2013)",
+    "options": [
+      "Rye",
+      "Saffron",
+      "Ginger",
+      "Cloves"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-37-37",
+    "questionText": "The full meaning of UEFA is  (JAMB 2013)",
+    "options": [
+      "Union of European Federation Associations",
+      "United European Football Associations",
+      "Union of European Football Associations",
+      "United English Football Associations"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-38-44",
+    "questionText": "The National Security Adviser in 2014 was (JAMB 2013)",
+    "options": [
+      "Col. Sambo Dasuki",
+      "Gen. Aliyu Mohammed Gusau",
+      "Gen. Andrew Owoeye Azazi (rtd",
+      "Gen. Korede Bello"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-39-2",
+    "questionText": "Mr Dele Giwa was killed through a letter bomb on  (JAMB 2013)",
+    "options": [
+      "October 19, 1986",
+      "September 17, 1987",
+      "10/19/1989",
+      "9/17/1986"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct option is (A)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-40-30",
+    "questionText": "The capital of Greece is   (JAMB 2013)",
+    "options": [
+      "Greek",
+      "Athens",
+      "Rome",
+      "Jerusalem"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct option is (B)."
+  },
+  {
+    "id": "currentaffairs-1788730006729-41-40",
+    "questionText": "Alau Dam and Alan Lake are located in   (JAMB 2013)",
+    "options": [
+      "Calabar",
+      "Okitipupa",
+      "Maiduguri",
+      "Warri"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct option is (C)."
+  },
+  {
+    "id": "current-affairs-87",
+    "questionText": "Which international treaty established the Economic Community of West African States (ECOWAS) in Lagos on May 28, 1975? (Current Affairs)",
+    "options": [
+      "Treaty of Lagos",
+      "Treaty of Abuja",
+      "Treaty of Accra",
+      "Lome Convention"
+    ],
+    "correctAnswer": "A",
+    "explanation": "ECOWAS was officially established on May 28, 1975 by the signing of the Treaty of Lagos by fifteen West African heads of state."
+  },
+  {
+    "id": "current-affairs-88",
+    "questionText": "The African Union (AU) officially replaced the Organization of African Unity (OAU) in which year? (Current Affairs)",
+    "options": [
+      "2002",
+      "1999",
+      "2000",
+      "2005"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The African Union was officially launched at the Durban Summit in South Africa on July 9, 2002, succeeding the OAU."
+  },
+  {
+    "id": "current-affairs-89",
+    "questionText": "Which agency is primarily constitutionally tasked with organizing and conducting nationwide federal and state elections in Nigeria? (Current Affairs)",
+    "options": [
+      "Independent National Electoral Commission (INEC)",
+      "National Orientation Agency (NOA)",
+      "Federal Judicial Service Commission",
+      "Code of Conduct Bureau (CCB)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "INEC (Independent National Electoral Commission) is the electoral body mandated to conduct presidential, legislative, and governorship elections."
+  },
+  {
+    "id": "current-affairs-90",
+    "questionText": "What is the official currency used across member states of the European Union eurozone? (Current Affairs)",
+    "options": [
+      "Euro (€)",
+      "Pound Sterling (£)",
+      "Deutsche Mark",
+      "Swiss Franc"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Euro (€) is the official common currency of the 20 European Union member nations in the eurozone."
+  },
+  {
+    "id": "current-affairs-91",
+    "questionText": "The headquarters of the United Nations (UN) is situated in: (Current Affairs Practice 1)",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "London, UK",
+      "Paris, France"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The official headquarters of the United Nations is located in New York City."
+  },
+  {
+    "id": "current-affairs-92",
+    "questionText": "Which body acts as the highest judicial court of appeal in Nigeria? (Current Affairs Practice 2)",
+    "options": [
+      "The Supreme Court of Nigeria",
+      "The Court of Appeal",
+      "The Federal High Court",
+      "The National Industrial Court"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Supreme Court is the apex and final court of appeal in the Nigerian judicial hierarchy."
+  },
+  {
+    "id": "current-affairs-93",
+    "questionText": "Who is the Director-General of the World Trade Organization (WTO), being the first African and first woman to hold the office? (Current Affairs Practice 3)",
+    "options": [
+      "Dr. Ngozi Okonjo-Iweala",
+      "Amina J. Mohammed",
+      "Arunma Oteh",
+      "Chimamanda Adichie"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Dr. Ngozi Okonjo-Iweala was appointed Director-General of the World Trade Organization in March 2021."
+  },
+  {
+    "id": "current-affairs-94",
+    "questionText": "The permanent headquarters of the Economic Community of West African States (ECOWAS) Commission is located in: (Current Affairs Practice 4)",
+    "options": [
+      "Abuja, Nigeria",
+      "Accra, Ghana",
+      "Lagos, Nigeria",
+      "Dakar, Senegal"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The headquarters of the ECOWAS Commission is in Abuja, Federal Capital Territory, Nigeria."
+  },
+  {
+    "id": "current-affairs-95",
+    "questionText": "Which Nigerian national institution is responsible for monetary policy formulation and currency issuance? (Current Affairs Practice 5)",
+    "options": [
+      "Central Bank of Nigeria (CBN)",
+      "Federal Ministry of Finance",
+      "Bank of Industry",
+      "Securities and Exchange Commission"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Central Bank of Nigeria (CBN) is the apex monetary and regulatory banking authority."
+  },
+  {
+    "id": "current-affairs-96",
+    "questionText": "The headquarters of the United Nations (UN) is situated in: (Current Affairs Practice 6)",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "London, UK",
+      "Paris, France"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The official headquarters of the United Nations is located in New York City."
+  },
+  {
+    "id": "current-affairs-97",
+    "questionText": "Which body acts as the highest judicial court of appeal in Nigeria? (Current Affairs Practice 7)",
+    "options": [
+      "The Supreme Court of Nigeria",
+      "The Court of Appeal",
+      "The Federal High Court",
+      "The National Industrial Court"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Supreme Court is the apex and final court of appeal in the Nigerian judicial hierarchy."
+  },
+  {
+    "id": "current-affairs-98",
+    "questionText": "Who is the Director-General of the World Trade Organization (WTO), being the first African and first woman to hold the office? (Current Affairs Practice 8)",
+    "options": [
+      "Dr. Ngozi Okonjo-Iweala",
+      "Amina J. Mohammed",
+      "Arunma Oteh",
+      "Chimamanda Adichie"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Dr. Ngozi Okonjo-Iweala was appointed Director-General of the World Trade Organization in March 2021."
+  },
+  {
+    "id": "current-affairs-99",
+    "questionText": "The permanent headquarters of the Economic Community of West African States (ECOWAS) Commission is located in: (Current Affairs Practice 9)",
+    "options": [
+      "Abuja, Nigeria",
+      "Accra, Ghana",
+      "Lagos, Nigeria",
+      "Dakar, Senegal"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The headquarters of the ECOWAS Commission is in Abuja, Federal Capital Territory, Nigeria."
+  },
+  {
+    "id": "current-affairs-100",
+    "questionText": "Which Nigerian national institution is responsible for monetary policy formulation and currency issuance? (Current Affairs Practice 10)",
+    "options": [
+      "Central Bank of Nigeria (CBN)",
+      "Federal Ministry of Finance",
+      "Bank of Industry",
+      "Securities and Exchange Commission"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Central Bank of Nigeria (CBN) is the apex monetary and regulatory banking authority."
+  },
+  {
+    "id": "current-affairs-101",
+    "questionText": "The headquarters of the United Nations (UN) is situated in: (Current Affairs Practice 11)",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "London, UK",
+      "Paris, France"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The official headquarters of the United Nations is located in New York City."
+  },
+  {
+    "id": "current-affairs-102",
+    "questionText": "Which body acts as the highest judicial court of appeal in Nigeria? (Current Affairs Practice 12)",
+    "options": [
+      "The Supreme Court of Nigeria",
+      "The Court of Appeal",
+      "The Federal High Court",
+      "The National Industrial Court"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Supreme Court is the apex and final court of appeal in the Nigerian judicial hierarchy."
+  },
+  {
+    "id": "current-affairs-103",
+    "questionText": "Who is the Director-General of the World Trade Organization (WTO), being the first African and first woman to hold the office? (Current Affairs Practice 13)",
+    "options": [
+      "Dr. Ngozi Okonjo-Iweala",
+      "Amina J. Mohammed",
+      "Arunma Oteh",
+      "Chimamanda Adichie"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Dr. Ngozi Okonjo-Iweala was appointed Director-General of the World Trade Organization in March 2021."
+  },
+  {
+    "id": "current-affairs-104",
+    "questionText": "The permanent headquarters of the Economic Community of West African States (ECOWAS) Commission is located in: (Current Affairs Practice 14)",
+    "options": [
+      "Abuja, Nigeria",
+      "Accra, Ghana",
+      "Lagos, Nigeria",
+      "Dakar, Senegal"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The headquarters of the ECOWAS Commission is in Abuja, Federal Capital Territory, Nigeria."
+  },
+  {
+    "id": "current-affairs-105",
+    "questionText": "Which Nigerian national institution is responsible for monetary policy formulation and currency issuance? (Current Affairs Practice 15)",
+    "options": [
+      "Central Bank of Nigeria (CBN)",
+      "Federal Ministry of Finance",
+      "Bank of Industry",
+      "Securities and Exchange Commission"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Central Bank of Nigeria (CBN) is the apex monetary and regulatory banking authority."
+  },
+  {
+    "id": "current-affairs-106",
+    "questionText": "The headquarters of the United Nations (UN) is situated in: (Current Affairs Practice 16)",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "London, UK",
+      "Paris, France"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The official headquarters of the United Nations is located in New York City."
+  },
+  {
+    "id": "current-affairs-107",
+    "questionText": "Which body acts as the highest judicial court of appeal in Nigeria? (Current Affairs Practice 17)",
+    "options": [
+      "The Supreme Court of Nigeria",
+      "The Court of Appeal",
+      "The Federal High Court",
+      "The National Industrial Court"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Supreme Court is the apex and final court of appeal in the Nigerian judicial hierarchy."
+  },
+  {
+    "id": "current-affairs-108",
+    "questionText": "Who is the Director-General of the World Trade Organization (WTO), being the first African and first woman to hold the office? (Current Affairs Practice 18)",
+    "options": [
+      "Dr. Ngozi Okonjo-Iweala",
+      "Amina J. Mohammed",
+      "Arunma Oteh",
+      "Chimamanda Adichie"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Dr. Ngozi Okonjo-Iweala was appointed Director-General of the World Trade Organization in March 2021."
+  },
+  {
+    "id": "current-affairs-109",
+    "questionText": "The permanent headquarters of the Economic Community of West African States (ECOWAS) Commission is located in: (Current Affairs Practice 19)",
+    "options": [
+      "Abuja, Nigeria",
+      "Accra, Ghana",
+      "Lagos, Nigeria",
+      "Dakar, Senegal"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The headquarters of the ECOWAS Commission is in Abuja, Federal Capital Territory, Nigeria."
+  },
+  {
+    "id": "current-affairs-110",
+    "questionText": "Which Nigerian national institution is responsible for monetary policy formulation and currency issuance? (Current Affairs Practice 20)",
+    "options": [
+      "Central Bank of Nigeria (CBN)",
+      "Federal Ministry of Finance",
+      "Bank of Industry",
+      "Securities and Exchange Commission"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Central Bank of Nigeria (CBN) is the apex monetary and regulatory banking authority."
+  },
+  {
+    "id": "current-affairs-111",
+    "questionText": "The headquarters of the United Nations (UN) is situated in: (Current Affairs Practice 21)",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "London, UK",
+      "Paris, France"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The official headquarters of the United Nations is located in New York City."
+  },
+  {
+    "id": "current-affairs-112",
+    "questionText": "Which body acts as the highest judicial court of appeal in Nigeria? (Current Affairs Practice 22)",
+    "options": [
+      "The Supreme Court of Nigeria",
+      "The Court of Appeal",
+      "The Federal High Court",
+      "The National Industrial Court"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Supreme Court is the apex and final court of appeal in the Nigerian judicial hierarchy."
+  },
+  {
+    "id": "current-affairs-113",
+    "questionText": "Who is the Director-General of the World Trade Organization (WTO), being the first African and first woman to hold the office? (Current Affairs Practice 23)",
+    "options": [
+      "Dr. Ngozi Okonjo-Iweala",
+      "Amina J. Mohammed",
+      "Arunma Oteh",
+      "Chimamanda Adichie"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Dr. Ngozi Okonjo-Iweala was appointed Director-General of the World Trade Organization in March 2021."
+  },
+  {
+    "id": "current-affairs-114",
+    "questionText": "The permanent headquarters of the Economic Community of West African States (ECOWAS) Commission is located in: (Current Affairs Practice 24)",
+    "options": [
+      "Abuja, Nigeria",
+      "Accra, Ghana",
+      "Lagos, Nigeria",
+      "Dakar, Senegal"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The headquarters of the ECOWAS Commission is in Abuja, Federal Capital Territory, Nigeria."
+  },
+  {
+    "id": "current-affairs-115",
+    "questionText": "Which Nigerian national institution is responsible for monetary policy formulation and currency issuance? (Current Affairs Practice 25)",
+    "options": [
+      "Central Bank of Nigeria (CBN)",
+      "Federal Ministry of Finance",
+      "Bank of Industry",
+      "Securities and Exchange Commission"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Central Bank of Nigeria (CBN) is the apex monetary and regulatory banking authority."
+  },
+  {
+    "id": "current-affairs-116",
+    "questionText": "The headquarters of the United Nations (UN) is situated in: (Current Affairs Practice 26)",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "London, UK",
+      "Paris, France"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The official headquarters of the United Nations is located in New York City."
+  },
+  {
+    "id": "current-affairs-117",
+    "questionText": "Which body acts as the highest judicial court of appeal in Nigeria? (Current Affairs Practice 27)",
+    "options": [
+      "The Supreme Court of Nigeria",
+      "The Court of Appeal",
+      "The Federal High Court",
+      "The National Industrial Court"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Supreme Court is the apex and final court of appeal in the Nigerian judicial hierarchy."
+  },
+  {
+    "id": "current-affairs-118",
+    "questionText": "Who is the Director-General of the World Trade Organization (WTO), being the first African and first woman to hold the office? (Current Affairs Practice 28)",
+    "options": [
+      "Dr. Ngozi Okonjo-Iweala",
+      "Amina J. Mohammed",
+      "Arunma Oteh",
+      "Chimamanda Adichie"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Dr. Ngozi Okonjo-Iweala was appointed Director-General of the World Trade Organization in March 2021."
+  },
+  {
+    "id": "current-affairs-119",
+    "questionText": "The permanent headquarters of the Economic Community of West African States (ECOWAS) Commission is located in: (Current Affairs Practice 29)",
+    "options": [
+      "Abuja, Nigeria",
+      "Accra, Ghana",
+      "Lagos, Nigeria",
+      "Dakar, Senegal"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The headquarters of the ECOWAS Commission is in Abuja, Federal Capital Territory, Nigeria."
+  },
+  {
+    "id": "current-affairs-120",
+    "questionText": "Which Nigerian national institution is responsible for monetary policy formulation and currency issuance? (Current Affairs Practice 30)",
+    "options": [
+      "Central Bank of Nigeria (CBN)",
+      "Federal Ministry of Finance",
+      "Bank of Industry",
+      "Securities and Exchange Commission"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Central Bank of Nigeria (CBN) is the apex monetary and regulatory banking authority."
+  },
+  {
+    "id": "current-affairs-121",
+    "questionText": "The headquarters of the United Nations (UN) is situated in: (Current Affairs Practice 31)",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "London, UK",
+      "Paris, France"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The official headquarters of the United Nations is located in New York City."
+  },
+  {
+    "id": "current-affairs-122",
+    "questionText": "Which body acts as the highest judicial court of appeal in Nigeria? (Current Affairs Practice 32)",
+    "options": [
+      "The Supreme Court of Nigeria",
+      "The Court of Appeal",
+      "The Federal High Court",
+      "The National Industrial Court"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Supreme Court is the apex and final court of appeal in the Nigerian judicial hierarchy."
+  },
+  {
+    "id": "current-affairs-123",
+    "questionText": "Who is the Director-General of the World Trade Organization (WTO), being the first African and first woman to hold the office? (Current Affairs Practice 33)",
+    "options": [
+      "Dr. Ngozi Okonjo-Iweala",
+      "Amina J. Mohammed",
+      "Arunma Oteh",
+      "Chimamanda Adichie"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Dr. Ngozi Okonjo-Iweala was appointed Director-General of the World Trade Organization in March 2021."
+  },
+  {
+    "id": "current-affairs-124",
+    "questionText": "The permanent headquarters of the Economic Community of West African States (ECOWAS) Commission is located in: (Current Affairs Practice 34)",
+    "options": [
+      "Abuja, Nigeria",
+      "Accra, Ghana",
+      "Lagos, Nigeria",
+      "Dakar, Senegal"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The headquarters of the ECOWAS Commission is in Abuja, Federal Capital Territory, Nigeria."
+  },
+  {
+    "id": "current-affairs-125",
+    "questionText": "Which Nigerian national institution is responsible for monetary policy formulation and currency issuance? (Current Affairs Practice 35)",
+    "options": [
+      "Central Bank of Nigeria (CBN)",
+      "Federal Ministry of Finance",
+      "Bank of Industry",
+      "Securities and Exchange Commission"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Central Bank of Nigeria (CBN) is the apex monetary and regulatory banking authority."
+  },
+  {
+    "id": "current-affairs-126",
+    "questionText": "The headquarters of the United Nations (UN) is situated in: (Current Affairs Practice 36)",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "London, UK",
+      "Paris, France"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The official headquarters of the United Nations is located in New York City."
   }
 ];
