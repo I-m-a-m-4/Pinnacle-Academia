@@ -8,7 +8,7 @@ import { useAcademy } from "@/context/academy-context";
 import { useToast } from "@/hooks/use-toast";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Badge } from "@/components/ui/badge";
-import { BookOpen, GraduationCap, Play, Settings, RefreshCw, Layers } from "lucide-react";
+import { BookOpen, GraduationCap, Play, Settings, RefreshCw, Layers, Trophy } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 // Import core subject questions
@@ -25,47 +25,53 @@ import { crsQuestions } from '../data/crs';
 import { aptitudeQuestions } from '../data/aptitude';
 import { geographyQuestions } from '../data/geography';
 import { agricScienceQuestions } from '../data/agric-science';
+import { commerceQuestions } from '../data/commerce';
+import { irkQuestions } from '../data/irk';
+import { civicEducationQuestions } from '../data/civic-education';
+import { insuranceQuestions } from '../data/insurance';
+import { currentAffairsQuestions } from '../data/current-affairs';
+import { historyQuestions } from '../data/history';
 
 const DEFAULT_MAPPINGS = [
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Medicine and Surgery',
-        subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
+        subjects: ['Aptitude Test', 'Biology', 'Chemistry', 'Physics']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Engineering Courses',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
+        subjects: ['Aptitude Test', 'Mathematics', 'Physics', 'Chemistry']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Computer Science',
-        subjects: ['Use of English', 'Mathematics', 'Physics', 'Aptitude Test']
+        subjects: ['Aptitude Test', 'Mathematics', 'Physics', 'Chemistry']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Agricultural Science / Forestry / Food Science',
-        subjects: ['Use of English', 'Biology', 'Chemistry', 'Aptitude Test']
+        subjects: ['Aptitude Test', 'Biology', 'Chemistry', 'Agricultural Science']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Geography / Environmental Design',
-        subjects: ['Use of English', 'Geography', 'Aptitude Test', 'Mathematics']
+        subjects: ['Aptitude Test', 'Geography', 'Mathematics', 'Physics']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Agric. Science / Pure & Applied Biology',
-        subjects: ['Use of English', 'Agricultural Science', 'Biology', 'Aptitude Test']
+        subjects: ['Aptitude Test', 'Agricultural Science', 'Biology', 'Chemistry']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Arts / Literature / Law',
-        subjects: ['Use of English', 'Literature in English', 'Government', 'Aptitude Test']
+        subjects: ['Aptitude Test', 'Literature in English', 'Government', 'Christian Religious Studies']
     },
     {
         university: 'Obafemi Awolowo University (OAU)',
         course: 'Accounting / Finance / Social Sciences',
-        subjects: ['Use of English', 'Mathematics', 'Economics', 'Aptitude Test']
+        subjects: ['Aptitude Test', 'Mathematics', 'Economics', 'Financial Accounting']
     },
     {
         university: 'University of Ilorin (UNILORIN)',
@@ -142,7 +148,13 @@ const DEFAULT_SUBJECTS = [
     { id: 'sub-crs', name: 'Christian Religious Studies', price: 50, category: 'Arts', stock: 100, imageUrl: '' },
     { id: 'sub-apt', name: 'Aptitude Test', price: 50, category: 'General', stock: 100, imageUrl: '' },
     { id: 'sub-geo', name: 'Geography', price: 50, category: 'Science', stock: 100, imageUrl: '' },
-    { id: 'sub-agr', name: 'Agricultural Science', price: 50, category: 'Science', stock: 100, imageUrl: '' }
+    { id: 'sub-agr', name: 'Agricultural Science', price: 50, category: 'Science', stock: 100, imageUrl: '' },
+    { id: 'sub-com', name: 'Commerce', price: 50, category: 'Social Sciences', stock: 100, imageUrl: '' },
+    { id: 'sub-irk', name: 'Islamic Religious Studies', price: 50, category: 'Arts', stock: 100, imageUrl: '' },
+    { id: 'sub-civ', name: 'Civic Education', price: 50, category: 'General', stock: 100, imageUrl: '' },
+    { id: 'sub-ins', name: 'Insurance', price: 50, category: 'Commercial', stock: 100, imageUrl: '' },
+    { id: 'sub-cur', name: 'Current Affairs', price: 50, category: 'General', stock: 100, imageUrl: '' },
+    { id: 'sub-his', name: 'History', price: 50, category: 'Arts', stock: 100, imageUrl: '' }
 ];
 
 
@@ -249,6 +261,12 @@ export default function SelectProductsPage() {
             else if (sub.name === 'Aptitude Test') questions = aptitudeQuestions;
             else if (sub.name === 'Geography') questions = geographyQuestions;
             else if (sub.name === 'Agricultural Science') questions = agricScienceQuestions;
+            else if (sub.name === 'Commerce') questions = commerceQuestions;
+            else if (sub.name === 'Islamic Religious Studies') questions = irkQuestions;
+            else if (sub.name === 'Civic Education') questions = civicEducationQuestions;
+            else if (sub.name === 'Insurance') questions = insuranceQuestions;
+            else if (sub.name === 'Current Affairs') questions = currentAffairsQuestions;
+            else if (sub.name === 'History') questions = historyQuestions;
             else questions = englishQuestions;
 
             let filteredQuestions = questions;
@@ -262,10 +280,13 @@ export default function SelectProductsPage() {
                 }
             }
 
+            // Shuffle questions to ensure variety
+            let shuffledQuestions = [...filteredQuestions].sort(() => 0.5 - Math.random());
+
             return {
                 id: sub.id,
                 name: sub.name,
-                questions: filteredQuestions.slice(0, isOAU ? 10 : 40) // 10 questions per subject for OAU, 40 for others
+                questions: shuffledQuestions.slice(0, isOAU ? 10 : 40) // 10 questions per subject for OAU, 40 for others
             };
         });
 
@@ -309,6 +330,9 @@ export default function SelectProductsPage() {
                         Configure your target institution requirements and launch your exam workspace immediately.
                     </p>
                 </div>
+                <Button variant="outline" className="gap-2 border-yellow-500/30 text-yellow-600 hover:bg-yellow-500/10 hover:text-yellow-700" onClick={() => router.push('/cbt-simulator/leaderboard')}>
+                    <Trophy className="h-4 w-4" /> Global Leaderboard
+                </Button>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-5 lg:grid-cols-12 gap-8">

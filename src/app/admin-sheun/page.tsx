@@ -174,6 +174,12 @@ import { crsQuestions } from '@/app/(app)/cbt-simulator/data/crs';
 import { aptitudeQuestions } from '@/app/(app)/cbt-simulator/data/aptitude';
 import { geographyQuestions } from '@/app/(app)/cbt-simulator/data/geography';
 import { agricScienceQuestions } from '@/app/(app)/cbt-simulator/data/agric-science';
+import { commerceQuestions } from '@/app/(app)/cbt-simulator/data/commerce';
+import { irkQuestions } from '@/app/(app)/cbt-simulator/data/irk';
+import { civicEducationQuestions } from '@/app/(app)/cbt-simulator/data/civic-education';
+import { insuranceQuestions } from '@/app/(app)/cbt-simulator/data/insurance';
+import { currentAffairsQuestions } from '@/app/(app)/cbt-simulator/data/current-affairs';
+import { historyQuestions } from '@/app/(app)/cbt-simulator/data/history';
 
 const DEFAULT_QUESTIONS = [
   {
@@ -714,6 +720,12 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                 else if (name.includes('apti')) localQuestions = aptitudeQuestions;
                 else if (name.includes('geog')) localQuestions = geographyQuestions;
                 else if (name.includes('agric') || name.includes('agriculture')) localQuestions = agricScienceQuestions;
+                else if (name.includes('commerc')) localQuestions = commerceQuestions;
+                else if (name.includes('irk') || name.includes('islam')) localQuestions = irkQuestions;
+                else if (name.includes('civic') || name.includes('civil')) localQuestions = civicEducationQuestions;
+                else if (name.includes('insur')) localQuestions = insuranceQuestions;
+                else if (name.includes('current') || name.includes('affair')) localQuestions = currentAffairsQuestions;
+                else if (name.includes('histo')) localQuestions = historyQuestions;
                 else localQuestions = englishQuestions;
 
                 setSubjectQuestions(localQuestions);
@@ -2720,7 +2732,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                                             No configuration mappings defined yet. Define mappings above.
                                         </div>
                                     ) : (
-                                        <div className="border rounded-lg overflow-hidden bg-background">
+                                        <div className="border rounded-lg overflow-hidden bg-background overflow-x-auto">
                                             <Table>
                                                 <TableHeader>
                                                     <TableRow>
@@ -2785,7 +2797,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                                     No recent forum messages found.
                                 </div>
                             ) : (
-                                <div className="border rounded-lg overflow-hidden bg-background max-h-[500px] overflow-y-auto">
+                                <div className="border rounded-lg overflow-hidden bg-background max-h-[500px] overflow-auto">
                                     <Table>
                                         <TableHeader>
                                             <TableRow>
@@ -2847,7 +2859,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                                             No mentorship bookings scheduled.
                                         </div>
                                     ) : (
-                                        <div className="border rounded-lg overflow-hidden bg-background">
+                                        <div className="border rounded-lg overflow-hidden bg-background overflow-x-auto">
                                             <Table>
                                                 <TableHeader>
                                                     <TableRow>
@@ -2971,7 +2983,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                                             No custom cut-off marks configured. Standard static cut-offs apply to students.
                                         </div>
                                     ) : (
-                                        <div className="border rounded-lg overflow-hidden bg-background">
+                                        <div className="border rounded-lg overflow-hidden bg-background overflow-x-auto">
                                             <Table>
                                                 <TableHeader>
                                                     <TableRow>

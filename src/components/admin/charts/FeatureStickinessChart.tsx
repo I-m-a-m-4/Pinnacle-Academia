@@ -18,9 +18,7 @@ export default function FeatureStickinessChart({ businesses, subjects }: Feature
 
     const stats = {
         'AI Analysis': 0,
-        'Subject Tracking': 0,
-        'Pro Reports': 0,
-        'Multiple Users': 0
+        'Subject Tracking': 0
     };
 
     const businessProductCounts = subjects.reduce((acc, p) => {
@@ -34,13 +32,6 @@ export default function FeatureStickinessChart({ businesses, subjects }: Feature
         
         // Subject Tracking (> 50 subjects)
         if ((businessProductCounts[b.id] || 0) > 50) stats['Subject Tracking']++;
-
-        // Multiple Users (check if they have invited others - mocked for now or infer from user count per biz if available)
-        // Assume if they are on Pro/Business, they are stickier with reporting
-        if (b.plan === 'pro' || b.plan === 'academy') stats['Pro Reports']++;
-        
-        // Mocking Multiple Users adoption based on plan
-        if (b.plan === 'academy') stats['Multiple Users']++;
     });
 
     return Object.entries(stats).map(([name, count]) => ({

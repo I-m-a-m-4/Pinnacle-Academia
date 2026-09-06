@@ -194,6 +194,12 @@ service cloud.firestore {
     // Academic Collections (Pinnacle Academia - Primary)
     // =================================================================
 
+    match /cbt_leaderboards/{leaderboardId} {
+      allow read: if isUserAuthenticated();
+      allow create: if isUserAuthenticated();
+      allow update, delete: if isSuperAdmin();
+    }
+
     // subjects: Academic subjects with questions (admin can upload Q&A)
     match /subjects/{subjectId} {
       allow get: if isSuperAdmin() || (isUserAuthenticated() && (resource == null || isRequestingUserMemberOf(resource.data.get('businessId', null))));

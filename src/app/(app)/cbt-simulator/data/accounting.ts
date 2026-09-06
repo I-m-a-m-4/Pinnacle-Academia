@@ -1,85 +1,10574 @@
 export const accountingQuestions = [
   {
-    id: 'acc-1',
-    questionText: 'The system of accounting where every transaction affects at least two accounts is known as: (JAMB 2018)',
-    options: ['Double entry system', 'Single entry system', 'Accrual system', 'Cash system'],
-    correctAnswer: 'A',
-    explanation: 'The double-entry system states that for every debit entry, there must be a corresponding credit entry, meaning every transaction affects at least two accounts.'
+    "id": "accounting-1788679750926-0-760",
+    "questionText": "Using the following information: opening stock ₦20,000, purchases ₦70,000, sales ₦100,000, and closing stocks ₦15,000, what was the gross profit? (JAMB 2019)",
+    "options": [
+      " ₦25,000",
+      "₦35,000",
+      "₦50,000",
+      "₦75,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "To calculate the cost of goods sold, use the formula:\nCost of Goods Sold = Opening Stock + Purchases - Closing Stock\nCost of Goods Sold = ₦20,000 + ₦70,000 - ₦15,000 = ₦75,000\nTherefore, the cost of goods sold was ₦75,000."
   },
   {
-    id: 'acc-2',
-    questionText: 'Which of the following is a liability? (Post-UTME 2019)',
-    options: ['Bank overdraft', 'Cash at bank', 'Debtors', 'Prepaid expenses'],
-    correctAnswer: 'A',
-    explanation: 'A bank overdraft is a short-term liability representing money owed to the bank because the account balance is below zero.'
+    "id": "accounting-1788679750926-1-1329",
+    "questionText": "<b>Use the information below to answer questions 14 and 15</b>\n\n\t\t\t\t  ₦\nCapital: Opening balance \t307,000\nClosing balance \t\t342,000\nNet profit for the period \t121,600\nOpening stock \t\t\t98,800\nPurchases \t\t\t706,000\nCarriage inwards \t\t17,500\nCost of goods sold \t\t740,700\nTotal selling, general and\nAdministrative expenses  \t526,000\nDiscount received \t\t9,650\n\n\nCalculate the gross profit for the period? (JAMB 1999)",
+    "options": [
+      " ₦ 535,650",
+      "₦628,300",
+      "₦637,950",
+      "₦647,600"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Formula:\nGross Profit = Net Profit + SG&A Expenses – Discount Received\n\nNumbers:\n\nNet Profit = ₦121,600\n\nSG&A Expenses = ₦526,000\n\nDiscount Received = ₦9,650\n\nCalculation:\nGross Profit = 121,600 + 526,000 – 9,650\nGross Profit = 647,600 – 9,650\nGross Profit = ₦637,950"
   },
   {
-    id: 'acc-3',
-    questionText: 'The process of transferring transactions from the journal to the ledger is called: (JAMB 2017)',
-    options: ['Posting', 'Balancing', 'Journalizing', 'Summing'],
-    correctAnswer: 'A',
-    explanation: 'Posting is the transferring of debit and credit items from the books of original entry (journals) to the ledger accounts.'
+    "id": "accounting-1788679750926-2-43",
+    "questionText": "Which of the following would not be included in a balance sheet? (JAMB 2012)",
+    "options": [
+      "Accounts receivable",
+      "Accounts payable  ",
+      "Sales",
+      "Cash"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
   },
   {
-    id: 'acc-4',
-    questionText: 'A trial balance is prepared to test the: (Post-UTME 2020)',
-    options: ['Arithmetical accuracy of ledgers', 'Financial position of the business', 'Net profit of the business', 'Cash flow balance'],
-    correctAnswer: 'A',
-    explanation: 'A trial balance is prepared to check the mathematical or arithmetical accuracy of the ledger entries.'
+    "id": "accounting-1788679750926-3-1193",
+    "questionText": "<b>Use the information below to answer questions 28 and 29.</b>\n\n<b>It is the tradition of the club to write off an amount equal to 25% of the subscriptions received as other expenses.</b>\n\nDetermine the club’s excess ofincome over expenditure (JAMB 2002)",
+    "options": [
+      "₦12,000",
+      "₦15,000.",
+      "₦10,000",
+      "₦14,500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Given Information from the Account:\n\nTotal for both sides: ₦35,000\nOther expenses = ₦5,000 (25% of ₦20,000 subscriptions as calculated in the previous question)\n\nIncome Side:\n\nSubscriptions received: ₦20,000\nDonations received: ₦10,000\nProfits on sale of investment: ₦5,000\nTotal Income = ₦35,000\n\nExpenditure Side:\n\nWaged: ₦12,000\nElectricity: ₦5,000\nDepreciation - Furniture: ₦1,000\nOther expenses: ₦5,000 (calculated as 25% of subscriptions)\nExcess of income over expenditure: ?\n\nCalculation:\nTotal Expenditure (excluding excess) = ₦12,000 + ₦5,000 + ₦1,000 + ₦5,000 = ₦23,000\nSince both sides must balance at ₦35,000:\nExcess of income over expenditure = ₦35,000 - ₦23,000 = ₦12,000"
   },
   {
-    id: 'acc-5',
-    questionText: 'Which of the following is a nominal account? (JAMB 2016)',
-    options: ['Rent account', 'Cash account', 'Debtor account', 'Capital account'],
-    correctAnswer: 'A',
-    explanation: 'Nominal accounts are accounts related to expenses, losses, incomes, or gains (e.g. Rent, Salaries).'
+    "id": "accounting-1788679750926-4-805",
+    "questionText": "Sales ledger control account contains the total amount in respect of (JAMB 2021)",
+    "options": [
+      "investors",
+      "creditors",
+      "shareholders",
+      "debtors"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The sales ledger control account (also known as the debtors control account) contains the total amount owed by all debtors - customers who have purchased goods or services on credit but have not yet paid."
   },
   {
-    id: 'acc-6',
-    questionText: 'The excess of current assets over current liabilities is known as: (Post-UTME 2021)',
-    options: ['Working capital', 'Capital employed', 'Net profit', 'Owner\'s equity'],
-    correctAnswer: 'A',
-    explanation: 'Working Capital = Current Assets - Current Liabilities. It represents the operating liquidity available to a business.'
+    "id": "accounting-1788679750926-5-897",
+    "questionText": "From the following bank reconciliation information: Balance as per cash book is ₦5,467, Uncredited cheques amount to ₦4,410, and Unpresented cheques total ₦19,404. What is the balance as per bank statement? (JAMB 2023)",
+    "options": [
+      "₦20,461",
+      "₦21,091",
+      "₦21,109",
+      " ₦19,021"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Balance per bank statement = Balance per cash book + Unpresented cheques − Uncredited cheques\n= ₦5,467 + ₦19,404 − ₦4,410\n= ₦20,461"
   },
   {
-    id: 'acc-7',
-    questionText: 'Which book of original entry is used to record credit sales of goods? (JAMB 2015)',
-    options: ['Sales journal', 'Cash book', 'General journal', 'Purchases journal'],
-    correctAnswer: 'A',
-    explanation: 'The sales journal (or sales day book) is used solely to record transactions involving the sale of goods on credit.'
+    "id": "accounting-1788679750926-6-987",
+    "questionText": "<b>Use the information below to answer questions 23 to 24.</b>\n\n\t\t\t   31 Dec. 05........31 Dec. 06\nTotal fixed assets.........₦7,800............₦6,600\nTotal current assets.......₦12,100............₦17,800\nTotal current liabilities..₦4,700............₦3,800\nDrawings for 2006 is ₦5,200.\n\nDetermine the capital balance as at Dec. 31, 2005? (JAMB 2008)",
+    "options": [
+      "₦20 600",
+      "₦15 200",
+      "₦13 800",
+      "₦11 600"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Assets = Capital + Liabilities\nTherefore: Capital = Assets - Liabilities\nAs at December 31, 2005:\nTotal Assets:\n\nFixed Assets: ₦7,800\nCurrent Assets: ₦12,100\nTotal Assets = ₦7,800 + ₦12,100 = ₦19,900\n\nTotal Liabilities:\n\nCurrent Liabilities: ₦4,700\n\nCapital Balance:\nCapital = Total Assets - Total Liabilities\nCapital = ₦19,900 - ₦4,700 = ₦15,200\nTherefore, the capital balance as at December 31, 2005 is ₦15,200."
   },
   {
-    id: 'acc-8',
-    questionText: 'The reduction in the value of a tangible fixed asset over time due to wear and tear is: (Post-UTME 2018)',
-    options: ['Depreciation', 'Amortization', 'Depletion', 'Appreciation'],
-    correctAnswer: 'A',
-    explanation: 'Depreciation is the systematic allocation of the cost of a tangible asset over its useful life.'
+    "id": "accounting-1788679750926-7-1423",
+    "questionText": "Erroneous rearrangement of financial figures such as writing ₦624 as ₦264 is called (JAMB 1997)",
+    "options": [
+      "transposition",
+      "principle",
+      "commission",
+      "omission"
+    ],
+    "correctAnswer": "A",
+    "explanation": "A transposition error occurs when two digits are accidentally reversed in recording or posting an amount (e.g., ₦624 recorded as ₦264)."
   },
   {
-    id: 'acc-9',
-    questionText: 'Which of the following errors will not affect the agreement of the trial balance? (JAMB 2020)',
-    options: ['Error of complete omission', 'Single entry error', 'Transposition error in one ledger', 'Error in totaling the trial balance'],
-    correctAnswer: 'A',
-    explanation: 'An error of complete omission (where a transaction is not recorded at all) leaves both debit and credit equal, so the trial balance still balances.'
+    "id": "accounting-1788679750926-8-677",
+    "questionText": "Gross profit in the branch adjustment account is transferred to the branch____________ (JAMB 2018)",
+    "options": [
+      "Income and expenditure account",
+      "profit and loss account",
+      "receipt and payment account",
+      "trading account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "In branch accounting, the Branch Adjustment Account is used to record inter‐branch adjustments such as stock transfers and branch expenses. Any gross profit worked out in this account is then transferred to the Branch Trading Account, where it becomes part of the overall trading results for that branch."
   },
   {
-    id: 'acc-10',
-    questionText: 'In a balance sheet, "Goodwill" is classified as: (JAMB 2022)',
-    options: ['Intangible asset', 'Current asset', 'Tangible fixed asset', 'Current liability'],
-    correctAnswer: 'A',
-    explanation: 'Goodwill is an intangible asset representing the reputation, brand, or customer relationships of a business.'
+    "id": "accounting-1788679750926-9-650",
+    "questionText": "Given:\nI. Settlement of debts\nII. Cessation of business\nIII. Introduction of assets\nIV. Disposal of assets\nWhich of these constitutes dissolution of partnership? (JAMB 2017)",
+    "options": [
+      "II and IV only",
+      " I, II and IV only",
+      " I, II and III only",
+      " II, III and IV only"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Dissolution of partnership business simply means the break up of partnership business and which are caused by many factors\nII,III and IV: disposal of asset does not constitute dissolution"
   },
-  ...Array.from({ length: 30 }, (_, i) => {
-    const idx = i + 11;
-    const assets = 5000 + i * 500;
-    const capital = 3000 + i * 200;
-    const liabilities = assets - capital;
-    return {
-      id: `acc-gen-${idx}`,
-      questionText: `Using the accounting equation Assets = Capital + Liabilities (Question ${idx}): If Assets = ₦${assets} and Capital = ₦${capital}, calculate Liabilities. (Post-UTME 2022)`,
-      options: [`₦${liabilities}`, `₦${assets + capital}`, `₦${assets}`, `₦${capital}`],
-      correctAnswer: 'A',
-      explanation: 'Liabilities are calculated as Assets minus Capital (L = A - C).'
-    };
-  })
+  {
+    "id": "accounting-1788679750926-10-128",
+    "questionText": "Balance as per cash book 2, 970  Bank Charges 220 ;Unpresented cheques 3, 950; Uncredited cheques 4,178 ; Direct debit by bank 1, 000 . Determine  the balance as per bank Statement (JAMB 2016)",
+    "options": [
+      "N1,978",
+      "N1,962",
+      "N1,522",
+      "N2,522"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-11-1203",
+    "questionText": "In an incomplete record system a trading account cannot be prepared until the? (JAMB 2002)",
+    "options": [
+      " day book has been balanced",
+      "amount of personal drawings has been established",
+      " cash book has been balanced",
+      "amount os sales and purchases has been established"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Reason: a trading account needs total sales and cost of goods sold (which depends on purchases, opening and closing stock). In an incomplete records system you must first determine the totals for sales and purchases before you can prepare the trading account."
+  },
+  {
+    "id": "accounting-1788679750926-12-867",
+    "questionText": "The fund in which all government receipt are paid is? (JAMB 2022)",
+    "options": [
+      "consolidated revenue fund",
+      "development fund",
+      "trust fund",
+      "contingency fund"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The fund in which all government receipts are paid is the consolidated revenue fund."
+  },
+  {
+    "id": "accounting-1788679750926-13-1181",
+    "questionText": "In a departmental accounting system, which of the following expenses will most likely be apportioned on the basis of turnover? (JAMB 2002)",
+    "options": [
+      " carriage outwards",
+      "carriage inwards",
+      " discounts received",
+      " returns outwards"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Reason: Carriage outwards (delivery expenses) is usually related to sales volume, so in departmental accounting it’s apportioned based on turnover."
+  },
+  {
+    "id": "accounting-1788679750926-14-934",
+    "questionText": "In government accounting, money allocated to each head and sub-heads is referred to as      (JAMB 2024)",
+    "options": [
+      "allocation",
+      "imprest",
+      "vote",
+      "float"
+    ],
+    "correctAnswer": "C",
+    "explanation": "In government budgeting, funds are authorized for spending through a voting process. Each government department or agency submits a budget request, which is then debated and approved (or voted on) by the legislature. The approved amounts for each department's programs and activities become the official votes that they can spend from."
+  },
+  {
+    "id": "accounting-1788679750926-15-1452",
+    "questionText": "The correct closing balance of Lawal’s current account is (JAMB 1997)",
+    "options": [
+      " ₦8,000 credit.",
+      "₦ 14,740 debit",
+      "₦ 14,740credit",
+      "₦ 540 credit"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Lawal's Current Account (Corrected):\nCredit Side (Right):\n\nBalance b/d: ₦540\nInterest on capital: ₦360\nShare of profit: ₦13,100\nTotal Credits: ₦14,000\n\nDebit Side (Left):\n\nDrawings: ₦6,000\n\nCalculation:\nClosing balance = Total Credits - Drawings\nClosing balance = ₦14,000 - ₦6,000 = ₦8,000 credit\nSince the credits exceed the debits, Lawal has a credit balance of ₦8,000."
+  },
+  {
+    "id": "accounting-1788679750926-16-365",
+    "questionText": "The gross profit is (JAMB 2014)",
+    "options": [
+      "GHc/  2,160,000",
+      "GHc/ 1440,000",
+      "GHc/ 1,080,000",
+      "GHc/ 720,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-17-608",
+    "questionText": "Use the information below to answer the question that follows,\n\nA machine bought for ₦35,000 was estimated to have a life span of 5years with a scrap value of ₦9,000.\nIf the scrap value is now ₦15,000. What will be the yearly depreciation using the straight line method.? (JAMB 2016)",
+    "options": [
+      "₦11,000",
+      " ₦7,000",
+      "₦4,000",
+      "₦24,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "subtract the revised scrap value (₦15,000) from the original cost (₦35,000) to get ₦20,000, then divide by the machine’s 5-year lifespan. Thus, annual depreciation is ₦20,000 ÷ 5 = ₦4,000 per year."
+  },
+  {
+    "id": "accounting-1788679750926-18-1308",
+    "questionText": "Yola Social Club\nStatement of Account 1998 financial year\n31/12/98:\nSubscription in arrears ₦21,000\nSubscription in advance ₦12,000\nReceipt during 1999:\n\nArrears 1998 ₦21,000\nDues 1999 ₦48,000\nAdvance 2000 ₦11,000\n\nThe subscription transferable to the income and expenditure account is? (JAMB 2000)",
+    "options": [
+      "₦48,000",
+      "₦59,000",
+      "₦60,000",
+      " ₦69,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To determine the subscription income for the 1999 Income & Expenditure Account, include all amounts relating to the 1999 year (whether received in 1999 or brought forward), and exclude amounts relating to other years.\n\nOpening advance (at 31/12/98): ₦12 000\n– These are 1999 subscriptions paid in 1998, so they count as 1999 income even though received earlier.\n\nReceipts during 1999 relating to 1999 dues: ₦48 000\n– Direct cash received for 1999 subscriptions.\n\nExclude\n\nArrears of 1998 (₦21 000): pertains to 1998 income\n\nAdvance for 2000 (₦11 000): pertains to 2000 income\n\nSo,\n\n\n1999 Subscription Income = 12000 + 48000 = 60000"
+  },
+  {
+    "id": "accounting-1788679750926-19-527",
+    "questionText": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it can be used for more than one year is (JAMB 2015)",
+    "options": [
+      "Materiality",
+      "Accrual",
+      "Going concern",
+      "Business entity"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Materiality states that only items of material values are recorded e.g. the cost of a stapler should not be capitalized but expensed just as kitchen cutlery."
+  },
+  {
+    "id": "accounting-1788679750926-20-809",
+    "questionText": "Using the data below, calculate the total factory overhead cost for the period.\n\nDepreciation of plant and machinery: ₦1,600\n\nFactory rent: ₦650\n\nIndirect wages: ₦695\n\nGeneral indirect expenses: ₦726\n\nLubricants: ₦1,235\n\nFactory power: ₦350 (JAMB 2021)",
+    "options": [
+      "₦4,485",
+      "₦6,085",
+      " ₦6,556",
+      " ₦5,256"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Total factory overhead = ₦1,600 + ₦650 + ₦695 + ₦726 + ₦1,235 + ₦350 = ₦5,256."
+  },
+  {
+    "id": "accounting-1788679750926-21-1218",
+    "questionText": "If liabilities amounted to ₦12,045, other assets ₦36,800and equity ₦26,896, the cash at hand would be? (JAMB 2001)",
+    "options": [
+      "₦2,241",
+      " ₦2,214",
+      " ₦2,141",
+      " ₦2,114"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Using the basic accounting equation:\nAssets = Liabilities + Equity\nStep 1: Calculate total assets\nTotal Assets = Liabilities + Equity\nTotal Assets = ₦12,045 + ₦26,896 = ₦38,941\nStep 2: Calculate cash at hand\nTotal Assets = Other Assets + Cash at Hand\n₦38,941 = ₦36,800 + Cash at Hand\nCash at Hand = ₦38,941 - ₦36,800 = ₦2,141"
+  },
+  {
+    "id": "accounting-1788679750926-22-1166",
+    "questionText": "Given:\nStock (1/4/94) ₦800\n\nPurchases of flour ₦2450\n\nSales ₦4745\n\nWages of bakery staff ₦675\n\nCarriage outwards ₦50\n\nSalary of administrative staff ₦225\n\nStock (31/3/95) ₦940\n\nCapital ₦1540\nDetermine the cost of goods sold? (JAMB 2002)",
+    "options": [
+      "₦2575",
+      "₦2985",
+      "₦3250",
+      "₦3925"
+    ],
+    "correctAnswer": "B",
+    "explanation": "COGS = Opening stock + Purchases + Direct production wages − Closing stock\n\nSo: ₦800 + ₦2,450 + ₦675 − ₦940\n= ₦3,925 − ₦940\n= ₦2,985"
+  },
+  {
+    "id": "accounting-1788679750926-23-771",
+    "questionText": "Which of the following errors will affect the trial balance total? (JAMB 2020)",
+    "options": [
+      "omission of sales of ₦3000 and purchases of ₦2000",
+      " Posting discount allowed to the debit side of discount allowed account",
+      " omission of one account from the list when extracting the ledgers",
+      "failure to post sales of ₦2000 and purchases of ₦2000"
+    ],
+    "correctAnswer": "A",
+    "explanation": " Omission of sales of ₦3,000 and purchases of ₦2,000:\n\nSales (credit) ₦3,000 missing and purchases (debit) ₦2,000 missing\nNet effect: Credit side short by ₦1,000\nThis affects the trial balance total"
+  },
+  {
+    "id": "accounting-1788679750926-24-881",
+    "questionText": "The medium that enables the ATM to read the account details and process transaction directly with the account held in the bank is the? (JAMB 2022)",
+    "options": [
+      "smart card",
+      "communication network",
+      "magnetic strip",
+      "computerized account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The magnetic strip on the ATM card contains the encoded account information (such as the account number and bank details). When you insert your card, the ATM reads this strip to identify your account and process transactions directly against it."
+  },
+  {
+    "id": "accounting-1788679750926-25-176",
+    "questionText": "A Sales Day Book is used to record (JAMB 1997)",
+    "options": [
+      "cash sales of stock",
+      "credit sales of stock",
+      "cash and credit sales of stock",
+      "cash sales of fixed assets"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-26-436",
+    "questionText": "Determine the opening cash balance of the club (JAMB 2007)",
+    "options": [
+      "N 3070",
+      "N 2220",
+      "N 5710",
+      "N 4320."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-27-1030",
+    "questionText": "A piece of equipment costing ₦120,000 was purchased on 1/1/1996. Depreciation was provided at 20% per annum on a straight-line basis. it was sold on 30/6/1999 for ₦31,500.\n\nThe accumulated depreciation provision at the time of sale was? (JAMB 2005)",
+    "options": [
+      "₦12 000",
+      "₦60 000",
+      "₦72 000",
+      "₦84 000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Annual depreciation = 120,000 × 20% = 24,000.\n\nFull years (1996, 1997, 1998) = 24,000 × 3 = 72,000.\n\nHalf year to 30/6/1999 = 24,000 × 0.5 = 12,000.\n\nAccumulated depreciation = 72,000 + 12,000 = ₦84,000."
+  },
+  {
+    "id": "accounting-1788679750926-28-147",
+    "questionText": "Which of the following -is -correct about the imprest system? (JAMB 2016)",
+    "options": [
+      "II and IV",
+      "I, III and IV",
+      "I, II and III",
+      "III and IV"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-29-925",
+    "questionText": "The amount by which assets exceeds liabilities is (JAMB 2024)",
+    "options": [
+      "capital",
+      "premium",
+      "bonus",
+      "provision"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Owner's equity (also known as shareholder's equity or capital) represents the remaining value that belongs to the company's owners after all liabilities are settled. It essentially reflects the net worth of the business from th owners' perspective."
+  },
+  {
+    "id": "accounting-1788679750926-30-871",
+    "questionText": "A company has two departments X and Y. Y transferred goods to X at a profit margin of 25%. ₦10,000 worth of goods was not sold at the end of the accounting period.\nHow much is the unrealized profit?\n (JAMB 2022)",
+    "options": [
+      "₦2,000",
+      "₦2,500",
+      "₦12,000",
+      "₦12,500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Since goods were transferred at a 25% markup on cost, the transfer (invoice) price is 125% of cost. For unsold stock valued at ₦10,000 (transfer price), the cost component is ₦10,000 ÷ 1.25 = ₦8,000, so the unrealized profit embedded in closing stock is ₦10,000 − ₦8,000 = ₦2,000."
+  },
+  {
+    "id": "accounting-1788679750926-31-295",
+    "questionText": "An underwriter for a company’s share is paid (JAMB 2012)",
+    "options": [
+      "Interest.",
+      "commission.",
+      "dividend.",
+      "salary."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-32-450",
+    "questionText": "The amount of subscriptions accrued is reported in the balance sheet under (JAMB 2007)",
+    "options": [
+      "fixed asset",
+      "long-term liability",
+      "current asset",
+      "current liability."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-33-1451",
+    "questionText": "The correct closing balance for Musa’s current account\nis (JAMB 1997)",
+    "options": [
+      "₦20,000 credit",
+      "₦16,600 credit",
+      "₦16,600 debit",
+      "₦1,800 credit"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find the correct closing balance for Musa's current account, properly arrange the account with debits on the left and credits on the right.\nMusa's Current Account (Corrected):\nDebit Side (Left):\n\nDrawings: ₦8,800\nBalance c/d (if credit balance): ?\n\nCredit Side (Right):\n\nBalance b/d: ₦1,800\nInterest on capital: ₦800\nShare of profit: ₦26,200\n\nCalculation:\nTotal credits = ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nLess: Drawings = ₦8,800\nNet credit balance = ₦28,800 - ₦8,800 = ₦20,000\nWait, let me recalculate more carefully:\nCredit side total: ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nDebit side: Drawings ₦8,800\nBalance c/d: ₦28,800 - ₦8,800 = ₦20,000 credit"
+  },
+  {
+    "id": "accounting-1788679750926-34-469",
+    "questionText": "The process whereby a cheque received by one person is given to another for payment is known as (JAMB 2007)",
+    "options": [
+      "cheque crossing",
+      "payment in cheque",
+      "cheque transfer",
+      "cheque endorsement."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-35-377",
+    "questionText": "When the purchase consideration exceeds the value of business, the difference is (JAMB 2014)",
+    "options": [
+      "profit",
+      "discount",
+      "goodwill",
+      "reserve"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-36-709",
+    "questionText": "Which of the following is a conversion cost? (JAMB 2018)",
+    "options": [
+      "Factory overhead",
+      "purchases",
+      "material cost",
+      "wages"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Conversion costs are costs required to convert raw materials into finished goods\n\n  Formula for conversion cost= direct labor+ factory overheads"
+  },
+  {
+    "id": "accounting-1788679750926-37-713",
+    "questionText": "Which of the following is not an inventory costing method? (JAMB 2018)",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "Average cost method",
+      "LILA"
+    ],
+    "correctAnswer": "D",
+    "explanation": "FIFO (First-In, First-Out), LIFO (Last-In, First-Out), and the Average Cost Method are all standard inventory valuation methods.\n\nLILA is not a recognized inventory costing method."
+  },
+  {
+    "id": "accounting-1788679750926-38-1145",
+    "questionText": "A company has two departments X and Y. Y transferred goods to X at a profit margin of 25%. ₦10,000 worth of goods was not sold at the end of the accounting period.\nHow much is the unrealized profit? (JAMB 2003)",
+    "options": [
+      "₦2000",
+      "₦2500",
+      "12000",
+      "12500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Key Point: The ₦10,000 represents the transfer value (cost + profit), not the original cost.\nCalculation:\nIf Department Y added 25% profit margin:\n\nTransfer price = Cost + 25% profit\nTransfer price = Cost × 1.25\nTherefore: ₦10,000 = Cost × 1.25\nOriginal cost = ₦10,000 ÷ 1.25 = ₦8,000\n\nUnrealized profit = Transfer price - Original cost\nUnrealized profit = ₦10,000 - ₦8,000 = ₦2,000"
+  },
+  {
+    "id": "accounting-1788679750926-39-492",
+    "questionText": "What is the value of closing stock using simple average? (JAMB 2009)",
+    "options": [
+      "N 11,500",
+      "N 17,000",
+      "N 17,500",
+      "N 28,500"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-40-612",
+    "questionText": "A business has the following information for a particular period:\nCreditors had an opening balance of ₦3,000 and a closing balance of ₦4,000. Debtors had a closing balance of ₦6,000 but the opening balance is not given. During the period, cash received from debtors was ₦35,000, cash paid to suppliers was ₦25,000, discount allowed to customers was ₦4,000, and discount received from suppliers was ₦4,200.\nWhat is the total purchase for the period? (JAMB 2016)",
+    "options": [
+      "₦30,200",
+      "₦30,000",
+      "₦25,000",
+      "₦31,200"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find total purchases, we work with the creditors account movement:\nCreditors Account Analysis:\n\nOpening balance: ₦3,000\nClosing balance: ₦4,000\nCash paid to suppliers: ₦25,000\nDiscount received from suppliers: ₦4,200\n\nUsing the creditors account formula:\nOpening Balance + Purchases - Cash Paid - Discount Received = Closing Balance\nSubstituting the values:\n3,000 + Purchases - 25,000 - 4,200 = 4,000\n3,000 + Purchases - 29,200 = 4,000\nPurchases = 4,000 + 29,200 - 3,000\nPurchases = 30,200"
+  },
+  {
+    "id": "accounting-1788679750926-41-742",
+    "questionText": "Abelawo ltd operates a retail branch at Aba. All purchases are made by the head office in Onitsha and goods are charged to the branch at cost plus 50%. During the year ended. Goods sent to branch at invoiced price is ₦30,870, cash sales ₦13,020 and Bad debt amounted to 129. From the following, what is the profit? (JAMB 2019)",
+    "options": [
+      "₦20,580",
+      "₦10,290",
+      "₦7,980",
+      "₦30,870"
+    ],
+    "correctAnswer": "B",
+    "explanation": "To find the profit, the unrealized profit in the goods sent to branch needs to be determined.\nGiven information:\n\nGoods sent to branch at invoiced price = ₦30,870\nInvoiced price = Cost + 50% markup\nCash sales = ₦13,020\nBad debt = ₦129\n\nFinding the cost price of goods sent to branch:\nIf invoiced price = Cost + 50% of cost = 1.5 × Cost\nThen: Cost = ₦30,870 ÷ 1.5 = ₦20,580\nUnrealized profit in goods sent to branch:\nProfit = Invoiced price - Cost price\nProfit = ₦30,870 - ₦20,580 = ₦10,290\nThe profit from the markup on goods sent to branch is ₦10,290."
+  },
+  {
+    "id": "accounting-1788679750926-42-1202",
+    "questionText": "In a control account, discount received is found on the? (JAMB 2002)",
+    "options": [
+      " debit side of the purchase ledger control account",
+      "debit side of the sales ledger control account",
+      " credit side of the purchase ledger control account",
+      "credit side of the sales ledger control account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Reason: discount received reduces the amount owed to suppliers, so it is entered on the debit side of the purchase ledger (creditors) control account."
+  },
+  {
+    "id": "accounting-1788679750926-43-1393",
+    "questionText": "<b>Use the information below to answer question 28 and 29.\nRaw materials inventory at the beginning of a period was ₦ 46,800 and at the close of the period there was a balance of ₦38,600. From the purchases made during the period, defective materials costing ₦9,200 were returned. Cost of materials consumed during the period was ₦448,500.</b>\n\nWhat was the cost of materials available for use during the period? (JAMB 199)",
+    "options": [
+      "₦487,100",
+      "₦449,500",
+      "₦448,500",
+      "₦440,300"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Opening inventory + (Purchases − Returns) \nFrom the previous calculation, Purchases = ₦449 500 and Returns = ₦9 200, so net purchases = ₦449 500 − ₦9 200 = ₦440 300.\n\nMaterials available = ₦46,800 + ₦440,300 = ₦487,100"
+  },
+  {
+    "id": "accounting-1788679750926-44-244",
+    "questionText": "Which of the following is not a debit item in a creditor’s control \taccount? (JAMB 2006)",
+    "options": [
+      "Cash paid",
+      "Returns outwards",
+      "Purchases",
+      "Discounts received"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-45-1175",
+    "questionText": "The normal accounting entry to record the dishonor of a businessman is to? (JAMB 2002)",
+    "options": [
+      "debit cash book and credit suspense account",
+      "debit cash book and credit drawer",
+      " credit caah book and debit suspense account",
+      " credit cash book and debit drawer"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Reason: When a bill or cheque is dishonoured, the amount is removed from the cash/bank (credit cash book) and reinstated as a receivable from the person who gave it (debit drawer)."
+  },
+  {
+    "id": "accounting-1788679750926-46-239",
+    "questionText": "Prime cost is (JAMB 2006)",
+    "options": [
+      "D120,500",
+      "D117,700",
+      "D114,900",
+      "D114,300."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-47-503",
+    "questionText": "One of the purposes of maintaining the account of a branch at the head office is to (JAMB 2009)",
+    "options": [
+      "record charges in shareholdings",
+      "record charges in liabilities",
+      "check the excesses of customers",
+      "check the excesses of members of staff."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-48-200",
+    "questionText": "An expense becomes an accrual because it (JAMB 1997)",
+    "options": [
+      "is due for payment",
+      "is a Profit and Loss Account item",
+      "is a Trading Account item",
+      "is to be paid within the next one year"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-49-856",
+    "questionText": "A rent of ₦50,000 was paid by samson to his landlady by cheque. The double entry in Samson's book is (JAMB 2022)",
+    "options": [
+      "Debit rent account, Credit bank account\n",
+      "Debit Rent account, Credit Samson's account\n",
+      "Debit Bank account, Credit Rent account\n",
+      "Debit Samson's account, Credit Rent account\n"
+    ],
+    "correctAnswer": "A",
+    "explanation": "In double entry bookkeeping:\n\nRent is an expense, so it is debited.\n\nBank is an asset, and since money is going out of the bank, it is credited.\n\nSo, when Samson pays ₦50,000 rent by cheque:\n\nDebit Rent Account (to record the expense)\n\nCredit Bank Account (to show the payment made)"
+  },
+  {
+    "id": "accounting-1788679750926-50-888",
+    "questionText": "The following appears in the trading account except (JAMB 2023)",
+    "options": [
+      " carriage inward",
+      " opening stock",
+      " carriage outward",
+      "sales"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Carriage outward is an expenses and it does not appear in the trading account but appears in the profit and loss account."
+  },
+  {
+    "id": "accounting-1788679750926-51-1384",
+    "questionText": "The balance on a purchase ledger control account represents the? (JAMB 199)",
+    "options": [
+      "present amount that a business owes its suppliers at date",
+      " total credit avaiable to the end of the year to be utilized in future",
+      " total credit the business enjoyed for the particular year from its suppliers",
+      "total credit owd the business by its customers"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The balance on the purchase ledger control account represents the present amount that the business owes its suppliers at that date."
+  },
+  {
+    "id": "accounting-1788679750926-52-79",
+    "questionText": "…………………checks the arithmetical accuracy of double entry accounts  (JAMB 2013)",
+    "options": [
+      "trading account ",
+      "profit and loss account ",
+      "balance sheet ",
+      "trial lance"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-53-966",
+    "questionText": "Which of the following accounting conventions suggests that accountants should use a method of valuation that understates rather than over-states results? (JAMB 2008)",
+    "options": [
+      "Conservatism",
+      "Historical",
+      "Monetary",
+      "Cost"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The conservatism (or prudence) convention in accounting states that when there is uncertainty, accountants should choose the method that is least likely to overstate assets or income and more likely to recognize potential losses early."
+  },
+  {
+    "id": "accounting-1788679750926-54-260",
+    "questionText": "When closing stock is overstated, it would reduce (JAMB 2012)",
+    "options": [
+      "cost of sales and increase gross profit.",
+      "gross profit and increase cost of sales.",
+      "purchases and increase sales.",
+      "sales and increase purchases."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-55-915",
+    "questionText": "Discount allowed is enjoyed by (JAMB 2023)",
+    "options": [
+      "managers",
+      "customers",
+      " staff of the company",
+      "suppliers"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Discount allowed is allowed by a firm to its customers when they pay their accounts quickly or promptly."
+  },
+  {
+    "id": "accounting-1788679750926-56-1041",
+    "questionText": "<b>Use the information below to answer questions 27 to 28</b>\n\nPurchase:..Raw materials.................₦15 000\nFinished goods...........................₦11 400\nStock:....(1/7/01)Raw materials..........₦2 250\nWork-in-progress.........................₦1 875\nWages:.....Direct........................₦17 100\nIndirect.................................₦5 400\nStock:.....(30/06/02)Raw materials.......₦3 000\nWork-in-progress.........................₦3 375\n\nThe cost of raw materials consumed is? (JAMB 2005)",
+    "options": [
+      "₦17 250",
+      "₦15 750",
+      "₦15 000",
+      "₦14 250"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Opening raw materials = ₦2,250\nAdd: Purchases of raw materials = ₦15,000\nLess: Closing raw materials = ₦3,000\n\n\nRaw materials consumed = 2,250 + 15,000 − 3,000 = ₦14,250"
+  },
+  {
+    "id": "accounting-1788679750926-57-64",
+    "questionText": "Where no partnership agreements exist, a partner who puts a sum of money into a firm in excess of the capital he has agreed to subscribe is entitled to interest rate per annum on such money  (JAMB 2013)",
+    "options": [
+      "15%",
+      "10%",
+      "5%",
+      "2%"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-58-489",
+    "questionText": "What is the net working capital? (JAMB 2009)",
+    "options": [
+      "N 2,600",
+      "N1,800",
+      "N 800",
+      "N 600"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-59-1436",
+    "questionText": "The principle use of control accounts is to (JAMB 1997)",
+    "options": [
+      " localize error within the ledger",
+      " prevent fraud",
+      "increase sales",
+      "record assets and liabilities"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Control accounts (like the sales ledger control account and purchases ledger control account) are used to check the accuracy of postings in the subsidiary ledgers. By comparing the totals, errors can be quickly identified and localized."
+  },
+  {
+    "id": "accounting-1788679750926-60-504",
+    "questionText": "Which of the following is a common cause of a discrepancy between head office and branch trial balance? (JAMB 2009)",
+    "options": [
+      "Debtors and cash in transit",
+      "Creditors and cash in transit",
+      "Stock and cash in transit",
+      "Stock and prepayments"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-61-1280",
+    "questionText": "<b>Use the information below to answer questions 15 and 16</b>\nCost of raw materials consumed ₦300,600, carriage inwards ₦6,700, returns of raw materials ₦10,800, closing stock of raw materials ₦100,250, raw materials purchased during the year ₦350,000, manufacturing wages ₦27,000, and lighting, power, insurance and rent in relation to the factory are apportioned 1/3, 2/5, 1/6 and 1/7 with totals ₦30,000, ₦75,000, ₦36,000 and ₦56,000 respectively.\nThe production cost of finished goods is (JAMB 2000)",
+    "options": [
+      "₦ 524,600",
+      "₦408,600",
+      "₦381,600",
+      "₦327,600"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Production Cost = Raw Materials Consumed + Direct Labor + Factory Overheads\nStep 1: Raw Materials Consumed\n= ₦300,600\nStep 2: Direct Labor (Manufacturing Wages)\n= ₦27,000\nStep 3: Factory Overheads\nCalculate the factory portions of each overhead:\n\nLighting: 1/3 × ₦30,000 = ₦10,000\nPower: 2/5 × ₦75,000 = ₦30,000\nInsurance: 1/6 × ₦36,000 = ₦6,000\nRent: 1/7 × ₦56,000 = ₦8,000\n\nTotal Factory Overheads = ₦10,000 + ₦30,000 + ₦6,000 + ₦8,000 = ₦54,000\nStep 4: Calculate Total Production Cost\nProduction Cost = ₦300,600 + ₦27,000 + ₦54,000 = ₦381,600"
+  },
+  {
+    "id": "accounting-1788679750926-62-183",
+    "questionText": "Accumulated depreciation at the time of sale was (JAMB 1997)",
+    "options": [
+      "N= 16,000",
+      "N=  14,000",
+      "N=  12,000",
+      "N=  8,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-63-1275",
+    "questionText": "A general journal contains? (JAMB 2000)",
+    "options": [
+      "date, narration, folio, debit, and purchases",
+      "date, narration, folio, debit and purchase",
+      " folio, credit, date, debit and sales",
+      "debit, credit, narration, and date"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The general ledger contains the date of the transaction, a description of the details of the transactions, the debit column that shows all the debit entries, the credit column that records all the credit entries of the account.\n\nHence we have; date, description, debit, and credit column"
+  },
+  {
+    "id": "accounting-1788679750926-64-1362",
+    "questionText": "Given:\n\nTotal cash received from debtors 30,000\nTotal purchases for the period 21,000\nAmount owed by debtors at the beginning of the period 4,000\nEquipment bought 2,500\nAmount owed by debtors at the end of the period 3,000\nDetermine the value of sales for the period (JAMB 1999)",
+    "options": [
+      " ₦29,000",
+      " ₦ 31,500",
+      "₦46,500",
+      "₦50,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find the value of sales for the period, use the debtors control account approach.\nGiven information:\n\nCash received from debtors: ₦30,000\nOpening debtors: ₦4,000\nClosing debtors: ₦3,000\nTotal purchases: ₦21,000 (not relevant for sales calculation)\nEquipment bought: ₦2,500 (not relevant for sales calculation)\n\nUsing the Debtors Control Account:\nOpening debtors + Sales - Cash received = Closing debtors\nCalculation:\n₦4,000 + Sales - ₦30,000 = ₦3,000\nSales = ₦3,000 - ₦4,000 + ₦30,000\nSales = ₦29,000"
+  },
+  {
+    "id": "accounting-1788679750926-65-204",
+    "questionText": "Which of the following best describes the path of a transaction? (JAMB 1997)",
+    "options": [
+      "Source documents to Journal to Ledger",
+      "Source documents to Ledger to Journal",
+      "Journal to Ledger to source documents",
+      "Journal to source documents to Ledger"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-66-327",
+    "questionText": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it will be used for more than one year is (JAMB 2015)",
+    "options": [
+      "materiality",
+      "accrual",
+      "going concern",
+      "business entity"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-67-754",
+    "questionText": "A proprietor withdraws cash from the business for private use, he (JAMB 2019)",
+    "options": [
+      "credits cash account and debits bank account",
+      " credits cash account and debits drawing A/C",
+      "debits cash account and credits drawings account",
+      "debits bank account and credits drawings account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "When a proprietor withdraw cash for private use, himself or owner's use, it is regarded as drawings.\nThe account involve is cash and drawings account. Therefore, the cash account gives while the drawings account receives."
+  },
+  {
+    "id": "accounting-1788679750926-68-1012",
+    "questionText": "<b>Use the information below to answer question 47 to 48.</b>\n\nWhich of the following is true of Uju Nig.Ltd? (JAMB 2008)",
+    "options": [
+      "It is a highly geared company",
+      "It has no liquidity problem in the short term",
+      " It is adequately secured in fixed assets",
+      " It's working capital is zero"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Current assets = Stock + Debtors + Bank = 20,000 + 50,000 + 50,000 = ₦120,000\nCurrent liabilities = Creditors = ₦80,000\n\nCurrent ratio = 120,000 : 80,000 = 1.5 : 1\nWorking capital = 120,000 − 80,000 = ₦40,000 (positive)"
+  },
+  {
+    "id": "accounting-1788679750926-69-1017",
+    "questionText": "The journal entries for the purchase of stock on credit are to debit? (JAMB 2005)",
+    "options": [
+      "stock account and credit cash account",
+      "stock account and credit liability account",
+      "ourchase account and credit liability account",
+      " suspense account and credit cash account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Explanation: buying stock on credit increases inventory (debit Stock) and creates a liability (credit Accounts Payable)."
+  },
+  {
+    "id": "accounting-1788679750926-70-1045",
+    "questionText": "The not-for-profit-making organizations generate their income mainly from? (JAMB 2005)",
+    "options": [
+      "bar sales",
+      "subcriptions",
+      "rents",
+      "pools"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Non-profit organizations—like clubs and associations—usually rely mainly on subscriptions paid by members as their primary source of income, while other sources like bar sales or rent are supplementary."
+  },
+  {
+    "id": "accounting-1788679750926-71-185",
+    "questionText": "In Manufacturing Account, prime cost plus factory overhead is known as (JAMB 1997)",
+    "options": [
+      "conversion cost",
+      "cost of raw materials consumed",
+      "total cost",
+      "production cost"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-72-462",
+    "questionText": "Determine the amount provided for discount allowed on debtors. (JAMB 2007)",
+    "options": [
+      "N 1 000",
+      "N 3000",
+      "N 900",
+      "N1500."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-73-849",
+    "questionText": "Statement of assets and liabilities as at 31st December, 2001.\n\nShareholders' interest ₦240\n\nCurrent liabilities ₦20\n\nCurrent assets ₦110\n\nFixed assets ₦140\nWhat is the networking capital? (JAMB 2022)",
+    "options": [
+      "₦90",
+      "₦70",
+      "₦100",
+      "₦80"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Working capital (also called net working capital) is calculated as Current Assets minus Current Liabilities.\nWorking Capital = Current Assets - Current Liabilities\nWorking Capital = ₦110 - ₦20 = ₦90\nThe working capital is ₦90."
+  },
+  {
+    "id": "accounting-1788679750926-74-923",
+    "questionText": "Which fund is used to meet unforeseen or urgent expenditure (JAMB 2023)",
+    "options": [
+      "special fund",
+      " contigencies fund",
+      "general reserve fund",
+      " consolidated reserve fund"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Contigency fund is established by the constitution of 1979 to take care of any nation disaster or unforeseen circumstances."
+  },
+  {
+    "id": "accounting-1788679750926-75-1121",
+    "questionText": "<b>Use the information below to answer questions 6 and 7.</b>\n\nEzekiel Malgwi is a retailer. He recorded sales representing\n95% cash and 5% credit. He took the total cash sales of ₦19,000 from the business tray and banked it.\n\nThe transaction would be recorded in the cash\nbook as debit (JAMB 2003)",
+    "options": [
+      "cash and credit bank",
+      "bank and credit cash",
+      "cash and credit cash",
+      "bank and credit bank"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Reason: banking the cash means you debit the Bank (increase bank balance) and credit Cash (cash in hand decreases)."
+  },
+  {
+    "id": "accounting-1788679750926-76-73",
+    "questionText": "Companies and  Allied  Matters  Act. 1990 requires  every  company   to  keep  certain statutory books. Which of the following is not part of the statutory books to be kept by the company?  (JAMB 2013)",
+    "options": [
+      "register of directors and secretaries ",
+      "a register of charges (fixed and floating) ",
+      "minutes books of meetings of the company and meetings of its directors ",
+      "a register of companies in the same line of business"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-77-984",
+    "questionText": "The main purpose of control account is to? (JAMB 2008)",
+    "options": [
+      "detect errors and irregularities",
+      "assist purchases",
+      "assist sales",
+      "check management incompetence"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Control accounts are fundamental internal control mechanisms designed to maintain accuracy and integrity in accounting records through systematic error detection and prevention of irregularities."
+  },
+  {
+    "id": "accounting-1788679750926-78-575",
+    "questionText": "The effect of overstating revenue expenditure in the profit and loss account is that the (JAMB 2016)",
+    "options": [
+      "opening stock will be increased",
+      "net profit will be understand",
+      "net profit will be overstead",
+      "opening stock will be decreased"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Overstating revenue expenditure means you’re charging too much expense against income, which reduces reported profit"
+  },
+  {
+    "id": "accounting-1788679750926-79-546",
+    "questionText": "Use the information below to answer this question\n\nSegun Ojo, didn’t keep her books on double principle. On 1st Jan, 2014, cash in hand was 850, bank overdraft 3500, debtor 15,500,stock 18,000, fittings 9,000 and creditors 12,700. As at Dec, 2014, cash in hand was 1200, cash at bank 2,500, debtors 10,000, stock 20,500, furnishing 4,000 and creditors 17,000\n\nCompute the capital as at 1st Jan, 2014. (JAMB 2015)",
+    "options": [
+      "27,150",
+      "43,350",
+      "16,200",
+      "34,350"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find Segun Ojo’s capital at 1 Jan 2014, take all assets less all liabilities at that date:\n\nOpening assets\n\nCash in hand: ₦ ⁠850\n\nDebtors: ₦ 15 500\n\nStock: ₦ 18 000\n\nFittings: ₦ ⁠9 000\nTotal assets = 850 + 15 500 + 18 000 + 9 000 = ₦ 43 350\n\nOpening liabilities\n\nBank overdraft: ₦ ⁠3 500\n\nCreditors: ₦ 12 700\nTotal liabilities = 3 500 + 12 700 = ₦ 16 200\n\nOpening capital = Total assets – Total liabilities\n= 43 350 – 16 200\n= ₦ 27 150"
+  },
+  {
+    "id": "accounting-1788679750926-80-1248",
+    "questionText": "Marhumu and Yusuf are in partnership sharing profits and losses in the ratio of 2:1. On 31/3/2000, the partnership decided to admit Idris who is to take 1/4 of future profits without changing the ratio of Marhumu and Yusuf.\nWhat is the new profit-sharing ratio of Marhumu and Yusuf? (JAMB 2001)",
+    "options": [
+      "50% : 25%",
+      "50% : 20%",
+      "25% : 50%",
+      "25% :25%"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step 1: Understand the current situation\n\nMarhumu and Yusuf share profits in ratio 2:1\nThis means Marhumu gets 2/3 and Yusuf gets 1/3 of total profits\n\nStep 2: Calculate remaining profits after Idris joins\n\nIdris will take 1/4 of future profits\nRemaining profits for Marhumu and Yusuf = 1 - 1/4 = 3/4\n\nStep 3: Calculate new sharing ratio\nSince the ratio between Marhumu and Yusuf remains 2:1, they will share the remaining 3/4 in the same proportion:\n\nMarhumu's new share = 2/3 × 3/4 = 6/12 = 1/2 = 50%\nYusuf's new share = 1/3 × 3/4 = 3/12 = 1/4 = 25%"
+  },
+  {
+    "id": "accounting-1788679750926-81-132",
+    "questionText": "The ratio that gives the indication of the efficiency of a firm’s sales with respect to cost of goods sold is a (JAMB 2016)",
+    "options": [
+      "return on capital employed",
+      "gross profit margin",
+      "net profit margin",
+      "return on equity."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-82-1372",
+    "questionText": "The purchase of two generators by Hassan Electronics Enterprises should be recorded as? (JAMB 1998)",
+    "options": [
+      "an acquistion of fixed assets",
+      "an expenses in its general office expenses account",
+      "an acquistion of stock",
+      "a part of capital in the capital account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Generators are not items meant for resale (stock), nor are they everyday operational costs (expenses).\n\nThey are long-term assets used in the running of the business, typically for providing power to the premises.\n\nTherefore, the purchase of generators is considered an acquisition of fixed assets, such as equipment or machinery."
+  },
+  {
+    "id": "accounting-1788679750926-83-977",
+    "questionText": "The medium that enables the ATM to read the account details and process transaction directly with the account held in the bank is the? (JAMB 2008)",
+    "options": [
+      "smart card",
+      "communication network",
+      "magnetic strip",
+      "computerized account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The magnetic strip on your ATM card is what enables the machine to read your account details and process transactions."
+  },
+  {
+    "id": "accounting-1788679750926-84-1057",
+    "questionText": "The accounting method that reports incomes when earned and expenses when incurred is called? (JAMB 2005)",
+    "options": [
+      "cash accounting",
+      "commitment accounting",
+      "fund accounting",
+      "accrual accounting"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Accrual accounting records income when it is earned (not necessarily when cash is received) and expenses when they are incurred (not necessarily when cash is paid).\n\nThis method gives a more accurate picture of financial performance than cash accounting, which only records transactions when cash changes hands."
+  },
+  {
+    "id": "accounting-1788679750926-85-1148",
+    "questionText": "<b>Use the information below to answer questions 34 and 35</b>\n\nTotal sales of ticket.......................₦300 000\nAmount received from the sales..............₦260 000\nCash purchase of club house.................₦100 000\nCredit purchase of equipment ...............₦60 000\nElectricity bill paid ......................₦5 000\nSalaries owed ..............................₦2 000\n\nWhat is the receipts and payment account balance? (JAMB 2003)",
+    "options": [
+      "₦260 000",
+      "₦233 000",
+      "₦155 000",
+      "₦100 000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Receipts:\n  Cash from sales = ₦260,000\n\nPayments (cash):\n  Cash purchase of clubhouse = ₦100,000\n  Electricity paid = ₦5,000\n  Total payments = ₦105,000\n\nBalance = Receipts − Payments = ₦260,000 − ₦105,000 = ₦155,000\n(credit purchase of equipment and salaries owed are not cash transactions, so they’re excluded from the receipts & payments account.)"
+  },
+  {
+    "id": "accounting-1788679750926-86-836",
+    "questionText": "Use the information below to answer this question\nAt the end of a financial period, the trading profit and loss account of a sole trader shows a profit of \n₦180,000 it is however discovered that revenue of \n₦15,000 is recorded as expenses while expenses of\n₦4,000 is recorded as revenue.\n\nDetermine the adjusted net profit (JAMB 2021)",
+    "options": [
+      "₦202,000",
+      "₦210,000",
+      "₦195,000",
+      "₦184,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The net profit is understated by ₦22,000 (₦15,000 mis‐posted revenue → expense: −2×15,000 = −30,000; ₦4,000 mis‐posted expense → revenue: +2×4,000 = +8,000), so:\n\n\nAdjusted Net Profit = ₦180,000 + 22,000 = ₦202,000"
+  },
+  {
+    "id": "accounting-1788679750926-87-480",
+    "questionText": "What is the total debit for the trial balance? (JAMB 2009)",
+    "options": [
+      "N  4 690 000",
+      "N 2 620 000",
+      "N  2 520 000",
+      "N 1 565 000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-88-1416",
+    "questionText": "In preparing accounting records, the owner of a business and the business are treated as (JAMB 1997)",
+    "options": [
+      "the same person",
+      " having business relationship",
+      "separate legal entities",
+      "partners"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Under the entity (or business) assumption in accounting, the business’s transactions are recorded and reported separately from the personal transactions of its owner. This allows the financial statements to reflect only the business’s financial performance and position."
+  },
+  {
+    "id": "accounting-1788679750926-89-642",
+    "questionText": "An advantage of FIFO method of stock valuation is that (JAMB 2017)",
+    "options": [
+      "it serves-as a control during inflation",
+      "it is calculated at the end of the year",
+      " it is progressive in nature",
+      "its flow of cost is in sequence with the flow of stock."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The major advantage of the first in first out(FIFO) method of stock valuation\n\n1. it is very easy to apply\n\n2. no manipulation of income is possible\n\n3. the balance sheet amount for inventory is likely to approximate the current market value\n\n4. its flow of cost is in sequence with the flow of stock. Since the first stock will be considered for sale before other stock. the cost is always in sequence with the flow of stock because it corresponds with the normal physical flow of goods"
+  },
+  {
+    "id": "accounting-1788679750926-90-220",
+    "questionText": "The amount set aside out of profits earned by a company which are not meant for liability or contingency are (JAMB 2006)",
+    "options": [
+      "dividends",
+      "provisions",
+      "retained profits",
+      "reserves"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-91-281",
+    "questionText": "The portion of authorized capital that has been allotted to subscribers is (JAMB 2012)",
+    "options": [
+      "called up capital",
+      "paid up capital.",
+      "issued capital",
+      "nominal capital."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-92-1347",
+    "questionText": "Dele and Seun who are in partnership, have decided to covert their business into a limited liability company where both become directors. To convert the business? (JAMB 1999)",
+    "options": [
+      "they will simply continue since there are no new members",
+      "the partnership is formally ended and new company books opened",
+      "the shares and all other items will be shared equally and not in their former ratios",
+      "computation of goodwill must be done as it is legally required"
+    ],
+    "correctAnswer": "B",
+    "explanation": "When a partnership is converted into a limited liability company (LLC), it is considered a new legal entity. Therefore:\n\nThe partnership must be legally dissolved.\n\nA new set of books of account must be opened for the new company.\n\nThe assets and liabilities of the former partnership are usually transferred to the new company.\n\nThe partners may become shareholders or directors in the new company."
+  },
+  {
+    "id": "accounting-1788679750926-93-62",
+    "questionText": " Which one of the following is not part of a company's equity capital? (JAMB 2012)",
+    "options": [
+      "Ordinary shares",
+      "Preference shares",
+      "Voting Shares",
+      "Equity shares"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-94-963",
+    "questionText": "Peripherals are used in computer to describe (JAMB 2024)",
+    "options": [
+      "inputs, output and storage devices",
+      "computer types",
+      "method of inputting data",
+      "computer functions"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Peripherals in computing refer to the devices or components that are connected to a computer system to provide input, output, and storage capabilities. These devices expand the functionality of the computer and enable users to interact with it.\nExamples of peripherals include keyboards, mice, monitors, printers, scanners, speakers, external hard drives, USB drives, and network adapters. These devices allow users to input data into the computer, receive output from the computer, and store data for later use."
+  },
+  {
+    "id": "accounting-1788679750926-95-42",
+    "questionText": "Retained earnings will change over time because of several factors.  Which of the following factors would explain an increase in retained earning? (JAMB 2012)",
+    "options": [
+      "Net loss ",
+      "Net income,",
+      "Dividends ",
+      "investment by stakeholders."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-96-717",
+    "questionText": "A statement in a double-entry system in which are recorded all the transactions of one specific class, which takes place during the period is called (JAMB 2019)",
+    "options": [
+      "Double entry system",
+      "Ledger",
+      "Cash Book",
+      "Petty Cash Book"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A ledger is a separate record within the general ledger that is assigned to a specific asset, liability, equity item, revenue type, or expense type. Examples of ledger accounts are: Cash, Accounts receivable."
+  },
+  {
+    "id": "accounting-1788679750926-97-638",
+    "questionText": "The following are the importance of branch account except (JAMB 2017)",
+    "options": [
+      "it enable the organization to determine the branch that is making either profit or loss",
+      " it allows proper control over the branch by the head office",
+      "it assist the organization to determine the performance of a branch manager",
+      "it allows fraud and wastage of resources"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The activities and resources of branches is strictly monitored by the head office and each branch is supplied according to its need so it will be difficult to commit fraud or waste any resources"
+  },
+  {
+    "id": "accounting-1788679750926-98-1147",
+    "questionText": "A company has departments M and ₦. The expenses incurred wholly in M is ₦5000. General expenses incurred amount to ₦25000. Expenses are apportioned in the ratio 2:3 for departments M and ₦ respectively.\nWhat is ₦'s share of the expense? (JAMB 2003)",
+    "options": [
+      "₦10 000",
+      "₦15 000",
+      "₦18 000",
+      "₦20 000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Workings: General expenses ₦25,000 apportioned 2:3 (M:N).\n\nN’s share = 3/(2+3) × 25,000 = 3/5 × 25,000 = ₦15,000.\n\n\n(The ₦5,000 spent wholly in M does not affect N’s share.)"
+  },
+  {
+    "id": "accounting-1788679750926-99-734",
+    "questionText": "Which of these will not appear in the preparation of control account.\nI. Bad debts\nII. Discounts\nIII. Returns\nIV. Provision for bad debts (JAMB 2019)",
+    "options": [
+      "I only",
+      "II and III",
+      "I and III only",
+      "IV only"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Provision for bad debts and trade discount allowed will not appear in the account."
+  },
+  {
+    "id": "accounting-1788679750926-100-190",
+    "questionText": "The mark-up is (JAMB 1997)",
+    "options": [
+      "N  15,000",
+      "N 9,000",
+      "N  4,000",
+      "N  3,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-101-1009",
+    "questionText": "<b>Use the information below to answer question 44 to 45.</b>\n\nTrading Account (Extract)\n\nOpening stock .......... ₦19,500\nAdd: Purchases ........ ₦68,700\nGoods available for sale .. ₦88,200\n\nSales .................. ₦96,000\nLess: Closing stock ..... ?\nCost of goods sold ..... ?\nGross profit c/d ....... ?\n\nGross profit margin = 20%\n\nDetermine the closing stock (JAMB 2008)",
+    "options": [
+      "₦76 800",
+      "₦67 800",
+      "₦14 100",
+      "₦11 400"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Given:\n  Opening stock = ₦19,500\n  Purchases     = ₦68,700\n  Goods available = 19,500 + 68,700 = ₦88,200\n\n  Sales = ₦96,000\n  Gross profit margin = 20% of sales\n  Gross profit = 0.20 × 96,000 = ₦19,200\n\n  Cost of goods sold = Sales − Gross profit\n                     = 96,000 − 19,200\n                     = ₦76,800\n\n  Closing stock = Goods available − Cost of goods sold\n                = 88,200 − 76,800\n                = ₦11,400"
+  },
+  {
+    "id": "accounting-1788679750926-102-619",
+    "questionText": "Given:\nI. Cash refunds\nII. Debit note issued\nIII. Dishonored cheque\nIV. Purchases\nThe item on the credit side of purchases ledger control account includes (JAMB 2017)",
+    "options": [
+      " I, II and III only",
+      " I and II only",
+      "III and IV only",
+      "I, III and IV only"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The credit side of the Purchases Ledger Control Account shows items that increase the amount you owe to suppliers. These are:\n\nIII. Dishonoured cheque, because a bounced cheque reverses a payment and increases your outstanding balance.\n\nIV. Purchases, as credit purchases directly raise your payables.\n\nCash refunds (I) and debit notes issued (II) reduce what you owe and therefore appear on the debit side."
+  },
+  {
+    "id": "accounting-1788679750926-103-482",
+    "questionText": "What are the current liabilities? (JAMB 2009)",
+    "options": [
+      "I and II",
+      "IV and V",
+      "Ill and V",
+      "II and IV"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-104-981",
+    "questionText": "<b>Use the information below to answer questions 17 to 18.</b>\n\nAug. 1 Received 20 units at ₦60 each\nAug. 6 Received 20 units at ₦68 each\nAug. 10 Issued 16 units\nAug. 20 Received 40 units at ₦80 each\nAug. 31 Issued 48 units\n\nUsing the simple average method, what is the cost per unit of the closing stock? (JAMB 2008)",
+    "options": [
+      "₦80",
+      "₦72",
+      "₦64",
+      "₦60"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Calculate the average cost after each receipt\n\nAug. 1\n\nReceived 20 units @ ₦60\n\nAverage cost = ₦60 (only one purchase so far)\n\nAug. 6\n\nReceived 20 units @ ₦68\n\nSimple average = (60 + 68)/2 = 128/2 = ₦64 per unit\n\nStep 2: Issue stock (Aug. 10)\n\nIssued 16 units at ₦64 each (no change in average price — simple average method keeps cost until next purchase)\n\nBalance after issue = 20 + 20 − 16 = 24 units @ ₦64\n\n\nStep 3: Aug. 20 purchase\n\nReceived 40 units @ ₦80\n\n₦ew average = (64 + 80)/2 = 144/2 = 72 per unit\n\n\nStep 4: Aug. 31 issue\n\nIssued 48 units @ ₦72 (still same average after last purchase)\n\nClosing stock units = 24 + 40 − 48 = 16 units @ ₦72\n\nCost per unit of closing stock = ₦72"
+  },
+  {
+    "id": "accounting-1788679750926-105-289",
+    "questionText": "Which of the following errors affects the agreement of a Trial Balance? (JAMB 2012)",
+    "options": [
+      "Wrong addition in the sales account",
+      "Crediting a purchase to A. Tambi’s account instead of F. Tambi’s account",
+      "Failure to enter sales in the books",
+      "Posting the purchase of a van to the debit side of the purchases account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-106-92",
+    "questionText": "The double entry principle states that (JAMB 2013)",
+    "options": [
+      "every debit entry must have a corresponding credit entry",
+      "every credit entry must have a corresponding double entry",
+      "every debit entry must have a corresponding double entry",
+      "every asset must have a corresponding liability."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-107-944",
+    "questionText": "The return on debenture holding is (JAMB 2024)",
+    "options": [
+      "share bonus",
+      "interest",
+      "net profit",
+      "dividend"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Debentures are essentially loans that a company issues to investors. In return for investing in the debenture, the investor receives periodic interest payments at a predetermined rate. This interest is a fixed obligation of the company, regardless of its profitability."
+  },
+  {
+    "id": "accounting-1788679750926-108-501",
+    "questionText": "What is the accumulated fund? (JAMB 2009)",
+    "options": [
+      "23,700",
+      "27,750",
+      "29,650",
+      "51,650"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-109-706",
+    "questionText": "The rent expense for Trendy store is ₦3500. Trendy store has three departments; jewelry, hair dressing, and clothing. The floor spaces occupied by the departments are 3:2:5 respectively. What is the rent allocated to clothing department? (JAMB 2018)",
+    "options": [
+      "₦700",
+      "₦1050",
+      " ₦1750",
+      "₦3500"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Jewelry 3/10 x 3500 = 1050\n\nHairdressing 2/10 x 3500 = 700\n\nClothing 5/10 x 3500 = 1750"
+  },
+  {
+    "id": "accounting-1788679750926-110-39",
+    "questionText": "Subscription   received   in   respect of a future period is (JAMB 2011)",
+    "options": [
+      "Subscription deposit",
+      "Subscription in advance",
+      "Accrued subscription",
+      "Subscription in arrears"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-111-1015",
+    "questionText": "The double principle of accounting was developed by? (JAMB 2005)",
+    "options": [
+      "Frank Wood",
+      "Luca Pacioli",
+      "Akintola Williams",
+      "William Pickles"
+    ],
+    "correctAnswer": "B",
+    "explanation": "He described the double-entry (double principle) system in his 1494 book Summa de arithmetica, earning him the title \"father of accounting.\""
+  },
+  {
+    "id": "accounting-1788679750926-112-14",
+    "questionText": "Money set aside for the saving of business overheads    is    referred    to    (JAMB 2010)",
+    "options": [
+      "Capital Expenditure  ",
+      "Revenue  Expenditure ",
+      "Revenue receipts",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-113-1334",
+    "questionText": "In dealing with incomplete records, fixed assets are posted to? (JAMB 1999)",
+    "options": [
+      "opening profit and loss as brought forward figures",
+      "closing balance sheet as carried forward figures",
+      "closing balance sheets as brought forward figures",
+      "closing profit and loss as brought forward figures"
+    ],
+    "correctAnswer": "B",
+    "explanation": "In reconstructing accounts from incomplete records, fixed assets are included in the Statement of Affairs (i.e. the makeshift balance sheet) at their closing values. These closing balances on the balance sheet are then carried forward as the opening figures for the next period."
+  },
+  {
+    "id": "accounting-1788679750926-114-376",
+    "questionText": "The accounting ratio used to measure the average number of days for which suppliers remain unpaid is (JAMB 2014)",
+    "options": [
+      "stock turnover",
+      "creditors’ payment period",
+      "debtors collection period",
+      "return on capital employed"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-115-812",
+    "questionText": "During the year, the business had an opening debtors balance of ₦25,000. Cheques totalling ₦255,000 were received from debtors, and the closing debtors balance was ₦15,000. What was the total credit sales for the year? (JAMB 2021)",
+    "options": [
+      " ₦245,000",
+      "₦215,000",
+      ". ₦295,000",
+      " ₦265,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using the debtors control account formula:\nSales = Receipts from debtors + Closing debtors – Opening debtors\nSales = ₦255,000 + ₦15,000 – ₦25,000 = ₦245,000."
+  },
+  {
+    "id": "accounting-1788679750926-116-1220",
+    "questionText": "<b>Use the information below to answer questions 5 and 6.\nGiven:</b>\n\nFixed assets ₦85,600\nSales ₦197,000\nStock ₦34,300\nSalaries ₦37,000\nPurchases ₦127,700\nShare capital ₦120,000\nCreditors ₦16, 050\nMotor expenses ₦10,500\nDebtors ₦25,000\n\nDetermine the total of the trial balance? (JAMB 2001)",
+    "options": [
+      " ₦335,050",
+      "₦333,050",
+      "₦323,050",
+      "₦230,550"
+    ],
+    "correctAnswer": "B",
+    "explanation": "DEBIT BALANCES:\n\nFixed assets: ₦85,600\nStock: ₦34,300\nSalaries: ₦37,000\nPurchases: ₦127,700\nMotor expenses: ₦10,500\nDebtors: ₦25,000\nCash: ₦12,950\nTotal Debits: ₦333,050\n\nCREDIT BALANCES:\n\nSales: ₦197,000\nShare capital: ₦120,000\nCreditors: ₦16,050\nTotal Credits: ₦333,050\n\nSince the trial balance must balance, both debit and credit sides should have the same total.\nThe total of the trial balance is ₦333,050."
+  },
+  {
+    "id": "accounting-1788679750926-117-596",
+    "questionText": "Clifford pays rent of ₦200 per month for premises, He paid ₦2,800 within the year. Compute the prepayment. (JAMB 2016)",
+    "options": [
+      "₦300",
+      " ₦400",
+      "₦600",
+      "₦200"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Annual rent expense at ₦200/month = 12 × ₦200 = ₦2,400\n\nRent paid during the year = ₦2,800\n\nPrepayment (unexpired rent) = ₦2,800 – ₦2,400 = ₦400"
+  },
+  {
+    "id": "accounting-1788679750926-118-90",
+    "questionText": "The capital employed is (JAMB 2013)",
+    "options": [
+      "N=740,000.",
+      "N=580,000.",
+      "N=370,000.",
+      "N=280,000."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-119-853",
+    "questionText": "Which of the following is a debit item in the sales ledger control account (JAMB 2022)",
+    "options": [
+      "Cheque reciepts\n",
+      "Dishonoured cheques\n",
+      "Discount allowed\n",
+      "Bills recievable\n"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Sales Ledger Control Account is a summary account that records transactions with debtors (customers).\n\nDishonoured cheques increase the amount owed by a debtor (because the payment failed), so it is a debit item.\n\nCheque receipts, discount allowed, and bills receivable all reduce what debtors owe, so they are credit items."
+  },
+  {
+    "id": "accounting-1788679750926-120-48",
+    "questionText": "If goods purchased on account is returned, the buyer may inform the seller of the details by issuing: (JAMB 2012)",
+    "options": [
+      "An invoice  ",
+      "A debt memorandum",
+      "A credit memorandum  ",
+      " A bill"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-121-1315",
+    "questionText": "Accrual concept stipulates that? (JAMB 1999)",
+    "options": [
+      "revenue should be recognized when it is earned",
+      "costs should be recognized when the expenditure is paid",
+      "revenue should be recognized only when cash is paid",
+      "costs should be recognized when the are incurred"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The accrual concept requires that revenue is recognized when it is earned, regardless of when cash is received."
+  },
+  {
+    "id": "accounting-1788679750926-122-1176",
+    "questionText": "<b>Use the information below to answer questions 12 and 13.</b> \n\n<b>Statement of assets and liabilities as at 31st December, 2001.</b> \n\nShareholders' interest ₦240 \nCurrent liabilities ₦20 \nCurrent assets ₦110 \nFixed assets ₦140\n\nWhat is the networking capital? (JAMB 2002)",
+    "options": [
+      "₦90m",
+      "₦70m",
+      "₦100m",
+      "₦80m"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Net working capital = Current assets − Current liabilities\n= ₦110m − ₦20m = ₦90m"
+  },
+  {
+    "id": "accounting-1788679750926-123-1363",
+    "questionText": "Capital and revenue expenditures of government are usually accounted for under funds which include? (JAMB 1999)",
+    "options": [
+      "A personal advances, technical, special trust and",
+      " technical, special trusth and commercial funds",
+      "personal advances, treasury clearance and special trusth funds",
+      "commercial loans and treasury clearance funds"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The proper classification of government funds that separately account for capital and revenue outlays includes enterprise (commercial) activities, special trust (fiduciary) funds, and technical or service‐type funds"
+  },
+  {
+    "id": "accounting-1788679750926-124-949",
+    "questionText": "Prime cost consist of direct material and ___ cost (JAMB 2024)",
+    "options": [
+      "overhead",
+      "direct",
+      "indirect",
+      "factory"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Prime cost refers to the direct costs associated with producing a good. These are costs that can be easily traced and directly linked to each unit of production. It consists of direct materials, direct labour and direct cost"
+  },
+  {
+    "id": "accounting-1788679750926-125-332",
+    "questionText": "Which of the following is not stated in the partnership agreement? (JAMB 2015)",
+    "options": [
+      "Profit sharing ratio",
+      "Interest on capital",
+      "Interest on fixed asset",
+      "Purpose of partnership"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-126-168",
+    "questionText": "Alaka who owed Saka N15, 000, settled his deb  after- deducting cash discount of 10%. To record the discount in the book of Saka, debit (JAMB 2016)",
+    "options": [
+      "Saka’s account and credit discount received account",
+      "Alaka’s account and credit discount received account",
+      "discount received account andcredit Alaka’s account",
+      "discount allowed account and credit Alaka’s account."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-127-716",
+    "questionText": "Show how the following transaction will be recorded applying the double-entry principle:\nRent ₦50,000 was paid by Mr. Roi to his landlord on 1st July 2017 by cheque. (JAMB 2019)",
+    "options": [
+      " Dr Rent A/c; Dr Bank A/c",
+      " Dr Bank A/c; Cr Rent A/c",
+      "Dr Rent A/c; Cr Bank A/c",
+      "Dr Rent A/c; Cr Mr. Roi"
+    ],
+    "correctAnswer": "C",
+    "explanation": "In the double-entry principle, we debit income and credit expenses.\n\nThe rent account will be debited with the sum of ₦50,000 in regards to the landlord (because money has been paid in as rent, e.i income), while the bank column will be credited with N50,000 (money has gone out of Mr. Rio bank account via the cheque that was issued to the landlord)"
+  },
+  {
+    "id": "accounting-1788679750926-128-1381",
+    "questionText": "<b>Use the information below to answer questions 17 and 18\n\nIf at 31/1/95 the following information was ascertained (i)Rent shop ₦12,000 paid for the year (ii) Total purchases\n₦15,000 (iii) Total sales ₦8,200 (iv) Stock of goods left ₦10,000 (v) Paid sales boy ₦500.</b>\n\n\nWhat is the new balance sheet total as at31/1/95?",
+    "options": [
+      "₦30 700.",
+      "₦41,500",
+      "₦41,700",
+      "₦48,500."
+    ],
+    "correctAnswer": "A",
+    "explanation": "Opening capital/assets all balanced at ₦40 000.\n\nTrading results for the year to 31 Jan 95:\n\nSales ….. ₦ 8 200\n\nLess COGS = Opening stock (0) + Purchases (₦15 000) – Closing stock (₦10 000) = ₦ 5 000\n\nGross profit = ₦ 8 200 − ₦ 5 000 = ₦ 3 200\n\nLess operating expenses:\n\nRent ….. ₦ 12 000\n\nSales boy salary ….. ₦ 500\n\nNet loss = ₦ 3 200 − (₦ 12 000 + ₦ 500) = ₦ 9 300 loss\n\nClosing capital = Opening ₦ 40 000 − Loss ₦ 9 300 = ₦ 30 700\n\nClosing assets also total ₦ 30 700 (Cash in hand, closing stock, plus furnishing & fan unchanged).\n\nSo the new balance-sheet total at 31 Jan 95 is ₦30 700."
+  },
+  {
+    "id": "accounting-1788679750926-129-301",
+    "questionText": "Which of the following is not an item in the profit and loss account? (JAMB 2012)",
+    "options": [
+      "Drawings",
+      "Interest",
+      "Balances",
+      "Bad debts"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-130-510",
+    "questionText": "The book value per share is obtained by dividing (JAMB 2009)",
+    "options": [
+      "shareholders equity by outstanding shares",
+      "total assets by outstanding shares",
+      "gross profit by outstanding shares",
+      "net profit by outstanding shares"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-131-508",
+    "questionText": "The second and final call account was debited with (JAMB 2009)",
+    "options": [
+      "ordinary share capital account  N 187,500",
+      "12% preference share capital  N  375,000",
+      "bank account  N 187,500",
+      "12% preference share capital account  N 187,500"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-132-1107",
+    "questionText": "The expenses incurred in promoting a company are? (JAMB 2004)",
+    "options": [
+      "promoters' expenses",
+      "floating expenses",
+      "preliminary expenses",
+      "the borad's expenses"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Explanation: Expenses incurred in promoting and forming a company (legal fees, registration, prospectus preparation, etc.) are commonly called preliminary (or formation) expenses."
+  },
+  {
+    "id": "accounting-1788679750926-133-460",
+    "questionText": "The drawings for the period stand at (JAMB 2007)",
+    "options": [
+      "N  2 750",
+      "N  3 750",
+      "N  2 500",
+      "N 2 570."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-134-1189",
+    "questionText": "<b>Use the information below to answer questions 24 and 25.</b>\n\n<b>Subscriptions received are always put at 125% of the total donations received and refreshment sales.</b>\n\nCompute the subscriptions received. (JAMB 2002)",
+    "options": [
+      "₦30000",
+      "₦28000",
+      "₦24000",
+      "₦20000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Subscriptions = 125% × (Donations + Refreshment sales)\n= 1.25 × (₦6,000 + ₦10,000) = 1.25 × ₦16,000 = ₦20,000"
+  },
+  {
+    "id": "accounting-1788679750926-135-17",
+    "questionText": "Final accounts of (i) Cash book (ii) trading account  (iii) Profit and  loss account  (iv)Balance sheet   (JAMB 2010)",
+    "options": [
+      "i only ",
+      "i and ii only",
+      "iii and iv only ",
+      "ii and iii  only"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-136-796",
+    "questionText": "The standing order is a payment instruction given by a (JAMB 2020)",
+    "options": [
+      "customer to a fellow customer",
+      "bank to an employee",
+      "customer to the bank",
+      "bank to the customers"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A standing order is a payment instruction given by a customer to their bank to make regular fixed payments to a specified recipient on predetermined dates. The customer authorizes the bank to automatically transfer a fixed amount from their account at regular intervals (monthly, quarterly, etc.) without requiring further authorization for each payment."
+  },
+  {
+    "id": "accounting-1788679750926-137-1108",
+    "questionText": "Debentures can be redeemed out of? (JAMB 2004)",
+    "options": [
+      "existing share capital reserve",
+      "existing general reserve",
+      " proceeds from new issue of shares",
+      "withholding tax"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Explanation: Debentures can be redeemed out of the proceeds of a fresh issue of shares (and alternatively from profits/reserves available for distribution). They cannot be redeemed out of withholding tax, and \"existing share capital reserve\" as worded is not a correct source."
+  },
+  {
+    "id": "accounting-1788679750926-138-340",
+    "questionText": "The instrument used to release fund which the minister of finance had earlier withheld is (JAMB 2015)",
+    "options": [
+      "reserve expenditure warrant",
+      "supplementary general warrant",
+      "provisional general warrant",
+      "supplementary statutory warrant"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-139-820",
+    "questionText": "Use the information below to answer this question\n\nA company advertised and issued 750,000, 12% preference shares of N1 each to be issued ₦1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on prorata basis.\n\nThe share premium account would be (JAMB 2021)",
+    "options": [
+      "credited with application and allotment ₦187,500",
+      "debited with application and allotment ₦375,000",
+      "debited with application and allotment ₦187,500",
+      " credited with application and allotment ₦375,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Solution (linear):\nTotal shares issued = 750,000\nIssue price per share = ₦1.50 (₦1 ordinary + ₦0.50 premium)\nTotal share premium = 750,000 × ₦0.50 = ₦375,000\n\nSince the entire premium is called up (on allotment) and fully received, the Share Premium Account is credited with ₦375,000."
+  },
+  {
+    "id": "accounting-1788679750926-140-400",
+    "questionText": "Zakari started a business on January 2000. He bought a shop costing N 54,000 and stock worth N 7,600.  Profit for the year amounted to N 22,100. His closing capital was N 73,800. Zakari’s personal drawings amounted to (JAMB 2004)",
+    "options": [
+      "N 2,300",
+      "N9,900",
+      "N 17,100",
+      "N 19,500"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-141-46",
+    "questionText": "If the equipment account has a balance of N22.500 and its accumulated account has a balance of N14,000 the book value of the equipment is:   (JAMB 2012)",
+    "options": [
+      "N22.500   ",
+      "N8.500 ",
+      "N 14,000  ",
+      "N36.500"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-142-601",
+    "questionText": "When the purchase consideration is lower ttan the net asset, the buyer has gained the advantage of (JAMB 2016)",
+    "options": [
+      "capital reserve",
+      "revenue reserve",
+      "net income",
+      "net loss"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Capital Reserve is a type of profit that is earned on capital transactions - an example would be the profit arising from the forfeiture of shares, sales of assets etc"
+  },
+  {
+    "id": "accounting-1788679750926-143-74",
+    "questionText": "The    main    objective   of   the   financial statements is to  (JAMB 2013)",
+    "options": [
+      "provide a true and fair- view of the financial position of the business ",
+      "help managers take correct decisions ",
+      "show every transaction affects two items in the  balance sheet ",
+      "help owners of a business to plan for the future."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-144-1305",
+    "questionText": "A business is required at par when the? (JAMB 2000)",
+    "options": [
+      "purchase consideration equals goodwill",
+      "purchase consideration equals net value",
+      "purchase consideration is greater than the net value",
+      "net assets is greater than the liabilitties"
+    ],
+    "correctAnswer": "B",
+    "explanation": "At par acquisition means the price paid for the business exactly equals the fair value of its net assets (i.e., assets minus liabilities).\n\nIn this case, no goodwill is recognized because there is neither a premium paid nor a discount received on the net assets.\n\nHence, the business is acquired “at par” when the purchase consideration equals the net asset value."
+  },
+  {
+    "id": "accounting-1788679750926-145-813",
+    "questionText": "Given the following departmental information: Department A has a gross profit of ₦6,000 and Department B has a gross profit of ₦4,000, making a total gross profit of ₦10,000. The total expenses are as follows: Salaries and wages ₦3,000, Electricity ₦2,000, and Depreciation ₦1,000, totaling ₦6,000 in expenses. Department A shows salaries and wages of ₦1,800 and depreciation of ₦600, while Department B shows salaries and wages of ₦1,200 and net profit of ₦1,600. The organization apportions expenses in the proportion 60:40 for departments A and B respectively. What is the net profit made by department A? (JAMB 2021)",
+    "options": [
+      " ₦2000",
+      "₦3600",
+      "₦3000",
+      "₦2400"
+    ],
+    "correctAnswer": "D",
+    "explanation": "To find Department A's net profit, allocate the electricity expense using the 60:40 ratio:\nElectricity allocation:\n\nDepartment A: 60% of ₦2,000 = ₦1,200\nDepartment B: 40% of ₦2,000 = ₦800\n\nDepartment A's calculation:\n\nGross profit: ₦6,000\nLess: Salaries and wages: ₦1,800\nLess: Electricity: ₦1,200\nLess: Depreciation: ₦600\nNet profit for Department A = ₦6,000 - ₦1,800 - ₦1,200 - ₦600 = ₦2,400"
+  },
+  {
+    "id": "accounting-1788679750926-146-1321",
+    "questionText": "A source document for the sales day book is? (JAMB 1999)",
+    "options": [
+      "a requisition form",
+      "an invoice",
+      "a customer advice",
+      "a credit advice"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sales invoices provide the details of goods sold on credit and are the primary source for recording entries in the sales day book."
+  },
+  {
+    "id": "accounting-1788679750926-147-467",
+    "questionText": "What will be the equity of the business? (JAMB 2007)",
+    "options": [
+      "N 12,800",
+      "N 4,900",
+      "N 8,200",
+      "N 9,500."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-148-731",
+    "questionText": "Based on the Receipts and Payment Account extract showing: balance brought forward ₦3,650, subscription ₦7,500 less ₦2,000 equals ₦1,000, fees ₦8,500, insurance ₦900, rate ₦11,700, and balance carried down ₦8,050, with totals of ₦20,650 on both sides, and given the following additional information as at 1st January 1999 and 31st December 1999 respectively: rates owing ₦3,600 and ₦2,000, insurance prepaid ₦50 and ₦1,000, subscription in arrears ₦700 and ₦600, calculate the subscriptions in the Income and Expenditure Account. (JAMB 2019)",
+    "options": [
+      "₦8400",
+      "₦7400",
+      "₦6400",
+      "₦7200"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subscriptions in Income and Expenditure Account = Cash received + Closing arrears - Opening arrears\nFrom the Receipts and Payment Account:\n\nCash received for subscriptions = ₦7,500\n\nFrom the additional information:\n\nOpening subscription in arrears (1/1/99) = ₦700\nClosing subscription in arrears (31/12/99) = ₦600\n\nCalculation:\nSubscriptions = ₦7,500 + ₦600 - ₦700 = ₦7,400\nTherefore, the subscriptions in the Income and Expenditure Account is ₦7,400."
+  },
+  {
+    "id": "accounting-1788679750926-149-684",
+    "questionText": "A business has the following balance sheet: Capital ₦40,000, Furnishing ₦10,000, Ceiling Fan ₦1,500, and Cash in Hand ₦28,500, with total assets and liabilities both equaling ₦40,000.\nIf at 31/1/95 the following information was ascertained:\n\nRent for shop ₦12,000 paid for the year\nTotal purchases ₦15,000\nTotal sales ₦8,200\nStock of goods left ₦10,000\nPaid sales boy ₦500\n\nWhat is the balance on its cash account as at 31/1/95? (JAMB 2018)",
+    "options": [
+      "₦22,800",
+      "₦9,200",
+      "₦800",
+      " ₦21,200"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Starting with opening cash balance of ₦28,500, we calculate the cash movements:\nCash Outflows:\n\nRent paid: ₦12,000\nPurchases: ₦15,000\nSales boy wages: ₦500\nTotal cash outflows: ₦27,500\n\nCash Inflows:\n\nSales (assuming cash sales): ₦8,200\n\nCash Balance Calculation:\nOpening Cash + Cash Inflows - Cash Outflows\n= ₦28,500 + ₦8,200 - ₦27,500\n= ₦36,700 - ₦27,500\n= ₦9,200\nThe cash account balance as at 31/1/95 is ₦9,200."
+  },
+  {
+    "id": "accounting-1788679750926-150-1279",
+    "questionText": "<b>Use the information below to answer questions 15 and 16</b>\nCost of raw materials consumed ₦300,600, carriage inwards ₦6,700, returns of raw materials ₦10,800, closing stock of raw materials ₦100,250, raw materials purchased during the year ₦350,000, manufacturing wages ₦27,000, and lighting, power, insurance and rent in relation to the factory are apportioned 1/3, 2/5, 1/6 and 1/7 with totals ₦30,000, ₦75,000, ₦36,000 and ₦56,000 respectively.\nWhat is the cost of the opening raw materials? (JAMB 2000)",
+    "options": [
+      "₦ 418,350",
+      " ₦404,950",
+      "₦54,950",
+      "₦398,250"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Raw Materials Consumed = Opening Stock + Purchases + Carriage Inwards - Returns - Closing Stock\nRearranging to find Opening Stock:\nOpening Stock = Raw Materials Consumed + Closing Stock + Returns - Purchases - Carriage Inwards\nSubstituting the values:\nOpening Stock = ₦300,600 + ₦100,250 + ₦10,800 - ₦350,000 - ₦6,700\nOpening Stock = ₦411,650 - ₦356,700 = ₦54,950"
+  },
+  {
+    "id": "accounting-1788679750926-151-665",
+    "questionText": "Statement of Financial Position as at 31st Dec 2010 showing:\n\nNoncurrent assets: Plant and equipment ₦10,000\nCurrent assets: Stock ₦7,000, Receivables ₦5,000 (Total current assets ₦12,000)\nTotal assets ₦22,000\nCapital ₦15,000\nCurrent liabilities: Payables ₦7,000\nTotal ₦22,000\n\nWhat is the amount of capital employed? (JAMB 2018)",
+    "options": [
+      "₦7000",
+      "₦10000",
+      "₦22000",
+      "₦15000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Capital employed can be calculated in two ways:\nMethod 1 (Asset approach):\nCapital Employed = Total Assets - Current Liabilities\n= ₦22,000 - ₦7,000 = ₦15,000\nMethod 2 (Financing approach):\nCapital Employed = Shareholders' Capital + Long-term Liabilities\n= ₦15,000 + ₦0 = ₦15,000"
+  },
+  {
+    "id": "accounting-1788679750926-152-960",
+    "questionText": "The reward given to debenture holder is (JAMB 2024)",
+    "options": [
+      "interest",
+      "dividend",
+      "profit",
+      "premium"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Debentures are long-term debt instruments issued by companies to raise funds. Debenture holders are the creditors of the company, and they receive regular interest payments as a reward for lending their money to the company."
+  },
+  {
+    "id": "accounting-1788679750926-153-1080",
+    "questionText": "Where closing stock is undervalued, the effect is? (JAMB 2004)",
+    "options": [
+      "an increase in gross profit",
+      "a decrease in gross profit",
+      "an increase in purchases",
+      " a decrease in purchase"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Closing stock appears in the trading account as part of the calculation of gross profit.\n\nGross profit formula:\n\nGross Profit = Sales − (Opening Stock + Purchases − Closing Stock)\nIf closing stock is undervalued, it means we subtract a smaller amount from the cost of goods sold, which makes the cost of goods sold appear higher, and this reduces gross profit."
+  },
+  {
+    "id": "accounting-1788679750926-154-438",
+    "questionText": "I.Profits and losses will be shared unequally II.  Interest is not allowed on capital, III. Salaries are not allowed. IV. Interest is charged on drawings. Which of  the following would apply where there is no agreement during partnership formation? (JAMB 2007)",
+    "options": [
+      "I only",
+      "I, II and III",
+      "I, II and IV",
+      "II and III."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-155-972",
+    "questionText": "<b>Use the information below to answer questions 7 to 8.</b>\n\n(i) Cash at bank (ii) Cash in hand (iii) Premises\n(iv) Land (v) Creditors (vi)loan from friends/bank.\n\nWhat are the current assets? (JAMB 2008)",
+    "options": [
+      " i and ii",
+      "i and v",
+      "ii and iv",
+      "iii and v"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Current assets are short-term assets convertible to cash within a year, cash at bank and cash in hand."
+  },
+  {
+    "id": "accounting-1788679750926-156-874",
+    "questionText": "Bola, UTC's regular customer, owed N1,00 on account of a radio bought. If he sent in a cheque for N1,500, UTC would send him a (JAMB 2022)",
+    "options": [
+      "credit note",
+      "debit note",
+      "journal voucher",
+      "way bill"
+    ],
+    "correctAnswer": "A",
+    "explanation": "If Bola sends in a cheque for more than the owed amount, UTC would send him a credit note for the excess amount paid."
+  },
+  {
+    "id": "accounting-1788679750926-157-773",
+    "questionText": "Given the following information: stock on 1/4/94 was ₦800, purchases of flour ₦2,450, sales ₦4,745, wages of bakery staff ₦675, carriage outwards ₦50, salary of administrative staff ₦22, stock on 31/3/95 was ₦940, and capital ₦1,540, calculate the cost of goods sold. (JAMB 2020)",
+    "options": [
+      " ₦3,925",
+      " ₦3,250",
+      " ₦2,985",
+      "₦2,575"
+    ],
+    "correctAnswer": "C",
+    "explanation": "From the given information:\n\nOpening Stock (1/4/94) = ₦800\nPurchases of flour = ₦2,450\nWages of bakery staff (direct labor) = ₦675\nClosing Stock (31/3/95) = ₦940\n\nCost of Goods Sold = ₦800 + ₦2,450 + ₦675 - ₦940\nCost of Goods Sold = ₦3,925 - ₦940 = ₦2,985\nTherefore, the cost of goods sold is ₦2,985."
+  },
+  {
+    "id": "accounting-1788679750926-158-410",
+    "questionText": "Determine the amount for the beginning inventory (JAMB 2004)",
+    "options": [
+      "N 20,140",
+      "N10,240",
+      "N 8,140",
+      "N 7,240"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-159-511",
+    "questionText": "Expenditure incurred on consumables and goods for resale is (JAMB 2009)",
+    "options": [
+      "revenue expenditure",
+      "capital expenditure",
+      "sunk cost",
+      "miscellaneous expenses"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-160-593",
+    "questionText": "Which of the foloowing is a credit item in creditors ledger control account? (JAMB 2016)",
+    "options": [
+      "Returns outwards",
+      " Discount Received",
+      " Bad debts",
+      "Purchases"
+    ],
+    "correctAnswer": "D",
+    "explanation": "some of the items found on the credit side of the creditors ledger control account include, bank, carriage, credit purchases etc"
+  },
+  {
+    "id": "accounting-1788679750926-161-602",
+    "questionText": "An increase in government expenditure within a year is taken care of by means of (JAMB 2016)",
+    "options": [
+      "virement",
+      "financial regulations",
+      "supplementary estimate",
+      "warrant"
+    ],
+    "correctAnswer": "C",
+    "explanation": "supplementary estimates means a statement of unforeseen expenditure for a financial year presented by the Treasurer to the Legislative Assembly for the purpose of obtaining supplementary appropriation for that expenditure"
+  },
+  {
+    "id": "accounting-1788679750926-162-230",
+    "questionText": "Whatever is fed into the computer is exactly what would be processed and produced as output. This is the concept of (JAMB 2006)",
+    "options": [
+      "sorting out",
+      "last in, first out",
+      "first in, first out",
+      "garbage in, garbage out."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-163-562",
+    "questionText": "The document setting out the regulations regarding shares, meetings and internal organization of a company is known as (JAMB 2015)",
+    "options": [
+      "prospectus",
+      "memorandum of association",
+      "company law",
+      "articles of association"
+    ],
+    "correctAnswer": "D",
+    "explanation": "the article of association center on the rules and regulation governing the internal working of the company. It’s totally in line with the question."
+  },
+  {
+    "id": "accounting-1788679750926-164-179",
+    "questionText": "An example of appropriation of profit in a company is (JAMB 1997)",
+    "options": [
+      "salaries",
+      "rent income",
+      "debenture interest",
+      "dividend."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-165-444",
+    "questionText": "An accounting ratio that considers only quick assets to determine the short-term safety margin of a firm is the (JAMB 2007)",
+    "options": [
+      "fixed assets ratio",
+      "capital gearing ratio",
+      "current assets ratio",
+      "acid test ratio."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-166-170",
+    "questionText": "The yearly depreciation using the straight line method would be (JAMB 2016)",
+    "options": [
+      "N5,200",
+      "N6,500",
+      "N8, 800",
+      "N4, 400"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-167-1026",
+    "questionText": "A rent received by a trader for sub-letting part of his business premises should be added to the? (JAMB 2005)",
+    "options": [
+      "gross profit",
+      "total profit",
+      " net profit",
+      "total revenue"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Explanation: Rent received from subletting is other income and is added after gross profit when calculating net profit."
+  },
+  {
+    "id": "accounting-1788679750926-168-837",
+    "questionText": "Use the information below to answer this question\nAt the end of a financial period, the trading profit and loss account of a sole trader shows a profit of \n₦180,000 it is however discovered that revenue of \n₦15,000 is recorded as expenses while expenses of\n₦4,000 is recorded as revenue.\n\nThe revenue to be added as an adjustment is (JAMB 2021)",
+    "options": [
+      " ₦34,000",
+      "₦4,000",
+      "₦30,000",
+      " ₦15,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The revenue that was wrongly recorded as an expense (and therefore needs to be added back) is ₦15,000."
+  },
+  {
+    "id": "accounting-1788679750926-169-157",
+    "questionText": "Clifford pays rent of  N200 per month for premises. He paid N 2,800 within the year, Compute the prepayment. (JAMB 2016)",
+    "options": [
+      "N300",
+      "N400",
+      "N660",
+      "N200"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-170-572",
+    "questionText": "An item in the balance sheet of a limited liability company is (JAMB 2016)",
+    "options": [
+      " accrued expenses",
+      " lighting and heating",
+      "salaries and wages",
+      "general expenses"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Accrued expense is expense which has been incurred but not yet paid. Expense must be recorded in the accounting period in which it is incurred. Therefore, accrued expense must be recognized in the accounting period in which it occurs rather than in the following period in which it will be paid.\n\nIt can be found on the liabilities part of a balance sheet of a limited liability company"
+  },
+  {
+    "id": "accounting-1788679750926-171-523",
+    "questionText": "What will be the number of shares to be issued to a subscriber who applied for 50,000 units. (JAMB 2015)",
+    "options": [
+      "20,000",
+      "18,000",
+      "15,000",
+      "12,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Allotment = 500,000 = 0.4 or 40%\n\n∴ Each subscriber would get 40% shares of what they applied for.\n\n∴ 50,000 x 0.4 = 20,000 units"
+  },
+  {
+    "id": "accounting-1788679750926-172-458",
+    "questionText": "Using the straight-line method, the depreciation of the asset in \tthe first year was (JAMB 2007)",
+    "options": [
+      "N  210 m",
+      "N 343m",
+      "N 105m",
+      "N 270m."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-173-1184",
+    "questionText": "(i) Orientation \n(ii) Entity \n(iii) Legal status\n(iv) Finance.\n\nWhich of the characteristics above distinguishes a profit-making from a not-for-profit-making organizations? (JAMB 2002)",
+    "options": [
+      "i, ii, iii and iv",
+      "i, ii, and iii",
+      " ii, and iii",
+      "i and ii"
+    ],
+    "correctAnswer": "A",
+    "explanation": "(i) Orientation - ✓ Distinguishes\n\nProfit-making: Profit-oriented (maximize returns for owners)\nNot-for-profit: Service-oriented (serve public/social causes)\n\n(ii) Entity - ✓ Distinguishes\n\nBoth are separate entities, but they differ in nature:\nProfit-making: Commercial entities\nNot-for-profit: Social/charitable entities\n\n(iii) Legal status - ✓ Distinguishes\n\nProfit-making: Registered as companies, partnerships, sole proprietorships\nNot-for-profit: Registered as charities, foundations, NGOs, with different legal frameworks and tax treatments\n\n(iv) Finance - ✓ Distinguishes\n\nProfit-making: Funded by investors expecting returns, revenue from sales\nNot-for-profit: Funded by donations, grants, government funding; surplus reinvested rather than distributed\n\nAll four characteristics distinguish between profit-making and not-for-profit organizations in meaningful ways."
+  },
+  {
+    "id": "accounting-1788679750926-174-979",
+    "questionText": "Determine the closing balance of the cash book? (JAMB 2008)",
+    "options": [
+      "₦4,870 credit",
+      "₦655 debit",
+      "₦130 credit",
+      "₦130 debit"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Calculate Cash Book Balance:\nClosing Balance = Total Receipts - Total Payments\nClosing Balance = ₦15,100 - ₦10,230 = ₦4,870"
+  },
+  {
+    "id": "accounting-1788679750926-175-1402",
+    "questionText": "<b>Use the information below to answer questions 38 and 39\n\nDan & Baker are in partnership with capitals of ₦50,000 and ₦30,000 each. The partnership agreement provides that:\n(i) profits be shared in the ratio of capital\n(ii) Baker be paid a salary of ₦8,000 \n(iii) both partners pay interest on drawings at 6% p.a.</b>\n\nAt the end of the year, Dan drew₦15,000 while Baker\ndrew ₦14,000 in four equal installment on 31/3, 30/6, 30/9 and 31/12. The net profit for the year was ₦48,000.\n₦5,000 is to be written off the Goodwill account.\n\nWhat is the interest on the drawings by Baker?. (JAMB 199)",
+    "options": [
+      "₦210",
+      "₦315",
+      "₦450",
+      "₦840"
+    ],
+    "correctAnswer": "B",
+    "explanation": "To calculate the interest on Baker's drawings, determine the period each drawing was outstanding and apply the 6% annual interest rate.\nGiven information:\n\nBaker drew ₦14,000 in four equal installments\nEach installment = ₦14,000 ÷ 4 = ₦3,500\nDrawing dates: 31/3, 30/6, 30/9, and 31/12\nInterest rate: 6% per annum\n\nCalculation of interest on each drawing:\nDrawing on 31/3:\n\nAmount: ₦3,500\nPeriod outstanding: 9 months (April to December)\nInterest = ₦3,500 × 6% × 9/12 = ₦157.50\n\nDrawing on 30/6:\n\nAmount: ₦3,500\nPeriod outstanding: 6 months (July to December)\nInterest = ₦3,500 × 6% × 6/12 = ₦105.00\n\nDrawing on 30/9:\n\nAmount: ₦3,500\nPeriod outstanding: 3 months (October to December)\nInterest = ₦3,500 × 6% × 3/12 = ₦52.50\n\nDrawing on 31/12:\n\nAmount: ₦3,500\nPeriod outstanding: 0 months (drawn at year end)\nInterest = ₦0\n\nTotal interest on Baker's drawings:\n₦157.50 + ₦105.00 + ₦52.50 + ₦0 = ₦315.00\nThe interest on Baker's drawings is ₦315."
+  },
+  {
+    "id": "accounting-1788679750926-176-1377",
+    "questionText": "State Bank collected a note for A-Makura Company. This collection, not yet recorded in AL-Makura's books, appears on the bank reconciliation as? (JAMB 1998)",
+    "options": [
+      "an addition to balance per book",
+      "a deduction from balance per bank statement",
+      "an addition to balance per bank statement",
+      "a deduction from balance per books"
+    ],
+    "correctAnswer": "A",
+    "explanation": "When the bank collects a note on your behalf, the bank statement balance will include that collection even though your books haven’t yet. On the reconciliation, you would add that amount to the book balance to bring your records up to date."
+  },
+  {
+    "id": "accounting-1788679750926-177-775",
+    "questionText": "The rule of accounting equation requires that account payable should be placed under (JAMB 2020)",
+    "options": [
+      "equities",
+      "assets",
+      "capital",
+      "liabilities"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Accounts payable represent amounts the business owes to suppliers and are therefore classified as liabilities in the accounting equation (Assets = Liabilities + Equity)."
+  },
+  {
+    "id": "accounting-1788679750926-178-730",
+    "questionText": "Ojo, Sam and Ade are in partnership sharing profit in the ratio 4:3:1 respectively. From their books for the year ended, interest on drawings and capital is allowed at 5% respectively, and profit for the year amounted to ₦4,950. Given that Ojo has capital of ₦5,000, Sam has capital of ₦4,000, and Ade has capital of ₦6,000, what is the interest on capital for Ade? (JAMB 2019)",
+    "options": [
+      "₦250",
+      "₦200",
+      "₦300",
+      "₦400"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Interest on Capital for Ade = Capital Balance × Interest Rate\nInterest on Capital for Ade = ₦6,000 × 5% = ₦300"
+  },
+  {
+    "id": "accounting-1788679750926-179-359",
+    "questionText": "The cost of carriage outward is classified as (JAMB 2014)",
+    "options": [
+      "a selling and distribution expense",
+      "an administrative expense",
+      "a trading expense",
+      "a finance expense"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-180-68",
+    "questionText": "At the end the fiscal year, account receivable has a balance of Nl00,000 and allowance for  doubtful   account  has a balance   of N7,000. The expected net realized value of the account receivable is:  (JAMB 2013)",
+    "options": [
+      "Nl07,000 ",
+      "N100,000 ",
+      "N93,000 ",
+      "N7,000 "
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-181-732",
+    "questionText": "Based on the Receipts and Payment Account extract showing: balance brought forward ₦3,650, subscription ₦7,500 less ₦2,000 equals ₦1,000, fees ₦8,500, insurance ₦900, rate ₦11,700, and balance carried down ₦8,050, with totals of ₦20,650 on both sides, and given the following additional information as at 1st January 1999 and 31st December 1999 respectively: rates owing ₦3,600 and ₦2,000, insurance prepaid ₦50 and ₦1,000, subscription in arrears ₦700 and ₦600, The figure ₦1000 represent what in the balance sheet. (JAMB 2019)",
+    "options": [
+      "Assets",
+      "Liability",
+      "capital",
+      "Subscription"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The figure ₦1,000 represents B. Liability in the balance sheet.\nThis ₦1,000 is derived from ₦7,500 (total cash received for subscriptions) minus ₦2,000 (subscription received in advance). The ₦2,000 that was deducted represents money received from members for future periods, creating an obligation to provide services later. This makes it a liability on the balance sheet - specifically \"subscription received in advance\" or \"deferred subscription income.\""
+  },
+  {
+    "id": "accounting-1788679750926-182-1269",
+    "questionText": "<b>Use the information below to answer question 4 and 5.</b>\n\nSales ₦20,000\nCost sales ₦10,000\nOperating expenses ₦2,500\nExpenses prepaid included\nin operating expenses ₦500\n\nwhat is the gross profit margin? (JAMB 2000)",
+    "options": [
+      "100%",
+      "50%",
+      "40%",
+      "30%"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Gross Profit Margin is calculated as:\nGross Profit Margin = (Gross Profit ÷ Sales) × 100\nFirst, calculate Gross Profit:\nGross Profit = Sales - Cost of Sales = ₦20,000 - ₦10,000 = ₦10,000\nThen calculate the margin:\nGross Profit Margin = (₦10,000 ÷ ₦20,000) × 100 = 50%"
+  },
+  {
+    "id": "accounting-1788679750926-183-25",
+    "questionText": "The diary or events in which all financial transactions    are    recorded    for    easy reference and to assist in the double entry system is  (JAMB 2011)",
+    "options": [
+      "Ledger",
+      "Journal   ",
+      "Purchases and sales day books ",
+      "Debit and credit documents"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-184-1380",
+    "questionText": "A pottery company had sales of ₦176,000 during the current period and a gross profit rate of 40%.\nThe company's cost of merchandize available for sale during the period was ₦128,000. The company's ending inventory is? (JAMB 1998)",
+    "options": [
+      "₦22,400",
+      "₦32,000",
+      "₦51,200",
+      "₦76,800"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find the ending inventory:\n\nCompute Gross Profit\nGross profit = Sales × Gross profit rate\n= ₦176 000 × 40%\n= ₦70 400\n\nCompute Cost of Goods Sold (COGS)\nCOGS = Sales − Gross profit\n= ₦176 000 − ₦70 400\n= ₦105 600\n\nCompute Ending Inventory\nEnding inventory = Cost of merchandise available for sale − COGS\n= ₦128 000 − ₦105 600\n= ₦22 400"
+  },
+  {
+    "id": "accounting-1788679750926-185-1039",
+    "questionText": "<b>Use the information below to answer questions 25 to 26</b>\n\nDirect labour...................₦50 000\nBeginning work-in-progress......₦4 000\nRaw materials used..............₦18 000\nIndirect labour.................₦4 000\nEnding finished goods...........₦16 000\nEnding work-in-progress.........₦9 000\nFactory supplies used...........₦7 000\nSelling expenses................₦25 000\nBeginning finished goods........₦21 000\nOther factory overheads.........₦19 000\n\nWhat is the cost of goods manufactured? (JAMB 2005)",
+    "options": [
+      "₦117 000",
+      "₦104 000",
+      "₦97 000",
+      "₦93 000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Direct materials used = ₦18,000\nDirect labour = ₦50,000\nManufacturing overheads = Indirect labour ₦4,000 + Factory supplies ₦7,000 + Other factory overheads ₦19,000 = ₦30,000\n\nTotal manufacturing costs = 18,000 + 50,000 + 30,000 = ₦98,000\nAdd: Beginning WIP = ₦4,000 → ₦102,000\nLess: Ending WIP = ₦9,000 → ₦93,000 (Cost of goods manufactured)"
+  },
+  {
+    "id": "accounting-1788679750926-186-273",
+    "questionText": "Which of the following is not prepared by a partnership? (JAMB 2012)",
+    "options": [
+      "Trading Account",
+      "Profit and Loss Account",
+      "Income and Expenditure Account",
+      "Profit and Loss Appropriation Account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-187-1446",
+    "questionText": "Share premium can be used to?\ni. write off discount on shares\nii. give loans to directors\niii.pay dividends\niv. pay company's formation expenses. (JAMB 1997)",
+    "options": [
+      "i and iv only",
+      "i and iii only",
+      "ii and iii only",
+      " iii and iv only"
+    ],
+    "correctAnswer": "A",
+    "explanation": "According to company law, the share premium account is treated as a capital reserve and can only be used for specific purposes, such as:\n\nWriting off discount on shares (i)\n\nPaying the company's formation (preliminary) expenses (iv)\n\nIssuing fully paid bonus shares"
+  },
+  {
+    "id": "accounting-1788679750926-188-560",
+    "questionText": "Accounting information is used by investors and creditors of a company to predict (JAMB 2015)",
+    "options": [
+      "potential merger candidates for the company",
+      "appropriate remunerations for the company’s staff",
+      "future cash flows of the company",
+      "future tax payments of the company"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The average lender or investor does not have ongoing inside access to the day-to-day operations of a company. Instead, it relies on financial accounting to provide accurate and readily comparable information. Financial accounting allows outside actors to observe the profitability and value of a business.\n\nCreditors are interested in accounting information, because it enables them to determine the credit worthiness of the business."
+  },
+  {
+    "id": "accounting-1788679750926-189-1247",
+    "questionText": "Partners' salaries and drawings are usually posted to the? (JAMB 2001)",
+    "options": [
+      "trading account",
+      "current account",
+      " capital account",
+      " partners' account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Partners' salaries and drawings are usually posted to the current account.\n\nIn partnership accounting, there are typically two main accounts for each partner:\n\nCapital Account - Records the permanent capital contributions and withdrawals of partners. This account usually remains relatively stable.\nCurrent Account - Records all regular transactions with partners including:\n\nPartners' salaries\nPartners' drawings\nInterest on capital\nInterest on drawings\nShare of profits or losses"
+  },
+  {
+    "id": "accounting-1788679750926-190-375",
+    "questionText": "Shares issued below nominal value are referred to as shares at (JAMB 2014)",
+    "options": [
+      "premium",
+      "discount",
+      "face value",
+      "cumulative value"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-191-659",
+    "questionText": "Subscription in advance is treated in the balance sheet as a (JAMB 2017)",
+    "options": [
+      " current asset",
+      "current liability",
+      "fixed asset",
+      "long term liability"
+    ],
+    "correctAnswer": "B",
+    "explanation": "current assets are assets of the company that can be easily converted to cash when needed\n\ncurrent liability: this is the liability owned to outsiders but still enjoying its benefit within a year e.g creditors, wages in arrears"
+  },
+  {
+    "id": "accounting-1788679750926-192-349",
+    "questionText": "Which of the following subsidiary books involves cash movement? (JAMB 2014)",
+    "options": [
+      "Sales day book",
+      "Purchases day book",
+      "Returns inwards book",
+      "Petty cash book"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-193-151",
+    "questionText": "The impersonal account is subdivided into (JAMB 2016)",
+    "options": [
+      "realand nominal accounts",
+      "nominal and personal accounts",
+      "real and current accounts",
+      "personal and real accounts."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-194-1255",
+    "questionText": "<b>Use the information below to answer questions 41 and 42</b>\n\nGiven the following information: Authorized capital of ₦100,000 ordinary shares of ₦1 each, issued and fully paid 50,000 ordinary shares of ₦1 each amounting to ₦50,000, 10,000 8% preference shares of ₦1 each, reserves ₦10,000, creditors ₦25,000, debtors ₦13,000, and cash in hand ₦5,000. Determine the net current assets. (JAMB 2001)",
+    "options": [
+      " ₦43,000",
+      "₦28,000",
+      " -₦7,000",
+      "₦3,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Current Assets:\n\nDebtors: ₦13,000\nCash in hand: ₦5,000\nTotal Current Assets = ₦18,000\n\nCurrent Liabilities:\n\nCreditors: ₦25,000\nTotal Current Liabilities = ₦25,000\n\nNet Current Assets = Current Assets - Current Liabilities\nNet Current Assets = ₦18,000 - ₦25,000 = -₦7,000\nThe net current assets is -₦7,000 (negative ₦7,000)."
+  },
+  {
+    "id": "accounting-1788679750926-195-632",
+    "questionText": "Salaries in arrears is treated in the balance sheet as a (JAMB 2017)",
+    "options": [
+      " current asset",
+      "current liability",
+      "fixed asset",
+      "long term liability"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Current Liability: salaries in arrears fall into the category of them under the current liability because it is benefit due to outsiders but still enjoying by the organisation and can't exceed a year"
+  },
+  {
+    "id": "accounting-1788679750926-196-280",
+    "questionText": "The term used to denote the capital of a not-for-profit making \torganization is (JAMB 2012)",
+    "options": [
+      "annuity fund.",
+      "nominal capital.",
+      "circulating capital.",
+      "cumulated fund"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-197-111",
+    "questionText": "Which of the following is not an item on the credit side of the purchases ledger control account? (JAMB 2013)",
+    "options": [
+      "Cash received",
+      "Cash payment",
+      "Contra settlement",
+      "Cheque payment"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-198-331",
+    "questionText": "In which of the following accounts is interest on partners capital found? (JAMB 2015)",
+    "options": [
+      "Profit and loss",
+      "Trading",
+      "Income surplus",
+      "Profit and loss appropriation."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-199-311",
+    "questionText": "Which of the following is not a book of original entry? (JAMB 2015)",
+    "options": [
+      "Sales journal",
+      "Purchases account",
+      "Cash account",
+      "Return inwards journal"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-200-755",
+    "questionText": "The rules of double entry states that (JAMB 2019)",
+    "options": [
+      " for every debit entry, there must be a corresponding debit entry",
+      " for every credit entry, there must be a corresponding credit entry",
+      "all transactions must be recorded in two accounts, one account is debited and another is credited",
+      "all transaction must be credited"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Double entry system is the entry of debit and credit for each transaction in the ledger. Hence the double entry rules states that \"debit the receivers, credit the giver\"."
+  },
+  {
+    "id": "accounting-1788679750926-201-368",
+    "questionText": "When an asset is sold, the entries for the accumulated depreciation are: debit (JAMB 2014)",
+    "options": [
+      "Asset Disposal Account; credit Provision for Depreciation Account.",
+      "Provision for Depreciation Account; Credit Asset Disposal Account",
+      "Fixed Asset Account; Credit Asset Disposal Account",
+      "Asset Disposal Account; Credit Fixed Asset Account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-202-348",
+    "questionText": "An example of a credit entry in a profit and loss account is (JAMB 2014)",
+    "options": [
+      "carriage inwards",
+      "carriage outwards",
+      "discounts allowed",
+      "discounts received"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-203-1291",
+    "questionText": "Didi Ltd offered 10,000 ordinary shares of ₦1.50 each at a discount of 2% which were fully subscribed. With regard to the offer above? (JAMB 2000)",
+    "options": [
+      "shares are never offered at a discount; the offer is invalid",
+      "the value of shares in the capital account will be lowered by 2%",
+      "the company incurs a loss to the tune of 2% of the offer",
+      "each of the subscribers loses 2% of investment"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The shares have a nominal value of ₦1.50, so on 10,000 shares the full par amount would be ₦15,000.\n\nAt a 2% discount, subscribers actually pay only 98% of par, i.e. ₦1.50 × 0.98 = ₦1.47 per share, so total cash received is ₦14,700.\n\nThe “missing” ₦300 (₂₀₀₀ × ₦0.03) is debited to a “Discount on Issue of Shares” account, effectively a capital loss to the company.\n\nThus the company forgoes 2% of the issue price, incurring that amount as a loss on the share issue."
+  },
+  {
+    "id": "accounting-1788679750926-204-1441",
+    "questionText": "Which of the following stock valuation methods is suitable under inflationary conditions? (JAMB 1997)",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "Simple average",
+      "Weighted average"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Under inflationary conditions (rising prices), LIFO charges the most recent (higher) costs to the cost of goods sold. This:\n\nMatches current costs with current revenues,\n\nResults in lower reported profits (because costs are higher),\n\nReduces tax liability compared to FIFO."
+  },
+  {
+    "id": "accounting-1788679750926-205-1149",
+    "questionText": "<b>Use the information below to answer questions 34 and 35</b>\n\nTotal sales of ticket.......................₦300 000\nAmount received from the sales..............₦260 000\nCash purchase of club house.................₦100 000\nCredit purchase of equipment ...............₦60 000\nElectricity bill paid ......................₦5 000\nSalaries owed ..............................₦2 000\n\nWhat is the balance of the income and expenditure account? (JAMB 2003)",
+    "options": [
+      "₦300 000",
+      "₦293 000",
+      "₦193 000",
+      "₦133 000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Income:\n  Total ticket sales (accrual) = ₦300,000\n\nExpenditure (accrual):\n  Electricity paid               = ₦5,000\n  Salaries owed (accrual)        = ₦2,000\n  Total expenditure               = ₦7,000\n\nSurplus (Income − Expenditure)   = ₦300,000 − ₦7,000 = ₦293,000"
+  },
+  {
+    "id": "accounting-1788679750926-206-1390",
+    "questionText": "The contribution marginal on a job is the? (JAMB 199)",
+    "options": [
+      "gross profit",
+      " net profit",
+      " excess of sales revnue over variable costs",
+      "difference between fixed and variable costs"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Contribution Margin = Sales Revenue − Variable Costs\n\nIt represents the amount available to cover fixed costs and then contribute to profit"
+  },
+  {
+    "id": "accounting-1788679750926-207-995",
+    "questionText": "Given:\n(i) Cost price \n(ii) Selling price \n(iii) Cost plus fixed percentage \n(iv) Price above cost and selling price\n\nFrom the information above, the prices used in charging goods to the branches are? (JAMB 2008)",
+    "options": [
+      "i and ii",
+      "i, ii and iii",
+      " i, ii, iii and iv",
+      " iii and iv"
+    ],
+    "correctAnswer": "B",
+    "explanation": "When charging goods to branches, the commonly used pricing methods are:\n(i) Cost price - Goods transferred at actual cost\n(ii) Selling price - Goods transferred at retail/selling price\n(iii) Cost plus fixed percentage - Goods transferred at cost plus a predetermined markup percentage"
+  },
+  {
+    "id": "accounting-1788679750926-208-207",
+    "questionText": "Which of the following is a factory overhead? (JAMB 1997)",
+    "options": [
+      "carriage on raw materials",
+      "Purchase of raw materials",
+      "Production wages",
+      "Depreciation of factory equipment."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-209-29",
+    "questionText": "Accounting equation is given by   (JAMB 2011)",
+    "options": [
+      "Assets - Liabilities + Owner's Equity ",
+      "Assets = Liabilities - Owner's Equity ",
+      "Assets + Owner's Equity = Liabilities ",
+      "Assets = Liabilities + Owner's Equity"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-210-1029",
+    "questionText": "Goods withdraw from business for private use are credited to? (JAMB 2005)",
+    "options": [
+      "drawings",
+      "purchases",
+      "sales",
+      "capital"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Explanation: the journal entry is Debit Drawings (owner's use) and Credit Purchases (or Inventory) to remove the goods from business stock."
+  },
+  {
+    "id": "accounting-1788679750926-211-105",
+    "questionText": "A low current ratio in a business indicates that the business is (JAMB 2013)",
+    "options": [
+      "faced with long term loan repayment problem.",
+      "efficient in the utilization of its resources.",
+      "unable to pay its bills on time.",
+      "growing its net asset effectively."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-212-594",
+    "questionText": "The trader's capital in a single entry system is ascertained by preparing (JAMB 2016)",
+    "options": [
+      "gross profit",
+      "statement of affairs",
+      "suspense account",
+      "appropriation account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A Statement of Affairs is a document detailing a company's assets and liabilities. Generally prepared by a liquidator or appointed professional during certain insolvency proceedings, the document is later registered at Companies House, where it becomes available for public view."
+  },
+  {
+    "id": "accounting-1788679750926-213-540",
+    "questionText": "Sales ledger control account contains the total amount in respect of (JAMB 2015)",
+    "options": [
+      "creditors",
+      "debtors",
+      "investors",
+      "shareholders"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The sales ledger control account is used to monitor the amounts owed by customers to your business. \n\nThe sales ledger control account is also known as debtors control account and includes all entries of debtors as if only one existed."
+  },
+  {
+    "id": "accounting-1788679750926-214-395",
+    "questionText": "The rule of accounting equation requires that account payable should be placed under (JAMB 2004)",
+    "options": [
+      "liabilities",
+      "equities",
+      "assets",
+      "capital"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-215-167",
+    "questionText": "The difference between book keeping and accounting is that while (JAMB 2016)",
+    "options": [
+      "book keeping interprets data accounting records it",
+      "book keeping is regarded as  the language of the business, accounting ascertains its .strength and weakness",
+      "book keeping records data accounting interprets it",
+      "book keeping - summaries information, accounting communicates it."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-216-587",
+    "questionText": "When the fixed capital method is used, the partners' share of profits and remunerations are credited to the (JAMB 2016)",
+    "options": [
+      " current account",
+      "profit and loss account",
+      "profit and loss appropriation account",
+      " capital account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Under the fixed capital method, each partner’s capital account remains unchanged (fixed). All profit shares, interest on capital, remuneration, and similar items are routed through the partners’ current accounts—so these amounts are credited to the current account rather than to the capital account or directly to profit & loss"
+  },
+  {
+    "id": "accounting-1788679750926-217-900",
+    "questionText": "Given:\nI. Cash refunds\nII. Debit note issued\nIII. Dishnoured cheque\nIV. Purchases\n\nThe item on the credit side of purchase ledger control account includes (JAMB 2023)",
+    "options": [
+      "I, II and IV only",
+      "I and IV only",
+      "I and II only",
+      "I, II and III only"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The item on the credit side of the purchase control account or total creditor control account are: purchase (credit), cash refunds, discount withdrawn, debit note received."
+  },
+  {
+    "id": "accounting-1788679750926-218-1316",
+    "questionText": "The basic role of accounting is to? (JAMB 1999)",
+    "options": [
+      "detect fraud",
+      "attest to finacial statements",
+      "measure performance",
+      "protect sharehlders"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The fundamental purpose of accounting is to measure and communicate an entity’s financial performance and position."
+  },
+  {
+    "id": "accounting-1788679750926-219-1353",
+    "questionText": "<b>Use the information below to answer questions 39 and 40</b>\n\n\t\t\t\t  \nThe quick ratio is (JAMB 1999)",
+    "options": [
+      "0.65:1",
+      "0.91 : 1",
+      "0.95 : 1",
+      "1.53 :1."
+    ],
+    "correctAnswer": "A",
+    "explanation": "From the Balance Sheet:\nCurrent Assets:\n\nDebtors: ₦90,000\nOther current assets: ₦60,000\nStock: ₦28,000\nBank: ₦100,000\n\nQuick Assets (Current Assets minus Stock):\n\nDebtors: ₦90,000\nOther current assets: ₦60,000\nBank: ₦100,000\nTotal Quick Assets = ₦90,000 + ₦60,000 + ₦100,000 = ₦250,000\n\nCurrent Liabilities:\n\nCreditors: ₦200,000\nProvision: ₦87,000\nOther current liabilities: ₦100,000\nTotal Current Liabilities = ₦200,000 + ₦87,000 + ₦100,000 = ₦387,000\n\nQuick Ratio Calculation:\nQuick Ratio = Quick Assets ÷ Current Liabilities\nQuick Ratio = ₦250,000 ÷ ₦387,000 = 0.646:1\nTherefore, the quick ratio is approximately 0.65:1\nThis means the company has ₦0.65 of quick assets for every ₦1 of current liabilities."
+  },
+  {
+    "id": "accounting-1788679750926-220-938",
+    "questionText": "Rent accrued at the end of an accounting period is a (JAMB 2024)",
+    "options": [
+      "current asset",
+      "fixed asset",
+      "current liability",
+      "capital"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Rent accrued at the end of an accounting period represents rent expense that has been incurred but not yet paid. This creates an obligation for the business to pay this amount in the near future.\nSince it's an amount owed by the business that will typically be settled within one year (or the normal operating cycle), it is classified as a current liability."
+  },
+  {
+    "id": "accounting-1788679750926-221-1346",
+    "questionText": "When a partner makes a drawing of stock items from a partnership, the accounting impact of the drawing is to increase the partner's? (JAMB 1999)",
+    "options": [
+      "goodwill account balance",
+      "current account credit balance",
+      "current account debit balance",
+      "profit and loss credit balance"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Drawings are debited to the partner's current account, which increases the debit balance (or reduces a credit balance)"
+  },
+  {
+    "id": "accounting-1788679750926-222-1391",
+    "questionText": "The objective of allocating all costs to producer is to? (JAMB 199)",
+    "options": [
+      " produce a scientifically accurate cost",
+      " avoid unallocated overhead and compute total accounts",
+      " co-odinate the cost and financial accounts",
+      " compute the contribution of the product to the final profit"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The primary objective of allocating all costs to the product (producer) under full or absorption costing is to ensure that no overhead remains unallocated and that the total cost of production is fully captured."
+  },
+  {
+    "id": "accounting-1788679750926-223-778",
+    "questionText": "Accrual accounting differs from cash accounting because it recognizes (JAMB 2020)",
+    "options": [
+      "prepayment and cash",
+      "cash and creditors",
+      "cash and debtors",
+      " debtors and creditors"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Accrual accounting differs from cash accounting because it records transactions when they occur, regardless of when cash is received or paid. This means it recognizes:\n\nDebtors (amounts owed to the business) - revenue earned but not yet received in cash\nCreditors (amounts owed by the business) - expenses incurred but not yet paid in cash\n\nCash accounting only records transactions when cash actually changes hands, while accrual accounting recognizes these outstanding amounts (debtors and creditors) that represent future cash flows."
+  },
+  {
+    "id": "accounting-1788679750926-224-1226",
+    "questionText": "Given that the balance as per cash book after necessary adjustment was ₦4,315, unpresented cheques were ₦1,688 and the bank statement balance was ₦4,791, what was the balance of uncredited cheques? (JAMB 2001)",
+    "options": [
+      "₦1,223",
+      "₦1,212",
+      "₦1,202",
+      "₦1,115"
+    ],
+    "correctAnswer": "B",
+    "explanation": "To find uncredited cheques, Use the bank reconciliation formula:\nBank Statement Balance + Uncredited Cheques - Unpresented Cheques = Adjusted Cash Book Balance\nRearranging to find Uncredited Cheques:\nUncredited Cheques = Adjusted Cash Book Balance + Unpresented Cheques - Bank Statement Balance\nSubstituting the values:\nUncredited Cheques = ₦4,315 + ₦1,688 - ₦4,791\nUncredited Cheques = ₦6,003 - ₦4,791 = ₦1,212"
+  },
+  {
+    "id": "accounting-1788679750926-225-927",
+    "questionText": "An example of fictitious assets is (JAMB 2024)",
+    "options": [
+      "stock",
+      "overdraft",
+      "goodwill",
+      "profit"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Fictitious assets are intangible assets that do not have a physical form and lack inherent value. They represent deferred expenses or prepaid costs that provide benefits over future periods. For example: Preliminary Expense: Discount on Issue of Shares, Goodwill etc."
+  },
+  {
+    "id": "accounting-1788679750926-226-559",
+    "questionText": "If sales return is understated, it implies that ------------------------------ is overstated (JAMB 2015)",
+    "options": [
+      "return inward",
+      " sales figure",
+      "cost of sales",
+      "return outward"
+    ],
+    "correctAnswer": "B",
+    "explanation": "This is so because returns inwards are deducted from sales to ascertain the actual sales made after subtracting defected goods"
+  },
+  {
+    "id": "accounting-1788679750926-227-391",
+    "questionText": "The principle of double entry book - keeping states that (JAMB 2014)",
+    "options": [
+      "every debtor must have a creditor",
+      "every account debited must be immediately credited",
+      "for every debit entry, there must be a corresponding credit entry",
+      "for every double debit, there must be a double credit."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-228-902",
+    "questionText": "Which of the following is used to service all operations of government? (JAMB 2023)",
+    "options": [
+      " general reserve fund",
+      "consolidated revenue fund",
+      " special operational fund",
+      " consolidated reserve fund"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Consolidate revenue fund shows the total income derived by the government from all the sources of revenue."
+  },
+  {
+    "id": "accounting-1788679750926-229-552",
+    "questionText": "Use the information below to answer this question.\n\nDangote acquired Dantata’s business for ₦350,000. The total asset work were ₦820,000 and liabilities amounted to ₦ 640,000\n\nThe double entry to record the goodwill in the books is debt (JAMB 2015)",
+    "options": [
+      "purchase of business account and credit cash account",
+      "goodwill account and credit purchase of business account",
+      "cash account and credit goodwill account",
+      "goodwill account and credit cash account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "when there is excess of purchase consideration over net assets, the accounting entries is to debit goodwill account as the receiving account and credit purchase of business account as the giving account."
+  },
+  {
+    "id": "accounting-1788679750926-230-1134",
+    "questionText": "<b>Use the information below to answer questions 20 and 21.</b>\n\nCredit purchases are always put at 150% of the total cash paid to suppliers\n\nCalculate the closing balance of the ledger account (JAMB 2003)",
+    "options": [
+      "₦6 900",
+      "₦6400",
+      "₦5 000",
+      "₦4000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Step 1: Calculate Credit Purchases\nCredit purchases = 150% × Cash paid to suppliers\nCredit purchases = 150% × ₦8,000 = 1.5 × ₦8,000 = ₦12,000\nStep 2: Set up the Purchases Ledger Control Account\nDebit Side (Decreases creditors):\n\nDiscount received: ₦1,000\nBills payable: ₦1,500\nCash paid to suppliers: ₦8,000\nReturns outwards: ₦3,000\nBalance c/d: ?\n\nCredit Side (Increases creditors):\n\nBalance b/d: ₦2,900\nCredit purchases: ₦12,000\nBills payable dishonoured: ₦1,600\nDishonoured cheques: ₦2,000\n\nStep 3: Calculate the totals\nCredit side total = ₦2,900 + ₦12,000 + ₦1,600 + ₦2,000 = ₦18,500\nDebit side (excluding balance c/d) = ₦1,000 + ₦1,500 + ₦8,000 + ₦3,000 = ₦13,500\nStep 4: Calculate closing balance\nBalance c/d = Credit side total - Debit side payments\nBalance c/d = ₦18,500 - ₦13,500 = ₦5,000"
+  },
+  {
+    "id": "accounting-1788679750926-231-1314",
+    "questionText": "Haial Limited with three departments has a total of ₦7,200,000 as net debtors for the year ended 31/12/97.\nThe company's policy provides for 15% bad debt annually. Which of the following represents the total balance of debtors before adjustment? (JAMB 2000)",
+    "options": [
+      "₦6,120,000",
+      "₦6,120,300",
+      "₦8,280,000",
+      "₦8820000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To “bracket back” from the net debtors figure to the unadjusted (gross) debtors balance given a policy of providing 15% on outstanding debtors, we add back the provision, which under some interpretations is taken on the net amount:\n\nProvision on net debtors = 7,200,000 × 15% = 1,080,000\n\nGross debtors before adjustment\n= 7,200,000 + 1,080,000 = 8,280,000\n"
+  },
+  {
+    "id": "accounting-1788679750926-232-711",
+    "questionText": "To account for expenses paid by head office on behalf of the branch, the branch should___________ (JAMB 2018)",
+    "options": [
+      "Debit profit and loss account and credit head office account",
+      "Debit head office account and credit cash",
+      "Credit cash and debit profit and loss account",
+      " Credit profit and loss account and debit head office account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The head office maintains a book, (branch account) more or less like other personal accounts, so that any expenses incurred on behalf of the branch will also be debited to the branch account. Similarly, in the branch books, there will be head office accounts"
+  },
+  {
+    "id": "accounting-1788679750926-233-1437",
+    "questionText": "In the absence of a sales day book or sales account the credit for sales can be computed from (JAMB 1997)",
+    "options": [
+      "creditors control account",
+      "debtors control account",
+      " opening figures of the balance sheet",
+      "closing figures of the balance sheet"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The debtors control account (sales ledger control account) summarizes all transactions with customers. In the absence of a sales day book, you can compute total credit sales by analyzing this account because it records credit sales, receipts, returns, and discounts related to debtors."
+  },
+  {
+    "id": "accounting-1788679750926-234-877",
+    "questionText": "Which of these is the main source document for recording cash paid into bank? (JAMB 2022)",
+    "options": [
+      "invoice",
+      "credit note",
+      "cheque book",
+      "pay-in-slip"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The main source document for recording cash paid into the bank is a pay-in-slip."
+  },
+  {
+    "id": "accounting-1788679750926-235-678",
+    "questionText": "Ade, Tony, Rose share profit and losses in the ratio of 3 : 2 : 1 respectively. Ade retires and the remaining partners decide to take Ade’s share in the existing ratio. What is the new ratio?\n (JAMB 2018)",
+    "options": [
+      "1 : 1",
+      "3 : 6",
+      "2 : 1",
+      "2 : 6"
+    ],
+    "correctAnswer": "C",
+    "explanation": "When Ade’s 3‑part share is divided between Tony and Rose in their 2 : 1 ratio, Tony receives 3 × (2/3) = 2 parts and Rose receives 3 × (1/3) = 1 part, so Tony’s total becomes 2 + 2 = 4 and Rose’s becomes 1 + 1 = 2, giving a new ratio of 4 : 2 (i.e. 2 : 1)."
+  },
+  {
+    "id": "accounting-1788679750926-236-1306",
+    "questionText": "The most appropriate basis for apportioning inventory holding cost among departments is to use the value of? (JAMB 2000)",
+    "options": [
+      "purchases",
+      "opening stock",
+      "closing stock",
+      "average stock"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Inventory holding costs (e.g., storage, insurance, obsolescence) are incurred throughout the period on whatever level of stock is held at each point.\n\nUsing average stock (typically \n(opening + closing)/2) smooths out fluctuations and fairly allocates those carrying costs to each department in proportion to the stock they actually held over time.\n\nOther bases (purchases, opening or closing stock) either ignore timing or give a distorted view of the stock levels during the period."
+  },
+  {
+    "id": "accounting-1788679750926-237-1355",
+    "questionText": "If a promoter pays a lawyer ₦5,000 for services rendered in preparing a Memorandum of Incorporation, the journal entry is to debit? (JAMB 1999)",
+    "options": [
+      "preliminary expenses, credit cash accounts",
+      "promoter, credit creditors' accounts",
+      " lawyer's credit cash accounts",
+      "cash , credit incorporation accounts"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Dr. Preliminary Expenses ₦5,000\n  Cr. Cash ₦5,000\n\nSo you debit Preliminary Expenses and credit Cash"
+  },
+  {
+    "id": "accounting-1788679750926-238-430",
+    "questionText": "Share premium is an example of (JAMB 2004)",
+    "options": [
+      "revenue reserves",
+      "capital reserves",
+      "general reserves",
+      "loan capital"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-239-384",
+    "questionText": "The concept applied in answering question 42 above is (JAMB 2014)",
+    "options": [
+      "matching",
+      "consistency",
+      "prudence",
+      "entity"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-240-839",
+    "questionText": "The interest on partner's loan is (JAMB 2021)",
+    "options": [
+      " credited in current account",
+      " debited in profit and loss account",
+      " credited in profit and loss account",
+      "debited in current account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Interest on a partner’s loan is an expense to the business and is therefore charged to the Profit and Loss Account (debited), with the corresponding credit going to the partner’s current account."
+  },
+  {
+    "id": "accounting-1788679750926-241-1293",
+    "questionText": "<b>Use the information below to answer questions 28 and 29</b>\n\nMaro Merchant Bank Plc is to issue 500,000 ordinary\nshares of 50k each at ₦ 3,000 per share. Applications\nwere received for 1,550,000 shares fully paid, 1,250,000\nshares are to be issued on a pro rata basis and excess\nsubscriptions were dishonored and refunds made\n\nWhat will be the number of shares to be issued to a subscriber who applied for ₦30,000 shares? (JAMB 2000)",
+    "options": [
+      "₦20,000",
+      "₦18,000",
+      "₦15,000",
+      "₦12,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The company is issuing 500,000 shares. Applications were received for 1,550,000 shares, but only applications totaling 1,250,000 shares are considered for pro rata allotment. The remaining applications for 300,000 shares are dishonored and fully refunded.\n\nThe allotment ratio is calculated as follows:\n\nTotal shares to be issued: 500,000\n\nTotal shares considered for allotment: 1,250,000\n\nAllotment ratio = 500,000 / 1,250,000 = 0.4 (or 2/5)\n\nShares allotted = Allotment ratio × Shares applied for\n\nShares allotted = 0.4 × 30,000 = 12,000\n\nThus, the number of shares to be issued to the subscriber is 12,000."
+  },
+  {
+    "id": "accounting-1788679750926-242-986",
+    "questionText": "Discount allowed as represented in the control account appears on the? (JAMB 2008)",
+    "options": [
+      "credit side of the purchases control account",
+      "debit side of the purchases control account",
+      "credit side of the sales control account",
+      "debit side of the sales control account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Discount allowed = discounts we give to our customers for early payment\nIn the Sales Control Account (Debtors Control Account):\n\nDiscount allowed reduces the amount customers owe us\nItems that reduce debtor balances appear on the credit side\nTherefore, discount allowed appears on the credit side of the sales control account"
+  },
+  {
+    "id": "accounting-1788679750926-243-433",
+    "questionText": "The statement of assets and liabilities in the public sector can be described as the (JAMB 2004)",
+    "options": [
+      "income and expenditure account of government",
+      "appropriation account of government",
+      "balance sheet of government",
+      "funds flow statement of government"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-244-212",
+    "questionText": "Which of the following is not a revenue receipt? (JAMB 1997)",
+    "options": [
+      "Receipt from sales of goods",
+      "Rent from premises sublet",
+      "Interest on savings account",
+      "cash on sale of fixed asset"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-245-1008",
+    "questionText": "<b>Use the information below to answer question 44 to 45.</b>\n\nTrading Account (Extract)\n\nOpening stock .......... ₦19,500\nAdd: Purchases ........ ₦68,700\nGoods available for sale .. ₦88,200\n\nSales .................. ₦96,000\nLess: Closing stock ..... ?\nCost of goods sold ..... ?\nGross profit c/d ....... ?\n\nGross profit margin = 20%\n\nWhat is the gross profit? (JAMB 2008)",
+    "options": [
+      "₦88 200",
+      " ₦76 800",
+      "₦19 200",
+      "₦12 900"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Given:\n  Sales = 96,000\n  Gross profit margin = 20% (i.e. Gross profit / Sales = 20%)\n\nStep 1: Compute Gross Profit\n  Gross profit = 20% of Sales\n               = 0.20 × 96,000\n               = 19,200"
+  },
+  {
+    "id": "accounting-1788679750926-246-1105",
+    "questionText": "When a new partner is admitted to a partnership, there is a need to revalue the? (JAMB 2004)",
+    "options": [
+      "capital of the business",
+      "capital and liabilities of the business",
+      "assets and capital of the business",
+      "assets and liabilities of the business"
+    ],
+    "correctAnswer": "D",
+    "explanation": "When a new partner joins a partnership, the assets and liabilities need to be revalued to show their current market values.\nWhy revaluation is necessary:\n\nAssets may have increased or decreased in value since they were first recorded\nLiabilities may need adjustment to reflect current amounts\nThe new partner should not gain or lose from unrealized gains/losses that occurred before they joined\nExisting partners should get credit for any increase in asset values that happened during their time\n\nWhat gets revalued:\n\nAssets = property, equipment, inventory, etc. at current market values\nLiabilities = loans, creditors at current amounts owed"
+  },
+  {
+    "id": "accounting-1788679750926-247-652",
+    "questionText": "The discount column on the left-hand side of cashbook represents a discount (JAMB 2017)",
+    "options": [
+      "received from a creditor",
+      "allowed to a debtor",
+      "received from a debtor",
+      "allowed to a creditor"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Allowed to a debtor: the debit side of the cashbook is where all proceeds from sales are recorded and have to be matched with the discount allowed to the debtor /creditor"
+  },
+  {
+    "id": "accounting-1788679750926-248-691",
+    "questionText": "Branch stock adjustment account is prepared at? (JAMB 2018)",
+    "options": [
+      "Cost price",
+      " new price",
+      "invoice price",
+      "normal price"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Branch stock adjustment account deals with the loading on the respective items of goods relating to Branch stock account.\n\nBranch adjustment account is prepared at invoice price.\n\n The difference between the two sides of this account reveals either gross profit (if credit side is greater than the debit side) or gross loss (if debit side is greater than the credit side)."
+  },
+  {
+    "id": "accounting-1788679750926-249-1100",
+    "questionText": "Discounts granted branch customers are treated as a debit to branch? (JAMB 2004)",
+    "options": [
+      " stock account and a credit to branch debtors'account",
+      "discount account and a credit to branch bank account",
+      "stock account and a credit to branch bank account",
+      " discount account and a credit to branch debtors' account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "When a branch gives a discount to its customers:\nWhat happens:\n\nThe branch is giving up some money (discount expense)\nThe customer owes less money to the branch\n\nAccounting treatment:\n\nDebit Branch Discount Account = record the expense/cost of giving the discount\nCredit Branch Debtors' Account = reduce what the customer owes\n\nThis follows the basic principle: when you give a discount, it's an expense to you and reduces what the customer owes."
+  },
+  {
+    "id": "accounting-1788679750926-250-243",
+    "questionText": "Which of the following is charged to trading account? (JAMB 2006)",
+    "options": [
+      "Discounts allowed",
+      "Carriage outwards",
+      "Salaries",
+      "Carriage inwards."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-251-832",
+    "questionText": "Recurrent expenditures are expenses for the period not exceeding (JAMB 2021)",
+    "options": [
+      " 10 years",
+      "2 years",
+      "5 years",
+      "1 year"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Recurrent expenditures are those routine expenses incurred in the day‑to‑day running of an organization and typically cover a period not exceeding one year. They contrast with capital expenditures, which relate to assets with benefits over multiple years."
+  },
+  {
+    "id": "accounting-1788679750926-252-1179",
+    "questionText": "<b>Use the information below to answer questions 15 and 16.</b>\n\nThe gross profit ratio for the company is 25%.\n\nIf the total expenses is ₦20,845, what will be the net profit for the company during the month? (JAMB 2002)",
+    "options": [
+      "₦19,149",
+      "₦16,168",
+      "₦21,655",
+      "₦18,405"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Step 1: Calculate Gross Profit\nGross profit ratio = (Gross Profit ÷ Net Sales) × 100%\n25% = (Gross Profit ÷ ₦157,000) × 100%\nGross Profit = 25% × ₦157,000\nGross Profit = 0.25 × ₦157,000 = ₦39,250\nStep 2: Calculate Net Profit\nNet Profit = Gross Profit - Total Expenses\nNet Profit = ₦39,250 - ₦20,845\nNet Profit = ₦18,405\nAnswer: ₦18,405"
+  },
+  {
+    "id": "accounting-1788679750926-253-1295",
+    "questionText": "An outright sale of a partnership amounts to the? (JAMB 2000)",
+    "options": [
+      "compensation of vendors by the purchase",
+      "admission of a new partner",
+      "purchase of rights of a dead partner",
+      "change of sharing ratio of vendors"
+    ],
+    "correctAnswer": "A",
+    "explanation": "An outright sale of the partnership business effectively involves the compensation of the outgoing partners (vendors) by the purchaser of the business."
+  },
+  {
+    "id": "accounting-1788679750926-254-82",
+    "questionText": "credit balance is (JAMB 2013)",
+    "options": [
+      "a liability or an expense.",
+      "a liability or an income.",
+      "an expenditure or an income.",
+      "an asset or an expense."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-255-1109",
+    "questionText": "<b>Use the information below to answer questions 45 and 46</b>\n\nWhat is the value of the authorized share capital? (JAMB 2004)",
+    "options": [
+      "₦500,000",
+      "₦900,000",
+      "₦750,000",
+      "₦1, 200,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Calculate Authorized Preference Share Capital\nAuthorized preference shares = 600,000 shares × ₦0.50 per share\nAuthorized preference shares = ₦300,000\nStep 2: Calculate Authorized Ordinary Share Capital\nAuthorized ordinary shares = 600,000 shares × ₦1 per share\nAuthorized ordinary shares = ₦600,000\nStep 3: Calculate Total Authorized Share Capital\nTotal Authorized Share Capital = Preference shares + Ordinary shares\nTotal Authorized Share Capital = ₦300,000 + ₦600,000\nTotal Authorized Share Capital = ₦900,000"
+  },
+  {
+    "id": "accounting-1788679750926-256-282",
+    "questionText": "Partners whose liabilities are restricted to their financial contribution to the partnership in the event of winding up are (JAMB 2012)",
+    "options": [
+      "ordinary partners",
+      "limited partners",
+      "dormant partners",
+      "sleeping partners"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-257-1394",
+    "questionText": "The limitations of the receipts and payments account arise mainly because of the reliance on? (JAMB 199)",
+    "options": [
+      "cash movement as evidence of transaction",
+      "the acconuting officer to report",
+      " the capital account of the organization",
+      "the transaction papers as evidence of transaction"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The primary limitation of a receipts and payments account is its reliance on actual cash movements as the sole evidence of transactions. Because it’s prepared on a cash basis and ignores accruals, it:\n\nOmits non-cash items (e.g., depreciation, accrued expenses)\n\nDoes not match income and related expenses to the same period\n\nFails to show true surplus or deficit"
+  },
+  {
+    "id": "accounting-1788679750926-258-675",
+    "questionText": "In the head office ledger, the value of goods sent to the branch are____________ (JAMB 2018)",
+    "options": [
+      "Debited to the branch current account",
+      "Debited to the head office current account",
+      "Credited to the head office current account",
+      "Credited to the branch current account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Branch current account is maintained in the head office books to record all transactions between the head office and the branch. This account is debited with the following:\n\n  i. Goods sent to branch\n\n  ii. Expenses of the branch paid by the head office\n\n  iii. Profit of the branch"
+  },
+  {
+    "id": "accounting-1788679750926-259-920",
+    "questionText": "When expenses are paid on behalf of the venture, the accounting entries is to debit (JAMB 2023)",
+    "options": [
+      "expenses account and credit bank account",
+      " bank account and credit joint venture account",
+      "joint venture account and credit bank account",
+      "joint venture account and credit expenses account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Expenditure paid on bahalf of joint venture\nAccountint entries:\nDr: Joint venture account\nCr: Bank account"
+  },
+  {
+    "id": "accounting-1788679750926-260-733",
+    "questionText": "Based on the Receipts and Payment Account extract showing: balance brought forward ₦3,650, subscription ₦7,500 less ₦2,000 equals ₦1,000, fees ₦8,500, insurance ₦900, rate ₦11,700, and balance carried down ₦8,050, with totals of ₦20,650 on both sides, and given the following additional information as at 1st January 1999 and 31st December 1999 respectively: rates owing ₦3,600 and ₦2,000, insurance prepaid ₦50 and ₦1,000, subscription in arrears ₦700 and ₦600, The figure ₦1000 represent What is the opening cash balance (JAMB 2019)",
+    "options": [
+      "₦20,600",
+      "₦8,050",
+      " ₦3,650",
+      "₦8,500"
+    ],
+    "correctAnswer": "C",
+    "explanation": "This is shown as \"Bal b/f\" (Balance brought forward) of ₦3,650 on the receipts side of the Receipts and Payment Account, which represents the cash balance at the beginning of the period."
+  },
+  {
+    "id": "accounting-1788679750926-261-970",
+    "questionText": "Bariga, a stock broker bought stationery for ₦ 12000 by cash. To record this transaction, debit? (JAMB 2008)",
+    "options": [
+      "cash and credit stationery",
+      "purchase and credit stationery",
+      "stationery and credit cash",
+      "stationery and credit purchases"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Explanation: buying stationery for cash increases the stationery account (debit) and decreases cash (credit)."
+  },
+  {
+    "id": "accounting-1788679750926-262-531",
+    "questionText": "In a bank reconciliation statement, Dishonoured cheques is added to (JAMB 2015)",
+    "options": [
+      "unpresented cheques",
+      "uncredited cheques",
+      "statement of account",
+      " aggregate balanace as per cash book"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Dishonoured cheques are those which are refused payment by the bank because they are not in order or there is insufficient fund in the drawer's account.  They are added to uncredited cheques just like standing order and bank charges."
+  },
+  {
+    "id": "accounting-1788679750926-263-687",
+    "questionText": "Which of the following methods of invoicing goods to branches facilitate easy checks on the activities of branches? (JAMB 2018)",
+    "options": [
+      "Selling price",
+      "Fixed percentage on cost",
+      "Cost price",
+      "Invoice price"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Goods are transferred from head office to branch at cost price, selling price and cost price plus mark up"
+  },
+  {
+    "id": "accounting-1788679750926-264-701",
+    "questionText": "Sule and Ahmed are in partnership sharing profit and losses equally. If Khadija is admitted as a new partner to take 1/5 th as her share. What is the new profit or loss sharing? (JAMB 2018)",
+    "options": [
+      " Sule1/3, Ahmed1/3, Khadija 1/3",
+      "Sule1/3, Ahmed1/3, Khadija 1/3",
+      "Sule1/5, Ahmed1/5, Khadija3/5",
+      " Sule2/5, Ahmed1/5, Khadija2/5"
+    ],
+    "correctAnswer": "B",
+    "explanation": "If Khadija is to take 1/5th i.e. 20%\n\n  Sule and Ahmed are to share 80% (100% - 20%) equally\n\n  Sule = 2/5\n\n  Ahmed = 2/5\n\n  Khadija = 1/5"
+  },
+  {
+    "id": "accounting-1788679750926-265-847",
+    "questionText": "The excess of income over expenditure is usually transferred to the? (JAMB 2022)",
+    "options": [
+      "accumulated fund",
+      "\nprofit and loss account",
+      "current assets in the balance sheet",
+      "current liabilities in the balance sheet"
+    ],
+    "correctAnswer": "A",
+    "explanation": "In not‑for‑profit organizations, any surplus (excess of income over expenditure) is not taken to a Profit and Loss Account but is transferred to the Accumulated Fund, which represents the retained surpluses of the organization."
+  },
+  {
+    "id": "accounting-1788679750926-266-1230",
+    "questionText": "A reduction in the catalogue price of an article given by a wholesaler to a retailer is called a? (JAMB 2001)",
+    "options": [
+      " bad debt",
+      "trade discount",
+      "premium",
+      "cash discount"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A reduction in the catalogue price of an article given by a wholesaler to a retailer is called a trade discount.\n\nTrade discount is:\n\nA reduction from the listed/catalogue price\nGiven to encourage bulk purchases or maintain trade relationships\nOffered to retailers, distributors, or other businesses in the supply chain\nNot recorded in the books of accounts (deducted before recording the transaction)\nDifferent from cash discount, which is given for early payment"
+  },
+  {
+    "id": "accounting-1788679750926-267-1103",
+    "questionText": "<b>Use the information below to answer questions 39 and 40</b>\n\nJumoke and Kunle have an original investment of ₦25,000 and ₦15,000 respectively in a partnership. The articles of partnership provides 3% interest on capital and salaries of ₦1,500 and ₦1,000 respectively for the partners. The profits and losses are to be shared in the ratio 3:2.\nMiscellaneous expenses of ₦2,500 were incurred with gross profit of ₦6,500 during the financial year.\n\nThe balance of profit and loss account will be? (JAMB 2004)",
+    "options": [
+      "₦4,000",
+      "₦2,800",
+      "₦1,500",
+      "₦300"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Step 1: Calculate ₦et Profit\n₦et Profit = Gross Profit - Miscellaneous Expenses\n₦et Profit = ₦6,500 - ₦2,500 = ₦4,000\nStep 2: Calculate Interest on Capital\nJumoke's interest = 3% × ₦25,000 = ₦750\nKunle's interest = 3% × ₦15,000 = ₦450\nTotal interest on capital = ₦750 + ₦450 = ₦1,200\nStep 3: Calculate Total Appropriations\nTotal appropriations = Interest on capital + Salaries\nTotal appropriations = ₦1,200 + ₦1,500 + ₦1,000 = ₦3,700\nStep 4: Calculate Balance of Profit and Loss Account\nBalance = ₦et Profit - Total Appropriations\nBalance = ₦4,000 - ₦3,700 = ₦300\nTherefore, the balance of profit and loss account is ₦300"
+  },
+  {
+    "id": "accounting-1788679750926-268-1326",
+    "questionText": "A provision for bad debt account had ₦3,800 at the beginning of the year and ₦4,220 at the close of the year. If bad debts are calculated at the rate of 1/2% of annual sales, what was the credit sales for the period? (JAMB 1999)",
+    "options": [
+      "₦2,100,000",
+      " ₦84,000",
+      " ₦840,000",
+      "₦500,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "nder the provision-for-bad-debts method, the bad debt expense for the year is the change in the provision account, not the closing balance.\nCalculation:\nBad debt expense = Closing provision - Opening provision\nBad debt expense = ₦4,220 - ₦3,800 = ₦420\nSince bad debts are calculated at 0.5% of credit sales:\nCredit sales = Bad debt expense ÷ 0.005\nCredit sales = ₦420 ÷ 0.005 = ₦84,000"
+  },
+  {
+    "id": "accounting-1788679750926-269-1020",
+    "questionText": "What are the appropriate recording procedures for entries in the trial balance? (JAMB 2005)",
+    "options": [
+      " source documents, ledgers and trial balance",
+      "Ledgers, trial balance and source documents",
+      "Ledgers, source documents and trial balance",
+      "Cash account, ledgers and trial balance"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Explanation: Recording starts with source documents (invoices, receipts), entries are posted to the ledgers, and then ledger totals are used to prepare the trial balance."
+  },
+  {
+    "id": "accounting-1788679750926-270-1331",
+    "questionText": "Depreciation on a particular piece of machinery was ₦2,700 during the fifth year of its service life and ₦4,050 during the sixth year. The logical explanation for this is that? (JAMB 1999)",
+    "options": [
+      "an addition was made to the asset during the sixth year",
+      " the estimate of salvage value on this equipment was decreased",
+      " a unit-of-output method of depreciation was used during the sixth year",
+      "the estimate remaining service life of the assets was increased at the beginning of the sixth year"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The increase in depreciation from ₦2,700 in year 5 to ₦4,050 in year 6 most logically reflects a usage-based depreciation method, where charges vary with units of output or activity. Under the units-of-output method, if the machine was used more heavily in its sixth year than in its fifth, the depreciation expense would rise accordingly."
+  },
+  {
+    "id": "accounting-1788679750926-271-221",
+    "questionText": "The basis of accounting which eliminates debtors and creditors is (JAMB 2006)",
+    "options": [
+      "cash basis",
+      "accrual basis",
+      "fund basis",
+      "commitment basis."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-272-146",
+    "questionText": "The major sources of revenue for the state and local governments is (JAMB 2016)",
+    "options": [
+      "value added tax",
+      "statutory allocation",
+      "taxes and levies",
+      "recurrent revenue."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-273-97",
+    "questionText": "A business is treated as being separate from the owners. This statement is emphasized by (JAMB 2013)",
+    "options": [
+      "consistency concept.",
+      "realization concept.",
+      "going concern concept.",
+      "business entity concept."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-274-804",
+    "questionText": "A company has departments L, M and O. Department L Occupies a space twice that of M while O occupies half the space of M. If the company pays ₦70,000 on rent, what is the amount of rent that should be allocated to M? (JAMB 2020)",
+    "options": [
+      " ₦40,000",
+      "₦20,000",
+      " ₦30,000",
+      "₦10,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Determine the space ratios\n\nLet M's space = 1 unit\nL's space = 2 units (twice that of M)\nO's space = 0.5 units (half that of M)\nTotal space = 2 + 1 + 0.5 = 3.5 units\n\nStep 2: Calculate M's proportion\n\nM's proportion = 1 ÷ 3.5 = 2/7\n\nStep 3: Allocate rent to M\n\nM's rent allocation = 2/7 × ₦70,000 = ₦20,000"
+  },
+  {
+    "id": "accounting-1788679750926-275-584",
+    "questionText": "The income and expenditure account differs from receipts and payments account because it (JAMB 2016)",
+    "options": [
+      "accounts for notional charges",
+      "records transactions that relate to the period on cash basis",
+      "records transactions that relate to the period on accrual basis",
+      "accounts for balance of cash at bank"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account."
+  },
+  {
+    "id": "accounting-1788679750926-276-911",
+    "questionText": "The account where the profit are distributed to the partner in their profit sharing ratio in partnership (JAMB 2023)",
+    "options": [
+      "appropriation account",
+      "profit and loss account",
+      "balance sheet",
+      "trading account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "For a partnership, the primary purpose of the appropriation account is to show how profits are distributed among the partners."
+  },
+  {
+    "id": "accounting-1788679750926-277-1069",
+    "questionText": "<b>Use the information below to answer questions 5 and 6</b>\n\nThe owner wishes to maintain an amount equal to 1/3 of capital as drawings\n\nThe amount withdrawn is? (JAMB 2004)",
+    "options": [
+      "₦2,100",
+      "₦2,200",
+      "₦4,400",
+      "₦6,400"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Capital = ₦6,600\n\nDrawings = 1/3 × Capital\nDrawings = 1/3 × 6,600\nDrawings = ₦2,200\n\nAmount withdrawn = ₦2,200"
+  },
+  {
+    "id": "accounting-1788679750926-278-88",
+    "questionText": "Which of the following is not a book of original entry? (JAMB 2013)",
+    "options": [
+      "Cash Book",
+      "Purchases Ledger",
+      "Returns Outwards Journal",
+      "General Journal"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-279-325",
+    "questionText": "Which of the following is not revealed by a firm’s accounting records? (JAMB 2015)",
+    "options": [
+      "Profit of a period",
+      "Quality of labour force",
+      "Credit worthiness",
+      "Value of assets"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-280-526",
+    "questionText": "Prime cost is one of the following (JAMB 2015)",
+    "options": [
+      "expenses which can be identified with an allocated to cost centers",
+      "aggregate direct material cost, direct labour cost and variable direct expenses",
+      "the cost taken into account in the production process whether direct or indirect",
+      "the cost of commodities supply to an undertaking"
+    ],
+    "correctAnswer": "B",
+    "explanation": "prime cost is the direct cost of a commodity in terms of the materials and labour involved in its production, excluding fixed costs."
+  },
+  {
+    "id": "accounting-1788679750926-281-947",
+    "questionText": "A list of all debit and credit balances from the ledger accounts are made in the (JAMB 2024)",
+    "options": [
+      "cash book",
+      "trial balance",
+      " balance sheet",
+      "profit and loss account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A trial balance is a worksheet that summarizes the ending balances of all ledger accounts after a specific accounting period. It lists each account title and its corresponding debit or credit balance."
+  },
+  {
+    "id": "accounting-1788679750926-282-975",
+    "questionText": "Abba offers 5% cash discount on goods worth ₦10 000, The discount allowed account is to be? (JAMB 2008)",
+    "options": [
+      "debited with ₦10 000",
+      "credited with ₦10 000",
+      "debited with ₦500",
+      "credited with ₦500"
+    ],
+    "correctAnswer": "C",
+    "explanation": "When Abba offers a 5% cash discount on goods worth ₦10,000:\nCalculate the discount:\nDiscount = 5% × ₦10,000 = ₦500\nAccounting treatment:\nWhen a business gives a discount to customers, it's an expense for the business.\nRule for expenses:\n\nExpenses are always debited\n\"Discount Allowed\" is an expense account\n\nTherefore:\nThe Discount Allowed Account should be debited with ₦500"
+  },
+  {
+    "id": "accounting-1788679750926-283-1365",
+    "questionText": "The Act establishing the institute of Chartered Accountants of Nigeria (ICAN) came into force on? (JAMB 1998)",
+    "options": [
+      "1364",
+      "Ist October, 1960",
+      "Ist October,1963",
+      " Ist September,1965"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Institute of Chartered Accountants of Nigeria (ICAN) was established by Act of Parliament No. 15 of 1965, but it came into force on 1st October, 1963. This is the date recognized as ICAN's founding or commencement date."
+  },
+  {
+    "id": "accounting-1788679750926-284-299",
+    "questionText": "The capital is (JAMB 2012)",
+    "options": [
+      "D7,580",
+      "D6,580",
+      "D5,380",
+      "D1,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-285-786",
+    "questionText": "Use the information below to answer this question\n\nA machine bought for ₦35,000 was estimated to have a life span of 5 years with a scrap value of ₦9000.\n \n\nThe yearly depreciation using the straight-line method would be\n (JAMB 2020)",
+    "options": [
+      "₦5200",
+      "₦800",
+      "₦6500",
+      "₦4400"
+    ],
+    "correctAnswer": "A",
+    "explanation": "COGS = Cost – Scrap Value = 35,000 – 9,000 = ₦26,000\nAnnual Depreciation = COGS ÷ Useful Life = 26,000 ÷ 5 = ₦5,200"
+  },
+  {
+    "id": "accounting-1788679750926-286-530",
+    "questionText": "The ledger entries to be made if cash sales is banked is debit (JAMB 2015)",
+    "options": [
+      "cash, credit sales",
+      "sales, credit cash",
+      " bank, credit cash",
+      "bank, credit sales"
+    ],
+    "correctAnswer": "D",
+    "explanation": "When you make a cash sale and lodge the proceeds directly into the bank, you:\n\nDebit Bank (to increase your bank balance)\n\nCredit Sales (to record the revenue earned)"
+  },
+  {
+    "id": "accounting-1788679750926-287-973",
+    "questionText": "Given information:\n\nCapital = ₦6,500\nSales = ₦30,000\nPurchases = ₦12,250\nRent = ₦9,100\nMotor vehicle = ₦2,400\n\nFind the bank balance? (JAMB 2008)",
+    "options": [
+      "₦12,750 credit",
+      "₦71 250 debit",
+      "₦95 000 credit",
+      "₦95 000 debit"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cash Book Analysis:\nMoney coming in (Credits/Receipts):\n\nCapital = ₦6,500\nSales = ₦30,000\nTotal Receipts = ₦36,500\n\nMoney going out (Debits/Payments):\n\nPurchases = ₦12,250\nRent = ₦9,100\nMotor vehicle = ₦2,400\nTotal Payments = ₦23,750\n\nCalculate Bank Balance:\nBank Balance = Total Receipts - Total Payments\nBank Balance = ₦36,500 - ₦23,750 = ₦12,750 credit"
+  },
+  {
+    "id": "accounting-1788679750926-288-472",
+    "questionText": "The fourth stage of the accounting information system is (JAMB 2007)",
+    "options": [
+      "recording",
+      "interpreting",
+      "summarizing",
+      "classifying."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-289-840",
+    "questionText": "Which of the following is a debit item in the purchase ledger control account? (JAMB 2021)",
+    "options": [
+      "balance b/d",
+      "cheque dishonoured",
+      "balance c/d",
+      "purchases"
+    ],
+    "correctAnswer": "B",
+    "explanation": "In the Purchases Ledger Control Account (i.e., the Creditors Control Account), a dishonoured cheque is recorded on the debit side because it reverses (cancels) a payment that had previously been debited there, thereby increasing the outstanding liability again. "
+  },
+  {
+    "id": "accounting-1788679750926-290-1076",
+    "questionText": "The balance on the provision for depreciation account is? (JAMB 2004)",
+    "options": [
+      " added to fixed assets on the balance sheet",
+      "deducted from the fixed assets on the balance sheet",
+      " deducted from the profitand loss account",
+      "added to current liabilities of the account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Reason: Provision for depreciation (accumulated depreciation) is a contra-asset account, it reduces the gross carrying amount of fixed assets to show their net book value on the balance sheet."
+  },
+  {
+    "id": "accounting-1788679750926-291-735",
+    "questionText": "Given the following manufacturing information: stock of finished goods on January 1st was ₦50,640 and on December 31st was ₦71,380; stock of raw materials on January 1st was ₦32,160 and on December 31st was ₦29,640; purchase of raw materials was ₦145,000; manufacturing wages were ₦52,000; depreciation on factory equipment was ₦16,500; direct expenses were ₦12,500; factory fuel cost ₦7,000; and carriage inwards on raw materials was ₦7,000, what is the cost of raw materials consumed? (JAMB 2019)",
+    "options": [
+      "₦154,520.",
+      "₦53,000",
+      "₦150,000",
+      "₦152,120"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To calculate the cost of raw materials consumed, use the formula:\nCost of Raw Materials Consumed = Opening Stock of Raw Materials + Purchases + Carriage Inwards - Closing Stock of Raw Materials\nCalculation:\nCost of Raw Materials Consumed = ₦32,160 + ₦145,000 + ₦7,000 - ₦29,640\nCost of Raw Materials Consumed = ₦184,160 - ₦29,640 = ₦154,520\nTherefore, the cost of raw materials consumed is ₦154,520."
+  },
+  {
+    "id": "accounting-1788679750926-292-810",
+    "questionText": "The excess of income over expenditure is usually transferred to the (JAMB 2021)",
+    "options": [
+      "current assets in the balance sheet",
+      "profit and loss account",
+      "accumulated fund",
+      " current liabilities in the balance sheet"
+    ],
+    "correctAnswer": "C",
+    "explanation": "In not‑for‑profit accounting, any surplus (the excess of income over expenditure) is not shown in a profit and loss account but is transferred to the Accumulated Fund (also called the General Fund or Capital Fund). This fund represents the retained surpluses of the organization."
+  },
+  {
+    "id": "accounting-1788679750926-293-1213",
+    "questionText": "Upon the dissolution of a partnership, the Partnership Act provides that the amount realized should be? (JAMB 2002)",
+    "options": [
+      "used to pay all taxes due to government",
+      " used to start a new partnership business by members who are willing",
+      "shared equally by the existing partners",
+      "used in paying the debts and liabilities of the firm to persons who are not partners"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Reason: Under the Partnership Act, upon dissolution, assets are first used to pay debts to outside creditors (non-partners) before settling partners’ loans and capital, and finally distributing any surplus to partners."
+  },
+  {
+    "id": "accounting-1788679750926-294-803",
+    "questionText": "Which of the following accounting conventions suggests that accountants should use a method of valuation that understates rather than overstates results? (JAMB 2020)",
+    "options": [
+      "monetary",
+      "cost",
+      "conservatism",
+      "historical"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The conservatism convention (also known as prudence) suggests that accountants should use methods of valuation that understate rather than overstate results"
+  },
+  {
+    "id": "accounting-1788679750926-295-1433",
+    "questionText": "Given: capital ₦13,000; office machinery, ₦9,000; creditors ₦900, stock of goods ₦1,550; debtors, ₦275; cash at bank, ₦5,075 and loan from Jumbo, ₦2,000. What is the balance sheet total? (JAMB 1997)",
+    "options": [
+      " ₦19,500",
+      "₦18,500",
+      "₦17,900",
+      " ₦15,900"
+    ],
+    "correctAnswer": "D",
+    "explanation": "To find the balance sheet total, calculate either the total assets or total liabilities and equity (they should be equal).\nAssets:\n\nOffice machinery: ₦9,000\nStock of goods: ₦1,550\nDebtors: ₦275\nCash at bank: ₦5,075\nTotal Assets: ₦15,900\n\nLiabilities and Equity:\n\nCapital: ₦13,000\nCreditors: ₦900\nLoan from Jumbo: ₦2,000\nTotal Liabilities and Equity: ₦15,900\n\nThe balance sheet total (which is the same for both sides) is ₦15,900."
+  },
+  {
+    "id": "accounting-1788679750926-296-412",
+    "questionText": "Cost classification in relation to charges is determined by the level of (JAMB 2004)",
+    "options": [
+      "raw materials",
+      "labour",
+      "activity",
+      "profitability"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-297-762",
+    "questionText": "An ordinary share of ₦100 was issued at ₦80. The share was issued at (JAMB 2019)",
+    "options": [
+      "premium",
+      "par",
+      "discount",
+      "loss"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Share issued at discount is a situation whereby shares are quoted below the nominal value."
+  },
+  {
+    "id": "accounting-1788679750926-298-234",
+    "questionText": "Revenue is recognized in the profit and loss account as soon as a (JAMB 2006)",
+    "options": [
+      "debtor pays what is due from him",
+      "sale of goods takes place and money is received",
+      "sale of goods takes place whether or not money is received",
+      "sale of a fixed asset takes place."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-299-1333",
+    "questionText": "The principal function of a sales ledger control account is to? (JAMB 1999)",
+    "options": [
+      "serve as internal check and provide quick information for the preparation of interim financial statements",
+      "serve as external check and provide quick information for the preparation of interim financial statements",
+      " provide quick information for the preparation of customers' statement",
+      " provide information for the control of salesmen's activities"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The primary purpose of the Sales Ledger Control Account is to act as an internal check on the postings to the individual debtor (customer) accounts and to provide a consolidated receivables figure that is readily available, especially useful when preparing interim or monthly financial statements without having to total each individual ledger."
+  },
+  {
+    "id": "accounting-1788679750926-300-521",
+    "questionText": "Which method of pricing can be used satisfactorily in either rising or falling price situation? (JAMB 2015)",
+    "options": [
+      "Market price",
+      "Average method",
+      "FIFO",
+      "Standard price"
+    ],
+    "correctAnswer": "B",
+    "explanation": "An average method which accommodate all the prices and then divide (inform of mean) is well acceptable in either of the two situation."
+  },
+  {
+    "id": "accounting-1788679750926-301-725",
+    "questionText": "Use the following to answer this question.\nIndustry ltd, issued 100,000 shares at ₦1 each out of its Authorized share capital of ₦200,000 at ₦1 each. At the of the first call, all shareholders paid in full, except for two shareholder who owes ₦20,000.\n\nThe company's paid-up capital is (JAMB 2019)",
+    "options": [
+      "₦70,000",
+      " ₦80,000",
+      "₦220,000",
+      " ₦120,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Paid up capital is the total amount paid up or credited as paid up, on the issued share capital.\nFrom the question above, the issued share capital is ₦100,000 and two of the shareholder owes ₦20,000. Therefore, the paid up is 100,000 - 20,000 = ₦80,000."
+  },
+  {
+    "id": "accounting-1788679750926-302-229",
+    "questionText": "Which of the following is not a source of revenue to a government? (JAMB 2006)",
+    "options": [
+      "Taxation",
+      "Sale of goods",
+      "Imposition of fines",
+      "Grants"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-303-1037",
+    "questionText": "<b>Use the information below to answer questions 22 to 23</b>\n\nZazzau Company:\n\nCash in hand................₦50\nCash in bank................₦1 250\nStock.......................₦4 880\nFurniture...................₦9 60\nBuilding....................₦5 500\nDebtor......................₦1 750\nCreditors...................₦2 150\n\nDrawings of ₦125 were made by the shareholders of the company.\n\nThey company's net current assets amount to? (JAMB 2005)",
+    "options": [
+      "₦5 780",
+      "₦5 70",
+      "₦6 580",
+      "₦7 930"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Current Assets:\n\nCash in hand = ₦50\n\nCash at bank = ₦1,250 → running total = ₦1,300\n\nStock = ₦4,880 → running total = ₦6,180\n\nDebtors = ₦1,750 → Total current assets = ₦7,930\n\nCurrent Liabilities:\n\nCreditors = ₦2,150\n\nNet Current Assets = Current Assets − Current Liabilities\n= ₦7,930 − ₦2,150\n= ₦5,780"
+  },
+  {
+    "id": "accounting-1788679750926-304-1259",
+    "questionText": "Department F transferred some goods to department G at a selling price. The goods were not sold at the end of the accounting period. Which account is affected at the time of preparing a combined balance sheet? (JAMB 2001)",
+    "options": [
+      "creditors",
+      "debtors",
+      "stock",
+      "suspense"
+    ],
+    "correctAnswer": "C",
+    "explanation": "When departments transfer goods between themselves at selling price and those goods remain unsold at period end, the combined closing stock on the balance sheet must be adjusted to remove the unrealized inter-department profit.\n\nTherefore, the account affected is the stock (inventory) balance."
+  },
+  {
+    "id": "accounting-1788679750926-305-673",
+    "questionText": "When goodwill is not retained in the business, the entries in the new partners books will be to debit______________\n (JAMB 2018)",
+    "options": [
+      "Goodwill account and credit partners capital account",
+      "Cash account and credit goodwill account",
+      "Goodwill account and credit cash account",
+      " Partners capital account and credit goodwill account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "When goodwill is not retained in the business, it means the goodwill account is written off immediately after being created. This involves a two-step process:\nStep 1: Create goodwill\n\nDebit: Goodwill Account\nCredit: Partners' Capital Accounts (in profit-sharing ratio)\n\nStep 2: Write off goodwill (since it's not retained)\n\nDebit: Partners' Capital Accounts (in new profit-sharing ratio)\nCredit: Goodwill Account\n\nThe net effect in the new partners' books is:\n\nDebit: Partners' Capital Account\nCredit: Goodwill Account\n\nThis represents the partners absorbing the goodwill write-off through their capital accounts rather than keeping it as an asset on the books."
+  },
+  {
+    "id": "accounting-1788679750926-306-936",
+    "questionText": "Pending the location of an error, the difference in the Trial Balance is posted to a __ (JAMB 2024)",
+    "options": [
+      "control",
+      " profit and loss appropriation",
+      "profit and loss",
+      "suspense"
+    ],
+    "correctAnswer": "D",
+    "explanation": "When a trial balance doesn't balance (meaning the total debits don't equal the total credits), there's an error somewhere in the accounting records. Until the error is identified and corrected, accountants use a suspense account to temporarily hold the difference."
+  },
+  {
+    "id": "accounting-1788679750926-307-1354",
+    "questionText": "<b>Use the information below to answer questions 39 and 40</b>\n\n\t\t\t\t  \nDetermine the owners equity (JAMB 1999)",
+    "options": [
+      "₦200,000",
+      "₦215,000",
+      " ₦275,000",
+      "₦755,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "If Total Assets = ₦755,000\nAnd Total Liabilities = ₦200,000 + ₦87,000 + ₦100,000 = ₦387,000\nThen Owners' Equity = ₦755,000 - ₦387,000 = ₦368,000\nBut based on the equity section shown:\nOwners' Equity = ₦200,000 + ₦15,000 + ₦60,000 = ₦275,000\nThe answer is C. ₦275,000.RetryClaude can make mistakes. Please double-check responses."
+  },
+  {
+    "id": "accounting-1788679750926-308-195",
+    "questionText": "Which of the following is not a personal account? (JAMB 1997)",
+    "options": [
+      "Bolaji Account",
+      "Drawings Account",
+      "P.Z. Plc Account",
+      "Cash Account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-309-643",
+    "questionText": "Discount allowed is enjoyed by (JAMB 2017)",
+    "options": [
+      "Managers",
+      "Customers",
+      "Suppliers",
+      "Staff of the company"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Customer: customers are the one that enjoys discount allowed. It is allowed to them by the suppliers. it can be in cash or trade"
+  },
+  {
+    "id": "accounting-1788679750926-310-648",
+    "questionText": "Goodwill can be created in the books of a partnership firm when (JAMB 2017)",
+    "options": [
+      "the partnership experiences super profit",
+      " a new member is admitted",
+      "the business is being expanded",
+      " the business suffers high loss"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The partnership experiences super profit: super profit is the profit that is generated by intangible asset or the profit that is attributed by the tangible asset when such profit is capitalized we get intangible asset or goodwill"
+  },
+  {
+    "id": "accounting-1788679750926-311-554",
+    "questionText": "Goods stolen at the branch is debited to (JAMB 2015)",
+    "options": [
+      "branch stock account",
+      "defalcations account",
+      "branch debtors account",
+      "branch adjustment account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "When goods are stolen at a branch, this represents a loss due to dishonest activities or theft. In accounting, such losses are recorded in a defalcations account, which is specifically used to track losses arising from fraud, theft, or other dishonest acts."
+  },
+  {
+    "id": "accounting-1788679750926-312-142",
+    "questionText": "A proprietor started business with N13, 000.  Assets and liabilities at the end of the year; fixed assets N8, 800, stock N2, 600, debtors  N1 , 000, cash N3, 000 and creditors N1 , 000. Determine the profit for the year? (JAMB 2016)",
+    "options": [
+      "N2, 400",
+      "N3, 000",
+      "N9, 800",
+      "N 1 , 400"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-313-208",
+    "questionText": "The purchase consideration was (JAMB 1997)",
+    "options": [
+      "N  24,000",
+      "N 23,000",
+      "N  20,000",
+      "N 15,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-314-263",
+    "questionText": "Which of the following is a book of original entry? (JAMB 2012)",
+    "options": [
+      "Ledger",
+      "Balance sheet",
+      "Bank statement",
+      "Sales journal"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-315-1463",
+    "questionText": "Public sector accounting is based on (JAMB 1997)",
+    "options": [
+      "cash",
+      "accrual",
+      "budgets",
+      "consolidated fund."
+    ],
+    "correctAnswer": "A",
+    "explanation": "Traditionally, public sector accounting is based on the cash basis, where transactions are recorded only when cash is received or paid. (Note: Some modern public sector entities are now adopting accrual basis, but cash basis is the traditional foundation.)"
+  },
+  {
+    "id": "accounting-1788679750926-316-776",
+    "questionText": "Five hundred naira monthly is allowed on an imprest system. The following transactions took place in Period 1: cash advanced to petty cashier ₦500, petty cashier paid out for stamp ₦200 and newspaper ₦250. In Period 2: cash to petty cashier ₦450, cashier paid for writing materials ₦350. What was the balance of cash with the petty cashier at the end of period 1? (JAMB 2020)",
+    "options": [
+      " ₦450",
+      " ₦300",
+      "₦50",
+      " ₦200"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Under the imprest system, the petty cashier should always maintain a fixed float of ₦500.\nAfter Period 1:\n\nOpening balance: ₦500\nPayments made: Stamp ₦200 + Newspaper ₦250 = ₦450\nBalance remaining: ₦500 - ₦450 = ₦50\n\n"
+  },
+  {
+    "id": "accounting-1788679750926-317-693",
+    "questionText": "The cost price method is applicable when_____ (JAMB 2018)",
+    "options": [
+      "Goods are sold at specific prices",
+      " goods are perishable",
+      " goods attract different gross profit percentage",
+      "to disclose gross profit or loss"
+    ],
+    "correctAnswer": "B",
+    "explanation": "cost price method is used to enhance quick sales"
+  },
+  {
+    "id": "accounting-1788679750926-318-1111",
+    "questionText": "Share premium is an example of? (JAMB 2004)",
+    "options": [
+      "revenue reserve",
+      "capital reserve",
+      "general reserve",
+      "loan capital"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Explanation: Share premium arises from issuing shares above their nominal value and is treated as a capital reserve, not available for distribution as dividend like revenue/general reserves."
+  },
+  {
+    "id": "accounting-1788679750926-319-473",
+    "questionText": "How much is sundry expenses? (JAMB 2007)",
+    "options": [
+      "N 2 700",
+      "N 2,250",
+      "N1,550",
+      "N2000."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-320-1125",
+    "questionText": "The recording phase of accounting is known as? (JAMB 2003)",
+    "options": [
+      "bookkeeping",
+      " trial balancing",
+      " ledger accounting",
+      "final accounting"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Reason: bookkeeping is the stage where transactions are recorded (journals, ledgers, subsidiary books). Trial balancing, ledger accounting and final accounting are later stages."
+  },
+  {
+    "id": "accounting-1788679750926-321-646",
+    "questionText": "A business has the following bank reconciliation information: Balance as per cashbook ₦5,467, Uncredited cheques ₦4,410, Unpresented cheques ₦19,404, and Cheques wrongly debited by bank ₦1,404. What is the balance as per bank statement? (JAMB 2017)",
+    "options": [
+      " ₦21,901",
+      "₦19,057",
+      " ₦21,109",
+      " ₦21,091"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Starting from the cashbook balance of ₦5,467, we adjust for items not yet reflected in the bank statement:\n\nAdd unpresented cheques (outstanding at bank): ₦19,404\n\nSubtract uncredited cheques (lodgements in transit): ₦4,410\n\nSubtract cheques wrongly debited by the bank (the bank has already taken this amount): ₦1,404\n\nSo the bank statement balance is:\n5,467 + 19,404 − 4,410 − 1,404 = ₦19,057"
+  },
+  {
+    "id": "accounting-1788679750926-322-699",
+    "questionText": "In the absence of a partnership deed, the act stipulates that____________ (JAMB 2018)",
+    "options": [
+      "An amount should be fixed as salaries for partners",
+      "Profits and losses should not be shared equally",
+      "Interest on partner’s loan should be 25%",
+      "Interest should not be allowed on partners drawings"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Under the Partnership Act, the following rules will be applied in the absence of an agreement among partners:\n\n  i. Profit or losses of the firm will be shared equally by the partners\n\n  ii. Interest on capital will not be allowed to any partner.\n\n  iii. No interest will be charged on drawings\n\n  iv. Interest on loan will be 6% on the loan\n\n  v. No salary or remuneration will be allowed to any of the partners\n\n  vi. Every partner must take part in the management of the partnership business\n\n  vii. The partnership books are kept at the place of business of the partnership and every partner may have access to and inspect and copy any of them."
+  },
+  {
+    "id": "accounting-1788679750926-323-1234",
+    "questionText": "Use the information below to answer questions 19 and 20\n\nPurchases ledger opening balance ₦4,000\nSales ledger opening balance ₦6,000\nCredit purchases during the year ₦25,000\nDiscounts allowed ₦1,000\nReturns inwards ₦2,000\nCredit sales during the year ₦10,000\nReturns outwards ₦6,000\n\nWhat is the purchases ledger balance? (JAMB 2001)",
+    "options": [
+      "₦4,000",
+      " ₦23,000",
+      " ₦24,000",
+      "₦29,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Purchases Ledger (Creditors) Balance:\nClosing balance = Opening balance + Credit purchases − Returns outwards\n\n= 4,000 + 25,000 − 6,000 = ₦23,000 "
+  },
+  {
+    "id": "accounting-1788679750926-324-254",
+    "questionText": "Where the head office maintains all books of account, goods sent to branch is credited to (JAMB 2006)",
+    "options": [
+      "Goods Sent to Branch Account",
+      "Branch Stock Account",
+      "Branch Stock Adjustment Account",
+      "Head Office Current Account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-325-227",
+    "questionText": "Cross referencing among different books of accounts is achieved with the use of (JAMB 2006)",
+    "options": [
+      "columns",
+      "reference numbers",
+      "folio",
+      "margin."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-326-906",
+    "questionText": "Capital for a profit making organization is generated through (JAMB 2023)",
+    "options": [
+      "gift",
+      "donation",
+      "shares",
+      "subscription"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Shares can be issued to the public for subscription. A lot of money can be raised to finance the operation of the business through the issue of new shares to members of the public."
+  },
+  {
+    "id": "accounting-1788679750926-327-971",
+    "questionText": "<b>Use the information below to answer questions 7 to 8.</b>\n\n(i) Cash at bank (ii) Cash in hand (iii) Premises\n(iv) Land (v) Creditors (vi)loan from friends/bank.\n\nDetermine the fixed assets? (JAMB 2008)",
+    "options": [
+      "i and v",
+      " ii and iv",
+      " ii and vi",
+      " iii and iv"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Explanation: fixed assets are long-term tangible assets used in the business, premises and land fit this definition."
+  },
+  {
+    "id": "accounting-1788679750926-328-811",
+    "questionText": "In a departmental accounting system, which of the following expenses will most likely be apportioned on the basis of turnover (JAMB 2021)",
+    "options": [
+      "carriage inwards",
+      "carriage outwards",
+      " discount received",
+      "returns outwards"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Carriage outwards (distribution or delivery expense) varies directly with sales activity and is therefore apportioned to departments based on their relative turnover. Carriage inwards relates to purchases, while discount received and returns outwards aren’t selling‐related expenses."
+  },
+  {
+    "id": "accounting-1788679750926-329-1154",
+    "questionText": "Which of these is a capital expenditure warrant? (JAMB 2003)",
+    "options": [
+      "Provisional general warrant",
+      "Development fund general warrant",
+      "Reserved expenditure general warrant",
+      "Supplementary warrant"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A Development Fund Warrant authorizes expenditure from the development (capital) fund and is used to finance capital projects. The provisional general warrant and supplementary warrant relate to recurrent or additional votes, while reserved expenditure warrants are for specific reserved charges—not the normal capital development fund."
+  },
+  {
+    "id": "accounting-1788679750926-330-429",
+    "questionText": "Debentures can be redeemed out of (JAMB 2004)",
+    "options": [
+      "existing share capital reserve",
+      "existing general reserve",
+      "proceeds from new issue of shares",
+      "withholding tax."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-331-1048",
+    "questionText": "A company incurred ₦21 000 in running its four departments, namely J,K,L and M with a corresponding number of employees as 1500, 2000, 3000 and 500 respectively. What is the share of department K? (JAMB 2005)",
+    "options": [
+      "₦9000",
+      "₦6000",
+      "₦4500",
+      "₦1500"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Find total employees\n1500 + 2000 + 3000 + 500 = 7000 employees\n\nStep 2: Find the cost per employee\n₦21,000 ÷ 7000 = ₦3 per employee\n\nStep 3: Find department K’s share\nDepartment K has 2000 employees.\n2000 × ₦3 = ₦6,000"
+  },
+  {
+    "id": "accounting-1788679750926-332-441",
+    "questionText": "Expenses paid during the conversion of a partnership to a \tcompany are (JAMB 2007)",
+    "options": [
+      "debited to the partners’ capital account",
+      "debited to the realization account",
+      "debited to the cash account.",
+      "credited to the realization account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-333-237",
+    "questionText": "In a system of incomplete records, the opening capital is determined by preparing (JAMB 2006)",
+    "options": [
+      "statement of affairs",
+      "balance sheet",
+      "cash book",
+      "trial balance."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-334-163",
+    "questionText": "An increase in government expenditure within a year is taken care of by means of (JAMB 2016)",
+    "options": [
+      "virement",
+      "financial regulations",
+      "supplementary estimate",
+      "warrant."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-335-334",
+    "questionText": "The double entry to record the goodwill in the books is debit (JAMB 2015)",
+    "options": [
+      "Cash Account and credit Goodwill Account",
+      "Goodwill Account and credit Purchase of Business Account",
+      "Goodwill Account and credit Cash Account",
+      "Purchase of Business Account and credit Cash Account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-336-55",
+    "questionText": "The essential amount of depreciation or equipment for a period is 2,000 the adjusting end to record depreciation would be (JAMB 2012)",
+    "options": [
+      "Debit depreciation expense, 2000, credit expense, 2,000",
+      "Debit equipment, 2,000; credit depreciation expense, 2,000",
+      "Debit accumulated depreciation, 2,000. credit depreciation expense 2,000    ",
+      "Debit depreciation expense, 2,000; credit accumulated depreciation 2,000."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-337-393",
+    "questionText": "The loss of equipment in a fire disaster results in (JAMB 2004)",
+    "options": [
+      "a decrease in current assets",
+      "an increase in liabilities and assets",
+      "a decrease in assets and capital",
+      "an increase in liabilities and a decrease in  assets."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-338-7",
+    "questionText": "A debit balance on a bank statement indicates that  (JAMB 2010)",
+    "options": [
+      "bank is a debtor to the customer ",
+      "customer is a debtor to the bank ",
+      "bank is not a creditor to the customer ",
+      "customer is not a debtor to the bank"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-339-1131",
+    "questionText": "Provision for discount allowed can be recorded as debit to? (JAMB 2003)",
+    "options": [
+      " the profit and loss account and a credit to provision for discount allowed",
+      "provision for discount allowed and a credit to the profit and loss account",
+      " discount allowed and a credit to the profit and loss account",
+      "expenses and a credit to customers' account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "This follows the principle that provisions for future expenses are debited to profit and loss (reducing profit) and credited to the provision account (creating a liability)."
+  },
+  {
+    "id": "accounting-1788679750926-340-217",
+    "questionText": "A book that contains the accounts for the financial transactions of an organization is the (JAMB 2006)",
+    "options": [
+      "journal",
+      "ledger",
+      "folio",
+      "register"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-341-1276",
+    "questionText": "Which of the following errors will affect the trial balance total? (JAMB 2000)",
+    "options": [
+      "posting disscount allowed to the debit side of the discount allowed account",
+      "omision of one account from the list when extracting from the ledger",
+      " failure to post sales of ₦2,000 and purchases of ₦2,000 from the subsidiiary ledger",
+      "omission of sales of ₦3,000 and purchases of ₦2,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The only error here that will throw the trial balance out of balance is  omission of sales of ₦3,000 and purchases of ₦2,000.\n\nBy omitting a ₦3,000 credit (sales) and only a ₦2,000 debit (purchases), you remove unequal amounts (₦3,000 vs. ₦2,000), creating a ₦1,000 difference between total debits and credits.\n\nAll other errors either affect both sides equally or maintain the debit–credit balance."
+  },
+  {
+    "id": "accounting-1788679750926-342-52",
+    "questionText": "A petty cash fund is: (JAMB 2012)",
+    "options": [
+      "Used to pay relatively small amount",
+      "reimbursed when the amount of money in the fund is reduced to a predetermined minimum amount",
+      "Established by estimating the amount of cash needed for disbursement of  relatively small amount during a specified period  ",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-343-1376",
+    "questionText": "<b>Use the information below to answer questions 11 and 12.   The initial imprest as at July 1st was ₦500. Petty cash voucers with the custodian by July 15th added up to ₦394. An IOU slip received from a co-worker was ₦65 and there was a shorage of ₦5 cash. The co-worker made refund on July 18th just before the imprest was replenished.</b>\n\n\n\nThe amount required to replenish the payments made from the imprest was? (JAMB 1998)",
+    "options": [
+      "₦399",
+      "₦394",
+      "₦358",
+      "₦101"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find the amount required to replenish the imprest, determine what actual payments were made from the fund.\nGiven information:\n\nInitial imprest: ₦500\nPetty cash vouchers: ₦394\nIOU from co-worker: ₦65\nCash shortage: ₦5\nCo-worker made refund on July 18th (before replenishment)\n\nAnalysis:\nThe amount needed to replenish the imprest equals the actual payments made from the fund.\nActual payments made:\n\nPetty cash vouchers represent legitimate business expenses: ₦394\nCash shortage represents money that's missing/lost: ₦5\nIOU is NOT a payment - it's money lent to co-worker (and was refunded before replenishment)\n\nTotal amount to replenish:\n₦394 + ₦5 = ₦399\nSince the co-worker refunded the ₦65 before replenishment, this doesn't need to be included in the replenishment amount."
+  },
+  {
+    "id": "accounting-1788679750926-344-141",
+    "questionText": "An organization which has records of only personal accounts is said to be operating on the basis of (JAMB 2016)",
+    "options": [
+      "single entry",
+      "real accounts",
+      "double entry",
+      "nominal accounts"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788679750926-345-1115",
+    "questionText": "Which of the following is used to update the cash book in bank reconciliation? (JAMB 2003)",
+    "options": [
+      "Interest received and unpresented cheques",
+      "Commission and debit note",
+      "Unpresented cheques and direct credit",
+      "Interest received and direct credit"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Reason: those are items shown on the bank statement but not yet recorded in the cash book, so you update the cash book with them. Unpresented cheques are recorded in the cash book already and are used to reconcile to the bank statement (not to update the cash book)."
+  },
+  {
+    "id": "accounting-1788679750926-346-1201",
+    "questionText": "Given:\n\nCapital at start.......................₦3250\n\nCapital at close ......................₦6250\n\nAdditional capital during the period...₦1000\n\n\n\nCalculate the profit or loss? (JAMB 2002)",
+    "options": [
+      "₦8500 profit",
+      "₦2000 loss",
+      "₦2000 profit",
+      "₦8500 loss"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Using the capital movement formula:\n\nClosing capital = Opening capital + Additional capital + Profit\n\nSo Profit = Closing − Opening − Additional\n\nDigit-by-digit:\n6250 − 3250 = 3000 (0−0=0, 5−5=0, 2−2=0, 6−3=3)\n3000 − 1000 = 2000\n\nProfit = ₦2,000"
+  },
+  {
+    "id": "accounting-1788679750926-347-419",
+    "questionText": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt. (JAMB 2004)",
+    "options": [
+      "manufacturing accounts",
+      "consolidated accounts",
+      "departmental accounts",
+      "joint venture accounts"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-348-774",
+    "questionText": "In a control account, provision for bad debts is found on the (JAMB 2020)",
+    "options": [
+      "credit side of the sales ledger control account",
+      "debit side of the purchases ledger control açcount",
+      "debit side of the sales ledger control account",
+      " credit side of the purchases ledger control account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The provision for bad debts reduces the net amount owed by customers, so it is recorded as a credit in the Sales Ledger Control Account to offset (reduce) the balance of debtors."
+  },
+  {
+    "id": "accounting-1788679750926-349-1462",
+    "questionText": "Which of the following are advantages of departmental accounts? (i) The department making the highest profit\ncan be easily determined (ii) The capital of the business can be calculated easily (iii) Easy knowledge of the sources of funding (iv) Encouragement of healthy rivalry among the variousdepartments. (JAMB 1997)",
+    "options": [
+      "i and iv only",
+      "ii and iii only",
+      "ii and iv only",
+      "iii and iv only"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Advantages of departmental accounts include:\n\nThe department making the highest profit can be easily determined (i)\n\nEncouragement of healthy rivalry among the various departments (iv)\n\nCalculating the capital of the business (ii) and sources of funding (iii) are not specific advantages of departmental accounts."
+  },
+  {
+    "id": "accounting-1788679750926-350-266",
+    "questionText": "which of the following is a Trading Account item? (JAMB 2012)",
+    "options": [
+      "Discounts allowed",
+      "Discounts received",
+      "Carriage outwards",
+      "Carriage inwards"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788679750926-351-994",
+    "questionText": "The main reason for adopting a departmental account is to? (JAMB 2008)",
+    "options": [
+      "record transactions for each department for better documentation",
+      "tackle any recording problem as a result of expansion",
+      "continuously evaluate the profitability of different departments",
+      "ensure that departmental mangers are adequately monitored"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The primary purpose of departmental accounting is to assess and compare the financial performance of different departments within an organization."
+  },
+  {
+    "id": "accounting-1788679750926-352-115",
+    "questionText": "In a not-for-profit making organization, the cash book is referred to as (JAMB 2013)",
+    "options": [
+      "income and expenditure account.",
+      "receipts and payments account.",
+      "two column cash book.",
+      "petty cash book."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788679750926-353-951",
+    "questionText": "The basic accounting equation is (JAMB 2024)",
+    "options": [
+      "Assets = Liabilities + Owner’s Equity",
+      "Assets + Expenses = Liabilities + Equity",
+      "Assets + Liabilities = Owner's Equity",
+      " Revenue - Expenses = Profit"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The fundamental accounting equation is:\nAssets = Liabilities + Owner’s Equity"
+  },
+  {
+    "id": "accounting-1788679750926-354-1010",
+    "questionText": "Given:\nI. Ascertainment of the particulars of the proposed company\nII. Preparation of the incorporation documents\nIII. Filling of the documents\nIV. Registration of the company\n\nFrom the information above, the stages involved in the formation of a company are (JAMB 2008)",
+    "options": [
+      " I, II and III",
+      " I, II, III and IV",
+      "I, II and IV",
+      "II, III and IV"
+    ],
+    "correctAnswer": "B",
+    "explanation": "All four steps are part of forming a company: determining particulars, preparing incorporation documents, filing those documents with the registrar, and registration (completion of incorporation)."
+  },
+  {
+    "id": "accounting-1788679750926-355-121",
+    "questionText": "Upon the dissolution of a partnership business, the party to be settled first out of the proceeds realized is (JAMB 2013)",
+    "options": [
+      "unsecured creditors.",
+      "partners’ loan and advances.",
+      "secured creditors.",
+      "partners’ capital."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788679750926-356-1159",
+    "questionText": "The necessary accounts to be opened on the issue of ordinary share capital are? (JAMB 2003)",
+    "options": [
+      " preference share capital, cash and allotment accounts",
+      "bank and ordinary share capital accounts",
+      " cash and ordinary share capital accounts",
+      " nominal value and ordinary share capital accounts"
+    ],
+    "correctAnswer": "C",
+    "explanation": "When a company issues ordinary shares for cash:\n\nDebit Cash/Bank account (asset increases)\n\nCredit Ordinary Share Capital account (equity increases by the nominal value of shares issued)."
+  },
+  {
+    "id": "accounting-1788725100376-0-1068",
+    "questionText": "The rule of accounting equation requires that account payable should be placed under? (JAMB 2004)",
+    "options": [
+      "liabilities",
+      "equities",
+      "assets",
+      "capital"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Accounts payable represent amounts the business owes to suppliers — obligations or debts, so they’re recorded under liabilities (usually current liabilities) on the balance sheet."
+  },
+  {
+    "id": "accounting-1788725100376-1-41",
+    "questionText": "Wilson Company owns land which cost 14100, 000. If a \"quick sate\" of the land was necessary to generate cash, the company feels it would receive only N80, 000.    The company continues to report the asset on the balance sheet at N100, 000   This is justified under which of the following concepts?   (JAMB 2012)",
+    "options": [
+      "The historical-cost principle.",
+      "The value is tied to objective and verifiable past transactions.",
+      "Neither of the above.",
+      "Both \"a\" and \"b\""
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100376-2-188",
+    "questionText": "A financial plan of action expressed in monetary terms is known as (JAMB 1997)",
+    "options": [
+      "imprest",
+      "consolidated fund",
+      "warrant",
+      "budget"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100376-3-1408",
+    "questionText": "To compute gearing ratio, divide? (JAMB 199)",
+    "options": [
+      "profit by capital employed",
+      "current assets by current liability",
+      "profit by total assets",
+      "long-term debts by equity capital"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Gearing Ratio = Long-term Debt/ Equity Capital\n \n​\n \nSo you divide long-term debts by equity capital."
+  },
+  {
+    "id": "accounting-1788725100376-4-242",
+    "questionText": "Control accounts are also known as (JAMB 2006)",
+    "options": [
+      "contra accounts",
+      "total accounts",
+      "ledger accounts",
+      "integral accounts."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100376-5-420",
+    "questionText": "How are credit sales by a department treated? (JAMB 2004)",
+    "options": [
+      "the same way as normal debtors’ transactions",
+      "in a different way from normal debtors’ transactions",
+      "as an addition to the sales manager’s account",
+      "as an addition to the production manager’s account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100376-6-1298",
+    "questionText": "<b>Use the information below to answer question 33 and 34</b>\n\nMaimalari Ltd had (i) Earning per share 47k\n(ii) Dividend per share 30k\n(iii) Par value of each share ₦1.20\n(iv) Market price per share ₦1.50\n\nWhat will be the price earnings ratio of the company? (JAMB 2000)",
+    "options": [
+      "3.91",
+      "3.19",
+      "2.95",
+      "2.55"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Price‐Earnings (P/E) ratio is calculated as:\n\nP/E Ratio = Market Price per Share/Earnings per Share = ₦1.50/₦0.47 ≈ 3.19"
+  },
+  {
+    "id": "accounting-1788725100376-7-373",
+    "questionText": "The concept that states that a business should not lay claim to any profits before it is earned with reasonable certainty is (JAMB 2014)",
+    "options": [
+      "consistency concept",
+      "prudence concept",
+      "accrual concept",
+      "going concern concept"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100376-8-689",
+    "questionText": "What act generally includes completing unfinished partnership business, collecting and paying debts, collecting partnership assets to be turned into cash and taking inventory? (JAMB 2018)",
+    "options": [
+      "Formation",
+      "dissolution",
+      "winding up",
+      "termination"
+    ],
+    "correctAnswer": "B",
+    "explanation": "It is the first step in termination process"
+  },
+  {
+    "id": "accounting-1788725100376-9-487",
+    "questionText": "Calculate the balance as per bank statement at the end of the year (JAMB 2009)",
+    "options": [
+      "24,700",
+      "25,200",
+      "26,200",
+      "27,700"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100376-10-1038",
+    "questionText": "A component of an overhead manufacturing cost is? (JAMB 2005)",
+    "options": [
+      "cost of work-in-progress",
+      "cost of finished goods",
+      "labour",
+      "rent"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Explanation: Manufacturing overheads are indirect costs of production (e.g., rent, utilities, indirect labour, depreciation) — costs that can’t be directly traced to specific units produced."
+  },
+  {
+    "id": "accounting-1788725100376-11-869",
+    "questionText": "An evidence of payment issued to a government ministry by a revenue collector is (JAMB 2022)",
+    "options": [
+      "treasury receipt",
+      "receipt voucher",
+      "payment voucher",
+      "treasury card"
+    ],
+    "correctAnswer": "A",
+    "explanation": "When a government ministry makes a payment to a revenue collector, the official acknowledgment of that payment is issued in the form of a treasury receipt. This document serves as the evidence that funds have been collected and remitted to the government’s treasury."
+  },
+  {
+    "id": "accounting-1788725100376-12-1272",
+    "questionText": "A source document that aids the ascertainment of amount paid out of current account is the? (JAMB 2000)",
+    "options": [
+      "teller",
+      "cheque stub",
+      "cheque",
+      "teller stub"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A cheque stub is the source document used to ascertain amounts paid out of the current (cash) account.\n\nWhen you write a cheque, you fill in the cheque itself (which goes to the payee and then to the bank).\n\nThe stub (or counterfoil) remains in your cheque book and records the cheque number, date, payee, and amount.\n\nThis stub provides a ready reference for all disbursements and is used to update the cash book."
+  },
+  {
+    "id": "accounting-1788725100376-13-449",
+    "questionText": "Osei and Yabo were in partnership sharing profits and losses in the ratio of 3:2. On admitting Takwa, the profit and loss sharing ratio was changed to 1:1:1  Suppose Takwa paid N  30 000 for goodwill this amount would be (JAMB 2007)",
+    "options": [
+      "credited to Takwa’s current account",
+      "debited to goodwill account",
+      "shared to all the partners’ capital account",
+      "credited to the old partners’ capital account."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100376-14-834",
+    "questionText": "If goods are sent to branch at 25% on cost, what will be the cost of goods sent to the branch at a selling price of ₦100,000?\n (JAMB 2021)",
+    "options": [
+      "₦130,000",
+      "₦75,000",
+      "₦80,000",
+      "₦125,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A 25% markup on cost means\n\n\nSelling Price=Cost×(1+0.25)=1.25×Cost.\nSo if the selling price is ₦100,000, the cost is\n\n100,000/1.25 = ₦80,000."
+  },
+  {
+    "id": "accounting-1788725100376-15-1411",
+    "questionText": "The term fiscal compliance means? (JAMB 199)",
+    "options": [
+      "all financial and related laws and regulations are adhered to",
+      "only the budget fir the current period is complied with and no deficits allowed",
+      "all physical assets requirements have been met",
+      "fiscal planning is necessary for proper accountabilit in the public sector"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fiscal compliance refers to the requirement that government entities (or any public-sector body) follow all applicable financial statutes, regulations, and procedural rules in their budgeting, spending, and reporting."
+  },
+  {
+    "id": "accounting-1788725100376-16-1360",
+    "questionText": "<b>Use the information below to Answer questions 46 and 47.</b>\n\nAmong Limited invoiced goods at a cost of ₦10,000 to its Ikeja branch at a marginal of 20%. The branch later returned goods worth ₦1,200 at invoice price to the head office.\n\n\nThe profit marginal should be? (JAMB 1999)",
+    "options": [
+      "debit to goods sent to branch account",
+      "debit to branch stock adjustment account",
+      "credit to branch adjustment account",
+      "credit to branch stock adjustment account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "When the branch returns goods, you must reverse both the cost and the profit element originally charged. Here, the return at invoice price of ₦1,200 includes a 20% markup:\n\nCost component = ₦1,200 ÷ 1.20 = ₦1,000\n\nProfit component = ₦1,200 − ₦1,000 = ₦200\n\nTo reverse the profit element, you credit the Branch Stock Adjustment Account with ₦200."
+  },
+  {
+    "id": "accounting-1788725100376-17-158",
+    "questionText": "Purchases can be ascertained through the preparation of a (JAMB 2016)",
+    "options": [
+      "stock account",
+      "sales account",
+      "total debtors’ control account",
+      "total creditors, control account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100376-18-1343",
+    "questionText": "A credit balance on a receipt and payments account indicates that the non-profit making organization? (JAMB 1999)",
+    "options": [
+      "had more revenues than expenses during the period",
+      "did not owe much liabilities during the period",
+      "received more cash than it paid out during the period",
+      "made more cash payments than it received during the period"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A credit balance means total receipts exceeded total payments, indicating more cash was received than paid out"
+  },
+  {
+    "id": "accounting-1788725100376-19-457",
+    "questionText": "Stock valuation is useful because it informs the sales department on the (JAMB 2007)",
+    "options": [
+      "prices of the competing goods",
+      "prices that will affect profitability",
+      "number of goods to produce",
+      "number of goods to sell."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100376-20-1373",
+    "questionText": "If the inventory at the end of the current year is understated and the error is not caught during the following year, the effect is to? (JAMB 1998)",
+    "options": [
+      "overstate income this year and understate in next year",
+      "understate income this year and overstate in next year",
+      "understate this year's income with no effect on the next year's",
+      "overstate the income for the two-year period"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Year 1 (Current Year) - Ending inventory understated:\n\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\nIf ending inventory is understated (too low), COGS will be overstated (too high)\nIf COGS is overstated, Net Income will be understated (too low)\n\nYear 2 (Following Year) - The understated ending inventory becomes beginning inventory:\n\nBeginning inventory is understated (too low)\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\nIf beginning inventory is understated, COGS will be understated (too low)\nIf COGS is understated, Net Income will be overstated (too high)\n\nSummary:\n\nYear 1: Income is understated (too low)\nYear 2: Income is overstated (too high)\nThe error self-corrects over the two-year period"
+  },
+  {
+    "id": "accounting-1788725100376-21-1460",
+    "questionText": "The acid test ratio in the company is (JAMB 1997)",
+    "options": [
+      "1:1",
+      "1:2",
+      "2:3",
+      "3:2"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find the acid test ratio (quick ratio), calculate Quick Assets divided by Current Liabilities.\nQuick Assets (Current Assets minus Stock):\n\nCash: ₦8,000\nDebtors: ₦6,000\nLess: Stock: ₦4,000 (excluded as it's not easily convertible to cash)\nTotal Quick Assets: ₦14,000\n\nCurrent Liabilities:\n\nCreditors: ₦9,000\nAccrued wages: ₦5,000\nTotal Current Liabilities: ₦14,000\n\nAcid Test Ratio:\nQuick Assets : Current Liabilities = ₦14,000 : ₦14,000 = 1:1"
+  },
+  {
+    "id": "accounting-1788725100376-22-551",
+    "questionText": "Which of the following is shown in the profit and loss appropriation account of a company (JAMB 2015)",
+    "options": [
+      "interest charges",
+      "depreciation",
+      "directors emoluments",
+      "dividends"
+    ],
+    "correctAnswer": "D",
+    "explanation": "In general accounting, appropriation accounts are mainly prepared by partnerships and limited liability companies (LLCs). They are an extension of theprofit and loss statement, showing how the profits of a firm are allocated to shareholders or to increase reserves indicated in the balance sheet. it usually contains dividends, retained earnings, goodwill etc"
+  },
+  {
+    "id": "accounting-1788725100376-23-533",
+    "questionText": "Which of the following is not a proper form of the accounting equation (JAMB 2015)",
+    "options": [
+      "fixed assets + current assets - liabilities = capital",
+      "fixed assests + current assests + liabilities = capital",
+      "ixed assets – liabilities + current assets = capital",
+      "fixed asset + current asset – capital = liabilities"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The simplest presentation of capital employed is total assets minus current liabilities. Sometimes, it is equal to all current equity plus interest-generating loans (non-current liabilities)."
+  },
+  {
+    "id": "accounting-1788725100376-24-750",
+    "questionText": "The method of stock valuation in which the issue price is obtained by dividing the value of stock in hand by unit of stock in hand is (JAMB 2019)",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "SAP",
+      "WAP"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Weighted Average Price (WAP): Under this method issues are priced at a weighted average price which is obtained by dividing the value by the unit of stock in hand. Issues will continue to be priced at this price until a new batch is received when a new weighted Average price is calculated."
+  },
+  {
+    "id": "accounting-1788725100376-25-1049",
+    "questionText": "The movement of goods from head office to a branch is treated in the in the head office accounts as? (JAMB 2005)",
+    "options": [
+      "sales",
+      "issue",
+      "purchase",
+      "requisition"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Explanation: goods sent from head office to a branch are internal transfers, not sales or purchases. In the head office books they are recorded as issues (transfers out) to the branch."
+  },
+  {
+    "id": "accounting-1788725100376-26-133",
+    "questionText": "The instrument used in analysis and interpretation of financial statement is the (JAMB 2016)",
+    "options": [
+      "accounting ratios",
+      "income and expenditure extract",
+      "balance sheet extract",
+      "fund accounting."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100376-27-1332",
+    "questionText": "The main features of the single system are that? (JAMB 1999)",
+    "options": [
+      "books of accounts are not maintained and business relies only on bank statement",
+      "the journal records are absent and only the main ledger is kept 7",
+      "there are incomplete classifications and recording procedures",
+      "only credit sales transactions and credit purchase are recorded"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The hallmark of the single-entry (or “incomplete”) system is that it lacks full double‐entry records—there are incomplete classifications and recording procedures, with many transactions only partially recorded (e.g., cash receipts and payments, with limited or no subsidiary ledgers)."
+  },
+  {
+    "id": "accounting-1788725100376-28-876",
+    "questionText": "Which of the following indicate that a partnership business is in place?\n(i) There is a business\n(ii)It is run commonly by partners\n(iii)It has profit-making in view\n(iv) Partners' liability is limited (JAMB 2022)",
+    "options": [
+      "i and ii only",
+      "i, ii and iii only",
+      "i, iii and iv only",
+      "ii, iii and iv only"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A partnership exists when:\n\nThere is a business (i).\n\nIt is carried on by two or more persons (partners) in common (ii).\n\nIt is operated with a view to profit (iii)."
+  },
+  {
+    "id": "accounting-1788725100376-29-165",
+    "questionText": "The objective of departmental account is to (JAMB 2016)",
+    "options": [
+      "ascertain the amount of profits or losses for the enterprise",
+      "ascertain the amount of profits or losses for each department",
+      "ascertain the cost of running the organization.",
+      "offset the loss of each department."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100376-30-238",
+    "questionText": "Cost of raw materials consumed is (JAMB 2006)",
+    "options": [
+      "D113,000",
+      "D105,500",
+      "D98,000",
+      "D95,500."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100376-31-802",
+    "questionText": "Kola and Sunday are in partnership sharing profits and losses equally. If Kemi is admitted as a new partner to take 1/5 as her share, what is the new profit or loss sharing ratio? (JAMB 2020)",
+    "options": [
+      "Kola 1/3, Sunday 1/3 and Kemi 1/3",
+      "Kola 1/5, Sunday 1/5 and Kemi 3/5",
+      "Kola 2/5, Sunday 1/5 and Kemi 2/5",
+      "Kola 2/5, Sunday 2/5 and Kemi 1/5"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Step 1: Kemi is admitted with a 1/5 share\nStep 2: The remaining share for old partners = 1 - 1/5 = 4/5\nStep 3: Since Kola and Sunday were sharing equally before admission, they will continue to share the remaining 4/5 equally between themselves\nNew sharing ratio:\n\nKola: 4/5 ÷ 2 = 2/5\nSunday: 4/5 ÷ 2 = 2/5\nKemi: 1/5\n\nVerification: 2/5 + 2/5 + 1/5 = 5/5 = 1"
+  },
+  {
+    "id": "accounting-1788725100376-32-1383",
+    "questionText": "On Ist January, 1993, lobo Company purchased equipment for ₦18,000. it uses straight-line depreciation with an estimates eight-year useful life and a ₦2,000 salvage value. On 31st December, 1996, it sells the equipment for ₦8000. In recording this sales, it should reflect? (JAMB 199)",
+    "options": [
+      "₦10,000 loss",
+      "₦2,000 loss",
+      "₦4,000 loss",
+      "₦8,000 gain"
+    ],
+    "correctAnswer": "B",
+    "explanation": "To find the gain or loss on sale of equipment, calculate the book value at the time of sale and compare it to the selling price.\nGiven information:\n\nPurchase date: January 1, 1993\nCost: ₦18,000\nUseful life: 8 years\nSalvage value: ₦2,000\nSale date: December 31, 1996\nSelling price: ₦8,000\n\nStep 1: Calculate annual depreciation\nAnnual depreciation = (Cost - Salvage value) ÷ Useful life\nAnnual depreciation = (₦18,000 - ₦2,000) ÷ 8 years = ₦2,000 per year\nStep 2: Calculate accumulated depreciation by December 31, 1996\nPeriod of use: January 1, 1993 to December 31, 1996 = 4 years\nAccumulated depreciation = ₦2,000 × 4 years = ₦8,000\nStep 3: Calculate book value at time of sale\nBook value = Cost - Accumulated depreciation\nBook value = ₦18,000 - ₦8,000 = ₦10,000\nStep 4: Calculate gain/loss on sale\nLoss on sale = Book value - Selling price\nLoss on sale = ₦10,000 - ₦8,000 = ₦2,000 loss"
+  },
+  {
+    "id": "accounting-1788725100376-33-708",
+    "questionText": "Use the information to answer the questions\n\n  Rakiya and joy are in a partnership and agreed that 5% interest per annum is to be charged on drawings. The drawing made by both partners in one year were:\n\n  Rakiya, ₦200 on March 31 and ₦300 on September 30.\n\n  Joy, ₦100 on April 1 and ₦240 on July 1.\n\n  The interest on Joy’s drawing is___________ (JAMB 2018)",
+    "options": [
+      "₦11.25",
+      "₦500.00",
+      "₦9.75.",
+      "₦340.00"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The interest on Joy’s drawings is ₦9.75, calculated as follows:\n\n₦100 drawn on April 1 for 9 months:\n₦100 × 5% × 9/12 = ₦3.75\n\n₦240 drawn on July 1 for 6 months:\n₦240 × 5% × 6/12 = ₦6.00\n\nTotal interest = ₦3.75 + ₦6.00 = ₦9.75."
+  },
+  {
+    "id": "accounting-1788725100376-34-807",
+    "questionText": "The ordinary shareholders enjoy the following right except the right to (JAMB 2021)",
+    "options": [
+      "receive dividends at a predetermined rate",
+      "vote at annual general meetings",
+      "elect the board of directors",
+      "participate in additional issues of shares"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Ordinary shareholders do NOT have the right to receive dividends at a predetermined rate. Their dividend payments are:\n\nVariable and depend on company profitability\nDeclared at the discretion of the board of directors\nNot guaranteed"
+  },
+  {
+    "id": "accounting-1788725100376-35-1407",
+    "questionText": "The part of equity which is payable on winding up is called? (JAMB 199)",
+    "options": [
+      "general reserve",
+      "revenue reserve",
+      "capital reserve",
+      "normal reserve"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The portion of equity that represents realized profits and is available for distribution when the company is wound up is known as the revenue reserve.\n\nUnlike capital reserves (which arise from non-trading activities and are generally not distributable), revenue reserves are built up from operating profits and can be used to pay out to shareholders on winding up."
+  },
+  {
+    "id": "accounting-1788725100376-36-452",
+    "questionText": "Find the salary charged to Zera product. (JAMB 2007)",
+    "options": [
+      "N 1 854",
+      "N 1 845",
+      "N 1 062",
+      "N 1 134."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100376-37-49",
+    "questionText": "Which of the following entries classes the  owner's drawing account at the end of the period? (JAMB 2012)",
+    "options": [
+      "Debit the drawing account, credit the owner's capital account",
+      "Debit the income summary account credit the drawing account",
+      "Debit the drawing account credit income summary accounting",
+      "Debit the owner's capital account, credit the drawing account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100377-38-846",
+    "questionText": "The simplest form of single entry procedure consists of keeping a ___? (JAMB 2022)",
+    "options": [
+      "day book or general journal",
+      "cash book and ledger accounts showing debtors and creditors balances",
+      "cash journal, sales journal and purchases journal",
+      "day book in which transactions are described in chronological order"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The simplest form of single-entry procedure consists of keeping a 'day book' in which transactions are described in chronological order."
+  },
+  {
+    "id": "accounting-1788725100377-39-379",
+    "questionText": "An example of input device of a computer is (JAMB 2014)",
+    "options": [
+      "an optical character reader",
+      "a graph plotter",
+      "a visual display unit",
+      "printer"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-40-1117",
+    "questionText": "Verifiability in accounting is only possible when there are? (JAMB 2003)",
+    "options": [
+      "minutes of meetings",
+      "payment vouchers",
+      "source documents",
+      "audit certificates"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Reason: verifiability depends on original evidence (invoices, receipts, vouchers, etc.) that support and prove transactions — without source documents you can't reliably verify accounting records."
+  },
+  {
+    "id": "accounting-1788725100377-41-1050",
+    "questionText": "The head office of Emeka Stores maintains the financial accounts of all its branches. The branch store account in the head office serves as the branch? (JAMB 2005)",
+    "options": [
+      "debtors' account",
+      "trading account",
+      "expenses account",
+      "cash account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Explanation: the branch store account in the head office records goods sent to the branch, returns, and stock movements — effectively showing the branch’s trading activity. It therefore serves as the branch’s trading account in the head office books."
+  },
+  {
+    "id": "accounting-1788725100377-42-159",
+    "questionText": "When stock is withdrawn, for personal use, the accounting entries is to debit (JAMB 2016)",
+    "options": [
+      "stock account, credit drawings",
+      "drawing account credit stock account",
+      "personal account credit cash account",
+      "cash account, credit personal account."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-43-1165",
+    "questionText": "In preparing the final accounts, the bad debt account is closed by a transfer to the? (JAMB 2002)",
+    "options": [
+      "balance sheet",
+      "provision for bad debt account",
+      "profit and loss account",
+      "trading account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Reason: bad debts are an expense (loss from trading) so the bad debts account is closed/ transferred to the profit & loss (income) account. (A provision for bad debts is a balance-sheet contra-asset, which is different.)"
+  },
+  {
+    "id": "accounting-1788725100377-44-1240",
+    "questionText": "<b>Use the information below to answer question 25 and 26.</b>\nBar opening stock ₦10,000\nAmount owed to bar suppliers at\nthe end the beginning of the year ₦10,000\nBar sales ₦50,000\nBar credit purchases ₦40,000\nPayment to suppliers ₦30,000\nBar expenses ₦1,000\nBar closing stock ₦15,000\n\nHow much is owed to suppliers? (JAMB 2001)",
+    "options": [
+      "₦50,000",
+      "₦40,000",
+      "₦30,000",
+      "₦20,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Creditors Account:\n\nOpening balance (amount owed at beginning): ₦10,000\nAdd: Credit purchases during the year: ₦40,000\nLess: Payments made to suppliers: (₦30,000)\nClosing balance (amount owed at end): ?\n\nCalculation:\nClosing balance = Opening balance + Credit purchases - Payments\nClosing balance = ₦10,000 + ₦40,000 - ₦30,000\nClosing balance = ₦50,000 - ₦30,000 = ₦20,000\nTherefore, the amount owed to suppliers at the end of the year is ₦20,000."
+  },
+  {
+    "id": "accounting-1788725100377-45-60",
+    "questionText": "A business shows total debtors' balances of N400,000 in its ledger at the end of its financial year. A customer owing N40,000 is bankrupt, and there is no possibility of getting the debt paid. A further 2% of the debt is considered doubtful. What debtor's total will be included as a current asset in the balance sheet? (JAMB 2012)",
+    "options": [
+      "N400,000,",
+      "N352,800",
+      "N352,000.",
+      "N436,200"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-46-1401",
+    "questionText": "The price paid by an acquiring company is the? (JAMB 199)",
+    "options": [
+      "premium",
+      "purchase consideration",
+      "sales consideration",
+      "conversion fee"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The purchase consideration is the total price paid by an acquiring company to obtain ownership of the target company’s shares or assets. It encompasses cash paid, shares issued, or other forms of payment agreed upon."
+  },
+  {
+    "id": "accounting-1788725100377-47-199",
+    "questionText": "The amount of revenue expenditure for 1995 was (JAMB 1997)",
+    "options": [
+      "N 260,000",
+      "N 230,000",
+      "N 220,000",
+      "N 160,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-48-1458",
+    "questionText": "In analyzing incomplete records, which of the following should be investigated? (JAMB 1997)",
+    "options": [
+      "The generalledger.",
+      "The purchases daybook and sales day book",
+      "The nature trading activities and the basis on which goods are sold.",
+      "The asset register together with the depreciation schedule"
+    ],
+    "correctAnswer": "C",
+    "explanation": "When analyzing incomplete records (single-entry bookkeeping or missing information), understanding how the business operates and the basis on which goods are sold is crucial. This helps estimate missing figures such as sales, purchases, and gross profit."
+  },
+  {
+    "id": "accounting-1788725100377-49-491",
+    "questionText": "Using FIFO method, what is the value of the closing stock? (JAMB 2009)",
+    "options": [
+      "N 34,000",
+      "N 29,000",
+      "N 17,000",
+      "N 12,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-50-364",
+    "questionText": "An example of a self-balancing account is the (JAMB 2014)",
+    "options": [
+      "suspense account",
+      "creditor’s account",
+      "control account",
+      "debtor’s accoun"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-51-634",
+    "questionText": "When starting with the cash book balance in preparing the bank reconciliation statement, the followings are added (JAMB 2017)",
+    "options": [
+      "Unpresented cheque",
+      "Dividend",
+      "Uncredited cheque",
+      "credit transfer"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Uncredited cheque have to be less when starting with balance as per cashbook not add because the cheque are yet to be credited by the bank"
+  },
+  {
+    "id": "accounting-1788725100377-52-669",
+    "questionText": "The office responsible for ascertaining whether all public expenditures and appropriations are in line with approved guidelines is the________ (JAMB 2018)",
+    "options": [
+      "Accountant general",
+      "Finance minister",
+      "Auditor general",
+      "Permanent secretory."
+    ],
+    "correctAnswer": "C",
+    "explanation": "Appropriation is the amount that government reserves for a particular purpose. Public expenditure is the spending made by government of a country on collective needs"
+  },
+  {
+    "id": "accounting-1788725100377-53-798",
+    "questionText": "The addition of prime cost, indirect cost and opening work- in-progress less the closing work-in-progress will result in cost of (JAMB 2020)",
+    "options": [
+      "goods manufactured",
+      "materials put into production",
+      "goods available for sale",
+      "goods sold"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The formula given represents the calculation for cost of goods manufactured:\nCost of Goods Manufactured = Prime Cost + Indirect Cost + Opening Work-in-Progress - Closing Work-in-Progress"
+  },
+  {
+    "id": "accounting-1788725100377-54-1392",
+    "questionText": "<b>Use the information below to answer question 28 and 29.\nRaw materials inventory at the beginning of a period was ₦ 46,800 and at the close of the period there was a balance of ₦38,600. From the purchases made during the period, defective materials costing ₦9,200 were returned. Cost of materials consumed during the period was ₦448,500.</b>\n\nWhat was the total purchases made during the period? (JAMB 199)",
+    "options": [
+      "₦497,100",
+      "₦457,700",
+      "₦449,500",
+      "₦440,300"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To find total purchases, use the materials flow equation:\n\nMaterials Consumed = Opening Inventory + Purchases − Returns − Closing Inventory\nRearrange for Purchases:\n\nPurchases = Materials Consumed + Returns + Closing Inventory − Opening Inventory \nSubstitute the figures:\n\nPurchases = ₦448,500 + ₦9,200 +₦38,600 − ₦46,800 = ₦449,500"
+  },
+  {
+    "id": "accounting-1788725100377-55-592",
+    "questionText": "The total cash and cheques received from customers in a control account is derived from the (JAMB 2016)",
+    "options": [
+      "income and expenditure account",
+      "cashbook",
+      "purchases day book",
+      "sales journal"
+    ],
+    "correctAnswer": "B",
+    "explanation": "All receipts of cash and cheques from customers are recorded in the cashbook when they’re received. The debtors (sales) control account then pulls its total “cash received from customers” figure directly from those cashbook entries."
+  },
+  {
+    "id": "accounting-1788725100377-56-30",
+    "questionText": "Which of the following is not a current asset?   (JAMB 2011)",
+    "options": [
+      "Stock",
+      "Debtors",
+      "Creditors",
+      "Cash"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-57-136",
+    "questionText": "Which of the following is the capital reserve of a company? (JAMB 2016)",
+    "options": [
+      "Accumulated depreciation.",
+      "Retained profit.",
+      "Share premium",
+      "Loss on forfeited shares"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-58-1067",
+    "questionText": "A source document is used for verifying the? (JAMB 2004)",
+    "options": [
+      "amount due to creditors",
+      "actual cost of an asset",
+      "selling price of goods",
+      "amount due from debtors"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Reason: A source document (e.g., supplier’s invoice) provides the original evidence of a transaction and is used to verify the cost at which an asset was acquired before it’s recorded in the books."
+  },
+  {
+    "id": "accounting-1788725100377-59-870",
+    "questionText": "Bala Ltd acquired the business of Bello Ltd and caused the separate existence of the latter company to terminate. This situation is best described as? (JAMB 2022)",
+    "options": [
+      "absorption",
+      "merger",
+      "conversion",
+      "dissolution"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Absorption is the correct answer. When one company acquires another and the acquired company ceases to exist as a separate entity, it is termed absorption. The assets and liabilities of the absorbed company are transferred to the acquiring company."
+  },
+  {
+    "id": "accounting-1788725100377-60-218",
+    "questionText": "A sales ledger contains (JAMB 2006)",
+    "options": [
+      "creditors’ accounts",
+      "nominal accounts",
+      "real accounts",
+      "debtors’ accounts."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100377-61-1086",
+    "questionText": "In converting single entry to final account, the balancing figures on the income and expenses accounts are transferred to the? (JAMB 2004)",
+    "options": [
+      "revenue and expenditure account",
+      "receipts and payments account",
+      "profit and loss apporpriation account",
+      "profit and loss account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The balancing figures from the income and expenses account represent the surplus or deficit for the period, which is transferred to the profit and loss account in the conversion process."
+  },
+  {
+    "id": "accounting-1788725100377-62-519",
+    "questionText": "An entry in a subsidiary book which does not form part of the double entry system is a (JAMB 2015)",
+    "options": [
+      "contra entry",
+      "single entry",
+      "journal entry",
+      "memorandum entry"
+    ],
+    "correctAnswer": "D",
+    "explanation": "A memorandum entry is not a complete journal entry because it does not contain debit and credit amounts e.g. stock split which does not affect the common stock account."
+  },
+  {
+    "id": "accounting-1788725100377-63-1457",
+    "questionText": "Share premium can be used to\n\ni. Write off discount on shares ii. Give loans to directors, iii. Pay dividends, iv. Pay company’s formation expenses (JAMB 1997)",
+    "options": [
+      "i and iv only",
+      "i andiii",
+      "ii and iii only",
+      "iii and ivonly"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The share premium account can only be used for purposes allowed by law, such as:\n\nWriting off discount on shares (i)\n\nPaying company’s formation (preliminary) expenses (iv)\n\nIssuing fully paid bonus shares"
+  },
+  {
+    "id": "accounting-1788725100377-64-1163",
+    "questionText": "Gross profit in the branch adjustment account is transferred to the branch? (JAMB 2003)",
+    "options": [
+      "trading account",
+      "receipts and payments account",
+      "profit and loss account",
+      "income and expenditure account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The gross profit from the branch adjustment account is transferred to the trading account, where it combines with head office gross profit to show the total gross profit of the business."
+  },
+  {
+    "id": "accounting-1788725100377-65-24",
+    "questionText": "Bad debt is an item in  (JAMB 2010)",
+    "options": [
+      "Trading, profit and loss account",
+      "consignment account",
+      "Balance sheet",
+      "Receipt and expenditure AC"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-66-1349",
+    "questionText": "The market price per ordinary share of a corporation listed on the stock exchange is most closely related to its? (JAMB 1999)",
+    "options": [
+      "earning per share",
+      "redemption price per share",
+      "book value per share",
+      "call price per share"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The market price per ordinary share of a corporation is most closely tied to its Earnings Per Share (EPS) because:\n\nEPS indicates the company’s profitability on a per-share basis.\n\nInvestors and analysts use EPS as a key metric to assess how much profit a company is generating for each share owned.\n\nThe Price/Earnings (P/E) ratio, which is calculated using market price divided by EPS, is a fundamental tool used in stock valuation."
+  },
+  {
+    "id": "accounting-1788725100377-67-848",
+    "questionText": "Zazzau Company:\n\nCash in hand................₦50\nCash in bank................₦1 250\nStock.......................₦4 880\nFurniture...................₦9 60\nBuilding....................₦5 500\nDebtor......................₦1 750\nCreditors...................₦2 150\n\nDrawings of ₦125 were made by the shareholders of the company.\n\nThey company's net current assets amount to? (JAMB 2022)",
+    "options": [
+      "₦5,780",
+      "₦570",
+      "₦6,580",
+      "₦7,930"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Net current assets (also known as working capital) = Current Assets - Current Liabilities\nCurrent Assets:\n\nCash in hand: ₦50\nCash in bank: ₦1,250\nStock: ₦4,880\nDebtors: ₦1,750\nTotal Current Assets = ₦7,930\n\nCurrent Liabilities:\n\nCreditors: ₦2,150\n\nNet Current Assets = ₦7,930 - ₦2,150 = ₦5,780\nThe company's net current assets amount to ₦5,780."
+  },
+  {
+    "id": "accounting-1788725100377-68-1137",
+    "questionText": "The stock valuation data is important because it enables management to? (JAMB 2003)",
+    "options": [
+      "separate debtors from creditors",
+      "determine the cost of stock at the end of business",
+      "determine the cost of stock at the beginning of business",
+      "determine the total cost of goods purchased"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Stock valuation data enables management to accurately determine the value of inventory on hand at any point in time, particularly at the end of accounting periods for financial reporting purposes."
+  },
+  {
+    "id": "accounting-1788725100377-69-1198",
+    "questionText": "A company operating a chain of retail provision stores invoices goods to the branches at cost plus a mark-up of 25%. What is the mark-up percentage on selling price? (JAMB 2002)",
+    "options": [
+      "35%",
+      "30%",
+      "20%",
+      "15%"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Markup on selling price = markup on cost ÷ (cost + markup) = 25% ÷ 125% = 25/125 = 1/5 = 20%."
+  },
+  {
+    "id": "accounting-1788725100377-70-477",
+    "questionText": "The accounting convention which states that the performance of a business should be determined by matching all expenses against all revenues is (JAMB 2009)",
+    "options": [
+      "accruals",
+      "materiality",
+      "objectivity",
+      "periodicity"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-71-1403",
+    "questionText": "<b>Use the information below to answer questions 38 and 39\n\nDan & Baker are in partnership with capitals of ₦50,000 and ₦30,000 each. The partnership agreement provides that:\n(i) profits be shared in the ratio of capital\n(ii) Baker be paid a salary of ₦8,000 \n(iii) both partners pay interest on drawings at 6% p.a.</b>\n\nAt the end of the year, Dan drew₦15,000 while Baker\ndrew ₦14,000 in four equal installment on 31/3, 30/6, 30/9 and 31/12. The net profit for the year was ₦48,000.\n₦5,000 is to be written off the Goodwill account.\n\nDetermine the total interest on capital due to the\npartners.? (JAMB 199)",
+    "options": [
+      "₦1200",
+      "₦1800",
+      "₦3000",
+      "₦4800"
+    ],
+    "correctAnswer": "D",
+    "explanation": "At 5% interest on capital:\n\nDan: ₦50,000 × 5% = ₦2,500\nBaker: ₦30,000 × 5% = ₦1,500\nTotal = ₦4,000 (not in options)\n\nAt 6% interest on capital:\n\nDan: ₦50,000 × 6% = ₦3,000\nBaker: ₦30,000 × 6% = ₦1,800\nTotal = ₦4,800"
+  },
+  {
+    "id": "accounting-1788725100377-72-1217",
+    "questionText": "The main objective of accounting report is to provide information about? (JAMB 2001)",
+    "options": [
+      "a company's shareholding",
+      "an entity's management",
+      "the efficacy of assets",
+      "a company's economic resources"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The primary purpose of an accounting report is to convey information about an entity’s economic resources (its assets) and the claims against those resources, as well as changes in them over time."
+  },
+  {
+    "id": "accounting-1788725100377-73-657",
+    "questionText": "A company's inventory records show the following information for the year: Opening stock on January 1st was ₦2,000, purchases during the year totaled ₦4,000, carriage inwards was ₦500, sales amounted to ₦9,000, and carriage outwards was ₦500. Based on this information, what is the value of the Gross profit? (JAMB 2017)",
+    "options": [
+      "₦9,000",
+      "₦2,500",
+      "₦3,000",
+      "₦1,500"
+    ],
+    "correctAnswer": "B",
+    "explanation": "COGS = 2,000 + 4,000 + 500 = ₦6,500\n\nGross Profit = Sales − COGS = 9,000 − 6,500 = ₦2,500"
+  },
+  {
+    "id": "accounting-1788725100377-74-294",
+    "questionText": "The double entry to record the proceeds on disposal of assets is debit (JAMB 2012)",
+    "options": [
+      "Bank Account; credit Asset Disposal Account.",
+      "Asset Disposal Account; credit Bank Account.",
+      "Provision for Depreciation Account; credit Asset Disposal Account",
+      "Asset Disposal Account; credit Provision for Depreciation Account."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-75-1447",
+    "questionText": "Alabede (₦IG) limited issued 50 000 ordinary shares of ₦1 each at a market value of ₦2.50 each. the share premium is? (JAMB 1997)",
+    "options": [
+      "₦75,000",
+      "₦500 000",
+      "₦50 000",
+      "₦25 000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Calculate the share premium:\n\nNominal value (par) = ₦1 per share\n\nIssue (market) price = ₦2.50 per share\n\nPremium per share = ₦2.50 − ₦1 = ₦1.50\n\nTotal share premium = Premium per share × Number of shares\n\nShare premium = ₦1.50 × 50,000 = ₦75,000"
+  },
+  {
+    "id": "accounting-1788725100377-76-639",
+    "questionText": "The current growth in the volume of trading and financial dealing in Nigeria is helped by (JAMB 2017)",
+    "options": [
+      "increased financial activities",
+      "government intervention",
+      "credit as a factor in business",
+      "Payment for goods in cashc"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The availability of credit allows businesses and consumers to purchase goods and services beyond their immediate cash resources, thereby increasing the volume of transactions and financial dealings. While cash payments, government intervention, and broader financial activities all play roles in the economy, it is the extension of credit that most directly fuels higher trading volumes by enabling deferred payments and greater purchasing power."
+  },
+  {
+    "id": "accounting-1788725100377-77-1303",
+    "questionText": "<b>Use the information below to answer question 39 and 40</b>\n\nRakya and Joy are in partnership and agreed that 5% interest per annum is to be charged on drawings. The drawing made by both partners in one year were: Rakiya, ₦200 on March 31 and ₦300 on September 30, Joy, ₦100 on April 1 and ₦240 on July 1\n\nThe interest on Joy’s drawing is (JAMB 2000)",
+    "options": [
+      "₦6.00",
+      "₦7.25",
+      "₦9.00",
+      "₦9.75"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Assuming the accounting year ends on December 31, we calculate interest on Joy’s drawings from the date of each drawing to the year-end:\n\n₦100 drawn on April 1\nInterest for 9 months (Apr 1–Dec 31):\n\n100 × 5% × 9/12 = 100 × 0.05 × 0.75 = ₦3.75\n\n\n₦240 drawn on July 1\nInterest for 6 months (Jul 1–Dec 31):\n\n240 × 5% × 6/12 = 240 × 0.05 × 0.5 = ₦6.00\n\nTotal interest on Joy’s drawings = ₦3.75 + ₦6.00 = ₦9.75"
+  },
+  {
+    "id": "accounting-1788725100377-78-704",
+    "questionText": "Departmentalization of accounts is useful because it shows the____________ (JAMB 2018)",
+    "options": [
+      "Over all performance of a division",
+      "Cost per unit of a profit",
+      "Price per unit of a product",
+      "Over all performance of a firm"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Departmental accounting is prepared to ensure that the results of each individual department is known"
+  },
+  {
+    "id": "accounting-1788725100377-79-66",
+    "questionText": "9.   Which   of   the   following   is   a   correct expression of the accounting equation?  (JAMB 2013)",
+    "options": [
+      "Assets = Liabilities + Owner's Equity",
+      "Assets = Liabilities - Owner's Equity",
+      "Assets + Owners' Equity = Liabilities",
+      "Assets = Liabilities - Owner's Equity"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-80-857",
+    "questionText": "Use the information below to answer question\n\nAn asset was purchase for ₦343m in 2003.\nThe estimated life of the asset was 3 years with a residual value of ₦28m.\n\nWhat was the asset value at the beginning of the third year? (JAMB 2022)",
+    "options": [
+      "₦63m",
+      "₦133m",
+      "₦36m",
+      "₦28m"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Annual depreciation = (₦343 m – ₦28 m) ÷ 3 = ₦105 m per year.\nBook value at start of year 3 = ₦343 m – 2 × ₦105 m = ₦133 million"
+  },
+  {
+    "id": "accounting-1788725100377-81-1124",
+    "questionText": "Given:\n\nCapital ...........₦1000\nLiabilities........₦500\nAssets.............₦1500\n\nThe accounting equation can be expressed as? (JAMB 2003)",
+    "options": [
+      "₦1000 + ₦500 + ₦1500 = ₦3000",
+      "₦1000 - ₦500 + ₦1500 = ₦2000",
+      "₦1000 + ₦500 = ₦1500",
+      "₦1500 + ₦500 = ₦2000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The basic accounting equation is:\n\nAssets = Capital + Liabilities\nHere:\n\nAssets = ₦1500\n\nCapital = ₦1000\n\nLiabilities = ₦500\n\nSo:\n\n₦1000 + ₦500 = ₦1500"
+  },
+  {
+    "id": "accounting-1788725100377-82-160",
+    "questionText": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800,000. A provision of 2% was made for discount and 5% provision for bad and doubtful debts.  Find the amount for sundry debtors after provision. (JAMB 2016)",
+    "options": [
+      "N744,800",
+      "N 760,000",
+      "N784, 000",
+      "N744, 000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100377-83-454",
+    "questionText": "Partners’ share of profit is credited to (JAMB 2007)",
+    "options": [
+      "a partner’s current account",
+      "a partner’s capital account",
+      "the profit and loss account",
+      "the profit and loss appropriation account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-84-680",
+    "questionText": "Why are adjustments in the profit and loss account necessary? (JAMB 2018)",
+    "options": [
+      "To cover some expenses of the following year",
+      "To show the provisions made during the year",
+      "To show the total expenses paid and income received during the year",
+      "To ascertain the actual expenses incurred and income earned during the year"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Fundamental principle of preparing P&L account is that expenses and income relating to only the trading period are taken to the trading profit and loss account."
+  },
+  {
+    "id": "accounting-1788725100377-85-1212",
+    "questionText": "<b>Use the information below to answer questions 47 and 48.</b>\n\nThe partnership agreement between Abba, Bada and Kaka contains the following provisions:\n\n(i) 5% interest to be paid on capital and no interest to be charged on drawings\n(ii) Profits and losses to be shared in the ratio 3:2:1 respectively\n(iii) Net profits as at 31/12/95 ₦2,250\n\nPartnership Details:\n\nPartner: Abba\nCapital: ₦5,000, Current: ₦250, Salary: ₦300, Drawings: ₦600\n\nPartner: Bada  \nCapital: ₦4,000, Current: ₦100, Salary: ₦300, Drawings: ₦500\n\nPartner: Kaka\nCapital: ₦3,000, Current: ₦175, Salary: ₦0, Drawings: ₦250\n\nCurrent account balance of Kaka at the end of the year\nwill be? (JAMB 2002)",
+    "options": [
+      "₦250",
+      "₦350",
+      "₦175",
+      "₦325."
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step 1: Calculate all interest and salaries first\n\nTotal interest on capital: ₦600 (₦250 + ₦200 + ₦150)\nTotal salaries: ₦600 (₦300 + ₦300 + ₦0)\nTotal deductions: ₦1,200\n\nStep 2: Find remaining profit to distribute\n₦2,250 - ₦1,200 = ₦1,050\nStep 3: Distribute remaining profit in 3:2:1 ratio\nKaka's share = (1/6) × ₦1,050 = ₦175\nStep 4: Calculate Kaka's current account balance\n\nOpening balance: ₦175\nAdd: Interest on capital: ₦150\nAdd: Share of remaining profit: ₦175\nLess: Drawings: ₦250\nFinal balance: ₦175 + ₦150 + ₦175 - ₦250 = ₦250"
+  },
+  {
+    "id": "accounting-1788725100377-86-1263",
+    "questionText": "<b>Use the information below to answer questions 49 and 50</b>\n\nGiven PTF Trial balance (Extract) as at 31 December 1999 showing: Cash ₦2,000 (Dr), Investments ₦3,000 (Dr), Accounts receivable ₦6,000 (Dr), and Fund balance ₦11,000 (Cr). Assuming all the investments realized ₦4m, what will be the ending fund balance? (JAMB 2001)",
+    "options": [
+      "₦8m",
+      "₦12,000",
+      "₦13m",
+      "₦16m"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Calculate gain/loss on investments\n\nCost of investments (from trial balance): ₦3,000\nRealization value: ₦4,000\nGain on disposal = ₦4,000 - ₦3,000 = ₦1,000\n\nStep 2: Calculate ending fund balance\n\nOpening fund balance: ₦11,000\nAdd: Gain on disposal of investments: ₦1,000\nEnding fund balance = ₦11,000 + ₦1,000 = ₦12,000"
+  },
+  {
+    "id": "accounting-1788725100377-87-1000",
+    "questionText": "Goodwill can be in the balance sheet as? (JAMB 2008)",
+    "options": [
+      "fixed tangible asset",
+      "current asset",
+      "fictitious asset",
+      "liquid asset"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Goodwill is classified as a fictitious asset (also called an intangible asset) because:\n\nIt has no physical existence or substance\nIt cannot be seen or touched\nIt represents the value of reputation, customer loyalty, brand recognition, etc.\nIt appears on the assets side of the balance sheet but is not a tangible item"
+  },
+  {
+    "id": "accounting-1788725100377-88-404",
+    "questionText": "At the year end, the purchases ledger showed a debit balance of N 108. The total on the debit side of the purchases ledger control account will be (JAMB 2004)",
+    "options": [
+      "N 22,966",
+      "N 22,156",
+      "N 21,834",
+      "N 21,054"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-89-991",
+    "questionText": "<b>Use the information below to answer questions 26 to 27.</b>\n\n\nStock of material 1/1..............₦10 000\nPurchase of raw material...........₦160 000\nManufacturing wages................₦420 000\nRoyalties..........................₦3 000\nStock of raw materials 31/12.......₦14 000\n\nCalculate the prime cost? (JAMB 2008)",
+    "options": [
+      "₦597,000",
+      "₦57,900",
+      "₦576,000",
+      "₦5,967,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Prime Cost = Raw Materials Consumed + Direct Labor + Direct Expenses\n\nCalculation:\nPrime Cost = Raw Materials Consumed + Direct Labor + Direct Expenses\nPrime Cost = ₦156,000 + ₦420,000 + ₦3,000\nPrime Cost = ₦579,000\nTherefore, the prime cost is ₦579,000."
+  },
+  {
+    "id": "accounting-1788725100377-90-1142",
+    "questionText": "<b>Use the information below to answer questions 28 and 29</b>\n\n...........PQ Manufacturing Company\n\nRaw materials (1/11/2001)...........₦3 500\nRaw materials (31/12/2001)..........₦4 900\nPurchase of raw materials...........₦56 000\nSalary .............................₦63 000\nWages...............................₦148 000\nFactory lighting ...................₦3 080\nPlant Depreciation..................₦2 800\nFactory Insurance ..................₦2 170\n\nThe overhead cost is? (JAMB 2003)",
+    "options": [
+      "₦71 050",
+      "₦68 250",
+      "₦67 970",
+      "₦66 080"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Factory overheads normally include indirect factory costs (salaries of factory staff if not direct, lighting, depreciation, insurance) but exclude direct wages and raw materials consumed.\n\nOverhead =\nSalary + Factory lighting + Plant depreciation + Factory insurance\n= ₦63,000 + ₦3,080 + ₦2,800 + ₦2,170\n= ₦71,050"
+  },
+  {
+    "id": "accounting-1788725100377-91-1453",
+    "questionText": "Faruk and Osawe are in partnership sharing profits\nand losses in the ratio of 3:7. Faruk isto receive a salary of ₦9,000. In one accounting period, the business\nrecorded a loss of ₦1,500 (before deduction\nof Faruk’s salary). The appropriate distribution of\nthe net loss would be (JAMB 1997)",
+    "options": [
+      "Faruk,(₦450);Osawe,(₦1,050)",
+      "Faruk,(₦3,150); Osawe (₦7,350),",
+      "Faruk,(₦2,250);Osawe,(₦5,250),",
+      "Faruk, (₦8,550);Osawe,(₦1,050)"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Adjust loss for Faruk's salary\n\nLoss before salary = ₦1,500\nFaruk's salary = ₦9,000\n\nSince salary is treated as an appropriation before profit is shared, the total loss to be shared becomes:\n\n{Net loss} = ₦1,500 + ₦9,000 = ₦10,500\n\n\nStep 2: Share the net loss in the ratio 3:7\n\nTotal ratio = 3 + 7 = 10\n\nFaruk: {3}/{10} × ₦10,500 = ₦3,150$\nOsawe: {7}/{10} × ₦10,500 = ₦7,350$\n\nStep 3: Net effect\n\nFaruk does not receive the salary because the firm made a loss; the loss including salary is allocated."
+  },
+  {
+    "id": "accounting-1788725100377-92-1158",
+    "questionText": "<b>Use the information below to answer questions 43 and 44</b>\n\nGoods from head office................₦13,400\nReturns to head office ...............₦118\nRates and insurance paid .............₦188\nWages paid ...........................₦913\nCash remitted to head office..........₦16,625\nStock at 1/1/2000.....................₦1,875\nRents paid ...........................₦325\nStock at 31/12/2000 ..................₦1,975\nSundry expenses ......................₦200\n\nWhat is the total expenses? (JAMB 2003)",
+    "options": [
+      "₦1 875",
+      "₦1 817",
+      "₦1 626",
+      "₦1 426"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Given Expense Items:\n\nRates and insurance paid: ₦188\nWages paid: ₦913\nRents paid: ₦325\nSundry expenses: ₦200\n\nCalculation:\nTotal Expenses = Rates and insurance + Wages + Rents + Sundry expenses\nTotal Expenses = ₦188 + ₦913 + ₦325 + ₦200\nTotal Expenses = ₦1,626"
+  },
+  {
+    "id": "accounting-1788725100377-93-524",
+    "questionText": "Buhari and Osinbajo entered into a partnership in which Buhari contributed a capital of ₦40,000 and is entitled to a salary allowance of ₦10,000, while Osinbajo contributed ₦70,000 of capital and is entitled to a salary allowance of ₦15,000. Both partners earn interest on their capital at 5% per annum, and any remaining profit or loss is to be shared between them in the ratio of 40 : 60 (Buhari : Osinbajo). For the year ended, the business realized a net profit of ₦80,000, and during the year Buhari withdrew ₦80,000 while Osinbajo withdrew ₦12,000. What is Osinbajo share of profit?\n (JAMB 2015)",
+    "options": [
+      "₦19, 800",
+      "₦49, 500",
+      "₦48, 000",
+      "₦29, 700"
+    ],
+    "correctAnswer": "D",
+    "explanation": "To calculate Osinbajo’s share of profit:\n\nDeduct salary allowances: ₦80,000 – (₦10,000 + ₦15,000) = ₦55,000\n\nDeduct interest on capital:\n\nBuhari: 5% of ₦40,000 = ₦2,000\n\nOsinbajo: 5% of ₦70,000 = ₦3,500\n\nTotal interest = ₦5,500\n⇒ ₦55,000 – ₦5,500 = ₦49,500\n\nApply profit-sharing ratio:\n\nOsinbajo’s share = 60% of ₦49,500 = ₦29,700\n\nTherefore, Osinbajo’s share of the profit for the year is ₦29,700."
+  },
+  {
+    "id": "accounting-1788725100377-94-1183",
+    "questionText": "<b>Use the information below to answer questions 18 and 19.</b>\n\nStock of raw materials (1st January) ₦3000\n\nDirect wages ₦2500\n\nDirect expenses ₦1000\n\nFactory overheads ₦2000\n\nCost of raw materials used ₦5500\n\nStock of finished goods (31st December) ₦2000\n\nThe cost of goods manufactured is? (JAMB 2002)",
+    "options": [
+      "₦11000",
+      "₦12000",
+      "₦14000",
+      "₦9000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Formula for Cost of Goods Manufactured:\nCost of Goods Manufactured = Direct Materials Used + Direct Labor + Direct Expenses + Factory Overheads\nCalculation:\n\nDirect materials used: ₦5,500 (given)\nDirect labor (wages): ₦2,500\nDirect expenses: ₦1,000\nFactory overheads: ₦2,000\n\nCost of Goods Manufactured = ₦5,500 + ₦2,500 + ₦1,000 + ₦2,000\nCost of Goods Manufactured = ₦11,000"
+  },
+  {
+    "id": "accounting-1788725100377-95-341",
+    "questionText": "Which of the following relates to cash basis of accounting? (JAMB 2015)",
+    "options": [
+      "Accruals and prepayments are considered",
+      "Debtors and creditors are recorded",
+      "Fixed assets are written off in the year of purchase",
+      "Profits are maximized"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100377-96-1449",
+    "questionText": "Accumulated fund on 1st January 1993 is (JAMB 1997)",
+    "options": [
+      "₦7,470",
+      "₦8,470",
+      "₦7,850",
+      "₦7,520"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To calculate the Accumulated Fund on 1st January 1993, we prepare a Statement of Affairs using the opening balances (assets – liabilities).\n\nStep 1: Identify assets on 1/1/93\nCash/Bank balance (from Receipts & Payments b/d) = ₦720\n\nSubscriptions in arrears = ₦300\n\nFurniture = ₦7,000\n\nTotal Assets = ₦720 + ₦300 + ₦7,000 = ₦8,020\n\nStep 2: Identify liabilities on 1/1/93\nSubscriptions received in advance = ₦500\n\nRate owing = ₦50\n\nTotal Liabilities = ₦500 + ₦50 = ₦550\n\nStep 3: Accumulated Fund\n\nAccumulated Fund = Total Assets − Total Liabilities\nAccumulated Fund = ₦8,020 − ₦550 =₦7,470"
+  },
+  {
+    "id": "accounting-1788725100377-97-767",
+    "questionText": "In preparing accounting records, the owners of a business and the business are treated as (JAMB 2020)",
+    "options": [
+      "separate legal entities",
+      "partners",
+      "the same person",
+      "having business relationship"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Under the business entity (or separate entity) concept, the affairs of the owners and those of the business are kept completely distinct. Personal transactions of the owners are not recorded in the business’s books, and only business‑related transactions appear in the accounting records."
+  },
+  {
+    "id": "accounting-1788725100377-98-259",
+    "questionText": "Trade discounts are given for (JAMB 2012)",
+    "options": [
+      "bulk purchases",
+      "prompt payment",
+      "quick delivery",
+      "cash payment"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-99-192",
+    "questionText": "A ledger is a (JAMB 1997)",
+    "options": [
+      "book of accounts",
+      "summary of entries",
+      "book of original entry",
+      "double entry posting"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100377-100-103",
+    "questionText": "The accounting principle that states that, in the preparation of accounting statement, revenue are recognized as        soon as goods are passed on to the customer is the (JAMB 2013)",
+    "options": [
+      "materiality concept.",
+      "matching concept.",
+      "consistency concept.",
+      "realization concept."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100377-101-1062",
+    "questionText": "Calculate the closing stock under FIFO method (JAMB 2005)",
+    "options": [
+      "₦875",
+      "₦675",
+      "₦600",
+      "₦300"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Using FIFO (First-In, First-Out) Method:\nMarch Issue (80 units):\nIssue from oldest stock (Jan receipt):\n\n80 units from Jan @ ₦2.00\nRemaining after March: Jan = 100 - 80 = 20 units @ ₦2.00\n\nStock after March:\n\nJan: 20 units @ ₦2.00\nFeb: 110 units @ ₦2.50\n\nApril Receipt:\n\nReceived 200 units @ ₦3.00\n\nStock after April:\n\nJan: 20 units @ ₦2.00\nFeb: 110 units @ ₦2.50\nApril: 200 units @ ₦3.00\n\nMay Issue (100 units):\nIssue from oldest stock first:\n\n20 units from Jan @ ₦2.00\n80 units from Feb @ ₦2.50\nTotal issued = 100 units\n\nClosing Stock:\n\nFeb: 110 - 80 = 30 units @ ₦2.50 = ₦75\nApril: 200 units @ ₦3.00 = ₦600\n\nTotal Closing Stock Value = ₦75 + ₦600 = ₦675"
+  },
+  {
+    "id": "accounting-1788725100377-102-1398",
+    "questionText": "When forming a partnership, new partners should record non-monetary assets on the new partnership's books at? (JAMB 199)",
+    "options": [
+      "their current fair market values",
+      "their historical costs when first use",
+      "their historical costs when first purchase by each new partner",
+      "the highest values practical so that future income tax deductions are maximized"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Non-monetary assets contributed by new partners must be brought into the partnership at their current fair market values as of the date of contribution, to ensure that capital accounts accurately reflect the economic value each partner has invested."
+  },
+  {
+    "id": "accounting-1788725100377-103-318",
+    "questionText": "Unpresented cheques are cheque (JAMB 2015)",
+    "options": [
+      "that have been recorded in the cash book, but not by the bank",
+      "that have been received by the bank, but recorded in the cash book",
+      "returned by the bank",
+      "written, but not handed over to customers"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-104-1043",
+    "questionText": "<b>Use the information below to answer questions 29 to 30</b>\n\n\nsubscription.....................₦5420\nCanopy rent......................₦400\nWages............................₦1100\nPost-ages........................₦300\nloss from bar....................₦160\nPurchases of new furniture.......₦120\nPremises.........................₦4000\nFurniture at the beginning.......₦1120\n\nWhat is the cash balance in the receipts and payments account? (JAMB 2005)",
+    "options": [
+      "₦2520",
+      "₦2600",
+      "₦3000",
+      "₦140"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Receipts\n\nSubscriptions = ₦5,420\n\nCanopy rent = ₦400\nTotal receipts = ₦5,820\n\nPayments\n\nWages = ₦1,100\n\nPostages = ₦300\n\nLoss from bar = ₦160\n\nPurchase of new furniture = ₦120\n\nPremises = ₦4,000\nTotal payments = ₦5,680\n\nClosing cash balance = Total receipts − Total payments = ₦5,820 − ₦5,680 = ₦140"
+  },
+  {
+    "id": "accounting-1788725100377-105-1456",
+    "questionText": "A dividend of 10% in a company on 500 000 ordinary shares of ₦ 1 nominal value has been declared, How much will a shareholder receive if he has 200 shares? (JAMB 1997)",
+    "options": [
+      "₦ 500 000",
+      "₦ 50 000",
+      "₦200",
+      "₦ 20"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Let's calculate the dividend for a shareholder with 200 shares:\n\nDividend rate: 10% of the nominal value (₦1 per share)\n\nDividend per share:\n\n10% × ₦1 = ₦0.10 per share\nTotal dividend for 200 shares:\n\n200 × ₦0.10 =₦20"
+  },
+  {
+    "id": "accounting-1788725100377-106-10",
+    "questionText": "A company's profit and loss account for a period  is  prepared by  (JAMB 2010)",
+    "options": [
+      "deducting total expenses from total revenues",
+      "deducting total cash payments from total revenue",
+      "deducting all outflows of funds from all inwards of funds",
+      "balancing its receipts and payments"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-107-860",
+    "questionText": "The instrument that are generated when firms enter into business transactions with others are called (JAMB 2022)",
+    "options": [
+      "purchase document",
+      "journals",
+      "source documents",
+      "invoices"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Whenever a transaction occurs—such as a sale, purchase, payment, or receipt—a source document (e.g., invoice, receipt, purchase order) is generated as the primary evidence of that transaction. These documents then serve as the basis for recording in the accounting system."
+  },
+  {
+    "id": "accounting-1788725100377-108-1219",
+    "questionText": "<b>Use the information below to answer questions 5 and 6.\nGiven:</b>\n\nFixed assets ₦85,600\nSales ₦197,000\nStock ₦34,300\nSalaries ₦37,000\nPurchases ₦127,700\nShare capital ₦120,000\nCreditors ₦16, 050\nMotor expenses ₦10,500\nDebtors ₦25,000\n\nWhat is the cash balance? (JAMB 2001)",
+    "options": [
+      "₦12,095",
+      "₦12,590",
+      "₦12,905",
+      "₦12,950"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Using the accounting equation: Assets = Liabilities + Equity\nStep 1: Identify Balance Sheet items\nAssets:\n\nFixed assets: ₦85,600\nStock: ₦34,300\nDebtors: ₦25,000\nCash: ? (to be found)\n\nLiabilities:\n\nCreditors: ₦16,050\n\nEquity:\n\nShare capital: ₦120,000\nRetained earnings: Sales - Purchases - Salaries - Motor expenses\nRetained earnings: ₦197,000 - ₦127,700 - ₦37,000 - ₦10,500 = ₦21,800\n\nStep 2: Apply the accounting equation\nTotal Assets = Liabilities + Equity\n₦85,600 + ₦34,300 + ₦25,000 + Cash = ₦16,050 + ₦120,000 + ₦21,800\n₦144,900 + Cash = ₦157,850\nCash = ₦157,850 - ₦144,900 = ₦12,950"
+  },
+  {
+    "id": "accounting-1788725100377-109-683",
+    "questionText": "Profit or loss in a partnership is usually arrived at after deducting from gross profit all expenses including____________ (JAMB 2018)",
+    "options": [
+      "Partners salaries",
+      "Interest on capital",
+      "Interest on loans",
+      "Partners drawings"
+    ],
+    "correctAnswer": "C",
+    "explanation": "is charged in the profit and loss account as finance expenses"
+  },
+  {
+    "id": "accounting-1788725100377-110-728",
+    "questionText": "Retained profits is an example of (JAMB 2019)",
+    "options": [
+      "Revenue reserve",
+      "Capital reserves",
+      "General reserves",
+      "Loan capital"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Retained profit is part of the part of the profits of an organization not distributed as dividends but ploughed back into the business for expansion."
+  },
+  {
+    "id": "accounting-1788725100377-111-520",
+    "questionText": "Determine wage expenses from the given information, wages outstanding at the beginning, wages paid during the period 15000 and wages outstanding of the period 2,000 (JAMB 2015)",
+    "options": [
+      "₦16,000",
+      "₦17,000",
+      "₦13,000",
+      "₦14,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Wage Expense=Wages Paid + Outstanding:\nWage Expense = 15,000 + 2,000 = 17,000"
+  },
+  {
+    "id": "accounting-1788725100377-112-1413",
+    "questionText": "Money not required to meet chargeable expenditure in any fiscal year under cash accounting, should be? (JAMB 199)",
+    "options": [
+      "surrendered to the consolidated revenue fund",
+      "carried forward to the next financial year",
+      "reserved to meetany deficits or contingencies",
+      "returned to the taxpayer"
+    ],
+    "correctAnswer": "A",
+    "explanation": "In government accounting, unspent funds at the end of a fiscal year are typically surrendered to the Consolidated Revenue Fund (or similar central treasury fund). This ensures proper control and accountability of public funds."
+  },
+  {
+    "id": "accounting-1788725100377-113-532",
+    "questionText": "Which of the following is a debit entry in debtors control account? (JAMB 2015)",
+    "options": [
+      "discount allowed",
+      "return inwards",
+      "credit sales",
+      "cash from debtors"
+    ],
+    "correctAnswer": "C",
+    "explanation": "In the Debtors Control Account, increases in what customers owe you are recorded on the debit side. Of the choices:\n\nCredit sales increase debtors (they owe you more), so they’re debited.\n\nDiscount allowed, returns inwards, and cash received from debtors all reduce debtors and are therefore credited."
+  },
+  {
+    "id": "accounting-1788725100377-114-226",
+    "questionText": "A customer who returns goods to the supplier because they are defective is issued a (JAMB 2006)",
+    "options": [
+      "debit note",
+      "credit note",
+      "delivery note",
+      "bank note."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-115-108",
+    "questionText": "The Public Accounts Committee is an organ of (JAMB 2013)",
+    "options": [
+      "military regime.",
+      "parliament.",
+      "presidency.",
+      "councilors."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-116-1004",
+    "questionText": "The salary of the chief Justice of the Federation is paid from the? (JAMB 2008)",
+    "options": [
+      "consolidated revenue fund",
+      "development fund",
+      "contigency fund",
+      "special fund"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Consolidated Revenue Fund is the main government account that receives all government revenues and from which all government expenditures are made, including:\n\nSalaries of constitutional office holders (like the Chief Justice)\nRecurrent expenditures\nStatutory allocations\nGeneral government operations\n\nThe Chief Justice of the Federation, being a constitutional office holder, receives salary from this primary government fund."
+  },
+  {
+    "id": "accounting-1788725100377-117-961",
+    "questionText": "Ordinary shares are also known as (JAMB 2024)",
+    "options": [
+      "net worth",
+      "equity",
+      "loan",
+      "reserve"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Ordinary shares represent an ownership stake in the company and are classified as part of shareholders’ equity on the balance sheet."
+  },
+  {
+    "id": "accounting-1788725100377-118-909",
+    "questionText": "Which of these is not method of stock valuation? (JAMB 2023)",
+    "options": [
+      "FIFO method",
+      "Base method",
+      "Standard method",
+      "LIFO method"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The methods of stock valuation are: FIFO, LIFO, Weighted Average Price Method, Simple Average Price Method, Base stock method."
+  },
+  {
+    "id": "accounting-1788725100377-119-660",
+    "questionText": "Which of these is a content of a master file? (JAMB 2017)",
+    "options": [
+      "All records relevant to the organisation.",
+      "Records of assets of the organisation",
+      "A collection of data items",
+      "All records relating to employees"
+    ],
+    "correctAnswer": "A",
+    "explanation": "All record relevant to the organization: the records which are only relevant to the organization such as the name and address as well as summary information such as amount due and year to date sales will be in master file"
+  },
+  {
+    "id": "accounting-1788725100377-120-1422",
+    "questionText": "The term 'posting' in Accounting refers to (JAMB 1997)",
+    "options": [
+      "recording entries in the journal",
+      "transferring the balance in the ledger to the trial balance",
+      "tracing amounts from the journal to the ledger to find errors",
+      "transferring entries to the ledger from the journal"
+    ],
+    "correctAnswer": "D",
+    "explanation": "“Posting” is the process of taking each transaction that’s been initially recorded in the journal and entering it into the appropriate accounts in the general ledger. This ensures that each ledger account reflects all related transactions for accurate account balances."
+  },
+  {
+    "id": "accounting-1788725100377-121-1442",
+    "questionText": "The understatement of closing value of work-in-process would have the effect of? (JAMB 1997)",
+    "options": [
+      "understating cost of goods manufactured",
+      "overstating prime cost of manufactured",
+      "overstating cost of goods manufactured",
+      "undersating prime cost of goods manufactured"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Closing work-in-process (WIP) is subtracted when calculating the cost of goods manufactured (COGM):\n\nCOGM = Opening WIP + Manufacturing costs − Closing WIP\nIf the closing WIP is understated, the amount subtracted is too small, making the COGM too high (overstated)."
+  },
+  {
+    "id": "accounting-1788725100377-122-766",
+    "questionText": "Which of the following accounting records are source documents? (JAMB 2020)",
+    "options": [
+      "journals and ledgers",
+      "sales invoice and debit note",
+      "sales invoice and cashbook",
+      "cashbook and debit note"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Source documents are the original vouchers evidencing that a transaction has occurred. A sales invoice and a debit note are both such vouchers. In contrast, journals, ledgers, and the cashbook are accounting records prepared from those source documents."
+  },
+  {
+    "id": "accounting-1788725100377-123-1301",
+    "questionText": "When a purchase business is revalued, the effect is that? (JAMB 2000)",
+    "options": [
+      "a decrease in the value of asset has no effect on value of goodwill",
+      "an increase in the value of asset is treated as an increase in the value of goodwill",
+      "a decrease in the value of asset is treated as an decrease in the value of goodwil",
+      "an increase in the value of asset is treated as an decrease in the value of goodwill"
+    ],
+    "correctAnswer": "D",
+    "explanation": "When you revalue the acquired business’s assets upward, the net asset base increases, and since Goodwill is calculated as:\n\nGoodwill = Purchase Consideration − Fair Value of Net Assets\n\nan increase in asset values will reduce the calculated Goodwill."
+  },
+  {
+    "id": "accounting-1788725100377-124-831",
+    "questionText": "The prime cost is the total of the (JAMB 2021)",
+    "options": [
+      "direct materials+direct labour+direct wages",
+      "production cost+selling expenses",
+      "administrative expenses+selling expenses+distribution expenses",
+      "direct materials+work overhead expenses"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Prime cost is the sum of all direct production costs—namely the cost of materials that go into the product, the labour directly involved in making it, and any direct wages or direct expenses tied to production."
+  },
+  {
+    "id": "accounting-1788725100377-125-447",
+    "questionText": "Determine the working capital. (JAMB 2007)",
+    "options": [
+      "N 7,38,0000",
+      "N 8,48,0000",
+      "N 5 480 000",
+      "N 6 480 000."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-126-969",
+    "questionText": "Given:\n\nSales.....................₦4,000\nLight expenses............₦900\nRent......................₦1,500\nPurchases.................₦7,500\nDebtors...................₦6,000\nCreditors.................₦9,000\nDrawings..................₦2,500\nBank......................₦400\nGeneral expenses..........₦1,500\nCapital...................₦10,300\n\nCalculate the total of trial balance? (JAMB 2008)",
+    "options": [
+      "₦64 300",
+      "₦46 825",
+      "₦41 850",
+      "₦23,300"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Trial Balance:\nDebit Side:\n\nPurchases = ₦7,500\nLight expenses = ₦900\nRent = ₦1,500\nDebtors = ₦6,000\nDrawings = ₦2,500\nBank = ₦400\nGeneral expenses = ₦1,500\nTotal Debit = ₦20,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300\n\nWait, let me adjust to make it balance properly:\nCorrected figures:\n\nCapital = ₦13,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300"
+  },
+  {
+    "id": "accounting-1788725100377-127-727",
+    "questionText": "Given:\nOrdinary share dividend ₦100,000, General reserve ₦4,100, Net profit b/d ₦27,370, corporation tax ₦2,500, Profit and loss ₦28,200, Interim ordinary dividend ₦4,050, Goodwill 20,50 provide for preference Dividend ₦2100 and Final ordinary Dividend of 5% and also write off Goodwill at ₦1500.\nThe retained profit in the Appropriation account is (JAMB 2019)",
+    "options": [
+      "₦55,570",
+      "₦36,320",
+      "₦50,000",
+      "₦30,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Ordinary share dividend = 5% × 10,000 = 5000\nRetained profit = (27,370 + 28,000 - 4100 + 1500 - 4050 + 5000 + 2100 + 2500)\n⇒ 55,570 - 19,250 = ₦36,320"
+  },
+  {
+    "id": "accounting-1788725100377-128-247",
+    "questionText": "Using the reducing balance method, the depreciation charged for year 2003 was (JAMB 2006)",
+    "options": [
+      "N 160,000",
+      "N 150,000",
+      "N 130,000",
+      "N 120,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-129-427",
+    "questionText": "The accounting entry to record the premium on goodwill is to debit (JAMB 2004)",
+    "options": [
+      "cash and credit old partners’ capital",
+      "goodwill and credit revaluation",
+      "assets and credit capital",
+      "capital and credit assets"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-130-1168",
+    "questionText": "Miscellaneous expenses is 10% of revenue.\nCalculate the net income (JAMB 2002)",
+    "options": [
+      "₦583,000",
+      "₦563,000",
+      "₦483,000",
+      "₦683,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step 1: Calculate Miscellaneous Expenses\nMiscellaneous expenses = 10% × ₦820,000 = ₦82,000\nStep 2: Calculate Total Expenses\nTotal Expenses = Office rent + NEPA + Salary + Miscellaneous expenses\nTotal Expenses = ₦20,000 + ₦15,000 + ₦120,000 + ₦82,000\nTotal Expenses = ₦237,000\nStep 3: Calculate Net Income\nNet Income = Revenue - Total Expenses\nNet Income = ₦820,000 - ₦237,000\nNet Income = ₦583,000"
+  },
+  {
+    "id": "accounting-1788725100377-131-1214",
+    "questionText": "In the public sector, the method of accounting that reports revenues and expenditures in the period in which they are received and paid is called? (JAMB 2002)",
+    "options": [
+      "fund accounting",
+      "commitment accounting",
+      "cash accounting",
+      "accrual accounting"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Reason: In public sector cash accounting, revenue is recorded when received and expenditure when paid, without regard to the period the transactions actually relate to."
+  },
+  {
+    "id": "accounting-1788725100377-132-816",
+    "questionText": "Stationery which will be used over a long period of time is usually recorded as an expense instead of an asset. This concept is called (JAMB 2021)",
+    "options": [
+      "entity",
+      "accrual",
+      "realization",
+      "materiality"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Under the materiality concept, only items large enough to influence decisions are capitalized as assets; small, immaterial expenditures—such as low‑cost stationery—even if lasting beyond one period are expensed immediately."
+  },
+  {
+    "id": "accounting-1788725100377-133-1031",
+    "questionText": "A piece of equipment costing ₦120,000 was purchased on 1/1/1996. Depreciation was provided at 20% per annum on a straight-line basis. it was sold on 30/6/1999 for ₦31,500.\n\nThe net book value of the piece of equipment at the time of sale was? (JAMB 2005)",
+    "options": [
+      "₦96 000",
+      "₦48 000",
+      "₦36 000",
+      "₦24 000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Cost                     120,000\nLess: Accumulated depr.   84,000\n-------------------------------\nNet book value            36,000"
+  },
+  {
+    "id": "accounting-1788725100377-134-1022",
+    "questionText": "Yahya,s bank account shows a credit balance of ₦1500,000. He paid ₦1700,000 into the bank.\nWhat is his expected balance? (JAMB 2005)",
+    "options": [
+      "Credit balance of ₦ 200,000",
+      "Debit balance of ₦ 200,000",
+      "credit balance of ₦ 3 200,000",
+      "Debit balance of ₦3 200,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Opening balance = Credit ₦1,500,000 (means the bank owes Yahya this amount — positive balance)\n\nHe paid in (deposited) = ₦1,700,000\n\nExpected balance = ₦1,500,000 + ₦1,700,000 = ₦3,200,000 (still a credit balance)"
+  },
+  {
+    "id": "accounting-1788725100377-135-1059",
+    "questionText": "Musa merchants Trading and profit and Loss Account for the year ended Dec.31st, 2003\n\nDetermine the closing stock (JAMB 2005)",
+    "options": [
+      "₦20 000",
+      "₦30, 000",
+      "₦40 000",
+      "₦50,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Given information:\n\nOpening stock (1/1/2003) = ₦60,000\nPurchases = ₦80,000\nGoods available for sale = ₦150,000\nSales = ₦290,000\nGross profit = ₦180,000\nCost of goods sold = ?\n\nStep 1: Calculate Cost of Goods Sold\nGross Profit = Sales - Cost of goods sold\n₦180,000 = ₦290,000 - Cost of goods sold\nCost of goods sold = ₦290,000 - ₦180,000 = ₦110,000\nStep 2: Calculate Closing Stock\nCost of goods sold = Opening stock + Purchases - Closing stock\n₦110,000 = ₦60,000 + ₦80,000 - Closing stock\n₦110,000 = ₦140,000 - Closing stock\nClosing stock = ₦140,000 - ₦110,000 = ₦30,000"
+  },
+  {
+    "id": "accounting-1788725100377-136-308",
+    "questionText": "Goods returned to a supplier is (JAMB 2015)",
+    "options": [
+      "debited to Returns outwards account",
+      "credited to Returns outwards account",
+      "debited to Returns inwards account",
+      "credited to Returns inwards account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-137-353",
+    "questionText": "Purchases Account is overcast by N200, while Wages Account is under cast by N200. This is (JAMB 2014)",
+    "options": [
+      "an error of omission",
+      "a compensating error",
+      "an error of commission",
+      "an error of principle"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-138-416",
+    "questionText": "In the balance sheet, the subscription in arrears will be (JAMB 2004)",
+    "options": [
+      "N 200",
+      "N 300",
+      "N 1,200",
+      "N 1,300"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-139-1313",
+    "questionText": "A major benefit derived from the reconciliation of branch and head office books is to? (JAMB 2000)",
+    "options": [
+      "determine accurate returns by the branch",
+      "ascertian the correct profit or loss on branch activities",
+      "enable the branch to keep control over stock",
+      "enable the branch to ascertain debtor's balance"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The primary benefit of reconciling branch and head office records is to ensure that all inter‐company transfers, stock movements, and adjustments have been correctly recorded, allowing the head office to determine the true profit or loss generated by the branch."
+  },
+  {
+    "id": "accounting-1788725100377-140-565",
+    "questionText": "Balance as per cashbook ₦2, 970\nBank Charges ₦220\nUnpresented cheques ₦3, 950\nUncredited cheques ₦4, 178\nDirect debit by bank ₦1, 0000\n\nDetermine the balance as per bank statement. (JAMB 2016)",
+    "options": [
+      "₦ 1,978",
+      "₦ 1962",
+      "₦ 1,522",
+      "₦ 2,522"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Calculation:\nBalance as per bank statement = 2,970 + 3,950 - 4,178 - 220 - 1,000\n= 2,970 + 3,950 - 5,398\n= 6,920 - 5,398\n= 1,522"
+  },
+  {
+    "id": "accounting-1788725100377-141-1340",
+    "questionText": "The difference between the factory cost of production and the prime cost of production is? (JAMB 1999)",
+    "options": [
+      "direct materials",
+      "direct labour",
+      "selling expenses",
+      "overhead"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Prime Cost includes:\n\nDirect materials\n\nDirect labor\n\nDirect expenses\n\nFactory Cost of Production (also called Total Manufacturing Cost) =\nPrime Cost + Factory Overheads (i.e., indirect costs like factory rent, supervisor salary, depreciation of machines, etc.)"
+  },
+  {
+    "id": "accounting-1788725100377-142-1428",
+    "questionText": "On the 30/5/93 Tolu & Co. paid 2 years rent of ₦50,000 which was debited to the rent account.\nAt 31/12/93, what portion of that amount was prepaid? (JAMB 1997)",
+    "options": [
+      "₦14,583",
+      "₦25,000",
+      "₦35,417",
+      "₦37,415"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To find the prepaid portion at 31 Dec 1993:\n\nThe ₦50,000 paid on 30 May 1993 covers 24 months (30 May 93–29 May 95).\n\nBy 31 Dec 1993, 7 months’ rent have been “used up” (June–December).\n\nRemaining prepaid months = 24 – 7 = 17 months.\n\nPrepaid amount = 17/24 × 50,000 = 35,416.67 ≈ ₦35,417"
+  },
+  {
+    "id": "accounting-1788725100377-143-252",
+    "questionText": "The adjusted cash book balance is (JAMB 2006)",
+    "options": [
+      "D11,200",
+      "D8,400",
+      "D6,200",
+      "D5,600"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100377-144-497",
+    "questionText": "The costs incurred by departments that support the production department with such activities as maintenance, production control and storage are called (JAMB 2009)",
+    "options": [
+      "autonomous costs",
+      "service costs",
+      "supporting costs",
+      "subsidiary costs"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-145-1382",
+    "questionText": "<b>Use the information below to answer questions 17 and 18\n\nIf at 31/1/95 the following information was ascertained (i)Rent shop ₦12,000 paid for the year (ii) Total purchases\n₦15,000 (iii) Total sales ₦8,200 (iv) Stock of goods left ₦10,000 (v) Paid sales boy ₦500.</b>\n\n\nWhat is the balance on its cash account as at 31/1/95?",
+    "options": [
+      "₦22,800",
+      "₦21,200",
+      "₦9,200",
+      "₦800"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Starting with the opening cash-in-hand of ₦28 500 and then accounting for the month’s cash movements:\n\nAdd: Cash receipts from sales ₦ 8 200\n\nLess: Purchases paid ₦15 000\n\nLess: Rent paid ₦12 000\n\nLess: Sales–boy salary paid ₦ 500\n\nClosing cash balance = 28,500 + 8,200 − 15,000 − 12,000 − 500 = \n₦9200"
+  },
+  {
+    "id": "accounting-1788725100377-146-1245",
+    "questionText": "Given:\n\nClub trading profit ₦12,000\n\nMembers' subscription ₦15,000\n\nProfit on sale of fixed assets ₦2,500\n\nLoss on sale of investments ₦1,000\n\nWages ₦16,500\n\nOther expenses ₦10,000\n\n\n\nDetermine the club's excess of income over expenditure? (JAMB 2001)",
+    "options": [
+      "₦500",
+      "₦1,500",
+      "₦2,000",
+      "₦2,500"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To find the excess of income over expenditure, Prepare an Income and Expenditure Account:\nINCOME:\n\nClub trading profit: ₦12,000\nMembers' subscription: ₦15,000\nProfit on sale of fixed assets: ₦2,500\nTotal Income: ₦29,500\n\nEXPENDITURE:\n\nLoss on sale of investments: ₦1,000\nWages: ₦16,500\nOther expenses: ₦10,000\nTotal Expenditure: ₦27,500\n\nExcess of Income over Expenditure:\n= Total Income - Total Expenditure\n= ₦29,500 - ₦27,500 = ₦2,000\nTherefore, the club's excess of income over expenditure is ₦2,000."
+  },
+  {
+    "id": "accounting-1788725100377-147-1406",
+    "questionText": "Under which of these conditions can a company issue shares at discount? (i)A resolution must be passed at a general meeting (ii) The amount of discount must be stated in the resolution (iii) The share must have existed for at least six years (iv) On the order of a court. (JAMB 199)",
+    "options": [
+      "i, ii and iii only",
+      "i, ii and iv only",
+      "i, iii, and iv only",
+      "ii, iii and iv only"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The issuance of shares at a discount in Nigeria is only permissible when:\n\nA special resolution of the shareholders is passed approving the issue at a discount, and\n\nThe amount of the discount is specifically stated in that resolution, and\n\nA court order (from the Federal High Court) sanctions the proposed issue at a discount.\n\nThere is no requirement that the share must have existed for a minimum number of years."
+  },
+  {
+    "id": "accounting-1788725100377-148-456",
+    "questionText": "The federal government approved  N 140 m to local governments W, X, Y and Z. The amount is to be shared on the basis of 40% equality. 35% population and 25% internal revenue generation. Calculate the share of local government W on equality. (JAMB 2007)",
+    "options": [
+      "N 35 m",
+      "N 14 m .",
+      "N 56 m",
+      "N 28 m."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-149-228",
+    "questionText": "In company accounts, profit after tax is shared in the (JAMB 2006)",
+    "options": [
+      "appropriation account",
+      "revaluation account",
+      "current account",
+      "realization account."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-150-1140",
+    "questionText": "four broad classifications of overheads are? (JAMB 2003)",
+    "options": [
+      "production, selling, distribution and material",
+      "production, selling, distribution and administration",
+      "selling, distribution and production and wages",
+      "distribution, selling, administration and material"
+    ],
+    "correctAnswer": "B",
+    "explanation": "These four categories comprehensively cover all types of indirect costs in a business organization."
+  },
+  {
+    "id": "accounting-1788725100377-151-1173",
+    "questionText": "<b>Use the information below to answer questions 9 and 10</b>\n\nThe Assets and liabilities of Udo Co.ltd. as at 31st December, 2000.\n\nCreditors ₦50,000\n\nDebtors ₦46,000\n\nLoan ₦100,000\n\nStock ₦20,000\n\nMotor vehicle ₦120,000\n\nBuilding ₦70,000\n\nAccrued wages 30,000\n\nBank ₦25 ,000\n\nThe value of capital invested by the owners is? (JAMB 2002)",
+    "options": [
+      "₦110,000",
+      "₦105,000",
+      "₦101,000",
+      "₦100,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Total assets = ₦46,000 + ₦20,000 + ₦120,000 + ₦70,000 + ₦25,000\n= ₦281,000\n\nTotal liabilities = ₦50,000 + ₦100,000 + ₦30,000\n= ₦180,000\n\nCapital = Assets − Liabilities = ₦281,000 − ₦180,000 = ₦101,000"
+  },
+  {
+    "id": "accounting-1788725100377-152-1421",
+    "questionText": "Books of original entry are used for (JAMB 1997)",
+    "options": [
+      "recording business transactions",
+      "the adjustment of accounts",
+      "reminding the book keeping to post transactions in the ledger",
+      "informing the bookkeeper about the state of affairs"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Books of original entry (also called journals) are where transactions are first recorded in chronological order before being posted to the ledger accounts."
+  },
+  {
+    "id": "accounting-1788725100377-153-99",
+    "questionText": "Which of the following is determined in the Trading Account? (JAMB 2013)",
+    "options": [
+      "Factory overheads",
+      "Cost of goods sold",
+      "Prime cost",
+      "Net profit"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100377-154-588",
+    "questionText": "A discount that is allowed to encourage a debtor to pay off his debt within a period is the (JAMB 2016)",
+    "options": [
+      "annual discount",
+      "trade discount",
+      "periodic discount",
+      "cash discount"
+    ],
+    "correctAnswer": "D",
+    "explanation": "A cash discount is a deduction allowed by some sellers of goods or by some providers of services in order to motivate customers to pay within a specified time. The cash discount is also referred to as an early payment discount."
+  },
+  {
+    "id": "accounting-1788725100377-155-1052",
+    "questionText": "Profit or loss in a partnership is usually arrived at after deducting from gross profit all expenses including? (JAMB 2005)",
+    "options": [
+      "partners' salaries",
+      "interest on capital",
+      "partners' drawings",
+      "interest on loans"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Explanation: Profit or loss is found after deducting operating expenses (e.g., rent, wages, interest on loans). Items like partners' drawings are not expenses, and partners' salaries or interest on capital are typically treated as appropriations of profit (handled in the profit & loss appropriation account), not ordinary business expenses."
+  },
+  {
+    "id": "accounting-1788725100377-156-272",
+    "questionText": "The name given to a budget in public service accounting is (JAMB 2012)",
+    "options": [
+      "vote.",
+      "subvention.",
+      "general order.",
+      "estimate."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100377-157-553",
+    "questionText": "The income and expenditure account of a club is the same as (JAMB 2015)",
+    "options": [
+      "single entry account",
+      "a profit and loss account",
+      "a trading account",
+      "a cash book"
+    ],
+    "correctAnswer": "B",
+    "explanation": "this is because the income and expenditure account just like the profit and loss account shows the income to ascertain surplus or deficit."
+  },
+  {
+    "id": "accounting-1788725100377-158-306",
+    "questionText": "Purchase invoice is first entered in the (JAMB 2015)",
+    "options": [
+      "purchases account",
+      "cash book",
+      "sales journal",
+      "purchase journal"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100377-159-1227",
+    "questionText": "If a property developing company sells a completed building to an interested third party, this sale can be treated in the books of the company as? (JAMB 2001)",
+    "options": [
+      "capital receipt",
+      "revenue receipt",
+      "windfall receipt",
+      "miscellaneous receipt"
+    ],
+    "correctAnswer": "B",
+    "explanation": "For a property developing company, selling a completed building would be treated as a revenue receipt.\n\n\n\nA property developing company is in the business of constructing and selling buildings\nThe completed building represents stock/inventory for this type of company\nWhen sold, it generates income from the company's normal business operations\nThis is similar to how a manufacturing company treats the sale of its manufactured goods"
+  },
+  {
+    "id": "accounting-1788725100377-160-838",
+    "questionText": "The principle of double entry system ensures (JAMB 2021)",
+    "options": [
+      "balances at the bank",
+      "increase in the assets and liabilities",
+      "balance of cashbook",
+      "mathematical accuracy in trial balance"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The double‐entry system mandates that every financial transaction is recorded with equal debits and credits. This built‑in check ensures that, when all ledger balances are extracted and totaled, the debit column equals the credit column—providing mathematical accuracy in the trial balance."
+  },
+  {
+    "id": "accounting-1788725100377-161-1097",
+    "questionText": "<b>Use the information below to answer questions 33 and 34</b>\n\nWhat is the net profit made by department S? (JAMB 2004)",
+    "options": [
+      "₦3,600",
+      "₦3,000",
+      "₦2,400",
+      "₦2,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Total depreciation = ₦1,000\n\nDepreciation (S) = ₦60 ⇒ Depreciation (T) = ₦1,000 − ₦60 = ₦940\n\nDept T equation:\nGross profit (T) − Salaries (T) − Electricity (T) − Depreciation (T) = Net profit (T)\n4,000 − 1,200 − Electricity(T) − 940 = 1,600\n\nSolve for Electricity (T):\n4,000 − 1,200 − 940 = 1,860\nElectricity(T) = 1,860 − 1,600 = ₦260\n\nTotal electricity = ₦2,000 ⇒ Electricity(S) = 2,000 − 260 = ₦1,740\n\nDept S net profit:\nNet(S) = Gross(S) − Salaries(S) − Electricity(S) − Depreciation(S)\nNet(S) = 6,000 − 1,800 − 1,740 − 60 = ₦2,400"
+  },
+  {
+    "id": "accounting-1788725100377-162-44",
+    "questionText": "A company provided the following information about its balance sheet: Cash N100 Accounts receivable N500 Stockholders' equity 14700 Account payable N200 Bank loans Nl000 Based on the information provided, how much are Remington's liabilities? (JAMB 2012)",
+    "options": [
+      "N200",
+      "N900",
+      "N 1,200",
+      "N 1,700"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-163-1095",
+    "questionText": "In the balance sheet of a not-for-profit-making organization, subscription paid in advance is regarded s a? (JAMB 2004)",
+    "options": [
+      "current assets",
+      "current liability",
+      "capital",
+      "reserve"
+    ],
+    "correctAnswer": "B",
+    "explanation": "When members pay their subscription before it is due (in advance), the organization has received money but hasn't yet provided the service for that period.\nThis means the organization owes the service to the members - it's a debt that must be settled by providing the service in the future.\nAny amount owed by an organization is a liability.\nSince subscription paid in advance will be settled within one year, it is a current liability."
+  },
+  {
+    "id": "accounting-1788725100377-164-996",
+    "questionText": "If a GSM operator based in Lagos supplies recharge cards to its branch in Akure, the head office can charge the goods at? (JAMB 2008)",
+    "options": [
+      "selling price",
+      "Akure price",
+      "company price",
+      "Lagos price"
+    ],
+    "correctAnswer": "A",
+    "explanation": "When a head office supplies goods (recharge cards) to its branch, the most common and practical transfer pricing method is selling price."
+  },
+  {
+    "id": "accounting-1788725100377-165-296",
+    "questionText": "Which of the following is found in a Memorandum of \tAssociation? (JAMB 2012)",
+    "options": [
+      "Names of directors",
+      "Appointment of directors",
+      "Object of the business",
+      "Payment of dividend"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-166-1273",
+    "questionText": "Yahuza Enterpises\nTrial Balance (Extracts) as at Dec. 31, 1998.\nCapital\nPremises 90,000 21,000\nDebtors 35,000\nProvisions 1/1/98:\nDepreciation 9,000\nBad and doubtful 1,500\n\nIf premises is to be depreciated at 10% on cost and a 5% provision is to be allowed on debtors, the total asset in the balance sheet is (JAMB 2000)",
+    "options": [
+      "₦ 125, 000",
+      "₦114,500",
+      "₦105,500",
+      "₦105,250"
+    ],
+    "correctAnswer": "D",
+    "explanation": "1. Premises (fixed asset)\n\nCost = ₦90,000\n\nAccumulated depreciation brought forward = ₦9,000\n\nDepreciation for the year @10% on cost = ₦90,000 × 10% = ₦9,000\n\nTotal accumulated depreciation = ₦9,000 + ₦9,000 = ₦18,000\n\nNet book value of premises = ₦90,000 − ₦18,000 = ₦72,000\n\n2. Debtors (receivables)\n\nGross debtors = ₦35,000\n\nProvision required @5% of ₦35,000 = ₦1,750\n\nNet debtors = ₦35,000 − ₦1,750 = ₦33,250\n\n3. Total assets\n\nNet premises + Net debtors = ₦72,000 + ₦33,250 = ₦105,250"
+  },
+  {
+    "id": "accounting-1788725100377-167-434",
+    "questionText": "A company has departments X, Y and Z. Department X occupies a space twice that of Y while Z   occupies half the space of  Y. If the company pays N 70 000 on rent, what is the amount of rent that should be allocated to Y? (JAMB 2007)",
+    "options": [
+      "N 30,000",
+      "N 40,000",
+      "N 20,000",
+      "N 10, 000."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100377-168-162",
+    "questionText": "When the purchase Consideration is lower than the net asset, the buyer has gained the advantage of (JAMB 2016)",
+    "options": [
+      "capital reserve",
+      "revenue reserve",
+      "net-income",
+      "net loss"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100377-169-801",
+    "questionText": "The rules which govern the internal management of a firm and its financial affairs in a partnership business is a (JAMB 2020)",
+    "options": [
+      "memoransum",
+      "deed",
+      "financial regulation",
+      "bye-law"
+    ],
+    "correctAnswer": "B",
+    "explanation": "In a partnership business, the rules governing internal management and financial affairs are contained in a partnership deed (also called a partnership agreement)."
+  },
+  {
+    "id": "accounting-1788725100377-170-912",
+    "questionText": "The main purpose of transaction file is? (JAMB 2023)",
+    "options": [
+      "to record assets and liabilities",
+      "to update income and expenses",
+      "to make organization decision",
+      "to update master files"
+    ],
+    "correctAnswer": "D",
+    "explanation": "A transaction file is used to hold data during transaction processing. The file is later used to update the master file and audit daily, weekly or monthly transactions."
+  },
+  {
+    "id": "accounting-1788725100377-171-954",
+    "questionText": "Based on the following information, calculate the raw materials available for production:\nOpening stock of raw materials on 1/1/09 was ₦2,000, work-in-progress was ₦5,000, closing stock of raw materials on 31/12/09 was ₦500, work-in-progress was ₦4,000, raw materials purchased during the year was ₦18,000, direct labour was ₦7,500, direct expenses were ₦3,000, and factory expenses were ₦10,000. (JAMB 2024)",
+    "options": [
+      "₦18,000",
+      "₦20,000",
+      "₦19,500",
+      "₦38,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "To find the raw materials available for production, we use the formula:\nRaw Materials Available for Production = Opening Stock of Raw Materials + Raw Materials Purchased\nRaw Materials Available for Production = ₦2,000 + ₦18,000 = ₦20,000\nThis represents the total value of raw materials that were available to be used in the production process during the year."
+  },
+  {
+    "id": "accounting-1788725100377-172-626",
+    "questionText": "What is the main purpose of transaction file? (JAMB 2017)",
+    "options": [
+      "To record assets and liabilities",
+      "To update income and expenses",
+      "to update master files",
+      "to make organization decision"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The main purpose of organization file is to update the master file of the organization"
+  },
+  {
+    "id": "accounting-1788725100377-173-1018",
+    "questionText": "Given:\n\nLiabilities..............₦23,700\nCurrent assets...........₦20,300\nFixed assets.............₦64,500\n\nWhat is the capital introduced by the proprietor? (JAMB 2005)",
+    "options": [
+      "₦40,800",
+      "₦61,100",
+      "₦88,200",
+      "₦108 500"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Current assets = ₦20,300\nFixed assets = ₦64,500\nTotal assets = ₦20,300 + ₦64,500 = ₦84,800\n\nLiabilities = ₦23,700\n\nCapital = Total assets − Liabilities\nCapital = ₦84,800 − ₦23,700 = ₦61,100"
+  },
+  {
+    "id": "accounting-1788725100377-174-542",
+    "questionText": "The basis of accounting for public sector is (JAMB 2015)",
+    "options": [
+      "accrual basis",
+      "cost basis",
+      "revenue basis",
+      "cash basis"
+    ],
+    "correctAnswer": "D",
+    "explanation": "This is the basis for recording in government accounting where revenue are recorded when cash is received."
+  },
+  {
+    "id": "accounting-1788725100377-175-114",
+    "questionText": "The process of detecting, tracing and eliminating errors in a computer program is (JAMB 2013)",
+    "options": [
+      "reproduction.",
+      "debugging.",
+      "sorting.",
+      "retrieving."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-176-1221",
+    "questionText": "The accuracy of journalist is checked by? (JAMB 2001)",
+    "options": [
+      "ensuring that debit totals equal credit totals",
+      "posting all journal entries to ledger accounts",
+      "adding all figures in the debit column",
+      "comparing accounts in the ledger against the journals"
+    ],
+    "correctAnswer": "A",
+    "explanation": "This follows the fundamental principle of double-entry bookkeeping where every transaction must have equal debits and credits. When preparing journal entries:\n\nEach transaction must balance (total debits = total credits)\nThis ensures mathematical accuracy\nIt helps detect errors in recording transactions\nIt maintains the accounting equation balance"
+  },
+  {
+    "id": "accounting-1788725100378-177-978",
+    "questionText": "<b>Use the information below to answer questions 14-15.</b>\n\nGiven information:\n\nCapital = ₦12,700\nPurchases = ₦7,100\nDebtors = ₦4,000\nStationery = ₦1,900\nSales = ₦2,400\nWages = ₦1,230\n\n\nThe owner wishes to maintain an account equal to 75% of capital as drawings. what is the amount withdrawn? (JAMB 2008)",
+    "options": [
+      "₦9525",
+      "₦9000",
+      "₦7100",
+      "₦6400"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Amount withdrawn = 75% of Capital\nAmount withdrawn = 75% × ₦12,700\nAmount withdrawn = 0.75 × ₦12,700 = ₦9,525"
+  },
+  {
+    "id": "accounting-1788725100378-178-1391",
+    "questionText": "The objective of allocating all costs to producer is to? (JAMB 199)",
+    "options": [
+      "produce a scientifically accurate cost",
+      "avoid unallocated overhead and compute total accounts",
+      "co-odinate the cost and financial accounts",
+      "compute the contribution of the product to the final profit"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The primary objective of allocating all costs to the product (producer) under full or absorption costing is to ensure that no overhead remains unallocated and that the total cost of production is fully captured."
+  },
+  {
+    "id": "accounting-1788725100378-179-118",
+    "questionText": "The prime cost is (JAMB 2013)",
+    "options": [
+      "GHc 64,500.",
+      "GHc 64,000.",
+      "GHc 58,500.",
+      "GHc 52,500."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-180-1200",
+    "questionText": "Which method of pricing can be used satisfactorily in either a rising or falling price situation? (JAMB 2002)",
+    "options": [
+      "Standard price",
+      "Marketing price",
+      "FIFO",
+      "Average method"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Reason: the average (weighted average) pricing method smooths out price fluctuations and gives consistent, reasonable inventory and cost figures whether prices are rising or falling."
+  },
+  {
+    "id": "accounting-1788725100378-181-818",
+    "questionText": "Use the information below to answer this question:\ni. cash at bank  ii. cash in hand  iii. premises  iv. land  v. creditors  vi. loan from friends/bank\n\nDetermine the fixed assets (JAMB 2021)",
+    "options": [
+      "iii and iv",
+      "i and v",
+      "ii and iv",
+      "ii and vi"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed assets are long‑term tangible assets used in the operation of a business. From the list, only premises and land qualify as fixed assets."
+  },
+  {
+    "id": "accounting-1788725100378-182-63",
+    "questionText": " An expenditure whose benefit is finished or enjoyed immediately is called:  (JAMB 2012)",
+    "options": [
+      "Expense",
+      "Liability",
+      "Cost",
+      "Income"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-183-1112",
+    "questionText": "According to the provisions of the 1999 Constitution, all revenues generated by the Federal Government must be paid into the? (JAMB 2004)",
+    "options": [
+      "Consolidated Revenue Fund",
+      "Federation Account",
+      "Revenue Mobilization Allocation and Fiscal Commission's Account",
+      "Equalization Fund"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Section 80 of the 1999 Constitution requires that all revenues or other moneys raised or received by the Federation shall be paid into and form one Consolidated Revenue Fund of the Federation"
+  },
+  {
+    "id": "accounting-1788725100378-184-1405",
+    "questionText": "Granada Corporation has net assets of ₦600,000 and contributed capital of ₦180,000. The corporation has 30,000 shares of common stock outstanding with no preferred stock. This suggest that the corporation has? (JAMB 199)",
+    "options": [
+      "a book value of ₦14 per share",
+      "a book value of ₦20 per share",
+      "a deficit of ₦420,000",
+      "retained earnings of ₦600,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Book value per share is calculated as:\n\nBook value per share = Net assets/Shares outstanding = ₦600,000/30,000 = ₦20\nSo the corporation has a book value of ₦20 per share."
+  },
+  {
+    "id": "accounting-1788725100378-185-241",
+    "questionText": "A set of instructions fed into a computer for accomplishing a given task is a/an (JAMB 2006)",
+    "options": [
+      "input",
+      "programme",
+      "output",
+      "data."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-186-468",
+    "questionText": "Journal proper is used in recording (JAMB 2007)",
+    "options": [
+      "transactions that are not regular",
+      "returns from customers",
+      "credit sales",
+      "the receipt and payment of money"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-187-51",
+    "questionText": "Which of the following accounts would be classified as a current on the balance sheet? (JAMB 2012)",
+    "options": [
+      "Office Equipment",
+      "Accumulated Depreciation",
+      "Land",
+      "Accounts receivable"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100378-188-1180",
+    "questionText": "<b>Use the information below to answer questions 15 and 16.</b>\n\nThe gross profit ratio for the company is 25%.\n\nThe closing stock for this company is (JAMB 2002)",
+    "options": [
+      "₦72,000",
+      "₦45,000",
+      "₦42,500",
+      "₦31,250"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Step 1: Calculate Gross Profit\nGross Profit = 25% × ₦157,000 = ₦39,250\nStep 2: Calculate Cost of Sales\nCost of Sales = Net Sales - Gross Profit\nCost of Sales = ₦157,000 - ₦39,250 = ₦117,750\nStep 3: Calculate Closing Stock using Cost of Sales Formula\nCost of Sales = Opening Stock + Net Purchases - Closing Stock\n₦117,750 = ₦45,000 + ₦104,000 - Closing Stock\n₦117,750 = ₦149,000 - Closing Stock\nClosing Stock = ₦149,000 - ₦117,750\nClosing Stock = ₦31,250"
+  },
+  {
+    "id": "accounting-1788725100378-189-499",
+    "questionText": "What is the net profit? (JAMB 2009)",
+    "options": [
+      "N 46,000",
+      "N 45,000",
+      "N 28,000",
+      "N 27,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-190-908",
+    "questionText": "From the following information: Plant and Machinery is valued at ₦190,000, Motor Vehicle at ₦170,000, Stock at ₦60,000, Current Liabilities amount to ₦50,000, and Purchase consideration is ₦400,000. What is the goodwill? (JAMB 2023)",
+    "options": [
+      "₦110,000",
+      "₦30,000",
+      "₦90,000",
+      "₦80,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Net assets = ₦190,000 + ₦170,000 + ₦60,000 – ₦50,000 = ₦370,000\n\nGoodwill = ₦400,000 – ₦370,000 = ₦30,000"
+  },
+  {
+    "id": "accounting-1788725100378-191-609",
+    "questionText": "Use the information below to answer the question that follows,\n\nA machine bought for N35,000 was estimated to have a life span of 5years with a scrap value of N9,000.\nThe yearly depreciation using the straight line method would be? (JAMB 2016)",
+    "options": [
+      "₦5,200",
+      "₦6,500",
+      "₦8,800",
+      "₦4,400"
+    ],
+    "correctAnswer": "A",
+    "explanation": "You take the cost (₦35,000), subtract the scrap value (₦9,000) to get ₦26,000, then divide by the useful life of 5 years: So the annual depreciation is ₦5,200."
+  },
+  {
+    "id": "accounting-1788725100378-192-772",
+    "questionText": "Danjuma Ltd. bought 10 bags of rice for N500 each. The company was given 5% and 12% trade and cash discounts respectively. What will be recorded as discount received in the company's book? (JAMB 2020)",
+    "options": [
+      "₦250",
+      "₦570",
+      "₦850",
+      "₦600"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Trade discount (5%) reduces the list cost and isn’t separately recorded in the books:\n\n10 × ₦500 = ₦5,000 ⟹ ₦5,000 × 5% = ₦250\nNet after trade discount = ₦5,000 − ₦250 = ₦4,750.\n\nCash discount (12%) is the one actually recorded as “Discount Received”:\n\n₦4,750 × 12% = ₦570.\nHence, the company will record ₦570 as discount received."
+  },
+  {
+    "id": "accounting-1788725100378-193-421",
+    "questionText": "Discounts granted to branch customers are treated as a debit to branch (JAMB 2004)",
+    "options": [
+      "stock account and a credit to branch debtors’ account",
+      "discount account and a credit to branch bank account",
+      "stock account and a credit to branch bank account",
+      "discount account and a credit to branch debtors’ account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-194-197",
+    "questionText": "A cash discount is a (JAMB 1997)",
+    "options": [
+      "Trading Account item",
+      "Profit and Loss Account item",
+      "Appropriation Account item",
+      "Receipts and Payments Account item"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-195-1013",
+    "questionText": "<b>Use the information below to answer question 49 to 50.</b>\n\nGoods worth ₦300 was transferred from department Q to P Similarly, P's total expenses for the period was ₦200\n\nWhat was department Q's gross profit? (JAMB 2008)",
+    "options": [
+      "₦2 500",
+      "₦2 300",
+      "₦ 2 200",
+      "₦1700"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Given (from extract):\n  Opening stock (Q)   = ₦1,000\n  Purchases (Q)       = ₦1,500\n  Closing stock (Q)   = ₦1,000\n  Sales (Q)           = ₦4,000\n\nCost of goods sold (Q) = Opening stock + Purchases − Closing stock\n                        = 1,000 + 1,500 − 1,000\n                        = ₦1,500\n\nGross profit (Q) = Sales − Cost of goods sold\n                 = 4,000 − 1,500\n                 = ₦2,500"
+  },
+  {
+    "id": "accounting-1788725100378-196-194",
+    "questionText": "An item is fictitious because it (JAMB 1997)",
+    "options": [
+      "does not exist",
+      "is too costly",
+      "is worthless",
+      "cannot be sold for cash"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-197-795",
+    "questionText": "The debenture issued at price  above the nominal value is Said to be issued at a (JAMB 2020)",
+    "options": [
+      "margin",
+      "premium",
+      "cost price",
+      "mark-up"
+    ],
+    "correctAnswer": "B",
+    "explanation": "When a debenture is issued at a price above its nominal (face) value, it is said to be issued at a premium. For example, if a debenture with a nominal value of ₦100 is issued for ₦110, it is issued at a premium of ₦10."
+  },
+  {
+    "id": "accounting-1788725100378-198-120",
+    "questionText": "The basic assumption which underlines the preparation of periodic financial statement is known as accounting (JAMB 2013)",
+    "options": [
+      "bases.",
+      "techniques.",
+      "concepts.",
+      "method."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-199-522",
+    "questionText": "Using the given information, calculate the acid test ratio:\n\nStock: ₦11,250\nDebtors: ₦18,750\nCreditors: ₦3,750\nBank: ₦4,000\nNet profit: ₦7,500\nNet: ₦60,000 (JAMB 2015)",
+    "options": [
+      "5 : 1",
+      "6 : 1",
+      "6 : 1 : 1",
+      "4 : 1"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Quick assets = Debtors + Bank = 18,750 + 4,000 = 22,750\nAcid-test ratio = Quick assets/Creditors = 22,750/3,750 ≈ 6.06 : 1. Rounded to the nearest whole‐number ratio, that’s 6 : 1."
+  },
+  {
+    "id": "accounting-1788725100378-200-752",
+    "questionText": "Majority of commercial transactions are termed credit transactions, which means (JAMB 2019)",
+    "options": [
+      "The buyers pay immediately for goods bought",
+      "Settlement is deferred to a future date",
+      "No account will be opened",
+      "Item of expenditure increases"
+    ],
+    "correctAnswer": "B",
+    "explanation": "In credit transactions, the transfer of ownership takes place before payment to the supplier i.e settlement is at a future safe."
+  },
+  {
+    "id": "accounting-1788725100378-201-555",
+    "questionText": "Specific principles, bases, conventions, rules and practices adopted by an enterprise in preparing and presenting financial statements are known as --------------------- (JAMB 2015)",
+    "options": [
+      "financial accounting",
+      "accounting policies",
+      "cost accounting",
+      "accounting conventions"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Accounting policies refer to the specific principles, bases, conventions, rules, and practices that an enterprise chooses to adopt and consistently apply in preparing and presenting its financial statements."
+  },
+  {
+    "id": "accounting-1788725100378-202-1358",
+    "questionText": "The best method of allocating expenses among departments is to? (JAMB 1999)",
+    "options": [
+      "allocate expenses to each department in proportion to the sales of that department",
+      "charge against each department those costs which are within its control",
+      "charge expenses against each department in proportion to the purchases of that department",
+      "allocate expenses to each section of the department in relation to the number of people"
+    ],
+    "correctAnswer": "B",
+    "explanation": "By assigning directly controllable expenses to the department responsible for incurring them, you:\n\nEnhance accountability (each manager owns the costs they can influence)\n\nAvoid arbitrary allocations that can distort performance measurement\n\nSimplify cost tracking and variance analysis\n\nOther bases (sales, purchases, headcount) can be used for truly common overheads, but as a general rule direct controllables should be charged where they belong."
+  },
+  {
+    "id": "accounting-1788725100378-203-543",
+    "questionText": "If the partnership agreement does not specify how net profit is to be divided, the profit should be divided (JAMB 2015)",
+    "options": [
+      "equally",
+      "n accordance with an established",
+      "in proportion of current account balances",
+      "in proportion of weighted average of capital"
+    ],
+    "correctAnswer": "A",
+    "explanation": "profit or loss are expected to be share equally in the absence of any agreement"
+  },
+  {
+    "id": "accounting-1788725100378-204-1208",
+    "questionText": "keeping records under the single entry system has the advantage of? (JAMB 2002)",
+    "options": [
+      "quality in terms of records",
+      "completeness in terms of records",
+      "accuracy in terms of operation",
+      "simplicity in terms of operation"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Reason: single-entry is easy and simple to operate (less paperwork), though it sacrifices completeness and accuracy."
+  },
+  {
+    "id": "accounting-1788725100378-205-1243",
+    "questionText": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nWhat is the subscription to be charged to income and expenditure account? (JAMB 2001)",
+    "options": [
+      "₦28,000",
+      "₦34,000",
+      "₦30,000",
+      "₦20,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Income = Received during year + Opening arrears − Advance for next year\nSubstituting the numbers:\n\n\nIncome = ₦30,000 + ₦4,000 − ₦6,000 = ₦28,000"
+  },
+  {
+    "id": "accounting-1788725100378-206-378",
+    "questionText": "The primary classification of government expenditure is based on (JAMB 2014)",
+    "options": [
+      "Programs",
+      "funds",
+      "activity",
+      "project"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-207-1450",
+    "questionText": "Adamu Babaji and Chukwu are in partnership and\nthey share profit and losses on ratio 3:2:1. Their\nrespective capitals are ₦20,000, ₦15,000 and ₦5,000\non which they are entitled to interest at 5% per\nannum. The profit for the year before charging interest\non capital amounted to ₦5,500. Calculate the profit\nfor Adamu. (JAMB 1997)",
+    "options": [
+      "₦583",
+      "₦1,000",
+      "₦1,167",
+      "₦1,750"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Step 1: Calculate interest on capita\n\nAdamu: ₦20,000 × 5% = ₦1,000\nBabaji: ₦15,000 × 5% = ₦750\nChukwu: ₦5,000 × 5% = ₦250\n\nTotal interest = ₦1,000 + ₦750 + ₦250 = ₦2,000\n\nStep 2: Remaining profit after interest on capital\n\nProfit before interest = ₦5,500\n\n{Remaining profit} = ₦5,500 - ₦2,000 = ₦3,500\n\n\nStep 3: Share remaining profit in ratio 3:2:1\n\nTotal ratio = 3 + 2 + 1 = 6\n\nAdamu: {3/6} × ₦3,500 = ₦1,750\nBabaji:{2/6} × ₦3,500 = ₦1,167\nChukwu: {1/6} × ₦3,500 = ₦583\n\nStep 4: Adamu’s total profit\n\nAdamu's total profit = Interest on capital + Share of remaining profit\n\n\n₦1,000 + ₦1,750 = ₦2,750\n\n\nonly for Adamu’s share of the remaining profit (Step 3) after interest on capital is charged.\n\nAdamu’s share of remaining profit = ₦1,750"
+  },
+  {
+    "id": "accounting-1788725100378-208-722",
+    "questionText": "Based on the final accounts of Wazobi Ventures for the year ended 30th June, 1998, where sales were ₦233,000 and cost of goods sold was ₦170,000, with overhead expenses including admin expenses of ₦16,800, selling expenses of ₦15,000, and other overhead expenses of ₦6,200, resulting in a net profit of ₦25,000, what is the gross profit as a percentage of sales? (JAMB 2019)",
+    "options": [
+      "2.70%",
+      "0.27%",
+      "27.00%",
+      "29.80%"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To find the gross profit as a percentage of sales:\nFirst, calculate gross profit:\nGross Profit = Sales - Cost of Goods Sold\nGross Profit = ₦233,000 - ₦170,000 = ₦63,000\nThen, calculate the percentage:\nGross Profit Percentage = (Gross Profit ÷ Sales) × 100\nGross Profit Percentage = (₦63,000 ÷ ₦233,000) × 100 = 27.04%\nTherefore, the gross profit as a percentage of sales is approximately 27%."
+  },
+  {
+    "id": "accounting-1788725100378-209-933",
+    "questionText": "The following accounts have debit balances except (JAMB 2024)",
+    "options": [
+      "share premium",
+      "rents and rates",
+      "return inwards",
+      "advertising"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Share premium is different. When a company issues shares at a price exceeding their par value, the excess amount is recorded as a credit balance in the share premium account. It represents additional capital received from shareholders beyond the face value of the shares."
+  },
+  {
+    "id": "accounting-1788725100378-210-464",
+    "questionText": "The amount to be charged to the profit and loss account is (JAMB 2007)",
+    "options": [
+      "N 30,000",
+      "N25,000",
+      "N 5 ,000",
+      "N20,000."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-211-316",
+    "questionText": "Which of the following expresses the accounting equating? (JAMB 2015)",
+    "options": [
+      "Capital + Assets = Liabilities",
+      "Assets - Liabilities = Capital",
+      "Liabilities + Current Assets = Fixed Assets",
+      "Liabilities - Capital = Current Assets"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-212-138",
+    "questionText": "Which of the following conditions would attract credit and debit notes to be used? (JAMB 2016)",
+    "options": [
+      "When goods are received from supplier.",
+      "When a trial balance is extracted",
+      "When a buyer is under or over charged.",
+      "When goods are sold to a buyer."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-213-1024",
+    "questionText": "five hundred naria monthly is allowed on an imprest system. The following transactions took place.\n\nPeriod1:\nCash advanced to petty cashier......₦500\nPetty cashier paid out: stamp.......₦200\n₦ewspaper...........................₦250\n\nPeriod 2:\nCash to petty cashier...............₦450\nCashier paid for writing materials..₦350\n\nWhat was the balance of cash with the petty cashier at the end of period 1? (JAMB 2005)",
+    "options": [
+      "₦50",
+      "₦200",
+      "₦300",
+      "₦450"
+    ],
+    "correctAnswer": "A",
+    "explanation": "From Period 1:\n\nCash given = ₦500\n\nPayments = ₦200 (stamp) + ₦250 (newspaper) = ₦450\n\nRemaining cash = ₦500 − ₦450 = ₦50"
+  },
+  {
+    "id": "accounting-1788725100378-214-1294",
+    "questionText": "Which of the following items does not feature in the balance sheet of a club? (JAMB 2000)",
+    "options": [
+      "Arrears of current year's subscription",
+      "Salary arrears paid in the current year",
+      "Rental income received in advance",
+      "Advances subscription in respect of a coming year"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Arrears of current year’s subscription (amounts owed by members) appear as a receivable (asset).\n\nRental income received in advance is unearned income and appears as a liability.\n\nAdvance subscriptions for the coming year are also liabilities.\n\nSalary arrears paid during the year are simply expenses that have been settled and do not appear on the balance sheet at period-end."
+  },
+  {
+    "id": "accounting-1788725100378-215-1225",
+    "questionText": "When a bill is negotiated to a bank, it is said be? (JAMB 2001)",
+    "options": [
+      "surrendered",
+      "cashed",
+      "discounted",
+      "accepted"
+    ],
+    "correctAnswer": "C",
+    "explanation": "When you discount a bill with a bank:\n\nYou receive cash immediately instead of waiting for the maturity date\nThe bank pays you less than the face value of the bill\nThe difference between the face value and the amount paid is called the \"discount\"\nThis discount compensates the bank for the risk and the time value of money\nThe bank then collects the full amount from the debtor on the maturity date"
+  },
+  {
+    "id": "accounting-1788725100378-216-1356",
+    "questionText": "Calls in advance are treated in the balance sheet as? (JAMB 1999)",
+    "options": [
+      "current asset",
+      "current liability",
+      "fixed assets",
+      "fixed liability"
+    ],
+    "correctAnswer": "B",
+    "explanation": "“Calls in advance” represent amounts received from shareholders before the company has formally made a call. Since these funds are not yet earned (the corresponding shares or calls are not yet issued), they are recorded as a current liability until the call is made and the amount is officially applied to share capital."
+  },
+  {
+    "id": "accounting-1788725100378-217-1033",
+    "questionText": "Given:\npurchases ledger balance..............₦4000\npurchases for the period..............₦50000\nCash refunded by suppliers............₦290\nCheques paid to suppliers..............₦42300\nReturns outwards.......................₦2000\nDiscount received from suppliers.......₦400\n\nThe balance of the purchases ledger control account is? (JAMB 2005)",
+    "options": [
+      "₦10390",
+      "₦9990",
+      "₦9590",
+      "₦9010"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Workings (step-by-step):\n\nCredit side\n\nOpening balance = ₦4,000\n\nPurchases = ₦50,000\nTotal credit = ₦54,000\n\nDebit side\n\nCheques paid to suppliers = ₦42,300\n\nReturns outwards = ₦2,000\n\nDiscount received = ₦400\n\nCash refunded by suppliers = ₦290\nTotal debit = ₦42,300 + ₦2,000 + ₦400 + ₦290 = ₦44,990\n\nClosing (balance) = Total credit − Total debit = ₦54,000 − ₦44,990 = ₦9,010."
+  },
+  {
+    "id": "accounting-1788725100378-218-726",
+    "questionText": "Use the following to answer this question.\nIndustry ltd, issued 100,000 shares at ₦1 each out of its Authorized share capital of ₦200,000 at ₦1 each. At the of the first call, all shareholders paid in full, except for two shareholder who owes ₦20,000.\n\nThe Unissued capital of the company is (JAMB 2019)",
+    "options": [
+      "₦310,000",
+      "₦200,000",
+      "₦210,000",
+      "₦100,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Unissuer capital is the total amount which has not been issued out on the authorized, nominal or registered capital.\nTherefore, unissued capital = Authorized\ncapital - issued capital which is :\n200,000 - 100,000 = ₦100,000"
+  },
+  {
+    "id": "accounting-1788725100378-219-1233",
+    "questionText": "Use the information below to answer questions 19 and 20\n\nPurchases ledger opening balance ₦4,000\nSales ledger opening balance ₦6,000\nCredit purchases during the year ₦25,000\nDiscounts allowed ₦1,000\nReturns inwards ₦2,000\nCredit sales during the year ₦10,000\nReturns outwards ₦6,000\n\nCalculate the sales ledger balance? (JAMB 2001)",
+    "options": [
+      "₦3,000",
+      "₦6,000",
+      "₦10,000",
+      "₦13,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "To calculate the Sales Ledger balance, we track all amounts owed by customers (debtors). The Sales Ledger includes:\n\nOpening balance (debtors): ₦6,000\n\nAdd: Credit sales during the year: ₦10,000\n\nLess: Returns inwards (sales returns): ₦2,000\n\nLess: Discounts allowed: ₦1,000\n\n₦ow calculate:\n\nSales Ledger Closing Balance = 6,000 + 10,000 − 2,000 − 1,000 = ₦13,000"
+  },
+  {
+    "id": "accounting-1788725100378-220-86",
+    "questionText": "A dishonoured cheque is (JAMB 2013)",
+    "options": [
+      "debited in the cash book.",
+      "credited in the cash book.",
+      "double entry in the cash book.",
+      "credited in the bank book."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-221-1027",
+    "questionText": "In a three-column cash book, the discount allowed is shown on the? (JAMB 2005)",
+    "options": [
+      "debit side",
+      "credit side",
+      "folio column",
+      "memorandum column"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Discount allowed is an expense (a reduction in cash received), so it’s recorded on the debit side of the three-column cash book. (By contrast, discount received is shown on the credit side.)"
+  },
+  {
+    "id": "accounting-1788725100378-222-794",
+    "questionText": "Which of the following are advantages of departmental accounts? (JAMB 2020)",
+    "options": [
+      "the capital of the business can be calculated easily",
+      "easy knowledge of the sources of funding",
+      "encouragement of healthy rivalry among the various department",
+      "the department making the highest profit can be easily determined"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Departmental accounts help create healthy competition between departments by making each department's performance visible and comparable. This motivates department managers to improve efficiency and profitability."
+  },
+  {
+    "id": "accounting-1788725100378-223-759",
+    "questionText": "Discount received is charge to (JAMB 2019)",
+    "options": [
+      "current account",
+      "profit and loss",
+      "rading account",
+      "balance sheet"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Discount received is treated as income to the business hence it is credited to the profit and loss."
+  },
+  {
+    "id": "accounting-1788725100378-224-982",
+    "questionText": "<b>Use the information below to answer questions 17 to 18.</b>\n\nAug. 1 Received 20 units at ₦60 each\nAug. 6 Received 20 units at ₦68 each\nAug. 10 Issued 16 units\nAug. 20 Received 40 units at ₦80 each\nAug. 31 Issued 48 units\n\nUsing the FIFO method, what is the value of the closing stock? (JAMB 2008)",
+    "options": [
+      "₦1280",
+      "₦1184",
+      "₦1024",
+      "₦960"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step 1: After Aug. 1\n\nStock:\n\n20 units @ ₦60\n\nStep 2: After Aug. 6\n\nStock:\n\n20 units @ ₦60\n\n20 units @ ₦68\n\nStep 3: Aug. 10 issue (16 units) – FIFO means take oldest stock first\n\nTake 16 from the 20 units @ ₦60 → leaves 4 units @ ₦60\n\nRemaining from Aug. 6: 20 units @ ₦68\n\nStock after issue:\n\n4 units @ ₦60\n\n20 units @ ₦68\n\nStep 4: Aug. 20 receive 40 units @ ₦80\n\nStock now:\n\n4 units @ ₦60\n\n20 units @ ₦68\n\n40 units @ ₦80\n\nStep 5: Aug. 31 issue (48 units) – FIFO\n\nTake 4 from ₦60 batch → 0 left\n\nTake 20 from ₦68 batch → 0 left\n\nNeed 48 - 4 - 20 = 24 units from ₦80 batch → leaves 16 units @ ₦80\n\nStep 6: Closing stock\n\n16 units @ ₦80 = ₦1,280"
+  },
+  {
+    "id": "accounting-1788725100378-225-528",
+    "questionText": "Use the information below to answer this question.\nTimo and Chris are computer engineers who went into partnership as Teachi and Co. Timo brought cash of ₦12,000 furniture worth of ₦18,000 and vehicle worth of 70,000. Chris equally brought in cash of 10,000 his building valued at 105,000 and personal computers worth ₦35,000.\n\nWhat is the profit sharing ratio if it’s based on capital contribution by Teechi and Co? (JAMB 2015)",
+    "options": [
+      "2 : 3",
+      "3 : 2",
+      "6 : 5",
+      "5 : 6"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divide the net assets contributed by each partner by the total partnership's assets. This is the accountant ratio for income sharing. For instance, if the total assets of a company are ₦100,000 and the contribution of one partner is ₦10,000, the accounting ratio for this partner would be 0.1.\n\n Timo = 100,000\nchris = 150,000\nTotal = 250,000\n\nTimo =100,000 / 250,000 = 0.4\nchris = 150,000 / 250,000 = 0.6\n\nThis can be interpreted as 2:3 ratio"
+  },
+  {
+    "id": "accounting-1788725100378-226-268",
+    "questionText": "Capital receipt is collected (JAMB 2012)",
+    "options": [
+      "on sales of motor vehicle.",
+      "on sales of stock in trade.",
+      "from trade debtor",
+      "from trading activities."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-227-1338",
+    "questionText": "When the factory cost of production has been ascertained, manufactured goods are transferred to trading account by? (JAMB 1999)",
+    "options": [
+      "debting manufacturing account and crediting trading acccount",
+      "crediting sales account and debtiting trading account",
+      "debiting sales account and crediting trading account",
+      "crediting manufacturing account and debiting trading account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The manufactured goods (i.e., cost of production) are transferred by debiting the Trading Account and crediting the Manufacturing Account."
+  },
+  {
+    "id": "accounting-1788725100378-228-169",
+    "questionText": "If the scrap value is now N15, 000, what will be the yearly depreciation using straight line method? (JAMB 2016)",
+    "options": [
+      "N11 000",
+      "N7, 000",
+      "N 4, 000",
+      "N24. 000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-229-1438",
+    "questionText": "which of the following conditions best represents the net effect of discount allowed on credit sales on the accounts of the business? (JAMB 1997)",
+    "options": [
+      "decrease in the closing balance of sales ledger control accout",
+      "increase in net profit",
+      "increase in the value of sales",
+      "decrease in the value of purchases in the trading account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Discount allowed is a reduction granted to customers for early payment. It:\n\nReduces the amount receivable from debtors (hence reduces the balance of the sales ledger control account).\n\nIt does not increase net profit (it actually reduces it),\n\nIt does not affect the value of sales,\n\nIt has nothing to do with purchases"
+  },
+  {
+    "id": "accounting-1788725100378-230-1387",
+    "questionText": "Determine the year''s purchase from the following information relating to a firm.\n\n\nTotal creditor''s b/f ₦ 7,200\nTotal cash payment to suppliers ₦ 98,800\nTotal creditors c/f ₦ 8,400 (JAMB 199)",
+    "options": [
+      "₦7,200",
+      "₦98,800",
+      "₦100,000",
+      "₦105,800"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To find the year's purchases, use the creditors control account approach.\nGiven information:\n\nTotal creditors b/f (opening): ₦7,200\nTotal cash payments to suppliers: ₦98,800\nTotal creditors c/f (closing): ₦8,400\n\nCreditors Control Account Logic:\nOpening creditors + Purchases - Cash payments = Closing creditors\nCalculation:\n₦7,200 + Purchases - ₦98,800 = ₦8,400\nPurchases = ₦8,400 - ₦7,200 + ₦98,800\nPurchases = ₦1,200 + ₦98,800\nPurchases = ₦100,000"
+  },
+  {
+    "id": "accounting-1788725100378-231-1150",
+    "questionText": "The first step in converting as single entry to a double entry system of bookkeeping is to prepare a? (JAMB 2003)",
+    "options": [
+      "suspense account",
+      "statement of affairs",
+      "realization account",
+      "trial balance"
+    ],
+    "correctAnswer": "B",
+    "explanation": "In single-entry systems you don’t have a full set of books, so the first step is to prepare a statement of affairs (a makeshift balance sheet) to determine opening balances and the proprietor’s capital. From that you can make the opening double-entry journal entries to set up the ledger."
+  },
+  {
+    "id": "accounting-1788725100378-232-1064",
+    "questionText": "The quick ratio is (JAMB 2005)",
+    "options": [
+      "1:2",
+      "1:3:1",
+      "1.7:1",
+      "3:1"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Formula:\nQuick Ratio = (Current Assets - Stock) ÷ Current Liabilities\nQuick Assets (Current Assets excluding Stock):\n\nDebtors = ₦15,000\nCash = ₦5,000\nTotal Quick Assets = ₦20,000\n\nCurrent Liabilities:\n\nCreditors = ₦8,000\nWages owed = ₦4,000\nRent owed = ₦3,000\nTotal Current Liabilities = ₦15,000\n\nQuick Ratio:\nQuick Ratio = ₦20,000 ÷ ₦15,000 = 1.33:1\nTherefore, the quick ratio is 1.33:1 (or approximately 1.3:1)"
+  },
+  {
+    "id": "accounting-1788725100378-233-382",
+    "questionText": "Which of the following information is recorded in the returns outwards book? (JAMB 2014)",
+    "options": [
+      "Goods purchased on credit and subsequently returned to supplier",
+      "Fixed asset bought on credit and subsequently returned to supplier",
+      "Cash payment received from a customer and subsequently returned to supplier",
+      "Goods sold to a customer and subsequently returned to the business."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-234-765",
+    "questionText": "Under which of the following conditions is a partnership dissolved? (JAMB 2020)",
+    "options": [
+      "change of the partnership's head office",
+      "purchase of a large quantity of fixed assets",
+      "admission of a new partner",
+      "retirement of a manager who is not a partner"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Legally, the admission of a new partner brings about the dissolution of the existing partnership and the formation of a new one (even though the business may continue uninterrupted). None of the other events (moving the head office, buying fixed assets, or a manager’s retirement when they aren’t a partner) automatically dissolve the partnership."
+  },
+  {
+    "id": "accounting-1788725100378-235-18",
+    "questionText": "Trading account is prepared to ascertain  (JAMB 2010)",
+    "options": [
+      "Gross profit",
+      "Net profit",
+      "Gross profit or Gross loss",
+      "Net profit or net loss"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-236-130",
+    "questionText": "The major advantage of the journal proper is that it (JAMB 2016)",
+    "options": [
+      "helps in the preparation of the balance sheet",
+      "prevents fraud and theft of item of the business",
+      "serves as a book of instruction to the bookkeeper",
+      "helps the banking industry to be efficient."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-237-339",
+    "questionText": "Which of the following is a source of revenue for a local government? (JAMB 2015)",
+    "options": [
+      "Personal income tax",
+      "Company registration fees",
+      "Royalties",
+      "Market tolls"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100378-238-91",
+    "questionText": "The returns on capital employed is (JAMB 2013)",
+    "options": [
+      "17.2%",
+      "16.2%.",
+      "15.2%.",
+      "11.2%."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-239-1197",
+    "questionText": "Costs that vary in proportion to the level of production in a manufacturing environment are known as? (JAMB 2002)",
+    "options": [
+      "control costs",
+      "overheads",
+      "direct costs",
+      "indirect costs"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Direct costs are the costs that vary in direct proportion to production levels. When production increases, direct costs increase proportionally. When production decreases, direct costs decrease proportionally."
+  },
+  {
+    "id": "accounting-1788725100378-240-1161",
+    "questionText": "<b>Use the information below to answer questions 47 and 48.</b>\n\nThe business was acquired on 1st April, 2002 at a purchase consideration of ₦120 000 by SOZ. All assets and liabilities were taken over except the cash.\n\nTo open the new firm’s bank account, additional ₦20,000 was paid into the bank.\n\nThe goodwill on purchase is? (JAMB 2003)",
+    "options": [
+      "₦90,000",
+      "₦30,000",
+      "₦19,000",
+      "₦18,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Calculate Net Assets Acquired\nAssets taken over (excluding cash):\n\nLand and buildings: ₦50,000\nFurniture: ₦10,000\nStock: ₦30,000\nDebtors: ₦30,000\nTotal Assets = ₦120,000\n\nLiabilities taken over:\n\nCreditors: ₦30,000\n\nNet Assets Acquired = ₦120,000 - ₦30,000 = ₦90,000\nStep 2: Calculate Goodwill\nGoodwill = Purchase Consideration - Net Assets Acquired\nGoodwill = ₦120,000 - ₦90,000 = ₦30,000"
+  },
+  {
+    "id": "accounting-1788725100378-241-285",
+    "questionText": "The Sales Ledger Control Account is also referred to as (JAMB 2012)",
+    "options": [
+      "Bought Ledger Control Account.",
+      "Purchases Account.",
+      "Total Debtors Account.",
+      "Total Creditors Account."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-242-1178",
+    "questionText": "The concise statement used to explain entries in the general journal is known as? (JAMB 2002)",
+    "options": [
+      "narration",
+      "summary",
+      "information",
+      "commentary"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Reason: In accounting, a narration is the brief explanation written below a journal entry to describe the transaction."
+  },
+  {
+    "id": "accounting-1788725100378-243-1082",
+    "questionText": "<b>Use the information below to answer questions 17 and 18</b>\n\nGiven Information:\n\nOpening balance: ₦10,640\nPurchases: ₦26,912\nReturns inwards: ₦492\nReturns outwards: ₦810\nCash discount received: ₦1,348\nCash discount allowed: ₦1,560\nCash paid to suppliers: ₦20,808\n\nAt the year-end, the purchases ledger showed a\ndebit balance of: ₦108\n\n\nThe balancing figure in the purchases ledger control account is (JAMB 2004)",
+    "options": [
+      "₦15,828",
+      "₦15,720",
+      "₦14,940",
+      "₦14,478"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Purchases Ledger Control Account\n\nDebit side (from previous calculation):\n\nCash paid to suppliers = ₦20,808\n\nReturns outwards = ₦810\n\nDiscount received = ₦1,348\n\nClosing debit balance = ₦108\nTotal debit side = ₦23,074\n\nCredit side:\n\nOpening balance (credit) = ₦10,640\n\nPurchases = ₦26,912\n\nTotal credit side = ₦10,640 + ₦26,912 = ₦37,552\n\nBalancing figure (Closing credit balance) =\n₦37,552 − ₦23,074 = ₦14,478"
+  },
+  {
+    "id": "accounting-1788725100378-244-682",
+    "questionText": "In reconciling the branch and head office accounts, remittance in transit in the branch books is treated as a_____________ (JAMB 2018)",
+    "options": [
+      "Debit entry",
+      "Contra entry",
+      ". Credit entry",
+      "Reversal entry"
+    ],
+    "correctAnswer": "A",
+    "explanation": "In the branch’s own books, when cash is sent to head office but not yet received there, it isn’t left in the cash balance, instead the branch debits a “Remittance in Transit” asset account and credits cash. Thus, on reconciliation, the branch treats remittances in transit as debit entries."
+  },
+  {
+    "id": "accounting-1788725100378-245-859",
+    "questionText": "Departmentalization of accounts is useful because it shows the? (JAMB 2022)",
+    "options": [
+      "overall performance of a firm",
+      "price per unit of a product",
+      "cost per unit of a product",
+      "overall performance of a division"
+    ],
+    "correctAnswer": "D",
+    "explanation": "By departmentalizing accounts, a business can track revenues, expenses, and profits separately for each division or department. This allows management to assess the performance of each division individually, rather than just seeing the firm’s overall results."
+  },
+  {
+    "id": "accounting-1788725100378-246-1187",
+    "questionText": "Nasara Manufacturing Plc has three direct labour employees that work 40 hours each a week for 50 weeks a year. Factory overhead costs of ₦60,000 is distributed on the basis of direct labour hours.\nCompute the overhead rate? (JAMB 2002)",
+    "options": [
+      "₦12 per hour",
+      "₦16 per hour",
+      "₦10 per hour",
+      "₦15 per hour"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Step 1: Total direct labour hours\nEach worker: 40 hours/week × 50 weeks/year = 2,000 hours/year\n3 workers: 2,000 × 3 = 6,000 hours/year\n\nStep 2: Overhead rate\nOverhead rate = Total factory overhead ÷ Total direct labour hours\n= ₦60,000 ÷ 6,000 hours\n= ₦10 per hour"
+  },
+  {
+    "id": "accounting-1788725100378-247-829",
+    "questionText": "From Zahki Plc's balance sheet as at 31st December 1997, the company has the following financial position: On the equity and liabilities side - Paid up capital of ₦200,000, Share premium of ₦15,000, Profit and loss account balance of ₦60,000, Long-term loan of ₦180,000, Creditors of ₦200,000, and Other current liabilities of ₦100,000, totaling ₦755,000. On the assets side - Fixed assets of ₦300,000, Investment of ₦180,000, Stock of ₦28,000, Debtors of ₦90,000 with a provision of ₦3,000 making net debtors ₦87,000, Cash of ₦60,000, and Bank of ₦100,000, also totaling ₦755,000. What is the quick ratio? (JAMB 2021)",
+    "options": [
+      "0.82 : 1",
+      "1:53:01",
+      "0.95:1",
+      "0.91:1"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Quick Ratio (Acid‐Test Ratio) is calculated as:\n\n(Current Assets − Stock)/Current Liabilities\n​\n \nCurrent Assets (excluding stock):\nNet Debtors ₦87,000 + Cash ₦60,000 + Bank ₦100,000 = ₦247,000\n\nCurrent Liabilities:\nCreditors ₦200,000 + Other Current Liabilities ₦100,000 = ₦300,000\n\nQuick Ratio: 247,000/300,000 ≈ 0.82:1\n\nSo the quick ratio is 0.82 : 1."
+  },
+  {
+    "id": "accounting-1788725100378-248-307",
+    "questionText": "Assets acquired is recorded by debiting (JAMB 2015)",
+    "options": [
+      "Asset Account, crediting Cash Account",
+      "Cash Account, crediting Asset Account",
+      "Purchase of Business Account, crediting Sale of Business Account",
+      "Asset Account, crediting Purchase of business Account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-249-740",
+    "questionText": "Using the same information extracted from the books of Miliki state where sinking of bore holes cost ₦2,900,000, purchase of motor car ₦920,000, stationery ₦300,000, electricity ₦45,000, purchase of drugs ₦76,000, and purchase of beds ₦425,000, what is the capital expenditure? (JAMB 2019)",
+    "options": [
+      "₦345,000",
+      "₦3,245,000",
+      "₦421,000",
+      "₦4,245,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Capital expenditure refers to spending on long-term assets that will benefit the organization for more than one year. These are investments in fixed assets.\nFrom the given items:\n\nSinking of bore holes: ₦2,900,000 (capital - infrastructure development)\nPurchase of motor car: ₦920,000 (capital - fixed asset)\nPurchase of beds: ₦425,000 (capital - durable equipment)\n\nCapital expenditure = ₦2,900,000 + ₦920,000 + ₦425,000 = ₦4,245,000\nTherefore, the capital expenditure is ₦4,245,000."
+  },
+  {
+    "id": "accounting-1788725100378-250-537",
+    "questionText": "The following accounting entries are made when bad debt is recovered (JAMB 2015)",
+    "options": [
+      "debit bad debts accounts and credit bad debt recovered account",
+      "debit debtors accounts and recovered account",
+      "debit bad debts recovered account and credit bad debts account",
+      "debit bad debts account and credit profit and loss account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The standard “recovery of a previously written-off debt” entry is:\n\nReinstate the debtor: Debit Debtors Control Account\n\nRecognize the income: Credit Bad Debts Recovered Account\n\nSo the debit entry is against the Debtors Control Account."
+  },
+  {
+    "id": "accounting-1788725100378-251-233",
+    "questionText": "Which of the following is not a debit item in a partnership \tappropriation account? (JAMB 2006)",
+    "options": [
+      "Interest on drawings",
+      "Partner’s salary",
+      "Interest on partner’s capital",
+      "Share of profit."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-252-1101",
+    "questionText": "Transfers from the head office to branches are best carried out at? (JAMB 2004)",
+    "options": [
+      "cost price",
+      "selling price",
+      "cost plus mark-up",
+      "market price"
+    ],
+    "correctAnswer": "A",
+    "explanation": "When the head office transfers goods to branches, the cost price is the best method because:\nAdvantages of cost price:\n\nNo artificial profits - prevents showing profit before actual sale to customers\nTrue performance measurement - branch profits reflect actual sales performance, not inflated transfer prices\nSimpler accounting - easier to track and reconcile\nAccurate stock valuation - inventory shows true cost, not inflated values"
+  },
+  {
+    "id": "accounting-1788725100378-253-1143",
+    "questionText": "<b>Use the information below to answer questions 28 and 29</b>\n\n...........PQ Manufacturing Company\n\nRaw materials (1/11/2001)...........₦3 500\nRaw materials (31/12/2001)..........₦4 900\nPurchase of raw materials...........₦56 000\nSalary .............................₦63 000\nWages...............................₦148 000\nFactory lighting ...................₦3 080\nPlant Depreciation..................₦2 800\nFactory Insurance ..................₦2 170\n\nThe company consumed raw materials worth? (JAMB 2003)",
+    "options": [
+      "₦54,600",
+      "₦56,000",
+      "₦57,400",
+      "59,500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Consumption of raw materials = Opening + Purchases − Closing\n\nCopy code\n= ₦3,500 + ₦56,000 − ₦4,900\n= ₦59,500 − ₦4,900\n= ₦54,600"
+  },
+  {
+    "id": "accounting-1788725100378-254-135",
+    "questionText": "The documents that provide instant information to firms on their transactions with banks are (JAMB 2016)",
+    "options": [
+      "bank statement and debit note",
+      "cheque stub and deposit slip",
+      "cheque book and cashbook",
+      "payslip and credit invoice."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-255-748",
+    "questionText": "The importance of bank statement is all except (JAMB 2019)",
+    "options": [
+      "verifies the accuracy of balances of cash book and cheque book",
+      "helps to detect and rectify any error",
+      "helps to debit an account",
+      "helps to update the cash book"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Bank statement is prepared by the bank to an account border showing the transactions between the customer and the bank within a period of time. It is usually issued monthly or at agreed intervals to the customers."
+  },
+  {
+    "id": "accounting-1788725100378-256-1035",
+    "questionText": "If the assets and liabilities of a firm were valued at ₦17,200 and ₦5,120 respectively, the capital of the firm would be? (JAMB 2005)",
+    "options": [
+      "₦22 320",
+      "₦17 200",
+      "₦12 080",
+      "₦5 120"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Total assets ₦17,200 − Liabilities ₦5,120 = Capital ₦12,080."
+  },
+  {
+    "id": "accounting-1788725100378-257-110",
+    "questionText": "The total expenditure for the period is (JAMB 2013)",
+    "options": [
+      "319,000.",
+      "270,000",
+      "139,000.",
+      "109,000."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100378-258-1443",
+    "questionText": "Emeka Manufacturing Company (Extract) Manufacturing Account.\nDirect material = ₦5,000\n\nDirect labour = ₦4,500\n\nDirect expenses = ₦3,000\n\nFactory overhead = ₦2,500\n\nSelling & distribution = ₦1,500 \n\nCalculating the production cost? (JAMB 1997)",
+    "options": [
+      "₦16 500",
+      "₦15 000",
+      "₦14 000",
+      "₦12 500"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Given:\nDirect material = ₦5,000\n\nDirect labour = ₦4,500\n\nDirect expenses = ₦3,000\n\nFactory overhead = ₦2,500\n\nSelling & distribution = ₦1,500 (not included)\n\nCalculation:\nProduction cost = 5,000 + 4,500 + 3,000 + 2,500 = ₦15,000"
+  },
+  {
+    "id": "accounting-1788725100378-259-383",
+    "questionText": "Calculate the stock figure to be included in the balance sheet at the year end. (JAMB 2014)",
+    "options": [
+      "D408,000",
+      "D346,000",
+      "D284,000",
+      "D62,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-260-1106",
+    "questionText": "The accounting entry to record the premium on goodwill is to debit? (JAMB 2004)",
+    "options": [
+      "cash and credit old partners' capital",
+      "goddwill and credit revaluation",
+      "assets and credit capital",
+      "capital and credit assets"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Explanation: when a new partner pays a goodwill premium, you debit Cash/Bank (what's received) and credit the old partners' capital accounts in their profit-sharing ratio (since the premium compensates the existing partners)."
+  },
+  {
+    "id": "accounting-1788725100378-261-1417",
+    "questionText": "Creditors use Accounting information for the purpose of (JAMB 1997)",
+    "options": [
+      "planning sales to a company",
+      "controlling a company's affairs",
+      "investing in a company",
+      "assessing a company's liquidity"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Creditors need accounting information, especially on current assets and current liabilities, to evaluate whether the business can meet its short‑term obligations and thus repay loans on time."
+  },
+  {
+    "id": "accounting-1788725100378-262-198",
+    "questionText": "The amount of capital expenditure for 1995 was (JAMB 1997)",
+    "options": [
+      "N 260,000",
+      "N 230,000",
+      "N 220,000",
+      "N 160,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-263-224",
+    "questionText": "If  no profit is to be retained, proposed ordinary shares dividend is (JAMB 2006)",
+    "options": [
+      "N 48,000",
+      "N 44,000",
+      "N 40,000",
+      "N 28,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-264-793",
+    "questionText": "Four broad classifications of overheads are (JAMB 2020)",
+    "options": [
+      "production, selling, distribution and administration",
+      "production, selling, distribution and material",
+      "selling, distribution and material",
+      "distribution, selling, administration and materials"
+    ],
+    "correctAnswer": "A",
+    "explanation": "These are the four standard classifications of overheads in cost accounting:\n\nProduction - factory-related indirect costs\nSelling - costs to promote and secure sales\nDistribution - costs to deliver goods to customers\nAdministration - general management and office expenses\n\nMaterial is not an overhead classification since materials are typically direct costs, not indirect overheads."
+  },
+  {
+    "id": "accounting-1788725100378-265-1242",
+    "questionText": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nThe ₦6,000 subscription received is? (JAMB 2001)",
+    "options": [
+      "current asset",
+      "current liability",
+      "fixed asset",
+      "capital"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The ₦6,000 subscription received for next year is a current liability.\n\n\nWhen an organization receives money for subscriptions that relate to the following year, it creates an obligation to provide services in the future. This is known as \"unearned revenue\" or \"deferred income.\"\n\nThe organization has received cash (₦6,000)\nBut it has not yet provided the service/benefit for next year\nTherefore, it owes a service to the subscribers\nThis creates a liability that must be settled by providing the service next year\nSince it will be settled within one year, it's a current liability\n\nThis amount would typically be shown on the balance sheet as \"Subscriptions Received in Advance\" or \"Unearned Subscription Income\" under current liabilities.\nNext year, when the service period begins, this liability will be transferred to subscription income in the profit and loss account."
+  },
+  {
+    "id": "accounting-1788725100378-266-336",
+    "questionText": "A person who has applied to purchase shares in a company is referred to as (JAMB 2015)",
+    "options": [
+      "a promoter",
+      "a subscriber",
+      "an allottee",
+      "an underwriter"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-267-1432",
+    "questionText": "Given:\nNet profit-----------------------₦25,000\nCost of sale---------------------₦25,000\nSales----------------------------₦85,000\nDetermine the total expenses. (JAMB 1997)",
+    "options": [
+      "₦45,000",
+      "₦35,000",
+      "₦25,000",
+      "₦15,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Find Gross Profit\n\nGross Profit = Sales − Cost of Sales = ₦85,000 − ₦25,000 = ₦60,000\nStep 2: Relate Net Profit and Expenses\n\nNet Profit = Gross Profit − Total Expenses\nTotal Expenses = Gross Profit − Net Profit = ₦60,000 − ₦25,000 = ₦35,000"
+  },
+  {
+    "id": "accounting-1788725100378-268-830",
+    "questionText": "From Zahki Plc's balance sheet as at 31st December 1997, the company has the following financial position: On the equity and liabilities side - Paid up capital of ₦200,000, Share premium of ₦15,000, Profit and loss account balance of ₦60,000, Long-term loan of ₦180,000, Creditors of ₦200,000, and Other current liabilities of ₦100,000, totaling ₦755,000. On the assets side - Fixed assets of ₦300,000, Investment of ₦180,000, Stock of ₦28,000, Debtors of ₦90,000 with a provision of ₦3,000 making net debtors ₦87,000, Cash of ₦60,000, and Bank of ₦100,000, also totaling ₦755,000. Determine the owner's equity? (JAMB 2021)",
+    "options": [
+      "₦275,000",
+      "₦200,000",
+      "₦755,000",
+      "₦215,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Owner’s equity (total shareholders’ funds) is the sum of:\n\nPaid‑up capital: ₦200,000\n\nShare premium: ₦15,000\n\nRetained profit (Profit & Loss account): ₦60,000\n\nSo,\n\n\nOwner’s Equity = 200,000 + 15,000 + 60,000 = ₦275,000."
+  },
+  {
+    "id": "accounting-1788725100378-269-1288",
+    "questionText": "A fixed cost is fixed only in relation to? (JAMB 2000)",
+    "options": [
+      "the quality of goods produced",
+      "the quantity of goods sold",
+      "a given period of time and a range of activities",
+      "a given period of time and the nature of activity"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A fixed cost remains constant only over a specified time period and within a relevant range of activity levels."
+  },
+  {
+    "id": "accounting-1788725100378-270-65",
+    "questionText": "MORADE had total assets of N760,000, capital stock of N150,000 and retained earnings of N215,000. What was Morade's debt-to-equity ratio?  (JAMB 2013)",
+    "options": [
+      "2.63",
+      "1.08",
+      "0.52",
+      "0.48"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-271-496",
+    "questionText": "Which of the following is an item in the debit side of the sales ledger control account? (JAMB 2009)",
+    "options": [
+      "Interest charged by suppliers",
+      "Bills receivable honoured",
+      "Transfer of credit balances from credit control account",
+      "Transfer of debit balances from creditors control account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-272-1258",
+    "questionText": "X and Y are two departments that are to share 50% of all joint costs equally and the balance in ratio 2:1. If a sum of ₦150,000 is incurred jointly, what will be the portion attributable to X? (JAMB 2001)",
+    "options": [
+      "₦37,500",
+      "₦62,500",
+      "₦87,500",
+      "₦100,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Step 1: Split the total cost\nTotal joint cost = ₦150,000\n\n50% to be shared equally = ₦150,000 × 50% = ₦75,000\nRemaining 50% to be shared in ratio 2:1 = ₦150,000 × 50% = ₦75,000\n\nStep 2: Calculate X's share of the equally shared portion\nEqual sharing between X and Y:\nX's share = ₦75,000 ÷ 2 = ₦37,500\nStep 3: Calculate X's share of the ratio-based portion\nSharing in ratio 2:1 means:\n\nTotal ratio parts = 2 + 1 = 3\nX's ratio = 2/3\nX's share = ₦75,000 × (2/3) = ₦50,000\n\nStep 4: Calculate X's total portion\nX's total share = Equal share + Ratio share\nX's total share = ₦37,500 + ₦50,000 = ₦87,500"
+  },
+  {
+    "id": "accounting-1788725100378-273-329",
+    "questionText": "The accounting concept that states that a firm’s financial affairs must be separated from that of the owner’s private transactions is (JAMB 2015)",
+    "options": [
+      "business entity",
+      "going concern",
+      "consistency",
+      "duality"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-274-1274",
+    "questionText": "The most convenient cash book used by a petty trader operating in an area where there is no banking facility is? (JAMB 2000)",
+    "options": [
+      "four column",
+      "three column",
+      "single column",
+      "two column"
+    ],
+    "correctAnswer": "C",
+    "explanation": "For a petty trader operating in an area where there is no banking facility, the most convenient cash book would be a single column cash book."
+  },
+  {
+    "id": "accounting-1788725100378-275-166",
+    "questionText": "Which of the following expenses relate to the profit and loss account of a manufacturing firm? (JAMB 2016)",
+    "options": [
+      "Administrative overhead.",
+      "Direct labour",
+      "Direct materials.",
+      "Work-in-progress."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-276-253",
+    "questionText": "The balance as per bank statement is (JAMB 2006)",
+    "options": [
+      "D10,900",
+      "D8,400",
+      "D5,600",
+      "D2,800"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-277-20",
+    "questionText": "  Prepaid wages is an item in the (i)Balance Sheet (ii) Profit and loss account (iii)Trading  account (iv) Cash account  (JAMB 2010)",
+    "options": [
+      "i, ii, iii only",
+      "ii, iii",
+      "i, ii",
+      "iii, iv"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-278-107",
+    "questionText": "In departmental accounts, administrative expenses are recorded in the (JAMB 2013)",
+    "options": [
+      "Trading Account.",
+      "Balance Sheet.",
+      "Profit and Loss Account.",
+      "Profit and Loss Appropriation Account."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-279-286",
+    "questionText": "Capital expenditure for the year was (JAMB 2012)",
+    "options": [
+      "Le 545,000",
+      "Le 490,000",
+      "Le 450,000",
+      "Le 300,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-280-904",
+    "questionText": "Which of these is not a subsidiary books? (JAMB 2023)",
+    "options": [
+      "sales day book",
+      "purchase day book",
+      "credit note",
+      "return inward day book"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The subsidiary book is a book of original entr or prime entry which consists of: purchases day book, sales day book, returns inwards day book, returns outward day book, cash book, journal, petty cash book."
+  },
+  {
+    "id": "accounting-1788725100378-281-1302",
+    "questionText": "An item of appropriation in partnership profit and loss account is? (JAMB 2000)",
+    "options": [
+      "interest on partners' capital",
+      "interest on partners' loan",
+      "employees' salaries",
+      "partners' drawings"
+    ],
+    "correctAnswer": "A",
+    "explanation": "An appropriation item in the partnership Profit & Loss Appropriation Account is one that deals with the distribution of net profit after it has been determined.\n\nInterest on partners’ capital is credited to the partners out of profit and is therefore an appropriation.\n\nInterest on partners’ loans, employees’ salaries, and partners’ drawings are expenses or withdrawals, not profit appropriations."
+  },
+  {
+    "id": "accounting-1788725100378-282-621",
+    "questionText": "Use the following information for the period: the opening debtors balance is ₦4,000; the closing debtors balance is ₦1,500; cash received from debtors totals ₦8,500; bad debts written off amount to ₦350; discount allowed to customers is ₦500; and discount received from customers is ₦1,000. If the gross profit for the period is ₦5,000, what is the net profit? (JAMB 2017)",
+    "options": [
+      "₦4,350",
+      "₦6,000",
+      "₦5,150",
+      "₦4,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Net profit = Gross profit − Bad debts − Discount allowed + Discount received\n= ₦5,000 − ₦350 − ₦500 + ₦1,000 = ₦5,150"
+  },
+  {
+    "id": "accounting-1788725100378-283-500",
+    "questionText": "Receipts and payments account is a summary of the (JAMB 2009)",
+    "options": [
+      "budget",
+      "trading account",
+      "cash book",
+      "profit and loss account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-284-715",
+    "questionText": "Transactions are recorded or posted to the ledger in line with (JAMB 2019)",
+    "options": [
+      "Accounting Concept",
+      "Source document",
+      "Double Entry Principle",
+      "Data collection"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The main principle of double-entry system is that for every debit there is a corresponding credit for an equal amount of money and for every credit there is a corresponding debit for an equal amount of money; i.e. for every transaction one account is debited for, the amount of transaction and the other account is also credited."
+  },
+  {
+    "id": "accounting-1788725100378-285-1414",
+    "questionText": "If a monthly insurance premium is remitted to a company by the state government, the initial deductions from employees are recorded in? (JAMB 199)",
+    "options": [
+      "the general fund",
+      "agency fund",
+      "special fund",
+      "general long-term fund"
+    ],
+    "correctAnswer": "B",
+    "explanation": "When a government entity (like the state) collects and remits insurance premiums on behalf of employees, it’s acting as an agent, not as the principal. These collections are recorded in an agency fund, which tracks resources held temporarily for others and ensures they’re remitted properly without affecting the government’s own operating results."
+  },
+  {
+    "id": "accounting-1788725100378-286-895",
+    "questionText": "From the following information: Stock on Jan 1 is ₦2,600, Purchases amount to ₦4,000, Carriage inwards is ₦500, Sales total ₦9,000, and Carriage outwards is ₦500. Determine the net profit. (JAMB 2023)",
+    "options": [
+      "₦4,000",
+      "₦4,500",
+      "₦5,000",
+      "₦1,400"
+    ],
+    "correctAnswer": "D",
+    "explanation": "COGS = Opening Stock + Purchases + Carriage Inwards\n= ₦2,600 + ₦4,000 + ₦500\n= ₦7,100\n\nGross Profit = Sales – COGS\n= ₦9,000 – ₦7,100\n= ₦1,900\n\nNet Profit = Gross Profit – Carriage Outwards\n= ₦1,900 – ₦500\n= ₦1,400"
+  },
+  {
+    "id": "accounting-1788725100378-287-785",
+    "questionText": "In the head office ledger, the value of goods sent to the branch are (JAMB 2020)",
+    "options": [
+      "debited to the branch current account",
+      "debited to the head office current account",
+      "credited to the head office current account",
+      "credited to the branch current account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "In the head office’s ledger, each branch has its own current (or “branch”) account. When goods are sent from head office to a branch, the head office debited the Branch Current Account (reflecting an asset transfer to the branch) and credited the Head Office’s Inventory or Stock Account. This debit entry increases the branch’s account balance, showing the value of goods supplied."
+  },
+  {
+    "id": "accounting-1788725100378-288-637",
+    "questionText": "The movement of goods from head office to a branch is treated in the head office as (JAMB 2017)",
+    "options": [
+      "Sales",
+      "issue",
+      "purchases",
+      "requisition"
+    ],
+    "correctAnswer": "B",
+    "explanation": "When the head office sends goods to a branch, it doesn’t record a sale or purchase; instead it debits the Branch Account (or Branch Stock Account) and credits the Head Office’s Stock Account as an issue of goods to the branch."
+  },
+  {
+    "id": "accounting-1788725100378-289-1252",
+    "questionText": "Where a company acquires controlling shares of another and the consideration is paid in cash, the entries in the books of the purchases are debit?` (JAMB 2001)",
+    "options": [
+      "investment and credit cash",
+      "investment and credit shares",
+      "purchases and credit cash",
+      "purchases and credit shares"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct entry is to debit Investment (to recognize the acquisition of the subsidiary’s shares) and credit Cash (to record the outflow of cash)."
+  },
+  {
+    "id": "accounting-1788725100378-290-345",
+    "questionText": "The source document used to make entries in the purchases day book is (JAMB 2014)",
+    "options": [
+      "debit note",
+      "credit note",
+      "invoice",
+      "receipt"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-291-356",
+    "questionText": "The accumulated depreciation as at 31/12/2013 is (JAMB 2014)",
+    "options": [
+      "N18,500",
+      "N17,000",
+      "N16,000",
+      "N8,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-292-1182",
+    "questionText": "<b>Use the information below to answer questions 18 and 19.</b>\n\nStock of raw materials (1st January) ₦3000\n\nDirect wages ₦2500\n\nDirect expenses ₦1000\n\nFactory overheads ₦2000\n\nCost of raw materials used ₦5500\n\nStock of finished goods (31st December) ₦2000\n\nDetermine the prime cost? (JAMB 2002)",
+    "options": [
+      "₦7500",
+      "₦6500",
+      "₦9000",
+      "₦8000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Prime cost = Direct materials used + Direct wages + Direct expenses\n\nWe’re told:\n\nCost of raw materials used = ₦5,500\n\nDirect wages = ₦2,500\n\nDirect expenses = ₦1,000\n\nPrime cost = ₦5,500 + ₦2,500 + ₦1,000\n= ₦9,000"
+  },
+  {
+    "id": "accounting-1788725100378-293-582",
+    "questionText": "Badge Plc issued 450,000 ordeinary shares of 50,000 each at ₦1.50 per share\nApplication and allotment 45,000\n1st call 50,000\n2nd call 55,000\n\nDetermine the amount received on final call. (JAMB 2016)",
+    "options": [
+      "₦225,000",
+      "₦236,250",
+      "₦247,500",
+      "₦202,500"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The shares were paid up in three instalments totaling ₦1.50 each (₦0.45 on application & allotment, ₦0.50 on 1st call, ₦0.55 on 2nd/final call).\nThus for the final call you simply multiply the number of shares (450 000) by the final call amount per share (₦0.55), giving ₦247 500."
+  },
+  {
+    "id": "accounting-1788725100378-294-445",
+    "questionText": "What would be the total amount received on second call? (JAMB 2007)",
+    "options": [
+      "N 240, 000",
+      "N 280 ,000",
+      "N 40,000",
+      "N 56,000."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-295-1289",
+    "questionText": "One of the shortcomings of single entry procedures is that? (JAMB 2000)",
+    "options": [
+      "a trial balance is not available",
+      "profits are overestimated",
+      "there are no subsidiary books",
+      "there are no control accounts"
+    ],
+    "correctAnswer": "A",
+    "explanation": "A key shortcoming of single‐entry systems is that no trial balance can be prepared, since transactions aren’t recorded in full double‐entry form."
+  },
+  {
+    "id": "accounting-1788725100378-296-1231",
+    "questionText": "<b>Use the information below to answer questions 17 and 18.</b> \n\nWhat is the stock valuation method used? (JAMB 2001)",
+    "options": [
+      "Last In First Out",
+      "First In First Out.",
+      "Average cost",
+      "Weighted average."
+    ],
+    "correctAnswer": "A",
+    "explanation": "(1) Stock valuation method used:\nLooking at the pattern of unit prices and amounts:\n\nJan. 1: 100 units at ₦5.00 each = ₦500.00\nJan. 5: 50 units at ₦6.00 each = ₦300.00\nJan. 7: Issue of 40 units at ₦6.00 each = ₦240.00 (using the most recent purchase price)\nJan. 10: 50 units at ₦4.00 each = ₦200.00\nJan. 15: Issue of 50 units at ₦4.00 each = ₦200.00 (using the most recent purchase price)\n\nThe stock valuation method used is LIFO (Last In, First Out) because the issues are priced at the most recent purchase prices."
+  },
+  {
+    "id": "accounting-1788725100378-297-98",
+    "questionText": "Which of the following is recorded on the debit side of the Trial Balance? (JAMB 2013)",
+    "options": [
+      "Bank overdraft",
+      "Returns outwards",
+      "Purchases",
+      "Capital"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-298-858",
+    "questionText": "Given the following excerpt from incomplete records—Sales ₦10,600; Rent ₦200; Depreciation on a vehicle (cost ₦5,000) at 10%; and a uniform gross profit margin of 20%—what is the Cost of Goods Sold for the period? (JAMB 2022)",
+    "options": [
+      "₦4,800",
+      "₦8,480",
+      "₦2,320",
+      "₦9,900"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Gross profit = 20% of sales = 0.20 × ₦10,600 = ₦2,120\nCost of Goods Sold = Sales − Gross Profit = ₦10,600 − ₦2,120 = ₦8,480."
+  },
+  {
+    "id": "accounting-1788725100378-299-1205",
+    "questionText": "<b>Use the information below to answer questions 40 and 41.</b>\n\nPurchases:\n\nDate: January 2nd, Qty (units): 500, Rate (₦): 25, Total (₦): 12,500\nDate: March 7th, Qty (units): 250, Rate (₦): 28, Total (₦): 7,000\n\nIssues were made as follow:\n\nDate: January 9th, Qty (units): 300\nDate: February 14th, Qty (units): 200\nDate: March 11th, Qty (units): 200\n\nThe value of closing stock as at February 14th by simple average method is? (JAMB 2002)",
+    "options": [
+      "₦6,625",
+      "₦2,500",
+      "₦4,100",
+      "₦2,700."
+    ],
+    "correctAnswer": "A",
+    "explanation": "Step 1: Calculate simple average cost\nAverage cost = (₦25 + ₦28) ÷ 2 = ₦26.50 per unit\nStep 2: Determine remaining units as at February 14th\n\nTotal purchased: 500 + 250 = 750 units\nTotal issued by Feb 14th: 300 + 200 = 500 units\nRemaining: 750 - 500 = 250 units\n\nStep 3: Calculate closing stock value\nClosing stock = 250 units × ₦26.50 = ₦6,625"
+  },
+  {
+    "id": "accounting-1788725100378-300-352",
+    "questionText": "Which of the following transactions will result in disagreement between the cash book and the bank statement? (JAMB 2014)",
+    "options": [
+      "Selling of goods on credit to a customer",
+      "Withdrawal of goods by the proprietor for his personal use",
+      "Cheque paid directly into the bank account by a customer",
+      "Omission of purchases received from a supplier on credit"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-301-595",
+    "questionText": "I. Members subscription\nII. Fines from members\nIII. Donation\nIV. Loan from bank\n\nFrom the information above, sources of income for a Not-for-profit-making organization include (JAMB 2016)",
+    "options": [
+      "I,III,IV",
+      "I,II,III",
+      "I,II,IV",
+      "I and IV"
+    ],
+    "correctAnswer": "B",
+    "explanation": "In a not-for-profit organization, income arises from voluntary receipts and charges related to its activities, such as:\n\nMembers’ subscriptions (I)\n\nFines levied on members (II)\n\nDonations (III)\n\nA loan from a bank (IV), by contrast, is not income but a liability that must be repaid."
+  },
+  {
+    "id": "accounting-1788725100378-302-277",
+    "questionText": "Rent accrued in 2009 was D140. In 2010, D900 was paid while D160 was outstanding. Rent for 2010 was (JAMB 2012)",
+    "options": [
+      "D1,200.",
+      "D1.060.",
+      "D920.",
+      "D880."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100378-303-411",
+    "questionText": "What is the figure for purchases? (JAMB 2004)",
+    "options": [
+      "N 2,400",
+      "N 2,500",
+      "N 4,200",
+      "N 5,200"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-304-203",
+    "questionText": "The amount of a company’s profit given to a shareholder is known as (JAMB 1997)",
+    "options": [
+      "premium",
+      "dividend",
+      "interest",
+      "allotment"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100378-305-959",
+    "questionText": "Which of the following is a subsidiary book as well as a ledger? (JAMB 2024)",
+    "options": [
+      "purchases day book",
+      "returns outward book",
+      "general journal",
+      "cash book"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The cash book is unique because it eliminates the need for a separate cash account in the ledger, as it functions as both the book of original entry for cash transactions and as the actual cash ledger account itself."
+  },
+  {
+    "id": "accounting-1788725100378-306-1330",
+    "questionText": "Chibuike bought 36 notebooks at ₦10 each from John and was given a trade discount of 5%. In addition, he was offered 1% cash discount which he took advantage of. How much did Chibuike pay? (JAMB 1999)",
+    "options": [
+      "₦338.58",
+      "₦342.00",
+      "₦345.42",
+      "₦360,00"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find how much Chibuike paid, Calculate the price after applying both the trade discount and cash discount.\nGiven information:\n\n36 notebooks at ₦10 each\nTrade discount: 5%\nCash discount: 1% (taken)\n\nStep 1: Calculate gross amount\nGross amount = 36 × ₦10 = ₦360\nStep 2: Apply trade discount\nTrade discount = ₦360 × 5% = ₦18\nAmount after trade discount = ₦360 - ₦18 = ₦342\nStep 3: Apply cash discount\nCash discount = ₦342 × 1% = ₦3.42\nFinal amount paid = ₦342 - ₦3.42 = ₦338.58\nVerification:\n\nGross: ₦360\nLess trade discount (5%): ₦18\nNet: ₦342\nLess cash discount (1%): ₦3.42\nAmount paid: ₦338.58"
+  },
+  {
+    "id": "accounting-1788725100378-307-686",
+    "questionText": "Adex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch: Stock at branch 1st January at cost ₦400, Goods sent to branch at cost ₦8000, Returns to head office ₦340, Cash sales ₦9160, Stock at branch 31st December at cost ₦720. Use the information to answer the question.  calculate the gross profit (JAMB 2018)",
+    "options": [
+      "₦1870",
+      "₦1530",
+      "₦1640",
+      "₦1820"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Gross Profit = Sales - Cost of Goods Sold….. Cost of Goods Sold = Opening Stock + Goods Sent - Returns - Closing Stock\n= ₦400 + ₦8,000 - ₦340 - ₦720\n= ₦7,340…. Gross Profit = Sales - Cost of Goods Sold\n= ₦9,160 - ₦7,340 = ₦1,820\nThe branch made a gross profit of ₦1,820 for the period."
+  },
+  {
+    "id": "accounting-1788725100378-308-96",
+    "questionText": "The accumulated fund of a not-for-profit making organization is (JAMB 2013)",
+    "options": [
+      "a fixed asset.",
+      "a current asset.",
+      "a liability.",
+      "capital."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100378-309-177",
+    "questionText": "Which of the following is not a capital expenditure to a local government? (JAMB 1997)",
+    "options": [
+      "Beds",
+      "Theatre equipment",
+      "Incubators",
+      "Drugs"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100378-310-417",
+    "questionText": "Where the debit side of the income and expenditure account is higher than the credit side, the difference is (JAMB 2004)",
+    "options": [
+      "deficit",
+      "surplus",
+      "gain",
+      "loss"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-311-446",
+    "questionText": "The total amount of money received on application was (JAMB 2007)",
+    "options": [
+      "N 5600,00",
+      "N 220,000",
+      "N 800, 000",
+      "N 1 000 000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100378-312-611",
+    "questionText": "A business has the following information for a particular period:\nCreditors had an opening balance of ₦3,000 and a closing balance of ₦4,000. Debtors had a closing balance of ₦6,000 but the opening balance is not given. During the period, cash received from debtors was ₦35,000, cash paid to suppliers was ₦25,000, discount allowed to customers was ₦4,000, and discount received from suppliers was ₦4,200.\nWhat is the total sales for the period? (JAMB 2016)",
+    "options": [
+      "₦37,000",
+      "₦36,000",
+      "₦45,000",
+      "₦40,500"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To find total sales, work with the debtors account movement:\nDebtors Account Analysis:\n\nCash received from debtors: ₦35,000\nDiscount allowed to customers: ₦4,000\nClosing balance: ₦6,000\n\nUsing the debtors account formula:\nOpening Balance + Sales - Cash Received - Discount Allowed = Closing Balance\nLet Opening Balance = X and Sales = S\nX + S - 35,000 - 4,000 = 6,000\nX + S = 45,000\nSince we need total sales and the opening balance of debtors would be zero or the sales figure itself represents the period's activity:\nTotal Sales = ₦45,000"
+  },
+  {
+    "id": "accounting-1788725100378-313-1209",
+    "questionText": "Given:\n\nSales ............................₦195,200\nStock 1st January.................₦34,000\nPurchases ........................₦126,000\nSales returns ....................₦1,200\nPurchases returns ................₦2,000\n\nIf the gross profit is ₦66,000, what is the value of stock at 31st December? (JAMB 2002)",
+    "options": [
+      "₦30,000",
+      "₦40,000",
+      "₦50000",
+      "₦20,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Net sales = ₦195,200 − ₦1,200 = ₦194,000\nCOGS = Net sales − Gross profit = ₦194,000 − ₦66,000 = ₦128,000\n\nNet purchases = ₦126,000 − ₦2,000 = ₦124,000\nCOGS = Opening stock + Net purchases − Closing stock\n128,000 = 34,000 + 124,000 − Closing stock = 158,000 − Closing stock\n\nClosing stock = 158,000 − 128,000 = ₦30,000"
+  },
+  {
+    "id": "accounting-1788725100378-314-363",
+    "questionText": "Net profit in a business is (JAMB 2014)",
+    "options": [
+      "the amount of money taken out of the business by the owner",
+      "the cash in the business bank account",
+      "the difference between sales and cost of sales",
+      "sale revenue less cost of sales and expenses"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100378-315-578",
+    "questionText": "A receipt is an evidence of (JAMB 2016)",
+    "options": [
+      "payments",
+      "stocking",
+      "delivery",
+      "discounts"
+    ],
+    "correctAnswer": "A",
+    "explanation": "A receipt is a written acknowledgment of having received, or taken into one's possession, a specified amount of money, goods, etc."
+  },
+  {
+    "id": "accounting-1788725100379-316-636",
+    "questionText": "Given:\nI. It records subscription in arrears\nII. Payments of liabilities is effected\nIII. The account does not show if cash payment is revenue or capital expenditure\nIV. It performs the same function as cashbook\nThe features of receipts and payment account includes (JAMB 2017)",
+    "options": [
+      "I, II and IV",
+      "II,III and IV",
+      "III and IV",
+      "I, II and III"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A Receipts and Payments Account:\n\nII. Records the payment of liabilities as they’re settled in cash.\n\nIII. Does not distinguish whether cash payments are for revenue or capital items.\n\nIV. Functions in the same way as a cashbook, summarizing all cash and bank receipts and payments.\n\nIt does not record transactions on an accrual basis (so it does not capture subscriptions in arrears), making statement I incorrect."
+  },
+  {
+    "id": "accounting-1788725100379-317-8",
+    "questionText": "At the end of a trading period, wages will be   (JAMB 2010)",
+    "options": [
+      "debited to trading account and shown as a current liability",
+      "credited to profit and loss Account and shown as a current liability",
+      "credited to trading account and shown as a current asset",
+      "debited to profit and loss account and shown as a current liability"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-318-940",
+    "questionText": "An example of accounts in the nominal ledger is (JAMB 2024)",
+    "options": [
+      "debtors",
+      "drawings",
+      "creditors",
+      "machineries"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The nominal ledger, also sometimes called the general ledger, is the main book of accounts used in a double- entry bookkeeping system. It records all the financial transactions of a business during an accounting period. These transactions are categorized into different types of accounts."
+  },
+  {
+    "id": "accounting-1788725100379-319-962",
+    "questionText": "A person who prepares, analyses and interprets financial statements is known as a/an (JAMB 2024)",
+    "options": [
+      "cashier",
+      "book keeper",
+      "accountant",
+      "analyst"
+    ],
+    "correctAnswer": "C",
+    "explanation": "An accountant reviews and analyses financial records, keeping track of a company's or individual's income, expenditures, and tax liabilities. An accountant may also be involved in project planning, cost analysis, auditing, and financial decision-making."
+  },
+  {
+    "id": "accounting-1788725100379-320-956",
+    "questionText": "Which of the following bodies regulates accounting practices in Nigeria? (JAMB 2024)",
+    "options": [
+      "NIT",
+      "NIB",
+      "EFCC",
+      "ANAN"
+    ],
+    "correctAnswer": "D",
+    "explanation": "In Nigeria, there are two main professional accountancy associations with regulatory power:\nInstitute of Chartered Accountants of Nigeria (ICAN): This is the older and more widely recognized body. Association of National Accountants of Nigeria (ANAN): This is another recognized professional accountancy body."
+  },
+  {
+    "id": "accounting-1788725100379-321-714",
+    "questionText": "The major source of document which enables employer to calculate  the employee wages  is the? (JAMB 2018)",
+    "options": [
+      "norminal roll of employees",
+      "records of number of hours worked",
+      "effort of the employee",
+      "Record of independence per employee"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The numbers of hours worked is the period of time that a person spends at paid labour. This means that, an employee pay roll is prepared by calculating the number of hours that employee spend working for his or her employer. The wages / salaries of that employee is subject to hourly rate. ( the more time you spend at work, the more the pay).\n\nIt is however worthy to note that, not all employees / employers practice this payment method."
+  },
+  {
+    "id": "accounting-1788725100379-322-729",
+    "questionText": "Ojo, Sam and Ade are in partnership sharing profit in the ratio 4:3:1 respectively. From their books for the year ended, interest on drawings and capital is allowed at 5% respectively, and profit for the year amounted to ₦4,950. What is Ojo's share of profit? (JAMB 2019)",
+    "options": [
+      "₦7,000",
+      "₦2,475",
+      "₦3,000",
+      "₦991.8"
+    ],
+    "correctAnswer": "B",
+    "explanation": "To find Ojo's share of profit:\nThe profit sharing ratio is 4:3:1 (Ojo : Sam : Ade)\nTotal ratio = 4 + 3 + 1 = 8 parts\nOjo's share = (4/8) × Total Profit\nOjo's share = (4/8) × ₦4,950\nOjo's share = (1/2) × ₦4,950\nOjo's share = ₦2,475\nTherefore, Ojo's share of profit is ₦2,475."
+  },
+  {
+    "id": "accounting-1788725100379-323-350",
+    "questionText": "The accounting treatment for a dishonoured cheque is; debit (JAMB 2014)",
+    "options": [
+      "Customer’s Account; Credit Bank Account",
+      "Bank Account; Credit Customer’s Account",
+      "Customer’s Account; Credit Sales Account",
+      "Sales Account; Credit Customer’s Account\\"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-324-262",
+    "questionText": "A fixed asset fully written-down by a trader is now considered to be worth N5,000. The double entry required to effect       this is: debit (JAMB 2012)",
+    "options": [
+      "Asset Account; credit Purchases Account.",
+      "Asset Account; credit Capital Account.",
+      "Capital Account; credit Asset Account.",
+      "Capital Account; credit Profit and Loss Account."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-325-1368",
+    "questionText": "An advantage of the use of the voucher system is that it? (JAMB 1998)",
+    "options": [
+      "reduces the number of cheques that will be writen during any given period",
+      "provides a highly flexible system for handling unusual transactions",
+      "provides a comprehensive record of business done with particular suppliers",
+      "ensure that every expenditure is reviewed and verified before payment is made"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The voucher system is an internal control mechanism used to authorize and verify expenditures before payments are made. It typically involves preparing a voucher that summarizes the details of a transaction (invoice, purchase order, receipts, etc.) and requires approval before issuing payment.\n\nThis process:\n\nEnsures accuracy\n\nPrevents unauthorized spending\n\nProvides an audit trail"
+  },
+  {
+    "id": "accounting-1788725100379-326-32",
+    "questionText": "A cheque which has been sent but has yet gone through the bank account of the receiver of it is known as: (JAMB 2011)",
+    "options": [
+      "Dishonoured cheque",
+      "Unpresented cheque",
+      "Uncredited cheque",
+      "Unhonoured cheque"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-327-1228",
+    "questionText": "<b>Use the information below to answer questions 14 and 15</b>\n\n\nPalaju Enterprises had fixed assets of ₦3,100,000 at the end of the year. \nFixed assets costing ₦900,000 with provision for depreciation of ₦150,000 were disposed of during the period. \nFixed assets of ₦100,000 were added during the year. Provision for depreciation was ₦350,000 at the beginning of the year and ₦300,000 at the end of the year.\n\nWhat was the value of fixed assets at the beginning of the year? (JAMB 2001)",
+    "options": [
+      "₦2,900,000",
+      "₦3,800,000",
+      "₦3,900,000",
+      "₦4,000,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Opening Balance + Additions - Disposals = Closing Balance\nRearranging to find Opening Balance:\nOpening Balance = Closing Balance + Disposals - Additions\nSubstituting the values:\nOpening Balance = ₦3,100,000 + ₦900,000 - ₦100,000\nOpening Balance = ₦4,000,000 - ₦100,000 = ₦3,900,000"
+  },
+  {
+    "id": "accounting-1788725100379-328-1237",
+    "questionText": "<b>Use the information below to answer questions 22 and 23</b>\n\n\nUsing the given balance sheet information for 31/12/98 and 31/12/99, What is the capital from the opening balance sheet?.\nGiven data:\n\n31/12/98: Plant & Machinery ₦1,500, Fixtures ₦700, Stock ₦500, Debtors ₦900, Cash ₦200, Creditors ₦500, Loan ₦600\n31/12/99: Plant & Machinery ₦1,200, Fixtures ₦520, Stock ₦600, Debtors ₦400, Cash ₦300, Creditors ₦600, Loan ₦401 (JAMB 2001)",
+    "options": [
+      "₦3,600",
+      "₦2,700",
+      "₦2,070",
+      "₦1520"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Using the accounting equation: Assets = Liabilities + Capital\nRearranging: Capital = Assets - Liabilities\nAssets as at 31/12/98:\n\nPlant & Machinery: ₦1,500\nFixtures: ₦700\nStock: ₦500\nDebtors: ₦900\nCash: ₦200\nTotal Assets = ₦3,800\n\nLiabilities as at 31/12/98:\n\nCreditors: ₦500\nLoan: ₦600\nTotal Liabilities = ₦1,100\n\nCapital = Total Assets - Total Liabilities\nCapital = ₦3,800 - ₦1,100 = ₦2,700\nTherefore, the capital from the opening balance sheet is ₦2,700."
+  },
+  {
+    "id": "accounting-1788725100379-329-649",
+    "questionText": "A business has the following information for the year: Debtors opening ₦4,000, Debtors closing ₦1,500, Cash received from debtors ₦8,500, Bad debts written off ₦350, Discount allowed ₦500, Discount Received ₦1,000. What is the amount of sales for the year? (JAMB 2017)",
+    "options": [
+      "₦3850",
+      "₦6650",
+      "₦1550",
+      "₦6850"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Using the debtors account to find sales:\nDebtors Account Movement:\nOpening Balance + Sales - Cash Received - Bad Debts - Discount Allowed = Closing Balance\nSubstituting the values:\n₦4,000 + Sales - ₦8,500 - ₦350 - ₦500 = ₦1,500\nSolving for Sales:\n₦4,000 + Sales - ₦9,350 = ₦1,500\nSales = ₦1,500 + ₦9,350 - ₦4,000\nSales = ₦10,850 - ₦4,000\nSales = ₦6,850\nNote: Discount received (₦1,000) is not relevant to the debtors account as it relates to creditors/suppliers, not customers.\nThe sales for the year is ₦6,850."
+  },
+  {
+    "id": "accounting-1788725100379-330-37",
+    "questionText": "Which of the following is not a business asset? (JAMB 2011)",
+    "options": [
+      "Deposit account in bank",
+      "Interest due on loan",
+      "Five acres of land",
+      "Library books owned by a lawyer"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-331-495",
+    "questionText": "Which of the following is a debit item in the purchases ledger control account? (JAMB 2009)",
+    "options": [
+      "Balance b/d",
+      "Cheque dishonoured",
+      "Purchases",
+      "Balance c/d"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-332-1081",
+    "questionText": "<b>Use the information below to answer questions 17 and 18</b>\n\nGiven Information:\n\nOpening balance: ₦10,640\nPurchases: ₦26,912\nReturns inwards: ₦492\nReturns outwards: ₦810\nCash discount received: ₦1,348\nCash discount allowed: ₦1,560\nCash paid to suppliers: ₦20,808\n\nAt the year-end, the purchases ledger showed a\ndebit balance of: ₦108\n\n\nThe total on the debit side of the purchase ledger control account will be: (JAMB 2004)",
+    "options": [
+      "₦23,074.",
+      "₦2,215",
+      "₦21,834",
+      "₦21,054"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Workings (debit entries of the purchases ledger control account):\n\nCash paid to suppliers: ₦20,808\n\nReturns outwards (purchases returns): ₦810\n\nCash discount received: ₦1,348\n\nClosing debit balance shown in ledger: ₦108\n— Total = ₦20,808 + ₦810 + ₦1,348 + ₦108 = ₦23,074."
+  },
+  {
+    "id": "accounting-1788725100379-333-206",
+    "questionText": "Rent receivable is a (JAMB 1997)",
+    "options": [
+      "current asset",
+      "current liability",
+      "contingent liability",
+      "fictitious asset"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-334-679",
+    "questionText": "Calls in advance are treated in the balance sheet as_______ (JAMB 2018)",
+    "options": [
+      "Current asset",
+      "Fixed asset",
+      "Current liability",
+      "Fixed liability"
+    ],
+    "correctAnswer": "C",
+    "explanation": "calls in advance is treated as a current liability until the calls are made and the amount actually becomes payable by the shareholders"
+  },
+  {
+    "id": "accounting-1788725100379-335-1299",
+    "questionText": "The Partnership Deed normally specifies? (JAMB 2000)",
+    "options": [
+      "how profit or losses are to be shared",
+      "the capital to be contributed annually",
+      "how salaries are paid to employees",
+      "the profit that should be earned annually"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Partnership Deed typically sets out the partners’ profit-and-loss sharing ratio"
+  },
+  {
+    "id": "accounting-1788725100379-336-117",
+    "questionText": "The cost of raw materials consumed is (JAMB 2013)",
+    "options": [
+      "GHc 58,000.",
+      "GHc 52,500.",
+      "GHc 52,000.",
+      "GHc 50,000."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-337-1388",
+    "questionText": "Derive the total sales figure from the following information extracted from a firm's cash book and other relevant records.\n\nTotal debtors b/f ₦ 5,600\nTotal cash receipts from debtors\nand cash sales ₦ 153,000\nTotal debtors c/f ₦ 6,800 (JAMB 199)",
+    "options": [
+      "₦6,800",
+      "₦153,000",
+      "₦154,200",
+      "₦159,800"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Using the debtors’ account approach:\n\nSales = Total cash receipts from debtors and cash sales + Closing debtors − Opening debtors\n=₦153,000 + ₦6,800 − ₦5,600\n=₦154,200\n​"
+  },
+  {
+    "id": "accounting-1788725100379-338-405",
+    "questionText": "The balancing figure in the purchases ledger control account is (JAMB 2004)",
+    "options": [
+      "N 15,828",
+      "N 15,720",
+      "N 14,940",
+      "N 14,694"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-339-629",
+    "questionText": "The authority warrant issued prior to the approval of the appropriate bill at the beginning of the year (JAMB 2017)",
+    "options": [
+      "provisional general warrant",
+      "annual general warrant",
+      "Reserved expenditure warrant",
+      "contigencies"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Provisional general warrant is issued by minister to enable money to be released for expenditure for the early of the year before the appropriation Act is passed"
+  },
+  {
+    "id": "accounting-1788725100379-340-70",
+    "questionText": "Posting  the  transactions   in bookkeeping means  (JAMB 2013)",
+    "options": [
+      "making the first entry of a double entry transaction",
+      "entering items in a cash book",
+      "making the second entry of a double entry transaction",
+      "something other than the above."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-341-1092",
+    "questionText": "<b>Use the information below to answer questions 28 and 29</b>\n\n\nOn January 1,2000, a club's assets and liabilities were as follows:\nClub house...................₦8,000\nSubscription.................₦300\nCash.........................₦1,000\nWages owed...................₦100\n\nThe club has 50 members and annual subscription is ₦100 per member.\nSubscription received is ₦4,000 and this includes 1999 arrears of ₦200.\n\nThe accumulated fund is? (JAMB 2004)",
+    "options": [
+      "₦9,400",
+      "₦9,300",
+      "₦9,200",
+      "₦9,100"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Step 1: Calculate Total Assets\nTotal Assets = Club house + Subscription receivable + Cash\nTotal Assets = ₦8,000 + ₦300 + ₦1,000\nTotal Assets = ₦9,300\nStep 2: Calculate Total Liabilities\nTotal Liabilities = Wages owed\nTotal Liabilities = ₦100\nStep 3: Calculate Accumulated Fund\nAccumulated Fund = Total Assets - Total Liabilities\nAccumulated Fund = ₦9,300 - ₦100\nAccumulated Fund = ₦9,200"
+  },
+  {
+    "id": "accounting-1788725100379-342-335",
+    "questionText": "The document which sets out the internal arrangement for the proper management of a company is the (JAMB 2015)",
+    "options": [
+      "prospectus",
+      "article of association",
+      "memorandum of association",
+      "certificate of incorporation"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100379-343-1292",
+    "questionText": "<b>Use the information below to answer questions 28 and 29</b>\n\nMaro Merchant Bank Plc is to issue 500,000 ordinary\nshares of 50k each at ₦ 3,000 per share. Applications\nwere received for 1,550,000 shares fully paid, 1,250,000\nshares are to be issued on a pro rata basis and excess\nsubscriptions were dishonored and refunds made\n\nThe refund due to an application for 25,000 shares is (JAMB 2000)",
+    "options": [
+      "₦45,000",
+      "₦30,000",
+      "₦7,500",
+      "₦5,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Applications were received for 1,550,000 shares, but only applications for 1,250,000 shares are considered for pro rata allotment. The applications for the remaining 300,000 shares are dishonored and fully refunded.\n\nThe 500,000 shares are issued on a pro rata basis to the considered applications (for 1,250,000 shares).\n\nThe allotment ratio is 500,000 / 1,250,000 = 0.4 (or 2/5), meaning each applicant receives 40% of the shares they applied for.\n\nFor an application of 25,000 shares (assumed to be part of the considered group):\n\nShares allotted = 0.4 × 25,000 = 10,000 shares.\n\nShares not allotted = 25,000 - 10,000 = 15,000 shares.\n\nThe issue price is ₦3.00 per share, so the amount paid for the application was 25,000 × ₦3.00 = ₦75,000.\n\nRefund for unallotted shares = 15,000 × ₦3.00 = ₦45,000.\n\nThus, the refund due is ₦45,000."
+  },
+  {
+    "id": "accounting-1788725100379-344-826",
+    "questionText": "The formular for calculating depreciation using straight line method is (JAMB 2021)",
+    "options": [
+      "Cost-scrap value/useful life",
+      "Scrap value + sales/useful life",
+      "Sales-scrap value/useful life",
+      "Purshases + sales/useful life"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The straight‐line method spreads the depreciable amount (original cost less residual value) evenly over the asset’s useful life. Therefore annual depreciation = (Cost – Scrap Value) ÷ Useful Life."
+  },
+  {
+    "id": "accounting-1788725100379-345-459",
+    "questionText": "What was the asset value at the beginning of the third year? (JAMB 2007)",
+    "options": [
+      "N 63 m",
+      "N 133 m",
+      "N 36m",
+      "N 28 m."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-346-998",
+    "questionText": "The entry in the partnership books of accounts for interest on drawings is to? (JAMB 2008)",
+    "options": [
+      "credit partners capital account",
+      "debit partners capital account",
+      "credit drawings account",
+      "debit drawings account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Interest on drawings is a charge against the partner for withdrawing money from the business for personal use"
+  },
+  {
+    "id": "accounting-1788725100379-347-54",
+    "questionText": "The receipt of cash from customers in a payment of their account would recorded by a (JAMB 2012)",
+    "options": [
+      "Debit to account receivable; credit to cash",
+      "b Debit to cash credit to accounts receivable",
+      "Debit to cash, credit to accounts payable",
+      "Debit to account payable credit to cash"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-348-1196",
+    "questionText": "The working capital of the club is (JAMB 2002)",
+    "options": [
+      "₦5,000",
+      "₦4,000",
+      "₦3,000",
+      "₦7,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Working Capital Calculation:\nCurrent Assets:\n\nStock: ₦3,500\nDebtors for subscriptions: ₦1,000\nBank: ₦1,500\nTotal Current Assets = ₦6,000\n\nCurrent Liabilities:\n\nCreditors for supplies: ₦2,000\nSubscriptions advance: ₦1,000\nTotal Current Liabilities = ₦3,000\n\nWorking Capital = Current Assets - Current Liabilities\nWorking Capital = ₦6,000 - ₦3,000 = ₦3,000"
+  },
+  {
+    "id": "accounting-1788725100379-349-950",
+    "questionText": "The amount paid by the buyer of a business which is sold as going concern is (JAMB 2024)",
+    "options": [
+      "purchase consideration",
+      "conversion fees",
+      "consolidation fees",
+      "premium fees"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Purchase consideration is the amount that's received by the vendor company (Seller) for the assets and liabilities takeover by the purchasing company in exchange for cash or in other forms, such as issuing shares or other securities."
+  },
+  {
+    "id": "accounting-1788725100379-350-31",
+    "questionText": "Final accounts of a company refers to:  (JAMB 2011)",
+    "options": [
+      "Trading and profit and loss account",
+      "Profit and loss account and balance sheet",
+      "Trading account and balance sheet",
+      "Trading , profit and loss account and balance sheet"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-351-61",
+    "questionText": "To arrive at the gross profit of a trading  business, which one of the following formulate is applied? (JAMB 2012)",
+    "options": [
+      "Sales - (Opening Stock-Purchases-Closing Stock)",
+      "Sales - (Opening stock + Purchases + Closing Stock)",
+      "Sales - (Opening stock + Purchases - Closing Stock)",
+      "Sales - (Opening stock - purchases + closing stock)"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100379-352-1002",
+    "questionText": "Ordinary shareholders received dividend before? (JAMB 2008)",
+    "options": [
+      "creditors",
+      "debtors",
+      "preference shareholders",
+      "deferred shareholders"
+    ],
+    "correctAnswer": "D",
+    "explanation": "In the order of dividend payment priority:\n\nPreference shareholders (highest priority)\nOrdinary shareholders\nDeferred shareholders (lowest priority)\n\nOrdinary shareholders receive dividends before deferred shareholders because deferred shares are specifically designed to receive dividends only after ordinary shareholders have been paid."
+  },
+  {
+    "id": "accounting-1788725100379-353-1337",
+    "questionText": "Manufacturing costs can be classified based on? (JAMB 1999)",
+    "options": [
+      "timing of charges degree of averaging and size of capital",
+      "degree of averaging, ease of traceability and timing of charges",
+      "degree of averaging, size of floor space occupied and cost accounts",
+      "number of employees, timing of charges and management style"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Degree of averaging, ease of traceability and timing of charges\n\nDegree of averaging:  Valid (actual vs. standard/average costs)\nEase of traceability:  Valid (direct vs. indirect costs)\nTiming of charges:  Valid (historical vs. predetermined costs)"
+  },
+  {
+    "id": "accounting-1788725100379-354-398",
+    "questionText": "The imprest account is subsidiary to the (JAMB 2004)",
+    "options": [
+      "ledger account",
+      "bank account",
+      "cash book",
+      "petty cash"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-355-290",
+    "questionText": "The excess of the value of assets over the purchase \tconsideration on acquisition of a business is credited to (JAMB 2012)",
+    "options": [
+      "share capital account.",
+      "goodwill account.",
+      "capital reserve account",
+      "general reserve account."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100379-356-841",
+    "questionText": "Forlah, a stock broker bought stationery for ₦12,000 by cash. To record this transaction, debit (JAMB 2021)",
+    "options": [
+      "cash and credit stationery",
+      "purchases and credit stationery",
+      "stationery and credit purchases",
+      "stationery and credit cash"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Stationery is an expense (an asset when treated as a current asset), so its account is debited to show an increase. Cash is paid out, so the Cash account is credited to show a decrease."
+  },
+  {
+    "id": "accounting-1788725100379-357-131",
+    "questionText": "One of the objectives of accounting is that it can be used for (JAMB 2016)",
+    "options": [
+      "business decision making",
+      "due process in business",
+      "motivating employees",
+      "determining the work force."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-358-432",
+    "questionText": "The budget statement presented to the legislature by the Chief Executive is called (JAMB 2004)",
+    "options": [
+      "an appropriation act",
+      "a budget bill",
+      "an appropriation bill",
+      "a budget proposal"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100379-359-852",
+    "questionText": "One of the items listed below will not be found in a company’s memorandum and article of association. Which is it? (JAMB 2022)",
+    "options": [
+      "objects and their alteration",
+      "location of business",
+      "bank signatories",
+      "powers of directors"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Bank signatories will not be found in a company's memorandum and articles of association because:\n\nBank signatories are operational details determined by the board of directors\nThey are recorded in board resolutions and banking mandates, not in the constitutional documents\nThese details can change frequently and don't require constitutional amendments"
+  },
+  {
+    "id": "accounting-1788725100379-360-1357",
+    "questionText": "Shares issued to a vendor in payment of business purchased would require a debit to? (JAMB 1999)",
+    "options": [
+      "cash account and credit to share capital account",
+      "share capital account and credit to vendor's account",
+      "vendor's account and credit to share capital account",
+      "share capital account and credit to cash account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct entry when issuing shares to a vendor to settle the purchase of a business is to debit the vendor’s account (to clear the liability owed to them) and credit Share Capital (to record the new shares issued)."
+  },
+  {
+    "id": "accounting-1788725100379-361-1074",
+    "questionText": "The three-column cash book differs from the two-column cash book in (JAMB 2004)",
+    "options": [
+      "Cash column,",
+      "Discount column",
+      "Bank column,",
+      "Folio column"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The three-column cash book differs from the two-column cash book by having an additional discount column."
+  },
+  {
+    "id": "accounting-1788725100379-362-863",
+    "questionText": "The use of the folio in the ledger is for\n (JAMB 2022)",
+    "options": [
+      "referencing purposes",
+      "particulars of the transaction",
+      "the account titles",
+      "only credit items"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The folio in the ledger is used for referencing purposes. It helps in cross-referencing between the ledger and the journal, making it easier to track transactions and locate specific entries."
+  },
+  {
+    "id": "accounting-1788725100379-363-662",
+    "questionText": "A part of public company's profits belonging to the shareholders is (JAMB 2017)",
+    "options": [
+      "public issue",
+      "bonus",
+      "right issue",
+      "dividends"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Dividend is known as the kind of benefit enjoyed by the shareholder for investing their fund in a particular organisation"
+  },
+  {
+    "id": "accounting-1788725100379-364-664",
+    "questionText": "Which type of cashbook entry involves recording the same amount on both the debit and credit sides to offset each other? (JAMB 2017)",
+    "options": [
+      "Contra entry",
+      "Compound entry",
+      "Transfer entry",
+      "Journal entry"
+    ],
+    "correctAnswer": "A",
+    "explanation": "A contra entry in the cashbook is used when the business moves money between its own cash and bank accounts—such as depositing cash into the bank or withdrawing cash from the bank"
+  },
+  {
+    "id": "accounting-1788725100379-365-1116",
+    "questionText": "The two legally recognized professional accounting bodies in Nigeria are the? (JAMB 2003)",
+    "options": [
+      "Institute of Certified Public Accountants of Nigeria and the Institute of cost and Management Accountants of Nigeria",
+      "Association of Accountants of Nigeria and the Institute of Management Accountants of Nigeria",
+      "Institute of Chartered Accountants of Nigeria and the Association of National Accountants of Nigeria",
+      "Nigeria Accounting Association and the Excutive Cost and Management Accounts of Nigeria"
+    ],
+    "correctAnswer": "C",
+    "explanation": "These two bodies (ICAN and ANAN) are the legally recognized professional accounting organizations in Nigeria."
+  },
+  {
+    "id": "accounting-1788725100379-366-326",
+    "questionText": "In the balance sheet of a social club, subscription owing is treated as a (JAMB 2015)",
+    "options": [
+      "current liability",
+      "current asset",
+      "tangible asset",
+      "long-term liability"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-367-502",
+    "questionText": "I.  Space occupied by each department    II. Average value of stock held by each department III. \tDepartmental turnover  IV. Number of articles sold by each department. From the information given, the two most logical bases for apportioning expenses that are common to departments are (JAMB 2009)",
+    "options": [
+      "I and II",
+      "I and III",
+      "II and III",
+      "Ill and IV"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-368-1172",
+    "questionText": "<b>₦AFARA A₦D SO₦S Balance Sheet items as at 31st December, 1987.</b>\n\nCapital ₦74480\n\nCreditors ₦15875\n\nPrepaid expenses ₦580\n\nMotor vehicles ₦34750\n\nFurniture ₦35850\n\nAccrued expenses ₦645\n\nStock ₦8100\n\nCash balances ₦9911\n\nDebtors ₦1809\n\n\nCompute the value of current assets? (JAMB 2002)",
+    "options": [
+      "₦20400",
+      "₦20465",
+      "₦35695",
+      "₦19820"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Current assets = Prepaid expenses + Stock + Cash + Debtors\n= ₦580 + ₦8,100 + ₦9,911 + ₦1,809\n= ₦20,400"
+  },
+  {
+    "id": "accounting-1788725100379-369-976",
+    "questionText": "Commission-on-turnover is charged on? (JAMB 2008)",
+    "options": [
+      "current accounts only",
+      "savings accounts only",
+      "fixed deposit accounts only",
+      "all bank accounts"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Commission-on-turnover (COT) is a bank charge applied to customer transactions."
+  },
+  {
+    "id": "accounting-1788725100379-370-403",
+    "questionText": "Where closing stock is undervalued, the effect is (JAMB 2004)",
+    "options": [
+      "an increase in gross profit",
+      "a decrease in gross profit",
+      "an increase in purchases",
+      "a decrease in purchases"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-371-127",
+    "questionText": "A trading account is prepared to disclose the (JAMB 2013)",
+    "options": [
+      "net profit or loss for the year.",
+      "gross profit or loss for the year.",
+      "accumulated fund for the year.",
+      "gross profit on manufacturing."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-372-23",
+    "questionText": "Bad debt is also known as  (JAMB 2010)",
+    "options": [
+      "Unpaid debt",
+      "irrecoverable debt",
+      "Payment debt",
+      "current debt"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-373-1454",
+    "questionText": "On partnership dissolution, if a partner's capital account has a debit balance and the partnr is insolvent, the deficiency will, in accordance with the decision of the case of Garner v Murray, be (JAMB 1997)",
+    "options": [
+      "borne by all the partners",
+      "borne by the insolvent partner",
+      "written off",
+      "borne by the solvent partners"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Under the rule in Garner v. Murray, if a partner is insolvent during dissolution and has a debit balance on their capital account, the deficiency is borne by the solvent partners in proportion to their last agreed capital balances, not profit-sharing ratios."
+  },
+  {
+    "id": "accounting-1788725100379-374-990",
+    "questionText": "<b>Use the information below to answer questions 26 to 27.</b>\n\n\nStock of material 1/1..............₦10 000\nPurchase of raw material...........₦160 000\nManufacturing wages................₦420 000\nRoyalties..........................₦3 000\nStock of raw materials 31/12.......₦14 000\n\nWhat is the cost of raw materials consumed? (JAMB 2008)",
+    "options": [
+      "₦173 000",
+      "₦170 000",
+      "₦160 000",
+      "₦156 000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Cost of Raw Materials Consumed = Opening Stock + Purchases - Closing Stock\nGiven information:\n\nOpening stock of raw materials (1/1): ₦10,000\nPurchase of raw materials: ₦160,000\nClosing stock of raw materials (31/12): ₦14,000\n\nCalculation:\nCost of raw materials consumed = ₦10,000 + ₦160,000 - ₦14,000\nCost of raw materials consumed = ₦170,000 - ₦14,000\nCost of raw materials consumed = ₦156,000\nTherefore, the cost of raw materials consumed is ₦156,000."
+  },
+  {
+    "id": "accounting-1788725100379-375-479",
+    "questionText": "Musa, a prepaid customer of XYZ and KLM, bought  N1500 recharge card from XYZ and  N2000 recharge card from KLM for business calls. The entry to record these transaction is debit (JAMB 2009)",
+    "options": [
+      "telephone N 3,500, credit XYZ and KLM N 3,500",
+      "telephone N 3,500. credit cash N 3,500",
+      "sundries N 3,500, credit KLM N 3,500",
+      "sundries N 3.500, credit telephone N3,500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-376-123",
+    "questionText": "At the end of a trading period, cost of goods sold is debited to the trading account while cost of services is        debited to the (JAMB 2013)",
+    "options": [
+      "balance sheet.",
+      "manufacturing account.",
+      "trading account.",
+      "profit and loss account."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-377-5",
+    "questionText": "Which of the following is a function of the sales journal  (JAMB 2010)",
+    "options": [
+      "it records both cash and credit sales",
+      "it shows the balance in the sales account",
+      "it record credit sales only",
+      "it shows the aggregate balances in the debtors lodger"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-378-129",
+    "questionText": "The records of Superstores shows a loan of  N14,000 from Bala, creditor N8, 000 and assets N190, 500. What is the firm’s capital? (JAMB 2016)",
+    "options": [
+      "184, 000",
+      "1 96, 500",
+      "212 000",
+      "168, 500"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-379-1435",
+    "questionText": "The process of allocating the cost of an intangible assets over its useful life is known as (JAMB 1997)",
+    "options": [
+      "depreciation",
+      "extraction",
+      "depletion",
+      "amortization"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Amortization is the systematic allocation of the cost of an intangible asset (like patents, copyrights, or trademarks) over its useful life.\n\nDepreciation is used for tangible assets.\n\nDepletion is used for natural resources."
+  },
+  {
+    "id": "accounting-1788725100379-380-112",
+    "questionText": "When a business is purchased from a sole trader, the excess of the purchase price over the net assets is (JAMB 2013)",
+    "options": [
+      "reserve.",
+      "goodwill.",
+      "freehold.",
+      "valuation price."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-381-589",
+    "questionText": "The costs of acquiring fixed assets and bringing them into the firm is a (JAMB 2016)",
+    "options": [
+      "general expenses",
+      "recurrent expenditure",
+      "revenue expenditure",
+      "capital expenditure"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Capital expenditure; money spent by a business or organization on acquiring or maintaining fixed assets, such as land, buildings, and equipment."
+  },
+  {
+    "id": "accounting-1788725100379-382-931",
+    "questionText": "An amount paid in cash to John is Dr to John and Cr to (JAMB 2024)",
+    "options": [
+      "bank",
+      "debtors",
+      "cash",
+      "capital"
+    ],
+    "correctAnswer": "C",
+    "explanation": "When an amount is paid in cash to John, the journal entry is:\n\nDebit: John's account (the person receiving the payment)\nCredit: Cash account (since cash is going out)\n\nSince cash is being paid out, the Cash account must be credited to show the reduction in cash."
+  },
+  {
+    "id": "accounting-1788725100379-383-476",
+    "questionText": "Which of the following branches of accounting was first developed? (JAMB 2009)",
+    "options": [
+      "Cost accounting",
+      "Financial accounting",
+      "Management accounting",
+      "Petroleum accounting"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-384-1426",
+    "questionText": "When the sum of money appears on the credit side of the cash book, but not on the debit side of the bank statement, the sum is regarded as (JAMB 1997)",
+    "options": [
+      "uncredited cheques",
+      "dishonoured cheques",
+      "direct remittance to the bank",
+      "unpresented cheques"
+    ],
+    "correctAnswer": "D",
+    "explanation": "When you record a payment by cheque in your cash book, it appears on the credit side. If that cheque hasn’t yet been presented (i.e. cashed) at the bank, it won’t show up on the bank statement’s debit side. Such outstanding items are called unpresented cheques."
+  },
+  {
+    "id": "accounting-1788725100379-385-1335",
+    "questionText": "<b>Use the information below to answer questions 21 and 22</b>\nAminu and Sons credit purchases(Extract) as at February, 1996\n\n\t\t\t\t\t  ₦\nFeb 1 Credit balances \t\t\t40,000\nDebit balances \t\t\t\t1,000\nFeb 28 Purchases journal totals \t500,000\nReturns outwards journal total \t\t50,000\nCheques paid to suppliers \t\t400,000\nPromissory notes sent to suppliers \t30,000\nDiscount received from suppliers \t8,000\nCredit balances in the purchases\nledger set off against debit balances\nin the sales ledger \t\t\t2,000\n\n\nWhat is the balance c/d in the purchases ledger control account? (JAMB 1999)",
+    "options": [
+      "₦ 2,000",
+      "₦ 8, 000",
+      "₦ 40, 000",
+      "₦49,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "To find the balance c/d (carried down) in the purchases ledger control account, Calculate the closing balance after all transactions.\nPurchases Ledger Control Account:\nOpening Position:\n\nCredit balances: ₦40,000\nDebit balances: ₦1,000\nNet opening credit balance: ₦40,000 - ₦1,000 = ₦39,000\n\nTransactions during February:\nItems that increase creditors (Credit side):\n\nPurchases: ₦500,000\n\nItems that decrease creditors (Debit side):\n\nReturns outwards: ₦50,000\nCheques paid: ₦400,000\nPromissory notes: ₦30,000\nDiscount received: ₦8,000\nSet off against sales ledger: ₦2,000\nTotal decreases: ₦490,000\n\nCalculation:\nOpening net balance: ₦39,000\nAdd: Purchases: ₦500,000\nLess: Total payments/adjustments: ₦490,000\nClosing balance c/d = ₦39,000 + ₦500,000 - ₦490,000 = ₦49,000"
+  },
+  {
+    "id": "accounting-1788725100379-386-1135",
+    "questionText": "<b>Use the information below to answer questions 20 and 21.</b>\n\nCredit purchases are always put at 150% of the total cash paid to suppliers\n\nDetermine the credit purchases (JAMB 2003)",
+    "options": [
+      "₦13 500",
+      "₦15 500",
+      "₦13 400",
+      "₦12 000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Calculation:\nCredit purchases = 150% × Cash paid to suppliers\nCredit purchases = 150% × ₦8,000\nCredit purchases = 1.5 × ₦8,000\nCredit purchases = ₦12,000"
+  },
+  {
+    "id": "accounting-1788725100379-387-235",
+    "questionText": "“A business unit is assumed to operate into foreseeable future and earn reasonable net income”. This statement is emphasized by the concept of (JAMB 2006)",
+    "options": [
+      "business entity",
+      "going concern",
+      "realization",
+      "accrual."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-388-782",
+    "questionText": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, What is the net working capital? (JAMB 2020)",
+    "options": [
+      "₦1,800",
+      "₦800",
+      "₦2,600",
+      "₦600"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Current Assets−Current Liabilities=₦2,000−₦1,200=₦800"
+  },
+  {
+    "id": "accounting-1788725100379-389-276",
+    "questionText": "The concept which establishes the rule for the periodic recognition of revenue as soon as it is capable of objective measurement is (JAMB 2012)",
+    "options": [
+      "going concern.",
+      "entity.",
+      "consistency.",
+      "realization."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-390-189",
+    "questionText": "Which of the following is not a source document for recording sales? (JAMB 1997)",
+    "options": [
+      "Debit note",
+      "Credit note",
+      "Receipt",
+      "Sales journal"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-391-535",
+    "questionText": "What does liquidity ratio measure? (JAMB 2015)",
+    "options": [
+      "measures operating efficiency of a company",
+      "measures the ability of a company to meet its current obligations.",
+      "measures the value of investments of a company",
+      "measures the financial leverage of a company"
+    ],
+    "correctAnswer": "B",
+    "explanation": "liquidity ratio attempt to measure the ability to meet up with current obligations e.g. current ratio which measures the current asset to current liabilities."
+  },
+  {
+    "id": "accounting-1788725100379-392-3",
+    "questionText": "Where a proprietor withdraws cash from the business for his private use, the entries would be  (JAMB 2010)",
+    "options": [
+      "credit cash account, debit proprietor's account",
+      "credit proprietor's account, debit cash account",
+      "credit proprietor's account, debit drawings account",
+      "credit cash account, debit drawings account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-393-753",
+    "questionText": "Bought motor vehicle ₦60 paying by cheque. The effect of the transaction will be (JAMB 2019)",
+    "options": [
+      "Increase in assets of motor vehicle account",
+      "Decrease in assets of motor vehicle account",
+      "Increase in assets of bank account",
+      "Increase in liabilities of bank account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The motor vehicle account is the receiver while bank account is giving out. Therefore, there will be an increase in motor account and a decrease in bank account."
+  },
+  {
+    "id": "accounting-1788725100379-394-883",
+    "questionText": "From the following information: Purchases include Raw materials of ₦15,000 and Finished goods of ₦11,400. Stock as at 1/7/01 shows Raw materials of ₦2,250 and Work-in-progress of ₦1,875. Wages consist of Direct wages of ₦17,100 and Indirect wages of ₦5,400. Stock as at 30/06/02 shows Raw materials of ₦3,000 and Work-in-progress of ₦3,375. What is the cost of raw materials consumed? (JAMB 2022)",
+    "options": [
+      "₦17,250",
+      "₦15,750",
+      "₦15,000",
+      "₦14,250"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The cost of raw materials consumed is calculated using the formula:\nCost of Raw Materials Consumed = Opening Stock of Raw Materials + Purchases of Raw Materials - Closing Stock of Raw Materials\nCalculation:\n\nOpening Stock of Raw Materials (1/7/01): ₦2,250\nAdd: Purchases of Raw Materials: ₦15,000\nLess: Closing Stock of Raw Materials (30/06/02): ₦3,000\n\nCost of Raw Materials Consumed = ₦2,250 + ₦15,000 - ₦3,000 = ₦14,250\nThe cost of raw materials consumed is ₦14,250."
+  },
+  {
+    "id": "accounting-1788725100379-395-33",
+    "questionText": "Which of the following does not appear in a bank statement?    (JAMB 2011)",
+    "options": [
+      "Uncredited cheque",
+      "Bank charges",
+      "Dishonoured cheque",
+      "Dividend received on behalf of customer"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-396-1369",
+    "questionText": "A business transaction is recorded in the books of account when the? (JAMB 1998)",
+    "options": [
+      "owner of the business invests his ₦10,000 in another company",
+      "business retains part of ofits profits for future expansion purposes",
+      "business invest applies for overdraft facilities from its bankers",
+      "owner of the business collects ₦5,000 from the accountant"
+    ],
+    "correctAnswer": "D",
+    "explanation": "In accounting, a business transaction is recorded in the books only when it has a financial impact on the business and involves the exchange of value (e.g., cash, goods, or services). This is in line with the dual aspect concept and business entity concept."
+  },
+  {
+    "id": "accounting-1788725100379-397-885",
+    "questionText": "The following are importance of branch account except (JAMB 2023)",
+    "options": [
+      "it allows fraud and wastage of resources",
+      "it assist the organization to determine the performance of a branch manager",
+      "it enable the organization to determine the branch that is making either profit or loss",
+      "it allows proper control over the branch by the head office"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Branch accounts are intended to improve control, oversight, and performance evaluation of individual branches—not to facilitate fraud or resource wastage. The other options correctly describe benefits of maintaining branch accounts."
+  },
+  {
+    "id": "accounting-1788725100379-398-781",
+    "questionText": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, calculate the capital of the business. (JAMB 2020)",
+    "options": [
+      "₦2,800.",
+      "₦9,400",
+      "₦3,400",
+      "₦6,000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To calculate capital, use the accounting equation:\nAssets = Liabilities + Capital\nFirst, calculate total assets and total liabilities:\nTotal Assets = Current Assets + Fixed Assets\nTotal Assets = ₦2,000 + ₦4,000 = ₦6,000\nTotal Liabilities = Current Liabilities + Long Term Loan\nTotal Liabilities = ₦1,200 + ₦2,000 = ₦3,200\nUsing the accounting equation:\nCapital = Total Assets - Total Liabilities\nCapital = ₦6,000 - ₦3,200 = ₦2,800\nNote: Drawings represent owner's withdrawals and don't affect the capital calculation using the accounting equation method.\nTherefore, the capital of the business is ₦2,800."
+  },
+  {
+    "id": "accounting-1788725100379-399-1139",
+    "questionText": "Advertising expenses incurred on a product in a business organization should be charged to? (JAMB 2003)",
+    "options": [
+      "production department",
+      "sales department",
+      "administration department",
+      "purchases department"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Advertising expenses are directly related to promoting and selling the product.\n\nThey are part of selling and distribution expenses, which fall under the responsibility of the sales department.\n\nProduction handles manufacturing, administration handles general office and management expenses, and purchases deals with acquiring raw materials, none of which cover advertising costs."
+  },
+  {
+    "id": "accounting-1788725100379-400-1364",
+    "questionText": "Which of the following account is kept by local governments in Nigeria? (JAMB 1999)",
+    "options": [
+      "Balance sheet",
+      "Advances account",
+      "Debtors account",
+      "Profit account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Local governments in Nigeria maintain Advances Accounts (for tracking loans and advances made to staff and other parties). They do not operate for profit (so no profit account), nor do they typically prepare a commercial-style debtors ledger. While they do prepare statements of assets and liabilities, it isn’t called a “Balance Sheet” in the corporate sense."
+  },
+  {
+    "id": "accounting-1788725100379-401-396",
+    "questionText": "A debit in the suspense account will appear in the balance sheet as (JAMB 2004)",
+    "options": [
+      "a current asset",
+      "a current liability",
+      "capital",
+      "drawings"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-402-93",
+    "questionText": "Which of the following is a nominal account? (JAMB 2013)",
+    "options": [
+      "Machinery Account",
+      "Drawings Account",
+      "Debtors Account",
+      "Wages Account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-403-1257",
+    "questionText": "The law that currently regulates the registration of companies in Nigeria is the? (JAMB 2001)",
+    "options": [
+      "Constitution of the Federal Republic of Nigeria, 1999",
+      "Nigeria Enterprises Promotion Decree, 1972",
+      "Companies and Allied Matters Decree, 1990",
+      "Companies Decree, 1968"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The law currently governing company registration in Nigeria is the Companies and Allied Matters Decree, 1990 (now the Companies and Allied Matters Act, CAMA)."
+  },
+  {
+    "id": "accounting-1788725100379-404-284",
+    "questionText": "Which of the following is not found in the personal ledger? (JAMB 2012)",
+    "options": [
+      "Debtors Account",
+      "Creditors Account",
+      "Capital Account",
+      "Nominal Account"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100379-405-344",
+    "questionText": "The quality of output information depends on the (JAMB 2015)",
+    "options": [
+      "quality of input data",
+      "time of processing",
+      "speed of processing",
+      "quantity of output device"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-406-573",
+    "questionText": "The documents that provide instant information to firms on their tranactions with banks are (JAMB 2016)",
+    "options": [
+      "bank statement and debit note",
+      "cheque book and cashbook",
+      "cheque stub and deposit slip",
+      "payslip and credit invoice"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Bank statement is a printed record of the balance in a bank account and the amounts that have been paid into it and withdrawn from it, issued periodically to the holder of the account.\n\nA debit note is a document sent by a buyer to seller or in other words a purchaser to a vendor notifying that a debit has been made to their accounts. A debit memo on a company's bank statement refers to a deduction by the bankfrom the company's bank account. In other words, a bank debit memo reduces thebank account balance similar to a check drawn on the bank account."
+  },
+  {
+    "id": "accounting-1788725100379-407-1014",
+    "questionText": "<b>Use the information below to answer question 49 to 50.</b>\n\nGoods worth ₦300 was transferred from department Q to P Similarly, P's total expenses for the period was ₦200\n\nDepartment P's net profit was (JAMB 2008)",
+    "options": [
+      "₦5 200",
+      "₦3000",
+      "₦2800",
+      "₦2 500"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Given (Dept P):\n  Opening stock    = ₦2,000\n  Purchases        = ₦2,500\n  Closing stock    = ₦1,500\n  Sales            = ₦6,000\n  Expenses (P)     = ₦200\n  (Transfer from Q to P is irrelevant to P's net profit here)\n\nStep 1: Cost of goods sold (COGS)\n  COGS = Opening + Purchases − Closing\n       = 2,000 + 2,500 − 1,500\n       = ₦3,000\n\nStep 2: Gross profit\n  Gross profit = Sales − COGS\n               = 6,000 − 3,000\n               = ₦3,000\n\nStep 3: Net profit (after expenses)\n  Net profit = Gross profit − Expenses\n             = 3,000 − 200\n             = ₦2,800"
+  },
+  {
+    "id": "accounting-1788725100379-408-1327",
+    "questionText": "Asa Company bought a vehicle worth ₦20,000 and the vehicle is to be depreciated at 5%. Using the reducing balance method of depreciation, what would be the value of the asset after 3 years? (JAMB 1999)",
+    "options": [
+      "₦19,000.00",
+      "₦18,050.50",
+      "₦17,147.50",
+      "16,290.13"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To find the value of the asset after 3 years using the reducing balance method, Apply the 5% depreciation rate to the remaining balance each year.\nGiven information:\n\nOriginal cost: ₦20,000\nDepreciation rate: 5% per annum\nMethod: Reducing balance\nPeriod: 3 years\n\nYear-by-year calculation:\nYear 1:\n\nDepreciation = ₦20,000 × 5% = ₦1,000\nBook value = ₦20,000 - ₦1,000 = ₦19,000\n\nYear 2:\n\nDepreciation = ₦19,000 × 5% = ₦950\nBook value = ₦19,000 - ₦950 = ₦18,050\n\nYear 3:\n\nDepreciation = ₦18,050 × 5% = ₦902.50\nBook value = ₦18,050 - ₦902.50 = ₦17,147.50\n\nAlternative formula method:\nBook value = Original cost × (1 - depreciation rate)^number of years\nBook value = ₦20,000 × (1 - 0.05)³\nBook value = ₦20,000 × (0.95)³\nBook value = ₦20,000 × 0.857375\nBook value = ₦17,147.50"
+  },
+  {
+    "id": "accounting-1788725100379-409-799",
+    "questionText": "The power to appoint the Auditor General of the Federation is vested in the (JAMB 2020)",
+    "options": [
+      "National Assembly",
+      "Civil Service Commission",
+      "Judicial Service Commission",
+      "President"
+    ],
+    "correctAnswer": "D",
+    "explanation": "In Nigeria, the power to appoint the Auditor General of the Federation is vested in the President. This appointment is made subject to confirmation by the Senate, as provided for in the Nigerian Constitution."
+  },
+  {
+    "id": "accounting-1788725100379-410-386",
+    "questionText": "Which of the following items is not treated in the Profit and Loss Account? (JAMB 2014)",
+    "options": [
+      "Office expenses",
+      "Salaries and allowances",
+      "Carriage inwards",
+      "Discounts allowed"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100379-411-1071",
+    "questionText": "A debit in the suspense accounting will appear in the balance sheet as? (JAMB 2004)",
+    "options": [
+      "a current asset",
+      "a current lability",
+      "capital",
+      "drawings"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Reason: A debit balance in the suspense account represents an amount yet to be allocated that the business owns (an asset). Therefore it’s shown on the balance sheet as a current asset until cleared."
+  },
+  {
+    "id": "accounting-1788725100379-412-583",
+    "questionText": "When goods are sent to the branch at cost plus mark-up, it means that the branch should sell at (JAMB 2016)",
+    "options": [
+      "a price above or below the stipulated price",
+      "any price but not below the transfer price",
+      "cost price",
+      "a price that is equal to the mark-up"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Cost-plus pricing is a pricing strategy in which the selling price is determined by adding a specific amount markup to a product's unit cost.\n\nCost plus pricing involves adding a markup to the cost of goods and services to arrive at a selling price. Under this approach, you add together the direct materialcost, direct labor cost, and overhead costs for a product, and add to it a markuppercentage in order to derive the price of the product."
+  },
+  {
+    "id": "accounting-1788725100379-413-1155",
+    "questionText": "For the purpose of conversion of a partnership to a company, a total purchase consideration of ₦3.6m was paid. If 30% of the purchase consideration was in cash and the rest by 50k shares, how many shares issued? (JAMB 2003)",
+    "options": [
+      "₦1,080 000",
+      "₦2 160 000",
+      "₦3 600 000",
+      "₦5 040 000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Total purchase consideration = ₦3,600,000\nCash portion (30%) = 0.30 × 3,600,000 = ₦1,080,000\nAmount paid by shares = 3,600,000 − 1,080,000 = ₦2,520,000\n\nIf each share = ₦0.50 (50kobo), number of shares issued = 2,520,000 ÷ 0.50 = 5,040,000 shares"
+  },
+  {
+    "id": "accounting-1788725100379-414-1324",
+    "questionText": "Which of the following bank reconciliation items should not be added or subtracted from the bank statement balance to determine the adjusted cash balance? (JAMB 1999)",
+    "options": [
+      "Outstanding cheques",
+      "Bank service charges",
+      "Deposit in the mail not yet received by the bank",
+      "Bank error, charging a company for another company's cheque"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Bank service charges should not be added to or subtracted from the bank statement balance; they are already reflected on the statement and instead are used to adjust the book balance."
+  },
+  {
+    "id": "accounting-1788725100379-415-1152",
+    "questionText": "Receipts and payments accounts is the summary of? (JAMB 2003)",
+    "options": [
+      "income and expenditure",
+      "cash book",
+      "balance sheet",
+      "profit and loss"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A receipts & payments account is simply a cash summary — it records all cash and bank receipts and payments for a period (opening balance, cash in, cash out, closing balance). It’s a summary of the cash book, not an accrual statement like the income & expenditure account or a balance sheet."
+  },
+  {
+    "id": "accounting-1788725100379-416-819",
+    "questionText": "Use the information below to answer this question:\ni. cash at bank  ii. cash in hand  iii. premises  iv. land  v. creditors  vi. loan from friends/bank\n\nWhat are the current assets? (JAMB 2021)",
+    "options": [
+      "i and v",
+      "i and ii",
+      "ii and iv",
+      "iii and v"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Current assets are short‑term assets expected to be converted into cash within one year. From the list, cash at bank and cash in hand are the current assets."
+  },
+  {
+    "id": "accounting-1788725100379-417-1120",
+    "questionText": "<b>Use the information below to answer questions 6 and 7.</b>\n\nEzekiel Malgwi is a retailer. He recorded sales representing\n95% cash and 5% credit. He took the total cash sales of ₦19,000 from the business tray and banked it.\n\nThe credit sales for the period would be (JAMB 2003)",
+    "options": [
+      "₦5000",
+      "₦1900",
+      "₦1000",
+      "₦950"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Cash sales = 95% of total sales = ₦19,000\nTotal sales = 19,000 ÷ 0.95 = ₦20,000\nCredit sales = 5% of total = 0.05 × 20,000 = ₦1,000"
+  },
+  {
+    "id": "accounting-1788725100379-418-1322",
+    "questionText": "In a cash book, the opening balance was ₦7,600, closing balance ₦9,200 and the total cash received during the period was ₦18,000. What was the amount of cash paid out during the period? (JAMB 1999)",
+    "options": [
+      "₦8,900",
+      "₦9,800",
+      "₦14,600",
+      "₦16,400"
+    ],
+    "correctAnswer": "D",
+    "explanation": "sing the cash book equation:\n\nOpening balance + Receipts − Payments = Closing balance\nRearrange for payments:\n\nPayments = Opening + Receipts − Closing = ₦7,600 + ₦18,000 − ₦9,200 = ₦16,400"
+  },
+  {
+    "id": "accounting-1788725100379-419-265",
+    "questionText": "The process of entering transaction from one book to another is (JAMB 2012)",
+    "options": [
+      "reading.",
+      "posting.",
+      "numbering",
+      "listing"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100379-420-465",
+    "questionText": "The purchases ledger control account showed a credit balance of N 525 000 on April 30, 2006. This amount shows (JAMB 2007)",
+    "options": [
+      "what the debtors of a business enterprise owed the business",
+      "the total amount which each debtor owed the business",
+      "what a business enterprise owed its creditors",
+      "the total amount which a business enterprise owed each creditor."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100379-421-213",
+    "questionText": "The art of collecting, recording, presenting and interpreting accounting data is (JAMB 2006)",
+    "options": [
+      "cost accounting",
+      "management accounting",
+      "financial accounting",
+      "data processing."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100379-422-1188",
+    "questionText": "<b>Use the information below to answer questions 24 and 25.</b>\n\n<b>Subscriptions received are always put at 125% of the total donations received and refreshment sales.</b>\n\nWhat is the closing cash balance? (JAMB 2002)",
+    "options": [
+      "₦11300",
+      "₦12000",
+      "₦13000",
+      "₦13500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Given:\n\nOpening balance (Bal b/d) = ₦4,000\n\nDonations received = ₦6,000\n\nRefreshment sales = ₦10,000\n\nSubscriptions received = 125% of (Donations + Refreshment sales)\n= 1.25 × (₦6,000 + ₦10,000) = 1.25 × ₦16,000 = ₦20,000\n\nTotal receipts = 4,000 + 20,000 + 6,000 + 10,000 = ₦40,000\n\nPayments:\n\nMotor vehicle = ₦12,000\n\nInsurance = ₦3,000\n\nAmbulance expenses = ₦12,500\n\nElectricity = ₦1,200\nTotal payments = 12,000 + 3,000 + 12,500 + 1,200 = ₦28,700\n\nClosing cash balance (Balance c/d) = Total receipts − Total payments\n= ₦40,000 − ₦28,700 = ₦11,300\n\nSo the closing cash balance is ₦11,300 (and this will be the next period's balance b/d)."
+  },
+  {
+    "id": "accounting-1788725100379-423-789",
+    "questionText": "The term \"accounting period\" is used to refer to the (JAMB 2020)",
+    "options": [
+      "time span, usually one year covered by the financial statement",
+      "period within which debtors are expected to settle accounts",
+      "time, span during which taxes are paid to the inland revenue board",
+      "budget period, usually one year relied on by the accountant"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The accounting period concept divides a business’s life into regular, comparable intervals—most commonly one year—for which financial statements are prepared. This allows stakeholders to assess performance and financial position over consistent time spans"
+  },
+  {
+    "id": "accounting-1788725100379-424-823",
+    "questionText": "The major objectives of departmental account is to ascertain the (JAMB 2021)",
+    "options": [
+      "materials sold in each department",
+      "insurance premium payable on employees",
+      "number of employees in each department",
+      "contribution of each department to profit"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Departmental accounting is designed to track the revenues, expenses, and therefore the profits generated by each department individually. This allows management to see which departments are most (or least) profitable and make informed decisions about resource allocation, performance evaluation, and strategic focus."
+  },
+  {
+    "id": "accounting-1788725100379-425-45",
+    "questionText": "A complete set of financial statements for Hartman Company, at December 31, 1999, would include each of the following except: (JAMB 2012)",
+    "options": [
+      "Balance sheet as of December 31,1999",
+      "Income statement for the year ended December 31, 1999.",
+      "Statement of projected cash flows for 2000",
+      "Notes containing additional information that is useful interpreting the financial statements."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100379-426-1096",
+    "questionText": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt? (JAMB 2004)",
+    "options": [
+      "manufacturing accounts",
+      "consolidated accounts",
+      "departmental accounts",
+      "joint venture accounts"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A business with multiple units that wants to compare performance of each unit needs separate accounting records for each unit.\nDepartmental accounts allow the business to:\n\nTrack income and expenses for each unit separately\nCompare profitability between units\nIdentify which units are performing well\nSpot weaknesses in specific units\nMake better management decisions for each unit"
+  },
+  {
+    "id": "accounting-1788725100379-427-493",
+    "questionText": "Which of the following methods gives a conservative closing stock value during a period of rising prices? (JAMB 2009)",
+    "options": [
+      "LIFO",
+      "FIFO",
+      "Simple average",
+      "Periodic simple average"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-428-1260",
+    "questionText": "The correct entry to reflect the receipt of cash sent by a branch to a head office is? (JAMB 2001)",
+    "options": [
+      "debit cash and credit branch current account",
+      "debit branch, current account and credit cash",
+      "credit branch, debtors and debit cash",
+      "credit branch current account and debit branch debtors"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Debit Cash: Increases the head office’s cash balance when it receives the remittance.\n\nCredit Branch Current Account: Reduces the receivable (or clears the liability) from the branch’s current account, since the branch has now funded that amount."
+  },
+  {
+    "id": "accounting-1788725100379-429-182",
+    "questionText": "The net book value at the time of sale was (JAMB 1997)",
+    "options": [
+      "N= 16,000",
+      "N= 14,000",
+      "N= 12,000",
+      "N= 6,000."
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-430-269",
+    "questionText": "Which of the following is an example of factory overheads? (JAMB 2012)",
+    "options": [
+      "Salary of marketing officer",
+      "Salary of production officer",
+      "Salary of accounting officer",
+      "Wages of machine operator"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-431-304",
+    "questionText": "Which of the following is not a feature of accounting information? (JAMB 2015)",
+    "options": [
+      "Affordability",
+      "Timeliness",
+      "Accuracy",
+      "Completeness"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100379-432-1310",
+    "questionText": "The channel through which all government borrowing and domestic lending transactions pass is called? (JAMB 2000)",
+    "options": [
+      "special trust fund",
+      "agency fund",
+      "national loan fund",
+      "contingency fund"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The National Loan Fund serves as the central channel for all government borrowing and domestic lending transactions, ensuring that loans raised and lent by the government are properly accounted for in one consolidated fund."
+  },
+  {
+    "id": "accounting-1788725100379-433-453",
+    "questionText": "The gross profit disclosed in the branch stock adjustment account represents (JAMB 2007)",
+    "options": [
+      "head office profit",
+      "unrealized profit",
+      "estimated profit",
+      "branch profit"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100379-434-1342",
+    "questionText": "Given:\nClub ₦150\nCash sales ₦4,850\nClub debtors at close ₦900\nCash received from debtors ₦550\n\nWhat is the amount of club sales? (JAMB 1999)",
+    "options": [
+      "₦6,150",
+      "₦4,850",
+      "₦4,650",
+      "₦1,300"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find the total club sales, Calculate both cash sales and credit sales.\nGiven information:\n\nClub debtors at opening: ₦150\nCash sales: ₦4,850\nClub debtors at close: ₦900\nCash received from debtors: ₦550\n\nStep 1: Calculate credit sales using debtors control account\nOpening debtors + Credit sales - Cash received = Closing debtors\n₦150 + Credit sales - ₦550 = ₦900\nCredit sales = ₦900 - ₦150 + ₦550\nCredit sales = ₦1,300\nStep 2: Calculate total club sales\nTotal club sales = Cash sales + Credit sales\nTotal club sales = ₦4,850 + ₦1,300 = ₦6,150"
+  },
+  {
+    "id": "accounting-1788725100379-435-1262",
+    "questionText": "The officer responsible for ascertaining whether all public expenditure and appropriation are in line with approved guidelines is the? (JAMB 2001)",
+    "options": [
+      "Acountant General",
+      "Auditor General",
+      "Finance Minister",
+      "Permanent Secretary"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The officer responsible for ascertaining whether all public expenditure and appropriation are in line with approved guidelines is the Auditor General."
+  },
+  {
+    "id": "accounting-1788725100379-436-1167",
+    "questionText": "In a petty cash book the imprest is ₦1380.\nExpenses:\nStationery ₦350\nCleaning material ₦335\nGeneral expenses ₦265\n\nHow much was received to maintain the imprest at the ends of the month? (JAMB 2002)",
+    "options": [
+      "₦950",
+      "₦970",
+      "₦430",
+      "₦380"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total expenses = ₦350 + ₦335 + ₦265 = ₦950.\nSo the imprest must be replenished by ₦950."
+  },
+  {
+    "id": "accounting-1788725100381-437-1317",
+    "questionText": "The need for changes in accounting theory in Nigeria was influenced by the? (JAMB 1999)",
+    "options": [
+      "dynamics of commercialization and privatization policies",
+      "growh in size of business units",
+      "introduction of the structural adjustment programme",
+      "inconvertibility of the nation's currency"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The most significant catalyst for revising accounting theory in Nigeria was the introduction of the Structural Adjustment Programme, which ushered in sweeping economic liberalization, deregulation, and a shift away from state-controlled enterprises. This required accounting frameworks that could cope with increased private sector activity, foreign investment, and market-driven financial reporting demands."
+  },
+  {
+    "id": "accounting-1788725100381-438-448",
+    "questionText": "The receipts and payments account of a not-for-profit-making organization plays a similar role in a profit-making organization as (JAMB 2007)",
+    "options": [
+      "a cash account",
+      "a balance sheet",
+      "an income account",
+      "an expenses account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100381-439-756",
+    "questionText": "The difference between double entry and single entry is (JAMB 2019)",
+    "options": [
+      "double entry is based on the dual concept while single entry is not based on dual concept",
+      "double entry is an account while single entry is not an account",
+      "double entry keeps personal account while single does not",
+      "double entry is useful for business enterprise while single entry is not"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Double entry is based on dual concept, i.e two-fold aspect of transaction whereby single entry ignored the principle of double entry."
+  },
+  {
+    "id": "accounting-1788725100381-440-1261",
+    "questionText": "To account for expenses paid by head office on behalf of the branch, the branch should? (JAMB 2001)",
+    "options": [
+      "debit head office account and credit cash",
+      "debit profit and loss account and credit headoffice account",
+      "credit cash and debit profitand loss account",
+      "credit profit and loss account and debit head office account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The branch should recognize the expense and record the head office as creditor:\n\nDebit Profit & Loss (Expense) Account\nCredit Head Office Account"
+  },
+  {
+    "id": "accounting-1788725100381-441-1077",
+    "questionText": "Given:\nRates paid during the year amounted to ₦2,250 at ₦125 per month and 1,035 was paid for electricity in the same period at ₦115 per month.\nDetermine the amount of prepaid rates? (JAMB 2004)",
+    "options": [
+      "₦345",
+      "₦750",
+      "₦1,380",
+      "₦1,500"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Find how many months the rates payment covers\n\nRates paid = ₦2,250\n\nRate per month = ₦125\n\nMonths covered = ₦2,250 ÷ ₦125 = 18 months\n\nStep 2: Determine months prepaid\nIf the accounting period is 12 months, then:\nPrepaid months = 18 − 12 = 6 months\n\nStep 3: Value of prepaid rates\nPrepaid amount = 6 months × ₦125 = ₦750"
+  },
+  {
+    "id": "accounting-1788725100381-442-1157",
+    "questionText": "<b>Use the information below to answer questions 43 and 44</b>\n\nGoods from head office................₦13,400\nReturns to head office ...............₦118\nRates and insurance paid .............₦188\nWages paid ...........................₦913\nCash remitted to head office..........₦16,625\nStock at 1/1/2000.....................₦1,875\nRents paid ...........................₦325\nStock at 31/12/2000 ..................₦1,975\nSundry expenses ......................₦200\n\nThe profit realized from the trade is? (JAMB 2003)",
+    "options": [
+      "₦4 069",
+      "₦1 817",
+      "₦1 440",
+      "₦1 328"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Goods supplied net of returns = 13,400 − 118 = 13,282\nOpening stock = 1,875\nClosing stock = 1,975\n\nCost of goods sold = Opening + Goods supplied − Closing\n                    = 1,875 + 13,282 − 1,975\n                    = ₦13,182\n\nSales (taken as cash remitted) = ₦16,625\nBranch expenses (paid) = 188 + 913 + 325 + 200 = ₦1,626\n\nProfit = Sales − COGS − Expenses\n       = 16,625 − 13,182 − 1,626\n       = ₦1,817"
+  },
+  {
+    "id": "accounting-1788725100381-443-968",
+    "questionText": "One basic assumption of the double entry theory is that it allows? (JAMB 2008)",
+    "options": [
+      "two credit entries at the same time",
+      "two debit entries at the same time",
+      "debit and credit two credit entries at the same time",
+      "debit and credit two credit entries in corresponding account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Explanation: the double-entry principle means every transaction has two effects — a debit in one account and a credit in a corresponding account for the same amount, keeping the books balanced."
+  },
+  {
+    "id": "accounting-1788725100381-444-667",
+    "questionText": "Capital ₦39,000, Long Term Loan ₦15,000, Creditors ₦9,000, Accrued wages ₦5,000 totaling ₦68,000 on one side, and Land ₦20,000, Building ₦30,000, Stock ₦40,000, Debtors ₦6,000, Cash ₦8,000 totaling ₦68,000 on the other side, use the information above to answer the question: The acid test ratio in the company is ________. (JAMB 2018)",
+    "options": [
+      "1:1",
+      "2:3",
+      "1:2",
+      "3:2"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The acid test ratio (quick ratio) measures a company's ability to pay short-term debts using liquid assets.\nFormula:\nAcid Test Ratio = (Current Assets - Stock) ÷ Current Liabilities\nCalculation:\n\nCurrent Assets = Stock + Debtors + Cash = ₦40,000 + ₦6,000 + ₦8,000 = ₦54,000\nQuick Assets = Current Assets - Stock = ₦54,000 - ₦40,000 = ₦14,000\nCurrent Liabilities = Creditors + Accrued wages = ₦9,000 + ₦5,000 = ₦14,000\n\nAcid Test Ratio = ₦14,000 ÷ ₦14,000 = 1:1\nThis means the company has exactly enough liquid assets to cover its current liabilities."
+  },
+  {
+    "id": "accounting-1788725100381-445-1336",
+    "questionText": "<b>Use the information below to answer questions 21 and 22</b>\nAminu and Sons credit purchases(Extract) as at February, 1996\n\n\t\t\t\t\t  ₦\nFeb 1 Credit balances \t\t\t40,000\nDebit balances \t\t\t\t1,000\nFeb 28 Purchases journal totals \t500,000\nReturns outwards journal total \t\t50,000\nCheques paid to suppliers \t\t400,000\nPromissory notes sent to suppliers \t30,000\nDiscount received from suppliers \t8,000\nCredit balances in the purchases\nledger set off against debit balances\nin the sales ledger \t\t\t2,000\n\n\nThe Total for the purchases ledger control account is (JAMB 1999)",
+    "options": [
+      "₦480,000",
+      "₦490,000",
+      "₦500,000",
+      "₦540,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Description, Debit (₦),Credit (₦)\nOpening debit balances (over-payments), 1000,\nOpening credit balances (trade creditors), 40000\nPurchases journal total, 500000\nReturns outwards, 50000,\nCheques paid to suppliers, 400000,\nPromissory notes issued to suppliers, 30000,\nDiscount received from suppliers, 8000,\nSet-off of sales ledger balances, 2000,\nTOTAL DEBITS,4 91000,\nTOTAL CREDITS, 540,000\n\n\nTo “balance” the account, we would show a closing credit balance of ₦49 000 (540 000 – 491 000). But the total of each column after including that balancing figure becomes ₦540 000."
+  },
+  {
+    "id": "accounting-1788725100381-446-106",
+    "questionText": "Which of the following is a recurrent expenditure in public sector accounting? (JAMB 2013)",
+    "options": [
+      "Purchase of vehicles",
+      "Purchase of drugs",
+      "Construction of boreholes",
+      "Construction of buildings"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100381-447-1123",
+    "questionText": "The transaction that completes its double entry in the same ledger account appears in? (JAMB 2003)",
+    "options": [
+      "cash account and personal account",
+      "bank account and general ledger",
+      "discount received and discount allowed",
+      "cash account and bank accont"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Reason: transfers between cash and bank (contra entries) debit the Bank and credit Cash, both sides are recorded in the same cash book/ledger, so the double entry is completed within the same ledger."
+  },
+  {
+    "id": "accounting-1788725100381-448-1114",
+    "questionText": "The statement of assets and liabilities in the public sector can be described as the? (JAMB 2004)",
+    "options": [
+      "income and expenditure accountof government",
+      "appropriation account of government",
+      "balance sheet of government",
+      "funds flow statement of government"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Explanation: a statement of assets and liabilities is essentially a balance sheet, it shows what the government owns (assets) and what it owes (liabilities) at a point in time."
+  },
+  {
+    "id": "accounting-1788725100381-449-488",
+    "questionText": "Determine the capital of the business (JAMB 2009)",
+    "options": [
+      "N 9,400",
+      "N 6,000",
+      "N 3,400",
+      "N 3,000"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100381-450-174",
+    "questionText": "To correct an error, the Purchases Account was debited while Suspense Account was credited. Which  of  the following was the cause of the error? (JAMB 1997)",
+    "options": [
+      "Under casting of purchases",
+      "Overcasting of purchases",
+      "Original entry.",
+      "Transportation of returns outwards"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-451-440",
+    "questionText": "Determine the closing stock. (JAMB 2007)",
+    "options": [
+      "N 5 500",
+      "N 6500",
+      "N 2500",
+      "N 4500"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-452-342",
+    "questionText": "Which of the following is found on the credit side of a partnership’s appropriation of profit account? (JAMB 2015)",
+    "options": [
+      "Interest on capital",
+      "Interest on drawings",
+      "share of profit",
+      "Drawings"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100381-453-1075",
+    "questionText": "Zakari started a business in January 2000. He bought a shop costing ₦54,000 and stock worth ₦7,600. Profit for the year amounted to 22,100. His closing capital was ₦73,800.\nZakari's personal drawings amounted to? (JAMB 2004)",
+    "options": [
+      "₦2,300",
+      "₦9,900",
+      "₦17,100",
+      "₦19,500"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Opening capital = Shop + Stock = ₦54,000 + ₦7,600 = ₦61,600\nClosing capital = Opening + Profit − Drawings\n₦73,800 = ₦61,600 + ₦22,100 − Drawings\nDrawings = ₦61,600 + ₦22,100 − ₦73,800 = ₦9,900"
+  },
+  {
+    "id": "accounting-1788725100381-454-1113",
+    "questionText": "The budget statement presented to the legislature by the Chief Executive is called? (JAMB 2004)",
+    "options": [
+      "an appropriation act",
+      "a budget bill",
+      "an appropriation bill",
+      "a budget proposal"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Explanation: the budget (estimates of government spending) is presented to the legislature in the form of an Appropriation Bill, the legal instrument that authorizes the withdrawal and use of public funds."
+  },
+  {
+    "id": "accounting-1788725100381-455-113",
+    "questionText": "A set of instructions or programs which controls the operation of a computer is (JAMB 2013)",
+    "options": [
+      "software.",
+      "hardware.",
+      "monitor.",
+      "keyboard."
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-456-724",
+    "questionText": "On 31 July 2017, Mr. Ojo provides the following information for his business:\n\nOpening stock: ₦7,000\n\nClosing stock: ₦12,000\n\nPurchases: ₦60,000\n\nExpenses: ₦4,500\n\nUniform gross margin: 33⅓%\n\nCalculate the total sales for the period. (JAMB 2019)",
+    "options": [
+      "₦55,000",
+      "₦82,500",
+      "₦27,500",
+      "₦50,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "COGS = Opening Stock + Purchases − Closing Stock\n= 7,000 + 60,000 − 12,000 = ₦55,000\n\nLet Sales = S\nGross margin is 33⅓%, meaning Gross Profit = 1/3 of Sales = S/3\n\nSince:\nSales = COGS + Gross Profit\nS = 55,000 + S/3\n\nMultiply both sides by 3 to eliminate the fraction:\n3S = 165,000 + S\n\nSubtract S from both sides:\n2S = 165,000\n\nDivide both sides by 2:\nS = ₦82,500\n\nFinal Answer: ₦82,500"
+  },
+  {
+    "id": "accounting-1788725100381-457-36",
+    "questionText": "Which   accounting  concept  states; that revenues and expenses are recognized as they are earned or incurred and not when  money is received? (JAMB 2011)",
+    "options": [
+      "Entity",
+      "Realization",
+      "Accrual",
+      "Periodicity"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100381-458-1300",
+    "questionText": "The accumulation fund of a non-trading concern can equally be referred to as? (JAMB 2000)",
+    "options": [
+      "members' equity",
+      "share capital",
+      "general fund",
+      "surplus fund"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The “Accumulated Fund” in a non‐trading concern is the same as its General Fund, representing the net assets built up over time."
+  },
+  {
+    "id": "accounting-1788725100381-459-1430",
+    "questionText": "The receipt of cash from a customer who bought goods with ₦800 list price, 25% trade discount and 2/10, n/30 terms would, if paid within the discount period, amount to (JAMB 1997)",
+    "options": [
+      "₦576",
+      "₦588",
+      "₦600",
+      "₦600"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Net after trade discount:\n\n₦800 × (1−0.25) = ₦600\n\nThen 2% cash discount on ₦600:\n\n₦600 × 0.02 = ₦12\nAmount paid = ₦600 − ₦12 = ₦588"
+  },
+  {
+    "id": "accounting-1788725100381-460-156",
+    "questionText": "From the information above, sources of income for a Not-for-profit making organization include (JAMB 2016)",
+    "options": [
+      "I, III, IV",
+      "I, II, III",
+      "I, II, IV",
+      "I and IV"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100381-461-763",
+    "questionText": "Shares that are offered to existing shareholders at a price is called (JAMB 2019)",
+    "options": [
+      "par",
+      "premium",
+      "right issue",
+      "bonus issue"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Right issue are offered to existing shareholders in a company."
+  },
+  {
+    "id": "accounting-1788725100381-462-1341",
+    "questionText": "Receipt and payments account of a non-profit making organization is principally a summary of the? (JAMB 1999)",
+    "options": [
+      "bank entries",
+      "cash book entries",
+      "expenditure entries",
+      "balance sheet entries"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A Receipts and Payments Account is:\n\nA summary of all cash and bank transactions (both capital and revenue) during an accounting period.\n\nIt records actual cash inflows and outflows on a cash basis.\n\nIt is similar to a cash book, but prepared at the end of the year for presentation to members.\n\nSo, it is primarily a summary of what is found in the cash book."
+  },
+  {
+    "id": "accounting-1788725100381-463-825",
+    "questionText": "The issued share capital is the number of shares that are  (JAMB 2021)",
+    "options": [
+      "shared among the directors",
+      "authorised by the shareholders",
+      "fully subscribed",
+      "in the share certificate"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Issued share capital represents the portion of the company’s authorized capital that has actually been allotted to and subscribed by shareholders. It is the total number of shares for which applications have been accepted (i.e., fully subscribed), not merely authorized or held by directors."
+  },
+  {
+    "id": "accounting-1788725100381-464-534",
+    "questionText": "The accounting convention that state that, stock should be value that the lower of cost and net realized value is --------------- convention (JAMB 2015)",
+    "options": [
+      "marching",
+      "consistency",
+      "realization",
+      "prudency"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Prudence Concept or Conservatism principle is a key accounting principle which makes sure that assets and income are not overstated and provision is made for all known expenses and losses whether the amount is known for certain or just an estimation i.e expenses and liabilities are not understated in the books of account"
+  },
+  {
+    "id": "accounting-1788725100381-465-1311",
+    "questionText": "Given the following information for two departments: Department A has floor space 400m, machine 1200, turnover ₦36 million, and labour hours 1000; Department B has floor space 600m, machine 1400, turnover ₦64 million, and labour hours 1400. A joint cost of ₦72 million incurred by the two departments was apportioned ₦30 million to A and ₦42 million to B. The basis used for apportionment must have been what? (JAMB 2000)",
+    "options": [
+      "labour hours",
+      "floor space",
+      "turnover",
+      "machine hours"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The allocation ratio is:\n\nDepartment A: ₦30 million\nDepartment B: ₦42 million\nTotal: ₦72 million\nRatio A:B = 30:42 = 5:7\n\n\nLabour hours:\n\nDept A: 1000, Dept B: 1400\nTotal: 2400\nRatio = 1000:1400 = 5:7"
+  },
+  {
+    "id": "accounting-1788725100381-466-1404",
+    "questionText": "The ordinary shareholders enjoy the following rights except the right to? (JAMB 199)",
+    "options": [
+      "vote at annual general meetings",
+      "elect the board of directors",
+      "participate in additional issues of shares",
+      "receive dividends at a preddetermined rate"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Ordinary shareholders have all of those rights except the right to receive dividends at a predetermined rate. Dividends for ordinary shares are declared at the discretion of the board and vary with the company’s profitability and dividend policy."
+  },
+  {
+    "id": "accounting-1788725100381-467-891",
+    "questionText": "A part of public company's profit belonging to the shareholders is (JAMB 2023)",
+    "options": [
+      "right issue",
+      "bonus",
+      "dividends",
+      "public issue"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Dividends are a part of a public company's profit that is distributed to shareholders. It is a way for companies to distribute a portion of their earnings back to their shareholders. Public issue, bonus, and right issue are not parts of a company's profit that belong to the shareholders."
+  },
+  {
+    "id": "accounting-1788725100381-468-35",
+    "questionText": "A credit balance of N350,000 in a cash account shows that   (JAMB 2011)",
+    "options": [
+      "N350.000 was the total cash received",
+      "N350,000 was the total cash paid out",
+      "Cash at hand equals N350,000",
+      "N350,000 was the cash overspent"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100381-469-631",
+    "questionText": "A business has the following information for a trading period: Stock Jan 1 ₦2600, Purchases ₦4000, Carriage inwards ₦500, Sales ₦9000, Carriage outwards ₦500. Determine the net profit. (JAMB 2017)",
+    "options": [
+      "₦4,000",
+      "₦4,500",
+      ". ₦5,000",
+      "₦1,400"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Cost of goods sold = Opening stock + Purchases + Carriage inwards\n= ₦2,600 + ₦4,000 + ₦500\n= ₦7,100\n\nGross profit = Sales − Cost of goods sold\n= ₦9,000 − ₦7,100\n= ₦1,900\n\nNet profit = Gross profit − Carriage outwards\n= ₦1,900 − ₦500\n= ₦1,400."
+  },
+  {
+    "id": "accounting-1788725100381-470-670",
+    "questionText": "A Trading account for the year ended 31st December 2009 shows the following information:\nOpening Stock: ₦32,000\nPurchases: ₦40,000\nCarriage inwards: ₦1,000\nLess Returns: ₦2,000\nSales: ₦48,000\nLess Returns: ₦2,000\nClosing Stock: ₦9,000\nCalculate:\n\nWhat is the cost of goods available for sale?\n (JAMB 2018)",
+    "options": [
+      "₦20,500",
+      "₦71,000",
+      "₦28,000",
+      "₦27,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Calculate Cost of Goods Available\nCost of Goods Available = Opening Stock + Net Purchases + Carriage Inwards\n= ₦32,000 + ₦39,000 + ₦1,000 = ₦71,000"
+  },
+  {
+    "id": "accounting-1788725100381-471-1130",
+    "questionText": "<b>Use the information below to answer questions 15 and 16</b>\n\nCalculate the value of fixed assets (JAMB 2003)",
+    "options": [
+      "₦17,052",
+      "₦18469",
+      "₦27 001",
+      "₦27051"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fixed assets:\n\nLand & building = ₦8,470\n\nFurniture & fittings = ₦5,120\n\nMotor vehicles = ₦3,462\n\nTotal fixed assets =\n8,470 + 5,120 + 3,462 = ₦17,052"
+  },
+  {
+    "id": "accounting-1788725100381-472-275",
+    "questionText": "Which of the following is component of prime cost? (JAMB 2012)",
+    "options": [
+      "Depreciation",
+      "Royalty",
+      "Factory rent",
+      "Factory electricity"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100381-473-855",
+    "questionText": "The authority warrant issued prior to the approval of the appropriate bill at the begining of the year (JAMB 2022)",
+    "options": [
+      "contigencies",
+      "reserved expenditure warrant",
+      "annual general warrant",
+      "provisional general warrant"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The authority warrant issued prior to the approval of the appropriate bill at the beginning of the year is known as a provisional general warrant."
+  },
+  {
+    "id": "accounting-1788725100381-474-581",
+    "questionText": "A proprietor started business with ₦13,000. Assets and liabilities at the end of the year; fixed assets ₦8,800, stock ₦, 600, debtors ₦1,000, cash ₦3, 000 and creditors ₦1,000. Determine the profit for the year? (JAMB 2016)",
+    "options": [
+      "₦2,400",
+      "₦3,000",
+      "₦9,800",
+      "-₦600"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Step 1: Calculate the closing capital\nClosing Capital = Assets - Liabilities\n\nTotal Assets = Fixed assets + Stock + Debtors + Cash\nTotal Assets = ₦8,800 + ₦600 + ₦1,000 + ₦3,000 = ₦13,400\nTotal Liabilities = Creditors = ₦1,000\nClosing Capital = ₦13,400 - ₦1,000 = ₦12,400\n\nStep 2: Calculate the profit\nProfit = Closing Capital - Opening Capital\nProfit = ₦12,400 - ₦13,000 = -₦600"
+  },
+  {
+    "id": "accounting-1788725100381-475-4",
+    "questionText": "Which   of the   following   is   a  long  term liability  (JAMB 2010)",
+    "options": [
+      "bank overdraft",
+      "bank deposit",
+      "good will",
+      "debentures"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100381-476-392",
+    "questionText": "The accounting principle that is applied to check arbitrary actions on the part of accountants is (JAMB 2004)",
+    "options": [
+      "consistency",
+      "materiality",
+      "objectivity",
+      "realization"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-477-267",
+    "questionText": "The addition of prime cost and factory overheads is (JAMB 2012)",
+    "options": [
+      "total factory overheads.",
+      "market value of goods produced.",
+      "cost of goods produced",
+      "work-in-progress."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100381-478-210",
+    "questionText": "When a share is sold for less than its nominal value, the difference is called (JAMB 1997)",
+    "options": [
+      "discount",
+      "reserve",
+      "premium",
+      "loss"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-479-751",
+    "questionText": "One of these is not a similarity between Joint Venture and Partnership. (JAMB 2019)",
+    "options": [
+      "AIM is profit making",
+      "It is for a specific venture",
+      "Involves two people",
+      "have rights and duties"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Joint venture is for a specific venture while partnership is for a perpetual succession."
+  },
+  {
+    "id": "accounting-1788725100381-480-401",
+    "questionText": "The balance on the provision for depreciation account is (JAMB 2004)",
+    "options": [
+      "added to fixed assets on the balance sheet",
+      "deducted from fixed assets on the balance sheet",
+      "deducted from the profit and loss account",
+      "added to the current liabilities of the account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100381-481-1032",
+    "questionText": "The item that are contained in the bought ledger control account are? (JAMB 2005)",
+    "options": [
+      "discount allowed, bad debts and purchases",
+      "dishonoured cheques, returns inwards and sales",
+      "returns outwards, bad debts outewards and sales",
+      "discount received, returns outwards and purchases"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Explanation: the purchases (bought) ledger control account records purchases from suppliers (credit), and adjustments that reduce the liability — returns outwards (purchase returns) and discount received."
+  },
+  {
+    "id": "accounting-1788725100381-482-71",
+    "questionText": " On December 31, 2012, Infinite Grace had a note payable due on August 1, 2013. On January 20, 2013, Infinite Grace signed a financing agreement to borrow the balance of the note payable from a lending institution to refinance the note. The agreement does not expire within one year, and no violation of any provision in the financing agreement exists. On  February 1, 2013. Infinite Grace was informed by its financial advisor that the lender is not expected to be financially capable of honouring the agreement. Infinite Grace's financial statements were issued on March 31, 2013. How should Infinite Grace classify the note on its balance sheet at December 31,2012?  (JAMB 2013)",
+    "options": [
+      "as a current liability because the financing agreement was signed after the balance sheet datecapable of honouring the agreement",
+      "as a current liability because the leader is not expected to be financially",
+      "as a long-term liability because the agreement does not expire within one year",
+      "as a long-term liability because no violation of any provision in the financing agreement exists."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100381-483-397",
+    "questionText": "The recipient whose name appears on a cheque is called a (JAMB 2004)",
+    "options": [
+      "payee",
+      "drawer",
+      "drawee",
+      "payee"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100381-484-1085",
+    "questionText": "Given:\nGeneral expenses account.\nPaid by cheque..................₦671\nPaid by cash....................₦70\nAccrued b/f.....................₦65\nAccrued c/f.....................₦115\n\nDetermine how much to be charged to profit and loss account? (JAMB 2004)",
+    "options": [
+      "₦606",
+      "₦786",
+      "₦791",
+      "₦856"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Amount to charge to P&L = Total paid during the year + Closing accrual − Opening accrual\n\nWhere:\n\nTotal paid during the year = Cheque payments + Cash payments\n\nClosing accrual = Expenses incurred this year but not yet paid (add them)\n\nOpening accrual = Expenses from last year paid this year (subtract them)\n\n\n\nTotal paid during the year\n\n671 + 70 = ₦741\n\nAdd closing accrual\n\n741 + 115 = ₦856\n\nSubtract opening accrual\n\n856 − 65 = ₦791\n\nFinal P&L charge = ₦791"
+  },
+  {
+    "id": "accounting-1788725100381-485-1296",
+    "questionText": "Given:\nOpening cash balance ₦20,000\nSales of match tickets ₦15,000\nClearing of pitch ₦1,200\nRefreshments ₦3,500\nReferees' allowance ₦1,000\nCost of petrol ₦1,120\nDonation from local government ₦3,800\n\nThe club's balance is? (JAMB 2000)",
+    "options": [
+      "₦39,180",
+      "₦34,830",
+      "₦34,380",
+      "₦31,980"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Opening cash: ₦20 000\nAdd receipts:\n\nSales of match tickets: ₦15 000\n\nDonation from local government: ₦3 800\nSubtotal: 20 000 + 15 000 + 3 800 = ₦38 800\n\nLess payments:\n\nClearing of pitch: ₦1 200\n\nRefreshments: ₦3 500\n\nReferees’ allowance: ₦1 000\n\nCost of petrol: ₦1 120\nTotal payments: 1 200 + 3 500 + 1 000 + 1 120 = ₦6 820\n\nClosing cash: 38 800 − 6 820 = ₦31 980"
+  },
+  {
+    "id": "accounting-1788725100381-486-541",
+    "questionText": "The following account are prepared when goods are sent to branch except (JAMB 2015)",
+    "options": [
+      "Branch stock",
+      "Goods set to branch account",
+      "Branch adjustment account",
+      "Branch debtors account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Branch debtors account is used to exercise control over branch debtors. It is maintained when the branch is allowed to sell goods on credit. This account records transactions with the branch debtors and is prepared like sundry debtors account"
+  },
+  {
+    "id": "accounting-1788725100381-487-173",
+    "questionText": "A suspense account is used to (JAMB 1997)",
+    "options": [
+      "agree the trial balance",
+      "record sales",
+      "record purchases",
+      "correct errors"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-488-374",
+    "questionText": "When shares are issued above their nominal value, the \texcess above the nominal value is (JAMB 2014)",
+    "options": [
+      "credited to Profit and Loss Account",
+      "debited to Share Premium Account",
+      "credited to Share Capital Account",
+      "credited to share Premium Account"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100381-489-231",
+    "questionText": "Bank reconciliation statement reconciles (JAMB 2006)",
+    "options": [
+      "bank and cash balances in the cash book",
+      "bank balance in the cash book and bank statement balance",
+      "cash balance in the cash book and bank statement balance",
+      "bank balance brought down and bank balance carried down in the cash bcok."
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100381-490-122",
+    "questionText": "Stock account is a type of (JAMB 2013)",
+    "options": [
+      "nominal account.",
+      "personal account.",
+      "real account.",
+      "fixed assets account."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100381-491-974",
+    "questionText": "An entry made in bank column of cash book to record movement of cash between the office and the bank is the? (JAMB 2008)",
+    "options": [
+      "real entry",
+      "special entry",
+      "direct entry",
+      "contra entry"
+    ],
+    "correctAnswer": "D",
+    "explanation": "When cash is moved between the office and the bank (or vice versa), this creates a special type of entry in the cash book."
+  },
+  {
+    "id": "accounting-1788725100381-492-672",
+    "questionText": "The amount called in respect of a share but not paid before or on the date fixed for payment is referred to as: (JAMB 2018)",
+    "options": [
+      "Call in advance",
+      "call in arrears",
+      "forfeiture",
+      "shares"
+    ],
+    "correctAnswer": "B",
+    "explanation": "the amount called by the company which is not paid by the shareholders before the due date fixed for payment"
+  },
+  {
+    "id": "accounting-1788725100381-493-1232",
+    "questionText": "<b>Use the information below to answer questions 17 and 18.</b> \n\nThe value of x is (JAMB 2001)",
+    "options": [
+      "₦560.00",
+      "₦5.00",
+      "₦5.50",
+      "₦6.00"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find x, Calculate the balance after Jan. 15:\nStock movements:\n\nJan. 1: 100 units (₦500.00)\nJan. 5: +50 units (₦300.00) = 150 units total\nJan. 7: -40 units (₦240.00) = 110 units remaining\nJan. 10: +50 units (₦200.00) = 160 units total\nJan. 15: -50 units (₦200.00) = 110 units remaining\n\nRemaining stock composition:\n\n100 units at ₦5.00 = ₦500.00\n10 units at ₦6.00 = ₦60.00\nTotal = 110 units worth ₦560.00\n\nTherefore, x = ₦560.00"
+  },
+  {
+    "id": "accounting-1788725100381-494-681",
+    "questionText": "Which of the following is not a type of branch? (JAMB 2018)",
+    "options": [
+      "Dependent branch",
+      "foreign branch",
+      "independent branch",
+      "single branch"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Branches are typically classified as:\n\nDependent branches, which rely on the head office for purchases and policies\n\nIndependent branches, which operate like standalone entities with their own accounting systems\n\nForeign branches, which are located in another country and may involve additional currency and regulatory considerations\n\nThe term “single branch” isn’t used as a formal classification."
+  },
+  {
+    "id": "accounting-1788725100381-495-1195",
+    "questionText": "Given that 1/3 of the ₦6000 stock held by a branch is purchased from outsiders. If goods are invoiced to branch at 25% on cost, the provision for unrealized profit is? (JAMB 2002)",
+    "options": [
+      "₦1000.00",
+      "₦333.33",
+      "₦666.66",
+      "₦800.00"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Step 1: Stock purchased from head office\nTotal stock = ₦6,000\n1/3 purchased from outsiders → 2/3 purchased from head office.\nFrom head office = (2/3) × ₦6,000 = ₦4,000.\n\nStep 2: Find loading (profit) included\nGoods invoiced at 25% on cost means the profit margin is 25% of cost.\nProfit fraction on selling price = 25 / (100 + 25) = 25/125 = 1/5.\n\nSo, unrealised profit in goods from head office = ₦4,000 × (1/5) = ₦800."
+  },
+  {
+    "id": "accounting-1788725100381-496-705",
+    "questionText": "Why should a new partner contribute towards goodwill on his admission? (JAMB 2018)",
+    "options": [
+      "It is a norm",
+      "to ensure new partner also have a stake in the business",
+      "the firm into which he is entering already has some goodwill in the market",
+      "to purchase the business"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Goodwill is being paid by a new partner because the partnership he is entering into already has goodwill in the market as well as to pay for the portion sacrificed by existing partners in form to their profit to admit the new partner."
+  },
+  {
+    "id": "accounting-1788725100381-497-1249",
+    "questionText": "If a partner pays a premium of ₦500 for 1/5 share of profit, then the total value of goodwill is? (JAMB 2001)",
+    "options": [
+      "₦500",
+      "₦2,000",
+      "₦2,500",
+      "₦3,000"
+    ],
+    "correctAnswer": "C",
+    "explanation": "When a new partner pays a premium to join a partnership, this premium represents their share of the goodwill of the business.\nGiven:\n\nPremium paid = ₦500\nShare of profit = 1/5\n\nCalculation:\nIf 1/5 share of goodwill = ₦500\nThen total goodwill = ₦500 ÷ (1/5)\nTotal goodwill = ₦500 × 5 = ₦2,500"
+  },
+  {
+    "id": "accounting-1788725100381-498-517",
+    "questionText": "Calculate the total purchase of a business from the given information, cash purchases ₦3,000; payments to creditors ₦53,000; creditors at the beginning ₦4,000; creditors at the end ₦2,000 (JAMB 2015)",
+    "options": [
+      "₦52,000",
+      "₦54,000",
+      "₦55,000",
+      "₦50,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Formula:\nTotal Purchases = Cash Purchases + Credit Purchases\nFinding Credit Purchases:\nCredit Purchases = Payments to Creditors + Closing Creditors - Opening Creditors\nCalculation:\n\nCash Purchases = 3,000\nPayments to Creditors = 53,000\nOpening Creditors = 4,000\nClosing Creditors = 2,000\n\nCredit Purchases = 53,000 + 2,000 - 4,000 = 51,000\nTotal Purchases:\nTotal Purchases = Cash Purchases + Credit Purchases\nTotal Purchases = 3,000 + 51,000 = 54,000\nThe total purchases of the business amount to ₦54,000"
+  },
+  {
+    "id": "accounting-1788725100381-499-1190",
+    "questionText": "<b>Use the information below to answer questions 26 and 27</b>\n\nTotal Sales: ₦10,000 (Dept P: ₦6,000, Dept Q: ₦4,000)\nTotal Purchases: ₦4,000 (Dept P: ₦1,000, Dept Q: ₦3,000)\nTotal Discount received: ₦1,000\nTotal Discounts allowed: ₦2,000\n\n<b>Discount(allowed and received) are apportioned to the two departments on the basis of departmental sales and purchases.</b>\n\nDepartment P’s share of discount received is? (JAMB 2002)",
+    "options": [
+      "₦750",
+      "₦1,000",
+      "₦250",
+      "₦500."
+    ],
+    "correctAnswer": "C",
+    "explanation": "Discount received is apportioned based on purchases (since it's received from suppliers).\nStep 1: Calculate Department P's proportion of total purchases\nDept P purchases = ₦1,000\nTotal purchases = ₦4,000\nProportion = ₦1,000 ÷ ₦4,000 = 1/4 = 25%\nStep 2: Calculate Department P's share of discount received\nTotal discount received = ₦1,000\nDept P's share = 25% × ₦1,000 = ₦250"
+  },
+  {
+    "id": "accounting-1788725100381-500-743",
+    "questionText": "A company has two departments with the following information: opening stock for Department A is ₦100 and Department B is ₦800; purchases for Department A is ₦1,500 and Department B is ₦2,000; wages of workers is ₦50 and salaries is ₦100; sales for Department A is ₦3,000 and Department B is ₦5,000. Expenses are to be shared in the ratio of sales. What is the cost of goods for Department B? (JAMB 2019)",
+    "options": [
+      "₦2 893.75",
+      "₦3,400",
+      "₦2,800",
+      "₦4,120"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Opening Stock + Purchases + Department B’s share of expenses\n= ₦800 + ₦2 000 + [₦150 × (₦5 000 ÷ ₦8 000)]\n= ₦800 + ₦2 000 + (₦150 × 0.625)\n= ₦800 + ₦2 000 + ₦93.75\n= ₦2 893.75"
+  },
+  {
+    "id": "accounting-1788725100381-501-1429",
+    "questionText": "On the 30/5/93 Tolu & Co. paid 2 years rent of ₦50,000 which was debited to the rent account.\nThe adjustment needed as at 31st December 1993 is? (JAMB 1997)",
+    "options": [
+      "debit rent account and credited adjustment account",
+      "debit prepayment account and credit rent account",
+      "debit rent account and credit prepayment account",
+      "debit adjustment account and credit prepayment account"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The full ₦50,000 was originally charged to Rent Expense.\n\nAt 31 Dec 1993, ₦35,417 of that relates to future periods (prepaid).\n\nTo move that unexpired portion off the expense and onto the balance sheet, you debit Prepaid Rent and credit Rent Expense."
+  },
+  {
+    "id": "accounting-1788725100381-502-1177",
+    "questionText": "<b>Use the information below to answer questions 12 and 13.</b> \n\n<b>Statement of assets and liabilities as at 31st December, 2001.</b> \n\nShareholders' interest ₦240 \nCurrent liabilities ₦20 \nCurrent assets ₦110 \nFixed assets ₦140\n\nDetermine the value of the trade investment? (JAMB 2002)",
+    "options": [
+      "₦8m",
+      "₦10m",
+      "₦15m",
+      "₦20m"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Total assets\nShareholders’ interest = ₦240m\nCurrent liabilities = ₦20m\nSo:\nTotal assets = ₦240m + ₦20m = ₦260m\n\nStep 2: Known assets\nCurrent assets = ₦110m\nFixed assets = ₦140m\nSum = ₦110m + ₦140m = ₦250m\n\nStep 3: Trade investment\nTrade investment = Total assets − (Current assets + Fixed assets)\n= ₦260m − ₦250m\n= ₦10m"
+  },
+  {
+    "id": "accounting-1788725100381-503-644",
+    "questionText": "Two departments A and B have the following information: Department A has Sales ₦250,000, Purchases ₦500,000, Discount received ₦24,000, and Discount allowed ₦15,000. Department B has Sales ₦150,000 and Purchases ₦250,000. Determine the discount allowed by Department A. (JAMB 2017)",
+    "options": [
+      "₦5,000",
+      "₦9,375",
+      "₦5,625",
+      "₦8,000"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Step 1: Calculate total sales\n\nDepartment A sales: ₦250,000\nDepartment B sales: ₦150,000\nTotal sales: ₦400,000\n\nStep 2: Calculate Department A's proportion of total sales\nDepartment A's proportion = ₦250,000 ÷ ₦400,000 = 62.5%\nStep 3: Allocate total discount allowed proportionally\nTotal discount allowed = ₦15,000 (given for the business)\nDepartment A's discount allowed = ₦15,000 × 62.5% = ₦9,375\nDepartment A's discount allowed is ₦9,375, representing their proportional share based on sales volume."
+  },
+  {
+    "id": "accounting-1788725100381-504-1191",
+    "questionText": "<b>Use the information below to answer questions 26 and 27</b>\n\nTotal Sales: ₦10,000 (Dept P: ₦6,000, Dept Q: ₦4,000)\nTotal Purchases: ₦4,000 (Dept P: ₦1,000, Dept Q: ₦3,000)\nTotal Discount received: ₦1,000\nTotal Discounts allowed: ₦2,000\n\n<b>Discount(allowed and received) are apportioned to the two departments on the basis of departmental sales and purchases.</b>\n\nWhat is department Q’s share of discount allowed? (JAMB 2002)",
+    "options": [
+      "₦2,000",
+      "₦1,500",
+      "₦800",
+      "₦1,200"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Discount allowed is apportioned based on sales (since it's allowed to customers).\nStep 1: Calculate Department Q's proportion of total sales\nDept Q sales = ₦4,000\nTotal sales = ₦10,000\nProportion = ₦4,000 ÷ ₦10,000 = 2/5 = 40%\nStep 2: Calculate Department Q's share of discount allowed\nTotal discounts allowed = ₦2,000\nDept Q's share = 40% × ₦2,000 = ₦800"
+  },
+  {
+    "id": "accounting-1788725100381-505-314",
+    "questionText": "Which of the following accounts has a credit balance? (JAMB 2015)",
+    "options": [
+      "Capital",
+      "Cash",
+      "Drawings",
+      "Premises"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-506-124",
+    "questionText": "Which of the following is not part of prime costof production? (JAMB 2013)",
+    "options": [
+      "Depreciation of factory equipment",
+      "Direct expenses",
+      "Direct wages",
+      "Carriage on raw materials"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-507-1395",
+    "questionText": "The trading account is to a sole trader what income and expenditure account is to a? (JAMB 199)",
+    "options": [
+      "partnership",
+      "public limited organization",
+      "manufacturing organization",
+      "non-profit making organization"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The trading account is to a sole trader what the income and expenditure account is to a non-profit making organization."
+  },
+  {
+    "id": "accounting-1788725100381-508-640",
+    "questionText": "One of the options below have the same features as the profit and loss account in non-profit organization (JAMB 2017)",
+    "options": [
+      "Income and expenditure account",
+      "profit and loss account",
+      "receipts and payment account",
+      "Non profit account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Income and expenditure : This is the type of account that operate same features as the profit and loss account it takes in consideration all arrears and prepayments"
+  },
+  {
+    "id": "accounting-1788725100381-509-1385",
+    "questionText": "A powerful instrument of control over both the sales ledger and the clek whose duty is to post the ledger is the? (JAMB 199)",
+    "options": [
+      "total debtors account",
+      "purchase day book",
+      "sales day book",
+      "cash book"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Debtors Control Account (often called the Total Debtors Account) in the general ledger provides a summary total of all individual customer balances in the sales ledger. By reconciling the control account with the detail in the subsidiary (sales) ledger, management can ensure that the clerk has posted correctly and completely."
+  },
+  {
+    "id": "accounting-1788725100381-510-193",
+    "questionText": "A real account is the account of (JAMB 1997)",
+    "options": [
+      "expenses or losses",
+      "gains or income",
+      "physical tangible items",
+      "fictitious items"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct answer is C."
+  },
+  {
+    "id": "accounting-1788725100381-511-390",
+    "questionText": "A collection of fields relating to one logically definable unit of business information is known as (JAMB 2014)",
+    "options": [
+      "data",
+      "character",
+      "byte",
+      "record"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100381-512-486",
+    "questionText": "Which of the following should not be added or subtracted from the bank statement balance to determine the adjusted cash balance? (JAMB 2009)",
+    "options": [
+      "Error by the bank",
+      "Under casting of the cash book",
+      "Overcasting of the cash book",
+      "Bank service charges"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-513-564",
+    "questionText": "If rent account is debited instead of rate account, the error committed is that of; (JAMB 2015)",
+    "options": [
+      "omission",
+      "commission",
+      "principle",
+      "original entry"
+    ],
+    "correctAnswer": "A",
+    "explanation": "error of omission: An error that occurs when action has not been taken or when something has been left out."
+  },
+  {
+    "id": "accounting-1788725100381-514-9",
+    "questionText": "Which of the following is not an asset  (JAMB 2010)",
+    "options": [
+      "Goodwill",
+      "General reserves",
+      "Debtors",
+      "Prepayments"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is B."
+  },
+  {
+    "id": "accounting-1788725100381-515-1093",
+    "questionText": "<b>Use the information below to answer questions 28 and 29</b>\n\n\nOn January 1,2000, a club's assets and liabilities were as follows:\nClub house...................₦8,000\nSubscription.................₦300\nCash.........................₦1,000\nWages owed...................₦100\n\nThe club has 50 members and annual subscription is ₦100 per member.\nSubscription received is ₦4,000 and this includes 1999 arrears of ₦200.\n\nIn the balance sheet, the subscription in arrears will be? (JAMB 2004)",
+    "options": [
+      "₦200",
+      "₦300",
+      "₦1,200",
+      "₦1,300"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Step 1: Calculate total subscription due for the year 2000\nTotal subscription due = 50 members × ₦100 per member\nTotal subscription due = ₦5,000\nStep 2: Calculate subscription received for 2000 only\nSubscription received for 2000 = Total received - 1999 arrears\nSubscription received for 2000 = ₦4,000 - ₦200\nSubscription received for 2000 = ₦3,800\nStep 3: Calculate subscription in arrears at end of 2000\nSubscription in arrears = Total due for 2000 - Amount received for 2000\nSubscription in arrears = ₦5,000 - ₦3,800\nSubscription in arrears = ₦1,200"
+  },
+  {
+    "id": "accounting-1788725100381-516-426",
+    "questionText": "When a new partner is admitted to a partnership, there is a need to revalue the (JAMB 2004)",
+    "options": [
+      "capital of the business",
+      "capital and liabilities of the business",
+      "assets and capital of the business",
+      "assets and liabilities of the business"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct answer is D."
+  },
+  {
+    "id": "accounting-1788725100381-517-1444",
+    "questionText": "Adamu, Babaji and Chukwu are in partnership and they share profit and losses on ratio 3:2:1. Their respective capitals are ₦20 000, ₦15 000 and ₦5 000 on which on which they are entitle to interest at 5% per annum. The profit for the year before charging interest on capital amounted to ₦5 500.\n\nCalculate the profit for Adamu? (JAMB 1997)",
+    "options": [
+      "₦2,750",
+      "₦1,000",
+      "₦1,167",
+      "₦1,750"
+    ],
+    "correctAnswer": "A",
+    "explanation": "To find Adamu's profit, calculate the interest on capital first, then distribute the remaining profit according to the profit-sharing ratio.\nGiven information:\n\nProfit-sharing ratio: Adamu:Babaji:Chukwu = 3:2:1\nCapitals: Adamu ₦20,000, Babaji ₦15,000, Chukwu ₦5,000\nInterest on capital: 5% per annum\nProfit before interest on capital: ₦5,500\n\nStep 1: Calculate interest on capital\n\nAdamu's interest: ₦20,000 × 5% = ₦1,000\nBabaji's interest: ₦15,000 × 5% = ₦750\nChukwu's interest: ₦5,000 × 5% = ₦250\nTotal interest on capital: ₦2,000\n\nStep 2: Calculate profit available for distribution\nProfit after charging interest = ₦5,500 - ₦2,000 = ₦3,500\nStep 3: Distribute remaining profit in ratio 3:2:1\nTotal ratio = 3 + 2 + 1 = 6\nAdamu's share = (3/6) × ₦3,500 = ₦1,750\nStep 4: Calculate Adamu's total profit\nAdamu's total profit = Interest on capital + Share of profit\n= ₦1,000 + ₦1,750 = ₦2,750"
+  },
+  {
+    "id": "accounting-1788725100381-518-1042",
+    "questionText": "<b>Use the information below to answer questions 27 to 28</b>\n\nPurchase:..Raw materials.................₦15 000\nFinished goods...........................₦11 400\nStock:....(1/7/01)Raw materials..........₦2 250\nWork-in-progress.........................₦1 875\nWages:.....Direct........................₦17 100\nIndirect.................................₦5 400\nStock:.....(30/06/02)Raw materials.......₦3 000\nWork-in-progress.........................₦3 375\n\nWhat is the cost of manufactured goods? (JAMB 2005)",
+    "options": [
+      "₦49 125",
+      "₦48 750",
+      "₦37 625",
+      "₦35 250"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Raw materials consumed = Opening RM + Purchases RM − Closing RM\n= ₦2,250 + ₦15,000 − ₦3,000 = ₦14,250\n\nDirect labour = ₦17,100\n\nManufacturing overheads (indirect wages) = ₦5,400\n\nTotal manufacturing costs = RM consumed + Direct labour + Overheads\n= ₦14,250 + ₦17,100 + ₦5,400 = ₦36,750\n\nAdd: Opening WIP = ₦1,875 → ₦38,625\n\nLess: Closing WIP = ₦3,375 → ₦35,250\n\nFinal answer: Cost of manufactured goods = ₦35,250."
+  },
+  {
+    "id": "accounting-1788725100381-519-310",
+    "questionText": "The accounting ledger for goods sold on credit are debit (JAMB 2015)",
+    "options": [
+      "Debtors Account, credit Sales Account",
+      "Creditors Account, credit Sales Account",
+      "Sales Account, credit Debtors Account",
+      "Sales Account, credit Creditors Account"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct answer is A."
+  },
+  {
+    "id": "accounting-1788725100381-520-1325",
+    "questionText": "The fixed amount of money given to a petty cashier at the beginning of a period is called? (JAMB 1999)",
+    "options": [
+      "imprest",
+      "petty cash",
+      "float",
+      "cash advance"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The fixed amount advanced to a petty cashier at the start of a period under the imprest system is known as the imprest (sometimes called the petty cash float)."
+  },
+  {
+    "id": "accounting-1788725100381-521-570",
+    "questionText": "The ratio that gives the indication of the efficiency of a firm's sales with respect to cost of goods sold is a (JAMB 2016)",
+    "options": [
+      "return on capital employed",
+      "gross profit margin",
+      "net profit margin",
+      "return on equity"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Return on capital employed or ROCE is a profitability ratio that measures how efficiently a company can generate profits from its capital employed by comparing net operating profit to capital employed."
+  },
+  {
+    "id": "accounting-1788725100381-522-1185",
+    "questionText": "<b>Use the information below to answer question 21 and 22.</b>\n\nAdex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch.\n\nStock at branch 1st January at cost............₦400\nGoods sent to branch at cost...................₦8000\nReturns to head ...............................₦340\nCash sales ....................................₦9160\nStock at branch 31st December at cost..........₦720\n\nWhat is the gross profit carried to the profit and loss account? (JAMB 2002)",
+    "options": [
+      "₦1820",
+      "₦1640",
+      "₦1530",
+      "₦1870"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gross profit = Sales − Cost of goods sold.\n\nCost of goods sold = Opening stock + Goods sent − Returns − Closing stock\n= ₦400 + ₦8,000 − ₦340 − ₦720 = ₦7,340\n\nGross profit = ₦9,160 − ₦7,340 = ₦1,820"
+  },
+  {
+    "id": "accounting-1788725100381-523-893",
+    "questionText": "One of the options below is not the source of income for non - profit organization (JAMB 2023)",
+    "options": [
+      "ordinary shares",
+      "donations",
+      "subscription/dues",
+      "entrance fees"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Subscription is the contribution made by the members to the club or society at regular intervals. It can be paid by members in advance or in arrears."
+  }
 ];

@@ -45,13 +45,41 @@ import { mathematicsQuestions } from '../data/mathematics';
 import { physicsQuestions } from '../data/physics';
 import { chemistryQuestions } from '../data/chemistry';
 import { biologyQuestions } from '../data/biology';
+import { governmentQuestions } from '../data/government';
+import { literatureQuestions } from '../data/literature';
+import { economicsQuestions } from '../data/economics';
+import { accountingQuestions } from '../data/accounting';
+import { crsQuestions } from '../data/crs';
+import { aptitudeQuestions } from '../data/aptitude';
+import { geographyQuestions } from '../data/geography';
+import { agricScienceQuestions } from '../data/agric-science';
+import { commerceQuestions } from '../data/commerce';
+import { irkQuestions } from '../data/irk';
+import { civicEducationQuestions } from '../data/civic-education';
+import { insuranceQuestions } from '../data/insurance';
+import { currentAffairsQuestions } from '../data/current-affairs';
+import { historyQuestions } from '../data/history';
 
 const SEED_QUESTIONS: Record<string, any[]> = {
     'Use of English': englishQuestions,
     'Mathematics': mathematicsQuestions,
     'Physics': physicsQuestions,
     'Chemistry': chemistryQuestions,
-    'Biology': biologyQuestions
+    'Biology': biologyQuestions,
+    'Government': governmentQuestions,
+    'Literature in English': literatureQuestions,
+    'Economics': economicsQuestions,
+    'Financial Accounting': accountingQuestions,
+    'Christian Religious Studies': crsQuestions,
+    'Aptitude Test': aptitudeQuestions,
+    'Geography': geographyQuestions,
+    'Agricultural Science': agricScienceQuestions,
+    'Commerce': commerceQuestions,
+    'Islamic Religious Studies': irkQuestions,
+    'Civic Education': civicEducationQuestions,
+    'Insurance': insuranceQuestions,
+    'Current Affairs': currentAffairsQuestions,
+    'History': historyQuestions
 };
 
 export default function ActiveTestPage() {
@@ -369,6 +397,23 @@ export default function ActiveTestPage() {
                     timeLimit: sessionData.timeLimit,
                     breakdown: subjectBreakdown,
                     createdAt: serverTimestamp()
+                });
+                
+                // Save to global leaderboard with anonymous alias
+                const prefixes = ['Scholar', 'Mastermind', 'Genius', 'Prodigy', 'Ace', 'Brainiac', 'Maverick', 'Champion'];
+                const randomPrefix = prefixes[Math.floor(Math.random() * prefixes.length)];
+                const randomSuffix = Math.floor(1000 + Math.random() * 9000);
+                
+                await addDoc(collection(firestore, 'cbt_leaderboards'), {
+                    userId: currentUserProfile.id, // For reference only, not exposed in UI
+                    alias: `${randomPrefix}_${randomSuffix}`,
+                    score: finalScore,
+                    maxScore: maxScoreScale,
+                    percentage: finalPercentage,
+                    university: sessionData.university || 'General',
+                    mode: sessionData.mode,
+                    academyId: academy?.id || 'none',
+                    submittedAt: serverTimestamp()
                 });
             } catch (e) {
                 console.error("Could not persist exam result to Firestore:", e);
