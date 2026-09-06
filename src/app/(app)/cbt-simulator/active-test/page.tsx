@@ -388,6 +388,8 @@ export default function ActiveTestPage() {
                     receiptNumber: sessionData.receiptNumber,
                     mode: sessionData.mode,
                     score: finalScore,
+                    maxScore: maxScoreScale,
+                    university: sessionData.university || '',
                     percentage: finalPercentage,
                     correct: correctCount,
                     incorrect: incorrectCount,

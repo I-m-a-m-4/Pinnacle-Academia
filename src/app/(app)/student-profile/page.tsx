@@ -62,7 +62,7 @@ export default function StudentProfilePage() {
 
   // Editable fields state
   const [name, setName] = React.useState('');
-  const [targetScore, setTargetScore] = React.useState<number>(290);
+  const [targetScore, setTargetScore] = React.useState<number>(32);
   const [targetInstitution, setTargetInstitution] = React.useState('');
   const [targetCourse, setTargetCourse] = React.useState('');
   const [department, setDepartment] = React.useState('Science');
@@ -72,7 +72,7 @@ export default function StudentProfilePage() {
   React.useEffect(() => {
     if (currentUser) {
       setName(currentUser.name || '');
-      setTargetScore(currentUser.targetUTMEScore || 290);
+      setTargetScore(currentUser.targetUTMEScore && currentUser.targetUTMEScore <= 40 ? currentUser.targetUTMEScore : 32);
       setTargetInstitution(currentUser.targetInstitution || '');
       setTargetCourse(currentUser.targetCourse || '');
       setDepartment(currentUser.department || 'Science');
@@ -261,7 +261,7 @@ export default function StudentProfilePage() {
                       max="40"
                       value={targetScore}
                       onChange={(e) => setTargetScore(Math.min(40, Math.max(0, Number(e.target.value))))}
-                      placeholder="e.g. 320"
+                      placeholder="e.g. 32"
                     />
                   </div>
                   <div className="space-y-1.5">

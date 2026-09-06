@@ -142,7 +142,23 @@ export default function ReportsDashboard() {
         };
     }, [examResults]);
 
-    // Format chart data for mock exam scores trend
+    const targetUni = currentUserProfile?.targetInstitution || '';
+    const isOAU = !targetUni || targetUni.toLowerCase().includes('oau') || targetUni.toLowerCase().includes('obafemi') ||
+                  (examResults && examResults.some((r: any) => r.university?.toLowerCase().includes('oau')));
+    
+    const defaultMaxScale = isOAU ? 40 : 100;
+
+    // Normalize target score for OAU scale (40 max) if set to legacy 400 scale
+    const effectiveTargetScore = React.useMemo(() => {
+        const raw = currentUserProfile?.targetUTMEScore;
+        if (!raw) return isOAU ? 32 : 75;
+        if (isOAU && raw > 40) {
+            return Math.min(40, Math.max(1, Math.round((raw / 400) * 40)));
+        }
+        return raw;
+    }, [currentUserProfile?.targetUTMEScore, isOAU]);
+
+    // Format chart data for exam scores trend
     const scoresTrendData = React.useMemo(() => {
         if (!examResults) return [];
         return examResults.map((run, idx) => ({
@@ -167,22 +183,22 @@ export default function ReportsDashboard() {
         <div className="space-y-6 max-w-6xl mx-auto pb-16">
             <PageTitle 
                 title="Academic Performance Analytics" 
-                subtitle="Track your mock exam results, syllabus completion rates, and learning progress." 
+                subtitle="Track your Post-UTME exam scores, syllabus completion rates, and admission readiness." 
             />
 
             {/* Academic Stat Cards */}
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6">
                 <ReportStatCard
-                    title="Avg CBT Score"
-                    value={academicStats.totalExams > 0 ? `${academicStats.avgScore} / 400` : 'N/A'}
+                    title={isOAU ? "Avg OAU Score" : "Avg CBT Score"}
+                    value={academicStats.totalExams > 0 ? `${academicStats.avgScore} / ${defaultMaxScale}` : 'N/A'}
                     icon={Award}
-                    description="Average mock score"
+                    description={isOAU ? "Average OAU Post-UTME score" : "Average CBT exam score"}
                 />
                 <ReportStatCard
                     title="Exams Taken"
                     value={academicStats.totalExams}
                     icon={FileText}
-                    description="Completed mock simulations"
+                    description="Completed CBT simulations"
                 />
                 <ReportStatCard
                     title="Average Accuracy"
@@ -197,10 +213,10 @@ export default function ReportsDashboard() {
                     description="Topics marked completed"
                 />
                 <ReportStatCard
-                    title="Target UTME"
-                    value={currentUserProfile?.targetUTMEScore || 'N/A'}
+                    title={isOAU ? "Target OAU Score" : "Target Score"}
+                    value={`${effectiveTargetScore} / ${defaultMaxScale}`}
                     icon={Target}
-                    description={currentUserProfile?.targetCourse ? `For ${currentUserProfile.targetCourse}` : 'Target Score'}
+                    description={currentUserProfile?.targetCourse ? `Target for ${currentUserProfile.targetCourse}` : 'Target Score'}
                 />
                 <ReportStatCard
                     title="Practice Hours"
@@ -212,13 +228,13 @@ export default function ReportsDashboard() {
 
             {/* Charts Section */}
             <div className="grid grid-cols-1 lg:grid-cols-5 gap-6">
-                {/* Mock Test Score Trend Line Chart */}
+                {/* CBT Exam Score Trend Line Chart */}
                 <Card className="lg:col-span-3 border border-border/40 bg-card/40 backdrop-blur-md rounded-2xl shadow-sm">
                     <CardHeader>
                         <CardTitle className="text-base font-bold flex items-center gap-1.5">
-                            <TrendingUp className="h-5 w-5 text-primary" /> UTME Mock Exam Trend
+                            <TrendingUp className="h-5 w-5 text-primary" /> {isOAU ? 'OAU Post-UTME Exam Trend' : 'CBT Exam Performance Trend'}
                         </CardTitle>
-                        <CardDescription>Track your scores progression over successive attempts.</CardDescription>
+                        <CardDescription>Track your scores progression over successive CBT attempts.</CardDescription>
                     </CardHeader>
                     <CardContent className="h-[320px] w-full pt-2">
                         {scoresTrendData.length > 0 ? (
@@ -226,15 +242,15 @@ export default function ReportsDashboard() {
                                 <LineChart data={scoresTrendData} margin={{ top: 5, right: 25, left: -20, bottom: 5 }}>
                                     <CartesianGrid strokeDasharray="3 3" vertical={false} />
                                     <XAxis dataKey="date" tickLine={false} axisLine={false} tickMargin={8} className="text-xs font-semibold text-muted-foreground" />
-                                    <YAxis tickLine={false} axisLine={false} domain={[0, 400]} tickMargin={8} className="text-xs font-semibold text-muted-foreground" />
+                                    <YAxis tickLine={false} axisLine={false} domain={[0, defaultMaxScale]} tickMargin={8} className="text-xs font-semibold text-muted-foreground" />
                                     <Tooltip contentStyle={{ borderRadius: '12px', background: 'rgba(255,255,255,0.9)' }} />
-                                    <Line type="monotone" dataKey="score" name="Exam Score" stroke="hsl(var(--primary))" strokeWidth={3} activeDot={{ r: 6 }} dot={{ r: 4 }} />
+                                    <Line type="monotone" dataKey="score" name={isOAU ? "OAU Score" : "Exam Score"} stroke="hsl(var(--primary))" strokeWidth={3} activeDot={{ r: 6 }} dot={{ r: 4 }} />
                                 </LineChart>
                             </ResponsiveContainer>
                         ) : (
                             <div className="h-full flex flex-col items-center justify-center text-center text-muted-foreground p-4">
                                 <Activity className="h-10 w-10 opacity-30 mb-2" />
-                                <span className="text-xs">No mock exam scores recorded yet. Complete a CBT simulation test to view trends.</span>
+                                <span className="text-xs">No CBT exam scores recorded yet. Complete a CBT simulation test to view trends.</span>
                             </div>
                         )}
                     </CardContent>
@@ -275,7 +291,7 @@ export default function ReportsDashboard() {
                 <Card className="lg:col-span-3 border border-border/40 bg-card/40 backdrop-blur-md rounded-2xl shadow-sm">
                     <CardHeader>
                         <CardTitle className="text-base font-bold flex items-center gap-1.5">
-                            <FileText className="h-5 w-5 text-primary" /> Mock Exam Attempts History
+                            <FileText className="h-5 w-5 text-primary" /> {isOAU ? 'OAU Post-UTME Exam Attempts History' : 'CBT Exam Attempts History'}
                         </CardTitle>
                         <CardDescription>A listing of all simulated exams completed.</CardDescription>
                     </CardHeader>
@@ -293,32 +309,35 @@ export default function ReportsDashboard() {
                                         </tr>
                                     </thead>
                                     <tbody className="divide-y divide-border/20 font-medium">
-                                        {examResults.map((run: any) => (
-                                            <tr key={run.id} className="hover:bg-muted/10 transition-colors text-foreground">
-                                                <td className="py-3 px-2">
-                                                    {run.createdAt ? format(safeToDate(run.createdAt), 'PP p') : 'N/A'}
-                                                </td>
-                                                <td className="py-3 px-2 capitalize">
-                                                    {run.mode === 'Card' ? 'Speed Battle' : run.mode}
-                                                </td>
-                                                <td className="py-3 px-2">
-                                                    {run.correct} / {run.totalQuestions}
-                                                </td>
-                                                <td className="py-3 px-2 font-bold text-primary">
-                                                    {run.score} / 400
-                                                </td>
-                                                <td className="py-3 px-2 text-right">
-                                                    {run.percentage}%
-                                                </td>
-                                            </tr>
-                                        ))}
+                                        {examResults.map((run: any) => {
+                                            const rowMax = run.maxScore || (run.university?.toLowerCase().includes('oau') || isOAU || (run.totalQuestions && run.totalQuestions <= 40) ? 40 : 100);
+                                            return (
+                                                <tr key={run.id} className="hover:bg-muted/10 transition-colors text-foreground">
+                                                    <td className="py-3 px-2">
+                                                        {run.createdAt ? format(safeToDate(run.createdAt), 'PP p') : 'N/A'}
+                                                    </td>
+                                                    <td className="py-3 px-2 capitalize">
+                                                        {run.mode === 'Card' ? 'Speed Battle' : (isOAU ? 'OAU Post-UTME' : run.mode)}
+                                                    </td>
+                                                    <td className="py-3 px-2">
+                                                        {run.correct} / {run.totalQuestions}
+                                                    </td>
+                                                    <td className="py-3 px-2 font-bold text-primary">
+                                                        {run.score} / {rowMax}
+                                                    </td>
+                                                    <td className="py-3 px-2 text-right">
+                                                        {run.percentage}%
+                                                    </td>
+                                                </tr>
+                                            );
+                                        })}
                                     </tbody>
                                 </table>
                             </div>
                         ) : (
                             <div className="py-12 text-center text-muted-foreground flex flex-col items-center justify-center">
                                 <HelpCircle className="h-8 w-8 opacity-30 mb-2" />
-                                <span className="text-xs">No recent attempts logged.</span>
+                                <span className="text-xs">No recent attempts logged. Launch the CBT Simulator to start practicing.</span>
                             </div>
                         )}
                     </CardContent>
@@ -336,31 +355,31 @@ export default function ReportsDashboard() {
                         <div className="space-y-3.5">
                             <div className="p-3 bg-muted/40 border rounded-xl space-y-1">
                                 <span className="text-muted-foreground block text-[10px] uppercase font-bold tracking-wider">Target Course</span>
-                                <span className="font-bold text-foreground block text-sm">{currentUserProfile?.targetCourse || 'Not Configured'}</span>
-                                <span className="text-[10px] text-muted-foreground block">{currentUserProfile?.targetInstitution || 'No University Selected'}</span>
+                                <span className="font-bold text-foreground block text-sm">{currentUserProfile?.targetCourse || 'Mechanical Engineering'}</span>
+                                <span className="text-[10px] text-muted-foreground block">{currentUserProfile?.targetInstitution || 'Obafemi Awolowo University (OAU)'}</span>
                             </div>
 
                             <div className="grid grid-cols-2 gap-4">
                                 <div className="p-3 bg-primary/5 border border-primary/10 rounded-xl">
-                                    <span className="text-muted-foreground block text-[10px] uppercase font-bold tracking-wider">Target UTME</span>
-                                    <span className="font-extrabold text-primary text-base block mt-1">{currentUserProfile?.targetUTMEScore || 'N/A'}</span>
+                                    <span className="text-muted-foreground block text-[10px] uppercase font-bold tracking-wider">{isOAU ? 'Target OAU Score' : 'Target Score'}</span>
+                                    <span className="font-extrabold text-primary text-base block mt-1">{effectiveTargetScore} / {defaultMaxScale}</span>
                                 </div>
                                 <div className="p-3 bg-muted/40 border rounded-xl">
                                     <span className="text-muted-foreground block text-[10px] uppercase font-bold tracking-wider">Current Average</span>
-                                    <span className="font-extrabold text-foreground text-base block mt-1">{academicStats.totalExams > 0 ? academicStats.avgScore : 'N/A'}</span>
+                                    <span className="font-extrabold text-foreground text-base block mt-1">{academicStats.totalExams > 0 ? `${academicStats.avgScore} / ${defaultMaxScale}` : 'N/A'}</span>
                                 </div>
                             </div>
                         </div>
 
-                        {currentUserProfile?.targetUTMEScore && academicStats.totalExams > 0 ? (
+                        {academicStats.totalExams > 0 ? (
                             <div className="p-3.5 rounded-xl border flex gap-3 items-start bg-background/50">
-                                {academicStats.avgScore >= currentUserProfile.targetUTMEScore ? (
+                                {academicStats.avgScore >= effectiveTargetScore ? (
                                     <>
                                         <CheckCircle2 className="text-green-500 h-5 w-5 shrink-0 mt-0.5" />
                                         <div>
-                                            <h4 className="font-bold text-green-600">On Track!</h4>
+                                            <h4 className="font-bold text-green-600">On Track for Admission!</h4>
                                             <p className="text-[11px] text-muted-foreground leading-normal mt-0.5">
-                                                Your current average score exceeds your target score! Maintain consistency to secure your admission.
+                                                Your current average score ({academicStats.avgScore}/{defaultMaxScale}) meets your target {isOAU ? 'OAU Post-UTME' : 'Post-UTME'} cutoff! Maintain consistency to secure your admission into {currentUserProfile?.targetCourse || 'your course'}.
                                             </p>
                                         </div>
                                     </>
@@ -370,7 +389,7 @@ export default function ReportsDashboard() {
                                         <div>
                                             <h4 className="font-bold text-amber-600">Improvement Needed</h4>
                                             <p className="text-[11px] text-muted-foreground leading-normal mt-0.5">
-                                                You are {currentUserProfile.targetUTMEScore - academicStats.avgScore} points below your target OAU Post UTME score. Focus on your weakest subject: <strong className="text-foreground">{academicStats.bestSubject !== 'N/A' ? 'Syllabus topics' : 'Practice tests'}</strong>.
+                                                You are {Math.max(0, effectiveTargetScore - academicStats.avgScore)} points below your target {isOAU ? 'OAU Post-UTME score (40 Max)' : 'score'}. Focus on your weakest subject: <strong className="text-foreground">{academicStats.bestSubject !== 'N/A' ? 'Syllabus topics' : 'Practice tests'}</strong>.
                                             </p>
                                         </div>
                                     </>
@@ -378,7 +397,7 @@ export default function ReportsDashboard() {
                             </div>
                         ) : (
                             <div className="p-3.5 rounded-xl border border-dashed text-center text-muted-foreground text-[11px]">
-                                Configure your targets in your Student Profile and take a mock test to view detailed admission analytics.
+                                Configure your targets in your Student Profile and take a CBT practice exam to view detailed admission analytics.
                             </div>
                         )}
                     </CardContent>
