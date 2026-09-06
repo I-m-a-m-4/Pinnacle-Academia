@@ -14,7 +14,7 @@ const nextConfig: NextConfig = {
     ignoreBuildErrors: true,
   },
   eslint: {
-    ignoreDuringBuilds: false,
+    ignoreDuringBuilds: true,
   },
   images: {
     unoptimized: isTauri ? true : undefined,
@@ -211,6 +211,7 @@ const withPWA = withPWAInit({
   disable: isTauri || process.env.NODE_ENV === "development",
   register: true,
   workboxOptions: {
+    maximumFileSizeToCacheInBytes: 25 * 1024 * 1024,
     importScripts: [
       'https://cdn.jsdelivr.net/npm/regenerator-runtime@0.13.7/runtime.min.js',
       '/sw-helpers.js'

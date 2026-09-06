@@ -11,26 +11,56 @@ import { Badge } from "@/components/ui/badge";
 import { BookOpen, GraduationCap, Play, Settings, RefreshCw, Layers, Trophy } from "lucide-react";
 import { cn } from "@/lib/utils";
 
-// Import core subject questions
-import { englishQuestions } from '../data/use-of-english';
-import { mathematicsQuestions } from '../data/mathematics';
-import { physicsQuestions } from '../data/physics';
-import { chemistryQuestions } from '../data/chemistry';
-import { biologyQuestions } from '../data/biology';
-import { governmentQuestions } from '../data/government';
-import { literatureQuestions } from '../data/literature';
-import { economicsQuestions } from '../data/economics';
-import { accountingQuestions } from '../data/accounting';
-import { crsQuestions } from '../data/crs';
-import { aptitudeQuestions } from '../data/aptitude';
-import { geographyQuestions } from '../data/geography';
-import { agricScienceQuestions } from '../data/agric-science';
-import { commerceQuestions } from '../data/commerce';
-import { irkQuestions } from '../data/irk';
-import { civicEducationQuestions } from '../data/civic-education';
-import { insuranceQuestions } from '../data/insurance';
-import { currentAffairsQuestions } from '../data/current-affairs';
-import { historyQuestions } from '../data/history';
+// Dynamic question loader to ensure lightweight client bundles
+async function fetchSubjectQuestions(subName: string): Promise<any[]> {
+    try {
+        switch (subName) {
+            case 'Use of English':
+                return (await import('../data/use-of-english')).englishQuestions;
+            case 'Mathematics':
+                return (await import('../data/mathematics')).mathematicsQuestions;
+            case 'Physics':
+                return (await import('../data/physics')).physicsQuestions;
+            case 'Chemistry':
+                return (await import('../data/chemistry')).chemistryQuestions;
+            case 'Biology':
+                return (await import('../data/biology')).biologyQuestions;
+            case 'Government':
+                return (await import('../data/government')).governmentQuestions;
+            case 'Literature in English':
+                return (await import('../data/literature')).literatureQuestions;
+            case 'Economics':
+                return (await import('../data/economics')).economicsQuestions;
+            case 'Financial Accounting':
+                return (await import('../data/accounting')).accountingQuestions;
+            case 'Christian Religious Studies':
+                return (await import('../data/crs')).crsQuestions;
+            case 'Aptitude Test':
+                return (await import('../data/aptitude')).aptitudeQuestions;
+            case 'Geography':
+                return (await import('../data/geography')).geographyQuestions;
+            case 'Agricultural Science':
+                return (await import('../data/agric-science')).agricScienceQuestions;
+            case 'Commerce':
+                return (await import('../data/commerce')).commerceQuestions;
+            case 'Islamic Religious Studies':
+                return (await import('../data/irk')).irkQuestions;
+            case 'Civic Education':
+                return (await import('../data/civic-education')).civicEducationQuestions;
+            case 'Insurance':
+                return (await import('../data/insurance')).insuranceQuestions;
+            case 'Current Affairs':
+                return (await import('../data/current-affairs')).currentAffairsQuestions;
+            case 'History':
+                return (await import('../data/history')).historyQuestions;
+            default:
+                return (await import('../data/use-of-english')).englishQuestions;
+        }
+    } catch (e) {
+        console.error('Error dynamically loading questions for', subName, e);
+        return [];
+    }
+}
 
 const DEFAULT_MAPPINGS = [
     {
@@ -218,11 +248,9 @@ export default function SelectProductsPage() {
         ) || null;
     }, [activeUni, activeCourse]);
 
-    const handleStartExam = () => {
+    const handleStartExam = async () => {
         setIsNavigating(true);
         clearCart(); // Clear old selection
-
-        let examSubjects: any[] = [];
 
         // Load based on selected subjects
         const subjectsToUse = customSubjects.length > 0
@@ -246,28 +274,8 @@ export default function SelectProductsPage() {
 
         const isOAU = activeUni.toLowerCase().includes('oau') || activeUni.toLowerCase().includes('obafemi');
 
-        examSubjects = subjectsToUse.map(sub => {
-            let questions = [];
-            if (sub.name === 'Use of English') questions = englishQuestions;
-            else if (sub.name === 'Mathematics') questions = mathematicsQuestions;
-            else if (sub.name === 'Physics') questions = physicsQuestions;
-            else if (sub.name === 'Chemistry') questions = chemistryQuestions;
-            else if (sub.name === 'Biology') questions = biologyQuestions;
-            else if (sub.name === 'Government') questions = governmentQuestions;
-            else if (sub.name === 'Literature in English') questions = literatureQuestions;
-            else if (sub.name === 'Economics') questions = economicsQuestions;
-            else if (sub.name === 'Financial Accounting') questions = accountingQuestions;
-            else if (sub.name === 'Christian Religious Studies') questions = crsQuestions;
-            else if (sub.name === 'Aptitude Test') questions = aptitudeQuestions;
-            else if (sub.name === 'Geography') questions = geographyQuestions;
-            else if (sub.name === 'Agricultural Science') questions = agricScienceQuestions;
-            else if (sub.name === 'Commerce') questions = commerceQuestions;
-            else if (sub.name === 'Islamic Religious Studies') questions = irkQuestions;
-            else if (sub.name === 'Civic Education') questions = civicEducationQuestions;
-            else if (sub.name === 'Insurance') questions = insuranceQuestions;
-            else if (sub.name === 'Current Affairs') questions = currentAffairsQuestions;
-            else if (sub.name === 'History') questions = historyQuestions;
-            else questions = englishQuestions;
+        const examSubjects = await Promise.all(subjectsToUse.map(async sub => {
+            const questions = await fetchSubjectQuestions(sub.name);
 
             let filteredQuestions = questions;
             if (selectedYear !== 'All') {
@@ -288,7 +296,7 @@ export default function SelectProductsPage() {
                 name: sub.name,
                 questions: shuffledQuestions.slice(0, isOAU ? 10 : 40) // 10 questions per subject for OAU, 40 for others
             };
-        });
+        }));
 
         const activeSession = {
             receiptNumber: `slip-${Math.floor(100000 + Math.random() * 900000)}`,

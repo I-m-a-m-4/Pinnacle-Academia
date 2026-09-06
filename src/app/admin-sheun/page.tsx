@@ -160,26 +160,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import CyberShield from '@/components/admin/cyber-shield';
 import AdminBlogTabContent from '@/components/admin/blog-tab-content';
 
-// Import static question data files to support static file curation
-import { englishQuestions } from '@/app/(app)/cbt-simulator/data/use-of-english';
-import { mathematicsQuestions } from '@/app/(app)/cbt-simulator/data/mathematics';
-import { physicsQuestions } from '@/app/(app)/cbt-simulator/data/physics';
-import { chemistryQuestions } from '@/app/(app)/cbt-simulator/data/chemistry';
-import { biologyQuestions } from '@/app/(app)/cbt-simulator/data/biology';
-import { governmentQuestions } from '@/app/(app)/cbt-simulator/data/government';
-import { literatureQuestions } from '@/app/(app)/cbt-simulator/data/literature';
-import { economicsQuestions } from '@/app/(app)/cbt-simulator/data/economics';
-import { accountingQuestions } from '@/app/(app)/cbt-simulator/data/accounting';
-import { crsQuestions } from '@/app/(app)/cbt-simulator/data/crs';
-import { aptitudeQuestions } from '@/app/(app)/cbt-simulator/data/aptitude';
-import { geographyQuestions } from '@/app/(app)/cbt-simulator/data/geography';
-import { agricScienceQuestions } from '@/app/(app)/cbt-simulator/data/agric-science';
-import { commerceQuestions } from '@/app/(app)/cbt-simulator/data/commerce';
-import { irkQuestions } from '@/app/(app)/cbt-simulator/data/irk';
-import { civicEducationQuestions } from '@/app/(app)/cbt-simulator/data/civic-education';
-import { insuranceQuestions } from '@/app/(app)/cbt-simulator/data/insurance';
-import { currentAffairsQuestions } from '@/app/(app)/cbt-simulator/data/current-affairs';
-import { historyQuestions } from '@/app/(app)/cbt-simulator/data/history';
+
 
 const DEFAULT_QUESTIONS = [
   {
@@ -699,41 +680,53 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
 
     // Load subject modules and questions when selected subject changes
     useEffect(() => {
+        let isCancelled = false;
         if (selectedSubjectId && subjects) {
             const subject = subjects.find(s => s.id === selectedSubjectId);
             if (subject) {
                 setSubjectModules(subject.modules || []);
                 
-                // Load questions statically from codebase files instead of Firestore
-                let localQuestions: any[] = [];
+                // Load questions dynamically on-demand when clicked
                 const name = subject.name.toLowerCase();
-                if (name.includes('english')) localQuestions = englishQuestions;
-                else if (name.includes('math')) localQuestions = mathematicsQuestions;
-                else if (name.includes('phys')) localQuestions = physicsQuestions;
-                else if (name.includes('chem')) localQuestions = chemistryQuestions;
-                else if (name.includes('biol')) localQuestions = biologyQuestions;
-                else if (name.includes('govt') || name.includes('govern')) localQuestions = governmentQuestions;
-                else if (name.includes('liter')) localQuestions = literatureQuestions;
-                else if (name.includes('econ')) localQuestions = economicsQuestions;
-                else if (name.includes('account')) localQuestions = accountingQuestions;
-                else if (name.includes('crs') || name.includes('relig')) localQuestions = crsQuestions;
-                else if (name.includes('apti')) localQuestions = aptitudeQuestions;
-                else if (name.includes('geog')) localQuestions = geographyQuestions;
-                else if (name.includes('agric') || name.includes('agriculture')) localQuestions = agricScienceQuestions;
-                else if (name.includes('commerc')) localQuestions = commerceQuestions;
-                else if (name.includes('irk') || name.includes('islam')) localQuestions = irkQuestions;
-                else if (name.includes('civic') || name.includes('civil')) localQuestions = civicEducationQuestions;
-                else if (name.includes('insur')) localQuestions = insuranceQuestions;
-                else if (name.includes('current') || name.includes('affair')) localQuestions = currentAffairsQuestions;
-                else if (name.includes('histo')) localQuestions = historyQuestions;
-                else localQuestions = englishQuestions;
+                const loadQuestions = async () => {
+                    try {
+                        let qs: any[] = [];
+                        if (name.includes('english')) qs = (await import('@/app/(app)/cbt-simulator/data/use-of-english')).englishQuestions;
+                        else if (name.includes('math')) qs = (await import('@/app/(app)/cbt-simulator/data/mathematics')).mathematicsQuestions;
+                        else if (name.includes('phys')) qs = (await import('@/app/(app)/cbt-simulator/data/physics')).physicsQuestions;
+                        else if (name.includes('chem')) qs = (await import('@/app/(app)/cbt-simulator/data/chemistry')).chemistryQuestions;
+                        else if (name.includes('biol')) qs = (await import('@/app/(app)/cbt-simulator/data/biology')).biologyQuestions;
+                        else if (name.includes('govt') || name.includes('govern')) qs = (await import('@/app/(app)/cbt-simulator/data/government')).governmentQuestions;
+                        else if (name.includes('liter')) qs = (await import('@/app/(app)/cbt-simulator/data/literature')).literatureQuestions;
+                        else if (name.includes('econ')) qs = (await import('@/app/(app)/cbt-simulator/data/economics')).economicsQuestions;
+                        else if (name.includes('account')) qs = (await import('@/app/(app)/cbt-simulator/data/accounting')).accountingQuestions;
+                        else if (name.includes('crs') || name.includes('relig')) qs = (await import('@/app/(app)/cbt-simulator/data/crs')).crsQuestions;
+                        else if (name.includes('apti')) qs = (await import('@/app/(app)/cbt-simulator/data/aptitude')).aptitudeQuestions;
+                        else if (name.includes('geog')) qs = (await import('@/app/(app)/cbt-simulator/data/geography')).geographyQuestions;
+                        else if (name.includes('agric') || name.includes('agriculture')) qs = (await import('@/app/(app)/cbt-simulator/data/agric-science')).agricScienceQuestions;
+                        else if (name.includes('commerc')) qs = (await import('@/app/(app)/cbt-simulator/data/commerce')).commerceQuestions;
+                        else if (name.includes('irk') || name.includes('islam')) qs = (await import('@/app/(app)/cbt-simulator/data/irk')).irkQuestions;
+                        else if (name.includes('civic') || name.includes('civil')) qs = (await import('@/app/(app)/cbt-simulator/data/civic-education')).civicEducationQuestions;
+                        else if (name.includes('insur')) qs = (await import('@/app/(app)/cbt-simulator/data/insurance')).insuranceQuestions;
+                        else if (name.includes('current') || name.includes('affair')) qs = (await import('@/app/(app)/cbt-simulator/data/current-affairs')).currentAffairsQuestions;
+                        else if (name.includes('histo')) qs = (await import('@/app/(app)/cbt-simulator/data/history')).historyQuestions;
+                        else qs = (await import('@/app/(app)/cbt-simulator/data/use-of-english')).englishQuestions;
 
-                setSubjectQuestions(localQuestions);
+                        if (!isCancelled) {
+                            setSubjectQuestions(qs);
+                        }
+                    } catch (err) {
+                        console.error('Failed to load questions:', err);
+                        if (!isCancelled) setSubjectQuestions([]);
+                    }
+                };
+                loadQuestions();
             }
         } else {
             setSubjectModules([]);
             setSubjectQuestions([]);
         }
+        return () => { isCancelled = true; };
     }, [selectedSubjectId, subjects]);
 
     // Save changes back to Firebase for subject modules

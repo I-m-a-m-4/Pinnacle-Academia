@@ -40,47 +40,7 @@ import {
     AlertDialogTitle 
 } from "@/components/ui/alert-dialog";
 
-import { englishQuestions } from '../data/use-of-english';
-import { mathematicsQuestions } from '../data/mathematics';
-import { physicsQuestions } from '../data/physics';
-import { chemistryQuestions } from '../data/chemistry';
-import { biologyQuestions } from '../data/biology';
-import { governmentQuestions } from '../data/government';
-import { literatureQuestions } from '../data/literature';
-import { economicsQuestions } from '../data/economics';
-import { accountingQuestions } from '../data/accounting';
-import { crsQuestions } from '../data/crs';
-import { aptitudeQuestions } from '../data/aptitude';
-import { geographyQuestions } from '../data/geography';
-import { agricScienceQuestions } from '../data/agric-science';
-import { commerceQuestions } from '../data/commerce';
-import { irkQuestions } from '../data/irk';
-import { civicEducationQuestions } from '../data/civic-education';
-import { insuranceQuestions } from '../data/insurance';
-import { currentAffairsQuestions } from '../data/current-affairs';
-import { historyQuestions } from '../data/history';
 
-const SEED_QUESTIONS: Record<string, any[]> = {
-    'Use of English': englishQuestions,
-    'Mathematics': mathematicsQuestions,
-    'Physics': physicsQuestions,
-    'Chemistry': chemistryQuestions,
-    'Biology': biologyQuestions,
-    'Government': governmentQuestions,
-    'Literature in English': literatureQuestions,
-    'Economics': economicsQuestions,
-    'Financial Accounting': accountingQuestions,
-    'Christian Religious Studies': crsQuestions,
-    'Aptitude Test': aptitudeQuestions,
-    'Geography': geographyQuestions,
-    'Agricultural Science': agricScienceQuestions,
-    'Commerce': commerceQuestions,
-    'Islamic Religious Studies': irkQuestions,
-    'Civic Education': civicEducationQuestions,
-    'Insurance': insuranceQuestions,
-    'Current Affairs': currentAffairsQuestions,
-    'History': historyQuestions
-};
 
 export default function ActiveTestPage() {
     const router = useRouter();
@@ -114,16 +74,11 @@ export default function ActiveTestPage() {
             const stored = sessionStorage.getItem('active_exam_session');
             if (stored) {
                 const parsed = JSON.parse(stored);
-                // Hydrate questions with seeds if the subject does not have any questions configured
-                const hydratedSubjects = parsed.subjects.map((sub: any) => {
-                    const localQuestions = sub.questions || [];
-                    if (localQuestions.length === 0) {
-                        // Find matching seed questions or default to Use of English seeds
-                        const seed = SEED_QUESTIONS[sub.name] || SEED_QUESTIONS['Use of English'];
-                        return { ...sub, questions: seed };
-                    }
-                    return sub;
-                });
+                // Hydrate subjects ensuring questions array exists
+                const hydratedSubjects = (parsed.subjects || []).map((sub: any) => ({
+                    ...sub,
+                    questions: sub.questions || []
+                }));
                 parsed.subjects = hydratedSubjects;
                 setSessionData(parsed);
 
