@@ -86,7 +86,8 @@ import {
     Save,
     BookOpen,
     HelpCircle,
-    Calculator as CalculatorIcon
+    Calculator as CalculatorIcon,
+    Target
 } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { ScrollArea } from '@/components/ui/scroll-area';
