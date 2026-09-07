@@ -353,6 +353,9 @@ export default function ActiveTestPage() {
                     timeRemaining: timeLeft,
                     timeLimit: sessionData.timeLimit,
                     breakdown: subjectBreakdown,
+                    subjects: sessionData.subjects,
+                    answers: answers,
+                    flags: flags,
                     createdAt: serverTimestamp()
                 });
                 

@@ -10,7 +10,7 @@ import { Separator } from "@/components/ui/separator";
 import { useAcademy } from "@/context/academy-context";
 import Link from "next/link";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
-import { Banknote, CreditCard, Landmark, Loader2, FileText } from "lucide-react";
+import { Banknote, CreditCard, Landmark, Loader2, FileText, Clock } from "lucide-react";
 import { useBusiness } from '@/context/academy-context';
 import { useRouter } from 'next/navigation';
 
@@ -103,13 +103,20 @@ export default function PaymentPage() {
                         <CardDescription>Set your custom simulation duration and target minimum score.</CardDescription>
                     </CardHeader>
                     <CardContent className="grid sm:grid-cols-2 gap-4">
+                        <Alert className="col-span-1 sm:col-span-2 bg-primary/5 border-primary/20 mb-2">
+                            <Clock className="h-4 w-4 text-primary" />
+                            <AlertTitle className="text-primary font-bold">Custom Time Limit</AlertTitle>
+                            <AlertDescription className="text-muted-foreground text-xs">
+                                You can adjust the time limit for this simulation.
+                            </AlertDescription>
+                        </Alert>
                         <div className="space-y-2">
-                            <Label htmlFor="discount">Exam Time (Minutes)</Label>
-                            <Input id="discount" type="number" value={discount} onChange={e => setDiscount(Number(e.target.value))} />
+                            <Label htmlFor="discount" className="font-bold text-lg">Exam Time (Minutes)</Label>
+                            <Input id="discount" type="number" className="h-12 text-lg font-bold" value={discount} onChange={e => setDiscount(Number(e.target.value))} />
                         </div>
                         <div className="space-y-2">
-                            <Label htmlFor="tax">Target Score (%)</Label>
-                            <Input id="tax" type="number" value={taxRate} onChange={e => setTax(Number(e.target.value))} />
+                            <Label htmlFor="tax" className="font-bold text-lg">Target Score (%)</Label>
+                            <Input id="tax" type="number" className="h-12 text-lg font-bold" value={taxRate} onChange={e => setTax(Number(e.target.value))} />
                         </div>
                     </CardContent>
                 </Card>

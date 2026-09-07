@@ -6,6 +6,9 @@ import { useCollection, useFirestore, useMemoFirebase } from '@/firebase';
 import { collection, query, orderBy } from 'firebase/firestore';
 import PageTitle from '@/components/shared/page-title';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from '@/components/ui/dialog';
+import { ScrollArea } from '@/components/ui/scroll-area';
+import { Badge } from '@/components/ui/badge';
 import { 
     Clock, 
     Award, 
@@ -19,7 +22,8 @@ import {
     Target,
     HelpCircle,
     Brain,
-    Percent
+    Percent,
+    X
 } from 'lucide-react';
 import { format } from 'date-fns';
 import { safeToDate } from '@/lib/utils';
@@ -46,6 +50,7 @@ export default function ReportsDashboard() {
     const { currentUserProfile, subjects, currencySymbol } = useAcademy();
     const firestore = useFirestore();
     const { toast } = useToast();
+    const [selectedExamForReview, setSelectedExamForReview] = React.useState<any>(null);
 
     // Query exam results for the student
     const examResultsQuery = useMemoFirebase(
@@ -305,7 +310,8 @@ export default function ReportsDashboard() {
                                             <th className="py-3 px-2">Mode</th>
                                             <th className="py-3 px-2">Correct / Total</th>
                                             <th className="py-3 px-2">Score</th>
-                                            <th className="py-3 px-2 text-right">Percentage</th>
+                                            <th className="py-3 px-2">Percentage</th>
+                                            <th className="py-3 px-2 text-right">Action</th>
                                         </tr>
                                     </thead>
                                     <tbody className="divide-y divide-border/20 font-medium">
@@ -325,8 +331,13 @@ export default function ReportsDashboard() {
                                                     <td className="py-3 px-2 font-bold text-primary">
                                                         {run.score} / {rowMax}
                                                     </td>
-                                                    <td className="py-3 px-2 text-right">
+                                                    <td className="py-3 px-2">
                                                         {run.percentage}%
+                                                    </td>
+                                                    <td className="py-3 px-2 text-right">
+                                                        <Button variant="outline" size="sm" className="text-[10px] h-7" onClick={() => setSelectedExamForReview(run)}>
+                                                            Review
+                                                        </Button>
                                                     </td>
                                                 </tr>
                                             );
@@ -403,6 +414,101 @@ export default function ReportsDashboard() {
                     </CardContent>
                 </Card>
             </div>
+
+            {/* Exam Review Dialog */}
+            <Dialog open={!!selectedExamForReview} onOpenChange={(open) => !open && setSelectedExamForReview(null)}>
+                <DialogContent className="max-w-4xl max-h-[90vh] flex flex-col p-0 overflow-hidden">
+                    <DialogHeader className="p-6 pb-2 shrink-0 border-b">
+                        <DialogTitle className="text-xl flex items-center gap-2">
+                            <Activity className="h-5 w-5 text-primary" /> 
+                            Exam Review 
+                            <Badge variant="secondary" className="ml-2">{selectedExamForReview?.mode}</Badge>
+                        </DialogTitle>
+                        <DialogDescription>
+                            Score: {selectedExamForReview?.score} / {selectedExamForReview?.maxScore} ({selectedExamForReview?.percentage}%)
+                            &nbsp;&bull;&nbsp; {selectedExamForReview?.createdAt ? format(safeToDate(selectedExamForReview.createdAt), 'PP p') : ''}
+                        </DialogDescription>
+                    </DialogHeader>
+                    
+                    <ScrollArea className="flex-1 p-6">
+                        {selectedExamForReview?.subjects && selectedExamForReview.subjects.length > 0 ? (
+                            <div className="space-y-8">
+                                {selectedExamForReview.subjects.map((sub: any, subIdx: number) => (
+                                    <div key={subIdx} className="space-y-4">
+                                        <h3 className="text-lg font-bold border-b pb-2 text-primary">{sub.name}</h3>
+                                        <div className="space-y-6">
+                                            {sub.questions?.map((q: any, qIdx: number) => {
+                                                const qId = q.id || `${subIdx}-${qIdx}`;
+                                                const selectedAnswer = selectedExamForReview?.answers?.[qId];
+                                                const correctAnswer = q.correct_answer;
+                                                const isCorrect = selectedAnswer === correctAnswer;
+                                                const isUnanswered = !selectedAnswer;
+
+                                                return (
+                                                    <div key={qId} className={`p-4 rounded-xl border ${isCorrect ? 'bg-green-500/5 border-green-500/20' : isUnanswered ? 'bg-muted/50 border-border/50' : 'bg-red-500/5 border-red-500/20'}`}>
+                                                        <div className="flex gap-3">
+                                                            <div className="flex-shrink-0 mt-1">
+                                                                {isCorrect ? (
+                                                                    <CheckCircle2 className="h-5 w-5 text-green-500" />
+                                                                ) : isUnanswered ? (
+                                                                    <HelpCircle className="h-5 w-5 text-muted-foreground" />
+                                                                ) : (
+                                                                    <X className="h-5 w-5 text-red-500" />
+                                                                )}
+                                                            </div>
+                                                            <div className="flex-1 space-y-3">
+                                                                <div className="text-sm font-medium" dangerouslySetInnerHTML={{ __html: `<strong>Q${qIdx + 1}:</strong> ${q.question}` }} />
+                                                                
+                                                                <div className="grid sm:grid-cols-2 gap-2 text-xs">
+                                                                    {['a', 'b', 'c', 'd'].map(opt => {
+                                                                        if (!q[`option_${opt}`]) return null;
+                                                                        const isThisSelected = selectedAnswer === opt;
+                                                                        const isThisCorrect = correctAnswer === opt;
+                                                                        
+                                                                        let optClass = "p-2 rounded border ";
+                                                                        if (isThisCorrect) optClass += "bg-green-500/10 border-green-500/30 font-bold";
+                                                                        else if (isThisSelected && !isThisCorrect) optClass += "bg-red-500/10 border-red-500/30 text-red-700 dark:text-red-400";
+                                                                        else optClass += "bg-background border-border/40 opacity-70";
+                                                                        
+                                                                        return (
+                                                                            <div key={opt} className={optClass}>
+                                                                                <span className="uppercase mr-2 font-bold opacity-50">{opt}.</span>
+                                                                                <span dangerouslySetInnerHTML={{ __html: q[`option_${opt}`] }} />
+                                                                                {isThisSelected && <Badge variant="outline" className="ml-2 text-[8px] uppercase tracking-wider">Your Answer</Badge>}
+                                                                                {isThisCorrect && <Badge variant="outline" className="ml-2 bg-green-500/10 text-green-600 border-green-200 text-[8px] uppercase tracking-wider">Correct</Badge>}
+                                                                            </div>
+                                                                        );
+                                                                    })}
+                                                                </div>
+
+                                                                {q.explanation && (
+                                                                    <div className="mt-3 p-3 bg-muted/40 rounded-lg text-xs">
+                                                                        <strong className="text-primary block mb-1">Explanation:</strong>
+                                                                        <span dangerouslySetInnerHTML={{ __html: q.explanation }} />
+                                                                    </div>
+                                                                )}
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                );
+                                            })}
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        ) : (
+                            <div className="py-12 text-center text-muted-foreground flex flex-col items-center justify-center h-full">
+                                <HelpCircle className="h-10 w-10 opacity-20 mb-3" />
+                                <h3 className="font-bold text-foreground">No Review Data Available</h3>
+                                <p className="text-sm mt-1 max-w-sm">Detailed answers were not saved for this older exam attempt. New exams will have full review available here.</p>
+                            </div>
+                        )}
+                    </ScrollArea>
+                    <div className="p-4 border-t shrink-0 flex justify-end">
+                        <Button variant="outline" onClick={() => setSelectedExamForReview(null)}>Close</Button>
+                    </div>
+                </DialogContent>
+            </Dialog>
         </div>
     );
 }

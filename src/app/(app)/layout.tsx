@@ -25,7 +25,7 @@ import { Separator } from '@/components/ui/separator';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuTrigger } from '@/components/ui/dropdown-menu';
 import { Tooltip, TooltipContent, TooltipTrigger, TooltipProvider } from '@/components/ui/tooltip';
 import { useFirestore, useMemoFirebase, useCollection } from '@/firebase';
-import { doc, updateDoc, query, collection, orderBy, writeBatch, serverTimestamp, getDoc, addDoc } from 'firebase/firestore';
+import { doc, updateDoc, query, collection, orderBy, writeBatch, serverTimestamp, getDoc, addDoc, arrayUnion, increment } from 'firebase/firestore';
 import { getAuth, signOut } from 'firebase/auth';
 import MobileBottomNav from '@/components/layout/mobile-bottom-nav';
 import type { UserNotification, Academy, AdminNotification, StudentProfile } from '@/types';
@@ -215,6 +215,44 @@ export default function AuthenticatedLayout({
   React.useEffect(() => {
     setIsMounted(true);
   }, []);
+
+  // Usage & Cohort Tracking
+  React.useEffect(() => {
+    if (!currentUserProfile?.id || !firestore) return;
+    
+    // Cohort (Daily Active) Tracking
+    const todayStr = new Date().toISOString().split('T')[0];
+    const lastActive = localStorage.getItem(`pinnacle_active_${currentUserProfile.id}`);
+    
+    if (lastActive !== todayStr) {
+      const userRef = doc(firestore, 'users', currentUserProfile.id);
+      updateDoc(userRef, {
+        activeDays: arrayUnion(todayStr),
+        lastActiveAt: serverTimestamp()
+      }).then(() => {
+        localStorage.setItem(`pinnacle_active_${currentUserProfile.id}`, todayStr);
+      }).catch(e => console.warn('Activity track error:', e));
+    }
+
+    // Page View Tracking (Debounced per session)
+    if (pathname) {
+      const pageKey = pathname.split('?')[0]; // sanitize
+      const sessionViews = JSON.parse(sessionStorage.getItem(`pinnacle_views_${currentUserProfile.id}`) || '{}');
+      
+      // If we haven't tracked this page in the last 5 minutes
+      const lastView = sessionViews[pageKey] || 0;
+      const now = Date.now();
+      if (now - lastView > 5 * 60 * 1000) {
+        sessionViews[pageKey] = now;
+        sessionStorage.setItem(`pinnacle_views_${currentUserProfile.id}`, JSON.stringify(sessionViews));
+        
+        const userRef = doc(firestore, 'users', currentUserProfile.id);
+        updateDoc(userRef, {
+          [`pageViews.${pageKey.replace(/\//g, '_')}`]: increment(1)
+        }).catch(e => console.warn('Page track error:', e));
+      }
+    }
+  }, [pathname, currentUserProfile?.id, firestore]);
 
   // --- Helpers & Hooks (Above early returns to avoid Rule of Hooks violations) ---
   
