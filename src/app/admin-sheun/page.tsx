@@ -159,6 +159,8 @@ import { Input } from '@/components/ui/input';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import CyberShield from '@/components/admin/cyber-shield';
 import AdminBlogTabContent from '@/components/admin/blog-tab-content';
+import CbtAnalyticsDashboard from '@/components/admin/cbt-analytics';
+import QuestionManager from '@/components/admin/question-manager';
 
 
 
@@ -1872,6 +1874,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
             <Tabs defaultValue="overview" className="space-y-4">
                 <TabsList className="flex flex-wrap gap-1 bg-transparent border-b h-auto p-0 rounded-none mb-6">
                     <TabsTrigger value="overview" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2">Overview</TabsTrigger>
+                    <TabsTrigger value="cbt-analytics" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2"><Target className="h-4 w-4" /> CBT Analytics</TabsTrigger>
                     <TabsTrigger value="users" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2">User Management</TabsTrigger>
 
                     <TabsTrigger value="academic-data" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2">
@@ -1903,6 +1906,14 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                         <ShieldCheck className="h-4 w-4" /> Cyber Shield
                     </TabsTrigger>
                 </TabsList>
+
+                <TabsContent value="cbt-analytics" className="space-y-6">
+                    <div className="mb-4">
+                        <h2 className="text-2xl font-bold tracking-tight">CBT Analytics & Intelligence</h2>
+                        <p className="text-muted-foreground">Monitor platform performance, track best students, and analyze mock exam results.</p>
+                    </div>
+                    <CbtAnalyticsDashboard users={users} />
+                </TabsContent>
 
                 <TabsContent value="overview" className="space-y-6">
                     <Card>
@@ -2513,107 +2524,9 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                                         </Card>
 
                                         {/* CBT Exam Simulator Questions */}
-                                        <Card>
-                                            <CardHeader className="flex flex-row items-center justify-between">
-                                                <div>
-                                                    <CardTitle className="flex items-center gap-2">
-                                                        <HelpCircle className="h-5 w-5 text-primary" />
-                                                        CBT Exam Question Bank
-                                                    </CardTitle>
-                                                    <CardDescription>Manage CBT practice exam questions with options and explanations.</CardDescription>
-                                                </div>
-                                                <Button onClick={handleAddQuestion} size="sm" variant="outline" className="gap-1">
-                                                    <Plus className="h-3.5 w-3.5" /> Add Question
-                                                </Button>
-                                            </CardHeader>
-                                            <CardContent className="space-y-6">
-                                                {subjectQuestions.length === 0 ? (
-                                                    <div className="text-center py-10 border border-dashed rounded-lg text-muted-foreground text-sm">
-                                                        No exam questions in this subject's test bank. Click "Add Question" to begin.
-                                                    </div>
-                                                ) : (
-                                                    <div className="space-y-6 divide-y divide-white/5">
-                                                        {subjectQuestions.map((q, qIdx) => (
-                                                            <div key={q.id || qIdx} className={cn("space-y-4", qIdx > 0 && "pt-6")}>
-                                                                <div className="flex items-start justify-between gap-3">
-                                                                    <div className="flex-1 space-y-1">
-                                                                        <span className="text-xs font-bold text-primary">Question {qIdx + 1}</span>
-                                                                        <Textarea
-                                                                            value={q.questionText || ''}
-                                                                            onChange={e => handleQuestionTextChange(qIdx, e.target.value)}
-                                                                            placeholder="Type the CBT exam question..."
-                                                                            className="h-20 text-sm mt-1"
-                                                                        />
-                                                                    </div>
-                                                                    <Button
-                                                                        variant="ghost"
-                                                                        size="icon"
-                                                                        onClick={() => handleRemoveQuestion(qIdx)}
-                                                                        className="text-muted-foreground hover:text-destructive h-9 w-9 mt-5"
-                                                                    >
-                                                                        <Trash2 className="h-4 w-4" />
-                                                                    </Button>
-                                                                </div>
-
-                                                                {/* Options Grid */}
-                                                                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                                                                    {['A', 'B', 'C', 'D'].map((opt, oIdx) => (
-                                                                        <div key={opt} className="flex items-center gap-2">
-                                                                            <span className="text-xs font-bold text-muted-foreground w-4">{opt}.</span>
-                                                                            <Input
-                                                                                value={q.options?.[oIdx] || ''}
-                                                                                onChange={e => handleQuestionOptionChange(qIdx, oIdx, e.target.value)}
-                                                                                placeholder={`Option ${opt}`}
-                                                                                className="text-xs h-8 flex-1"
-                                                                            />
-                                                                        </div>
-                                                                    ))}
-                                                                </div>
-
-                                                                {/* Answer selection, Year, and explanation */}
-                                                                <div className="grid grid-cols-1 md:grid-cols-4 gap-4 items-end">
-                                                                    <div>
-                                                                        <Label className="text-xs text-muted-foreground font-bold">Exam Year</Label>
-                                                                        <Input
-                                                                            value={q.year || ''}
-                                                                            onChange={e => handleQuestionYearChange(qIdx, e.target.value)}
-                                                                            placeholder="e.g. 2024"
-                                                                            className="h-8 text-xs mt-1"
-                                                                        />
-                                                                    </div>
-                                                                    <div>
-                                                                        <Label className="text-xs text-muted-foreground font-bold">Correct Answer</Label>
-                                                                        <Select
-                                                                            value={q.correctAnswer || 'A'}
-                                                                            onValueChange={(val: any) => handleQuestionCorrectAnswerChange(qIdx, val)}
-                                                                        >
-                                                                            <SelectTrigger className="h-8 text-xs mt-1">
-                                                                                <SelectValue />
-                                                                            </SelectTrigger>
-                                                                            <SelectContent>
-                                                                                <SelectItem value="A">Option A</SelectItem>
-                                                                                <SelectItem value="B">Option B</SelectItem>
-                                                                                <SelectItem value="C">Option C</SelectItem>
-                                                                                <SelectItem value="D">Option D</SelectItem>
-                                                                            </SelectContent>
-                                                                        </Select>
-                                                                    </div>
-                                                                    <div className="md:col-span-2">
-                                                                        <Label className="text-xs text-muted-foreground font-bold">Explanation (Optional)</Label>
-                                                                        <Input
-                                                                            value={q.explanation || ''}
-                                                                            onChange={e => handleQuestionExplanationChange(qIdx, e.target.value)}
-                                                                            placeholder="Brief rationale for the correct answer..."
-                                                                            className="h-8 text-xs mt-1"
-                                                                        />
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        ))}
-                                                    </div>
-                                                )}
-                                            </CardContent>
-                                        </Card>
+                                        <div className="mt-8">
+                                            <QuestionManager subjects={subjects || []} />
+                                        </div>
                                     </div>
                                 )}
                             </div>
