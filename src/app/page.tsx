@@ -51,6 +51,7 @@ import { HeroInputForm } from '@/components/home/hero-input-form';
 import { DashboardCarousel } from '@/components/home/dashboard-carousel';
 import { ZenAIInsights } from '@/components/home/zen-ai-insights';
 import { PricingPlans } from '@/components/home/pricing-plans';
+import { RootRedirect } from '@/components/shared/root-redirect';
 
 const faqItems = [
     {
@@ -132,6 +133,7 @@ export default function Home() {
 
     return (
         <ThemeProvider forcedTheme="light">
+            <RootRedirect />
             <div className="h-full overflow-y-auto w-full antialiased overflow-x-hidden text-slate-900 bg-[#F9F8F6] relative">
                 <div className="fixed grid-lines w-full h-full top-[var(--tauri-title-height,0)] right-0 left-0 pointer-events-none z-0 opacity-[0.15]"></div>
                 <div className="relative z-10">

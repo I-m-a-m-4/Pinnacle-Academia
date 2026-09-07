@@ -18,7 +18,7 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Button } from "@/components/ui/button";
-import { PlusCircle, User, MoreHorizontal, AlertCircle, Trash2, Mail, UserCheck, UserX, ArrowUpDown, Clock, Calendar } from "lucide-react";
+import { PlusCircle, User, MoreHorizontal, AlertCircle, Trash2, Mail, UserCheck, UserX, ArrowUpDown, Clock, Calendar, Activity } from "lucide-react";
 import { useUser, useFirestore, useDoc, useMemoFirebase, useCollection } from '@/firebase';
 import { collection, doc, query, where, deleteDoc, updateDoc, runTransaction } from 'firebase/firestore';
 import type { StudentProfile, Invitation, Academy } from '@/types';
@@ -77,6 +77,12 @@ function UserRowSkeleton() {
       </TableCell>
       <TableCell>
         <Skeleton className="h-6 w-24" />
+      </TableCell>
+      <TableCell className="hidden md:table-cell">
+        <Skeleton className="h-6 w-32" />
+      </TableCell>
+      <TableCell className="hidden lg:table-cell">
+        <Skeleton className="h-6 w-28" />
       </TableCell>
       <TableCell>
         <Skeleton className="h-6 w-24" />
@@ -240,6 +246,8 @@ export default function UsersPage() {
                     <TableHead>User</TableHead>
                     <TableHead className="hidden sm:table-cell">Email</TableHead>
                     <TableHead>Role</TableHead>
+                    <TableHead className="hidden md:table-cell">Live Activity</TableHead>
+                    <TableHead className="hidden lg:table-cell">Target Course</TableHead>
                     <TableHead>Last Active</TableHead>
                     <TableHead>Status</TableHead>
                     <TableHead className="text-right">Actions</TableHead>
@@ -257,6 +265,8 @@ export default function UsersPage() {
                     <TableHead>User</TableHead>
                     <TableHead className="hidden sm:table-cell">Email</TableHead>
                     <TableHead>Role</TableHead>
+                    <TableHead className="hidden md:table-cell">Live Activity</TableHead>
+                    <TableHead className="hidden lg:table-cell">Target Course</TableHead>
                     <TableHead>Last Active</TableHead>
                     <TableHead>Status</TableHead>
                     <TableHead><span className='sr-only'>Actions</span></TableHead>
@@ -273,6 +283,26 @@ export default function UsersPage() {
                         <Badge variant={user.role === 'admin' ? 'default' : 'secondary'} className="capitalize">
                           {user.role.replace('_', ' ')}
                         </Badge>
+                      </TableCell>
+                      <TableCell className="hidden md:table-cell">
+                        {(() => {
+                          const activity = (user as any).currentActivity;
+                          const lastSeen = user.lastSeen?.toDate();
+                          const isOnlineNow = lastSeen && (Date.now() - lastSeen.getTime()) < 10 * 60 * 1000;
+                          return activity ? (
+                            <div className="flex items-center gap-2">
+                              <span className={`h-2 w-2 rounded-full flex-shrink-0 ${isOnlineNow ? 'bg-green-500 animate-pulse' : 'bg-gray-400'}`} />
+                              <span className="text-xs text-muted-foreground">{activity}</span>
+                            </div>
+                          ) : (
+                            <span className="text-xs text-muted-foreground">—</span>
+                          );
+                        })()}
+                      </TableCell>
+                      <TableCell className="hidden lg:table-cell">
+                        <span className="text-xs text-muted-foreground">
+                          {(user as any).targetCourse || (user as any).examTarget || '—'}
+                        </span>
                       </TableCell>
                       <TableCell className="text-muted-foreground text-sm">
                         {user.lastSeen ? formatDistanceToNow(user.lastSeen.toDate(), { addSuffix: true }) : 'Never'}

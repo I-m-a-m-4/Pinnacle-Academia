@@ -3,14 +3,14 @@
 import React, { useState, useEffect } from 'react';
 import { Trophy, Calendar, Clock, ChevronRight, CheckCircle2 } from 'lucide-react';
 import { collection, query, where, orderBy, onSnapshot, doc, updateDoc, increment } from 'firebase/firestore';
-import { useFirestore, useAuth } from '@/firebase';
+import { useFirestore, useUser } from '@/firebase';
 import { useToast } from '@/hooks/use-toast';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 
 export default function CbtContestBanner() {
     const firestore = useFirestore();
-    const { user } = useAuth();
+    const { user } = useUser();
     const { toast } = useToast();
     const [upcomingContest, setUpcomingContest] = useState<any>(null);
     const [isRegistered, setIsRegistered] = useState(false);
@@ -26,7 +26,7 @@ export default function CbtContestBanner() {
                 setUpcomingContest(contest);
                 
                 // Check local storage or user doc to see if registered
-                if (user && contest.registeredUsers?.includes(user.uid)) {
+                if (user && (contest as any).registeredUsers?.includes(user.uid)) {
                     setIsRegistered(true);
                 }
             } else {

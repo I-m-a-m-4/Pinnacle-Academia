@@ -11,6 +11,7 @@ import { collection, query, orderBy, getDocs, limit } from 'firebase/firestore';
 import { useFirestore } from '@/firebase';
 import { format, subDays, eachDayOfInterval, startOfDay } from 'date-fns';
 import type { StudentProfile } from '@/types';
+import { CompletedTestsAnalytics } from './completed-tests-analytics';
 
 // Assuming we have a mock_results collection or similar, if not we will mock data temporarily 
 // while waiting to confirm the exact db structure with the user, but we'll try to fetch.
@@ -111,7 +112,10 @@ export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile
                 </Card>
             </div>
 
-            <div className="grid gap-6 md:grid-cols-2">
+            {/* REAL COMPLETED TESTS ANALYTICS */}
+            <CompletedTestsAnalytics />
+
+            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3 mt-6">
                 <Card className="bg-white/5 border-white/10">
                     <CardHeader>
                         <CardTitle className="flex items-center gap-2">

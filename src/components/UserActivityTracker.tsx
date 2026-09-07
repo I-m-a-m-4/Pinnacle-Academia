@@ -27,14 +27,31 @@ export function UserActivityTracker() {
 
             const sessionRef = doc(firestore, 'users', user.uid, 'sessions', sessionId);
 
+            const getActivityFromPath = (path: string) => {
+                if (path.includes('/active-test')) return 'Taking CBT Exam';
+                if (path.includes('/select-subjects') || path.includes('/exam-mode')) return 'Setting up CBT Exam';
+                if (path.includes('/study-materials')) return 'Browsing Study Materials';
+                if (path.includes('/syllabus-tracker')) return 'Reviewing Syllabus';
+                if (path.includes('/performance-analytics')) return 'Checking Analytics';
+                if (path.includes('/dashboard')) return 'On Dashboard';
+                if (path.includes('/pinnacle-ai') || path.includes('/ai-insights')) return 'Using AI Tutor';
+                if (path.includes('/forum') || path.includes('/peers-mentors')) return 'In Community Forum';
+                if (path.includes('/admin-sheun')) return 'Admin Dashboard';
+                return 'Active in App';
+            };
+
+            const currentActivityString = getActivityFromPath(pathname);
+
             try {
                 const lastUpdate = sessionStorage.getItem('last_user_activity_update');
+                const lastActivityStored = sessionStorage.getItem('last_user_activity_string');
                 const now = Date.now();
                 
                 // Update if:
                 // - Never updated this session
                 // - It's been > 5 minutes
-                if (!lastUpdate || now - parseInt(lastUpdate) > 5 * 60 * 1000) {
+                // - The actual activity changed
+                if (!lastUpdate || now - parseInt(lastUpdate) > 5 * 60 * 1000 || lastActivityStored !== currentActivityString) {
                     // Check if session is revoked only when we're going to update
                     const sessionSnap = await getDoc(sessionRef);
                     if (sessionSnap.exists() && sessionSnap.data().revoked) {
@@ -48,7 +65,8 @@ export function UserActivityTracker() {
                     
                     batch.set(userRef, {
                         lastSeen: serverTimestamp(),
-                        status: 'active'
+                        status: 'active',
+                        currentActivity: currentActivityString
                     }, { merge: true });
 
                     batch.set(sessionRef, {
@@ -66,6 +84,7 @@ export function UserActivityTracker() {
 
                     await batch.commit();
                     sessionStorage.setItem('last_user_activity_update', now.toString());
+                    sessionStorage.setItem('last_user_activity_string', currentActivityString);
                     console.log("User session updated successfully");
                 }
             } catch (error: any) {

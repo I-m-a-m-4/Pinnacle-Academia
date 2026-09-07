@@ -18,9 +18,6 @@ export default function InstallPrompt() {
     const [showInstallModal, setShowInstallModal] = useState(false);
     const [isIOS, setIsIOS] = useState(false);
 
-    // Disable automatic install prompt as requested
-    return null;
-
     useEffect(() => {
         // Check if device is iOS
         const isIosDevice = /iPad|iPhone|iPod/.test(navigator.userAgent) && !(window as any).MSStream;
@@ -77,7 +74,7 @@ export default function InstallPrompt() {
                         ) : (
                             <div className="grid gap-4 py-4 w-full">
                                 <p className="text-sm text-muted-foreground">
-                                    Get quick access to Zeneva directly from your home screen.
+                                    Get quick access to Pinnacle Academia directly from your home screen.
                                 </p>
                                 <Button onClick={handleInstallClick} className="w-full">
                                     <Download className="mr-2 h-4 w-4" /> Install App
