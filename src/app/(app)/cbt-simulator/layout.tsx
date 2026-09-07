@@ -3,6 +3,7 @@
 
 import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
+import CbtContestBanner from "@/components/cbt/cbt-contest-banner";
 
 const steps = [
   { name: "Select Subjects", path: "/cbt-simulator/select-subjects" },
@@ -17,6 +18,7 @@ export default function CBTLayout({ children }: { children: React.ReactNode }) {
 
   return (
     <div className="p-4 sm:p-6">
+      {currentStepIndex === 0 && <CbtContestBanner />}
       <nav aria-label="Progress" className="mb-8 no-print">
         <ol role="list" className="flex items-center">
           {steps.map((step, stepIdx) => (

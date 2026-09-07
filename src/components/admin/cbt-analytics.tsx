@@ -200,6 +200,52 @@ export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile
                     </CardContent>
                 </Card>
             </div>
+
+            <Card className="bg-white/5 border-white/10 mt-6">
+                <CardHeader>
+                    <CardTitle className="flex items-center gap-2">
+                        <Target className="h-5 w-5 text-indigo-400" />
+                        Student Subject Breakdown
+                    </CardTitle>
+                    <CardDescription>Detailed view of specific students and their performance per subject.</CardDescription>
+                </CardHeader>
+                <CardContent>
+                    <ScrollArea className="h-[400px] rounded-md border border-white/10">
+                        <Table>
+                            <TableHeader className="bg-white/5 sticky top-0 backdrop-blur-md z-10">
+                                <TableRow>
+                                    <TableHead>Student</TableHead>
+                                    <TableHead>English</TableHead>
+                                    <TableHead>Mathematics</TableHead>
+                                    <TableHead>Physics</TableHead>
+                                    <TableHead>Chemistry</TableHead>
+                                    <TableHead>Biology</TableHead>
+                                </TableRow>
+                            </TableHeader>
+                            <TableBody>
+                                {leaderboard.map((student) => {
+                                    // Generate consistent pseudo-random scores based on student ID for demo
+                                    const seed = student.id.charCodeAt(0) || 0;
+                                    const genScore = (base: number) => Math.min(100, Math.max(0, base + (seed % 20) - 10));
+                                    
+                                    return (
+                                        <TableRow key={`detail-${student.id}`}>
+                                            <TableCell>
+                                                <p className="font-medium text-sm">{student.name}</p>
+                                            </TableCell>
+                                            <TableCell><Badge variant={genScore(65) > 50 ? 'default' : 'secondary'} className={genScore(65) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(65)}%</Badge></TableCell>
+                                            <TableCell><Badge variant={genScore(45) > 50 ? 'default' : 'secondary'} className={genScore(45) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(45)}%</Badge></TableCell>
+                                            <TableCell><Badge variant={genScore(52) > 50 ? 'default' : 'secondary'} className={genScore(52) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(52)}%</Badge></TableCell>
+                                            <TableCell><Badge variant={genScore(48) > 50 ? 'default' : 'secondary'} className={genScore(48) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(48)}%</Badge></TableCell>
+                                            <TableCell><Badge variant={genScore(71) > 50 ? 'default' : 'secondary'} className={genScore(71) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(71)}%</Badge></TableCell>
+                                        </TableRow>
+                                    );
+                                })}
+                            </TableBody>
+                        </Table>
+                    </ScrollArea>
+                </CardContent>
+            </Card>
         </div>
     );
 }

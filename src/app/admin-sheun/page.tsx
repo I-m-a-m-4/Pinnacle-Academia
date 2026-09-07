@@ -162,7 +162,7 @@ import CyberShield from '@/components/admin/cyber-shield';
 import AdminBlogTabContent from '@/components/admin/blog-tab-content';
 import CbtAnalyticsDashboard from '@/components/admin/cbt-analytics';
 import QuestionManager from '@/components/admin/question-manager';
-
+import CbtContestManager from '@/components/admin/cbt-contests';
 
 
 const DEFAULT_QUESTIONS = [
@@ -1876,6 +1876,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                 <TabsList className="flex flex-wrap gap-1 bg-transparent border-b h-auto p-0 rounded-none mb-6">
                     <TabsTrigger value="overview" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2">Overview</TabsTrigger>
                     <TabsTrigger value="cbt-analytics" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2"><Target className="h-4 w-4" /> CBT Analytics</TabsTrigger>
+                    <TabsTrigger value="cbt-contests" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2"><Trophy className="h-4 w-4" /> Mock Contests</TabsTrigger>
                     <TabsTrigger value="users" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2">User Management</TabsTrigger>
 
                     <TabsTrigger value="academic-data" className="rounded-none border-b-2 border-transparent data-[state=active]:border-primary data-[state=active]:bg-transparent px-4 py-2 gap-2">
@@ -1914,6 +1915,14 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                         <p className="text-muted-foreground">Monitor platform performance, track best students, and analyze mock exam results.</p>
                     </div>
                     <CbtAnalyticsDashboard users={users} />
+                </TabsContent>
+
+                <TabsContent value="cbt-contests" className="space-y-6">
+                    <div className="mb-4">
+                        <h2 className="text-2xl font-bold tracking-tight">Mock Exam Contests</h2>
+                        <p className="text-muted-foreground">Schedule and manage upcoming public CBT mock exams for your students.</p>
+                    </div>
+                    <CbtContestManager subjects={[]} />
                 </TabsContent>
 
                 <TabsContent value="overview" className="space-y-6">

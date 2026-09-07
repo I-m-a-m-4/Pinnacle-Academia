@@ -19,6 +19,15 @@ import { useToast } from '@/hooks/use-toast';
 import { AppConfig } from '@/lib/config';
 import Image from 'next/image';
 import { doc, getDoc } from 'firebase/firestore';
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
+import { MessageCircle } from 'lucide-react';
 
 const signupSchema = z.object({
   name: z.string().min(2, { message: 'Name must be at least 2 characters.' }),
@@ -69,6 +78,10 @@ export default function SignupPage() {
   const [showPassword, setShowPassword] = useState(false);
   const { toast } = useToast();
   const [currentSlide, setCurrentSlide] = useState(0);
+
+  const [hasSharedToWhatsApp, setHasSharedToWhatsApp] = useState(false);
+  const [showShareDialog, setShowShareDialog] = useState(false);
+  const [pendingSignupData, setPendingSignupData] = useState<SignupFormValues | null>(null);
 
   const [invitationDetails, setInvitationDetails] = useState<{ businessName: string, role: string } | null>(null);
   const [isLoadingInvitation, setIsLoadingInvitation] = useState(true);
@@ -129,6 +142,13 @@ export default function SignupPage() {
 
   const onSubmit = async (data: SignupFormValues) => {
     if (!auth || !firestore) return;
+
+    if (!hasSharedToWhatsApp) {
+      setPendingSignupData(data);
+      setShowShareDialog(true);
+      return;
+    }
+
     setIsLoading(true);
     try {
       const userCredential = await createUserWithEmailAndPassword(auth, data.email, data.password);
@@ -157,6 +177,55 @@ export default function SignupPage() {
   return (
     <div className="w-full min-h-screen flex lg:grid lg:grid-cols-2">
       <div className="flex items-center justify-center relative w-full">
+        
+        {/* WhatsApp Share Dialog */}
+        <Dialog open={showShareDialog} onOpenChange={setShowShareDialog}>
+          <DialogContent className="sm:max-w-md">
+            <DialogHeader>
+              <DialogTitle className="flex items-center gap-2">
+                <MessageCircle className="h-5 w-5 text-emerald-500" />
+                Help Us Spread the Word!
+              </DialogTitle>
+              <DialogDescription>
+                Pinnacle Academia provides this platform entirely for free. 
+                Before we complete your registration, please help us by sharing this message with other OAU aspirants on WhatsApp!
+              </DialogDescription>
+            </DialogHeader>
+            <div className="flex flex-col gap-4 py-4">
+              <div className="bg-muted p-4 rounded-md text-xs whitespace-pre-wrap font-mono text-muted-foreground border">
+                {`2026 OAU FREE POST UTME CBT PRACTICE \n\n PRACTICE OAU POST UTME QUESTIONS AND ANSWERS FOR FREE. \n\n MEASURE YOUR SPEED, TIME AND ACCURACY. \n\n START YOUR FREE TEST NOW! ⬇️\n https://pinnacleacademia.com/signup\n\nYou can also access the ORIGINAL OAU POST UTME SYLLABUS FOR ALL SUBJECTS.\n Join our official channel for Free Questions and Answers, and other OAU related updates!\nChannel: https://whatsapp.com/channel/0029VapLWT742DcfzMWzY92M\n\nShare with other OAU ASPIRANTS!!!`}
+              </div>
+            </div>
+            <DialogFooter className="flex-col sm:flex-row gap-2">
+              <Button
+                type="button"
+                className="w-full sm:w-auto bg-emerald-500 hover:bg-emerald-600 text-white"
+                onClick={() => {
+                  const message = `2026 OAU FREE POST UTME CBT PRACTICE \n\n PRACTICE OAU POST UTME QUESTIONS AND ANSWERS FOR FREE. \n\n MEASURE YOUR SPEED, TIME AND ACCURACY. \n\n START YOUR FREE TEST NOW! ⬇️\n https://pinnacleacademia.com/signup\n\nYou can also access the ORIGINAL OAU POST UTME SYLLABUS FOR ALL SUBJECTS.\n Join our official channel for Free Questions and Answers, and other OAU related updates!\nChannel: https://whatsapp.com/channel/0029VapLWT742DcfzMWzY92M\n\nShare with other OAU ASPIRANTS!!!`;
+                  window.open(`https://wa.me/?text=${encodeURIComponent(message)}`, '_blank');
+                  setHasSharedToWhatsApp(true);
+                }}
+              >
+                <MessageCircle className="mr-2 h-4 w-4" /> Share on WhatsApp
+              </Button>
+              <Button
+                type="button"
+                variant={hasSharedToWhatsApp ? "default" : "outline"}
+                className="w-full sm:w-auto"
+                disabled={!hasSharedToWhatsApp || isLoading}
+                onClick={() => {
+                  if (pendingSignupData) {
+                    setShowShareDialog(false);
+                    onSubmit(pendingSignupData);
+                  }
+                }}
+              >
+                {isLoading ? <Loader className="mr-2 h-4 w-4 animate-spin" /> : "Complete Registration"}
+              </Button>
+            </DialogFooter>
+          </DialogContent>
+        </Dialog>
+
         <div className="absolute top-8 left-4 sm:left-8">
           <Button variant="ghost" asChild>
             <Link href="/login">
