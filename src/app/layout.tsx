@@ -1,7 +1,7 @@
 import * as React from 'react';
 import type { Metadata } from 'next';
 import { Suspense } from 'react';
-import './globals.css';
+import './main.css';
 import { Toaster } from "@/components/ui/toaster";
 import { cn } from '@/lib/utils';
 import { FirebaseClientProvider } from '@/firebase/client-provider';
