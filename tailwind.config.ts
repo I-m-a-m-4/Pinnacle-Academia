@@ -1,5 +1,5 @@
-
 import type {Config} from 'tailwindcss';
+// Cache bust: 2
 const plugin = require('tailwindcss/plugin');
 
 export default {
