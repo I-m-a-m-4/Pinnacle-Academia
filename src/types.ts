@@ -501,3 +501,43 @@ export interface AcademyStats {
     updatedAt: any;
 }
 
+// --- Mock Exam Features ---
+export interface MockExamQuestion {
+    id: string;
+    questionText: string;
+    options: string[];
+    correctAnswer: 'A' | 'B' | 'C' | 'D' | 'E';
+    explanation?: string;
+}
+
+export interface MockExamSubject {
+    id: string; // e.g. "government"
+    name: string; // e.g. "Government"
+    questions: MockExamQuestion[];
+}
+
+export interface MockExamEvent {
+    id: string;
+    academyId: string;
+    title: string;
+    startTime: any; // Firestore Timestamp
+    durationMinutes: number;
+    status: 'pending' | 'active' | 'completed';
+    subjects: MockExamSubject[];
+    bannedEmails: string[];
+    createdAt: any;
+    createdBy: string;
+}
+
+export interface MockExamSubmission {
+    id: string;
+    eventId: string;
+    studentName: string;
+    studentEmail: string;
+    answers: Record<string, string>; // questionId -> selectedOption
+    scorePerSubject: Record<string, { score: number, total: number }>;
+    totalScore: number;
+    totalQuestions: number;
+    submittedAt: any;
+}
+

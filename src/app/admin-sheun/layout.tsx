@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { useUser } from '@/firebase';
 import { useRouter, usePathname } from 'next/navigation';
 import { useEffect } from 'react';
-import { Loader, LogOut, LayoutDashboard, Newspaper, Bell, MessageSquare, Crown } from 'lucide-react';
+import { Loader, LogOut, LayoutDashboard, Newspaper, Bell, MessageSquare, Crown, FileText } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { getAuth, signOut } from 'firebase/auth';
 import { cn } from '@/lib/utils';
@@ -17,6 +17,7 @@ const ADMIN_EMAILS = ['belloimam431@gmail.com', 'ibrahimakinola10@gmail.com'];
 
 const navLinks = [
   { href: '/admin-sheun', label: 'Dashboard', icon: LayoutDashboard },
+  { href: '/admin-sheun/mock-exams', label: 'Mock Exams', icon: FileText },
   { href: '/admin-sheun/achievements', label: 'Achievements', icon: Crown },
   { href: '/admin-sheun/blog', label: 'Blog', icon: Newspaper },
   { href: '/admin-sheun/notifications', label: 'Notifications', icon: Bell },
