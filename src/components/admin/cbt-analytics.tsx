@@ -10,40 +10,138 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContaine
 import { collection, query, orderBy, getDocs, limit } from 'firebase/firestore';
 import { useFirestore } from '@/firebase';
 import { format, subDays, eachDayOfInterval, startOfDay } from 'date-fns';
-import type { StudentProfile } from '@/types';
+import type { StudentProfile, MockExamSubmission } from '@/types';
 import { CompletedTestsAnalytics } from './completed-tests-analytics';
-
-// Assuming we have a mock_results collection or similar, if not we will mock data temporarily 
-// while waiting to confirm the exact db structure with the user, but we'll try to fetch.
+import { useAcademy } from '@/context/academy-context';
 
 export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile[] | null }) {
     const firestore = useFirestore();
+    const { academy } = useAcademy();
+    
     const [leaderboard, setLeaderboard] = useState<any[]>([]);
+    const [subjectPerformance, setSubjectPerformance] = useState<any[]>([]);
+    const [platformAvg, setPlatformAvg] = useState(0);
+    const [mostChallenging, setMostChallenging] = useState({ name: '-', score: 0 });
+    const [examsTaken, setExamsTaken] = useState(0);
+    
     const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {
-        // In a real scenario, you'd fetch from a 'mock_results' or 'exam_sessions' collection.
-        // For now, let's create a computed leaderboard from users if they have stats, or mock it if empty.
-        const fetchLeaderboard = async () => {
+        const fetchRealAnalytics = async () => {
+            if (!academy || !users) return;
             setIsLoading(true);
+            
             try {
-                // Example of how we might fetch if we have an explicit leaderboard collection
-                // const q = query(collection(firestore, 'mock_results'), orderBy('score', 'desc'), limit(50));
-                // const snap = await getDocs(q);
-                // ...
+                // Fetch all mock exams
+                const examsQuery = query(collection(firestore, 'academies', academy.id, 'mockExams'));
+                const examsSnap = await getDocs(examsQuery);
                 
-                // Fallback: Generate from users if we don't have explicit results yet, 
-                // simulating stats for demonstration based on user data.
-                let mockLeaderboard = (users || []).map(u => ({
-                    id: u.id,
-                    name: u.name,
-                    email: u.email,
-                    examsTaken: Math.floor(Math.random() * 20) + 1,
-                    avgScore: Math.floor(Math.random() * 150) + 150, // UTME score out of 400
-                    accuracy: Math.floor(Math.random() * 40) + 50 // percentage
-                })).sort((a, b) => b.avgScore - a.avgScore).slice(0, 50);
+                const allSubmissions: MockExamSubmission[] = [];
+                
+                // Fetch submissions for each exam
+                for (const examDoc of examsSnap.docs) {
+                    const subsQuery = query(collection(firestore, 'academies', academy.id, 'mockExams', examDoc.id, 'submissions'));
+                    const subsSnap = await getDocs(subsQuery);
+                    
+                    subsSnap.forEach(subDoc => {
+                        allSubmissions.push(subDoc.data() as MockExamSubmission);
+                    });
+                }
+                
+                setExamsTaken(allSubmissions.length);
 
-                setLeaderboard(mockLeaderboard);
+                // Aggregate by student
+                const studentStats: Record<string, { name: string, totalScore: number, maxPossible: number, count: number, subjectScores: Record<string, {score: number, total: number}> }> = {};
+                const globalSubjectStats: Record<string, {score: number, total: number}> = {};
+
+                let globalTotalScore = 0;
+                let globalMaxPossible = 0;
+
+                allSubmissions.forEach(sub => {
+                    // Update global
+                    globalTotalScore += sub.totalScore;
+                    globalMaxPossible += sub.totalQuestions || 1;
+
+                    // Update student
+                    const email = sub.studentEmail;
+                    if (!studentStats[email]) {
+                        studentStats[email] = {
+                            name: sub.studentName,
+                            totalScore: 0,
+                            maxPossible: 0,
+                            count: 0,
+                            subjectScores: {}
+                        };
+                    }
+                    studentStats[email].count += 1;
+                    studentStats[email].totalScore += sub.totalScore;
+                    studentStats[email].maxPossible += sub.totalQuestions || 1;
+
+                    // Update subjects
+                    if (sub.scorePerSubject) {
+                        Object.entries(sub.scorePerSubject).forEach(([subj, data]) => {
+                            // Student subject stat
+                            if (!studentStats[email].subjectScores[subj]) {
+                                studentStats[email].subjectScores[subj] = { score: 0, total: 0 };
+                            }
+                            studentStats[email].subjectScores[subj].score += data.score;
+                            studentStats[email].subjectScores[subj].total += data.total || 1;
+
+                            // Global subject stat
+                            if (!globalSubjectStats[subj]) {
+                                globalSubjectStats[subj] = { score: 0, total: 0 };
+                            }
+                            globalSubjectStats[subj].score += data.score;
+                            globalSubjectStats[subj].total += data.total || 1;
+                        });
+                    }
+                });
+
+                // Compute Leaderboard
+                const realLeaderboard = Object.keys(studentStats).map(email => {
+                    const stats = studentStats[email];
+                    const avgScore = Math.round((stats.totalScore / stats.maxPossible) * 100);
+                    return {
+                        id: email, // use email as ID since they are unique
+                        name: stats.name,
+                        email: email,
+                        examsTaken: stats.count,
+                        avgScore: avgScore,
+                        subjectScores: stats.subjectScores
+                    };
+                }).sort((a, b) => b.avgScore - a.avgScore);
+
+                setLeaderboard(realLeaderboard);
+
+                // Compute Platform Averages
+                if (globalMaxPossible > 0) {
+                    setPlatformAvg(Math.round((globalTotalScore / globalMaxPossible) * 100));
+                }
+
+                // Compute Subject Performance Matrix
+                const COLORS = ['#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6', '#ec4899', '#14b8a6'];
+                let colorIdx = 0;
+                let lowestSubj = { name: '-', score: 100 };
+
+                const realSubjectPerformance = Object.entries(globalSubjectStats).map(([subj, data]) => {
+                    const avgScore = Math.round((data.score / data.total) * 100);
+                    
+                    if (avgScore < lowestSubj.score) {
+                        lowestSubj = { name: subj, score: avgScore };
+                    }
+                    
+                    return {
+                        subject: subj,
+                        avgScore: avgScore,
+                        fill: COLORS[colorIdx++ % COLORS.length]
+                    };
+                });
+
+                setSubjectPerformance(realSubjectPerformance);
+                if (lowestSubj.name !== '-') {
+                    setMostChallenging(lowestSubj);
+                }
+
             } catch (error) {
                 console.error("Failed to load CBT analytics", error);
             } finally {
@@ -51,21 +149,8 @@ export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile
             }
         };
 
-        if (users && users.length > 0) {
-            fetchLeaderboard();
-        } else if (users && users.length === 0) {
-            setLeaderboard([]);
-            setIsLoading(false);
-        }
-    }, [firestore, users]);
-
-    const subjectPerformance = [
-        { subject: 'Use of English', avgScore: 68, fill: '#3b82f6' },
-        { subject: 'Mathematics', avgScore: 45, fill: '#ef4444' },
-        { subject: 'Physics', avgScore: 52, fill: '#10b981' },
-        { subject: 'Chemistry', avgScore: 48, fill: '#f59e0b' },
-        { subject: 'Biology', avgScore: 71, fill: '#8b5cf6' },
-    ];
+        fetchRealAnalytics();
+    }, [firestore, academy, users]);
 
     return (
         <div className="space-y-6">
@@ -76,18 +161,18 @@ export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile
                         <Target className="h-4 w-4 text-emerald-400" />
                     </CardHeader>
                     <CardContent>
-                        <div className="text-2xl font-bold">215 <span className="text-sm font-normal text-muted-foreground">/ 400</span></div>
-                        <p className="text-xs text-muted-foreground mt-1">Based on recent mock exams</p>
+                        <div className="text-2xl font-bold">{platformAvg}%</div>
+                        <p className="text-xs text-muted-foreground mt-1">Overall percentage across all exams</p>
                     </CardContent>
                 </Card>
                 <Card className="bg-white/5 border-white/10">
                     <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                        <CardTitle className="text-sm font-medium">Exams Taken (Week)</CardTitle>
+                        <CardTitle className="text-sm font-medium">Exams Taken</CardTitle>
                         <BrainCircuit className="h-4 w-4 text-indigo-400" />
                     </CardHeader>
                     <CardContent>
-                        <div className="text-2xl font-bold">1,248</div>
-                        <p className="text-xs text-muted-foreground mt-1">+12% from last week</p>
+                        <div className="text-2xl font-bold">{examsTaken.toLocaleString()}</div>
+                        <p className="text-xs text-muted-foreground mt-1">Total mock submissions</p>
                     </CardContent>
                 </Card>
                 <Card className="bg-white/5 border-white/10">
@@ -96,8 +181,8 @@ export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile
                         <TrendingUp className="h-4 w-4 text-rose-400" />
                     </CardHeader>
                     <CardContent>
-                        <div className="text-2xl font-bold">Mathematics</div>
-                        <p className="text-xs text-muted-foreground mt-1">Avg Score: 45%</p>
+                        <div className="text-2xl font-bold capitalize">{mostChallenging.name}</div>
+                        <p className="text-xs text-muted-foreground mt-1">Avg Score: {mostChallenging.score}%</p>
                     </CardContent>
                 </Card>
                 <Card className="bg-white/5 border-white/10">
@@ -106,8 +191,8 @@ export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile
                         <Trophy className="h-4 w-4 text-amber-400" />
                     </CardHeader>
                     <CardContent>
-                        <div className="text-2xl font-bold">{leaderboard.filter(l => l.avgScore >= 300).length}</div>
-                        <p className="text-xs text-muted-foreground mt-1">Students scoring 300+</p>
+                        <div className="text-2xl font-bold">{leaderboard.filter(l => l.avgScore >= 70).length}</div>
+                        <p className="text-xs text-muted-foreground mt-1">Students scoring 70%+</p>
                     </CardContent>
                 </Card>
             </div>
@@ -220,32 +305,42 @@ export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile
                             <TableHeader className="bg-white/5 sticky top-0 backdrop-blur-md z-10">
                                 <TableRow>
                                     <TableHead>Student</TableHead>
-                                    <TableHead>English</TableHead>
-                                    <TableHead>Mathematics</TableHead>
-                                    <TableHead>Physics</TableHead>
-                                    <TableHead>Chemistry</TableHead>
-                                    <TableHead>Biology</TableHead>
+                                    {subjectPerformance.map(s => (
+                                        <TableHead key={s.subject} className="capitalize">{s.subject}</TableHead>
+                                    ))}
                                 </TableRow>
                             </TableHeader>
                             <TableBody>
                                 {leaderboard.map((student) => {
-                                    // Generate consistent pseudo-random scores based on student ID for demo
-                                    const seed = student.id.charCodeAt(0) || 0;
-                                    const genScore = (base: number) => Math.min(100, Math.max(0, base + (seed % 20) - 10));
-                                    
                                     return (
                                         <TableRow key={`detail-${student.id}`}>
                                             <TableCell>
                                                 <p className="font-medium text-sm">{student.name}</p>
                                             </TableCell>
-                                            <TableCell><Badge variant={genScore(65) > 50 ? 'default' : 'secondary'} className={genScore(65) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(65)}%</Badge></TableCell>
-                                            <TableCell><Badge variant={genScore(45) > 50 ? 'default' : 'secondary'} className={genScore(45) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(45)}%</Badge></TableCell>
-                                            <TableCell><Badge variant={genScore(52) > 50 ? 'default' : 'secondary'} className={genScore(52) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(52)}%</Badge></TableCell>
-                                            <TableCell><Badge variant={genScore(48) > 50 ? 'default' : 'secondary'} className={genScore(48) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(48)}%</Badge></TableCell>
-                                            <TableCell><Badge variant={genScore(71) > 50 ? 'default' : 'secondary'} className={genScore(71) > 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>{genScore(71)}%</Badge></TableCell>
+                                            {subjectPerformance.map(subj => {
+                                                const stat = student.subjectScores?.[subj.subject];
+                                                if (!stat || stat.total === 0) {
+                                                    return <TableCell key={subj.subject} className="text-muted-foreground">-</TableCell>;
+                                                }
+                                                const scorePct = Math.round((stat.score / stat.total) * 100);
+                                                return (
+                                                    <TableCell key={subj.subject}>
+                                                        <Badge variant={scorePct >= 50 ? 'default' : 'secondary'} className={scorePct >= 50 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}>
+                                                            {scorePct}%
+                                                        </Badge>
+                                                    </TableCell>
+                                                );
+                                            })}
                                         </TableRow>
                                     );
                                 })}
+                                {leaderboard.length === 0 && (
+                                    <TableRow>
+                                        <TableCell colSpan={subjectPerformance.length + 1} className="text-center py-8 text-muted-foreground">
+                                            No subject data available.
+                                        </TableCell>
+                                    </TableRow>
+                                )}
                             </TableBody>
                         </Table>
                     </ScrollArea>
