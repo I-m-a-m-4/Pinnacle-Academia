@@ -117,7 +117,7 @@ export default function MockExamLandingPage() {
               <div className="bg-green-50 border border-green-200 text-green-800 p-3 rounded-md text-sm text-center font-medium">
                 The exam is currently active.
               </div>
-              <div className="space-y-4 mt-4">
+              <div className="space-y-4 mt-4 text-left">
                 <div className="space-y-2">
                   <Label>Full Name</Label>
                   <Input 
@@ -134,7 +134,30 @@ export default function MockExamLandingPage() {
                     onChange={e => setStudentEmail(e.target.value)} 
                   />
                 </div>
-                <Button className="w-full text-lg h-12" onClick={handleStart}>
+                <div className="space-y-2 pb-4">
+                  <Label>Exam Category</Label>
+                  <div className="flex gap-4">
+                    {['Art', 'Science', 'Commercial'].map((cat) => (
+                      <label key={cat} className="flex items-center space-x-2 cursor-pointer">
+                        <input 
+                          type="radio" 
+                          name="category" 
+                          value={cat} 
+                          className="h-4 w-4 text-primary"
+                          onChange={(e) => sessionStorage.setItem(`mock_exam_${eventId}_category`, e.target.value)}
+                        />
+                        <span className="text-sm">{cat}</span>
+                      </label>
+                    ))}
+                  </div>
+                </div>
+                <Button className="w-full text-lg h-12" onClick={() => {
+                  if (!sessionStorage.getItem(`mock_exam_${eventId}_category`)) {
+                    toast({ title: 'Category Required', description: 'Please select an exam category.', variant: 'destructive' });
+                    return;
+                  }
+                  handleStart();
+                }}>
                   Start Exam
                 </Button>
                 <p className="text-xs text-muted-foreground text-center">

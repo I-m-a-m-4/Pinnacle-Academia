@@ -74,6 +74,7 @@ const navItems = [
   { href: '/dashboard', icon: Home, label: 'Dashboard', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
   { href: '/syllabus-tracker', icon: Package, label: 'Syllabus Tracker', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
   { href: '/cbt-simulator/select-subjects', icon: ShoppingCart, label: 'CBT Exam Simulator', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
+  { href: '/live-mock-exams', icon: ShieldCheck, label: 'Live Mock Contests', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
   { href: '/mentorship-booking', icon: Globe, label: 'Mentorship Booking', roles: ['admin', 'manager', 'owner'] },
   { href: '/admission-calculator', icon: FileText, label: 'Admission Calculator', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
   { href: '/performance-analytics', icon: BarChart2, label: 'Performance Analytics', roles: ['admin', 'owner'] },

@@ -130,11 +130,13 @@ export default function TakeMockExamPage() {
       });
       scorePerSubject[subject.id] = { score: subjScore, total: subject.questions.length };
     });
+    const category = sessionStorage.getItem(`mock_exam_${eventId}_category`) || 'Unspecified';
 
     const submissionData = {
       eventId: exam.id,
       studentName: student.name,
       studentEmail: student.email,
+      category,
       answers,
       scorePerSubject,
       totalScore,

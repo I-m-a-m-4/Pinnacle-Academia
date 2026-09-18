@@ -534,6 +534,7 @@ export interface MockExamSubmission {
     eventId: string;
     studentName: string;
     studentEmail: string;
+    category?: string;
     answers: Record<string, string>; // questionId -> selectedOption
     scorePerSubject: Record<string, { score: number, total: number }>;
     totalScore: number;
