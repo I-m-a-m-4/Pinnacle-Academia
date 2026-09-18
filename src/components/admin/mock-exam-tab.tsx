@@ -1,30 +1,172 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { doc, onSnapshot, updateDoc } from 'firebase/firestore';
+import { collection, query, orderBy, onSnapshot, addDoc, serverTimestamp, doc, updateDoc, deleteDoc } from 'firebase/firestore';
 import { db } from '@/firebase';
 import { useAcademy } from '@/context/academy-context';
 import { Button } from '@/components/ui/button';
-import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
-import { Loader2, ArrowLeft, Save, Trash2, Plus, Ban } from 'lucide-react';
-import Link from 'next/link';
-import { useParams, useRouter } from 'next/navigation';
-import { MockExamEvent, MockExamSubject, MockExamQuestion } from '@/types';
+import { Loader2, Plus, Calendar, ArrowLeft, Save, Trash2, Ban } from 'lucide-react';
+import { MockExamEvent } from '@/types';
+import { useUser } from '@/firebase';
 import { toast } from '@/hooks/use-toast';
+import { format } from 'date-fns';
 
-export default function ManageMockExamPage() {
+export default function MockExamTab() {
+  const [selectedEventId, setSelectedEventId] = useState<string | null>(null);
+
+  if (selectedEventId) {
+    return <ManageMockExamEvent eventId={selectedEventId} onBack={() => setSelectedEventId(null)} />;
+  }
+
+  return <MockExamList onSelectEvent={setSelectedEventId} />;
+}
+
+function MockExamList({ onSelectEvent }: { onSelectEvent: (id: string) => void }) {
   const { academy } = useAcademy();
-  const params = useParams();
-  const router = useRouter();
-  const eventId = params.eventId as string;
+  const { user } = useUser();
+  const [exams, setExams] = useState<MockExamEvent[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [creating, setCreating] = useState(false);
 
+  useEffect(() => {
+    if (!academy) return;
+
+    const q = query(
+      collection(db, 'academies', academy.id, 'mockExams'),
+      orderBy('createdAt', 'desc')
+    );
+
+    const unsubscribe = onSnapshot(q, (snapshot) => {
+      const examsData = snapshot.docs.map(doc => ({
+        id: doc.id,
+        ...doc.data()
+      })) as MockExamEvent[];
+      setExams(examsData);
+      setLoading(false);
+    });
+
+    return () => unsubscribe();
+  }, [academy]);
+
+  const handleCreateMockExam = async () => {
+    if (!academy || !user) return;
+    setCreating(true);
+    try {
+      const defaultStartTime = new Date();
+      defaultStartTime.setHours(8, 0, 0, 0);
+      defaultStartTime.setDate(defaultStartTime.getDate() + 1);
+
+      await addDoc(collection(db, 'academies', academy.id, 'mockExams'), {
+        academyId: academy.id,
+        title: 'Final Mock CBT Exam',
+        startTime: defaultStartTime.getTime(),
+        durationMinutes: 60,
+        status: 'pending',
+        subjects: [],
+        bannedEmails: [],
+        createdAt: serverTimestamp(),
+        createdBy: user.uid,
+      });
+      toast({ title: 'Success', description: 'New mock exam created' });
+    } catch (error) {
+      console.error("Error creating mock exam:", error);
+      toast({ title: 'Error', description: 'Failed to create mock exam', variant: 'destructive' });
+    } finally {
+      setCreating(false);
+    }
+  };
+
+  const handleDeleteMockExam = async (id: string, e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (!academy) return;
+    if (!confirm('Are you sure you want to delete this mock exam?')) return;
+    try {
+      await deleteDoc(doc(db, 'academies', academy.id, 'mockExams', id));
+      toast({ title: 'Success', description: 'Mock exam deleted' });
+    } catch (error) {
+      console.error(error);
+      toast({ title: 'Error', description: 'Failed to delete mock exam', variant: 'destructive' });
+    }
+  };
+
+  if (loading) {
+    return (
+      <div className="flex justify-center items-center h-64">
+        <Loader2 className="h-8 w-8 animate-spin text-primary" />
+      </div>
+    );
+  }
+
+  return (
+    <div className="space-y-6">
+      <div className="flex justify-between items-center mb-4">
+        <div>
+          <h2 className="text-2xl font-bold tracking-tight">Mock Exam Contests</h2>
+          <p className="text-muted-foreground">Schedule and manage upcoming public CBT mock exams for your students.</p>
+        </div>
+        <Button onClick={handleCreateMockExam} disabled={creating}>
+          {creating ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Plus className="mr-2 h-4 w-4" />}
+          Create New Event
+        </Button>
+      </div>
+
+      {exams.length === 0 ? (
+        <Card className="text-center py-12">
+          <CardContent>
+            <div className="mx-auto w-16 h-16 bg-muted rounded-full flex items-center justify-center mb-4">
+              <Calendar className="h-8 w-8 text-muted-foreground" />
+            </div>
+            <h3 className="text-xl font-semibold mb-2">No Mock Exams yet</h3>
+            <p className="text-muted-foreground mb-4">Create your first mock exam event to get started.</p>
+            <Button onClick={handleCreateMockExam} disabled={creating}>
+              Create Event
+            </Button>
+          </CardContent>
+        </Card>
+      ) : (
+        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          {exams.map(exam => (
+            <Card key={exam.id} className="cursor-pointer hover:border-primary transition-colors flex flex-col justify-between" onClick={() => onSelectEvent(exam.id)}>
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg line-clamp-1">{exam.title}</CardTitle>
+                <CardDescription>
+                  {exam.startTime ? format(new Date(exam.startTime), 'PPP p') : 'No date set'}
+                </CardDescription>
+              </CardHeader>
+              <CardContent className="pb-4">
+                <div className="flex items-center justify-between text-sm">
+                  <span className={`px-2 py-1 rounded-full text-xs font-medium ${
+                    exam.status === 'active' ? 'bg-green-100 text-green-700' :
+                    exam.status === 'completed' ? 'bg-gray-100 text-gray-700' :
+                    'bg-yellow-100 text-yellow-700'
+                  }`}>
+                    {exam.status?.toUpperCase() || 'PENDING'}
+                  </span>
+                  <span className="text-muted-foreground">{exam.durationMinutes} mins</span>
+                </div>
+              </CardContent>
+              <div className="px-6 pb-4 pt-2 flex justify-end border-t mt-auto">
+                 <Button variant="ghost" size="sm" onClick={(e) => handleDeleteMockExam(exam.id, e)} className="text-red-500 hover:text-red-600 hover:bg-red-50">
+                    <Trash2 className="h-4 w-4" />
+                 </Button>
+              </div>
+            </Card>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
+function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () => void }) {
+  const { academy } = useAcademy();
   const [exam, setExam] = useState<MockExamEvent | null>(null);
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
 
-  // Form states
   const [title, setTitle] = useState('');
   const [startTimeStr, setStartTimeStr] = useState('');
   const [duration, setDuration] = useState(60);
@@ -44,23 +186,21 @@ export default function ManageMockExamPage() {
         setStatus(data.status || 'pending');
         setShowResults(data.showResults || false);
         
-        // Format for datetime-local input
         if (data.startTime) {
           const date = new Date(data.startTime);
-          // adjust for local timezone offset for input
           const offset = date.getTimezoneOffset() * 60000;
           const localISOTime = (new Date(date.getTime() - offset)).toISOString().slice(0,16);
           setStartTimeStr(localISOTime);
         }
       } else {
         toast({ title: 'Error', description: 'Exam not found', variant: 'destructive' });
-        router.push('/admin-sheun/mock-exams');
+        onBack();
       }
       setLoading(false);
     });
 
     return () => unsubscribe();
-  }, [academy, eventId, router]);
+  }, [academy, eventId, onBack]);
 
   const handleSave = async () => {
     if (!academy || !exam) return;
@@ -100,7 +240,7 @@ export default function ManageMockExamPage() {
   const handleRemoveBan = async (emailToRemove: string) => {
     if (!academy || !exam) return;
     try {
-      const newBanned = exam.bannedEmails.filter(email => email !== emailToRemove);
+      const newBanned = exam.bannedEmails.filter((email: string) => email !== emailToRemove);
       await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
         bannedEmails: newBanned
       });
@@ -150,7 +290,6 @@ export default function ManageMockExamPage() {
      }
   };
 
-
   if (loading) {
     return <div className="flex justify-center py-20"><Loader2 className="h-8 w-8 animate-spin" /></div>;
   }
@@ -158,11 +297,9 @@ export default function ManageMockExamPage() {
   if (!exam) return null;
 
   return (
-    <div className="space-y-6 max-w-5xl mx-auto pb-20">
+    <div className="space-y-6">
       <div className="flex items-center gap-4">
-        <Link href="/admin-sheun/mock-exams">
-          <Button variant="ghost" size="icon"><ArrowLeft className="h-5 w-5" /></Button>
-        </Link>
+        <Button variant="ghost" size="icon" onClick={onBack}><ArrowLeft className="h-5 w-5" /></Button>
         <h1 className="text-3xl font-bold tracking-tight">Manage Event: {exam.title}</h1>
       </div>
 
@@ -255,7 +392,7 @@ export default function ManageMockExamPage() {
               
               {exam.bannedEmails?.length > 0 ? (
                 <ul className="space-y-2">
-                  {exam.bannedEmails.map(email => (
+                  {exam.bannedEmails.map((email: string) => (
                     <li key={email} className="flex justify-between items-center text-sm p-2 bg-muted rounded-md">
                       <span>{email}</span>
                       <Button variant="ghost" size="sm" onClick={() => handleRemoveBan(email)}>
@@ -280,7 +417,7 @@ export default function ManageMockExamPage() {
         <CardContent>
           {exam.subjects?.length > 0 ? (
             <div className="space-y-4">
-              {exam.subjects.map(subject => (
+              {exam.subjects.map((subject: any) => (
                 <div key={subject.id} className="border p-4 rounded-md">
                   <h3 className="font-semibold text-lg">{subject.name}</h3>
                   <p className="text-sm text-muted-foreground">{subject.questions.length} Questions</p>

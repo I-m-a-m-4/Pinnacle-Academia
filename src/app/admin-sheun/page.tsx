@@ -162,7 +162,7 @@ import CyberShield from '@/components/admin/cyber-shield';
 import AdminBlogTabContent from '@/components/admin/blog-tab-content';
 import CbtAnalyticsDashboard from '@/components/admin/cbt-analytics';
 import QuestionManager from '@/components/admin/question-manager';
-import CbtContestManager from '@/components/admin/cbt-contests';
+import MockExamTab from '@/components/admin/mock-exam-tab';
 
 
 const DEFAULT_QUESTIONS = [
@@ -1922,7 +1922,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                         <h2 className="text-2xl font-bold tracking-tight">Mock Exam Contests</h2>
                         <p className="text-muted-foreground">Schedule and manage upcoming public CBT mock exams for your students.</p>
                     </div>
-                    <CbtContestManager subjects={[]} />
+                    <MockExamTab />
                 </TabsContent>
 
                 <TabsContent value="overview" className="space-y-6">
