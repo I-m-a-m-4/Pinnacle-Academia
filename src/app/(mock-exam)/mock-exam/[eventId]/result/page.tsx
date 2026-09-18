@@ -110,8 +110,8 @@ export default function MockExamResultPage() {
             </>
           ) : (
             <div className="bg-blue-50 text-blue-800 p-6 rounded-xl text-center">
-              <h3 className="font-semibold text-lg mb-2">Results Pending</h3>
-              <p>Your results are hidden and will be released by the administrator shortly.</p>
+              <h3 className="font-semibold text-lg mb-2">Assessment Under Review</h3>
+              <p className="text-muted-foreground">Your responses have been successfully submitted and are currently under review. Final results will be published shortly by the administrator.</p>
             </div>
           )}
 

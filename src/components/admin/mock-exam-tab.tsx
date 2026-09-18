@@ -166,6 +166,8 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
   const [exam, setExam] = useState<MockExamEvent | null>(null);
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
+  const [addingSubject, setAddingSubject] = useState(false);
+  const [selectedSubject, setSelectedSubject] = useState('');
 
   const [title, setTitle] = useState('');
   const [startTimeStr, setStartTimeStr] = useState('');
@@ -250,44 +252,102 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
     }
   };
 
-  const seed1030MockQuestions = async () => {
-     if (!academy || !exam) return;
-     try {
-       const { aptitudeQuestions } = await import('@/app/(app)/cbt-simulator/data/aptitude');
-       const { mathematicsQuestions } = await import('@/app/(app)/cbt-simulator/data/mathematics');
-       const { physicsQuestions } = await import('@/app/(app)/cbt-simulator/data/physics');
-       const { chemistryQuestions } = await import('@/app/(app)/cbt-simulator/data/chemistry');
+  const AVAILABLE_SUBJECTS = [
+    'Use of English', 'Mathematics', 'Physics', 'Chemistry', 'Biology',
+    'Literature in English', 'Government', 'Economics', 'Financial Accounting',
+    'Christian Religious Studies', 'Aptitude Test', 'Geography',
+    'Agricultural Science', 'Commerce', 'Islamic Religious Studies',
+    'Civic Education', 'Insurance', 'Current Affairs', 'History'
+  ];
 
-       const questionsData = [
-         {
-           id: 'aptitude',
-           name: 'Aptitude Test',
-           questions: aptitudeQuestions.slice(0, 10)
-         },
-         {
-           id: 'maths',
-           name: 'Mathematics',
-           questions: mathematicsQuestions.slice(0, 10)
-         },
-         {
-           id: 'physics',
-           name: 'Physics',
-           questions: physicsQuestions.slice(0, 10)
-         },
-         {
-           id: 'chemistry',
-           name: 'Chemistry',
-           questions: chemistryQuestions.slice(0, 10)
-         }
-       ];
+  const handleAddSubject = async () => {
+    if (!academy || !exam || !selectedSubject) return;
+    setAddingSubject(true);
+    try {
+      let questions: any[] = [];
+      switch (selectedSubject) {
+            case 'Use of English':
+                questions = (await import('@/app/(app)/cbt-simulator/data/use-of-english')).englishQuestions; break;
+            case 'Mathematics':
+                questions = (await import('@/app/(app)/cbt-simulator/data/mathematics')).mathematicsQuestions; break;
+            case 'Physics':
+                questions = (await import('@/app/(app)/cbt-simulator/data/physics')).physicsQuestions; break;
+            case 'Chemistry':
+                questions = (await import('@/app/(app)/cbt-simulator/data/chemistry')).chemistryQuestions; break;
+            case 'Biology':
+                questions = (await import('@/app/(app)/cbt-simulator/data/biology')).biologyQuestions; break;
+            case 'Government':
+                questions = (await import('@/app/(app)/cbt-simulator/data/government')).governmentQuestions; break;
+            case 'Literature in English':
+                questions = (await import('@/app/(app)/cbt-simulator/data/literature')).literatureQuestions; break;
+            case 'Economics':
+                questions = (await import('@/app/(app)/cbt-simulator/data/economics')).economicsQuestions; break;
+            case 'Financial Accounting':
+                questions = (await import('@/app/(app)/cbt-simulator/data/accounting')).accountingQuestions; break;
+            case 'Christian Religious Studies':
+                questions = (await import('@/app/(app)/cbt-simulator/data/crs')).crsQuestions; break;
+            case 'Aptitude Test':
+                questions = (await import('@/app/(app)/cbt-simulator/data/aptitude')).aptitudeQuestions; break;
+            case 'Geography':
+                questions = (await import('@/app/(app)/cbt-simulator/data/geography')).geographyQuestions; break;
+            case 'Agricultural Science':
+                questions = (await import('@/app/(app)/cbt-simulator/data/agric-science')).agricScienceQuestions; break;
+            case 'Commerce':
+                questions = (await import('@/app/(app)/cbt-simulator/data/commerce')).commerceQuestions; break;
+            case 'Islamic Religious Studies':
+                questions = (await import('@/app/(app)/cbt-simulator/data/irk')).irkQuestions; break;
+            case 'Civic Education':
+                questions = (await import('@/app/(app)/cbt-simulator/data/civic-education')).civicEducationQuestions; break;
+            case 'Insurance':
+                questions = (await import('@/app/(app)/cbt-simulator/data/insurance')).insuranceQuestions; break;
+            case 'Current Affairs':
+                questions = (await import('@/app/(app)/cbt-simulator/data/current-affairs')).currentAffairsQuestions; break;
+            case 'History':
+                questions = (await import('@/app/(app)/cbt-simulator/data/history')).historyQuestions; break;
+      }
 
-       await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
-          subjects: questionsData
-       });
-       toast({ title: 'Success', description: 'OAU Engineering Mock Questions Seeded!' });
-     } catch(e) {
-       console.error(e);
-     }
+      const existingSubjects = exam.subjects || [];
+      if (existingSubjects.find((s: any) => s.name === selectedSubject)) {
+        toast({ title: 'Error', description: 'Subject already added.', variant: 'destructive' });
+        setAddingSubject(false);
+        return;
+      }
+
+      const shuffledQuestions = [...questions].sort(() => 0.5 - Math.random());
+      
+      const newSubjectData = {
+        id: selectedSubject.toLowerCase().replace(/\s+/g, '-'),
+        name: selectedSubject,
+        questions: shuffledQuestions.slice(0, 10)
+      };
+
+      await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
+          subjects: [...existingSubjects, newSubjectData]
+      });
+      
+      toast({ title: 'Success', description: `${selectedSubject} added to mock exam!` });
+      setSelectedSubject('');
+    } catch(e) {
+      console.error(e);
+      toast({ title: 'Error', description: 'Failed to add subject', variant: 'destructive' });
+    } finally {
+      setAddingSubject(false);
+    }
+  };
+
+  const handleRemoveSubject = async (subjectId: string) => {
+    if (!academy || !exam) return;
+    if (!confirm('Are you sure you want to remove this subject?')) return;
+    try {
+      const newSubjects = (exam.subjects || []).filter((s: any) => s.id !== subjectId);
+      await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
+        subjects: newSubjects
+      });
+      toast({ title: 'Success', description: 'Subject removed.' });
+    } catch (error) {
+      console.error(error);
+      toast({ title: 'Error', description: 'Failed to remove subject.', variant: 'destructive' });
+    }
   };
 
   if (loading) {
@@ -411,22 +471,46 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
 
       <Card>
         <CardHeader className="flex flex-row items-center justify-between">
-          <CardTitle>Exam Subjects & Questions</CardTitle>
-          <Button variant="outline" onClick={seed1030MockQuestions}>Seed 10:30 AM Mock Questions (Quick Load)</Button>
+          <div>
+            <CardTitle>Exam Subjects & Questions</CardTitle>
+            <CardDescription>Select and add subjects to this mock exam dynamically.</CardDescription>
+          </div>
         </CardHeader>
         <CardContent>
+          <div className="flex gap-4 mb-6">
+            <select 
+              className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background"
+              value={selectedSubject} 
+              onChange={e => setSelectedSubject(e.target.value)}
+            >
+              <option value="">-- Select a subject to add --</option>
+              {AVAILABLE_SUBJECTS.map(sub => (
+                <option key={sub} value={sub}>{sub}</option>
+              ))}
+            </select>
+            <Button onClick={handleAddSubject} disabled={addingSubject || !selectedSubject}>
+              {addingSubject ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Plus className="mr-2 h-4 w-4" />}
+              Add Subject
+            </Button>
+          </div>
+
           {exam.subjects?.length > 0 ? (
             <div className="space-y-4">
               {exam.subjects.map((subject: any) => (
-                <div key={subject.id} className="border p-4 rounded-md">
-                  <h3 className="font-semibold text-lg">{subject.name}</h3>
-                  <p className="text-sm text-muted-foreground">{subject.questions.length} Questions</p>
+                <div key={subject.id} className="border p-4 rounded-md flex justify-between items-center bg-card">
+                  <div>
+                    <h3 className="font-semibold text-lg">{subject.name}</h3>
+                    <p className="text-sm text-muted-foreground">{subject.questions.length} Questions</p>
+                  </div>
+                  <Button variant="ghost" size="sm" onClick={() => handleRemoveSubject(subject.id)} className="text-red-500 hover:text-red-600 hover:bg-red-50">
+                    <Trash2 className="h-4 w-4" />
+                  </Button>
                 </div>
               ))}
             </div>
           ) : (
             <p className="text-muted-foreground py-8 text-center border rounded-md border-dashed">
-              No subjects added yet. Click "Seed 10:30 AM Mock Questions" to add the provided questions.
+              No subjects added yet. Select a subject above and click "Add Subject".
             </p>
           )}
         </CardContent>
