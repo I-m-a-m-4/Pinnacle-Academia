@@ -170,6 +170,29 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
   const [addingSubject, setAddingSubject] = useState(false);
   const [selectedSubject, setSelectedSubject] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('Science');
+  const [questionSource, setQuestionSource] = useState<'database' | 'custom'>('database');
+  const [customQuestions, setCustomQuestions] = useState<any[]>([]);
+
+  const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = (event) => {
+      try {
+        const json = JSON.parse(event.target?.result as string);
+        if (Array.isArray(json) && json.length > 0 && json[0].questionText && json[0].options && json[0].correctAnswer) {
+          setCustomQuestions(json);
+          toast({ title: 'Success', description: `Loaded ${json.length} custom questions.` });
+        } else {
+          toast({ title: 'Error', description: 'Invalid JSON format. Make sure it contains questionText, options, and correctAnswer.', variant: 'destructive' });
+        }
+      } catch (err) {
+        toast({ title: 'Error', description: 'Failed to parse JSON file.', variant: 'destructive' });
+      }
+    };
+    reader.readAsText(file);
+  };
 
   const [title, setTitle] = useState('');
   const [startTimeStr, setStartTimeStr] = useState('');
@@ -267,45 +290,55 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
     setAddingSubject(true);
     try {
       let questions: any[] = [];
-      switch (selectedSubject) {
-            case 'Use of English':
-                questions = (await import('@/app/(app)/cbt-simulator/data/use-of-english')).englishQuestions; break;
-            case 'Mathematics':
-                questions = (await import('@/app/(app)/cbt-simulator/data/mathematics')).mathematicsQuestions; break;
-            case 'Physics':
-                questions = (await import('@/app/(app)/cbt-simulator/data/physics')).physicsQuestions; break;
-            case 'Chemistry':
-                questions = (await import('@/app/(app)/cbt-simulator/data/chemistry')).chemistryQuestions; break;
-            case 'Biology':
-                questions = (await import('@/app/(app)/cbt-simulator/data/biology')).biologyQuestions; break;
-            case 'Government':
-                questions = (await import('@/app/(app)/cbt-simulator/data/government')).governmentQuestions; break;
-            case 'Literature in English':
-                questions = (await import('@/app/(app)/cbt-simulator/data/literature')).literatureQuestions; break;
-            case 'Economics':
-                questions = (await import('@/app/(app)/cbt-simulator/data/economics')).economicsQuestions; break;
-            case 'Financial Accounting':
-                questions = (await import('@/app/(app)/cbt-simulator/data/accounting')).accountingQuestions; break;
-            case 'Christian Religious Studies':
-                questions = (await import('@/app/(app)/cbt-simulator/data/crs')).crsQuestions; break;
-            case 'Aptitude Test':
-                questions = (await import('@/app/(app)/cbt-simulator/data/aptitude')).aptitudeQuestions; break;
-            case 'Geography':
-                questions = (await import('@/app/(app)/cbt-simulator/data/geography')).geographyQuestions; break;
-            case 'Agricultural Science':
-                questions = (await import('@/app/(app)/cbt-simulator/data/agric-science')).agricScienceQuestions; break;
-            case 'Commerce':
-                questions = (await import('@/app/(app)/cbt-simulator/data/commerce')).commerceQuestions; break;
-            case 'Islamic Religious Studies':
-                questions = (await import('@/app/(app)/cbt-simulator/data/irk')).irkQuestions; break;
-            case 'Civic Education':
-                questions = (await import('@/app/(app)/cbt-simulator/data/civic-education')).civicEducationQuestions; break;
-            case 'Insurance':
-                questions = (await import('@/app/(app)/cbt-simulator/data/insurance')).insuranceQuestions; break;
-            case 'Current Affairs':
-                questions = (await import('@/app/(app)/cbt-simulator/data/current-affairs')).currentAffairsQuestions; break;
-            case 'History':
-                questions = (await import('@/app/(app)/cbt-simulator/data/history')).historyQuestions; break;
+      
+      if (questionSource === 'custom') {
+        if (customQuestions.length === 0) {
+          toast({ title: 'Error', description: 'Please upload a valid JSON file with custom questions first.', variant: 'destructive' });
+          setAddingSubject(false);
+          return;
+        }
+        questions = customQuestions;
+      } else {
+        switch (selectedSubject) {
+              case 'Use of English':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/use-of-english')).englishQuestions; break;
+              case 'Mathematics':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/mathematics')).mathematicsQuestions; break;
+              case 'Physics':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/physics')).physicsQuestions; break;
+              case 'Chemistry':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/chemistry')).chemistryQuestions; break;
+              case 'Biology':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/biology')).biologyQuestions; break;
+              case 'Government':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/government')).governmentQuestions; break;
+              case 'Literature in English':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/literature')).literatureQuestions; break;
+              case 'Economics':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/economics')).economicsQuestions; break;
+              case 'Financial Accounting':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/accounting')).accountingQuestions; break;
+              case 'Christian Religious Studies':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/crs')).crsQuestions; break;
+              case 'Aptitude Test':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/aptitude')).aptitudeQuestions; break;
+              case 'Geography':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/geography')).geographyQuestions; break;
+              case 'Agricultural Science':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/agric-science')).agricScienceQuestions; break;
+              case 'Commerce':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/commerce')).commerceQuestions; break;
+              case 'Islamic Religious Studies':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/irk')).irkQuestions; break;
+              case 'Civic Education':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/civic-education')).civicEducationQuestions; break;
+              case 'Insurance':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/insurance')).insuranceQuestions; break;
+              case 'Current Affairs':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/current-affairs')).currentAffairsQuestions; break;
+              case 'History':
+                  questions = (await import('@/app/(app)/cbt-simulator/data/history')).historyQuestions; break;
+        }
       }
 
       const categorySubjects = exam.categorySubjects || { Art: [], Science: [], Commercial: [] };
@@ -551,39 +584,66 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
           <Button variant="outline" onClick={handleQuickSeedDefault} disabled={addingSubject}>Seed Default Subjects</Button>
         </CardHeader>
         <CardContent>
-          <div className="flex flex-col md:flex-row gap-4 mb-6 bg-muted/30 p-4 rounded-lg">
-            <div className="flex-1">
-              <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Category</Label>
-              <Select value={selectedCategory} onValueChange={setSelectedCategory}>
-                <SelectTrigger>
-                  <SelectValue placeholder="Select category" />
-                </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="Science">Science Category</SelectItem>
-                  <SelectItem value="Art">Art Category</SelectItem>
-                  <SelectItem value="Commercial">Commercial Category</SelectItem>
-                </SelectContent>
-              </Select>
+          <div className="flex flex-col gap-4 mb-6 bg-muted/30 p-4 rounded-lg">
+            <div className="flex flex-col md:flex-row gap-4">
+              <div className="flex-1">
+                <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Category</Label>
+                <Select value={selectedCategory} onValueChange={setSelectedCategory}>
+                  <SelectTrigger>
+                    <SelectValue placeholder="Select category" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="Science">Science Category</SelectItem>
+                    <SelectItem value="Art">Art Category</SelectItem>
+                    <SelectItem value="Commercial">Commercial Category</SelectItem>
+                  </SelectContent>
+                </Select>
+              </div>
+              <div className="flex-1">
+                <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Question Source</Label>
+                <Select value={questionSource} onValueChange={(val: 'database' | 'custom') => setQuestionSource(val)}>
+                  <SelectTrigger>
+                    <SelectValue placeholder="Select Source" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="database">Fetch From Database</SelectItem>
+                    <SelectItem value="custom">Upload Custom JSON</SelectItem>
+                  </SelectContent>
+                </Select>
+              </div>
+              <div className="flex-1">
+                <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Subject</Label>
+                <Select value={selectedSubject} onValueChange={setSelectedSubject}>
+                  <SelectTrigger>
+                    <SelectValue placeholder="Select subject" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    {AVAILABLE_SUBJECTS.map(sub => (
+                      <SelectItem key={sub} value={sub}>{sub}</SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </div>
+              <div className="flex items-end">
+                <Button onClick={handleAddSubject} disabled={addingSubject || !selectedSubject} className="w-full md:w-auto">
+                  {addingSubject ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Plus className="mr-2 h-4 w-4" />}
+                  Add to {selectedCategory}
+                </Button>
+              </div>
             </div>
-            <div className="flex-1">
-              <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Subject</Label>
-              <Select value={selectedSubject} onValueChange={setSelectedSubject}>
-                <SelectTrigger>
-                  <SelectValue placeholder="Select subject" />
-                </SelectTrigger>
-                <SelectContent>
-                  {AVAILABLE_SUBJECTS.map(sub => (
-                    <SelectItem key={sub} value={sub}>{sub}</SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-            </div>
-            <div className="flex items-end">
-              <Button onClick={handleAddSubject} disabled={addingSubject || !selectedSubject} className="w-full md:w-auto">
-                {addingSubject ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Plus className="mr-2 h-4 w-4" />}
-                Add to {selectedCategory}
-              </Button>
-            </div>
+            
+            {questionSource === 'custom' && (
+              <div className="bg-background border rounded-md p-4 mt-2">
+                <Label className="mb-2 block font-medium">Upload Custom Questions (JSON)</Label>
+                <Input type="file" accept=".json" onChange={handleFileUpload} className="max-w-md" />
+                <p className="text-sm text-muted-foreground mt-2">
+                  Format: <code>[{'{'}"questionText": "...", "options": ["A","B","C","D"], "correctAnswer": "A"{'}'}]</code>
+                </p>
+                {customQuestions.length > 0 && (
+                  <p className="text-sm text-green-600 mt-2 font-medium">Ready: {customQuestions.length} questions loaded.</p>
+                )}
+              </div>
+            )}
           </div>
 
           <div className="grid md:grid-cols-3 gap-6">
