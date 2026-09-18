@@ -1,7 +1,7 @@
 export const geographyQuestions = [
   {
     "id": "geography-1788679784629-0-48",
-    "questionText": "Coombes are associated with   (JAMB 2008)",
+    "questionText": "Coombes are associated with",
     "options": [
       "honey-bee farms  ",
       "Karst environment  ",
@@ -13,7 +13,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-1-410",
-    "questionText": "One of the consequences of global increase in the carbon dioxide content of the atmosphere is (JAMB 2020)",
+    "questionText": "One of the consequences of global increase in the carbon dioxide content of the atmosphere is",
     "options": [
       "Reduced visibility",
       "Increasing air pressure",
@@ -25,7 +25,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-2-11",
-    "questionText": "The African river that crosses the equator twice is   (JAMB 2006)",
+    "questionText": "The African river that crosses the equator twice is",
     "options": [
       "Zaire ",
       "Nile ",
@@ -37,7 +37,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-3-139",
-    "questionText": "A front in which warm air is overtaken and lifted off the ground by cold air in a depression is known as   (JAMB 2012)",
+    "questionText": "A front in which warm air is overtaken and lifted off the ground by cold air in a depression is known as",
     "options": [
       "Cold front  ",
       "Warm front  ",
@@ -49,7 +49,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-4-362",
-    "questionText": "The highest point in the area depicted on the map is just above (JAMB 2019)",
+    "questionText": "The highest point in the area depicted on the map is just above",
     "options": [
       "800m",
       "500m",
@@ -61,7 +61,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-5-50",
-    "questionText": "Global Positioning Systems (GPS) help in   (JAMB 2008)",
+    "questionText": "Global Positioning Systems (GPS) help in",
     "options": [
       "combating crime  ",
       "providing early warning against disasters  ",
@@ -73,7 +73,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-6-199",
-    "questionText": "Nigeria has a total land area of:  (JAMB 2014)",
+    "questionText": "Nigeria has a total land area of:",
     "options": [
       "923,768 km2 ",
       "823,768 km2 ",
@@ -85,7 +85,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-7-309",
-    "questionText": "Which od these West African countries is known for the mining of phosphates? (JAMB 2017)",
+    "questionText": "Which od these West African countries is known for the mining of phosphates?",
     "options": [
       "Liberia",
       "Togo",
@@ -97,7 +97,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-8-15",
-    "questionText": "If a map has a scale of 1:50,000 and a cocoa plantation is represented on the map by a rectangle 4cm by 3cm, what is the area of the plantation?   (JAMB 2006)",
+    "questionText": "If a map has a scale of 1:50,000 and a cocoa plantation is represented on the map by a rectangle 4cm by 3cm, what is the area of the plantation?",
     "options": [
       "3 sq. km  ",
       "30 sq. km  ",
@@ -109,7 +109,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-9-162",
-    "questionText": "The second Equinox in any year take place during the month of (JAMB 2013)",
+    "questionText": "The second Equinox in any year take place during the month of",
     "options": [
       "March   ",
       "June   ",
@@ -121,7 +121,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-10-208",
-    "questionText": "Kinshasa is a:  (JAMB 2014)",
+    "questionText": "Kinshasa is a:",
     "options": [
       "Central African City ",
       "North African City ",
@@ -133,7 +133,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-11-104",
-    "questionText": "A degree latitudinal distance is approximately  (JAMB 2010)",
+    "questionText": "A degree latitudinal distance is approximately",
     "options": [
       "70km  ",
       "111km  ",
@@ -145,7 +145,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-12-314",
-    "questionText": "Which of the following population characteristics is best related to African countries? (JAMB 2017)",
+    "questionText": "Which of the following population characteristics is best related to African countries?",
     "options": [
       "Low birthraate and high death rate",
       "High birthrate and high death rate",
@@ -157,7 +157,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-13-69",
-    "questionText": "Which is the main crop grown in the Ghezira plains  (JAMB 2008)",
+    "questionText": "Which is the main crop grown in the Ghezira plains",
     "options": [
       "Wheat  ",
       "Millet  ",
@@ -169,7 +169,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-14-214",
-    "questionText": "The World largest Ocean is:  (JAMB 2014)",
+    "questionText": "The World largest Ocean is:",
     "options": [
       "Pacific Ocean ",
       "Atlantic Ocean ",
@@ -181,7 +181,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-15-391",
-    "questionText": "The instrument used for measuring atmosphere pressure is  (JAMB 2019)",
+    "questionText": "The instrument used for measuring atmosphere pressure is",
     "options": [
       "A barometer",
       "An anemometer",
@@ -193,7 +193,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-16-390",
-    "questionText": "A small hill resulting from the process peneplanation is called (JAMB 2019)",
+    "questionText": "A small hill resulting from the process peneplanation is called",
     "options": [
       "An inselberg",
       "A hum",
@@ -205,7 +205,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-17-397",
-    "questionText": "If a map at scale of 1:50,000 is reduced by half, what is the scale of the new map? (JAMB 2020)",
+    "questionText": "If a map at scale of 1:50,000 is reduced by half, what is the scale of the new map?",
     "options": [
       "1:100,000",
       "1:750,000",
@@ -217,7 +217,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-18-156",
-    "questionText": "Aeolian erosion refers to the work of   (JAMB 2012)",
+    "questionText": "Aeolian erosion refers to the work of",
     "options": [
       "Plants  ",
       "Wind  ",
@@ -229,7 +229,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-19-38",
-    "questionText": "Soil that are formed by the wind deposition are called  (JAMB 2007)",
+    "questionText": "Soil that are formed by the wind deposition are called",
     "options": [
       "Laterites  ",
       "loess  ",
@@ -241,7 +241,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-20-244",
-    "questionText": "The length of the main road to the nearest kilometer is (JAMB 2016)",
+    "questionText": "The length of the main road to the nearest kilometer is",
     "options": [
       "14 kilometers",
       "20 kilometers",
@@ -253,7 +253,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-21-392",
-    "questionText": "Weber's theory of industrial location was based on  (JAMB 2019)",
+    "questionText": "Weber's theory of industrial location was based on",
     "options": [
       "Nearness to source of power",
       "Least transportation cost",
@@ -265,7 +265,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-22-45",
-    "questionText": "Which of the following is correct?   (JAMB 2007)",
+    "questionText": "Which of the following is correct?",
     "options": [
       "The Canaries current is cold and washes the coast of NE Africa  ",
       "The Peruvian current is warm and washes the West coast of America  ",
@@ -277,7 +277,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-23-128",
-    "questionText": "Noonday sun is vertically overhead along the Tropic of Cancer during the month of   (JAMB 2011)",
+    "questionText": "Noonday sun is vertically overhead along the Tropic of Cancer during the month of",
     "options": [
       "June  ",
       "July  ",
@@ -289,7 +289,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-24-91",
-    "questionText": "The world’s longest river is  (JAMB 2010)",
+    "questionText": "The world’s longest river is",
     "options": [
       "Amazon  ",
       "Mississippi  ",
@@ -301,7 +301,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-25-371",
-    "questionText": "The mean annual rainfall of Station Y is (JAMB 2019)",
+    "questionText": "The mean annual rainfall of Station Y is",
     "options": [
       "175.3mm",
       "54.2mm",
@@ -313,7 +313,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-26-277",
-    "questionText": "Identify the non-fuel mineral among the following (JAMB 2017)",
+    "questionText": "Identify the non-fuel mineral among the following",
     "options": [
       "Lignite",
       "Peat",
@@ -325,7 +325,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-27-165",
-    "questionText": "Which of the locations in Nigeria has the highest mean annual rainfall total ?   (JAMB 2013)",
+    "questionText": "Which of the locations in Nigeria has the highest mean annual rainfall total ?",
     "options": [
       "Benin City  ",
       "Port-Harcourt  ",
@@ -337,7 +337,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-28-289",
-    "questionText": "The annual range of temperature for the station is (JAMB 2017)",
+    "questionText": "The annual range of temperature for the station is",
     "options": [
       "27°",
       "17°",
@@ -349,7 +349,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-29-417",
-    "questionText": "The main use of the Abney level in surveying is to determine (JAMB 2020)",
+    "questionText": "The main use of the Abney level in surveying is to determine",
     "options": [
       "Relative location",
       "Spot height",
@@ -361,7 +361,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-30-131",
-    "questionText": "The forest type which is richest in tree species is the  (JAMB 2011)",
+    "questionText": "The forest type which is richest in tree species is the",
     "options": [
       "Deciduous forest ",
       "Mediterranean forest ",
@@ -373,7 +373,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-31-155",
-    "questionText": "Which of the following farming practices can be used to check soil erosion?  (JAMB 2012)",
+    "questionText": "Which of the following farming practices can be used to check soil erosion?",
     "options": [
       "Contour ploughing  ",
       "Ploughing of land upslope  ",
@@ -385,7 +385,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-32-282",
-    "questionText": "The length of the main road from Robo junction to Oseb junction is approximately (JAMB 2017)",
+    "questionText": "The length of the main road from Robo junction to Oseb junction is approximately",
     "options": [
       "8.5km",
       "6.5km",
@@ -397,7 +397,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-33-253",
-    "questionText": "What is the approximate height of Manko above the sea level? (JAMB 2016)",
+    "questionText": "What is the approximate height of Manko above the sea level?",
     "options": [
       "30.0 m",
       "12.0m ",
@@ -409,7 +409,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-34-304",
-    "questionText": "British Columbia, Iceland, and Norway are noted for (JAMB 2017)",
+    "questionText": "British Columbia, Iceland, and Norway are noted for",
     "options": [
       "Power",
       "Fishing is an old industry in the basin",
@@ -421,7 +421,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-35-213",
-    "questionText": "Casablanca is a (JAMB 2014)",
+    "questionText": "Casablanca is a",
     "options": [
       "North African City ",
       "West African City ",
@@ -433,7 +433,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-36-335",
-    "questionText": "The most extensive vegetation type in the are marked Z is the (JAMB 2018)",
+    "questionText": "The most extensive vegetation type in the are marked Z is the",
     "options": [
       "Mangrove swamp",
       "Coastal thicket",
@@ -445,7 +445,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-37-416",
-    "questionText": "In Nigeria, geographical location poses the greatest hindrance to economic development in the (JAMB 2020)",
+    "questionText": "In Nigeria, geographical location poses the greatest hindrance to economic development in the",
     "options": [
       "Eastern High Lands",
       "Eastern Scarp Land",
@@ -457,7 +457,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-38-106",
-    "questionText": "The world driest desert is   (JAMB 2010)",
+    "questionText": "The world driest desert is",
     "options": [
       "Atacama  ",
       "Sahara  ",
@@ -469,7 +469,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-39-112",
-    "questionText": "The result of football match completed at 6.00p.m. at Accra (Ghana) and immediately announced over the wireless was heard at 12.00noon same day at another city. The longitude of the city is  (JAMB 2010)",
+    "questionText": "The result of football match completed at 6.00p.m. at Accra (Ghana) and immediately announced over the wireless was heard at 12.00noon same day at another city. The longitude of the city is",
     "options": [
       "900E  ",
       "600E  ",
@@ -481,7 +481,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-40-24",
-    "questionText": "Which of the following is not an Anglophone country   (JAMB 2007)",
+    "questionText": "Which of the following is not an Anglophone country",
     "options": [
       "Ghana  ",
       "Gambia  ",
@@ -493,7 +493,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-41-267",
-    "questionText": "The rock of the basement complex are generally referred to as (JAMB 2016)",
+    "questionText": "The rock of the basement complex are generally referred to as",
     "options": [
       "Sedimentary formation",
       "Volcanic rocks",
@@ -505,7 +505,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-42-66",
-    "questionText": "What is the Local Standard time in New York (750W) when it is 2 p.m. in Accra?   (JAMB 2008)",
+    "questionText": "What is the Local Standard time in New York (750W) when it is 2 p.m. in Accra?",
     "options": [
       "7 p.m. (19hrs)  ",
       "7 a.m. (0700hrs)  ",
@@ -517,7 +517,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-43-218",
-    "questionText": "A lines drawn on a maps to show places of equal rainfall is called  (JAMB 2014)",
+    "questionText": "A lines drawn on a maps to show places of equal rainfall is called",
     "options": [
       "Rainline ",
       "Isotope ",
@@ -529,7 +529,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-44-433",
-    "questionText": "A country well known for the production of copper in Africa is (JAMB 2020)",
+    "questionText": "A country well known for the production of copper in Africa is",
     "options": [
       "Egypt",
       "Zambia",
@@ -541,7 +541,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-45-152",
-    "questionText": "Given an environmental lapse tate of 0.650C per 100 metres, a place with sea level temperature of 400 and 2500 metre above the sea level will approximately have a temperature of   (JAMB 2012)",
+    "questionText": "Given an environmental lapse tate of 0.650C per 100 metres, a place with sea level temperature of 400 and 2500 metre above the sea level will approximately have a temperature of",
     "options": [
       "31.250C  ",
       "23.750C  ",
@@ -553,7 +553,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-46-193",
-    "questionText": "Topographic maps are:  (JAMB 2014)",
+    "questionText": "Topographic maps are:",
     "options": [
       "Representations of features on the Earth's surface",
       "Features on the Earth's surface. ",
@@ -565,7 +565,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-47-292",
-    "questionText": "The most densely populated city which is also the capital of a county in Africa is (JAMB 2017)",
+    "questionText": "The most densely populated city which is also the capital of a county in Africa is",
     "options": [
       "Cairo",
       "Dakar",
@@ -577,7 +577,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-48-286",
-    "questionText": "The feature marked Y is best described as (JAMB 2017)",
+    "questionText": "The feature marked Y is best described as",
     "options": [
       "Pass",
       "Spur",
@@ -589,7 +589,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-49-366",
-    "questionText": "Which of these statements does NOT correctly describe the relationship between settlements and relief in the area? The settlements are (JAMB 2019)",
+    "questionText": "Which of these statements does NOT correctly describe the relationship between settlements and relief in the area? The settlements are",
     "options": [
       "All spring-line settlements",
       "Located mainly in valleys",
@@ -601,7 +601,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-50-257",
-    "questionText": "The above diagram on which the contours are in meters shows a (JAMB 2016)",
+    "questionText": "The above diagram on which the contours are in meters shows a",
     "options": [
       "Knoll",
       "Mesa",
@@ -613,7 +613,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-51-42",
-    "questionText": "Linseed oil is associated with   (JAMB 2007)",
+    "questionText": "Linseed oil is associated with",
     "options": [
       "flax  ",
       "coconut  ",
@@ -625,7 +625,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-52-227",
-    "questionText": "The location of iron and steel industry at Ajaokuta in Nigeria is best explained by the presence of  (JAMB 2014)",
+    "questionText": "The location of iron and steel industry at Ajaokuta in Nigeria is best explained by the presence of",
     "options": [
       "Limestone and coal  ",
       "Iron ore   ",
@@ -637,7 +637,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-53-55",
-    "questionText": "South East Asia is noted for its regular experience of   (JAMB 2008)",
+    "questionText": "South East Asia is noted for its regular experience of",
     "options": [
       "hurricane  ",
       "tornadoes  ",
@@ -649,7 +649,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-54-191",
-    "questionText": "The longest river in Africa is:   (JAMB 2014)",
+    "questionText": "The longest river in Africa is:",
     "options": [
       "River Nile. ",
       "River Niger. ",
@@ -661,7 +661,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-55-115",
-    "questionText": "Which of the following terms is associated with glaciations?  (JAMB 2011)",
+    "questionText": "Which of the following terms is associated with glaciations?",
     "options": [
       "Arête   ",
       "Bay   ",
@@ -673,7 +673,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-56-195",
-    "questionText": "Weathering of rocks is:  (JAMB 2014)",
+    "questionText": "Weathering of rocks is:",
     "options": [
       "The formations of rocks",
       "The breaking down of rocks.   ",
@@ -685,7 +685,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-57-202",
-    "questionText": "An island is a:    (JAMB 2014)",
+    "questionText": "An island is a:",
     "options": [
       "Piece of land surrounded by water.   ",
       "Piece of land surrounded by land. ",
@@ -697,7 +697,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-58-231",
-    "questionText": "Any buoyant parcel of air is said to exhibit ________.  (JAMB 2014)",
+    "questionText": "Any buoyant parcel of air is said to exhibit ________.",
     "options": [
       "Instability ",
       "The dry adiabatic lapse rate ",
@@ -709,7 +709,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-59-85",
-    "questionText": "Commercial grape cultivation is associated with?   (JAMB 2009)",
+    "questionText": "Commercial grape cultivation is associated with?",
     "options": [
       "cool temperature climate  ",
       "monsoon regions  ",
@@ -721,7 +721,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-60-119",
-    "questionText": "Desert soils are usually deficient in  (JAMB 2011)",
+    "questionText": "Desert soils are usually deficient in",
     "options": [
       "fertility  ",
       "humus content ",
@@ -733,7 +733,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-61-239",
-    "questionText": "The circulation of ocean currents is (JAMB 2016)",
+    "questionText": "The circulation of ocean currents is",
     "options": [
       "Clockwise both in the northern hemisphere and clockwise in the Southern",
       "Anticlockwise in the northern hemisphere and clockwise in the southern hemisphere",
@@ -745,7 +745,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-62-230",
-    "questionText": "……...Refers to the nature of the surface of an area and the features that abound therein above the sea level (JAMB 2014)",
+    "questionText": "……...Refers to the nature of the surface of an area and the features that abound therein above the sea level",
     "options": [
       "Barchans ",
       "Relief   ",
@@ -757,7 +757,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-63-232",
-    "questionText": "The north east and south west trade winds meet along a plane surface where they continuously rub  (JAMB 2014)",
+    "questionText": "The north east and south west trade winds meet along a plane surface where they continuously rub",
     "options": [
       "Abnormal front  ",
       "Leeward front  ",
@@ -769,7 +769,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-64-271",
-    "questionText": "The highest category of rural settlement is the (JAMB 2016)",
+    "questionText": "The highest category of rural settlement is the",
     "options": [
       "Hut",
       "Village",
@@ -781,7 +781,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-65-268",
-    "questionText": "The rock with least carbon content is (JAMB 2016)",
+    "questionText": "The rock with least carbon content is",
     "options": [
       "Lignite",
       "Coal",
@@ -793,7 +793,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-66-145",
-    "questionText": "Which of the following features is not commonly associated with a river at the floodplain stage?  (JAMB 2012)",
+    "questionText": "Which of the following features is not commonly associated with a river at the floodplain stage?",
     "options": [
       "Meanders  ",
       "Levees ",
@@ -805,7 +805,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-67-16",
-    "questionText": "The gap between two ranges within which transportation is usually possible in a mountainous regions is called   (JAMB 2006)",
+    "questionText": "The gap between two ranges within which transportation is usually possible in a mountainous regions is called",
     "options": [
       "Valley  ",
       "Col  ",
@@ -817,7 +817,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-68-296",
-    "questionText": "Which of the following is the main export from Uganda? (JAMB 2017)",
+    "questionText": "Which of the following is the main export from Uganda?",
     "options": [
       "Jute ",
       "Coffee",
@@ -829,7 +829,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-69-229",
-    "questionText": "The average hurricane exists, on the average, for about ________.  (JAMB 2014)",
+    "questionText": "The average hurricane exists, on the average, for about ________.",
     "options": [
       "one week ",
       "two weeks ",
@@ -841,7 +841,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-70-19",
-    "questionText": "Nigeria Sat I is designed by primarily to   (JAMB 2006)",
+    "questionText": "Nigeria Sat I is designed by primarily to",
     "options": [
       "help GSM provider in achieving a wide national coverage  ",
       "strengthen rapid response by Nigeria’s Armed Forces  ",
@@ -853,7 +853,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-71-159",
-    "questionText": "Sandstone is metamorphosed into   (JAMB 2012)",
+    "questionText": "Sandstone is metamorphosed into",
     "options": [
       "Slate  ",
       "Quartzite  ",
@@ -865,7 +865,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-72-265",
-    "questionText": "The most common tree in the desert is the (JAMB 2016)",
+    "questionText": "The most common tree in the desert is the",
     "options": [
       "Pine",
       "Date ",
@@ -877,7 +877,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-73-411",
-    "questionText": "A good overland transportation system promotes economic development because it (JAMB 2020)",
+    "questionText": "A good overland transportation system promotes economic development because it",
     "options": [
       "Provides employment for drivers",
       "Fosters interregional trade",
@@ -889,7 +889,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-74-256",
-    "questionText": "What type of climate is experienced in the region \"P\" shaded on the map? (JAMB 2016)",
+    "questionText": "What type of climate is experienced in the region \"P\" shaded on the map?",
     "options": [
       "Cool temperature Western Margin",
       "Tropical Continental ",
@@ -901,7 +901,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-75-168",
-    "questionText": "Which of the following is not a thermometric scale? (JAMB 2013)",
+    "questionText": "Which of the following is not a thermometric scale?",
     "options": [
       "Celsius     ",
       "Kelvin",
@@ -913,7 +913,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-76-133",
-    "questionText": "The earths rotates through 150C of longitude in   (JAMB 2011)",
+    "questionText": "The earths rotates through 150C of longitude in",
     "options": [
       "24hrs  ",
       "15hrs  ",
@@ -925,7 +925,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-77-408",
-    "questionText": "Which of the following statistical mapping techniques is most suitable for showing the spatial distribution of cattle in different northern states of Nigeria (JAMB 2020)",
+    "questionText": "Which of the following statistical mapping techniques is most suitable for showing the spatial distribution of cattle in different northern states of Nigeria",
     "options": [
       "Isopleths",
       "Pie chart",
@@ -937,7 +937,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-78-53",
-    "questionText": "The East Africa large lakes are together described as   (JAMB 2008)",
+    "questionText": "The East Africa large lakes are together described as",
     "options": [
       "Great Lakes St Lawrence Sea Ways  ",
       "Rift Valley Lakes  ",
@@ -949,7 +949,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-79-25",
-    "questionText": "The shallow part of the sea which separates the deep from the land is called   (JAMB 2007)",
+    "questionText": "The shallow part of the sea which separates the deep from the land is called",
     "options": [
       "off shore coastal lowland  ",
       "the on-shore tidal current  ",
@@ -961,7 +961,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-80-291",
-    "questionText": "The time difference between a place on longitude 35° W and another on longitude 25° E is (JAMB 2017)",
+    "questionText": "The time difference between a place on longitude 35° W and another on longitude 25° E is",
     "options": [
       "5 hours",
       "4 hours",
@@ -973,7 +973,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-81-261",
-    "questionText": "Agricultural productivity is low in Tropical Africa because of (JAMB 2016)",
+    "questionText": "Agricultural productivity is low in Tropical Africa because of",
     "options": [
       "Poor Soil and unfavourable climate",
       "Low demand and lack of credit facilities",
@@ -985,7 +985,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-82-427",
-    "questionText": "The world's busiest seaport is (JAMB 2020)",
+    "questionText": "The world's busiest seaport is",
     "options": [
       "London",
       "Bombay",
@@ -997,7 +997,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-83-345",
-    "questionText": "The oldest system of agriculture in Nigeria which now survives only in very remote areas is (JAMB 2018)",
+    "questionText": "The oldest system of agriculture in Nigeria which now survives only in very remote areas is",
     "options": [
       "Bush fallowing",
       "Mixed farming",
@@ -1009,7 +1009,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-84-370",
-    "questionText": "The mean temperature of Station Y is  (JAMB 2019)",
+    "questionText": "The mean temperature of Station Y is",
     "options": [
       "27.3°C",
       "31.5°C",
@@ -1021,7 +1021,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-85-111",
-    "questionText": "The sea bed, bordering the continents which is covered by the shallow water is known as  (JAMB 2010)",
+    "questionText": "The sea bed, bordering the continents which is covered by the shallow water is known as",
     "options": [
       "continental slope ",
       "coral reef ",
@@ -1033,7 +1033,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-86-95",
-    "questionText": "Cyclones are centres of   (JAMB 2010)",
+    "questionText": "Cyclones are centres of",
     "options": [
       "relative low pressure  ",
       "relative high pressure  ",
@@ -1045,7 +1045,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-87-342",
-    "questionText": "The feature is one of the landforms associated with (JAMB 2018)",
+    "questionText": "The feature is one of the landforms associated with",
     "options": [
       "River erosion",
       "Wind deposition",
@@ -1057,7 +1057,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-88-83",
-    "questionText": "Blantyre, Rio Janeiro, New York and Lagos are similar in that they all serves as their countries  (JAMB 2009)",
+    "questionText": "Blantyre, Rio Janeiro, New York and Lagos are similar in that they all serves as their countries",
     "options": [
       "major seaport  ",
       "political headquarter ",
@@ -1069,7 +1069,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-89-108",
-    "questionText": "Which of these is not on the western side of continental land masses?  (JAMB 2010)",
+    "questionText": "Which of these is not on the western side of continental land masses?",
     "options": [
       "Agulhas  ",
       "Canary  ",
@@ -1081,7 +1081,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-90-318",
-    "questionText": "An alternative graphic method that can be used to depict that same information is the (JAMB 2018)",
+    "questionText": "An alternative graphic method that can be used to depict that same information is the",
     "options": [
       "Divided rectangle",
       "Chloropath",
@@ -1093,7 +1093,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-91-284",
-    "questionText": "The roads in area run mainly along (JAMB 2017)",
+    "questionText": "The roads in area run mainly along",
     "options": [
       "Gentle slopes",
       "Watersheds",
@@ -1105,7 +1105,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-92-360",
-    "questionText": "With which of the following processes are drumlins boulder clay and terminal moraines associated? (JAMB 2019)",
+    "questionText": "With which of the following processes are drumlins boulder clay and terminal moraines associated?",
     "options": [
       "River deposition",
       "Wind deposition",
@@ -1117,7 +1117,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-93-52",
-    "questionText": "Which of the following is not a major problem of Kainji Dam?   (JAMB 2008)",
+    "questionText": "Which of the following is not a major problem of Kainji Dam?",
     "options": [
       "increase in the herds of the cattle that depends on its waters  ",
       "increase in usage of Niger in Niger Republic  ",
@@ -1129,7 +1129,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-94-28",
-    "questionText": "Industrialization in Nigeria can best be promoted through the development of   (JAMB 2007)",
+    "questionText": "Industrialization in Nigeria can best be promoted through the development of",
     "options": [
       "textile industry  ",
       "leather industry  ",
@@ -1141,7 +1141,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-95-426",
-    "questionText": "A feature produced as a result of glacial deposition is (JAMB 2020)",
+    "questionText": "A feature produced as a result of glacial deposition is",
     "options": [
       "An arete",
       "A cirque",
@@ -1153,7 +1153,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-96-326",
-    "questionText": "Which is commodity associated with OPEC? (JAMB 2018)",
+    "questionText": "Which is commodity associated with OPEC?",
     "options": [
       "Coffee",
       "Iron and Steel",
@@ -1165,7 +1165,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-97-101",
-    "questionText": "Campos is the name for the grassland in   (JAMB 2010)",
+    "questionText": "Campos is the name for the grassland in",
     "options": [
       "North America  ",
       "South America  ",
@@ -1177,7 +1177,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-98-180",
-    "questionText": "An extended urban area, typically consisting of several towns merging with the suburbs of one or more cities can best be referred to as   (JAMB 2013)",
+    "questionText": "An extended urban area, typically consisting of several towns merging with the suburbs of one or more cities can best be referred to as",
     "options": [
       "Conurbation",
       "Urban decay  ",
@@ -1189,7 +1189,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-99-123",
-    "questionText": "When the moon comes in between the earth and the sun in a straight line, it is known as   (JAMB 2011)",
+    "questionText": "When the moon comes in between the earth and the sun in a straight line, it is known as",
     "options": [
       "solar eclipse ",
       "eclipse of the earth ",
@@ -1201,7 +1201,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-100-36",
-    "questionText": "Which of the following pressure belts does not experienced descending air?   (JAMB 2007)",
+    "questionText": "Which of the following pressure belts does not experienced descending air?",
     "options": [
       "600N  ",
       "600S  ",
@@ -1213,7 +1213,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-101-49",
-    "questionText": "The Stevenson’s screen is used to keep   (JAMB 2008)",
+    "questionText": "The Stevenson’s screen is used to keep",
     "options": [
       "barometer   ",
       "thermometers  ",
@@ -1225,7 +1225,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-102-425",
-    "questionText": "A poor settlement on the edge of a city is known as a (JAMB 2020)",
+    "questionText": "A poor settlement on the edge of a city is known as a",
     "options": [
       "Slum",
       "Newtown",
@@ -1237,7 +1237,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-103-212",
-    "questionText": "The most populated country in the world is:  (JAMB 2014)",
+    "questionText": "The most populated country in the world is:",
     "options": [
       "Austria ",
       "China ",
@@ -1249,7 +1249,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-104-419",
-    "questionText": "A good example of cuesta landscape in Nigeria is  (JAMB 2020)",
+    "questionText": "A good example of cuesta landscape in Nigeria is",
     "options": [
       "Yoruba Hills",
       "North central highland",
@@ -1261,7 +1261,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-105-273",
-    "questionText": "The carbon cycle is more prevalent in the (JAMB 2016)",
+    "questionText": "The carbon cycle is more prevalent in the",
     "options": [
       "Lithosphere",
       "Core",
@@ -1273,7 +1273,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-106-383",
-    "questionText": "The rock type that is not likely to produce rich agricultural soil after weathering is (JAMB 2019)",
+    "questionText": "The rock type that is not likely to produce rich agricultural soil after weathering is",
     "options": [
       "Graphite",
       " Limestone",
@@ -1285,7 +1285,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-107-302",
-    "questionText": "Fishing is the mainstay of the economy of (JAMB 2017)",
+    "questionText": "Fishing is the mainstay of the economy of",
     "options": [
       "Iceland",
       "Kuwait",
@@ -1297,7 +1297,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-108-206",
-    "questionText": "The United Nations estimate of Nigeria population in 2009 was (JAMB 2014)",
+    "questionText": "The United Nations estimate of Nigeria population in 2009 was",
     "options": [
       "154,729,000",
       "144,729,000.00",
@@ -1309,7 +1309,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-109-389",
-    "questionText": "The highest lands in Nigeria are found on the  (JAMB 2019)",
+    "questionText": "The highest lands in Nigeria are found on the",
     "options": [
       "Oban Hills",
       "Western Highlands",
@@ -1321,7 +1321,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-110-264",
-    "questionText": "The scientist who propounded the theory of continental drift was (JAMB 2016)",
+    "questionText": "The scientist who propounded the theory of continental drift was",
     "options": [
       "Francis Bacon",
       "William Davis",
@@ -1333,7 +1333,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-111-396",
-    "questionText": "The Algeria'a oildields are located in (JAMB 2019)",
+    "questionText": "The Algeria'a oildields are located in",
     "options": [
       "Golf of Onet",
       "Marsael Brega",
@@ -1345,7 +1345,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-112-103",
-    "questionText": "The earth rotates  (JAMB 2010)",
+    "questionText": "The earth rotates",
     "options": [
       "South East-South West  ",
       "South West South West  ",
@@ -1357,7 +1357,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-113-127",
-    "questionText": "The Northern Hemisphere’s Spring Equinox is during the month of (JAMB 2011)",
+    "questionText": "The Northern Hemisphere’s Spring Equinox is during the month of",
     "options": [
       "February ",
       "march ",
@@ -1369,7 +1369,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-114-39",
-    "questionText": "Desert soil are usually deficient in  (JAMB 2007)",
+    "questionText": "Desert soil are usually deficient in",
     "options": [
       "fertility  ",
       "light grey colour  ",
@@ -1381,7 +1381,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-115-164",
-    "questionText": "The main work of a river in its torrent stage is   (JAMB 2013)",
+    "questionText": "The main work of a river in its torrent stage is",
     "options": [
       "Widening its valley",
       "Down cutting",
@@ -1393,7 +1393,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-116-368",
-    "questionText": "\"Adiabatic cooling\" is the cooling of rising air as a result of (JAMB 2019)",
+    "questionText": "\"Adiabatic cooling\" is the cooling of rising air as a result of",
     "options": [
       "Movement on the windward side of mountains",
       "Increasing altitude",
@@ -1405,7 +1405,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-117-87",
-    "questionText": "The Ukraine of economic activities   (JAMB 2009)",
+    "questionText": "The Ukraine of economic activities",
     "options": [
       "commercial grain agriculture  and livestock random ",
       "plantation agriculture and nomadic herding.",
@@ -1417,7 +1417,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-118-274",
-    "questionText": "Which of the following is a type of Iron ore? (JAMB 2016)",
+    "questionText": "Which of the following is a type of Iron ore?",
     "options": [
       "Anthracite",
       "Lignite",
@@ -1429,7 +1429,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-119-336",
-    "questionText": "A broad-based population pyramid is composed mainly of (JAMB 2018)",
+    "questionText": "A broad-based population pyramid is composed mainly of",
     "options": [
       "Active inhabitants",
       "Old dependents",
@@ -1441,7 +1441,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-120-56",
-    "questionText": "Horse latitudes refers to   (JAMB 2008)",
+    "questionText": "Horse latitudes refers to",
     "options": [
       "areas around the gulf of guinea ",
       "areas around the equator  ",
@@ -1453,7 +1453,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-121-354",
-    "questionText": "One of the leading industrial nations of the world ranking second in manufacturing output after the USA is  (JAMB 2018)",
+    "questionText": "One of the leading industrial nations of the world ranking second in manufacturing output after the USA is",
     "options": [
       "Germany",
       "Britain",
@@ -1465,7 +1465,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-122-120",
-    "questionText": "At the summer solstice [June 21st], which of the following latitudes will have the longest day  (JAMB 2011)",
+    "questionText": "At the summer solstice [June 21st], which of the following latitudes will have the longest day",
     "options": [
       "700S   ",
       "900S  ",
@@ -1477,7 +1477,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-123-204",
-    "questionText": "Orographic rainfall is a:    (JAMB 2014)",
+    "questionText": "Orographic rainfall is a:",
     "options": [
       "Temperate rainfall",
       "Relief rainfall. ",
@@ -1489,7 +1489,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-124-147",
-    "questionText": "A deflation hollow is produced by   (JAMB 2012)",
+    "questionText": "A deflation hollow is produced by",
     "options": [
       "River erosion  ",
       "Water action in a limestone area  ",
@@ -1501,7 +1501,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-125-279",
-    "questionText": "Pulp-wood which is used in the manufacturing of paper cardboard and cellulose is derived mainly from (JAMB 2017)",
+    "questionText": "Pulp-wood which is used in the manufacturing of paper cardboard and cellulose is derived mainly from",
     "options": [
       "Desert plants",
       "Tropical rainforest",
@@ -1513,7 +1513,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-126-402",
-    "questionText": "The above diagram on which the contours are in meters shows (JAMB 2020)",
+    "questionText": "The above diagram on which the contours are in meters shows",
     "options": [
       "Mesa",
       "Knoll",
@@ -1525,7 +1525,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-127-377",
-    "questionText": "The two major economic activities in the Chas basin are (JAMB 2019)",
+    "questionText": "The two major economic activities in the Chas basin are",
     "options": [
       "Fishing and irrigation agriculture",
       "Tourism and livestock production",
@@ -1537,7 +1537,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-128-179",
-    "questionText": "One hour’s difference in mean solar time represents what angular difference in longitude? (JAMB 2013)",
+    "questionText": "One hour’s difference in mean solar time represents what angular difference in longitude?",
     "options": [
       "15o ",
       "23.5o  ",
@@ -1549,7 +1549,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-129-161",
-    "questionText": "In the hydrological cycle, the transfer of water from the earth’s surface to the atmosphere is by  (JAMB 2012)",
+    "questionText": "In the hydrological cycle, the transfer of water from the earth’s surface to the atmosphere is by",
     "options": [
       " Evaporation only  ",
       "Transpiration Only  ",
@@ -1561,7 +1561,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-130-278",
-    "questionText": "Which one of the following sates of Nigeria is a major kolanut producer? (JAMB 2017)",
+    "questionText": "Which one of the following sates of Nigeria is a major kolanut producer?",
     "options": [
       "Plateau",
       "Bendel",
@@ -1573,7 +1573,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-131-280",
-    "questionText": "The following lakes have outlets to the sea Except lake (JAMB 2017)",
+    "questionText": "The following lakes have outlets to the sea Except lake",
     "options": [
       "Chad",
       "Michigan",
@@ -1585,7 +1585,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-132-40",
-    "questionText": "Podsols and laterites share the following characteristics in common, except   (JAMB 2007)",
+    "questionText": "Podsols and laterites share the following characteristics in common, except",
     "options": [
       "infertility  ",
       "high degree of leaching  ",
@@ -1597,7 +1597,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-133-125",
-    "questionText": "Which of the following places in Nigeria has the highest mean annual rainfall amount  (JAMB 2011)",
+    "questionText": "Which of the following places in Nigeria has the highest mean annual rainfall amount",
     "options": [
       "Sokoto  ",
       "Maiduguri  ",
@@ -1609,7 +1609,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-134-357",
-    "questionText": "What is a typical farmer in the Susan Savannah of Nigeria most likely to be doing in June? (JAMB 2019)",
+    "questionText": "What is a typical farmer in the Susan Savannah of Nigeria most likely to be doing in June?",
     "options": [
       "Taking part in a fishing festival",
       "Clearing his land for planting",
@@ -1621,7 +1621,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-135-431",
-    "questionText": "The equatorial circumference of earth  (JAMB 2020)",
+    "questionText": "The equatorial circumference of earth",
     "options": [
       "30,084 km",
       "60,084 km",
@@ -1633,7 +1633,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-136-96",
-    "questionText": "The best natural harbour in West Africa is at   (JAMB 2010)",
+    "questionText": "The best natural harbour in West Africa is at",
     "options": [
       "Lome  ",
       "Tema ",
@@ -1645,7 +1645,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-137-288",
-    "questionText": "The leading producers of diamond in Africa are (JAMB 2017)",
+    "questionText": "The leading producers of diamond in Africa are",
     "options": [
       "Botswana and Sierra leone",
       "South Africa and the Democratic Republic of Congo",
@@ -1657,7 +1657,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-138-436",
-    "questionText": "Nigeria's three steel rolling mills are located around (JAMB 2020)",
+    "questionText": "Nigeria's three steel rolling mills are located around",
     "options": [
       "Katsina, Oshogbo, and Jos",
       "Ilesha, Ilorin,and Kaduna",
@@ -1669,7 +1669,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-139-294",
-    "questionText": "Name the feature shown below (JAMB 2017)",
+    "questionText": "Name the feature shown below",
     "options": [
       "Crescent dune",
       "Nunatex",
@@ -1681,7 +1681,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-140-178",
-    "questionText": "Which of the following continents has the largest area with a tropical type of climate? (JAMB 2013)",
+    "questionText": "Which of the following continents has the largest area with a tropical type of climate?",
     "options": [
       "Asia   ",
       "South America",
@@ -1693,7 +1693,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-141-301",
-    "questionText": "Urban centres originate mainly as zones of (JAMB 2017)",
+    "questionText": "Urban centres originate mainly as zones of",
     "options": [
       "Tourist attraction",
       "Transport concentration",
@@ -1705,7 +1705,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-142-249",
-    "questionText": "What is the length to the nearest kilometer of the main stream that is into the Laka Lagon? (JAMB 2016)",
+    "questionText": "What is the length to the nearest kilometer of the main stream that is into the Laka Lagon?",
     "options": [
       "4 kilometers",
       "8 kilometers",
@@ -1717,7 +1717,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-143-122",
-    "questionText": "The wearing away of the sides and bottom of a river channel is called  (JAMB 2011)",
+    "questionText": "The wearing away of the sides and bottom of a river channel is called",
     "options": [
       "corrasion ",
       "corrosion ",
@@ -1729,7 +1729,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-144-23",
-    "questionText": "The foremost producers of petroleum in the Middle East are:   (JAMB 2006)",
+    "questionText": "The foremost producers of petroleum in the Middle East are:",
     "options": [
       "Saudi Arabia, Kuwait, Libya and Iran  ",
       "Saudi Arabia, Iraq, Iran and Kuwait  ",
@@ -1741,7 +1741,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-145-251",
-    "questionText": "The true bearing of the trigonometrical station 54.0m from the peak of Bedi Hill is (JAMB 2016)",
+    "questionText": "The true bearing of the trigonometrical station 54.0m from the peak of Bedi Hill is",
     "options": [
       "266°",
       "127°",
@@ -1753,7 +1753,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-146-423",
-    "questionText": "The total area covered by the map is approximately (JAMB 2020)",
+    "questionText": "The total area covered by the map is approximately",
     "options": [
       "268sqkm",
       "258sqkm",
@@ -1765,7 +1765,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-147-330",
-    "questionText": "What type of climate has the station? (JAMB 2018)",
+    "questionText": "What type of climate has the station?",
     "options": [
       "Cool temperature",
       "Warm temperature",
@@ -1777,7 +1777,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-148-247",
-    "questionText": "Which of the following towns is NOT a pre-colonial town? (JAMB 2016)",
+    "questionText": "Which of the following towns is NOT a pre-colonial town?",
     "options": [
       "Enugu",
       "Ibadan",
@@ -1789,7 +1789,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784629-149-183",
-    "questionText": "Which of the following landforms originates from Aeolian erosion? (JAMB 2013)",
+    "questionText": "Which of the following landforms originates from Aeolian erosion?",
     "options": [
       "Deflation hollow  ",
       "Sand dune  ",
@@ -1801,7 +1801,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-150-386",
-    "questionText": "An igneous rock with distinct grains of mica feldspar and quartz is (JAMB 2019)",
+    "questionText": "An igneous rock with distinct grains of mica feldspar and quartz is",
     "options": [
       "Basalt",
       "Granite",
@@ -1813,7 +1813,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-151-63",
-    "questionText": "Which features on a  topographic sheet would you analyze to characterize the configuration of the area covered by the sheet   (JAMB 2008)",
+    "questionText": "Which features on a  topographic sheet would you analyze to characterize the configuration of the area covered by the sheet",
     "options": [
       "Isoyet and Isolines  ",
       "ranges and spot heights ",
@@ -1825,7 +1825,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-152-114",
-    "questionText": "Which of the following is not a feature of sea deposition  (JAMB 2011)",
+    "questionText": "Which of the following is not a feature of sea deposition",
     "options": [
       "Shoal ",
       "Beach ",
@@ -1837,7 +1837,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-153-51",
-    "questionText": "One of these is not a factor of population growth   (JAMB 2008)",
+    "questionText": "One of these is not a factor of population growth",
     "options": [
       "poverty  ",
       "migration  ",
@@ -1849,7 +1849,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-154-283",
-    "questionText": "The relative relief of the area is slight above (JAMB 2017)",
+    "questionText": "The relative relief of the area is slight above",
     "options": [
       "575m",
       "485m",
@@ -1861,7 +1861,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-155-394",
-    "questionText": "Which of the following systems provides irrigation water and hydro-electricity (JAMB 2019)",
+    "questionText": "Which of the following systems provides irrigation water and hydro-electricity",
     "options": [
       "Shiroro",
       "Gezira",
@@ -1873,7 +1873,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-156-384",
-    "questionText": "The circulations of the oceans and the atmosphere primarily help to redistribute and equalize globally (JAMB 2019)",
+    "questionText": "The circulations of the oceans and the atmosphere primarily help to redistribute and equalize globally",
     "options": [
       "Oxygen",
       "Fauna",
@@ -1885,7 +1885,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-157-132",
-    "questionText": "Which of the following statements is not true for lines of latitudes? (JAMB 2011)",
+    "questionText": "Which of the following statements is not true for lines of latitudes?",
     "options": [
       "they range from 00 to 1800 North and South ",
       "they range from 00 to 900 North and South ",
@@ -1897,7 +1897,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-158-18",
-    "questionText": "The doldrums refer to   (JAMB 2006)",
+    "questionText": "The doldrums refer to",
     "options": [
       "land areas bordering the confluence of the blue and white Nile  ",
       "areas intense weather activities around the Mediterranean  ",
@@ -1909,7 +1909,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-159-235",
-    "questionText": "The new name of Calicut, a famous city of Kerala is  (JAMB 2014)",
+    "questionText": "The new name of Calicut, a famous city of Kerala is",
     "options": [
       "Kozhikode",
       "Trivendrum",
@@ -1921,7 +1921,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-160-378",
-    "questionText": "A radio message sent from a location on Longitude 15°W at 7.00 a.m is received at another location at 2.00 p.m on the same day. What is the longitudinal position of the other location? (JAMB 2019)",
+    "questionText": "A radio message sent from a location on Longitude 15°W at 7.00 a.m is received at another location at 2.00 p.m on the same day. What is the longitudinal position of the other location?",
     "options": [
       "90°W",
       "105°E",
@@ -1933,7 +1933,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-161-315",
-    "questionText": "Chemical weathering in tropical Africa creates domed rock outcroppings called (JAMB 2017)",
+    "questionText": "Chemical weathering in tropical Africa creates domed rock outcroppings called",
     "options": [
       "Inselbergs",
       "Volcanic rocks",
@@ -1945,7 +1945,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-162-241",
-    "questionText": "What is the approximate height of the location marked x? (JAMB 2016)",
+    "questionText": "What is the approximate height of the location marked x?",
     "options": [
       "375 meters",
       "395 meters",
@@ -1957,7 +1957,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-163-382",
-    "questionText": "Planetary winds are deflected on crossing the Equator due mainly to the effects of  (JAMB 2019)",
+    "questionText": "Planetary winds are deflected on crossing the Equator due mainly to the effects of",
     "options": [
       "Ferrel's law",
       "Coriolis Force",
@@ -1969,7 +1969,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-164-424",
-    "questionText": "Which of the following is a type of iron ore? (JAMB 2020)",
+    "questionText": "Which of the following is a type of iron ore?",
     "options": [
       "Ignite",
       "Limonite",
@@ -1981,7 +1981,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-165-46",
-    "questionText": "Which of the following formulae is the correct one for converting X0 Fahrenheit temperature reading into Centigrade temperature readings (Y0)?   (JAMB 2007)",
+    "questionText": "Which of the following formulae is the correct one for converting X0 Fahrenheit temperature reading into Centigrade temperature readings (Y0)?",
     "options": [
       "Y = (X + 32)5/90C ",
       "Y = (X – 32)5/90C  ",
@@ -1993,7 +1993,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-166-259",
-    "questionText": "From a point, the whole circle bearing of a line is 135°. A clockwise angle from the line was measured to be 260° to another line. What is the whole circle bearing of the later line? (JAMB 2016)",
+    "questionText": "From a point, the whole circle bearing of a line is 135°. A clockwise angle from the line was measured to be 260° to another line. What is the whole circle bearing of the later line?",
     "options": [
       "225°",
       "35°",
@@ -2005,7 +2005,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-167-32",
-    "questionText": "The sea area with the highest degree of salinity is the  (JAMB 2007)",
+    "questionText": "The sea area with the highest degree of salinity is the",
     "options": [
       "Baltic Sea  ",
       "Caspian Sea  ",
@@ -2017,7 +2017,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-168-380",
-    "questionText": "The captain of a ship in the mid sea observed that it was local noon as he was listening to 08.00 hour BBC world news. On which longitude was his ship? (JAMB 2019)",
+    "questionText": "The captain of a ship in the mid sea observed that it was local noon as he was listening to 08.00 hour BBC world news. On which longitude was his ship?",
     "options": [
       "120°E",
       "60°E",
@@ -2029,7 +2029,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-169-172",
-    "questionText": "The largest soil group, found in the temperate grasslands, having a deep, black, nutrient-rich (JAMB 2013)",
+    "questionText": "The largest soil group, found in the temperate grasslands, having a deep, black, nutrient-rich",
     "options": [
       "A-horizon, a compact  B-horizon and a zone of calcium carbonate accumulation is called a",
       "Chernozem  ",
@@ -2041,7 +2041,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-170-124",
-    "questionText": "A degree of latitudinal distance is approximately   (JAMB 2011)",
+    "questionText": "A degree of latitudinal distance is approximately",
     "options": [
       "111km  ",
       "221KM ",
@@ -2053,7 +2053,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-171-3",
-    "questionText": "The scale of a map is the ratio between the   (JAMB 2006)",
+    "questionText": "The scale of a map is the ratio between the",
     "options": [
       "distance over the land and the distance over the water ",
       "distance on the map and the distance on the globe ",
@@ -2065,7 +2065,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-172-129",
-    "questionText": "An instrument used in measuring the atmospheric pressure is called  (JAMB 2011)",
+    "questionText": "An instrument used in measuring the atmospheric pressure is called",
     "options": [
       "Barometer ",
       "Thermomete",
@@ -2077,7 +2077,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-173-92",
-    "questionText": "One of these is a features of rejuvenated river:  (JAMB 2010)",
+    "questionText": "One of these is a features of rejuvenated river:",
     "options": [
       "Incised menders  ",
       "Braided channel  ",
@@ -2089,7 +2089,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-174-138",
-    "questionText": "Which of the following is not a rapid type of mass movement?  (JAMB 2012)",
+    "questionText": "Which of the following is not a rapid type of mass movement?",
     "options": [
       "Solidification ",
       "Rockfall  ",
@@ -2101,7 +2101,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-175-137",
-    "questionText": "The representative fraction of 1:50,000 can be converted to the following   (JAMB 2011)",
+    "questionText": "The representative fraction of 1:50,000 can be converted to the following",
     "options": [
       "one cm to 5km  ",
       "one cm to 0.05km  ",
@@ -2113,7 +2113,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-176-435",
-    "questionText": "The feature utilized by a road to cross a flood plain is called (JAMB 2020)",
+    "questionText": "The feature utilized by a road to cross a flood plain is called",
     "options": [
       "Terrace",
       "A spur",
@@ -2125,7 +2125,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-177-64",
-    "questionText": "The greatest challenge to future use of automobiles is   (JAMB 2008)",
+    "questionText": "The greatest challenge to future use of automobiles is",
     "options": [
       "advances in air travel  ",
       "identification of alternative to fossil fuels  ",
@@ -2137,7 +2137,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-178-116",
-    "questionText": "The lower part of a river valley that has been submerged by the sea is called  (JAMB 2011)",
+    "questionText": "The lower part of a river valley that has been submerged by the sea is called",
     "options": [
       "Estuary   ",
       "Reef    ",
@@ -2149,7 +2149,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-179-287",
-    "questionText": "The heavy dark soil associated with floodable valley bottoms is a (JAMB 2017)",
+    "questionText": "The heavy dark soil associated with floodable valley bottoms is a",
     "options": [
       "Podzolic soil",
       "Hydromorphic soil",
@@ -2161,7 +2161,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-180-403",
-    "questionText": "Which of the following countries has a large number if people if African descent? (JAMB 2020)",
+    "questionText": "Which of the following countries has a large number if people if African descent?",
     "options": [
       "Brazil",
       "Spain",
@@ -2173,7 +2173,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-181-158",
-    "questionText": "Which of the following scales should show the greatest amount of detail on a map?  (JAMB 2012)",
+    "questionText": "Which of the following scales should show the greatest amount of detail on a map?",
     "options": [
       "1:50,000  ",
       "1:500,000  ",
@@ -2185,7 +2185,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-182-238",
-    "questionText": "The main composition of coal is (JAMB 2016)",
+    "questionText": "The main composition of coal is",
     "options": [
       "Iron",
       "Quartz",
@@ -2197,7 +2197,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-183-420",
-    "questionText": "An example of a rock formed by wood subjected to pressure and heat is (JAMB 2020)",
+    "questionText": "An example of a rock formed by wood subjected to pressure and heat is",
     "options": [
       "Lignite",
       "Granite",
@@ -2209,7 +2209,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-184-58",
-    "questionText": "On of the following is least important to ocean movement   (JAMB 2008)",
+    "questionText": "On of the following is least important to ocean movement",
     "options": [
       "salinity of the ocean water  ",
       "temperature of the water  ",
@@ -2221,7 +2221,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-185-399",
-    "questionText": "Which of the following rocks is composed of the skeletons of microscopic sea plants and animals? (JAMB 2020)",
+    "questionText": "Which of the following rocks is composed of the skeletons of microscopic sea plants and animals?",
     "options": [
       "Granite",
       "Chalk",
@@ -2233,7 +2233,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-186-174",
-    "questionText": "The major disadvantage of the River Nile as a trade route is that   (JAMB 2013)",
+    "questionText": "The major disadvantage of the River Nile as a trade route is that",
     "options": [
       "it is too long   ",
       "it is too shallow   ",
@@ -2245,7 +2245,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-187-225",
-    "questionText": "Isotherms are lines drawn on maps joining places having equal  (JAMB 2014)",
+    "questionText": "Isotherms are lines drawn on maps joining places having equal",
     "options": [
       "Temperature   ",
       "Cloud cover ",
@@ -2257,7 +2257,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-188-135",
-    "questionText": "Aeolian erosion refers to the work of   (JAMB 2011)",
+    "questionText": "Aeolian erosion refers to the work of",
     "options": [
       "Wind ",
       "Running water  ",
@@ -2269,7 +2269,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-189-54",
-    "questionText": "One of these is not true of rain gauges:   (JAMB 2008)",
+    "questionText": "One of these is not true of rain gauges:",
     "options": [
       "Rain gauge provide excellent measurement of rainfall ",
       "Their measurements may be affected by the particular type used ",
@@ -2281,7 +2281,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-190-269",
-    "questionText": "One of the steel rolling mills in Nigeria is located at (JAMB 2016)",
+    "questionText": "One of the steel rolling mills in Nigeria is located at",
     "options": [
       "Jos",
       "Ajaokuta",
@@ -2293,7 +2293,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-191-187",
-    "questionText": "Climate is the:  (JAMB 2014)",
+    "questionText": "Climate is the:",
     "options": [
       "Prevailing weather conditions of a region for 10 years ",
       "Prevailing weather conditions of a region for 15 years  ",
@@ -2305,7 +2305,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-192-322",
-    "questionText": "The landform feature at the center of the map can best be described as (JAMB 2018)",
+    "questionText": "The landform feature at the center of the map can best be described as",
     "options": [
       "A flood plain",
       "An erosional",
@@ -2317,7 +2317,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-193-170",
-    "questionText": "The surface of discontinuity between the earth’s crust and the mantle is know as (JAMB 2013)",
+    "questionText": "The surface of discontinuity between the earth’s crust and the mantle is know as",
     "options": [
       "Lithosphere   ",
       "Barysphere",
@@ -2329,7 +2329,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-194-65",
-    "questionText": "The statements ‘one cm 2 km can be represented by the ratio of   (JAMB 2008)",
+    "questionText": "The statements ‘one cm 2 km can be represented by the ratio of",
     "options": [
       "1:50,000 ",
       "1:500,000  ",
@@ -2341,7 +2341,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-195-290",
-    "questionText": "The climate region represented above is (JAMB 2017)",
+    "questionText": "The climate region represented above is",
     "options": [
       "Siberan",
       "Arctic",
@@ -2353,7 +2353,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-196-47",
-    "questionText": "Oxbow lakes are found in   (JAMB 2008)",
+    "questionText": "Oxbow lakes are found in",
     "options": [
       "lower courses of some rivers ",
       "wind bow out sites  ",
@@ -2365,7 +2365,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-197-13",
-    "questionText": "Kariba Dam is found in River   (JAMB 2006)",
+    "questionText": "Kariba Dam is found in River",
     "options": [
       "Zambezi ",
       "Congo  ",
@@ -2377,7 +2377,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-198-117",
-    "questionText": "Which of the following is a cold ocean current  (JAMB 2011)",
+    "questionText": "Which of the following is a cold ocean current",
     "options": [
       "Mozambique   ",
       "gulf stream ",
@@ -2389,7 +2389,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-199-166",
-    "questionText": "The world’s longest river is   (JAMB 2013)",
+    "questionText": "The world’s longest river is",
     "options": [
       "River Amazon    ",
       "River-Mississippi   ",
@@ -2401,7 +2401,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-200-209",
-    "questionText": "Freetown is a:  (JAMB 2014)",
+    "questionText": "Freetown is a:",
     "options": [
       "North African City ",
       "West African City ",
@@ -2413,7 +2413,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-201-98",
-    "questionText": "The navigability of River Nile is limited because   (JAMB 2010)",
+    "questionText": "The navigability of River Nile is limited because",
     "options": [
       "it is too long  ",
       "it is too shallow  ",
@@ -2425,7 +2425,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-202-405",
-    "questionText": "Large scale migration of people from one country to another may be explained by all of the following except (JAMB 2020)",
+    "questionText": "Large scale migration of people from one country to another may be explained by all of the following except",
     "options": [
       "Civil war",
       "Drought",
@@ -2437,7 +2437,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-203-311",
-    "questionText": "Which of the following animals is NOT common in the African Savanna? (JAMB 2017)",
+    "questionText": "Which of the following animals is NOT common in the African Savanna?",
     "options": [
       "Gorilla",
       "Lion",
@@ -2449,7 +2449,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-204-364",
-    "questionText": "The feature through which the River Ngu flows ar XX is known as a (JAMB 2019)",
+    "questionText": "The feature through which the River Ngu flows ar XX is known as a",
     "options": [
       "Col",
       "Saddle",
@@ -2461,7 +2461,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-205-312",
-    "questionText": "The equatorial circumference of the earth is (JAMB 2017)",
+    "questionText": "The equatorial circumference of the earth is",
     "options": [
       "30,084 km",
       "40,084 km",
@@ -2473,7 +2473,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-206-266",
-    "questionText": "The sex ratio of any population may be affected by (JAMB 2016)",
+    "questionText": "The sex ratio of any population may be affected by",
     "options": [
       "Morbidity",
       "Mortality",
@@ -2485,7 +2485,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-207-79",
-    "questionText": "In Karst region, when several dolines are joined together to form depression, it is known as  (JAMB 2009)",
+    "questionText": "In Karst region, when several dolines are joined together to form depression, it is known as",
     "options": [
       "cave  ",
       "uvala  ",
@@ -2497,7 +2497,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-208-1",
-    "questionText": "The earth rotates through 150 of longitude once in   (JAMB 2006)",
+    "questionText": "The earth rotates through 150 of longitude once in",
     "options": [
       "a minute  ",
       "an hour  ",
@@ -2509,7 +2509,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-209-313",
-    "questionText": "The greatest advantage of road transportation over other modes is that the former is (JAMB 2017)",
+    "questionText": "The greatest advantage of road transportation over other modes is that the former is",
     "options": [
       "Less risky",
       "Faster",
@@ -2521,7 +2521,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-210-37",
-    "questionText": "In the tropics, the most variable climatic element inter-annually is   (JAMB 2007)",
+    "questionText": "In the tropics, the most variable climatic element inter-annually is",
     "options": [
       "temperature  ",
       "solar radiation   ",
@@ -2533,7 +2533,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-211-348",
-    "questionText": "British foreign investments are concentrated in (JAMB 2018)",
+    "questionText": "British foreign investments are concentrated in",
     "options": [
       "EU countries",
       "Commonwealth countries",
@@ -2545,7 +2545,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-212-67",
-    "questionText": "On any day in the year at a specific time   (JAMB 2008)",
+    "questionText": "On any day in the year at a specific time",
     "options": [
       "the sun is overhead along the equator  ",
       "the sun is overhead along the topic of cancer  ",
@@ -2557,7 +2557,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-213-70",
-    "questionText": "Which of the following countries has a large number of people of Africa descent?  (JAMB 2008)",
+    "questionText": "Which of the following countries has a large number of people of Africa descent?",
     "options": [
       "England  ",
       "Canada  ",
@@ -2569,7 +2569,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-214-44",
-    "questionText": "Fossil fuel reserves are found in the Lake Chad basin because   (JAMB 2007)",
+    "questionText": "Fossil fuel reserves are found in the Lake Chad basin because",
     "options": [
       "The basin lies approximately along he axis on which the rich Bakassi oil fields are found  ",
       "The basin is at the edge of the desert with conditions similar to that of Iraq  ",
@@ -2581,7 +2581,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-215-338",
-    "questionText": "In which of the following rock types is petroleum mainly found? (JAMB 2018)",
+    "questionText": "In which of the following rock types is petroleum mainly found?",
     "options": [
       "Metamorphic",
       "Plutonic",
@@ -2593,7 +2593,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-216-113",
-    "questionText": "Soil that are formed by wind deposition are called   (JAMB 2011)",
+    "questionText": "Soil that are formed by wind deposition are called",
     "options": [
       "laterites  ",
       "prairies  ",
@@ -2605,7 +2605,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-217-118",
-    "questionText": "The most important cause of tides is the, (JAMB 2011)",
+    "questionText": "The most important cause of tides is the,",
     "options": [
       "distribution of the prevailing winds ",
       "rotation of the earth on its own axis  ",
@@ -2617,7 +2617,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-218-94",
-    "questionText": "Which of these is not a form of condensation?  (JAMB 2010)",
+    "questionText": "Which of these is not a form of condensation?",
     "options": [
       "Snow ",
       "Rime  ",
@@ -2629,7 +2629,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-219-7",
-    "questionText": "One of these is NOT a landform in Africa    (JAMB 2006)",
+    "questionText": "One of these is NOT a landform in Africa",
     "options": [
       "Scarp ",
       "Inselberg  ",
@@ -2641,7 +2641,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-220-27",
-    "questionText": "One major characteristics of rural settlements is that   (JAMB 2007)",
+    "questionText": "One major characteristics of rural settlements is that",
     "options": [
       "are heterogeneous  ",
       "are homogenous  ",
@@ -2653,7 +2653,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-221-157",
-    "questionText": "The difference in the readings on the dry and wet bulb thermometers used to determine   (JAMB 2012)",
+    "questionText": "The difference in the readings on the dry and wet bulb thermometers used to determine",
     "options": [
       "Relative humidity  ",
       "Temperature range  ",
@@ -2665,7 +2665,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-222-319",
-    "questionText": "Area covered by the map is approximately (JAMB 2018)",
+    "questionText": "Area covered by the map is approximately",
     "options": [
       "125 km.sq",
       "105 km.sq",
@@ -2677,7 +2677,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-223-413",
-    "questionText": "The most dominant pair of active factors affecting plants growth is (JAMB 2020)",
+    "questionText": "The most dominant pair of active factors affecting plants growth is",
     "options": [
       "Topography and man",
       "Climate and Topography",
@@ -2689,7 +2689,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-224-404",
-    "questionText": "When it is 12.00 noon on longitude 30°W, local time on longitude 75°E is (JAMB 2020)",
+    "questionText": "When it is 12.00 noon on longitude 30°W, local time on longitude 75°E is",
     "options": [
       "7.00 am",
       "7.00 pm",
@@ -2701,7 +2701,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-225-190",
-    "questionText": "Isotherm refers to:  (JAMB 2014)",
+    "questionText": "Isotherm refers to:",
     "options": [
       "Line that connects points of equal sunshine",
       "Line that connects points of equal rainfall",
@@ -2713,7 +2713,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-226-379",
-    "questionText": "Which of the following countries can be described as an archipelago? (JAMB 2019)",
+    "questionText": "Which of the following countries can be described as an archipelago?",
     "options": [
       "Cape Verde",
       "Mauritania",
@@ -2725,7 +2725,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-227-75",
-    "questionText": "Which of the following is the major factor responsible for Japan’s unparalleled industrial growth in the last few decades?  (JAMB 2009)",
+    "questionText": "Which of the following is the major factor responsible for Japan’s unparalleled industrial growth in the last few decades?",
     "options": [
       "Japan’s proximity to mainland ",
       "Japan’s cargo population    ",
@@ -2737,7 +2737,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-228-344",
-    "questionText": "Soil conservation can be achieved through (JAMB 2018)",
+    "questionText": "Soil conservation can be achieved through",
     "options": [
       "Monoculture",
       "Mechanization",
@@ -2749,7 +2749,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-229-144",
-    "questionText": "The Latitude which marks the limits of the overhead sun’s apparent movement is   (JAMB 2012)",
+    "questionText": "The Latitude which marks the limits of the overhead sun’s apparent movement is",
     "options": [
       "0",
       "66.5",
@@ -2761,7 +2761,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-230-412",
-    "questionText": "A layer of fine wind-deposited sand on silt is known as (JAMB 2020)",
+    "questionText": "A layer of fine wind-deposited sand on silt is known as",
     "options": [
       "Loess",
       "Bajada",
@@ -2773,7 +2773,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-231-93",
-    "questionText": "Which one of these is not a thermometric scale:   (JAMB 2010)",
+    "questionText": "Which one of these is not a thermometric scale:",
     "options": [
       "Celsius  ",
       "Kelvin  ",
@@ -2785,7 +2785,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-232-334",
-    "questionText": "The major environmental problems associated with the area marked Y is (JAMB 2018)",
+    "questionText": "The major environmental problems associated with the area marked Y is",
     "options": [
       "Insect pest",
       "Gully erosion",
@@ -2797,7 +2797,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-233-153",
-    "questionText": "At the summer solstice (June 21), which of the following latitudes will have the shortest night? (JAMB 2012)",
+    "questionText": "At the summer solstice (June 21), which of the following latitudes will have the shortest night?",
     "options": [
       "30 “N  ",
       "30 “S  ",
@@ -2809,7 +2809,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-234-77",
-    "questionText": "Which of the following basins has the highest population concentration? the  (JAMB 2009)",
+    "questionText": "Which of the following basins has the highest population concentration? the",
     "options": [
       "Indus  ",
       "Niger  ",
@@ -2821,7 +2821,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-235-233",
-    "questionText": "________ is the time of day when tornadoes are most likely to occur (JAMB 2014)",
+    "questionText": "________ is the time of day when tornadoes are most likely to occur",
     "options": [
       "Dawn ",
       "Mid-afternoon ",
@@ -2833,7 +2833,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-236-224",
-    "questionText": "Which of the following is a major hindrance to H.E.P. (JAMB 2014)",
+    "questionText": "Which of the following is a major hindrance to H.E.P.",
     "options": [
       "Inadequate capital  ",
       "Unavailability of good sites  ",
@@ -2845,7 +2845,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-237-430",
-    "questionText": "The most significant economic use of ocean water is for (JAMB 2020)",
+    "questionText": "The most significant economic use of ocean water is for",
     "options": [
       "Bathing",
       "Recreation",
@@ -2857,7 +2857,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-238-57",
-    "questionText": "“High uniform temperature and heavy well distributed rainfall throughout the year” described  (JAMB 2008)",
+    "questionText": "“High uniform temperature and heavy well distributed rainfall throughout the year” described",
     "options": [
       "Equaterial rainforest climate  ",
       "Mid altitude friendly environment  ",
@@ -2869,7 +2869,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-239-173",
-    "questionText": "Drought-tolerant plants are known as   (JAMB 2013)",
+    "questionText": "Drought-tolerant plants are known as",
     "options": [
       "Epiphytes  ",
       " Hydrophytes",
@@ -2881,7 +2881,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-240-250",
-    "questionText": "The elevated feature that runs westwards from the cape near mito to the western edge of the map is (JAMB 2016)",
+    "questionText": "The elevated feature that runs westwards from the cape near mito to the western edge of the map is",
     "options": [
       "A Spur",
       "Peninsular",
@@ -2893,7 +2893,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-241-30",
-    "questionText": "The distribution of minerals resources in Nigeria is related to its:   (JAMB 2007)",
+    "questionText": "The distribution of minerals resources in Nigeria is related to its:",
     "options": [
       "relief  ",
       "soil  ",
@@ -2905,7 +2905,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-242-61",
-    "questionText": "Which of the following landforms is NOT due to the process of glacier erosion?  (JAMB 2008)",
+    "questionText": "Which of the following landforms is NOT due to the process of glacier erosion?",
     "options": [
       "Come  ",
       "valley -bench  ",
@@ -2917,7 +2917,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-243-89",
-    "questionText": "Which of the following location in Nigeria has the least mean annual rainfall total?   (JAMB 2010)",
+    "questionText": "Which of the following location in Nigeria has the least mean annual rainfall total?",
     "options": [
       "Sokoto  ",
       "Maiduguri  ",
@@ -2929,7 +2929,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-244-41",
-    "questionText": "The forest type which is the most rich in tree species is the   (JAMB 2007)",
+    "questionText": "The forest type which is the most rich in tree species is the",
     "options": [
       "tropical  ",
       "Deciduous  ",
@@ -2941,7 +2941,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-245-355",
-    "questionText": "An instrument used for setting out right angle in surveying a parcel of land is (JAMB 2018)",
+    "questionText": "An instrument used for setting out right angle in surveying a parcel of land is",
     "options": [
       "A measuring rod",
       "Abney level",
@@ -2953,7 +2953,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-246-140",
-    "questionText": "The earth’s atmosphere is said to be stable   (JAMB 2012)",
+    "questionText": "The earth’s atmosphere is said to be stable",
     "options": [
       "when the environmental laps rate is greater than the adiabatic lapse rate  ",
       "When the adiabatic lapse rate is greater than the environmental lapse rate  ",
@@ -2965,7 +2965,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-247-150",
-    "questionText": "Which of the following African cities is situated near the confluence of rivers?  (JAMB 2012)",
+    "questionText": "Which of the following African cities is situated near the confluence of rivers?",
     "options": [
       "Niamey  ",
       "Freetown  ",
@@ -2977,7 +2977,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-248-398",
-    "questionText": "Which of the following is not a form of precipitation? (JAMB 2020)",
+    "questionText": "Which of the following is not a form of precipitation?",
     "options": [
       "Haze",
       "Snow",
@@ -2989,7 +2989,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-249-171",
-    "questionText": "Where is Sahel Savanna vegetation belt found in Nigeria? (JAMB 2013)",
+    "questionText": "Where is Sahel Savanna vegetation belt found in Nigeria?",
     "options": [
       "Northwest   ",
       "Northeast",
@@ -3001,7 +3001,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-250-353",
-    "questionText": "If the time in New York (75°W) is 5.00pm the time in Nigeria (15°E) will be (JAMB 2018)",
+    "questionText": "If the time in New York (75°W) is 5.00pm the time in Nigeria (15°E) will be",
     "options": [
       "9.00pm",
       "9.00am",
@@ -3013,7 +3013,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-251-252",
-    "questionText": "The appropriate geographical term for that narrow feature east of Ela Lagoon along which a footpath runs is (JAMB 2016)",
+    "questionText": "The appropriate geographical term for that narrow feature east of Ela Lagoon along which a footpath runs is",
     "options": [
       "Lake",
       "Isthmus",
@@ -3025,7 +3025,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-252-323",
-    "questionText": "Given that the area show on the map is in Northern Nigeria, which of the following crop combinations would best be cultivated in the area that is liable to flooding? (JAMB 2018)",
+    "questionText": "Given that the area show on the map is in Northern Nigeria, which of the following crop combinations would best be cultivated in the area that is liable to flooding?",
     "options": [
       "Banana, Rice, and Cassava",
       "Cassava, Rice, and Yam",
@@ -3037,7 +3037,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-253-185",
-    "questionText": "A traveler crossing the international Date line from America to Asia at 1.00 P.M. on Saturday, July 13th, 2013, would have to change his watch to 1.00 P.m. on (JAMB 2013)",
+    "questionText": "A traveler crossing the international Date line from America to Asia at 1.00 P.M. on Saturday, July 13th, 2013, would have to change his watch to 1.00 P.m. on",
     "options": [
       "Sunday, July 14th, 2013",
       "Friday, July 12th 2013",
@@ -3049,7 +3049,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-254-146",
-    "questionText": "The World’s richest fishing grounds are found   (JAMB 2012)",
+    "questionText": "The World’s richest fishing grounds are found",
     "options": [
       "On the continental shelves  ",
       "In oceanic deeps ",
@@ -3061,7 +3061,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-255-216",
-    "questionText": "The World Longest Coastlines is in:  (JAMB 2014)",
+    "questionText": "The World Longest Coastlines is in:",
     "options": [
       "Austria ",
       "England  ",
@@ -3073,7 +3073,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-256-22",
-    "questionText": "Which of the following routes must have least gradient?   (JAMB 2006)",
+    "questionText": "Which of the following routes must have least gradient?",
     "options": [
       "Motorway ",
       "Rail line  ",
@@ -3085,7 +3085,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-257-84",
-    "questionText": "The dawn is a temperature grassland found in?  (JAMB 2009)",
+    "questionText": "The dawn is a temperature grassland found in?",
     "options": [
       "Australia  ",
       "South America  ",
@@ -3097,7 +3097,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-258-175",
-    "questionText": "The earth rotates from   (JAMB 2013)",
+    "questionText": "The earth rotates from",
     "options": [
       "Southeast to Southwest",
       "Southwest  to Southeast",
@@ -3109,7 +3109,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-259-182",
-    "questionText": "The major characteristics of a karst scenery include (JAMB 2013)",
+    "questionText": "The major characteristics of a karst scenery include",
     "options": [
       "Excessive overland flow",
       "Extensive and long surface flow  ",
@@ -3121,7 +3121,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-260-110",
-    "questionText": "Which of the following continents is crossed by both the Tropic of Cancer and Tropic of Capricorn?   (JAMB 2010)",
+    "questionText": "Which of the following continents is crossed by both the Tropic of Cancer and Tropic of Capricorn?",
     "options": [
       "Asia  ",
       "South America ",
@@ -3133,7 +3133,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-261-196",
-    "questionText": "Scale of a map is defined as:  (JAMB 2014)",
+    "questionText": "Scale of a map is defined as:",
     "options": [
       "The ratio of a distance on the drawing board to the corresponding distance on the ground. ",
       "The ratio of a distance on the map to the corresponding distance on the ground",
@@ -3145,7 +3145,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788679784630-262-142",
-    "questionText": "What is the Centigrade equivalent of 950 Fahrenheit?  (JAMB 2012)",
+    "questionText": "What is the Centigrade equivalent of 950 Fahrenheit?",
     "options": [
       "1390C  ",
       "37.20C  ",
@@ -3157,7 +3157,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-0-349",
-    "questionText": "The two most important factors which account for the pattern of population distribution in West Africa are (JAMB 2018)",
+    "questionText": "The two most important factors which account for the pattern of population distribution in West Africa are",
     "options": [
       "Economic prosperity and Regional migration",
       "Economic prosperity and favourable physical conditions",
@@ -3169,7 +3169,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-1-74",
-    "questionText": "Which of the following features is produced by wave deposition   (JAMB 2009)",
+    "questionText": "Which of the following features is produced by wave deposition",
     "options": [
       "caves",
       "stack",
@@ -3181,7 +3181,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-2-328",
-    "questionText": "Dodoma is to Tanzania as ___________ is to Nigeria (JAMB 2018)",
+    "questionText": "Dodoma is to Tanzania as ___________ is to Nigeria",
     "options": [
       "Abuja",
       "Warri",
@@ -3193,7 +3193,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-3-400",
-    "questionText": "When on looks at a soil profile, the first characteristic to be noticed is soil (JAMB 2020)",
+    "questionText": "When on looks at a soil profile, the first characteristic to be noticed is soil",
     "options": [
       "Structure",
       "Moisture",
@@ -3205,7 +3205,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-4-306",
-    "questionText": "Pastoral nomadism was not native to the American Continents or Australia because (JAMB 2017)",
+    "questionText": "Pastoral nomadism was not native to the American Continents or Australia because",
     "options": [
       "The natives were more interested in hunting",
       "Pasture lands were sparse",
@@ -3217,7 +3217,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-5-365",
-    "questionText": "The major relief feature between the rivers Zogo and Bidana is a (JAMB 2019)",
+    "questionText": "The major relief feature between the rivers Zogo and Bidana is a",
     "options": [
       "Ridge",
       "Cuesta",
@@ -3229,7 +3229,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-6-215",
-    "questionText": "Dominican Republic is in:  (JAMB 2014)",
+    "questionText": "Dominican Republic is in:",
     "options": [
       "Europe",
       "Africa",
@@ -3241,7 +3241,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-7-240",
-    "questionText": "Which of the following lakes owes its origin mainly to faulting (JAMB 2016)",
+    "questionText": "Which of the following lakes owes its origin mainly to faulting",
     "options": [
       "Lake Victoria",
       "Lake Malawi",
@@ -3253,7 +3253,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-8-203",
-    "questionText": "The ethnic groups in Nigeria are:  (JAMB 2014)",
+    "questionText": "The ethnic groups in Nigeria are:",
     "options": [
       "More than 250",
       "More than 150",
@@ -3265,7 +3265,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-9-272",
-    "questionText": "Which of the following minerals is produced in Niger Republic? (JAMB 2016)",
+    "questionText": "Which of the following minerals is produced in Niger Republic?",
     "options": [
       "Uranium",
       "Crude oil",
@@ -3277,7 +3277,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-10-126",
-    "questionText": "The formulae for converting temperature from a centigrade (0C) to a Fahrenheit (0F) thermometric scale?  (JAMB 2011)",
+    "questionText": "The formulae for converting temperature from a centigrade (0C) to a Fahrenheit (0F) thermometric scale?",
     "options": [
       "0F = 1.8 x 0C + 32",
       "0F = 0.5x 0C + 32",
@@ -3289,7 +3289,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-11-317",
-    "questionText": "If the total population of the city is 500,000 what is the population of ward 4? (JAMB 2018)",
+    "questionText": "If the total population of the city is 500,000 what is the population of ward 4?",
     "options": [
       "75,000",
       "150,000",
@@ -3301,7 +3301,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-12-148",
-    "questionText": "Akosomo dam is on the River   (JAMB 2012)",
+    "questionText": "Akosomo dam is on the River",
     "options": [
       "Niger",
       "Nile",
@@ -3313,7 +3313,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-13-305",
-    "questionText": "The latitude which marks the lines of the Sun's apparent movement north and south of the equator is (JAMB 2017)",
+    "questionText": "The latitude which marks the lines of the Sun's apparent movement north and south of the equator is",
     "options": [
       "60.5°",
       "66.5°",
@@ -3325,7 +3325,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-14-236",
-    "questionText": "An anemometer is used to measure (JAMB 2014)",
+    "questionText": "An anemometer is used to measure",
     "options": [
       "wind vane",
       "wind direction",
@@ -3337,7 +3337,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-15-217",
-    "questionText": "Which of the following is an evidence to show that the earth is spherical in shape?  (JAMB 2014)",
+    "questionText": "Which of the following is an evidence to show that the earth is spherical in shape?",
     "options": [
       "Elliptical orbit",
       "Ea th s u ed ho izo",
@@ -3349,7 +3349,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-16-121",
-    "questionText": "Cyclones refer to  (JAMB 2011)",
+    "questionText": "Cyclones refer to",
     "options": [
       "centers of relatively high pressure",
       "centers of relatively low pressure",
@@ -3361,7 +3361,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-17-88",
-    "questionText": "All planets have satellites except:   (JAMB 2010)",
+    "questionText": "All planets have satellites except:",
     "options": [
       "Earth & Venus",
       "Mars & Mercury",
@@ -3373,7 +3373,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-18-188",
-    "questionText": "Igneous rocks are rocks formed by (JAMB 2014)",
+    "questionText": "Igneous rocks are rocks formed by",
     "options": [
       "The cooling of molten minerals from a liquid into a solid.",
       "The change of minerals from a solid into a liquid",
@@ -3385,7 +3385,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-19-102",
-    "questionText": "When the moon comes in between the earth and the sun in a perfect straight line, it is known as (JAMB 2010)",
+    "questionText": "When the moon comes in between the earth and the sun in a perfect straight line, it is known as",
     "options": [
       "Eclipse of the moon",
       "Lunar eclipse",
@@ -3397,7 +3397,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-20-242",
-    "questionText": "What is the average gradient of the slope marked G-H? (JAMB 2016)",
+    "questionText": "What is the average gradient of the slope marked G-H?",
     "options": [
       "01:34",
       "01:40",
@@ -3409,7 +3409,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-21-105",
-    "questionText": "Large masswa of moving ice in the oceans are   (JAMB 2010)",
+    "questionText": "Large masswa of moving ice in the oceans are",
     "options": [
       "glacier",
       "iceberg",
@@ -3421,7 +3421,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-22-245",
-    "questionText": "What is the size, in square kilometers of the area covered by the map? (JAMB 2016)",
+    "questionText": "What is the size, in square kilometers of the area covered by the map?",
     "options": [
       "58.0 sqkm",
       "64.0 sqkm",
@@ -3433,7 +3433,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-23-346",
-    "questionText": "Which of these hazards would likely result directly from deforestation? (JAMB 2018)",
+    "questionText": "Which of these hazards would likely result directly from deforestation?",
     "options": [
       "Soil erosion",
       "Mass wasting",
@@ -3445,7 +3445,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-24-369",
-    "questionText": "Station Y is located in the Northern Hemisphere because the (JAMB 2019)",
+    "questionText": "Station Y is located in the Northern Hemisphere because the",
     "options": [
       "Highest rainfall is in August",
       "Annual range of temperature is 9.4°C",
@@ -3457,7 +3457,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-25-393",
-    "questionText": "Economic activities in Tropical Africa largely depends on (JAMB 2019)",
+    "questionText": "Economic activities in Tropical Africa largely depends on",
     "options": [
       "Secondary production",
       "Quaternary is located",
@@ -3469,7 +3469,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-26-361",
-    "questionText": "Examples of folded structures in Africa include the Atlas Mountains, the Cape Ranges and the (JAMB 2019)",
+    "questionText": "Examples of folded structures in Africa include the Atlas Mountains, the Cape Ranges and the",
     "options": [
       "Jos Plateau",
       "Akwapim Hills",
@@ -3481,7 +3481,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-27-234",
-    "questionText": "Crude oil is ------------  rock mineral    (JAMB 2014)",
+    "questionText": "Crude oil is ------------  rock mineral",
     "options": [
       "An igneous",
       "A sedimentary",
@@ -3493,7 +3493,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-28-60",
-    "questionText": "Which one of the following seas has highest degree of salinity in the world?   (JAMB 2008)",
+    "questionText": "Which one of the following seas has highest degree of salinity in the world?",
     "options": [
       "Caspian sea",
       "Mediterranean sea",
@@ -3505,7 +3505,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-29-422",
-    "questionText": "The diagram is a (JAMB 2020)",
+    "questionText": "The diagram is a",
     "options": [
       "Bar graph",
       "Proportion graph",
@@ -3517,7 +3517,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-30-223",
-    "questionText": "To obtain the climate of a place the average atmospheric weather conditions should be considered  (JAMB 2014)",
+    "questionText": "To obtain the climate of a place the average atmospheric weather conditions should be considered",
     "options": [
       "20years",
       "24years",
@@ -3529,7 +3529,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-31-376",
-    "questionText": "Time, as a factor of soil formation, influences mainly soil (JAMB 2019)",
+    "questionText": "Time, as a factor of soil formation, influences mainly soil",
     "options": [
       "Nutrients",
       "Texture",
@@ -3541,7 +3541,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-32-418",
-    "questionText": "The most common tree in th desert is the (JAMB 2020)",
+    "questionText": "The most common tree in th desert is the",
     "options": [
       "Larch",
       "Date",
@@ -3553,7 +3553,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-33-303",
-    "questionText": "The fishing industry in the Mediterranean Sea is Best accounted for by the fact that (JAMB 2017)",
+    "questionText": "The fishing industry in the Mediterranean Sea is Best accounted for by the fact that",
     "options": [
       "The coastal dwellers are fishermen",
       "Fishing is an old industry in the basin",
@@ -3565,7 +3565,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-34-237",
-    "questionText": "Which of these is a textual classification of soils? (JAMB 2016)",
+    "questionText": "Which of these is a textual classification of soils?",
     "options": [
       "Rounded, Irregular, and Flat",
       "Angular, Prismatic and Columnar",
@@ -3577,7 +3577,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-35-308",
-    "questionText": "Which of the following statement distinguishes Koppen's Am from his AF climate? (JAMB 2017)",
+    "questionText": "Which of the following statement distinguishes Koppen's Am from his AF climate?",
     "options": [
       "Shorter frost season",
       "Rainfall greater than 2000mm",
@@ -3589,7 +3589,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-36-82",
-    "questionText": "The major world exports of wool are   (JAMB 2009)",
+    "questionText": "The major world exports of wool are",
     "options": [
       "Britain, Australia, Mediterranean Europe and Argentina",
       "New Zealand, Uruguay, Australia and Argentina",
@@ -3601,7 +3601,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-37-68",
-    "questionText": "Which of the following is not a true feature produced by volcanic activity?  (JAMB 2008)",
+    "questionText": "Which of the following is not a true feature produced by volcanic activity?",
     "options": [
       "horst",
       "caldera",
@@ -3613,7 +3613,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-38-387",
-    "questionText": "Sugar plantations in Africa are most likely developed in the lowlands of  (JAMB 2019)",
+    "questionText": "Sugar plantations in Africa are most likely developed in the lowlands of",
     "options": [
       "Coast and Mozambique",
       "The mediterranean seaboard and the Guinea coast",
@@ -3625,7 +3625,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-39-363",
-    "questionText": "The bearing, to the nearest degree, of the mosque in Amagu settlement from the middle of the bridge across the River Zogo is (JAMB 2019)",
+    "questionText": "The bearing, to the nearest degree, of the mosque in Amagu settlement from the middle of the bridge across the River Zogo is",
     "options": [
       "41°",
       "51°",
@@ -3637,7 +3637,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-40-210",
-    "questionText": "Which one of the following countries is having the highest quality of life?  (JAMB 2014)",
+    "questionText": "Which one of the following countries is having the highest quality of life?",
     "options": [
       "Sweden",
       "Austria",
@@ -3649,7 +3649,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-41-186",
-    "questionText": "The shaduf method of irrigation was first practiced in (JAMB 2013)",
+    "questionText": "The shaduf method of irrigation was first practiced in",
     "options": [
       "Sudan",
       "Ghana",
@@ -3661,7 +3661,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-42-415",
-    "questionText": "The process by which materials are physically transferred from one soil layer to another is called? (JAMB 2020)",
+    "questionText": "The process by which materials are physically transferred from one soil layer to another is called?",
     "options": [
       "Eluviation",
       "Illuviation",
@@ -3673,7 +3673,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-43-33",
-    "questionText": "The thermometric scale usually employed to described the absolute temperature of the atmosphere is   (JAMB 2007)",
+    "questionText": "The thermometric scale usually employed to described the absolute temperature of the atmosphere is",
     "options": [
       "Centigrade",
       "Celsius",
@@ -3685,7 +3685,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-44-90",
-    "questionText": "Which of the following is not the Karst features?  (JAMB 2010)",
+    "questionText": "Which of the following is not the Karst features?",
     "options": [
       "Poljes",
       "Uvala",
@@ -3697,7 +3697,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-45-167",
-    "questionText": "Which of the following is a feature  of a rejuvenated river? (JAMB 2013)",
+    "questionText": "Which of the following is a feature  of a rejuvenated river?",
     "options": [
       "Incised meanders",
       "Braided channel",
@@ -3709,7 +3709,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-46-320",
-    "questionText": "The bearing of Jata from Adaba is approximately (JAMB 2018)",
+    "questionText": "The bearing of Jata from Adaba is approximately",
     "options": [
       "29°",
       "17°",
@@ -3721,7 +3721,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-47-285",
-    "questionText": "The major human activity in the area is probably (JAMB 2017)",
+    "questionText": "The major human activity in the area is probably",
     "options": [
       "Fishing",
       "Farming",
@@ -3733,7 +3733,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-48-409",
-    "questionText": "The progressive widening of joints and cracks in limestone by solutions, initially lead to the formation of  (JAMB 2020)",
+    "questionText": "The progressive widening of joints and cracks in limestone by solutions, initially lead to the formation of",
     "options": [
       "Cliff and dry valleys",
       "Caves and caverns",
@@ -3745,7 +3745,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-49-222",
-    "questionText": "Planet warming the use of water transport is limited by all the following except   (JAMB 2014)",
+    "questionText": "Planet warming the use of water transport is limited by all the following except",
     "options": [
       "Wide valleys",
       "Waterfalls",
@@ -3757,7 +3757,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-50-340",
-    "questionText": "Lakes Kivu and Malawi are related in that they (JAMB 2018)",
+    "questionText": "Lakes Kivu and Malawi are related in that they",
     "options": [
       "Lie in the Northern Hemisphere",
       "Are crater lakes",
@@ -3769,7 +3769,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-51-421",
-    "questionText": "The most important determinants of air temprature of a region are (JAMB 2020)",
+    "questionText": "The most important determinants of air temprature of a region are",
     "options": [
       "Latitude and altitude",
       "Evaporationa and sunshine hours",
@@ -3781,7 +3781,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-52-331",
-    "questionText": "Which of the following countries has the least potential for the production of steel? (JAMB 2018)",
+    "questionText": "Which of the following countries has the least potential for the production of steel?",
     "options": [
       "India",
       "Cuba",
@@ -3793,7 +3793,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-53-59",
-    "questionText": "The cloud which are white globular masses, forming ripples in the sky is called  (JAMB 2008)",
+    "questionText": "The cloud which are white globular masses, forming ripples in the sky is called",
     "options": [
       "Citrus",
       "Cirrocumulus",
@@ -3805,7 +3805,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-54-388",
-    "questionText": "Open cast mining often leads to the  (JAMB 2019)",
+    "questionText": "Open cast mining often leads to the",
     "options": [
       "Extinction of animals",
       "Degradation of the topsoil",
@@ -3817,7 +3817,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-55-99",
-    "questionText": "The cloud which is closely associated with thunderstorms is   (JAMB 2010)",
+    "questionText": "The cloud which is closely associated with thunderstorms is",
     "options": [
       "strato-cumulus",
       "Cirrocumulus",
@@ -3829,7 +3829,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-56-76",
-    "questionText": "Which of the following timber trees are found in the tropical rain forest of Africa?  (JAMB 2009)",
+    "questionText": "Which of the following timber trees are found in the tropical rain forest of Africa?",
     "options": [
       "Obeche and teak",
       "Mahogany and teak",
@@ -3841,7 +3841,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-57-401",
-    "questionText": "Which of the following areas is subjected to frequent earthquakes (JAMB 2020)",
+    "questionText": "Which of the following areas is subjected to frequent earthquakes",
     "options": [
       "South Africa",
       "The Sahara Desert",
@@ -3853,7 +3853,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-58-300",
-    "questionText": "Which of the following soil types favours the growth of cocoa in Nigeria? (JAMB 2017)",
+    "questionText": "Which of the following soil types favours the growth of cocoa in Nigeria?",
     "options": [
       "Regosols",
       "Vertisols",
@@ -3865,7 +3865,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-59-374",
-    "questionText": "Urban settlements in West Africa function mainly as (JAMB 2019)",
+    "questionText": "Urban settlements in West Africa function mainly as",
     "options": [
       "Cultural and religious centres",
       "Market towns and commercial centres",
@@ -3877,7 +3877,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-60-295",
-    "questionText": "The world's richest fishing grounds are to be found (JAMB 2017)",
+    "questionText": "The world's richest fishing grounds are to be found",
     "options": [
       "On the deep sea platforms",
       "In coral seas",
@@ -3889,7 +3889,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-61-263",
-    "questionText": "International agreements in the fishing industry are necessary in order to protect whale and seal from (JAMB 2016)",
+    "questionText": "International agreements in the fishing industry are necessary in order to protect whale and seal from",
     "options": [
       "Sea Piracy",
       "Sea accident",
@@ -3901,7 +3901,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-62-221",
-    "questionText": "A piece of land almost surrounded by water is called  (JAMB 2014)",
+    "questionText": "A piece of land almost surrounded by water is called",
     "options": [
       "Headland",
       "Peninsula",
@@ -3913,7 +3913,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-63-81",
-    "questionText": "The scientist who propounded the theory of continental drift was?   (JAMB 2009)",
+    "questionText": "The scientist who propounded the theory of continental drift was?",
     "options": [
       "Francis bacon",
       "Alfred Wegener",
@@ -3925,7 +3925,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-64-154",
-    "questionText": "Which of the following landforms result from wind deposition?  (JAMB 2012)",
+    "questionText": "Which of the following landforms result from wind deposition?",
     "options": [
       "Playa",
       "Barchan",
@@ -3937,7 +3937,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-65-414",
-    "questionText": "In what order do the following occur from the surface to the bottom of an oil well? (JAMB 2020)",
+    "questionText": "In what order do the following occur from the surface to the bottom of an oil well?",
     "options": [
       "Gas, water, oil",
       "Gas, oil, water",
@@ -3949,7 +3949,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-66-184",
-    "questionText": "The cheapest means of transport for a long distance travel is by    (JAMB 2013)",
+    "questionText": "The cheapest means of transport for a long distance travel is by",
     "options": [
       "Air",
       "Rail",
@@ -3961,7 +3961,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-67-255",
-    "questionText": "The Ocean currents marked X and Y are the (JAMB 2016)",
+    "questionText": "The Ocean currents marked X and Y are the",
     "options": [
       "Cold Shara Current and cold Namibian current",
       "Cool canaries current and cool Banguela current",
@@ -3973,7 +3973,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171436-68-207",
-    "questionText": "Nigeria lies between (JAMB 2014)",
+    "questionText": "Nigeria lies between",
     "options": [
       "Latitudes 4° and 13°N and longitudes 2° and 15°E.",
       "Latitudes 5° and 14°N and longitudes 4° and 15°E.",
@@ -3985,7 +3985,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-69-343",
-    "questionText": "If the distance between two places on a map is 2cm while the distance on land is 4km, the scale of the map is (JAMB 2018)",
+    "questionText": "If the distance between two places on a map is 2cm while the distance on land is 4km, the scale of the map is",
     "options": [
       "1:100,000",
       "1:200,000",
@@ -3997,7 +3997,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-70-325",
-    "questionText": "Along which latitude will the day time be the longest on Christmas day? (JAMB 2018)",
+    "questionText": "Along which latitude will the day time be the longest on Christmas day?",
     "options": [
       "0°",
       "45°S",
@@ -4009,7 +4009,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-71-10",
-    "questionText": "One example of inland drainage lake in  Africa is   (JAMB 2006)",
+    "questionText": "One example of inland drainage lake in  Africa is",
     "options": [
       "Lake Chad",
       "Lake Victoria",
@@ -4021,7 +4021,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-72-276",
-    "questionText": "The Nigerian river with the longest distance of internal waterways is  (JAMB 2016)",
+    "questionText": "The Nigerian river with the longest distance of internal waterways is",
     "options": [
       "Cross River",
       "River Benue",
@@ -4033,7 +4033,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-73-293",
-    "questionText": "Which is not exported by the Republic of South Africa? (JAMB 2017)",
+    "questionText": "Which is not exported by the Republic of South Africa?",
     "options": [
       "Wheat",
       "Maize",
@@ -4045,7 +4045,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-74-310",
-    "questionText": "One of the tertiary services in an urban centre is  (JAMB 2017)",
+    "questionText": "One of the tertiary services in an urban centre is",
     "options": [
       "Petrol retailing",
       "Car assembling",
@@ -4057,7 +4057,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-75-141",
-    "questionText": "Environmental lapse rate is   (JAMB 2012)",
+    "questionText": "Environmental lapse rate is",
     "options": [
       "The rate of temperature changes of an air parcel undergoing vertical displacement",
       "The rate of temperature decrease of an air parcel undergoing horizontal displacement",
@@ -4069,7 +4069,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-76-149",
-    "questionText": "Which of the following is a not characteristic of the International Date Line?  (JAMB 2012)",
+    "questionText": "Which of the following is a not characteristic of the International Date Line?",
     "options": [
       "The Line is approximately along the 1800 meridian",
       "The line has a zigzag shape",
@@ -4081,7 +4081,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-77-429",
-    "questionText": "A boat building industry is least likely to be situated in (JAMB 2020)",
+    "questionText": "A boat building industry is least likely to be situated in",
     "options": [
       "Kano state",
       "Kebbi state",
@@ -4093,7 +4093,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-78-219",
-    "questionText": "Wind erosion is most common in  (JAMB 2014)",
+    "questionText": "Wind erosion is most common in",
     "options": [
       "Rocky areas",
       "Riverine areas",
@@ -4105,7 +4105,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-79-8",
-    "questionText": " Which of these does not lie in the principal earthquake region of the world?  (JAMB 2006)",
+    "questionText": " Which of these does not lie in the principal earthquake region of the world?",
     "options": [
       "Japan",
       "Kenya",
@@ -4117,7 +4117,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-80-20",
-    "questionText": "The major sedimentary minerals found in Nigeria include:   (JAMB 2006)",
+    "questionText": "The major sedimentary minerals found in Nigeria include:",
     "options": [
       "tin, columbite and gold",
       "tin, coal and salt",
@@ -4129,7 +4129,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-81-151",
-    "questionText": "Ferrel’s law states that winds deflect to the   (JAMB 2012)",
+    "questionText": "Ferrel’s law states that winds deflect to the",
     "options": [
       "Left in the northern",
       "Right in the Northern hemisphere and to the left in the Southern hemisphere",
@@ -4141,7 +4141,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-82-316",
-    "questionText": "A weather element controlled mainly by latitude is (JAMB 2017)",
+    "questionText": "A weather element controlled mainly by latitude is",
     "options": [
       "Humidity",
       "Cloud cover",
@@ -4153,7 +4153,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-83-281",
-    "questionText": "Tourists are attracted to the East African countries of Kenya and Tanzania mainly by the (JAMB 2017)",
+    "questionText": "Tourists are attracted to the East African countries of Kenya and Tanzania mainly by the",
     "options": [
       "Famous political leaders",
       "Rich wildlife of the park grasslands",
@@ -4165,7 +4165,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-84-163",
-    "questionText": "Which of the following countries in Africa would a person NOT pass over by crow fly (direct distance) from Abidjan to Cairo?   (JAMB 2013)",
+    "questionText": "Which of the following countries in Africa would a person NOT pass over by crow fly (direct distance) from Abidjan to Cairo?",
     "options": [
       "Niger",
       "Libya",
@@ -4177,7 +4177,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-85-130",
-    "questionText": "Orographic rainfall is also called  (JAMB 2011)",
+    "questionText": "Orographic rainfall is also called",
     "options": [
       "Relief rainfall",
       "cyclonic rainfall",
@@ -4189,7 +4189,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-86-200",
-    "questionText": "A lake is a:    (JAMB 2014)",
+    "questionText": "A lake is a:",
     "options": [
       "Large body of water surrounded by forest.",
       "Large body of water surrounded by land.",
@@ -4201,7 +4201,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-87-407",
-    "questionText": "U and V are two places along the same Meridian on latitude 20°N and 25°N respectively. The shortest distance between the two places is approximately (JAMB 2020)",
+    "questionText": "U and V are two places along the same Meridian on latitude 20°N and 25°N respectively. The shortest distance between the two places is approximately",
     "options": [
       "560km",
       "680km",
@@ -4213,7 +4213,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-88-337",
-    "questionText": "Fluid, basic lava flow is likely to give rise to a volcanic (JAMB 2018)",
+    "questionText": "Fluid, basic lava flow is likely to give rise to a volcanic",
     "options": [
       "Cinder",
       "Saddle reef",
@@ -4225,7 +4225,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-89-14",
-    "questionText": "The major air mass affecting the climate of West Africa in summer is the   (JAMB 2006)",
+    "questionText": "The major air mass affecting the climate of West Africa in summer is the",
     "options": [
       "harmattan wind",
       "tropical continental",
@@ -4237,7 +4237,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-90-385",
-    "questionText": "During winter, the Eskimos live in (JAMB 2019)",
+    "questionText": "During winter, the Eskimos live in",
     "options": [
       "Tunnels",
       "Igloos",
@@ -4249,7 +4249,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-91-205",
-    "questionText": "One major societal issues in Nigeria is:  (JAMB 2014)",
+    "questionText": "One major societal issues in Nigeria is:",
     "options": [
       "Poor feeding.",
       "Poor human rights",
@@ -4261,7 +4261,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-92-192",
-    "questionText": "Isobar refers to:  (JAMB 2014)",
+    "questionText": "Isobar refers to:",
     "options": [
       "Line that connects points of equal humidity.",
       "Line that connects points of equal rainfall.",
@@ -4273,7 +4273,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-93-339",
-    "questionText": "One basic mineral that is common to Sokoto, Ewekoro, Calabar, and Nkalagu is  (JAMB 2018)",
+    "questionText": "One basic mineral that is common to Sokoto, Ewekoro, Calabar, and Nkalagu is",
     "options": [
       "Gypsum",
       "Coal",
@@ -4285,7 +4285,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-94-31",
-    "questionText": "Which of the ocean currents is classified as cool?   (JAMB 2007)",
+    "questionText": "Which of the ocean currents is classified as cool?",
     "options": [
       "Benguela",
       "Kuro Siwo",
@@ -4297,7 +4297,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-95-134",
-    "questionText": "What is the local standard time in New York (750W) when it is 2pm in Accra?  (JAMB 2011)",
+    "questionText": "What is the local standard time in New York (750W) when it is 2pm in Accra?",
     "options": [
       "9.00pm",
       "9.00 pm",
@@ -4309,7 +4309,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-96-29",
-    "questionText": "Most of the industries located in rural areas are   (JAMB 2007)",
+    "questionText": "Most of the industries located in rural areas are",
     "options": [
       "low energy consumers",
       "high energy consumers",
@@ -4321,7 +4321,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171437-97-43",
-    "questionText": "Which of the following is not correct with regards to the solar system?   (JAMB 2007)",
+    "questionText": "Which of the following is not correct with regards to the solar system?",
     "options": [
       "The planets all orbit round the sun",
       "The sun is only a source of the energy needed on the planets",
@@ -4333,7 +4333,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-98-333",
-    "questionText": "The most important minerals found in the area marked X are (JAMB 2018)",
+    "questionText": "The most important minerals found in the area marked X are",
     "options": [
       "Lead and Zinc",
       "Tin and Columbite",
@@ -4345,7 +4345,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-99-194",
-    "questionText": "Lesotho is in:  (JAMB 2014)",
+    "questionText": "Lesotho is in:",
     "options": [
       "South Africa",
       "West Africa.",
@@ -4357,7 +4357,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-100-86",
-    "questionText": "The highest volume of shipping across the Atlantic ocean is   (JAMB 2009)",
+    "questionText": "The highest volume of shipping across the Atlantic ocean is",
     "options": [
       "between Europe and Africa",
       "between North America and Europe",
@@ -4369,7 +4369,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-101-432",
-    "questionText": "The growth rate of population is determined by (JAMB 2020)",
+    "questionText": "The growth rate of population is determined by",
     "options": [
       "Birth and death rate",
       "Technological know-how",
@@ -4381,7 +4381,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-102-9",
-    "questionText": "Which  of   these  soil  groups  is  considered   the  most  productive?    (JAMB 2006)",
+    "questionText": "Which  of   these  soil  groups  is  considered   the  most  productive?",
     "options": [
       "Chernozems",
       "Latosols",
@@ -4393,7 +4393,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-103-71",
-    "questionText": "When it is 1200 noon on longitude 300E. What is the time on longitude 150W.   (JAMB 2008)",
+    "questionText": "When it is 1200 noon on longitude 300E. What is the time on longitude 150W.",
     "options": [
       "9.00 a.m.",
       "5.00 p.m.",
@@ -4405,7 +4405,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-104-352",
-    "questionText": "A type of landforms that is associated with large scale orogeny is a (JAMB 2018)",
+    "questionText": "A type of landforms that is associated with large scale orogeny is a",
     "options": [
       "Fold mountain",
       "Residual mountain",
@@ -4417,7 +4417,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-105-351",
-    "questionText": "The greatest volcanic regions of Africa are found in  (JAMB 2018)",
+    "questionText": "The greatest volcanic regions of Africa are found in",
     "options": [
       "The Maghrib",
       "Kenya and Tanzania",
@@ -4429,7 +4429,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-106-373",
-    "questionText": "Which of the following represents tha cheapest mode of transportation (JAMB 2019)",
+    "questionText": "Which of the following represents tha cheapest mode of transportation",
     "options": [
       "Air",
       "Rail",
@@ -4441,7 +4441,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-107-248",
-    "questionText": "Nigeria is the world's leading producer of  (JAMB 2016)",
+    "questionText": "Nigeria is the world's leading producer of",
     "options": [
       "Columbite",
       "Palm Kernel",
@@ -4453,7 +4453,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-108-298",
-    "questionText": "When it is 12.00 noon on longitude 30°W local time on longitude 75°E (JAMB 2017)",
+    "questionText": "When it is 12.00 noon on longitude 30°W local time on longitude 75°E",
     "options": [
       "7.00pm",
       "5.00am",
@@ -4465,7 +4465,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-109-434",
-    "questionText": "Which of the following farming system is likely to give rise to nucleated settlements? (JAMB 2020)",
+    "questionText": "Which of the following farming system is likely to give rise to nucleated settlements?",
     "options": [
       "Irrigation farming",
       "Subsistence farming",
@@ -4477,7 +4477,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-110-428",
-    "questionText": "An example of a calcareous rock is (JAMB 2020)",
+    "questionText": "An example of a calcareous rock is",
     "options": [
       "Granite",
       "Limestone",
@@ -4489,7 +4489,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-111-181",
-    "questionText": "Which of the following terms is not associated with desert-type topography? (JAMB 2013)",
+    "questionText": "Which of the following terms is not associated with desert-type topography?",
     "options": [
       "Zuegen",
       "Yardang",
@@ -4501,7 +4501,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-112-34",
-    "questionText": "If the temperature at sea level in a particular place is 200C, place 3500m above sea level in the same area will have a temperature of   (JAMB 2007)",
+    "questionText": "If the temperature at sea level in a particular place is 200C, place 3500m above sea level in the same area will have a temperature of",
     "options": [
       "- 2.750C",
       "2.250C",
@@ -4513,7 +4513,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-113-262",
-    "questionText": "The area served by a given city is referred to as its (JAMB 2016)",
+    "questionText": "The area served by a given city is referred to as its",
     "options": [
       "Territory",
       "Sphere of influence",
@@ -4525,7 +4525,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-114-359",
-    "questionText": "Which of the following is a correct pair? (JAMB 2019)",
+    "questionText": "Which of the following is a correct pair?",
     "options": [
       "River/Cut-off",
       "Glacier/Erratic boulder",
@@ -4537,7 +4537,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-115-80",
-    "questionText": "Rural settlements can be distinguished from urban settlements by their?   (JAMB 2009)",
+    "questionText": "Rural settlements can be distinguished from urban settlements by their?",
     "options": [
       "function and population",
       "Site and function",
@@ -4549,7 +4549,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-116-243",
-    "questionText": "Name the features crossed by the footpath between points Y and Z (JAMB 2016)",
+    "questionText": "Name the features crossed by the footpath between points Y and Z",
     "options": [
       "Spur",
       "Gorge",
@@ -4561,7 +4561,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-117-332",
-    "questionText": "In which of the following countries is cotton growing under irrigation the mainstay of the agricultural economy? (JAMB 2018)",
+    "questionText": "In which of the following countries is cotton growing under irrigation the mainstay of the agricultural economy?",
     "options": [
       "Zimbabwe",
       "Uganda",
@@ -4573,7 +4573,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-118-350",
-    "questionText": "A desert country which has a high population density supported by irrigation is (JAMB 2018)",
+    "questionText": "A desert country which has a high population density supported by irrigation is",
     "options": [
       "Niger",
       "Egypt",
@@ -4585,7 +4585,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-119-100",
-    "questionText": "Drought-tolerant plants are   (JAMB 2010)",
+    "questionText": "Drought-tolerant plants are",
     "options": [
       "Epiphytes",
       "Hydrophytes",
@@ -4597,7 +4597,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-120-5",
-    "questionText": "Which of the following statements is not true for lines of latitude?   (JAMB 2006)",
+    "questionText": "Which of the following statements is not true for lines of latitude?",
     "options": [
       "they form parallel circles",
       "they range from 00 to 1800 N and S",
@@ -4609,7 +4609,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-121-372",
-    "questionText": "Which of the following observation can be inferred from the table above, which shows the hydro-electric power (HEP) development in some selected countries? (JAMB 2019)",
+    "questionText": "Which of the following observation can be inferred from the table above, which shows the hydro-electric power (HEP) development in some selected countries?",
     "options": [
       "Power from hydro-electricity is cheaper than power from other sources",
       "More factories use HEP in Brazil than in Switzerland",
@@ -4621,7 +4621,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-122-160",
-    "questionText": "In humid areas, farmers add lime to the soil to   (JAMB 2012)",
+    "questionText": "In humid areas, farmers add lime to the soil to",
     "options": [
       "reduce acidity",
       "Act as fertilizer",
@@ -4633,7 +4633,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-123-329",
-    "questionText": "The annual temperature range at the station is (JAMB 2018)",
+    "questionText": "The annual temperature range at the station is",
     "options": [
       "20°C",
       "30°C",
@@ -4645,7 +4645,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-124-17",
-    "questionText": "What are greenhouse gasses?   (JAMB 2006)",
+    "questionText": "What are greenhouse gasses?",
     "options": [
       "Gases found around green houses in botanical gardens",
       "Gases which are able to trap heat on the earth surface",
@@ -4657,7 +4657,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-125-169",
-    "questionText": "Which of the following is not a form of condensation?   (JAMB 2013)",
+    "questionText": "Which of the following is not a form of condensation?",
     "options": [
       "Snow",
       "Rime",
@@ -4669,7 +4669,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-126-341",
-    "questionText": "The feature marked X in the diagram is a (JAMB 2018)",
+    "questionText": "The feature marked X in the diagram is a",
     "options": [
       "Spit",
       "Stack",
@@ -4681,7 +4681,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-127-109",
-    "questionText": "In general, temperature decreases from the equator towards the Poles because   (JAMB 2010)",
+    "questionText": "In general, temperature decreases from the equator towards the Poles because",
     "options": [
       "angle of incidence of sun’s rays increases towards the poles",
       "angles of incidence sun’s rays decreases towards the poles",
@@ -4693,7 +4693,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-128-270",
-    "questionText": "The proportion of the earth's surface occupied by ocean is approximately (JAMB 2016)",
+    "questionText": "The proportion of the earth's surface occupied by ocean is approximately",
     "options": [
       "97%",
       "77%",
@@ -4705,7 +4705,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-129-136",
-    "questionText": "Which of the following landforms is the results of  river rejuvenated?   (JAMB 2011)",
+    "questionText": "Which of the following landforms is the results of  river rejuvenated?",
     "options": [
       "Ox-box lake",
       "flood plain",
@@ -4717,7 +4717,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-130-406",
-    "questionText": "Urban centres originate mainly as a zone of  (JAMB 2020)",
+    "questionText": "Urban centres originate mainly as a zone of",
     "options": [
       "Tourist attraction",
       "Non-primary economic activity",
@@ -4729,7 +4729,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-131-367",
-    "questionText": "The pair of countries which has the largest area of coniferous forest in the world is made up of Canada and (JAMB 2019)",
+    "questionText": "The pair of countries which has the largest area of coniferous forest in the world is made up of Canada and",
     "options": [
       "The U.S.A",
       "New Zealand",
@@ -4741,7 +4741,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-132-78",
-    "questionText": "Which of these economic activities is LEAST characteristics of typical urban centres?   (JAMB 2009)",
+    "questionText": "Which of these economic activities is LEAST characteristics of typical urban centres?",
     "options": [
       "Commerce",
       "quarrying",
@@ -4753,7 +4753,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-133-358",
-    "questionText": "Bamboo and mahogany, liana and obeche, raphia and tree ferns. In which vegetation type are all these found? (JAMB 2019)",
+    "questionText": "Bamboo and mahogany, liana and obeche, raphia and tree ferns. In which vegetation type are all these found?",
     "options": [
       "Coniferous forest",
       "Tropical monsoon",
@@ -4765,7 +4765,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-134-254",
-    "questionText": "The above diagram shows the position of the Earth in relation to the sun on June 21st. The earth's axis is inclined from the vertical at an angle of (JAMB 2016)",
+    "questionText": "The above diagram shows the position of the Earth in relation to the sun on June 21st. The earth's axis is inclined from the vertical at an angle of",
     "options": [
       "86 1/2",
       "66 1/2",
@@ -4777,7 +4777,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-135-260",
-    "questionText": "The port that specializes in receiving and re-exporting goods is known as (JAMB 2016)",
+    "questionText": "The port that specializes in receiving and re-exporting goods is known as",
     "options": [
       "Entrepot",
       "International port",
@@ -4789,7 +4789,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-136-307",
-    "questionText": "The most urbanzied part of Nigeria is the (JAMB 2017)",
+    "questionText": "The most urbanzied part of Nigeria is the",
     "options": [
       "Middle-belt",
       "South-east",
@@ -4801,7 +4801,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-137-258",
-    "questionText": "The leading wheat producing region of the world is the (JAMB 2016)",
+    "questionText": "The leading wheat producing region of the world is the",
     "options": [
       "Veldt of South Africa",
       "Downs of Australia",
@@ -4813,7 +4813,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-138-26",
-    "questionText": "The port that handle the highest volume of cocoa export in Nigeria is   (JAMB 2007)",
+    "questionText": "The port that handle the highest volume of cocoa export in Nigeria is",
     "options": [
       "Sapele",
       "Warri",
@@ -4825,7 +4825,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-139-211",
-    "questionText": "Nairobi is a:  (JAMB 2014)",
+    "questionText": "Nairobi is a:",
     "options": [
       "North African City",
       "West African City",
@@ -4837,7 +4837,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-140-201",
-    "questionText": "Nigeria is having (JAMB 2014)",
+    "questionText": "Nigeria is having",
     "options": [
       "574 Local Government Areas",
       "674 Local Government Areas.",
@@ -4849,7 +4849,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-141-347",
-    "questionText": "The dominant foreign exchange earner of Senegal is  (JAMB 2018)",
+    "questionText": "The dominant foreign exchange earner of Senegal is",
     "options": [
       "Tourism",
       "Groundnut",
@@ -4861,7 +4861,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-142-246",
-    "questionText": "Which one of the following ports occupies the best natural site in West Africa? (JAMB 2016)",
+    "questionText": "Which one of the following ports occupies the best natural site in West Africa?",
     "options": [
       "Monrovia",
       "Tema",
@@ -4873,7 +4873,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-143-356",
-    "questionText": "The lack of access to food in some parts of the world emanates from (JAMB 2018)",
+    "questionText": "The lack of access to food in some parts of the world emanates from",
     "options": [
       "Educational inequality",
       "Poor transport system",
@@ -4885,7 +4885,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-144-220",
-    "questionText": "The act of graphical representation of places with identified scale and legend is called  (JAMB 2014)",
+    "questionText": "The act of graphical representation of places with identified scale and legend is called",
     "options": [
       "Scaling",
       "Mapping",
@@ -4897,7 +4897,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-145-198",
-    "questionText": "A valley is a:    (JAMB 2014)",
+    "questionText": "A valley is a:",
     "options": [
       "Highland between hills",
       "Lowland between hills",
@@ -4909,7 +4909,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-146-228",
-    "questionText": "Settlements can be classified according to all the following except the    (JAMB 2014)",
+    "questionText": "Settlements can be classified according to all the following except the",
     "options": [
       "The arrangements of the building",
       "Number of people per settlements",
@@ -4921,7 +4921,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-147-226",
-    "questionText": "Precipitation include all the following except  (JAMB 2014)",
+    "questionText": "Precipitation include all the following except",
     "options": [
       "Fog",
       "Snow",
@@ -4933,7 +4933,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-148-6",
-    "questionText": "Large in area and high in population, which of the following countries fits this description? (JAMB 2006)",
+    "questionText": "Large in area and high in population, which of the following countries fits this description?",
     "options": [
       "Lesotho",
       "Togo",
@@ -4945,7 +4945,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-149-176",
-    "questionText": "The tropical maritime air mass attains its maximum incursion over West African hinterlands (JAMB 2013)",
+    "questionText": "The tropical maritime air mass attains its maximum incursion over West African hinterlands",
     "options": [
       "When the sun is overhead on the tropic of Capricorn",
       "When the sun is overhead on the tropic of Cancer",
@@ -4957,7 +4957,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788725171438-150-72",
-    "questionText": "Which of the following Nigerian towns is Not situated near a big river?  (JAMB 2008)",
+    "questionText": "Which of the following Nigerian towns is Not situated near a big river?",
     "options": [
       "Lokoja",
       "Onitsha",
@@ -4969,7 +4969,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-0-35",
-    "questionText": "Which of the following is not a form of precipitation?  (JAMB 2007)",
+    "questionText": "Which of the following is not a form of precipitation?",
     "options": [
       "Dew",
       "Snow",
@@ -4981,7 +4981,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-1-6",
-    "questionText": "Large in area and high in population, which of the following countries fits this description? (JAMB 2006)",
+    "questionText": "Large in area and high in population, which of the following countries fits this description?",
     "options": [
       "Lesotho",
       "Togo",
@@ -4993,7 +4993,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-2-134",
-    "questionText": "What is the local standard time in New York (750W) when it is 2pm in Accra?  (JAMB 2011)",
+    "questionText": "What is the local standard time in New York (750W) when it is 2pm in Accra?",
     "options": [
       "9.00pm",
       "9.00 pm",
@@ -5005,7 +5005,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-3-40",
-    "questionText": "Podsols and laterites share the following characteristics in common, except   (JAMB 2007)",
+    "questionText": "Podsols and laterites share the following characteristics in common, except",
     "options": [
       "infertility",
       "high degree of leaching",
@@ -5017,7 +5017,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-4-350",
-    "questionText": "A desert country which has a high population density supported by irrigation is (JAMB 2018)",
+    "questionText": "A desert country which has a high population density supported by irrigation is",
     "options": [
       "Niger",
       "Egypt",
@@ -5029,7 +5029,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-5-433",
-    "questionText": "A country well known for the production of copper in Africa is (JAMB 2020)",
+    "questionText": "A country well known for the production of copper in Africa is",
     "options": [
       "Egypt",
       "Zambia",
@@ -5041,7 +5041,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-6-96",
-    "questionText": "The best natural harbour in West Africa is at   (JAMB 2010)",
+    "questionText": "The best natural harbour in West Africa is at",
     "options": [
       "Lome",
       "Tema",
@@ -5053,7 +5053,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-7-143",
-    "questionText": "Which of the following States in Nigeria would a person NOT pass over by crow fly (direct distance) from Ibadan to Makurdi?  (JAMB 2012)",
+    "questionText": "Which of the following States in Nigeria would a person NOT pass over by crow fly (direct distance) from Ibadan to Makurdi?",
     "options": [
       "Osun",
       "Ondo",
@@ -5065,7 +5065,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-8-227",
-    "questionText": "The location of iron and steel industry at Ajaokuta in Nigeria is best explained by the presence of  (JAMB 2014)",
+    "questionText": "The location of iron and steel industry at Ajaokuta in Nigeria is best explained by the presence of",
     "options": [
       "Limestone and coal",
       "Iron ore",
@@ -5077,7 +5077,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-9-354",
-    "questionText": "One of the leading industrial nations of the world ranking second in manufacturing output after the USA is  (JAMB 2018)",
+    "questionText": "One of the leading industrial nations of the world ranking second in manufacturing output after the USA is",
     "options": [
       "Germany",
       "Britain",
@@ -5089,7 +5089,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-10-201",
-    "questionText": "Nigeria is having (JAMB 2014)",
+    "questionText": "Nigeria is having",
     "options": [
       "574 Local Government Areas",
       "674 Local Government Areas.",
@@ -5101,7 +5101,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-11-2",
-    "questionText": "Aeolian erosion refers to the work of  (JAMB 2006)",
+    "questionText": "Aeolian erosion refers to the work of",
     "options": [
       "Plants",
       "Wind",
@@ -5113,7 +5113,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-12-170",
-    "questionText": "The surface of discontinuity between the earth’s crust and the mantle is know as (JAMB 2013)",
+    "questionText": "The surface of discontinuity between the earth’s crust and the mantle is know as",
     "options": [
       "Lithosphere",
       "Barysphere",
@@ -5125,7 +5125,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-13-91",
-    "questionText": "The world’s longest river is  (JAMB 2010)",
+    "questionText": "The world’s longest river is",
     "options": [
       "Amazon",
       "Mississippi",
@@ -5137,7 +5137,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-14-257",
-    "questionText": "The above diagram on which the contours are in meters shows a (JAMB 2016)",
+    "questionText": "The above diagram on which the contours are in meters shows a",
     "options": [
       "Knoll",
       "Mesa",
@@ -5149,7 +5149,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-15-53",
-    "questionText": "The East Africa large lakes are together described as   (JAMB 2008)",
+    "questionText": "The East Africa large lakes are together described as",
     "options": [
       "Great Lakes St Lawrence Sea Ways",
       "Rift Valley Lakes",
@@ -5161,7 +5161,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-16-370",
-    "questionText": "The mean temperature of Station Y is  (JAMB 2019)",
+    "questionText": "The mean temperature of Station Y is",
     "options": [
       "27.3°C",
       "31.5°C",
@@ -5173,7 +5173,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-17-300",
-    "questionText": "Which of the following soil types favours the growth of cocoa in Nigeria? (JAMB 2017)",
+    "questionText": "Which of the following soil types favours the growth of cocoa in Nigeria?",
     "options": [
       "Regosols",
       "Vertisols",
@@ -5185,7 +5185,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-18-410",
-    "questionText": "One of the consequences of global increase in the carbon dioxide content of the atmosphere is (JAMB 2020)",
+    "questionText": "One of the consequences of global increase in the carbon dioxide content of the atmosphere is",
     "options": [
       "Reduced visibility",
       "Increasing air pressure",
@@ -5197,7 +5197,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-19-306",
-    "questionText": "Pastoral nomadism was not native to the American Continents or Australia because (JAMB 2017)",
+    "questionText": "Pastoral nomadism was not native to the American Continents or Australia because",
     "options": [
       "The natives were more interested in hunting",
       "Pasture lands were sparse",
@@ -5209,7 +5209,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-20-293",
-    "questionText": "Which is not exported by the Republic of South Africa? (JAMB 2017)",
+    "questionText": "Which is not exported by the Republic of South Africa?",
     "options": [
       "Wheat",
       "Maize",
@@ -5221,7 +5221,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-21-198",
-    "questionText": "A valley is a:    (JAMB 2014)",
+    "questionText": "A valley is a:",
     "options": [
       "Highland between hills",
       "Lowland between hills",
@@ -5233,7 +5233,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-22-90",
-    "questionText": "Which of the following is not the Karst features?  (JAMB 2010)",
+    "questionText": "Which of the following is not the Karst features?",
     "options": [
       "Poljes",
       "Uvala",
@@ -5245,7 +5245,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-23-50",
-    "questionText": "Global Positioning Systems (GPS) help in   (JAMB 2008)",
+    "questionText": "Global Positioning Systems (GPS) help in",
     "options": [
       "combating crime",
       "providing early warning against disasters",
@@ -5257,7 +5257,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-24-26",
-    "questionText": "The port that handle the highest volume of cocoa export in Nigeria is   (JAMB 2007)",
+    "questionText": "The port that handle the highest volume of cocoa export in Nigeria is",
     "options": [
       "Sapele",
       "Warri",
@@ -5269,7 +5269,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-25-103",
-    "questionText": "The earth rotates  (JAMB 2010)",
+    "questionText": "The earth rotates",
     "options": [
       "South East-South West",
       "South West South West",
@@ -5281,7 +5281,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-26-55",
-    "questionText": "South East Asia is noted for its regular experience of   (JAMB 2008)",
+    "questionText": "South East Asia is noted for its regular experience of",
     "options": [
       "hurricane",
       "tornadoes",
@@ -5293,7 +5293,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-27-205",
-    "questionText": "One major societal issues in Nigeria is:  (JAMB 2014)",
+    "questionText": "One major societal issues in Nigeria is:",
     "options": [
       "Poor feeding.",
       "Poor human rights",
@@ -5305,7 +5305,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-28-89",
-    "questionText": "Which of the following location in Nigeria has the least mean annual rainfall total?   (JAMB 2010)",
+    "questionText": "Which of the following location in Nigeria has the least mean annual rainfall total?",
     "options": [
       "Sokoto",
       "Maiduguri",
@@ -5317,7 +5317,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-29-417",
-    "questionText": "The main use of the Abney level in surveying is to determine (JAMB 2020)",
+    "questionText": "The main use of the Abney level in surveying is to determine",
     "options": [
       "Relative location",
       "Spot height",
@@ -5329,7 +5329,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-30-58",
-    "questionText": "On of the following is least important to ocean movement   (JAMB 2008)",
+    "questionText": "On of the following is least important to ocean movement",
     "options": [
       "salinity of the ocean water",
       "temperature of the water",
@@ -5341,7 +5341,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-31-405",
-    "questionText": "Large scale migration of people from one country to another may be explained by all of the following except (JAMB 2020)",
+    "questionText": "Large scale migration of people from one country to another may be explained by all of the following except",
     "options": [
       "Civil war",
       "Drought",
@@ -5353,7 +5353,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-32-65",
-    "questionText": "The statements ‘one cm 2 km can be represented by the ratio of   (JAMB 2008)",
+    "questionText": "The statements ‘one cm 2 km can be represented by the ratio of",
     "options": [
       "1:50,000",
       "1:500,000",
@@ -5365,7 +5365,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-33-7",
-    "questionText": "One of these is NOT a landform in Africa    (JAMB 2006)",
+    "questionText": "One of these is NOT a landform in Africa",
     "options": [
       "Scarp",
       "Inselberg",
@@ -5377,7 +5377,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-34-419",
-    "questionText": "A good example of cuesta landscape in Nigeria is  (JAMB 2020)",
+    "questionText": "A good example of cuesta landscape in Nigeria is",
     "options": [
       "Yoruba Hills",
       "North central highland",
@@ -5389,7 +5389,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-35-160",
-    "questionText": "In humid areas, farmers add lime to the soil to   (JAMB 2012)",
+    "questionText": "In humid areas, farmers add lime to the soil to",
     "options": [
       "reduce acidity",
       "Act as fertilizer",
@@ -5401,7 +5401,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-36-333",
-    "questionText": "The most important minerals found in the area marked X are (JAMB 2018)",
+    "questionText": "The most important minerals found in the area marked X are",
     "options": [
       "Lead and Zinc",
       "Tin and Columbite",
@@ -5413,7 +5413,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-37-77",
-    "questionText": "Which of the following basins has the highest population concentration? the  (JAMB 2009)",
+    "questionText": "Which of the following basins has the highest population concentration? the",
     "options": [
       "Indus",
       "Niger",
@@ -5425,7 +5425,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-38-322",
-    "questionText": "The landform feature at the center of the map can best be described as (JAMB 2018)",
+    "questionText": "The landform feature at the center of the map can best be described as",
     "options": [
       "A flood plain",
       "An erosional",
@@ -5437,7 +5437,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516719-39-221",
-    "questionText": "A piece of land almost surrounded by water is called  (JAMB 2014)",
+    "questionText": "A piece of land almost surrounded by water is called",
     "options": [
       "Headland",
       "Peninsula",
@@ -5449,7 +5449,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-40-426",
-    "questionText": "A feature produced as a result of glacial deposition is (JAMB 2020)",
+    "questionText": "A feature produced as a result of glacial deposition is",
     "options": [
       "An arete",
       "A cirque",
@@ -5461,7 +5461,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-41-49",
-    "questionText": "The Stevenson’s screen is used to keep   (JAMB 2008)",
+    "questionText": "The Stevenson’s screen is used to keep",
     "options": [
       "barometer",
       "thermometers",
@@ -5473,7 +5473,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-42-169",
-    "questionText": "Which of the following is not a form of condensation?   (JAMB 2013)",
+    "questionText": "Which of the following is not a form of condensation?",
     "options": [
       "Snow",
       "Rime",
@@ -5485,7 +5485,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-43-133",
-    "questionText": "The earths rotates through 150C of longitude in   (JAMB 2011)",
+    "questionText": "The earths rotates through 150C of longitude in",
     "options": [
       "24hrs",
       "15hrs",
@@ -5497,7 +5497,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-44-178",
-    "questionText": "Which of the following continents has the largest area with a tropical type of climate? (JAMB 2013)",
+    "questionText": "Which of the following continents has the largest area with a tropical type of climate?",
     "options": [
       "Asia",
       "South America",
@@ -5509,7 +5509,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-45-388",
-    "questionText": "Open cast mining often leads to the  (JAMB 2019)",
+    "questionText": "Open cast mining often leads to the",
     "options": [
       "Extinction of animals",
       "Degradation of the topsoil",
@@ -5521,7 +5521,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-46-364",
-    "questionText": "The feature through which the River Ngu flows ar XX is known as a (JAMB 2019)",
+    "questionText": "The feature through which the River Ngu flows ar XX is known as a",
     "options": [
       "Col",
       "Saddle",
@@ -5533,7 +5533,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-47-79",
-    "questionText": "In Karst region, when several dolines are joined together to form depression, it is known as  (JAMB 2009)",
+    "questionText": "In Karst region, when several dolines are joined together to form depression, it is known as",
     "options": [
       "cave",
       "uvala",
@@ -5545,7 +5545,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-48-295",
-    "questionText": "The world's richest fishing grounds are to be found (JAMB 2017)",
+    "questionText": "The world's richest fishing grounds are to be found",
     "options": [
       "On the deep sea platforms",
       "In coral seas",
@@ -5557,7 +5557,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-49-193",
-    "questionText": "Topographic maps are:  (JAMB 2014)",
+    "questionText": "Topographic maps are:",
     "options": [
       "Representations of features on the Earth's surface",
       "Features on the Earth's surface.",
@@ -5569,7 +5569,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-50-367",
-    "questionText": "The pair of countries which has the largest area of coniferous forest in the world is made up of Canada and (JAMB 2019)",
+    "questionText": "The pair of countries which has the largest area of coniferous forest in the world is made up of Canada and",
     "options": [
       "The U.S.A",
       "New Zealand",
@@ -5581,7 +5581,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-51-246",
-    "questionText": "Which one of the following ports occupies the best natural site in West Africa? (JAMB 2016)",
+    "questionText": "Which one of the following ports occupies the best natural site in West Africa?",
     "options": [
       "Monrovia",
       "Tema",
@@ -5593,7 +5593,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-52-176",
-    "questionText": "The tropical maritime air mass attains its maximum incursion over West African hinterlands (JAMB 2013)",
+    "questionText": "The tropical maritime air mass attains its maximum incursion over West African hinterlands",
     "options": [
       "When the sun is overhead on the tropic of Capricorn",
       "When the sun is overhead on the tropic of Cancer",
@@ -5605,7 +5605,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-53-384",
-    "questionText": "The circulations of the oceans and the atmosphere primarily help to redistribute and equalize globally (JAMB 2019)",
+    "questionText": "The circulations of the oceans and the atmosphere primarily help to redistribute and equalize globally",
     "options": [
       "Oxygen",
       "Fauna",
@@ -5617,7 +5617,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-54-217",
-    "questionText": "Which of the following is an evidence to show that the earth is spherical in shape?  (JAMB 2014)",
+    "questionText": "Which of the following is an evidence to show that the earth is spherical in shape?",
     "options": [
       "Elliptical orbit",
       "Ea th s u ed ho izo",
@@ -5629,7 +5629,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-55-294",
-    "questionText": "Name the feature shown below (JAMB 2017)",
+    "questionText": "Name the feature shown below",
     "options": [
       "Crescent dune",
       "Nunatex",
@@ -5641,7 +5641,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-56-418",
-    "questionText": "The most common tree in th desert is the (JAMB 2020)",
+    "questionText": "The most common tree in th desert is the",
     "options": [
       "Larch",
       "Date",
@@ -5653,7 +5653,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-57-253",
-    "questionText": "What is the approximate height of Manko above the sea level? (JAMB 2016)",
+    "questionText": "What is the approximate height of Manko above the sea level?",
     "options": [
       "30.0 m",
       "12.0m",
@@ -5665,7 +5665,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-58-183",
-    "questionText": "Which of the following landforms originates from Aeolian erosion? (JAMB 2013)",
+    "questionText": "Which of the following landforms originates from Aeolian erosion?",
     "options": [
       "Deflation hollow",
       "Sand dune",
@@ -5677,7 +5677,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-59-379",
-    "questionText": "Which of the following countries can be described as an archipelago? (JAMB 2019)",
+    "questionText": "Which of the following countries can be described as an archipelago?",
     "options": [
       "Cape Verde",
       "Mauritania",
@@ -5689,7 +5689,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-60-311",
-    "questionText": "Which of the following animals is NOT common in the African Savanna? (JAMB 2017)",
+    "questionText": "Which of the following animals is NOT common in the African Savanna?",
     "options": [
       "Gorilla",
       "Lion",
@@ -5701,7 +5701,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-61-239",
-    "questionText": "The circulation of ocean currents is (JAMB 2016)",
+    "questionText": "The circulation of ocean currents is",
     "options": [
       "Clockwise both in the northern hemisphere and clockwise in the Southern",
       "Anticlockwise in the northern hemisphere and clockwise in the southern hemisphere",
@@ -5713,7 +5713,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-62-264",
-    "questionText": "The scientist who propounded the theory of continental drift was (JAMB 2016)",
+    "questionText": "The scientist who propounded the theory of continental drift was",
     "options": [
       "Francis Bacon",
       "William Davis",
@@ -5725,7 +5725,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-63-366",
-    "questionText": "Which of these statements does NOT correctly describe the relationship between settlements and relief in the area? The settlements are (JAMB 2019)",
+    "questionText": "Which of these statements does NOT correctly describe the relationship between settlements and relief in the area? The settlements are",
     "options": [
       "All spring-line settlements",
       "Located mainly in valleys",
@@ -5737,7 +5737,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-64-122",
-    "questionText": "The wearing away of the sides and bottom of a river channel is called  (JAMB 2011)",
+    "questionText": "The wearing away of the sides and bottom of a river channel is called",
     "options": [
       "corrasion",
       "corrosion",
@@ -5749,7 +5749,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-65-429",
-    "questionText": "A boat building industry is least likely to be situated in (JAMB 2020)",
+    "questionText": "A boat building industry is least likely to be situated in",
     "options": [
       "Kano state",
       "Kebbi state",
@@ -5761,7 +5761,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-66-435",
-    "questionText": "The feature utilized by a road to cross a flood plain is called (JAMB 2020)",
+    "questionText": "The feature utilized by a road to cross a flood plain is called",
     "options": [
       "Terrace",
       "A spur",
@@ -5773,7 +5773,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-67-144",
-    "questionText": "The Latitude which marks the limits of the overhead sun’s apparent movement is   (JAMB 2012)",
+    "questionText": "The Latitude which marks the limits of the overhead sun’s apparent movement is",
     "options": [
       "0",
       "66.5",
@@ -5785,7 +5785,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-68-397",
-    "questionText": "If a map at scale of 1:50,000 is reduced by half, what is the scale of the new map? (JAMB 2020)",
+    "questionText": "If a map at scale of 1:50,000 is reduced by half, what is the scale of the new map?",
     "options": [
       "1:100,000",
       "1:750,000",
@@ -5797,7 +5797,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-69-209",
-    "questionText": "Freetown is a:  (JAMB 2014)",
+    "questionText": "Freetown is a:",
     "options": [
       "North African City",
       "West African City",
@@ -5809,7 +5809,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-70-292",
-    "questionText": "The most densely populated city which is also the capital of a county in Africa is (JAMB 2017)",
+    "questionText": "The most densely populated city which is also the capital of a county in Africa is",
     "options": [
       "Cairo",
       "Dakar",
@@ -5821,7 +5821,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-71-72",
-    "questionText": "Which of the following Nigerian towns is Not situated near a big river?  (JAMB 2008)",
+    "questionText": "Which of the following Nigerian towns is Not situated near a big river?",
     "options": [
       "Lokoja",
       "Onitsha",
@@ -5833,7 +5833,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-72-399",
-    "questionText": "Which of the following rocks is composed of the skeletons of microscopic sea plants and animals? (JAMB 2020)",
+    "questionText": "Which of the following rocks is composed of the skeletons of microscopic sea plants and animals?",
     "options": [
       "Granite",
       "Chalk",
@@ -5845,7 +5845,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-73-299",
-    "questionText": "A rift valley can develop given (JAMB 2017)",
+    "questionText": "A rift valley can develop given",
     "options": [
       "Parallel faults and tensional forces",
       "Landslide and slump",
@@ -5857,7 +5857,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-74-153",
-    "questionText": "At the summer solstice (June 21), which of the following latitudes will have the shortest night? (JAMB 2012)",
+    "questionText": "At the summer solstice (June 21), which of the following latitudes will have the shortest night?",
     "options": [
       "30 “N",
       "30 “S",
@@ -5869,7 +5869,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-75-9",
-    "questionText": "Which  of   these  soil  groups  is  considered   the  most  productive?    (JAMB 2006)",
+    "questionText": "Which  of   these  soil  groups  is  considered   the  most  productive?",
     "options": [
       "Chernozems",
       "Latosols",
@@ -5881,7 +5881,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-76-297",
-    "questionText": "In terms of both the area of land cultivated and the volume of production, the most important cereal crop in Nigeria is (JAMB 2017)",
+    "questionText": "In terms of both the area of land cultivated and the volume of production, the most important cereal crop in Nigeria is",
     "options": [
       "Guinea Corn",
       "Rice",
@@ -5893,7 +5893,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-77-244",
-    "questionText": "The length of the main road to the nearest kilometer is (JAMB 2016)",
+    "questionText": "The length of the main road to the nearest kilometer is",
     "options": [
       "14 kilometers",
       "20 kilometers",
@@ -5905,7 +5905,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-78-20",
-    "questionText": "The major sedimentary minerals found in Nigeria include:   (JAMB 2006)",
+    "questionText": "The major sedimentary minerals found in Nigeria include:",
     "options": [
       "tin, columbite and gold",
       "tin, coal and salt",
@@ -5917,7 +5917,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-79-148",
-    "questionText": "Akosomo dam is on the River   (JAMB 2012)",
+    "questionText": "Akosomo dam is on the River",
     "options": [
       "Niger",
       "Nile",
@@ -5929,7 +5929,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-80-359",
-    "questionText": "Which of the following is a correct pair? (JAMB 2019)",
+    "questionText": "Which of the following is a correct pair?",
     "options": [
       "River/Cut-off",
       "Glacier/Erratic boulder",
@@ -5941,7 +5941,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-81-335",
-    "questionText": "The most extensive vegetation type in the are marked Z is the (JAMB 2018)",
+    "questionText": "The most extensive vegetation type in the are marked Z is the",
     "options": [
       "Mangrove swamp",
       "Coastal thicket",
@@ -5953,7 +5953,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-82-286",
-    "questionText": "The feature marked Y is best described as (JAMB 2017)",
+    "questionText": "The feature marked Y is best described as",
     "options": [
       "Pass",
       "Spur",
@@ -5965,7 +5965,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-83-16",
-    "questionText": "The gap between two ranges within which transportation is usually possible in a mountainous regions is called   (JAMB 2006)",
+    "questionText": "The gap between two ranges within which transportation is usually possible in a mountainous regions is called",
     "options": [
       "Valley",
       "Col",
@@ -5977,7 +5977,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-84-138",
-    "questionText": "Which of the following is not a rapid type of mass movement?  (JAMB 2012)",
+    "questionText": "Which of the following is not a rapid type of mass movement?",
     "options": [
       "Solidification",
       "Rockfall",
@@ -5989,7 +5989,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-85-396",
-    "questionText": "The Algeria'a oildields are located in (JAMB 2019)",
+    "questionText": "The Algeria'a oildields are located in",
     "options": [
       "Golf of Onet",
       "Marsael Brega",
@@ -6001,7 +6001,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-86-28",
-    "questionText": "Industrialization in Nigeria can best be promoted through the development of   (JAMB 2007)",
+    "questionText": "Industrialization in Nigeria can best be promoted through the development of",
     "options": [
       "textile industry",
       "leather industry",
@@ -6013,7 +6013,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-87-393",
-    "questionText": "Economic activities in Tropical Africa largely depends on (JAMB 2019)",
+    "questionText": "Economic activities in Tropical Africa largely depends on",
     "options": [
       "Secondary production",
       "Quaternary is located",
@@ -6025,7 +6025,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-88-214",
-    "questionText": "The World largest Ocean is:  (JAMB 2014)",
+    "questionText": "The World largest Ocean is:",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -6037,7 +6037,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-89-321",
-    "questionText": "Intervisibility is possibility between the points marked X and Y because the intervening slope is (JAMB 2018)",
+    "questionText": "Intervisibility is possibility between the points marked X and Y because the intervening slope is",
     "options": [
       "Convex",
       "Rectilinear",
@@ -6049,7 +6049,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-90-241",
-    "questionText": "What is the approximate height of the location marked x? (JAMB 2016)",
+    "questionText": "What is the approximate height of the location marked x?",
     "options": [
       "375 meters",
       "395 meters",
@@ -6061,7 +6061,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-91-362",
-    "questionText": "The highest point in the area depicted on the map is just above (JAMB 2019)",
+    "questionText": "The highest point in the area depicted on the map is just above",
     "options": [
       "800m",
       "500m",
@@ -6073,7 +6073,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-92-14",
-    "questionText": "The major air mass affecting the climate of West Africa in summer is the   (JAMB 2006)",
+    "questionText": "The major air mass affecting the climate of West Africa in summer is the",
     "options": [
       "harmattan wind",
       "tropical continental",
@@ -6085,7 +6085,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-93-304",
-    "questionText": "British Columbia, Iceland, and Norway are noted for (JAMB 2017)",
+    "questionText": "British Columbia, Iceland, and Norway are noted for",
     "options": [
       "Power",
       "Fishing is an old industry in the basin",
@@ -6097,7 +6097,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-94-59",
-    "questionText": "The cloud which are white globular masses, forming ripples in the sky is called  (JAMB 2008)",
+    "questionText": "The cloud which are white globular masses, forming ripples in the sky is called",
     "options": [
       "Citrus",
       "Cirrocumulus",
@@ -6109,7 +6109,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-95-222",
-    "questionText": "Planet warming the use of water transport is limited by all the following except   (JAMB 2014)",
+    "questionText": "Planet warming the use of water transport is limited by all the following except",
     "options": [
       "Wide valleys",
       "Waterfalls",
@@ -6121,7 +6121,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-96-54",
-    "questionText": "One of these is not true of rain gauges:   (JAMB 2008)",
+    "questionText": "One of these is not true of rain gauges:",
     "options": [
       "Rain gauge provide excellent measurement of rainfall",
       "Their measurements may be affected by the particular type used",
@@ -6133,7 +6133,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-97-61",
-    "questionText": "Which of the following landforms is NOT due to the process of glacier erosion?  (JAMB 2008)",
+    "questionText": "Which of the following landforms is NOT due to the process of glacier erosion?",
     "options": [
       "Come",
       "valley -bench",
@@ -6145,7 +6145,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-98-338",
-    "questionText": "In which of the following rock types is petroleum mainly found? (JAMB 2018)",
+    "questionText": "In which of the following rock types is petroleum mainly found?",
     "options": [
       "Metamorphic",
       "Plutonic",
@@ -6157,7 +6157,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-99-84",
-    "questionText": "The dawn is a temperature grassland found in?  (JAMB 2009)",
+    "questionText": "The dawn is a temperature grassland found in?",
     "options": [
       "Australia",
       "South America",
@@ -6169,7 +6169,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-100-74",
-    "questionText": "Which of the following features is produced by wave deposition   (JAMB 2009)",
+    "questionText": "Which of the following features is produced by wave deposition",
     "options": [
       "caves",
       "stack",
@@ -6181,7 +6181,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516720-101-36",
-    "questionText": "Which of the following pressure belts does not experienced descending air?   (JAMB 2007)",
+    "questionText": "Which of the following pressure belts does not experienced descending air?",
     "options": [
       "600N",
       "600S",
@@ -6193,7 +6193,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-102-192",
-    "questionText": "Isobar refers to:  (JAMB 2014)",
+    "questionText": "Isobar refers to:",
     "options": [
       "Line that connects points of equal humidity.",
       "Line that connects points of equal rainfall.",
@@ -6205,7 +6205,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-103-106",
-    "questionText": "The world driest desert is   (JAMB 2010)",
+    "questionText": "The world driest desert is",
     "options": [
       "Atacama",
       "Sahara",
@@ -6217,7 +6217,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-104-1",
-    "questionText": "The earth rotates through 150 of longitude once in   (JAMB 2006)",
+    "questionText": "The earth rotates through 150 of longitude once in",
     "options": [
       "a minute",
       "an hour",
@@ -6229,7 +6229,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-105-42",
-    "questionText": "Linseed oil is associated with   (JAMB 2007)",
+    "questionText": "Linseed oil is associated with",
     "options": [
       "flax",
       "coconut",
@@ -6241,7 +6241,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-106-269",
-    "questionText": "One of the steel rolling mills in Nigeria is located at (JAMB 2016)",
+    "questionText": "One of the steel rolling mills in Nigeria is located at",
     "options": [
       "Jos",
       "Ajaokuta",
@@ -6253,7 +6253,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-107-120",
-    "questionText": "At the summer solstice [June 21st], which of the following latitudes will have the longest day  (JAMB 2011)",
+    "questionText": "At the summer solstice [June 21st], which of the following latitudes will have the longest day",
     "options": [
       "700S",
       "900S",
@@ -6265,7 +6265,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-108-255",
-    "questionText": "The Ocean currents marked X and Y are the (JAMB 2016)",
+    "questionText": "The Ocean currents marked X and Y are the",
     "options": [
       "Cold Shara Current and cold Namibian current",
       "Cool canaries current and cool Banguela current",
@@ -6277,7 +6277,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-109-336",
-    "questionText": "A broad-based population pyramid is composed mainly of (JAMB 2018)",
+    "questionText": "A broad-based population pyramid is composed mainly of",
     "options": [
       "Active inhabitants",
       "Old dependents",
@@ -6289,7 +6289,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-110-337",
-    "questionText": "Fluid, basic lava flow is likely to give rise to a volcanic (JAMB 2018)",
+    "questionText": "Fluid, basic lava flow is likely to give rise to a volcanic",
     "options": [
       "Cinder",
       "Saddle reef",
@@ -6301,7 +6301,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-111-247",
-    "questionText": "Which of the following towns is NOT a pre-colonial town? (JAMB 2016)",
+    "questionText": "Which of the following towns is NOT a pre-colonial town?",
     "options": [
       "Enugu",
       "Ibadan",
@@ -6313,7 +6313,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-112-334",
-    "questionText": "The major environmental problems associated with the area marked Y is (JAMB 2018)",
+    "questionText": "The major environmental problems associated with the area marked Y is",
     "options": [
       "Insect pest",
       "Gully erosion",
@@ -6325,7 +6325,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-113-110",
-    "questionText": "Which of the following continents is crossed by both the Tropic of Cancer and Tropic of Capricorn?   (JAMB 2010)",
+    "questionText": "Which of the following continents is crossed by both the Tropic of Cancer and Tropic of Capricorn?",
     "options": [
       "Asia",
       "South America",
@@ -6337,7 +6337,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-114-15",
-    "questionText": "If a map has a scale of 1:50,000 and a cocoa plantation is represented on the map by a rectangle 4cm by 3cm, what is the area of the plantation?   (JAMB 2006)",
+    "questionText": "If a map has a scale of 1:50,000 and a cocoa plantation is represented on the map by a rectangle 4cm by 3cm, what is the area of the plantation?",
     "options": [
       "3 sq. km",
       "30 sq. km",
@@ -6349,7 +6349,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-115-349",
-    "questionText": "The two most important factors which account for the pattern of population distribution in West Africa are (JAMB 2018)",
+    "questionText": "The two most important factors which account for the pattern of population distribution in West Africa are",
     "options": [
       "Economic prosperity and Regional migration",
       "Economic prosperity and favourable physical conditions",
@@ -6361,7 +6361,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-116-278",
-    "questionText": "Which one of the following sates of Nigeria is a major kolanut producer? (JAMB 2017)",
+    "questionText": "Which one of the following sates of Nigeria is a major kolanut producer?",
     "options": [
       "Plateau",
       "Bendel",
@@ -6373,7 +6373,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-117-240",
-    "questionText": "Which of the following lakes owes its origin mainly to faulting (JAMB 2016)",
+    "questionText": "Which of the following lakes owes its origin mainly to faulting",
     "options": [
       "Lake Victoria",
       "Lake Malawi",
@@ -6385,7 +6385,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-118-346",
-    "questionText": "Which of these hazards would likely result directly from deforestation? (JAMB 2018)",
+    "questionText": "Which of these hazards would likely result directly from deforestation?",
     "options": [
       "Soil erosion",
       "Mass wasting",
@@ -6397,7 +6397,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-119-167",
-    "questionText": "Which of the following is a feature  of a rejuvenated river? (JAMB 2013)",
+    "questionText": "Which of the following is a feature  of a rejuvenated river?",
     "options": [
       "Incised meanders",
       "Braided channel",
@@ -6409,7 +6409,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-120-238",
-    "questionText": "The main composition of coal is (JAMB 2016)",
+    "questionText": "The main composition of coal is",
     "options": [
       "Iron",
       "Quartz",
@@ -6421,7 +6421,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-121-432",
-    "questionText": "The growth rate of population is determined by (JAMB 2020)",
+    "questionText": "The growth rate of population is determined by",
     "options": [
       "Birth and death rate",
       "Technological know-how",
@@ -6433,7 +6433,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-122-215",
-    "questionText": "Dominican Republic is in:  (JAMB 2014)",
+    "questionText": "Dominican Republic is in:",
     "options": [
       "Europe",
       "Africa",
@@ -6445,7 +6445,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-123-310",
-    "questionText": "One of the tertiary services in an urban centre is  (JAMB 2017)",
+    "questionText": "One of the tertiary services in an urban centre is",
     "options": [
       "Petrol retailing",
       "Car assembling",
@@ -6457,7 +6457,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-124-270",
-    "questionText": "The proportion of the earth's surface occupied by ocean is approximately (JAMB 2016)",
+    "questionText": "The proportion of the earth's surface occupied by ocean is approximately",
     "options": [
       "97%",
       "77%",
@@ -6469,7 +6469,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-125-372",
-    "questionText": "Which of the following observation can be inferred from the table above, which shows the hydro-electric power (HEP) development in some selected countries? (JAMB 2019)",
+    "questionText": "Which of the following observation can be inferred from the table above, which shows the hydro-electric power (HEP) development in some selected countries?",
     "options": [
       "Power from hydro-electricity is cheaper than power from other sources",
       "More factories use HEP in Brazil than in Switzerland",
@@ -6481,7 +6481,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-126-63",
-    "questionText": "Which features on a  topographic sheet would you analyze to characterize the configuration of the area covered by the sheet   (JAMB 2008)",
+    "questionText": "Which features on a  topographic sheet would you analyze to characterize the configuration of the area covered by the sheet",
     "options": [
       "Isoyet and Isolines",
       "ranges and spot heights",
@@ -6493,7 +6493,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-127-163",
-    "questionText": "Which of the following countries in Africa would a person NOT pass over by crow fly (direct distance) from Abidjan to Cairo?   (JAMB 2013)",
+    "questionText": "Which of the following countries in Africa would a person NOT pass over by crow fly (direct distance) from Abidjan to Cairo?",
     "options": [
       "Niger",
       "Libya",
@@ -6505,7 +6505,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-128-382",
-    "questionText": "Planetary winds are deflected on crossing the Equator due mainly to the effects of  (JAMB 2019)",
+    "questionText": "Planetary winds are deflected on crossing the Equator due mainly to the effects of",
     "options": [
       "Ferrel's law",
       "Coriolis Force",
@@ -6517,7 +6517,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-129-420",
-    "questionText": "An example of a rock formed by wood subjected to pressure and heat is (JAMB 2020)",
+    "questionText": "An example of a rock formed by wood subjected to pressure and heat is",
     "options": [
       "Lignite",
       "Granite",
@@ -6529,7 +6529,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-130-5",
-    "questionText": "Which of the following statements is not true for lines of latitude?   (JAMB 2006)",
+    "questionText": "Which of the following statements is not true for lines of latitude?",
     "options": [
       "they form parallel circles",
       "they range from 00 to 1800 N and S",
@@ -6541,7 +6541,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-131-88",
-    "questionText": "All planets have satellites except:   (JAMB 2010)",
+    "questionText": "All planets have satellites except:",
     "options": [
       "Earth & Venus",
       "Mars & Mercury",
@@ -6553,7 +6553,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-132-317",
-    "questionText": "If the total population of the city is 500,000 what is the population of ward 4? (JAMB 2018)",
+    "questionText": "If the total population of the city is 500,000 what is the population of ward 4?",
     "options": [
       "75,000",
       "150,000",
@@ -6565,7 +6565,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-133-208",
-    "questionText": "Kinshasa is a:  (JAMB 2014)",
+    "questionText": "Kinshasa is a:",
     "options": [
       "Central African City",
       "North African City",
@@ -6577,7 +6577,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-134-172",
-    "questionText": "The largest soil group, found in the temperate grasslands, having a deep, black, nutrient-rich (JAMB 2013)",
+    "questionText": "The largest soil group, found in the temperate grasslands, having a deep, black, nutrient-rich",
     "options": [
       "A-horizon, a compact B-horizon and a zone of calcium carbonate accumulation is called a",
       "Chernozem",
@@ -6589,7 +6589,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-135-383",
-    "questionText": "The rock type that is not likely to produce rich agricultural soil after weathering is (JAMB 2019)",
+    "questionText": "The rock type that is not likely to produce rich agricultural soil after weathering is",
     "options": [
       "Graphite",
       "Limestone",
@@ -6601,7 +6601,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-136-180",
-    "questionText": "An extended urban area, typically consisting of several towns merging with the suburbs of one or more cities can best be referred to as   (JAMB 2013)",
+    "questionText": "An extended urban area, typically consisting of several towns merging with the suburbs of one or more cities can best be referred to as",
     "options": [
       "Conurbation",
       "Urban decay",
@@ -6613,7 +6613,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-137-181",
-    "questionText": "Which of the following terms is not associated with desert-type topography? (JAMB 2013)",
+    "questionText": "Which of the following terms is not associated with desert-type topography?",
     "options": [
       "Zuegen",
       "Yardang",
@@ -6625,7 +6625,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-138-47",
-    "questionText": "Oxbow lakes are found in   (JAMB 2008)",
+    "questionText": "Oxbow lakes are found in",
     "options": [
       "lower courses of some rivers",
       "wind bow out sites",
@@ -6637,7 +6637,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-139-60",
-    "questionText": "Which one of the following seas has highest degree of salinity in the world?   (JAMB 2008)",
+    "questionText": "Which one of the following seas has highest degree of salinity in the world?",
     "options": [
       "Caspian sea",
       "Mediterranean sea",
@@ -6649,7 +6649,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-140-353",
-    "questionText": "If the time in New York (75°W) is 5.00pm the time in Nigeria (15°E) will be (JAMB 2018)",
+    "questionText": "If the time in New York (75°W) is 5.00pm the time in Nigeria (15°E) will be",
     "options": [
       "9.00pm",
       "9.00am",
@@ -6661,7 +6661,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-141-263",
-    "questionText": "International agreements in the fishing industry are necessary in order to protect whale and seal from (JAMB 2016)",
+    "questionText": "International agreements in the fishing industry are necessary in order to protect whale and seal from",
     "options": [
       "Sea Piracy",
       "Sea accident",
@@ -6673,7 +6673,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-142-196",
-    "questionText": "Scale of a map is defined as:  (JAMB 2014)",
+    "questionText": "Scale of a map is defined as:",
     "options": [
       "The ratio of a distance on the drawing board to the corresponding distance on the ground.",
       "The ratio of a distance on the map to the corresponding distance on the ground",
@@ -6685,7 +6685,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-143-191",
-    "questionText": "The longest river in Africa is:   (JAMB 2014)",
+    "questionText": "The longest river in Africa is:",
     "options": [
       "River Nile.",
       "River Niger.",
@@ -6697,7 +6697,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-144-199",
-    "questionText": "Nigeria has a total land area of:  (JAMB 2014)",
+    "questionText": "Nigeria has a total land area of:",
     "options": [
       "923,768 km2",
       "823,768 km2",
@@ -6709,7 +6709,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-145-12",
-    "questionText": "Some rivers in their delta regions breaks into many branches before entering the sea. These divisions are known as   (JAMB 2006)",
+    "questionText": "Some rivers in their delta regions breaks into many branches before entering the sea. These divisions are known as",
     "options": [
       "Creeks",
       "Distributaries",
@@ -6721,7 +6721,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-146-182",
-    "questionText": "The major characteristics of a karst scenery include (JAMB 2013)",
+    "questionText": "The major characteristics of a karst scenery include",
     "options": [
       "Excessive overland flow",
       "Extensive and long surface flow",
@@ -6733,7 +6733,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-147-273",
-    "questionText": "The carbon cycle is more prevalent in the (JAMB 2016)",
+    "questionText": "The carbon cycle is more prevalent in the",
     "options": [
       "Lithosphere",
       "Core",
@@ -6745,7 +6745,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-148-218",
-    "questionText": "A lines drawn on a maps to show places of equal rainfall is called  (JAMB 2014)",
+    "questionText": "A lines drawn on a maps to show places of equal rainfall is called",
     "options": [
       "Rainline",
       "Isotope",
@@ -6757,7 +6757,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-149-402",
-    "questionText": "The above diagram on which the contours are in meters shows (JAMB 2020)",
+    "questionText": "The above diagram on which the contours are in meters shows",
     "options": [
       "Mesa",
       "Knoll",
@@ -6769,7 +6769,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-150-424",
-    "questionText": "Which of the following is a type of iron ore? (JAMB 2020)",
+    "questionText": "Which of the following is a type of iron ore?",
     "options": [
       "Ignite",
       "Limonite",
@@ -6781,7 +6781,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-151-168",
-    "questionText": "Which of the following is not a thermometric scale? (JAMB 2013)",
+    "questionText": "Which of the following is not a thermometric scale?",
     "options": [
       "Celsius",
       "Kelvin",
@@ -6793,7 +6793,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-152-314",
-    "questionText": "Which of the following population characteristics is best related to African countries? (JAMB 2017)",
+    "questionText": "Which of the following population characteristics is best related to African countries?",
     "options": [
       "Low birthraate and high death rate",
       "High birthrate and high death rate",
@@ -6805,7 +6805,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-153-268",
-    "questionText": "The rock with least carbon content is (JAMB 2016)",
+    "questionText": "The rock with least carbon content is",
     "options": [
       "Lignite",
       "Coal",
@@ -6817,7 +6817,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-154-331",
-    "questionText": "Which of the following countries has the least potential for the production of steel? (JAMB 2018)",
+    "questionText": "Which of the following countries has the least potential for the production of steel?",
     "options": [
       "India",
       "Cuba",
@@ -6829,7 +6829,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-155-216",
-    "questionText": "The World Longest Coastlines is in:  (JAMB 2014)",
+    "questionText": "The World Longest Coastlines is in:",
     "options": [
       "Austria",
       "England",
@@ -6841,7 +6841,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-156-17",
-    "questionText": "What are greenhouse gasses?   (JAMB 2006)",
+    "questionText": "What are greenhouse gasses?",
     "options": [
       "Gases found around green houses in botanical gardens",
       "Gases which are able to trap heat on the earth surface",
@@ -6853,7 +6853,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-157-365",
-    "questionText": "The major relief feature between the rivers Zogo and Bidana is a (JAMB 2019)",
+    "questionText": "The major relief feature between the rivers Zogo and Bidana is a",
     "options": [
       "Ridge",
       "Cuesta",
@@ -6865,7 +6865,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-158-234",
-    "questionText": "Crude oil is ------------  rock mineral    (JAMB 2014)",
+    "questionText": "Crude oil is ------------  rock mineral",
     "options": [
       "An igneous",
       "A sedimentary",
@@ -6877,7 +6877,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-159-43",
-    "questionText": "Which of the following is not correct with regards to the solar system?   (JAMB 2007)",
+    "questionText": "Which of the following is not correct with regards to the solar system?",
     "options": [
       "The planets all orbit round the sun",
       "The sun is only a source of the energy needed on the planets",
@@ -6889,7 +6889,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-160-251",
-    "questionText": "The true bearing of the trigonometrical station 54.0m from the peak of Bedi Hill is (JAMB 2016)",
+    "questionText": "The true bearing of the trigonometrical station 54.0m from the peak of Bedi Hill is",
     "options": [
       "266°",
       "127°",
@@ -6901,7 +6901,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-161-145",
-    "questionText": "Which of the following features is not commonly associated with a river at the floodplain stage?  (JAMB 2012)",
+    "questionText": "Which of the following features is not commonly associated with a river at the floodplain stage?",
     "options": [
       "Meanders",
       "Levees",
@@ -6913,7 +6913,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-162-39",
-    "questionText": "Desert soil are usually deficient in  (JAMB 2007)",
+    "questionText": "Desert soil are usually deficient in",
     "options": [
       "fertility",
       "light grey colour",
@@ -6925,7 +6925,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-163-233",
-    "questionText": "________ is the time of day when tornadoes are most likely to occur (JAMB 2014)",
+    "questionText": "________ is the time of day when tornadoes are most likely to occur",
     "options": [
       "Dawn",
       "Mid-afternoon",
@@ -6937,7 +6937,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-164-355",
-    "questionText": "An instrument used for setting out right angle in surveying a parcel of land is (JAMB 2018)",
+    "questionText": "An instrument used for setting out right angle in surveying a parcel of land is",
     "options": [
       "A measuring rod",
       "Abney level",
@@ -6949,7 +6949,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-165-324",
-    "questionText": "How were the major mountain belts of the world produced? (JAMB 2018)",
+    "questionText": "How were the major mountain belts of the world produced?",
     "options": [
       "By weathering",
       "By wind erosion",
@@ -6961,7 +6961,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-166-213",
-    "questionText": "Casablanca is a (JAMB 2014)",
+    "questionText": "Casablanca is a",
     "options": [
       "North African City",
       "West African City",
@@ -6973,7 +6973,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-167-249",
-    "questionText": "What is the length to the nearest kilometer of the main stream that is into the Laka Lagon? (JAMB 2016)",
+    "questionText": "What is the length to the nearest kilometer of the main stream that is into the Laka Lagon?",
     "options": [
       "4 kilometers",
       "8 kilometers",
@@ -6985,7 +6985,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-168-301",
-    "questionText": "Urban centres originate mainly as zones of (JAMB 2017)",
+    "questionText": "Urban centres originate mainly as zones of",
     "options": [
       "Tourist attraction",
       "Transport concentration",
@@ -6997,7 +6997,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-169-307",
-    "questionText": "The most urbanzied part of Nigeria is the (JAMB 2017)",
+    "questionText": "The most urbanzied part of Nigeria is the",
     "options": [
       "Middle-belt",
       "South-east",
@@ -7009,7 +7009,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-170-279",
-    "questionText": "Pulp-wood which is used in the manufacturing of paper cardboard and cellulose is derived mainly from (JAMB 2017)",
+    "questionText": "Pulp-wood which is used in the manufacturing of paper cardboard and cellulose is derived mainly from",
     "options": [
       "Desert plants",
       "Tropical rainforest",
@@ -7021,7 +7021,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-171-197",
-    "questionText": "The capital of Niger state in Nigeria is:  (JAMB 2014)",
+    "questionText": "The capital of Niger state in Nigeria is:",
     "options": [
       "Gusau",
       "Yola",
@@ -7033,7 +7033,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-172-390",
-    "questionText": "A small hill resulting from the process peneplanation is called (JAMB 2019)",
+    "questionText": "A small hill resulting from the process peneplanation is called",
     "options": [
       "An inselberg",
       "A hum",
@@ -7045,7 +7045,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-173-157",
-    "questionText": "The difference in the readings on the dry and wet bulb thermometers used to determine   (JAMB 2012)",
+    "questionText": "The difference in the readings on the dry and wet bulb thermometers used to determine",
     "options": [
       "Relative humidity",
       "Temperature range",
@@ -7057,7 +7057,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-174-312",
-    "questionText": "The equatorial circumference of the earth is (JAMB 2017)",
+    "questionText": "The equatorial circumference of the earth is",
     "options": [
       "30,084 km",
       "40,084 km",
@@ -7069,7 +7069,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-175-374",
-    "questionText": "Urban settlements in West Africa function mainly as (JAMB 2019)",
+    "questionText": "Urban settlements in West Africa function mainly as",
     "options": [
       "Cultural and religious centres",
       "Market towns and commercial centres",
@@ -7081,7 +7081,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-176-236",
-    "questionText": "An anemometer is used to measure (JAMB 2014)",
+    "questionText": "An anemometer is used to measure",
     "options": [
       "wind vane",
       "wind direction",
@@ -7093,7 +7093,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-177-421",
-    "questionText": "The most important determinants of air temprature of a region are (JAMB 2020)",
+    "questionText": "The most important determinants of air temprature of a region are",
     "options": [
       "Latitude and altitude",
       "Evaporationa and sunshine hours",
@@ -7105,7 +7105,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-178-220",
-    "questionText": "The act of graphical representation of places with identified scale and legend is called  (JAMB 2014)",
+    "questionText": "The act of graphical representation of places with identified scale and legend is called",
     "options": [
       "Scaling",
       "Mapping",
@@ -7117,7 +7117,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-179-348",
-    "questionText": "British foreign investments are concentrated in (JAMB 2018)",
+    "questionText": "British foreign investments are concentrated in",
     "options": [
       "EU countries",
       "Commonwealth countries",
@@ -7129,7 +7129,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-180-404",
-    "questionText": "When it is 12.00 noon on longitude 30°W, local time on longitude 75°E is (JAMB 2020)",
+    "questionText": "When it is 12.00 noon on longitude 30°W, local time on longitude 75°E is",
     "options": [
       "7.00 am",
       "7.00 pm",
@@ -7141,7 +7141,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-181-146",
-    "questionText": "The World’s richest fishing grounds are found   (JAMB 2012)",
+    "questionText": "The World’s richest fishing grounds are found",
     "options": [
       "On the continental shelves",
       "In oceanic deeps",
@@ -7153,7 +7153,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-182-190",
-    "questionText": "Isotherm refers to:  (JAMB 2014)",
+    "questionText": "Isotherm refers to:",
     "options": [
       "Line that connects points of equal sunshine",
       "Line that connects points of equal rainfall",
@@ -7165,7 +7165,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-183-41",
-    "questionText": "The forest type which is the most rich in tree species is the   (JAMB 2007)",
+    "questionText": "The forest type which is the most rich in tree species is the",
     "options": [
       "tropical",
       "Deciduous",
@@ -7177,7 +7177,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-184-380",
-    "questionText": "The captain of a ship in the mid sea observed that it was local noon as he was listening to 08.00 hour BBC world news. On which longitude was his ship? (JAMB 2019)",
+    "questionText": "The captain of a ship in the mid sea observed that it was local noon as he was listening to 08.00 hour BBC world news. On which longitude was his ship?",
     "options": [
       "120°E",
       "60°E",
@@ -7189,7 +7189,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-185-339",
-    "questionText": "One basic mineral that is common to Sokoto, Ewekoro, Calabar, and Nkalagu is  (JAMB 2018)",
+    "questionText": "One basic mineral that is common to Sokoto, Ewekoro, Calabar, and Nkalagu is",
     "options": [
       "Gypsum",
       "Coal",
@@ -7201,7 +7201,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-186-104",
-    "questionText": "A degree latitudinal distance is approximately  (JAMB 2010)",
+    "questionText": "A degree latitudinal distance is approximately",
     "options": [
       "70km",
       "111km",
@@ -7213,7 +7213,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-187-284",
-    "questionText": "The roads in area run mainly along (JAMB 2017)",
+    "questionText": "The roads in area run mainly along",
     "options": [
       "Gentle slopes",
       "Watersheds",
@@ -7225,7 +7225,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-188-22",
-    "questionText": "Which of the following routes must have least gradient?   (JAMB 2006)",
+    "questionText": "Which of the following routes must have least gradient?",
     "options": [
       "Motorway",
       "Rail line",
@@ -7237,7 +7237,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-189-18",
-    "questionText": "The doldrums refer to   (JAMB 2006)",
+    "questionText": "The doldrums refer to",
     "options": [
       "land areas bordering the confluence of the blue and white Nile",
       "areas intense weather activities around the Mediterranean",
@@ -7249,7 +7249,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-190-19",
-    "questionText": "Nigeria Sat I is designed by primarily to   (JAMB 2006)",
+    "questionText": "Nigeria Sat I is designed by primarily to",
     "options": [
       "help GSM provider in achieving a wide national coverage",
       "strengthen rapid response by Nigeria’s Armed Forces",
@@ -7261,7 +7261,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-191-13",
-    "questionText": "Kariba Dam is found in River   (JAMB 2006)",
+    "questionText": "Kariba Dam is found in River",
     "options": [
       "Zambezi",
       "Congo",
@@ -7273,7 +7273,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-192-23",
-    "questionText": "The foremost producers of petroleum in the Middle East are:   (JAMB 2006)",
+    "questionText": "The foremost producers of petroleum in the Middle East are:",
     "options": [
       "Saudi Arabia, Kuwait, Libya and Iran",
       "Saudi Arabia, Iraq, Iran and Kuwait",
@@ -7285,7 +7285,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-193-10",
-    "questionText": "One example of inland drainage lake in  Africa is   (JAMB 2006)",
+    "questionText": "One example of inland drainage lake in  Africa is",
     "options": [
       "Lake Chad",
       "Lake Victoria",
@@ -7297,7 +7297,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-194-3",
-    "questionText": "The scale of a map is the ratio between the   (JAMB 2006)",
+    "questionText": "The scale of a map is the ratio between the",
     "options": [
       "distance over the land and the distance over the water",
       "distance on the map and the distance on the globe",
@@ -7309,7 +7309,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-195-11",
-    "questionText": "The African river that crosses the equator twice is   (JAMB 2006)",
+    "questionText": "The African river that crosses the equator twice is",
     "options": [
       "Zaire",
       "Nile",
@@ -7321,7 +7321,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-196-8",
-    "questionText": " Which of these does not lie in the principal earthquake region of the world?  (JAMB 2006)",
+    "questionText": " Which of these does not lie in the principal earthquake region of the world?",
     "options": [
       "Japan",
       "Kenya",
@@ -7333,7 +7333,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-197-4",
-    "questionText": "Which of the following scales should show the greatest amount of detail on a map?   (JAMB 2006)",
+    "questionText": "Which of the following scales should show the greatest amount of detail on a map?",
     "options": [
       "1:50,000",
       "1:500,000",
@@ -7345,7 +7345,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-198-33",
-    "questionText": "The thermometric scale usually employed to described the absolute temperature of the atmosphere is   (JAMB 2007)",
+    "questionText": "The thermometric scale usually employed to described the absolute temperature of the atmosphere is",
     "options": [
       "Centigrade",
       "Celsius",
@@ -7357,7 +7357,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-199-45",
-    "questionText": "Which of the following is correct?   (JAMB 2007)",
+    "questionText": "Which of the following is correct?",
     "options": [
       "The Canaries current is cold and washes the coast of NE Africa",
       "The Peruvian current is warm and washes the West coast of America",
@@ -7369,7 +7369,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-200-32",
-    "questionText": "The sea area with the highest degree of salinity is the  (JAMB 2007)",
+    "questionText": "The sea area with the highest degree of salinity is the",
     "options": [
       "Baltic Sea",
       "Caspian Sea",
@@ -7381,7 +7381,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-201-44",
-    "questionText": "Fossil fuel reserves are found in the Lake Chad basin because   (JAMB 2007)",
+    "questionText": "Fossil fuel reserves are found in the Lake Chad basin because",
     "options": [
       "The basin lies approximately along he axis on which the rich Bakassi oil fields are found",
       "The basin is at the edge of the desert with conditions similar to that of Iraq",
@@ -7393,7 +7393,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-202-46",
-    "questionText": "Which of the following formulae is the correct one for converting X0 Fahrenheit temperature reading into Centigrade temperature readings (Y0)?   (JAMB 2007)",
+    "questionText": "Which of the following formulae is the correct one for converting X0 Fahrenheit temperature reading into Centigrade temperature readings (Y0)?",
     "options": [
       "Y = (X + 32)5/90C",
       "Y = (X – 32)5/90C",
@@ -7405,7 +7405,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-203-29",
-    "questionText": "Most of the industries located in rural areas are   (JAMB 2007)",
+    "questionText": "Most of the industries located in rural areas are",
     "options": [
       "low energy consumers",
       "high energy consumers",
@@ -7417,7 +7417,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-204-24",
-    "questionText": "Which of the following is not an Anglophone country   (JAMB 2007)",
+    "questionText": "Which of the following is not an Anglophone country",
     "options": [
       "Ghana",
       "Gambia",
@@ -7429,7 +7429,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-205-37",
-    "questionText": "In the tropics, the most variable climatic element inter-annually is   (JAMB 2007)",
+    "questionText": "In the tropics, the most variable climatic element inter-annually is",
     "options": [
       "temperature",
       "solar radiation",
@@ -7441,7 +7441,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-206-34",
-    "questionText": "If the temperature at sea level in a particular place is 200C, place 3500m above sea level in the same area will have a temperature of   (JAMB 2007)",
+    "questionText": "If the temperature at sea level in a particular place is 200C, place 3500m above sea level in the same area will have a temperature of",
     "options": [
       "- 2.750C",
       "2.250C",
@@ -7453,7 +7453,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-207-25",
-    "questionText": "The shallow part of the sea which separates the deep from the land is called   (JAMB 2007)",
+    "questionText": "The shallow part of the sea which separates the deep from the land is called",
     "options": [
       "off shore coastal lowland",
       "the on-shore tidal current",
@@ -7465,7 +7465,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-208-27",
-    "questionText": "One major characteristics of rural settlements is that   (JAMB 2007)",
+    "questionText": "One major characteristics of rural settlements is that",
     "options": [
       "are heterogeneous",
       "are homogenous",
@@ -7477,7 +7477,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-209-31",
-    "questionText": "Which of the ocean currents is classified as cool?   (JAMB 2007)",
+    "questionText": "Which of the ocean currents is classified as cool?",
     "options": [
       "Benguela",
       "Kuro Siwo",
@@ -7489,7 +7489,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-210-38",
-    "questionText": "Soil that are formed by the wind deposition are called  (JAMB 2007)",
+    "questionText": "Soil that are formed by the wind deposition are called",
     "options": [
       "Laterites",
       "loess",
@@ -7501,7 +7501,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-211-30",
-    "questionText": "The distribution of minerals resources in Nigeria is related to its:   (JAMB 2007)",
+    "questionText": "The distribution of minerals resources in Nigeria is related to its:",
     "options": [
       "relief",
       "soil",
@@ -7513,7 +7513,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-212-70",
-    "questionText": "Which of the following countries has a large number of people of Africa descent?  (JAMB 2008)",
+    "questionText": "Which of the following countries has a large number of people of Africa descent?",
     "options": [
       "England",
       "Canada",
@@ -7525,7 +7525,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-213-68",
-    "questionText": "Which of the following is not a true feature produced by volcanic activity?  (JAMB 2008)",
+    "questionText": "Which of the following is not a true feature produced by volcanic activity?",
     "options": [
       "horst",
       "caldera",
@@ -7537,7 +7537,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-214-64",
-    "questionText": "The greatest challenge to future use of automobiles is   (JAMB 2008)",
+    "questionText": "The greatest challenge to future use of automobiles is",
     "options": [
       "advances in air travel",
       "identification of alternative to fossil fuels",
@@ -7549,7 +7549,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-215-73",
-    "questionText": "Fishing is the mainstay of the economy of   (JAMB 2008)",
+    "questionText": "Fishing is the mainstay of the economy of",
     "options": [
       "Libya",
       "Iran",
@@ -7561,7 +7561,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-216-52",
-    "questionText": "Which of the following is not a major problem of Kainji Dam?   (JAMB 2008)",
+    "questionText": "Which of the following is not a major problem of Kainji Dam?",
     "options": [
       "increase in the herds of the cattle that depends on its waters",
       "increase in usage of Niger in Niger Republic",
@@ -7573,7 +7573,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-217-56",
-    "questionText": "Horse latitudes refers to   (JAMB 2008)",
+    "questionText": "Horse latitudes refers to",
     "options": [
       "areas around the gulf of guinea",
       "areas around the equator",
@@ -7585,7 +7585,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-218-48",
-    "questionText": "Coombes are associated with   (JAMB 2008)",
+    "questionText": "Coombes are associated with",
     "options": [
       "honey-bee farms",
       "Karst environment",
@@ -7597,7 +7597,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-219-66",
-    "questionText": "What is the Local Standard time in New York (750W) when it is 2 p.m. in Accra?   (JAMB 2008)",
+    "questionText": "What is the Local Standard time in New York (750W) when it is 2 p.m. in Accra?",
     "options": [
       "7 p.m. (19hrs)",
       "7 a.m. (0700hrs)",
@@ -7609,7 +7609,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-220-69",
-    "questionText": "Which is the main crop grown in the Ghezira plains  (JAMB 2008)",
+    "questionText": "Which is the main crop grown in the Ghezira plains",
     "options": [
       "Wheat",
       "Millet",
@@ -7621,7 +7621,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-221-67",
-    "questionText": "On any day in the year at a specific time   (JAMB 2008)",
+    "questionText": "On any day in the year at a specific time",
     "options": [
       "the sun is overhead along the equator",
       "the sun is overhead along the topic of cancer",
@@ -7633,7 +7633,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-222-57",
-    "questionText": "“High uniform temperature and heavy well distributed rainfall throughout the year” described  (JAMB 2008)",
+    "questionText": "“High uniform temperature and heavy well distributed rainfall throughout the year” described",
     "options": [
       "Equaterial rainforest climate",
       "Mid altitude friendly environment",
@@ -7645,7 +7645,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-223-62",
-    "questionText": "Which of the following rivers does NOT drain into Atlantic Ocean?  (JAMB 2008)",
+    "questionText": "Which of the following rivers does NOT drain into Atlantic Ocean?",
     "options": [
       "The Niger",
       "The Indus",
@@ -7657,7 +7657,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-224-51",
-    "questionText": "One of these is not a factor of population growth   (JAMB 2008)",
+    "questionText": "One of these is not a factor of population growth",
     "options": [
       "poverty",
       "migration",
@@ -7669,7 +7669,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-225-71",
-    "questionText": "When it is 1200 noon on longitude 300E. What is the time on longitude 150W.   (JAMB 2008)",
+    "questionText": "When it is 1200 noon on longitude 300E. What is the time on longitude 150W.",
     "options": [
       "9.00 a.m.",
       "5.00 p.m.",
@@ -7681,7 +7681,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-226-80",
-    "questionText": "Rural settlements can be distinguished from urban settlements by their?   (JAMB 2009)",
+    "questionText": "Rural settlements can be distinguished from urban settlements by their?",
     "options": [
       "function and population",
       "Site and function",
@@ -7693,7 +7693,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-227-87",
-    "questionText": "The Ukraine of economic activities   (JAMB 2009)",
+    "questionText": "The Ukraine of economic activities",
     "options": [
       "commercial grain agriculture and livestock random",
       "plantation agriculture and nomadic herding.",
@@ -7705,7 +7705,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-228-76",
-    "questionText": "Which of the following timber trees are found in the tropical rain forest of Africa?  (JAMB 2009)",
+    "questionText": "Which of the following timber trees are found in the tropical rain forest of Africa?",
     "options": [
       "Obeche and teak",
       "Mahogany and teak",
@@ -7717,7 +7717,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-229-78",
-    "questionText": "Which of these economic activities is LEAST characteristics of typical urban centres?   (JAMB 2009)",
+    "questionText": "Which of these economic activities is LEAST characteristics of typical urban centres?",
     "options": [
       "Commerce",
       "quarrying",
@@ -7729,7 +7729,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-230-75",
-    "questionText": "Which of the following is the major factor responsible for Japan’s unparalleled industrial growth in the last few decades?  (JAMB 2009)",
+    "questionText": "Which of the following is the major factor responsible for Japan’s unparalleled industrial growth in the last few decades?",
     "options": [
       "Japan’s proximity to mainland",
       "Japan’s cargo population",
@@ -7741,7 +7741,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-231-82",
-    "questionText": "The major world exports of wool are   (JAMB 2009)",
+    "questionText": "The major world exports of wool are",
     "options": [
       "Britain, Australia, Mediterranean Europe and Argentina",
       "New Zealand, Uruguay, Australia and Argentina",
@@ -7753,7 +7753,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-232-86",
-    "questionText": "The highest volume of shipping across the Atlantic ocean is   (JAMB 2009)",
+    "questionText": "The highest volume of shipping across the Atlantic ocean is",
     "options": [
       "between Europe and Africa",
       "between North America and Europe",
@@ -7765,7 +7765,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-233-85",
-    "questionText": "Commercial grape cultivation is associated with?   (JAMB 2009)",
+    "questionText": "Commercial grape cultivation is associated with?",
     "options": [
       "cool temperature climate",
       "monsoon regions",
@@ -7777,7 +7777,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516721-234-83",
-    "questionText": "Blantyre, Rio Janeiro, New York and Lagos are similar in that they all serves as their countries  (JAMB 2009)",
+    "questionText": "Blantyre, Rio Janeiro, New York and Lagos are similar in that they all serves as their countries",
     "options": [
       "major seaport",
       "political headquarter",
@@ -7789,7 +7789,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-235-98",
-    "questionText": "The navigability of River Nile is limited because   (JAMB 2010)",
+    "questionText": "The navigability of River Nile is limited because",
     "options": [
       "it is too long",
       "it is too shallow",
@@ -7801,7 +7801,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-236-107",
-    "questionText": "A line joining places of equal salinity is   (JAMB 2010)",
+    "questionText": "A line joining places of equal salinity is",
     "options": [
       "isohaline",
       "Isoneph",
@@ -7813,7 +7813,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-237-95",
-    "questionText": "Cyclones are centres of   (JAMB 2010)",
+    "questionText": "Cyclones are centres of",
     "options": [
       "relative low pressure",
       "relative high pressure",
@@ -7825,7 +7825,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-238-99",
-    "questionText": "The cloud which is closely associated with thunderstorms is   (JAMB 2010)",
+    "questionText": "The cloud which is closely associated with thunderstorms is",
     "options": [
       "strato-cumulus",
       "Cirrocumulus",
@@ -7837,7 +7837,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-239-101",
-    "questionText": "Campos is the name for the grassland in   (JAMB 2010)",
+    "questionText": "Campos is the name for the grassland in",
     "options": [
       "North America",
       "South America",
@@ -7849,7 +7849,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-240-94",
-    "questionText": "Which of these is not a form of condensation?  (JAMB 2010)",
+    "questionText": "Which of these is not a form of condensation?",
     "options": [
       "Snow",
       "Rime",
@@ -7861,7 +7861,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-241-92",
-    "questionText": "One of these is a features of rejuvenated river:  (JAMB 2010)",
+    "questionText": "One of these is a features of rejuvenated river:",
     "options": [
       "Incised menders",
       "Braided channel",
@@ -7873,7 +7873,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-242-97",
-    "questionText": "Sandstone is metamorphosed into   (JAMB 2010)",
+    "questionText": "Sandstone is metamorphosed into",
     "options": [
       "Slate",
       "Schist",
@@ -7885,7 +7885,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-243-93",
-    "questionText": "Which one of these is not a thermometric scale:   (JAMB 2010)",
+    "questionText": "Which one of these is not a thermometric scale:",
     "options": [
       "Celsius",
       "Kelvin",
@@ -7897,7 +7897,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-244-108",
-    "questionText": "Which of these is not on the western side of continental land masses?  (JAMB 2010)",
+    "questionText": "Which of these is not on the western side of continental land masses?",
     "options": [
       "Agulhas",
       "Canary",
@@ -7909,7 +7909,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-245-112",
-    "questionText": "The result of football match completed at 6.00p.m. at Accra (Ghana) and immediately announced over the wireless was heard at 12.00noon same day at another city. The longitude of the city is  (JAMB 2010)",
+    "questionText": "The result of football match completed at 6.00p.m. at Accra (Ghana) and immediately announced over the wireless was heard at 12.00noon same day at another city. The longitude of the city is",
     "options": [
       "900E",
       "600E",
@@ -7921,7 +7921,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-246-111",
-    "questionText": "The sea bed, bordering the continents which is covered by the shallow water is known as  (JAMB 2010)",
+    "questionText": "The sea bed, bordering the continents which is covered by the shallow water is known as",
     "options": [
       "continental slope",
       "coral reef",
@@ -7933,7 +7933,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-247-100",
-    "questionText": "Drought-tolerant plants are   (JAMB 2010)",
+    "questionText": "Drought-tolerant plants are",
     "options": [
       "Epiphytes",
       "Hydrophytes",
@@ -7945,7 +7945,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-248-102",
-    "questionText": "When the moon comes in between the earth and the sun in a perfect straight line, it is known as (JAMB 2010)",
+    "questionText": "When the moon comes in between the earth and the sun in a perfect straight line, it is known as",
     "options": [
       "Eclipse of the moon",
       "Lunar eclipse",
@@ -7957,7 +7957,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-249-105",
-    "questionText": "Large masswa of moving ice in the oceans are   (JAMB 2010)",
+    "questionText": "Large masswa of moving ice in the oceans are",
     "options": [
       "glacier",
       "iceberg",
@@ -7969,7 +7969,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-250-109",
-    "questionText": "In general, temperature decreases from the equator towards the Poles because   (JAMB 2010)",
+    "questionText": "In general, temperature decreases from the equator towards the Poles because",
     "options": [
       "angle of incidence of sun’s rays increases towards the poles",
       "angles of incidence sun’s rays decreases towards the poles",
@@ -7981,7 +7981,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-251-118",
-    "questionText": "The most important cause of tides is the, (JAMB 2011)",
+    "questionText": "The most important cause of tides is the,",
     "options": [
       "distribution of the prevailing winds",
       "rotation of the earth on its own axis",
@@ -7993,7 +7993,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-252-117",
-    "questionText": "Which of the following is a cold ocean current  (JAMB 2011)",
+    "questionText": "Which of the following is a cold ocean current",
     "options": [
       "Mozambique",
       "gulf stream",
@@ -8005,7 +8005,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-253-128",
-    "questionText": "Noonday sun is vertically overhead along the Tropic of Cancer during the month of   (JAMB 2011)",
+    "questionText": "Noonday sun is vertically overhead along the Tropic of Cancer during the month of",
     "options": [
       "June",
       "July",
@@ -8017,7 +8017,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-254-119",
-    "questionText": "Desert soils are usually deficient in  (JAMB 2011)",
+    "questionText": "Desert soils are usually deficient in",
     "options": [
       "fertility",
       "humus content",
@@ -8029,7 +8029,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-255-116",
-    "questionText": "The lower part of a river valley that has been submerged by the sea is called  (JAMB 2011)",
+    "questionText": "The lower part of a river valley that has been submerged by the sea is called",
     "options": [
       "Estuary",
       "Reef",
@@ -8041,7 +8041,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-256-123",
-    "questionText": "When the moon comes in between the earth and the sun in a straight line, it is known as   (JAMB 2011)",
+    "questionText": "When the moon comes in between the earth and the sun in a straight line, it is known as",
     "options": [
       "solar eclipse",
       "eclipse of the earth",
@@ -8053,7 +8053,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-257-124",
-    "questionText": "A degree of latitudinal distance is approximately   (JAMB 2011)",
+    "questionText": "A degree of latitudinal distance is approximately",
     "options": [
       "111km",
       "221KM",
@@ -8065,7 +8065,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-258-121",
-    "questionText": "Cyclones refer to  (JAMB 2011)",
+    "questionText": "Cyclones refer to",
     "options": [
       "centers of relatively high pressure",
       "centers of relatively low pressure",
@@ -8077,7 +8077,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-259-126",
-    "questionText": "The formulae for converting temperature from a centigrade (0C) to a Fahrenheit (0F) thermometric scale?  (JAMB 2011)",
+    "questionText": "The formulae for converting temperature from a centigrade (0C) to a Fahrenheit (0F) thermometric scale?",
     "options": [
       "0F = 1.8 x 0C + 32",
       "0F = 0.5x 0C + 32",
@@ -8089,7 +8089,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-260-125",
-    "questionText": "Which of the following places in Nigeria has the highest mean annual rainfall amount  (JAMB 2011)",
+    "questionText": "Which of the following places in Nigeria has the highest mean annual rainfall amount",
     "options": [
       "Sokoto",
       "Maiduguri",
@@ -8101,7 +8101,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-261-132",
-    "questionText": "Which of the following statements is not true for lines of latitudes? (JAMB 2011)",
+    "questionText": "Which of the following statements is not true for lines of latitudes?",
     "options": [
       "they range from 00 to 1800 North and South",
       "they range from 00 to 900 North and South",
@@ -8113,7 +8113,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-262-137",
-    "questionText": "The representative fraction of 1:50,000 can be converted to the following   (JAMB 2011)",
+    "questionText": "The representative fraction of 1:50,000 can be converted to the following",
     "options": [
       "one cm to 5km",
       "one cm to 0.05km",
@@ -8125,7 +8125,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-263-113",
-    "questionText": "Soil that are formed by wind deposition are called   (JAMB 2011)",
+    "questionText": "Soil that are formed by wind deposition are called",
     "options": [
       "laterites",
       "prairies",
@@ -8137,7 +8137,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-264-129",
-    "questionText": "An instrument used in measuring the atmospheric pressure is called  (JAMB 2011)",
+    "questionText": "An instrument used in measuring the atmospheric pressure is called",
     "options": [
       "Barometer",
       "Thermomete",
@@ -8149,7 +8149,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-265-127",
-    "questionText": "The Northern Hemisphere’s Spring Equinox is during the month of (JAMB 2011)",
+    "questionText": "The Northern Hemisphere’s Spring Equinox is during the month of",
     "options": [
       "February",
       "march",
@@ -8161,7 +8161,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-266-114",
-    "questionText": "Which of the following is not a feature of sea deposition  (JAMB 2011)",
+    "questionText": "Which of the following is not a feature of sea deposition",
     "options": [
       "Shoal",
       "Beach",
@@ -8173,7 +8173,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-267-130",
-    "questionText": "Orographic rainfall is also called  (JAMB 2011)",
+    "questionText": "Orographic rainfall is also called",
     "options": [
       "Relief rainfall",
       "cyclonic rainfall",
@@ -8185,7 +8185,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-268-115",
-    "questionText": "Which of the following terms is associated with glaciations?  (JAMB 2011)",
+    "questionText": "Which of the following terms is associated with glaciations?",
     "options": [
       "Arête",
       "Bay",
@@ -8197,7 +8197,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-269-131",
-    "questionText": "The forest type which is richest in tree species is the  (JAMB 2011)",
+    "questionText": "The forest type which is richest in tree species is the",
     "options": [
       "Deciduous forest",
       "Mediterranean forest",
@@ -8209,7 +8209,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-270-136",
-    "questionText": "Which of the following landforms is the results of  river rejuvenated?   (JAMB 2011)",
+    "questionText": "Which of the following landforms is the results of  river rejuvenated?",
     "options": [
       "Ox-box lake",
       "flood plain",
@@ -8221,7 +8221,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-271-154",
-    "questionText": "Which of the following landforms result from wind deposition?  (JAMB 2012)",
+    "questionText": "Which of the following landforms result from wind deposition?",
     "options": [
       "Playa",
       "Barchan",
@@ -8233,7 +8233,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-272-142",
-    "questionText": "What is the Centigrade equivalent of 950 Fahrenheit?  (JAMB 2012)",
+    "questionText": "What is the Centigrade equivalent of 950 Fahrenheit?",
     "options": [
       "1390C",
       "37.20C",
@@ -8245,7 +8245,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-273-139",
-    "questionText": "A front in which warm air is overtaken and lifted off the ground by cold air in a depression is known as   (JAMB 2012)",
+    "questionText": "A front in which warm air is overtaken and lifted off the ground by cold air in a depression is known as",
     "options": [
       "Cold front",
       "Warm front",
@@ -8257,7 +8257,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-274-151",
-    "questionText": "Ferrel’s law states that winds deflect to the   (JAMB 2012)",
+    "questionText": "Ferrel’s law states that winds deflect to the",
     "options": [
       "Left in the northern",
       "Right in the Northern hemisphere and to the left in the Southern hemisphere",
@@ -8269,7 +8269,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-275-155",
-    "questionText": "Which of the following farming practices can be used to check soil erosion?  (JAMB 2012)",
+    "questionText": "Which of the following farming practices can be used to check soil erosion?",
     "options": [
       "Contour ploughing",
       "Ploughing of land upslope",
@@ -8281,7 +8281,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-276-147",
-    "questionText": "A deflation hollow is produced by   (JAMB 2012)",
+    "questionText": "A deflation hollow is produced by",
     "options": [
       "River erosion",
       "Water action in a limestone area",
@@ -8293,7 +8293,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-277-141",
-    "questionText": "Environmental lapse rate is   (JAMB 2012)",
+    "questionText": "Environmental lapse rate is",
     "options": [
       "The rate of temperature changes of an air parcel undergoing vertical displacement",
       "The rate of temperature decrease of an air parcel undergoing horizontal displacement",
@@ -8305,7 +8305,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-278-152",
-    "questionText": "Given an environmental lapse tate of 0.650C per 100 metres, a place with sea level temperature of 400 and 2500 metre above the sea level will approximately have a temperature of   (JAMB 2012)",
+    "questionText": "Given an environmental lapse tate of 0.650C per 100 metres, a place with sea level temperature of 400 and 2500 metre above the sea level will approximately have a temperature of",
     "options": [
       "31.250C",
       "23.750C",
@@ -8317,7 +8317,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-279-149",
-    "questionText": "Which of the following is a not characteristic of the International Date Line?  (JAMB 2012)",
+    "questionText": "Which of the following is a not characteristic of the International Date Line?",
     "options": [
       "The Line is approximately along the 1800 meridian",
       "The line has a zigzag shape",
@@ -8329,7 +8329,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-280-140",
-    "questionText": "The earth’s atmosphere is said to be stable   (JAMB 2012)",
+    "questionText": "The earth’s atmosphere is said to be stable",
     "options": [
       "when the environmental laps rate is greater than the adiabatic lapse rate",
       "When the adiabatic lapse rate is greater than the environmental lapse rate",
@@ -8341,7 +8341,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-281-161",
-    "questionText": "In the hydrological cycle, the transfer of water from the earth’s surface to the atmosphere is by  (JAMB 2012)",
+    "questionText": "In the hydrological cycle, the transfer of water from the earth’s surface to the atmosphere is by",
     "options": [
       "Evaporation only",
       "Transpiration Only",
@@ -8353,7 +8353,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-282-150",
-    "questionText": "Which of the following African cities is situated near the confluence of rivers?  (JAMB 2012)",
+    "questionText": "Which of the following African cities is situated near the confluence of rivers?",
     "options": [
       "Niamey",
       "Freetown",
@@ -8365,7 +8365,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-283-185",
-    "questionText": "A traveler crossing the international Date line from America to Asia at 1.00 P.M. on Saturday, July 13th, 2013, would have to change his watch to 1.00 P.m. on (JAMB 2013)",
+    "questionText": "A traveler crossing the international Date line from America to Asia at 1.00 P.M. on Saturday, July 13th, 2013, would have to change his watch to 1.00 P.m. on",
     "options": [
       "Sunday, July 14th, 2013",
       "Friday, July 12th 2013",
@@ -8377,7 +8377,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-284-186",
-    "questionText": "The shaduf method of irrigation was first practiced in (JAMB 2013)",
+    "questionText": "The shaduf method of irrigation was first practiced in",
     "options": [
       "Sudan",
       "Ghana",
@@ -8389,7 +8389,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-285-162",
-    "questionText": "The second Equinox in any year take place during the month of (JAMB 2013)",
+    "questionText": "The second Equinox in any year take place during the month of",
     "options": [
       "March",
       "June",
@@ -8401,7 +8401,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-286-175",
-    "questionText": "The earth rotates from   (JAMB 2013)",
+    "questionText": "The earth rotates from",
     "options": [
       "Southeast to Southwest",
       "Southwest to Southeast",
@@ -8413,7 +8413,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-287-177",
-    "questionText": "A line joining places of equal salinity is known as (JAMB 2013)",
+    "questionText": "A line joining places of equal salinity is known as",
     "options": [
       "Isohaline",
       "Isoneph",
@@ -8425,7 +8425,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-288-179",
-    "questionText": "One hour’s difference in mean solar time represents what angular difference in longitude? (JAMB 2013)",
+    "questionText": "One hour’s difference in mean solar time represents what angular difference in longitude?",
     "options": [
       "15o",
       "23.5o",
@@ -8437,7 +8437,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-289-171",
-    "questionText": "Where is Sahel Savanna vegetation belt found in Nigeria? (JAMB 2013)",
+    "questionText": "Where is Sahel Savanna vegetation belt found in Nigeria?",
     "options": [
       "Northwest",
       "Northeast",
@@ -8449,7 +8449,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-290-174",
-    "questionText": "The major disadvantage of the River Nile as a trade route is that   (JAMB 2013)",
+    "questionText": "The major disadvantage of the River Nile as a trade route is that",
     "options": [
       "it is too long",
       "it is too shallow",
@@ -8461,7 +8461,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-291-164",
-    "questionText": "The main work of a river in its torrent stage is   (JAMB 2013)",
+    "questionText": "The main work of a river in its torrent stage is",
     "options": [
       "Widening its valley",
       "Down cutting",
@@ -8473,7 +8473,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-292-165",
-    "questionText": "Which of the locations in Nigeria has the highest mean annual rainfall total ?   (JAMB 2013)",
+    "questionText": "Which of the locations in Nigeria has the highest mean annual rainfall total ?",
     "options": [
       "Benin City",
       "Port-Harcourt",
@@ -8485,7 +8485,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-293-173",
-    "questionText": "Drought-tolerant plants are known as   (JAMB 2013)",
+    "questionText": "Drought-tolerant plants are known as",
     "options": [
       "Epiphytes",
       "Hydrophytes",
@@ -8497,7 +8497,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-294-184",
-    "questionText": "The cheapest means of transport for a long distance travel is by    (JAMB 2013)",
+    "questionText": "The cheapest means of transport for a long distance travel is by",
     "options": [
       "Air",
       "Rail",
@@ -8509,7 +8509,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-295-235",
-    "questionText": "The new name of Calicut, a famous city of Kerala is  (JAMB 2014)",
+    "questionText": "The new name of Calicut, a famous city of Kerala is",
     "options": [
       "Kozhikode",
       "Trivendrum",
@@ -8521,7 +8521,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-296-203",
-    "questionText": "The ethnic groups in Nigeria are:  (JAMB 2014)",
+    "questionText": "The ethnic groups in Nigeria are:",
     "options": [
       "More than 250",
       "More than 150",
@@ -8533,7 +8533,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-297-204",
-    "questionText": "Orographic rainfall is a:    (JAMB 2014)",
+    "questionText": "Orographic rainfall is a:",
     "options": [
       "Temperate rainfall",
       "Relief rainfall.",
@@ -8545,7 +8545,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-298-202",
-    "questionText": "An island is a:    (JAMB 2014)",
+    "questionText": "An island is a:",
     "options": [
       "Piece of land surrounded by water.",
       "Piece of land surrounded by land.",
@@ -8557,7 +8557,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-299-210",
-    "questionText": "Which one of the following countries is having the highest quality of life?  (JAMB 2014)",
+    "questionText": "Which one of the following countries is having the highest quality of life?",
     "options": [
       "Sweden",
       "Austria",
@@ -8569,7 +8569,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-300-200",
-    "questionText": "A lake is a:    (JAMB 2014)",
+    "questionText": "A lake is a:",
     "options": [
       "Large body of water surrounded by forest.",
       "Large body of water surrounded by land.",
@@ -8581,7 +8581,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-301-189",
-    "questionText": "Temperature is a measure of:  (JAMB 2014)",
+    "questionText": "Temperature is a measure of:",
     "options": [
       "The average hotness",
       "The average coolness",
@@ -8593,7 +8593,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-302-225",
-    "questionText": "Isotherms are lines drawn on maps joining places having equal  (JAMB 2014)",
+    "questionText": "Isotherms are lines drawn on maps joining places having equal",
     "options": [
       "Temperature",
       "Cloud cover",
@@ -8605,7 +8605,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-303-231",
-    "questionText": "Any buoyant parcel of air is said to exhibit ________.  (JAMB 2014)",
+    "questionText": "Any buoyant parcel of air is said to exhibit ________.",
     "options": [
       "Instability",
       "The dry adiabatic lapse rate",
@@ -8617,7 +8617,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-304-195",
-    "questionText": "Weathering of rocks is:  (JAMB 2014)",
+    "questionText": "Weathering of rocks is:",
     "options": [
       "The formations of rocks",
       "The breaking down of rocks.",
@@ -8629,7 +8629,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-305-207",
-    "questionText": "Nigeria lies between (JAMB 2014)",
+    "questionText": "Nigeria lies between",
     "options": [
       "Latitudes 4° and 13°N and longitudes 2° and 15°E.",
       "Latitudes 5° and 14°N and longitudes 4° and 15°E.",
@@ -8641,7 +8641,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-306-188",
-    "questionText": "Igneous rocks are rocks formed by (JAMB 2014)",
+    "questionText": "Igneous rocks are rocks formed by",
     "options": [
       "The cooling of molten minerals from a liquid into a solid.",
       "The change of minerals from a solid into a liquid",
@@ -8653,7 +8653,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-307-230",
-    "questionText": "……...Refers to the nature of the surface of an area and the features that abound therein above the sea level (JAMB 2014)",
+    "questionText": "……...Refers to the nature of the surface of an area and the features that abound therein above the sea level",
     "options": [
       "Barchans",
       "Relief",
@@ -8665,7 +8665,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-308-223",
-    "questionText": "To obtain the climate of a place the average atmospheric weather conditions should be considered  (JAMB 2014)",
+    "questionText": "To obtain the climate of a place the average atmospheric weather conditions should be considered",
     "options": [
       "20years",
       "24years",
@@ -8677,7 +8677,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-309-226",
-    "questionText": "Precipitation include all the following except  (JAMB 2014)",
+    "questionText": "Precipitation include all the following except",
     "options": [
       "Fog",
       "Snow",
@@ -8689,7 +8689,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-310-206",
-    "questionText": "The United Nations estimate of Nigeria population in 2009 was (JAMB 2014)",
+    "questionText": "The United Nations estimate of Nigeria population in 2009 was",
     "options": [
       "154,729,000",
       "144,729,000.00",
@@ -8701,7 +8701,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-311-211",
-    "questionText": "Nairobi is a:  (JAMB 2014)",
+    "questionText": "Nairobi is a:",
     "options": [
       "North African City",
       "West African City",
@@ -8713,7 +8713,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-312-187",
-    "questionText": "Climate is the:  (JAMB 2014)",
+    "questionText": "Climate is the:",
     "options": [
       "Prevailing weather conditions of a region for 10 years",
       "Prevailing weather conditions of a region for 15 years",
@@ -8725,7 +8725,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-313-219",
-    "questionText": "Wind erosion is most common in  (JAMB 2014)",
+    "questionText": "Wind erosion is most common in",
     "options": [
       "Rocky areas",
       "Riverine areas",
@@ -8737,7 +8737,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-314-228",
-    "questionText": "Settlements can be classified according to all the following except the    (JAMB 2014)",
+    "questionText": "Settlements can be classified according to all the following except the",
     "options": [
       "The arrangements of the building",
       "Number of people per settlements",
@@ -8749,7 +8749,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-315-229",
-    "questionText": "The average hurricane exists, on the average, for about ________.  (JAMB 2014)",
+    "questionText": "The average hurricane exists, on the average, for about ________.",
     "options": [
       "one week",
       "two weeks",
@@ -8761,7 +8761,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-316-412",
-    "questionText": "A layer of fine wind-deposited sand on silt is known as (JAMB 2020)",
+    "questionText": "A layer of fine wind-deposited sand on silt is known as",
     "options": [
       "Loess",
       "Bajada",
@@ -8773,7 +8773,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-317-427",
-    "questionText": "The world's busiest seaport is (JAMB 2020)",
+    "questionText": "The world's busiest seaport is",
     "options": [
       "London",
       "Bombay",
@@ -8785,7 +8785,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-318-415",
-    "questionText": "The process by which materials are physically transferred from one soil layer to another is called? (JAMB 2020)",
+    "questionText": "The process by which materials are physically transferred from one soil layer to another is called?",
     "options": [
       "Eluviation",
       "Illuviation",
@@ -8797,7 +8797,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-319-344",
-    "questionText": "Soil conservation can be achieved through (JAMB 2018)",
+    "questionText": "Soil conservation can be achieved through",
     "options": [
       "Monoculture",
       "Mechanization",
@@ -8809,7 +8809,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-320-242",
-    "questionText": "What is the average gradient of the slope marked G-H? (JAMB 2016)",
+    "questionText": "What is the average gradient of the slope marked G-H?",
     "options": [
       "01:34",
       "01:40",
@@ -8821,7 +8821,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-321-369",
-    "questionText": "Station Y is located in the Northern Hemisphere because the (JAMB 2019)",
+    "questionText": "Station Y is located in the Northern Hemisphere because the",
     "options": [
       "Highest rainfall is in August",
       "Annual range of temperature is 9.4°C",
@@ -8833,7 +8833,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-322-275",
-    "questionText": "The type of drainage is (JAMB 2016)",
+    "questionText": "The type of drainage is",
     "options": [
       "Superimposed",
       "Trellised",
@@ -8845,7 +8845,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-323-289",
-    "questionText": "The annual range of temperature for the station is (JAMB 2017)",
+    "questionText": "The annual range of temperature for the station is",
     "options": [
       "27°",
       "17°",
@@ -8857,7 +8857,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-324-411",
-    "questionText": "A good overland transportation system promotes economic development because it (JAMB 2020)",
+    "questionText": "A good overland transportation system promotes economic development because it",
     "options": [
       "Provides employment for drivers",
       "Fosters interregional trade",
@@ -8869,7 +8869,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-325-408",
-    "questionText": "Which of the following statistical mapping techniques is most suitable for showing the spatial distribution of cattle in different northern states of Nigeria (JAMB 2020)",
+    "questionText": "Which of the following statistical mapping techniques is most suitable for showing the spatial distribution of cattle in different northern states of Nigeria",
     "options": [
       "Isopleths",
       "Pie chart",
@@ -8881,7 +8881,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-326-248",
-    "questionText": "Nigeria is the world's leading producer of  (JAMB 2016)",
+    "questionText": "Nigeria is the world's leading producer of",
     "options": [
       "Columbite",
       "Palm Kernel",
@@ -8893,7 +8893,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-327-252",
-    "questionText": "The appropriate geographical term for that narrow feature east of Ela Lagoon along which a footpath runs is (JAMB 2016)",
+    "questionText": "The appropriate geographical term for that narrow feature east of Ela Lagoon along which a footpath runs is",
     "options": [
       "Lake",
       "Isthmus",
@@ -8905,7 +8905,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-328-237",
-    "questionText": "Which of these is a textual classification of soils? (JAMB 2016)",
+    "questionText": "Which of these is a textual classification of soils?",
     "options": [
       "Rounded, Irregular, and Flat",
       "Angular, Prismatic and Columnar",
@@ -8917,7 +8917,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-329-250",
-    "questionText": "The elevated feature that runs westwards from the cape near mito to the western edge of the map is (JAMB 2016)",
+    "questionText": "The elevated feature that runs westwards from the cape near mito to the western edge of the map is",
     "options": [
       "A Spur",
       "Peninsular",
@@ -8929,7 +8929,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-330-271",
-    "questionText": "The highest category of rural settlement is the (JAMB 2016)",
+    "questionText": "The highest category of rural settlement is the",
     "options": [
       "Hut",
       "Village",
@@ -8941,7 +8941,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-331-245",
-    "questionText": "What is the size, in square kilometers of the area covered by the map? (JAMB 2016)",
+    "questionText": "What is the size, in square kilometers of the area covered by the map?",
     "options": [
       "58.0 sqkm",
       "64.0 sqkm",
@@ -8953,7 +8953,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-332-259",
-    "questionText": "From a point, the whole circle bearing of a line is 135°. A clockwise angle from the line was measured to be 260° to another line. What is the whole circle bearing of the later line? (JAMB 2016)",
+    "questionText": "From a point, the whole circle bearing of a line is 135°. A clockwise angle from the line was measured to be 260° to another line. What is the whole circle bearing of the later line?",
     "options": [
       "225°",
       "35°",
@@ -8965,7 +8965,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-333-254",
-    "questionText": "The above diagram shows the position of the Earth in relation to the sun on June 21st. The earth's axis is inclined from the vertical at an angle of (JAMB 2016)",
+    "questionText": "The above diagram shows the position of the Earth in relation to the sun on June 21st. The earth's axis is inclined from the vertical at an angle of",
     "options": [
       "86 1/2",
       "66 1/2",
@@ -8977,7 +8977,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-334-267",
-    "questionText": "The rock of the basement complex are generally referred to as (JAMB 2016)",
+    "questionText": "The rock of the basement complex are generally referred to as",
     "options": [
       "Sedimentary formation",
       "Volcanic rocks",
@@ -8989,7 +8989,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-335-262",
-    "questionText": "The area served by a given city is referred to as its (JAMB 2016)",
+    "questionText": "The area served by a given city is referred to as its",
     "options": [
       "Territory",
       "Sphere of influence",
@@ -9001,7 +9001,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-336-265",
-    "questionText": "The most common tree in the desert is the (JAMB 2016)",
+    "questionText": "The most common tree in the desert is the",
     "options": [
       "Pine",
       "Date",
@@ -9013,7 +9013,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-337-266",
-    "questionText": "The sex ratio of any population may be affected by (JAMB 2016)",
+    "questionText": "The sex ratio of any population may be affected by",
     "options": [
       "Morbidity",
       "Mortality",
@@ -9025,7 +9025,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-338-260",
-    "questionText": "The port that specializes in receiving and re-exporting goods is known as (JAMB 2016)",
+    "questionText": "The port that specializes in receiving and re-exporting goods is known as",
     "options": [
       "Entrepot",
       "International port",
@@ -9037,7 +9037,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-339-243",
-    "questionText": "Name the features crossed by the footpath between points Y and Z (JAMB 2016)",
+    "questionText": "Name the features crossed by the footpath between points Y and Z",
     "options": [
       "Spur",
       "Gorge",
@@ -9049,7 +9049,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-340-276",
-    "questionText": "The Nigerian river with the longest distance of internal waterways is  (JAMB 2016)",
+    "questionText": "The Nigerian river with the longest distance of internal waterways is",
     "options": [
       "Cross River",
       "River Benue",
@@ -9061,7 +9061,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-341-256",
-    "questionText": "What type of climate is experienced in the region \"P\" shaded on the map? (JAMB 2016)",
+    "questionText": "What type of climate is experienced in the region \"P\" shaded on the map?",
     "options": [
       "Cool temperature Western Margin",
       "Tropical Continental",
@@ -9073,7 +9073,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-342-258",
-    "questionText": "The leading wheat producing region of the world is the (JAMB 2016)",
+    "questionText": "The leading wheat producing region of the world is the",
     "options": [
       "Veldt of South Africa",
       "Downs of Australia",
@@ -9085,7 +9085,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-343-261",
-    "questionText": "Agricultural productivity is low in Tropical Africa because of (JAMB 2016)",
+    "questionText": "Agricultural productivity is low in Tropical Africa because of",
     "options": [
       "Poor Soil and unfavourable climate",
       "Low demand and lack of credit facilities",
@@ -9097,7 +9097,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-344-272",
-    "questionText": "Which of the following minerals is produced in Niger Republic? (JAMB 2016)",
+    "questionText": "Which of the following minerals is produced in Niger Republic?",
     "options": [
       "Uranium",
       "Crude oil",
@@ -9109,7 +9109,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-345-313",
-    "questionText": "The greatest advantage of road transportation over other modes is that the former is (JAMB 2017)",
+    "questionText": "The greatest advantage of road transportation over other modes is that the former is",
     "options": [
       "Less risky",
       "Faster",
@@ -9121,7 +9121,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-346-281",
-    "questionText": "Tourists are attracted to the East African countries of Kenya and Tanzania mainly by the (JAMB 2017)",
+    "questionText": "Tourists are attracted to the East African countries of Kenya and Tanzania mainly by the",
     "options": [
       "Famous political leaders",
       "Rich wildlife of the park grasslands",
@@ -9133,7 +9133,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-347-309",
-    "questionText": "Which od these West African countries is known for the mining of phosphates? (JAMB 2017)",
+    "questionText": "Which od these West African countries is known for the mining of phosphates?",
     "options": [
       "Liberia",
       "Togo",
@@ -9145,7 +9145,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-348-315",
-    "questionText": "Chemical weathering in tropical Africa creates domed rock outcroppings called (JAMB 2017)",
+    "questionText": "Chemical weathering in tropical Africa creates domed rock outcroppings called",
     "options": [
       "Inselbergs",
       "Volcanic rocks",
@@ -9157,7 +9157,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-349-290",
-    "questionText": "The climate region represented above is (JAMB 2017)",
+    "questionText": "The climate region represented above is",
     "options": [
       "Siberan",
       "Arctic",
@@ -9169,7 +9169,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-350-291",
-    "questionText": "The time difference between a place on longitude 35° W and another on longitude 25° E is (JAMB 2017)",
+    "questionText": "The time difference between a place on longitude 35° W and another on longitude 25° E is",
     "options": [
       "5 hours",
       "4 hours",
@@ -9181,7 +9181,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-351-282",
-    "questionText": "The length of the main road from Robo junction to Oseb junction is approximately (JAMB 2017)",
+    "questionText": "The length of the main road from Robo junction to Oseb junction is approximately",
     "options": [
       "8.5km",
       "6.5km",
@@ -9193,7 +9193,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-352-285",
-    "questionText": "The major human activity in the area is probably (JAMB 2017)",
+    "questionText": "The major human activity in the area is probably",
     "options": [
       "Fishing",
       "Farming",
@@ -9205,7 +9205,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-353-283",
-    "questionText": "The relative relief of the area is slight above (JAMB 2017)",
+    "questionText": "The relative relief of the area is slight above",
     "options": [
       "575m",
       "485m",
@@ -9217,7 +9217,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-354-308",
-    "questionText": "Which of the following statement distinguishes Koppen's Am from his AF climate? (JAMB 2017)",
+    "questionText": "Which of the following statement distinguishes Koppen's Am from his AF climate?",
     "options": [
       "Shorter frost season",
       "Rainfall greater than 2000mm",
@@ -9229,7 +9229,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-355-288",
-    "questionText": "The leading producers of diamond in Africa are (JAMB 2017)",
+    "questionText": "The leading producers of diamond in Africa are",
     "options": [
       "Botswana and Sierra leone",
       "South Africa and the Democratic Republic of Congo",
@@ -9241,7 +9241,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-356-298",
-    "questionText": "When it is 12.00 noon on longitude 30°W local time on longitude 75°E (JAMB 2017)",
+    "questionText": "When it is 12.00 noon on longitude 30°W local time on longitude 75°E",
     "options": [
       "7.00pm",
       "5.00am",
@@ -9253,7 +9253,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-357-287",
-    "questionText": "The heavy dark soil associated with floodable valley bottoms is a (JAMB 2017)",
+    "questionText": "The heavy dark soil associated with floodable valley bottoms is a",
     "options": [
       "Podzolic soil",
       "Hydromorphic soil",
@@ -9265,7 +9265,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-358-277",
-    "questionText": "Identify the non-fuel mineral among the following (JAMB 2017)",
+    "questionText": "Identify the non-fuel mineral among the following",
     "options": [
       "Lignite",
       "Peat",
@@ -9277,7 +9277,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-359-305",
-    "questionText": "The latitude which marks the lines of the Sun's apparent movement north and south of the equator is (JAMB 2017)",
+    "questionText": "The latitude which marks the lines of the Sun's apparent movement north and south of the equator is",
     "options": [
       "60.5°",
       "66.5°",
@@ -9289,7 +9289,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-360-280",
-    "questionText": "The following lakes have outlets to the sea Except lake (JAMB 2017)",
+    "questionText": "The following lakes have outlets to the sea Except lake",
     "options": [
       "Chad",
       "Michigan",
@@ -9301,7 +9301,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-361-303",
-    "questionText": "The fishing industry in the Mediterranean Sea is Best accounted for by the fact that (JAMB 2017)",
+    "questionText": "The fishing industry in the Mediterranean Sea is Best accounted for by the fact that",
     "options": [
       "The coastal dwellers are fishermen",
       "Fishing is an old industry in the basin",
@@ -9313,7 +9313,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-362-296",
-    "questionText": "Which of the following is the main export from Uganda? (JAMB 2017)",
+    "questionText": "Which of the following is the main export from Uganda?",
     "options": [
       "Jute",
       "Coffee",
@@ -9325,7 +9325,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-363-316",
-    "questionText": "A weather element controlled mainly by latitude is (JAMB 2017)",
+    "questionText": "A weather element controlled mainly by latitude is",
     "options": [
       "Humidity",
       "Cloud cover",
@@ -9337,7 +9337,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-364-340",
-    "questionText": "Lakes Kivu and Malawi are related in that they (JAMB 2018)",
+    "questionText": "Lakes Kivu and Malawi are related in that they",
     "options": [
       "Lie in the Northern Hemisphere",
       "Are crater lakes",
@@ -9349,7 +9349,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-365-328",
-    "questionText": "Dodoma is to Tanzania as ___________ is to Nigeria (JAMB 2018)",
+    "questionText": "Dodoma is to Tanzania as ___________ is to Nigeria",
     "options": [
       "Abuja",
       "Warri",
@@ -9361,7 +9361,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-366-329",
-    "questionText": "The annual temperature range at the station is (JAMB 2018)",
+    "questionText": "The annual temperature range at the station is",
     "options": [
       "20°C",
       "30°C",
@@ -9373,7 +9373,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-367-345",
-    "questionText": "The oldest system of agriculture in Nigeria which now survives only in very remote areas is (JAMB 2018)",
+    "questionText": "The oldest system of agriculture in Nigeria which now survives only in very remote areas is",
     "options": [
       "Bush fallowing",
       "Mixed farming",
@@ -9385,7 +9385,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-368-325",
-    "questionText": "Along which latitude will the day time be the longest on Christmas day? (JAMB 2018)",
+    "questionText": "Along which latitude will the day time be the longest on Christmas day?",
     "options": [
       "0°",
       "45°S",
@@ -9397,7 +9397,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-369-343",
-    "questionText": "If the distance between two places on a map is 2cm while the distance on land is 4km, the scale of the map is (JAMB 2018)",
+    "questionText": "If the distance between two places on a map is 2cm while the distance on land is 4km, the scale of the map is",
     "options": [
       "1:100,000",
       "1:200,000",
@@ -9409,7 +9409,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-370-347",
-    "questionText": "The dominant foreign exchange earner of Senegal is  (JAMB 2018)",
+    "questionText": "The dominant foreign exchange earner of Senegal is",
     "options": [
       "Tourism",
       "Groundnut",
@@ -9421,7 +9421,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-371-341",
-    "questionText": "The feature marked X in the diagram is a (JAMB 2018)",
+    "questionText": "The feature marked X in the diagram is a",
     "options": [
       "Spit",
       "Stack",
@@ -9433,7 +9433,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-372-326",
-    "questionText": "Which is commodity associated with OPEC? (JAMB 2018)",
+    "questionText": "Which is commodity associated with OPEC?",
     "options": [
       "Coffee",
       "Iron and Steel",
@@ -9445,7 +9445,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-373-330",
-    "questionText": "What type of climate has the station? (JAMB 2018)",
+    "questionText": "What type of climate has the station?",
     "options": [
       "Cool temperature",
       "Warm temperature",
@@ -9457,7 +9457,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-374-351",
-    "questionText": "The greatest volcanic regions of Africa are found in  (JAMB 2018)",
+    "questionText": "The greatest volcanic regions of Africa are found in",
     "options": [
       "The Maghrib",
       "Kenya and Tanzania",
@@ -9469,7 +9469,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-375-320",
-    "questionText": "The bearing of Jata from Adaba is approximately (JAMB 2018)",
+    "questionText": "The bearing of Jata from Adaba is approximately",
     "options": [
       "29°",
       "17°",
@@ -9481,7 +9481,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-376-332",
-    "questionText": "In which of the following countries is cotton growing under irrigation the mainstay of the agricultural economy? (JAMB 2018)",
+    "questionText": "In which of the following countries is cotton growing under irrigation the mainstay of the agricultural economy?",
     "options": [
       "Zimbabwe",
       "Uganda",
@@ -9493,7 +9493,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-377-342",
-    "questionText": "The feature is one of the landforms associated with (JAMB 2018)",
+    "questionText": "The feature is one of the landforms associated with",
     "options": [
       "River erosion",
       "Wind deposition",
@@ -9505,7 +9505,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-378-318",
-    "questionText": "An alternative graphic method that can be used to depict that same information is the (JAMB 2018)",
+    "questionText": "An alternative graphic method that can be used to depict that same information is the",
     "options": [
       "Divided rectangle",
       "Chloropath",
@@ -9517,7 +9517,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-379-352",
-    "questionText": "A type of landforms that is associated with large scale orogeny is a (JAMB 2018)",
+    "questionText": "A type of landforms that is associated with large scale orogeny is a",
     "options": [
       "Fold mountain",
       "Residual mountain",
@@ -9529,7 +9529,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-380-356",
-    "questionText": "The lack of access to food in some parts of the world emanates from (JAMB 2018)",
+    "questionText": "The lack of access to food in some parts of the world emanates from",
     "options": [
       "Educational inequality",
       "Poor transport system",
@@ -9541,7 +9541,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-381-323",
-    "questionText": "Given that the area show on the map is in Northern Nigeria, which of the following crop combinations would best be cultivated in the area that is liable to flooding? (JAMB 2018)",
+    "questionText": "Given that the area show on the map is in Northern Nigeria, which of the following crop combinations would best be cultivated in the area that is liable to flooding?",
     "options": [
       "Banana, Rice, and Cassava",
       "Cassava, Rice, and Yam",
@@ -9553,7 +9553,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-382-319",
-    "questionText": "Area covered by the map is approximately (JAMB 2018)",
+    "questionText": "Area covered by the map is approximately",
     "options": [
       "125 km.sq",
       "105 km.sq",
@@ -9565,7 +9565,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-383-387",
-    "questionText": "Sugar plantations in Africa are most likely developed in the lowlands of  (JAMB 2019)",
+    "questionText": "Sugar plantations in Africa are most likely developed in the lowlands of",
     "options": [
       "Coast and Mozambique",
       "The mediterranean seaboard and the Guinea coast",
@@ -9577,7 +9577,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-384-389",
-    "questionText": "The highest lands in Nigeria are found on the  (JAMB 2019)",
+    "questionText": "The highest lands in Nigeria are found on the",
     "options": [
       "Oban Hills",
       "Western Highlands",
@@ -9589,7 +9589,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-385-378",
-    "questionText": "A radio message sent from a location on Longitude 15°W at 7.00 a.m is received at another location at 2.00 p.m on the same day. What is the longitudinal position of the other location? (JAMB 2019)",
+    "questionText": "A radio message sent from a location on Longitude 15°W at 7.00 a.m is received at another location at 2.00 p.m on the same day. What is the longitudinal position of the other location?",
     "options": [
       "90°W",
       "105°E",
@@ -9601,7 +9601,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-386-392",
-    "questionText": "Weber's theory of industrial location was based on  (JAMB 2019)",
+    "questionText": "Weber's theory of industrial location was based on",
     "options": [
       "Nearness to source of power",
       "Least transportation cost",
@@ -9613,7 +9613,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-387-357",
-    "questionText": "What is a typical farmer in the Susan Savannah of Nigeria most likely to be doing in June? (JAMB 2019)",
+    "questionText": "What is a typical farmer in the Susan Savannah of Nigeria most likely to be doing in June?",
     "options": [
       "Taking part in a fishing festival",
       "Clearing his land for planting",
@@ -9625,7 +9625,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-388-358",
-    "questionText": "Bamboo and mahogany, liana and obeche, raphia and tree ferns. In which vegetation type are all these found? (JAMB 2019)",
+    "questionText": "Bamboo and mahogany, liana and obeche, raphia and tree ferns. In which vegetation type are all these found?",
     "options": [
       "Coniferous forest",
       "Tropical monsoon",
@@ -9637,7 +9637,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-389-377",
-    "questionText": "The two major economic activities in the Chas basin are (JAMB 2019)",
+    "questionText": "The two major economic activities in the Chas basin are",
     "options": [
       "Fishing and irrigation agriculture",
       "Tourism and livestock production",
@@ -9649,7 +9649,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-390-360",
-    "questionText": "With which of the following processes are drumlins boulder clay and terminal moraines associated? (JAMB 2019)",
+    "questionText": "With which of the following processes are drumlins boulder clay and terminal moraines associated?",
     "options": [
       "River deposition",
       "Wind deposition",
@@ -9661,7 +9661,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-391-373",
-    "questionText": "Which of the following represents tha cheapest mode of transportation (JAMB 2019)",
+    "questionText": "Which of the following represents tha cheapest mode of transportation",
     "options": [
       "Air",
       "Rail",
@@ -9673,7 +9673,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-392-363",
-    "questionText": "The bearing, to the nearest degree, of the mosque in Amagu settlement from the middle of the bridge across the River Zogo is (JAMB 2019)",
+    "questionText": "The bearing, to the nearest degree, of the mosque in Amagu settlement from the middle of the bridge across the River Zogo is",
     "options": [
       "41°",
       "51°",
@@ -9685,7 +9685,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-393-391",
-    "questionText": "The instrument used for measuring atmosphere pressure is  (JAMB 2019)",
+    "questionText": "The instrument used for measuring atmosphere pressure is",
     "options": [
       "A barometer",
       "An anemometer",
@@ -9697,7 +9697,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-394-385",
-    "questionText": "During winter, the Eskimos live in (JAMB 2019)",
+    "questionText": "During winter, the Eskimos live in",
     "options": [
       "Tunnels",
       "Igloos",
@@ -9709,7 +9709,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-395-361",
-    "questionText": "Examples of folded structures in Africa include the Atlas Mountains, the Cape Ranges and the (JAMB 2019)",
+    "questionText": "Examples of folded structures in Africa include the Atlas Mountains, the Cape Ranges and the",
     "options": [
       "Jos Plateau",
       "Akwapim Hills",
@@ -9721,7 +9721,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-396-394",
-    "questionText": "Which of the following systems provides irrigation water and hydro-electricity (JAMB 2019)",
+    "questionText": "Which of the following systems provides irrigation water and hydro-electricity",
     "options": [
       "Shiroro",
       "Gezira",
@@ -9733,7 +9733,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-397-371",
-    "questionText": "The mean annual rainfall of Station Y is (JAMB 2019)",
+    "questionText": "The mean annual rainfall of Station Y is",
     "options": [
       "175.3mm",
       "54.2mm",
@@ -9745,7 +9745,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-398-368",
-    "questionText": "\"Adiabatic cooling\" is the cooling of rising air as a result of (JAMB 2019)",
+    "questionText": "\"Adiabatic cooling\" is the cooling of rising air as a result of",
     "options": [
       "Movement on the windward side of mountains",
       "Increasing altitude",
@@ -9757,7 +9757,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-399-386",
-    "questionText": "An igneous rock with distinct grains of mica feldspar and quartz is (JAMB 2019)",
+    "questionText": "An igneous rock with distinct grains of mica feldspar and quartz is",
     "options": [
       "Basalt",
       "Granite",
@@ -9769,7 +9769,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-400-376",
-    "questionText": "Time, as a factor of soil formation, influences mainly soil (JAMB 2019)",
+    "questionText": "Time, as a factor of soil formation, influences mainly soil",
     "options": [
       "Nutrients",
       "Texture",
@@ -9781,7 +9781,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-401-381",
-    "questionText": "Cattle are sent from Great Plains of U.S.A for fattening and sale in the (JAMB 2019)",
+    "questionText": "Cattle are sent from Great Plains of U.S.A for fattening and sale in the",
     "options": [
       "Industrial North East",
       "South East",
@@ -9793,7 +9793,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-402-375",
-    "questionText": "Which of the following is a river port in Africa? (JAMB 2019)",
+    "questionText": "Which of the following is a river port in Africa?",
     "options": [
       "Kinshasa",
       "East London",
@@ -9805,7 +9805,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-403-431",
-    "questionText": "The equatorial circumference of earth  (JAMB 2020)",
+    "questionText": "The equatorial circumference of earth",
     "options": [
       "30,084 km",
       "60,084 km",
@@ -9817,7 +9817,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-404-416",
-    "questionText": "In Nigeria, geographical location poses the greatest hindrance to economic development in the (JAMB 2020)",
+    "questionText": "In Nigeria, geographical location poses the greatest hindrance to economic development in the",
     "options": [
       "Eastern High Lands",
       "Eastern Scarp Land",
@@ -9829,7 +9829,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-405-425",
-    "questionText": "A poor settlement on the edge of a city is known as a (JAMB 2020)",
+    "questionText": "A poor settlement on the edge of a city is known as a",
     "options": [
       "Slum",
       "Newtown",
@@ -9841,7 +9841,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-406-436",
-    "questionText": "Nigeria's three steel rolling mills are located around (JAMB 2020)",
+    "questionText": "Nigeria's three steel rolling mills are located around",
     "options": [
       "Katsina, Oshogbo, and Jos",
       "Ilesha, Ilorin,and Kaduna",
@@ -9853,7 +9853,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-407-403",
-    "questionText": "Which of the following countries has a large number if people if African descent? (JAMB 2020)",
+    "questionText": "Which of the following countries has a large number if people if African descent?",
     "options": [
       "Brazil",
       "Spain",
@@ -9865,7 +9865,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-408-423",
-    "questionText": "The total area covered by the map is approximately (JAMB 2020)",
+    "questionText": "The total area covered by the map is approximately",
     "options": [
       "268sqkm",
       "258sqkm",
@@ -9877,7 +9877,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-409-430",
-    "questionText": "The most significant economic use of ocean water is for (JAMB 2020)",
+    "questionText": "The most significant economic use of ocean water is for",
     "options": [
       "Bathing",
       "Recreation",
@@ -9889,7 +9889,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-410-414",
-    "questionText": "In what order do the following occur from the surface to the bottom of an oil well? (JAMB 2020)",
+    "questionText": "In what order do the following occur from the surface to the bottom of an oil well?",
     "options": [
       "Gas, water, oil",
       "Gas, oil, water",
@@ -9901,7 +9901,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-411-434",
-    "questionText": "Which of the following farming system is likely to give rise to nucleated settlements? (JAMB 2020)",
+    "questionText": "Which of the following farming system is likely to give rise to nucleated settlements?",
     "options": [
       "Irrigation farming",
       "Subsistence farming",
@@ -9913,7 +9913,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-412-409",
-    "questionText": "The progressive widening of joints and cracks in limestone by solutions, initially lead to the formation of  (JAMB 2020)",
+    "questionText": "The progressive widening of joints and cracks in limestone by solutions, initially lead to the formation of",
     "options": [
       "Cliff and dry valleys",
       "Caves and caverns",
@@ -9925,7 +9925,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-413-400",
-    "questionText": "When on looks at a soil profile, the first characteristic to be noticed is soil (JAMB 2020)",
+    "questionText": "When on looks at a soil profile, the first characteristic to be noticed is soil",
     "options": [
       "Structure",
       "Moisture",
@@ -9937,7 +9937,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-414-428",
-    "questionText": "An example of a calcareous rock is (JAMB 2020)",
+    "questionText": "An example of a calcareous rock is",
     "options": [
       "Granite",
       "Limestone",
@@ -9949,7 +9949,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-415-406",
-    "questionText": "Urban centres originate mainly as a zone of  (JAMB 2020)",
+    "questionText": "Urban centres originate mainly as a zone of",
     "options": [
       "Tourist attraction",
       "Non-primary economic activity",
@@ -9961,7 +9961,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-416-422",
-    "questionText": "The diagram is a (JAMB 2020)",
+    "questionText": "The diagram is a",
     "options": [
       "Bar graph",
       "Proportion graph",
@@ -9973,7 +9973,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-417-407",
-    "questionText": "U and V are two places along the same Meridian on latitude 20°N and 25°N respectively. The shortest distance between the two places is approximately (JAMB 2020)",
+    "questionText": "U and V are two places along the same Meridian on latitude 20°N and 25°N respectively. The shortest distance between the two places is approximately",
     "options": [
       "560km",
       "680km",
@@ -9985,7 +9985,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-418-401",
-    "questionText": "Which of the following areas is subjected to frequent earthquakes (JAMB 2020)",
+    "questionText": "Which of the following areas is subjected to frequent earthquakes",
     "options": [
       "South Africa",
       "The Sahara Desert",
@@ -9997,7 +9997,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-419-413",
-    "questionText": "The most dominant pair of active factors affecting plants growth is (JAMB 2020)",
+    "questionText": "The most dominant pair of active factors affecting plants growth is",
     "options": [
       "Topography and man",
       "Climate and Topography",
@@ -10009,7 +10009,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-420-212",
-    "questionText": "The most populated country in the world is:  (JAMB 2014)",
+    "questionText": "The most populated country in the world is:",
     "options": [
       "Austria",
       "China",
@@ -10021,7 +10021,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-421-224",
-    "questionText": "Which of the following is a major hindrance to H.E.P. (JAMB 2014)",
+    "questionText": "Which of the following is a major hindrance to H.E.P.",
     "options": [
       "Inadequate capital",
       "Unavailability of good sites",
@@ -10033,7 +10033,7 @@ export const geographyQuestions = [
   },
   {
     "id": "geography-1788729516722-422-194",
-    "questionText": "Lesotho is in:  (JAMB 2014)",
+    "questionText": "Lesotho is in:",
     "options": [
       "South Africa",
       "West Africa.",

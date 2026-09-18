@@ -14,7 +14,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-2",
-    "questionText": "The practice of growing two or more crops on the same piece of land simultaneously is called: (JAMB 2020)",
+    "questionText": "The practice of growing two or more crops on the same piece of land simultaneously is called:",
     "options": [
       "Mixed cropping",
       "Crop rotation",
@@ -38,7 +38,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-4",
-    "questionText": "The organism used to fix atmospheric nitrogen into the soil in leguminous plants is: (JAMB 2017)",
+    "questionText": "The organism used to fix atmospheric nitrogen into the soil in leguminous plants is:",
     "options": [
       "Rhizobium",
       "Azotobacter",
@@ -62,7 +62,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-6",
-    "questionText": "The cutting of trees and burning of the cleared land for cultivation before moving to a new area is known as: (JAMB 2016)",
+    "questionText": "The cutting of trees and burning of the cleared land for cultivation before moving to a new area is known as:",
     "options": [
       "Shifting cultivation",
       "Mixed farming",
@@ -86,7 +86,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-8",
-    "questionText": "The process of making the soil surface rough by digging or ploughing to loosen and aerate it before planting is called: (JAMB 2019)",
+    "questionText": "The process of making the soil surface rough by digging or ploughing to loosen and aerate it before planting is called:",
     "options": [
       "Tillage",
       "Mulching",
@@ -134,7 +134,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-12",
-    "questionText": "The vector responsible for transmitting Trypanosomiasis (nagana) in livestock in Nigeria is the: (JAMB 2019)",
+    "questionText": "The vector responsible for transmitting Trypanosomiasis (nagana) in livestock in Nigeria is the:",
     "options": [
       "Tsetse fly",
       "Housefly",
@@ -158,7 +158,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-14",
-    "questionText": "The application of calcium carbonate (limestone) to agricultural soil is primarily done to: (JAMB 2018)",
+    "questionText": "The application of calcium carbonate (limestone) to agricultural soil is primarily done to:",
     "options": [
       "Reduce soil acidity",
       "Increase soil salinity",
@@ -182,7 +182,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-16",
-    "questionText": "The hormone responsible for milk let-down in lactating dairy cows is: (JAMB 2021)",
+    "questionText": "The hormone responsible for milk let-down in lactating dairy cows is:",
     "options": [
       "Oxytocin",
       "Prolactin",
@@ -206,7 +206,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-18",
-    "questionText": "The legal document issued by the government guaranteeing ownership rights over farm land in Nigeria is: (JAMB 2020)",
+    "questionText": "The legal document issued by the government guaranteeing ownership rights over farm land in Nigeria is:",
     "options": [
       "Certificate of Occupancy (C of O)",
       "Survey plan",
@@ -242,7 +242,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-21",
-    "questionText": "The fungal disease that causes swollen shoot in cocoa is transmitted by: (JAMB 2016)",
+    "questionText": "The fungal disease that causes swollen shoot in cocoa is transmitted by:",
     "options": [
       "Mealybugs",
       "Aphids",
@@ -266,7 +266,7 @@ export const agricScienceQuestions = [
   },
   {
     "id": "agric-23",
-    "questionText": "Which essential plant nutrient is the central structural component of the chlorophyll molecule? (JAMB 2021)",
+    "questionText": "Which essential plant nutrient is the central structural component of the chlorophyll molecule?",
     "options": [
       "Magnesium (Mg)",
       "Iron (Fe)",

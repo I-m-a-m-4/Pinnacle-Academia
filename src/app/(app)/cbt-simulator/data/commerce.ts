@@ -1,7 +1,7 @@
 export const commerceQuestions = [
   {
     "id": "commerce-1788679801844-0-177",
-    "questionText": "In the permanent storage device, DASD means (JAMB 2007)",
+    "questionText": "In the permanent storage device, DASD means",
     "options": [
       "Data Access Storage Device",
       "Data Access Systems Device",
@@ -13,7 +13,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-1-632",
-    "questionText": "Which of the following is not part of the facilities provided by the Nigerian Ports Authority? (JAMB 1990)",
+    "questionText": "Which of the following is not part of the facilities provided by the Nigerian Ports Authority?",
     "options": [
       "Dredging",
       "Warehousing",
@@ -25,7 +25,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-2-4",
-    "questionText": "When an organization studies a market that is underserved by others and creates a product or service for the segment, it is engaged in (JAMB 2004)",
+    "questionText": "When an organization studies a market that is underserved by others and creates a product or service for the segment, it is engaged in",
     "options": [
       "market integration  ",
       "market positioning",
@@ -37,7 +37,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-3-531",
-    "questionText": "A contract of sale where ownership passes to the buyer on the payment of the first instalment is known as (JAMB 2000)",
+    "questionText": "A contract of sale where ownership passes to the buyer on the payment of the first instalment is known as",
     "options": [
       "hire purchase",
       "lease",
@@ -49,7 +49,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-4-16",
-    "questionText": "A transporter who had to sell some perishable goods without the prior authority of the owner  becomes an agent by    (JAMB 2004)",
+    "questionText": "A transporter who had to sell some perishable goods without the prior authority of the owner  becomes an agent by",
     "options": [
       "conduct ",
       "necessity",
@@ -61,7 +61,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-5-379",
-    "questionText": "Activities undertaken to create awareness for goods by conducting contests is  (JAMB 2011)",
+    "questionText": "Activities undertaken to create awareness for goods by conducting contests is",
     "options": [
       "marketing concept ",
       "consumerism ",
@@ -73,7 +73,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-6-723",
-    "questionText": "A group of specialized functions of marketing is (JAMB 2000)",
+    "questionText": "A group of specialized functions of marketing is",
     "options": [
       "buying, selling, storing and information",
       "buying, selling, advertising and packaging",
@@ -85,7 +85,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-7-602",
-    "questionText": "Which of the following is one of the functions of commerce? (JAMB 1990)",
+    "questionText": "Which of the following is one of the functions of commerce?",
     "options": [
       "Manufacturing",
       "Growing of tomatoes",
@@ -97,7 +97,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-8-320",
-    "questionText": "An arrangement by independent firms to share the market of their products on quota basis is referred to as   (JAMB 2010)",
+    "questionText": "An arrangement by independent firms to share the market of their products on quota basis is referred to as",
     "options": [
       "trust ",
       "integration ",
@@ -109,7 +109,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-9-860",
-    "questionText": "Stimulation of demand is a kind of communication in marketing which connotes (JAMB 2003)",
+    "questionText": "Stimulation of demand is a kind of communication in marketing which connotes",
     "options": [
       "personal selling",
       "sales promotion",
@@ -121,7 +121,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-10-867",
-    "questionText": "The evolution of commerce in Nigeria is traceable to the (JAMB 2003)",
+    "questionText": "The evolution of commerce in Nigeria is traceable to the",
     "options": [
       "period of barter economy as human needs became limitless",
       "desire by human beings to satisfy their needs through the services of other people in the society",
@@ -133,7 +133,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-11-414",
-    "questionText": "A business organization that exploits the capabilities of a member to remedy the weaknesses of another is a  (JAMB 2012)",
+    "questionText": "A business organization that exploits the capabilities of a member to remedy the weaknesses of another is a",
     "options": [
       "joint venture ",
       "partnership ",
@@ -145,7 +145,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-12-623",
-    "questionText": "Which of the following is the quickest and accurate means of communication? (JAMB 1990)",
+    "questionText": "Which of the following is the quickest and accurate means of communication?",
     "options": [
       "Telegram",
       "Express mail",
@@ -157,7 +157,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801844-13-197",
-    "questionText": "An aspect of commerce that facilitates the distribution of products is  (JAMB 2008)",
+    "questionText": "An aspect of commerce that facilitates the distribution of products is",
     "options": [
       "transportation ",
       "advertising  ",
@@ -169,7 +169,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-14-356",
-    "questionText": "A document that indicates obligation that is transferable by delivery and endorsement is a  (JAMB 2011)",
+    "questionText": "A document that indicates obligation that is transferable by delivery and endorsement is a",
     "options": [
       "bill of lading ",
       "bill of exchange ",
@@ -181,7 +181,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-15-141",
-    "questionText": "The major types of warehouses are  (JAMB 2006)",
+    "questionText": "The major types of warehouses are",
     "options": [
       "manufacturer, bonded, departmental and private  ",
       "bonded, public, cold room and private",
@@ -193,7 +193,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-16-182",
-    "questionText": "A major setback of international trade is (JAMB 2007)",
+    "questionText": "A major setback of international trade is",
     "options": [
       "inadequate exports",
       "economic sanctions",
@@ -205,7 +205,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-17-458",
-    "questionText": "A business partner who provides capital but abstains from participation in administration of a firm is a  (JAMB 2013)",
+    "questionText": "A business partner who provides capital but abstains from participation in administration of a firm is a",
     "options": [
       "general partner ",
       "nominal partner ",
@@ -217,7 +217,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-18-63",
-    "questionText": "The type of communication from a superior to a subordinate in an organization is referred to as (JAMB 2005)",
+    "questionText": "The type of communication from a superior to a subordinate in an organization is referred to as",
     "options": [
       "horizontal communication",
       "lateral communication",
@@ -229,7 +229,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-19-58",
-    "questionText": "The primary objective of consumer protection laws is to ensure that consumers derive maximum satisfaction from goods and services (JAMB 2005)",
+    "questionText": "The primary objective of consumer protection laws is to ensure that consumers derive maximum satisfaction from goods and services",
     "options": [
       "consumers buy goods and services at cheap rates   ",
       "manufacturers of goods and service providers overcome ",
@@ -241,7 +241,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-20-808",
-    "questionText": "The type of computer commonly found in offices is (JAMB 2002)",
+    "questionText": "The type of computer commonly found in offices is",
     "options": [
       "laptop",
       "desktop",
@@ -253,7 +253,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-21-96",
-    "questionText": "The fixed and current assets of a business are called  (JAMB 2005)",
+    "questionText": "The fixed and current assets of a business are called",
     "options": [
       " called-up capital    ",
       "capital employed",
@@ -265,7 +265,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-22-760",
-    "questionText": "If  Mr. Bacus fulfils his promise, he will be entitled to a cash discount of (JAMB 2001)",
+    "questionText": "If  Mr. Bacus fulfils his promise, he will be entitled to a cash discount of",
     "options": [
       "N= 2,760",
       "N= 3,000",
@@ -277,7 +277,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-23-840",
-    "questionText": "An example of a service -rendering trade association is (JAMB 2003)",
+    "questionText": "An example of a service -rendering trade association is",
     "options": [
       "Nigerian Bar Association",
       "Association of Nigerian Miners",
@@ -289,7 +289,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-24-170",
-    "questionText": "An economic activity which deals with natural resources is a form of   (JAMB 2007)",
+    "questionText": "An economic activity which deals with natural resources is a form of",
     "options": [
       "extraction",
       "refining   ",
@@ -301,7 +301,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-25-740",
-    "questionText": "The instrument establishing the Economic Community of West African States in 1975 is (JAMB 2000)",
+    "questionText": "The instrument establishing the Economic Community of West African States in 1975 is",
     "options": [
       "a decree",
       "an act",
@@ -313,7 +313,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-26-461",
-    "questionText": "The rate of turnover of a firm in a given year is 5 times while the average stock is \n N12.500. what is the turnover of the firm? \n (JAMB 2013)",
+    "questionText": "The rate of turnover of a firm in a given year is 5 times while the average stock is \n N12.500. what is the turnover of the firm? \n",
     "options": [
       "N24,000",
       "N46,500",
@@ -325,7 +325,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-27-85",
-    "questionText": "Which of the following confirms the accuracy of the duty charged on imported goods? (JAMB 2005)",
+    "questionText": "Which of the following confirms the accuracy of the duty charged on imported goods?",
     "options": [
       " An indent ",
       "Consular invoice",
@@ -337,7 +337,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-28-228",
-    "questionText": "Personal selling is used for the purpose of  (JAMB 2008)",
+    "questionText": "Personal selling is used for the purpose of",
     "options": [
       "establishing the company ",
       "providing information ",
@@ -349,7 +349,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-29-167",
-    "questionText": "The scope of economic activities can be enlarged by     (JAMB 2007)",
+    "questionText": "The scope of economic activities can be enlarged by",
     "options": [
       "transportation and trading   ",
       "business and its promotion  ",
@@ -361,7 +361,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-30-647",
-    "questionText": "The cost which is incurred as a result of failure to load or unload a ship at the ports within a specified period is referred to as (JAMB 2016)",
+    "questionText": "The cost which is incurred as a result of failure to load or unload a ship at the ports within a specified period is referred to as",
     "options": [
       "demurrage charges",
       "premium charges",
@@ -373,7 +373,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-31-375",
-    "questionText": "A communication process providing information for decision-making in an organization is the  (JAMB 2011)",
+    "questionText": "A communication process providing information for decision-making in an organization is the",
     "options": [
       "Management Information System",
       "Transmission Control Protocol ",
@@ -385,7 +385,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-32-477",
-    "questionText": "An agent employed to sell goods delivered to him by the principal is referred to as a  (JAMB 2013)",
+    "questionText": "An agent employed to sell goods delivered to him by the principal is referred to as a",
     "options": [
       "Special agent ",
       "del credere agent ",
@@ -397,7 +397,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-33-792",
-    "questionText": "The major responsibility of an entrepreneur is (JAMB 2002)",
+    "questionText": "The major responsibility of an entrepreneur is",
     "options": [
       "employing all factors of production in the business",
       "coordinating and determining the proportion of what to produce",
@@ -409,7 +409,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-34-257",
-    "questionText": "The term free on board means that the price includes  (JAMB 2009)",
+    "questionText": "The term free on board means that the price includes",
     "options": [
       "costs and insurance only ",
       "costs and freight only",
@@ -421,7 +421,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-35-648",
-    "questionText": "The process whereby a firm directs its marketing efforts towards a single market by the use of a particular marketing mix is referred to as (JAMB 2016)",
+    "questionText": "The process whereby a firm directs its marketing efforts towards a single market by the use of a particular marketing mix is referred to as",
     "options": [
       "concentration segmentation",
       "marketing concept",
@@ -433,7 +433,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-36-877",
-    "questionText": "The device which interprets and carries out the instructions presented to it by the computer program is known as (JAMB 2003)",
+    "questionText": "The device which interprets and carries out the instructions presented to it by the computer program is known as",
     "options": [
       "software",
       "microprocessor",
@@ -445,7 +445,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-37-518",
-    "questionText": "A house worth  N50.000 was insured against fire for  N30,000. Fire destroyed and caused damages worth N20.000 on the house. Under which insurance principle will the owner be entitled to a compensation of  N20,000? (JAMB 2000)",
+    "questionText": "A house worth  N50.000 was insured against fire for  N30,000. Fire destroyed and caused damages worth N20.000 on the house. Under which insurance principle will the owner be entitled to a compensation of  N20,000?",
     "options": [
       "Contribution",
       "Subrogation",
@@ -457,7 +457,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-38-278",
-    "questionText": "A body established to protect the interest of members against the exploitation of retail traders and manufacturers is the  (JAMB 2009)",
+    "questionText": "A body established to protect the interest of members against the exploitation of retail traders and manufacturers is the",
     "options": [
       "wholesalers association ",
       "consumer’s  association ",
@@ -469,7 +469,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-39-786",
-    "questionText": "In the line type of organizational structure (JAMB 2001)",
+    "questionText": "In the line type of organizational structure",
     "options": [
       "the lines of authority are vertical",
       "there is the application of division of labour",
@@ -481,7 +481,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-40-213",
-    "questionText": "An account maintained with a commercial bank for the purpose of foreign exchange transaction is the  (JAMB 2008)",
+    "questionText": "An account maintained with a commercial bank for the purpose of foreign exchange transaction is the",
     "options": [
       "foreign account ",
       "International account ",
@@ -493,7 +493,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-41-811",
-    "questionText": "The bulls and bears in the Stock Exchange market help to minimize (JAMB 2002)",
+    "questionText": "The bulls and bears in the Stock Exchange market help to minimize",
     "options": [
       "the number of shares and bonds sold",
       "price increases of securities",
@@ -505,7 +505,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-42-281",
-    "questionText": "The major dealers on the stock market are the  (JAMB 2009)",
+    "questionText": "The major dealers on the stock market are the",
     "options": [
       "agents ",
       "jobbers ",
@@ -517,7 +517,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-43-348",
-    "questionText": "The creation of goods and services to satisfy human wants is referred to as  (JAMB 2011)",
+    "questionText": "The creation of goods and services to satisfy human wants is referred to as",
     "options": [
       "manufacturing ",
       "commercialization ",
@@ -529,7 +529,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-44-629",
-    "questionText": "Charges paid by a ship for staying at a port beyond agreed sailing time is called (JAMB 1990)",
+    "questionText": "Charges paid by a ship for staying at a port beyond agreed sailing time is called",
     "options": [
       "profit",
       "interest",
@@ -541,7 +541,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-45-47",
-    "questionText": "The use of vending machines in retailing is hindered in a developing economy owing to (JAMB 2004)",
+    "questionText": "The use of vending machines in retailing is hindered in a developing economy owing to",
     "options": [
       "poor distribution network   ",
       "low level of education    ",
@@ -553,7 +553,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-46-405",
-    "questionText": "The most effective type of advertising for branding products is  (JAMB 2012)",
+    "questionText": "The most effective type of advertising for branding products is",
     "options": [
       "mass advertising ",
       "persuasive advertising ",
@@ -565,7 +565,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-47-517",
-    "questionText": "A retirement insurance policy which enables the assured to receive income for a specific period is (JAMB 2000)",
+    "questionText": "A retirement insurance policy which enables the assured to receive income for a specific period is",
     "options": [
       "annuity",
       "endowment",
@@ -577,7 +577,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-48-576",
-    "questionText": "The total assets of a business less current liabilities refers to _____ capital. (JAMB 2013)",
+    "questionText": "The total assets of a business less current liabilities refers to _____ capital.",
     "options": [
       "authorized",
       "called up",
@@ -589,7 +589,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-49-769",
-    "questionText": "The temporary working area of the central processing unit is called the (JAMB 2001)",
+    "questionText": "The temporary working area of the central processing unit is called the",
     "options": [
       "C-D ROM",
       "C-D RAM",
@@ -601,7 +601,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-50-465",
-    "questionText": "Money is generally acceptable for transactions due to (JAMB 2013)",
+    "questionText": "Money is generally acceptable for transactions due to",
     "options": [
       "the legal backing ",
       "the rule of law ",
@@ -613,7 +613,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-51-599",
-    "questionText": "The major divisions of Commerce are (JAMB 1990)",
+    "questionText": "The major divisions of Commerce are",
     "options": [
       "import, export and transport",
       "trade, communication and warehousing",
@@ -625,7 +625,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-52-607",
-    "questionText": "If a retailer Mr. Aigbojie buys goods manufactured by Adefila Limited from wholesaler Mrs. Jumai, who will prepare the delivery note? (JAMB 1990)",
+    "questionText": "If a retailer Mr. Aigbojie buys goods manufactured by Adefila Limited from wholesaler Mrs. Jumai, who will prepare the delivery note?",
     "options": [
       "Mr. Aigbojie",
       "Adefila Limited",
@@ -637,7 +637,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-53-91",
-    "questionText": "The market where only indigenous firms are considered is the  (JAMB 2005)",
+    "questionText": "The market where only indigenous firms are considered is the",
     "options": [
       "money market ",
       " second-tier securities market ",
@@ -649,7 +649,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-54-403",
-    "questionText": "Which of the following is a characteristic of a bearer cheque?  (JAMB 2012)",
+    "questionText": "Which of the following is a characteristic of a bearer cheque?",
     "options": [
       "it is made with transverse lines ",
       "it is made payable to whoever presents it",
@@ -661,7 +661,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-55-226",
-    "questionText": "The resources which are necessary for business development include  (JAMB 2008)",
+    "questionText": "The resources which are necessary for business development include",
     "options": [
       "manufacturing, materials, mentors and money ",
       "merchant, materials, mentors and money",
@@ -673,7 +673,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-56-145",
-    "questionText": "The documents used in the purchase and sale of goods which contain other terms of trade are (JAMB 2006)",
+    "questionText": "The documents used in the purchase and sale of goods which contain other terms of trade are",
     "options": [
       "debit note and credit note ",
       "delivery note and advice not   ",
@@ -685,7 +685,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-57-550",
-    "questionText": "Calculate the net profit. (JAMB 2013)",
+    "questionText": "Calculate the net profit.",
     "options": [
       "30,000",
       "33,000",
@@ -697,7 +697,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-58-151",
-    "questionText": "An agent who takes title to goods and has authority  to buy and sell on behalf of another is (JAMB 2007)",
+    "questionText": "An agent who takes title to goods and has authority  to buy and sell on behalf of another is",
     "options": [
       "a jobber   ",
       "a broker  ",
@@ -709,7 +709,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-59-75",
-    "questionText": "An acquired firm in a merger will always receive a (JAMB 2005)",
+    "questionText": "An acquired firm in a merger will always receive a",
     "options": [
       " premium  ",
       " grant ",
@@ -721,7 +721,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-60-764",
-    "questionText": "Pooling of risk in insurance means that (JAMB 2001)",
+    "questionText": "Pooling of risk in insurance means that",
     "options": [
       "compensations are paid out of a common fund",
       "two people can pool their risks to be insured",
@@ -733,7 +733,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-61-736",
-    "questionText": "The composite functions of management are (JAMB 2000)",
+    "questionText": "The composite functions of management are",
     "options": [
       "planning, supervising, communicating",
       "planning, controlling, organizing and directing",
@@ -745,7 +745,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-62-269",
-    "questionText": "One major advantage of transportation to a business is to (JAMB 2009)",
+    "questionText": "One major advantage of transportation to a business is to",
     "options": [
       "extend the firm’s market coverage",
       "ensure that goods are produced faster",
@@ -757,7 +757,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-63-443",
-    "questionText": "The final link in the chain of distribution is  (JAMB 2013)",
+    "questionText": "The final link in the chain of distribution is",
     "options": [
       "Middlemen ",
       "wholesaling ",
@@ -769,7 +769,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-64-276",
-    "questionText": "The circulating capital of a business enterprise is classified into  (JAMB 2009)",
+    "questionText": "The circulating capital of a business enterprise is classified into",
     "options": [
       "cash, work-in progress and debtors ",
       "cash, vehicles, land and buildings ",
@@ -781,7 +781,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-65-368",
-    "questionText": "The business organization that can effectively combine management with control is  (JAMB 2011)",
+    "questionText": "The business organization that can effectively combine management with control is",
     "options": [
       "private limited liability company ",
       "sole proprietorship ",
@@ -793,7 +793,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-66-252",
-    "questionText": "The major components of modern retailing include  (JAMB 2009)",
+    "questionText": "The major components of modern retailing include",
     "options": [
       "branding, doorstep  selling and customer stimulation ",
       "branding, sales promotion and mail order ",
@@ -805,7 +805,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-67-387",
-    "questionText": "Intranet differs from extranet in that the former  (JAMB 2011)",
+    "questionText": "Intranet differs from extranet in that the former",
     "options": [
       "requires a modem before it could be used ",
       "can generally be accessed by the public ",
@@ -817,7 +817,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-68-142",
-    "questionText": "The Customs and Excise Department is responsible for the collection of (JAMB 2006)",
+    "questionText": "The Customs and Excise Department is responsible for the collection of",
     "options": [
       "royalties ",
       "tariffs",
@@ -829,7 +829,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-69-721",
-    "questionText": "A shortcoming of the Second-tier Foreign Exchange Market in Nigeria is that it (JAMB 2000)",
+    "questionText": "A shortcoming of the Second-tier Foreign Exchange Market in Nigeria is that it",
     "options": [
       "serves as a mechanism for evaluating an unrealistic exchange rate for the naira",
       "creates unhealthy competition amongst users of foreign exchange",
@@ -841,7 +841,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-70-65",
-    "questionText": "The best means of sending unwritten messages simultaneously   to   many   branches   of  an organization within a country is the (JAMB 2005)",
+    "questionText": "The best means of sending unwritten messages simultaneously   to   many   branches   of  an organization within a country is the",
     "options": [
       "television",
       " telephone   ",
@@ -853,7 +853,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-71-42",
-    "questionText": "An internal demand for goods to be purchased or drawn from stock is (JAMB 2004)",
+    "questionText": "An internal demand for goods to be purchased or drawn from stock is",
     "options": [
       "a quotation",
       "a requisition   ",
@@ -865,7 +865,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-72-115",
-    "questionText": "The main requirement for admission to the second-tier securities market is the  (JAMB 2006)",
+    "questionText": "The main requirement for admission to the second-tier securities market is the",
     "options": [
       "provision of a three-year trading record   ",
       "disclosure of all trading activities   ",
@@ -877,7 +877,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-73-613",
-    "questionText": "Which of the following is a form of sales promotion? (JAMB 1990)",
+    "questionText": "Which of the following is a form of sales promotion?",
     "options": [
       "Promotion through radio",
       "Advertising by television",
@@ -889,7 +889,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-74-829",
-    "questionText": "One of the most important function of marketing is (JAMB 2002)",
+    "questionText": "One of the most important function of marketing is",
     "options": [
       "encouraging research activities to meet needs",
       "creating classes of merchants among businessmen",
@@ -901,7 +901,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-75-513",
-    "questionText": "When a customer writes a cheque in his own name and withdraws cash with it from his account he is both the (JAMB 2000)",
+    "questionText": "When a customer writes a cheque in his own name and withdraws cash with it from his account he is both the",
     "options": [
       "drawee and the payee",
       "drawer and the payer",
@@ -913,7 +913,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-76-879",
-    "questionText": "The protection of consumers against exploitation by manufacturers is to ensure (JAMB 2003)",
+    "questionText": "The protection of consumers against exploitation by manufacturers is to ensure",
     "options": [
       "that there are varieties of products",
       "that the right quality of goods and services is sold",
@@ -925,7 +925,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-77-399",
-    "questionText": "The major problem encountered in international trade is that of   (JAMB 2012)",
+    "questionText": "The major problem encountered in international trade is that of",
     "options": [
       "distance ",
       "differences in culture ",
@@ -937,7 +937,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-78-715",
-    "questionText": "The computer using linear integrated circuit technology coupled with quantification of data in terms of length and distance is known as (JAMB 2000)",
+    "questionText": "The computer using linear integrated circuit technology coupled with quantification of data in terms of length and distance is known as",
     "options": [
       "digital computer",
       "analogue computer",
@@ -949,7 +949,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-79-495",
-    "questionText": "What is P in the above equation? (JAMB 2000)",
+    "questionText": "What is P in the above equation?",
     "options": [
       "Purchases returns",
       "Net Profit",
@@ -961,7 +961,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-80-241",
-    "questionText": "The body charged with divesting government interests in public enterprises is  (JAMB 2008)",
+    "questionText": "The body charged with divesting government interests in public enterprises is",
     "options": [
       "SON",
       "NPC",
@@ -973,7 +973,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-81-15",
-    "questionText": "In Nigeria, the body that ensures that its members operate according to their professional ethics is the    (JAMB 2004)",
+    "questionText": "In Nigeria, the body that ensures that its members operate according to their professional ethics is the",
     "options": [
       "SON  ",
       "NPF   ",
@@ -985,7 +985,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-82-129",
-    "questionText": "The safety and quality of products are the social responsibility of  (JAMB 2006)",
+    "questionText": "The safety and quality of products are the social responsibility of",
     "options": [
       "the Standards Organization of Nigeria  ",
       "the Manufacturers Association of Nigeria",
@@ -997,7 +997,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-83-868",
-    "questionText": "One of the requirements necessary for setting up a business is (JAMB 2003)",
+    "questionText": "One of the requirements necessary for setting up a business is",
     "options": [
       "registration",
       "advertisement",
@@ -1009,7 +1009,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-84-428",
-    "questionText": "The promotion of team spirit in an organization is referred to as  (JAMB 2012)",
+    "questionText": "The promotion of team spirit in an organization is referred to as",
     "options": [
       "Unit of direction ",
       "spirit de corps ",
@@ -1021,7 +1021,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-85-861",
-    "questionText": "A functional structure is an organizational structure in which (JAMB 2003)",
+    "questionText": "A functional structure is an organizational structure in which",
     "options": [
       "abstract rules are applied",
       "equity prevails",
@@ -1033,7 +1033,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-86-676",
-    "questionText": "One of the factors of determining the volume of production is (JAMB 2016)",
+    "questionText": "One of the factors of determining the volume of production is",
     "options": [
       "availability of forex",
       "availability of storage facilities.",
@@ -1045,7 +1045,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-87-248",
-    "questionText": "An aid to trade associated with communications is  (JAMB 2009)",
+    "questionText": "An aid to trade associated with communications is",
     "options": [
       "banking ",
       "transportation",
@@ -1057,7 +1057,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-88-77",
-    "questionText": "The Nigerian Telecommunications Limited is a (JAMB 2005)",
+    "questionText": "The Nigerian Telecommunications Limited is a",
     "options": [
       "Jointly owned company ",
       "public corporation ",
@@ -1069,7 +1069,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-89-538",
-    "questionText": "In which of the following classes of occupation would you place a doctor? (JAMB 2000)",
+    "questionText": "In which of the following classes of occupation would you place a doctor?",
     "options": [
       "Extractive",
       "Commercial",
@@ -1081,7 +1081,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-90-215",
-    "questionText": "A person who buys new issues with a view of reselling at a higher price in the near future is referred to as a  (JAMB 2008)",
+    "questionText": "A person who buys new issues with a view of reselling at a higher price in the near future is referred to as a",
     "options": [
       "bull ",
       "bear ",
@@ -1093,7 +1093,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-91-746",
-    "questionText": "The partner that only contributes part of the capital used in the formation and running of a business is known as (JAMB 2001)",
+    "questionText": "The partner that only contributes part of the capital used in the formation and running of a business is known as",
     "options": [
       "a passive partner",
       "an active partner",
@@ -1105,7 +1105,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-92-663",
-    "questionText": "The act of interpreting ideas within an organization is (JAMB 2016)",
+    "questionText": "The act of interpreting ideas within an organization is",
     "options": [
       "motivating",
       "organizing",
@@ -1117,7 +1117,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-93-193",
-    "questionText": "The selling of new shares to existing shareholders is referred to as  (JAMB 2007)",
+    "questionText": "The selling of new shares to existing shareholders is referred to as",
     "options": [
       "public issue ",
       "offer for sale",
@@ -1129,7 +1129,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-94-350",
-    "questionText": "Resources obtained from the extractive sector that are transformed into finished products are examples of  (JAMB 2011)",
+    "questionText": "Resources obtained from the extractive sector that are transformed into finished products are examples of",
     "options": [
       "primary production ",
       "tertiary production ",
@@ -1141,7 +1141,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-95-164",
-    "questionText": "The making of doors from timber planks is a type of  (JAMB 2007)",
+    "questionText": "The making of doors from timber planks is a type of",
     "options": [
       "manufacturing ",
       "tertiary production",
@@ -1153,7 +1153,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-96-873",
-    "questionText": "The ECOBANK is the initiative of (JAMB 2003)",
+    "questionText": "The ECOBANK is the initiative of",
     "options": [
       "some well-meaning Nigerian shareholders",
       "the Federal Government of  Nigeria",
@@ -1165,7 +1165,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-97-835",
-    "questionText": "group of companies is a collection of (JAMB 2002)",
+    "questionText": "group of companies is a collection of",
     "options": [
       "subsidiaries and their holding company",
       "firms",
@@ -1177,7 +1177,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-98-505",
-    "questionText": "A merchant who wishes to order goods from a foreign country sends (JAMB 2000)",
+    "questionText": "A merchant who wishes to order goods from a foreign country sends",
     "options": [
       "an invoice",
       "an indent",
@@ -1189,7 +1189,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-99-806",
-    "questionText": "The unit through which results of a processed data are displayed is the (JAMB 2002)",
+    "questionText": "The unit through which results of a processed data are displayed is the",
     "options": [
       "logic unit",
       "display unit",
@@ -1201,7 +1201,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-100-674",
-    "questionText": "Which of the following is a traditional medium of communication used to mark festivals? (JAMB 2016)",
+    "questionText": "Which of the following is a traditional medium of communication used to mark festivals?",
     "options": [
       "Palm frond.",
       "Metal gong.",
@@ -1213,7 +1213,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-101-689",
-    "questionText": "The placement of workers based on their qualifications can be categorized under (JAMB 2016)",
+    "questionText": "The placement of workers based on their qualifications can be categorized under",
     "options": [
       "public sector",
       "skilled labour",
@@ -1225,7 +1225,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-102-102",
-    "questionText": "Tourism can be classified as  (JAMB 2006)",
+    "questionText": "Tourism can be classified as",
     "options": [
       " tangible import",
       " intangible import",
@@ -1237,7 +1237,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-103-636",
-    "questionText": "When a business is insolvent it may result in (JAMB 1990)",
+    "questionText": "When a business is insolvent it may result in",
     "options": [
       "incorporation",
       "recuperation",
@@ -1249,7 +1249,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-104-743",
-    "questionText": "A distinguishing characteristic of labour is that it is (JAMB 2001)",
+    "questionText": "A distinguishing characteristic of labour is that it is",
     "options": [
       "constant",
       "expensive",
@@ -1261,7 +1261,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-105-758",
-    "questionText": "The major procedures in the purchase and sale of goods are enquiry (JAMB 2001)",
+    "questionText": "The major procedures in the purchase and sale of goods are enquiry",
     "options": [
       "quotation, order and invoice",
       "placement, order and invoice",
@@ -1273,7 +1273,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-106-834",
-    "questionText": "An important issue for consideration in the product element of the marketing mix is the (JAMB 2002)",
+    "questionText": "An important issue for consideration in the product element of the marketing mix is the",
     "options": [
       "adequate promotion of the product",
       "channel of distribution of the product",
@@ -1285,7 +1285,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-107-664",
-    "questionText": "One of the duties of the employer to his employee is to (JAMB 2016)",
+    "questionText": "One of the duties of the employer to his employee is to",
     "options": [
       "delegate his duties to other staff",
       "charge the employee on the use of equipment",
@@ -1297,7 +1297,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-108-363",
-    "questionText": "An ancillary to trade that easily links suppliers with consumers is  (JAMB 2011)",
+    "questionText": "An ancillary to trade that easily links suppliers with consumers is",
     "options": [
       "tourism  ",
       "banking ",
@@ -1309,7 +1309,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-109-71",
-    "questionText": "In GIF contracts, risk passes at the time of shipment but the property does not pass until (JAMB 2005)",
+    "questionText": "In GIF contracts, risk passes at the time of shipment but the property does not pass until",
     "options": [
       "there is physical transfer of goods",
       "the shipping manifests are signed",
@@ -1321,7 +1321,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-110-295",
-    "questionText": "The wealth of a nation depend on the volume of its (JAMB 2010)",
+    "questionText": "The wealth of a nation depend on the volume of its",
     "options": [
       "bilateral trade activities",
       "commercial activities",
@@ -1333,7 +1333,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-111-291",
-    "questionText": "The primary memory component of a computer is the  (JAMB 2009)",
+    "questionText": "The primary memory component of a computer is the",
     "options": [
       "cache ",
       "console ",
@@ -1345,7 +1345,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-112-415",
-    "questionText": "The most important business objective is to  (JAMB 2012)",
+    "questionText": "The most important business objective is to",
     "options": [
       "improve investments ",
       "provide quality  products",
@@ -1357,7 +1357,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-113-863",
-    "questionText": "In the event of the liquidation of a company the first to be settled are (JAMB 2003)",
+    "questionText": "In the event of the liquidation of a company the first to be settled are",
     "options": [
       "debenture holders",
       "members  of the  board",
@@ -1369,7 +1369,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-114-233",
-    "questionText": "The development of tourism in Nigeria  will enhance  (JAMB 2008)",
+    "questionText": "The development of tourism in Nigeria  will enhance",
     "options": [
       "agriculture ",
       "revenue generation ",
@@ -1381,7 +1381,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-115-598",
-    "questionText": "The transfer of enterprises from private to state ownership for economic or social reasons is referred to as (JAMB 2013)",
+    "questionText": "The transfer of enterprises from private to state ownership for economic or social reasons is referred to as",
     "options": [
       "commercialization",
       "indigenization",
@@ -1393,7 +1393,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-116-290",
-    "questionText": "The process of eliminating a virus from a computer program is  (JAMB 2009)",
+    "questionText": "The process of eliminating a virus from a computer program is",
     "options": [
       "programming ",
       "debugging ",
@@ -1405,7 +1405,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-117-705",
-    "questionText": "The main factors militating against the rapid growth of trade in Nigeria are (JAMB 2000)",
+    "questionText": "The main factors militating against the rapid growth of trade in Nigeria are",
     "options": [
       "inadequate transportation network and huge capital outlay",
       "lack of motivation and government attitude towards trade",
@@ -1417,7 +1417,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-118-391",
-    "questionText": "A business organization is said to be socially responsible when it  (JAMB 2011)",
+    "questionText": "A business organization is said to be socially responsible when it",
     "options": [
       "gets involve in issues relating to the society ",
       "rewards its staff for long-term service",
@@ -1429,7 +1429,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-119-100",
-    "questionText": "Given\n    N\n Sales    15 000\n Opening stock  5 600\n Purchases   9 700\n Closing stock  4 400\n Gross profit  4 500\n Net profit   2 000\nFrom the data above, calculate the rate of turnover \n (JAMB 2005)",
+    "questionText": "Given\n    N\n Sales    15 000\n Opening stock  5 600\n Purchases   9 700\n Closing stock  4 400\n Gross profit  4 500\n Net profit   2 000\nFrom the data above, calculate the rate of turnover \n",
     "options": [
       " 3.50 times ",
       "3.00 times ",
@@ -1441,7 +1441,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-120-160",
-    "questionText": "A major function of an entrepreneur is (JAMB 2007)",
+    "questionText": "A major function of an entrepreneur is",
     "options": [
       "decision-making ",
       "encouraging competition",
@@ -1453,7 +1453,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-121-853",
-    "questionText": "An example of service rendered by NIPOST is (JAMB 2003)",
+    "questionText": "An example of service rendered by NIPOST is",
     "options": [
       "electronic mail",
       "courier",
@@ -1465,7 +1465,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-122-474",
-    "questionText": "The essential utility derived from the use of a product is known as  (JAMB 2013)",
+    "questionText": "The essential utility derived from the use of a product is known as",
     "options": [
       "augmented benefit",
       "branded benefit ",
@@ -1477,7 +1477,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-123-658",
-    "questionText": "The type of wholesaler that combines selling, delivery and collection in one operation is (JAMB 2016)",
+    "questionText": "The type of wholesaler that combines selling, delivery and collection in one operation is",
     "options": [
       "specialist   wholesaler",
       "rack jobber",
@@ -1489,7 +1489,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-124-666",
-    "questionText": "A document that serves as an instrument for preferential tariff is referred to as (JAMB 2016)",
+    "questionText": "A document that serves as an instrument for preferential tariff is referred to as",
     "options": [
       "an indent",
       "a certificate of origin",
@@ -1501,7 +1501,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-125-205",
-    "questionText": "A document which gives a legal status to a company is the certificate of  (JAMB 2008)",
+    "questionText": "A document which gives a legal status to a company is the certificate of",
     "options": [
       "incorporation ",
       "trading ",
@@ -1513,7 +1513,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-126-420",
-    "questionText": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares? (JAMB 2012)",
+    "questionText": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares?",
     "options": [
       "it has been issued but not paid-up ",
       "it has been applied for but not issued ",
@@ -1525,7 +1525,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-127-238",
-    "questionText": "An agreement between two parties which is enforceable by law is a  (JAMB 2008)",
+    "questionText": "An agreement between two parties which is enforceable by law is a",
     "options": [
       "promise ",
       "warranty ",
@@ -1537,7 +1537,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-128-870",
-    "questionText": "The government’s policy thrust on the business environment is to (JAMB 2003)",
+    "questionText": "The government’s policy thrust on the business environment is to",
     "options": [
       "promote experts",
       "attract investors",
@@ -1549,7 +1549,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-129-519",
-    "questionText": "When an insurance company indemnifies the insured and takes over his rights, this is known as (JAMB 2000)",
+    "questionText": "When an insurance company indemnifies the insured and takes over his rights, this is known as",
     "options": [
       "abandonment",
       "subrogation",
@@ -1561,7 +1561,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-130-609",
-    "questionText": "In which class of occupation would you place a taxi-driver? (JAMB 1990)",
+    "questionText": "In which class of occupation would you place a taxi-driver?",
     "options": [
       "Extractive",
       "Indirect services",
@@ -1573,7 +1573,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-131-508",
-    "questionText": "The abbreviated phrase E & OE is usually printed on (JAMB 2000)",
+    "questionText": "The abbreviated phrase E & OE is usually printed on",
     "options": [
       "an invoice",
       "a cheque",
@@ -1585,7 +1585,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-132-386",
-    "questionText": "An example of a computer operating system is  (JAMB 2011)",
+    "questionText": "An example of a computer operating system is",
     "options": [
       "the pagemaker ",
       "the Word Perfect ",
@@ -1597,7 +1597,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-133-523",
-    "questionText": "Rail transport is less flexible than road transport because (JAMB 2000)",
+    "questionText": "Rail transport is less flexible than road transport because",
     "options": [
       "rail lines run between specific terminals",
       "train is slow over long distances",
@@ -1609,7 +1609,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-134-20",
-    "questionText": "Sources of finance to a business include personal  savings, shares, debentures and  (JAMB 2004)",
+    "questionText": "Sources of finance to a business include personal  savings, shares, debentures and",
     "options": [
       "loans from IMF   ",
       "bank overdrafts ",
@@ -1621,7 +1621,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-135-106",
-    "questionText": "An important social reason for development tourism in Nigeria is the   (JAMB 2006)",
+    "questionText": "An important social reason for development tourism in Nigeria is the",
     "options": [
       "promotion of culture interaction   ",
       " provision of job opportunities",
@@ -1633,7 +1633,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-136-246",
-    "questionText": "Which software program can be used to generate  (JAMB 2008)",
+    "questionText": "Which software program can be used to generate",
     "options": [
       "MS Word ",
       "Database ",
@@ -1645,7 +1645,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-137-610",
-    "questionText": "The purpose of issuing a credit note is to (JAMB 1990)",
+    "questionText": "The purpose of issuing a credit note is to",
     "options": [
       "correct errors of overcharging",
       "correct errors of undercharging",
@@ -1657,7 +1657,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-138-333",
-    "questionText": "The label on a product such as ‘pampers’ is a type of  (JAMB 2010)",
+    "questionText": "The label on a product such as ‘pampers’ is a type of",
     "options": [
       "trademark  ",
       "branding ",
@@ -1669,7 +1669,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-139-307",
-    "questionText": "The document that gives an importer a freehand to obtain goods from any manufacturer is  (JAMB 2010)",
+    "questionText": "The document that gives an importer a freehand to obtain goods from any manufacturer is",
     "options": [
       "a consular invoice ",
       "a closed indent ",
@@ -1681,7 +1681,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-140-490",
-    "questionText": "Which of the following is not a source of finance to a sole proprietor? (JAMB 2000)",
+    "questionText": "Which of the following is not a source of finance to a sole proprietor?",
     "options": [
       "Trade Credit",
       "Overdrafts",
@@ -1693,7 +1693,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-141-608",
-    "questionText": "Which of the following is not a factor of production? (JAMB 1990)",
+    "questionText": "Which of the following is not a factor of production?",
     "options": [
       "Capital",
       "land",
@@ -1705,7 +1705,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-142-94",
-    "questionText": "Initial public offering is undertaken through the (JAMB 2005)",
+    "questionText": "Initial public offering is undertaken through the",
     "options": [
       "secondary securities market",
       "first-tier securities market",
@@ -1717,7 +1717,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-143-815",
-    "questionText": "A bill of exchange already accepted can be discounted by the holder in (JAMB 2002)",
+    "questionText": "A bill of exchange already accepted can be discounted by the holder in",
     "options": [
       "the central bank",
       "at least two banks",
@@ -1729,7 +1729,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-144-309",
-    "questionText": "The document issued to a port authority when goods are deposited is a  (JAMB 2010)",
+    "questionText": "The document issued to a port authority when goods are deposited is a",
     "options": [
       "dock landing account ",
       "bill of sight ",
@@ -1741,7 +1741,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-145-130",
-    "questionText": "A   feature   common   to   privatization   and commercialization is   (JAMB 2006)",
+    "questionText": "A   feature   common   to   privatization   and commercialization is",
     "options": [
       "profit-making    ",
       "credit sales ",
@@ -1753,7 +1753,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-146-784",
-    "questionText": "Departmentalization is an aspect of (JAMB 2001)",
+    "questionText": "Departmentalization is an aspect of",
     "options": [
       "planning",
       "organizing",
@@ -1765,7 +1765,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-147-845",
-    "questionText": "Goods that are manufactured or acquired by the seller after the contract of sale are (JAMB 2003)",
+    "questionText": "Goods that are manufactured or acquired by the seller after the contract of sale are",
     "options": [
       "specialty goods",
       "future goods",
@@ -1777,7 +1777,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-148-352",
-    "questionText": "One of the functions of a retailer is the  (JAMB 2011)",
+    "questionText": "One of the functions of a retailer is the",
     "options": [
       "financing of production activities ",
       "provision of credit facilities to relations ",
@@ -1789,7 +1789,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-149-630",
-    "questionText": "Entrepot Trade refers to (JAMB 1990)",
+    "questionText": "Entrepot Trade refers to",
     "options": [
       "importing for domestic consumption",
       "importing for industrial use",
@@ -1801,7 +1801,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-150-383",
-    "questionText": "One of the obligations of an employer to an employee is to  (JAMB 2011)",
+    "questionText": "One of the obligations of an employer to an employee is to",
     "options": [
       "Indemnify  him against liabilities incurred on duty ",
       "award scholarship to his children ",
@@ -1813,7 +1813,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-151-471",
-    "questionText": "In a staff-authority relationship, the opinion of a specialist is one department to another is  (JAMB 2013)",
+    "questionText": "In a staff-authority relationship, the opinion of a specialist is one department to another is",
     "options": [
       "a directive ",
       "an advice ",
@@ -1825,7 +1825,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-152-88",
-    "questionText": "In Nigeria the ministry in charge of registering trade associations is that of  (JAMB 2005)",
+    "questionText": "In Nigeria the ministry in charge of registering trade associations is that of",
     "options": [
       " industries",
       " commerce ",
@@ -1837,7 +1837,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-153-118",
-    "questionText": "Trading on the stock exchange in anticipation of  price change in the market value of shares is (JAMB 2006)",
+    "questionText": "Trading on the stock exchange in anticipation of  price change in the market value of shares is",
     "options": [
       "speculation  ",
       "forecasting ",
@@ -1849,7 +1849,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-154-745",
-    "questionText": "Which of the following services does a lawyer render? (JAMB 2001)",
+    "questionText": "Which of the following services does a lawyer render?",
     "options": [
       "industrial services",
       "indirect services",
@@ -1861,7 +1861,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-155-449",
-    "questionText": "A country’s terms of trade are said to improve when the ratio of her export  (JAMB 2013)",
+    "questionText": "A country’s terms of trade are said to improve when the ratio of her export",
     "options": [
       "decreases ",
       "remains constant ",
@@ -1873,7 +1873,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-156-435",
-    "questionText": "The process of decoding data in a computer is known as  (JAMB 2012)",
+    "questionText": "The process of decoding data in a computer is known as",
     "options": [
       "dilution ",
       "default drive ",
@@ -1885,7 +1885,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-157-698",
-    "questionText": "The term Plc implies that the shares are available (JAMB 2000)",
+    "questionText": "The term Plc implies that the shares are available",
     "options": [
       "to the public at the company",
       "privately on the stock exchange",
@@ -1897,7 +1897,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-158-332",
-    "questionText": "The deliberate and sustained efforts of an organization towards the creation of goodwill for its products and services is through  (JAMB 2010)",
+    "questionText": "The deliberate and sustained efforts of an organization towards the creation of goodwill for its products and services is through",
     "options": [
       "Public relations ",
       "advertising ",
@@ -1909,7 +1909,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-159-116",
-    "questionText": "What is the capital employed? (JAMB 2006)",
+    "questionText": "What is the capital employed?",
     "options": [
       "N200 000",
       "N340 000",
@@ -1921,7 +1921,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-160-773",
-    "questionText": "The main factors that determine the value stock on the Stock Exchange are dividend an (JAMB 2001)",
+    "questionText": "The main factors that determine the value stock on the Stock Exchange are dividend an",
     "options": [
       "the psychology of the market",
       "capital gain",
@@ -1933,7 +1933,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-161-754",
-    "questionText": "One of the reasons why wholesaling must continue is that (JAMB 2001)",
+    "questionText": "One of the reasons why wholesaling must continue is that",
     "options": [
       "the tax paid by wholesalers on their profit enhances national revenue",
       "by creating artificial scarcity, the wholesaler is enhancing competition in the economy",
@@ -1945,7 +1945,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-162-883",
-    "questionText": "The body charged with the responsibility to register shares for subscription on the stock market in Nigeria is the (JAMB 2003)",
+    "questionText": "The body charged with the responsibility to register shares for subscription on the stock market in Nigeria is the",
     "options": [
       "Securities and Exchange Commission",
       "Nigerian Stock Exchange",
@@ -1957,7 +1957,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-163-174",
-    "questionText": "The   World   Tourism   Organization   has   its headquarters in  (JAMB 2007)",
+    "questionText": "The   World   Tourism   Organization   has   its headquarters in",
     "options": [
       "New York    ",
       "Paris",
@@ -1969,7 +1969,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-164-787",
-    "questionText": "Proper disposal of waste by business firms is one way of discharging their (JAMB 2001)",
+    "questionText": "Proper disposal of waste by business firms is one way of discharging their",
     "options": [
       "responsibility to government",
       "environmental responsibility",
@@ -1981,7 +1981,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-165-6",
-    "questionText": "An insured risk which occurs accidentally as a result of defects in a ship is (JAMB 2004)",
+    "questionText": "An insured risk which occurs accidentally as a result of defects in a ship is",
     "options": [
       "a voyage policy    ",
       "a total loss",
@@ -1993,7 +1993,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-166-114",
-    "questionText": "A public company has 2 000 000 ordinary shares of 50k each and offers 50% for subscription at N2 per share. If the shares were fully subscribed, calculate the issued capital. (JAMB 2006)",
+    "questionText": "A public company has 2 000 000 ordinary shares of 50k each and offers 50% for subscription at N2 per share. If the shares were fully subscribed, calculate the issued capital.",
     "options": [
       "  N4 000 000     ",
       " N2 000 000",
@@ -2005,7 +2005,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-167-243",
-    "questionText": "A factor is a business environment which increases the rate of product obsolescence is  (JAMB 2008)",
+    "questionText": "A factor is a business environment which increases the rate of product obsolescence is",
     "options": [
       "technology ",
       "political",
@@ -2017,7 +2017,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-168-539",
-    "questionText": "Commercialization is good for the Nigerian economy because it (JAMB 2013)",
+    "questionText": "Commercialization is good for the Nigerian economy because it",
     "options": [
       "creates room for competition",
       "increases the cost of living",
@@ -2029,7 +2029,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-169-568",
-    "questionText": "The following are characteristics of debenture holders, EXCEPT (JAMB 2013)",
+    "questionText": "The following are characteristics of debenture holders, EXCEPT",
     "options": [
       "being one of the sources of long term loan to public companies.",
       "being paid interest",
@@ -2041,7 +2041,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-170-575",
-    "questionText": "The following documents are used between buyers and sellers, EXCEPT (JAMB 2013)",
+    "questionText": "The following documents are used between buyers and sellers, EXCEPT",
     "options": [
       "catalogue",
       "dispatch rate",
@@ -2053,7 +2053,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-171-212",
-    "questionText": "In order to prevent liquidity problems in commercial banks, the central bank uses. (JAMB 2008)",
+    "questionText": "In order to prevent liquidity problems in commercial banks, the central bank uses.",
     "options": [
       "moral suasion  ",
       "fiscal policy",
@@ -2065,7 +2065,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-172-373",
-    "questionText": "A broker is an agent who links a potential investor with  (JAMB 2011)",
+    "questionText": "A broker is an agent who links a potential investor with",
     "options": [
       "a shareholder who wants to register a company ",
       "Other members of the exchange who want to trade ",
@@ -2077,7 +2077,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-173-447",
-    "questionText": "The document lodged with the customs authorities before a ship can leave the port is a  (JAMB 2013)",
+    "questionText": "The document lodged with the customs authorities before a ship can leave the port is a",
     "options": [
       "shipping note ",
       "ship report ",
@@ -2089,7 +2089,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-174-661",
-    "questionText": "Avast is an example of (JAMB 2016)",
+    "questionText": "Avast is an example of",
     "options": [
       "a web browser",
       "a search engine",
@@ -2101,7 +2101,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-175-552",
-    "questionText": "Calculate the current assets. (JAMB 2013)",
+    "questionText": "Calculate the current assets.",
     "options": [
       "15,000",
       "20,000",
@@ -2113,7 +2113,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-176-108",
-    "questionText": "A computer that can be used in weather forecast is  (JAMB 2006)",
+    "questionText": "A computer that can be used in weather forecast is",
     "options": [
       "  a hybrid computer ",
       " an analog computer",
@@ -2125,7 +2125,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-177-52",
-    "questionText": "The most important benefit of insurance is that it Provides  (JAMB 2005)",
+    "questionText": "The most important benefit of insurance is that it Provides",
     "options": [
       "control over activities",
       "the insured with a right to premium",
@@ -2137,7 +2137,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-178-95",
-    "questionText": "The major participants in the stock market when stock prices are rising generally are the (JAMB 2005)",
+    "questionText": "The major participants in the stock market when stock prices are rising generally are the",
     "options": [
       "bulls ",
       "registrars ",
@@ -2149,7 +2149,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-179-719",
-    "questionText": "The major condition for obtaining loan in thrift, credit and loans cooperative societies is (JAMB 2000)",
+    "questionText": "The major condition for obtaining loan in thrift, credit and loans cooperative societies is",
     "options": [
       "provision of collateral security",
       "a high level of education",
@@ -2161,7 +2161,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-180-822",
-    "questionText": "A contract for the sale of goods involves the (JAMB 2002)",
+    "questionText": "A contract for the sale of goods involves the",
     "options": [
       "producer, seller and the buyer of goods",
       "offering of goods to customers",
@@ -2173,7 +2173,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-181-621",
-    "questionText": "The organized efforts of consumers to protect themselves against the unfair practices of businessmen is called (JAMB 1990)",
+    "questionText": "The organized efforts of consumers to protect themselves against the unfair practices of businessmen is called",
     "options": [
       "strike",
       "consumerism",
@@ -2185,7 +2185,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-182-43",
-    "questionText": "The term 4 net 7 on an invoice means that (JAMB 2004)",
+    "questionText": "The term 4 net 7 on an invoice means that",
     "options": [
       "4% surcharge will be made unless payment is made within seven days   ",
       "4% discount will be allowed on the price charged only if the goods are bought within seven days  ",
@@ -2197,7 +2197,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-183-484",
-    "questionText": "A computer accessory through which information can be retrieved is the  (JAMB 2013)",
+    "questionText": "A computer accessory through which information can be retrieved is the",
     "options": [
       "hard disk ",
       "input  device ",
@@ -2209,7 +2209,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-184-135",
-    "questionText": "When one person approves an act previously done by another in the former's name without authority, this is known as    (JAMB 2006)",
+    "questionText": "When one person approves an act previously done by another in the former's name without authority, this is known as",
     "options": [
       "ratification ",
       "estoppels",
@@ -2221,7 +2221,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-185-669",
-    "questionText": "The pricing policy that seeks ,to set .prices relatively high in order to attract the wealthy segment of the market is (JAMB 2016)",
+    "questionText": "The pricing policy that seeks ,to set .prices relatively high in order to attract the wealthy segment of the market is",
     "options": [
       "target return pricing",
       "market skimming",
@@ -2233,7 +2233,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-186-583",
-    "questionText": "A manufacturer is said to have performed all the necessary marketing functions in the distribution channel when the goods move from (JAMB 2013)",
+    "questionText": "A manufacturer is said to have performed all the necessary marketing functions in the distribution channel when the goods move from",
     "options": [
       "manufacturer ? consumer",
       "manufacturer ? retailer ? consumer",
@@ -2245,7 +2245,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-187-284",
-    "questionText": "An organizational structure that is military in nature is the  (JAMB 2009)",
+    "questionText": "An organizational structure that is military in nature is the",
     "options": [
       "line structure ",
       "staff structure ",
@@ -2257,7 +2257,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-188-319",
-    "questionText": "One of the main features of a partnership is  (JAMB 2010)",
+    "questionText": "One of the main features of a partnership is",
     "options": [
       "limited liability ",
       "lack of corporate existence ",
@@ -2269,7 +2269,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-189-831",
-    "questionText": "In product pricing, which of these elements needs more consideration than others? (JAMB 2002)",
+    "questionText": "In product pricing, which of these elements needs more consideration than others?",
     "options": [
       "the demand for the product",
       "the demography of the buyers of the product",
@@ -2281,7 +2281,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-190-412",
-    "questionText": "Tourism serves the purpose of  (JAMB 2012)",
+    "questionText": "Tourism serves the purpose of",
     "options": [
       "cross-cultural understanding and peaceful interaction ",
       "opening avenues for leaving the country",
@@ -2293,7 +2293,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-191-878",
-    "questionText": "The market structure, business conditions and financial systems in Nigeria constitute the (JAMB 2003)",
+    "questionText": "The market structure, business conditions and financial systems in Nigeria constitute the",
     "options": [
       "economic environment",
       "political environment",
@@ -2305,7 +2305,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-192-526",
-    "questionText": "Which of these is not a basic marketing function? (JAMB 2000)",
+    "questionText": "Which of these is not a basic marketing function?",
     "options": [
       "Exchange",
       "Production",
@@ -2317,7 +2317,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-193-293",
-    "questionText": "The economic environment of a business is concerned with  (JAMB 2009)",
+    "questionText": "The economic environment of a business is concerned with",
     "options": [
       "climatic conditions",
       "changing values ",
@@ -2329,7 +2329,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-194-123",
-    "questionText": "Capital to a business is technically   (JAMB 2006)",
+    "questionText": "Capital to a business is technically",
     "options": [
       "an expense",
       "a liability ",
@@ -2341,7 +2341,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-195-83",
-    "questionText": "A major function of a chamber of commerce is (JAMB 2005)",
+    "questionText": "A major function of a chamber of commerce is",
     "options": [
       " increasing productivity",
       "promoting both home and foreign trade",
@@ -2353,7 +2353,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-196-462",
-    "questionText": "A lawyer that defrauds his client may be derobed by the Nigerian Bar Association in order to  (JAMB 2013)",
+    "questionText": "A lawyer that defrauds his client may be derobed by the Nigerian Bar Association in order to",
     "options": [
       "protect other lawyers ",
       "protect the integrity of the association",
@@ -2365,7 +2365,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-197-57",
-    "questionText": "The most dangerous pollution is (JAMB 2005)",
+    "questionText": "The most dangerous pollution is",
     "options": [
       "water ",
       "noise pollution",
@@ -2377,7 +2377,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-198-89",
-    "questionText": "Invisible imports consists of (JAMB 2005)",
+    "questionText": "Invisible imports consists of",
     "options": [
       " cement, shipping and consultancy services",
       " banking   drinks, insurance and technical services.   ",
@@ -2389,7 +2389,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-199-275",
-    "questionText": "The financial instrument that entitles the holder to receive dividend and capital gains is a  (JAMB 2009)",
+    "questionText": "The financial instrument that entitles the holder to receive dividend and capital gains is a",
     "options": [
       "share  ",
       "bond ",
@@ -2401,7 +2401,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-200-466",
-    "questionText": "Which of the following is a quality of money?   (JAMB 2013)",
+    "questionText": "Which of the following is a quality of money?",
     "options": [
       "Availability",
       "Scarcity  ",
@@ -2413,7 +2413,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-201-556",
-    "questionText": "The development of a container and a graphic design for a product is known as (JAMB 2013)",
+    "questionText": "The development of a container and a graphic design for a product is known as",
     "options": [
       "advertising",
       "branding",
@@ -2425,7 +2425,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-202-324",
-    "questionText": "A characteristic of money which ensures that its value is not lost is  (JAMB 2010)",
+    "questionText": "A characteristic of money which ensures that its value is not lost is",
     "options": [
       "homogeneity ",
       "easy portability ",
@@ -2437,7 +2437,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-203-166",
-    "questionText": "A document which advertises the shares of a company is known as a   (JAMB 2007)",
+    "questionText": "A document which advertises the shares of a company is known as a",
     "options": [
       "memorandum of satisfaction   ",
       "dividend warrant     ",
@@ -2449,7 +2449,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-204-694",
-    "questionText": "A major function of commerce is to (JAMB 2016)",
+    "questionText": "A major function of commerce is to",
     "options": [
       "facilitate human satisfaction through exchange",
       "eliminate trade barriers",
@@ -2461,7 +2461,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-205-509",
-    "questionText": "Which of the following refers to a price reduction based on the size of order? (JAMB 2000)",
+    "questionText": "Which of the following refers to a price reduction based on the size of order?",
     "options": [
       "Cash discount",
       "Trade discount",
@@ -2473,7 +2473,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-206-55",
-    "questionText": "A major disadvantage of the privatisation policy is that  (JAMB 2005)",
+    "questionText": "A major disadvantage of the privatisation policy is that",
     "options": [
       "the economy would be private-sector-led ",
       "citizens would benefit less from government",
@@ -2485,7 +2485,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-207-702",
-    "questionText": "On liquidation of a public limited liability company, the residual owners are the (JAMB 2000)",
+    "questionText": "On liquidation of a public limited liability company, the residual owners are the",
     "options": [
       "creditors",
       "ordinary   shareholders",
@@ -2497,7 +2497,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-208-402",
-    "questionText": "If a customer pays within nine days of receiving goods and takes advantage of 3% off the invoice price, this is stated as  (JAMB 2012)",
+    "questionText": "If a customer pays within nine days of receiving goods and takes advantage of 3% off the invoice price, this is stated as",
     "options": [
       "3/9; net 3. ",
       "9/27; net 30",
@@ -2509,7 +2509,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-209-185",
-    "questionText": "The abbreviation C & F indicates that the (JAMB 2007)",
+    "questionText": "The abbreviation C & F indicates that the",
     "options": [
       "production cost excludes the cost of carriage",
       "selling price includes the cost of carriage",
@@ -2521,7 +2521,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-210-739",
-    "questionText": "In an organization, civic consideration arises from (JAMB 2000)",
+    "questionText": "In an organization, civic consideration arises from",
     "options": [
       "the profit derived from the environment",
       "its operations within the environment",
@@ -2533,7 +2533,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-211-732",
-    "questionText": "The first known legislation to protect consumer rights in Nigeria is the (JAMB 2000)",
+    "questionText": "The first known legislation to protect consumer rights in Nigeria is the",
     "options": [
       "Usury Laws",
       "Hire Purchase Act",
@@ -2545,7 +2545,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-212-51",
-    "questionText": "A floating policy is an example of (JAMB 2005)",
+    "questionText": "A floating policy is an example of",
     "options": [
       "marine insurance    ",
       "actuaries insurance ",
@@ -2557,7 +2557,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-213-256",
-    "questionText": "The most commonly used commercial documents are  (JAMB 2009)",
+    "questionText": "The most commonly used commercial documents are",
     "options": [
       "order notes, debit notes, invoices and quotations ",
       "letters of enquiry, consignment notes, receipts and invoices ",
@@ -2569,7 +2569,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-214-633",
-    "questionText": "The main purpose of branding is to (JAMB 1990)",
+    "questionText": "The main purpose of branding is to",
     "options": [
       "increase the quantity of goods demanded",
       "differentiate goods from other similar goods made by other producers",
@@ -2581,7 +2581,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-215-418",
-    "questionText": "A business organization can obtain long-term financing through  (JAMB 2012)",
+    "questionText": "A business organization can obtain long-term financing through",
     "options": [
       "bank overdraft ",
       "the sale of shares ",
@@ -2593,7 +2593,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-216-642",
-    "questionText": "Which of the following is not required in a Memorandum of Association? The (JAMB 1990)",
+    "questionText": "Which of the following is not required in a Memorandum of Association? The",
     "options": [
       "name of the company",
       "location of the company",
@@ -2605,7 +2605,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-217-301",
-    "questionText": "Division of labour ultimately leads to  (JAMB 2010)",
+    "questionText": "Division of labour ultimately leads to",
     "options": [
       "conservation",
       "integration",
@@ -2617,7 +2617,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-218-225",
-    "questionText": "An association to which all chambers of commerce in Nigeria are affiliated is the  (JAMB 2008)",
+    "questionText": "An association to which all chambers of commerce in Nigeria are affiliated is the",
     "options": [
       "Nigeria Labour Congress ",
       "National Association of Chambers of Commerce, Industry, Mines and Agriculture",
@@ -2629,7 +2629,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-219-611",
-    "questionText": "The exchange of goods for other goods in home trade is known as (JAMB 1990)",
+    "questionText": "The exchange of goods for other goods in home trade is known as",
     "options": [
       "entrepot trade",
       "home trade",
@@ -2641,7 +2641,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-220-464",
-    "questionText": "Trade Fairs in Nigeria are organized by  (JAMB 2013)",
+    "questionText": "Trade Fairs in Nigeria are organized by",
     "options": [
       "the Federal Government ",
       "Manufactures’ Association of Nigeria",
@@ -2653,7 +2653,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-221-486",
-    "questionText": "To meet security requirement before gaining access to data, a computer operator supplies  (JAMB 2013)",
+    "questionText": "To meet security requirement before gaining access to data, a computer operator supplies",
     "options": [
       "an e-mail address ",
       "a yahoo address ",
@@ -2665,7 +2665,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-222-107",
-    "questionText": "The mode of transportation that conveys a limited variety of products through fixed laid routes is (JAMB 2006)",
+    "questionText": "The mode of transportation that conveys a limited variety of products through fixed laid routes is",
     "options": [
       "waterways  ",
       "Broad ",
@@ -2677,7 +2677,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-223-178",
-    "questionText": "The major determinant of fire insurance premium is the  (JAMB 2007)",
+    "questionText": "The major determinant of fire insurance premium is the",
     "options": [
       "type and structure of the property to be insured ",
       "usefulness of the property to the owner",
@@ -2689,7 +2689,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-224-370",
-    "questionText": "In the event of voluntary liquidation, the appointment of a liquidator is the responsibility of the  (JAMB 2011)",
+    "questionText": "In the event of voluntary liquidation, the appointment of a liquidator is the responsibility of the",
     "options": [
       "directors ",
       "creditors ",
@@ -2701,7 +2701,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-225-459",
-    "questionText": "Which of the following will NOT be stated in a Memorandum of Association?  (JAMB 2013)",
+    "questionText": "Which of the following will NOT be stated in a Memorandum of Association?",
     "options": [
       "Name clause ",
       "Rights of shareholders ",
@@ -2713,7 +2713,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-226-413",
-    "questionText": "The type of letters that are delivered through the normal mail or by airmail express service is referred to as  (JAMB 2012)",
+    "questionText": "The type of letters that are delivered through the normal mail or by airmail express service is referred to as",
     "options": [
       "Inland letters ",
       "registered letters",
@@ -2725,7 +2725,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-227-854",
-    "questionText": "The focal point of marketing is (JAMB 2003)",
+    "questionText": "The focal point of marketing is",
     "options": [
       "the competitor",
       "the buyer",
@@ -2737,7 +2737,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801845-228-255",
-    "questionText": "An artificial barrier to international trade is  (JAMB 2009)",
+    "questionText": "An artificial barrier to international trade is",
     "options": [
       "political unrest  ",
       "culture of the people",
@@ -2749,7 +2749,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-229-393",
-    "questionText": "An example of an activity in the construction industry is  (JAMB 2012)",
+    "questionText": "An example of an activity in the construction industry is",
     "options": [
       "blacksmithing  ",
       "bricklaying ",
@@ -2761,7 +2761,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-230-502",
-    "questionText": "A refund of the duty collected on goods imported and processed for re- export is (JAMB 2000)",
+    "questionText": "A refund of the duty collected on goods imported and processed for re- export is",
     "options": [
       "excise duty",
       "excise draw back",
@@ -2773,7 +2773,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-231-551",
-    "questionText": "Calculate the total liabilities. (JAMB 2013)",
+    "questionText": "Calculate the total liabilities.",
     "options": [
       "40,000",
       "50,000",
@@ -2785,7 +2785,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-232-601",
-    "questionText": "The three main divisions of production include industrial (JAMB 1990)",
+    "questionText": "The three main divisions of production include industrial",
     "options": [
       "commercial and banking services",
       "commercial and services",
@@ -2797,7 +2797,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-233-259",
-    "questionText": "A cheque which a bank draws on its own funds is a (JAMB 2009)",
+    "questionText": "A cheque which a bank draws on its own funds is a",
     "options": [
       "bankdraft ",
       "cashier’s cheque ",
@@ -2809,7 +2809,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-234-397",
-    "questionText": "The main purpose of branding is to  (JAMB 2012)",
+    "questionText": "The main purpose of branding is to",
     "options": [
       "create identity for a product ",
       "make a product look attractive ",
@@ -2821,7 +2821,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-235-619",
-    "questionText": "An agreement between two parties which will give rise to enforceable rights and obligation is known as (JAMB 1990)",
+    "questionText": "An agreement between two parties which will give rise to enforceable rights and obligation is known as",
     "options": [
       "a warrant",
       "a contract",
@@ -2833,7 +2833,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-236-813",
-    "questionText": "The Stock Exchange is a market where (JAMB 2002)",
+    "questionText": "The Stock Exchange is a market where",
     "options": [
       "long-term securities are sold",
       "all types of securities are sold",
@@ -2845,7 +2845,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-237-585",
-    "questionText": "The first step for a businessman who wishes to engage in international trade is to (JAMB 2013)",
+    "questionText": "The first step for a businessman who wishes to engage in international trade is to",
     "options": [
       "ask the exporter to move the goods to the shipping company for delivery",
       "engage the services of clearing agent to clear the goods on his behalf",
@@ -2857,7 +2857,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-238-871",
-    "questionText": "Social responsibility is the ability of an organization to (JAMB 2003)",
+    "questionText": "Social responsibility is the ability of an organization to",
     "options": [
       "tackle the socio-economic problem of its community",
       "meet the needs of its community",
@@ -2869,7 +2869,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-239-31",
-    "questionText": "The strategy adopted by a firm that ceases to operate at one or more locations because of inactivity is   (JAMB 2004)",
+    "questionText": "The strategy adopted by a firm that ceases to operate at one or more locations because of inactivity is",
     "options": [
       "rejuvenation ",
       "focus",
@@ -2881,7 +2881,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-240-637",
-    "questionText": "In insurance the term Uberrimaefidei stands for (JAMB 1990)",
+    "questionText": "In insurance the term Uberrimaefidei stands for",
     "options": [
       "utmost good faith",
       "subrogation",
@@ -2893,7 +2893,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-241-437",
-    "questionText": "Computers that process all data as binary zeros and ones are  (JAMB 2012)",
+    "questionText": "Computers that process all data as binary zeros and ones are",
     "options": [
       "analog computers ",
       "digital computers ",
@@ -2905,7 +2905,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-242-515",
-    "questionText": "Which of the following encourages people to save towards owning a house? (JAMB 2000)",
+    "questionText": "Which of the following encourages people to save towards owning a house?",
     "options": [
       "Merchant bank",
       "Development bank",
@@ -2917,7 +2917,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-243-287",
-    "questionText": "Market skimming is an example of  (JAMB 2009)",
+    "questionText": "Market skimming is an example of",
     "options": [
       "market penetration ",
       "Sales promotion ",
@@ -2929,7 +2929,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-244-24",
-    "questionText": "The shares of a company listed on the stock exchange for sale are referred to as (JAMB 2004)",
+    "questionText": "The shares of a company listed on the stock exchange for sale are referred to as",
     "options": [
       "registered shares  ",
       "deferred shares ",
@@ -2941,7 +2941,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-245-80",
-    "questionText": "The necessary documents used in foreign trade are  (JAMB 2005)",
+    "questionText": "The necessary documents used in foreign trade are",
     "options": [
       "bill of lading, invoice and letter of inquiry",
       "indent, bill of exchange, bill of lading and invoice",
@@ -2953,7 +2953,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-246-791",
-    "questionText": "Secondary production has to do with changing the (JAMB 2002)",
+    "questionText": "Secondary production has to do with changing the",
     "options": [
       "shape of raw materials through construction operations",
       "physical form of raw materials into finished goods",
@@ -2965,7 +2965,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-247-776",
-    "questionText": "The most effective type of advertising for branded products is (JAMB 2001)",
+    "questionText": "The most effective type of advertising for branded products is",
     "options": [
       "direct advertising",
       "indirect advertising",
@@ -2977,7 +2977,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-248-680",
-    "questionText": "An ancillary to trade which promotes socio-cultural development all over the world is (JAMB 2016)",
+    "questionText": "An ancillary to trade which promotes socio-cultural development all over the world is",
     "options": [
       "transportation",
       "communication",
@@ -2989,7 +2989,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-249-498",
-    "questionText": "A debenture is mortgaged when it is (JAMB 2000)",
+    "questionText": "A debenture is mortgaged when it is",
     "options": [
       "not secured on the assets of a company",
       "secured on the assets of a company",
@@ -3001,7 +3001,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-250-884",
-    "questionText": "An essential factor for evaluating the different sources of funds for a business is the (JAMB 2003)",
+    "questionText": "An essential factor for evaluating the different sources of funds for a business is the",
     "options": [
       "decree establishing the business",
       "ownership structure of the business concern",
@@ -3013,7 +3013,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-251-289",
-    "questionText": "Unresolved disputes between the employer and employees are usually referred to the  (JAMB 2009)",
+    "questionText": "Unresolved disputes between the employer and employees are usually referred to the",
     "options": [
       "code of conduct bureau",
       "personnel unit ",
@@ -3025,7 +3025,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-252-230",
-    "questionText": "A function generally performed by authorities of both the air and seaports is the  (JAMB 2008)",
+    "questionText": "A function generally performed by authorities of both the air and seaports is the",
     "options": [
       "maintenance of warehouses where goods can be stored",
       "provision of facilities for loading and unloading  of cargoes ",
@@ -3037,7 +3037,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-253-161",
-    "questionText": "A Memorandum of Association is applicable to a (JAMB 2007)",
+    "questionText": "A Memorandum of Association is applicable to a",
     "options": [
       " sole trader ",
       "joint-stock company",
@@ -3049,7 +3049,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-254-149",
-    "questionText": "Consumers require protection against exploitation to ensure  (JAMB 2007)",
+    "questionText": "Consumers require protection against exploitation to ensure",
     "options": [
       "adequate consumer awareness",
       "availability of product variety",
@@ -3061,7 +3061,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-255-480",
-    "questionText": "The right of retain possession of goods until the contract price is paid is referred to as  (JAMB 2013)",
+    "questionText": "The right of retain possession of goods until the contract price is paid is referred to as",
     "options": [
       "a promise ",
       "ultra vires ",
@@ -3073,7 +3073,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-256-56",
-    "questionText": "The most important right of the employee in discharging his duties to the employer is the right to  (JAMB 2005)",
+    "questionText": "The most important right of the employee in discharging his duties to the employer is the right to",
     "options": [
       "regular emoluments  ",
       "job security ",
@@ -3085,7 +3085,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-257-73",
-    "questionText": "One of the disadvantages of sole proprietorship is (JAMB 2005)",
+    "questionText": "One of the disadvantages of sole proprietorship is",
     "options": [
       "secrecy of annual reports",
       "pride of ownership ",
@@ -3097,7 +3097,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-258-677",
-    "questionText": "Which of the following is the best method for computing working capital? (JAMB 2016)",
+    "questionText": "Which of the following is the best method for computing working capital?",
     "options": [
       "Total assets less current liabilities.",
       "Current liabilities less current assets.",
@@ -3109,7 +3109,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-259-310",
-    "questionText": "The details of the goods required by the purchaser is outlined in  (JAMB 2010)",
+    "questionText": "The details of the goods required by the purchaser is outlined in",
     "options": [
       "a consular invoice ",
       "an indent ",
@@ -3121,7 +3121,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-260-26",
-    "questionText": "In international trade, documentary credit is also known as    (JAMB 2004)",
+    "questionText": "In international trade, documentary credit is also known as",
     "options": [
       "credit note   ",
       "letters of credit",
@@ -3133,7 +3133,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-261-273",
-    "questionText": "Partnerships are most effective where  (JAMB 2009)",
+    "questionText": "Partnerships are most effective where",
     "options": [
       "the partners are family friends ",
       "professionals are involved",
@@ -3145,7 +3145,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-262-30",
-    "questionText": "An action taken by a company outside its object clause is regarded as  (JAMB 2004)",
+    "questionText": "An action taken by a company outside its object clause is regarded as",
     "options": [
       "ultra vires    ",
       "a trespass   ",
@@ -3157,7 +3157,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-263-49",
-    "questionText": "Discounts offered by firms to middlemen for bulk purchases are  (JAMB 2004)",
+    "questionText": "Discounts offered by firms to middlemen for bulk purchases are",
     "options": [
       "A   trade discounts",
       "sales  bonanza    ",
@@ -3169,7 +3169,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-264-261",
-    "questionText": "A collective term for advertising, personal selling and publicity is  (JAMB 2009)",
+    "questionText": "A collective term for advertising, personal selling and publicity is",
     "options": [
       "exhibition ",
       "promotion ",
@@ -3181,7 +3181,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-265-347",
-    "questionText": "Services rendered to the public is provided by  (JAMB 2011)",
+    "questionText": "Services rendered to the public is provided by",
     "options": [
       "Government ",
       "civil servants ",
@@ -3193,7 +3193,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-266-325",
-    "questionText": "The instrument used in the capital market is  (JAMB 2010)",
+    "questionText": "The instrument used in the capital market is",
     "options": [
       "treasury bill ",
       "bill of exchange ",
@@ -3205,7 +3205,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-267-362",
-    "questionText": "The major source of income to commercial banks is  (JAMB 2011)",
+    "questionText": "The major source of income to commercial banks is",
     "options": [
       "loans ",
       "deposits ",
@@ -3217,7 +3217,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-268-50",
-    "questionText": "Goods are  of merchantable  quality if they (JAMB 2004)",
+    "questionText": "Goods are  of merchantable  quality if they",
     "options": [
       "conform to description  ",
       "are of equal weight",
@@ -3229,7 +3229,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-269-2",
-    "questionText": "Non-insurable risks include  (JAMB 2004)",
+    "questionText": "Non-insurable risks include",
     "options": [
       "gambling ",
       "damage to property",
@@ -3241,7 +3241,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-270-72",
-    "questionText": "A partnership is dissolved when (JAMB 2005)",
+    "questionText": "A partnership is dissolved when",
     "options": [
       "the business suffers a loss",
       "there is bankruptcy",
@@ -3253,7 +3253,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-271-827",
-    "questionText": "Which of the following is a function of employers’ association? (JAMB 2002)",
+    "questionText": "Which of the following is a function of employers’ association?",
     "options": [
       "Undertaking research on behalf of employees",
       "Promotion of thrift in workers",
@@ -3265,7 +3265,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-272-286",
-    "questionText": "The concept which focuses on consumers in decision-making is  (JAMB 2009)",
+    "questionText": "The concept which focuses on consumers in decision-making is",
     "options": [
       "selling concept ",
       "marketing concept ",
@@ -3277,7 +3277,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-273-849",
-    "questionText": "The concept that refers to the sale, transfer or exchange of goods and services is (JAMB 2003)",
+    "questionText": "The concept that refers to the sale, transfer or exchange of goods and services is",
     "options": [
       "industry",
       "trade",
@@ -3289,7 +3289,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-274-527",
-    "questionText": "Branding is a tool for (JAMB 2000)",
+    "questionText": "Branding is a tool for",
     "options": [
       "competitive advertising",
       "consumerism",
@@ -3301,7 +3301,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-275-409",
-    "questionText": "The right of an insurance company to stand in place of an insured against a third party, who is liable for the occurrence of a loss, is the principle of  (JAMB 2012)",
+    "questionText": "The right of an insurance company to stand in place of an insured against a third party, who is liable for the occurrence of a loss, is the principle of",
     "options": [
       "proximate cause",
       "insurable interest ",
@@ -3313,7 +3313,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-276-690",
-    "questionText": "A group of computers that exchange data is referred to as (JAMB 2016)",
+    "questionText": "A group of computers that exchange data is referred to as",
     "options": [
       "an information bank.",
       "a network.",
@@ -3325,7 +3325,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-277-97",
-    "questionText": "To increase the supply of money in a country, the central bank has to  (JAMB 2005)",
+    "questionText": "To increase the supply of money in a country, the central bank has to",
     "options": [
       "reduce cash ratio",
       " sell securities in the open market",
@@ -3337,7 +3337,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-278-381",
-    "questionText": "To make a simple contract valid, the intention must be  (JAMB 2011)",
+    "questionText": "To make a simple contract valid, the intention must be",
     "options": [
       "legal and written ",
       "legal and binding ",
@@ -3349,7 +3349,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-279-535",
-    "questionText": "A counter-offer in a contract is regarded as (JAMB 2000)",
+    "questionText": "A counter-offer in a contract is regarded as",
     "options": [
       "an acceptance",
       "an invitation to treat",
@@ -3361,7 +3361,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-280-522",
-    "questionText": "The information on terms of carriage of mails is found in (JAMB 2000)",
+    "questionText": "The information on terms of carriage of mails is found in",
     "options": [
       "business journal",
       "post office guide",
@@ -3373,7 +3373,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-281-235",
-    "questionText": "The sum of money paid by a policy-holder to an insurer is referred to as  (JAMB 2008)",
+    "questionText": "The sum of money paid by a policy-holder to an insurer is referred to as",
     "options": [
       "interest ",
       "premium ",
@@ -3385,7 +3385,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-282-593",
-    "questionText": "Which of the following is NOT a commercial occupation? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a commercial occupation?",
     "options": [
       "Advertising",
       "Agriculture",
@@ -3397,7 +3397,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-283-155",
-    "questionText": "The macro-environmental forces and trends which are a constraint on business operations are  referred to as   (JAMB 2007)",
+    "questionText": "The macro-environmental forces and trends which are a constraint on business operations are  referred to as",
     "options": [
       "technological factors",
       "economic factors   ",
@@ -3409,7 +3409,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-284-264",
-    "questionText": "In which of the following will be number of words used determine the cost of the message sent? (JAMB 2009)",
+    "questionText": "In which of the following will be number of words used determine the cost of the message sent?",
     "options": [
       "telephone",
       "telegram ",
@@ -3421,7 +3421,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-285-587",
-    "questionText": "Which of the following towns was NOT an initial commercial centre in Nigeria? (JAMB 2013)",
+    "questionText": "Which of the following towns was NOT an initial commercial centre in Nigeria?",
     "options": [
       "Kano",
       "Lagos",
@@ -3433,7 +3433,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-286-189",
-    "questionText": "The function  of money that facilitates the comparison of the quality of goods as a basis of exchange is the    (JAMB 2007)",
+    "questionText": "The function  of money that facilitates the comparison of the quality of goods as a basis of exchange is the",
     "options": [
       "unit of account",
       "measure of value ",
@@ -3445,7 +3445,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-287-685",
-    "questionText": "Which of the following is NOT backed by gold but by government securities? (JAMB 2016)",
+    "questionText": "Which of the following is NOT backed by gold but by government securities?",
     "options": [
       "Fiduciary note.",
       "Fiat money.",
@@ -3457,7 +3457,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-288-119",
-    "questionText": "A financial institution which uses its capital strength to acquire controlling interests in other firms can be regarded as a (JAMB 2006)",
+    "questionText": "A financial institution which uses its capital strength to acquire controlling interests in other firms can be regarded as a",
     "options": [
       "subsidiary company",
       "holding company ",
@@ -3469,7 +3469,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-289-516",
-    "questionText": "Which of the following services is not rendered by commercial banks? (JAMB 2000)",
+    "questionText": "Which of the following services is not rendered by commercial banks?",
     "options": [
       "Business advice",
       "Currency notes issue",
@@ -3481,7 +3481,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-290-300",
-    "questionText": "The factor of production that is subject to depreciation is (JAMB 2010)",
+    "questionText": "The factor of production that is subject to depreciation is",
     "options": [
       "capital ",
       "land",
@@ -3493,7 +3493,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-291-749",
-    "questionText": "At the collapse of a business enterprise, the person appointed to dispose of the assets is called (JAMB 2001)",
+    "questionText": "At the collapse of a business enterprise, the person appointed to dispose of the assets is called",
     "options": [
       "a broker",
       "an auctioneer",
@@ -3505,7 +3505,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-292-497",
-    "questionText": "Which of the following is true about cumulative preference shares? (JAMB 2000)",
+    "questionText": "Which of the following is true about cumulative preference shares?",
     "options": [
       "Unpaid dividends are carried forward",
       "Shareholders can secure capital refund on demand",
@@ -3517,7 +3517,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-293-542",
-    "questionText": "The process of dividing a total market into groups made up of people with similar need refers to marketing (JAMB 2013)",
+    "questionText": "The process of dividing a total market into groups made up of people with similar need refers to marketing",
     "options": [
       "function",
       "mix",
@@ -3529,7 +3529,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-294-706",
-    "questionText": "The current trends in retailing competition in Nigeria are (JAMB 2000)",
+    "questionText": "The current trends in retailing competition in Nigeria are",
     "options": [
       "advertising and sales promotion strategies",
       "branding, enterprising and differentiation of goods and services",
@@ -3541,7 +3541,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-295-181",
-    "questionText": "The major function of a trade association is that it (JAMB 2007)",
+    "questionText": "The major function of a trade association is that it",
     "options": [
       "liaises with foreign trade associations",
       "helps to promote foreign trade",
@@ -3553,7 +3553,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-296-842",
-    "questionText": "The right  of ownership with respect to goods or property is (JAMB 2003)",
+    "questionText": "The right  of ownership with respect to goods or property is",
     "options": [
       "right of occupancy",
       "proxy",
@@ -3565,7 +3565,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-297-727",
-    "questionText": "The role of public relations is principally to (JAMB 2000)",
+    "questionText": "The role of public relations is principally to",
     "options": [
       "sustain good relationship",
       "create good image",
@@ -3577,7 +3577,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-298-738",
-    "questionText": "The legal aspect of business is designed to (JAMB 2000)",
+    "questionText": "The legal aspect of business is designed to",
     "options": [
       "protect business organizations and consumers",
       "safeguard consumers from undue business practices",
@@ -3589,7 +3589,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-299-303",
-    "questionText": "After- sales service is a function usually rendered by (JAMB 2010)",
+    "questionText": "After- sales service is a function usually rendered by",
     "options": [
       "a retailer",
       "a wholesaler ",
@@ -3601,7 +3601,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-300-316",
-    "questionText": "An agent who brings a customer into business contact with his principal is known as  (JAMB 2010)",
+    "questionText": "An agent who brings a customer into business contact with his principal is known as",
     "options": [
       "a del credere agent ",
       "an auctioneer",
@@ -3613,7 +3613,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-301-444",
-    "questionText": "A country is said to be experiencing an unfavourable balance of trade if her (JAMB 2013)",
+    "questionText": "A country is said to be experiencing an unfavourable balance of trade if her",
     "options": [
       "exports exceed imports ",
       "visible exports  exceed  visible imports ",
@@ -3625,7 +3625,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-302-537",
-    "questionText": "Which of the following is an agreement to transport goods but not a document of title? (JAMB 2000)",
+    "questionText": "Which of the following is an agreement to transport goods but not a document of title?",
     "options": [
       "Air-waybill",
       "Bill of lading",
@@ -3637,7 +3637,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-303-582",
-    "questionText": "The durable capital of an enterprise which is used continuously for further production is called ___ capital. (JAMB 2013)",
+    "questionText": "The durable capital of an enterprise which is used continuously for further production is called ___ capital.",
     "options": [
       "called up",
       "circulating",
@@ -3649,7 +3649,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-304-814",
-    "questionText": "A retail cooperative society aims at (JAMB 2002)",
+    "questionText": "A retail cooperative society aims at",
     "options": [
       "hoarding manufactured goods",
       "cutting off the profit of middlemen",
@@ -3661,7 +3661,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-305-282",
-    "questionText": "The daily official publications of the Nigerian Stock Exchange give detailed information on the  (JAMB 2009)",
+    "questionText": "The daily official publications of the Nigerian Stock Exchange give detailed information on the",
     "options": [
       "changes in the official rules set by the market ",
       "method of transactions agreed upon by members ",
@@ -3673,7 +3673,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-306-327",
-    "questionText": "The tree components of staffing are  (JAMB 2010)",
+    "questionText": "The tree components of staffing are",
     "options": [
       "recruitment, interview and appointment ",
       "recruitment, test and placement ",
@@ -3685,7 +3685,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-307-365",
-    "questionText": "The agreement of insurers to spread risks  among themselves is a major feature of  (JAMB 2011)",
+    "questionText": "The agreement of insurers to spread risks  among themselves is a major feature of",
     "options": [
       "reinsurance",
       "life assurance ",
@@ -3697,7 +3697,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-308-448",
-    "questionText": "The document which must be endorsed by the ambassador of a country of destination before shipment of goods is a  (JAMB 2013)",
+    "questionText": "The document which must be endorsed by the ambassador of a country of destination before shipment of goods is a",
     "options": [
       "consular invoice ",
       "certificate of origin ",
@@ -3709,7 +3709,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-309-207",
-    "questionText": "An example of a cartel is  (JAMB 2008)",
+    "questionText": "An example of a cartel is",
     "options": [
       "OPEC",
       "ECOWAS ",
@@ -3721,7 +3721,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-310-651",
-    "questionText": "The winding up of a firm by a resolution of its shareholders is an example of (JAMB 2016)",
+    "questionText": "The winding up of a firm by a resolution of its shareholders is an example of",
     "options": [
       "voluntary liquidation",
       "bankruptcy",
@@ -3733,7 +3733,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-311-700",
-    "questionText": "The measure of independence available to the individual business units that come together is the main difference between (JAMB 2000)",
+    "questionText": "The measure of independence available to the individual business units that come together is the main difference between",
     "options": [
       "vertical and horizontal, integration",
       "mergers and acquisitions",
@@ -3745,7 +3745,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-312-179",
-    "questionText": "The Internet is a system of telecommunications used for    (JAMB 2007)",
+    "questionText": "The Internet is a system of telecommunications used for",
     "options": [
       "communicating long-distance messages ",
       "sending and receiving text messages",
@@ -3757,7 +3757,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-313-571",
-    "questionText": "Price quotation which excludes all delivery charges is called (JAMB 2013)",
+    "questionText": "Price quotation which excludes all delivery charges is called",
     "options": [
       "cost and freight",
       "ex - ship",
@@ -3769,7 +3769,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-314-793",
-    "questionText": "Which of the following best describes the scope of commerce? (JAMB 2002)",
+    "questionText": "Which of the following best describes the scope of commerce?",
     "options": [
       "All forms of commercial exchanges and the manufacturing industry",
       "Buying and selling and the construction industry",
@@ -3781,7 +3781,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-315-463",
-    "questionText": "In the Nigeria GSM industry, a parliament is organized by the Nigerian Communication Commission in order to  (JAMB 2013)",
+    "questionText": "In the Nigeria GSM industry, a parliament is organized by the Nigerian Communication Commission in order to",
     "options": [
       "increase profit of service providers ",
       "protect the interest of government ",
@@ -3793,7 +3793,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-316-616",
-    "questionText": "Which of the following statements best describes net profit? The excess of (JAMB 1990)",
+    "questionText": "Which of the following statements best describes net profit? The excess of",
     "options": [
       "total revenue over total expenditure",
       "total capital income over expenditure",
@@ -3805,7 +3805,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788679801846-317-536",
-    "questionText": "Which of the following is not a right of the consumer? (JAMB 2000)",
+    "questionText": "Which of the following is not a right of the consumer?",
     "options": [
       "Safety",
       "Choice",
@@ -3817,7 +3817,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-0-411",
-    "questionText": "A person who undertakes a life insurance is said to be an  (JAMB 2012)",
+    "questionText": "A person who undertakes a life insurance is said to be an",
     "options": [
       "Insurer",
       "assurer",
@@ -3829,7 +3829,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-1-866",
-    "questionText": "The location of a business is mostly influenced by (JAMB 2003)",
+    "questionText": "The location of a business is mostly influenced by",
     "options": [
       "market outlet",
       "management decision",
@@ -3841,7 +3841,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-2-797",
-    "questionText": "Which of the following countries are members the Lake Chad Basin Commission? (JAMB 2002)",
+    "questionText": "Which of the following countries are members the Lake Chad Basin Commission?",
     "options": [
       "Niger and Cameroun",
       "Benin and Niger",
@@ -3853,7 +3853,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-3-40",
-    "questionText": "Fluctuations in the supply of goods may be eliminated if the distribution system maintains (JAMB 2004)",
+    "questionText": "Fluctuations in the supply of goods may be eliminated if the distribution system maintains",
     "options": [
       "modern technology",
       "a team of retailers",
@@ -3865,7 +3865,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-4-201",
-    "questionText": "The process of changing the form of a raw material is known as   (JAMB 2008)",
+    "questionText": "The process of changing the form of a raw material is known as",
     "options": [
       "fabrication",
       "extraction",
@@ -3877,7 +3877,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-5-152",
-    "questionText": "Citizens are against privatisation mainly because of  (JAMB 2007)",
+    "questionText": "Citizens are against privatisation mainly because of",
     "options": [
       "the rationalization of organizations",
       "increased prices of goods and services",
@@ -3889,7 +3889,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-6-528",
-    "questionText": "Firms wishing to defend established products as well as launch new ones will make use of (JAMB 2000)",
+    "questionText": "Firms wishing to defend established products as well as launch new ones will make use of",
     "options": [
       "franchising",
       "product differentiation",
@@ -3901,7 +3901,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-7-801",
-    "questionText": "The commercialization of public enterprises aimed at (JAMB 2002)",
+    "questionText": "The commercialization of public enterprises aimed at",
     "options": [
       "increasing efficiency and making the enterprises self-sufficient",
       "advertising a promoting the goods and services of the enterprises",
@@ -3913,7 +3913,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-8-469",
-    "questionText": "The initial function of a manager is  (JAMB 2013)",
+    "questionText": "The initial function of a manager is",
     "options": [
       "setting up an organization",
       "coordinating",
@@ -3925,7 +3925,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-9-62",
-    "questionText": "The difference between personal selling and sales promotion is that while sales promotion includes free gifts and samples, personal selling involves (JAMB 2005)",
+    "questionText": "The difference between personal selling and sales promotion is that while sales promotion includes free gifts and samples, personal selling involves",
     "options": [
       "distributing instructional posters",
       "face-to-face communication with customers",
@@ -3937,7 +3937,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-10-635",
-    "questionText": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a (JAMB 1990)",
+    "questionText": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a",
     "options": [
       "cartel",
       "trust",
@@ -3949,7 +3949,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-11-548",
-    "questionText": "The assurance policy in which the assured pays lump sum of money which matures at his retirement is ___assurance. (JAMB 2013)",
+    "questionText": "The assurance policy in which the assured pays lump sum of money which matures at his retirement is ___assurance.",
     "options": [
       "annuity",
       "endowment",
@@ -3961,7 +3961,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-12-856",
-    "questionText": "The management function that makes the difference in intensity of behaviour is (JAMB 2003)",
+    "questionText": "The management function that makes the difference in intensity of behaviour is",
     "options": [
       "coordinating",
       "controlling",
@@ -3973,7 +3973,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-13-328",
-    "questionText": "Which of the following is a matter of personal preference on the part of a superior officer? (JAMB 2010)",
+    "questionText": "Which of the following is a matter of personal preference on the part of a superior officer?",
     "options": [
       "Unity of command",
       "span of control",
@@ -3985,7 +3985,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-14-780",
-    "questionText": "Who is the offeree in this contract? (JAMB 2001)",
+    "questionText": "Who is the offeree in this contract?",
     "options": [
       "Musa",
       "Audu",
@@ -3997,7 +3997,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-15-750",
-    "questionText": "Entrusting the management of a company to the courts to enable the settlement of the company’s obligations is an indication of (JAMB 2001)",
+    "questionText": "Entrusting the management of a company to the courts to enable the settlement of the company’s obligations is an indication of",
     "options": [
       "distress",
       "closure",
@@ -4009,7 +4009,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-16-237",
-    "questionText": "The coordinating section of the central processing unit that manages the flow of data is the  (JAMB 2008)",
+    "questionText": "The coordinating section of the central processing unit that manages the flow of data is the",
     "options": [
       "arithmetic logic unit",
       "control unit",
@@ -4021,7 +4021,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-17-304",
-    "questionText": "A trend is retailing which enables consumers to have free access to different products is  (JAMB 2010)",
+    "questionText": "A trend is retailing which enables consumers to have free access to different products is",
     "options": [
       "after sales service",
       "branding",
@@ -4033,7 +4033,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-18-426",
-    "questionText": "Securities that entitle the investor to coupon rates are  (JAMB 2012)",
+    "questionText": "Securities that entitle the investor to coupon rates are",
     "options": [
       "bonds",
       "equities",
@@ -4045,7 +4045,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-19-191",
-    "questionText": "Which of the following is a risk-free security? (JAMB 2007)",
+    "questionText": "Which of the following is a risk-free security?",
     "options": [
       "Preference share.",
       "Ordinary share.",
@@ -4057,7 +4057,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-20-618",
-    "questionText": "A number of shops under one roof is the feature of a (JAMB 1990)",
+    "questionText": "A number of shops under one roof is the feature of a",
     "options": [
       "supermarket",
       "chain store",
@@ -4069,7 +4069,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-21-482",
-    "questionText": "The process of transferring data from one computer to another is referred to as  (JAMB 2013)",
+    "questionText": "The process of transferring data from one computer to another is referred to as",
     "options": [
       "down loading",
       "faxing",
@@ -4081,7 +4081,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-22-751",
-    "questionText": "The financial instrument for borrowing in which the collateral is usually more than the amount borrowed is (JAMB 2001)",
+    "questionText": "The financial instrument for borrowing in which the collateral is usually more than the amount borrowed is",
     "options": [
       "trust certificate",
       "detachable warrant",
@@ -4093,7 +4093,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-23-120",
-    "questionText": "A current account is beneficial to its holder as (JAMB 2006)",
+    "questionText": "A current account is beneficial to its holder as",
     "options": [
       "cheques can be issued to anybody",
       "customers cannot withdraw frequently",
@@ -4105,7 +4105,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-24-46",
-    "questionText": "International fade takes place as a result of (JAMB 2004)",
+    "questionText": "International fade takes place as a result of",
     "options": [
       "uniformity in costs of production",
       "inequitable distribution of natural resources",
@@ -4117,7 +4117,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-25-501",
-    "questionText": "Which of the following is not contained in an advice note? (JAMB 2000)",
+    "questionText": "Which of the following is not contained in an advice note?",
     "options": [
       "Type of goods",
       "Price of goods",
@@ -4129,7 +4129,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-26-510",
-    "questionText": "Which of the following is not a means of payment in foreign trade? (JAMB 2000)",
+    "questionText": "Which of the following is not a means of payment in foreign trade?",
     "options": [
       "Telegraphic money order",
       "Specially crossed cheque",
@@ -4141,7 +4141,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-27-41",
-    "questionText": "Loan schemes by thrift societies are  (JAMB 2004)",
+    "questionText": "Loan schemes by thrift societies are",
     "options": [
       "mortgage schemes",
       "conventional schemes",
@@ -4153,7 +4153,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-28-761",
-    "questionText": "Bank Giro is a method of settling debt from a (JAMB 2001)",
+    "questionText": "Bank Giro is a method of settling debt from a",
     "options": [
       "customer to a bank",
       "bank to a customer",
@@ -4165,7 +4165,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-29-111",
-    "questionText": "The limit of functions, activities and personnel that a supervisor can effectively manage  in a business organization  is   (JAMB 2006)",
+    "questionText": "The limit of functions, activities and personnel that a supervisor can effectively manage  in a business organization  is",
     "options": [
       "spun of control",
       "delegation of authority",
@@ -4177,7 +4177,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-30-748",
-    "questionText": "A form of ownership which exploits the strength of one partner to remedy the weaknesses of the other is a (JAMB 2001)",
+    "questionText": "A form of ownership which exploits the strength of one partner to remedy the weaknesses of the other is a",
     "options": [
       "joint partnership",
       "cooperative",
@@ -4189,7 +4189,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-31-266",
-    "questionText": "The principle of insurance which entitles an insurance company to take any advantage due to the insured after full indemnity is  (JAMB 2009)",
+    "questionText": "The principle of insurance which entitles an insurance company to take any advantage due to the insured after full indemnity is",
     "options": [
       "contribution",
       "subrogation",
@@ -4201,7 +4201,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-32-584",
-    "questionText": "Which of the following is NOT a reason for government’s ownership of Nigerian Ports Authority (NPA)? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a reason for government’s ownership of Nigerian Ports Authority (NPA)?",
     "options": [
       "Avoiding wasteful competition and duplication",
       "Generating revenue",
@@ -4213,7 +4213,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-33-204",
-    "questionText": "The promotion of savings culture is a feature of a  (JAMB 2008)",
+    "questionText": "The promotion of savings culture is a feature of a",
     "options": [
       "trade association",
       "consumers cooperative society",
@@ -4225,7 +4225,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-34-199",
-    "questionText": "The art of soap-making is an example of  (JAMB 2008)",
+    "questionText": "The art of soap-making is an example of",
     "options": [
       "Primary occupation",
       "Secondary occupation",
@@ -4237,7 +4237,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-35-240",
-    "questionText": "When an employee incurs expenses while executing his normal duty, the employer is responsible for his  (JAMB 2008)",
+    "questionText": "When an employee incurs expenses while executing his normal duty, the employer is responsible for his",
     "options": [
       "safety",
       "family’s security",
@@ -4249,7 +4249,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-36-807",
-    "questionText": "Which of the following is used to inform the addressee that a registered parcel is ready for collection? (JAMB 2002)",
+    "questionText": "Which of the following is used to inform the addressee that a registered parcel is ready for collection?",
     "options": [
       "Express label",
       "Counterfoil",
@@ -4261,7 +4261,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-37-221",
-    "questionText": "A document sent by a seller to inform a buyer about the prices of goods is the  (JAMB 2008)",
+    "questionText": "A document sent by a seller to inform a buyer about the prices of goods is the",
     "options": [
       "catalogue",
       "price list",
@@ -4273,7 +4273,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-38-452",
-    "questionText": "The most reliable and efficient means of conveying urgent documents is through (JAMB 2013)",
+    "questionText": "The most reliable and efficient means of conveying urgent documents is through",
     "options": [
       "postal order",
       "ordinary letters",
@@ -4285,7 +4285,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-39-93",
-    "questionText": "The excess of the assets over the liabilities of a business is called  (JAMB 2005)",
+    "questionText": "The excess of the assets over the liabilities of a business is called",
     "options": [
       "working capital",
       "net worth",
@@ -4297,7 +4297,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-40-17",
-    "questionText": "Poor sewage disposal, oil spill and indiscriminate refuse dumping all  (JAMB 2004)",
+    "questionText": "Poor sewage disposal, oil spill and indiscriminate refuse dumping all",
     "options": [
       "lead to land pollution",
       "water pollution",
@@ -4309,7 +4309,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-41-614",
-    "questionText": "Efforts geared towards establishing and maintaining good image for a company is termed (JAMB 1990)",
+    "questionText": "Efforts geared towards establishing and maintaining good image for a company is termed",
     "options": [
       "human relations",
       "professional relations",
@@ -4321,7 +4321,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-42-334",
-    "questionText": "An opportunity to reject a binding contract at will by a third party is said to be a  (JAMB 2010)",
+    "questionText": "An opportunity to reject a binding contract at will by a third party is said to be a",
     "options": [
       "valid contract",
       "quasi contract",
@@ -4333,7 +4333,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-43-558",
-    "questionText": "The features of an entrepreneur consist of the following, EXCEPT (JAMB 2013)",
+    "questionText": "The features of an entrepreneur consist of the following, EXCEPT",
     "options": [
       "coordinating factors of production",
       "earning wages as income",
@@ -4345,7 +4345,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-44-180",
-    "questionText": "A written  agreement for  hiring  a  ship for transporting goods is a  (JAMB 2007)",
+    "questionText": "A written  agreement for  hiring  a  ship for transporting goods is a",
     "options": [
       "consular invoice",
       "bill of lading",
@@ -4357,7 +4357,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-45-833",
-    "questionText": "The letters E and OE stand for (JAMB 2002)",
+    "questionText": "The letters E and OE stand for",
     "options": [
       "errors of exception",
       "errors and omissions expected",
@@ -4369,7 +4369,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-46-416",
-    "questionText": "In case of liquidation of a public limited liability company, those that are first paid are  (JAMB 2012)",
+    "questionText": "In case of liquidation of a public limited liability company, those that are first paid are",
     "options": [
       "ordinary shareholders",
       "preference shareholders",
@@ -4381,7 +4381,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-47-628",
-    "questionText": "One advantage of personal selling is (JAMB 1990)",
+    "questionText": "One advantage of personal selling is",
     "options": [
       "low cost",
       "immediate feedback",
@@ -4393,7 +4393,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-48-169",
-    "questionText": "A major criticism of a cooperative society is (JAMB 2007)",
+    "questionText": "A major criticism of a cooperative society is",
     "options": [
       "limited capital",
       "granting excessive loans to members",
@@ -4405,7 +4405,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-49-775",
-    "questionText": "The activities aimed at finding out customers’ needs and satisfaction can be described as (JAMB 2001)",
+    "questionText": "The activities aimed at finding out customers’ needs and satisfaction can be described as",
     "options": [
       "socio-marketing",
       "macro-marketing",
@@ -4417,7 +4417,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-50-832",
-    "questionText": "The principal objectives of the Central Bank of Nigeria can be classified broadly into (JAMB 2002)",
+    "questionText": "The principal objectives of the Central Bank of Nigeria can be classified broadly into",
     "options": [
       "bankers’ bank, lender of last resort and issuance of currency",
       "service, currency management and financial intermediation",
@@ -4429,7 +4429,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-51-595",
-    "questionText": "Which of the following is NOT an attribute of an effective business manager? (JAMB 2013)",
+    "questionText": "Which of the following is NOT an attribute of an effective business manager?",
     "options": [
       "Altruism",
       "Empathy",
@@ -4441,7 +4441,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-52-430",
-    "questionText": "An organization which focuses on consumer satisfaction is practicing  (JAMB 2012)",
+    "questionText": "An organization which focuses on consumer satisfaction is practicing",
     "options": [
       "consumerism",
       "market segmentation",
@@ -4453,7 +4453,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-53-837",
-    "questionText": "Which of the following determines the quality of goods that a retailer sells (JAMB 2002)",
+    "questionText": "Which of the following determines the quality of goods that a retailer sells",
     "options": [
       "The mode of contract of sales",
       "The type of manufacturer",
@@ -4465,7 +4465,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-54-224",
-    "questionText": "The pooling of business information for the benefit of members is a major function of a  (JAMB 2008)",
+    "questionText": "The pooling of business information for the benefit of members is a major function of a",
     "options": [
       "pressure group",
       "trade association",
@@ -4477,7 +4477,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-55-253",
-    "questionText": "A chain store usually combines the features of  (JAMB 2009)",
+    "questionText": "A chain store usually combines the features of",
     "options": [
       "multiple shops and departmental stores",
       "hypermarkets and stalls",
@@ -4489,7 +4489,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-56-124",
-    "questionText": "I. Wholesaling  II. Fishing  III. Canning IV. Retailing  The sequence in which the occupational activities above are performed is (JAMB 2006)",
+    "questionText": "I. Wholesaling  II. Fishing  III. Canning IV. Retailing  The sequence in which the occupational activities above are performed is",
     "options": [
       "Ill, II, I and IV",
       "Ill, I, IV and II",
@@ -4501,7 +4501,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-57-314",
-    "questionText": "The best mode of ensuring that items posted get to the named addressed is through (JAMB 2010)",
+    "questionText": "The best mode of ensuring that items posted get to the named addressed is through",
     "options": [
       "recorded delivery",
       "registered mail",
@@ -4513,7 +4513,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-58-657",
-    "questionText": "A basic concept of advertising that reveals the essential message an advertiser wishes to communicate is referred to as the (JAMB 2016)",
+    "questionText": "A basic concept of advertising that reveals the essential message an advertiser wishes to communicate is referred to as the",
     "options": [
       "medium",
       "theme",
@@ -4525,7 +4525,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-59-707",
-    "questionText": "The function of a merchant wholesaler is to (JAMB 2000)",
+    "questionText": "The function of a merchant wholesaler is to",
     "options": [
       "buy in bulk, store and sell to retailers as desired",
       "possess title to the goods, store and sell to retailers",
@@ -4537,7 +4537,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-60-810",
-    "questionText": "The temporary insurance certificate issued to the insured before drawing up a policy is a (JAMB 2002)",
+    "questionText": "The temporary insurance certificate issued to the insured before drawing up a policy is a",
     "options": [
       "cover note",
       "testimonial",
@@ -4549,7 +4549,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-61-410",
-    "questionText": "Assurance is different from insurance in that the former is based on  (JAMB 2012)",
+    "questionText": "Assurance is different from insurance in that the former is based on",
     "options": [
       "probability",
       "possibility",
@@ -4561,7 +4561,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-62-39",
-    "questionText": "Factors of production can be described as the (JAMB 2004)",
+    "questionText": "Factors of production can be described as the",
     "options": [
       "resources required for the provision of goods and services",
       "skills involved in deciding and directing the flow of goods",
@@ -4573,7 +4573,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-63-765",
-    "questionText": "The indemnification of Ama by his insurance company after a fire disaster means that he (JAMB 2001)",
+    "questionText": "The indemnification of Ama by his insurance company after a fire disaster means that he",
     "options": [
       "has been guaranteed by the insurance company",
       "will be cleared of any fault by the insurance company",
@@ -4585,7 +4585,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-64-267",
-    "questionText": "A risk that can be estimated and calculated to be compensated is  (JAMB 2009)",
+    "questionText": "A risk that can be estimated and calculated to be compensated is",
     "options": [
       "a delivery risk",
       "an insurable risk",
@@ -4597,7 +4597,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-65-210",
-    "questionText": "Maimani Plc, whose nominal capital is made up of 500 000 ordinary shares of 50k each, decided to offer 80% of it to the public and realized only 50% of the amount due. What is the company’s authorized share capital? (JAMB 2008)",
+    "questionText": "Maimani Plc, whose nominal capital is made up of 500 000 ordinary shares of 50k each, decided to offer 80% of it to the public and realized only 50% of the amount due. What is the company’s authorized share capital?",
     "options": [
       "N2500 000",
       "N4000 0000",
@@ -4609,7 +4609,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-66-126",
-    "questionText": "The difference between a private and public limited liability company is that the former (JAMB 2006)",
+    "questionText": "The difference between a private and public limited liability company is that the former",
     "options": [
       "is unable to offer shares to the public",
       "is unable to declare and pay dividend",
@@ -4621,7 +4621,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-67-710",
-    "questionText": "Tourists with no fixed address in a town may receive their letters from the post office through a (JAMB 2000)",
+    "questionText": "Tourists with no fixed address in a town may receive their letters from the post office through a",
     "options": [
       "recorded delivery",
       "poste restante",
@@ -4633,7 +4633,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-68-830",
-    "questionText": "Securities on which the buyers are not issued with certificates are called (JAMB 2002)",
+    "questionText": "Securities on which the buyers are not issued with certificates are called",
     "options": [
       "authorized securities",
       "inscribed securities",
@@ -4645,7 +4645,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-69-693",
-    "questionText": "One of the major reasons for merger is to (JAMB 2016)",
+    "questionText": "One of the major reasons for merger is to",
     "options": [
       "reduce the number of unskilled manpower",
       "increase the number of skilled manpower.",
@@ -4657,7 +4657,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-70-569",
-    "questionText": "The money paid to savings account holders by banks after a period of transaction is called (JAMB 2013)",
+    "questionText": "The money paid to savings account holders by banks after a period of transaction is called",
     "options": [
       "dividend",
       "gain",
@@ -4669,7 +4669,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-71-382",
-    "questionText": "The major parties to an agency relationship are the  (JAMB 2011)",
+    "questionText": "The major parties to an agency relationship are the",
     "options": [
       "principal and the creditor",
       "bailee and the bailor",
@@ -4681,7 +4681,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-72-717",
-    "questionText": "A console is a device used in (JAMB 2000)",
+    "questionText": "A console is a device used in",
     "options": [
       "moving an indicator on the screen",
       "communicating between operator and programme",
@@ -4693,7 +4693,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-73-265",
-    "questionText": "The transmission of telephone services from one country to another is facilitated by  (JAMB 2009)",
+    "questionText": "The transmission of telephone services from one country to another is facilitated by",
     "options": [
       "communication satellite",
       "international facility",
@@ -4705,7 +4705,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-74-424",
-    "questionText": "The promotion and protection of trade, industry and agriculture thorugh trade fairs is a function of  (JAMB 2012)",
+    "questionText": "The promotion and protection of trade, industry and agriculture thorugh trade fairs is a function of",
     "options": [
       "NACRDB",
       "NACCIMA",
@@ -4717,7 +4717,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-75-634",
-    "questionText": "An individual who makes the final use of goods and services provided by a firm is the (JAMB 1990)",
+    "questionText": "An individual who makes the final use of goods and services provided by a firm is the",
     "options": [
       "manufacturer",
       "wholesaler",
@@ -4729,7 +4729,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-76-483",
-    "questionText": "The physical component of a computer system is  (JAMB 2013)",
+    "questionText": "The physical component of a computer system is",
     "options": [
       "software",
       "hardware",
@@ -4741,7 +4741,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-77-654",
-    "questionText": "The  lumbering of trees by a furniture company is an example of (JAMB 2016)",
+    "questionText": "The  lumbering of trees by a furniture company is an example of",
     "options": [
       "primary production",
       "secondary production",
@@ -4753,7 +4753,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-78-70",
-    "questionText": "The factors essential for tourism are (JAMB 2005)",
+    "questionText": "The factors essential for tourism are",
     "options": [
       "accessibility, capital, amenities and schools",
       "goods weather, amenities, accessibility and scenery.",
@@ -4765,7 +4765,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-79-638",
-    "questionText": "Fidelity guarantee is an insurance cover against loss arising from (JAMB 1990)",
+    "questionText": "Fidelity guarantee is an insurance cover against loss arising from",
     "options": [
       "trade debts",
       "personal accidents",
@@ -4777,7 +4777,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-80-260",
-    "questionText": "Billboards and posters are forms of  (JAMB 2009)",
+    "questionText": "Billboards and posters are forms of",
     "options": [
       "electronic media",
       "print media",
@@ -4789,7 +4789,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-81-864",
-    "questionText": "The business organization established mainly for the purpose of carrying out specific assignments for a specific duration is a (JAMB 2003)",
+    "questionText": "The business organization established mainly for the purpose of carrying out specific assignments for a specific duration is a",
     "options": [
       "joint venture",
       "cooperative society",
@@ -4801,7 +4801,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-82-134",
-    "questionText": "‘Safeguarding the health of the nation' is the slogan used by  (JAMB 2006)",
+    "questionText": "‘Safeguarding the health of the nation' is the slogan used by",
     "options": [
       "NDLEA",
       "NHIS",
@@ -4813,7 +4813,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-83-318",
-    "questionText": "The warehouse that is owned and controlled by the government is a  (JAMB 2010)",
+    "questionText": "The warehouse that is owned and controlled by the government is a",
     "options": [
       "wholesalers’ warehouse",
       "public warehouse",
@@ -4825,7 +4825,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-84-652",
-    "questionText": "Which of the following is used for temporary storage of data on a computer? (JAMB 2016)",
+    "questionText": "Which of the following is used for temporary storage of data on a computer?",
     "options": [
       "RAM.",
       "ROM.",
@@ -4837,7 +4837,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211836-85-489",
-    "questionText": "Which of the following can be defined as trade and aids to trade? (JAMB 2000)",
+    "questionText": "Which of the following can be defined as trade and aids to trade?",
     "options": [
       "Advertising",
       "Commerce",
@@ -4849,7 +4849,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-86-186",
-    "questionText": "The sale of foreign investment and gold reserves can be used to  (JAMB 2007)",
+    "questionText": "The sale of foreign investment and gold reserves can be used to",
     "options": [
       "correct adverse balance of trade",
       "increase invisible imports",
@@ -4861,7 +4861,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-87-872",
-    "questionText": "The act of a person employing another to enter into a contract on his behalf is known as (JAMB 2003)",
+    "questionText": "The act of a person employing another to enter into a contract on his behalf is known as",
     "options": [
       "business",
       "sale of goods",
@@ -4873,7 +4873,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-88-308",
-    "questionText": "Entrepot trade usually occurs in  (JAMB 2010)",
+    "questionText": "Entrepot trade usually occurs in",
     "options": [
       "exchanging goods within a nation",
       "exchanging goods among countries",
@@ -4885,7 +4885,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-89-202",
-    "questionText": "In the long run, all factors of production are  (JAMB 2008)",
+    "questionText": "In the long run, all factors of production are",
     "options": [
       "fixed",
       "variable",
@@ -4897,7 +4897,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-90-824",
-    "questionText": "The process of mobilizing, engaging  and maintaining workers to work for an organization is referred to as (JAMB 2002)",
+    "questionText": "The process of mobilizing, engaging  and maintaining workers to work for an organization is referred to as",
     "options": [
       "staffing",
       "selection",
@@ -4909,7 +4909,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-91-596",
-    "questionText": "The ability of money to be divided into smaller units for easy exchange of goods and services explains (JAMB 2013)",
+    "questionText": "The ability of money to be divided into smaller units for easy exchange of goods and services explains",
     "options": [
       "divisibility",
       "durability",
@@ -4921,7 +4921,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-92-544",
-    "questionText": "Platinum Habib Bank Plc. is an example of __ bank. (JAMB 2013)",
+    "questionText": "Platinum Habib Bank Plc. is an example of __ bank.",
     "options": [
       "central",
       "commercial",
@@ -4933,7 +4933,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-93-364",
-    "questionText": "Mr. Lawal insured his warehouse against burglary but it was later gutted buy fire. This implies that  (JAMB 2011)",
+    "questionText": "Mr. Lawal insured his warehouse against burglary but it was later gutted buy fire. This implies that",
     "options": [
       "the loss should be borne by the insurer",
       "Mr. Lawal is liable only for half of the estimated loss",
@@ -4945,7 +4945,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-94-606",
-    "questionText": "The oldest and commonest form of business in Nigeria is (JAMB 1990)",
+    "questionText": "The oldest and commonest form of business in Nigeria is",
     "options": [
       "partnership",
       "the co-operative society",
@@ -4957,7 +4957,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-95-296",
-    "questionText": "Which of the following can be used to differentiate skilled and unskilled lab our?  (JAMB 2010)",
+    "questionText": "Which of the following can be used to differentiate skilled and unskilled lab our?",
     "options": [
       "education and training",
       "available resources",
@@ -4969,7 +4969,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-96-451",
-    "questionText": "The two main forms of communication are  (JAMB 2013)",
+    "questionText": "The two main forms of communication are",
     "options": [
       "oral and written",
       "verbal and non-verbal",
@@ -4981,7 +4981,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-97-122",
-    "questionText": "The factor which critically determines the choice of occupation is  (JAMB 2006)",
+    "questionText": "The factor which critically determines the choice of occupation is",
     "options": [
       "training",
       "skill",
@@ -4993,7 +4993,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-98-117",
-    "questionText": "Which of the following is a development bank in Nigeria? (JAMB 2006)",
+    "questionText": "Which of the following is a development bank in Nigeria?",
     "options": [
       "Union Bank Plc",
       "First Bank Plc",
@@ -5005,7 +5005,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-99-565",
-    "questionText": "“MTN, Your Best Connection” is an example of ___ advertisement. (JAMB 2013)",
+    "questionText": "“MTN, Your Best Connection” is an example of ___ advertisement.",
     "options": [
       "competitive",
       "direct",
@@ -5017,7 +5017,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-100-360",
-    "questionText": "The most effective but limited medium of advertising in Nigeria is  (JAMB 2011)",
+    "questionText": "The most effective but limited medium of advertising in Nigeria is",
     "options": [
       "billboard",
       "television",
@@ -5029,7 +5029,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-101-157",
-    "questionText": "Personal selling is most effective in marketing industrial goods because it involves (JAMB 2007)",
+    "questionText": "Personal selling is most effective in marketing industrial goods because it involves",
     "options": [
       "recognition and attachment to customers",
       "personal interaction and information gathering",
@@ -5041,7 +5041,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-102-828",
-    "questionText": "Which of the following industries is normally located near the \tsource of its raw materials? (JAMB 2002)",
+    "questionText": "Which of the following industries is normally located near the \tsource of its raw materials?",
     "options": [
       "Footwear industry",
       "Cement industry",
@@ -5053,7 +5053,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-103-90",
-    "questionText": "The bank that discounts bills of exchange is the  (JAMB 2005)",
+    "questionText": "The bank that discounts bills of exchange is the",
     "options": [
       "central bank",
       "mortgage bank",
@@ -5065,7 +5065,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-104-615",
-    "questionText": "Which of the following is sent as a reply to an inquiry? (JAMB 1990)",
+    "questionText": "Which of the following is sent as a reply to an inquiry?",
     "options": [
       "Tender",
       "Estimate",
@@ -5077,7 +5077,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-105-216",
-    "questionText": "A source of capital that has both elements of debt and equity is a  (JAMB 2008)",
+    "questionText": "A source of capital that has both elements of debt and equity is a",
     "options": [
       "debenture",
       "warrant",
@@ -5089,7 +5089,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-106-781",
-    "questionText": "The maximum number of shareholders in a public liability company is (JAMB 2001)",
+    "questionText": "The maximum number of shareholders in a public liability company is",
     "options": [
       "twenty",
       "fifty",
@@ -5101,7 +5101,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-107-78",
-    "questionText": "An engineer in government employ is to be rendering    (JAMB 2005)",
+    "questionText": "An engineer in government employ is to be rendering",
     "options": [
       "primary service",
       "tertiary service",
@@ -5113,7 +5113,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-108-620",
-    "questionText": "Auctions and Tenders become binding when they are (JAMB 1990)",
+    "questionText": "Auctions and Tenders become binding when they are",
     "options": [
       "accepted",
       "offered",
@@ -5125,7 +5125,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-109-682",
-    "questionText": "Labour as an input in production can be motivated by (JAMB 2016)",
+    "questionText": "Labour as an input in production can be motivated by",
     "options": [
       "training",
       "profit.",
@@ -5137,7 +5137,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-110-251",
-    "questionText": "Primary production is associated with  (JAMB 2009)",
+    "questionText": "Primary production is associated with",
     "options": [
       "banking",
       "manufacturing",
@@ -5149,7 +5149,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-111-211",
-    "questionText": "Maimani Plc, whose nominal capital is made up of 500 000 ordinary shares of 50k each, decided to offer 80% of it to the public and realized only 50% of the amount due. Determine the company’s reserve share capital  (JAMB 2008)",
+    "questionText": "Maimani Plc, whose nominal capital is made up of 500 000 ordinary shares of 50k each, decided to offer 80% of it to the public and realized only 50% of the amount due. Determine the company’s reserve share capital",
     "options": [
       "N2500 000",
       "N1000 000",
@@ -5161,7 +5161,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-112-434",
-    "questionText": "The body which ensures that consumers are protected against harmful product in Nigeria is  (JAMB 2012)",
+    "questionText": "The body which ensures that consumers are protected against harmful product in Nigeria is",
     "options": [
       "NAFDAC",
       "NDLEA",
@@ -5173,7 +5173,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-113-29",
-    "questionText": "Authorized share capital is also known as (JAMB 2004)",
+    "questionText": "Authorized share capital is also known as",
     "options": [
       "called-up share capital",
       "paid-up share capital",
@@ -5185,7 +5185,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-114-192",
-    "questionText": "The central bank controls the quantity of money in circulation through   (JAMB 2007)",
+    "questionText": "The central bank controls the quantity of money in circulation through",
     "options": [
       "open-market operations",
       "decreasing the tax rate",
@@ -5197,7 +5197,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-115-406",
-    "questionText": "A current account holder pays fees for services in form of  (JAMB 2012)",
+    "questionText": "A current account holder pays fees for services in form of",
     "options": [
       "bank charges",
       "inertest rates",
@@ -5209,7 +5209,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-116-92",
-    "questionText": "From which of the following sources can partnerships increase their capital? (JAMB 2005)",
+    "questionText": "From which of the following sources can partnerships increase their capital?",
     "options": [
       "Admission of a new partner",
       "Sale of shares",
@@ -5221,7 +5221,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-117-783",
-    "questionText": "One of the major functions of a chamber of commerce is to (JAMB 2001)",
+    "questionText": "One of the major functions of a chamber of commerce is to",
     "options": [
       "promote and protect trade, industry and agriculture",
       "advise members on regulations of other countries",
@@ -5233,7 +5233,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-118-656",
-    "questionText": "The transformation of cotton into clothing is an example of (JAMB 2016)",
+    "questionText": "The transformation of cotton into clothing is an example of",
     "options": [
       "secondary production",
       "tertiary production",
@@ -5245,7 +5245,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-119-195",
-    "questionText": "A credit instrument which also serves as a legal tender is    (JAMB 2007)",
+    "questionText": "A credit instrument which also serves as a legal tender is",
     "options": [
       "cheque",
       "paper money",
@@ -5257,7 +5257,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-120-460",
-    "questionText": "The amount of authorized capital that shareholders have subscribed to is  (JAMB 2013)",
+    "questionText": "The amount of authorized capital that shareholders have subscribed to is",
     "options": [
       "issued share capital",
       "authorized share capital",
@@ -5269,7 +5269,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-121-323",
-    "questionText": "One of the functions of NACCIMA is  (JAMB 2010)",
+    "questionText": "One of the functions of NACCIMA is",
     "options": [
       "negotiating with labour unions in matters of wages and conditions of service",
       "pooling of members’ resources for long-term investment",
@@ -5281,7 +5281,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-122-147",
-    "questionText": "The role of a wholesaler in the channel of distribution is to     (JAMB 2006)",
+    "questionText": "The role of a wholesaler in the channel of distribution is to",
     "options": [
       "produce goods in large quantities and sell in small quantities",
       "buy goods directly from the manufacturers",
@@ -5293,7 +5293,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-123-79",
-    "questionText": "The availability of goods and services is brought to the notice of consumers through (JAMB 2005)",
+    "questionText": "The availability of goods and services is brought to the notice of consumers through",
     "options": [
       "personal selling",
       "public relations",
@@ -5305,7 +5305,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-124-718",
-    "questionText": "A form of money that has gone out of use is (JAMB 2000)",
+    "questionText": "A form of money that has gone out of use is",
     "options": [
       "paper money",
       "bank money",
@@ -5317,7 +5317,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-125-336",
-    "questionText": "The difference between trademark and patent right is that the latter  (JAMB 2010)",
+    "questionText": "The difference between trademark and patent right is that the latter",
     "options": [
       "gives exclusive right to import a particular good",
       "is conferred by the government",
@@ -5329,7 +5329,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-126-311",
-    "questionText": "Selling goods in foreign countries at prices below their marginal cost is  (JAMB 2010)",
+    "questionText": "Selling goods in foreign countries at prices below their marginal cost is",
     "options": [
       "dumping",
       "depreciation",
@@ -5341,7 +5341,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-127-855",
-    "questionText": "The type of marine insurance which covers either damage or loss to the vessel and such as caused by it to other vessels is (JAMB 2003)",
+    "questionText": "The type of marine insurance which covers either damage or loss to the vessel and such as caused by it to other vessels is",
     "options": [
       "hull insurance",
       "time insurance",
@@ -5353,7 +5353,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-128-298",
-    "questionText": "Manufacturing and construction activities are class8ified under (JAMB 2010)",
+    "questionText": "Manufacturing and construction activities are class8ified under",
     "options": [
       "Primary production",
       "Tertiary production",
@@ -5365,7 +5365,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-129-850",
-    "questionText": "A guarantee given by one person or party to another in which \tthe integrity of the person is assured is (JAMB 2003)",
+    "questionText": "A guarantee given by one person or party to another in which \tthe integrity of the person is assured is",
     "options": [
       "fidelity",
       "term assurance",
@@ -5377,7 +5377,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-130-425",
-    "questionText": "Dealing in quoted securities on the Nigeria Stock Exchange is restricted to authorized  (JAMB 2012)",
+    "questionText": "Dealing in quoted securities on the Nigeria Stock Exchange is restricted to authorized",
     "options": [
       "companies",
       "brokers",
@@ -5389,7 +5389,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-131-720",
-    "questionText": "The Stock Exchange helps to provide capital for industrial projects because it (JAMB 2000)",
+    "questionText": "The Stock Exchange helps to provide capital for industrial projects because it",
     "options": [
       "determines value of shares, stocks and other securities",
       "assists government in implementing its monetary policies",
@@ -5401,7 +5401,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-132-272",
-    "questionText": "In a public limited liability company, planning is carried out by  (JAMB 2009)",
+    "questionText": "In a public limited liability company, planning is carried out by",
     "options": [
       "the chairman of the board",
       "the board of directors",
@@ -5413,7 +5413,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-133-678",
-    "questionText": "The minimum lending rate of a bank is a component of its (JAMB 2016)",
+    "questionText": "The minimum lending rate of a bank is a component of its",
     "options": [
       "current assets",
       "debit balance.",
@@ -5425,7 +5425,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-134-200",
-    "questionText": "Given: I. shoe marker    II. Policeman     III. Fisherman    IV. Gardener    V. Broker .    The persons engaged in primary occupation are \n (JAMB 2008)",
+    "questionText": "Given: I. shoe marker    II. Policeman     III. Fisherman    IV. Gardener    V. Broker .    The persons engaged in primary occupation are \n",
     "options": [
       "I, III and IV",
       "III and IV",
@@ -5437,7 +5437,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-135-113",
-    "questionText": "A bond which attracts only interest but leaves the capital unpaid is referred to as (JAMB 2006)",
+    "questionText": "A bond which attracts only interest but leaves the capital unpaid is referred to as",
     "options": [
       "a long-term loan",
       "a development bond",
@@ -5449,7 +5449,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-136-342",
-    "questionText": "In e-baking, ATM means  (JAMB 2010)",
+    "questionText": "In e-baking, ATM means",
     "options": [
       "authentic Teller Machine",
       "Automatic Teller Machine",
@@ -5461,7 +5461,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-137-507",
-    "questionText": "Which of the following is sent in reply to a letter of enquiry? (JAMB 2000)",
+    "questionText": "Which of the following is sent in reply to a letter of enquiry?",
     "options": [
       "Quotation",
       "Order",
@@ -5473,7 +5473,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-138-12",
-    "questionText": "Business environment refers to all elements that are   (JAMB 2004)",
+    "questionText": "Business environment refers to all elements that are",
     "options": [
       "outside an organization but relevant to its operations",
       "inside an organization but irrelevant to its operations",
@@ -5485,7 +5485,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-139-19",
-    "questionText": "A common element in all contracts is     (JAMB 2004)",
+    "questionText": "A common element in all contracts is",
     "options": [
       "offer",
       "consideration",
@@ -5497,7 +5497,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-140-339",
-    "questionText": "The central working system of a computer used for data processing is the  (JAMB 2010)",
+    "questionText": "The central working system of a computer used for data processing is the",
     "options": [
       "memory unit",
       "monitor",
@@ -5509,7 +5509,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-141-549",
-    "questionText": "By making it possible for wholesalers to keep surplus stock until demand improves, the warehouse performs the function of (JAMB 2013)",
+    "questionText": "By making it possible for wholesalers to keep surplus stock until demand improves, the warehouse performs the function of",
     "options": [
       "employment creation",
       "price stabilization",
@@ -5521,7 +5521,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-142-649",
-    "questionText": "The function of money that is mostly affected by inflation is (JAMB 2016)",
+    "questionText": "The function of money that is mostly affected by inflation is",
     "options": [
       "store of value",
       "medium of exchange",
@@ -5533,7 +5533,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-143-588",
-    "questionText": "Management function which arranges people, time, money and equipment, to achieve the objectives of an organization is referred to as (JAMB 2013)",
+    "questionText": "Management function which arranges people, time, money and equipment, to achieve the objectives of an organization is referred to as",
     "options": [
       "directing",
       "motivating",
@@ -5545,7 +5545,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-144-859",
-    "questionText": "Communication process involves the transmission of a message over a selected channel to the (JAMB 2003)",
+    "questionText": "Communication process involves the transmission of a message over a selected channel to the",
     "options": [
       "receiver",
       "audience",
@@ -5557,7 +5557,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-145-440",
-    "questionText": "A business organization must always consider the overall effect of its actions on the  (JAMB 2012)",
+    "questionText": "A business organization must always consider the overall effect of its actions on the",
     "options": [
       "competitor",
       "product",
@@ -5569,7 +5569,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-146-76",
-    "questionText": "Occupations are classified into (JAMB 2005)",
+    "questionText": "Occupations are classified into",
     "options": [
       "production, labour and economics",
       "extraction, construction and manufacturing",
@@ -5581,7 +5581,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-147-366",
-    "questionText": "Inbound tourism occurs when  (JAMB 2011)",
+    "questionText": "Inbound tourism occurs when",
     "options": [
       "non-residents of a country travel to other countries",
       "residents of a country travel to other countries",
@@ -5593,7 +5593,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-148-566",
-    "questionText": "The assertion ‘consumers are always right’ refers to marketing (JAMB 2013)",
+    "questionText": "The assertion ‘consumers are always right’ refers to marketing",
     "options": [
       "board.",
       "concept",
@@ -5605,7 +5605,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-149-511",
-    "questionText": "A bill of exchange on maturity is allowed (JAMB 2000)",
+    "questionText": "A bill of exchange on maturity is allowed",
     "options": [
       "seven days of grace",
       "five days of grace",
@@ -5617,7 +5617,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-150-491",
-    "questionText": "Partners who allow their names to be used in a partnership but do not take part in the management of the business are (JAMB 2000)",
+    "questionText": "Partners who allow their names to be used in a partnership but do not take part in the management of the business are",
     "options": [
       "active partners",
       "limited partners",
@@ -5629,7 +5629,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-151-744",
-    "questionText": "Land as a factor of production does not vary in (JAMB 2001)",
+    "questionText": "Land as a factor of production does not vary in",
     "options": [
       "quantity",
       "nature",
@@ -5641,7 +5641,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-152-543",
-    "questionText": "The final link in the chain of distribution is the (JAMB 2013)",
+    "questionText": "The final link in the chain of distribution is the",
     "options": [
       "agent",
       "consumer",
@@ -5653,7 +5653,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-153-557",
-    "questionText": "When an agent is appointed verbally or in writing by the principal to act on his behalf, the appointment is said to be by (JAMB 2013)",
+    "questionText": "When an agent is appointed verbally or in writing by the principal to act on his behalf, the appointment is said to be by",
     "options": [
       "estoppels",
       "express",
@@ -5665,7 +5665,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-154-232",
-    "questionText": "The fear of many communities concerning tourism development is the  (JAMB 2008)",
+    "questionText": "The fear of many communities concerning tourism development is the",
     "options": [
       "influence of foreign culture",
       "fear of disease transmission",
@@ -5677,7 +5677,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-155-277",
-    "questionText": "If a firm has a turnover of N50 000 and the cost of goods sold is N40 000, what is the percentage of gross profit on sale?  (JAMB 2009)",
+    "questionText": "If a firm has a turnover of N50 000 and the cost of goods sold is N40 000, what is the percentage of gross profit on sale?",
     "options": [
       "30.50%",
       "20.50%",
@@ -5689,7 +5689,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-156-722",
-    "questionText": "The chart above represents the (JAMB 2000)",
+    "questionText": "The chart above represents the",
     "options": [
       "product mix relationship",
       "marketing mix relationship",
@@ -5701,7 +5701,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-157-371",
-    "questionText": "A source of business financing which involves pledging of a specific asset is  (JAMB 2011)",
+    "questionText": "A source of business financing which involves pledging of a specific asset is",
     "options": [
       "bond",
       "mortgage",
@@ -5713,7 +5713,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-158-699",
-    "questionText": "Which of these is both merit and demerit in partnership? (JAMB 2000)",
+    "questionText": "Which of these is both merit and demerit in partnership?",
     "options": [
       "The number of partners",
       "Its unlimited nature",
@@ -5725,7 +5725,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-159-329",
-    "questionText": "The conversion of raw materials into finished goods leads to the creation of  (JAMB 2010)",
+    "questionText": "The conversion of raw materials into finished goods leads to the creation of",
     "options": [
       "form utility",
       "product utility",
@@ -5737,7 +5737,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-160-673",
-    "questionText": "Which of the following is a modern trend in retailing? (JAMB 2016)",
+    "questionText": "Which of the following is a modern trend in retailing?",
     "options": [
       "Kiosk",
       "Mobile shop",
@@ -5749,7 +5749,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-161-45",
-    "questionText": "Organizing trade fairs in Nigeria is the responsibility of    (JAMB 2004)",
+    "questionText": "Organizing trade fairs in Nigeria is the responsibility of",
     "options": [
       "National Directorate of Employment",
       "Federal Ministry of Commerce",
@@ -5761,7 +5761,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-162-692",
-    "questionText": "Petrol voucher is an example of a (JAMB 2016)",
+    "questionText": "Petrol voucher is an example of a",
     "options": [
       "bank draft.",
       "legal tender.",
@@ -5773,7 +5773,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-163-247",
-    "questionText": "The central focus of commercial activities is  (JAMB 2009)",
+    "questionText": "The central focus of commercial activities is",
     "options": [
       "pricing",
       "advertising",
@@ -5785,7 +5785,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-164-346",
-    "questionText": "An oil exploration company is engaged in  (JAMB 2011)",
+    "questionText": "An oil exploration company is engaged in",
     "options": [
       "tertiary production",
       "constructive occupation",
@@ -5797,7 +5797,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-165-422",
-    "questionText": "Given:  N\n Opening stock  1,800\n Purchases   2, 800\n Sales    8,000\n Closing stock    350\n Carriage on sales    500\n Calculate the value of the unused stock.\n (JAMB 2012)",
+    "questionText": "Given:  N\n Opening stock  1,800\n Purchases   2, 800\n Sales    8,000\n Closing stock    350\n Carriage on sales    500\n Calculate the value of the unused stock.\n",
     "options": [
       "N 800",
       "N500",
@@ -5809,7 +5809,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-166-735",
-    "questionText": "A chamber of commerce is an association made up of (JAMB 2000)",
+    "questionText": "A chamber of commerce is an association made up of",
     "options": [
       "entrepreneurs",
       "manufacturers",
@@ -5821,7 +5821,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-167-208",
-    "questionText": "The cheapest source of funds available to a company is through  (JAMB 2008)",
+    "questionText": "The cheapest source of funds available to a company is through",
     "options": [
       "the sale of shares",
       "retained profits",
@@ -5833,7 +5833,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-168-741",
-    "questionText": "One of the functions of the Niger Basin Commission is to (JAMB 2000)",
+    "questionText": "One of the functions of the Niger Basin Commission is to",
     "options": [
       "ensure equal treatment of African nations",
       "foster closer co-operation among West African nations",
@@ -5845,7 +5845,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-169-755",
-    "questionText": "A merchant wholesaler is referred to as (JAMB 2001)",
+    "questionText": "A merchant wholesaler is referred to as",
     "options": [
       "del-credere agent",
       "a broker",
@@ -5857,7 +5857,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-170-7",
-    "questionText": "Communication enhances business activities by (JAMB 2004)",
+    "questionText": "Communication enhances business activities by",
     "options": [
       "facilitating interaction between producers and consumers",
       "facilitating interaction among media houses",
@@ -5869,7 +5869,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-171-540",
-    "questionText": "Obtaining feedback on the quality and performance of competing products of different manufacturers, explains the retailer’s function of (JAMB 2013)",
+    "questionText": "Obtaining feedback on the quality and performance of competing products of different manufacturers, explains the retailer’s function of",
     "options": [
       "after sales service",
       "granting to credits to consumers",
@@ -5881,7 +5881,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-172-184",
-    "questionText": "The traditional way of paying cooperative dividend is to distribute profit in proportion to members' (JAMB 2007)",
+    "questionText": "The traditional way of paying cooperative dividend is to distribute profit in proportion to members'",
     "options": [
       "subscriptions",
       "total savings",
@@ -5893,7 +5893,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-173-767",
-    "questionText": "A documentary bill will normally be accompanied by (JAMB 2001)",
+    "questionText": "A documentary bill will normally be accompanied by",
     "options": [
       "sales invoice, bill of lading and insurance certificate",
       "clean bill, bill of lading and insurance certificate",
@@ -5905,7 +5905,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-174-190",
-    "questionText": "The difference between the buying and selling price of shares is known as    (JAMB 2007)",
+    "questionText": "The difference between the buying and selling price of shares is known as",
     "options": [
       "brokerage",
       "margin",
@@ -5917,7 +5917,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-175-132",
-    "questionText": "The headquarters of the Lake Chad Basin Commission is in  (JAMB 2006)",
+    "questionText": "The headquarters of the Lake Chad Basin Commission is in",
     "options": [
       "Niamey",
       "N'Djamena",
@@ -5929,7 +5929,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-176-125",
-    "questionText": "The development of commerce resulted from (JAMB 2006)",
+    "questionText": "The development of commerce resulted from",
     "options": [
       "trading",
       "competition",
@@ -5941,7 +5941,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-177-804",
-    "questionText": "The machine used for sending telex messages is known as a (JAMB 2002)",
+    "questionText": "The machine used for sending telex messages is known as a",
     "options": [
       "radar",
       "fax machine",
@@ -5953,7 +5953,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-178-708",
-    "questionText": "An invoice can be described as a (JAMB 2000)",
+    "questionText": "An invoice can be described as a",
     "options": [
       "contractual agreement for the sale of goods",
       "document specifying quantity, description, prices and total value of purchases",
@@ -5965,7 +5965,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-179-772",
-    "questionText": "The Nigerian Stock Exchange publishes a daily official list that gives full information on the (JAMB 2001)",
+    "questionText": "The Nigerian Stock Exchange publishes a daily official list that gives full information on the",
     "options": [
       "method of transactions agreed to by members",
       "number of participating members in a day",
@@ -5977,7 +5977,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-180-99",
-    "questionText": "One advantage of a crossed cheque is that it can (JAMB 2005)",
+    "questionText": "One advantage of a crossed cheque is that it can",
     "options": [
       "only be paid into a savings account",
       "be cashed over the bank's counter",
@@ -5989,7 +5989,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-181-374",
-    "questionText": "Second-tier securities Market differs from the first-tier securities Market in that the former is  (JAMB 2011)",
+    "questionText": "Second-tier securities Market differs from the first-tier securities Market in that the former is",
     "options": [
       "Highly restricted",
       "regulated by the SEC",
@@ -6001,7 +6001,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-182-626",
-    "questionText": "The law which stipulates that labels should give an accurate account of a product is the (JAMB 1990)",
+    "questionText": "The law which stipulates that labels should give an accurate account of a product is the",
     "options": [
       "price control act",
       "consumer credit act",
@@ -6013,7 +6013,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-183-14",
-    "questionText": "One important requirement for the membership of the ECOWAS is  (JAMB 2004)",
+    "questionText": "One important requirement for the membership of the ECOWAS is",
     "options": [
       "integrity",
       "independence",
@@ -6025,7 +6025,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-184-341",
-    "questionText": "A device that enables the downloading of information from the internet is the  (JAMB 2010)",
+    "questionText": "A device that enables the downloading of information from the internet is the",
     "options": [
       "floppy drive",
       "compact disk",
@@ -6037,7 +6037,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-185-245",
-    "questionText": "A computer component that decodes and interprets instructions and also directs program implementation  is  (JAMB 2008)",
+    "questionText": "A computer component that decodes and interprets instructions and also directs program implementation  is",
     "options": [
       "memory unit",
       "Central processing unit",
@@ -6049,7 +6049,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211837-186-299",
-    "questionText": "The reward of rent, wages, interest and profits accrue from (JAMB 2010)",
+    "questionText": "The reward of rent, wages, interest and profits accrue from",
     "options": [
       "capitals, labour, land, and entrepreneur respectively",
       "land entrepreneur, labour and capital respectively",
@@ -6061,7 +6061,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-187-695",
-    "questionText": "The major factors that facilitate merchandising are (JAMB 2000)",
+    "questionText": "The major factors that facilitate merchandising are",
     "options": [
       "communication, advertising and banking",
       "trading, warehousing and production",
@@ -6073,7 +6073,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-188-838",
-    "questionText": "An advantage of hire purchase to the consumer is the (JAMB 2002)",
+    "questionText": "An advantage of hire purchase to the consumer is the",
     "options": [
       "economies of scale in production",
       "possession of goods before payment",
@@ -6085,7 +6085,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-189-580",
-    "questionText": "Social responsibilities of a business to the consumers \tinclude the following, EXCEPT (JAMB 2013)",
+    "questionText": "Social responsibilities of a business to the consumers \tinclude the following, EXCEPT",
     "options": [
       "educating the customers",
       "ensuring truth in advertisement",
@@ -6097,7 +6097,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-190-662",
-    "questionText": "The component of balance of payments which shows how the balance of both current and capital accounts are settled is \t\t\tknown as (JAMB 2016)",
+    "questionText": "The component of balance of payments which shows how the balance of both current and capital accounts are settled is \t\t\tknown as",
     "options": [
       "current account",
       "monetary movement account",
@@ -6109,7 +6109,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-191-704",
-    "questionText": "The share capital value that forms part of the balance sheet total is the (JAMB 2000)",
+    "questionText": "The share capital value that forms part of the balance sheet total is the",
     "options": [
       "paid-up share capital",
       "called-up share capital",
@@ -6121,7 +6121,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-192-572",
-    "questionText": "Which of the following does NOT appear on a cheque on presentation for payment? (JAMB 2013)",
+    "questionText": "Which of the following does NOT appear on a cheque on presentation for payment?",
     "options": [
       "Amount in words and figures",
       "Date of withdrawal",
@@ -6133,7 +6133,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-193-753",
-    "questionText": "The difference between total current assets and total current liabilities of a business is known as (JAMB 2001)",
+    "questionText": "The difference between total current assets and total current liabilities of a business is known as",
     "options": [
       "quick ratio",
       "liquidity ratio",
@@ -6145,7 +6145,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-194-239",
-    "questionText": "The implied provisions in every sale of goods as contained in the ales of Goods Act of 1893 are conditions and  (JAMB 2008)",
+    "questionText": "The implied provisions in every sale of goods as contained in the ales of Goods Act of 1893 are conditions and",
     "options": [
       "consideration",
       "sureties",
@@ -6157,7 +6157,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-195-525",
-    "questionText": "The marketing activity that stimulates immediate demand for a product is (JAMB 2000)",
+    "questionText": "The marketing activity that stimulates immediate demand for a product is",
     "options": [
       "sales promotion",
       "publicity",
@@ -6169,7 +6169,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-196-5",
-    "questionText": "Coverage against unexpected events is called (JAMB 2004)",
+    "questionText": "Coverage against unexpected events is called",
     "options": [
       "insurance",
       "assurance",
@@ -6181,7 +6181,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-197-818",
-    "questionText": "The organizational structure that relates the positions of specialists to the line managers is called (JAMB 2002)",
+    "questionText": "The organizational structure that relates the positions of specialists to the line managers is called",
     "options": [
       "line structure",
       "staff structure",
@@ -6193,7 +6193,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-198-438",
-    "questionText": "Modern mans of payment is greatly facilitated by  (JAMB 2012)",
+    "questionText": "Modern mans of payment is greatly facilitated by",
     "options": [
       "e-commerce",
       "paper money",
@@ -6205,7 +6205,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-199-153",
-    "questionText": "The major achievement of ECOWAS is (JAMB 2007)",
+    "questionText": "The major achievement of ECOWAS is",
     "options": [
       "the expansion of regional trade",
       "the emergence of a monetary union",
@@ -6217,7 +6217,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-200-37",
-    "questionText": "The acronym PLC is used to identify a  (JAMB 2004)",
+    "questionText": "The acronym PLC is used to identify a",
     "options": [
       "company limited by shares",
       "private company limited by shares",
@@ -6229,7 +6229,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-201-36",
-    "questionText": "The most important function of commerce is (JAMB 2004)",
+    "questionText": "The most important function of commerce is",
     "options": [
       "helping people to improve their profits",
       "facilitating exchanges among individuals and firms",
@@ -6241,7 +6241,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-202-183",
-    "questionText": "Which of the following requires payment into the payee's account?    (JAMB 2007)",
+    "questionText": "Which of the following requires payment into the payee's account?",
     "options": [
       "Crossed cheque.",
       "Traveller’s cheque.",
@@ -6253,7 +6253,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-203-13",
-    "questionText": "Consumer rights include the right to    (JAMB 2004)",
+    "questionText": "Consumer rights include the right to",
     "options": [
       "credit",
       "free samples of a product",
@@ -6265,7 +6265,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-204-479",
-    "questionText": "A contract can be terminated through  (JAMB 2013)",
+    "questionText": "A contract can be terminated through",
     "options": [
       "physical combat",
       "family intervention",
@@ -6277,7 +6277,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-205-532",
-    "questionText": "Which of the following agents guarantees payment transactions entered into on behalf of the principal? (JAMB 2000)",
+    "questionText": "Which of the following agents guarantees payment transactions entered into on behalf of the principal?",
     "options": [
       "Auctioneer",
       "Factor",
@@ -6289,7 +6289,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-206-600",
-    "questionText": "Which of the following statements is not true? (JAMB 1990)",
+    "questionText": "Which of the following statements is not true?",
     "options": [
       "Commercial services are the life blood of a country economic system",
       "There cannot occur commercial services until goods have been produced.",
@@ -6301,7 +6301,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-207-546",
-    "questionText": "Branch managers who virtually have no control on goods they sell is a disadvantage of __  store. (JAMB 2013)",
+    "questionText": "Branch managers who virtually have no control on goods they sell is a disadvantage of __  store.",
     "options": [
       "chain",
       "departmental",
@@ -6313,7 +6313,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-208-869",
-    "questionText": "The assembling of products into usable forms is known as (JAMB 2003)",
+    "questionText": "The assembling of products into usable forms is known as",
     "options": [
       "construction",
       "manufacturing",
@@ -6325,7 +6325,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-209-728",
-    "questionText": "The basic elements of a valid contract are (JAMB 2000)",
+    "questionText": "The basic elements of a valid contract are",
     "options": [
       "offer, acceptance, consideration and witness",
       "offer, intention, acceptance and legality",
@@ -6337,7 +6337,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-210-488",
-    "questionText": "The environmental hazard that is most difficult to control is  (JAMB 2013)",
+    "questionText": "The environmental hazard that is most difficult to control is",
     "options": [
       "land pollution",
       "water pollution",
@@ -6349,7 +6349,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-211-812",
-    "questionText": "Debentures differ from shares in that (JAMB 2002)",
+    "questionText": "Debentures differ from shares in that",
     "options": [
       "they are secured on the company’s assets",
       "ownership is open to the public",
@@ -6361,7 +6361,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-212-27",
-    "questionText": "A specialized institution in Nigeria that deals in  capital investments in the form of stocks, shares, bonds and debentures is the  (JAMB 2004)",
+    "questionText": "A specialized institution in Nigeria that deals in  capital investments in the form of stocks, shares, bonds and debentures is the",
     "options": [
       "Securities and Exchange Commission",
       "commodity market",
@@ -6373,7 +6373,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-213-759",
-    "questionText": "The trade discount receivable by Mr. Bacus is (JAMB 2001)",
+    "questionText": "The trade discount receivable by Mr. Bacus is",
     "options": [
       "N= 4,500",
       "N= 7,500",
@@ -6385,7 +6385,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-214-133",
-    "questionText": "In Nigeria, the main source of pollution is (JAMB 2006)",
+    "questionText": "In Nigeria, the main source of pollution is",
     "options": [
       "domestic waste",
       "organic waste",
@@ -6397,7 +6397,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-215-367",
-    "questionText": "One of the major disadvantages of pipeline transportation is its  (JAMB 2011)",
+    "questionText": "One of the major disadvantages of pipeline transportation is its",
     "options": [
       "high cost of construction",
       "limitation in scope",
@@ -6409,7 +6409,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-216-886",
-    "questionText": "A type of  long-term loan granted to companies with fixed interest as well as with redeemable and irredeemable features is referred to as (JAMB 2003)",
+    "questionText": "A type of  long-term loan granted to companies with fixed interest as well as with redeemable and irredeemable features is referred to as",
     "options": [
       "a debenture",
       "a bond",
@@ -6421,7 +6421,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-217-742",
-    "questionText": "The pivot on which the wheel of commerce rotates is (JAMB 2001)",
+    "questionText": "The pivot on which the wheel of commerce rotates is",
     "options": [
       "tariff",
       "trade",
@@ -6433,7 +6433,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-218-803",
-    "questionText": "Under the endowment policy, the money handed over to the insured at the expiration of the stipulated time or at death is the (JAMB 2002)",
+    "questionText": "Under the endowment policy, the money handed over to the insured at the expiration of the stipulated time or at death is the",
     "options": [
       "indemnity",
       "surrender value",
@@ -6445,7 +6445,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-219-660",
-    "questionText": "Commission on turnover is usually a benefit accruable to the (JAMB 2016)",
+    "questionText": "Commission on turnover is usually a benefit accruable to the",
     "options": [
       "drawer",
       "drawee",
@@ -6457,7 +6457,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-220-782",
-    "questionText": "One way by which government reduces the repatriation of capital   is through (JAMB 2001)",
+    "questionText": "One way by which government reduces the repatriation of capital   is through",
     "options": [
       "nationalization",
       "divestiture",
@@ -6469,7 +6469,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-221-376",
-    "questionText": "The managerial ability of a supervisor in an organization may be underutilized if the  (JAMB 2011)",
+    "questionText": "The managerial ability of a supervisor in an organization may be underutilized if the",
     "options": [
       "morale of the supervised is high",
       "span of control is wide",
@@ -6481,7 +6481,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-222-757",
-    "questionText": "The balance of payments of countries is (JAMB 2001)",
+    "questionText": "The balance of payments of countries is",
     "options": [
       "a record of imports and exports",
       "a systematic record of transactions among countries at a given time",
@@ -6493,7 +6493,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-223-481",
-    "questionText": "The sole legal right held by the author to publish his book is a  (JAMB 2013)",
+    "questionText": "The sole legal right held by the author to publish his book is a",
     "options": [
       "trademark",
       "copyright",
@@ -6505,7 +6505,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-224-858",
-    "questionText": "The process of dividing tasks into jobs and departments and of delegating authority is known as (JAMB 2003)",
+    "questionText": "The process of dividing tasks into jobs and departments and of delegating authority is known as",
     "options": [
       "staffing",
       "leading",
@@ -6517,7 +6517,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-225-154",
-    "questionText": "An announcement of a person's willingness to enter into a contract is referred to as  (JAMB 2007)",
+    "questionText": "An announcement of a person's willingness to enter into a contract is referred to as",
     "options": [
       "a proxy",
       "an offer",
@@ -6529,7 +6529,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-226-862",
-    "questionText": "Entrepreneurship mainly involves (JAMB 2003)",
+    "questionText": "Entrepreneurship mainly involves",
     "options": [
       "risk-taking",
       "initiating",
@@ -6541,7 +6541,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-227-885",
-    "questionText": "Money can simply be referred to as a (JAMB 2003)",
+    "questionText": "Money can simply be referred to as a",
     "options": [
       "medium of exchange",
       "means for the settlement of debts",
@@ -6553,7 +6553,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-228-431",
-    "questionText": "Goods and Services are made available to consumers through (JAMB 2012)",
+    "questionText": "Goods and Services are made available to consumers through",
     "options": [
       "the channel of distribution",
       "sales promotion",
@@ -6565,7 +6565,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-229-521",
-    "questionText": "The method of sending messages by the teleprinter is (JAMB 2000)",
+    "questionText": "The method of sending messages by the teleprinter is",
     "options": [
       "telephone",
       "cablegram",
@@ -6577,7 +6577,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-230-198",
-    "questionText": "An activity that involves derivation of raw materials from land and sea is  (JAMB 2008)",
+    "questionText": "An activity that involves derivation of raw materials from land and sea is",
     "options": [
       "construction",
       "farming",
@@ -6589,7 +6589,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-231-423",
-    "questionText": "The main objective of a trade association is to  (JAMB 2012)",
+    "questionText": "The main objective of a trade association is to",
     "options": [
       "protect is members against litigation",
       "boost the trade of its members",
@@ -6601,7 +6601,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-232-734",
-    "questionText": "The primary objectives of a trade association is to (JAMB 2000)",
+    "questionText": "The primary objectives of a trade association is to",
     "options": [
       "undertake research work on behalf of members",
       "establish easy link with government",
@@ -6613,7 +6613,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-233-671",
-    "questionText": "When expenses on trading are deducted, the result is the (JAMB 2016)",
+    "questionText": "When expenses on trading are deducted, the result is the",
     "options": [
       "rate of turn over",
       "net profit",
@@ -6625,7 +6625,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-234-176",
-    "questionText": "A distinctive advantage of GSM is its  (JAMB 2007)",
+    "questionText": "A distinctive advantage of GSM is its",
     "options": [
       "mobility",
       "cost",
@@ -6637,7 +6637,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-235-555",
-    "questionText": "The method of shopping on the internet by using the computer to browse the website of the manufacturer is known as (JAMB 2013)",
+    "questionText": "The method of shopping on the internet by using the computer to browse the website of the manufacturer is known as",
     "options": [
       "e-banking",
       "e-commerce",
@@ -6649,7 +6649,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-236-3",
-    "questionText": "The program that makes up the operating system in a computer is          (JAMB 2004)",
+    "questionText": "The program that makes up the operating system in a computer is",
     "options": [
       "micro program",
       "system flowchart",
@@ -6661,7 +6661,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-237-11",
-    "questionText": "The members of the Niger Basin Commission  include   (JAMB 2004)",
+    "questionText": "The members of the Niger Basin Commission  include",
     "options": [
       "Guinea, Ghana and Niger Republic",
       "Burkina Faso, Guinea and Nigeria",
@@ -6673,7 +6673,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-238-395",
-    "questionText": "The allocation of tasks to different skills in a production process is referred to as  (JAMB 2012)",
+    "questionText": "The allocation of tasks to different skills in a production process is referred to as",
     "options": [
       "production technique",
       "production function",
@@ -6685,7 +6685,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-239-35",
-    "questionText": "What does v represent? (JAMB 2004)",
+    "questionText": "What does v represent?",
     "options": [
       "Aids to trade",
       "Advertising",
@@ -6697,7 +6697,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-240-242",
-    "questionText": "The practice whereby government relinquishes its ownership interest in a public enterprises is  (JAMB 2008)",
+    "questionText": "The practice whereby government relinquishes its ownership interest in a public enterprises is",
     "options": [
       "commercialization",
       "indigenization",
@@ -6709,7 +6709,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-241-439",
-    "questionText": "The provision of quality and safe products which guarantee the health of consumers is an example of  (JAMB 2012)",
+    "questionText": "The provision of quality and safe products which guarantee the health of consumers is an example of",
     "options": [
       "quality control",
       "price control",
@@ -6721,7 +6721,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-242-578",
-    "questionText": "The use of middlemen by manufacturers become necessary where the goods (JAMB 2013)",
+    "questionText": "The use of middlemen by manufacturers become necessary where the goods",
     "options": [
       "are of low rate of turnover",
       "are susceptible to faking or adulteration",
@@ -6733,7 +6733,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-243-146",
-    "questionText": "In international trade, exchanging goods for other goods and services purchased instead of paying in foreign currency is known as  (JAMB 2006)",
+    "questionText": "In international trade, exchanging goods for other goods and services purchased instead of paying in foreign currency is known as",
     "options": [
       "countertrade",
       "balance of trade",
@@ -6745,7 +6745,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-244-533",
-    "questionText": "Which of the following is not a means of consumer protection? (JAMB 2000)",
+    "questionText": "Which of the following is not a means of consumer protection?",
     "options": [
       "Price control",
       "Sale of Goods Act",
@@ -6757,7 +6757,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-245-227",
-    "questionText": "The four Ps of marketing are (JAMB 2008)",
+    "questionText": "The four Ps of marketing are",
     "options": [
       "product, place, process and promotion",
       "price, product, property and place",
@@ -6769,7 +6769,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-246-839",
-    "questionText": "The founders’ shares are usually referred to as deferred shares because the holders (JAMB 2002)",
+    "questionText": "The founders’ shares are usually referred to as deferred shares because the holders",
     "options": [
       "are entitled to cumulative dividends",
       "receive their dividends after other shareholders",
@@ -6781,7 +6781,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-247-847",
-    "questionText": "How much was the trade discount? (JAMB 2003)",
+    "questionText": "How much was the trade discount?",
     "options": [
       "N42,500",
       "N27,500",
@@ -6793,7 +6793,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-248-667",
-    "questionText": "Funds used for paying wages, salaries and payments for raw materials are categorized under (JAMB 2016)",
+    "questionText": "Funds used for paying wages, salaries and payments for raw materials are categorized under",
     "options": [
       "liquid capital",
       "circulating capital",
@@ -6805,7 +6805,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-249-34",
-    "questionText": "As the branches indicate, iv is (JAMB 2004)",
+    "questionText": "As the branches indicate, iv is",
     "options": [
       "commerce",
       "exchange",
@@ -6817,7 +6817,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-250-881",
-    "questionText": "Banks are engaged in the business of buying and selling of (JAMB 2003)",
+    "questionText": "Banks are engaged in the business of buying and selling of",
     "options": [
       "bills of exchange",
       "instruments of credit",
@@ -6829,7 +6829,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-251-670",
-    "questionText": "In the transportation industry, dead freight is used to describe the (JAMB 2016)",
+    "questionText": "In the transportation industry, dead freight is used to describe the",
     "options": [
       "cost paid for an empty space left in the ship",
       "charge for each day a performance was delayed",
@@ -6841,7 +6841,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-252-625",
-    "questionText": "One of the objectives of the indigenization programme of the Federal Government of Nigeria is to (JAMB 1990)",
+    "questionText": "One of the objectives of the indigenization programme of the Federal Government of Nigeria is to",
     "options": [
       "encourage the use of local raw materials",
       "expel all foreigners from Nigeria",
@@ -6853,7 +6853,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-253-640",
-    "questionText": "The word Ltd written after the name of a company means that (JAMB 1990)",
+    "questionText": "The word Ltd written after the name of a company means that",
     "options": [
       "the individual member’s capital is limited",
       "the total sum of the company’s capital is limited",
@@ -6865,7 +6865,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-254-432",
-    "questionText": "A person who in consideration for an extra commission, takes responsibility for goods sold on credit and in case of default is a  (JAMB 2012)",
+    "questionText": "A person who in consideration for an extra commission, takes responsibility for goods sold on credit and in case of default is a",
     "options": [
       "commission agent",
       "del credere agent",
@@ -6877,7 +6877,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-255-681",
-    "questionText": "An association that acts as a watchdog between  entrepreneurs and government to protect trade from any unfavourable laws is said (JAMB 2016)",
+    "questionText": "An association that acts as a watchdog between  entrepreneurs and government to protect trade from any unfavourable laws is said",
     "options": [
       "cartel",
       "syndicate",
@@ -6889,7 +6889,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-256-21",
-    "questionText": "Charges for loans paid by commercial banks to the Central Bank of Nigeria are called    (JAMB 2004)",
+    "questionText": "Charges for loans paid by commercial banks to the Central Bank of Nigeria are called",
     "options": [
       "bank rates",
       "credit charges",
@@ -6901,7 +6901,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-257-139",
-    "questionText": "Hire purchase is beneficial to the seller because (JAMB 2006)",
+    "questionText": "Hire purchase is beneficial to the seller because",
     "options": [
       "it enhances his living standard",
       "it increases his turnover",
@@ -6913,7 +6913,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-258-175",
-    "questionText": "Digital computer is divided into  (JAMB 2007)",
+    "questionText": "Digital computer is divided into",
     "options": [
       "analogue, hybrid and mini",
       "super, mainframe, mini and micro",
@@ -6925,7 +6925,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-259-574",
-    "questionText": "The actual gain made by a business after all expenses has been deducted is called (JAMB 2013)",
+    "questionText": "The actual gain made by a business after all expenses has been deducted is called",
     "options": [
       "gross profit",
       "margin",
@@ -6937,7 +6937,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-260-322",
-    "questionText": "A public company with an authorized capital of N60,000, issued 36,000 shraes at 150k each. What is its capital? (JAMB 2010)",
+    "questionText": "A public company with an authorized capital of N60,000, issued 36,000 shraes at 150k each. What is its capital?",
     "options": [
       "N60,000",
       "N36,000",
@@ -6949,7 +6949,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-261-737",
-    "questionText": "The three components of staffing are (JAMB 2000)",
+    "questionText": "The three components of staffing are",
     "options": [
       "recruitment, selection and placement",
       "recruitment, interview and appointment",
@@ -6961,7 +6961,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-262-876",
-    "questionText": "A major benefit derivable from the privatization and commercialization of public enterprises in Nigeria is (JAMB 2003)",
+    "questionText": "A major benefit derivable from the privatization and commercialization of public enterprises in Nigeria is",
     "options": [
       "increase in wages",
       "employment generation",
@@ -6973,7 +6973,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-263-8",
-    "questionText": "In business, the computer is very important  especially in   (JAMB 2004)",
+    "questionText": "In business, the computer is very important  especially in",
     "options": [
       "financial management",
       "marketing management",
@@ -6985,7 +6985,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-264-841",
-    "questionText": "An obstacle to international trade is (JAMB 2003)",
+    "questionText": "An obstacle to international trade is",
     "options": [
       "trade imbalance between countries",
       "availability of local market",
@@ -6997,7 +6997,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-265-163",
-    "questionText": "A major advantage of a cooperative society is that it  (JAMB 2007)",
+    "questionText": "A major advantage of a cooperative society is that it",
     "options": [
       "gives members the opportunity to unite",
       "draws members closer to government",
@@ -7009,7 +7009,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-266-726",
-    "questionText": "The most important advantage of personal selling is that it (JAMB 2000)",
+    "questionText": "The most important advantage of personal selling is that it",
     "options": [
       "allows sellers to perceive buyers’ needs",
       "allows sellers to sell their goods quickly",
@@ -7021,7 +7021,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-267-570",
-    "questionText": "Double coincidence of wants is a disadvantage of (JAMB 2013)",
+    "questionText": "Double coincidence of wants is a disadvantage of",
     "options": [
       "business",
       "buying and selling",
@@ -7033,7 +7033,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-268-407",
-    "questionText": "Printed messages sent by cable are recorded as  (JAMB 2012)",
+    "questionText": "Printed messages sent by cable are recorded as",
     "options": [
       "telegram",
       "SMS",
@@ -7045,7 +7045,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-269-777",
-    "questionText": "Which of these companies are more engaged in public relations activities? (JAMB 2001)",
+    "questionText": "Which of these companies are more engaged in public relations activities?",
     "options": [
       "I and II",
       "I and III",
@@ -7057,7 +7057,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-270-103",
-    "questionText": "The input, output and central processing units are the basic components of a computer's (JAMB 2006)",
+    "questionText": "The input, output and central processing units are the basic components of a computer's",
     "options": [
       "memory",
       "printer",
@@ -7069,7 +7069,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-271-377",
-    "questionText": "The arrangement and interrelationship of the various components and positions of a business is referred to as  (JAMB 2011)",
+    "questionText": "The arrangement and interrelationship of the various components and positions of a business is referred to as",
     "options": [
       "organizational structure",
       "clarity of objective",
@@ -7081,7 +7081,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-272-454",
-    "questionText": "If Mr. N takes a fire insurance policy with average clause, his compensation will be  (JAMB 2013)",
+    "questionText": "If Mr. N takes a fire insurance policy with average clause, his compensation will be",
     "options": [
       "N5, 000",
       "N7, 500",
@@ -7093,7 +7093,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-273-711",
-    "questionText": "The insurance principle that requires full disclosure of information on the insured is known as (JAMB 2000)",
+    "questionText": "The insurance principle that requires full disclosure of information on the insured is known as",
     "options": [
       "indemnity",
       "uberrimaefidei",
@@ -7105,7 +7105,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-274-475",
-    "questionText": "The breaking down of a market into separate and identifiable elements is known as  (JAMB 2013)",
+    "questionText": "The breaking down of a market into separate and identifiable elements is known as",
     "options": [
       "differentiation",
       "segmentation",
@@ -7117,7 +7117,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-275-353",
-    "questionText": "The main aim of selling directly to the consumers by manufacturers is to  (JAMB 2011)",
+    "questionText": "The main aim of selling directly to the consumers by manufacturers is to",
     "options": [
       "reduce transportation cost",
       "make contact with individual consumers",
@@ -7129,7 +7129,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-276-340",
-    "questionText": "The major problem confronting Cyber Café operators is  (JAMB 2010)",
+    "questionText": "The major problem confronting Cyber Café operators is",
     "options": [
       "Advanced fee fraud by clientele",
       "poor network coverage",
@@ -7141,7 +7141,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-277-394",
-    "questionText": "One of the inputs in production that can be motivated by remuneration is  (JAMB 2012)",
+    "questionText": "One of the inputs in production that can be motivated by remuneration is",
     "options": [
       "capital",
       "entrepreneur",
@@ -7153,7 +7153,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-278-645",
-    "questionText": "With the exception of life assurance and personal accident insurance, contracts of insurance are contracts of (JAMB 1990)",
+    "questionText": "With the exception of life assurance and personal accident insurance, contracts of insurance are contracts of",
     "options": [
       "premium",
       "indemnity",
@@ -7165,7 +7165,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-279-800",
-    "questionText": "Awarding scholarships and sponsoring sports by a business organization are examples of (JAMB 2002)",
+    "questionText": "Awarding scholarships and sponsoring sports by a business organization are examples of",
     "options": [
       "advertising strategy",
       "economic responsibility",
@@ -7177,7 +7177,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-280-747",
-    "questionText": "One major advantage of a credit and thrift cooperative is that (JAMB 2001)",
+    "questionText": "One major advantage of a credit and thrift cooperative is that",
     "options": [
       "it can approach government for a loan",
       "it encourages saving habits",
@@ -7189,7 +7189,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-281-771",
-    "questionText": "One major characteristic of credit unions and thrift societies is that (JAMB 2001)",
+    "questionText": "One major characteristic of credit unions and thrift societies is that",
     "options": [
       "the legal processes involved in their formation are rigid",
       "membership compulsory to people in the same line of business",
@@ -7201,7 +7201,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-282-756",
-    "questionText": "A pro-forma invoice is sent to inform a buyer about the (JAMB 2001)",
+    "questionText": "A pro-forma invoice is sent to inform a buyer about the",
     "options": [
       "quantity of goods",
       "prices of goods",
@@ -7213,7 +7213,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-283-361",
-    "questionText": "A cheque that has been drawn but not presented for payment can still be honoured  (JAMB 2011)",
+    "questionText": "A cheque that has been drawn but not presented for payment can still be honoured",
     "options": [
       "within 6 months",
       "after 9 months",
@@ -7225,7 +7225,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-284-473",
-    "questionText": "Which of the following is used as a pricing policy?  (JAMB 2013)",
+    "questionText": "Which of the following is used as a pricing policy?",
     "options": [
       "packaging",
       "market selection",
@@ -7237,7 +7237,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-285-594",
-    "questionText": "In the marketing mix, place refers to (JAMB 2013)",
+    "questionText": "In the marketing mix, place refers to",
     "options": [
       "channel of distribution",
       "location of the factory",
@@ -7249,7 +7249,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-286-476",
-    "questionText": "A contract that is acknowledged before the law court is referred to as  (JAMB 2013)",
+    "questionText": "A contract that is acknowledged before the law court is referred to as",
     "options": [
       "informal contract",
       "formal contract",
@@ -7261,7 +7261,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-287-563",
-    "questionText": "The pricing policy adopted by firms selling to wealthy people is (JAMB 2013)",
+    "questionText": "The pricing policy adopted by firms selling to wealthy people is",
     "options": [
       "market penetration",
       "market skimming",
@@ -7273,7 +7273,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-288-520",
-    "questionText": "In Public Limited Liability Companies, equities are referred to as (JAMB 2000)",
+    "questionText": "In Public Limited Liability Companies, equities are referred to as",
     "options": [
       "preference shares",
       "authorized capital",
@@ -7285,7 +7285,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-289-729",
-    "questionText": "A bus driver operating between Lagos and Jos pledged the owner’s credit in Benin in order to have the engine repaired and the bill sent to the owner. This is a case of (JAMB 2000)",
+    "questionText": "A bus driver operating between Lagos and Jos pledged the owner’s credit in Benin in order to have the engine repaired and the bill sent to the owner. This is a case of",
     "options": [
       "del credere agency",
       "agency by necessity",
@@ -7297,7 +7297,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-290-788",
-    "questionText": "One of the obstacles  to achieving the objectives of ECOWAS is (JAMB 2001)",
+    "questionText": "One of the obstacles  to achieving the objectives of ECOWAS is",
     "options": [
       "lack of a common currency",
       "colonial linkages",
@@ -7309,7 +7309,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-291-196",
-    "questionText": "The body regulating the sale and purchase of shares in Nigeria is the  (JAMB 2007)",
+    "questionText": "The body regulating the sale and purchase of shares in Nigeria is the",
     "options": [
       "Corporate Affairs Commission",
       "Securities and Exchange Commission",
@@ -7321,7 +7321,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-292-586",
-    "questionText": "A law made by a country to prohibit importation of certain goods into the country is called _____ laws. (JAMB 2013)",
+    "questionText": "A law made by a country to prohibit importation of certain goods into the country is called _____ laws.",
     "options": [
       "export",
       "import",
@@ -7333,7 +7333,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-293-369",
-    "questionText": "When two or more companies agree to execute a project too large for one to handle, this is referred to as  (JAMB 2011)",
+    "questionText": "When two or more companies agree to execute a project too large for one to handle, this is referred to as",
     "options": [
       "an amalgamation",
       "a cartel",
@@ -7345,7 +7345,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-294-579",
-    "questionText": "The oldest form of business enterprise in Nigeria is (JAMB 2013)",
+    "questionText": "The oldest form of business enterprise in Nigeria is",
     "options": [
       "partnership",
       "private liability company",
@@ -7357,7 +7357,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-295-500",
-    "questionText": "A consignment note is used when (JAMB 2000)",
+    "questionText": "A consignment note is used when",
     "options": [
       "goods are wrapped and labeled for easy identification",
       "goods are dispatched to agents through transporters",
@@ -7381,7 +7381,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211838-297-219",
-    "questionText": "Balance of payments is made up of  (JAMB 2008)",
+    "questionText": "Balance of payments is made up of",
     "options": [
       "visible and current items",
       "invisible and capital items",
@@ -7393,7 +7393,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-298-709",
-    "questionText": "Ocean liners are subdivided into (JAMB 2000)",
+    "questionText": "Ocean liners are subdivided into",
     "options": [
       "passenger liners and cargo liners",
       "coastal liners and cargo liners",
@@ -7405,7 +7405,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-299-846",
-    "questionText": "What was the amount paid by Ojo? (JAMB 2003)",
+    "questionText": "What was the amount paid by Ojo?",
     "options": [
       "N382,500",
       "N425,000",
@@ -7417,7 +7417,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-300-504",
-    "questionText": "Which of the following is not a function of a retailer? (JAMB 2000)",
+    "questionText": "Which of the following is not a function of a retailer?",
     "options": [
       "Supplying goods to final consumers",
       "Bulk breaking",
@@ -7429,7 +7429,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-301-768",
-    "questionText": "Which of the following best describes the classification of computers? (JAMB 2001)",
+    "questionText": "Which of the following best describes the classification of computers?",
     "options": [
       "Mini-computer, speed and size",
       "Micro-computer, cost and abilities",
@@ -7441,7 +7441,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-302-724",
-    "questionText": "The type of advertising that seeks to persuade consumers to buy a particular product is (JAMB 2000)",
+    "questionText": "The type of advertising that seeks to persuade consumers to buy a particular product is",
     "options": [
       "informative advertising",
       "competitive advertising",
@@ -7453,7 +7453,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-303-644",
-    "questionText": "The amount paid by the assured to the insurer is called (JAMB 1990)",
+    "questionText": "The amount paid by the assured to the insurer is called",
     "options": [
       "interest",
       "premium",
@@ -7465,7 +7465,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-304-802",
-    "questionText": "An author’s exclusive right to his published an unpublished works is known as (JAMB 2002)",
+    "questionText": "An author’s exclusive right to his published an unpublished works is known as",
     "options": [
       "authors right",
       "constitutional right",
@@ -7477,7 +7477,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-305-875",
-    "questionText": "Electronic computers differ from human beings in that they process data and minimize errors in a (JAMB 2003)",
+    "questionText": "Electronic computers differ from human beings in that they process data and minimize errors in a",
     "options": [
       "faster and more accurate manner",
       "more organized manner",
@@ -7489,7 +7489,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-306-701",
-    "questionText": "Government policies relating to the establishment and operations of businesses are targeted at (JAMB 2000)",
+    "questionText": "Government policies relating to the establishment and operations of businesses are targeted at",
     "options": [
       "increasing the profits of business owners",
       "the general improvement of the economy",
@@ -7501,7 +7501,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-307-337",
-    "questionText": "Which of the following is a function of consumerism?  (JAMB 2010)",
+    "questionText": "Which of the following is a function of consumerism?",
     "options": [
       "Protecting consumers’ rights",
       "providing consumers’ choice",
@@ -7513,7 +7513,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-308-573",
-    "questionText": "The aspect of production which provides goods and services for immediate consumption is called ___ production. (JAMB 2013)",
+    "questionText": "The aspect of production which provides goods and services for immediate consumption is called ___ production.",
     "options": [
       "direct",
       "indirect",
@@ -7525,7 +7525,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-309-98",
-    "questionText": "A good financial instrument which serves as a  hedge against inflation is  (JAMB 2005)",
+    "questionText": "A good financial instrument which serves as a  hedge against inflation is",
     "options": [
       "a bond",
       "a share",
@@ -7537,7 +7537,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-310-69",
-    "questionText": "A business firm that is involved in conveying goods or people is known as a  (JAMB 2005)",
+    "questionText": "A business firm that is involved in conveying goods or people is known as a",
     "options": [
       "consignor",
       "commercial firm",
@@ -7549,7 +7549,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-311-358",
-    "questionText": "The price quoted which includes the cost of insurance, freight and all delivery charges to the importer’s warehouse is  (JAMB 2011)",
+    "questionText": "The price quoted which includes the cost of insurance, freight and all delivery charges to the importer’s warehouse is",
     "options": [
       "Free Alongside Ship",
       "Franco",
@@ -7561,7 +7561,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-312-392",
-    "questionText": "One of the major benefits of commerce to government is to  (JAMB 2012)",
+    "questionText": "One of the major benefits of commerce to government is to",
     "options": [
       "improve the standard of living",
       "generate revenue for growth and development",
@@ -7573,7 +7573,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-313-48",
-    "questionText": "Manufactures’ Association  of Nigeria contributes to development by advising the government on (JAMB 2004)",
+    "questionText": "Manufactures’ Association  of Nigeria contributes to development by advising the government on",
     "options": [
       "industrial policy and harmony",
       "budget and control",
@@ -7585,7 +7585,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-314-144",
-    "questionText": "An objective of the farmers' association is to (JAMB 2006)",
+    "questionText": "An objective of the farmers' association is to",
     "options": [
       "ensure that the prices of goods are fair and reasonable",
       "correct the imbalance between consumers and producers",
@@ -7597,7 +7597,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-315-429",
-    "questionText": "One of the characteristics of a good organizational chart is that it should  (JAMB 2012)",
+    "questionText": "One of the characteristics of a good organizational chart is that it should",
     "options": [
       "be rigid",
       "show government policy",
@@ -7609,7 +7609,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-316-105",
-    "questionText": "Payment made to the insured by the insurer outside its legal obligation is  (JAMB 2006)",
+    "questionText": "Payment made to the insured by the insurer outside its legal obligation is",
     "options": [
       "premium paid",
       "exgratia payment",
@@ -7621,7 +7621,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-317-143",
-    "questionText": "A shop which consists of many stores trading under a single roof and which stocks varieties of gods with each unit having its own head is a  (JAMB 2006)",
+    "questionText": "A shop which consists of many stores trading under a single roof and which stocks varieties of gods with each unit having its own head is a",
     "options": [
       "multiple shop",
       "supermarket",
@@ -7633,7 +7633,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-318-162",
-    "questionText": "The sustainable growth of commerce is largely due to  (JAMB 2007)",
+    "questionText": "The sustainable growth of commerce is largely due to",
     "options": [
       "marketing",
       "advertising",
@@ -7645,7 +7645,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-319-131",
-    "questionText": "A protection right which can be reviewed or renewed after seven years is known as  (JAMB 2006)",
+    "questionText": "A protection right which can be reviewed or renewed after seven years is known as",
     "options": [
       "patent",
       "design",
@@ -7657,7 +7657,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-320-217",
-    "questionText": "A type of retail trade where a group of similar states which is owned by a firm operates in different locations is a  (JAMB 2008)",
+    "questionText": "A type of retail trade where a group of similar states which is owned by a firm operates in different locations is a",
     "options": [
       "conglomerate",
       "chain store",
@@ -7669,7 +7669,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-321-61",
-    "questionText": "Commercialization of government corporations brings about an increase in the level of (JAMB 2005)",
+    "questionText": "Commercialization of government corporations brings about an increase in the level of",
     "options": [
       "money supply in the economy",
       "distrust among business operators",
@@ -7681,7 +7681,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-322-172",
-    "questionText": "An agreement by the insurer to compensate the insured for losses suffered is    (JAMB 2007)",
+    "questionText": "An agreement by the insurer to compensate the insured for losses suffered is",
     "options": [
       "policy",
       "surrender value",
@@ -7693,7 +7693,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-323-880",
-    "questionText": "The most widely used computer language that focuses on solving science-oriented problems is (JAMB 2003)",
+    "questionText": "The most widely used computer language that focuses on solving science-oriented problems is",
     "options": [
       "FORTRAN",
       "BASIC",
@@ -7705,7 +7705,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-324-270",
-    "questionText": "Warehousing is important to manufacturers because it helps to  (JAMB 2009)",
+    "questionText": "Warehousing is important to manufacturers because it helps to",
     "options": [
       "improve the quality of goods",
       "produce goods in advance",
@@ -7717,7 +7717,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-325-659",
-    "questionText": "Given: - [Index of export price] / [Index of import price]  x 100  The formula can be used to determine the (JAMB 2016)",
+    "questionText": "Given: - [Index of export price] / [Index of import price]  x 100  The formula can be used to determine the",
     "options": [
       "terms of payment",
       "balance of payments",
@@ -7729,7 +7729,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-326-605",
-    "questionText": "The cost of goods sold is (JAMB 1990)",
+    "questionText": "The cost of goods sold is",
     "options": [
       "N=6000",
       "N=10000",
@@ -7741,7 +7741,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-327-545",
-    "questionText": "Which of the following is NOT a means of payment through the post office? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a means of payment through the post office?",
     "options": [
       "Giro system",
       "Money order",
@@ -7753,7 +7753,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-328-597",
-    "questionText": "Which of the following is NOT a role of trade association? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a role of trade association?",
     "options": [
       "Eliminating competition among members",
       "Ensuring uniformity in mode of operation",
@@ -7765,7 +7765,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-329-763",
-    "questionText": "A factor necessary for siting a warehouse is nearness to (JAMB 2001)",
+    "questionText": "A factor necessary for siting a warehouse is nearness to",
     "options": [
       "raw materials",
       "labour",
@@ -7777,7 +7777,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-330-112",
-    "questionText": "A seller attracts and retains patronage by (JAMB 2006)",
+    "questionText": "A seller attracts and retains patronage by",
     "options": [
       "enhancing public relations",
       "enhancing sales promotion",
@@ -7789,7 +7789,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-331-23",
-    "questionText": "The instruments of credit include  (JAMB 2004)",
+    "questionText": "The instruments of credit include",
     "options": [
       "billboards and postal stamps",
       "payment vouchers and statement of account",
@@ -7801,7 +7801,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-332-38",
-    "questionText": "Commerce includes all the occupations concerned with  (JAMB 2004)",
+    "questionText": "Commerce includes all the occupations concerned with",
     "options": [
       "sales",
       "production",
@@ -7813,7 +7813,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-333-188",
-    "questionText": "A major benefit a debtor can derive from using a credit facility is  (JAMB 2007)",
+    "questionText": "A major benefit a debtor can derive from using a credit facility is",
     "options": [
       "better service",
       "goodwill",
@@ -7825,7 +7825,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-334-857",
-    "questionText": "One of the functions of seaports is the provision of (JAMB 2003)",
+    "questionText": "One of the functions of seaports is the provision of",
     "options": [
       "berthing and landing facilities",
       "loading and off-loading facilities",
@@ -7837,7 +7837,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-335-28",
-    "questionText": "A group of assets which a business acquires with the intention of reselling them are referred to as (JAMB 2004)",
+    "questionText": "A group of assets which a business acquires with the intention of reselling them are referred to as",
     "options": [
       "current assets",
       "investment assets",
@@ -7849,7 +7849,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-336-446",
-    "questionText": "The role of customs and excise authority includes the  (JAMB 2013)",
+    "questionText": "The role of customs and excise authority includes the",
     "options": [
       "provision of a good transport system to facilitate imports and exports",
       "provision of security at the port",
@@ -7861,7 +7861,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-337-770",
-    "questionText": "The significance of money to modern economic systems is that it (JAMB 2001)",
+    "questionText": "The significance of money to modern economic systems is that it",
     "options": [
       "is used as a means payment",
       "promotes specialization and exchange",
@@ -7873,7 +7873,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-338-503",
-    "questionText": "When a country’s total visible and invisible exports are more than its visible and invisible imports, it has (JAMB 2000)",
+    "questionText": "When a country’s total visible and invisible exports are more than its visible and invisible imports, it has",
     "options": [
       "favourable balance of payments",
       "favourable balance of trade",
@@ -7885,7 +7885,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-339-436",
-    "questionText": "Which of the following is a type of system software?  (JAMB 2012)",
+    "questionText": "Which of the following is a type of system software?",
     "options": [
       "Utility programs",
       "Registers",
@@ -7897,7 +7897,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-340-349",
-    "questionText": "Which of the following is a limitation  of division of labour?  (JAMB 2011)",
+    "questionText": "Which of the following is a limitation  of division of labour?",
     "options": [
       "decline in craftsmanship",
       "monotony of work",
@@ -7909,7 +7909,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-341-665",
-    "questionText": "The buying and selling of goods and services is referred, to as (JAMB 2016)",
+    "questionText": "The buying and selling of goods and services is referred, to as",
     "options": [
       "trading",
       "marketing",
@@ -7921,7 +7921,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-342-249",
-    "questionText": "The services of a textile worker are an example of  (JAMB 2009)",
+    "questionText": "The services of a textile worker are an example of",
     "options": [
       "extractive activity",
       "commercial activity",
@@ -7933,7 +7933,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-343-725",
-    "questionText": "The practice whereby soft drink manufacturers give away caps, bags and other items when consumers buy their product is a \t\tform of (JAMB 2000)",
+    "questionText": "The practice whereby soft drink manufacturers give away caps, bags and other items when consumers buy their product is a \t\tform of",
     "options": [
       "marketing strategy",
       "publicity",
@@ -7945,7 +7945,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-344-456",
-    "questionText": "An importance of warehousing is in the  (JAMB 2013)",
+    "questionText": "An importance of warehousing is in the",
     "options": [
       "production of goods",
       "transportation of goods",
@@ -7957,7 +7957,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-345-450",
-    "questionText": "Which of the following advertising medium appeals to only the literate it the society? (JAMB 2013)",
+    "questionText": "Which of the following advertising medium appeals to only the literate it the society?",
     "options": [
       "Radio advertising",
       "Print Media advertising",
@@ -7969,7 +7969,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-346-714",
-    "questionText": "A bank form used to transfer money from personal to creditor’s account is called (JAMB 2000)",
+    "questionText": "A bank form used to transfer money from personal to creditor’s account is called",
     "options": [
       "debit transfer form",
       "credit transfer form",
@@ -7981,7 +7981,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-347-32",
-    "questionText": "A written partnership contract is known as (JAMB 2004)",
+    "questionText": "A written partnership contract is known as",
     "options": [
       "an invoice",
       "a deed",
@@ -7993,7 +7993,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-348-18",
-    "questionText": "One of the advantages of commercialization is that it (JAMB 2004)",
+    "questionText": "One of the advantages of commercialization is that it",
     "options": [
       "encourages entrepreneurship",
       "increases the salaries of workers",
@@ -8005,7 +8005,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-349-343",
-    "questionText": "One way by which a business can discharge its social responsibility to its community is to  (JAMB 2010)",
+    "questionText": "One way by which a business can discharge its social responsibility to its community is to",
     "options": [
       "hold monthly meetings of its customers",
       "build houses for its executives",
@@ -8017,7 +8017,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-350-288",
-    "questionText": "The most important attributes in a sale of goods contract are  (JAMB 2009)",
+    "questionText": "The most important attributes in a sale of goods contract are",
     "options": [
       "offer and consideration",
       "price and goods",
@@ -8029,7 +8029,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-351-385",
-    "questionText": "The physical components of a computer system refers to the  (JAMB 2011)",
+    "questionText": "The physical components of a computer system refers to the",
     "options": [
       "system unit",
       "hardware",
@@ -8041,7 +8041,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-352-731",
-    "questionText": "An aspect of the law which allows an exclusive right for a limited number of years is a (JAMB 2000)",
+    "questionText": "An aspect of the law which allows an exclusive right for a limited number of years is a",
     "options": [
       "copyright",
       "trade mark",
@@ -8053,7 +8053,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-353-779",
-    "questionText": "Who are the parties to the contract of renting the room? (JAMB 2001)",
+    "questionText": "Who are the parties to the contract of renting the room?",
     "options": [
       "Musa and Jacob",
       "Musa and Audu",
@@ -8065,7 +8065,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-354-187",
-    "questionText": "A share premium is an example of (JAMB 2007)",
+    "questionText": "A share premium is an example of",
     "options": [
       "issued capital",
       "capital stock",
@@ -8077,7 +8077,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-355-214",
-    "questionText": "A trader who gives credit stands to enjoy  (JAMB 2008)",
+    "questionText": "A trader who gives credit stands to enjoy",
     "options": [
       "higher profit",
       "cash discount",
@@ -8089,7 +8089,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-356-622",
-    "questionText": "Which of the following is the most suitable means of \ttransporting bulky goods from Lagos to Kaduna? By (JAMB 1990)",
+    "questionText": "Which of the following is the most suitable means of \ttransporting bulky goods from Lagos to Kaduna? By",
     "options": [
       "Train",
       "Airplane",
@@ -8101,7 +8101,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-357-836",
-    "questionText": "Which of the following is an example of trade associations? (JAMB 2002)",
+    "questionText": "Which of the following is an example of trade associations?",
     "options": [
       "European Union",
       "National Marketing Board",
@@ -8113,7 +8113,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-358-84",
-    "questionText": "Which of the middlemen in the channel of distribution has title to the goods he distributes? (JAMB 2005)",
+    "questionText": "Which of the middlemen in the channel of distribution has title to the goods he distributes?",
     "options": [
       "The merchant wholesaler",
       "The agent",
@@ -8125,7 +8125,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211839-359-655",
-    "questionText": "Which of the following types of occupation involves services that can be referred to as auxiliaries’ trade? (JAMB 2016)",
+    "questionText": "Which of the following types of occupation involves services that can be referred to as auxiliaries’ trade?",
     "options": [
       "Constructive occupation",
       "Manufacturing occupation.",
@@ -8137,7 +8137,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-360-592",
-    "questionText": "An instruction from a current account holder requesting to pay a named person or organization a. specified amount is \t\tcalled (JAMB 2013)",
+    "questionText": "An instruction from a current account holder requesting to pay a named person or organization a. specified amount is \t\tcalled",
     "options": [
       "bankers order",
       "certified cheque",
@@ -8149,7 +8149,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-361-271",
-    "questionText": "One of the major problems of a sole proprietor is sourcing for  (JAMB 2009)",
+    "questionText": "One of the major problems of a sole proprietor is sourcing for",
     "options": [
       "raw materials",
       "labour",
@@ -8161,7 +8161,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-362-236",
-    "questionText": "An example of a non-insurable risk is  (JAMB 2008)",
+    "questionText": "An example of a non-insurable risk is",
     "options": [
       "burglary",
       "speculation",
@@ -8173,7 +8173,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-363-617",
-    "questionText": "A business is in existence primarily to (JAMB 1990)",
+    "questionText": "A business is in existence primarily to",
     "options": [
       "make profit",
       "provide goods and services",
@@ -8185,7 +8185,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-364-22",
-    "questionText": "In the primary market, new shares are issued  through   (JAMB 2004)",
+    "questionText": "In the primary market, new shares are issued  through",
     "options": [
       "personal selling, publicity and advertising",
       "a prospectus, an offer for sale and a bill of exchange",
@@ -8197,7 +8197,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-365-194",
-    "questionText": "A new company requiring a large amount of equity finance may source funds from the (JAMB 2007)",
+    "questionText": "A new company requiring a large amount of equity finance may source funds from the",
     "options": [
       "capital market",
       "central bank",
@@ -8209,7 +8209,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-366-627",
-    "questionText": "Which of the following is not an essential of a contract? (JAMB 1990)",
+    "questionText": "Which of the following is not an essential of a contract?",
     "options": [
       "Offer and acceptance",
       "Intention to create legal relations",
@@ -8221,7 +8221,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-367-306",
-    "questionText": "The comparison of a country’s visible and invisible exports and imports expressed in monetary term is  (JAMB 2010)",
+    "questionText": "The comparison of a country’s visible and invisible exports and imports expressed in monetary term is",
     "options": [
       "balance of payment",
       "terms of trade",
@@ -8233,7 +8233,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-368-279",
-    "questionText": "The manufactures’ Association of Nigeria is an example of a  (JAMB 2009)",
+    "questionText": "The manufactures’ Association of Nigeria is an example of a",
     "options": [
       "labour union",
       "pressure group",
@@ -8245,7 +8245,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-369-524",
-    "questionText": "Which of the following is used for moving only goods from one seaport to another? (JAMB 2000)",
+    "questionText": "Which of the following is used for moving only goods from one seaport to another?",
     "options": [
       "Ocean liner",
       "Cargo liner",
@@ -8257,7 +8257,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-370-81",
-    "questionText": "A cheque drawn by a bank official on the bank's deposits in another bank on a customer's instructions is known as  (JAMB 2005)",
+    "questionText": "A cheque drawn by a bank official on the bank's deposits in another bank on a customer's instructions is known as",
     "options": [
       "promissary note",
       "bankdraft",
@@ -8269,7 +8269,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211843-371-305",
-    "questionText": "The activity which entails buying of goods in bulk and selling in small quantities to retailers is  (JAMB 2010)",
+    "questionText": "The activity which entails buying of goods in bulk and selling in small quantities to retailers is",
     "options": [
       "assembling",
       "wholesaling",
@@ -8281,7 +8281,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-372-326",
-    "questionText": "A pre-requisite for admission into the second-tier securities Market is for a company to  (JAMB 2010)",
+    "questionText": "A pre-requisite for admission into the second-tier securities Market is for a company to",
     "options": [
       "make 20% of its equity share available to he public for subscription",
       "have a minimum of 100 shareholders",
@@ -8293,7 +8293,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-373-641",
-    "questionText": "Which of the following is a public corporation? The (JAMB 1990)",
+    "questionText": "Which of the following is a public corporation? The",
     "options": [
       "Nigeria Breweries Limited",
       "Nigerian Ports Authority",
@@ -8305,7 +8305,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-374-357",
-    "questionText": "The document which can be exchanged for a bill of lading is  (JAMB 2011)",
+    "questionText": "The document which can be exchanged for a bill of lading is",
     "options": [
       "freight note",
       "mate receipt",
@@ -8317,7 +8317,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-375-355",
-    "questionText": "The three components of a country’s balance of payment are  (JAMB 2011)",
+    "questionText": "The three components of a country’s balance of payment are",
     "options": [
       "Current account, capital account and monetary movement account",
       "capital account, trade account and business record",
@@ -8329,7 +8329,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-376-53",
-    "questionText": "Which part of the computer system does the keyboard device belong to?  (JAMB 2005)",
+    "questionText": "Which part of the computer system does the keyboard device belong to?",
     "options": [
       "Output unit",
       "Logic unit",
@@ -8341,7 +8341,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-377-285",
-    "questionText": "The efficiency of an organization is enhanced by  (JAMB 2009)",
+    "questionText": "The efficiency of an organization is enhanced by",
     "options": [
       "government assistance",
       "the host community",
@@ -8353,7 +8353,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-378-530",
-    "questionText": "The deliberate and sustained efforts to maintain a good image of a company is known as (JAMB 2000)",
+    "questionText": "The deliberate and sustained efforts to maintain a good image of a company is known as",
     "options": [
       "personal relations",
       "public relations",
@@ -8365,7 +8365,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-379-762",
-    "questionText": "Warehousing is a productive function because it increases the (JAMB 2001)",
+    "questionText": "Warehousing is a productive function because it increases the",
     "options": [
       "quantity of goods",
       "utility of goods",
@@ -8377,7 +8377,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-380-417",
-    "questionText": "A feature common to public and private limited liability companies is that  (JAMB 2012)",
+    "questionText": "A feature common to public and private limited liability companies is that",
     "options": [
       "both can sue and be sued",
       "the minimum number of their shareholders is five",
@@ -8389,7 +8389,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-381-817",
-    "questionText": "Given:  I.Retail; II.Export; III.Transport; IV.Import; V.Insurance; VI.Banking and finance; VII. Wholesale; VIII. Communication. Which of the above are aids to trade? (JAMB 2002)",
+    "questionText": "Given:  I.Retail; II.Export; III.Transport; IV.Import; V.Insurance; VI.Banking and finance; VII. Wholesale; VIII. Communication. Which of the above are aids to trade?",
     "options": [
       "I, II, III and VIII",
       "III, V, VI and VIII",
@@ -8401,7 +8401,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-382-168",
-    "questionText": "The creation of utilities to satisfy human wants is referred to as    (JAMB 2007)",
+    "questionText": "The creation of utilities to satisfy human wants is referred to as",
     "options": [
       "production",
       "consumption",
@@ -8413,7 +8413,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-383-317",
-    "questionText": "A major hindrance to tourism growth in Nigeria is  (JAMB 2010)",
+    "questionText": "A major hindrance to tourism growth in Nigeria is",
     "options": [
       "absence of genuine tour operators",
       "lack of tourism master plan",
@@ -8425,7 +8425,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-384-487",
-    "questionText": "A major factor that affects business operations is  (JAMB 2013)",
+    "questionText": "A major factor that affects business operations is",
     "options": [
       "technology",
       "supply",
@@ -8437,7 +8437,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-385-74",
-    "questionText": "The most important concept in production is (JAMB 2005)",
+    "questionText": "The most important concept in production is",
     "options": [
       "utility",
       "wealth creation",
@@ -8449,7 +8449,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-386-789",
-    "questionText": "One of the main objectives of establishing the Niger River Basin Commission was to (JAMB 2001)",
+    "questionText": "One of the main objectives of establishing the Niger River Basin Commission was to",
     "options": [
       "embark on a comprehensive survey of the available water resources",
       "carry out research for the development of fresh water fisheries",
@@ -8461,7 +8461,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-387-67",
-    "questionText": "An instrument that is traded in the second-tier foreign exchange market is (JAMB 2005)",
+    "questionText": "An instrument that is traded in the second-tier foreign exchange market is",
     "options": [
       "money order",
       "stock",
@@ -8473,7 +8473,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-388-400",
-    "questionText": "The document a seller uses in dispatching goods to a customer by a carrier is  (JAMB 2012)",
+    "questionText": "The document a seller uses in dispatching goods to a customer by a carrier is",
     "options": [
       "a bill of lading",
       "an invoice",
@@ -8485,7 +8485,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-389-470",
-    "questionText": "The most suitable organizational structure for small or medium-sized enterprises is  (JAMB 2013)",
+    "questionText": "The most suitable organizational structure for small or medium-sized enterprises is",
     "options": [
       "line structure",
       "staff structure",
@@ -8497,7 +8497,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-390-675",
-    "questionText": "One of the functions of the retailer is (JAMB 2016)",
+    "questionText": "One of the functions of the retailer is",
     "options": [
       "granting credit facilities to close relatives",
       "provision of after-sales services",
@@ -8509,7 +8509,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-391-136",
-    "questionText": "The members of ECOWAS include (JAMB 2006)",
+    "questionText": "The members of ECOWAS include",
     "options": [
       "Nigeria, Chad, Gabon and Cape Verde",
       "Burkina Faso, Nigeria, Niger and Mauritania",
@@ -8521,7 +8521,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-392-441",
-    "questionText": "The type of labour that makes use of physical effort in production processes is the  (JAMB 2013)",
+    "questionText": "The type of labour that makes use of physical effort in production processes is the",
     "options": [
       "unskilled labour",
       "skilled labour",
@@ -8533,7 +8533,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-393-604",
-    "questionText": "The average stock is (JAMB 1990)",
+    "questionText": "The average stock is",
     "options": [
       "N=2000",
       "N=3000",
@@ -8545,7 +8545,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788725211844-394-209",
-    "questionText": "The components of capital employed in a business are  (JAMB 2008)",
+    "questionText": "The components of capital employed in a business are",
     "options": [
       "owners’ equity and long-term debts",
       "total assets and current liabilities",
@@ -8557,7 +8557,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-0-727",
-    "questionText": "The role of public relations is principally to (JAMB 2000)",
+    "questionText": "The role of public relations is principally to",
     "options": [
       "sustain good relationship",
       "create good image",
@@ -8569,7 +8569,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-1-695",
-    "questionText": "The major factors that facilitate merchandising are (JAMB 2000)",
+    "questionText": "The major factors that facilitate merchandising are",
     "options": [
       "communication, advertising and banking",
       "trading, warehousing and production",
@@ -8581,7 +8581,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-2-529",
-    "questionText": "Which of the following is a method of sales promotion? (JAMB 2000)",
+    "questionText": "Which of the following is a method of sales promotion?",
     "options": [
       "Radio giggles",
       "Poster display",
@@ -8593,7 +8593,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-3-492",
-    "questionText": "A private company is one which (JAMB 2000)",
+    "questionText": "A private company is one which",
     "options": [
       "must publish its audited account",
       "floats its shares on the stock exchange market",
@@ -8605,7 +8605,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-4-740",
-    "questionText": "The instrument establishing the Economic Community of West African States in 1975 is (JAMB 2000)",
+    "questionText": "The instrument establishing the Economic Community of West African States in 1975 is",
     "options": [
       "a decree",
       "an act",
@@ -8617,7 +8617,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-5-538",
-    "questionText": "In which of the following classes of occupation would you place a doctor? (JAMB 2000)",
+    "questionText": "In which of the following classes of occupation would you place a doctor?",
     "options": [
       "Extractive",
       "Commercial",
@@ -8629,7 +8629,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-6-496",
-    "questionText": "What is G in the above equation? (JAMB 2000)",
+    "questionText": "What is G in the above equation?",
     "options": [
       "Sales returns",
       "Carriage inwards",
@@ -8641,7 +8641,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-7-737",
-    "questionText": "The three components of staffing are (JAMB 2000)",
+    "questionText": "The three components of staffing are",
     "options": [
       "recruitment, selection and placement",
       "recruitment, interview and appointment",
@@ -8653,7 +8653,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-8-531",
-    "questionText": "A contract of sale where ownership passes to the buyer on the payment of the first instalment is known as (JAMB 2000)",
+    "questionText": "A contract of sale where ownership passes to the buyer on the payment of the first instalment is known as",
     "options": [
       "hire purchase",
       "lease",
@@ -8665,7 +8665,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-9-518",
-    "questionText": "A house worth  N50.000 was insured against fire for  N30,000. Fire destroyed and caused damages worth N20.000 on the house. Under which insurance principle will the owner be entitled to a compensation of  N20,000? (JAMB 2000)",
+    "questionText": "A house worth  N50.000 was insured against fire for  N30,000. Fire destroyed and caused damages worth N20.000 on the house. Under which insurance principle will the owner be entitled to a compensation of  N20,000?",
     "options": [
       "Contribution",
       "Subrogation",
@@ -8677,7 +8677,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-10-713",
-    "questionText": "The Central Bank differs from commercial banks because it (JAMB 2000)",
+    "questionText": "The Central Bank differs from commercial banks because it",
     "options": [
       "renders service to customers",
       "carries out foreign exchange transactions",
@@ -8689,7 +8689,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-11-715",
-    "questionText": "The computer using linear integrated circuit technology coupled with quantification of data in terms of length and distance is known as (JAMB 2000)",
+    "questionText": "The computer using linear integrated circuit technology coupled with quantification of data in terms of length and distance is known as",
     "options": [
       "digital computer",
       "analogue computer",
@@ -8701,7 +8701,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-12-491",
-    "questionText": "Partners who allow their names to be used in a partnership but do not take part in the management of the business are (JAMB 2000)",
+    "questionText": "Partners who allow their names to be used in a partnership but do not take part in the management of the business are",
     "options": [
       "active partners",
       "limited partners",
@@ -8713,7 +8713,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-13-516",
-    "questionText": "Which of the following services is not rendered by commercial banks? (JAMB 2000)",
+    "questionText": "Which of the following services is not rendered by commercial banks?",
     "options": [
       "Business advice",
       "Currency notes issue",
@@ -8725,7 +8725,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-14-524",
-    "questionText": "Which of the following is used for moving only goods from one seaport to another? (JAMB 2000)",
+    "questionText": "Which of the following is used for moving only goods from one seaport to another?",
     "options": [
       "Ocean liner",
       "Cargo liner",
@@ -8737,7 +8737,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-15-706",
-    "questionText": "The current trends in retailing competition in Nigeria are (JAMB 2000)",
+    "questionText": "The current trends in retailing competition in Nigeria are",
     "options": [
       "advertising and sales promotion strategies",
       "branding, enterprising and differentiation of goods and services",
@@ -8749,7 +8749,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-16-700",
-    "questionText": "The measure of independence available to the individual business units that come together is the main difference between (JAMB 2000)",
+    "questionText": "The measure of independence available to the individual business units that come together is the main difference between",
     "options": [
       "vertical and horizontal, integration",
       "mergers and acquisitions",
@@ -8761,7 +8761,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-17-701",
-    "questionText": "Government policies relating to the establishment and operations of businesses are targeted at (JAMB 2000)",
+    "questionText": "Government policies relating to the establishment and operations of businesses are targeted at",
     "options": [
       "increasing the profits of business owners",
       "the general improvement of the economy",
@@ -8773,7 +8773,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-18-722",
-    "questionText": "The chart above represents the (JAMB 2000)",
+    "questionText": "The chart above represents the",
     "options": [
       "product mix relationship",
       "marketing mix relationship",
@@ -8785,7 +8785,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-19-532",
-    "questionText": "Which of the following agents guarantees payment transactions entered into on behalf of the principal? (JAMB 2000)",
+    "questionText": "Which of the following agents guarantees payment transactions entered into on behalf of the principal?",
     "options": [
       "Auctioneer",
       "Factor",
@@ -8797,7 +8797,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-20-734",
-    "questionText": "The primary objectives of a trade association is to (JAMB 2000)",
+    "questionText": "The primary objectives of a trade association is to",
     "options": [
       "undertake research work on behalf of members",
       "establish easy link with government",
@@ -8809,7 +8809,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-21-514",
-    "questionText": "Which of the following is a means of payment through the post office? (JAMB 2000)",
+    "questionText": "Which of the following is a means of payment through the post office?",
     "options": [
       "Standing Order",
       "Promissory note",
@@ -8821,7 +8821,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-22-720",
-    "questionText": "The Stock Exchange helps to provide capital for industrial projects because it (JAMB 2000)",
+    "questionText": "The Stock Exchange helps to provide capital for industrial projects because it",
     "options": [
       "determines value of shares, stocks and other securities",
       "assists government in implementing its monetary policies",
@@ -8833,7 +8833,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-23-503",
-    "questionText": "When a country’s total visible and invisible exports are more than its visible and invisible imports, it has (JAMB 2000)",
+    "questionText": "When a country’s total visible and invisible exports are more than its visible and invisible imports, it has",
     "options": [
       "favourable balance of payments",
       "favourable balance of trade",
@@ -8845,7 +8845,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-24-502",
-    "questionText": "A refund of the duty collected on goods imported and processed for re- export is (JAMB 2000)",
+    "questionText": "A refund of the duty collected on goods imported and processed for re- export is",
     "options": [
       "excise duty",
       "excise draw back",
@@ -8857,7 +8857,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-25-716",
-    "questionText": "A printer that burns the print image onto the photosensitive drum is called (JAMB 2000)",
+    "questionText": "A printer that burns the print image onto the photosensitive drum is called",
     "options": [
       "dot matrix printer",
       "daisy wheel printer",
@@ -8869,7 +8869,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-26-499",
-    "questionText": "A retail outlet which sells a fairly narrow range of goods with a number of branches in different towns is a (JAMB 2000)",
+    "questionText": "A retail outlet which sells a fairly narrow range of goods with a number of branches in different towns is a",
     "options": [
       "supermarket",
       "mail-order shop",
@@ -8881,7 +8881,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-27-508",
-    "questionText": "The abbreviated phrase E & OE is usually printed on (JAMB 2000)",
+    "questionText": "The abbreviated phrase E & OE is usually printed on",
     "options": [
       "an invoice",
       "a cheque",
@@ -8893,7 +8893,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-28-527",
-    "questionText": "Branding is a tool for (JAMB 2000)",
+    "questionText": "Branding is a tool for",
     "options": [
       "competitive advertising",
       "consumerism",
@@ -8905,7 +8905,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-29-495",
-    "questionText": "What is P in the above equation? (JAMB 2000)",
+    "questionText": "What is P in the above equation?",
     "options": [
       "Purchases returns",
       "Net Profit",
@@ -8917,7 +8917,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-30-712",
-    "questionText": "Mr. Olatunde took up a fire insurance on a property valued at N 1000 and the amount insured is  N800. The property caught fire causing a loss of  N400. If the insurance was taken with the \tclause ‘with average’, what is the amount to be paid by the insurance company? (JAMB 2000)",
+    "questionText": "Mr. Olatunde took up a fire insurance on a property valued at N 1000 and the amount insured is  N800. The property caught fire causing a loss of  N400. If the insurance was taken with the \tclause ‘with average’, what is the amount to be paid by the insurance company?",
     "options": [
       "N320",
       "N420",
@@ -8929,7 +8929,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-31-728",
-    "questionText": "The basic elements of a valid contract are (JAMB 2000)",
+    "questionText": "The basic elements of a valid contract are",
     "options": [
       "offer, acceptance, consideration and witness",
       "offer, intention, acceptance and legality",
@@ -8941,7 +8941,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-32-731",
-    "questionText": "An aspect of the law which allows an exclusive right for a limited number of years is a (JAMB 2000)",
+    "questionText": "An aspect of the law which allows an exclusive right for a limited number of years is a",
     "options": [
       "copyright",
       "trade mark",
@@ -8953,7 +8953,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-33-509",
-    "questionText": "Which of the following refers to a price reduction based on the size of order? (JAMB 2000)",
+    "questionText": "Which of the following refers to a price reduction based on the size of order?",
     "options": [
       "Cash discount",
       "Trade discount",
@@ -8965,7 +8965,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-34-721",
-    "questionText": "A shortcoming of the Second-tier Foreign Exchange Market in Nigeria is that it (JAMB 2000)",
+    "questionText": "A shortcoming of the Second-tier Foreign Exchange Market in Nigeria is that it",
     "options": [
       "serves as a mechanism for evaluating an unrealistic exchange rate for the naira",
       "creates unhealthy competition amongst users of foreign exchange",
@@ -8977,7 +8977,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-35-506",
-    "questionText": "The production of goods in anticipation of demand is \tpossible because of the existence of (JAMB 2000)",
+    "questionText": "The production of goods in anticipation of demand is \tpossible because of the existence of",
     "options": [
       "Packaging",
       "advertising",
@@ -8989,7 +8989,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-36-513",
-    "questionText": "When a customer writes a cheque in his own name and withdraws cash with it from his account he is both the (JAMB 2000)",
+    "questionText": "When a customer writes a cheque in his own name and withdraws cash with it from his account he is both the",
     "options": [
       "drawee and the payee",
       "drawer and the payer",
@@ -9001,7 +9001,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-37-523",
-    "questionText": "Rail transport is less flexible than road transport because (JAMB 2000)",
+    "questionText": "Rail transport is less flexible than road transport because",
     "options": [
       "rail lines run between specific terminals",
       "train is slow over long distances",
@@ -9013,7 +9013,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-38-705",
-    "questionText": "The main factors militating against the rapid growth of trade in Nigeria are (JAMB 2000)",
+    "questionText": "The main factors militating against the rapid growth of trade in Nigeria are",
     "options": [
       "inadequate transportation network and huge capital outlay",
       "lack of motivation and government attitude towards trade",
@@ -9025,7 +9025,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-39-534",
-    "questionText": "Which of the following is a basic requirement for a valid contract? (JAMB 2000)",
+    "questionText": "Which of the following is a basic requirement for a valid contract?",
     "options": [
       "Representation",
       "Consideration",
@@ -9037,7 +9037,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-40-760",
-    "questionText": "If  Mr. Bacus fulfils his promise, he will be entitled to a cash discount of (JAMB 2001)",
+    "questionText": "If  Mr. Bacus fulfils his promise, he will be entitled to a cash discount of",
     "options": [
       "N= 2,760",
       "N= 3,000",
@@ -9049,7 +9049,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-41-759",
-    "questionText": "The trade discount receivable by Mr. Bacus is (JAMB 2001)",
+    "questionText": "The trade discount receivable by Mr. Bacus is",
     "options": [
       "N= 4,500",
       "N= 7,500",
@@ -9061,7 +9061,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-42-748",
-    "questionText": "A form of ownership which exploits the strength of one partner to remedy the weaknesses of the other is a (JAMB 2001)",
+    "questionText": "A form of ownership which exploits the strength of one partner to remedy the weaknesses of the other is a",
     "options": [
       "joint partnership",
       "cooperative",
@@ -9073,7 +9073,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-43-758",
-    "questionText": "The major procedures in the purchase and sale of goods are enquiry (JAMB 2001)",
+    "questionText": "The major procedures in the purchase and sale of goods are enquiry",
     "options": [
       "quotation, order and invoice",
       "placement, order and invoice",
@@ -9085,7 +9085,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-44-755",
-    "questionText": "A merchant wholesaler is referred to as (JAMB 2001)",
+    "questionText": "A merchant wholesaler is referred to as",
     "options": [
       "del-credere agent",
       "a broker",
@@ -9097,7 +9097,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-45-778",
-    "questionText": "Which of these companies offers after-sales services? (JAMB 2001)",
+    "questionText": "Which of these companies offers after-sales services?",
     "options": [
       "IV",
       "Ill",
@@ -9109,7 +9109,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-46-745",
-    "questionText": "Which of the following services does a lawyer render? (JAMB 2001)",
+    "questionText": "Which of the following services does a lawyer render?",
     "options": [
       "industrial services",
       "indirect services",
@@ -9121,7 +9121,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-47-784",
-    "questionText": "Departmentalization is an aspect of (JAMB 2001)",
+    "questionText": "Departmentalization is an aspect of",
     "options": [
       "planning",
       "organizing",
@@ -9133,7 +9133,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-48-770",
-    "questionText": "The significance of money to modern economic systems is that it (JAMB 2001)",
+    "questionText": "The significance of money to modern economic systems is that it",
     "options": [
       "is used as a means payment",
       "promotes specialization and exchange",
@@ -9145,7 +9145,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-49-749",
-    "questionText": "At the collapse of a business enterprise, the person appointed to dispose of the assets is called (JAMB 2001)",
+    "questionText": "At the collapse of a business enterprise, the person appointed to dispose of the assets is called",
     "options": [
       "a broker",
       "an auctioneer",
@@ -9157,7 +9157,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629877-50-774",
-    "questionText": "One of the main objectives of the Second- tier Securities Market in Nigeria is to (JAMB 2001)",
+    "questionText": "One of the main objectives of the Second- tier Securities Market in Nigeria is to",
     "options": [
       "achieve a realistic exchange rate for the naira",
       "eliminate currency dealings in the black market",
@@ -9169,7 +9169,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629878-51-766",
-    "questionText": "The major difference between insurance and assurance is that while insurance (JAMB 2001)",
+    "questionText": "The major difference between insurance and assurance is that while insurance",
     "options": [
       "takes care of uncertainty, assurance takes care of risks",
       "takes care of risks, assurance takes care uncertainty",
@@ -9181,7 +9181,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-52-762",
-    "questionText": "Warehousing is a productive function because it increases the (JAMB 2001)",
+    "questionText": "Warehousing is a productive function because it increases the",
     "options": [
       "quantity of goods",
       "utility of goods",
@@ -9193,7 +9193,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-53-752",
-    "questionText": "I.   Personal Savings, II.   Retained Earnings, III. Accrued Taxes. Which of the items above constitute internal sources of financing for companies? (JAMB 2001)",
+    "questionText": "I.   Personal Savings, II.   Retained Earnings, III. Accrued Taxes. Which of the items above constitute internal sources of financing for companies?",
     "options": [
       "I and II",
       "I and III",
@@ -9205,7 +9205,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-54-751",
-    "questionText": "The financial instrument for borrowing in which the collateral is usually more than the amount borrowed is (JAMB 2001)",
+    "questionText": "The financial instrument for borrowing in which the collateral is usually more than the amount borrowed is",
     "options": [
       "trust certificate",
       "detachable warrant",
@@ -9217,7 +9217,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-55-744",
-    "questionText": "Land as a factor of production does not vary in (JAMB 2001)",
+    "questionText": "Land as a factor of production does not vary in",
     "options": [
       "quantity",
       "nature",
@@ -9229,7 +9229,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-56-783",
-    "questionText": "One of the major functions of a chamber of commerce is to (JAMB 2001)",
+    "questionText": "One of the major functions of a chamber of commerce is to",
     "options": [
       "promote and protect trade, industry and agriculture",
       "advise members on regulations of other countries",
@@ -9241,7 +9241,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-57-776",
-    "questionText": "The most effective type of advertising for branded products is (JAMB 2001)",
+    "questionText": "The most effective type of advertising for branded products is",
     "options": [
       "direct advertising",
       "indirect advertising",
@@ -9253,7 +9253,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-58-775",
-    "questionText": "The activities aimed at finding out customers’ needs and satisfaction can be described as (JAMB 2001)",
+    "questionText": "The activities aimed at finding out customers’ needs and satisfaction can be described as",
     "options": [
       "socio-marketing",
       "macro-marketing",
@@ -9265,7 +9265,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-59-788",
-    "questionText": "One of the obstacles  to achieving the objectives of ECOWAS is (JAMB 2001)",
+    "questionText": "One of the obstacles  to achieving the objectives of ECOWAS is",
     "options": [
       "lack of a common currency",
       "colonial linkages",
@@ -9277,7 +9277,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-60-789",
-    "questionText": "One of the main objectives of establishing the Niger River Basin Commission was to (JAMB 2001)",
+    "questionText": "One of the main objectives of establishing the Niger River Basin Commission was to",
     "options": [
       "embark on a comprehensive survey of the available water resources",
       "carry out research for the development of fresh water fisheries",
@@ -9289,7 +9289,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-61-753",
-    "questionText": "The difference between total current assets and total current liabilities of a business is known as (JAMB 2001)",
+    "questionText": "The difference between total current assets and total current liabilities of a business is known as",
     "options": [
       "quick ratio",
       "liquidity ratio",
@@ -9301,7 +9301,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-62-765",
-    "questionText": "The indemnification of Ama by his insurance company after a fire disaster means that he (JAMB 2001)",
+    "questionText": "The indemnification of Ama by his insurance company after a fire disaster means that he",
     "options": [
       "has been guaranteed by the insurance company",
       "will be cleared of any fault by the insurance company",
@@ -9313,7 +9313,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-63-756",
-    "questionText": "A pro-forma invoice is sent to inform a buyer about the (JAMB 2001)",
+    "questionText": "A pro-forma invoice is sent to inform a buyer about the",
     "options": [
       "quantity of goods",
       "prices of goods",
@@ -9325,7 +9325,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-64-772",
-    "questionText": "The Nigerian Stock Exchange publishes a daily official list that gives full information on the (JAMB 2001)",
+    "questionText": "The Nigerian Stock Exchange publishes a daily official list that gives full information on the",
     "options": [
       "method of transactions agreed to by members",
       "number of participating members in a day",
@@ -9337,7 +9337,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-65-773",
-    "questionText": "The main factors that determine the value stock on the Stock Exchange are dividend an (JAMB 2001)",
+    "questionText": "The main factors that determine the value stock on the Stock Exchange are dividend an",
     "options": [
       "the psychology of the market",
       "capital gain",
@@ -9349,7 +9349,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-66-777",
-    "questionText": "Which of these companies are more engaged in public relations activities? (JAMB 2001)",
+    "questionText": "Which of these companies are more engaged in public relations activities?",
     "options": [
       "I and II",
       "I and III",
@@ -9361,7 +9361,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-67-786",
-    "questionText": "In the line type of organizational structure (JAMB 2001)",
+    "questionText": "In the line type of organizational structure",
     "options": [
       "the lines of authority are vertical",
       "there is the application of division of labour",
@@ -9373,7 +9373,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-68-780",
-    "questionText": "Who is the offeree in this contract? (JAMB 2001)",
+    "questionText": "Who is the offeree in this contract?",
     "options": [
       "Musa",
       "Audu",
@@ -9385,7 +9385,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-69-769",
-    "questionText": "The temporary working area of the central processing unit is called the (JAMB 2001)",
+    "questionText": "The temporary working area of the central processing unit is called the",
     "options": [
       "C-D ROM",
       "C-D RAM",
@@ -9397,7 +9397,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-70-747",
-    "questionText": "One major advantage of a credit and thrift cooperative is that (JAMB 2001)",
+    "questionText": "One major advantage of a credit and thrift cooperative is that",
     "options": [
       "it can approach government for a loan",
       "it encourages saving habits",
@@ -9409,7 +9409,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-71-767",
-    "questionText": "A documentary bill will normally be accompanied by (JAMB 2001)",
+    "questionText": "A documentary bill will normally be accompanied by",
     "options": [
       "sales invoice, bill of lading and insurance certificate",
       "clean bill, bill of lading and insurance certificate",
@@ -9421,7 +9421,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-72-768",
-    "questionText": "Which of the following best describes the classification of computers? (JAMB 2001)",
+    "questionText": "Which of the following best describes the classification of computers?",
     "options": [
       "Mini-computer, speed and size",
       "Micro-computer, cost and abilities",
@@ -9433,7 +9433,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-73-750",
-    "questionText": "Entrusting the management of a company to the courts to enable the settlement of the company’s obligations is an indication of (JAMB 2001)",
+    "questionText": "Entrusting the management of a company to the courts to enable the settlement of the company’s obligations is an indication of",
     "options": [
       "distress",
       "closure",
@@ -9445,7 +9445,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-74-757",
-    "questionText": "The balance of payments of countries is (JAMB 2001)",
+    "questionText": "The balance of payments of countries is",
     "options": [
       "a record of imports and exports",
       "a systematic record of transactions among countries at a given time",
@@ -9457,7 +9457,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-75-743",
-    "questionText": "A distinguishing characteristic of labour is that it is (JAMB 2001)",
+    "questionText": "A distinguishing characteristic of labour is that it is",
     "options": [
       "constant",
       "expensive",
@@ -9469,7 +9469,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-76-771",
-    "questionText": "One major characteristic of credit unions and thrift societies is that (JAMB 2001)",
+    "questionText": "One major characteristic of credit unions and thrift societies is that",
     "options": [
       "the legal processes involved in their formation are rigid",
       "membership compulsory to people in the same line of business",
@@ -9481,7 +9481,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-77-779",
-    "questionText": "Who are the parties to the contract of renting the room? (JAMB 2001)",
+    "questionText": "Who are the parties to the contract of renting the room?",
     "options": [
       "Musa and Jacob",
       "Musa and Audu",
@@ -9493,7 +9493,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-78-746",
-    "questionText": "The partner that only contributes part of the capital used in the formation and running of a business is known as (JAMB 2001)",
+    "questionText": "The partner that only contributes part of the capital used in the formation and running of a business is known as",
     "options": [
       "a passive partner",
       "an active partner",
@@ -9505,7 +9505,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-79-785",
-    "questionText": "A functional organizational structure is where (JAMB 2001)",
+    "questionText": "A functional organizational structure is where",
     "options": [
       "staff performing the same functions are grouped together",
       "departments performing similar functions are grouped together",
@@ -9517,7 +9517,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-80-808",
-    "questionText": "The type of computer commonly found in offices is (JAMB 2002)",
+    "questionText": "The type of computer commonly found in offices is",
     "options": [
       "laptop",
       "desktop",
@@ -9529,7 +9529,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-81-833",
-    "questionText": "The letters E and OE stand for (JAMB 2002)",
+    "questionText": "The letters E and OE stand for",
     "options": [
       "errors of exception",
       "errors and omissions expected",
@@ -9541,7 +9541,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-82-799",
-    "questionText": "The agency in Nigeria which ensures that products conform to government quality specifications is the (JAMB 2002)",
+    "questionText": "The agency in Nigeria which ensures that products conform to government quality specifications is the",
     "options": [
       "Standards Organization of Nigeria",
       "Nigerian Consumers’ Association",
@@ -9553,7 +9553,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-83-823",
-    "questionText": "The total of the share capital which a company would be allowed to issue is known as (JAMB 2002)",
+    "questionText": "The total of the share capital which a company would be allowed to issue is known as",
     "options": [
       "called-up capital",
       "paid-up capital",
@@ -9565,7 +9565,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-84-818",
-    "questionText": "The organizational structure that relates the positions of specialists to the line managers is called (JAMB 2002)",
+    "questionText": "The organizational structure that relates the positions of specialists to the line managers is called",
     "options": [
       "line structure",
       "staff structure",
@@ -9577,7 +9577,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-85-802",
-    "questionText": "An author’s exclusive right to his published an unpublished works is known as (JAMB 2002)",
+    "questionText": "An author’s exclusive right to his published an unpublished works is known as",
     "options": [
       "authors right",
       "constitutional right",
@@ -9589,7 +9589,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-86-809",
-    "questionText": "The mode of transporting crude oil to the ports for export purposes is by (JAMB 2002)",
+    "questionText": "The mode of transporting crude oil to the ports for export purposes is by",
     "options": [
       "tanker",
       "rail",
@@ -9601,7 +9601,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-87-831",
-    "questionText": "In product pricing, which of these elements needs more consideration than others? (JAMB 2002)",
+    "questionText": "In product pricing, which of these elements needs more consideration than others?",
     "options": [
       "the demand for the product",
       "the demography of the buyers of the product",
@@ -9613,7 +9613,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-88-828",
-    "questionText": "Which of the following industries is normally located near the \tsource of its raw materials? (JAMB 2002)",
+    "questionText": "Which of the following industries is normally located near the \tsource of its raw materials?",
     "options": [
       "Footwear industry",
       "Cement industry",
@@ -9625,7 +9625,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-89-794",
-    "questionText": "Capital as a factor of production can be used as (JAMB 2002)",
+    "questionText": "Capital as a factor of production can be used as",
     "options": [
       "money that is regarded as asset",
       "goods that are useful in business",
@@ -9637,7 +9637,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629880-90-819",
-    "questionText": "A wholesaler who possesses the tittle to the goods he sells is known as (JAMB 2002)",
+    "questionText": "A wholesaler who possesses the tittle to the goods he sells is known as",
     "options": [
       "a merchant wholesaler",
       "a multiple wholesaler",
@@ -9649,7 +9649,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-91-805",
-    "questionText": "Which of these insurance principles requires a close connection between the actual loss suffered and the risk insured (JAMB 2002)",
+    "questionText": "Which of these insurance principles requires a close connection between the actual loss suffered and the risk insured",
     "options": [
       "Indemnity",
       "Proximate cause",
@@ -9661,7 +9661,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-92-792",
-    "questionText": "The major responsibility of an entrepreneur is (JAMB 2002)",
+    "questionText": "The major responsibility of an entrepreneur is",
     "options": [
       "employing all factors of production in the business",
       "coordinating and determining the proportion of what to produce",
@@ -9673,7 +9673,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-93-798",
-    "questionText": "A core investor in the current phase of privatization in Nigeria is one who (JAMB 2002)",
+    "questionText": "A core investor in the current phase of privatization in Nigeria is one who",
     "options": [
       "can afford to buy most the shares of the enterprises",
       "will be at the core of the enterprises",
@@ -9685,7 +9685,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-94-807",
-    "questionText": "Which of the following is used to inform the addressee that a registered parcel is ready for collection? (JAMB 2002)",
+    "questionText": "Which of the following is used to inform the addressee that a registered parcel is ready for collection?",
     "options": [
       "Express label",
       "Counterfoil",
@@ -9697,7 +9697,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-95-790",
-    "questionText": "The most important factor that delayed the development of commerce in Nigeria was (JAMB 2002)",
+    "questionText": "The most important factor that delayed the development of commerce in Nigeria was",
     "options": [
       "the inefficient means of communication",
       "that there were few entrepreneurs",
@@ -9709,7 +9709,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-96-801",
-    "questionText": "The commercialization of public enterprises aimed at (JAMB 2002)",
+    "questionText": "The commercialization of public enterprises aimed at",
     "options": [
       "increasing efficiency and making the enterprises self-sufficient",
       "advertising a promoting the goods and services of the enterprises",
@@ -9721,7 +9721,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-97-814",
-    "questionText": "A retail cooperative society aims at (JAMB 2002)",
+    "questionText": "A retail cooperative society aims at",
     "options": [
       "hoarding manufactured goods",
       "cutting off the profit of middlemen",
@@ -9733,7 +9733,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-98-836",
-    "questionText": "Which of the following is an example of trade associations? (JAMB 2002)",
+    "questionText": "Which of the following is an example of trade associations?",
     "options": [
       "European Union",
       "National Marketing Board",
@@ -9745,7 +9745,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-99-837",
-    "questionText": "Which of the following determines the quality of goods that a retailer sells (JAMB 2002)",
+    "questionText": "Which of the following determines the quality of goods that a retailer sells",
     "options": [
       "The mode of contract of sales",
       "The type of manufacturer",
@@ -9757,7 +9757,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-100-824",
-    "questionText": "The process of mobilizing, engaging  and maintaining workers to work for an organization is referred to as (JAMB 2002)",
+    "questionText": "The process of mobilizing, engaging  and maintaining workers to work for an organization is referred to as",
     "options": [
       "staffing",
       "selection",
@@ -9769,7 +9769,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-101-822",
-    "questionText": "A contract for the sale of goods involves the (JAMB 2002)",
+    "questionText": "A contract for the sale of goods involves the",
     "options": [
       "producer, seller and the buyer of goods",
       "offering of goods to customers",
@@ -9781,7 +9781,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-102-816",
-    "questionText": "The document issued by the seller which gives details of the goods he sells is known as (JAMB 2002)",
+    "questionText": "The document issued by the seller which gives details of the goods he sells is known as",
     "options": [
       "catalogue",
       "tender",
@@ -9793,7 +9793,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-103-830",
-    "questionText": "Securities on which the buyers are not issued with certificates are called (JAMB 2002)",
+    "questionText": "Securities on which the buyers are not issued with certificates are called",
     "options": [
       "authorized securities",
       "inscribed securities",
@@ -9805,7 +9805,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-104-797",
-    "questionText": "Which of the following countries are members the Lake Chad Basin Commission? (JAMB 2002)",
+    "questionText": "Which of the following countries are members the Lake Chad Basin Commission?",
     "options": [
       "Niger and Cameroun",
       "Benin and Niger",
@@ -9817,7 +9817,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-105-817",
-    "questionText": "Given:  I.Retail; II.Export; III.Transport; IV.Import; V.Insurance; VI.Banking and finance; VII. Wholesale; VIII. Communication. Which of the above are aids to trade? (JAMB 2002)",
+    "questionText": "Given:  I.Retail; II.Export; III.Transport; IV.Import; V.Insurance; VI.Banking and finance; VII. Wholesale; VIII. Communication. Which of the above are aids to trade?",
     "options": [
       "I, II, III and VIII",
       "III, V, VI and VIII",
@@ -9829,7 +9829,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-106-812",
-    "questionText": "Debentures differ from shares in that (JAMB 2002)",
+    "questionText": "Debentures differ from shares in that",
     "options": [
       "they are secured on the company’s assets",
       "ownership is open to the public",
@@ -9841,7 +9841,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-107-815",
-    "questionText": "A bill of exchange already accepted can be discounted by the holder in (JAMB 2002)",
+    "questionText": "A bill of exchange already accepted can be discounted by the holder in",
     "options": [
       "the central bank",
       "at least two banks",
@@ -9853,7 +9853,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-108-832",
-    "questionText": "The principal objectives of the Central Bank of Nigeria can be classified broadly into (JAMB 2002)",
+    "questionText": "The principal objectives of the Central Bank of Nigeria can be classified broadly into",
     "options": [
       "bankers’ bank, lender of last resort and issuance of currency",
       "service, currency management and financial intermediation",
@@ -9865,7 +9865,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-109-795",
-    "questionText": "The agency that currently oversees the privatization and commercialization processes in Nigeria is the (JAMB 2002)",
+    "questionText": "The agency that currently oversees the privatization and commercialization processes in Nigeria is the",
     "options": [
       "Securities and Exchange Commission",
       "Technical Committee on Privatization and Commercialization",
@@ -9877,7 +9877,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-110-800",
-    "questionText": "Awarding scholarships and sponsoring sports by a business organization are examples of (JAMB 2002)",
+    "questionText": "Awarding scholarships and sponsoring sports by a business organization are examples of",
     "options": [
       "advertising strategy",
       "economic responsibility",
@@ -9889,7 +9889,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-111-825",
-    "questionText": "Recognized members of the Stock Exchange who buy and sell securities on their own behalf are known as (JAMB 2002)",
+    "questionText": "Recognized members of the Stock Exchange who buy and sell securities on their own behalf are known as",
     "options": [
       "bolls",
       "jobbers",
@@ -9901,7 +9901,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-112-834",
-    "questionText": "An important issue for consideration in the product element of the marketing mix is the (JAMB 2002)",
+    "questionText": "An important issue for consideration in the product element of the marketing mix is the",
     "options": [
       "adequate promotion of the product",
       "channel of distribution of the product",
@@ -9913,7 +9913,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-113-821",
-    "questionText": "A company that is registered with the Corporate Affairs Commission only without being enlisted on the Stock Exchange is a (JAMB 2002)",
+    "questionText": "A company that is registered with the Corporate Affairs Commission only without being enlisted on the Stock Exchange is a",
     "options": [
       "public liability company",
       "joint venture company",
@@ -9925,7 +9925,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-114-827",
-    "questionText": "Which of the following is a function of employers’ association? (JAMB 2002)",
+    "questionText": "Which of the following is a function of employers’ association?",
     "options": [
       "Undertaking research on behalf of employees",
       "Promotion of thrift in workers",
@@ -9937,7 +9937,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-115-803",
-    "questionText": "Under the endowment policy, the money handed over to the insured at the expiration of the stipulated time or at death is the (JAMB 2002)",
+    "questionText": "Under the endowment policy, the money handed over to the insured at the expiration of the stipulated time or at death is the",
     "options": [
       "indemnity",
       "surrender value",
@@ -9949,7 +9949,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-116-810",
-    "questionText": "The temporary insurance certificate issued to the insured before drawing up a policy is a (JAMB 2002)",
+    "questionText": "The temporary insurance certificate issued to the insured before drawing up a policy is a",
     "options": [
       "cover note",
       "testimonial",
@@ -9961,7 +9961,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-117-826",
-    "questionText": "Which of the following involves foreign trade? (JAMB 2002)",
+    "questionText": "Which of the following involves foreign trade?",
     "options": [
       "Supermarkets",
       "Chain stores",
@@ -9973,7 +9973,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-118-839",
-    "questionText": "The founders’ shares are usually referred to as deferred shares because the holders (JAMB 2002)",
+    "questionText": "The founders’ shares are usually referred to as deferred shares because the holders",
     "options": [
       "are entitled to cumulative dividends",
       "receive their dividends after other shareholders",
@@ -9985,7 +9985,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-119-838",
-    "questionText": "An advantage of hire purchase to the consumer is the (JAMB 2002)",
+    "questionText": "An advantage of hire purchase to the consumer is the",
     "options": [
       "economies of scale in production",
       "possession of goods before payment",
@@ -9997,7 +9997,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-120-887",
-    "questionText": "Public debt management is one of the functions of a (JAMB 2003)",
+    "questionText": "Public debt management is one of the functions of a",
     "options": [
       "merchant bank",
       "central bank",
@@ -10009,7 +10009,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-121-855",
-    "questionText": "The type of marine insurance which covers either damage or loss to the vessel and such as caused by it to other vessels is (JAMB 2003)",
+    "questionText": "The type of marine insurance which covers either damage or loss to the vessel and such as caused by it to other vessels is",
     "options": [
       "hull insurance",
       "time insurance",
@@ -10021,7 +10021,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-122-854",
-    "questionText": "The focal point of marketing is (JAMB 2003)",
+    "questionText": "The focal point of marketing is",
     "options": [
       "the competitor",
       "the buyer",
@@ -10033,7 +10033,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-123-870",
-    "questionText": "The government’s policy thrust on the business environment is to (JAMB 2003)",
+    "questionText": "The government’s policy thrust on the business environment is to",
     "options": [
       "promote experts",
       "attract investors",
@@ -10045,7 +10045,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-124-844",
-    "questionText": "A pattern that shows the kinds of participants involved in the production, distribution and ultimate use of a product is referred to as (JAMB 2003)",
+    "questionText": "A pattern that shows the kinds of participants involved in the production, distribution and ultimate use of a product is referred to as",
     "options": [
       "selection",
       "strategy",
@@ -10057,7 +10057,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-125-847",
-    "questionText": "How much was the trade discount? (JAMB 2003)",
+    "questionText": "How much was the trade discount?",
     "options": [
       "N42,500",
       "N27,500",
@@ -10069,7 +10069,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-126-842",
-    "questionText": "The right  of ownership with respect to goods or property is (JAMB 2003)",
+    "questionText": "The right  of ownership with respect to goods or property is",
     "options": [
       "right of occupancy",
       "proxy",
@@ -10081,7 +10081,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-127-876",
-    "questionText": "A major benefit derivable from the privatization and commercialization of public enterprises in Nigeria is (JAMB 2003)",
+    "questionText": "A major benefit derivable from the privatization and commercialization of public enterprises in Nigeria is",
     "options": [
       "increase in wages",
       "employment generation",
@@ -10093,7 +10093,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-128-875",
-    "questionText": "Electronic computers differ from human beings in that they process data and minimize errors in a (JAMB 2003)",
+    "questionText": "Electronic computers differ from human beings in that they process data and minimize errors in a",
     "options": [
       "faster and more accurate manner",
       "more organized manner",
@@ -10105,7 +10105,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-129-841",
-    "questionText": "An obstacle to international trade is (JAMB 2003)",
+    "questionText": "An obstacle to international trade is",
     "options": [
       "trade imbalance between countries",
       "availability of local market",
@@ -10117,7 +10117,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-130-868",
-    "questionText": "One of the requirements necessary for setting up a business is (JAMB 2003)",
+    "questionText": "One of the requirements necessary for setting up a business is",
     "options": [
       "registration",
       "advertisement",
@@ -10129,7 +10129,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-131-857",
-    "questionText": "One of the functions of seaports is the provision of (JAMB 2003)",
+    "questionText": "One of the functions of seaports is the provision of",
     "options": [
       "berthing and landing facilities",
       "loading and off-loading facilities",
@@ -10141,7 +10141,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-132-852",
-    "questionText": "The payment made periodically in respect of an insurance policy entered into is known as (JAMB 2003)",
+    "questionText": "The payment made periodically in respect of an insurance policy entered into is known as",
     "options": [
       "bond",
       "commission",
@@ -10153,7 +10153,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-133-871",
-    "questionText": "Social responsibility is the ability of an organization to (JAMB 2003)",
+    "questionText": "Social responsibility is the ability of an organization to",
     "options": [
       "tackle the socio-economic problem of its community",
       "meet the needs of its community",
@@ -10165,7 +10165,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-134-843",
-    "questionText": "The main motive of chambers of commerce and trade associations is to (JAMB 2003)",
+    "questionText": "The main motive of chambers of commerce and trade associations is to",
     "options": [
       "assist government in achieving its objectives",
       "protect the interest of consumers",
@@ -10177,7 +10177,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-135-869",
-    "questionText": "The assembling of products into usable forms is known as (JAMB 2003)",
+    "questionText": "The assembling of products into usable forms is known as",
     "options": [
       "construction",
       "manufacturing",
@@ -10189,7 +10189,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-136-866",
-    "questionText": "The location of a business is mostly influenced by (JAMB 2003)",
+    "questionText": "The location of a business is mostly influenced by",
     "options": [
       "market outlet",
       "management decision",
@@ -10201,7 +10201,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-137-881",
-    "questionText": "Banks are engaged in the business of buying and selling of (JAMB 2003)",
+    "questionText": "Banks are engaged in the business of buying and selling of",
     "options": [
       "bills of exchange",
       "instruments of credit",
@@ -10213,7 +10213,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-138-873",
-    "questionText": "The ECOBANK is the initiative of (JAMB 2003)",
+    "questionText": "The ECOBANK is the initiative of",
     "options": [
       "some well-meaning Nigerian shareholders",
       "the Federal Government of Nigeria",
@@ -10225,7 +10225,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-139-850",
-    "questionText": "A guarantee given by one person or party to another in which \tthe integrity of the person is assured is (JAMB 2003)",
+    "questionText": "A guarantee given by one person or party to another in which \tthe integrity of the person is assured is",
     "options": [
       "fidelity",
       "term assurance",
@@ -10237,7 +10237,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-140-877",
-    "questionText": "The device which interprets and carries out the instructions presented to it by the computer program is known as (JAMB 2003)",
+    "questionText": "The device which interprets and carries out the instructions presented to it by the computer program is known as",
     "options": [
       "software",
       "microprocessor",
@@ -10249,7 +10249,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-141-849",
-    "questionText": "The concept that refers to the sale, transfer or exchange of goods and services is (JAMB 2003)",
+    "questionText": "The concept that refers to the sale, transfer or exchange of goods and services is",
     "options": [
       "industry",
       "trade",
@@ -10261,7 +10261,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-142-880",
-    "questionText": "The most widely used computer language that focuses on solving science-oriented problems is (JAMB 2003)",
+    "questionText": "The most widely used computer language that focuses on solving science-oriented problems is",
     "options": [
       "FORTRAN",
       "BASIC",
@@ -10273,7 +10273,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-143-884",
-    "questionText": "An essential factor for evaluating the different sources of funds for a business is the (JAMB 2003)",
+    "questionText": "An essential factor for evaluating the different sources of funds for a business is the",
     "options": [
       "decree establishing the business",
       "ownership structure of the business concern",
@@ -10285,7 +10285,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-144-872",
-    "questionText": "The act of a person employing another to enter into a contract on his behalf is known as (JAMB 2003)",
+    "questionText": "The act of a person employing another to enter into a contract on his behalf is known as",
     "options": [
       "business",
       "sale of goods",
@@ -10297,7 +10297,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-145-864",
-    "questionText": "The business organization established mainly for the purpose of carrying out specific assignments for a specific duration is a (JAMB 2003)",
+    "questionText": "The business organization established mainly for the purpose of carrying out specific assignments for a specific duration is a",
     "options": [
       "joint venture",
       "cooperative society",
@@ -10309,7 +10309,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-146-846",
-    "questionText": "What was the amount paid by Ojo? (JAMB 2003)",
+    "questionText": "What was the amount paid by Ojo?",
     "options": [
       "N382,500",
       "N425,000",
@@ -10321,7 +10321,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-147-883",
-    "questionText": "The body charged with the responsibility to register shares for subscription on the stock market in Nigeria is the (JAMB 2003)",
+    "questionText": "The body charged with the responsibility to register shares for subscription on the stock market in Nigeria is the",
     "options": [
       "Securities and Exchange Commission",
       "Nigerian Stock Exchange",
@@ -10333,7 +10333,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-148-861",
-    "questionText": "A functional structure is an organizational structure in which (JAMB 2003)",
+    "questionText": "A functional structure is an organizational structure in which",
     "options": [
       "abstract rules are applied",
       "equity prevails",
@@ -10345,7 +10345,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-149-878",
-    "questionText": "The market structure, business conditions and financial systems in Nigeria constitute the (JAMB 2003)",
+    "questionText": "The market structure, business conditions and financial systems in Nigeria constitute the",
     "options": [
       "economic environment",
       "political environment",
@@ -10357,7 +10357,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-150-848",
-    "questionText": "The basic function of the Nigerian Ports Authority is to (JAMB 2003)",
+    "questionText": "The basic function of the Nigerian Ports Authority is to",
     "options": [
       "ensure that the right caliber of personnel is employed at the ports",
       "coordinate and regulate the activities of shipping lines",
@@ -10369,7 +10369,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-151-879",
-    "questionText": "The protection of consumers against exploitation by manufacturers is to ensure (JAMB 2003)",
+    "questionText": "The protection of consumers against exploitation by manufacturers is to ensure",
     "options": [
       "that there are varieties of products",
       "that the right quality of goods and services is sold",
@@ -10381,7 +10381,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-152-859",
-    "questionText": "Communication process involves the transmission of a message over a selected channel to the (JAMB 2003)",
+    "questionText": "Communication process involves the transmission of a message over a selected channel to the",
     "options": [
       "receiver",
       "audience",
@@ -10393,7 +10393,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-153-886",
-    "questionText": "A type of  long-term loan granted to companies with fixed interest as well as with redeemable and irredeemable features is referred to as (JAMB 2003)",
+    "questionText": "A type of  long-term loan granted to companies with fixed interest as well as with redeemable and irredeemable features is referred to as",
     "options": [
       "a debenture",
       "a bond",
@@ -10405,7 +10405,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-154-867",
-    "questionText": "The evolution of commerce in Nigeria is traceable to the (JAMB 2003)",
+    "questionText": "The evolution of commerce in Nigeria is traceable to the",
     "options": [
       "period of barter economy as human needs became limitless",
       "desire by human beings to satisfy their needs through the services of other people in the society",
@@ -10417,7 +10417,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-155-874",
-    "questionText": "Privatization is concerned with (JAMB 2003)",
+    "questionText": "Privatization is concerned with",
     "options": [
       "equal ownership between the public and the government",
       "the dilution of ownership among the public",
@@ -10429,7 +10429,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-156-860",
-    "questionText": "Stimulation of demand is a kind of communication in marketing which connotes (JAMB 2003)",
+    "questionText": "Stimulation of demand is a kind of communication in marketing which connotes",
     "options": [
       "personal selling",
       "sales promotion",
@@ -10441,7 +10441,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-157-862",
-    "questionText": "Entrepreneurship mainly involves (JAMB 2003)",
+    "questionText": "Entrepreneurship mainly involves",
     "options": [
       "risk-taking",
       "initiating",
@@ -10453,7 +10453,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-158-840",
-    "questionText": "An example of a service -rendering trade association is (JAMB 2003)",
+    "questionText": "An example of a service -rendering trade association is",
     "options": [
       "Nigerian Bar Association",
       "Association of Nigerian Miners",
@@ -10465,7 +10465,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-159-882",
-    "questionText": "A source of short-term finance to companies is (JAMB 2003)",
+    "questionText": "A source of short-term finance to companies is",
     "options": [
       "share capital",
       "debentures",
@@ -10477,7 +10477,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-160-26",
-    "questionText": "In international trade, documentary credit is also known as    (JAMB 2004)",
+    "questionText": "In international trade, documentary credit is also known as",
     "options": [
       "credit note",
       "letters of credit",
@@ -10489,7 +10489,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-161-17",
-    "questionText": "Poor sewage disposal, oil spill and indiscriminate refuse dumping all  (JAMB 2004)",
+    "questionText": "Poor sewage disposal, oil spill and indiscriminate refuse dumping all",
     "options": [
       "lead to land pollution",
       "water pollution",
@@ -10501,7 +10501,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-162-47",
-    "questionText": "The use of vending machines in retailing is hindered in a developing economy owing to (JAMB 2004)",
+    "questionText": "The use of vending machines in retailing is hindered in a developing economy owing to",
     "options": [
       "poor distribution network",
       "low level of education",
@@ -10513,7 +10513,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-163-6",
-    "questionText": "An insured risk which occurs accidentally as a result of defects in a ship is (JAMB 2004)",
+    "questionText": "An insured risk which occurs accidentally as a result of defects in a ship is",
     "options": [
       "a voyage policy",
       "a total loss",
@@ -10525,7 +10525,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-164-41",
-    "questionText": "Loan schemes by thrift societies are  (JAMB 2004)",
+    "questionText": "Loan schemes by thrift societies are",
     "options": [
       "mortgage schemes",
       "conventional schemes",
@@ -10537,7 +10537,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-165-23",
-    "questionText": "The instruments of credit include  (JAMB 2004)",
+    "questionText": "The instruments of credit include",
     "options": [
       "billboards and postal stamps",
       "payment vouchers and statement of account",
@@ -10549,7 +10549,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-166-32",
-    "questionText": "A written partnership contract is known as (JAMB 2004)",
+    "questionText": "A written partnership contract is known as",
     "options": [
       "an invoice",
       "a deed",
@@ -10561,7 +10561,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-167-24",
-    "questionText": "The shares of a company listed on the stock exchange for sale are referred to as (JAMB 2004)",
+    "questionText": "The shares of a company listed on the stock exchange for sale are referred to as",
     "options": [
       "registered shares",
       "deferred shares",
@@ -10573,7 +10573,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-168-16",
-    "questionText": "A transporter who had to sell some perishable goods without the prior authority of the owner  becomes an agent by    (JAMB 2004)",
+    "questionText": "A transporter who had to sell some perishable goods without the prior authority of the owner  becomes an agent by",
     "options": [
       "conduct",
       "necessity",
@@ -10585,7 +10585,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-169-5",
-    "questionText": "Coverage against unexpected events is called (JAMB 2004)",
+    "questionText": "Coverage against unexpected events is called",
     "options": [
       "insurance",
       "assurance",
@@ -10597,7 +10597,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-170-35",
-    "questionText": "What does v represent? (JAMB 2004)",
+    "questionText": "What does v represent?",
     "options": [
       "Aids to trade",
       "Advertising",
@@ -10609,7 +10609,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629881-171-43",
-    "questionText": "The term 4 net 7 on an invoice means that (JAMB 2004)",
+    "questionText": "The term 4 net 7 on an invoice means that",
     "options": [
       "4% surcharge will be made unless payment is made within seven days",
       "4% discount will be allowed on the price charged only if the goods are bought within seven days",
@@ -10621,7 +10621,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-172-30",
-    "questionText": "An action taken by a company outside its object clause is regarded as  (JAMB 2004)",
+    "questionText": "An action taken by a company outside its object clause is regarded as",
     "options": [
       "ultra vires",
       "a trespass",
@@ -10633,7 +10633,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-173-36",
-    "questionText": "The most important function of commerce is (JAMB 2004)",
+    "questionText": "The most important function of commerce is",
     "options": [
       "helping people to improve their profits",
       "facilitating exchanges among individuals and firms",
@@ -10645,7 +10645,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-174-39",
-    "questionText": "Factors of production can be described as the (JAMB 2004)",
+    "questionText": "Factors of production can be described as the",
     "options": [
       "resources required for the provision of goods and services",
       "skills involved in deciding and directing the flow of goods",
@@ -10657,7 +10657,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-175-1",
-    "questionText": "Ships that sail across the ocean and operate on scheduled time are  (JAMB 2004)",
+    "questionText": "Ships that sail across the ocean and operate on scheduled time are",
     "options": [
       "ferries",
       "ocean liners",
@@ -10669,7 +10669,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-176-3",
-    "questionText": "The program that makes up the operating system in a computer is          (JAMB 2004)",
+    "questionText": "The program that makes up the operating system in a computer is",
     "options": [
       "micro program",
       "system flowchart",
@@ -10681,7 +10681,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-177-42",
-    "questionText": "An internal demand for goods to be purchased or drawn from stock is (JAMB 2004)",
+    "questionText": "An internal demand for goods to be purchased or drawn from stock is",
     "options": [
       "a quotation",
       "a requisition",
@@ -10693,7 +10693,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-178-44",
-    "questionText": "An order sent by an importer to an overseas supplier stating the details of goods required is known as    (JAMB 2004)",
+    "questionText": "An order sent by an importer to an overseas supplier stating the details of goods required is known as",
     "options": [
       "A export invoice",
       "ship's manifest",
@@ -10705,7 +10705,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-179-28",
-    "questionText": "A group of assets which a business acquires with the intention of reselling them are referred to as (JAMB 2004)",
+    "questionText": "A group of assets which a business acquires with the intention of reselling them are referred to as",
     "options": [
       "current assets",
       "investment assets",
@@ -10717,7 +10717,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-180-38",
-    "questionText": "Commerce includes all the occupations concerned with  (JAMB 2004)",
+    "questionText": "Commerce includes all the occupations concerned with",
     "options": [
       "sales",
       "production",
@@ -10729,7 +10729,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-181-31",
-    "questionText": "The strategy adopted by a firm that ceases to operate at one or more locations because of inactivity is   (JAMB 2004)",
+    "questionText": "The strategy adopted by a firm that ceases to operate at one or more locations because of inactivity is",
     "options": [
       "rejuvenation",
       "focus",
@@ -10741,7 +10741,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-182-40",
-    "questionText": "Fluctuations in the supply of goods may be eliminated if the distribution system maintains (JAMB 2004)",
+    "questionText": "Fluctuations in the supply of goods may be eliminated if the distribution system maintains",
     "options": [
       "modern technology",
       "a team of retailers",
@@ -10753,7 +10753,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-183-33",
-    "questionText": "The merger of a textile mill, a cement company and a tannery is referred to as  (JAMB 2004)",
+    "questionText": "The merger of a textile mill, a cement company and a tannery is referred to as",
     "options": [
       "conglomerate merger",
       "horizontal merger",
@@ -10765,7 +10765,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-184-10",
-    "questionText": "The current highest decision-making body on  privatization and commercialization of public enterprises in Nigeria is the (JAMB 2004)",
+    "questionText": "The current highest decision-making body on  privatization and commercialization of public enterprises in Nigeria is the",
     "options": [
       "National Council on Privatization",
       "Securities and Exchange Commission",
@@ -10777,7 +10777,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-185-25",
-    "questionText": "What is the role of the capital market in the privatization exercise in Nigeria?     (JAMB 2004)",
+    "questionText": "What is the role of the capital market in the privatization exercise in Nigeria?",
     "options": [
       "Selling the shares and stocks of the companies to be privatized",
       "Encouraging private companies to participate in the exercise",
@@ -10789,7 +10789,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-186-49",
-    "questionText": "Discounts offered by firms to middlemen for bulk purchases are  (JAMB 2004)",
+    "questionText": "Discounts offered by firms to middlemen for bulk purchases are",
     "options": [
       "A trade discounts",
       "sales bonanza",
@@ -10801,7 +10801,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-187-15",
-    "questionText": "In Nigeria, the body that ensures that its members operate according to their professional ethics is the    (JAMB 2004)",
+    "questionText": "In Nigeria, the body that ensures that its members operate according to their professional ethics is the",
     "options": [
       "SON",
       "NPF",
@@ -10813,7 +10813,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-188-4",
-    "questionText": "When an organization studies a market that is underserved by others and creates a product or service for the segment, it is engaged in (JAMB 2004)",
+    "questionText": "When an organization studies a market that is underserved by others and creates a product or service for the segment, it is engaged in",
     "options": [
       "market integration",
       "market positioning",
@@ -10825,7 +10825,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-189-8",
-    "questionText": "In business, the computer is very important  especially in   (JAMB 2004)",
+    "questionText": "In business, the computer is very important  especially in",
     "options": [
       "financial management",
       "marketing management",
@@ -10837,7 +10837,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-190-2",
-    "questionText": "Non-insurable risks include  (JAMB 2004)",
+    "questionText": "Non-insurable risks include",
     "options": [
       "gambling",
       "damage to property",
@@ -10849,7 +10849,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-191-19",
-    "questionText": "A common element in all contracts is     (JAMB 2004)",
+    "questionText": "A common element in all contracts is",
     "options": [
       "offer",
       "consideration",
@@ -10861,7 +10861,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-192-29",
-    "questionText": "Authorized share capital is also known as (JAMB 2004)",
+    "questionText": "Authorized share capital is also known as",
     "options": [
       "called-up share capital",
       "paid-up share capital",
@@ -10873,7 +10873,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-193-27",
-    "questionText": "A specialized institution in Nigeria that deals in  capital investments in the form of stocks, shares, bonds and debentures is the  (JAMB 2004)",
+    "questionText": "A specialized institution in Nigeria that deals in  capital investments in the form of stocks, shares, bonds and debentures is the",
     "options": [
       "Securities and Exchange Commission",
       "commodity market",
@@ -10885,7 +10885,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-194-13",
-    "questionText": "Consumer rights include the right to    (JAMB 2004)",
+    "questionText": "Consumer rights include the right to",
     "options": [
       "credit",
       "free samples of a product",
@@ -10897,7 +10897,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-195-50",
-    "questionText": "Goods are  of merchantable  quality if they (JAMB 2004)",
+    "questionText": "Goods are  of merchantable  quality if they",
     "options": [
       "conform to description",
       "are of equal weight",
@@ -10909,7 +10909,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-196-18",
-    "questionText": "One of the advantages of commercialization is that it (JAMB 2004)",
+    "questionText": "One of the advantages of commercialization is that it",
     "options": [
       "encourages entrepreneurship",
       "increases the salaries of workers",
@@ -10921,7 +10921,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-197-7",
-    "questionText": "Communication enhances business activities by (JAMB 2004)",
+    "questionText": "Communication enhances business activities by",
     "options": [
       "facilitating interaction between producers and consumers",
       "facilitating interaction among media houses",
@@ -10933,7 +10933,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-198-22",
-    "questionText": "In the primary market, new shares are issued  through   (JAMB 2004)",
+    "questionText": "In the primary market, new shares are issued  through",
     "options": [
       "personal selling, publicity and advertising",
       "a prospectus, an offer for sale and a bill of exchange",
@@ -10945,7 +10945,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-199-46",
-    "questionText": "International fade takes place as a result of (JAMB 2004)",
+    "questionText": "International fade takes place as a result of",
     "options": [
       "uniformity in costs of production",
       "inequitable distribution of natural resources",
@@ -10957,7 +10957,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-200-66",
-    "questionText": "The   media    used   for   inter-departmental communication include. (JAMB 2005)",
+    "questionText": "The   media    used   for   inter-departmental communication include.",
     "options": [
       "circulars, advertisement and notice boards",
       "memoranda, circulars and the telephone",
@@ -10969,7 +10969,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-201-98",
-    "questionText": "A good financial instrument which serves as a  hedge against inflation is  (JAMB 2005)",
+    "questionText": "A good financial instrument which serves as a  hedge against inflation is",
     "options": [
       "a bond",
       "a share",
@@ -10981,7 +10981,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-202-59",
-    "questionText": "The compensation the insured gets depends heavily on the  (JAMB 2005)",
+    "questionText": "The compensation the insured gets depends heavily on the",
     "options": [
       "economic situation",
       "premium paid",
@@ -10993,7 +10993,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-203-95",
-    "questionText": "The major participants in the stock market when stock prices are rising generally are the (JAMB 2005)",
+    "questionText": "The major participants in the stock market when stock prices are rising generally are the",
     "options": [
       "bulls",
       "registrars",
@@ -11005,7 +11005,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-204-60",
-    "questionText": "The computer that functions by taking discrete numbers and  performing mathematical calculations is called  (JAMB 2005)",
+    "questionText": "The computer that functions by taking discrete numbers and  performing mathematical calculations is called",
     "options": [
       "mainframe",
       "digital",
@@ -11017,7 +11017,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-205-65",
-    "questionText": "The best means of sending unwritten messages simultaneously   to   many   branches   of  an organization within a country is the (JAMB 2005)",
+    "questionText": "The best means of sending unwritten messages simultaneously   to   many   branches   of  an organization within a country is the",
     "options": [
       "television",
       "telephone",
@@ -11029,7 +11029,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-206-71",
-    "questionText": "In GIF contracts, risk passes at the time of shipment but the property does not pass until (JAMB 2005)",
+    "questionText": "In GIF contracts, risk passes at the time of shipment but the property does not pass until",
     "options": [
       "there is physical transfer of goods",
       "the shipping manifests are signed",
@@ -11041,7 +11041,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-207-56",
-    "questionText": "The most important right of the employee in discharging his duties to the employer is the right to  (JAMB 2005)",
+    "questionText": "The most important right of the employee in discharging his duties to the employer is the right to",
     "options": [
       "regular emoluments",
       "job security",
@@ -11053,7 +11053,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-208-78",
-    "questionText": "An engineer in government employ is to be rendering    (JAMB 2005)",
+    "questionText": "An engineer in government employ is to be rendering",
     "options": [
       "primary service",
       "tertiary service",
@@ -11065,7 +11065,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-209-70",
-    "questionText": "The factors essential for tourism are (JAMB 2005)",
+    "questionText": "The factors essential for tourism are",
     "options": [
       "accessibility, capital, amenities and schools",
       "goods weather, amenities, accessibility and scenery.",
@@ -11077,7 +11077,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-210-61",
-    "questionText": "Commercialization of government corporations brings about an increase in the level of (JAMB 2005)",
+    "questionText": "Commercialization of government corporations brings about an increase in the level of",
     "options": [
       "money supply in the economy",
       "distrust among business operators",
@@ -11089,7 +11089,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-211-53",
-    "questionText": "Which part of the computer system does the keyboard device belong to?  (JAMB 2005)",
+    "questionText": "Which part of the computer system does the keyboard device belong to?",
     "options": [
       "Output unit",
       "Logic unit",
@@ -11101,7 +11101,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-212-73",
-    "questionText": "One of the disadvantages of sole proprietorship is (JAMB 2005)",
+    "questionText": "One of the disadvantages of sole proprietorship is",
     "options": [
       "secrecy of annual reports",
       "pride of ownership",
@@ -11113,7 +11113,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-213-86",
-    "questionText": "The association that comprises all types of businesses is referred to as (JAMB 2005)",
+    "questionText": "The association that comprises all types of businesses is referred to as",
     "options": [
       "chamber of commerce",
       "trust",
@@ -11125,7 +11125,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-214-81",
-    "questionText": "A cheque drawn by a bank official on the bank's deposits in another bank on a customer's instructions is known as  (JAMB 2005)",
+    "questionText": "A cheque drawn by a bank official on the bank's deposits in another bank on a customer's instructions is known as",
     "options": [
       "promissary note",
       "bankdraft",
@@ -11137,7 +11137,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-215-77",
-    "questionText": "The Nigerian Telecommunications Limited is a (JAMB 2005)",
+    "questionText": "The Nigerian Telecommunications Limited is a",
     "options": [
       "Jointly owned company",
       "public corporation",
@@ -11149,7 +11149,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-216-75",
-    "questionText": "An acquired firm in a merger will always receive a (JAMB 2005)",
+    "questionText": "An acquired firm in a merger will always receive a",
     "options": [
       "premium",
       "grant",
@@ -11161,7 +11161,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-217-58",
-    "questionText": "The primary objective of consumer protection laws is to ensure that consumers derive maximum satisfaction from goods and services (JAMB 2005)",
+    "questionText": "The primary objective of consumer protection laws is to ensure that consumers derive maximum satisfaction from goods and services",
     "options": [
       "consumers buy goods and services at cheap rates",
       "manufacturers of goods and service providers overcome",
@@ -11173,7 +11173,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-218-74",
-    "questionText": "The most important concept in production is (JAMB 2005)",
+    "questionText": "The most important concept in production is",
     "options": [
       "utility",
       "wealth creation",
@@ -11185,7 +11185,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-219-64",
-    "questionText": "A step-by-step method of carrying out functions in  an office is known as (JAMB 2005)",
+    "questionText": "A step-by-step method of carrying out functions in  an office is known as",
     "options": [
       "procedure",
       "organizing",
@@ -11197,7 +11197,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-220-76",
-    "questionText": "Occupations are classified into (JAMB 2005)",
+    "questionText": "Occupations are classified into",
     "options": [
       "production, labour and economics",
       "extraction, construction and manufacturing",
@@ -11209,7 +11209,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-221-87",
-    "questionText": "Wholesalers can be divided into (JAMB 2005)",
+    "questionText": "Wholesalers can be divided into",
     "options": [
       "sales agents and brokers",
       "full service wholesalers and merchant wholesalers",
@@ -11221,7 +11221,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-222-82",
-    "questionText": "A type of credit offered by both commercial and merchant banks in Nigeria is  (JAMB 2005)",
+    "questionText": "A type of credit offered by both commercial and merchant banks in Nigeria is",
     "options": [
       "trade credit",
       "line of credit",
@@ -11233,7 +11233,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-223-55",
-    "questionText": "A major disadvantage of the privatisation policy is that  (JAMB 2005)",
+    "questionText": "A major disadvantage of the privatisation policy is that",
     "options": [
       "the economy would be private-sector-led",
       "citizens would benefit less from government",
@@ -11245,7 +11245,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-224-97",
-    "questionText": "To increase the supply of money in a country, the central bank has to  (JAMB 2005)",
+    "questionText": "To increase the supply of money in a country, the central bank has to",
     "options": [
       "reduce cash ratio",
       "sell securities in the open market",
@@ -11257,7 +11257,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-225-96",
-    "questionText": "The fixed and current assets of a business are called  (JAMB 2005)",
+    "questionText": "The fixed and current assets of a business are called",
     "options": [
       "called-up capital",
       "capital employed",
@@ -11269,7 +11269,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-226-99",
-    "questionText": "One advantage of a crossed cheque is that it can (JAMB 2005)",
+    "questionText": "One advantage of a crossed cheque is that it can",
     "options": [
       "only be paid into a savings account",
       "be cashed over the bank's counter",
@@ -11281,7 +11281,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-227-79",
-    "questionText": "The availability of goods and services is brought to the notice of consumers through (JAMB 2005)",
+    "questionText": "The availability of goods and services is brought to the notice of consumers through",
     "options": [
       "personal selling",
       "public relations",
@@ -11293,7 +11293,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-228-90",
-    "questionText": "The bank that discounts bills of exchange is the  (JAMB 2005)",
+    "questionText": "The bank that discounts bills of exchange is the",
     "options": [
       "central bank",
       "mortgage bank",
@@ -11305,7 +11305,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-229-80",
-    "questionText": "The necessary documents used in foreign trade are  (JAMB 2005)",
+    "questionText": "The necessary documents used in foreign trade are",
     "options": [
       "bill of lading, invoice and letter of inquiry",
       "indent, bill of exchange, bill of lading and invoice",
@@ -11317,7 +11317,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-230-51",
-    "questionText": "A floating policy is an example of (JAMB 2005)",
+    "questionText": "A floating policy is an example of",
     "options": [
       "marine insurance",
       "actuaries insurance",
@@ -11329,7 +11329,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-231-88",
-    "questionText": "In Nigeria the ministry in charge of registering trade associations is that of  (JAMB 2005)",
+    "questionText": "In Nigeria the ministry in charge of registering trade associations is that of",
     "options": [
       "industries",
       "commerce",
@@ -11341,7 +11341,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-232-62",
-    "questionText": "The difference between personal selling and sales promotion is that while sales promotion includes free gifts and samples, personal selling involves (JAMB 2005)",
+    "questionText": "The difference between personal selling and sales promotion is that while sales promotion includes free gifts and samples, personal selling involves",
     "options": [
       "distributing instructional posters",
       "face-to-face communication with customers",
@@ -11353,7 +11353,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-233-83",
-    "questionText": "A major function of a chamber of commerce is (JAMB 2005)",
+    "questionText": "A major function of a chamber of commerce is",
     "options": [
       "increasing productivity",
       "promoting both home and foreign trade",
@@ -11365,7 +11365,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-234-63",
-    "questionText": "The type of communication from a superior to a subordinate in an organization is referred to as (JAMB 2005)",
+    "questionText": "The type of communication from a superior to a subordinate in an organization is referred to as",
     "options": [
       "horizontal communication",
       "lateral communication",
@@ -11377,7 +11377,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-235-100",
-    "questionText": "Given\n    N\n Sales    15 000\n Opening stock  5 600\n Purchases   9 700\n Closing stock  4 400\n Gross profit  4 500\n Net profit   2 000\nFrom the data above, calculate the rate of turnover \n (JAMB 2005)",
+    "questionText": "Given\n    N\n Sales    15 000\n Opening stock  5 600\n Purchases   9 700\n Closing stock  4 400\n Gross profit  4 500\n Net profit   2 000\nFrom the data above, calculate the rate of turnover \n",
     "options": [
       "3.50 times",
       "3.00 times",
@@ -11389,7 +11389,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-236-89",
-    "questionText": "Invisible imports consists of (JAMB 2005)",
+    "questionText": "Invisible imports consists of",
     "options": [
       "cement, shipping and consultancy services",
       "banking drinks, insurance and technical services.",
@@ -11401,7 +11401,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-237-92",
-    "questionText": "From which of the following sources can partnerships increase their capital? (JAMB 2005)",
+    "questionText": "From which of the following sources can partnerships increase their capital?",
     "options": [
       "Admission of a new partner",
       "Sale of shares",
@@ -11413,7 +11413,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-238-68",
-    "questionText": "The development of a container and a graphic design for a product is called  (JAMB 2005)",
+    "questionText": "The development of a container and a graphic design for a product is called",
     "options": [
       "packaging",
       "promotion",
@@ -11425,7 +11425,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629882-239-84",
-    "questionText": "Which of the middlemen in the channel of distribution has title to the goods he distributes? (JAMB 2005)",
+    "questionText": "Which of the middlemen in the channel of distribution has title to the goods he distributes?",
     "options": [
       "The merchant wholesaler",
       "The agent",
@@ -11437,7 +11437,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-240-120",
-    "questionText": "A current account is beneficial to its holder as (JAMB 2006)",
+    "questionText": "A current account is beneficial to its holder as",
     "options": [
       "cheques can be issued to anybody",
       "customers cannot withdraw frequently",
@@ -11449,7 +11449,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-241-143",
-    "questionText": "A shop which consists of many stores trading under a single roof and which stocks varieties of gods with each unit having its own head is a  (JAMB 2006)",
+    "questionText": "A shop which consists of many stores trading under a single roof and which stocks varieties of gods with each unit having its own head is a",
     "options": [
       "multiple shop",
       "supermarket",
@@ -11461,7 +11461,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-242-103",
-    "questionText": "The input, output and central processing units are the basic components of a computer's (JAMB 2006)",
+    "questionText": "The input, output and central processing units are the basic components of a computer's",
     "options": [
       "memory",
       "printer",
@@ -11473,7 +11473,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-243-125",
-    "questionText": "The development of commerce resulted from (JAMB 2006)",
+    "questionText": "The development of commerce resulted from",
     "options": [
       "trading",
       "competition",
@@ -11485,7 +11485,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-244-114",
-    "questionText": "A public company has 2 000 000 ordinary shares of 50k each and offers 50% for subscription at N2 per share. If the shares were fully subscribed, calculate the issued capital. (JAMB 2006)",
+    "questionText": "A public company has 2 000 000 ordinary shares of 50k each and offers 50% for subscription at N2 per share. If the shares were fully subscribed, calculate the issued capital.",
     "options": [
       "N4 000 000",
       "N2 000 000",
@@ -11497,7 +11497,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-245-127",
-    "questionText": "Materials used for further production of goods and  services are known as  (JAMB 2006)",
+    "questionText": "Materials used for further production of goods and  services are known as",
     "options": [
       "export goods",
       "intermediate goods",
@@ -11509,7 +11509,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-246-110",
-    "questionText": "An aspect of marketing that stimulates buying by providing free gifts is  (JAMB 2006)",
+    "questionText": "An aspect of marketing that stimulates buying by providing free gifts is",
     "options": [
       "advertising",
       "personal selling",
@@ -11521,7 +11521,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-247-129",
-    "questionText": "The safety and quality of products are the social responsibility of  (JAMB 2006)",
+    "questionText": "The safety and quality of products are the social responsibility of",
     "options": [
       "the Standards Organization of Nigeria",
       "the Manufacturers Association of Nigeria",
@@ -11533,7 +11533,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-248-116",
-    "questionText": "What is the capital employed? (JAMB 2006)",
+    "questionText": "What is the capital employed?",
     "options": [
       "N200 000",
       "N340 000",
@@ -11545,7 +11545,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-249-107",
-    "questionText": "The mode of transportation that conveys a limited variety of products through fixed laid routes is (JAMB 2006)",
+    "questionText": "The mode of transportation that conveys a limited variety of products through fixed laid routes is",
     "options": [
       "waterways",
       "Broad",
@@ -11557,7 +11557,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-250-104",
-    "questionText": "An employer insures against his employees' dishonesty by taking up   (JAMB 2006)",
+    "questionText": "An employer insures against his employees' dishonesty by taking up",
     "options": [
       "fidelity guarantee insurance",
       "accident insurance",
@@ -11569,7 +11569,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-251-102",
-    "questionText": "Tourism can be classified as  (JAMB 2006)",
+    "questionText": "Tourism can be classified as",
     "options": [
       "tangible import",
       "intangible import",
@@ -11581,7 +11581,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-252-134",
-    "questionText": "‘Safeguarding the health of the nation' is the slogan used by  (JAMB 2006)",
+    "questionText": "‘Safeguarding the health of the nation' is the slogan used by",
     "options": [
       "NDLEA",
       "NHIS",
@@ -11593,7 +11593,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-253-132",
-    "questionText": "The headquarters of the Lake Chad Basin Commission is in  (JAMB 2006)",
+    "questionText": "The headquarters of the Lake Chad Basin Commission is in",
     "options": [
       "Niamey",
       "N'Djamena",
@@ -11605,7 +11605,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-254-124",
-    "questionText": "I. Wholesaling  II. Fishing  III. Canning IV. Retailing  The sequence in which the occupational activities above are performed is (JAMB 2006)",
+    "questionText": "I. Wholesaling  II. Fishing  III. Canning IV. Retailing  The sequence in which the occupational activities above are performed is",
     "options": [
       "Ill, II, I and IV",
       "Ill, I, IV and II",
@@ -11617,7 +11617,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-255-112",
-    "questionText": "A seller attracts and retains patronage by (JAMB 2006)",
+    "questionText": "A seller attracts and retains patronage by",
     "options": [
       "enhancing public relations",
       "enhancing sales promotion",
@@ -11629,7 +11629,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-256-139",
-    "questionText": "Hire purchase is beneficial to the seller because (JAMB 2006)",
+    "questionText": "Hire purchase is beneficial to the seller because",
     "options": [
       "it enhances his living standard",
       "it increases his turnover",
@@ -11641,7 +11641,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-257-109",
-    "questionText": "The setting of objectives for an organization and determining how to accomplish them is  (JAMB 2006)",
+    "questionText": "The setting of objectives for an organization and determining how to accomplish them is",
     "options": [
       "social responsibility",
       "planning",
@@ -11653,7 +11653,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-258-105",
-    "questionText": "Payment made to the insured by the insurer outside its legal obligation is  (JAMB 2006)",
+    "questionText": "Payment made to the insured by the insurer outside its legal obligation is",
     "options": [
       "premium paid",
       "exgratia payment",
@@ -11665,7 +11665,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-259-145",
-    "questionText": "The documents used in the purchase and sale of goods which contain other terms of trade are (JAMB 2006)",
+    "questionText": "The documents used in the purchase and sale of goods which contain other terms of trade are",
     "options": [
       "debit note and credit note",
       "delivery note and advice not",
@@ -11677,7 +11677,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-260-146",
-    "questionText": "In international trade, exchanging goods for other goods and services purchased instead of paying in foreign currency is known as  (JAMB 2006)",
+    "questionText": "In international trade, exchanging goods for other goods and services purchased instead of paying in foreign currency is known as",
     "options": [
       "countertrade",
       "balance of trade",
@@ -11689,7 +11689,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-261-144",
-    "questionText": "An objective of the farmers' association is to (JAMB 2006)",
+    "questionText": "An objective of the farmers' association is to",
     "options": [
       "ensure that the prices of goods are fair and reasonable",
       "correct the imbalance between consumers and producers",
@@ -11701,7 +11701,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-262-119",
-    "questionText": "A financial institution which uses its capital strength to acquire controlling interests in other firms can be regarded as a (JAMB 2006)",
+    "questionText": "A financial institution which uses its capital strength to acquire controlling interests in other firms can be regarded as a",
     "options": [
       "subsidiary company",
       "holding company",
@@ -11713,7 +11713,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-263-117",
-    "questionText": "Which of the following is a development bank in Nigeria? (JAMB 2006)",
+    "questionText": "Which of the following is a development bank in Nigeria?",
     "options": [
       "Union Bank Plc",
       "First Bank Plc",
@@ -11725,7 +11725,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-264-142",
-    "questionText": "The Customs and Excise Department is responsible for the collection of (JAMB 2006)",
+    "questionText": "The Customs and Excise Department is responsible for the collection of",
     "options": [
       "royalties",
       "tariffs",
@@ -11737,7 +11737,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-265-131",
-    "questionText": "A protection right which can be reviewed or renewed after seven years is known as  (JAMB 2006)",
+    "questionText": "A protection right which can be reviewed or renewed after seven years is known as",
     "options": [
       "patent",
       "design",
@@ -11749,7 +11749,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-266-121",
-    "questionText": "The conversion of raw materials into finished products creates  (JAMB 2006)",
+    "questionText": "The conversion of raw materials into finished products creates",
     "options": [
       "form utility",
       "marginal utility",
@@ -11761,7 +11761,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-267-113",
-    "questionText": "A bond which attracts only interest but leaves the capital unpaid is referred to as (JAMB 2006)",
+    "questionText": "A bond which attracts only interest but leaves the capital unpaid is referred to as",
     "options": [
       "a long-term loan",
       "a development bond",
@@ -11773,7 +11773,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-268-126",
-    "questionText": "The difference between a private and public limited liability company is that the former (JAMB 2006)",
+    "questionText": "The difference between a private and public limited liability company is that the former",
     "options": [
       "is unable to offer shares to the public",
       "is unable to declare and pay dividend",
@@ -11785,7 +11785,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-269-137",
-    "questionText": "The most important advantage of privatization is the enhancement of  (JAMB 2006)",
+    "questionText": "The most important advantage of privatization is the enhancement of",
     "options": [
       "liquidity",
       "accountability",
@@ -11797,7 +11797,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-270-128",
-    "questionText": "A liquidator's fee is to be charged to the (JAMB 2006)",
+    "questionText": "A liquidator's fee is to be charged to the",
     "options": [
       "realization account",
       "trading account",
@@ -11809,7 +11809,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-271-123",
-    "questionText": "Capital to a business is technically   (JAMB 2006)",
+    "questionText": "Capital to a business is technically",
     "options": [
       "an expense",
       "a liability",
@@ -11821,7 +11821,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-272-118",
-    "questionText": "Trading on the stock exchange in anticipation of  price change in the market value of shares is (JAMB 2006)",
+    "questionText": "Trading on the stock exchange in anticipation of  price change in the market value of shares is",
     "options": [
       "speculation",
       "forecasting",
@@ -11833,7 +11833,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-273-147",
-    "questionText": "The role of a wholesaler in the channel of distribution is to     (JAMB 2006)",
+    "questionText": "The role of a wholesaler in the channel of distribution is to",
     "options": [
       "produce goods in large quantities and sell in small quantities",
       "buy goods directly from the manufacturers",
@@ -11845,7 +11845,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-274-108",
-    "questionText": "A computer that can be used in weather forecast is  (JAMB 2006)",
+    "questionText": "A computer that can be used in weather forecast is",
     "options": [
       "a hybrid computer",
       "an analog computer",
@@ -11857,7 +11857,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-275-130",
-    "questionText": "A   feature   common   to   privatization   and commercialization is   (JAMB 2006)",
+    "questionText": "A   feature   common   to   privatization   and commercialization is",
     "options": [
       "profit-making",
       "credit sales",
@@ -11869,7 +11869,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-276-133",
-    "questionText": "In Nigeria, the main source of pollution is (JAMB 2006)",
+    "questionText": "In Nigeria, the main source of pollution is",
     "options": [
       "domestic waste",
       "organic waste",
@@ -11881,7 +11881,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-277-106",
-    "questionText": "An important social reason for development tourism in Nigeria is the   (JAMB 2006)",
+    "questionText": "An important social reason for development tourism in Nigeria is the",
     "options": [
       "promotion of culture interaction",
       "provision of job opportunities",
@@ -11893,7 +11893,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-278-141",
-    "questionText": "The major types of warehouses are  (JAMB 2006)",
+    "questionText": "The major types of warehouses are",
     "options": [
       "manufacturer, bonded, departmental and private",
       "bonded, public, cold room and private",
@@ -11905,7 +11905,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-279-138",
-    "questionText": "A trade association consists of members engaged in the same trade while a chamber of commerce is (JAMB 2006)",
+    "questionText": "A trade association consists of members engaged in the same trade while a chamber of commerce is",
     "options": [
       "highly regulated by a government agency",
       "not restricted on a particular industry",
@@ -11917,7 +11917,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-280-162",
-    "questionText": "The sustainable growth of commerce is largely due to  (JAMB 2007)",
+    "questionText": "The sustainable growth of commerce is largely due to",
     "options": [
       "marketing",
       "advertising",
@@ -11929,7 +11929,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-281-174",
-    "questionText": "The   World   Tourism   Organization   has   its headquarters in  (JAMB 2007)",
+    "questionText": "The   World   Tourism   Organization   has   its headquarters in",
     "options": [
       "New York",
       "Paris",
@@ -11941,7 +11941,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-282-169",
-    "questionText": "A major criticism of a cooperative society is (JAMB 2007)",
+    "questionText": "A major criticism of a cooperative society is",
     "options": [
       "limited capital",
       "granting excessive loans to members",
@@ -11953,7 +11953,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-283-189",
-    "questionText": "The function  of money that facilitates the comparison of the quality of goods as a basis of exchange is the    (JAMB 2007)",
+    "questionText": "The function  of money that facilitates the comparison of the quality of goods as a basis of exchange is the",
     "options": [
       "unit of account",
       "measure of value",
@@ -11965,7 +11965,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-284-160",
-    "questionText": "A major function of an entrepreneur is (JAMB 2007)",
+    "questionText": "A major function of an entrepreneur is",
     "options": [
       "decision-making",
       "encouraging competition",
@@ -11977,7 +11977,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-285-149",
-    "questionText": "Consumers require protection against exploitation to ensure  (JAMB 2007)",
+    "questionText": "Consumers require protection against exploitation to ensure",
     "options": [
       "adequate consumer awareness",
       "availability of product variety",
@@ -11989,7 +11989,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-286-173",
-    "questionText": "One of the functions of the Nigeria Ports Authority is the provision of   (JAMB 2007)",
+    "questionText": "One of the functions of the Nigeria Ports Authority is the provision of",
     "options": [
       "facilities to enhance the speedy loading and offloading of",
       "facilities to ensure that goods get to their destinations",
@@ -12001,7 +12001,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-287-196",
-    "questionText": "The body regulating the sale and purchase of shares in Nigeria is the  (JAMB 2007)",
+    "questionText": "The body regulating the sale and purchase of shares in Nigeria is the",
     "options": [
       "Corporate Affairs Commission",
       "Securities and Exchange Commission",
@@ -12013,7 +12013,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-288-187",
-    "questionText": "A share premium is an example of (JAMB 2007)",
+    "questionText": "A share premium is an example of",
     "options": [
       "issued capital",
       "capital stock",
@@ -12025,7 +12025,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-289-167",
-    "questionText": "The scope of economic activities can be enlarged by     (JAMB 2007)",
+    "questionText": "The scope of economic activities can be enlarged by",
     "options": [
       "transportation and trading",
       "business and its promotion",
@@ -12037,7 +12037,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-290-165",
-    "questionText": "Law-making is an example of  (JAMB 2007)",
+    "questionText": "Law-making is an example of",
     "options": [
       "indirect service",
       "commercial occupation",
@@ -12049,7 +12049,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-291-158",
-    "questionText": "The controllable variables that a firm uses to achieve its marketing objectives are called (JAMB 2007)",
+    "questionText": "The controllable variables that a firm uses to achieve its marketing objectives are called",
     "options": [
       "marketing principles",
       "marketing mix",
@@ -12061,7 +12061,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-292-191",
-    "questionText": "Which of the following is a risk-free security? (JAMB 2007)",
+    "questionText": "Which of the following is a risk-free security?",
     "options": [
       "Preference share.",
       "Ordinary share.",
@@ -12073,7 +12073,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-293-183",
-    "questionText": "Which of the following requires payment into the payee's account?    (JAMB 2007)",
+    "questionText": "Which of the following requires payment into the payee's account?",
     "options": [
       "Crossed cheque.",
       "Traveller’s cheque.",
@@ -12085,7 +12085,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-294-161",
-    "questionText": "A Memorandum of Association is applicable to a (JAMB 2007)",
+    "questionText": "A Memorandum of Association is applicable to a",
     "options": [
       "sole trader",
       "joint-stock company",
@@ -12097,7 +12097,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-295-193",
-    "questionText": "The selling of new shares to existing shareholders is referred to as  (JAMB 2007)",
+    "questionText": "The selling of new shares to existing shareholders is referred to as",
     "options": [
       "public issue",
       "offer for sale",
@@ -12109,7 +12109,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-296-194",
-    "questionText": "A new company requiring a large amount of equity finance may source funds from the (JAMB 2007)",
+    "questionText": "A new company requiring a large amount of equity finance may source funds from the",
     "options": [
       "capital market",
       "central bank",
@@ -12121,7 +12121,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-297-150",
-    "questionText": "The business environment that takes into cognizance the age distribution, ethnic mix and educational level of the consumer is (JAMB 2007)",
+    "questionText": "The business environment that takes into cognizance the age distribution, ethnic mix and educational level of the consumer is",
     "options": [
       "demographic environment",
       "economic environment",
@@ -12133,7 +12133,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-298-163",
-    "questionText": "A major advantage of a cooperative society is that it  (JAMB 2007)",
+    "questionText": "A major advantage of a cooperative society is that it",
     "options": [
       "gives members the opportunity to unite",
       "draws members closer to government",
@@ -12145,7 +12145,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-299-186",
-    "questionText": "The sale of foreign investment and gold reserves can be used to  (JAMB 2007)",
+    "questionText": "The sale of foreign investment and gold reserves can be used to",
     "options": [
       "correct adverse balance of trade",
       "increase invisible imports",
@@ -12157,7 +12157,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-300-151",
-    "questionText": "An agent who takes title to goods and has authority  to buy and sell on behalf of another is (JAMB 2007)",
+    "questionText": "An agent who takes title to goods and has authority  to buy and sell on behalf of another is",
     "options": [
       "a jobber",
       "a broker",
@@ -12169,7 +12169,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-301-192",
-    "questionText": "The central bank controls the quantity of money in circulation through   (JAMB 2007)",
+    "questionText": "The central bank controls the quantity of money in circulation through",
     "options": [
       "open-market operations",
       "decreasing the tax rate",
@@ -12181,7 +12181,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-302-184",
-    "questionText": "The traditional way of paying cooperative dividend is to distribute profit in proportion to members' (JAMB 2007)",
+    "questionText": "The traditional way of paying cooperative dividend is to distribute profit in proportion to members'",
     "options": [
       "subscriptions",
       "total savings",
@@ -12193,7 +12193,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-303-188",
-    "questionText": "A major benefit a debtor can derive from using a credit facility is  (JAMB 2007)",
+    "questionText": "A major benefit a debtor can derive from using a credit facility is",
     "options": [
       "better service",
       "goodwill",
@@ -12205,7 +12205,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-304-168",
-    "questionText": "The creation of utilities to satisfy human wants is referred to as    (JAMB 2007)",
+    "questionText": "The creation of utilities to satisfy human wants is referred to as",
     "options": [
       "production",
       "consumption",
@@ -12217,7 +12217,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-305-172",
-    "questionText": "An agreement by the insurer to compensate the insured for losses suffered is    (JAMB 2007)",
+    "questionText": "An agreement by the insurer to compensate the insured for losses suffered is",
     "options": [
       "policy",
       "surrender value",
@@ -12229,7 +12229,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-306-153",
-    "questionText": "The major achievement of ECOWAS is (JAMB 2007)",
+    "questionText": "The major achievement of ECOWAS is",
     "options": [
       "the expansion of regional trade",
       "the emergence of a monetary union",
@@ -12241,7 +12241,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-307-181",
-    "questionText": "The major function of a trade association is that it (JAMB 2007)",
+    "questionText": "The major function of a trade association is that it",
     "options": [
       "liaises with foreign trade associations",
       "helps to promote foreign trade",
@@ -12253,7 +12253,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-308-185",
-    "questionText": "The abbreviation C & F indicates that the (JAMB 2007)",
+    "questionText": "The abbreviation C & F indicates that the",
     "options": [
       "production cost excludes the cost of carriage",
       "selling price includes the cost of carriage",
@@ -12265,7 +12265,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-309-177",
-    "questionText": "In the permanent storage device, DASD means (JAMB 2007)",
+    "questionText": "In the permanent storage device, DASD means",
     "options": [
       "Data Access Storage Device",
       "Data Access Systems Device",
@@ -12277,7 +12277,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-310-182",
-    "questionText": "A major setback of international trade is (JAMB 2007)",
+    "questionText": "A major setback of international trade is",
     "options": [
       "inadequate exports",
       "economic sanctions",
@@ -12289,7 +12289,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-311-195",
-    "questionText": "A credit instrument which also serves as a legal tender is    (JAMB 2007)",
+    "questionText": "A credit instrument which also serves as a legal tender is",
     "options": [
       "cheque",
       "paper money",
@@ -12301,7 +12301,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-312-156",
-    "questionText": "Which of the following best describes inputs for any production activity?    (JAMB 2007)",
+    "questionText": "Which of the following best describes inputs for any production activity?",
     "options": [
       "Natural resources.",
       "Business resources.",
@@ -12313,7 +12313,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-313-164",
-    "questionText": "The making of doors from timber planks is a type of  (JAMB 2007)",
+    "questionText": "The making of doors from timber planks is a type of",
     "options": [
       "manufacturing",
       "tertiary production",
@@ -12325,7 +12325,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-314-154",
-    "questionText": "An announcement of a person's willingness to enter into a contract is referred to as  (JAMB 2007)",
+    "questionText": "An announcement of a person's willingness to enter into a contract is referred to as",
     "options": [
       "a proxy",
       "an offer",
@@ -12337,7 +12337,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-315-178",
-    "questionText": "The major determinant of fire insurance premium is the  (JAMB 2007)",
+    "questionText": "The major determinant of fire insurance premium is the",
     "options": [
       "type and structure of the property to be insured",
       "usefulness of the property to the owner",
@@ -12349,7 +12349,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-316-166",
-    "questionText": "A document which advertises the shares of a company is known as a   (JAMB 2007)",
+    "questionText": "A document which advertises the shares of a company is known as a",
     "options": [
       "memorandum of satisfaction",
       "dividend warrant",
@@ -12361,7 +12361,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-317-159",
-    "questionText": "Public relations and advertising are similar in terms of (JAMB 2007)",
+    "questionText": "Public relations and advertising are similar in terms of",
     "options": [
       "communicating product information",
       "customer education",
@@ -12373,7 +12373,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-318-155",
-    "questionText": "The macro-environmental forces and trends which are a constraint on business operations are  referred to as   (JAMB 2007)",
+    "questionText": "The macro-environmental forces and trends which are a constraint on business operations are  referred to as",
     "options": [
       "technological factors",
       "economic factors",
@@ -12385,7 +12385,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-319-171",
-    "questionText": "The first stage in tourism planning is (JAMB 2007)",
+    "questionText": "The first stage in tourism planning is",
     "options": [
       "assessing feedback from tourists",
       "preparing a list of tourist attractions",
@@ -12397,7 +12397,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629883-320-223",
-    "questionText": "A crossed cheque with the inscription ‘not negotiable’ must be paid into the  (JAMB 2008)",
+    "questionText": "A crossed cheque with the inscription ‘not negotiable’ must be paid into the",
     "options": [
       "current account of the drawer",
       "current account of the payee of the drawer",
@@ -12409,7 +12409,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629884-321-225",
-    "questionText": "An association to which all chambers of commerce in Nigeria are affiliated is the  (JAMB 2008)",
+    "questionText": "An association to which all chambers of commerce in Nigeria are affiliated is the",
     "options": [
       "Nigeria Labour Congress",
       "National Association of Chambers of Commerce, Industry, Mines and Agriculture",
@@ -12421,7 +12421,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629884-322-207",
-    "questionText": "An example of a cartel is  (JAMB 2008)",
+    "questionText": "An example of a cartel is",
     "options": [
       "OPEC",
       "ECOWAS",
@@ -12433,7 +12433,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629884-323-230",
-    "questionText": "A function generally performed by authorities of both the air and seaports is the  (JAMB 2008)",
+    "questionText": "A function generally performed by authorities of both the air and seaports is the",
     "options": [
       "maintenance of warehouses where goods can be stored",
       "provision of facilities for loading and unloading of cargoes",
@@ -12445,7 +12445,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629884-324-203",
-    "questionText": "The quality and quantity of production mostly depend  on the  (JAMB 2008)",
+    "questionText": "The quality and quantity of production mostly depend  on the",
     "options": [
       "effectiveness of factors",
       "availability of factors",
@@ -12457,7 +12457,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-325-211",
-    "questionText": "Maimani Plc, whose nominal capital is made up of 500 000 ordinary shares of 50k each, decided to offer 80% of it to the public and realized only 50% of the amount due. Determine the company’s reserve share capital  (JAMB 2008)",
+    "questionText": "Maimani Plc, whose nominal capital is made up of 500 000 ordinary shares of 50k each, decided to offer 80% of it to the public and realized only 50% of the amount due. Determine the company’s reserve share capital",
     "options": [
       "N2500 000",
       "N1000 000",
@@ -12469,7 +12469,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-326-198",
-    "questionText": "An activity that involves derivation of raw materials from land and sea is  (JAMB 2008)",
+    "questionText": "An activity that involves derivation of raw materials from land and sea is",
     "options": [
       "construction",
       "farming",
@@ -12481,7 +12481,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-327-243",
-    "questionText": "A factor is a business environment which increases the rate of product obsolescence is  (JAMB 2008)",
+    "questionText": "A factor is a business environment which increases the rate of product obsolescence is",
     "options": [
       "technology",
       "political",
@@ -12493,7 +12493,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-328-239",
-    "questionText": "The implied provisions in every sale of goods as contained in the ales of Goods Act of 1893 are conditions and  (JAMB 2008)",
+    "questionText": "The implied provisions in every sale of goods as contained in the ales of Goods Act of 1893 are conditions and",
     "options": [
       "consideration",
       "sureties",
@@ -12505,7 +12505,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-329-229",
-    "questionText": "Ships used for international transport are  (JAMB 2008)",
+    "questionText": "Ships used for international transport are",
     "options": [
       "trawlers",
       "yachts",
@@ -12517,7 +12517,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-330-221",
-    "questionText": "A document sent by a seller to inform a buyer about the prices of goods is the  (JAMB 2008)",
+    "questionText": "A document sent by a seller to inform a buyer about the prices of goods is the",
     "options": [
       "catalogue",
       "price list",
@@ -12529,7 +12529,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-331-236",
-    "questionText": "An example of a non-insurable risk is  (JAMB 2008)",
+    "questionText": "An example of a non-insurable risk is",
     "options": [
       "burglary",
       "speculation",
@@ -12541,7 +12541,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-332-232",
-    "questionText": "The fear of many communities concerning tourism development is the  (JAMB 2008)",
+    "questionText": "The fear of many communities concerning tourism development is the",
     "options": [
       "influence of foreign culture",
       "fear of disease transmission",
@@ -12553,7 +12553,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-333-233",
-    "questionText": "The development of tourism in Nigeria  will enhance  (JAMB 2008)",
+    "questionText": "The development of tourism in Nigeria  will enhance",
     "options": [
       "agriculture",
       "revenue generation",
@@ -12565,7 +12565,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-334-219",
-    "questionText": "Balance of payments is made up of  (JAMB 2008)",
+    "questionText": "Balance of payments is made up of",
     "options": [
       "visible and current items",
       "invisible and capital items",
@@ -12577,7 +12577,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-335-241",
-    "questionText": "The body charged with divesting government interests in public enterprises is  (JAMB 2008)",
+    "questionText": "The body charged with divesting government interests in public enterprises is",
     "options": [
       "SON",
       "NPC",
@@ -12589,7 +12589,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-336-237",
-    "questionText": "The coordinating section of the central processing unit that manages the flow of data is the  (JAMB 2008)",
+    "questionText": "The coordinating section of the central processing unit that manages the flow of data is the",
     "options": [
       "arithmetic logic unit",
       "control unit",
@@ -12601,7 +12601,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-337-227",
-    "questionText": "The four Ps of marketing are (JAMB 2008)",
+    "questionText": "The four Ps of marketing are",
     "options": [
       "product, place, process and promotion",
       "price, product, property and place",
@@ -12613,7 +12613,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-338-246",
-    "questionText": "Which software program can be used to generate  (JAMB 2008)",
+    "questionText": "Which software program can be used to generate",
     "options": [
       "MS Word",
       "Database",
@@ -12625,7 +12625,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-339-240",
-    "questionText": "When an employee incurs expenses while executing his normal duty, the employer is responsible for his  (JAMB 2008)",
+    "questionText": "When an employee incurs expenses while executing his normal duty, the employer is responsible for his",
     "options": [
       "safety",
       "family’s security",
@@ -12637,7 +12637,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-340-244",
-    "questionText": "Which of the following is a form of social responsibility of a business?  (JAMB 2008)",
+    "questionText": "Which of the following is a form of social responsibility of a business?",
     "options": [
       "selling goods at cheaper prices",
       "using the best technology available",
@@ -12649,7 +12649,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-341-213",
-    "questionText": "An account maintained with a commercial bank for the purpose of foreign exchange transaction is the  (JAMB 2008)",
+    "questionText": "An account maintained with a commercial bank for the purpose of foreign exchange transaction is the",
     "options": [
       "foreign account",
       "International account",
@@ -12661,7 +12661,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-342-242",
-    "questionText": "The practice whereby government relinquishes its ownership interest in a public enterprises is  (JAMB 2008)",
+    "questionText": "The practice whereby government relinquishes its ownership interest in a public enterprises is",
     "options": [
       "commercialization",
       "indigenization",
@@ -12673,7 +12673,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-343-206",
-    "questionText": "A proposed company may not be registered if  (JAMB 2008)",
+    "questionText": "A proposed company may not be registered if",
     "options": [
       "the name conflicts with that of another",
       "it does not put ‘limited’ after its proposed name",
@@ -12685,7 +12685,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-344-216",
-    "questionText": "A source of capital that has both elements of debt and equity is a  (JAMB 2008)",
+    "questionText": "A source of capital that has both elements of debt and equity is a",
     "options": [
       "debenture",
       "warrant",
@@ -12697,7 +12697,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-345-245",
-    "questionText": "A computer component that decodes and interprets instructions and also directs program implementation  is  (JAMB 2008)",
+    "questionText": "A computer component that decodes and interprets instructions and also directs program implementation  is",
     "options": [
       "memory unit",
       "Central processing unit",
@@ -12709,7 +12709,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-346-218",
-    "questionText": "A warehouse which is used to store goods whose customs duty is not yet paid is a  (JAMB 2008)",
+    "questionText": "A warehouse which is used to store goods whose customs duty is not yet paid is a",
     "options": [
       "wholesale warehouse",
       "bonded warehouse",
@@ -12721,7 +12721,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-347-215",
-    "questionText": "A person who buys new issues with a view of reselling at a higher price in the near future is referred to as a  (JAMB 2008)",
+    "questionText": "A person who buys new issues with a view of reselling at a higher price in the near future is referred to as a",
     "options": [
       "bull",
       "bear",
@@ -12733,7 +12733,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629885-348-234",
-    "questionText": "A historical building is a feature of  (JAMB 2008)",
+    "questionText": "A historical building is a feature of",
     "options": [
       "cultural tourism",
       "industrial tourism",
@@ -12745,7 +12745,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-349-197",
-    "questionText": "An aspect of commerce that facilitates the distribution of products is  (JAMB 2008)",
+    "questionText": "An aspect of commerce that facilitates the distribution of products is",
     "options": [
       "transportation",
       "advertising",
@@ -12757,7 +12757,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-350-228",
-    "questionText": "Personal selling is used for the purpose of  (JAMB 2008)",
+    "questionText": "Personal selling is used for the purpose of",
     "options": [
       "establishing the company",
       "providing information",
@@ -12769,7 +12769,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-351-199",
-    "questionText": "The art of soap-making is an example of  (JAMB 2008)",
+    "questionText": "The art of soap-making is an example of",
     "options": [
       "Primary occupation",
       "Secondary occupation",
@@ -12781,7 +12781,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-352-205",
-    "questionText": "A document which gives a legal status to a company is the certificate of  (JAMB 2008)",
+    "questionText": "A document which gives a legal status to a company is the certificate of",
     "options": [
       "incorporation",
       "trading",
@@ -12793,7 +12793,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-353-226",
-    "questionText": "The resources which are necessary for business development include  (JAMB 2008)",
+    "questionText": "The resources which are necessary for business development include",
     "options": [
       "manufacturing, materials, mentors and money",
       "merchant, materials, mentors and money",
@@ -12805,7 +12805,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-354-231",
-    "questionText": "A major factor hindering effective communication process is  (JAMB 2008)",
+    "questionText": "A major factor hindering effective communication process is",
     "options": [
       "climatic condition",
       "social unrest",
@@ -12817,7 +12817,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-355-212",
-    "questionText": "In order to prevent liquidity problems in commercial banks, the central bank uses. (JAMB 2008)",
+    "questionText": "In order to prevent liquidity problems in commercial banks, the central bank uses.",
     "options": [
       "moral suasion",
       "fiscal policy",
@@ -12829,7 +12829,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-356-214",
-    "questionText": "A trader who gives credit stands to enjoy  (JAMB 2008)",
+    "questionText": "A trader who gives credit stands to enjoy",
     "options": [
       "higher profit",
       "cash discount",
@@ -12841,7 +12841,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-357-222",
-    "questionText": "Which ‘FOB’ is written on a document, it implies that the buyer bears the  (JAMB 2008)",
+    "questionText": "Which ‘FOB’ is written on a document, it implies that the buyer bears the",
     "options": [
       "cost of goods and advert",
       "loading cost and insurance",
@@ -12853,7 +12853,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-358-209",
-    "questionText": "The components of capital employed in a business are  (JAMB 2008)",
+    "questionText": "The components of capital employed in a business are",
     "options": [
       "owners’ equity and long-term debts",
       "total assets and current liabilities",
@@ -12865,7 +12865,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-359-202",
-    "questionText": "In the long run, all factors of production are  (JAMB 2008)",
+    "questionText": "In the long run, all factors of production are",
     "options": [
       "fixed",
       "variable",
@@ -12877,7 +12877,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-360-257",
-    "questionText": "The term free on board means that the price includes  (JAMB 2009)",
+    "questionText": "The term free on board means that the price includes",
     "options": [
       "costs and insurance only",
       "costs and freight only",
@@ -12889,7 +12889,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-361-253",
-    "questionText": "A chain store usually combines the features of  (JAMB 2009)",
+    "questionText": "A chain store usually combines the features of",
     "options": [
       "multiple shops and departmental stores",
       "hypermarkets and stalls",
@@ -12901,7 +12901,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-362-269",
-    "questionText": "One major advantage of transportation to a business is to (JAMB 2009)",
+    "questionText": "One major advantage of transportation to a business is to",
     "options": [
       "extend the firm’s market coverage",
       "ensure that goods are produced faster",
@@ -12913,7 +12913,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-363-274",
-    "questionText": "The type of partnership in which all partners are jointly liable in bearing risk is  (JAMB 2009)",
+    "questionText": "The type of partnership in which all partners are jointly liable in bearing risk is",
     "options": [
       "limited partnership",
       "partnership-at will",
@@ -12925,7 +12925,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-364-289",
-    "questionText": "Unresolved disputes between the employer and employees are usually referred to the  (JAMB 2009)",
+    "questionText": "Unresolved disputes between the employer and employees are usually referred to the",
     "options": [
       "code of conduct bureau",
       "personnel unit",
@@ -12937,7 +12937,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-365-290",
-    "questionText": "The process of eliminating a virus from a computer program is  (JAMB 2009)",
+    "questionText": "The process of eliminating a virus from a computer program is",
     "options": [
       "programming",
       "debugging",
@@ -12949,7 +12949,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-366-283",
-    "questionText": "The function which ensures that set objectives are attained by an organization is  (JAMB 2009)",
+    "questionText": "The function which ensures that set objectives are attained by an organization is",
     "options": [
       "planning",
       "directing",
@@ -12961,7 +12961,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-367-247",
-    "questionText": "The central focus of commercial activities is  (JAMB 2009)",
+    "questionText": "The central focus of commercial activities is",
     "options": [
       "pricing",
       "advertising",
@@ -12973,7 +12973,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-368-261",
-    "questionText": "A collective term for advertising, personal selling and publicity is  (JAMB 2009)",
+    "questionText": "A collective term for advertising, personal selling and publicity is",
     "options": [
       "exhibition",
       "promotion",
@@ -12985,7 +12985,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-369-260",
-    "questionText": "Billboards and posters are forms of  (JAMB 2009)",
+    "questionText": "Billboards and posters are forms of",
     "options": [
       "electronic media",
       "print media",
@@ -12997,7 +12997,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-370-291",
-    "questionText": "The primary memory component of a computer is the  (JAMB 2009)",
+    "questionText": "The primary memory component of a computer is the",
     "options": [
       "cache",
       "console",
@@ -13009,7 +13009,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-371-285",
-    "questionText": "The efficiency of an organization is enhanced by  (JAMB 2009)",
+    "questionText": "The efficiency of an organization is enhanced by",
     "options": [
       "government assistance",
       "the host community",
@@ -13021,7 +13021,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-372-256",
-    "questionText": "The most commonly used commercial documents are  (JAMB 2009)",
+    "questionText": "The most commonly used commercial documents are",
     "options": [
       "order notes, debit notes, invoices and quotations",
       "letters of enquiry, consignment notes, receipts and invoices",
@@ -13033,7 +13033,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-373-254",
-    "questionText": "One of the functions of the wholesalers is to  (JAMB 2009)",
+    "questionText": "One of the functions of the wholesalers is to",
     "options": [
       "forecast prices",
       "reduce prices of goods",
@@ -13045,7 +13045,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-374-278",
-    "questionText": "A body established to protect the interest of members against the exploitation of retail traders and manufacturers is the  (JAMB 2009)",
+    "questionText": "A body established to protect the interest of members against the exploitation of retail traders and manufacturers is the",
     "options": [
       "wholesalers association",
       "consumer’s association",
@@ -13057,7 +13057,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-375-249",
-    "questionText": "The services of a textile worker are an example of  (JAMB 2009)",
+    "questionText": "The services of a textile worker are an example of",
     "options": [
       "extractive activity",
       "commercial activity",
@@ -13069,7 +13069,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-376-267",
-    "questionText": "A risk that can be estimated and calculated to be compensated is  (JAMB 2009)",
+    "questionText": "A risk that can be estimated and calculated to be compensated is",
     "options": [
       "a delivery risk",
       "an insurable risk",
@@ -13081,7 +13081,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-377-271",
-    "questionText": "One of the major problems of a sole proprietor is sourcing for  (JAMB 2009)",
+    "questionText": "One of the major problems of a sole proprietor is sourcing for",
     "options": [
       "raw materials",
       "labour",
@@ -13093,7 +13093,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-378-252",
-    "questionText": "The major components of modern retailing include  (JAMB 2009)",
+    "questionText": "The major components of modern retailing include",
     "options": [
       "branding, doorstep selling and customer stimulation",
       "branding, sales promotion and mail order",
@@ -13105,7 +13105,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-379-248",
-    "questionText": "An aid to trade associated with communications is  (JAMB 2009)",
+    "questionText": "An aid to trade associated with communications is",
     "options": [
       "banking",
       "transportation",
@@ -13117,7 +13117,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-380-250",
-    "questionText": "Resources harnessed in certain proportion to create goods and services are  (JAMB 2009)",
+    "questionText": "Resources harnessed in certain proportion to create goods and services are",
     "options": [
       "factors of production",
       "technology and labour",
@@ -13129,7 +13129,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-381-287",
-    "questionText": "Market skimming is an example of  (JAMB 2009)",
+    "questionText": "Market skimming is an example of",
     "options": [
       "market penetration",
       "Sales promotion",
@@ -13141,7 +13141,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-382-280",
-    "questionText": "The characteristic which ensures that money is free from forgery is its  (JAMB 2009)",
+    "questionText": "The characteristic which ensures that money is free from forgery is its",
     "options": [
       "legality",
       "durability",
@@ -13153,7 +13153,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-383-279",
-    "questionText": "The manufactures’ Association of Nigeria is an example of a  (JAMB 2009)",
+    "questionText": "The manufactures’ Association of Nigeria is an example of a",
     "options": [
       "labour union",
       "pressure group",
@@ -13165,7 +13165,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-384-288",
-    "questionText": "The most important attributes in a sale of goods contract are  (JAMB 2009)",
+    "questionText": "The most important attributes in a sale of goods contract are",
     "options": [
       "offer and consideration",
       "price and goods",
@@ -13177,7 +13177,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-385-265",
-    "questionText": "The transmission of telephone services from one country to another is facilitated by  (JAMB 2009)",
+    "questionText": "The transmission of telephone services from one country to another is facilitated by",
     "options": [
       "communication satellite",
       "international facility",
@@ -13189,7 +13189,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-386-293",
-    "questionText": "The economic environment of a business is concerned with  (JAMB 2009)",
+    "questionText": "The economic environment of a business is concerned with",
     "options": [
       "climatic conditions",
       "changing values",
@@ -13201,7 +13201,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-387-258",
-    "questionText": "If a buyer is given 12.5% discount on N50000 worth of goods, how much will he pay? (JAMB 2009)",
+    "questionText": "If a buyer is given 12.5% discount on N50000 worth of goods, how much will he pay?",
     "options": [
       "N56 250",
       "N43 750",
@@ -13213,7 +13213,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-388-259",
-    "questionText": "A cheque which a bank draws on its own funds is a (JAMB 2009)",
+    "questionText": "A cheque which a bank draws on its own funds is a",
     "options": [
       "bankdraft",
       "cashier’s cheque",
@@ -13225,7 +13225,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-389-266",
-    "questionText": "The principle of insurance which entitles an insurance company to take any advantage due to the insured after full indemnity is  (JAMB 2009)",
+    "questionText": "The principle of insurance which entitles an insurance company to take any advantage due to the insured after full indemnity is",
     "options": [
       "contribution",
       "subrogation",
@@ -13237,7 +13237,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-390-273",
-    "questionText": "Partnerships are most effective where  (JAMB 2009)",
+    "questionText": "Partnerships are most effective where",
     "options": [
       "the partners are family friends",
       "professionals are involved",
@@ -13249,7 +13249,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-391-277",
-    "questionText": "If a firm has a turnover of N50 000 and the cost of goods sold is N40 000, what is the percentage of gross profit on sale?  (JAMB 2009)",
+    "questionText": "If a firm has a turnover of N50 000 and the cost of goods sold is N40 000, what is the percentage of gross profit on sale?",
     "options": [
       "30.50%",
       "20.50%",
@@ -13261,7 +13261,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-392-292",
-    "questionText": "A customer with XYZ Plc sent money through his account to his sister’s  account in another branch. This is an example of  (JAMB 2009)",
+    "questionText": "A customer with XYZ Plc sent money through his account to his sister’s  account in another branch. This is an example of",
     "options": [
       "e-business",
       "e –commerce",
@@ -13273,7 +13273,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-393-275",
-    "questionText": "The financial instrument that entitles the holder to receive dividend and capital gains is a  (JAMB 2009)",
+    "questionText": "The financial instrument that entitles the holder to receive dividend and capital gains is a",
     "options": [
       "share",
       "bond",
@@ -13285,7 +13285,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-394-264",
-    "questionText": "In which of the following will be number of words used determine the cost of the message sent? (JAMB 2009)",
+    "questionText": "In which of the following will be number of words used determine the cost of the message sent?",
     "options": [
       "telephone",
       "telegram",
@@ -13297,7 +13297,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-395-284",
-    "questionText": "An organizational structure that is military in nature is the  (JAMB 2009)",
+    "questionText": "An organizational structure that is military in nature is the",
     "options": [
       "line structure",
       "staff structure",
@@ -13309,7 +13309,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-396-294",
-    "questionText": "A firm that disposes its wastes properly is discharging its  (JAMB 2009)",
+    "questionText": "A firm that disposes its wastes properly is discharging its",
     "options": [
       "community responsibility",
       "environmental responsibility",
@@ -13321,7 +13321,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-397-286",
-    "questionText": "The concept which focuses on consumers in decision-making is  (JAMB 2009)",
+    "questionText": "The concept which focuses on consumers in decision-making is",
     "options": [
       "selling concept",
       "marketing concept",
@@ -13333,7 +13333,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-398-268",
-    "questionText": "The most important reason for the existence of insurance business is to  (JAMB 2009)",
+    "questionText": "The most important reason for the existence of insurance business is to",
     "options": [
       "prevent the occurrence of any loss",
       "spread losses to all covered participants",
@@ -13345,7 +13345,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-399-330",
-    "questionText": "The main concern of marketing concept is to  (JAMB 2010)",
+    "questionText": "The main concern of marketing concept is to",
     "options": [
       "reduce the number of retail outlets",
       "identify consumer needs and satisfy them",
@@ -13357,7 +13357,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-400-327",
-    "questionText": "The tree components of staffing are  (JAMB 2010)",
+    "questionText": "The tree components of staffing are",
     "options": [
       "recruitment, interview and appointment",
       "recruitment, test and placement",
@@ -13369,7 +13369,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-401-326",
-    "questionText": "A pre-requisite for admission into the second-tier securities Market is for a company to  (JAMB 2010)",
+    "questionText": "A pre-requisite for admission into the second-tier securities Market is for a company to",
     "options": [
       "make 20% of its equity share available to he public for subscription",
       "have a minimum of 100 shareholders",
@@ -13381,7 +13381,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-402-311",
-    "questionText": "Selling goods in foreign countries at prices below their marginal cost is  (JAMB 2010)",
+    "questionText": "Selling goods in foreign countries at prices below their marginal cost is",
     "options": [
       "dumping",
       "depreciation",
@@ -13393,7 +13393,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-403-328",
-    "questionText": "Which of the following is a matter of personal preference on the part of a superior officer? (JAMB 2010)",
+    "questionText": "Which of the following is a matter of personal preference on the part of a superior officer?",
     "options": [
       "Unity of command",
       "span of control",
@@ -13405,7 +13405,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-404-315",
-    "questionText": "A businessman who undertakes the hull insurance policy is aiming at  (JAMB 2010)",
+    "questionText": "A businessman who undertakes the hull insurance policy is aiming at",
     "options": [
       "covering losses on damages to the cargo",
       "protecting injured crew in the ship",
@@ -13417,7 +13417,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-405-342",
-    "questionText": "In e-baking, ATM means  (JAMB 2010)",
+    "questionText": "In e-baking, ATM means",
     "options": [
       "authentic Teller Machine",
       "Automatic Teller Machine",
@@ -13429,7 +13429,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-406-318",
-    "questionText": "The warehouse that is owned and controlled by the government is a  (JAMB 2010)",
+    "questionText": "The warehouse that is owned and controlled by the government is a",
     "options": [
       "wholesalers’ warehouse",
       "public warehouse",
@@ -13441,7 +13441,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-407-296",
-    "questionText": "Which of the following can be used to differentiate skilled and unskilled lab our?  (JAMB 2010)",
+    "questionText": "Which of the following can be used to differentiate skilled and unskilled lab our?",
     "options": [
       "education and training",
       "available resources",
@@ -13453,7 +13453,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-408-333",
-    "questionText": "The label on a product such as ‘pampers’ is a type of  (JAMB 2010)",
+    "questionText": "The label on a product such as ‘pampers’ is a type of",
     "options": [
       "trademark",
       "branding",
@@ -13465,7 +13465,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-409-341",
-    "questionText": "A device that enables the downloading of information from the internet is the  (JAMB 2010)",
+    "questionText": "A device that enables the downloading of information from the internet is the",
     "options": [
       "floppy drive",
       "compact disk",
@@ -13477,7 +13477,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-410-324",
-    "questionText": "A characteristic of money which ensures that its value is not lost is  (JAMB 2010)",
+    "questionText": "A characteristic of money which ensures that its value is not lost is",
     "options": [
       "homogeneity",
       "easy portability",
@@ -13489,7 +13489,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-411-303",
-    "questionText": "After- sales service is a function usually rendered by (JAMB 2010)",
+    "questionText": "After- sales service is a function usually rendered by",
     "options": [
       "a retailer",
       "a wholesaler",
@@ -13501,7 +13501,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-412-305",
-    "questionText": "The activity which entails buying of goods in bulk and selling in small quantities to retailers is  (JAMB 2010)",
+    "questionText": "The activity which entails buying of goods in bulk and selling in small quantities to retailers is",
     "options": [
       "assembling",
       "wholesaling",
@@ -13513,7 +13513,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-413-297",
-    "questionText": "A doctor who attends to patients at home after his official duty is (JAMB 2010)",
+    "questionText": "A doctor who attends to patients at home after his official duty is",
     "options": [
       "A community development worker",
       "a direct service worker",
@@ -13525,7 +13525,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-414-329",
-    "questionText": "The conversion of raw materials into finished goods leads to the creation of  (JAMB 2010)",
+    "questionText": "The conversion of raw materials into finished goods leads to the creation of",
     "options": [
       "form utility",
       "product utility",
@@ -13537,7 +13537,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-415-316",
-    "questionText": "An agent who brings a customer into business contact with his principal is known as  (JAMB 2010)",
+    "questionText": "An agent who brings a customer into business contact with his principal is known as",
     "options": [
       "a del credere agent",
       "an auctioneer",
@@ -13549,7 +13549,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-416-331",
-    "questionText": "The best pricing strategy for a company that produces warm clothing is  (JAMB 2010)",
+    "questionText": "The best pricing strategy for a company that produces warm clothing is",
     "options": [
       "target return pricing",
       "bid pricing",
@@ -13561,7 +13561,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629886-417-306",
-    "questionText": "The comparison of a country’s visible and invisible exports and imports expressed in monetary term is  (JAMB 2010)",
+    "questionText": "The comparison of a country’s visible and invisible exports and imports expressed in monetary term is",
     "options": [
       "balance of payment",
       "terms of trade",
@@ -13573,7 +13573,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-418-336",
-    "questionText": "The difference between trademark and patent right is that the latter  (JAMB 2010)",
+    "questionText": "The difference between trademark and patent right is that the latter",
     "options": [
       "gives exclusive right to import a particular good",
       "is conferred by the government",
@@ -13585,7 +13585,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-419-312",
-    "questionText": "A process of creating more market for a product is through  (JAMB 2010)",
+    "questionText": "A process of creating more market for a product is through",
     "options": [
       "consumerism",
       "marketing",
@@ -13597,7 +13597,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-420-299",
-    "questionText": "The reward of rent, wages, interest and profits accrue from (JAMB 2010)",
+    "questionText": "The reward of rent, wages, interest and profits accrue from",
     "options": [
       "capitals, labour, land, and entrepreneur respectively",
       "land entrepreneur, labour and capital respectively",
@@ -13609,7 +13609,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-421-300",
-    "questionText": "The factor of production that is subject to depreciation is (JAMB 2010)",
+    "questionText": "The factor of production that is subject to depreciation is",
     "options": [
       "capital",
       "land",
@@ -13621,7 +13621,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-422-332",
-    "questionText": "The deliberate and sustained efforts of an organization towards the creation of goodwill for its products and services is through  (JAMB 2010)",
+    "questionText": "The deliberate and sustained efforts of an organization towards the creation of goodwill for its products and services is through",
     "options": [
       "Public relations",
       "advertising",
@@ -13633,7 +13633,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-423-323",
-    "questionText": "One of the functions of NACCIMA is  (JAMB 2010)",
+    "questionText": "One of the functions of NACCIMA is",
     "options": [
       "negotiating with labour unions in matters of wages and conditions of service",
       "pooling of members’ resources for long-term investment",
@@ -13645,7 +13645,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-424-339",
-    "questionText": "The central working system of a computer used for data processing is the  (JAMB 2010)",
+    "questionText": "The central working system of a computer used for data processing is the",
     "options": [
       "memory unit",
       "monitor",
@@ -13657,7 +13657,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-425-313",
-    "questionText": "One of the merits of television as a medium of advertising is that it  (JAMB 2010)",
+    "questionText": "One of the merits of television as a medium of advertising is that it",
     "options": [
       "is prone to censorship",
       "is relatively cheap",
@@ -13669,7 +13669,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-426-308",
-    "questionText": "Entrepot trade usually occurs in  (JAMB 2010)",
+    "questionText": "Entrepot trade usually occurs in",
     "options": [
       "exchanging goods within a nation",
       "exchanging goods among countries",
@@ -13681,7 +13681,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-427-322",
-    "questionText": "A public company with an authorized capital of N60,000, issued 36,000 shraes at 150k each. What is its capital? (JAMB 2010)",
+    "questionText": "A public company with an authorized capital of N60,000, issued 36,000 shraes at 150k each. What is its capital?",
     "options": [
       "N60,000",
       "N36,000",
@@ -13693,7 +13693,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-428-319",
-    "questionText": "One of the main features of a partnership is  (JAMB 2010)",
+    "questionText": "One of the main features of a partnership is",
     "options": [
       "limited liability",
       "lack of corporate existence",
@@ -13705,7 +13705,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-429-334",
-    "questionText": "An opportunity to reject a binding contract at will by a third party is said to be a  (JAMB 2010)",
+    "questionText": "An opportunity to reject a binding contract at will by a third party is said to be a",
     "options": [
       "valid contract",
       "quasi contract",
@@ -13717,7 +13717,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-430-307",
-    "questionText": "The document that gives an importer a freehand to obtain goods from any manufacturer is  (JAMB 2010)",
+    "questionText": "The document that gives an importer a freehand to obtain goods from any manufacturer is",
     "options": [
       "a consular invoice",
       "a closed indent",
@@ -13729,7 +13729,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-431-302",
-    "questionText": "A worker who process rice is engaged in (JAMB 2010)",
+    "questionText": "A worker who process rice is engaged in",
     "options": [
       "constructive activity",
       "commercial activity",
@@ -13741,7 +13741,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-432-325",
-    "questionText": "The instrument used in the capital market is  (JAMB 2010)",
+    "questionText": "The instrument used in the capital market is",
     "options": [
       "treasury bill",
       "bill of exchange",
@@ -13753,7 +13753,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-433-314",
-    "questionText": "The best mode of ensuring that items posted get to the named addressed is through (JAMB 2010)",
+    "questionText": "The best mode of ensuring that items posted get to the named addressed is through",
     "options": [
       "recorded delivery",
       "registered mail",
@@ -13765,7 +13765,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-434-301",
-    "questionText": "Division of labour ultimately leads to  (JAMB 2010)",
+    "questionText": "Division of labour ultimately leads to",
     "options": [
       "conservation",
       "integration",
@@ -13777,7 +13777,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-435-295",
-    "questionText": "The wealth of a nation depend on the volume of its (JAMB 2010)",
+    "questionText": "The wealth of a nation depend on the volume of its",
     "options": [
       "bilateral trade activities",
       "commercial activities",
@@ -13789,7 +13789,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-436-298",
-    "questionText": "Manufacturing and construction activities are class8ified under (JAMB 2010)",
+    "questionText": "Manufacturing and construction activities are class8ified under",
     "options": [
       "Primary production",
       "Tertiary production",
@@ -13801,7 +13801,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-437-335",
-    "questionText": "An agency contract must involve  (JAMB 2010)",
+    "questionText": "An agency contract must involve",
     "options": [
       "a principal and a consumer",
       "a principal and a producer",
@@ -13813,7 +13813,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-438-338",
-    "questionText": "A printed copy of processed information from the computer is the  (JAMB 2010)",
+    "questionText": "A printed copy of processed information from the computer is the",
     "options": [
       "soft copy",
       "file copy",
@@ -13825,7 +13825,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-439-377",
-    "questionText": "The arrangement and interrelationship of the various components and positions of a business is referred to as  (JAMB 2011)",
+    "questionText": "The arrangement and interrelationship of the various components and positions of a business is referred to as",
     "options": [
       "organizational structure",
       "clarity of objective",
@@ -13837,7 +13837,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-440-350",
-    "questionText": "Resources obtained from the extractive sector that are transformed into finished products are examples of  (JAMB 2011)",
+    "questionText": "Resources obtained from the extractive sector that are transformed into finished products are examples of",
     "options": [
       "primary production",
       "tertiary production",
@@ -13849,7 +13849,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-441-386",
-    "questionText": "An example of a computer operating system is  (JAMB 2011)",
+    "questionText": "An example of a computer operating system is",
     "options": [
       "the pagemaker",
       "the Word Perfect",
@@ -13861,7 +13861,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-442-356",
-    "questionText": "A document that indicates obligation that is transferable by delivery and endorsement is a  (JAMB 2011)",
+    "questionText": "A document that indicates obligation that is transferable by delivery and endorsement is a",
     "options": [
       "bill of lading",
       "bill of exchange",
@@ -13873,7 +13873,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-443-354",
-    "questionText": "Balance of payment problems arise if a country’s  (JAMB 2011)",
+    "questionText": "Balance of payment problems arise if a country’s",
     "options": [
       "exports is more than imports",
       "imports is more than exports",
@@ -13885,7 +13885,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-444-376",
-    "questionText": "The managerial ability of a supervisor in an organization may be underutilized if the  (JAMB 2011)",
+    "questionText": "The managerial ability of a supervisor in an organization may be underutilized if the",
     "options": [
       "morale of the supervised is high",
       "span of control is wide",
@@ -13897,7 +13897,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-445-352",
-    "questionText": "One of the functions of a retailer is the  (JAMB 2011)",
+    "questionText": "One of the functions of a retailer is the",
     "options": [
       "financing of production activities",
       "provision of credit facilities to relations",
@@ -13909,7 +13909,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-446-368",
-    "questionText": "The business organization that can effectively combine management with control is  (JAMB 2011)",
+    "questionText": "The business organization that can effectively combine management with control is",
     "options": [
       "private limited liability company",
       "sole proprietorship",
@@ -13921,7 +13921,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-447-351",
-    "questionText": "An individual that links the producer with the retailer is  (JAMB 2011)",
+    "questionText": "An individual that links the producer with the retailer is",
     "options": [
       "an agent",
       "a wholesaler",
@@ -13933,7 +13933,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-448-359",
-    "questionText": "The purchase of goods under the CWO system of payment implies that  (JAMB 2011)",
+    "questionText": "The purchase of goods under the CWO system of payment implies that",
     "options": [
       "money must be enclosed when ordering",
       "payment must be made on delivery",
@@ -13945,7 +13945,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-449-375",
-    "questionText": "A communication process providing information for decision-making in an organization is the  (JAMB 2011)",
+    "questionText": "A communication process providing information for decision-making in an organization is the",
     "options": [
       "Management Information System",
       "Transmission Control Protocol",
@@ -13957,7 +13957,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-450-381",
-    "questionText": "To make a simple contract valid, the intention must be  (JAMB 2011)",
+    "questionText": "To make a simple contract valid, the intention must be",
     "options": [
       "legal and written",
       "legal and binding",
@@ -13969,7 +13969,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-451-391",
-    "questionText": "A business organization is said to be socially responsible when it  (JAMB 2011)",
+    "questionText": "A business organization is said to be socially responsible when it",
     "options": [
       "gets involve in issues relating to the society",
       "rewards its staff for long-term service",
@@ -13981,7 +13981,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-452-353",
-    "questionText": "The main aim of selling directly to the consumers by manufacturers is to  (JAMB 2011)",
+    "questionText": "The main aim of selling directly to the consumers by manufacturers is to",
     "options": [
       "reduce transportation cost",
       "make contact with individual consumers",
@@ -13993,7 +13993,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-453-364",
-    "questionText": "Mr. Lawal insured his warehouse against burglary but it was later gutted buy fire. This implies that  (JAMB 2011)",
+    "questionText": "Mr. Lawal insured his warehouse against burglary but it was later gutted buy fire. This implies that",
     "options": [
       "the loss should be borne by the insurer",
       "Mr. Lawal is liable only for half of the estimated loss",
@@ -14005,7 +14005,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-454-374",
-    "questionText": "Second-tier securities Market differs from the first-tier securities Market in that the former is  (JAMB 2011)",
+    "questionText": "Second-tier securities Market differs from the first-tier securities Market in that the former is",
     "options": [
       "Highly restricted",
       "regulated by the SEC",
@@ -14017,7 +14017,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-455-348",
-    "questionText": "The creation of goods and services to satisfy human wants is referred to as  (JAMB 2011)",
+    "questionText": "The creation of goods and services to satisfy human wants is referred to as",
     "options": [
       "manufacturing",
       "commercialization",
@@ -14029,7 +14029,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-456-384",
-    "questionText": "The body charged with the responsibility of regulating foods and drugs in Nigeria is the  (JAMB 2011)",
+    "questionText": "The body charged with the responsibility of regulating foods and drugs in Nigeria is the",
     "options": [
       "SON",
       "NDLEA",
@@ -14041,7 +14041,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-457-370",
-    "questionText": "In the event of voluntary liquidation, the appointment of a liquidator is the responsibility of the  (JAMB 2011)",
+    "questionText": "In the event of voluntary liquidation, the appointment of a liquidator is the responsibility of the",
     "options": [
       "directors",
       "creditors",
@@ -14053,7 +14053,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-458-380",
-    "questionText": "The slogan, a wonderful world,  used by a communication network is a form of  (JAMB 2011)",
+    "questionText": "The slogan, a wonderful world,  used by a communication network is a form of",
     "options": [
       "product differentiation",
       "persuasive advertising",
@@ -14065,7 +14065,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-459-378",
-    "questionText": "The variety of goods and services which a company offers for sale is its  (JAMB 2011)",
+    "questionText": "The variety of goods and services which a company offers for sale is its",
     "options": [
       "place mix",
       "promotion mix",
@@ -14077,7 +14077,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-460-344",
-    "questionText": "The most important function of commerce is in  (JAMB 2011)",
+    "questionText": "The most important function of commerce is in",
     "options": [
       "enhancing business relationships",
       "helping people to improve their profits",
@@ -14089,7 +14089,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-461-365",
-    "questionText": "The agreement of insurers to spread risks  among themselves is a major feature of  (JAMB 2011)",
+    "questionText": "The agreement of insurers to spread risks  among themselves is a major feature of",
     "options": [
       "reinsurance",
       "life assurance",
@@ -14101,7 +14101,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-462-388",
-    "questionText": "A software application which enables a user to display and interact with texts, images and videos is the  (JAMB 2011)",
+    "questionText": "A software application which enables a user to display and interact with texts, images and videos is the",
     "options": [
       "web server",
       "internet Protocol",
@@ -14113,7 +14113,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-463-372",
-    "questionText": "An example of a trade association is  (JAMB 2011)",
+    "questionText": "An example of a trade association is",
     "options": [
       "ALGON",
       "NLC",
@@ -14125,7 +14125,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-464-369",
-    "questionText": "When two or more companies agree to execute a project too large for one to handle, this is referred to as  (JAMB 2011)",
+    "questionText": "When two or more companies agree to execute a project too large for one to handle, this is referred to as",
     "options": [
       "an amalgamation",
       "a cartel",
@@ -14137,7 +14137,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-465-357",
-    "questionText": "The document which can be exchanged for a bill of lading is  (JAMB 2011)",
+    "questionText": "The document which can be exchanged for a bill of lading is",
     "options": [
       "freight note",
       "mate receipt",
@@ -14149,7 +14149,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-466-373",
-    "questionText": "A broker is an agent who links a potential investor with  (JAMB 2011)",
+    "questionText": "A broker is an agent who links a potential investor with",
     "options": [
       "a shareholder who wants to register a company",
       "Other members of the exchange who want to trade",
@@ -14161,7 +14161,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-467-349",
-    "questionText": "Which of the following is a limitation  of division of labour?  (JAMB 2011)",
+    "questionText": "Which of the following is a limitation  of division of labour?",
     "options": [
       "decline in craftsmanship",
       "monotony of work",
@@ -14173,7 +14173,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-468-346",
-    "questionText": "An oil exploration company is engaged in  (JAMB 2011)",
+    "questionText": "An oil exploration company is engaged in",
     "options": [
       "tertiary production",
       "constructive occupation",
@@ -14185,7 +14185,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-469-355",
-    "questionText": "The three components of a country’s balance of payment are  (JAMB 2011)",
+    "questionText": "The three components of a country’s balance of payment are",
     "options": [
       "Current account, capital account and monetary movement account",
       "capital account, trade account and business record",
@@ -14197,7 +14197,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-470-366",
-    "questionText": "Inbound tourism occurs when  (JAMB 2011)",
+    "questionText": "Inbound tourism occurs when",
     "options": [
       "non-residents of a country travel to other countries",
       "residents of a country travel to other countries",
@@ -14209,7 +14209,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-471-389",
-    "questionText": "A predominant mark-up language for web pages is  (JAMB 2011)",
+    "questionText": "A predominant mark-up language for web pages is",
     "options": [
       "IP",
       "HTTP",
@@ -14221,7 +14221,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-472-387",
-    "questionText": "Intranet differs from extranet in that the former  (JAMB 2011)",
+    "questionText": "Intranet differs from extranet in that the former",
     "options": [
       "requires a modem before it could be used",
       "can generally be accessed by the public",
@@ -14233,7 +14233,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-473-363",
-    "questionText": "An ancillary to trade that easily links suppliers with consumers is  (JAMB 2011)",
+    "questionText": "An ancillary to trade that easily links suppliers with consumers is",
     "options": [
       "tourism",
       "banking",
@@ -14245,7 +14245,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-474-358",
-    "questionText": "The price quoted which includes the cost of insurance, freight and all delivery charges to the importer’s warehouse is  (JAMB 2011)",
+    "questionText": "The price quoted which includes the cost of insurance, freight and all delivery charges to the importer’s warehouse is",
     "options": [
       "Free Alongside Ship",
       "Franco",
@@ -14257,7 +14257,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-475-379",
-    "questionText": "Activities undertaken to create awareness for goods by conducting contests is  (JAMB 2011)",
+    "questionText": "Activities undertaken to create awareness for goods by conducting contests is",
     "options": [
       "marketing concept",
       "consumerism",
@@ -14269,7 +14269,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-476-371",
-    "questionText": "A source of business financing which involves pledging of a specific asset is  (JAMB 2011)",
+    "questionText": "A source of business financing which involves pledging of a specific asset is",
     "options": [
       "bond",
       "mortgage",
@@ -14281,7 +14281,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-477-383",
-    "questionText": "One of the obligations of an employer to an employee is to  (JAMB 2011)",
+    "questionText": "One of the obligations of an employer to an employee is to",
     "options": [
       "Indemnify him against liabilities incurred on duty",
       "award scholarship to his children",
@@ -14293,7 +14293,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-478-367",
-    "questionText": "One of the major disadvantages of pipeline transportation is its  (JAMB 2011)",
+    "questionText": "One of the major disadvantages of pipeline transportation is its",
     "options": [
       "high cost of construction",
       "limitation in scope",
@@ -14305,7 +14305,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-479-411",
-    "questionText": "A person who undertakes a life insurance is said to be an  (JAMB 2012)",
+    "questionText": "A person who undertakes a life insurance is said to be an",
     "options": [
       "Insurer",
       "assurer",
@@ -14317,7 +14317,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-480-422",
-    "questionText": "Given:  N\n Opening stock  1,800\n Purchases   2, 800\n Sales    8,000\n Closing stock    350\n Carriage on sales    500\n Calculate the value of the unused stock.\n (JAMB 2012)",
+    "questionText": "Given:  N\n Opening stock  1,800\n Purchases   2, 800\n Sales    8,000\n Closing stock    350\n Carriage on sales    500\n Calculate the value of the unused stock.\n",
     "options": [
       "N 800",
       "N500",
@@ -14329,7 +14329,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-481-434",
-    "questionText": "The body which ensures that consumers are protected against harmful product in Nigeria is  (JAMB 2012)",
+    "questionText": "The body which ensures that consumers are protected against harmful product in Nigeria is",
     "options": [
       "NAFDAC",
       "NDLEA",
@@ -14341,7 +14341,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-482-408",
-    "questionText": "Communication is relevant to business activities because it  (JAMB 2012)",
+    "questionText": "Communication is relevant to business activities because it",
     "options": [
       "creates wealth for people",
       "reduces the cost and risk of traveling",
@@ -14353,7 +14353,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-483-406",
-    "questionText": "A current account holder pays fees for services in form of  (JAMB 2012)",
+    "questionText": "A current account holder pays fees for services in form of",
     "options": [
       "bank charges",
       "inertest rates",
@@ -14365,7 +14365,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-484-401",
-    "questionText": "A document which serves as an order with details of goods required by an intending purchaser is    (JAMB 2012)",
+    "questionText": "A document which serves as an order with details of goods required by an intending purchaser is",
     "options": [
       "a freight note",
       "an indent",
@@ -14377,7 +14377,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-485-415",
-    "questionText": "The most important business objective is to  (JAMB 2012)",
+    "questionText": "The most important business objective is to",
     "options": [
       "improve investments",
       "provide quality products",
@@ -14389,7 +14389,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-486-416",
-    "questionText": "In case of liquidation of a public limited liability company, those that are first paid are  (JAMB 2012)",
+    "questionText": "In case of liquidation of a public limited liability company, those that are first paid are",
     "options": [
       "ordinary shareholders",
       "preference shareholders",
@@ -14401,7 +14401,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-487-439",
-    "questionText": "The provision of quality and safe products which guarantee the health of consumers is an example of  (JAMB 2012)",
+    "questionText": "The provision of quality and safe products which guarantee the health of consumers is an example of",
     "options": [
       "quality control",
       "price control",
@@ -14413,7 +14413,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-488-413",
-    "questionText": "The type of letters that are delivered through the normal mail or by airmail express service is referred to as  (JAMB 2012)",
+    "questionText": "The type of letters that are delivered through the normal mail or by airmail express service is referred to as",
     "options": [
       "Inland letters",
       "registered letters",
@@ -14425,7 +14425,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-489-428",
-    "questionText": "The promotion of team spirit in an organization is referred to as  (JAMB 2012)",
+    "questionText": "The promotion of team spirit in an organization is referred to as",
     "options": [
       "Unit of direction",
       "spirit de corps",
@@ -14437,7 +14437,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-490-431",
-    "questionText": "Goods and Services are made available to consumers through (JAMB 2012)",
+    "questionText": "Goods and Services are made available to consumers through",
     "options": [
       "the channel of distribution",
       "sales promotion",
@@ -14449,7 +14449,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-491-405",
-    "questionText": "The most effective type of advertising for branding products is  (JAMB 2012)",
+    "questionText": "The most effective type of advertising for branding products is",
     "options": [
       "mass advertising",
       "persuasive advertising",
@@ -14461,7 +14461,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-492-394",
-    "questionText": "One of the inputs in production that can be motivated by remuneration is  (JAMB 2012)",
+    "questionText": "One of the inputs in production that can be motivated by remuneration is",
     "options": [
       "capital",
       "entrepreneur",
@@ -14473,7 +14473,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-493-435",
-    "questionText": "The process of decoding data in a computer is known as  (JAMB 2012)",
+    "questionText": "The process of decoding data in a computer is known as",
     "options": [
       "dilution",
       "default drive",
@@ -14485,7 +14485,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-494-403",
-    "questionText": "Which of the following is a characteristic of a bearer cheque?  (JAMB 2012)",
+    "questionText": "Which of the following is a characteristic of a bearer cheque?",
     "options": [
       "it is made with transverse lines",
       "it is made payable to whoever presents it",
@@ -14497,7 +14497,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-495-433",
-    "questionText": "Yahaya bought a piece of furniture on a credit sale agreement from Ahmed and resold it to Ali before all installments were made. The court upheld that Ahmed could not recover possession of the items from Ali. The reason for the judement was because  (JAMB 2012)",
+    "questionText": "Yahaya bought a piece of furniture on a credit sale agreement from Ahmed and resold it to Ali before all installments were made. The court upheld that Ahmed could not recover possession of the items from Ali. The reason for the judement was because",
     "options": [
       "ownership was transferred on completion of installment",
       "ownership was transferred on delivery",
@@ -14509,7 +14509,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-496-409",
-    "questionText": "The right of an insurance company to stand in place of an insured against a third party, who is liable for the occurrence of a loss, is the principle of  (JAMB 2012)",
+    "questionText": "The right of an insurance company to stand in place of an insured against a third party, who is liable for the occurrence of a loss, is the principle of",
     "options": [
       "proximate cause",
       "insurable interest",
@@ -14521,7 +14521,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-497-429",
-    "questionText": "One of the characteristics of a good organizational chart is that it should  (JAMB 2012)",
+    "questionText": "One of the characteristics of a good organizational chart is that it should",
     "options": [
       "be rigid",
       "show government policy",
@@ -14533,7 +14533,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-498-392",
-    "questionText": "One of the major benefits of commerce to government is to  (JAMB 2012)",
+    "questionText": "One of the major benefits of commerce to government is to",
     "options": [
       "improve the standard of living",
       "generate revenue for growth and development",
@@ -14545,7 +14545,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629887-499-426",
-    "questionText": "Securities that entitle the investor to coupon rates are  (JAMB 2012)",
+    "questionText": "Securities that entitle the investor to coupon rates are",
     "options": [
       "bonds",
       "equities",
@@ -14557,7 +14557,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-500-402",
-    "questionText": "If a customer pays within nine days of receiving goods and takes advantage of 3% off the invoice price, this is stated as  (JAMB 2012)",
+    "questionText": "If a customer pays within nine days of receiving goods and takes advantage of 3% off the invoice price, this is stated as",
     "options": [
       "3/9; net 3.",
       "9/27; net 30",
@@ -14569,7 +14569,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-501-425",
-    "questionText": "Dealing in quoted securities on the Nigeria Stock Exchange is restricted to authorized  (JAMB 2012)",
+    "questionText": "Dealing in quoted securities on the Nigeria Stock Exchange is restricted to authorized",
     "options": [
       "companies",
       "brokers",
@@ -14581,7 +14581,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-502-436",
-    "questionText": "Which of the following is a type of system software?  (JAMB 2012)",
+    "questionText": "Which of the following is a type of system software?",
     "options": [
       "Utility programs",
       "Registers",
@@ -14593,7 +14593,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-503-410",
-    "questionText": "Assurance is different from insurance in that the former is based on  (JAMB 2012)",
+    "questionText": "Assurance is different from insurance in that the former is based on",
     "options": [
       "probability",
       "possibility",
@@ -14605,7 +14605,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-504-420",
-    "questionText": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares? (JAMB 2012)",
+    "questionText": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares?",
     "options": [
       "it has been issued but not paid-up",
       "it has been applied for but not issued",
@@ -14617,7 +14617,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-505-404",
-    "questionText": "A bill of exchange paid before its due date at an amount less than its face value is said to have been  (JAMB 2012)",
+    "questionText": "A bill of exchange paid before its due date at an amount less than its face value is said to have been",
     "options": [
       "accepted",
       "rejected",
@@ -14629,7 +14629,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-506-417",
-    "questionText": "A feature common to public and private limited liability companies is that  (JAMB 2012)",
+    "questionText": "A feature common to public and private limited liability companies is that",
     "options": [
       "both can sue and be sued",
       "the minimum number of their shareholders is five",
@@ -14641,7 +14641,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-507-421",
-    "questionText": "If the rate of turnover of a company in 1999 was 4 times while the average stock was N49, 600, determine the turnover. (JAMB 2012)",
+    "questionText": "If the rate of turnover of a company in 1999 was 4 times while the average stock was N49, 600, determine the turnover.",
     "options": [
       "N199, 400",
       "N198, 400",
@@ -14653,7 +14653,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-508-424",
-    "questionText": "The promotion and protection of trade, industry and agriculture thorugh trade fairs is a function of  (JAMB 2012)",
+    "questionText": "The promotion and protection of trade, industry and agriculture thorugh trade fairs is a function of",
     "options": [
       "NACRDB",
       "NACCIMA",
@@ -14665,7 +14665,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-509-440",
-    "questionText": "A business organization must always consider the overall effect of its actions on the  (JAMB 2012)",
+    "questionText": "A business organization must always consider the overall effect of its actions on the",
     "options": [
       "competitor",
       "product",
@@ -14677,7 +14677,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-510-414",
-    "questionText": "A business organization that exploits the capabilities of a member to remedy the weaknesses of another is a  (JAMB 2012)",
+    "questionText": "A business organization that exploits the capabilities of a member to remedy the weaknesses of another is a",
     "options": [
       "joint venture",
       "partnership",
@@ -14689,7 +14689,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-511-418",
-    "questionText": "A business organization can obtain long-term financing through  (JAMB 2012)",
+    "questionText": "A business organization can obtain long-term financing through",
     "options": [
       "bank overdraft",
       "the sale of shares",
@@ -14701,7 +14701,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-512-399",
-    "questionText": "The major problem encountered in international trade is that of   (JAMB 2012)",
+    "questionText": "The major problem encountered in international trade is that of",
     "options": [
       "distance",
       "differences in culture",
@@ -14713,7 +14713,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-513-427",
-    "questionText": "Under what management function will the motivation of employees fall? (JAMB 2012)",
+    "questionText": "Under what management function will the motivation of employees fall?",
     "options": [
       "staffing",
       "controlling",
@@ -14725,7 +14725,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-514-407",
-    "questionText": "Printed messages sent by cable are recorded as  (JAMB 2012)",
+    "questionText": "Printed messages sent by cable are recorded as",
     "options": [
       "telegram",
       "SMS",
@@ -14737,7 +14737,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-515-423",
-    "questionText": "The main objective of a trade association is to  (JAMB 2012)",
+    "questionText": "The main objective of a trade association is to",
     "options": [
       "protect is members against litigation",
       "boost the trade of its members",
@@ -14749,7 +14749,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-516-396",
-    "questionText": "The sales of goods through a medium that accepts money and deliver the items to the customer is  (JAMB 2012)",
+    "questionText": "The sales of goods through a medium that accepts money and deliver the items to the customer is",
     "options": [
       "an automated teller machine",
       "a vending machine",
@@ -14761,7 +14761,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-517-397",
-    "questionText": "The main purpose of branding is to  (JAMB 2012)",
+    "questionText": "The main purpose of branding is to",
     "options": [
       "create identity for a product",
       "make a product look attractive",
@@ -14773,7 +14773,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-518-398",
-    "questionText": "The basis for international trade is embedded in the principle of  (JAMB 2012)",
+    "questionText": "The basis for international trade is embedded in the principle of",
     "options": [
       "absolute advantage",
       "globalization",
@@ -14785,7 +14785,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-519-580",
-    "questionText": "Social responsibilities of a business to the consumers \tinclude the following, EXCEPT (JAMB 2013)",
+    "questionText": "Social responsibilities of a business to the consumers \tinclude the following, EXCEPT",
     "options": [
       "educating the customers",
       "ensuring truth in advertisement",
@@ -14797,7 +14797,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-520-484",
-    "questionText": "A computer accessory through which information can be retrieved is the  (JAMB 2013)",
+    "questionText": "A computer accessory through which information can be retrieved is the",
     "options": [
       "hard disk",
       "input device",
@@ -14809,7 +14809,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-521-479",
-    "questionText": "A contract can be terminated through  (JAMB 2013)",
+    "questionText": "A contract can be terminated through",
     "options": [
       "physical combat",
       "family intervention",
@@ -14821,7 +14821,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-522-443",
-    "questionText": "The final link in the chain of distribution is  (JAMB 2013)",
+    "questionText": "The final link in the chain of distribution is",
     "options": [
       "Middlemen",
       "wholesaling",
@@ -14833,7 +14833,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-523-454",
-    "questionText": "If Mr. N takes a fire insurance policy with average clause, his compensation will be  (JAMB 2013)",
+    "questionText": "If Mr. N takes a fire insurance policy with average clause, his compensation will be",
     "options": [
       "N5, 000",
       "N7, 500",
@@ -14845,7 +14845,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-524-544",
-    "questionText": "Platinum Habib Bank Plc. is an example of __ bank. (JAMB 2013)",
+    "questionText": "Platinum Habib Bank Plc. is an example of __ bank.",
     "options": [
       "central",
       "commercial",
@@ -14857,7 +14857,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-525-474",
-    "questionText": "The essential utility derived from the use of a product is known as  (JAMB 2013)",
+    "questionText": "The essential utility derived from the use of a product is known as",
     "options": [
       "augmented benefit",
       "branded benefit",
@@ -14869,7 +14869,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-526-471",
-    "questionText": "In a staff-authority relationship, the opinion of a specialist is one department to another is  (JAMB 2013)",
+    "questionText": "In a staff-authority relationship, the opinion of a specialist is one department to another is",
     "options": [
       "a directive",
       "an advice",
@@ -14881,7 +14881,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-527-459",
-    "questionText": "Which of the following will NOT be stated in a Memorandum of Association?  (JAMB 2013)",
+    "questionText": "Which of the following will NOT be stated in a Memorandum of Association?",
     "options": [
       "Name clause",
       "Rights of shareholders",
@@ -14893,7 +14893,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-528-465",
-    "questionText": "Money is generally acceptable for transactions due to (JAMB 2013)",
+    "questionText": "Money is generally acceptable for transactions due to",
     "options": [
       "the legal backing",
       "the rule of law",
@@ -14905,7 +14905,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-529-481",
-    "questionText": "The sole legal right held by the author to publish his book is a  (JAMB 2013)",
+    "questionText": "The sole legal right held by the author to publish his book is a",
     "options": [
       "trademark",
       "copyright",
@@ -14917,7 +14917,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-530-444",
-    "questionText": "A country is said to be experiencing an unfavourable balance of trade if her (JAMB 2013)",
+    "questionText": "A country is said to be experiencing an unfavourable balance of trade if her",
     "options": [
       "exports exceed imports",
       "visible exports exceed visible imports",
@@ -14929,7 +14929,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-531-590",
-    "questionText": "Which of the following is NOT a characteristic of labour? It is (JAMB 2013)",
+    "questionText": "Which of the following is NOT a characteristic of labour? It is",
     "options": [
       "fixed in supply",
       "geographically mobile",
@@ -14941,7 +14941,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-532-539",
-    "questionText": "Commercialization is good for the Nigerian economy because it (JAMB 2013)",
+    "questionText": "Commercialization is good for the Nigerian economy because it",
     "options": [
       "creates room for competition",
       "increases the cost of living",
@@ -14953,7 +14953,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-533-566",
-    "questionText": "The assertion ‘consumers are always right’ refers to marketing (JAMB 2013)",
+    "questionText": "The assertion ‘consumers are always right’ refers to marketing",
     "options": [
       "board.",
       "concept",
@@ -14965,7 +14965,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-534-451",
-    "questionText": "The two main forms of communication are  (JAMB 2013)",
+    "questionText": "The two main forms of communication are",
     "options": [
       "oral and written",
       "verbal and non-verbal",
@@ -14977,7 +14977,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-535-558",
-    "questionText": "The features of an entrepreneur consist of the following, EXCEPT (JAMB 2013)",
+    "questionText": "The features of an entrepreneur consist of the following, EXCEPT",
     "options": [
       "coordinating factors of production",
       "earning wages as income",
@@ -14989,7 +14989,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-536-475",
-    "questionText": "The breaking down of a market into separate and identifiable elements is known as  (JAMB 2013)",
+    "questionText": "The breaking down of a market into separate and identifiable elements is known as",
     "options": [
       "differentiation",
       "segmentation",
@@ -15001,7 +15001,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-537-567",
-    "questionText": "Which of the following is charged by the NIPOST on postal order? (JAMB 2013)",
+    "questionText": "Which of the following is charged by the NIPOST on postal order?",
     "options": [
       "Dividend",
       "Interest",
@@ -15013,7 +15013,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-538-587",
-    "questionText": "Which of the following towns was NOT an initial commercial centre in Nigeria? (JAMB 2013)",
+    "questionText": "Which of the following towns was NOT an initial commercial centre in Nigeria?",
     "options": [
       "Kano",
       "Lagos",
@@ -15025,7 +15025,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-539-546",
-    "questionText": "Branch managers who virtually have no control on goods they sell is a disadvantage of __  store. (JAMB 2013)",
+    "questionText": "Branch managers who virtually have no control on goods they sell is a disadvantage of __  store.",
     "options": [
       "chain",
       "departmental",
@@ -15037,7 +15037,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-540-542",
-    "questionText": "The process of dividing a total market into groups made up of people with similar need refers to marketing (JAMB 2013)",
+    "questionText": "The process of dividing a total market into groups made up of people with similar need refers to marketing",
     "options": [
       "function",
       "mix",
@@ -15049,7 +15049,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-541-448",
-    "questionText": "The document which must be endorsed by the ambassador of a country of destination before shipment of goods is a  (JAMB 2013)",
+    "questionText": "The document which must be endorsed by the ambassador of a country of destination before shipment of goods is a",
     "options": [
       "consular invoice",
       "certificate of origin",
@@ -15061,7 +15061,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-542-591",
-    "questionText": "One of the problems associated with home trade is the (JAMB 2013)",
+    "questionText": "One of the problems associated with home trade is the",
     "options": [
       "absence of currency exchange",
       "better knowledge of the markets",
@@ -15073,7 +15073,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-543-449",
-    "questionText": "A country’s terms of trade are said to improve when the ratio of her export  (JAMB 2013)",
+    "questionText": "A country’s terms of trade are said to improve when the ratio of her export",
     "options": [
       "decreases",
       "remains constant",
@@ -15085,7 +15085,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-544-452",
-    "questionText": "The most reliable and efficient means of conveying urgent documents is through (JAMB 2013)",
+    "questionText": "The most reliable and efficient means of conveying urgent documents is through",
     "options": [
       "postal order",
       "ordinary letters",
@@ -15097,7 +15097,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-545-469",
-    "questionText": "The initial function of a manager is  (JAMB 2013)",
+    "questionText": "The initial function of a manager is",
     "options": [
       "setting up an organization",
       "coordinating",
@@ -15109,7 +15109,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-546-545",
-    "questionText": "Which of the following is NOT a means of payment through the post office? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a means of payment through the post office?",
     "options": [
       "Giro system",
       "Money order",
@@ -15121,7 +15121,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-547-584",
-    "questionText": "Which of the following is NOT a reason for government’s ownership of Nigerian Ports Authority (NPA)? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a reason for government’s ownership of Nigerian Ports Authority (NPA)?",
     "options": [
       "Avoiding wasteful competition and duplication",
       "Generating revenue",
@@ -15133,7 +15133,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-548-458",
-    "questionText": "A business partner who provides capital but abstains from participation in administration of a firm is a  (JAMB 2013)",
+    "questionText": "A business partner who provides capital but abstains from participation in administration of a firm is a",
     "options": [
       "general partner",
       "nominal partner",
@@ -15145,7 +15145,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-549-464",
-    "questionText": "Trade Fairs in Nigeria are organized by  (JAMB 2013)",
+    "questionText": "Trade Fairs in Nigeria are organized by",
     "options": [
       "the Federal Government",
       "Manufactures’ Association of Nigeria",
@@ -15157,7 +15157,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-550-559",
-    "questionText": "Another name for trade discount is _________ discount, (JAMB 2013)",
+    "questionText": "Another name for trade discount is _________ discount,",
     "options": [
       "cash",
       "functional",
@@ -15169,7 +15169,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-551-548",
-    "questionText": "The assurance policy in which the assured pays lump sum of money which matures at his retirement is ___assurance. (JAMB 2013)",
+    "questionText": "The assurance policy in which the assured pays lump sum of money which matures at his retirement is ___assurance.",
     "options": [
       "annuity",
       "endowment",
@@ -15181,7 +15181,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-552-541",
-    "questionText": "The direct contact of a seller with potential buyers with a view to making sales is called (JAMB 2013)",
+    "questionText": "The direct contact of a seller with potential buyers with a view to making sales is called",
     "options": [
       "advertising",
       "personal selling",
@@ -15193,7 +15193,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-553-549",
-    "questionText": "By making it possible for wholesalers to keep surplus stock until demand improves, the warehouse performs the function of (JAMB 2013)",
+    "questionText": "By making it possible for wholesalers to keep surplus stock until demand improves, the warehouse performs the function of",
     "options": [
       "employment creation",
       "price stabilization",
@@ -15205,7 +15205,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-554-472",
-    "questionText": "Management of a business involves he development of ideas for the  (JAMB 2013)",
+    "questionText": "Management of a business involves he development of ideas for the",
     "options": [
       "distribution of goods and services that human wants",
       "transportation of goods and services that goods and services that human wants",
@@ -15217,7 +15217,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-555-461",
-    "questionText": "The rate of turnover of a firm in a given year is 5 times while the average stock is \n N12.500. what is the turnover of the firm? \n (JAMB 2013)",
+    "questionText": "The rate of turnover of a firm in a given year is 5 times while the average stock is \n N12.500. what is the turnover of the firm? \n",
     "options": [
       "N24,000",
       "N46,500",
@@ -15229,7 +15229,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-556-543",
-    "questionText": "The final link in the chain of distribution is the (JAMB 2013)",
+    "questionText": "The final link in the chain of distribution is the",
     "options": [
       "agent",
       "consumer",
@@ -15241,7 +15241,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-557-485",
-    "questionText": "The type of computer application software used mainly for management information is  (JAMB 2013)",
+    "questionText": "The type of computer application software used mainly for management information is",
     "options": [
       "Corel draw",
       "AutoCAD",
@@ -15253,7 +15253,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-558-453",
-    "questionText": "An undertaking given by a person to another assuring his integrity is  (JAMB 2013)",
+    "questionText": "An undertaking given by a person to another assuring his integrity is",
     "options": [
       "proximate clause",
       "fidelity guarantee",
@@ -15265,7 +15265,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-559-400",
-    "questionText": "The document a seller uses in dispatching goods to a customer by a carrier is  (JAMB 2012)",
+    "questionText": "The document a seller uses in dispatching goods to a customer by a carrier is",
     "options": [
       "a bill of lading",
       "an invoice",
@@ -15277,7 +15277,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-560-648",
-    "questionText": "The process whereby a firm directs its marketing efforts towards a single market by the use of a particular marketing mix is referred to as (JAMB 2016)",
+    "questionText": "The process whereby a firm directs its marketing efforts towards a single market by the use of a particular marketing mix is referred to as",
     "options": [
       "concentration segmentation",
       "marketing concept",
@@ -15289,7 +15289,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-561-67",
-    "questionText": "An instrument that is traded in the second-tier foreign exchange market is (JAMB 2005)",
+    "questionText": "An instrument that is traded in the second-tier foreign exchange market is",
     "options": [
       "money order",
       "stock",
@@ -15301,7 +15301,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-562-347",
-    "questionText": "Services rendered to the public is provided by  (JAMB 2011)",
+    "questionText": "Services rendered to the public is provided by",
     "options": [
       "Government",
       "civil servants",
@@ -15313,7 +15313,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-563-646",
-    "questionText": "An author’s exclusive right to published and unpublished works is known as (JAMB 1990)",
+    "questionText": "An author’s exclusive right to published and unpublished works is known as",
     "options": [
       "patent right",
       "fundamental human right",
@@ -15325,7 +15325,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-564-238",
-    "questionText": "An agreement between two parties which is enforceable by law is a  (JAMB 2008)",
+    "questionText": "An agreement between two parties which is enforceable by law is a",
     "options": [
       "promise",
       "warranty",
@@ -15337,7 +15337,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-565-674",
-    "questionText": "Which of the following is a traditional medium of communication used to mark festivals? (JAMB 2016)",
+    "questionText": "Which of the following is a traditional medium of communication used to mark festivals?",
     "options": [
       "Palm frond.",
       "Metal gong.",
@@ -15349,7 +15349,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-566-553",
-    "questionText": "Ensuring free movement of factors of production among member states through the removal of obstacles is one of \t\tthe objectives of (JAMB 2013)",
+    "questionText": "Ensuring free movement of factors of production among member states through the removal of obstacles is one of \t\tthe objectives of",
     "options": [
       "ECOWAS",
       "LCBC",
@@ -15361,7 +15361,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-567-651",
-    "questionText": "The winding up of a firm by a resolution of its shareholders is an example of (JAMB 2016)",
+    "questionText": "The winding up of a firm by a resolution of its shareholders is an example of",
     "options": [
       "voluntary liquidation",
       "bankruptcy",
@@ -15373,7 +15373,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629888-568-21",
-    "questionText": "Charges for loans paid by commercial banks to the Central Bank of Nigeria are called    (JAMB 2004)",
+    "questionText": "Charges for loans paid by commercial banks to the Central Bank of Nigeria are called",
     "options": [
       "bank rates",
       "credit charges",
@@ -15385,7 +15385,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-569-629",
-    "questionText": "Charges paid by a ship for staying at a port beyond agreed sailing time is called (JAMB 1990)",
+    "questionText": "Charges paid by a ship for staying at a port beyond agreed sailing time is called",
     "options": [
       "profit",
       "interest",
@@ -15397,7 +15397,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-570-304",
-    "questionText": "A trend is retailing which enables consumers to have free access to different products is  (JAMB 2010)",
+    "questionText": "A trend is retailing which enables consumers to have free access to different products is",
     "options": [
       "after sales service",
       "branding",
@@ -15409,7 +15409,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-571-650",
-    "questionText": "Ordinary warehouse is usually owned and used by (JAMB 2016)",
+    "questionText": "Ordinary warehouse is usually owned and used by",
     "options": [
       "government",
       "agents",
@@ -15421,7 +15421,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-572-457",
-    "questionText": "In order to increase the capital owned, a sole trader may  (JAMB 2013)",
+    "questionText": "In order to increase the capital owned, a sole trader may",
     "options": [
       "seek for bank loan",
       "issue debentures",
@@ -15433,7 +15433,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-573-649",
-    "questionText": "The function of money that is mostly affected by inflation is (JAMB 2016)",
+    "questionText": "The function of money that is mostly affected by inflation is",
     "options": [
       "store of value",
       "medium of exchange",
@@ -15445,7 +15445,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-574-657",
-    "questionText": "A basic concept of advertising that reveals the essential message an advertiser wishes to communicate is referred to as the (JAMB 2016)",
+    "questionText": "A basic concept of advertising that reveals the essential message an advertiser wishes to communicate is referred to as the",
     "options": [
       "medium",
       "theme",
@@ -15457,7 +15457,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-575-687",
-    "questionText": "Where a manufacturer collects money from wholesalers in exchange for goods produced is referred to as (JAMB 2016)",
+    "questionText": "Where a manufacturer collects money from wholesalers in exchange for goods produced is referred to as",
     "options": [
       "charge account.",
       "trading checks.",
@@ -15469,7 +15469,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-576-764",
-    "questionText": "Pooling of risk in insurance means that (JAMB 2001)",
+    "questionText": "Pooling of risk in insurance means that",
     "options": [
       "compensations are paid out of a common fund",
       "two people can pool their risks to be insured",
@@ -15481,7 +15481,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-577-69",
-    "questionText": "A business firm that is involved in conveying goods or people is known as a  (JAMB 2005)",
+    "questionText": "A business firm that is involved in conveying goods or people is known as a",
     "options": [
       "consignor",
       "commercial firm",
@@ -15493,7 +15493,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-578-555",
-    "questionText": "The method of shopping on the internet by using the computer to browse the website of the manufacturer is known as (JAMB 2013)",
+    "questionText": "The method of shopping on the internet by using the computer to browse the website of the manufacturer is known as",
     "options": [
       "e-banking",
       "e-commerce",
@@ -15505,7 +15505,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-579-787",
-    "questionText": "Proper disposal of waste by business firms is one way of discharging their (JAMB 2001)",
+    "questionText": "Proper disposal of waste by business firms is one way of discharging their",
     "options": [
       "responsibility to government",
       "environmental responsibility",
@@ -15517,7 +15517,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-580-761",
-    "questionText": "Bank Giro is a method of settling debt from a (JAMB 2001)",
+    "questionText": "Bank Giro is a method of settling debt from a",
     "options": [
       "customer to a bank",
       "bank to a customer",
@@ -15529,7 +15529,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-581-603",
-    "questionText": "Which of the following does not belong to the extractive industry? (JAMB 1990)",
+    "questionText": "Which of the following does not belong to the extractive industry?",
     "options": [
       "Farming",
       "Insuring",
@@ -15541,7 +15541,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-582-703",
-    "questionText": "Bank overdraft as a short term source of fund is (JAMB 2000)",
+    "questionText": "Bank overdraft as a short term source of fund is",
     "options": [
       "an overdrawn account",
       "granted to a newly opened account",
@@ -15553,7 +15553,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-583-669",
-    "questionText": "The pricing policy that seeks ,to set .prices relatively high in order to attract the wealthy segment of the market is (JAMB 2016)",
+    "questionText": "The pricing policy that seeks ,to set .prices relatively high in order to attract the wealthy segment of the market is",
     "options": [
       "target return pricing",
       "market skimming",
@@ -15565,7 +15565,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-584-692",
-    "questionText": "Petrol voucher is an example of a (JAMB 2016)",
+    "questionText": "Petrol voucher is an example of a",
     "options": [
       "bank draft.",
       "legal tender.",
@@ -15577,7 +15577,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-585-656",
-    "questionText": "The transformation of cotton into clothing is an example of (JAMB 2016)",
+    "questionText": "The transformation of cotton into clothing is an example of",
     "options": [
       "secondary production",
       "tertiary production",
@@ -15589,7 +15589,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-586-661",
-    "questionText": "Avast is an example of (JAMB 2016)",
+    "questionText": "Avast is an example of",
     "options": [
       "a web browser",
       "a search engine",
@@ -15601,7 +15601,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-587-671",
-    "questionText": "When expenses on trading are deducted, the result is the (JAMB 2016)",
+    "questionText": "When expenses on trading are deducted, the result is the",
     "options": [
       "rate of turn over",
       "net profit",
@@ -15613,7 +15613,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-588-665",
-    "questionText": "The buying and selling of goods and services is referred, to as (JAMB 2016)",
+    "questionText": "The buying and selling of goods and services is referred, to as",
     "options": [
       "trading",
       "marketing",
@@ -15625,7 +15625,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-589-686",
-    "questionText": "Which of the following is a legal tender? (JAMB 2016)",
+    "questionText": "Which of the following is a legal tender?",
     "options": [
       "Cheque.",
       "Traveller’scheque.",
@@ -15637,7 +15637,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-590-667",
-    "questionText": "Funds used for paying wages, salaries and payments for raw materials are categorized under (JAMB 2016)",
+    "questionText": "Funds used for paying wages, salaries and payments for raw materials are categorized under",
     "options": [
       "liquid capital",
       "circulating capital",
@@ -15649,7 +15649,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-591-689",
-    "questionText": "The placement of workers based on their qualifications can be categorized under (JAMB 2016)",
+    "questionText": "The placement of workers based on their qualifications can be categorized under",
     "options": [
       "public sector",
       "skilled labour",
@@ -15661,7 +15661,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-592-690",
-    "questionText": "A group of computers that exchange data is referred to as (JAMB 2016)",
+    "questionText": "A group of computers that exchange data is referred to as",
     "options": [
       "an information bank.",
       "a network.",
@@ -15673,7 +15673,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-593-684",
-    "questionText": "Complying with the rules relating to the conduct of business activities in a country is an aspect of (JAMB 2016)",
+    "questionText": "Complying with the rules relating to the conduct of business activities in a country is an aspect of",
     "options": [
       "cultural environment.",
       "demographic environment.",
@@ -15685,7 +15685,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-594-688",
-    "questionText": "Quantity discount is offered mainly to persuade the buyer to (JAMB 2016)",
+    "questionText": "Quantity discount is offered mainly to persuade the buyer to",
     "options": [
       "defer payment.",
       "make prompt purchases.",
@@ -15697,7 +15697,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-595-676",
-    "questionText": "One of the factors of determining the volume of production is (JAMB 2016)",
+    "questionText": "One of the factors of determining the volume of production is",
     "options": [
       "availability of forex",
       "availability of storage facilities.",
@@ -15709,7 +15709,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-596-678",
-    "questionText": "The minimum lending rate of a bank is a component of its (JAMB 2016)",
+    "questionText": "The minimum lending rate of a bank is a component of its",
     "options": [
       "current assets",
       "debit balance.",
@@ -15721,7 +15721,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-597-664",
-    "questionText": "One of the duties of the employer to his employee is to (JAMB 2016)",
+    "questionText": "One of the duties of the employer to his employee is to",
     "options": [
       "delegate his duties to other staff",
       "charge the employee on the use of equipment",
@@ -15733,7 +15733,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-598-694",
-    "questionText": "A major function of commerce is to (JAMB 2016)",
+    "questionText": "A major function of commerce is to",
     "options": [
       "facilitate human satisfaction through exchange",
       "eliminate trade barriers",
@@ -15745,7 +15745,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-599-659",
-    "questionText": "Given: - [Index of export price] / [Index of import price]  x 100  The formula can be used to determine the (JAMB 2016)",
+    "questionText": "Given: - [Index of export price] / [Index of import price]  x 100  The formula can be used to determine the",
     "options": [
       "terms of payment",
       "balance of payments",
@@ -15757,7 +15757,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-600-685",
-    "questionText": "Which of the following is NOT backed by gold but by government securities? (JAMB 2016)",
+    "questionText": "Which of the following is NOT backed by gold but by government securities?",
     "options": [
       "Fiduciary note.",
       "Fiat money.",
@@ -15769,7 +15769,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-601-682",
-    "questionText": "Labour as an input in production can be motivated by (JAMB 2016)",
+    "questionText": "Labour as an input in production can be motivated by",
     "options": [
       "training",
       "profit.",
@@ -15781,7 +15781,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-602-673",
-    "questionText": "Which of the following is a modern trend in retailing? (JAMB 2016)",
+    "questionText": "Which of the following is a modern trend in retailing?",
     "options": [
       "Kiosk",
       "Mobile shop",
@@ -15793,7 +15793,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-603-681",
-    "questionText": "An association that acts as a watchdog between  entrepreneurs and government to protect trade from any unfavourable laws is said (JAMB 2016)",
+    "questionText": "An association that acts as a watchdog between  entrepreneurs and government to protect trade from any unfavourable laws is said",
     "options": [
       "cartel",
       "syndicate",
@@ -15805,7 +15805,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-604-666",
-    "questionText": "A document that serves as an instrument for preferential tariff is referred to as (JAMB 2016)",
+    "questionText": "A document that serves as an instrument for preferential tariff is referred to as",
     "options": [
       "an indent",
       "a certificate of origin",
@@ -15817,7 +15817,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-605-668",
-    "questionText": "A formal letter to a dealer to enquire details about certain items for sale is referred to as (JAMB 2016)",
+    "questionText": "A formal letter to a dealer to enquire details about certain items for sale is referred to as",
     "options": [
       "an inquiry",
       "an invoice",
@@ -15829,7 +15829,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-606-691",
-    "questionText": "The form of credit sales common to low income groups is (JAMB 2016)",
+    "questionText": "The form of credit sales common to low income groups is",
     "options": [
       "hire purchase",
       "club trading",
@@ -15841,7 +15841,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-607-662",
-    "questionText": "The component of balance of payments which shows how the balance of both current and capital accounts are settled is \t\t\tknown as (JAMB 2016)",
+    "questionText": "The component of balance of payments which shows how the balance of both current and capital accounts are settled is \t\t\tknown as",
     "options": [
       "current account",
       "monetary movement account",
@@ -15853,7 +15853,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-608-663",
-    "questionText": "The act of interpreting ideas within an organization is (JAMB 2016)",
+    "questionText": "The act of interpreting ideas within an organization is",
     "options": [
       "motivating",
       "organizing",
@@ -15865,7 +15865,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-609-652",
-    "questionText": "Which of the following is used for temporary storage of data on a computer? (JAMB 2016)",
+    "questionText": "Which of the following is used for temporary storage of data on a computer?",
     "options": [
       "RAM.",
       "ROM.",
@@ -15877,7 +15877,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-610-670",
-    "questionText": "In the transportation industry, dead freight is used to describe the (JAMB 2016)",
+    "questionText": "In the transportation industry, dead freight is used to describe the",
     "options": [
       "cost paid for an empty space left in the ship",
       "charge for each day a performance was delayed",
@@ -15889,7 +15889,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-611-675",
-    "questionText": "One of the functions of the retailer is (JAMB 2016)",
+    "questionText": "One of the functions of the retailer is",
     "options": [
       "granting credit facilities to close relatives",
       "provision of after-sales services",
@@ -15901,7 +15901,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-612-660",
-    "questionText": "Commission on turnover is usually a benefit accruable to the (JAMB 2016)",
+    "questionText": "Commission on turnover is usually a benefit accruable to the",
     "options": [
       "drawer",
       "drawee",
@@ -15913,7 +15913,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-613-677",
-    "questionText": "Which of the following is the best method for computing working capital? (JAMB 2016)",
+    "questionText": "Which of the following is the best method for computing working capital?",
     "options": [
       "Total assets less current liabilities.",
       "Current liabilities less current assets.",
@@ -15925,7 +15925,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-614-680",
-    "questionText": "An ancillary to trade which promotes socio-cultural development all over the world is (JAMB 2016)",
+    "questionText": "An ancillary to trade which promotes socio-cultural development all over the world is",
     "options": [
       "transportation",
       "communication",
@@ -15937,7 +15937,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-615-647",
-    "questionText": "The cost which is incurred as a result of failure to load or unload a ship at the ports within a specified period is referred to as (JAMB 2016)",
+    "questionText": "The cost which is incurred as a result of failure to load or unload a ship at the ports within a specified period is referred to as",
     "options": [
       "demurrage charges",
       "premium charges",
@@ -15949,7 +15949,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-616-683",
-    "questionText": "Discharging certain duties by an organization to the public to gain high patronage is a concern of financial responsibility (JAMB 2016)",
+    "questionText": "Discharging certain duties by an organization to the public to gain high patronage is a concern of financial responsibility",
     "options": [
       "economic responsibility.",
       "legal responsibility.",
@@ -15961,7 +15961,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-617-693",
-    "questionText": "One of the major reasons for merger is to (JAMB 2016)",
+    "questionText": "One of the major reasons for merger is to",
     "options": [
       "reduce the number of unskilled manpower",
       "increase the number of skilled manpower.",
@@ -15973,7 +15973,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-618-672",
-    "questionText": "A supplier of flour who intends to sign a contract with a baker \tthrough post can establish a binding agreement only (JAMB 2016)",
+    "questionText": "A supplier of flour who intends to sign a contract with a baker \tthrough post can establish a binding agreement only",
     "options": [
       "after the offeror has made an offer.",
       "when the offeror’s letter has reached the offeree.",
@@ -15985,7 +15985,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-619-811",
-    "questionText": "The bulls and bears in the Stock Exchange market help to minimize (JAMB 2002)",
+    "questionText": "The bulls and bears in the Stock Exchange market help to minimize",
     "options": [
       "the number of shares and bonds sold",
       "price increases of securities",
@@ -15997,7 +15997,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-620-658",
-    "questionText": "The type of wholesaler that combines selling, delivery and collection in one operation is (JAMB 2016)",
+    "questionText": "The type of wholesaler that combines selling, delivery and collection in one operation is",
     "options": [
       "specialist wholesaler",
       "rack jobber",
@@ -16009,7 +16009,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-621-574",
-    "questionText": "The actual gain made by a business after all expenses has been deducted is called (JAMB 2013)",
+    "questionText": "The actual gain made by a business after all expenses has been deducted is called",
     "options": [
       "gross profit",
       "margin",
@@ -16021,7 +16021,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-622-45",
-    "questionText": "Organizing trade fairs in Nigeria is the responsibility of    (JAMB 2004)",
+    "questionText": "Organizing trade fairs in Nigeria is the responsibility of",
     "options": [
       "National Directorate of Employment",
       "Federal Ministry of Commerce",
@@ -16033,7 +16033,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-623-175",
-    "questionText": "Digital computer is divided into  (JAMB 2007)",
+    "questionText": "Digital computer is divided into",
     "options": [
       "analogue, hybrid and mini",
       "super, mainframe, mini and micro",
@@ -16045,7 +16045,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-624-37",
-    "questionText": "The acronym PLC is used to identify a  (JAMB 2004)",
+    "questionText": "The acronym PLC is used to identify a",
     "options": [
       "company limited by shares",
       "private company limited by shares",
@@ -16057,7 +16057,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-625-530",
-    "questionText": "The deliberate and sustained efforts to maintain a good image of a company is known as (JAMB 2000)",
+    "questionText": "The deliberate and sustained efforts to maintain a good image of a company is known as",
     "options": [
       "personal relations",
       "public relations",
@@ -16069,7 +16069,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-626-736",
-    "questionText": "The composite functions of management are (JAMB 2000)",
+    "questionText": "The composite functions of management are",
     "options": [
       "planning, supervising, communicating",
       "planning, controlling, organizing and directing",
@@ -16081,7 +16081,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-627-640",
-    "questionText": "The word Ltd written after the name of a company means that (JAMB 1990)",
+    "questionText": "The word Ltd written after the name of a company means that",
     "options": [
       "the individual member’s capital is limited",
       "the total sum of the company’s capital is limited",
@@ -16093,7 +16093,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-628-578",
-    "questionText": "The use of middlemen by manufacturers become necessary where the goods (JAMB 2013)",
+    "questionText": "The use of middlemen by manufacturers become necessary where the goods",
     "options": [
       "are of low rate of turnover",
       "are susceptible to faking or adulteration",
@@ -16105,7 +16105,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-629-782",
-    "questionText": "One way by which government reduces the repatriation of capital   is through (JAMB 2001)",
+    "questionText": "One way by which government reduces the repatriation of capital   is through",
     "options": [
       "nationalization",
       "divestiture",
@@ -16117,7 +16117,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-630-270",
-    "questionText": "Warehousing is important to manufacturers because it helps to  (JAMB 2009)",
+    "questionText": "Warehousing is important to manufacturers because it helps to",
     "options": [
       "improve the quality of goods",
       "produce goods in advance",
@@ -16129,7 +16129,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-631-552",
-    "questionText": "Calculate the current assets. (JAMB 2013)",
+    "questionText": "Calculate the current assets.",
     "options": [
       "15,000",
       "20,000",
@@ -16141,7 +16141,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-632-729",
-    "questionText": "A bus driver operating between Lagos and Jos pledged the owner’s credit in Benin in order to have the engine repaired and the bill sent to the owner. This is a case of (JAMB 2000)",
+    "questionText": "A bus driver operating between Lagos and Jos pledged the owner’s credit in Benin in order to have the engine repaired and the bill sent to the owner. This is a case of",
     "options": [
       "del credere agency",
       "agency by necessity",
@@ -16153,7 +16153,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-633-34",
-    "questionText": "As the branches indicate, iv is (JAMB 2004)",
+    "questionText": "As the branches indicate, iv is",
     "options": [
       "commerce",
       "exchange",
@@ -16165,7 +16165,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-634-255",
-    "questionText": "An artificial barrier to international trade is  (JAMB 2009)",
+    "questionText": "An artificial barrier to international trade is",
     "options": [
       "political unrest",
       "culture of the people",
@@ -16177,7 +16177,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-635-430",
-    "questionText": "An organization which focuses on consumer satisfaction is practicing  (JAMB 2012)",
+    "questionText": "An organization which focuses on consumer satisfaction is practicing",
     "options": [
       "consumerism",
       "market segmentation",
@@ -16189,7 +16189,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-636-317",
-    "questionText": "A major hindrance to tourism growth in Nigeria is  (JAMB 2010)",
+    "questionText": "A major hindrance to tourism growth in Nigeria is",
     "options": [
       "absence of genuine tour operators",
       "lack of tourism master plan",
@@ -16201,7 +16201,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-637-200",
-    "questionText": "Given: I. shoe marker    II. Policeman     III. Fisherman    IV. Gardener    V. Broker .    The persons engaged in primary occupation are \n (JAMB 2008)",
+    "questionText": "Given: I. shoe marker    II. Policeman     III. Fisherman    IV. Gardener    V. Broker .    The persons engaged in primary occupation are \n",
     "options": [
       "I, III and IV",
       "III and IV",
@@ -16213,7 +16213,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-638-536",
-    "questionText": "Which of the following is not a right of the consumer? (JAMB 2000)",
+    "questionText": "Which of the following is not a right of the consumer?",
     "options": [
       "Safety",
       "Choice",
@@ -16225,7 +16225,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-639-602",
-    "questionText": "Which of the following is one of the functions of commerce? (JAMB 1990)",
+    "questionText": "Which of the following is one of the functions of commerce?",
     "options": [
       "Manufacturing",
       "Growing of tomatoes",
@@ -16237,7 +16237,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-640-616",
-    "questionText": "Which of the following statements best describes net profit? The excess of (JAMB 1990)",
+    "questionText": "Which of the following statements best describes net profit? The excess of",
     "options": [
       "total revenue over total expenditure",
       "total capital income over expenditure",
@@ -16249,7 +16249,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-641-179",
-    "questionText": "The Internet is a system of telecommunications used for    (JAMB 2007)",
+    "questionText": "The Internet is a system of telecommunications used for",
     "options": [
       "communicating long-distance messages",
       "sending and receiving text messages",
@@ -16261,7 +16261,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-642-519",
-    "questionText": "When an insurance company indemnifies the insured and takes over his rights, this is known as (JAMB 2000)",
+    "questionText": "When an insurance company indemnifies the insured and takes over his rights, this is known as",
     "options": [
       "abandonment",
       "subrogation",
@@ -16273,7 +16273,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-643-639",
-    "questionText": "Which of the following is a type of marine insurance? (JAMB 1990)",
+    "questionText": "Which of the following is a type of marine insurance?",
     "options": [
       "Endowment",
       "Freight",
@@ -16285,7 +16285,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-644-310",
-    "questionText": "The details of the goods required by the purchaser is outlined in  (JAMB 2010)",
+    "questionText": "The details of the goods required by the purchaser is outlined in",
     "options": [
       "a consular invoice",
       "an indent",
@@ -16297,7 +16297,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-645-600",
-    "questionText": "Which of the following statements is not true? (JAMB 1990)",
+    "questionText": "Which of the following statements is not true?",
     "options": [
       "Commercial services are the life blood of a country economic system",
       "There cannot occur commercial services until goods have been produced.",
@@ -16309,7 +16309,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-646-111",
-    "questionText": "The limit of functions, activities and personnel that a supervisor can effectively manage  in a business organization  is   (JAMB 2006)",
+    "questionText": "The limit of functions, activities and personnel that a supervisor can effectively manage  in a business organization  is",
     "options": [
       "spun of control",
       "delegation of authority",
@@ -16321,7 +16321,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-647-709",
-    "questionText": "Ocean liners are subdivided into (JAMB 2000)",
+    "questionText": "Ocean liners are subdivided into",
     "options": [
       "passenger liners and cargo liners",
       "coastal liners and cargo liners",
@@ -16333,7 +16333,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-648-526",
-    "questionText": "Which of these is not a basic marketing function? (JAMB 2000)",
+    "questionText": "Which of these is not a basic marketing function?",
     "options": [
       "Exchange",
       "Production",
@@ -16345,7 +16345,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-649-564",
-    "questionText": "Which of the following is NOT a function of courier companies? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a function of courier companies?",
     "options": [
       "Ensuring international transmission of message",
       "Providing door to door delivery services",
@@ -16357,7 +16357,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-650-637",
-    "questionText": "In insurance the term Uberrimaefidei stands for (JAMB 1990)",
+    "questionText": "In insurance the term Uberrimaefidei stands for",
     "options": [
       "utmost good faith",
       "subrogation",
@@ -16369,7 +16369,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-651-608",
-    "questionText": "Which of the following is not a factor of production? (JAMB 1990)",
+    "questionText": "Which of the following is not a factor of production?",
     "options": [
       "Capital",
       "land",
@@ -16381,7 +16381,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-652-643",
-    "questionText": "The amount paid by the insurance company to the insured upon giving up his policy is called (JAMB 1990)",
+    "questionText": "The amount paid by the insurance company to the insured upon giving up his policy is called",
     "options": [
       "Surrender value",
       "cash bonus",
@@ -16393,7 +16393,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-653-517",
-    "questionText": "A retirement insurance policy which enables the assured to receive income for a specific period is (JAMB 2000)",
+    "questionText": "A retirement insurance policy which enables the assured to receive income for a specific period is",
     "options": [
       "annuity",
       "endowment",
@@ -16405,7 +16405,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629889-654-565",
-    "questionText": "“MTN, Your Best Connection” is an example of ___ advertisement. (JAMB 2013)",
+    "questionText": "“MTN, Your Best Connection” is an example of ___ advertisement.",
     "options": [
       "competitive",
       "direct",
@@ -16417,7 +16417,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-655-463",
-    "questionText": "In the Nigeria GSM industry, a parliament is organized by the Nigerian Communication Commission in order to  (JAMB 2013)",
+    "questionText": "In the Nigeria GSM industry, a parliament is organized by the Nigerian Communication Commission in order to",
     "options": [
       "increase profit of service providers",
       "protect the interest of government",
@@ -16429,7 +16429,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-656-478",
-    "questionText": "A motor dealer who agreed to sell a car to Mr. X but sold and delivered it to Mr. Y on the delivery date agreed with Mr. X. He has discharged the contract by  (JAMB 2013)",
+    "questionText": "A motor dealer who agreed to sell a car to Mr. X but sold and delivered it to Mr. Y on the delivery date agreed with Mr. X. He has discharged the contract by",
     "options": [
       "performance",
       "frustration",
@@ -16441,7 +16441,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-657-754",
-    "questionText": "One of the reasons why wholesaling must continue is that (JAMB 2001)",
+    "questionText": "One of the reasons why wholesaling must continue is that",
     "options": [
       "the tax paid by wholesalers on their profit enhances national revenue",
       "by creating artificial scarcity, the wholesaler is enhancing competition in the economy",
@@ -16453,7 +16453,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-658-490",
-    "questionText": "Which of the following is not a source of finance to a sole proprietor? (JAMB 2000)",
+    "questionText": "Which of the following is not a source of finance to a sole proprietor?",
     "options": [
       "Trade Credit",
       "Overdrafts",
@@ -16465,7 +16465,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-659-340",
-    "questionText": "The major problem confronting Cyber Café operators is  (JAMB 2010)",
+    "questionText": "The major problem confronting Cyber Café operators is",
     "options": [
       "Advanced fee fraud by clientele",
       "poor network coverage",
@@ -16477,7 +16477,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-660-742",
-    "questionText": "The pivot on which the wheel of commerce rotates is (JAMB 2001)",
+    "questionText": "The pivot on which the wheel of commerce rotates is",
     "options": [
       "tariff",
       "trade",
@@ -16489,7 +16489,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-661-382",
-    "questionText": "The major parties to an agency relationship are the  (JAMB 2011)",
+    "questionText": "The major parties to an agency relationship are the",
     "options": [
       "principal and the creditor",
       "bailee and the bailor",
@@ -16501,7 +16501,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-662-611",
-    "questionText": "The exchange of goods for other goods in home trade is known as (JAMB 1990)",
+    "questionText": "The exchange of goods for other goods in home trade is known as",
     "options": [
       "entrepot trade",
       "home trade",
@@ -16513,7 +16513,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-663-781",
-    "questionText": "The maximum number of shareholders in a public liability company is (JAMB 2001)",
+    "questionText": "The maximum number of shareholders in a public liability company is",
     "options": [
       "twenty",
       "fifty",
@@ -16525,7 +16525,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-664-220",
-    "questionText": "Most of the barriers to international trade have been eliminated through  (JAMB 2008)",
+    "questionText": "Most of the barriers to international trade have been eliminated through",
     "options": [
       "diversification",
       "globalization",
@@ -16537,7 +16537,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-665-455",
-    "questionText": "The difference between indemnity insurance and non-indemnity insurance is that the latter provides  (JAMB 2013)",
+    "questionText": "The difference between indemnity insurance and non-indemnity insurance is that the latter provides",
     "options": [
       "cover for exporters against risks",
       "cover for importers against risks",
@@ -16549,7 +16549,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629890-666-630",
-    "questionText": "Entrepot Trade refers to (JAMB 1990)",
+    "questionText": "Entrepot Trade refers to",
     "options": [
       "importing for domestic consumption",
       "importing for industrial use",
@@ -16561,7 +16561,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-667-395",
-    "questionText": "The allocation of tasks to different skills in a production process is referred to as  (JAMB 2012)",
+    "questionText": "The allocation of tasks to different skills in a production process is referred to as",
     "options": [
       "production technique",
       "production function",
@@ -16573,7 +16573,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-668-561",
-    "questionText": "Which of these is NOT a source of capital to First Bank of Nigeria Plc? (JAMB 2013)",
+    "questionText": "Which of these is NOT a source of capital to First Bank of Nigeria Plc?",
     "options": [
       "Equipment leasing",
       "Lean from friends",
@@ -16585,7 +16585,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-669-622",
-    "questionText": "Which of the following is the most suitable means of \ttransporting bulky goods from Lagos to Kaduna? By (JAMB 1990)",
+    "questionText": "Which of the following is the most suitable means of \ttransporting bulky goods from Lagos to Kaduna? By",
     "options": [
       "Train",
       "Airplane",
@@ -16597,7 +16597,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-670-732",
-    "questionText": "The first known legislation to protect consumer rights in Nigeria is the (JAMB 2000)",
+    "questionText": "The first known legislation to protect consumer rights in Nigeria is the",
     "options": [
       "Usury Laws",
       "Hire Purchase Act",
@@ -16609,7 +16609,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-671-487",
-    "questionText": "A major factor that affects business operations is  (JAMB 2013)",
+    "questionText": "A major factor that affects business operations is",
     "options": [
       "technology",
       "supply",
@@ -16621,7 +16621,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-672-696",
-    "questionText": "Production involves (JAMB 2000)",
+    "questionText": "Production involves",
     "options": [
       "making goods available where and when needed",
       "changing the form of goods, moving and making them available as needed",
@@ -16633,7 +16633,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-673-136",
-    "questionText": "The members of ECOWAS include (JAMB 2006)",
+    "questionText": "The members of ECOWAS include",
     "options": [
       "Nigeria, Chad, Gabon and Cape Verde",
       "Burkina Faso, Nigeria, Niger and Mauritania",
@@ -16645,7 +16645,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-674-582",
-    "questionText": "The durable capital of an enterprise which is used continuously for further production is called ___ capital. (JAMB 2013)",
+    "questionText": "The durable capital of an enterprise which is used continuously for further production is called ___ capital.",
     "options": [
       "called up",
       "circulating",
@@ -16657,7 +16657,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-675-604",
-    "questionText": "The average stock is (JAMB 1990)",
+    "questionText": "The average stock is",
     "options": [
       "N=2000",
       "N=3000",
@@ -16669,7 +16669,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-676-625",
-    "questionText": "One of the objectives of the indigenization programme of the Federal Government of Nigeria is to (JAMB 1990)",
+    "questionText": "One of the objectives of the indigenization programme of the Federal Government of Nigeria is to",
     "options": [
       "encourage the use of local raw materials",
       "expel all foreigners from Nigeria",
@@ -16681,7 +16681,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-677-606",
-    "questionText": "The oldest and commonest form of business in Nigeria is (JAMB 1990)",
+    "questionText": "The oldest and commonest form of business in Nigeria is",
     "options": [
       "partnership",
       "the co-operative society",
@@ -16693,7 +16693,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-678-618",
-    "questionText": "A number of shops under one roof is the feature of a (JAMB 1990)",
+    "questionText": "A number of shops under one roof is the feature of a",
     "options": [
       "supermarket",
       "chain store",
@@ -16705,7 +16705,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629893-679-512",
-    "questionText": "Which of the following is not a financial institution? (JAMB 2000)",
+    "questionText": "Which of the following is not a financial institution?",
     "options": [
       "Commodity Board",
       "Insurance company",
@@ -16729,7 +16729,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-681-468",
-    "questionText": "Gilt-edged securities are issued mainly by  (JAMB 2013)",
+    "questionText": "Gilt-edged securities are issued mainly by",
     "options": [
       "individuals",
       "non-governmental organizations",
@@ -16741,7 +16741,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-682-813",
-    "questionText": "The Stock Exchange is a market where (JAMB 2002)",
+    "questionText": "The Stock Exchange is a market where",
     "options": [
       "long-term securities are sold",
       "all types of securities are sold",
@@ -16753,7 +16753,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-683-390",
-    "questionText": "The symbol @ in an internet mail address is used  to   (JAMB 2011)",
+    "questionText": "The symbol @ in an internet mail address is used  to",
     "options": [
       "separate the user name from the machine name",
       "link the user with other internet users",
@@ -16765,7 +16765,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-684-466",
-    "questionText": "Which of the following is a quality of money?   (JAMB 2013)",
+    "questionText": "Which of the following is a quality of money?",
     "options": [
       "Availability",
       "Scarcity",
@@ -16777,7 +16777,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-685-507",
-    "questionText": "Which of the following is sent in reply to a letter of enquiry? (JAMB 2000)",
+    "questionText": "Which of the following is sent in reply to a letter of enquiry?",
     "options": [
       "Quotation",
       "Order",
@@ -16789,7 +16789,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-686-610",
-    "questionText": "The purpose of issuing a credit note is to (JAMB 1990)",
+    "questionText": "The purpose of issuing a credit note is to",
     "options": [
       "correct errors of overcharging",
       "correct errors of undercharging",
@@ -16801,7 +16801,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-687-641",
-    "questionText": "Which of the following is a public corporation? The (JAMB 1990)",
+    "questionText": "Which of the following is a public corporation? The",
     "options": [
       "Nigeria Breweries Limited",
       "Nigerian Ports Authority",
@@ -16813,7 +16813,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-688-726",
-    "questionText": "The most important advantage of personal selling is that it (JAMB 2000)",
+    "questionText": "The most important advantage of personal selling is that it",
     "options": [
       "allows sellers to perceive buyers’ needs",
       "allows sellers to sell their goods quickly",
@@ -16825,7 +16825,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-689-820",
-    "questionText": "An important principle of a good organizational structure is (JAMB 2002)",
+    "questionText": "An important principle of a good organizational structure is",
     "options": [
       "ideal standard",
       "span of control",
@@ -16837,7 +16837,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-690-224",
-    "questionText": "The pooling of business information for the benefit of members is a major function of a  (JAMB 2008)",
+    "questionText": "The pooling of business information for the benefit of members is a major function of a",
     "options": [
       "pressure group",
       "trade association",
@@ -16849,7 +16849,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-691-476",
-    "questionText": "A contract that is acknowledged before the law court is referred to as  (JAMB 2013)",
+    "questionText": "A contract that is acknowledged before the law court is referred to as",
     "options": [
       "informal contract",
       "formal contract",
@@ -16861,7 +16861,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-692-579",
-    "questionText": "The oldest form of business enterprise in Nigeria is (JAMB 2013)",
+    "questionText": "The oldest form of business enterprise in Nigeria is",
     "options": [
       "partnership",
       "private liability company",
@@ -16873,7 +16873,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-693-735",
-    "questionText": "A chamber of commerce is an association made up of (JAMB 2000)",
+    "questionText": "A chamber of commerce is an association made up of",
     "options": [
       "entrepreneurs",
       "manufacturers",
@@ -16885,7 +16885,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-694-94",
-    "questionText": "Initial public offering is undertaken through the (JAMB 2005)",
+    "questionText": "Initial public offering is undertaken through the",
     "options": [
       "secondary securities market",
       "first-tier securities market",
@@ -16897,7 +16897,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-695-632",
-    "questionText": "Which of the following is not part of the facilities provided by the Nigerian Ports Authority? (JAMB 1990)",
+    "questionText": "Which of the following is not part of the facilities provided by the Nigerian Ports Authority?",
     "options": [
       "Dredging",
       "Warehousing",
@@ -16909,7 +16909,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-696-856",
-    "questionText": "The management function that makes the difference in intensity of behaviour is (JAMB 2003)",
+    "questionText": "The management function that makes the difference in intensity of behaviour is",
     "options": [
       "coordinating",
       "controlling",
@@ -16921,7 +16921,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-697-473",
-    "questionText": "Which of the following is used as a pricing policy?  (JAMB 2013)",
+    "questionText": "Which of the following is used as a pricing policy?",
     "options": [
       "packaging",
       "market selection",
@@ -16933,7 +16933,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-698-477",
-    "questionText": "An agent employed to sell goods delivered to him by the principal is referred to as a  (JAMB 2013)",
+    "questionText": "An agent employed to sell goods delivered to him by the principal is referred to as a",
     "options": [
       "Special agent",
       "del credere agent",
@@ -16945,7 +16945,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-699-321",
-    "questionText": "An illegal arrangement by manufacturers to control the price or condition of sale of a product is  (JAMB 2010)",
+    "questionText": "An illegal arrangement by manufacturers to control the price or condition of sale of a product is",
     "options": [
       "ring",
       "factoring",
@@ -16957,7 +16957,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-700-547",
-    "questionText": "Instrument used in place of legal tender but not freely acceptable are called ___ money. (JAMB 2013)",
+    "questionText": "Instrument used in place of legal tender but not freely acceptable are called ___ money.",
     "options": [
       "bank",
       "commodity",
@@ -16969,7 +16969,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-701-148",
-    "questionText": "Foreign trade also involves  (JAMB 2006)",
+    "questionText": "Foreign trade also involves",
     "options": [
       "providing services for other countries",
       "specialisation and the exchange of goods in a country",
@@ -16981,7 +16981,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-702-14",
-    "questionText": "One important requirement for the membership of the ECOWAS is  (JAMB 2004)",
+    "questionText": "One important requirement for the membership of the ECOWAS is",
     "options": [
       "integrity",
       "independence",
@@ -16993,7 +16993,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-703-361",
-    "questionText": "A cheque that has been drawn but not presented for payment can still be honoured  (JAMB 2011)",
+    "questionText": "A cheque that has been drawn but not presented for payment can still be honoured",
     "options": [
       "within 6 months",
       "after 9 months",
@@ -17005,7 +17005,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-704-176",
-    "questionText": "A distinctive advantage of GSM is its  (JAMB 2007)",
+    "questionText": "A distinctive advantage of GSM is its",
     "options": [
       "mobility",
       "cost",
@@ -17017,7 +17017,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-705-115",
-    "questionText": "The main requirement for admission to the second-tier securities market is the  (JAMB 2006)",
+    "questionText": "The main requirement for admission to the second-tier securities market is the",
     "options": [
       "provision of a three-year trading record",
       "disclosure of all trading activities",
@@ -17029,7 +17029,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-706-626",
-    "questionText": "The law which stipulates that labels should give an accurate account of a product is the (JAMB 1990)",
+    "questionText": "The law which stipulates that labels should give an accurate account of a product is the",
     "options": [
       "price control act",
       "consumer credit act",
@@ -17041,7 +17041,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-707-619",
-    "questionText": "An agreement between two parties which will give rise to enforceable rights and obligation is known as (JAMB 1990)",
+    "questionText": "An agreement between two parties which will give rise to enforceable rights and obligation is known as",
     "options": [
       "a warrant",
       "a contract",
@@ -17053,7 +17053,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-708-707",
-    "questionText": "The function of a merchant wholesaler is to (JAMB 2000)",
+    "questionText": "The function of a merchant wholesaler is to",
     "options": [
       "buy in bulk, store and sell to retailers as desired",
       "possess title to the goods, store and sell to retailers",
@@ -17065,7 +17065,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-709-577",
-    "questionText": "The following are merits of industrial integration, EXCEPT (JAMB 2013)",
+    "questionText": "The following are merits of industrial integration, EXCEPT",
     "options": [
       "controlling output and price",
       "eliminating waste",
@@ -17077,7 +17077,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-710-634",
-    "questionText": "An individual who makes the final use of goods and services provided by a firm is the (JAMB 1990)",
+    "questionText": "An individual who makes the final use of goods and services provided by a firm is the",
     "options": [
       "manufacturer",
       "wholesaler",
@@ -17089,7 +17089,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-711-540",
-    "questionText": "Obtaining feedback on the quality and performance of competing products of different manufacturers, explains the retailer’s function of (JAMB 2013)",
+    "questionText": "Obtaining feedback on the quality and performance of competing products of different manufacturers, explains the retailer’s function of",
     "options": [
       "after sales service",
       "granting to credits to consumers",
@@ -17101,7 +17101,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-712-190",
-    "questionText": "The difference between the buying and selling price of shares is known as    (JAMB 2007)",
+    "questionText": "The difference between the buying and selling price of shares is known as",
     "options": [
       "brokerage",
       "margin",
@@ -17113,7 +17113,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-713-605",
-    "questionText": "The cost of goods sold is (JAMB 1990)",
+    "questionText": "The cost of goods sold is",
     "options": [
       "N=6000",
       "N=10000",
@@ -17125,7 +17125,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-714-281",
-    "questionText": "The major dealers on the stock market are the  (JAMB 2009)",
+    "questionText": "The major dealers on the stock market are the",
     "options": [
       "agents",
       "jobbers",
@@ -17137,7 +17137,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-715-535",
-    "questionText": "A counter-offer in a contract is regarded as (JAMB 2000)",
+    "questionText": "A counter-offer in a contract is regarded as",
     "options": [
       "an acceptance",
       "an invitation to treat",
@@ -17149,7 +17149,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-716-585",
-    "questionText": "The first step for a businessman who wishes to engage in international trade is to (JAMB 2013)",
+    "questionText": "The first step for a businessman who wishes to engage in international trade is to",
     "options": [
       "ask the exporter to move the goods to the shipping company for delivery",
       "engage the services of clearing agent to clear the goods on his behalf",
@@ -17161,7 +17161,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-717-456",
-    "questionText": "An importance of warehousing is in the  (JAMB 2013)",
+    "questionText": "An importance of warehousing is in the",
     "options": [
       "production of goods",
       "transportation of goods",
@@ -17173,7 +17173,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-718-568",
-    "questionText": "The following are characteristics of debenture holders, EXCEPT (JAMB 2013)",
+    "questionText": "The following are characteristics of debenture holders, EXCEPT",
     "options": [
       "being one of the sources of long term loan to public companies.",
       "being paid interest",
@@ -17185,7 +17185,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-719-738",
-    "questionText": "The legal aspect of business is designed to (JAMB 2000)",
+    "questionText": "The legal aspect of business is designed to",
     "options": [
       "protect business organizations and consumers",
       "safeguard consumers from undue business practices",
@@ -17197,7 +17197,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-720-723",
-    "questionText": "A group of specialized functions of marketing is (JAMB 2000)",
+    "questionText": "A group of specialized functions of marketing is",
     "options": [
       "buying, selling, storing and information",
       "buying, selling, advertising and packaging",
@@ -17209,7 +17209,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-721-480",
-    "questionText": "The right of retain possession of goods until the contract price is paid is referred to as  (JAMB 2013)",
+    "questionText": "The right of retain possession of goods until the contract price is paid is referred to as",
     "options": [
       "a promise",
       "ultra vires",
@@ -17221,7 +17221,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-722-521",
-    "questionText": "The method of sending messages by the teleprinter is (JAMB 2000)",
+    "questionText": "The method of sending messages by the teleprinter is",
     "options": [
       "telephone",
       "cablegram",
@@ -17233,7 +17233,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-723-48",
-    "questionText": "Manufactures’ Association  of Nigeria contributes to development by advising the government on (JAMB 2004)",
+    "questionText": "Manufactures’ Association  of Nigeria contributes to development by advising the government on",
     "options": [
       "industrial policy and harmony",
       "budget and control",
@@ -17245,7 +17245,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-724-635",
-    "questionText": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a (JAMB 1990)",
+    "questionText": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a",
     "options": [
       "cartel",
       "trust",
@@ -17257,7 +17257,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-725-510",
-    "questionText": "Which of the following is not a means of payment in foreign trade? (JAMB 2000)",
+    "questionText": "Which of the following is not a means of payment in foreign trade?",
     "options": [
       "Telegraphic money order",
       "Specially crossed cheque",
@@ -17269,7 +17269,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-726-708",
-    "questionText": "An invoice can be described as a (JAMB 2000)",
+    "questionText": "An invoice can be described as a",
     "options": [
       "contractual agreement for the sale of goods",
       "document specifying quantity, description, prices and total value of purchases",
@@ -17281,7 +17281,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-727-853",
-    "questionText": "An example of service rendered by NIPOST is (JAMB 2003)",
+    "questionText": "An example of service rendered by NIPOST is",
     "options": [
       "electronic mail",
       "courier",
@@ -17293,7 +17293,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-728-204",
-    "questionText": "The promotion of savings culture is a feature of a  (JAMB 2008)",
+    "questionText": "The promotion of savings culture is a feature of a",
     "options": [
       "trade association",
       "consumers cooperative society",
@@ -17305,7 +17305,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-729-679",
-    "questionText": "One of the functions of the Nigerian Ports Authority is that it (JAMB 2016)",
+    "questionText": "One of the functions of the Nigerian Ports Authority is that it",
     "options": [
       "gives preferential treatment to Nigerian investors",
       "provides credit facilities to importers.",
@@ -17317,7 +17317,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-730-698",
-    "questionText": "The term Plc implies that the shares are available (JAMB 2000)",
+    "questionText": "The term Plc implies that the shares are available",
     "options": [
       "to the public at the company",
       "privately on the stock exchange",
@@ -17329,7 +17329,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-731-483",
-    "questionText": "The physical component of a computer system is  (JAMB 2013)",
+    "questionText": "The physical component of a computer system is",
     "options": [
       "software",
       "hardware",
@@ -17341,7 +17341,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-732-612",
-    "questionText": "Which of the following advertising media combines the advantages of sound and motion? (JAMB 1990)",
+    "questionText": "Which of the following advertising media combines the advantages of sound and motion?",
     "options": [
       "Radio",
       "Neon signs",
@@ -17353,7 +17353,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-733-450",
-    "questionText": "Which of the following advertising medium appeals to only the literate it the society? (JAMB 2013)",
+    "questionText": "Which of the following advertising medium appeals to only the literate it the society?",
     "options": [
       "Radio advertising",
       "Print Media advertising",
@@ -17365,7 +17365,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-734-620",
-    "questionText": "Auctions and Tenders become binding when they are (JAMB 1990)",
+    "questionText": "Auctions and Tenders become binding when they are",
     "options": [
       "accepted",
       "offered",
@@ -17377,7 +17377,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-735-520",
-    "questionText": "In Public Limited Liability Companies, equities are referred to as (JAMB 2000)",
+    "questionText": "In Public Limited Liability Companies, equities are referred to as",
     "options": [
       "preference shares",
       "authorized capital",
@@ -17389,7 +17389,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-736-412",
-    "questionText": "Tourism serves the purpose of  (JAMB 2012)",
+    "questionText": "Tourism serves the purpose of",
     "options": [
       "cross-cultural understanding and peaceful interaction",
       "opening avenues for leaving the country",
@@ -17401,7 +17401,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-737-804",
-    "questionText": "The machine used for sending telex messages is known as a (JAMB 2002)",
+    "questionText": "The machine used for sending telex messages is known as a",
     "options": [
       "radar",
       "fax machine",
@@ -17413,7 +17413,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-738-704",
-    "questionText": "The share capital value that forms part of the balance sheet total is the (JAMB 2000)",
+    "questionText": "The share capital value that forms part of the balance sheet total is the",
     "options": [
       "paid-up share capital",
       "called-up share capital",
@@ -17425,7 +17425,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-739-276",
-    "questionText": "The circulating capital of a business enterprise is classified into  (JAMB 2009)",
+    "questionText": "The circulating capital of a business enterprise is classified into",
     "options": [
       "cash, work-in progress and debtors",
       "cash, vehicles, land and buildings",
@@ -17437,7 +17437,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-740-644",
-    "questionText": "The amount paid by the assured to the insurer is called (JAMB 1990)",
+    "questionText": "The amount paid by the assured to the insurer is called",
     "options": [
       "interest",
       "premium",
@@ -17449,7 +17449,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-741-515",
-    "questionText": "Which of the following encourages people to save towards owning a house? (JAMB 2000)",
+    "questionText": "Which of the following encourages people to save towards owning a house?",
     "options": [
       "Merchant bank",
       "Development bank",
@@ -17461,7 +17461,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-742-739",
-    "questionText": "In an organization, civic consideration arises from (JAMB 2000)",
+    "questionText": "In an organization, civic consideration arises from",
     "options": [
       "the profit derived from the environment",
       "its operations within the environment",
@@ -17473,7 +17473,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-743-393",
-    "questionText": "An example of an activity in the construction industry is  (JAMB 2012)",
+    "questionText": "An example of an activity in the construction industry is",
     "options": [
       "blacksmithing",
       "bricklaying",
@@ -17485,7 +17485,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-744-717",
-    "questionText": "A console is a device used in (JAMB 2000)",
+    "questionText": "A console is a device used in",
     "options": [
       "moving an indicator on the screen",
       "communicating between operator and programme",
@@ -17497,7 +17497,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-745-498",
-    "questionText": "A debenture is mortgaged when it is (JAMB 2000)",
+    "questionText": "A debenture is mortgaged when it is",
     "options": [
       "not secured on the assets of a company",
       "secured on the assets of a company",
@@ -17509,7 +17509,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-746-419",
-    "questionText": "The portion of the authorized share capital given out to the public for subscription is  (JAMB 2012)",
+    "questionText": "The portion of the authorized share capital given out to the public for subscription is",
     "options": [
       "called-up capital",
       "issued capital",
@@ -17521,7 +17521,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-747-571",
-    "questionText": "Price quotation which excludes all delivery charges is called (JAMB 2013)",
+    "questionText": "Price quotation which excludes all delivery charges is called",
     "options": [
       "cost and freight",
       "ex - ship",
@@ -17533,7 +17533,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-748-597",
-    "questionText": "Which of the following is NOT a role of trade association? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a role of trade association?",
     "options": [
       "Eliminating competition among members",
       "Ensuring uniformity in mode of operation",
@@ -17545,7 +17545,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-749-550",
-    "questionText": "Calculate the net profit. (JAMB 2013)",
+    "questionText": "Calculate the net profit.",
     "options": [
       "30,000",
       "33,000",
@@ -17557,7 +17557,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-750-636",
-    "questionText": "When a business is insolvent it may result in (JAMB 1990)",
+    "questionText": "When a business is insolvent it may result in",
     "options": [
       "incorporation",
       "recuperation",
@@ -17569,7 +17569,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-751-57",
-    "questionText": "The most dangerous pollution is (JAMB 2005)",
+    "questionText": "The most dangerous pollution is",
     "options": [
       "water",
       "noise pollution",
@@ -17581,7 +17581,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-752-501",
-    "questionText": "Which of the following is not contained in an advice note? (JAMB 2000)",
+    "questionText": "Which of the following is not contained in an advice note?",
     "options": [
       "Type of goods",
       "Price of goods",
@@ -17593,7 +17593,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-753-562",
-    "questionText": "In trading, profit and loss account, carriage outward is (JAMB 2013)",
+    "questionText": "In trading, profit and loss account, carriage outward is",
     "options": [
       "added to purchases",
       "deducted from purchases",
@@ -17605,7 +17605,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-754-489",
-    "questionText": "Which of the following can be defined as trade and aids to trade? (JAMB 2000)",
+    "questionText": "Which of the following can be defined as trade and aids to trade?",
     "options": [
       "Advertising",
       "Commerce",
@@ -17617,7 +17617,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-755-613",
-    "questionText": "Which of the following is a form of sales promotion? (JAMB 1990)",
+    "questionText": "Which of the following is a form of sales promotion?",
     "options": [
       "Promotion through radio",
       "Advertising by television",
@@ -17629,7 +17629,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-756-570",
-    "questionText": "Double coincidence of wants is a disadvantage of (JAMB 2013)",
+    "questionText": "Double coincidence of wants is a disadvantage of",
     "options": [
       "business",
       "buying and selling",
@@ -17641,7 +17641,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-757-488",
-    "questionText": "The environmental hazard that is most difficult to control is  (JAMB 2013)",
+    "questionText": "The environmental hazard that is most difficult to control is",
     "options": [
       "land pollution",
       "water pollution",
@@ -17653,7 +17653,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-758-609",
-    "questionText": "In which class of occupation would you place a taxi-driver? (JAMB 1990)",
+    "questionText": "In which class of occupation would you place a taxi-driver?",
     "options": [
       "Extractive",
       "Indirect services",
@@ -17665,7 +17665,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-759-793",
-    "questionText": "Which of the following best describes the scope of commerce? (JAMB 2002)",
+    "questionText": "Which of the following best describes the scope of commerce?",
     "options": [
       "All forms of commercial exchanges and the manufacturing industry",
       "Buying and selling and the construction industry",
@@ -17677,7 +17677,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-760-589",
-    "questionText": "Bridging the gap between producers and consumers is the sole purpose of (JAMB 2013)",
+    "questionText": "Bridging the gap between producers and consumers is the sole purpose of",
     "options": [
       "distribution",
       "hawking",
@@ -17689,7 +17689,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-761-596",
-    "questionText": "The ability of money to be divided into smaller units for easy exchange of goods and services explains (JAMB 2013)",
+    "questionText": "The ability of money to be divided into smaller units for easy exchange of goods and services explains",
     "options": [
       "divisibility",
       "durability",
@@ -17701,7 +17701,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-762-575",
-    "questionText": "The following documents are used between buyers and sellers, EXCEPT (JAMB 2013)",
+    "questionText": "The following documents are used between buyers and sellers, EXCEPT",
     "options": [
       "catalogue",
       "dispatch rate",
@@ -17713,7 +17713,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-763-437",
-    "questionText": "Computers that process all data as binary zeros and ones are  (JAMB 2012)",
+    "questionText": "Computers that process all data as binary zeros and ones are",
     "options": [
       "analog computers",
       "digital computers",
@@ -17725,7 +17725,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-764-85",
-    "questionText": "Which of the following confirms the accuracy of the duty charged on imported goods? (JAMB 2005)",
+    "questionText": "Which of the following confirms the accuracy of the duty charged on imported goods?",
     "options": [
       "An indent",
       "Consular invoice",
@@ -17737,7 +17737,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-765-9",
-    "questionText": "What is the most important use of promotion in marketing?      (JAMB 2004)",
+    "questionText": "What is the most important use of promotion in marketing?",
     "options": [
       "Persuasion",
       "Conviction",
@@ -17749,7 +17749,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-766-462",
-    "questionText": "A lawyer that defrauds his client may be derobed by the Nigerian Bar Association in order to  (JAMB 2013)",
+    "questionText": "A lawyer that defrauds his client may be derobed by the Nigerian Bar Association in order to",
     "options": [
       "protect other lawyers",
       "protect the integrity of the association",
@@ -17761,7 +17761,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-767-432",
-    "questionText": "A person who in consideration for an extra commission, takes responsibility for goods sold on credit and in case of default is a  (JAMB 2012)",
+    "questionText": "A person who in consideration for an extra commission, takes responsibility for goods sold on credit and in case of default is a",
     "options": [
       "commission agent",
       "del credere agent",
@@ -17773,7 +17773,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-768-445",
-    "questionText": "Trading position of Nigeria is the same as her  (JAMB 2013)",
+    "questionText": "Trading position of Nigeria is the same as her",
     "options": [
       "desire to trade with many countries",
       "willingness to grant credit to foreigners",
@@ -17785,7 +17785,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-769-528",
-    "questionText": "Firms wishing to defend established products as well as launch new ones will make use of (JAMB 2000)",
+    "questionText": "Firms wishing to defend established products as well as launch new ones will make use of",
     "options": [
       "franchising",
       "product differentiation",
@@ -17797,7 +17797,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-770-497",
-    "questionText": "Which of the following is true about cumulative preference shares? (JAMB 2000)",
+    "questionText": "Which of the following is true about cumulative preference shares?",
     "options": [
       "Unpaid dividends are carried forward",
       "Shareholders can secure capital refund on demand",
@@ -17809,7 +17809,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629894-771-614",
-    "questionText": "Efforts geared towards establishing and maintaining good image for a company is termed (JAMB 1990)",
+    "questionText": "Efforts geared towards establishing and maintaining good image for a company is termed",
     "options": [
       "human relations",
       "professional relations",
@@ -17821,7 +17821,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-772-719",
-    "questionText": "The major condition for obtaining loan in thrift, credit and loans cooperative societies is (JAMB 2000)",
+    "questionText": "The major condition for obtaining loan in thrift, credit and loans cooperative societies is",
     "options": [
       "provision of collateral security",
       "a high level of education",
@@ -17833,7 +17833,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-773-309",
-    "questionText": "The document issued to a port authority when goods are deposited is a  (JAMB 2010)",
+    "questionText": "The document issued to a port authority when goods are deposited is a",
     "options": [
       "dock landing account",
       "bill of sight",
@@ -17845,7 +17845,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-774-522",
-    "questionText": "The information on terms of carriage of mails is found in (JAMB 2000)",
+    "questionText": "The information on terms of carriage of mails is found in",
     "options": [
       "business journal",
       "post office guide",
@@ -17857,7 +17857,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-775-72",
-    "questionText": "A partnership is dissolved when (JAMB 2005)",
+    "questionText": "A partnership is dissolved when",
     "options": [
       "the business suffers a loss",
       "there is bankruptcy",
@@ -17869,7 +17869,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-776-572",
-    "questionText": "Which of the following does NOT appear on a cheque on presentation for payment? (JAMB 2013)",
+    "questionText": "Which of the following does NOT appear on a cheque on presentation for payment?",
     "options": [
       "Amount in words and figures",
       "Date of withdrawal",
@@ -17881,7 +17881,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-777-511",
-    "questionText": "A bill of exchange on maturity is allowed (JAMB 2000)",
+    "questionText": "A bill of exchange on maturity is allowed",
     "options": [
       "seven days of grace",
       "five days of grace",
@@ -17893,7 +17893,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-778-702",
-    "questionText": "On liquidation of a public limited liability company, the residual owners are the (JAMB 2000)",
+    "questionText": "On liquidation of a public limited liability company, the residual owners are the",
     "options": [
       "creditors",
       "ordinary shareholders",
@@ -17905,7 +17905,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-779-554",
-    "questionText": "Which of the following documents contains the name of the company, registration number and signature of the registrar? (JAMB 2013)",
+    "questionText": "Which of the following documents contains the name of the company, registration number and signature of the registrar?",
     "options": [
       "Articles of association",
       "Certificate of incorporation",
@@ -17917,7 +17917,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-780-251",
-    "questionText": "Primary production is associated with  (JAMB 2009)",
+    "questionText": "Primary production is associated with",
     "options": [
       "banking",
       "manufacturing",
@@ -17929,7 +17929,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-781-858",
-    "questionText": "The process of dividing tasks into jobs and departments and of delegating authority is known as (JAMB 2003)",
+    "questionText": "The process of dividing tasks into jobs and departments and of delegating authority is known as",
     "options": [
       "staffing",
       "leading",
@@ -17941,7 +17941,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-782-569",
-    "questionText": "The money paid to savings account holders by banks after a period of transaction is called (JAMB 2013)",
+    "questionText": "The money paid to savings account holders by banks after a period of transaction is called",
     "options": [
       "dividend",
       "gain",
@@ -17953,7 +17953,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-783-806",
-    "questionText": "The unit through which results of a processed data are displayed is the (JAMB 2002)",
+    "questionText": "The unit through which results of a processed data are displayed is the",
     "options": [
       "logic unit",
       "display unit",
@@ -17965,7 +17965,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-784-152",
-    "questionText": "Citizens are against privatisation mainly because of  (JAMB 2007)",
+    "questionText": "Citizens are against privatisation mainly because of",
     "options": [
       "the rationalization of organizations",
       "increased prices of goods and services",
@@ -17977,7 +17977,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-785-493",
-    "questionText": "The coming together of two or more firms at different stages of production is (JAMB 2000)",
+    "questionText": "The coming together of two or more firms at different stages of production is",
     "options": [
       "horizontal merger",
       "vertical merger",
@@ -17989,7 +17989,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-786-615",
-    "questionText": "Which of the following is sent as a reply to an inquiry? (JAMB 1990)",
+    "questionText": "Which of the following is sent as a reply to an inquiry?",
     "options": [
       "Tender",
       "Estimate",
@@ -18001,7 +18001,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-787-863",
-    "questionText": "In the event of the liquidation of a company the first to be settled are (JAMB 2003)",
+    "questionText": "In the event of the liquidation of a company the first to be settled are",
     "options": [
       "debenture holders",
       "members of the board",
@@ -18013,7 +18013,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-788-235",
-    "questionText": "The sum of money paid by a policy-holder to an insurer is referred to as  (JAMB 2008)",
+    "questionText": "The sum of money paid by a policy-holder to an insurer is referred to as",
     "options": [
       "interest",
       "premium",
@@ -18025,7 +18025,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-789-441",
-    "questionText": "The type of labour that makes use of physical effort in production processes is the  (JAMB 2013)",
+    "questionText": "The type of labour that makes use of physical effort in production processes is the",
     "options": [
       "unskilled labour",
       "skilled labour",
@@ -18037,7 +18037,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-790-537",
-    "questionText": "Which of the following is an agreement to transport goods but not a document of title? (JAMB 2000)",
+    "questionText": "Which of the following is an agreement to transport goods but not a document of title?",
     "options": [
       "Air-waybill",
       "Bill of lading",
@@ -18049,7 +18049,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-791-581",
-    "questionText": "Products that have stayed long on themselves in a shop can be sold easily through (JAMB 2013)",
+    "questionText": "Products that have stayed long on themselves in a shop can be sold easily through",
     "options": [
       "branding",
       "discounting",
@@ -18061,7 +18061,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-792-210",
-    "questionText": "Maimani Plc, whose nominal capital is made up of 500 000 ordinary shares of 50k each, decided to offer 80% of it to the public and realized only 50% of the amount due. What is the company’s authorized share capital? (JAMB 2008)",
+    "questionText": "Maimani Plc, whose nominal capital is made up of 500 000 ordinary shares of 50k each, decided to offer 80% of it to the public and realized only 50% of the amount due. What is the company’s authorized share capital?",
     "options": [
       "N2500 000",
       "N4000 0000",
@@ -18073,7 +18073,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-793-724",
-    "questionText": "The type of advertising that seeks to persuade consumers to buy a particular product is (JAMB 2000)",
+    "questionText": "The type of advertising that seeks to persuade consumers to buy a particular product is",
     "options": [
       "informative advertising",
       "competitive advertising",
@@ -18085,7 +18085,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-794-623",
-    "questionText": "Which of the following is the quickest and accurate means of communication? (JAMB 1990)",
+    "questionText": "Which of the following is the quickest and accurate means of communication?",
     "options": [
       "Telegram",
       "Express mail",
@@ -18097,7 +18097,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-795-654",
-    "questionText": "The  lumbering of trees by a furniture company is an example of (JAMB 2016)",
+    "questionText": "The  lumbering of trees by a furniture company is an example of",
     "options": [
       "primary production",
       "secondary production",
@@ -18109,7 +18109,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-796-140",
-    "questionText": "Consumerism aims at protecting the consumer from (JAMB 2006)",
+    "questionText": "Consumerism aims at protecting the consumer from",
     "options": [
       "harmful products",
       "drug addiction",
@@ -18121,7 +18121,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-797-653",
-    "questionText": "An advantage of the Second-Tier Securities Market to an economy is in (JAMB 2016)",
+    "questionText": "An advantage of the Second-Tier Securities Market to an economy is in",
     "options": [
       "creating avenues for investment",
       "regulating competition amongst companies",
@@ -18133,7 +18133,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-798-563",
-    "questionText": "The pricing policy adopted by firms selling to wealthy people is (JAMB 2013)",
+    "questionText": "The pricing policy adopted by firms selling to wealthy people is",
     "options": [
       "market penetration",
       "market skimming",
@@ -18145,7 +18145,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-799-467",
-    "questionText": "Money can simply be referred to as a  (JAMB 2013)",
+    "questionText": "Money can simply be referred to as a",
     "options": [
       "measure of value",
       "standard of value",
@@ -18157,7 +18157,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-800-343",
-    "questionText": "One way by which a business can discharge its social responsibility to its community is to  (JAMB 2010)",
+    "questionText": "One way by which a business can discharge its social responsibility to its community is to",
     "options": [
       "hold monthly meetings of its customers",
       "build houses for its executives",
@@ -18169,7 +18169,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-801-447",
-    "questionText": "The document lodged with the customs authorities before a ship can leave the port is a  (JAMB 2013)",
+    "questionText": "The document lodged with the customs authorities before a ship can leave the port is a",
     "options": [
       "shipping note",
       "ship report",
@@ -18181,7 +18181,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-802-645",
-    "questionText": "With the exception of life assurance and personal accident insurance, contracts of insurance are contracts of (JAMB 1990)",
+    "questionText": "With the exception of life assurance and personal accident insurance, contracts of insurance are contracts of",
     "options": [
       "premium",
       "indemnity",
@@ -18193,7 +18193,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-803-282",
-    "questionText": "The daily official publications of the Nigerian Stock Exchange give detailed information on the  (JAMB 2009)",
+    "questionText": "The daily official publications of the Nigerian Stock Exchange give detailed information on the",
     "options": [
       "changes in the official rules set by the market",
       "method of transactions agreed upon by members",
@@ -18205,7 +18205,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-804-593",
-    "questionText": "Which of the following is NOT a commercial occupation? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a commercial occupation?",
     "options": [
       "Advertising",
       "Agriculture",
@@ -18217,7 +18217,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-805-627",
-    "questionText": "Which of the following is not an essential of a contract? (JAMB 1990)",
+    "questionText": "Which of the following is not an essential of a contract?",
     "options": [
       "Offer and acceptance",
       "Intention to create legal relations",
@@ -18229,7 +18229,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-806-601",
-    "questionText": "The three main divisions of production include industrial (JAMB 1990)",
+    "questionText": "The three main divisions of production include industrial",
     "options": [
       "commercial and banking services",
       "commercial and services",
@@ -18241,7 +18241,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-807-835",
-    "questionText": "group of companies is a collection of (JAMB 2002)",
+    "questionText": "group of companies is a collection of",
     "options": [
       "subsidiaries and their holding company",
       "firms",
@@ -18253,7 +18253,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-808-617",
-    "questionText": "A business is in existence primarily to (JAMB 1990)",
+    "questionText": "A business is in existence primarily to",
     "options": [
       "make profit",
       "provide goods and services",
@@ -18265,7 +18265,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-809-711",
-    "questionText": "The insurance principle that requires full disclosure of information on the insured is known as (JAMB 2000)",
+    "questionText": "The insurance principle that requires full disclosure of information on the insured is known as",
     "options": [
       "indemnity",
       "uberrimaefidei",
@@ -18277,7 +18277,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-810-460",
-    "questionText": "The amount of authorized capital that shareholders have subscribed to is  (JAMB 2013)",
+    "questionText": "The amount of authorized capital that shareholders have subscribed to is",
     "options": [
       "issued share capital",
       "authorized share capital",
@@ -18289,7 +18289,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-811-504",
-    "questionText": "Which of the following is not a function of a retailer? (JAMB 2000)",
+    "questionText": "Which of the following is not a function of a retailer?",
     "options": [
       "Supplying goods to final consumers",
       "Bulk breaking",
@@ -18301,7 +18301,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-812-845",
-    "questionText": "Goods that are manufactured or acquired by the seller after the contract of sale are (JAMB 2003)",
+    "questionText": "Goods that are manufactured or acquired by the seller after the contract of sale are",
     "options": [
       "specialty goods",
       "future goods",
@@ -18313,7 +18313,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-813-208",
-    "questionText": "The cheapest source of funds available to a company is through  (JAMB 2008)",
+    "questionText": "The cheapest source of funds available to a company is through",
     "options": [
       "the sale of shares",
       "retained profits",
@@ -18325,7 +18325,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-814-796",
-    "questionText": "Okeze contracted to sell TV sets to Ojo. Unknown to them, the sets were stolen in transit.   This contract may be terminated on the grounds of (JAMB 2002)",
+    "questionText": "Okeze contracted to sell TV sets to Ojo. Unknown to them, the sets were stolen in transit.   This contract may be terminated on the grounds of",
     "options": [
       "bankruptcy",
       "frustration",
@@ -18337,7 +18337,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-815-12",
-    "questionText": "Business environment refers to all elements that are   (JAMB 2004)",
+    "questionText": "Business environment refers to all elements that are",
     "options": [
       "outside an organization but relevant to its operations",
       "inside an organization but irrelevant to its operations",
@@ -18349,7 +18349,7 @@ export const commerceQuestions = [
   },
   {
     "id": "commerce-1788729629895-816-697",
-    "questionText": "The application of division of labour should generally bring about (JAMB 2000)",
+    "questionText": "The application of division of labour should generally bring about",
     "options": [
       "increase in the quantity of goods and services",
       "increase in the variety of goods and services",

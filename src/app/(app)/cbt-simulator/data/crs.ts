@@ -1,7 +1,7 @@
 export const crsQuestions = [
   {
     "id": "crk-1788679767770-0-841",
-    "questionText": "Darkness was not created during creation because (JAMB 2012)",
+    "questionText": "Darkness was not created during creation because",
     "options": [
       "the earth was full of water",
       "God’s spirit was over the waters",
@@ -13,7 +13,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-1-48",
-    "questionText": "The person who the Bible calls the consolation is:   (JAMB 2008)",
+    "questionText": "The person who the Bible calls the consolation is:",
     "options": [
       "Barsabbas ",
       "Barabbas ",
@@ -25,7 +25,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-2-832",
-    "questionText": "In Corinthians, Paul cited all the following resurrection appearances of Jesus except  (JAMB 2010)",
+    "questionText": "In Corinthians, Paul cited all the following resurrection appearances of Jesus except",
     "options": [
       "Cephas.    ",
       "The Twelve.   ",
@@ -37,7 +37,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-3-917",
-    "questionText": "In his Transfiguration, Jesus took with him  (JAMB 2013)",
+    "questionText": "In his Transfiguration, Jesus took with him",
     "options": [
       "Peter, James and Andrew. ",
       "Andrew, Peter and John. ",
@@ -49,7 +49,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-4-991",
-    "questionText": "According to Joseph’s interpretation to Pharaoh’s dreams;  (JAMB 2011)",
+    "questionText": "According to Joseph’s interpretation to Pharaoh’s dreams;",
     "options": [
       "famine",
       "abundance",
@@ -61,7 +61,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-5-544",
-    "questionText": "God’s message through Jonah’s was to the people of (JAMB 2015)",
+    "questionText": "God’s message through Jonah’s was to the people of",
     "options": [
       "Joppa",
       "Tarshish",
@@ -73,7 +73,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-6-652",
-    "questionText": "Deborah, a prophetess who was a judge in Israel was the wife of (JAMB 2011)",
+    "questionText": "Deborah, a prophetess who was a judge in Israel was the wife of",
     "options": [
       "Joshua.",
       "Abijah.",
@@ -85,7 +85,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-7-670",
-    "questionText": "Peter called for the construction of three booths for Jesus, Moses and Elijah, respectively during (JAMB 2011)",
+    "questionText": "Peter called for the construction of three booths for Jesus, Moses and Elijah, respectively during",
     "options": [
       "the transfiguration.",
       "the Ascension.",
@@ -97,7 +97,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-8-8",
-    "questionText": "What did God create on the fifth day?  (JAMB 2006)",
+    "questionText": "What did God create on the fifth day?",
     "options": [
       "the firmament  ",
       "the two great light ",
@@ -109,7 +109,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-9-24",
-    "questionText": "He shall save his people from their sins. Who is being referred to here?  (JAMB 2007)",
+    "questionText": "He shall save his people from their sins. Who is being referred to here?",
     "options": [
       "John the Baptist ",
       "Elijah ",
@@ -121,7 +121,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-10-502",
-    "questionText": "Before Moses brought the Israelites to meet God on Mount Sinai, he charged them to (JAMB 2015)",
+    "questionText": "Before Moses brought the Israelites to meet God on Mount Sinai, he charged them to",
     "options": [
       "touch the mountain at the sight of smoke",
       "ensure they eat very well",
@@ -133,7 +133,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-11-707",
-    "questionText": "Teacher, what shall I do to inherit eternal life?” Who among the following tested Jesus with this question? (JAMB 2019)",
+    "questionText": "Teacher, what shall I do to inherit eternal life?” Who among the following tested Jesus with this question?",
     "options": [
       "A Pharisee",
       "A lawyer",
@@ -145,7 +145,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-12-317",
-    "questionText": "What shall I do with you, O Ephraim? What shall I do with you, O Judah? Your love is like a morning cloud...” In the statement above, the love of Israel is compared to a morning cloud because it (JAMB 2011)",
+    "questionText": "What shall I do with you, O Ephraim? What shall I do with you, O Judah? Your love is like a morning cloud...” In the statement above, the love of Israel is compared to a morning cloud because it",
     "options": [
       "disappears fast",
       "withers",
@@ -157,7 +157,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-13-565",
-    "questionText": "Isaiah said that when Israel spread forth their hands, God would hide his face because they were (JAMB 2010)",
+    "questionText": "Isaiah said that when Israel spread forth their hands, God would hide his face because they were",
     "options": [
       "making many prayers",
       "offering vain sacrifices.",
@@ -169,7 +169,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-14-449",
-    "questionText": "Pharaoh’s horsemen and his army overtook the fleeing Hebrews encamped by the sea at (JAMB 2009)",
+    "questionText": "Pharaoh’s horsemen and his army overtook the fleeing Hebrews encamped by the sea at",
     "options": [
       "Migdol.",
       "Etham.",
@@ -181,7 +181,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-15-1014",
-    "questionText": "“My son your sins are forgiven”. These were the words of  Jesus to the    (JAMB 2011)",
+    "questionText": "“My son your sins are forgiven”. These were the words of  Jesus to the",
     "options": [
       "demonia",
       "paralyti    ",
@@ -193,7 +193,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-16-1069",
-    "questionText": "Golgotha means the place of (JAMB 2015)",
+    "questionText": "Golgotha means the place of",
     "options": [
       " the dead   ",
       "crucifixion         ",
@@ -205,7 +205,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-17-860",
-    "questionText": "Daniel  disobeyed King Darius by (JAMB 2012)",
+    "questionText": "Daniel  disobeyed King Darius by",
     "options": [
       " refusing to honour the Persian gods",
       "refusing to be made president of the Satraps",
@@ -217,7 +217,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-18-354",
-    "questionText": "When the Spirit of the Lord departed from Saul (JAMB 2008)",
+    "questionText": "When the Spirit of the Lord departed from Saul",
     "options": [
       "a new spirit entered into him",
       "an evil spirit from God tormented him",
@@ -229,7 +229,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-19-224",
-    "questionText": "The arrest of Jesus by his enemies was (JAMB 2005)",
+    "questionText": "The arrest of Jesus by his enemies was",
     "options": [
       "an accident of faith",
       "a result of his tough teaching",
@@ -241,7 +241,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-20-690",
-    "questionText": "With respect to the date of the Parosia, Paul advised Thessalonians to (JAMB 2011)",
+    "questionText": "With respect to the date of the Parosia, Paul advised Thessalonians to",
     "options": [
       "be sober in maintaining their hope of salvation.",
       "disregard all speculations about it.",
@@ -253,7 +253,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-21-840",
-    "questionText": "Peter recommends submission to the civil authority so as to  (JAMB 2010)",
+    "questionText": "Peter recommends submission to the civil authority so as to",
     "options": [
       "silence the ungodly",
       "encourage the believers. ",
@@ -265,7 +265,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-22-413",
-    "questionText": "The major reason God allowed the Babylonian attack on the city of Jerusalem was to (JAMB 2013)",
+    "questionText": "The major reason God allowed the Babylonian attack on the city of Jerusalem was to",
     "options": [
       "demonstrate the ability of God to deliver His people from captivity",
       "set a trap for the Babylonians and destroy them",
@@ -277,7 +277,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-23-3",
-    "questionText": "Jesus’ new commandment according to the Gospel of Jesus of John is  (JAMB 2006)",
+    "questionText": "Jesus’ new commandment according to the Gospel of Jesus of John is",
     "options": [
       "salvation ",
       "love ",
@@ -289,7 +289,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-24-724",
-    "questionText": "One significance of St Paul's teaching on Resurrection is that__________ (JAMB 2019)",
+    "questionText": "One significance of St Paul's teaching on Resurrection is that__________",
     "options": [
       "Christians must not underestimate the power of baptism by immersion",
       "As Christ rose and ascended into glory, so as also must uphold the observance of law",
@@ -301,7 +301,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-25-472",
-    "questionText": "Jesus teaches, “Let your light so shine before men...” By light Jesus refers to, (JAMB 2009)",
+    "questionText": "Jesus teaches, “Let your light so shine before men...” By light Jesus refers to,",
     "options": [
       "the Christian character and virtues in us.",
       "the bright lights at the altar in the church.",
@@ -313,7 +313,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-26-858",
-    "questionText": " Josiah sent the ashes of the burnt vessels of Baal to Bethel in order to (JAMB 2012)",
+    "questionText": " Josiah sent the ashes of the burnt vessels of Baal to Bethel in order to",
     "options": [
       "desecrate the golden calf being worshipped",
       "desecrate the place for child sacrifice",
@@ -325,7 +325,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-27-537",
-    "questionText": "“Go and stand in the temple and speak to the people all the words of this life.” The angel’s statement above to Peter was after (JAMB 2015)",
+    "questionText": "“Go and stand in the temple and speak to the people all the words of this life.” The angel’s statement above to Peter was after",
     "options": [
       "the murmurings of the Hellenists",
       "his release from prison",
@@ -337,7 +337,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-28-182",
-    "questionText": "In one of the missionary journeys, Paul was stoned   to a state of coma in   (JAMB 2013)",
+    "questionText": "In one of the missionary journeys, Paul was stoned   to a state of coma in",
     "options": [
       "Antioch in Pisidia   ",
       "Iconium  ",
@@ -349,7 +349,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-29-802",
-    "questionText": "Solomon told Hiram, King of Tyre, that he had decided to  (JAMB 2010)",
+    "questionText": "Solomon told Hiram, King of Tyre, that he had decided to",
     "options": [
       "the Lord had given him peace and all good things. ",
       "his father, David, never intended to build one",
@@ -361,7 +361,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-30-548",
-    "questionText": "The wife of Moses was called (JAMB 2010)",
+    "questionText": "The wife of Moses was called",
     "options": [
       "Rebecca.",
       "Rachel.",
@@ -373,7 +373,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-31-854",
-    "questionText": "After Saul’s death on Mount Gilboa, the Philistines (JAMB 2012)",
+    "questionText": "After Saul’s death on Mount Gilboa, the Philistines",
     "options": [
       "burnt his body near the tamarisk tree",
       "sent his head to Dagon their god",
@@ -385,7 +385,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-32-504",
-    "questionText": "God displayed His supremacy when Ahab was king during \tthe (JAMB 2015)",
+    "questionText": "God displayed His supremacy when Ahab was king during \tthe",
     "options": [
       "incidence of Naboth’s vineyard",
       "war with Ramoth-gilead",
@@ -397,7 +397,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-33-730",
-    "questionText": "St Paul, in 'Law and Grace', although man was condemned, he has been redeemed through the _____ (JAMB 2019)",
+    "questionText": "St Paul, in 'Law and Grace', although man was condemned, he has been redeemed through the _____",
     "options": [
       "Compliance to the laws of the God",
       "Righteousness of his deeds",
@@ -409,7 +409,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-34-1030",
-    "questionText": "In his comparison of the human body with the body of Christ, Paul did not mention the  (JAMB 2011)",
+    "questionText": "In his comparison of the human body with the body of Christ, Paul did not mention the",
     "options": [
       "han",
       "foot. ",
@@ -421,7 +421,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-35-81",
-    "questionText": "The sun stood still when  (JAMB 2009)",
+    "questionText": "The sun stood still when",
     "options": [
       "Moses led Israel across the Red sea ",
       "Jericho fell to the army of Joshua ",
@@ -433,7 +433,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-36-371",
-    "questionText": "The fate that would befall those who do not receive the gospel of Jesus would be (JAMB 2008)",
+    "questionText": "The fate that would befall those who do not receive the gospel of Jesus would be",
     "options": [
       "rejection by men",
       "lack of peace in the family",
@@ -445,7 +445,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-37-1045",
-    "questionText": "Jacob’s special robe for Joseph portrayed him as a (JAMB 2015)",
+    "questionText": "Jacob’s special robe for Joseph portrayed him as a",
     "options": [
       "Prince    ",
       "heir     ",
@@ -457,7 +457,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-38-899",
-    "questionText": "Solomon showed lack of wisdom in  (JAMB 2013)",
+    "questionText": "Solomon showed lack of wisdom in",
     "options": [
       "building the temple. ",
       "his bilateral agreement with other nations. ",
@@ -469,7 +469,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-39-411",
-    "questionText": "The book of the law was found in the house of the LORD during the reign of king (JAMB 2013)",
+    "questionText": "The book of the law was found in the house of the LORD during the reign of king",
     "options": [
       "Josiah",
       "Ahab",
@@ -481,7 +481,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-40-558",
-    "questionText": "Elijah destroyed the prophets of Baal (JAMB 2010)",
+    "questionText": "Elijah destroyed the prophets of Baal",
     "options": [
       "to oppose Baal worship.",
       "as an act of revenge.",
@@ -493,7 +493,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-41-562",
-    "questionText": "Daniel was delivered from the lion’s den because (JAMB 2010)",
+    "questionText": "Daniel was delivered from the lion’s den because",
     "options": [
       "of his faith in God’s power.",
       "of the king’s prayers.",
@@ -505,7 +505,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-42-819",
-    "questionText": "Apart from the miracles at the wedding feast, another miracle of Jesus at Cana in Galilee was (JAMB 2010)",
+    "questionText": "Apart from the miracles at the wedding feast, another miracle of Jesus at Cana in Galilee was",
     "options": [
       "feeding the four thousan    ",
       "healing the noble man’s son.     ",
@@ -517,7 +517,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-43-532",
-    "questionText": "According to Paul in Philippians, Jesus demonstrated humility when He (JAMB 2015)",
+    "questionText": "According to Paul in Philippians, Jesus demonstrated humility when He",
     "options": [
       "had pity on the possessed man",
       "likened Himself to God",
@@ -529,7 +529,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-44-53",
-    "questionText": "Who do people say the son of man is? Jesus asks this question to know people’s  (JAMB 2008)",
+    "questionText": "Who do people say the son of man is? Jesus asks this question to know people’s",
     "options": [
       "desire ",
       "demand ",
@@ -541,7 +541,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-45-725",
-    "questionText": "Jesus charged Christians to express love just as________ (JAMB 2019)",
+    "questionText": "Jesus charged Christians to express love just as________",
     "options": [
       "He taught them the new commandment",
       "They would do with their neighbours",
@@ -553,7 +553,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-46-664",
-    "questionText": "King Jehoshaphat was commended for adopting his father’s policies which included (JAMB 2011)",
+    "questionText": "King Jehoshaphat was commended for adopting his father’s policies which included",
     "options": [
       "removing Maacah, his grandmother from being queen.",
       "waging wars with the king of Israel.",
@@ -565,7 +565,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-47-981",
-    "questionText": "Paul in Thessalonian said the signs for the Second Coming of Christ would start with  (JAMB 2011)",
+    "questionText": "Paul in Thessalonian said the signs for the Second Coming of Christ would start with",
     "options": [
       "condemnation",
       " rebellion. ",
@@ -577,7 +577,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-48-609",
-    "questionText": "Naaman’s leprosy was transferred to Gehazi be¬cause Gehazi was (JAMB 2010)",
+    "questionText": "Naaman’s leprosy was transferred to Gehazi be¬cause Gehazi was",
     "options": [
       "ambitious",
       "anxious",
@@ -589,7 +589,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-49-222",
-    "questionText": "Abiding in Christ’s love demands that we (JAMB 2005)",
+    "questionText": "Abiding in Christ’s love demands that we",
     "options": [
       "have hope for the future",
       "keep His commandments",
@@ -601,7 +601,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-50-779",
-    "questionText": "When Ezekiel was called, he was shown a scroll on which were written words of______ (JAMB 2019)",
+    "questionText": "When Ezekiel was called, he was shown a scroll on which were written words of______",
     "options": [
       "wisdom, understanding and right judgement",
       "bitterness, right judgement and mourning",
@@ -613,7 +613,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-51-1073",
-    "questionText": "According to Matthew, when the women met the risen Jesus, they (JAMB 2015)",
+    "questionText": "According to Matthew, when the women met the risen Jesus, they",
     "options": [
       "annointed him with spices ",
       "took hold of his feet and worshipped him       ",
@@ -625,7 +625,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-52-908",
-    "questionText": "Darius became convinced of God’s power through Daniel’s  (JAMB 2013)",
+    "questionText": "Darius became convinced of God’s power through Daniel’s",
     "options": [
       "constant praying and fasting. ",
       "interpretation of mysteries. ",
@@ -637,7 +637,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-53-676",
-    "questionText": "On Ascension Day two men in white robes inform the disciples that Jesus would (JAMB 2011)",
+    "questionText": "On Ascension Day two men in white robes inform the disciples that Jesus would",
     "options": [
       "send for them.",
       "be seen in heaven.",
@@ -649,7 +649,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-54-739",
-    "questionText": "St. Paul showed commitment as a means upon which forgiveness can effectively thrive by_______ (JAMB 2019)",
+    "questionText": "St. Paul showed commitment as a means upon which forgiveness can effectively thrive by_______",
     "options": [
       "Appealing to Philemon to forgive Onesimus and accept him back as brother",
       "Asking that Philemon to Charge to his account whatever Onesimus owed",
@@ -661,7 +661,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-55-505",
-    "questionText": "In his teaching on effective prayer, James said that the prayer of faith would (JAMB 2015)",
+    "questionText": "In his teaching on effective prayer, James said that the prayer of faith would",
     "options": [
       "influence the authority",
       "heal and cleanse sins",
@@ -673,7 +673,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-56-149",
-    "questionText": "In the Sermon on the Mount, the meek are blessed because   (JAMB 2012)",
+    "questionText": "In the Sermon on the Mount, the meek are blessed because",
     "options": [
       "They shall see God  ",
       "They shall be exalted  ",
@@ -685,7 +685,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-57-399",
-    "questionText": "During Moses leadership in Israel, he exhibited most importantly, the talent of a (JAMB 2013)",
+    "questionText": "During Moses leadership in Israel, he exhibited most importantly, the talent of a",
     "options": [
       "mediator",
       "warrior",
@@ -697,7 +697,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-58-322",
-    "questionText": "When Zechariah saw the angel of the Lord standing on the right side of the altar of incense, he (JAMB 2011)",
+    "questionText": "When Zechariah saw the angel of the Lord standing on the right side of the altar of incense, he",
     "options": [
       "cried out to him",
       "was troubled and afraid",
@@ -709,7 +709,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-59-394",
-    "questionText": "In his letter to Philemon Paul did not ask him to (JAMB 2008)",
+    "questionText": "In his letter to Philemon Paul did not ask him to",
     "options": [
       "grant freedom to his slave Onesimus",
       "allow Onesimus become a servant of God",
@@ -721,7 +721,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-60-269",
-    "questionText": "The disciple who replaced Judas Iscariot was (JAMB 2009)",
+    "questionText": "The disciple who replaced Judas Iscariot was",
     "options": [
       "Justus",
       "Stephen",
@@ -733,7 +733,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-61-1078",
-    "questionText": "Which prophet did Peter quote when he preached on Pentecost day about the spirit falling upon all men?  (JAMB 2015)",
+    "questionText": "Which prophet did Peter quote when he preached on Pentecost day about the spirit falling upon all men?",
     "options": [
       " Amos        ",
       "  Hosea            ",
@@ -745,7 +745,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-62-239",
-    "questionText": "Which of the following does not relate to the new life in Christ? (JAMB 2005)",
+    "questionText": "Which of the following does not relate to the new life in Christ?",
     "options": [
       "Baptism",
       "Circumcision",
@@ -757,7 +757,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-63-592",
-    "questionText": "Why did Paul wish to retain Onesimus? (JAMB 2010)",
+    "questionText": "Why did Paul wish to retain Onesimus?",
     "options": [
       "To protect him from persecution",
       "Christianity was opposed to slavery",
@@ -769,7 +769,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-64-803",
-    "questionText": "Elijah destroyed the prophets of Baal  (JAMB 2010)",
+    "questionText": "Elijah destroyed the prophets of Baal",
     "options": [
       "to oppose Baal worship ",
       "as an act of revenge",
@@ -781,7 +781,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-65-589",
-    "questionText": "In which of the following ways did the Philippians share in Paul’s suffering while in prison? (JAMB 2010)",
+    "questionText": "In which of the following ways did the Philippians share in Paul’s suffering while in prison?",
     "options": [
       "Appealing for the release of Paul",
       "Sending him relief materials",
@@ -793,7 +793,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-66-617",
-    "questionText": "‘... But let justice roll down like waters, and righteousness like an overflowing stream.’ Amos’ statement above suggests that the society was terribly (JAMB 2010)",
+    "questionText": "‘... But let justice roll down like waters, and righteousness like an overflowing stream.’ Amos’ statement above suggests that the society was terribly",
     "options": [
       "vindictive",
       "abusive",
@@ -805,7 +805,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-67-415",
-    "questionText": "Jonah’s explanation to the LORD for resisting His first call teaches us that God is (JAMB 2013)",
+    "questionText": "Jonah’s explanation to the LORD for resisting His first call teaches us that God is",
     "options": [
       "repentant of evil",
       "not ready to act fast",
@@ -817,7 +817,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-68-49",
-    "questionText": "The last things which Zedekiah saw before his eyes were removed was the  (JAMB 2008)",
+    "questionText": "The last things which Zedekiah saw before his eyes were removed was the",
     "options": [
       "Egyptian army ",
       "Slaughter of his son ",
@@ -829,7 +829,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-69-660",
-    "questionText": "In spite of Solomon’s apostasy, his empire remained intact until his death because (JAMB 2011)",
+    "questionText": "In spite of Solomon’s apostasy, his empire remained intact until his death because",
     "options": [
       "God deferred, for David’s sake, the punishment due to him",
       "he won decisive victories over his enemies.",
@@ -841,7 +841,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-70-1054",
-    "questionText": "The wife of Phinehas named her prematured child Ichabod because (JAMB 2015)",
+    "questionText": "The wife of Phinehas named her prematured child Ichabod because",
     "options": [
       "Israel had lost the Ark and her husband ",
       "the Philistines suffered a lot of casualties ",
@@ -853,7 +853,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-71-510",
-    "questionText": "“The very stone which the builders rejected has become the head of the corner” The statement above in Peter was directed to those who (JAMB 2015)",
+    "questionText": "“The very stone which the builders rejected has become the head of the corner” The statement above in Peter was directed to those who",
     "options": [
       "did not believe in Jesus’ preciousness",
       "built the Temple of Jerusalem",
@@ -865,7 +865,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-72-511",
-    "questionText": "A good example of parental responsibility was demonstrated by (JAMB 2015)",
+    "questionText": "A good example of parental responsibility was demonstrated by",
     "options": [
       "Samuel",
       "Eli",
@@ -877,7 +877,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-73-768",
-    "questionText": "\"I am the resurrection and the life, he who believes in me, though he dies, yet shall he live\". Jesus directed this statement to (JAMB 2019)",
+    "questionText": "\"I am the resurrection and the life, he who believes in me, though he dies, yet shall he live\". Jesus directed this statement to",
     "options": [
       "Peter",
       "Martha",
@@ -889,7 +889,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-74-285",
-    "questionText": "Josiah believed that the wrath of the LORD was kindled against him and all Judah because (JAMB 2009)",
+    "questionText": "Josiah believed that the wrath of the LORD was kindled against him and all Judah because",
     "options": [
       "they did not observe the Passover",
       "there was an unholy thing in their midst",
@@ -901,7 +901,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-75-241",
-    "questionText": "At the coming of the Lord, unbelievers will (JAMB 2005)",
+    "questionText": "At the coming of the Lord, unbelievers will",
     "options": [
       "be condemned",
       "have a desolate land",
@@ -913,7 +913,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-76-43",
-    "questionText": "The meaning of Ephphatha is  (JAMB 2007)",
+    "questionText": "The meaning of Ephphatha is",
     "options": [
       "be opened ",
       "be still ",
@@ -925,7 +925,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-77-432",
-    "questionText": "The appointment of deacons became necessary because of the complaint by the (JAMB 2013)",
+    "questionText": "The appointment of deacons became necessary because of the complaint by the",
     "options": [
       "Gentile converts",
       "Hellenists",
@@ -937,7 +937,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-78-667",
-    "questionText": "“And I asked them concerning the Jews that survived, who has escaped exile, and concerning Jerusalem...” These were the words of (JAMB 2011)",
+    "questionText": "“And I asked them concerning the Jews that survived, who has escaped exile, and concerning Jerusalem...” These were the words of",
     "options": [
       "Jeremiah.",
       "Nehemiah",
@@ -949,7 +949,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-79-61",
-    "questionText": "The king of Persia who made it possible for the return of the exiles form Babylon was  (JAMB 2008)",
+    "questionText": "The king of Persia who made it possible for the return of the exiles form Babylon was",
     "options": [
       "Dairus ",
       "Cyrus ",
@@ -961,7 +961,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-80-643",
-    "questionText": "Paul in Thessalonians told believers that the coming of the Lord would be accompanied by (JAMB 2010)",
+    "questionText": "Paul in Thessalonians told believers that the coming of the Lord would be accompanied by",
     "options": [
       "songs of praise",
       "the sound of the trumpet",
@@ -973,7 +973,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-81-445",
-    "questionText": "“As each has received a gift, employ it for one another, as good stewards of God’s varied grace...” In the statement above, Peter teaches believers in virtue of (JAMB 2013)",
+    "questionText": "“As each has received a gift, employ it for one another, as good stewards of God’s varied grace...” In the statement above, Peter teaches believers in virtue of",
     "options": [
       "hospitality",
       "giving",
@@ -985,7 +985,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-82-694",
-    "questionText": "According to Paul in Galatians, law ceased to be our custodian as soon as (JAMB 2011)",
+    "questionText": "According to Paul in Galatians, law ceased to be our custodian as soon as",
     "options": [
       "it was made available to us.",
       "Christ adopted us as his children.",
@@ -997,7 +997,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-83-480",
-    "questionText": "According to John’s Gospel, Lazarus was from (JAMB 2009)",
+    "questionText": "According to John’s Gospel, Lazarus was from",
     "options": [
       "Bethany",
       "Galilee.",
@@ -1009,7 +1009,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-84-366",
-    "questionText": "“Blessed are the peace makers for (JAMB 2008)",
+    "questionText": "“Blessed are the peace makers for",
     "options": [
       "theirs is the kingdom of God”",
       "they shall be called sons of God”",
@@ -1021,7 +1021,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-85-164",
-    "questionText": "The person who was invited to nurse Moses was  (JAMB 2012)",
+    "questionText": "The person who was invited to nurse Moses was",
     "options": [
       "Jochebed  ",
       "Puah  ",
@@ -1033,7 +1033,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-86-1080",
-    "questionText": "Peter’s tour of Lydda led to the (JAMB 2015)",
+    "questionText": "Peter’s tour of Lydda led to the",
     "options": [
       "development of the church in Caesarca ",
       "conversion of the residents of sharon ",
@@ -1045,7 +1045,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-87-186",
-    "questionText": "What was the second temptation of Jesus according to the Gospel according to Luke? (JAMB 2013)",
+    "questionText": "What was the second temptation of Jesus according to the Gospel according to Luke?",
     "options": [
       "The Devil wanted Jesus to worship him  ",
       "The Devil wanted Jesus to deny God",
@@ -1057,7 +1057,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-88-927",
-    "questionText": "“Tabitha, arise”. These were said by Peter during the  (JAMB 2013)",
+    "questionText": "“Tabitha, arise”. These were said by Peter during the",
     "options": [
       "healing of Aeneas from paralysis. ",
       "raising of Dorcas from death.",
@@ -1069,7 +1069,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-89-84",
-    "questionText": "Which prophet cried thus “woe is me” for lost, I am a man of unclean lips  (JAMB 2009)",
+    "questionText": "Which prophet cried thus “woe is me” for lost, I am a man of unclean lips",
     "options": [
       "Hosea ",
       "Jeremiah ",
@@ -1081,7 +1081,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-90-451",
-    "questionText": "When the people of Israel received the encouraging report \tgiven by two of the twelve spies, they decided to (JAMB 2009)",
+    "questionText": "When the people of Israel received the encouraging report \tgiven by two of the twelve spies, they decided to",
     "options": [
       "stone Moses for taking them out of Egypt.",
       "choose Caleb as their leader and go back to Egypt.",
@@ -1093,7 +1093,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-91-297",
-    "questionText": "God blessed and hallowed the seventh day because (JAMB 2011)",
+    "questionText": "God blessed and hallowed the seventh day because",
     "options": [
       "it was the day He rested from creation",
       "it was the day He created man",
@@ -1105,7 +1105,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-92-225",
-    "questionText": "The final trial of Jesus was presided over by (JAMB 2005)",
+    "questionText": "The final trial of Jesus was presided over by",
     "options": [
       "Herod",
       "Caiaphas",
@@ -1117,7 +1117,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-93-95",
-    "questionText": "‘This had is gone: and where shall I go’ who is being referred to here  (JAMB 2009)",
+    "questionText": "‘This had is gone: and where shall I go’ who is being referred to here",
     "options": [
       "Isaac ",
       "Joseph ",
@@ -1129,7 +1129,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-94-701",
-    "questionText": "________ was the man James used as example of how the effective prayer of the righteous man works (JAMB 2019)",
+    "questionText": "________ was the man James used as example of how the effective prayer of the righteous man works",
     "options": [
       "Jesus Christ",
       "Peter",
@@ -1141,7 +1141,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-95-436",
-    "questionText": "According to Galatians, judgment is without mercy to one who has shown no mercy, yet mercy triumphs over (JAMB 2013)",
+    "questionText": "According to Galatians, judgment is without mercy to one who has shown no mercy, yet mercy triumphs over",
     "options": [
       "tribulation",
       "the law",
@@ -1153,7 +1153,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-96-29",
-    "questionText": "Amram and Jochebad gave birth to :  (JAMB 2007)",
+    "questionText": "Amram and Jochebad gave birth to :",
     "options": [
       "Mirian ",
       "Jedida ",
@@ -1165,7 +1165,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-97-758",
-    "questionText": "Abraham's faith was reckoned to him as righteousness'. This underscores St Paul's admonition that ______ (JAMB 2019)",
+    "questionText": "Abraham's faith was reckoned to him as righteousness'. This underscores St Paul's admonition that ______",
     "options": [
       "Redemption in Christ is possible through observance of the law",
       "Faith without work is fruitless",
@@ -1177,7 +1177,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-98-531",
-    "questionText": "A key requirement for healing as exemplified by the disciple’s inability to heal the epileptic boy is (JAMB 2015)",
+    "questionText": "A key requirement for healing as exemplified by the disciple’s inability to heal the epileptic boy is",
     "options": [
       "righteousness",
       "power",
@@ -1189,7 +1189,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-99-430",
-    "questionText": "According to Mark, the young man that the women saw in Jesus’ tomb told them to go with the disciples and wait for Him in (JAMB 2013)",
+    "questionText": "According to Mark, the young man that the women saw in Jesus’ tomb told them to go with the disciples and wait for Him in",
     "options": [
       "Bethlehem",
       "Jerusalem",
@@ -1201,7 +1201,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-100-372",
-    "questionText": "Which, according to Luke, were the last words of Jesus? (JAMB 2008)",
+    "questionText": "Which, according to Luke, were the last words of Jesus?",
     "options": [
       "“Eli. Eli, lamasabach-thani”",
       "“Father forgive them for they know not what they do”",
@@ -1213,7 +1213,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-101-778",
-    "questionText": "The most significant lesson at the scene of the Israelites' blame of Moses in their struggle and escape from Egypt is that___________ (JAMB 2019)",
+    "questionText": "The most significant lesson at the scene of the Israelites' blame of Moses in their struggle and escape from Egypt is that___________",
     "options": [
       "God hardened the heart of Pharaoh to pursue the Israelites",
       "they would have perfered to stay back and die in Egypt",
@@ -1225,7 +1225,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-102-18",
-    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29)  When did he say this?  (JAMB 2006)",
+    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29)  When did he say this?",
     "options": [
       "When he was about to die ",
       "When he was seriously sick ",
@@ -1237,7 +1237,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-103-34",
-    "questionText": "The last things which Zedekiah saw before his eyes were removed was the  (JAMB 2007)",
+    "questionText": "The last things which Zedekiah saw before his eyes were removed was the",
     "options": [
       "Egyptian army ",
       "slaughter of all his sons ",
@@ -1249,7 +1249,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-104-157",
-    "questionText": "One of the following was not among the decisions reached at the Council of Jerusalem concerning the Gentiles who became Christians:   (JAMB 2012)",
+    "questionText": "One of the following was not among the decisions reached at the Council of Jerusalem concerning the Gentiles who became Christians:",
     "options": [
       "That Gentiles should obtain from what has been sacrificed to idols  ",
       "The Gentiles should abstain from blood  ",
@@ -1261,7 +1261,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-105-92",
-    "questionText": "Joshua’s first victory was in  (JAMB 2009)",
+    "questionText": "Joshua’s first victory was in",
     "options": [
       "Ai ",
       "Gibeon ",
@@ -1273,7 +1273,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-106-891",
-    "questionText": "On the fourth day of creation God created  (JAMB 2013)",
+    "questionText": "On the fourth day of creation God created",
     "options": [
       "the great sea monsters. ",
       "the firmament",
@@ -1285,7 +1285,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-107-580",
-    "questionText": "After his conversion, Paul was introduced to the disciples in Jerusalem by (JAMB 2010)",
+    "questionText": "After his conversion, Paul was introduced to the disciples in Jerusalem by",
     "options": [
       "Peter",
       "Ananias.",
@@ -1297,7 +1297,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-108-795",
-    "questionText": "How old was Joshua before he died?  (JAMB 2010)",
+    "questionText": "How old was Joshua before he died?",
     "options": [
       "  95 years        ",
       " 98 years     ",
@@ -1309,7 +1309,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-109-674",
-    "questionText": "When Jesus said “apart from me you can do nothing”, he \tmeant that Christians (JAMB 2011)",
+    "questionText": "When Jesus said “apart from me you can do nothing”, he \tmeant that Christians",
     "options": [
       "pray without ceasing",
       ". \nmust faithfully trust in Him always.",
@@ -1321,7 +1321,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-110-147",
-    "questionText": "During his first missionary journey, Paul first recorded sermon was delivered at   (JAMB 2011)",
+    "questionText": "During his first missionary journey, Paul first recorded sermon was delivered at",
     "options": [
       "Perga   ",
       "Iconium ",
@@ -1333,7 +1333,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-111-1024",
-    "questionText": "Which of the following places was not visited by Paul during his first missionary journey?    (JAMB 2011)",
+    "questionText": "Which of the following places was not visited by Paul during his first missionary journey?",
     "options": [
       "Salamis ",
       "Athens   ",
@@ -1345,7 +1345,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-112-482",
-    "questionText": "The meeting of the Christian Council of Jerusalem was chaired by (JAMB 2009)",
+    "questionText": "The meeting of the Christian Council of Jerusalem was chaired by",
     "options": [
       "Peter.",
       "Paul.",
@@ -1357,7 +1357,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-113-583",
-    "questionText": "Why according to Paul must Christians be subject to civil authority? (JAMB 2010)",
+    "questionText": "Why according to Paul must Christians be subject to civil authority?",
     "options": [
       "To receive God’s approval",
       "To avoid God’s wrath",
@@ -1369,7 +1369,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-114-588",
-    "questionText": "According to Peter, a Christian should exercise his freedom by (JAMB 2010)",
+    "questionText": "According to Peter, a Christian should exercise his freedom by",
     "options": [
       "doing what is right.",
       "claiming his freedom at all cost.",
@@ -1381,7 +1381,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-115-613",
-    "questionText": "After the dedication of the Temple, Ezra studied the law of the LORD in order to (JAMB 2010)",
+    "questionText": "After the dedication of the Temple, Ezra studied the law of the LORD in order to",
     "options": [
       "defend the Jews against the Babylonians",
       "become the first judge in Jerusalem",
@@ -1393,7 +1393,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-116-458",
-    "questionText": "When God ordered famine on Israel, Elijah was fed by the ravens at (JAMB 2009)",
+    "questionText": "When God ordered famine on Israel, Elijah was fed by the ravens at",
     "options": [
       "Brook Cherith.",
       "River Jordan.",
@@ -1405,7 +1405,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-117-955",
-    "questionText": "Who among the following carried out a religious reform in Judah?  (JAMB 2011)",
+    "questionText": "Who among the following carried out a religious reform in Judah?",
     "options": [
       "Jehoshaphat      ",
       " Joshua     ",
@@ -1417,7 +1417,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-118-9",
-    "questionText": "Joshua and Caleb were from the tribe of  (JAMB 2006)",
+    "questionText": "Joshua and Caleb were from the tribe of",
     "options": [
       "Judah and Rueben ",
       "Reuben and Dan ",
@@ -1429,7 +1429,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-119-765",
-    "questionText": "For how long did the Lord supply the children of Israel with manna in the wilderness? (JAMB 2019)",
+    "questionText": "For how long did the Lord supply the children of Israel with manna in the wilderness?",
     "options": [
       "Forty Years",
       "Thirty-eight years",
@@ -1441,7 +1441,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-120-23",
-    "questionText": "What is meant by the Christian doctrine that God is Trinity?  (JAMB 2006)",
+    "questionText": "What is meant by the Christian doctrine that God is Trinity?",
     "options": [
       "the idea started in Trinidad and Tobago ",
       "God is three persons in one ",
@@ -1453,7 +1453,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-121-848",
-    "questionText": "Moses before his death served lsrael as (JAMB 2012)",
+    "questionText": "Moses before his death served lsrael as",
     "options": [
       "prophet, liberator and king",
       "king, priest and warrior",
@@ -1465,7 +1465,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-122-772",
-    "questionText": "\"Who do men say that the Son of man is?\" Jesus asked this question (JAMB 2019)",
+    "questionText": "\"Who do men say that the Son of man is?\" Jesus asked this question",
     "options": [
       "to show that popular opinion matters the most in His recognition as Messiah",
       "to indicate that the Jews and Pharisees need to reckon with His Messiahship",
@@ -1477,7 +1477,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-123-328",
-    "questionText": "‘Blessed are you, Simon Bar-Jona ! For flesh and blood has not revealed this to you...’ As exemplified by the statement above, for believers to be able to identify with Jesus, they must (JAMB 2011)",
+    "questionText": "‘Blessed are you, Simon Bar-Jona ! For flesh and blood has not revealed this to you...’ As exemplified by the statement above, for believers to be able to identify with Jesus, they must",
     "options": [
       "offer their lives",
       "be led by the Spirit",
@@ -1489,7 +1489,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-124-219",
-    "questionText": "According to Jesus, the seventy disciples who returned from a successful missionary work should rejoice because (JAMB 2005)",
+    "questionText": "According to Jesus, the seventy disciples who returned from a successful missionary work should rejoice because",
     "options": [
       "the demons were subject to them",
       "the sick were healed through their ministry",
@@ -1501,7 +1501,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-125-1017",
-    "questionText": "“How is it that you a Jew ask a drink of me...” This statement was made by the  (JAMB 2011)",
+    "questionText": "“How is it that you a Jew ask a drink of me...” This statement was made by the",
     "options": [
       "Gentile woman. ",
       "            woman of  Samari",
@@ -1513,7 +1513,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-126-731",
-    "questionText": "Summarily, St Paul in his teaching on 'New Life In Christ' advised Christains to ______ (JAMB 2019)",
+    "questionText": "Summarily, St Paul in his teaching on 'New Life In Christ' advised Christains to ______",
     "options": [
       "Endeavor to be baptized by immersion",
       "Pray for the Grace of God",
@@ -1525,7 +1525,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-127-111",
-    "questionText": "What specific reply did John the Baptist give to the soldiers during his preaching  (JAMB 2010)",
+    "questionText": "What specific reply did John the Baptist give to the soldiers during his preaching",
     "options": [
       "collect no more than is appointed you ",
       "do not begin to say to yourselves: we have Abraham as our father ",
@@ -1537,7 +1537,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-128-484",
-    "questionText": "Paul and his associates gave the Thessalonian believers an \timportant example to imitate. This example was to (JAMB 2009)",
+    "questionText": "Paul and his associates gave the Thessalonian believers an \timportant example to imitate. This example was to",
     "options": [
       "be ready to help the poor always",
       "toil, labour and work to earn a living",
@@ -1549,7 +1549,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-129-190",
-    "questionText": "Amos explained true religion as   (JAMB 2013)",
+    "questionText": "Amos explained true religion as",
     "options": [
       "singing of praises to God  ",
       "self-righteousness",
@@ -1561,7 +1561,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-130-608",
-    "questionText": "The prophet who made known the imminent divi¬sion of the kingdom of Israel during Solomon’s reign was (JAMB 2010)",
+    "questionText": "The prophet who made known the imminent divi¬sion of the kingdom of Israel during Solomon’s reign was",
     "options": [
       "Jehu",
       "Ahijah",
@@ -1573,7 +1573,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-131-958",
-    "questionText": "What was Nehemiah’s immediate reaction to the news concerning Jerusalem? He  (JAMB 2011)",
+    "questionText": "What was Nehemiah’s immediate reaction to the news concerning Jerusalem? He",
     "options": [
       "wept.            ",
       "prayed           ",
@@ -1585,7 +1585,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-132-695",
-    "questionText": "James advised Christians to portray their faith in Jesus by (JAMB 2011)",
+    "questionText": "James advised Christians to portray their faith in Jesus by",
     "options": [
       "listening to the word of God always.",
       "converting others to Christ.",
@@ -1597,7 +1597,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-133-332",
-    "questionText": "Jesus charged His followers to walk in the light while they had the light so that they may (JAMB 2011)",
+    "questionText": "Jesus charged His followers to walk in the light while they had the light so that they may",
     "options": [
       "have eternal life",
       "become custodians of it",
@@ -1609,7 +1609,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-134-647",
-    "questionText": "Moses was born at a period when the Hebrew were (JAMB 2011)",
+    "questionText": "Moses was born at a period when the Hebrew were",
     "options": [
       "suffering.",
       "increasing.",
@@ -1621,7 +1621,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-135-156",
-    "questionText": "According to James, one of the causes of wars among Christians is  (JAMB 2012)",
+    "questionText": "According to James, one of the causes of wars among Christians is",
     "options": [
       "their passions  ",
       "their wickedness  ",
@@ -1633,7 +1633,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-136-280",
-    "questionText": "“Behold, if people of Israel are to come, let us deal shrewdly with them, lest they multiply.....” ln the statement, the first step by the king of Egypt was to (JAMB 2009)",
+    "questionText": "“Behold, if people of Israel are to come, let us deal shrewdly with them, lest they multiply.....” ln the statement, the first step by the king of Egypt was to",
     "options": [
       "cast all Hebrew male children into the Nile",
       "impose heavy tax on them",
@@ -1645,7 +1645,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-137-62",
-    "questionText": "Who was the priest that confronted Uzziah in the temple  (JAMB 2008)",
+    "questionText": "Who was the priest that confronted Uzziah in the temple",
     "options": [
       "Zadokaul ",
       "Phineas ",
@@ -1657,7 +1657,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-138-611",
-    "questionText": "Although Josiah removed the vessels of Baal and Asherah from the Temple, God did not turn from the fierceness of His \twrath because” (JAMB 2010)",
+    "questionText": "Although Josiah removed the vessels of Baal and Asherah from the Temple, God did not turn from the fierceness of His \twrath because”",
     "options": [
       "the people did not remove them completely",
       "Jehoahaz, Josiah’s son, had provoked Him",
@@ -1669,7 +1669,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-139-437",
-    "questionText": "According to Colossians, the Lord does not wish that any should perish, but that all should (JAMB 2013)",
+    "questionText": "According to Colossians, the Lord does not wish that any should perish, but that all should",
     "options": [
       "rejoice",
       "be saved",
@@ -1681,7 +1681,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-140-902",
-    "questionText": "Joshua gathered all the tribes of Israel for his farewell address at  (JAMB 2013)",
+    "questionText": "Joshua gathered all the tribes of Israel for his farewell address at",
     "options": [
       "Shechem",
       "Gibeon",
@@ -1693,7 +1693,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-141-1038",
-    "questionText": "The Galatians, were reminded by Paul that they were Abraham’s offspring and heirs according to  (JAMB 2011)",
+    "questionText": "The Galatians, were reminded by Paul that they were Abraham’s offspring and heirs according to",
     "options": [
       "promise. ",
       "   good works. ",
@@ -1705,7 +1705,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-142-57",
-    "questionText": "Which of the following carried Judah into captivity  (JAMB 2008)",
+    "questionText": "Which of the following carried Judah into captivity",
     "options": [
       "pharaoh  Neco of Egypt ",
       "Goliath of philistia ",
@@ -1717,7 +1717,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-143-74",
-    "questionText": "“There shall be neither dew nor rain this year except by my word” Who said this? (JAMB 2009)",
+    "questionText": "“There shall be neither dew nor rain this year except by my word” Who said this?",
     "options": [
       "Moses ",
       "Pharaoh ",
@@ -1729,7 +1729,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-144-108",
-    "questionText": "The commander of David’s army was  (JAMB 2010)",
+    "questionText": "The commander of David’s army was",
     "options": [
       "Abner ",
       "Joab ",
@@ -1741,7 +1741,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-145-662",
-    "questionText": "Obadiah, Ahabs servant, made history for himself by (JAMB 2011)",
+    "questionText": "Obadiah, Ahabs servant, made history for himself by",
     "options": [
       "arresting the prophets of Yahweh",
       ". \nexecuting all the prophets.",
@@ -1753,7 +1753,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-146-540",
-    "questionText": "One of the prophets that prophesied hope for Israel in spite of God’s promise of punishment was (JAMB 2015)",
+    "questionText": "One of the prophets that prophesied hope for Israel in spite of God’s promise of punishment was",
     "options": [
       "Amos",
       "Jeremiah",
@@ -1765,7 +1765,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-147-851",
-    "questionText": "Which of the following people destroyed Shiloh and captured the Ark? The (JAMB 2012)",
+    "questionText": "Which of the following people destroyed Shiloh and captured the Ark? The",
     "options": [
       "Ammonites",
       "Amalekites",
@@ -1777,7 +1777,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-148-535",
-    "questionText": "In his teaching on Spiritual gifts in Corinthians, Paul said that all gifts are inspired by (JAMB 2015)",
+    "questionText": "In his teaching on Spiritual gifts in Corinthians, Paul said that all gifts are inspired by",
     "options": [
       "the same Spirit",
       "prayer",
@@ -1789,7 +1789,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-149-20",
-    "questionText": "Who was authorized by God to go and liberate the Israelites the Egyptian bondage?  (JAMB 2006)",
+    "questionText": "Who was authorized by God to go and liberate the Israelites the Egyptian bondage?",
     "options": [
       "Joshua ",
       "Daniel ",
@@ -1801,7 +1801,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-150-1072",
-    "questionText": " Cleopas’ heart burnt within him on the road to Emmaus when Jesus (JAMB 2015)",
+    "questionText": " Cleopas’ heart burnt within him on the road to Emmaus when Jesus",
     "options": [
       "appeared to them      ",
       "taught them the scriptures ",
@@ -1813,7 +1813,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-151-847",
-    "questionText": "Moses asked God for a new leader for Israel so that lsrael might (JAMB 2012)",
+    "questionText": "Moses asked God for a new leader for Israel so that lsrael might",
     "options": [
       "have a shepherd",
       "conquer the Cannanites",
@@ -1825,7 +1825,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-152-80",
-    "questionText": "God told Samuel that he, would punish Eli because he   (JAMB 2009)",
+    "questionText": "God told Samuel that he, would punish Eli because he",
     "options": [
       "did not correct his son’s sinful behavior ",
       "did not offer sacrifice as the: Law ",
@@ -1837,7 +1837,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-153-131",
-    "questionText": "Pick the odd out of the following characters:   (JAMB 2011)",
+    "questionText": "Pick the odd out of the following characters:",
     "options": [
       "Saul   ",
       "David",
@@ -1849,7 +1849,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-154-26",
-    "questionText": "Who do people say the son of man is? Jesus asks this question to know people’s  (JAMB 2007)",
+    "questionText": "Who do people say the son of man is? Jesus asks this question to know people’s",
     "options": [
       "desires ",
       "demand  ",
@@ -1861,7 +1861,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-155-294",
-    "questionText": "According to Prophet Jeremiah, one of the promises of God was that He would give the Israelites (JAMB 2009)",
+    "questionText": "According to Prophet Jeremiah, one of the promises of God was that He would give the Israelites",
     "options": [
       "new priests",
       "new commandments",
@@ -1873,7 +1873,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-156-425",
-    "questionText": "The seeds that fell among the thorns in the parable of the sower refer to people that heard the word of God but (JAMB 2013)",
+    "questionText": "The seeds that fell among the thorns in the parable of the sower refer to people that heard the word of God but",
     "options": [
       "the evil one snatched it",
       "had no faith to nurture it",
@@ -1885,7 +1885,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-157-1043",
-    "questionText": "When Eve was about to be created, God did all the following except. (JAMB 2015)",
+    "questionText": "When Eve was about to be created, God did all the following except.",
     "options": [
       "causing a deep sleep to fall on Adam ",
       "taking a rib from Adam’s side. ",
@@ -1897,7 +1897,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-158-355",
-    "questionText": "When David spared the life of Saul the second time he took away his (JAMB 2008)",
+    "questionText": "When David spared the life of Saul the second time he took away his",
     "options": [
       "bow and arrow",
       "spear and jar of water",
@@ -1909,7 +1909,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-159-766",
-    "questionText": "Only ...stated that the transfiguration took place eight days after Peter's confession of Jesus as the son of God. (JAMB 2019)",
+    "questionText": "Only ...stated that the transfiguration took place eight days after Peter's confession of Jesus as the son of God.",
     "options": [
       "John",
       "Matthew",
@@ -1921,7 +1921,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-160-407",
-    "questionText": "Solomon’s wisdom surpassed the wisdom of all the people of the East and all wisdom of Egypt because he (JAMB 2013)",
+    "questionText": "Solomon’s wisdom surpassed the wisdom of all the people of the East and all wisdom of Egypt because he",
     "options": [
       "prayed and fasted daily",
       "employed the service of seers",
@@ -1933,7 +1933,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-161-883",
-    "questionText": "The visitors of Peter after his vision at Joppa were  (JAMB 2012)",
+    "questionText": "The visitors of Peter after his vision at Joppa were",
     "options": [
       "Jerusalem",
       "Samaria",
@@ -1945,7 +1945,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-162-998",
-    "questionText": "The sons of Eli were regarded as worthless men for all the  (JAMB 2011)",
+    "questionText": "The sons of Eli were regarded as worthless men for all the",
     "options": [
       "sleeping with the women at the tent of meeting. ",
       "failing to attend the places of worship regularly. ",
@@ -1957,7 +1957,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-163-466",
-    "questionText": "God spoke through Amos that He would punish Israel for the following sins except that they (JAMB 2009)",
+    "questionText": "God spoke through Amos that He would punish Israel for the following sins except that they",
     "options": [
       "sold the righteous for silver.",
       "sold the needy for a pair of shoes.",
@@ -1969,7 +1969,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-164-786",
-    "questionText": "The Last Supper refers the last meal Jesus had with His disciples immediately before His_____ (JAMB 2019)",
+    "questionText": "The Last Supper refers the last meal Jesus had with His disciples immediately before His_____",
     "options": [
       "arrest and crucification",
       "crucification and death",
@@ -1981,7 +1981,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-165-497",
-    "questionText": "“....... Behold, I will bring evil upon you; I will utterly sweep you away .....” Elijah pronounced destruction on Ahab with the statement above for his sin of (JAMB 2015)",
+    "questionText": "“....... Behold, I will bring evil upon you; I will utterly sweep you away .....” Elijah pronounced destruction on Ahab with the statement above for his sin of",
     "options": [
       "the killing of God’s prophets",
       "worship of other gods",
@@ -1993,7 +1993,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-166-800",
-    "questionText": "slay Ishbosheth. Saul’s successor. (JAMB 2010)",
+    "questionText": "slay Ishbosheth. Saul’s successor.",
     "options": [
       "Power and authority ",
       "Great wealth and riches ",
@@ -2005,7 +2005,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-167-737",
-    "questionText": "To St Paul, Christians can prepare for the second coming of Christ by______ (JAMB 2019)",
+    "questionText": "To St Paul, Christians can prepare for the second coming of Christ by______",
     "options": [
       "Righteous living",
       "Spreading the message of Christ's coming far and wide",
@@ -2017,7 +2017,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-168-640",
-    "questionText": "According to Corinthians, variety of gifts are inspired by (JAMB 2010)",
+    "questionText": "According to Corinthians, variety of gifts are inspired by",
     "options": [
       "fervent prayers",
       "angels of God",
@@ -2029,7 +2029,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-169-952",
-    "questionText": "The contest on Mount Carmel was organized to  (JAMB 2011)",
+    "questionText": "The contest on Mount Carmel was organized to",
     "options": [
       "popularize Baal worship",
       "prove the power of Go",
@@ -2041,7 +2041,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-170-989",
-    "questionText": "Which of Paul’s epistle was written to an individual? (JAMB 2011)",
+    "questionText": "Which of Paul’s epistle was written to an individual?",
     "options": [
       "Romans ",
       "Corinthians   ",
@@ -2053,7 +2053,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-171-304",
-    "questionText": "Laxity in disciplining children is dangerous to both the family and society as exemplified by (JAMB 2011)",
+    "questionText": "Laxity in disciplining children is dangerous to both the family and society as exemplified by",
     "options": [
       "Jonathan",
       "Tamar",
@@ -2065,7 +2065,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-172-275",
-    "questionText": "Saul leant from Samuel’s spirit that the LORD would (JAMB 2009)",
+    "questionText": "Saul leant from Samuel’s spirit that the LORD would",
     "options": [
       "give the Philistines into his hands",
       "afflict him with sickness",
@@ -2077,7 +2077,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-173-892",
-    "questionText": "In the first creation story, the major difference between man and all other living things was that  (JAMB 2013)",
+    "questionText": "In the first creation story, the major difference between man and all other living things was that",
     "options": [
       "every other thing was created after man. ",
       "only man was given the power to be fruitful. ",
@@ -2089,7 +2089,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-174-515",
-    "questionText": "A parable that teaches a lesson on the demands of the kingdom is that of the (JAMB 2015)",
+    "questionText": "A parable that teaches a lesson on the demands of the kingdom is that of the",
     "options": [
       "lost coin",
       "Weeds",
@@ -2101,7 +2101,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-175-1068",
-    "questionText": "The man who was forced to carry the cross of Jesus was  (JAMB 2015)",
+    "questionText": "The man who was forced to carry the cross of Jesus was",
     "options": [
       "Joseph of Arimathea ",
       "Nichodemus ",
@@ -2113,7 +2113,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-176-969",
-    "questionText": " Before His ascension the apostles asked Jesus, “Lord will you at this time restore the kingdom to Israel?” This implies that (JAMB 2011)",
+    "questionText": " Before His ascension the apostles asked Jesus, “Lord will you at this time restore the kingdom to Israel?” This implies that",
     "options": [
       "some apostles wanted posts in Jesus’ government. ",
       "the zealots were ready to attack the Romans",
@@ -2125,7 +2125,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-177-64",
-    "questionText": "Israel went into Assyrain captivity in  (JAMB 2008)",
+    "questionText": "Israel went into Assyrain captivity in",
     "options": [
       "71AD ",
       "720BC ",
@@ -2137,7 +2137,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-178-602",
-    "questionText": "‘Deal gently for my sake with the young man Absalom.’ David’s statement above exhibited his (JAMB 2010)",
+    "questionText": "‘Deal gently for my sake with the young man Absalom.’ David’s statement above exhibited his",
     "options": [
       "indulgent love for his son",
       "willingness to forgive his competitors",
@@ -2149,7 +2149,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-179-148",
-    "questionText": "In his second letter to the Christians in Thessalonians, Paul admonished them to have nothing to do with anyone who refused to obey what he wrote in the letter. What did Paul think would happen to the person?   (JAMB 2012)",
+    "questionText": "In his second letter to the Christians in Thessalonians, Paul admonished them to have nothing to do with anyone who refused to obey what he wrote in the letter. What did Paul think would happen to the person?",
     "options": [
       "The person would be encouraged  ",
       "The person would be ashamed  ",
@@ -2161,7 +2161,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-180-818",
-    "questionText": "St. John refers to Jesus’ miracles as ‘signs’ because they  (JAMB 2010)",
+    "questionText": "St. John refers to Jesus’ miracles as ‘signs’ because they",
     "options": [
       "acceptance of Jesus as son of Go ",
       "proofs of the kingdom of Go ",
@@ -2173,7 +2173,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-181-37",
-    "questionText": "The meaning of Emmanuel is  (JAMB 2007)",
+    "questionText": "The meaning of Emmanuel is",
     "options": [
       "laughter ",
       "“for I draw him from water ",
@@ -2185,7 +2185,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-182-767",
-    "questionText": "The Egyptians encamped at ____ when they pursued the Israelites (JAMB 2019)",
+    "questionText": "The Egyptians encamped at ____ when they pursued the Israelites",
     "options": [
       "Raphidim",
       "The sea",
@@ -2197,7 +2197,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-183-214",
-    "questionText": "Before Joseph and Mary came together, she was found to be with a child (JAMB 2005)",
+    "questionText": "Before Joseph and Mary came together, she was found to be with a child",
     "options": [
       "to be called Jesus",
       "of the Holy Spirit",
@@ -2209,7 +2209,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-184-295",
-    "questionText": "Prophet Hosea named his second child Not Pitied because God would no more pity the (JAMB 2009)",
+    "questionText": "Prophet Hosea named his second child Not Pitied because God would no more pity the",
     "options": [
       "kings of Judah",
       "kings of Israel",
@@ -2221,7 +2221,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-185-400",
-    "questionText": "Moses ran away from Egypt after killing an Egyptian because he felt that he might be (JAMB 2013)",
+    "questionText": "Moses ran away from Egypt after killing an Egyptian because he felt that he might be",
     "options": [
       "endangering other Israelites by his actions",
       "killed by the Egyptian mob",
@@ -2233,7 +2233,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-186-894",
-    "questionText": "Which of the following was the first directive given to man after He had created him?  (JAMB 2013)",
+    "questionText": "Which of the following was the first directive given to man after He had created him?",
     "options": [
       "Be fruitful and multiply, fill the earth and subdue ",
       "Go ye into the world and exercise full authority over ",
@@ -2245,7 +2245,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-187-244",
-    "questionText": "Paul appealed to Philemon to forgive Onesimus on the basis of (JAMB 2005)",
+    "questionText": "Paul appealed to Philemon to forgive Onesimus on the basis of",
     "options": [
       "equality",
       "righteousness",
@@ -2257,7 +2257,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-188-705",
-    "questionText": "For our prayers to manifest, we must be ________. (JAMB 2019)",
+    "questionText": "For our prayers to manifest, we must be ________.",
     "options": [
       "caring",
       "careful",
@@ -2269,7 +2269,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-189-159",
-    "questionText": "Who was one of the Seven Deacons who had four daughters who were prophetesses?   (JAMB 2012)",
+    "questionText": "Who was one of the Seven Deacons who had four daughters who were prophetesses?",
     "options": [
       "Nicolaus  ",
       "Stephen  ",
@@ -2281,7 +2281,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-190-25",
-    "questionText": "The person who the Bible calls the son of consolation is  (JAMB 2007)",
+    "questionText": "The person who the Bible calls the son of consolation is",
     "options": [
       "Barsabas ",
       "Barabbas ",
@@ -2293,7 +2293,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-191-601",
-    "questionText": "God guided the Israelites on their way from Egypt to the Promised Land by (JAMB 2010)",
+    "questionText": "God guided the Israelites on their way from Egypt to the Promised Land by",
     "options": [
       "the work of two angels",
       "dividing the Red Sea",
@@ -2305,7 +2305,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-192-161",
-    "questionText": "“To obey is better than sacrifice” came from   (JAMB 2012)",
+    "questionText": "“To obey is better than sacrifice” came from",
     "options": [
       "Prophet Daniel  ",
       "Prophet Ezekiel  ",
@@ -2317,7 +2317,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-193-615",
-    "questionText": "How did the Ninevites react to Jonah’s message? (JAMB 2010)",
+    "questionText": "How did the Ninevites react to Jonah’s message?",
     "options": [
       "They did not believe it",
       "They believed it for a while",
@@ -2329,7 +2329,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-194-22",
-    "questionText": "Who is an atheist?  (JAMB 2006)",
+    "questionText": "Who is an atheist?",
     "options": [
       "someone who does believe in God ",
       "someone who rejects completely the idea of a divine being ",
@@ -2341,7 +2341,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-195-792",
-    "questionText": "Which of the following rivers flowed out of Eden to water  (JAMB 2010)",
+    "questionText": "Which of the following rivers flowed out of Eden to water",
     "options": [
       "Abana            ",
       " Pharpar              ",
@@ -2353,7 +2353,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-196-397",
-    "questionText": "The new covenant between God and the Israelites is centered on (JAMB 2013)",
+    "questionText": "The new covenant between God and the Israelites is centered on",
     "options": [
       "religious doctrines",
       "intensive teaching",
@@ -2365,7 +2365,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-197-711",
-    "questionText": "I desire steadfast love and not sacrifice, the knowledge of God, rather than burnt offerings.” This statement was the central theme of the prophecy of _____________. (JAMB 2019)",
+    "questionText": "I desire steadfast love and not sacrifice, the knowledge of God, rather than burnt offerings.” This statement was the central theme of the prophecy of _____________.",
     "options": [
       "Elijah",
       "Ezekiel",
@@ -2377,7 +2377,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-198-51",
-    "questionText": "Name three places Christian religious people look up to find the truth about the nature of God (JAMB 2008)",
+    "questionText": "Name three places Christian religious people look up to find the truth about the nature of God",
     "options": [
       "In the sacred scripture ",
       "In the religious leader ",
@@ -2389,7 +2389,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-199-1087",
-    "questionText": "Peter described Christians as a chosen race of God because they (JAMB 2015)",
+    "questionText": "Peter described Christians as a chosen race of God because they",
     "options": [
       "declared God’s wonderful deeds ",
       "had all become ordained men ",
@@ -2401,7 +2401,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-200-300",
-    "questionText": "When asked to interpret Pharaoh’s dream, Joseph’s first response was (JAMB 2011)",
+    "questionText": "When asked to interpret Pharaoh’s dream, Joseph’s first response was",
     "options": [
       "...God has revealed to Pharaoh what he is about to do.",
       "...It is not in me; God will give Pharaoh a favourable answer.",
@@ -2413,7 +2413,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-201-909",
-    "questionText": "God addressed Ezekiel as the “Son of man “. This phrase  (JAMB 2013)",
+    "questionText": "God addressed Ezekiel as the “Son of man “. This phrase",
     "options": [
       "humanity.      ",
       "character",
@@ -2425,7 +2425,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-202-305",
-    "questionText": "God promised Abraham that nations of the earth shall be blessed through him because (JAMB 2011)",
+    "questionText": "God promised Abraham that nations of the earth shall be blessed through him because",
     "options": [
       "he had obeyed Him",
       "his descendants had obeyed Him",
@@ -2437,7 +2437,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-203-309",
-    "questionText": "Solomon made the most unwise decision by engaging in (JAMB 2011)",
+    "questionText": "Solomon made the most unwise decision by engaging in",
     "options": [
       "marriages to foreign women",
       "alliances with his brothers",
@@ -2449,7 +2449,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-204-1081",
-    "questionText": "“Dress yourself and put on your sandals”. Obedience to this instruction led to  (JAMB 2015)",
+    "questionText": "“Dress yourself and put on your sandals”. Obedience to this instruction led to",
     "options": [
       "an angel’s destruction of Herod ",
       "Peter’s arrest and imprisonment ",
@@ -2461,7 +2461,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-205-143",
-    "questionText": "After eating the forbidden fruit Adam’s and Eve’s eyes opened and they realized that they  (JAMB 2011)",
+    "questionText": "After eating the forbidden fruit Adam’s and Eve’s eyes opened and they realized that they",
     "options": [
       "had sinned against God",
       "had disobeyed God   ",
@@ -2473,7 +2473,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-206-66",
-    "questionText": "Bring your necks under the yoke of the king of Babylon and serve him and his people and live” who gave this advice?  (JAMB 2008)",
+    "questionText": "Bring your necks under the yoke of the king of Babylon and serve him and his people and live” who gave this advice?",
     "options": [
       "Jeremiah ",
       "Isaiah ",
@@ -2485,7 +2485,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-207-950",
-    "questionText": "What reasons were put forward by the Israelites in asking for a king?  (JAMB 2011)",
+    "questionText": "What reasons were put forward by the Israelites in asking for a king?",
     "options": [
       "The age of Samuel and the conduct of his sons",
       "The conduct of Samuel and the strength of the Philistines",
@@ -2497,7 +2497,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-208-145",
-    "questionText": "The Amalekites who opposed the Israelites in the wilderness were from the lineage of   (JAMB 2011)",
+    "questionText": "The Amalekites who opposed the Israelites in the wilderness were from the lineage of",
     "options": [
       "Benjamin ",
       "Jacob ",
@@ -2509,7 +2509,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-209-1",
-    "questionText": "In Jesus’ teaching on the mount, the only justifiable reason for divorce is  (JAMB 2006)",
+    "questionText": "In Jesus’ teaching on the mount, the only justifiable reason for divorce is",
     "options": [
       "indolence ",
       "insubordination ",
@@ -2521,7 +2521,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-210-196",
-    "questionText": "The eunuch who went to Jerusalem to worship in Acts 8:27 was a   (JAMB 2013)",
+    "questionText": "The eunuch who went to Jerusalem to worship in Acts 8:27 was a",
     "options": [
       "minister of God  ",
       "minister of Candace the queen Gaza  ",
@@ -2533,7 +2533,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-211-410",
-    "questionText": "The sins of Israel during the reign of Ahab consisted of (JAMB 2013)",
+    "questionText": "The sins of Israel during the reign of Ahab consisted of",
     "options": [
       "worship of the king",
       "trampling upon the poor",
@@ -2545,7 +2545,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-212-661",
-    "questionText": "“Your father made our yoke heavy. Now therefore, lighten the hard service of your father.” These were the words of (JAMB 2011)",
+    "questionText": "“Your father made our yoke heavy. Now therefore, lighten the hard service of your father.” These were the words of",
     "options": [
       "Jeroboam",
       "Solomon",
@@ -2557,7 +2557,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-213-600",
-    "questionText": "What was Samson’s major achievement as Israel’s leader? (JAMB 2010)",
+    "questionText": "What was Samson’s major achievement as Israel’s leader?",
     "options": [
       "He suppressed the Philistines",
       "He captured the city of Jericho",
@@ -2569,7 +2569,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-214-797",
-    "questionText": "The first king of Israel lost his throne because he  (JAMB 2010)",
+    "questionText": "The first king of Israel lost his throne because he",
     "options": [
       "was a weak king. ",
       "knew little about governance. ",
@@ -2581,7 +2581,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-215-499",
-    "questionText": "According to Amos, true religion entails (JAMB 2015)",
+    "questionText": "According to Amos, true religion entails",
     "options": [
       "engaging in sacrifices and burnt offerings",
       "being just and righteous",
@@ -2593,7 +2593,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-216-473",
-    "questionText": "“And if anyone will not receive you or listen to your words, shake off the dust from your feet as you leave that house.” This is a sign of (JAMB 2009)",
+    "questionText": "“And if anyone will not receive you or listen to your words, shake off the dust from your feet as you leave that house.” This is a sign of",
     "options": [
       "forgiveness",
       "rebuke",
@@ -2605,7 +2605,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-217-6",
-    "questionText": "Eutychus fell from the third storey to the ground when Paul  prolonged his sermon at  (JAMB 2006)",
+    "questionText": "Eutychus fell from the third storey to the ground when Paul  prolonged his sermon at",
     "options": [
       "Troas ",
       "Ephesus ",
@@ -2617,7 +2617,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-218-576",
-    "questionText": "The lame man who was healed at the pool of Bethizatha was charged by the Jews for breaking the law of the Sabbath \tbecause he (JAMB 2010)",
+    "questionText": "The lame man who was healed at the pool of Bethizatha was charged by the Jews for breaking the law of the Sabbath \tbecause he",
     "options": [
       "consulted Jesus on the Sabbath day.",
       "was carrying his pallet on a Sabbath day.",
@@ -2629,7 +2629,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-219-380",
-    "questionText": "The result of justification by faith is (JAMB 2008)",
+    "questionText": "The result of justification by faith is",
     "options": [
       "divine protection",
       "peace with God",
@@ -2641,7 +2641,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-220-315",
-    "questionText": "Nebuchadnezzar ordered his subjects to worship the image he set up whenever they (JAMB 2011)",
+    "questionText": "Nebuchadnezzar ordered his subjects to worship the image he set up whenever they",
     "options": [
       "heard his voice",
       "saw him stand before the image",
@@ -2653,7 +2653,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-221-534",
-    "questionText": "For obeying His word, God rewarded Shiphrah and Puah with (JAMB 2015)",
+    "questionText": "For obeying His word, God rewarded Shiphrah and Puah with",
     "options": [
       "families",
       "positions",
@@ -2665,7 +2665,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-222-392",
-    "questionText": "The concept of  forgiveness does not include (JAMB 2008)",
+    "questionText": "The concept of  forgiveness does not include",
     "options": [
       "reconciliation",
       "restoration",
@@ -2677,7 +2677,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-223-487",
-    "questionText": "According to Peter, God set up the state for the purpose of (JAMB 2009)",
+    "questionText": "According to Peter, God set up the state for the purpose of",
     "options": [
       "silencing the ignorance of foolish men.",
       "collecting appropriate taxes from its citizens",
@@ -2689,7 +2689,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-224-706",
-    "questionText": "In the Gospel of Matthew, Jesus sent the twelve to ___________. (JAMB 2019)",
+    "questionText": "In the Gospel of Matthew, Jesus sent the twelve to ___________.",
     "options": [
       "the Jews",
       "the Gentiles and Samaritans",
@@ -2701,7 +2701,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-225-923",
-    "questionText": "On the day of Pentecost, the Apostles were filled with the Holy Spirit and they all (JAMB 2013)",
+    "questionText": "On the day of Pentecost, the Apostles were filled with the Holy Spirit and they all",
     "options": [
       "prophesied.",
       "          spoke in tongues.",
@@ -2713,7 +2713,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-226-234",
-    "questionText": "According to Romans, when civil authorities punish evil doers, they do so as the (JAMB 2005)",
+    "questionText": "According to Romans, when civil authorities punish evil doers, they do so as the",
     "options": [
       "agents of God’s wrath",
       "supervisory authority",
@@ -2725,7 +2725,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-227-1046",
-    "questionText": "The names of the sons of Jacob listed in the book of Exodus excluded Joseph because  (JAMB 2015)",
+    "questionText": "The names of the sons of Jacob listed in the book of Exodus excluded Joseph because",
     "options": [
       "Joseph was represented by his two sons ",
       "the Israelites thought Joseph had died ",
@@ -2737,7 +2737,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-228-897",
-    "questionText": "God provided water for the Israelites by asking Moses to strike the rock of the wilderness of  (JAMB 2013)",
+    "questionText": "God provided water for the Israelites by asking Moses to strike the rock of the wilderness of",
     "options": [
       "Beersheb       ",
       "Red Se         ",
@@ -2749,7 +2749,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-229-265",
-    "questionText": "In Luke, at the Last Supper, Jesus revealed His (JAMB 2009)",
+    "questionText": "In Luke, at the Last Supper, Jesus revealed His",
     "options": [
       "resurrection",
       "imminent sufferings",
@@ -2761,7 +2761,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-230-966",
-    "questionText": "According to Luke, the third temptation of Jesus was that He should  (JAMB 2011)",
+    "questionText": "According to Luke, the third temptation of Jesus was that He should",
     "options": [
       "jump down from the high mountain. ",
       "jump from the pinnacle of the temple",
@@ -2773,7 +2773,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-231-943",
-    "questionText": "God prepared Joseph for his leadership role in Egypt through (JAMB 2011)",
+    "questionText": "God prepared Joseph for his leadership role in Egypt through",
     "options": [
       "the love which his father had for him. ",
       "the trials and temptations of his earlier years. ",
@@ -2785,7 +2785,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-232-402",
-    "questionText": "David’s immediate reaction to the news that the hearts of the Israelites have gone after Absalom was to (JAMB 2013)",
+    "questionText": "David’s immediate reaction to the news that the hearts of the Israelites have gone after Absalom was to",
     "options": [
       "Weep for Judah",
       "flee to the wilderness",
@@ -2797,7 +2797,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-233-541",
-    "questionText": "The church that was commended for giving even when in extreme poverty was in (JAMB 2015)",
+    "questionText": "The church that was commended for giving even when in extreme poverty was in",
     "options": [
       "Galatia",
       "Corinth",
@@ -2809,7 +2809,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-234-831",
-    "questionText": "Paul’s greatest writing about spiritual gift is found in his letter to the (JAMB 2010)",
+    "questionText": "Paul’s greatest writing about spiritual gift is found in his letter to the",
     "options": [
       "Galatians.    ",
       " Ephesians",
@@ -2821,7 +2821,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-235-181",
-    "questionText": "The book of ____ mostly emphasized social justice (JAMB 2013)",
+    "questionText": "The book of ____ mostly emphasized social justice",
     "options": [
       "Amos   ",
       "Ezekiel   ",
@@ -2833,7 +2833,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-236-476",
-    "questionText": "“No one can serve two masters...” This means that one should not (JAMB 2009)",
+    "questionText": "“No one can serve two masters...” This means that one should not",
     "options": [
       "be idolatrous.",
       "belong to two religions.",
@@ -2845,7 +2845,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-237-212",
-    "questionText": "Jonah typified Jesus Christ when he (JAMB 2005)",
+    "questionText": "Jonah typified Jesus Christ when he",
     "options": [
       "surrendered himself to be swallowed by the fish",
       "offered to lose his life that others might be saved",
@@ -2857,7 +2857,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-238-564",
-    "questionText": "According to Amos’ prophecy, the “Day of the Lord” to the Israelites would be a day of (JAMB 2010)",
+    "questionText": "According to Amos’ prophecy, the “Day of the Lord” to the Israelites would be a day of",
     "options": [
       "victory over enemies",
       "happiness.",
@@ -2869,7 +2869,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-239-552",
-    "questionText": "The first king of Israel lost his throne because he (JAMB 2010)",
+    "questionText": "The first king of Israel lost his throne because he",
     "options": [
       "was a weak king.",
       "knew little about governance.",
@@ -2881,7 +2881,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-240-554",
-    "questionText": "When Abner wanted to transfer his allegiance to David, the latter gave him the condition to (JAMB 2010)",
+    "questionText": "When Abner wanted to transfer his allegiance to David, the latter gave him the condition to",
     "options": [
       "openly submit to Joab.",
       "convince all Israel to come over to David.",
@@ -2893,7 +2893,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-241-874",
-    "questionText": "Discipline requires self- denial and complete (JAMB 2012)",
+    "questionText": "Discipline requires self- denial and complete",
     "options": [
       "tolerance ",
       "forgiveness",
@@ -2905,7 +2905,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-242-771",
-    "questionText": "In the Gospel according to St. Matthew, Jesus sent His disciples to_______ (JAMB 2019)",
+    "questionText": "In the Gospel according to St. Matthew, Jesus sent His disciples to_______",
     "options": [
       "the Gentiles",
       "the Samaritans",
@@ -2917,7 +2917,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-243-60",
-    "questionText": "The two Hebrew midwives instructed by pharaoh to kill the Hebrew male babies at birth were: (JAMB 2008)",
+    "questionText": "The two Hebrew midwives instructed by pharaoh to kill the Hebrew male babies at birth were:",
     "options": [
       "Ziporah and Puah ",
       "Puah and Miriam ",
@@ -2929,7 +2929,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-244-648",
-    "questionText": "“…who is the Lord that I should heed his voice and let Israel go”? After this statement, Pharaoh (JAMB 2011)",
+    "questionText": "“…who is the Lord that I should heed his voice and let Israel go”? After this statement, Pharaoh",
     "options": [
       "engaged Israel into forced labour with task masters.",
       "ordered midwives to kill all males born to Israelites.",
@@ -2941,7 +2941,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-245-714",
-    "questionText": ".I desire steadfast love and not sacrifice, offerings”. This statement was the central theme of the prophecy of __________. (JAMB 2019)",
+    "questionText": ".I desire steadfast love and not sacrifice, offerings”. This statement was the central theme of the prophecy of __________.",
     "options": [
       "Elijah",
       "Ezekiel",
@@ -2953,7 +2953,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-246-607",
-    "questionText": "How did King Solomon demonstrate his wisdom in settling the dispute over the ownership of a baby by the two \nProstitutes? (JAMB 2010)",
+    "questionText": "How did King Solomon demonstrate his wisdom in settling the dispute over the ownership of a baby by the two \nProstitutes?",
     "options": [
       "He interrogated them for seven days until the truth was discovered.",
       "He interrogated them for only three days and the truth was revealed",
@@ -2965,7 +2965,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-247-381",
-    "questionText": "Which of the following is the result of Christian baptism? (JAMB 2008)",
+    "questionText": "Which of the following is the result of Christian baptism?",
     "options": [
       "Fulfilment of all righteousness",
       "Walking in the newness of life",
@@ -2977,7 +2977,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-248-896",
-    "questionText": "Moses ran away from Egypt because he  (JAMB 2013)",
+    "questionText": "Moses ran away from Egypt because he",
     "options": [
       "did not like to be trained in Egypt. ",
       "could no longer bear the hunger in the lan",
@@ -2989,7 +2989,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-249-125",
-    "questionText": "True religion, according to Amos’ submission, is the one in which   (JAMB 2011)",
+    "questionText": "True religion, according to Amos’ submission, is the one in which",
     "options": [
       "God is always appeased with sacrifices and tithes ",
       "Foods and drinks are served as a mark of love ",
@@ -3001,7 +3001,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-250-398",
-    "questionText": "The ark that God commanded Noah to build was made of (JAMB 2013)",
+    "questionText": "The ark that God commanded Noah to build was made of",
     "options": [
       "acacia wood",
       "gopher wood",
@@ -3013,7 +3013,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-251-434",
-    "questionText": "“Lord, I have heard from many about this man, how much evil he has done to thy saints at Jerusalem...” Ananias’ response above to God’s request for him to meet Saul shows that he (JAMB 2013)",
+    "questionText": "“Lord, I have heard from many about this man, how much evil he has done to thy saints at Jerusalem...” Ananias’ response above to God’s request for him to meet Saul shows that he",
     "options": [
       "felt that Saul should not be forgiven",
       "felt that Saul should be punished",
@@ -3025,7 +3025,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-252-226",
-    "questionText": "Before his ascension, Jesus commissioned his disciples to go to all nations and (JAMB 2005)",
+    "questionText": "Before his ascension, Jesus commissioned his disciples to go to all nations and",
     "options": [
       "cast out demons",
       "heal the sick",
@@ -3037,7 +3037,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-253-429",
-    "questionText": "After His arrest, Jesus was taken to (JAMB 2013)",
+    "questionText": "After His arrest, Jesus was taken to",
     "options": [
       "Pontiphas",
       "Agrippa",
@@ -3049,7 +3049,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-254-539",
-    "questionText": "Paul returned Philemon’s slave back to him, to ensure that (JAMB 2015)",
+    "questionText": "Paul returned Philemon’s slave back to him, to ensure that",
     "options": [
       "Philemon forgave and accepted the slave",
       "the slave can complete his service time",
@@ -3061,7 +3061,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-255-83",
-    "questionText": "In the trade treated between King Solomon and Lebanon, Solomon was to supply wheat and oil while Hiram was to supply (JAMB 2009)",
+    "questionText": "In the trade treated between King Solomon and Lebanon, Solomon was to supply wheat and oil while Hiram was to supply",
     "options": [
       "Grains only ",
       "precious stories ",
@@ -3073,7 +3073,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-256-846",
-    "questionText": "The minority report of the twelve spies was presented by (JAMB 2012)",
+    "questionText": "The minority report of the twelve spies was presented by",
     "options": [
       "Caleb and Joshua",
       "Palti and Gaddiel",
@@ -3085,7 +3085,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-257-689",
-    "questionText": "Paul asked the Thessalonians to imitate his action of (JAMB 2011)",
+    "questionText": "Paul asked the Thessalonians to imitate his action of",
     "options": [
       "demanding support from his converts.",
       "performing miracles",
@@ -3097,7 +3097,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-258-485",
-    "questionText": "Peter urged all Christians to endure sufferings in faith conscious of the fact that (JAMB 2009)",
+    "questionText": "Peter urged all Christians to endure sufferings in faith conscious of the fact that",
     "options": [
       "Jesus, himself also resisted suffering",
       "the devil could lure them from faith with suffering.",
@@ -3109,7 +3109,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-259-1027",
-    "questionText": "According to Paul, ‘As sin reigned in death, grace also might reign through righteousness to  (JAMB 2011)",
+    "questionText": "According to Paul, ‘As sin reigned in death, grace also might reign through righteousness to",
     "options": [
       "faith in God’. ",
       "the knowledge of God’.    ",
@@ -3121,7 +3121,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-260-312",
-    "questionText": "The workmen who repaired the house of the LORD during Josiah’s religious reforms were not made to account for the money given them because they (JAMB 2011)",
+    "questionText": "The workmen who repaired the house of the LORD during Josiah’s religious reforms were not made to account for the money given them because they",
     "options": [
       "did not receive the money directly",
       "lacked accounting capabilities",
@@ -3133,7 +3133,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-261-353",
-    "questionText": "God provided water for the Israelites by asking Moses to strike the rock at trice wilderness of (JAMB 2008)",
+    "questionText": "God provided water for the Israelites by asking Moses to strike the rock at trice wilderness of",
     "options": [
       "Rephidium",
       "sin",
@@ -3145,7 +3145,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-262-109",
-    "questionText": "That was the sin of David that involved Bathseba?  (JAMB 2010)",
+    "questionText": "That was the sin of David that involved Bathseba?",
     "options": [
       "Murder ",
       "adultery ",
@@ -3157,7 +3157,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-263-529",
-    "questionText": "Paul in Romans advised believers to respect those in authority to avoid God’s wrath and also for the sake of (JAMB 2015)",
+    "questionText": "Paul in Romans advised believers to respect those in authority to avoid God’s wrath and also for the sake of",
     "options": [
       "conscience",
       "Christ",
@@ -3169,7 +3169,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-264-494",
-    "questionText": "The first missionary journey was started by Paul and (JAMB 2009)",
+    "questionText": "The first missionary journey was started by Paul and",
     "options": [
       "Judas",
       ".      \nBarabbas.",
@@ -3181,7 +3181,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-265-646",
-    "questionText": "According to Joseph’s interpretation to Pharaoh’s dreams; the seven empty ears blighted by the east wind represented seven years of (JAMB 2011)",
+    "questionText": "According to Joseph’s interpretation to Pharaoh’s dreams; the seven empty ears blighted by the east wind represented seven years of",
     "options": [
       "famine.",
       "abundance.",
@@ -3193,7 +3193,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-266-1019",
-    "questionText": "When Jesus said “apart from me you can do nothing”, he meant that Christians  (JAMB 2011)",
+    "questionText": "When Jesus said “apart from me you can do nothing”, he meant that Christians",
     "options": [
       "pray without ceasing. ",
       "must faithfully trust in Him always. ",
@@ -3205,7 +3205,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-267-821",
-    "questionText": "The lame man who was healed at the pool of Bethizatha was charged by the Jews for breaking the law of the Sabbath    because he  (JAMB 2010)",
+    "questionText": "The lame man who was healed at the pool of Bethizatha was charged by the Jews for breaking the law of the Sabbath    because he",
     "options": [
       "consulted Jesus on the Sabbath day. ",
       "was carrying his pallet on a Sabbath day. ",
@@ -3217,7 +3217,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-268-153",
-    "questionText": "One of the lessons one can derive from the story of Deborah the Prophetess is that   (JAMB 2012)",
+    "questionText": "One of the lessons one can derive from the story of Deborah the Prophetess is that",
     "options": [
       "Women are not good warriors  ",
       "Women should not be allowed to take leadership roles  ",
@@ -3229,7 +3229,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-269-557",
-    "questionText": "Solomon told Hiram, King of Tyre that he had decided to build a temple for the Lord because (JAMB 2010)",
+    "questionText": "Solomon told Hiram, King of Tyre that he had decided to build a temple for the Lord because",
     "options": [
       "the Lord had given him peace and all good things.",
       "his father, David, never intended to build one.",
@@ -3241,7 +3241,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-270-890",
-    "questionText": "Peter encourage the church to humble themselves before  God so that He would (JAMB 2012)",
+    "questionText": "Peter encourage the church to humble themselves before  God so that He would",
     "options": [
       "exonerate them",
       "not punish them",
@@ -3253,7 +3253,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-271-745",
-    "questionText": "St. Paul's teaching on forgiveness primarily shows that________ (JAMB 2019)",
+    "questionText": "St. Paul's teaching on forgiveness primarily shows that________",
     "options": [
       "Subordinates must regard their superiors and vice-versa for forgiveness to thrive",
       "Genuine forgiveness only comes from God",
@@ -3265,7 +3265,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-272-956",
-    "questionText": "Jeremiah’s vision of a boiling pot represented (JAMB 2011)",
+    "questionText": "Jeremiah’s vision of a boiling pot represented",
     "options": [
       "Judah’s sins.",
       "pot of destruction",
@@ -3277,7 +3277,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-273-877",
-    "questionText": "“Mary Magdalene and the other Mary went to see the sepulchre”. “The other Mary”, according to St. Mark was the mother  (JAMB 2012)",
+    "questionText": "“Mary Magdalene and the other Mary went to see the sepulchre”. “The other Mary”, according to St. Mark was the mother",
     "options": [
       "James and Joses",
       "James and John",
@@ -3289,7 +3289,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-274-566",
-    "questionText": "From Luke’s account of the baptism of Jesus, which of the following happened before the voice was heard? (JAMB 2010)",
+    "questionText": "From Luke’s account of the baptism of Jesus, which of the following happened before the voice was heard?",
     "options": [
       "John was reluctant to baptize Him.",
       "John called Jesus the Lamb of God.",
@@ -3301,7 +3301,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-275-416",
-    "questionText": "Before his call, Amos was a (JAMB 2013)",
+    "questionText": "Before his call, Amos was a",
     "options": [
       "herdsman",
       "seer",
@@ -3313,7 +3313,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-276-546",
-    "questionText": "On the fourth day, God created the sun, moon and stars for the following purposes except (JAMB 2010)",
+    "questionText": "On the fourth day, God created the sun, moon and stars for the following purposes except",
     "options": [
       "to separate the day from the night.",
       "for signs of seasons, days and years.",
@@ -3325,7 +3325,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-277-733",
-    "questionText": "Peter advised Christians to _______as they were sharing Christ's sufferings (JAMB 2019)",
+    "questionText": "Peter advised Christians to _______as they were sharing Christ's sufferings",
     "options": [
       "Be Prayerful",
       "Rejoice",
@@ -3337,7 +3337,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-278-935",
-    "questionText": "According to Paul in second Thessalonians, one of the signs of the second coming would be  (JAMB 2013)",
+    "questionText": "According to Paul in second Thessalonians, one of the signs of the second coming would be",
     "options": [
       "revelation of the man of lawlessness. ",
       "an explosion of world population. ",
@@ -3349,7 +3349,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-279-47",
-    "questionText": "Who was the priest that confronted Uzziah in the temple  (JAMB 2007)",
+    "questionText": "Who was the priest that confronted Uzziah in the temple",
     "options": [
       "Zadokaul ",
       "Phineas ",
@@ -3361,7 +3361,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-280-849",
-    "questionText": "Beside being a true prophetess, Deborah could also be described as a woman of (JAMB 2012)",
+    "questionText": "Beside being a true prophetess, Deborah could also be described as a woman of",
     "options": [
       "love",
       "glory",
@@ -3373,7 +3373,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-281-963",
-    "questionText": "Jesus taught in parables in order to (JAMB 2011)",
+    "questionText": "Jesus taught in parables in order to",
     "options": [
       "make known the secrets of the kingdom",
       "hide the secrets of life from the public.",
@@ -3385,7 +3385,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-282-801",
-    "questionText": "Solomon showed lack of wisdom when he  (JAMB 2010)",
+    "questionText": "Solomon showed lack of wisdom when he",
     "options": [
       "put up temples for the gods of his wives ",
       "married many wives with children ",
@@ -3397,7 +3397,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-283-974",
-    "questionText": "After the resurrection, the Early Church met to (JAMB 2011)",
+    "questionText": "After the resurrection, the Early Church met to",
     "options": [
       "determine how to deal with the Sanhedrin.",
       "plan the expansion of the church.",
@@ -3409,7 +3409,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-284-520",
-    "questionText": "Cornelius who was converted and baptized by Peter was a (JAMB 2015)",
+    "questionText": "Cornelius who was converted and baptized by Peter was a",
     "options": [
       "member of the Sanhedrin",
       "centurion",
@@ -3421,7 +3421,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-285-834",
-    "questionText": "In which of the following ways did the Philippians share in Paul’s suffering while in prison?  (JAMB 2010)",
+    "questionText": "In which of the following ways did the Philippians share in Paul’s suffering while in prison?",
     "options": [
       "Appealing for the release of Paul   ",
       "Sending him relief materials ",
@@ -3433,7 +3433,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-286-543",
-    "questionText": "Believers today are partakers of the New Covenant through (JAMB 2015)",
+    "questionText": "Believers today are partakers of the New Covenant through",
     "options": [
       "partaking in baptism by immersion",
       "the gift of the spirit",
@@ -3445,7 +3445,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-287-885",
-    "questionText": "When Rhoda reported that Peter was at the door, the inmates retorted that (JAMB 2012)",
+    "questionText": "When Rhoda reported that Peter was at the door, the inmates retorted that",
     "options": [
       "“you are a liar”",
       "“you are mad”",
@@ -3457,7 +3457,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-288-211",
-    "questionText": "Who among the prophets was referred to as a prophet of doom? (JAMB 2005)",
+    "questionText": "Who among the prophets was referred to as a prophet of doom?",
     "options": [
       "Isaiah",
       "Ezekiel",
@@ -3469,7 +3469,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-289-845",
-    "questionText": "God made Pharaoh to chase and bring the Israelites back to Egypt so that He would (JAMB 2012)",
+    "questionText": "God made Pharaoh to chase and bring the Israelites back to Egypt so that He would",
     "options": [
       "show that Moses was his true servant",
       "destroy first born males of Egyptians",
@@ -3481,7 +3481,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-290-1077",
-    "questionText": "The charge of drunkenness was levelled against the apostles on Pentecost day because (JAMB 2015)",
+    "questionText": "The charge of drunkenness was levelled against the apostles on Pentecost day because",
     "options": [
       "they were drunk before nine o’clock ",
       "they spoke in other tongues",
@@ -3493,7 +3493,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-291-616",
-    "questionText": "In Prophet Hosea’s analysis, harlotry is equivalent to Israel’s (JAMB 2010)",
+    "questionText": "In Prophet Hosea’s analysis, harlotry is equivalent to Israel’s",
     "options": [
       "prostitution",
       "idolatrous practices",
@@ -3505,7 +3505,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-292-479",
-    "questionText": "John’s summary of God’s love for the world is that He (JAMB 2009)",
+    "questionText": "John’s summary of God’s love for the world is that He",
     "options": [
       "sent his son to judge the world righteously.",
       "created man in his own image with authority.",
@@ -3517,7 +3517,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-293-525",
-    "questionText": "Nebuchadnezzar decreed that all his subjects should worship the image he had set up whenever they (JAMB 2015)",
+    "questionText": "Nebuchadnezzar decreed that all his subjects should worship the image he had set up whenever they",
     "options": [
       "desired something from him",
       "saw him stand before it",
@@ -3529,7 +3529,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-294-659",
-    "questionText": "One of the main features of Solomon’s prayer at the dedication of the Temple was the (JAMB 2011)",
+    "questionText": "One of the main features of Solomon’s prayer at the dedication of the Temple was the",
     "options": [
       "celebration of God who is faithful to his covenant",
       "recognition that God loves sacrifices.",
@@ -3541,7 +3541,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-295-363",
-    "questionText": "At Ezekiel’s call he beheld (JAMB 2008)",
+    "questionText": "At Ezekiel’s call he beheld",
     "options": [
       "the love of God",
       "God’s glory",
@@ -3553,7 +3553,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-296-584",
-    "questionText": "In the Epistle to the Romans, justification is received through (JAMB 2010)",
+    "questionText": "In the Epistle to the Romans, justification is received through",
     "options": [
       "faith in Jesus.",
       "moral uprightness",
@@ -3565,7 +3565,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-297-698",
-    "questionText": "“The sword devours now one and now another.” This statement was David’s reaction to the death of __________. (JAMB 2019)",
+    "questionText": "“The sword devours now one and now another.” This statement was David’s reaction to the death of __________.",
     "options": [
       "Saul",
       "Joab",
@@ -3577,7 +3577,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-298-72",
-    "questionText": "Who baptized the Ethiopian Eunuch?  (JAMB 2008)",
+    "questionText": "Who baptized the Ethiopian Eunuch?",
     "options": [
       "Paul ",
       "Peter ",
@@ -3589,7 +3589,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-299-272",
-    "questionText": "In order for the people of Israel to be ready to meet the LORD by the third day at Mount Sinai, they were (JAMB 2009)",
+    "questionText": "In order for the people of Israel to be ready to meet the LORD by the third day at Mount Sinai, they were",
     "options": [
       "not to drink alcohol",
       "to wear white garments",
@@ -3601,7 +3601,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-300-455",
-    "questionText": "David’s first Contact with Saul was because he was (JAMB 2009)",
+    "questionText": "David’s first Contact with Saul was because he was",
     "options": [
       "skillful in playing.",
       "victorious over Goliath.",
@@ -3613,7 +3613,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-301-914",
-    "questionText": "Which of the following parables alludes to the existence of a mixture of good and bad people in the church? The (JAMB 2013)",
+    "questionText": "Which of the following parables alludes to the existence of a mixture of good and bad people in the church? The",
     "options": [
       "Wicked Tenants.",
       "Seed Growing Secretly.",
@@ -3625,7 +3625,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-302-296",
-    "questionText": "“Test your servants for ten days; let us be given vegetables to eat and water to drink...” In the statement above, Daniel was talking to (JAMB 2009)",
+    "questionText": "“Test your servants for ten days; let us be given vegetables to eat and water to drink...” In the statement above, Daniel was talking to",
     "options": [
       "King Darius",
       "the chief of the eunuchs",
@@ -3637,7 +3637,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-303-682",
-    "questionText": "According to Paul, ‘As sin reigned in death, grace also might reign through righteousness to (JAMB 2011)",
+    "questionText": "According to Paul, ‘As sin reigned in death, grace also might reign through righteousness to",
     "options": [
       "faith in God’.",
       "the knowledge of God’.",
@@ -3649,7 +3649,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-304-414",
-    "questionText": "When the three Hebrew men refused to worship the King’s image, he commanded that they be (JAMB 2013)",
+    "questionText": "When the three Hebrew men refused to worship the King’s image, he commanded that they be",
     "options": [
       "thrown into a furnace",
       "stoned",
@@ -3661,7 +3661,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-305-678",
-    "questionText": "Saul was converted on his journey to (JAMB 2011)",
+    "questionText": "Saul was converted on his journey to",
     "options": [
       "Samaria",
       "Jerusalem.",
@@ -3673,7 +3673,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-306-136",
-    "questionText": "Who among the seven deacons was an evangelist who had four daughters who prophesied?   (JAMB 2011)",
+    "questionText": "Who among the seven deacons was an evangelist who had four daughters who prophesied?",
     "options": [
       "Stephen",
       "Philip ",
@@ -3685,7 +3685,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-307-246",
-    "questionText": "Peter advised his fellow elders to tend the flock of God that was in their charge (JAMB 2005)",
+    "questionText": "Peter advised his fellow elders to tend the flock of God that was in their charge",
     "options": [
       "with care",
       "willingly",
@@ -3697,7 +3697,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-308-471",
-    "questionText": "Jesus ordered the seventy disciples not to salute any one because (JAMB 2009)",
+    "questionText": "Jesus ordered the seventy disciples not to salute any one because",
     "options": [
       "their mission required urgency.",
       "it is not part of their mission to salute people.",
@@ -3709,7 +3709,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-309-188",
-    "questionText": "‘Those who honour me I will honour , and those who despise  me shall be lightly esteemed.’ Who was being addressed?   (JAMB 2013)",
+    "questionText": "‘Those who honour me I will honour , and those who despise  me shall be lightly esteemed.’ Who was being addressed?",
     "options": [
       "Eli   ",
       "Samuel",
@@ -3721,7 +3721,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-310-170",
-    "questionText": "According to Peter, Judgment of God must first begin in   (JAMB 2012)",
+    "questionText": "According to Peter, Judgment of God must first begin in",
     "options": [
       "the house of God  ",
       "the public places  ",
@@ -3733,7 +3733,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-311-1003",
-    "questionText": "David bitterly mourned when Abner was slain by   (JAMB 2011)",
+    "questionText": "David bitterly mourned when Abner was slain by",
     "options": [
       "Ishbosheth",
       ".       Absalom",
@@ -3745,7 +3745,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-312-71",
-    "questionText": "Where did Paul cure a slave girl who had a spirit of divination?  (JAMB 2008)",
+    "questionText": "Where did Paul cure a slave girl who had a spirit of divination?",
     "options": [
       "Philippi ",
       "Ephesus ",
@@ -3757,7 +3757,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-313-822",
-    "questionText": "The descent of the Holy Spirit on the day of  Pentecost was prophesied by  (JAMB 2010)",
+    "questionText": "The descent of the Holy Spirit on the day of  Pentecost was prophesied by",
     "options": [
       "Amos.           ",
       "Joel.              ",
@@ -3769,7 +3769,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-314-491",
-    "questionText": "According to Paul in Romans, if it is the adherents of the law who are to be the heirs of Abraham then faith in Jesus is (JAMB 2009)",
+    "questionText": "According to Paul in Romans, if it is the adherents of the law who are to be the heirs of Abraham then faith in Jesus is",
     "options": [
       "null and void.",
       "not attainable",
@@ -3781,7 +3781,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-315-1039",
-    "questionText": "According to Paul in Galatians, law ceased to be our custodian as soon as  (JAMB 2011)",
+    "questionText": "According to Paul in Galatians, law ceased to be our custodian as soon as",
     "options": [
       "it was made available to us. ",
       "Christ adopted us as his children.     ",
@@ -3793,7 +3793,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-316-1022",
-    "questionText": "“Go up and join this chariot”.   This statement was made to  (JAMB 2011)",
+    "questionText": "“Go up and join this chariot”.   This statement was made to",
     "options": [
       "John.                              ",
       "  Paul.",
@@ -3805,7 +3805,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-317-311",
-    "questionText": "Baal did not answer his worshippers at the contest on Mount Carmel because he (JAMB 2011)",
+    "questionText": "Baal did not answer his worshippers at the contest on Mount Carmel because he",
     "options": [
       "was annoyed with their sacrifice",
       "did not hear",
@@ -3817,7 +3817,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-318-117",
-    "questionText": "Paul was accused of apparently being a preacher of foreign divinities in Athens because he preached Jesus and the  (JAMB 2010)",
+    "questionText": "Paul was accused of apparently being a preacher of foreign divinities in Athens because he preached Jesus and the",
     "options": [
       "Cross ",
       "Law ",
@@ -3829,7 +3829,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-319-868",
-    "questionText": "The two Old Testament books that were used in the temptation stories were (JAMB 2012)",
+    "questionText": "The two Old Testament books that were used in the temptation stories were",
     "options": [
       "Genesis and Proverbs",
       "Leviticus and Lamentation",
@@ -3841,7 +3841,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-320-40",
-    "questionText": "Where did Paul cure a slave girl who had a spirit of divination  (JAMB 2007)",
+    "questionText": "Where did Paul cure a slave girl who had a spirit of divination",
     "options": [
       "Philippi ",
       "Ephesus ",
@@ -3853,7 +3853,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-321-335",
-    "questionText": "Saul was convened so that he might (JAMB 2011)",
+    "questionText": "Saul was convened so that he might",
     "options": [
       "cause confusion among the Jews",
       "help Peter in his work",
@@ -3865,7 +3865,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-322-401",
-    "questionText": "How did God guide Eleazar in choosing a wife for lsaac? (JAMB 2013)",
+    "questionText": "How did God guide Eleazar in choosing a wife for lsaac?",
     "options": [
       "He caused Rebekah to give him free accommodation",
       "He made Rebekah’s parents willing to release her",
@@ -3877,7 +3877,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-323-77",
-    "questionText": "Those bitten by the serpent were treated by  (JAMB 2009)",
+    "questionText": "Those bitten by the serpent were treated by",
     "options": [
       "Drinking from the Red sea ",
       "fasting for seven day ",
@@ -3889,7 +3889,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-324-220",
-    "questionText": "The seeds that fell among thorns represent those who hear the word of God but lose it because (JAMB 2005)",
+    "questionText": "The seeds that fell among thorns represent those who hear the word of God but lose it because",
     "options": [
       "they refuse to be baptized in water",
       "their parental background does not allow them to believe",
@@ -3901,7 +3901,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-325-509",
-    "questionText": "God fed the Israelites with Manna at the wilderness of (JAMB 2015)",
+    "questionText": "God fed the Israelites with Manna at the wilderness of",
     "options": [
       "Zin",
       "Elim",
@@ -3913,7 +3913,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-326-503",
-    "questionText": "In His teaching about Himself, Jesus said the hireling is not a good shepherd because he (JAMB 2015)",
+    "questionText": "In His teaching about Himself, Jesus said the hireling is not a good shepherd because he",
     "options": [
       "leaves the sheep and flees at the sight of danger",
       "owns the sheep but does not care for them",
@@ -3925,7 +3925,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-327-460",
-    "questionText": "The king of Judah who suffered in the hands of Nebuchadnezzar was (JAMB 2009)",
+    "questionText": "The king of Judah who suffered in the hands of Nebuchadnezzar was",
     "options": [
       "Jehoachin.",
       "Manasseh.",
@@ -3937,7 +3937,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-328-1057",
-    "questionText": "Gehazi became a leper because of his (JAMB 2015)",
+    "questionText": "Gehazi became a leper because of his",
     "options": [
       "deceitfulness   ",
       "greed    ",
@@ -3949,7 +3949,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-329-838",
-    "questionText": "James teaches that the man who shall be blessed is he who  (JAMB 2010)",
+    "questionText": "James teaches that the man who shall be blessed is he who",
     "options": [
       "hears the word of Go   ",
       "knows the law perfectly.    ",
@@ -3961,7 +3961,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-330-692",
-    "questionText": "James strongly condemned partiality in the Church for all the following reasons except that it (JAMB 2011)",
+    "questionText": "James strongly condemned partiality in the Church for all the following reasons except that it",
     "options": [
       "is contrary to Christ’s example of humility",
       "accords due respect to the rich who merit it.",
@@ -3973,7 +3973,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-331-417",
-    "questionText": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by (JAMB 2013)",
+    "questionText": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by",
     "options": [
       "Micaiah",
       "Amaziah",
@@ -3985,7 +3985,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-332-712",
-    "questionText": "Divine Love is a ___________love. (JAMB 2019)",
+    "questionText": "Divine Love is a ___________love.",
     "options": [
       "stronge",
       "steadfast",
@@ -3997,7 +3997,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-333-1018",
-    "questionText": "The Jews showed their hatred for Paul and Barnabas in Pisidia by  (JAMB 2011)",
+    "questionText": "The Jews showed their hatred for Paul and Barnabas in Pisidia by",
     "options": [
       "dragging out the apostles for stoning. ",
       "insisting and driving them out of the Synagogue. ",
@@ -4009,7 +4009,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-334-274",
-    "questionText": "“1 will not eat until I have told my errand” In the statement above, the errand of Abraham’s servant was to (JAMB 2009)",
+    "questionText": "“1 will not eat until I have told my errand” In the statement above, the errand of Abraham’s servant was to",
     "options": [
       "find a wife for Isaac",
       "deliver the camels to Laban",
@@ -4021,7 +4021,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-335-563",
-    "questionText": "The person who discovered the book of law in the sanctuary during the reign of Josiah was (JAMB 2010)",
+    "questionText": "The person who discovered the book of law in the sanctuary during the reign of Josiah was",
     "options": [
       "Zedekiah",
       "Huldah.",
@@ -4033,7 +4033,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788679767771-336-94",
-    "questionText": "Which prophet encouraged Jeroboam I to  revolt at the initial stage?  (JAMB 2009)",
+    "questionText": "Which prophet encouraged Jeroboam I to  revolt at the initial stage?",
     "options": [
       "Micaiah ",
       "Jeremiah ",
@@ -4045,7 +4045,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-0-1036",
-    "questionText": "Paul, pleaded with Philemon to forgive   (JAMB 2011)",
+    "questionText": "Paul, pleaded with Philemon to forgive",
     "options": [
       "Barnabas.",
       "Timothy.",
@@ -4057,7 +4057,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-1-842",
-    "questionText": "The two creation stories agree that (JAMB 2012)",
+    "questionText": "The two creation stories agree that",
     "options": [
       "man and woman were created on the same day",
       "creation was carried out by spoken word",
@@ -4069,7 +4069,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-2-206",
-    "questionText": "When God said to Solomon, “Ask what I shall give you”, he requested for (JAMB 2005)",
+    "questionText": "When God said to Solomon, “Ask what I shall give you”, he requested for",
     "options": [
       "long life and prosperity",
       "power and assistance against his enemies",
@@ -4081,7 +4081,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-3-122",
-    "questionText": "The expression ‘dry bones’ in Ezekiel refers to  (JAMB 2010)",
+    "questionText": "The expression ‘dry bones’ in Ezekiel refers to",
     "options": [
       "an Israelites proverb",
       "the whole house of Israel",
@@ -4093,7 +4093,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-4-1008",
-    "questionText": "The contest between Elijah and the prophets of  Baal took place at mount  (JAMB 2011)",
+    "questionText": "The contest between Elijah and the prophets of  Baal took place at mount",
     "options": [
       "Olive.",
       "Tabor.",
@@ -4105,7 +4105,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-5-129",
-    "questionText": "One of the following  is not correct about the order of creation in the Creation Stories  (JAMB 2011)",
+    "questionText": "One of the following  is not correct about the order of creation in the Creation Stories",
     "options": [
       "the evening came before the morning",
       "darkness came before light",
@@ -4117,7 +4117,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-6-575",
-    "questionText": "At whose well did Jesus meet the Samaritan woman? (JAMB 2010)",
+    "questionText": "At whose well did Jesus meet the Samaritan woman?",
     "options": [
       "Abraham",
       "Isaac",
@@ -4129,7 +4129,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-7-98",
-    "questionText": "For which of these prophets of God did the Bible record explicitly to have abandoned an agribusiness for a call to serve God?  (JAMB 2010)",
+    "questionText": "For which of these prophets of God did the Bible record explicitly to have abandoned an agribusiness for a call to serve God?",
     "options": [
       "Elisha",
       "Ezekiel",
@@ -4141,7 +4141,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-8-1041",
-    "questionText": "On the fourth day, God created the sun, moon and stars for the following purposes except.  (JAMB 2015)",
+    "questionText": "On the fourth day, God created the sun, moon and stars for the following purposes except.",
     "options": [
       "to separate the day from the night.",
       "for signs of seasons, days and years.",
@@ -4153,7 +4153,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-9-507",
-    "questionText": "When Ezekiel ate the scroll that was given to him his call. it signified that (JAMB 2015)",
+    "questionText": "When Ezekiel ate the scroll that was given to him his call. it signified that",
     "options": [
       "God would always go before him",
       "his sins were forgiven",
@@ -4165,7 +4165,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-10-88",
-    "questionText": "The proconsul when Paul arrived in commit was called (JAMB 2009)",
+    "questionText": "The proconsul when Paul arrived in commit was called",
     "options": [
       "Festus",
       "portions",
@@ -4177,7 +4177,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-11-55",
-    "questionText": "The lesson, who Jesus teaches in the parable of the Good Samaritan is that your neighbor is  (JAMB 2008)",
+    "questionText": "The lesson, who Jesus teaches in the parable of the Good Samaritan is that your neighbor is",
     "options": [
       "only your friend",
       "your next of king",
@@ -4189,7 +4189,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-12-119",
-    "questionText": "“It is not the sound of shouting for victory, or the sound of the cry of defeat, but the sound of singing that I hear” When was this statement made?  (JAMB 2010)",
+    "questionText": "“It is not the sound of shouting for victory, or the sound of the cry of defeat, but the sound of singing that I hear” When was this statement made?",
     "options": [
       "at the consecration of the Israelites",
       "at the crossing of the Red Sea",
@@ -4201,7 +4201,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-13-361",
-    "questionText": "Ahab was condemned for allowing Jericho to be rebuilt although that city had been (JAMB 2008)",
+    "questionText": "Ahab was condemned for allowing Jericho to be rebuilt although that city had been",
     "options": [
       "under Joshua’s curse",
       "devastated by an earthquake",
@@ -4213,7 +4213,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-14-759",
-    "questionText": "St Paul's epistle to the Philippians on \"Christian Giving' indicated his reception of gifts from them through________ (JAMB 2019)",
+    "questionText": "St Paul's epistle to the Philippians on \"Christian Giving' indicated his reception of gifts from them through________",
     "options": [
       "The Church In Corinth",
       "St Peter",
@@ -4225,7 +4225,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-15-606",
-    "questionText": "David’s behaviour after Prophet Nathan accused him of murder and adultery showed his (JAMB 2010)",
+    "questionText": "David’s behaviour after Prophet Nathan accused him of murder and adultery showed his",
     "options": [
       "justification",
       "repentance",
@@ -4237,7 +4237,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-16-1084",
-    "questionText": "James taught that Christians should offer prayers of thanksgiving when they are  (JAMB 2015)",
+    "questionText": "James taught that Christians should offer prayers of thanksgiving when they are",
     "options": [
       "remorseful",
       "sick",
@@ -4249,7 +4249,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-17-271",
-    "questionText": "The sin of the sons of Eli was that they treated the offering of the LORD with (JAMB 2009)",
+    "questionText": "The sin of the sons of Eli was that they treated the offering of the LORD with",
     "options": [
       "suspicion",
       "contempt",
@@ -4261,7 +4261,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-18-91",
-    "questionText": "What did God create on the 6th day  (JAMB 2009)",
+    "questionText": "What did God create on the 6th day",
     "options": [
       "The firmament",
       "light",
@@ -4273,7 +4273,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-19-193",
-    "questionText": "One of the following is not among the “I am” Sayings of Jesus   (JAMB 2013)",
+    "questionText": "One of the following is not among the “I am” Sayings of Jesus",
     "options": [
       "I am the bread of life",
       "I am the gate of life",
@@ -4285,7 +4285,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-20-775",
-    "questionText": "... updated Nehemiah about the state of Jerusalem while he was ... (JAMB 2019)",
+    "questionText": "... updated Nehemiah about the state of Jerusalem while he was ...",
     "options": [
       "Ezra, a captive in Babylon",
       "Ezekiah, an Emperor in Babylon",
@@ -4297,7 +4297,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-21-614",
-    "questionText": "Daniel became distinguished above all other pre¬sidents and satraps because (JAMB 2010)",
+    "questionText": "Daniel became distinguished above all other pre¬sidents and satraps because",
     "options": [
       "an excellent spirit was in him",
       "the spirit of Darius was in him",
@@ -4309,7 +4309,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-22-857",
-    "questionText": "Ahab revealed his disregard for the law when he (JAMB 2012)",
+    "questionText": "Ahab revealed his disregard for the law when he",
     "options": [
       "got married to Jezebel",
       "persecuted the prophets of lsrael",
@@ -4321,7 +4321,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-23-882",
-    "questionText": "The importance of the parable of the unmerciful servant is that Christians should (JAMB 2012)",
+    "questionText": "The importance of the parable of the unmerciful servant is that Christians should",
     "options": [
       "allow mercy to take precedence over justice",
       "avoid discrimination against one another",
@@ -4333,7 +4333,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-24-637",
-    "questionText": "According to Galatians, the death of Christ has eliminate all forms of (JAMB 2010)",
+    "questionText": "According to Galatians, the death of Christ has eliminate all forms of",
     "options": [
       "suffering",
       "differences",
@@ -4345,7 +4345,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-25-208",
-    "questionText": "Nebuchadnezzar punished those who refused to worship the golden image by throwing them into (JAMB 2005)",
+    "questionText": "Nebuchadnezzar punished those who refused to worship the golden image by throwing them into",
     "options": [
       "the River Nile",
       "the rivers of Babylon",
@@ -4357,7 +4357,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-26-783",
-    "questionText": "The essence of St. Paul's teaching on Law and Grace is that___________ (JAMB 2019)",
+    "questionText": "The essence of St. Paul's teaching on Law and Grace is that___________",
     "options": [
       "observance of the law is necessary for redemption in Christ",
       "what God truly rewards is the prayer for grace by Christians",
@@ -4369,7 +4369,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-27-746",
-    "questionText": "The model example in St. Paul teaching on humility is _______ (JAMB 2019)",
+    "questionText": "The model example in St. Paul teaching on humility is _______",
     "options": [
       "Abraham",
       "Prophet Elijah",
@@ -4381,7 +4381,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-28-1088",
-    "questionText": "“Live as free men, yet without using your freedom as pretest for evil” Peter by this text was calling on Christians to (JAMB 2015)",
+    "questionText": "“Live as free men, yet without using your freedom as pretest for evil” Peter by this text was calling on Christians to",
     "options": [
       "resist the devil always.",
       "do what is right",
@@ -4393,7 +4393,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-29-124",
-    "questionText": "After receiving an order from God, Jonah went down to…………….   (JAMB 2011)",
+    "questionText": "After receiving an order from God, Jonah went down to…………….",
     "options": [
       "Joppa",
       "Tarshish",
@@ -4405,7 +4405,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-30-836",
-    "questionText": "In Philippians, Paul taught that Jesus’humility and death on the cross earned Him  (JAMB 2010)",
+    "questionText": "In Philippians, Paul taught that Jesus’humility and death on the cross earned Him",
     "options": [
       "salvation for Israel.",
       "adoption as son of Go",
@@ -4417,7 +4417,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-31-1031",
-    "questionText": "The New Life in Christ operates through    (JAMB 2011)",
+    "questionText": "The New Life in Christ operates through",
     "options": [
       "humility. . .",
       "the name of Jesus",
@@ -4429,7 +4429,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-32-973",
-    "questionText": "Pilate referred Jesus to Herod for trial because (JAMB 2011)",
+    "questionText": "Pilate referred Jesus to Herod for trial because",
     "options": [
       "Pilate and Herod were good friends",
       "Jesus did not cooperate with Pilate.",
@@ -4441,7 +4441,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-33-440",
-    "questionText": "In Corinthians, Paul said that one can only say Jesus is Lord by (JAMB 2013)",
+    "questionText": "In Corinthians, Paul said that one can only say Jesus is Lord by",
     "options": [
       "denouncing the law",
       "faith",
@@ -4453,7 +4453,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-34-96",
-    "questionText": "According to Psalm 51, the sacrifice acceptable to God is (JAMB 2009)",
+    "questionText": "According to Psalm 51, the sacrifice acceptable to God is",
     "options": [
       "A clean hear",
       "Obedience",
@@ -4465,7 +4465,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-35-142",
-    "questionText": "Joseph’s brothers hated him the more because  (JAMB 2011)",
+    "questionText": "Joseph’s brothers hated him the more because",
     "options": [
       "he dreamed about his future dominion over his family members",
       "he used to give his father evil reports about them",
@@ -4477,7 +4477,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-36-1056",
-    "questionText": "When Elijah confronted Ahab over the Killing of Naboth, Ahab (JAMB 2015)",
+    "questionText": "When Elijah confronted Ahab over the Killing of Naboth, Ahab",
     "options": [
       "rejected any responsibility for it",
       "blamed Jezebel for the murder",
@@ -4489,7 +4489,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-37-683",
-    "questionText": "Paul in Romans declared “for as by one man’s disobedience many were made sinners, so by one man’s obedience many will be made...” (JAMB 2011)",
+    "questionText": "Paul in Romans declared “for as by one man’s disobedience many were made sinners, so by one man’s obedience many will be made...”",
     "options": [
       "innocent.",
       "righteous.",
@@ -4501,7 +4501,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-38-303",
-    "questionText": "Why was God angry with Eli? (JAMB 2011)",
+    "questionText": "Why was God angry with Eli?",
     "options": [
       "Eli’s sons disregarded the people’s warning",
       "Eli’s sons were wicked people.",
@@ -4513,7 +4513,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-39-238",
-    "questionText": "The Philippians’ gifts to Paul were for (JAMB 2005)",
+    "questionText": "The Philippians’ gifts to Paul were for",
     "options": [
       "the growth of the church",
       "his sustenance",
@@ -4525,7 +4525,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-40-975",
-    "questionText": "The First Martyr among the apostles was  (JAMB 2011)",
+    "questionText": "The First Martyr among the apostles was",
     "options": [
       "James",
       "Philip",
@@ -4537,7 +4537,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-41-871",
-    "questionText": "In the garden of Gethsemane, Jesus (JAMB 2012)",
+    "questionText": "In the garden of Gethsemane, Jesus",
     "options": [
       "was arrested",
       "was crucified",
@@ -4549,7 +4549,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-42-718",
-    "questionText": "One of the most significant lessons from the emergence of Deborah as a leader is that_________ (JAMB 2019)",
+    "questionText": "One of the most significant lessons from the emergence of Deborah as a leader is that_________",
     "options": [
       "She not only prophesied but also advised Israel",
       "Gender difference isn't a limitation to leadership",
@@ -4561,7 +4561,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-43-806",
-    "questionText": "Which of  the following prophets taught that Yahweh was merciful (JAMB 2010)",
+    "questionText": "Which of  the following prophets taught that Yahweh was merciful",
     "options": [
       "Isaiah",
       "Hosea",
@@ -4573,7 +4573,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-44-406",
-    "questionText": "‘...why then have you not kept watch over your lord the king?...” The question above by David was addressed to (JAMB 2013)",
+    "questionText": "‘...why then have you not kept watch over your lord the king?...” The question above by David was addressed to",
     "options": [
       "Amasa",
       "Joab",
@@ -4585,7 +4585,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-45-747",
-    "questionText": "The core of Saul's disobedience was that___________ (JAMB 2019)",
+    "questionText": "The core of Saul's disobedience was that___________",
     "options": [
       "He didn't perform the task of smiting the Amalekites to the letter",
       "He preserved the booty for himself",
@@ -4597,7 +4597,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-46-233",
-    "questionText": "Paul, in Romans, taught that Christians are Abraham’s descendants by (JAMB 2005)",
+    "questionText": "Paul, in Romans, taught that Christians are Abraham’s descendants by",
     "options": [
       "grace",
       "faith",
@@ -4609,7 +4609,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-47-813",
-    "questionText": "By the action of the good Samaritan, Christians are encouraged to  (JAMB 2010)",
+    "questionText": "By the action of the good Samaritan, Christians are encouraged to",
     "options": [
       "go out to the streets and look for someone to help",
       "always travel with enough money in case the need arises to help.",
@@ -4621,7 +4621,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-48-939",
-    "questionText": "Paul’s letter to Philemon was written to (JAMB 2013)",
+    "questionText": "Paul’s letter to Philemon was written to",
     "options": [
       "support Onesimus as he returned to his master.",
       "order him to take back his slave.",
@@ -4633,7 +4633,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139556-49-929",
-    "questionText": "Prior to the day of Pentecost, members that constituted the early Church were (JAMB 2013)",
+    "questionText": "Prior to the day of Pentecost, members that constituted the early Church were",
     "options": [
       "120",
       "1,200.00",
@@ -4645,7 +4645,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-50-341",
-    "questionText": "In Corinthians, Paul stated that by one Spirit we were (JAMB 2011)",
+    "questionText": "In Corinthians, Paul stated that by one Spirit we were",
     "options": [
       "free from bondage of sin",
       "united into one church",
@@ -4657,7 +4657,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-51-87",
-    "questionText": "Let his habitation be made desolate, and let there be no one to live in it’ who is being referred to here?   (JAMB 2009)",
+    "questionText": "Let his habitation be made desolate, and let there be no one to live in it’ who is being referred to here?",
     "options": [
       "King soul",
       "Judas Iscariot",
@@ -4669,7 +4669,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-52-93",
-    "questionText": "In the parable of the sower, the seeds on the good ground represent those who  (JAMB 2009)",
+    "questionText": "In the parable of the sower, the seeds on the good ground represent those who",
     "options": [
       "Accept and live by the world of God",
       "feed the poor",
@@ -4681,7 +4681,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-53-627",
-    "questionText": "According to Mark, after the transfiguration, Jesus charged His disciples to (JAMB 2010)",
+    "questionText": "According to Mark, after the transfiguration, Jesus charged His disciples to",
     "options": [
       "be prepared for persecution",
       "tell no one what they had seen",
@@ -4693,7 +4693,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-54-267",
-    "questionText": "Jesus: stilling of the storm was to (JAMB 2009)",
+    "questionText": "Jesus: stilling of the storm was to",
     "options": [
       "escape from danger",
       "impress His disciples",
@@ -4705,7 +4705,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-55-536",
-    "questionText": "When David’s son Absalom rebelled against him, David was forced to (JAMB 2015)",
+    "questionText": "When David’s son Absalom rebelled against him, David was forced to",
     "options": [
       "flee from Jerusalem",
       "abdicate the throne",
@@ -4717,7 +4717,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-56-1074",
-    "questionText": "Life in the Early Church was characterized by (JAMB 2015)",
+    "questionText": "Life in the Early Church was characterized by",
     "options": [
       "fasting and almsgiving",
       "prophetic activities",
@@ -4729,7 +4729,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-57-116",
-    "questionText": "To whom was the body of Jesus Christ given for burial after His death?  (JAMB 2010)",
+    "questionText": "To whom was the body of Jesus Christ given for burial after His death?",
     "options": [
       "Nicodemus the Pharisee",
       "Simon of Cyrene",
@@ -4741,7 +4741,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-58-1042",
-    "questionText": "Which of the following was not a river flowing from the Garden of Eden?  (JAMB 2015)",
+    "questionText": "Which of the following was not a river flowing from the Garden of Eden?",
     "options": [
       "Gibon",
       "Tigris",
@@ -4753,7 +4753,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-59-517",
-    "questionText": "An action that demonstrated Solomon’s wisdom was his (JAMB 2015)",
+    "questionText": "An action that demonstrated Solomon’s wisdom was his",
     "options": [
       "judgment of the prostitute’s child",
       "reliance on a medium",
@@ -4765,7 +4765,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-60-207",
-    "questionText": "The remote cause of the fall of Jerusalem was (JAMB 2005)",
+    "questionText": "The remote cause of the fall of Jerusalem was",
     "options": [
       "Josiah’s death at the battle of Megiddo",
       "the military might of Israel’s enemies",
@@ -4777,7 +4777,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-61-827",
-    "questionText": "The man who delivered judgement of the Jerusalem Council on the admission of Gentiles into the Church was  (JAMB 2010)",
+    "questionText": "The man who delivered judgement of the Jerusalem Council on the admission of Gentiles into the Church was",
     "options": [
       "Peter",
       "Paul.",
@@ -4789,7 +4789,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-62-699",
-    "questionText": "After Abner’s death, David showed that he had sincerely forgiven him by ____________. (JAMB 2019)",
+    "questionText": "After Abner’s death, David showed that he had sincerely forgiven him by ____________.",
     "options": [
       "ordering the arrest of Joab who slew Abner",
       "directing all Israel to bury Abner with honour",
@@ -4801,7 +4801,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-63-1090",
-    "questionText": "Peter admonished church leaders to take care of the flock of Christ in order to (JAMB 2015)",
+    "questionText": "Peter admonished church leaders to take care of the flock of Christ in order to",
     "options": [
       "restrain men from degrading the church",
       "obtain God’s crown of glory",
@@ -4813,7 +4813,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-64-152",
-    "questionText": "The prophet who prophesied that Paul would be arrested in Jerusalem is   (JAMB 2012)",
+    "questionText": "The prophet who prophesied that Paul would be arrested in Jerusalem is",
     "options": [
       "Isaiah",
       "Agabus",
@@ -4825,7 +4825,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-65-957",
-    "questionText": "Hosea’s daughter was called  (JAMB 2011)",
+    "questionText": "Hosea’s daughter was called",
     "options": [
       "Jezreel",
       "Not pitie",
@@ -4837,7 +4837,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-66-192",
-    "questionText": "The relationship between God and Israel was described by Hosea as that of a (JAMB 2013)",
+    "questionText": "The relationship between God and Israel was described by Hosea as that of a",
     "options": [
       "faithless wife and a loving husband",
       "a loving wife and a faithless husband",
@@ -4849,7 +4849,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-67-948",
-    "questionText": "God rejected Eli’s line of priesthood because  (JAMB 2011)",
+    "questionText": "God rejected Eli’s line of priesthood because",
     "options": [
       "his children were idolators.",
       "they did not obey the prophets.",
@@ -4861,7 +4861,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-68-881",
-    "questionText": "And we are witnesses to these  things, and so is the Holy Spirit whom God has given to those who obey him”\n “These things” in the disciples’ statement before the\n Sanhedrin refers to\n (JAMB 2012)",
+    "questionText": "And we are witnesses to these  things, and so is the Holy Spirit whom God has given to those who obey him”\n “These things” in the disciples’ statement before the\n Sanhedrin refers to\n",
     "options": [
       "the election of Matthias",
       "outpouring of the Holy Spirit",
@@ -4873,7 +4873,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-69-1065",
-    "questionText": "“O seer go, flee away to the land of Judah and eat bread” This means Amos was to  (JAMB 2015)",
+    "questionText": "“O seer go, flee away to the land of Judah and eat bread” This means Amos was to",
     "options": [
       "go and earn his living in Judah",
       "go and settle in Judah",
@@ -4885,7 +4885,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-70-443",
-    "questionText": "According to Thessalonians, the second coming of the Lord will be (JAMB 2013)",
+    "questionText": "According to Thessalonians, the second coming of the Lord will be",
     "options": [
       "with the blowing of a trumpet",
       "after scoffers have come",
@@ -4897,7 +4897,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-71-653",
-    "questionText": "The sons of Eli were regarded as worthless men for all the following reasons except (JAMB 2011)",
+    "questionText": "The sons of Eli were regarded as worthless men for all the following reasons except",
     "options": [
       "sleeping with the women at the tent of meeting",
       "failing to attend the places of worship regularly.",
@@ -4909,7 +4909,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-72-784",
-    "questionText": "One of the following is not a quality of good discipleship_________ (JAMB 2019)",
+    "questionText": "One of the following is not a quality of good discipleship_________",
     "options": [
       "self-denial",
       "total commitment",
@@ -4921,7 +4921,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-73-993",
-    "questionText": "“.. .who is the Lord, that I should heed his voice and let Israel go”? After this statement, Pharaoh  (JAMB 2011)",
+    "questionText": "“.. .who is the Lord, that I should heed his voice and let Israel go”? After this statement, Pharaoh",
     "options": [
       "engaged Israel into forced labour with task masters.",
       "ordered midwives to kill all males born to Israelites.",
@@ -4933,7 +4933,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-74-1075",
-    "questionText": "The appointment of deacons in the Early Church was meant to check (JAMB 2015)",
+    "questionText": "The appointment of deacons in the Early Church was meant to check",
     "options": [
       "discrimination and favouritism",
       "dishonesty and stealing",
@@ -4945,7 +4945,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-75-14",
-    "questionText": "The three sons of Noah Sdhem, Ham and  (JAMB 2006)",
+    "questionText": "The three sons of Noah Sdhem, Ham and",
     "options": [
       "Lot",
       "Hirah",
@@ -4957,7 +4957,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-76-126",
-    "questionText": "The last born of Gomer for Hoshea was ………….   (JAMB 2011)",
+    "questionText": "The last born of Gomer for Hoshea was ………….",
     "options": [
       "Jezreel",
       "Loammi",
@@ -4969,7 +4969,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-77-760",
-    "questionText": "The intent of the their temptation of Christ was to_____________ (JAMB 2019)",
+    "questionText": "The intent of the their temptation of Christ was to_____________",
     "options": [
       "Make him focus on wordly possessions",
       "Make him a political Messiah",
@@ -4981,7 +4981,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-78-150",
-    "questionText": "Which of the following is not a natural miracle:   (JAMB 2012)",
+    "questionText": "Which of the following is not a natural miracle:",
     "options": [
       "Stilling of the storm",
       "Walking on the sea",
@@ -4993,7 +4993,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-79-230",
-    "questionText": "Which of the following was not characteristic of the Early Church? (JAMB 2005)",
+    "questionText": "Which of the following was not characteristic of the Early Church?",
     "options": [
       "Constant change in leadership",
       "Devotion to the teachings of the apostles",
@@ -5005,7 +5005,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-80-409",
-    "questionText": "When Naboth refused to exchange his vineyard with King Ahab, Ahab reacted by (JAMB 2013)",
+    "questionText": "When Naboth refused to exchange his vineyard with King Ahab, Ahab reacted by",
     "options": [
       "taking to prayers and fasting",
       "going to his house vexed and sullen",
@@ -5017,7 +5017,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-81-323",
-    "questionText": "‘Follow me and leave the dead to bury their own dead’ By this statement, Jesus means that (JAMB 2011)",
+    "questionText": "‘Follow me and leave the dead to bury their own dead’ By this statement, Jesus means that",
     "options": [
       "disciples shall not attend burials",
       "there is no life after death",
@@ -5029,7 +5029,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-82-726",
-    "questionText": "Elijah fed on _____ after declaring drought upon the land of Israel (JAMB 2019)",
+    "questionText": "Elijah fed on _____ after declaring drought upon the land of Israel",
     "options": [
       "Bread, Fish and Oil",
       "Bread, Meat and Water",
@@ -5041,7 +5041,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-83-953",
-    "questionText": "God promised to punish the house of Ahab and not Ahab himself, because he (JAMB 2011)",
+    "questionText": "God promised to punish the house of Ahab and not Ahab himself, because he",
     "options": [
       "humbled himself.",
       "acted under pressure.",
@@ -5053,7 +5053,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-84-346",
-    "questionText": "Peter in his epistle, charged his fellow elders to (JAMB 2011)",
+    "questionText": "Peter in his epistle, charged his fellow elders to",
     "options": [
       "take care of their families",
       "be strong in their faith",
@@ -5065,7 +5065,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-85-610",
-    "questionText": "Obadiah who was m charge of Ahab’s house hold demonstrated reverence for the LORD by (JAMB 2010)",
+    "questionText": "Obadiah who was m charge of Ahab’s house hold demonstrated reverence for the LORD by",
     "options": [
       "giving Elijah the bull for the sacrifice on Mount Carmel.",
       "rebuking Ahab and Jezebel for their evil deeds",
@@ -5077,7 +5077,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-86-483",
-    "questionText": "Paul wished to retain Onesimus with him but did not do so because (JAMB 2009)",
+    "questionText": "Paul wished to retain Onesimus with him but did not do so because",
     "options": [
       "Onesimus was unwilling to stay with him.",
       "he was afraid of Philemon’s reaction.",
@@ -5089,7 +5089,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-87-278",
-    "questionText": "When God called Moses to deliver the Israelites, he resisted because he could not speak and he was told to (JAMB 2009)",
+    "questionText": "When God called Moses to deliver the Israelites, he resisted because he could not speak and he was told to",
     "options": [
       "perform some signs with his rod",
       "wait for a sign from God",
@@ -5101,7 +5101,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-88-922",
-    "questionText": "In his teaching as the True Vine, Jesus maintained that prayers could be answered if the disciples  (JAMB 2013)",
+    "questionText": "In his teaching as the True Vine, Jesus maintained that prayers could be answered if the disciples",
     "options": [
       "confess their sins.",
       "abide in him.",
@@ -5113,7 +5113,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-89-421",
-    "questionText": "‘‘... and many will rejoice at his birth; for he will be great before the Lord...” In the statement above, the angel made this pronouncement because of (JAMB 2013)",
+    "questionText": "‘‘... and many will rejoice at his birth; for he will be great before the Lord...” In the statement above, the angel made this pronouncement because of",
     "options": [
       "Elizabeth’s disbelief because of her bareness",
       "Mary’s holy nature",
@@ -5125,7 +5125,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-90-369",
-    "questionText": "According to Matthew, the disciples were sent out with the charge to go nowhere among the Gentiles nor enter any town of the (JAMB 2008)",
+    "questionText": "According to Matthew, the disciples were sent out with the charge to go nowhere among the Gentiles nor enter any town of the",
     "options": [
       "Jews",
       "Samaritans",
@@ -5137,7 +5137,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-91-954",
-    "questionText": "The worship of “Host of Heaven” in Judah during Manasseh’s reign was an indication that (JAMB 2011)",
+    "questionText": "The worship of “Host of Heaven” in Judah during Manasseh’s reign was an indication that",
     "options": [
       "Yahweh’s worship had decline",
       "Judah’s king was weak",
@@ -5149,7 +5149,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-92-333",
-    "questionText": "In the early Church, believer devoted themselves to the (JAMB 2011)",
+    "questionText": "In the early Church, believer devoted themselves to the",
     "options": [
       "daily distribution of food",
       "apostles’ teaching and fellowship",
@@ -5161,7 +5161,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-93-869",
-    "questionText": "“For he was astonished, and all that were with him, at the catch of fish which they had taken”The people being referred to in the text were (JAMB 2012)",
+    "questionText": "“For he was astonished, and all that were with him, at the catch of fish which they had taken”The people being referred to in the text were",
     "options": [
       "Matthew, John and Andrew",
       "Matthias, John and Peter",
@@ -5173,7 +5173,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-94-11",
-    "questionText": "The death of Adonibezek in Bezek was a typical proof of  (JAMB 2006)",
+    "questionText": "The death of Adonibezek in Bezek was a typical proof of",
     "options": [
       "cowardice",
       "nemesis",
@@ -5185,7 +5185,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-95-348",
-    "questionText": "God blessed the seventh day and hallowed it because it marked the day that He (JAMB 2008)",
+    "questionText": "God blessed the seventh day and hallowed it because it marked the day that He",
     "options": [
       "completed His work of creation",
       "handed over the earth to Adam",
@@ -5197,7 +5197,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-96-636",
-    "questionText": "According to Galatians, the Law was added be¬cause of (JAMB 2010)",
+    "questionText": "According to Galatians, the Law was added be¬cause of",
     "options": [
       "righteousness",
       "transgressions",
@@ -5209,7 +5209,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-97-498",
-    "questionText": "The ruler of the synagogue whose child Jesus raised to life was (JAMB 2015)",
+    "questionText": "The ruler of the synagogue whose child Jesus raised to life was",
     "options": [
       "Zebedee",
       "a widow",
@@ -5221,7 +5221,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-98-5",
-    "questionText": "The agony of Jesus in the Garden of Gethsemane is a  (JAMB 2006)",
+    "questionText": "The agony of Jesus in the Garden of Gethsemane is a",
     "options": [
       "sign of abandonment",
       "manifestation of human weakness",
@@ -5233,7 +5233,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-99-1089",
-    "questionText": "Peter believed that God appreciates and gives credit to servants who (JAMB 2015)",
+    "questionText": "Peter believed that God appreciates and gives credit to servants who",
     "options": [
       "pray without ceasing",
       "keep their tongues shut",
@@ -5245,7 +5245,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-100-237",
-    "questionText": "Paul taught that by our common faith in Jesus and baptism, the difference between Jews and Gentiles has become (JAMB 2005)",
+    "questionText": "Paul taught that by our common faith in Jesus and baptism, the difference between Jews and Gentiles has become",
     "options": [
       "permanent",
       "temporal",
@@ -5257,7 +5257,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-101-139",
-    "questionText": "The book of _______ mostly emphasized social justice  (JAMB 2011)",
+    "questionText": "The book of _______ mostly emphasized social justice",
     "options": [
       "Amos",
       "Ezekiel",
@@ -5269,7 +5269,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-102-901",
-    "questionText": "When Elijah’s sacrifice was consumed by fire at mount carmel the people reacted by saying (JAMB 2013)",
+    "questionText": "When Elijah’s sacrifice was consumed by fire at mount carmel the people reacted by saying",
     "options": [
       "“Give God the glory",
       "“The Lord is God”.",
@@ -5281,7 +5281,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-103-598",
-    "questionText": "In God’s covenant with Israel, the central theme was (JAMB 2010)",
+    "questionText": "In God’s covenant with Israel, the central theme was",
     "options": [
       "restoration",
       "circumcision",
@@ -5293,7 +5293,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-104-508",
-    "questionText": "“ ..... I will surely tear the kingdom from you and will give it to your servant .....” An unwise decision of Solomon that resulted in God making the pronouncement above was his (JAMB 2015)",
+    "questionText": "“ ..... I will surely tear the kingdom from you and will give it to your servant .....” An unwise decision of Solomon that resulted in God making the pronouncement above was his",
     "options": [
       "dependence on other nations for supplies",
       "policy of forced labour",
@@ -5305,7 +5305,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-105-420",
-    "questionText": "According to Jeremiah, the people of Israel were in exile because of their (JAMB 2013)",
+    "questionText": "According to Jeremiah, the people of Israel were in exile because of their",
     "options": [
       "impatience and immorality",
       "rebellion against Nebuchadnezzar",
@@ -5317,7 +5317,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-106-329",
-    "questionText": "Jesus drove the money changers and sellers of doves out of the Temple because (JAMB 2011)",
+    "questionText": "Jesus drove the money changers and sellers of doves out of the Temple because",
     "options": [
       "the people defiled it with dubious business",
       "there was no need for animal sacrifice anymore",
@@ -5329,7 +5329,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-107-197",
-    "questionText": "At the time of creation, the river that flowed out of Eden to water the garden divided into (JAMB 2005)",
+    "questionText": "At the time of creation, the river that flowed out of Eden to water the garden divided into",
     "options": [
       "Pishon, Hauijah, Gihon and Tigris",
       "Tigris, Cush, Assune and Hauijah",
@@ -5341,7 +5341,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-108-422",
-    "questionText": "One quality of a good disciple that was exhibited by the first followers of Jesus was (JAMB 2013)",
+    "questionText": "One quality of a good disciple that was exhibited by the first followers of Jesus was",
     "options": [
       "faith",
       "piousness",
@@ -5353,7 +5353,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-109-418",
-    "questionText": "How did God help Jeremiah overcome his inability to speak as prophet? (JAMB 2013)",
+    "questionText": "How did God help Jeremiah overcome his inability to speak as prophet?",
     "options": [
       "He put out His hands and touched his mouth.",
       "He sent the Seraphim to speak to him.",
@@ -5365,7 +5365,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-110-276",
-    "questionText": "“My spirit shall not abide in man forever, for he is flesh...” When God made the statement above, He concluded that man’s days shall be (JAMB 2009)",
+    "questionText": "“My spirit shall not abide in man forever, for he is flesh...” When God made the statement above, He concluded that man’s days shall be",
     "options": [
       "one hundred years",
       "one hundred and fifty years",
@@ -5377,7 +5377,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-111-52",
-    "questionText": "Explain why Jesus was identified as the lamb by John (Jn:1:29 )  (JAMB 2008)",
+    "questionText": "Explain why Jesus was identified as the lamb by John (Jn:1:29 )",
     "options": [
       "lamb of God is a figurative language which describes Christ sacrificial mission in the word",
       "he is being compared to the Passover Lamb that would atone for the sins of all world",
@@ -5389,7 +5389,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-112-99",
-    "questionText": "Why did David spare the life of Saul at Ziph?  (JAMB 2010)",
+    "questionText": "Why did David spare the life of Saul at Ziph?",
     "options": [
       "he recognized Gods anointing on Saul",
       "Saul was also an Israelite",
@@ -5401,7 +5401,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-113-512",
-    "questionText": "Why did Pilate send Jesus to Herod during the trial? (JAMB 2015)",
+    "questionText": "Why did Pilate send Jesus to Herod during the trial?",
     "options": [
       "Jesus, as a Galilean was under Herod’s jurisdiction",
       "Pilate had no power to pass the death sentence",
@@ -5413,7 +5413,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-114-1001",
-    "questionText": "“...Behold, to obey is better than sacrifice and to hearken than the fat of rams”. This statement was Samuel’s reaction to  (JAMB 2011)",
+    "questionText": "“...Behold, to obey is better than sacrifice and to hearken than the fat of rams”. This statement was Samuel’s reaction to",
     "options": [
       "David’s defence of his sin",
       "Saul’s defence of disobedience.",
@@ -5425,7 +5425,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-115-1086",
-    "questionText": "As they were sharing Christ’s sufferings, Peter advised Christians to (JAMB 2015)",
+    "questionText": "As they were sharing Christ’s sufferings, Peter advised Christians to",
     "options": [
       "be prayerful",
       "rejoice",
@@ -5437,7 +5437,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-116-755",
-    "questionText": "St James teaching on impartiality centers on_________ (JAMB 2019)",
+    "questionText": "St James teaching on impartiality centers on_________",
     "options": [
       "A Giving the place of the rich to the poor and in the church",
       "Loving our neighbours as ourselves in all situation",
@@ -5449,7 +5449,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-117-688",
-    "questionText": "According to Paul in Corinthians the gospel message could only be lifeless when Christians (JAMB 2011)",
+    "questionText": "According to Paul in Corinthians the gospel message could only be lifeless when Christians",
     "options": [
       "deny the resurrection message.",
       "persecute one another.",
@@ -5461,7 +5461,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-118-810",
-    "questionText": "Isaiah said that when Israel spread forth their hands, God  (JAMB 2010)",
+    "questionText": "Isaiah said that when Israel spread forth their hands, God",
     "options": [
       "making many prayers",
       "offering vain sacrifices",
@@ -5473,7 +5473,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-119-748",
-    "questionText": "The Lord protected the Israelites with all but one of the following when the Egyptians chased them (JAMB 2019)",
+    "questionText": "The Lord protected the Israelites with all but one of the following when the Egyptians chased them",
     "options": [
       "Pillar of cloud",
       "Pillar of darkness",
@@ -5485,7 +5485,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-120-979",
-    "questionText": "\n What yoke did the Council of Jerusalem say had been difficult for the Pharisees and their fathers to bear? The question of\n (JAMB 2011)",
+    "questionText": "\n What yoke did the Council of Jerusalem say had been difficult for the Pharisees and their fathers to bear? The question of\n",
     "options": [
       "discipleship.",
       "circumcision",
@@ -5497,7 +5497,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-121-921",
-    "questionText": "According to Jesus, the following are true about the Good Shepherd except that he  (JAMB 2013)",
+    "questionText": "According to Jesus, the following are true about the Good Shepherd except that he",
     "options": [
       "lays down his life for the sheep.",
       "has no sheep out of die fol",
@@ -5509,7 +5509,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-122-1011",
-    "questionText": "During the rebuilding of the temple, Zerubbabel rejected the offer of help from the     (JAMB 2011)",
+    "questionText": "During the rebuilding of the temple, Zerubbabel rejected the offer of help from the",
     "options": [
       "inhabitants of Ammon.",
       "people of Samari",
@@ -5521,7 +5521,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-123-1020",
-    "questionText": "On the day of Ascension, Jesus promised his disciples    (JAMB 2011)",
+    "questionText": "On the day of Ascension, Jesus promised his disciples",
     "options": [
       "peace in the kingdom of Go",
       "amazing grace.",
@@ -5533,7 +5533,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-124-912",
-    "questionText": "What virtue did the Centurion exhibit in the healing of his servant? (JAMB 2013)",
+    "questionText": "What virtue did the Centurion exhibit in the healing of his servant?",
     "options": [
       "Forgiveness",
       "Love",
@@ -5545,7 +5545,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-125-325",
-    "questionText": "The Jews sought to kill Jesus after He healed the man at the pool of Bethzatha because they thought that He (JAMB 2011)",
+    "questionText": "The Jews sought to kill Jesus after He healed the man at the pool of Bethzatha because they thought that He",
     "options": [
       "claimed to have authority to forgive sins",
       "made Himself equal with God",
@@ -5557,7 +5557,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-126-826",
-    "questionText": "Before Barnabas and Saul were sent on missionary journey, the elders, laid hands on them. The laying on of  hands signifies   (JAMB 2010)",
+    "questionText": "Before Barnabas and Saul were sent on missionary journey, the elders, laid hands on them. The laying on of  hands signifies",
     "options": [
       "confirmation",
       "selection",
@@ -5569,7 +5569,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-127-962",
-    "questionText": "All the following took place at the transfiguration of Jesus except that (JAMB 2011)",
+    "questionText": "All the following took place at the transfiguration of Jesus except that",
     "options": [
       "a voice was heard from heaven.",
       "a dove came down upon Jesus",
@@ -5581,7 +5581,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-128-794",
-    "questionText": "When Joseph was sent to his brothers, he met them pasturing at   (JAMB 2010)",
+    "questionText": "When Joseph was sent to his brothers, he met them pasturing at",
     "options": [
       "Hebron.",
       "Bethel.",
@@ -5593,7 +5593,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-129-201",
-    "questionText": "The name Ichabod means (JAMB 2005)",
+    "questionText": "The name Ichabod means",
     "options": [
       "Yahweh is God",
       "beloved of Yahweh",
@@ -5605,7 +5605,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-130-347",
-    "questionText": "The land, the sea and vegetation were created on the (JAMB 2008)",
+    "questionText": "The land, the sea and vegetation were created on the",
     "options": [
       "first day",
       "second day",
@@ -5617,7 +5617,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-131-861",
-    "questionText": "The Judean King who revolted against Babylon after serving her for three years was (JAMB 2012)",
+    "questionText": "The Judean King who revolted against Babylon after serving her for three years was",
     "options": [
       "Jehoahaz",
       "Jehoiakim",
@@ -5629,7 +5629,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-132-904",
-    "questionText": "According to Daniel the command of Nebuchadnezzar to worship the golden image amounted to  (JAMB 2013)",
+    "questionText": "According to Daniel the command of Nebuchadnezzar to worship the golden image amounted to",
     "options": [
       "profanity",
       "idolatry.",
@@ -5641,7 +5641,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-133-945",
-    "questionText": "The twelve s the type of the fertilifortification of the availability of grapes in the land.citiesty of the landpeople in the lanpies that were sent by Moses to the promised land were to confirm all the following except  (JAMB 2011)",
+    "questionText": "The twelve s the type of the fertilifortification of the availability of grapes in the land.citiesty of the landpeople in the lanpies that were sent by Moses to the promised land were to confirm all the following except",
     "options": [
       "None of the above",
       "All of the above",
@@ -5652,7 +5652,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-134-454",
-    "questionText": "Eli, the priest in Shiloh, was condemned because he (JAMB 2009)",
+    "questionText": "Eli, the priest in Shiloh, was condemned because he",
     "options": [
       "allowed his children to deprive God of His share of sacrifice.",
       "allowed the Ark of God to be taken to the battle field",
@@ -5664,7 +5664,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-135-971",
-    "questionText": "“But I say to you, do not resist one who is evil.” This was part of Jesus’ teaching on  (JAMB 2011)",
+    "questionText": "“But I say to you, do not resist one who is evil.” This was part of Jesus’ teaching on",
     "options": [
       "humility.",
       "prayer",
@@ -5676,7 +5676,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-136-790",
-    "questionText": "Which of the following was Pilate's question to Jesus at his trial? (JAMB 2019)",
+    "questionText": "Which of the following was Pilate's question to Jesus at his trial?",
     "options": [
       "Are you Jesus, the prophet from Galilee?",
       "What evil have you done?",
@@ -5688,7 +5688,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-137-283",
-    "questionText": "When King Nebuchadnezzar besieged Judah, he took away all classes of people but spared the (JAMB 2009)",
+    "questionText": "When King Nebuchadnezzar besieged Judah, he took away all classes of people but spared the",
     "options": [
       "poorest people of the land",
       "palace guards",
@@ -5700,7 +5700,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-138-516",
-    "questionText": "Paul admonished the Romans to live a new life in Christ by yielding themselves to God as men who (JAMB 2015)",
+    "questionText": "Paul admonished the Romans to live a new life in Christ by yielding themselves to God as men who",
     "options": [
       "have been brought from death to life",
       "will meet Christ in God’s Kingdom",
@@ -5712,7 +5712,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-139-960",
-    "questionText": "The incident in the fiery furnace concerning Shadrach, Meshach and Abednego convinced Nebuchadnezzar that (JAMB 2011)",
+    "questionText": "The incident in the fiery furnace concerning Shadrach, Meshach and Abednego convinced Nebuchadnezzar that",
     "options": [
       "they had many gods to save them.",
       "the Jews were very powerful people.",
@@ -5724,7 +5724,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-140-1082",
-    "questionText": "Partially, according to James, is practised in the church by  (JAMB 2015)",
+    "questionText": "Partially, according to James, is practised in the church by",
     "options": [
       "neglecting the poor",
       "misusing church funds",
@@ -5736,7 +5736,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-141-972",
-    "questionText": "The prayer of Jesus at Gethsemane shows that  (JAMB 2011)",
+    "questionText": "The prayer of Jesus at Gethsemane shows that",
     "options": [
       "He was in severe agony",
       "He wanted to escape death",
@@ -5748,7 +5748,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-142-970",
-    "questionText": "Jesus asked the name of the Gerasene Demonic in order to (JAMB 2011)",
+    "questionText": "Jesus asked the name of the Gerasene Demonic in order to",
     "options": [
       "know the character of the man.",
       "drive out the evil spirit.",
@@ -5760,7 +5760,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-143-1029",
-    "questionText": "Which of the following is not true about spiritual gifts as taught by Paul?  (JAMB 2011)",
+    "questionText": "Which of the following is not true about spiritual gifts as taught by Paul?",
     "options": [
       "Gifts should be used with all modesty",
       "No gift can be independent of others",
@@ -5772,7 +5772,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-144-560",
-    "questionText": "Who was the prophet responsible for the re-building of the Temple during the exile? (JAMB 2010)",
+    "questionText": "Who was the prophet responsible for the re-building of the Temple during the exile?",
     "options": [
       "Ezra",
       "Isaiah",
@@ -5784,7 +5784,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-145-292",
-    "questionText": "In addition to the declaration of freedom to the exiles in Babylon, King Cyrus ordered for (JAMB 2009)",
+    "questionText": "In addition to the declaration of freedom to the exiles in Babylon, King Cyrus ordered for",
     "options": [
       "free will offering for the house of God in Jerusalem",
       "the release of Jewish, slaves in the empire",
@@ -5796,7 +5796,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-146-138",
-    "questionText": "The phrase ‘you cows of Bashan’ referred to  (JAMB 2011)",
+    "questionText": "The phrase ‘you cows of Bashan’ referred to",
     "options": [
       "Cows in the land of Bashan",
       "The fat and greedy men of Israel who oppress the priest",
@@ -5808,7 +5808,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-147-97",
-    "questionText": "A would –be apostle who puts his hand to the plaughjsa and looks back lacks  (JAMB 2009)",
+    "questionText": "A would –be apostle who puts his hand to the plaughjsa and looks back lacks",
     "options": [
       "faith",
       "Kindness",
@@ -5820,7 +5820,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-148-250",
-    "questionText": "According to Thessalonians, the day of the Lord will not come unless the (JAMB 2009)",
+    "questionText": "According to Thessalonians, the day of the Lord will not come unless the",
     "options": [
       "living die first",
       "scoffers come first",
@@ -5832,7 +5832,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-149-878",
-    "questionText": "The resurrection stroy encourage Christians to believe that the Lord they adore is (JAMB 2012)",
+    "questionText": "The resurrection stroy encourage Christians to believe that the Lord they adore is",
     "options": [
       "still alive today",
       "a miracle working God",
@@ -5844,7 +5844,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-150-263",
-    "questionText": "“Do you understand what you are reading?” Philip asked the Ethiopian eunuch the question above when he found him reading the book of (JAMB 2009)",
+    "questionText": "“Do you understand what you are reading?” Philip asked the Ethiopian eunuch the question above when he found him reading the book of",
     "options": [
       "Hosea",
       "Ezekiel",
@@ -5856,7 +5856,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-151-867",
-    "questionText": " “If you are the son of God, throw yourself down from here”This temptation implies that Jesus should (JAMB 2012)",
+    "questionText": " “If you are the son of God, throw yourself down from here”This temptation implies that Jesus should",
     "options": [
       "win followers through the use of spectacular miracles",
       "win coverts through the supply of basic needs",
@@ -5868,7 +5868,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-152-1062",
-    "questionText": "Which of the following distinctly demonstrates the episode of Shadrack, Meshack and Abednego  (JAMB 2015)",
+    "questionText": "Which of the following distinctly demonstrates the episode of Shadrack, Meshack and Abednego",
     "options": [
       "Complete trust in God",
       "God’s ability to save his servants",
@@ -5880,7 +5880,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-153-447",
-    "questionText": "At Shechem, God appeared to Abram and told him that (JAMB 2009)",
+    "questionText": "At Shechem, God appeared to Abram and told him that",
     "options": [
       "he should continue on his journey southward.",
       "he should leave his country and Kindred.",
@@ -5892,7 +5892,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-154-28",
-    "questionText": "The lesson which Jesus teaches in the parable of the Good Samaritan is that your neighbor is (JAMB 2007)",
+    "questionText": "The lesson which Jesus teaches in the parable of the Good Samaritan is that your neighbor is",
     "options": [
       "only your friend",
       "your next of kin",
@@ -5904,7 +5904,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-155-310",
-    "questionText": "The man of God whose word was ignored by Kings Ahab and Jehoshaphat was (JAMB 2011)",
+    "questionText": "The man of God whose word was ignored by Kings Ahab and Jehoshaphat was",
     "options": [
       "Elijah",
       "Zedekiah",
@@ -5916,7 +5916,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-156-521",
-    "questionText": "David was successful as a leader in Israel because (JAMB 2015)",
+    "questionText": "David was successful as a leader in Israel because",
     "options": [
       "he submitted to God’s guidance",
       "of his training as a solider",
@@ -5928,7 +5928,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-157-671",
-    "questionText": "The incidents that took place following Jesus’ death on the cross did not include the (JAMB 2011)",
+    "questionText": "The incidents that took place following Jesus’ death on the cross did not include the",
     "options": [
       "tearing into two of the temple’s veil.",
       "quaking of the earth that broke the rocks.",
@@ -5940,7 +5940,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-158-463",
-    "questionText": "When Isaiah saw the Lord in His holiness and glory, he exclaimed (JAMB 2009)",
+    "questionText": "When Isaiah saw the Lord in His holiness and glory, he exclaimed",
     "options": [
       "“Blessed is me for 1 am truly holy”.",
       "“Woe is me! For I am lost”",
@@ -5952,7 +5952,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-159-523",
-    "questionText": "“How is it that you have agreed together to tempt the spirit of the Lord ....” The statement above was made in reference to the greed of (JAMB 2015)",
+    "questionText": "“How is it that you have agreed together to tempt the spirit of the Lord ....” The statement above was made in reference to the greed of",
     "options": [
       "Gehazi and Naaman",
       "Ahab and Jezebel",
@@ -5964,7 +5964,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-160-231",
-    "questionText": "“Father forgive them for they know not what they do” was the prayer said by (JAMB 2005)",
+    "questionText": "“Father forgive them for they know not what they do” was the prayer said by",
     "options": [
       "Philip",
       "Peter",
@@ -5976,7 +5976,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-161-450",
-    "questionText": "The episode of David and Bathsheba, Uriah’s wife was in \tviolation of God’s (JAMB 2009)",
+    "questionText": "The episode of David and Bathsheba, Uriah’s wife was in \tviolation of God’s",
     "options": [
       "sixth commandment.",
       "seventh commandment,",
@@ -5988,7 +5988,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-162-789",
-    "questionText": "St. Paul on 'Civic Responsibility' advised Christians not only to be law-abiding but also_________ (JAMB 2019)",
+    "questionText": "St. Paul on 'Civic Responsibility' advised Christians not only to be law-abiding but also_________",
     "options": [
       "to provide moral advice to those in authority",
       "do what is expected of them",
@@ -6000,7 +6000,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-163-1061",
-    "questionText": "Nebuchadnezzar allowed the Chaldeans, Syrians and Moabites to attack Judah so that Judah might  (JAMB 2015)",
+    "questionText": "Nebuchadnezzar allowed the Chaldeans, Syrians and Moabites to attack Judah so that Judah might",
     "options": [
       "learn a lesson",
       "be destroyed",
@@ -6012,7 +6012,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-164-788",
-    "questionText": "To St. James, a doer of the word of God must learn to also__________ (JAMB 2019)",
+    "questionText": "To St. James, a doer of the word of God must learn to also__________",
     "options": [
       "persevere in times of tribulation",
       "combine his faith with work",
@@ -6024,7 +6024,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-165-424",
-    "questionText": "The disciples of Jesus could not heal the boy with epilepsy because they (JAMB 2013)",
+    "questionText": "The disciples of Jesus could not heal the boy with epilepsy because they",
     "options": [
       "did not fast",
       "had little faith",
@@ -6036,7 +6036,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-166-850",
-    "questionText": "“Give meat for the priest to roast for he will not accept boiled meat from you, but raw”This request was wrong because in a peace offering (JAMB 2012)",
+    "questionText": "“Give meat for the priest to roast for he will not accept boiled meat from you, but raw”This request was wrong because in a peace offering",
     "options": [
       "meat with blood was unacceptable",
       "juicy meat went to the worshippers",
@@ -6048,7 +6048,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-167-780",
-    "questionText": "The illustration of Satan, the adversary who prowls around seeking whom to devour, is particular to__________- (JAMB 2019)",
+    "questionText": "The illustration of Satan, the adversary who prowls around seeking whom to devour, is particular to__________-",
     "options": [
       "St. Peter's teaching on humility",
       "St. Paul's teaching on the second coming of Christ",
@@ -6060,7 +6060,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-168-538",
-    "questionText": "In His sermon on the Mount, Jesus discouraged His listeners from laying up treasures on earth because (JAMB 2015)",
+    "questionText": "In His sermon on the Mount, Jesus discouraged His listeners from laying up treasures on earth because",
     "options": [
       "it would create enmity",
       "they would not be respected",
@@ -6072,7 +6072,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-169-27",
-    "questionText": "In Peter’s teaching,” God…………..the proud and gives grace to the humble (JAMB 2007)",
+    "questionText": "In Peter’s teaching,” God…………..the proud and gives grace to the humble",
     "options": [
       "receives",
       "relegates",
@@ -6084,7 +6084,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-170-717",
-    "questionText": "God instructed Saul to utterly destroy Amalek because___________ (JAMB 2019)",
+    "questionText": "God instructed Saul to utterly destroy Amalek because___________",
     "options": [
       "He abhors Idolatory and all forms of Unrighteousness",
       "Its people opposed the Israelites on the way after departing Egypt",
@@ -6096,7 +6096,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-171-19",
-    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) What was his wish?  (JAMB 2006)",
+    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) What was his wish?",
     "options": [
       "he wanted to buried at Canaan in the cave at Ephron",
       "he wanted to be buried at Jericho",
@@ -6108,7 +6108,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-172-141",
-    "questionText": "John the Baptist describes Jesus to his two disciples as the  (JAMB 2011)",
+    "questionText": "John the Baptist describes Jesus to his two disciples as the",
     "options": [
       "beloved Son of God",
       "great one of Israel",
@@ -6120,7 +6120,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-173-383",
-    "questionText": "Paul considered himself unfit to be called an apostle because he (JAMB 2008)",
+    "questionText": "Paul considered himself unfit to be called an apostle because he",
     "options": [
       "did not see Jesus",
       "persecuted the church",
@@ -6132,7 +6132,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-174-395",
-    "questionText": "Peter enjoined humility because the humble shall (JAMB 2008)",
+    "questionText": "Peter enjoined humility because the humble shall",
     "options": [
       "not be tempted",
       "be blessed",
@@ -6144,7 +6144,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-175-379",
-    "questionText": "The miracles of Jesus recorded in John’s gospel are called (JAMB 2008)",
+    "questionText": "The miracles of Jesus recorded in John’s gospel are called",
     "options": [
       "works",
       "signs",
@@ -6156,7 +6156,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-176-426",
-    "questionText": "The promise to those who are persecuted for righteousness sake is that they will (JAMB 2013)",
+    "questionText": "The promise to those who are persecuted for righteousness sake is that they will",
     "options": [
       "inherit the earth",
       "inherit the kingdom of heaven",
@@ -6168,7 +6168,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-177-69",
-    "questionText": "One of the following said: “the lion has roared who will not fear?  (JAMB 2008)",
+    "questionText": "One of the following said: “the lion has roared who will not fear?",
     "options": [
       "Nathan",
       "Jeremiah",
@@ -6180,7 +6180,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-178-107",
-    "questionText": "When was this statement made? ‘I repent that I Made Saul king ' (JAMB 2010)",
+    "questionText": "When was this statement made? ‘I repent that I Made Saul king '",
     "options": [
       "at the anointing of Saul",
       "When Saul failed to ray",
@@ -6192,7 +6192,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-179-373",
-    "questionText": "The first five disciples that Jesus called as recorded in the Synoptic gospels were (JAMB 2008)",
+    "questionText": "The first five disciples that Jesus called as recorded in the Synoptic gospels were",
     "options": [
       "Peter, Andrew, James, John and Levi",
       "Peter, Andrew, James, John and Thomas",
@@ -6204,7 +6204,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-180-351",
-    "questionText": "God led the Israelites in the wilderness during the day in form of (JAMB 2008)",
+    "questionText": "God led the Israelites in the wilderness during the day in form of",
     "options": [
       "fire",
       "light",
@@ -6216,7 +6216,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-181-1055",
-    "questionText": "The main lesson to be learnt from Elijah’s victory at Mount   Carmel is (JAMB 2015)",
+    "questionText": "The main lesson to be learnt from Elijah’s victory at Mount   Carmel is",
     "options": [
       "God empowers his prophets",
       "the failure of false prophets",
@@ -6228,7 +6228,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-182-368",
-    "questionText": "Which of the following did not happen immediately after Jesus had yielded up his spirit on the cross? (JAMB 2008)",
+    "questionText": "Which of the following did not happen immediately after Jesus had yielded up his spirit on the cross?",
     "options": [
       "The curtain of the temple was torn into two",
       "Joseph of Arimathea removed his body for burial",
@@ -6240,7 +6240,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-183-464",
-    "questionText": "Jeremiah said the people of Judah were in a state of mourning because, (JAMB 2009)",
+    "questionText": "Jeremiah said the people of Judah were in a state of mourning because,",
     "options": [
       "they sinned against God.",
       "their vessels were empty",
@@ -6252,7 +6252,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-184-17",
-    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) Who was the speaker?  (JAMB 2006)",
+    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) Who was the speaker?",
     "options": [
       "Joseph",
       "Jacob",
@@ -6264,7 +6264,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-185-2",
-    "questionText": "According to John’s Gospel, Lazarus was from:  (JAMB 2006)",
+    "questionText": "According to John’s Gospel, Lazarus was from:",
     "options": [
       "Jerusalem",
       "Teberias",
@@ -6276,7 +6276,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-186-427",
-    "questionText": "According to Peter during the great confession, people believed that Jesus was (JAMB 2013)",
+    "questionText": "According to Peter during the great confession, people believed that Jesus was",
     "options": [
       "the Messiah",
       "a priest",
@@ -6288,7 +6288,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-187-697",
-    "questionText": "“The sword devours now one and now another.” This statement was made by David in reaction to the death of __________. (JAMB 2019)",
+    "questionText": "“The sword devours now one and now another.” This statement was made by David in reaction to the death of __________.",
     "options": [
       "Saul",
       "Joab",
@@ -6300,7 +6300,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-188-859",
-    "questionText": "King Nebuchadnezzar mounted his golden image on/at (JAMB 2012)",
+    "questionText": "King Nebuchadnezzar mounted his golden image on/at",
     "options": [
       "the plain of Dura",
       "the plain of Jericho",
@@ -6312,7 +6312,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-189-591",
-    "questionText": "In Philippians, Paul taught that Jesus ‘humility and death on the cross earned Him (JAMB 2010)",
+    "questionText": "In Philippians, Paul taught that Jesus ‘humility and death on the cross earned Him",
     "options": [
       "salvation for Israel.",
       "adoption as son of God.",
@@ -6324,7 +6324,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-190-965",
-    "questionText": "“... you brood of vipers!  who warned you to flee from the wrath to come?” The “wrath to come” here refers to the  (JAMB 2011)",
+    "questionText": "“... you brood of vipers!  who warned you to flee from the wrath to come?” The “wrath to come” here refers to the",
     "options": [
       "day of confusion.",
       "judgement day.",
@@ -6336,7 +6336,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-191-474",
-    "questionText": "“Foxes have holes and birds of the air have nets; but the son of man has nowhere to lay His head”. By this statement, Jesus meant that His disciples (JAMB 2009)",
+    "questionText": "“Foxes have holes and birds of the air have nets; but the son of man has nowhere to lay His head”. By this statement, Jesus meant that His disciples",
     "options": [
       "would not grow rich.",
       "would not enjoy good houses.",
@@ -6348,7 +6348,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-192-215",
-    "questionText": "“How is it that you, a Jew, ask a drink of me, a woman of \tSamaria?” The speaker was surprised because (JAMB 2005)",
+    "questionText": "“How is it that you, a Jew, ask a drink of me, a woman of \tSamaria?” The speaker was surprised because",
     "options": [
       "Jesus was God and not human",
       "the Jews could only buy water from Samaria",
@@ -6360,7 +6360,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-193-462",
-    "questionText": "Complete this statement “Holy, Holy, Holy is the Lord of Hosts, (JAMB 2009)",
+    "questionText": "Complete this statement “Holy, Holy, Holy is the Lord of Hosts,",
     "options": [
       "the Seraphim’s bow to His glory”.",
       "the whole earth will sing His glory”.",
@@ -6372,7 +6372,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-194-4",
-    "questionText": "The thief as described by Jesus comes to  (JAMB 2006)",
+    "questionText": "The thief as described by Jesus comes to",
     "options": [
       "destroy, kill and steal",
       "destroy, steal and kill",
@@ -6384,7 +6384,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139557-195-578",
-    "questionText": "When the apostles in Jerusalem heard that Samaria had received the gospel, they sent to them (JAMB 2010)",
+    "questionText": "When the apostles in Jerusalem heard that Samaria had received the gospel, they sent to them",
     "options": [
       "Mark and Barnabas.",
       "Peter and John.",
@@ -6396,7 +6396,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-196-365",
-    "questionText": "Jesus came to John at River Jordan to (JAMB 2008)",
+    "questionText": "Jesus came to John at River Jordan to",
     "options": [
       "proclaim himself as Messiah",
       "disclose himself to John",
@@ -6408,7 +6408,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-197-629",
-    "questionText": "‘Truly, I say to you, today you will be with me in paradise.....’ Jesus made the statement above to one of the \t\tcriminals because he (Luke 23:42-43) (JAMB 2010)",
+    "questionText": "‘Truly, I say to you, today you will be with me in paradise.....’ Jesus made the statement above to one of the \t\tcriminals because he (Luke 23:42-43)",
     "options": [
       "respected Him",
       "praised Him",
@@ -6420,7 +6420,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-198-177",
-    "questionText": "“Talitha cumi” means (JAMB 2013)",
+    "questionText": "“Talitha cumi” means",
     "options": [
       "Dorcas, Arise",
       "Little girl, I say to you, arise",
@@ -6432,7 +6432,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-199-900",
-    "questionText": "The action of Rehoboam that led to the division of the kingdom was  (JAMB 2013)",
+    "questionText": "The action of Rehoboam that led to the division of the kingdom was",
     "options": [
       "following his father’s tyranny",
       "leading Isreal to war.",
@@ -6444,7 +6444,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-200-1002",
-    "questionText": "On Mount Gilboa, king Saul decided to commit suicide in order to avoid   (JAMB 2011)",
+    "questionText": "On Mount Gilboa, king Saul decided to commit suicide in order to avoid",
     "options": [
       "ridicule from the Philistines.",
       "witnessing the death of his sons",
@@ -6456,7 +6456,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-201-89",
-    "questionText": "‘Now I known that Lord has sent his angel to deliver me ……”who said this?  (JAMB 2009)",
+    "questionText": "‘Now I known that Lord has sent his angel to deliver me ……”who said this?",
     "options": [
       "Joseph",
       "Moses",
@@ -6468,7 +6468,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-202-388",
-    "questionText": "New life in Christ means (JAMB 2008)",
+    "questionText": "New life in Christ means",
     "options": [
       "paying your tithe regularly",
       "helping the poor and the needy",
@@ -6480,7 +6480,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-203-1071",
-    "questionText": "The tearing of the temple curtain into two meant  (JAMB 2015)",
+    "questionText": "The tearing of the temple curtain into two meant",
     "options": [
       "there was the need for a new curtain",
       "Gentiles would now enter the Holy of Holies",
@@ -6492,7 +6492,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-204-165",
-    "questionText": "“… But let judgment run down as waters, and righteousness as a mighty stream… “Fairness, judgment and righteousness were set aside during the time of  ________ for burnt and meat offerings. (JAMB 2012)",
+    "questionText": "“… But let judgment run down as waters, and righteousness as a mighty stream… “Fairness, judgment and righteousness were set aside during the time of  ________ for burnt and meat offerings.",
     "options": [
       "Amos",
       "Hosea",
@@ -6504,7 +6504,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-205-166",
-    "questionText": "Eli’s inability to discipline his sons led to all the following except   (JAMB 2012)",
+    "questionText": "Eli’s inability to discipline his sons led to all the following except",
     "options": [
       "God’s curse on his family",
       "the extension of his life span",
@@ -6516,7 +6516,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-206-738",
-    "questionText": "The significance of the last supper is evident in all but one of the following------ (JAMB 2019)",
+    "questionText": "The significance of the last supper is evident in all but one of the following------",
     "options": [
       "The Revelation of Judas Betrayal",
       "Prediction of the suffering and death of Jesus",
@@ -6528,7 +6528,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-207-210",
-    "questionText": "As a reward for their faith, Shadrach, Meshack and Abednego were (JAMB 2005)",
+    "questionText": "As a reward for their faith, Shadrach, Meshack and Abednego were",
     "options": [
       "asked to return to Jerusalem",
       "granted respectable positions",
@@ -6540,7 +6540,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-208-204",
-    "questionText": "Naboth would not give the vineyard to Ahab because it was (JAMB 2005)",
+    "questionText": "Naboth would not give the vineyard to Ahab because it was",
     "options": [
       "under cultivation",
       "inherited from his father",
@@ -6552,7 +6552,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-209-364",
-    "questionText": "In spite of Israel’s faithlessness, Jeremiah saw a ray of hope for them if only they should (JAMB 2008)",
+    "questionText": "In spite of Israel’s faithlessness, Jeremiah saw a ray of hope for them if only they should",
     "options": [
       "forgive one another",
       "repent and return to God",
@@ -6564,7 +6564,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-210-382",
-    "questionText": "Sin that reigns in our mortal bodies makes us obey (JAMB 2008)",
+    "questionText": "Sin that reigns in our mortal bodies makes us obey",
     "options": [
       "one another",
       "rules and regulations",
@@ -6576,7 +6576,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139558-211-433",
-    "questionText": "According to Paul, before his conversion, he persecuted the church violently to (JAMB 2013)",
+    "questionText": "According to Paul, before his conversion, he persecuted the church violently to",
     "options": [
       "make it desirable to the Gentiles",
       "purge it",
@@ -6588,7 +6588,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-212-167",
-    "questionText": "Who was the King of Judah who witnessed the second deportation?   (JAMB 2012)",
+    "questionText": "Who was the King of Judah who witnessed the second deportation?",
     "options": [
       "Gedaliah",
       "Jehoiachin",
@@ -6600,7 +6600,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-213-959",
-    "questionText": "According to Ezekiel, the wicked person should  (JAMB 2011)",
+    "questionText": "According to Ezekiel, the wicked person should",
     "options": [
       "be stoned to death.",
       "redeem himself.",
@@ -6612,7 +6612,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-214-681",
-    "questionText": "The resurrection of Jesus is significant to Christians for it \tmarked the (JAMB 2011)",
+    "questionText": "The resurrection of Jesus is significant to Christians for it \tmarked the",
     "options": [
       "end of the Jewish faith.",
       "assurance of eternal life for Christians.",
@@ -6624,7 +6624,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-215-376",
-    "questionText": "When Peter was in prison the Church (JAMB 2008)",
+    "questionText": "When Peter was in prison the Church",
     "options": [
       "appealed to the authorities",
       "lived in fear",
@@ -6636,7 +6636,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-216-1049",
-    "questionText": "“Put me, I pray you, in one of the priest’s places, that I may eat a morsel of bread” Who made this prohecy and to whom was it made? (JAMB 2015)",
+    "questionText": "“Put me, I pray you, in one of the priest’s places, that I may eat a morsel of bread” Who made this prohecy and to whom was it made?",
     "options": [
       "Eli to Hophni and Phinehas",
       "A man of God to Eli",
@@ -6648,7 +6648,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-217-203",
-    "questionText": "Saul’s death on Mount Gilboa was in consequence of his (JAMB 2005)",
+    "questionText": "Saul’s death on Mount Gilboa was in consequence of his",
     "options": [
       "sin of disobedience",
       "resorting to the witch of Endor",
@@ -6660,7 +6660,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-218-324",
-    "questionText": "The disciples became terrified when they saw Jesus walking on the sea because (JAMB 2011)",
+    "questionText": "The disciples became terrified when they saw Jesus walking on the sea because",
     "options": [
       "they thought He would drown",
       "they thought He was a ghost",
@@ -6672,7 +6672,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-219-744",
-    "questionText": "\"It shall be neither mine nor yours; divide it\" what was to be divided? (JAMB 2019)",
+    "questionText": "\"It shall be neither mine nor yours; divide it\" what was to be divided?",
     "options": [
       "Elijah's mantle",
       "Jesus Garment",
@@ -6684,7 +6684,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-220-90",
-    "questionText": "The seven deacons were appointed by  (JAMB 2009)",
+    "questionText": "The seven deacons were appointed by",
     "options": [
       "conduct a mission to the Gentiles",
       "Replace the twelve",
@@ -6696,7 +6696,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-221-722",
-    "questionText": "The model example for wives in Christian families according to St Peter is _____ (JAMB 2019)",
+    "questionText": "The model example for wives in Christian families according to St Peter is _____",
     "options": [
       "Ruth",
       "Deborah",
@@ -6708,7 +6708,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-222-715",
-    "questionText": "The word of the Lord came to Hosea the son of ___________. (JAMB 2019)",
+    "questionText": "The word of the Lord came to Hosea the son of ___________.",
     "options": [
       "Eliezer",
       "Juhu",
@@ -6720,7 +6720,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-223-391",
-    "questionText": "In Romans. Paul stressed that the righteousness of God is (JAMB 2008)",
+    "questionText": "In Romans. Paul stressed that the righteousness of God is",
     "options": [
       "faith in the law for all who believe",
       "works of the law for all who believe",
@@ -6732,7 +6732,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-224-526",
-    "questionText": "“The Son of man must suffer many things, and be rejected by the elders .....” Jesus made the statement above after He (JAMB 2015)",
+    "questionText": "“The Son of man must suffer many things, and be rejected by the elders .....” Jesus made the statement above after He",
     "options": [
       "cleansed the Temple",
       "demanded to know who people thought He was",
@@ -6744,7 +6744,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-225-634",
-    "questionText": "‘You son of the devil, you enemy of all righteous¬ness, full of all deceit and villainy .....’ This statement of Paul was addressed to (Acts 13:6-11) (JAMB 2010)",
+    "questionText": "‘You son of the devil, you enemy of all righteous¬ness, full of all deceit and villainy .....’ This statement of Paul was addressed to (Acts 13:6-11)",
     "options": [
       "Elymas, the magician",
       "Paulus, the proconsul",
@@ -6756,7 +6756,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-226-573",
-    "questionText": "St. John refers to Jesus’ miracles as ‘signs’ because they convey the following ideas except (JAMB 2010)",
+    "questionText": "St. John refers to Jesus’ miracles as ‘signs’ because they convey the following ideas except",
     "options": [
       "acceptance of Jesus as son of God.",
       "proofs of the kingdom of God.",
@@ -6768,7 +6768,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-227-723",
-    "questionText": "According to Luke, Jesus was standing by the......He thereafter entered into the boat preaching and later 'calling' Simon Peter __________ (JAMB 2019)",
+    "questionText": "According to Luke, Jesus was standing by the......He thereafter entered into the boat preaching and later 'calling' Simon Peter __________",
     "options": [
       "Lake of Gennesaret",
       "City of Caprenaum",
@@ -6780,7 +6780,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-228-240",
-    "questionText": "Paul taught the Colossians that the relationship between wives and their husbands should be as (JAMB 2005)",
+    "questionText": "Paul taught the Colossians that the relationship between wives and their husbands should be as",
     "options": [
       "is fitting in the Lord",
       "the culture demands",
@@ -6792,7 +6792,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-229-101",
-    "questionText": "The treatment of those  bitten by fiery serpent was to  (JAMB 2010)",
+    "questionText": "The treatment of those  bitten by fiery serpent was to",
     "options": [
       "drink from the Red sea",
       "look at the bronze serpent",
@@ -6804,7 +6804,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-230-135",
-    "questionText": "How many disciples of Jesus Christ were fishermen?  (JAMB 2011)",
+    "questionText": "How many disciples of Jesus Christ were fishermen?",
     "options": [
       "two",
       "three",
@@ -6816,7 +6816,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-231-284",
-    "questionText": "After Prophet Ezekiel had eaten what he was offered, he was sent to speak to (JAMB 2009)",
+    "questionText": "After Prophet Ezekiel had eaten what he was offered, he was sent to speak to",
     "options": [
       "a people of hard language",
       "the house of Israel",
@@ -6828,7 +6828,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-232-229",
-    "questionText": "One of the early Christians who sold his property and gave the money to the apostles was (JAMB 2005)",
+    "questionText": "One of the early Christians who sold his property and gave the money to the apostles was",
     "options": [
       "Barnabas",
       "Stephen",
@@ -6840,7 +6840,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-233-622",
-    "questionText": "‘Depart from me, for l am a sinful man, oh Lord.’ This statement was uttered by Peter at the (JAMB 2010)",
+    "questionText": "‘Depart from me, for l am a sinful man, oh Lord.’ This statement was uttered by Peter at the",
     "options": [
       "last supper",
       "garden of Gethsemane",
@@ -6852,7 +6852,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-234-444",
-    "questionText": "According to James, when we meet various trails in life, we should (JAMB 2013)",
+    "questionText": "According to James, when we meet various trails in life, we should",
     "options": [
       "bless God’s name",
       "call upon the name of the Lord",
@@ -6864,7 +6864,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-235-254",
-    "questionText": "In His sermon on the Mount, Jesus said that the poor in spirit are blessed for they would (JAMB 2009)",
+    "questionText": "In His sermon on the Mount, Jesus said that the poor in spirit are blessed for they would",
     "options": [
       "be satisfied",
       "be comforted on the last day",
@@ -6876,7 +6876,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-236-123",
-    "questionText": "What Josiah, the king of Judah, is best remembered for in Jewish history is  (JAMB 2011)",
+    "questionText": "What Josiah, the king of Judah, is best remembered for in Jewish history is",
     "options": [
       "His ability to destroy all the shine of Baals",
       "His order that the bones and tombs of the prophets of God must be preserved",
@@ -6888,7 +6888,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-237-281",
-    "questionText": "“Let the waters under the heavens be gathered together into one place, and let the dry land appear.” In the statement above  the dry land and the water refer to (JAMB 2009)",
+    "questionText": "“Let the waters under the heavens be gathered together into one place, and let the dry land appear.” In the statement above  the dry land and the water refer to",
     "options": [
       "earth and oceans",
       "firmament and seas",
@@ -6900,7 +6900,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-238-112",
-    "questionText": "Jesus taught that one should make friends quickly with one’s  (JAMB 2010)",
+    "questionText": "Jesus taught that one should make friends quickly with one’s",
     "options": [
       "enemy",
       "neighbor",
@@ -6912,7 +6912,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-239-655",
-    "questionText": "Joel and Abijah were the sons of (JAMB 2011)",
+    "questionText": "Joel and Abijah were the sons of",
     "options": [
       "Eli.",
       "Saul",
@@ -6924,7 +6924,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-240-506",
-    "questionText": "Paul in Thessalonians declared that at the second coming \tof the Lord, those who are alive will not precede those that are (JAMB 2015)",
+    "questionText": "Paul in Thessalonians declared that at the second coming \tof the Lord, those who are alive will not precede those that are",
     "options": [
       "ignorant",
       "condemned",
@@ -6936,7 +6936,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-241-393",
-    "questionText": "Paul said in Galatians that, before faith came, we were confined under (JAMB 2008)",
+    "questionText": "Paul said in Galatians that, before faith came, we were confined under",
     "options": [
       "grace",
       "the law",
@@ -6948,7 +6948,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-242-404",
-    "questionText": "The young man of Egypt took David to the band of the Amalekites because (JAMB 2013)",
+    "questionText": "The young man of Egypt took David to the band of the Amalekites because",
     "options": [
       "he was afraid for his life",
       "he sought revenge against his former master",
@@ -6960,7 +6960,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-243-120",
-    "questionText": "“Blessed be the Lord God of Israel is a hymn of praise by  (JAMB 2010)",
+    "questionText": "“Blessed be the Lord God of Israel is a hymn of praise by",
     "options": [
       "the virgin Mary at the Annunciation",
       "Zachariah at the birth of John the Baptist",
@@ -6972,7 +6972,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-244-321",
-    "questionText": "According to Jeremiah, the anger of God towards Israel would only be reduced by (JAMB 2011)",
+    "questionText": "According to Jeremiah, the anger of God towards Israel would only be reduced by",
     "options": [
       "His mercy",
       "the prophet’s repentance",
@@ -6984,7 +6984,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-245-86",
-    "questionText": "The conversion of Paul was made possible by (JAMB 2009)",
+    "questionText": "The conversion of Paul was made possible by",
     "options": [
       "Simeon",
       "Zacchaccus",
@@ -6996,7 +6996,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-246-572",
-    "questionText": "By introducing Jesus as the Lamb, John was pointing to (JAMB 2010)",
+    "questionText": "By introducing Jesus as the Lamb, John was pointing to",
     "options": [
       "Jesus’ sacrificial death.",
       "Jesus’ miraculous healing.",
@@ -7008,7 +7008,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-247-359",
-    "questionText": "Gomer’s attitude towards her loving husband symbolizes (JAMB 2008)",
+    "questionText": "Gomer’s attitude towards her loving husband symbolizes",
     "options": [
       "Hosea’s unfaithfulness to God",
       "Israel’s faithfulness to God",
@@ -7020,7 +7020,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-248-1085",
-    "questionText": "James advised against looking down on the poor because they are (JAMB 2015)",
+    "questionText": "James advised against looking down on the poor because they are",
     "options": [
       "the rightful heirs of the kingdom",
       "those who spent time on the Lord",
@@ -7032,7 +7032,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-249-389",
-    "questionText": "In Romans, Paul taught that where there is no law, there is no (JAMB 2008)",
+    "questionText": "In Romans, Paul taught that where there is no law, there is no",
     "options": [
       "transgression",
       "peace",
@@ -7044,7 +7044,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-250-492",
-    "questionText": "“Your blood be upon your heads! I am innocent. From now on I will go to the Gentiles.” This was Paul’s utterance at (JAMB 2009)",
+    "questionText": "“Your blood be upon your heads! I am innocent. From now on I will go to the Gentiles.” This was Paul’s utterance at",
     "options": [
       "Antioch.",
       "Corinth.",
@@ -7056,7 +7056,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-251-314",
-    "questionText": "Nehemiah responded to the opposition of the enemies of Israel by (JAMB 2011)",
+    "questionText": "Nehemiah responded to the opposition of the enemies of Israel by",
     "options": [
       "telling the people not to say a word",
       "reporting the issue to King Artaxerxes",
@@ -7068,7 +7068,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-252-1083",
-    "questionText": "“Abraham believed God and it was reckoned to him as righteousness” James used this text to hightlight his teaching on (JAMB 2015)",
+    "questionText": "“Abraham believed God and it was reckoned to him as righteousness” James used this text to hightlight his teaching on",
     "options": [
       "effective prayer",
       "faith and works",
@@ -7080,7 +7080,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-253-140",
-    "questionText": "Among the spiritual gifts, love is supreme because it  (JAMB 2011)",
+    "questionText": "Among the spiritual gifts, love is supreme because it",
     "options": [
       "facilitates development",
       "gives room for friendship",
@@ -7092,7 +7092,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-254-260",
-    "questionText": "According to Luke, when Moses and Elijah appeared during the Transfiguration, they spoke of Jesus’ (JAMB 2009)",
+    "questionText": "According to Luke, when Moses and Elijah appeared during the Transfiguration, they spoke of Jesus’",
     "options": [
       "departure",
       "second coming",
@@ -7104,7 +7104,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-255-301",
-    "questionText": "When Joshua fell upon his face during Israel’s defeat at Ai, God told him to rise and (JAMB 2011)",
+    "questionText": "When Joshua fell upon his face during Israel’s defeat at Ai, God told him to rise and",
     "options": [
       "send more courageous soldiers to Ai",
       "encourage the people",
@@ -7116,7 +7116,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-256-16",
-    "questionText": "The mother of Esau is  (JAMB 2006)",
+    "questionText": "The mother of Esau is",
     "options": [
       "Ruth",
       "Ester",
@@ -7128,7 +7128,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-257-798",
-    "questionText": "During the Ammonite war Uriah disobeyed king David by refusing to go to his house to sleep because  (JAMB 2010)",
+    "questionText": "During the Ammonite war Uriah disobeyed king David by refusing to go to his house to sleep because",
     "options": [
       "it was wrong to go home drunk.",
       "his wife would regard him as a cowar",
@@ -7140,7 +7140,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-258-612",
-    "questionText": "What was Nehemiah’s initial reaction to the news about the ruins of Jerusalem? (JAMB 2010)",
+    "questionText": "What was Nehemiah’s initial reaction to the news about the ruins of Jerusalem?",
     "options": [
       "He tasked the people on what to contribute",
       "He called for volunteers to assist him",
@@ -7152,7 +7152,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-259-995",
-    "questionText": "After the departure of the Israelites God made Pharaoh pursue them in order to  (JAMB 2011)",
+    "questionText": "After the departure of the Israelites God made Pharaoh pursue them in order to",
     "options": [
       "force Israel to return to Egypt",
       "hasten Israel’s journey through the wilderness.",
@@ -7164,7 +7164,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-260-651",
-    "questionText": "Who among the following kings was raised by God against the Israelites for going after the Canaanite gods? (JAMB 2011)",
+    "questionText": "Who among the following kings was raised by God against the Israelites for going after the Canaanite gods?",
     "options": [
       "Agap",
       "Jabin",
@@ -7176,7 +7176,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-261-268",
-    "questionText": "“Can any one forbid water for baptizing these people who have received the Holy Spirit just as we have?” The statement above was made by Peter at the conversion of (JAMB 2009)",
+    "questionText": "“Can any one forbid water for baptizing these people who have received the Holy Spirit just as we have?” The statement above was made by Peter at the conversion of",
     "options": [
       "Herod",
       "Lydia",
@@ -7188,7 +7188,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-262-542",
-    "questionText": "“........ I am the Lord, and there is no other, besides me \tthere is no God....” God’s statement above through Isaiah depicts (JAMB 2015)",
+    "questionText": "“........ I am the Lord, and there is no other, besides me \tthere is no God....” God’s statement above through Isaiah depicts",
     "options": [
       "assurance to Isaiah of His existence",
       "Israel’s acceptance of His Supremacy",
@@ -7200,7 +7200,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-263-751",
-    "questionText": "According to St James, 'He who keeps the whole law and fails in one is guilty of....' (JAMB 2019)",
+    "questionText": "According to St James, 'He who keeps the whole law and fails in one is guilty of....'",
     "options": [
       "Breaking the new commandment of Christ",
       "Breaking that particular love and should pray for grace",
@@ -7212,7 +7212,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-264-374",
-    "questionText": "Peter’s general outlook towards Gentile converts was significantly changed by the conversion of (JAMB 2008)",
+    "questionText": "Peter’s general outlook towards Gentile converts was significantly changed by the conversion of",
     "options": [
       "people of Lydda",
       "the people of Samaria",
@@ -7224,7 +7224,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-265-63",
-    "questionText": "Which of the following prophets was described as weeping prophet?  (JAMB 2008)",
+    "questionText": "Which of the following prophets was described as weeping prophet?",
     "options": [
       "Amos",
       "Ezekiel",
@@ -7236,7 +7236,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-266-866",
-    "questionText": "Jesus’ baptism was significant because it (JAMB 2012)",
+    "questionText": "Jesus’ baptism was significant because it",
     "options": [
       "initiated him into Judaism",
       "cleansed Him from sin",
@@ -7248,7 +7248,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-267-716",
-    "questionText": "The core of Saul's disobedience was that_____________ (JAMB 2019)",
+    "questionText": "The core of Saul's disobedience was that_____________",
     "options": [
       "He freed the Kenites",
       "He refused to carry out God's assignment on eliminating the Amalekites",
@@ -7260,7 +7260,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-268-85",
-    "questionText": "Hosanna means   (JAMB 2009)",
+    "questionText": "Hosanna means",
     "options": [
       "Ride on in majesty",
       "Ride on Glory",
@@ -7272,7 +7272,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-269-567",
-    "questionText": "Before their first encounter with Jesus, Peter and Andrew were (JAMB 2010)",
+    "questionText": "Before their first encounter with Jesus, Peter and Andrew were",
     "options": [
       "preachers.",
       "tax collectors.",
@@ -7284,7 +7284,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-270-171",
-    "questionText": "Paul told the believers in Corinth that no one can say Jesus is Lord except by   (JAMB 2012)",
+    "questionText": "Paul told the believers in Corinth that no one can say Jesus is Lord except by",
     "options": [
       "knowledge",
       "revelation",
@@ -7296,7 +7296,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-271-933",
-    "questionText": "All the following describe Christians in first Peter except (JAMB 2013)",
+    "questionText": "All the following describe Christians in first Peter except",
     "options": [
       "holy nation.",
       "people living together.",
@@ -7308,7 +7308,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-272-342",
-    "questionText": "Paul commended the churches in Macedonia for giving out of their freewill to the (JAMB 2011)",
+    "questionText": "Paul commended the churches in Macedonia for giving out of their freewill to the",
     "options": [
       "saints",
       "poor",
@@ -7320,7 +7320,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-273-513",
-    "questionText": "Who was the king that granted Nehemiah permission to go and rebuild Jerusalem? (JAMB 2015)",
+    "questionText": "Who was the king that granted Nehemiah permission to go and rebuild Jerusalem?",
     "options": [
       "Darius",
       "Nebuchadnezzar",
@@ -7332,7 +7332,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-274-198",
-    "questionText": "During the creative activity of God, He made the beasts (JAMB 2005)",
+    "questionText": "During the creative activity of God, He made the beasts",
     "options": [
       "in His own image",
       "to multiply on the earth",
@@ -7344,7 +7344,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-275-475",
-    "questionText": "The treasures which Jesus wants us to lay in heaven include (JAMB 2009)",
+    "questionText": "The treasures which Jesus wants us to lay in heaven include",
     "options": [
       "generosity and kindness.",
       "love and mercy.",
@@ -7356,7 +7356,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-276-408",
-    "questionText": "Saul relied on a medium because God did not answer him through (JAMB 2013)",
+    "questionText": "Saul relied on a medium because God did not answer him through",
     "options": [
       "dreams, visions and prophets",
       "inspiration, tambourines and prophets",
@@ -7368,7 +7368,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-277-680",
-    "questionText": "Paul was stoned and dragged out of the city by (JAMB 2011)",
+    "questionText": "Paul was stoned and dragged out of the city by",
     "options": [
       "the Lyconians and the Ephesians.",
       "enemies of the healed lame man",
@@ -7380,7 +7380,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-278-334",
-    "questionText": "The disciple that went to preach in Samaria after the great persecution in Jerusalem was (JAMB 2011)",
+    "questionText": "The disciple that went to preach in Samaria after the great persecution in Jerusalem was",
     "options": [
       "Philip",
       "Andrew",
@@ -7392,7 +7392,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-279-815",
-    "questionText": "The parable of the rich man and Lazarus indicates that  (JAMB 2010)",
+    "questionText": "The parable of the rich man and Lazarus indicates that",
     "options": [
       "poverty is a mark of righteousness.",
       "death is a leveller for rich and poor",
@@ -7404,7 +7404,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-280-618",
-    "questionText": "Isaiah emphasized holiness above all things be¬cause God (JAMB 2010)",
+    "questionText": "Isaiah emphasized holiness above all things be¬cause God",
     "options": [
       "knew their hearts were right with him",
       "was not interested in their sacrifices",
@@ -7416,7 +7416,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-281-720",
-    "questionText": "Jesus healed the lame man who had been sick for thirty-eight years at? (JAMB 2019)",
+    "questionText": "Jesus healed the lame man who had been sick for thirty-eight years at?",
     "options": [
       "Capernaum",
       "Samaria",
@@ -7428,7 +7428,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-282-128",
-    "questionText": "One of the following was not among the religious sects in the New Testament  (JAMB 2011)",
+    "questionText": "One of the following was not among the religious sects in the New Testament",
     "options": [
       "The Pharisees",
       "The Nazarenes",
@@ -7440,7 +7440,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-283-925",
-    "questionText": "“...yet the most high does not dwell in houses made with hands..,” This defence of Stephen meant that God is (JAMB 2013)",
+    "questionText": "“...yet the most high does not dwell in houses made with hands..,” This defence of Stephen meant that God is",
     "options": [
       "Omnipotent.",
       "Omnipresent.",
@@ -7452,7 +7452,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-284-146",
-    "questionText": "During the period of three and a half years of drought in Israel, the man who hid one hundred prophets of God in a cave was   (JAMB 2011)",
+    "questionText": "During the period of three and a half years of drought in Israel, the man who hid one hundred prophets of God in a cave was",
     "options": [
       "Isaiah",
       "Lisha",
@@ -7464,7 +7464,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-285-1010",
-    "questionText": "God’s constant love for unfaithful Israel is demonstrated in the book of  (JAMB 2011)",
+    "questionText": "God’s constant love for unfaithful Israel is demonstrated in the book of",
     "options": [
       "Amos",
       "Isaiah",
@@ -7476,7 +7476,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-286-1066",
-    "questionText": "Hosea name his first son Jezreel as a sign of  (JAMB 2015)",
+    "questionText": "Hosea name his first son Jezreel as a sign of",
     "options": [
       "victory upon the enemies of Israel",
       "punishment to come unto the royal house",
@@ -7488,7 +7488,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-287-865",
-    "questionText": " Hosea described the relationship between God and Israel as (JAMB 2012)",
+    "questionText": " Hosea described the relationship between God and Israel as",
     "options": [
       "a covenant contract",
       "a marriage bond",
@@ -7500,7 +7500,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-288-949",
-    "questionText": "“It is the Lord, let Him do what seems good to Him”. These were the words of  (JAMB 2011)",
+    "questionText": "“It is the Lord, let Him do what seems good to Him”. These were the words of",
     "options": [
       "Saul",
       "Samuel.",
@@ -7512,7 +7512,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-289-621",
-    "questionText": "Jesus was tempted by the devil so as to (JAMB 2010)",
+    "questionText": "Jesus was tempted by the devil so as to",
     "options": [
       "fulfil all righteousness",
       "show His power over forces of nature",
@@ -7524,7 +7524,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-290-984",
-    "questionText": "Paul believes that the resurrection of the dead would only occur on the (JAMB 2011)",
+    "questionText": "Paul believes that the resurrection of the dead would only occur on the",
     "options": [
       "last day.",
       "triumphant day.",
@@ -7536,7 +7536,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-291-10",
-    "questionText": "Manahem, the son of Gadi reigned over Israel for  (JAMB 2006)",
+    "questionText": "Manahem, the son of Gadi reigned over Israel for",
     "options": [
       "eight years",
       "twenty years",
@@ -7548,7 +7548,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-292-940",
-    "questionText": "According to Peter, Christians who suffer for Christ should not be ashamed but should (JAMB 2013)",
+    "questionText": "According to Peter, Christians who suffer for Christ should not be ashamed but should",
     "options": [
       "glorify God.",
       "be encouraged.",
@@ -7560,7 +7560,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-293-130",
-    "questionText": "What was Cain’s immediate reaction to the acceptance of Abel’s offering? (JAMB 2011)",
+    "questionText": "What was Cain’s immediate reaction to the acceptance of Abel’s offering?",
     "options": [
       "He offered another sacrifice",
       "He was angry and his countenance fell",
@@ -7572,7 +7572,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-294-741",
-    "questionText": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______ (JAMB 2019)",
+    "questionText": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______",
     "options": [
       "New set of teeth",
       "No food to eat",
@@ -7584,7 +7584,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-295-919",
-    "questionText": "The last words of Jesus on the cross was (JAMB 2013)",
+    "questionText": "The last words of Jesus on the cross was",
     "options": [
       "my God, my God, why has Thou forsaken me.",
       "father forgive them their transgression.",
@@ -7596,7 +7596,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-296-387",
-    "questionText": "Peter admonished Christians to be sober and watchful in order to a void (JAMB 2008)",
+    "questionText": "Peter admonished Christians to be sober and watchful in order to a void",
     "options": [
       "temptation",
       "God’s wrath",
@@ -7608,7 +7608,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-297-223",
-    "questionText": "According to Jesus, a good shepherd lays down his life for the sheep but a hireling (JAMB 2005)",
+    "questionText": "According to Jesus, a good shepherd lays down his life for the sheep but a hireling",
     "options": [
       "sells them off for personal profit",
       "abandons the sheep in the face of danger",
@@ -7620,7 +7620,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-298-45",
-    "questionText": "Moses fled from pharaoh at the age of  (JAMB 2007)",
+    "questionText": "Moses fled from pharaoh at the age of",
     "options": [
       "45",
       "40",
@@ -7632,7 +7632,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-299-635",
-    "questionText": "‘Unless you are circumcised according to the custom of Moses, you cannot be saved.’ The statement above by the men from Judea led to the (JAMB 2010)",
+    "questionText": "‘Unless you are circumcised according to the custom of Moses, you cannot be saved.’ The statement above by the men from Judea led to the",
     "options": [
       "murmurs of the Hellenists",
       "convening of the Jerusalem Council",
@@ -7644,7 +7644,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-300-253",
-    "questionText": "In Paul’s arrangement of the spiritual gifts in Corinthians, the last is (JAMB 2009)",
+    "questionText": "In Paul’s arrangement of the spiritual gifts in Corinthians, the last is",
     "options": [
       "the utterance of wisdom",
       "interpretation of tongues",
@@ -7656,7 +7656,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-301-932",
-    "questionText": "The Philippians showed their solidarity with Paul while in prison by  (JAMB 2013)",
+    "questionText": "The Philippians showed their solidarity with Paul while in prison by",
     "options": [
       "using Ephraphroditus to appeal for his release.",
       "sending gifts to him through Ephaphroditus.",
@@ -7668,7 +7668,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-302-500",
-    "questionText": "Paul in Romans said that the righteousness of God has been manifested through faith in Jesus Christ for (JAMB 2015)",
+    "questionText": "Paul in Romans said that the righteousness of God has been manifested through faith in Jesus Christ for",
     "options": [
       "the exaltation of the authority",
       "the cleansing of the sinners",
@@ -7680,7 +7680,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-303-876",
-    "questionText": "How many groups of people mocked at Jesus on the cross  (JAMB 2012)",
+    "questionText": "How many groups of people mocked at Jesus on the cross",
     "options": [
       "Two",
       "Three",
@@ -7692,7 +7692,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-304-438",
-    "questionText": "According to Peter, when Christians humble themselves, God will (JAMB 2013)",
+    "questionText": "According to Peter, when Christians humble themselves, God will",
     "options": [
       "protect them",
       "direct their ways",
@@ -7704,7 +7704,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-305-318",
-    "questionText": "According to Amos, God desires knowledge of Him rather than (JAMB 2011)",
+    "questionText": "According to Amos, God desires knowledge of Him rather than",
     "options": [
       "fervent prayers",
       "dependency on the Law",
@@ -7716,7 +7716,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-306-873",
-    "questionText": "Which of the following incidents occurred during Jesus’ trial before Caiaphas? (JAMB 2012)",
+    "questionText": "Which of the following incidents occurred during Jesus’ trial before Caiaphas?",
     "options": [
       "The preference of Barabbas to Jesus",
       "The question of payment of tribute",
@@ -7728,7 +7728,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-307-465",
-    "questionText": "The king planned to set Daniel over the whole kingdom because, (JAMB 2009)",
+    "questionText": "The king planned to set Daniel over the whole kingdom because,",
     "options": [
       "he was the most educated of all.",
       "an excellent spirit was in him.",
@@ -7740,7 +7740,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-308-895",
-    "questionText": "Joseph named his first son “Manasseh” because God made him  (JAMB 2013)",
+    "questionText": "Joseph named his first son “Manasseh” because God made him",
     "options": [
       "king in Egypt",
       "forget his hardship.",
@@ -7752,7 +7752,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-309-446",
-    "questionText": "What in the creation account, gave man an edge over every other creature? (JAMB 2009)",
+    "questionText": "What in the creation account, gave man an edge over every other creature?",
     "options": [
       "Other creatures were made for man",
       "Man alone was created in the Image of God",
@@ -7764,7 +7764,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-310-110",
-    "questionText": "What is the meaning of Emmanuel?  (JAMB 2010)",
+    "questionText": "What is the meaning of Emmanuel?",
     "options": [
       "Son of Emmaus",
       "God is our Redeemer",
@@ -7776,7 +7776,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-311-632",
-    "questionText": "‘...Why has Satan filled your heart to lie to the Holy Spirit..’ Peter rebuked Ananias in the statement above for his sin of (Acts 5:3-4) (JAMB 2010)",
+    "questionText": "‘...Why has Satan filled your heart to lie to the Holy Spirit..’ Peter rebuked Ananias in the statement above for his sin of (Acts 5:3-4)",
     "options": [
       "greed",
       "insincerity",
@@ -7788,7 +7788,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-312-100",
-    "questionText": "Deborah was a judge when Israel was under the yoke of  (JAMB 2010)",
+    "questionText": "Deborah was a judge when Israel was under the yoke of",
     "options": [
       "Moab",
       "Midian",
@@ -7800,7 +7800,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-313-495",
-    "questionText": "During the election to replace Judas among the twelve, Peter quoted from the book of (JAMB 2009)",
+    "questionText": "During the election to replace Judas among the twelve, Peter quoted from the book of",
     "options": [
       "Joel.",
       "Psalms.",
@@ -7812,7 +7812,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-314-35",
-    "questionText": "The prophet who was with the exiles of 597 BC in Babylon was  (JAMB 2007)",
+    "questionText": "The prophet who was with the exiles of 597 BC in Babylon was",
     "options": [
       "Moses",
       "Hosea",
@@ -7824,7 +7824,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-315-852",
-    "questionText": "Samuel said that rebellion was as the sin of divination just as stubbornness was as  (JAMB 2012)",
+    "questionText": "Samuel said that rebellion was as the sin of divination just as stubbornness was as",
     "options": [
       "iniquity and adultery",
       "sinful as disobedience",
@@ -7836,7 +7836,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-316-266",
-    "questionText": "The good shepherd according to Jesus is one who (JAMB 2009)",
+    "questionText": "The good shepherd according to Jesus is one who",
     "options": [
       "lays down his life for his sheep",
       "goes about with his sheep",
@@ -7848,7 +7848,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-317-7",
-    "questionText": "Charismatic leaders in the Book of Judges arose in Israel to  (JAMB 2006)",
+    "questionText": "Charismatic leaders in the Book of Judges arose in Israel to",
     "options": [
       "revive faith in Yahweh",
       "rally the tribe together",
@@ -7860,7 +7860,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-318-641",
-    "questionText": "According to Paul in Corinthians, generosity produce (JAMB 2010)",
+    "questionText": "According to Paul in Corinthians, generosity produce",
     "options": [
       "righteousness",
       "salvation",
@@ -7872,7 +7872,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-319-39",
-    "questionText": "One of the following said: “the lion has roared who will not fear? The Lord has spoken, who can  but prophesy?”  (JAMB 2007)",
+    "questionText": "One of the following said: “the lion has roared who will not fear? The Lord has spoken, who can  but prophesy?”",
     "options": [
       "Nathan",
       "Jeremiah",
@@ -7884,7 +7884,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-320-624",
-    "questionText": "After the healing of the demoniac in the country of the Gerasenes, the people begged Jesus to (Mark 5:15-19) (JAMB 2010)",
+    "questionText": "After the healing of the demoniac in the country of the Gerasenes, the people begged Jesus to (Mark 5:15-19)",
     "options": [
       "stay with them",
       "visit them always",
@@ -7896,7 +7896,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-321-158",
-    "questionText": "“Thy glory, O Israel upon thy high places! How are the mighty fallen! Tell it not in the streets of Ashkelon… How  are the mighty fallen in the midst of the battle!” The above dirge was written by David when   (JAMB 2012)",
+    "questionText": "“Thy glory, O Israel upon thy high places! How are the mighty fallen! Tell it not in the streets of Ashkelon… How  are the mighty fallen in the midst of the battle!” The above dirge was written by David when",
     "options": [
       "He killed Goliath",
       "Uriah the Hittite died",
@@ -7908,7 +7908,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-322-217",
-    "questionText": "According to Jesus, a disciple must not (JAMB 2005)",
+    "questionText": "According to Jesus, a disciple must not",
     "options": [
       "hate his parents and family",
       "bear his own cross",
@@ -7920,7 +7920,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-323-721",
-    "questionText": "St Paul's condition for the attainment of justification is by ______? (JAMB 2019)",
+    "questionText": "St Paul's condition for the attainment of justification is by ______?",
     "options": [
       "Total obedience to the law",
       "Holiness in Christ Jesus",
@@ -7932,7 +7932,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-324-597",
-    "questionText": "Isaac’s prayer to God for his barren wife showed that he (JAMB 2010)",
+    "questionText": "Isaac’s prayer to God for his barren wife showed that he",
     "options": [
       "truly loved her",
       "sincerely loved his God",
@@ -7944,7 +7944,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-325-839",
-    "questionText": "Through God the Christian is no longer a slave but a son, and if a son  (JAMB 2010)",
+    "questionText": "Through God the Christian is no longer a slave but a son, and if a son",
     "options": [
       "a master",
       "a redeeme",
@@ -7956,7 +7956,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-326-202",
-    "questionText": "When Saul and his troops came after David in the wilderness of Ziph, David and Abishai went to Saul’s camp \t\tto (JAMB 2005)",
+    "questionText": "When Saul and his troops came after David in the wilderness of Ziph, David and Abishai went to Saul’s camp \t\tto",
     "options": [
       "slay him",
       "surprise him",
@@ -7968,7 +7968,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-327-978",
-    "questionText": "The laying of hands on Barnabas and Paul for the First Missionary Journey signifies their being (JAMB 2011)",
+    "questionText": "The laying of hands on Barnabas and Paul for the First Missionary Journey signifies their being",
     "options": [
       "blesse",
       "commissioned",
@@ -7980,7 +7980,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-328-290",
-    "questionText": "Immediately after the contest on Mount Carmel, Elijah prayed and God answered him with (JAMB 2009)",
+    "questionText": "Immediately after the contest on Mount Carmel, Elijah prayed and God answered him with",
     "options": [
       "thunder",
       "rainfall",
@@ -7992,7 +7992,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-329-569",
-    "questionText": "The <em>lost sheep</em> and the <em>lost coin</em> share the following except that (JAMB 2010)",
+    "questionText": "The <em>lost sheep</em> and the <em>lost coin</em> share the following except that",
     "options": [
       "both of them are lost and need to be found",
       "it is their owners’ responsibility to look for them.",
@@ -8004,7 +8004,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-330-127",
-    "questionText": "According to Paul in Romans, the law and the prophets bore witness to the righteousness of God but man could not be justified until he   (JAMB 2011)",
+    "questionText": "According to Paul in Romans, the law and the prophets bore witness to the righteousness of God but man could not be justified until he",
     "options": [
       "Had faith in Jesus",
       "Saw the glory of God",
@@ -8016,7 +8016,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-331-752",
-    "questionText": "On the ________day, the child was _______and named Jesus (JAMB 2019)",
+    "questionText": "On the ________day, the child was _______and named Jesus",
     "options": [
       "Eight, anointed",
       "Ninth, Circumcised",
@@ -8028,7 +8028,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-332-942",
-    "questionText": "Abram’s obligation in his covenant with God was to  (JAMB 2011)",
+    "questionText": "Abram’s obligation in his covenant with God was to",
     "options": [
       "change Sarai’s name to Sarah.",
       "walk before God blamelessly",
@@ -8040,7 +8040,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-333-764",
-    "questionText": "Cleopas' heart burnt within him on the road to Emmaus when Jesus ________ (JAMB 2019)",
+    "questionText": "Cleopas' heart burnt within him on the road to Emmaus when Jesus ________",
     "options": [
       "Appeared to them",
       "Broke bread with them",
@@ -8052,7 +8052,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-334-216",
-    "questionText": "Jesus said “Not everyone who says to me ‘Lord, Lord,’ shall enter into the kingdom of heaven, but he who (JAMB 2005)",
+    "questionText": "Jesus said “Not everyone who says to me ‘Lord, Lord,’ shall enter into the kingdom of heaven, but he who",
     "options": [
       "hears the word of God”.",
       "prays and fasts’",
@@ -8064,7 +8064,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-335-467",
-    "questionText": "The first batch of Jewish exiles to rebuild the temple was under the leadership of (JAMB 2009)",
+    "questionText": "The first batch of Jewish exiles to rebuild the temple was under the leadership of",
     "options": [
       "Joshua.",
       "Hanani.",
@@ -8076,7 +8076,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-336-1044",
-    "questionText": "“You shall be my own possession among all peoples” God made this promise to the Israelites on condition that they  (JAMB 2015)",
+    "questionText": "“You shall be my own possession among all peoples” God made this promise to the Israelites on condition that they",
     "options": [
       "drove the Canaanite out of the land",
       "kept away from foreign women",
@@ -8088,7 +8088,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-337-248",
-    "questionText": "According to Galatians, one of the benefits of being a joint heir with Christ is having His Spirit in (JAMB 2009)",
+    "questionText": "According to Galatians, one of the benefits of being a joint heir with Christ is having His Spirit in",
     "options": [
       "worship",
       "the heart",
@@ -8100,7 +8100,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-338-753",
-    "questionText": "One of the most significant lessons from the healing of the Centurion's Servant is that ____________ (JAMB 2019)",
+    "questionText": "One of the most significant lessons from the healing of the Centurion's Servant is that ____________",
     "options": [
       "Jesus has the power to forgive sins",
       "The Level of faith of the servant made Jesus heal him",
@@ -8112,7 +8112,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-339-1064",
-    "questionText": "“I gave you cleanness of teeth in all your cities” This statement means God gave them (JAMB 2015)",
+    "questionText": "“I gave you cleanness of teeth in all your cities” This statement means God gave them",
     "options": [
       "no water to drink",
       "new set of teeth",
@@ -8124,7 +8124,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-340-133",
-    "questionText": "Who according to James blaspheme the honourable name by which Christians are called (JAMB 2011)",
+    "questionText": "Who according to James blaspheme the honourable name by which Christians are called",
     "options": [
       "Non believers",
       "Pagan rulers",
@@ -8136,7 +8136,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-341-459",
-    "questionText": "“The Lord forbid that I should give you the inheritance of my fathers”. The inheritance referred to here is (JAMB 2009)",
+    "questionText": "“The Lord forbid that I should give you the inheritance of my fathers”. The inheritance referred to here is",
     "options": [
       "birth right.",
       "the world.",
@@ -8148,7 +8148,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-342-551",
-    "questionText": "Why was Saul asked to destroy the Amalekites? (JAMB 2010)",
+    "questionText": "Why was Saul asked to destroy the Amalekites?",
     "options": [
       "They were worshipping false gods",
       "They opposed the Israelites when they left Egypt",
@@ -8160,7 +8160,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-343-913",
-    "questionText": "Jesus demonstrated his compassion for humanity in all the following miracles except the  (JAMB 2013)",
+    "questionText": "Jesus demonstrated his compassion for humanity in all the following miracles except the",
     "options": [
       "feeding of the five thousan",
       "healing of the centurion’s servant.",
@@ -8172,7 +8172,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-344-187",
-    "questionText": "Jonah refused to go to Nineveh because   (JAMB 2013)",
+    "questionText": "Jonah refused to go to Nineveh because",
     "options": [
       "Ninevites were in human and wicked",
       "God was merciful, gracious and could forgive them",
@@ -8184,7 +8184,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-345-884",
-    "questionText": "The visitors of Peter after his vision at Joppa were from  (JAMB 2012)",
+    "questionText": "The visitors of Peter after his vision at Joppa were from",
     "options": [
       "Jerusalem",
       "Samaria",
@@ -8196,7 +8196,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-346-262",
-    "questionText": "Herod was delighted to see Jesus because he had heard of Him for so long and wanted to (JAMB 2009)",
+    "questionText": "Herod was delighted to see Jesus because he had heard of Him for so long and wanted to",
     "options": [
       "send Him to Rome",
       "sentence Him to death",
@@ -8208,7 +8208,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-347-180",
-    "questionText": "The son of Solomon who made unwise decisions was …. (JAMB 2013)",
+    "questionText": "The son of Solomon who made unwise decisions was ….",
     "options": [
       "Jeroboam",
       "Rechoboam",
@@ -8220,7 +8220,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-348-282",
-    "questionText": "What did Gideon call the altar which he built to the LORD? (JAMB 2009)",
+    "questionText": "What did Gideon call the altar which he built to the LORD?",
     "options": [
       "The LORD is merciful",
       "The LORD is peace",
@@ -8232,7 +8232,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-349-967",
-    "questionText": "The initial evidence that the disciples had received the Holy Spirit was (JAMB 2011)",
+    "questionText": "The initial evidence that the disciples had received the Holy Spirit was",
     "options": [
       "performing miracles",
       "preaching to the people.",
@@ -8244,7 +8244,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-350-906",
-    "questionText": "Yet what they are building if a fox goes up on it he will breakdown their stone wall”. This statement by Tobias was  (JAMB 2013)",
+    "questionText": "Yet what they are building if a fox goes up on it he will breakdown their stone wall”. This statement by Tobias was",
     "options": [
       "taunt and ridicule the Jews",
       "stop and disgrace the Jews",
@@ -8256,7 +8256,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-351-872",
-    "questionText": "During Jesus’ trial, some people discovered that Peter was Jesus’ fellower because of his (JAMB 2012)",
+    "questionText": "During Jesus’ trial, some people discovered that Peter was Jesus’ fellower because of his",
     "options": [
       "The preference of Barabbas to Jesus",
       "The question of payment of tribute",
@@ -8268,7 +8268,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-352-599",
-    "questionText": "‘Who am I that I should go to Pharoah......’ When Moses resisted God’s call with the state¬ment above, it portrayed his (JAMB 2010)",
+    "questionText": "‘Who am I that I should go to Pharoah......’ When Moses resisted God’s call with the state¬ment above, it portrayed his",
     "options": [
       "stubbornness",
       "incompetence",
@@ -8280,7 +8280,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-353-976",
-    "questionText": "According to the First Council at Jerusalem, the following\n were binding on a Christian except \n (JAMB 2011)",
+    "questionText": "According to the First Council at Jerusalem, the following\n were binding on a Christian except \n",
     "options": [
       "praying always in the temple.",
       "not eating animals that have been strangled",
@@ -8292,7 +8292,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-354-209",
-    "questionText": "The wife of Hosea was called (JAMB 2005)",
+    "questionText": "The wife of Hosea was called",
     "options": [
       "Gomer",
       "B . Rahab",
@@ -8304,7 +8304,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-355-934",
-    "questionText": "In Corinthians, Paul stated that he was unfit to be called an apostle because he (JAMB 2013)",
+    "questionText": "In Corinthians, Paul stated that he was unfit to be called an apostle because he",
     "options": [
       "could not speak in tongues.",
       "persecuted the Church.",
@@ -8316,7 +8316,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-356-910",
-    "questionText": "God promised to make the forehead of Ezekiel hard against those of the Israelites. This meant that God would  (JAMB 2013)",
+    "questionText": "God promised to make the forehead of Ezekiel hard against those of the Israelites. This meant that God would",
     "options": [
       "strengthen and equip Ezekiel with courage",
       "protect and harden Ezekiel",
@@ -8328,7 +8328,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-357-277",
-    "questionText": "According to proverbs, a son that is attentive to a father’s instruction will (JAMB 2009)",
+    "questionText": "According to proverbs, a son that is attentive to a father’s instruction will",
     "options": [
       "be rich",
       "have eternal life",
@@ -8340,7 +8340,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-358-228",
-    "questionText": "Herod persecuted the early church because he was (JAMB 2005)",
+    "questionText": "Herod persecuted the early church because he was",
     "options": [
       "opposed to the Apostles’ teaching",
       "impressed by his growing popularity after killing James",
@@ -8352,7 +8352,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-359-439",
-    "questionText": "According to Paul in his letter to Philemon, forgiveness should not be by compulsion but by (JAMB 2013)",
+    "questionText": "According to Paul in his letter to Philemon, forgiveness should not be by compulsion but by",
     "options": [
       "justification",
       "faith",
@@ -8364,7 +8364,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-360-545",
-    "questionText": "Amos is often referred to as a prophet of (JAMB 2015)",
+    "questionText": "Amos is often referred to as a prophet of",
     "options": [
       "doom",
       "love",
@@ -8376,7 +8376,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-361-936",
-    "questionText": "Peter described Christians as a chosen race of God  because they are to (JAMB 2013)",
+    "questionText": "Peter described Christians as a chosen race of God  because they are to",
     "options": [
       "declare God’s wonderful deeds.",
       "become ordained-pastors.",
@@ -8388,7 +8388,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-362-185",
-    "questionText": "The sons of Samuel who did not walk in his ways were: (JAMB 2013)",
+    "questionText": "The sons of Samuel who did not walk in his ways were:",
     "options": [
       "Phinehas and Hophni",
       "Hophni and Amos",
@@ -8400,7 +8400,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-363-173",
-    "questionText": "The women sang and said David slain his ten thousands and Saul his   (JAMB 2013)",
+    "questionText": "The women sang and said David slain his ten thousands and Saul his",
     "options": [
       "five thousands",
       "thousand",
@@ -8412,7 +8412,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-364-1079",
-    "questionText": "The boldness of Peter and John before the Sanhedrin was attributed to (JAMB 2015)",
+    "questionText": "The boldness of Peter and John before the Sanhedrin was attributed to",
     "options": [
       "their having great influence",
       "possession of great strength",
@@ -8424,7 +8424,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-365-700",
-    "questionText": "When David learnt that the child born to him by Bethsheba had died, he ____________, (JAMB 2019)",
+    "questionText": "When David learnt that the child born to him by Bethsheba had died, he ____________,",
     "options": [
       "fasted and prayed for the dead",
       "tore his robe and dismissed his court",
@@ -8436,7 +8436,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-366-261",
-    "questionText": "The baptism of Jesus by John in River Jordan was to (JAMB 2009)",
+    "questionText": "The baptism of Jesus by John in River Jordan was to",
     "options": [
       "convince others that John was His forerunner",
       "ensure that proper baptism must be in a river",
@@ -8448,7 +8448,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-367-442",
-    "questionText": "Paul in Timothy urged believers to make supplications, prayers, intercession and thanksgivings for all those who (JAMB 2013)",
+    "questionText": "Paul in Timothy urged believers to make supplications, prayers, intercession and thanksgivings for all those who",
     "options": [
       "are in authority",
       "have accepted Christ",
@@ -8460,7 +8460,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-368-256",
-    "questionText": "Angel Gabriel told Zachariah that he would become dumb until John was born because he (JAMB 2009)",
+    "questionText": "Angel Gabriel told Zachariah that he would become dumb until John was born because he",
     "options": [
       "looked down on the Angel",
       "was advanced in age",
@@ -8472,7 +8472,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-369-213",
-    "questionText": "The message of Amos was mainly about (JAMB 2005)",
+    "questionText": "The message of Amos was mainly about",
     "options": [
       "the love of God",
       "man’s response to God’s love.",
@@ -8484,7 +8484,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-370-78",
-    "questionText": "In order that Benjamin might be brought to Egypt, Joseph detained  (JAMB 2009)",
+    "questionText": "In order that Benjamin might be brought to Egypt, Joseph detained",
     "options": [
       "Ruben",
       "Levi",
@@ -8496,7 +8496,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-371-1052",
-    "questionText": "During the Ammonite war, Uriah disobeyed King David by refusing to go to his house to sleep because  (JAMB 2015)",
+    "questionText": "During the Ammonite war, Uriah disobeyed King David by refusing to go to his house to sleep because",
     "options": [
       "it was wrong to go home drunk",
       "his wife would regard him as a coward",
@@ -8508,7 +8508,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-372-331",
-    "questionText": "“Tell people, His disciples came by night and stole him away while we were asleep...” The intention of the speaker in the statement above was to (JAMB 2011)",
+    "questionText": "“Tell people, His disciples came by night and stole him away while we were asleep...” The intention of the speaker in the statement above was to",
     "options": [
       "implicate the disciples",
       "absolve the soldiers from all blame",
@@ -8520,7 +8520,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-373-377",
-    "questionText": "The miracles of Jesus in St. John’s Gospel are referred to as signs’ of the (JAMB 2008)",
+    "questionText": "The miracles of Jesus in St. John’s Gospel are referred to as signs’ of the",
     "options": [
       "manifestations of Jesus as the Messiah",
       "consuming power of God’s glory",
@@ -8532,7 +8532,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-374-571",
-    "questionText": "In one of the resurrection appearances Jesus asked his disciples, whether they had anything to eat as he (JAMB 2010)",
+    "questionText": "In one of the resurrection appearances Jesus asked his disciples, whether they had anything to eat as he",
     "options": [
       "was hungry after three days in the grave without food.",
       "suspected that the disciples stock may have finished",
@@ -8544,7 +8544,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-375-961",
-    "questionText": "The opposition to the rebuilding of the temple was resolved by  (JAMB 2011)",
+    "questionText": "The opposition to the rebuilding of the temple was resolved by",
     "options": [
       "constant prayer.",
       "edict issued by Darius",
@@ -8556,7 +8556,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-376-41",
-    "questionText": "Joshua’s first victory was over the people of  (JAMB 2007)",
+    "questionText": "Joshua’s first victory was over the people of",
     "options": [
       "Ai",
       "Gibeon",
@@ -8568,7 +8568,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139561-377-218",
-    "questionText": "Instead of being unnecessarily anxious about life and the affairs of this world, Jesus taught us to (JAMB 2005)",
+    "questionText": "Instead of being unnecessarily anxious about life and the affairs of this world, Jesus taught us to",
     "options": [
       "relax our minds and wait for the manna from above",
       "seek first the kingdom of God and its righteousness",
@@ -8580,7 +8580,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-378-986",
-    "questionText": "The primary motive for Christian giving is to (JAMB 2011)",
+    "questionText": "The primary motive for Christian giving is to",
     "options": [
       "go to heaven when they die",
       "reciprocate God’s blessing.",
@@ -8592,7 +8592,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-379-907",
-    "questionText": "Jeremiah viewed the relationship between God and Israel in her youth to be that of  (JAMB 2013)",
+    "questionText": "Jeremiah viewed the relationship between God and Israel in her youth to be that of",
     "options": [
       "compassion, sincerity and hope",
       "obedience, tolerance and mercy.",
@@ -8604,7 +8604,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-380-893",
-    "questionText": "How old was Abram when God appeared to him the second time?  (JAMB 2013)",
+    "questionText": "How old was Abram when God appeared to him the second time?",
     "options": [
       "75 years",
       "85 years",
@@ -8616,7 +8616,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-381-639",
-    "questionText": "Paul in Corinthians advised that Christians should re-affirm their love for those who (JAMB 2010)",
+    "questionText": "Paul in Corinthians advised that Christians should re-affirm their love for those who",
     "options": [
       "are kind to them",
       "wrong them",
@@ -8628,7 +8628,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-382-713",
-    "questionText": "The main message of Hosea is that God desires ___________. (JAMB 2019)",
+    "questionText": "The main message of Hosea is that God desires ___________.",
     "options": [
       "love and sacrifice",
       "sacrifice and thanksgiving",
@@ -8640,7 +8640,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-383-740",
-    "questionText": "The triumphal entry was in fulfilment of the prophecy of_______ (JAMB 2019)",
+    "questionText": "The triumphal entry was in fulfilment of the prophecy of_______",
     "options": [
       "Isaiah",
       "Amos",
@@ -8652,7 +8652,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-384-102",
-    "questionText": "Which of these was detained by Joseph in order that Benjamin might be brought to Egypt  (JAMB 2010)",
+    "questionText": "Which of these was detained by Joseph in order that Benjamin might be brought to Egypt",
     "options": [
       "Reuben",
       "Levi",
@@ -8664,7 +8664,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-385-799",
-    "questionText": "When Abner wanted to transfer his allegiance to David, the latter gave him the condition  (JAMB 2010)",
+    "questionText": "When Abner wanted to transfer his allegiance to David, the latter gave him the condition",
     "options": [
       "openly submit to Joab",
       "convince all Israel to come over to Davi",
@@ -8676,7 +8676,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-386-704",
-    "questionText": " Which one of the following is the man associated with prayers? (JAMB 2019)",
+    "questionText": " Which one of the following is the man associated with prayers?",
     "options": [
       "Elisha",
       "Elijah",
@@ -8688,7 +8688,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-387-777",
-    "questionText": "\"For I desire steadfast love and not sacrifice...\" this statement relates to the_______ (JAMB 2019)",
+    "questionText": "\"For I desire steadfast love and not sacrifice...\" this statement relates to the_______",
     "options": [
       "response of God's love to the children of Israel",
       "response of Israel to the genuineness of God's love",
@@ -8700,7 +8700,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-388-154",
-    "questionText": "One of the following is not among the reasons why Jesus taught in Parables   (JAMB 2012)",
+    "questionText": "One of the following is not among the reasons why Jesus taught in Parables",
     "options": [
       "to fulfill the prophecy in Psalm 78:2",
       "to create understanding",
@@ -8712,7 +8712,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-389-605",
-    "questionText": "When Saul disobeyed God’s command, Samuel rebuked him by saying that (JAMB 2010)",
+    "questionText": "When Saul disobeyed God’s command, Samuel rebuked him by saying that",
     "options": [
       "the sword would never depart from his house",
       "to obey was better than sacrifice",
@@ -8724,7 +8724,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-390-385",
-    "questionText": "In the Epistle to Galatians, Christians are children of God through (JAMB 2008)",
+    "questionText": "In the Epistle to Galatians, Christians are children of God through",
     "options": [
       "faith in Christ",
       "keeping of the law",
@@ -8736,7 +8736,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-391-555",
-    "questionText": "God said to Solomon in a dream, <em>“Ask what I shall give you”</em>. What did Solomon ask for? (JAMB 2010)",
+    "questionText": "God said to Solomon in a dream, <em>“Ask what I shall give you”</em>. What did Solomon ask for?",
     "options": [
       "Power and authority",
       "Great wealth and riches",
@@ -8748,7 +8748,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-392-888",
-    "questionText": "Partially according to James is manifested in the Church through (JAMB 2012)",
+    "questionText": "Partially according to James is manifested in the Church through",
     "options": [
       "discrimination",
       "charity",
@@ -8760,7 +8760,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-393-645",
-    "questionText": "Peter in his epistle enjoined servants to be sub¬missive to their masters with all (JAMB 2010)",
+    "questionText": "Peter in his epistle enjoined servants to be sub¬missive to their masters with all",
     "options": [
       "gentleness",
       "seriousness",
@@ -8772,7 +8772,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-394-273",
-    "questionText": "For worshipping the molten calf, God described the Israelites as (JAMB 2009)",
+    "questionText": "For worshipping the molten calf, God described the Israelites as",
     "options": [
       "a stubborn nation",
       "an unholy nation",
@@ -8784,7 +8784,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-395-628",
-    "questionText": "According to Luke, the multitude that followed Jesus during the triumphal entry rejoiced and praised God with a loud voice because (Luke 19:37-39) (JAMB 2010)",
+    "questionText": "According to Luke, the multitude that followed Jesus during the triumphal entry rejoiced and praised God with a loud voice because (Luke 19:37-39)",
     "options": [
       "they realized that Jesus was a prophet",
       "of the mighty works He had done",
@@ -8796,7 +8796,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-396-21",
-    "questionText": "The names of the two kings of Jericho destroyed by the Israelites during the conquest were  (JAMB 2006)",
+    "questionText": "The names of the two kings of Jericho destroyed by the Israelites during the conquest were",
     "options": [
       "Adonija and Haggith",
       "Shion and Og",
@@ -8808,7 +8808,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-397-844",
-    "questionText": "“Do you mean to kill me as you killed the Egyptian?”This statement made Moses aware of the fact that  (JAMB 2012)",
+    "questionText": "“Do you mean to kill me as you killed the Egyptian?”This statement made Moses aware of the fact that",
     "options": [
       "some Israelites did not like him",
       "God was sending him to Midian",
@@ -8820,7 +8820,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-398-729",
-    "questionText": "St. Peter's teaching on Civic Responsibility centers upon_____ (JAMB 2019)",
+    "questionText": "St. Peter's teaching on Civic Responsibility centers upon_____",
     "options": [
       "Good Neighbourliness",
       "Social Advancement",
@@ -8832,7 +8832,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-399-926",
-    "questionText": "Philip’s flight into Samaria was necesitated by  (JAMB 2013)",
+    "questionText": "Philip’s flight into Samaria was necesitated by",
     "options": [
       "the need to convert the Samarians.",
       "directive from the Holy Spirit.",
@@ -8844,7 +8844,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-400-763",
-    "questionText": "St Paul's teaching on spiritual gifts was directed to _______ (JAMB 2019)",
+    "questionText": "St Paul's teaching on spiritual gifts was directed to _______",
     "options": [
       "Corinthians",
       "Thessalonians",
@@ -8856,7 +8856,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-401-887",
-    "questionText": "\n Which of the following, accordings to James is an important\n factor for effective prayer?\n (JAMB 2012)",
+    "questionText": "\n Which of the following, accordings to James is an important\n factor for effective prayer?\n",
     "options": [
       "Love",
       "Faith",
@@ -8868,7 +8868,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-402-1048",
-    "questionText": "The sons of Samuel misused their privileged positions by         (JAMB 2015)",
+    "questionText": "The sons of Samuel misused their privileged positions by",
     "options": [
       "not allowing the fats of animals to burn first to God",
       "sleeping with women who came to sacrifice",
@@ -8880,7 +8880,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-403-252",
-    "questionText": "In his teaching on partiality, James declares that mercy triumphs over (JAMB 2009)",
+    "questionText": "In his teaching on partiality, James declares that mercy triumphs over",
     "options": [
       "judgment",
       "righteousness",
@@ -8892,7 +8892,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-404-191",
-    "questionText": "Who was the prophet who said “I will put my law within them, and will write it upon their heart….”?   (JAMB 2013)",
+    "questionText": "Who was the prophet who said “I will put my law within them, and will write it upon their heart….”?",
     "options": [
       "Isaiah",
       "Jeremiah",
@@ -8904,7 +8904,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-405-951",
-    "questionText": "Asa is an example of a parent (JAMB 2011)",
+    "questionText": "Asa is an example of a parent",
     "options": [
       "who failed to direct his children’s path.",
       "who admonished his children.",
@@ -8916,7 +8916,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-406-42",
-    "questionText": "Josiah’s reign was popular because of his  (JAMB 2007)",
+    "questionText": "Josiah’s reign was popular because of his",
     "options": [
       "allies",
       "victory",
@@ -8928,7 +8928,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-407-524",
-    "questionText": "The king who captured and drove the Israelites into exile during the reign of Jehoiachin was (JAMB 2015)",
+    "questionText": "The king who captured and drove the Israelites into exile during the reign of Jehoiachin was",
     "options": [
       "Nebuchadnezzar",
       "Darius",
@@ -8940,7 +8940,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-408-357",
-    "questionText": "In his reform, King Josiah first attacked the (JAMB 2008)",
+    "questionText": "In his reform, King Josiah first attacked the",
     "options": [
       "prostitutes that came around the temple at night",
       "priests that made burnt offerings in the temple",
@@ -8952,7 +8952,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-409-75",
-    "questionText": "In the case before Solomon over the deal and the living, child the mother of the dead child supported.  (JAMB 2009)",
+    "questionText": "In the case before Solomon over the deal and the living, child the mother of the dead child supported.",
     "options": [
       "Giving the living child to her opponent",
       "Killing the living child",
@@ -8964,7 +8964,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-410-830",
-    "questionText": "By saying that no human being will be justified in the sight of God by works: Paul meant that  (JAMB 2010)",
+    "questionText": "By saying that no human being will be justified in the sight of God by works: Paul meant that",
     "options": [
       "the mosaic law was useless in ensuring justification for man.",
       "the law had been weakened in human flesh.",
@@ -8976,7 +8976,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-411-461",
-    "questionText": "The punishment of Israel according to the vision of Jeremiah includes all the following except (JAMB 2009)",
+    "questionText": "The punishment of Israel according to the vision of Jeremiah includes all the following except",
     "options": [
       "occupation of the land by foreigners.",
       "restoration of their kings and priests.",
@@ -8988,7 +8988,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-412-448",
-    "questionText": "In their dealings with God, Abraham and Sarah learnt the \tfollowing lessons except that God is (JAMB 2009)",
+    "questionText": "In their dealings with God, Abraham and Sarah learnt the \tfollowing lessons except that God is",
     "options": [
       "able to bless the righteous.",
       "faithful to His promise",
@@ -9000,7 +9000,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-413-194",
-    "questionText": "In what way was Moses a prototype of Jesus Christ? (JAMB 2013)",
+    "questionText": "In what way was Moses a prototype of Jesus Christ?",
     "options": [
       "Moses was a great prophet who led Israel out of Egypt",
       "Moses did not die naturally",
@@ -9012,7 +9012,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-414-168",
-    "questionText": "Paul, the apostle to the gentile, was a native of   (JAMB 2012)",
+    "questionText": "Paul, the apostle to the gentile, was a native of",
     "options": [
       "Perga in Pamphylis",
       "Rome",
@@ -9024,7 +9024,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-415-390",
-    "questionText": "The purpose of grace is to (JAMB 2008)",
+    "questionText": "The purpose of grace is to",
     "options": [
       "justify the law",
       "cancel the law",
@@ -9036,7 +9036,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-416-756",
-    "questionText": "The name \"Jezreel\" is a representation of ______ (JAMB 2019)",
+    "questionText": "The name \"Jezreel\" is a representation of ______",
     "options": [
       "Hosea's discontent with his wife",
       "Victory upon the enemies of Israel",
@@ -9048,7 +9048,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-417-987",
-    "questionText": "According to Paul, God gives us victory over death through  (JAMB 2011)",
+    "questionText": "According to Paul, God gives us victory over death through",
     "options": [
       "Adam",
       "Jesus",
@@ -9060,7 +9060,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-418-898",
-    "questionText": "Who among the following was to ensure the safety of King Saul in the wilderness of Ziph?  (JAMB 2013)",
+    "questionText": "Who among the following was to ensure the safety of King Saul in the wilderness of Ziph?",
     "options": [
       "Joab",
       "Jonathan",
@@ -9072,7 +9072,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-419-174",
-    "questionText": "Israel went into Assyria captivity in (JAMB 2013)",
+    "questionText": "Israel went into Assyria captivity in",
     "options": [
       "720BC",
       "730 AD",
@@ -9084,7 +9084,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-420-983",
-    "questionText": "The gifts of the spirit which could be regarded as “vocal gifts”  are  (JAMB 2011)",
+    "questionText": "The gifts of the spirit which could be regarded as “vocal gifts”  are",
     "options": [
       "healing, miracles and faith",
       "wisdom, knowledge and discernment",
@@ -9096,7 +9096,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-421-344",
-    "questionText": "At the second coming of Christ, those who are alive shall be (JAMB 2011)",
+    "questionText": "At the second coming of Christ, those who are alive shall be",
     "options": [
       "bound for life",
       "caught up together with the Lord",
@@ -9108,7 +9108,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-422-728",
-    "questionText": "Peter healed Aeneas who had been bedridden for ____ years? (JAMB 2019)",
+    "questionText": "Peter healed Aeneas who had been bedridden for ____ years?",
     "options": [
       "Four",
       "Six",
@@ -9120,7 +9120,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-423-835",
-    "questionText": "What advice did Peter give to the elders of the church in their relationship with the younger members?  (JAMB 2010)",
+    "questionText": "What advice did Peter give to the elders of the church in their relationship with the younger members?",
     "options": [
       "Work as if being under external constraint",
       "Work without a domineering spirit",
@@ -9132,7 +9132,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-424-36",
-    "questionText": "The king of Persia who made it possible for the return of the exiles from Babylon was  (JAMB 2007)",
+    "questionText": "The king of Persia who made it possible for the return of the exiles from Babylon was",
     "options": [
       "Dairus",
       "Cyrus",
@@ -9144,7 +9144,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-425-769",
-    "questionText": "\"Do not be afraid; for I know what you seek, Jesus who was crucified...\" This statement was made__________ (JAMB 2019)",
+    "questionText": "\"Do not be afraid; for I know what you seek, Jesus who was crucified...\" This statement was made__________",
     "options": [
       "by Joseph of Arimathea",
       "to Mary Magdalene and Mary the mother of James",
@@ -9156,7 +9156,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-426-345",
-    "questionText": "According to James, treatment of brethren at fellowship should not be based on (JAMB 2011)",
+    "questionText": "According to James, treatment of brethren at fellowship should not be based on",
     "options": [
       "appearance",
       "sentiments",
@@ -9168,7 +9168,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788725139562-427-319",
-    "questionText": "In his vision, Isaiah’s guilt was taken away and his sin forgiven after (JAMB 2011)",
+    "questionText": "In his vision, Isaiah’s guilt was taken away and his sin forgiven after",
     "options": [
       "the angel of the LORD appeared to him",
       "his mouth was touched with a burning coal",
@@ -9180,7 +9180,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-0-332",
-    "questionText": "Jesus charged His followers to walk in the light while they had the light so that they may (JAMB 2011)",
+    "questionText": "Jesus charged His followers to walk in the light while they had the light so that they may",
     "options": [
       "have eternal life",
       "become custodians of it",
@@ -9192,7 +9192,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-1-106",
-    "questionText": "The sun stood still when  (JAMB 2010)",
+    "questionText": "The sun stood still when",
     "options": [
       "Moses led the Israelites out of Egypt",
       "Jericho fell to the army of Joshua",
@@ -9204,7 +9204,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-2-104",
-    "questionText": "Each of these spies sent out by Moses on God’s command to report on the nature of the promised land was a  (JAMB 2010)",
+    "questionText": "Each of these spies sent out by Moses on God’s command to report on the nature of the promised land was a",
     "options": [
       "great warrior",
       "wise judge",
@@ -9216,7 +9216,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-3-353",
-    "questionText": "God provided water for the Israelites by asking Moses to strike the rock at trice wilderness of (JAMB 2008)",
+    "questionText": "God provided water for the Israelites by asking Moses to strike the rock at trice wilderness of",
     "options": [
       "Rephidium",
       "sin",
@@ -9228,7 +9228,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-4-349",
-    "questionText": "Which of the following was not part of the honour done to Joseph when Pharaoh made him a ruler in Egypt? (JAMB 2008)",
+    "questionText": "Which of the following was not part of the honour done to Joseph when Pharaoh made him a ruler in Egypt?",
     "options": [
       "Joseph was made to address the people",
       "The land of Goshen was given to Joseph",
@@ -9240,7 +9240,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-5-1055",
-    "questionText": "The main lesson to be learnt from Elijah’s victory at Mount   Carmel is (JAMB 2015)",
+    "questionText": "The main lesson to be learnt from Elijah’s victory at Mount   Carmel is",
     "options": [
       "God empowers his prophets",
       "the failure of false prophets",
@@ -9252,7 +9252,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-6-940",
-    "questionText": "According to Peter, Christians who suffer for Christ should not be ashamed but should (JAMB 2013)",
+    "questionText": "According to Peter, Christians who suffer for Christ should not be ashamed but should",
     "options": [
       "glorify God.",
       "be encouraged.",
@@ -9264,7 +9264,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-7-85",
-    "questionText": "Hosanna means   (JAMB 2009)",
+    "questionText": "Hosanna means",
     "options": [
       "Ride on in majesty",
       "Ride on Glory",
@@ -9276,7 +9276,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-8-108",
-    "questionText": "The commander of David’s army was  (JAMB 2010)",
+    "questionText": "The commander of David’s army was",
     "options": [
       "Abner",
       "Joab",
@@ -9288,7 +9288,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-9-417",
-    "questionText": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by (JAMB 2013)",
+    "questionText": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by",
     "options": [
       "Micaiah",
       "Amaziah",
@@ -9300,7 +9300,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-10-968",
-    "questionText": "The gospel which gives prominence to the Holy Spirit in the life of Jesus Christ is (JAMB 2011)",
+    "questionText": "The gospel which gives prominence to the Holy Spirit in the life of Jesus Christ is",
     "options": [
       "Matthew.",
       "Mark.",
@@ -9312,7 +9312,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-11-448",
-    "questionText": "In their dealings with God, Abraham and Sarah learnt the \tfollowing lessons except that God is (JAMB 2009)",
+    "questionText": "In their dealings with God, Abraham and Sarah learnt the \tfollowing lessons except that God is",
     "options": [
       "able to bless the righteous.",
       "faithful to His promise",
@@ -9324,7 +9324,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-12-558",
-    "questionText": "Elijah destroyed the prophets of Baal (JAMB 2010)",
+    "questionText": "Elijah destroyed the prophets of Baal",
     "options": [
       "to oppose Baal worship.",
       "as an act of revenge.",
@@ -9336,7 +9336,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-13-486",
-    "questionText": "Paul’s teaching in Colossians on love, respect and obedience concerns (JAMB 2009)",
+    "questionText": "Paul’s teaching in Colossians on love, respect and obedience concerns",
     "options": [
       "Christian giving.",
       "family relationship.",
@@ -9348,7 +9348,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-14-360",
-    "questionText": "The universal nature of God was demonstrated in the salvation of the people of (JAMB 2008)",
+    "questionText": "The universal nature of God was demonstrated in the salvation of the people of",
     "options": [
       "Joppa",
       "Tarshish",
@@ -9360,7 +9360,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-15-884",
-    "questionText": "The visitors of Peter after his vision at Joppa were from  (JAMB 2012)",
+    "questionText": "The visitors of Peter after his vision at Joppa were from",
     "options": [
       "Jerusalem",
       "Samaria",
@@ -9372,7 +9372,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-16-300",
-    "questionText": "When asked to interpret Pharaoh’s dream, Joseph’s first response was (JAMB 2011)",
+    "questionText": "When asked to interpret Pharaoh’s dream, Joseph’s first response was",
     "options": [
       "...God has revealed to Pharaoh what he is about to do.",
       "...It is not in me; God will give Pharaoh a favourable answer.",
@@ -9384,7 +9384,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-17-56",
-    "questionText": "He shall save his people from their sins. Who is being referred to here?  (JAMB 2008)",
+    "questionText": "He shall save his people from their sins. Who is being referred to here?",
     "options": [
       "John the Baptist",
       "Elijah",
@@ -9396,7 +9396,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-18-113",
-    "questionText": "The Pharisees and the Scribes accused the disciples of Jesus transgressing the tradition of the elders because they  (JAMB 2010)",
+    "questionText": "The Pharisees and the Scribes accused the disciples of Jesus transgressing the tradition of the elders because they",
     "options": [
       "did not regard synagogue rules",
       "did not pray before meals",
@@ -9408,7 +9408,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-19-469",
-    "questionText": "After his baptism Jesus began to (JAMB 2009)",
+    "questionText": "After his baptism Jesus began to",
     "options": [
       "proclaim the kingdom of God.",
       "baptize others.",
@@ -9420,7 +9420,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-20-392",
-    "questionText": "The concept of  forgiveness does not include (JAMB 2008)",
+    "questionText": "The concept of  forgiveness does not include",
     "options": [
       "reconciliation",
       "restoration",
@@ -9432,7 +9432,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-21-267",
-    "questionText": "Jesus: stilling of the storm was to (JAMB 2009)",
+    "questionText": "Jesus: stilling of the storm was to",
     "options": [
       "escape from danger",
       "impress His disciples",
@@ -9444,7 +9444,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-22-802",
-    "questionText": "Solomon told Hiram, King of Tyre, that he had decided to  (JAMB 2010)",
+    "questionText": "Solomon told Hiram, King of Tyre, that he had decided to",
     "options": [
       "the Lord had given him peace and all good things.",
       "his father, David, never intended to build one",
@@ -9456,7 +9456,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-23-943",
-    "questionText": "God prepared Joseph for his leadership role in Egypt through (JAMB 2011)",
+    "questionText": "God prepared Joseph for his leadership role in Egypt through",
     "options": [
       "the love which his father had for him.",
       "the trials and temptations of his earlier years.",
@@ -9468,7 +9468,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-24-554",
-    "questionText": "When Abner wanted to transfer his allegiance to David, the latter gave him the condition to (JAMB 2010)",
+    "questionText": "When Abner wanted to transfer his allegiance to David, the latter gave him the condition to",
     "options": [
       "openly submit to Joab.",
       "convince all Israel to come over to David.",
@@ -9480,7 +9480,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-25-220",
-    "questionText": "The seeds that fell among thorns represent those who hear the word of God but lose it because (JAMB 2005)",
+    "questionText": "The seeds that fell among thorns represent those who hear the word of God but lose it because",
     "options": [
       "they refuse to be baptized in water",
       "their parental background does not allow them to believe",
@@ -9492,7 +9492,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-26-477",
-    "questionText": "Whoever drinks the water Jesus gives will never thirst? What is this water? (JAMB 2009)",
+    "questionText": "Whoever drinks the water Jesus gives will never thirst? What is this water?",
     "options": [
       "The spirit of God.",
       "Holy and anointed water.",
@@ -9504,7 +9504,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-27-508",
-    "questionText": "“ ..... I will surely tear the kingdom from you and will give it to your servant .....” An unwise decision of Solomon that resulted in God making the pronouncement above was his (JAMB 2015)",
+    "questionText": "“ ..... I will surely tear the kingdom from you and will give it to your servant .....” An unwise decision of Solomon that resulted in God making the pronouncement above was his",
     "options": [
       "dependence on other nations for supplies",
       "policy of forced labour",
@@ -9516,7 +9516,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-28-1061",
-    "questionText": "Nebuchadnezzar allowed the Chaldeans, Syrians and Moabites to attack Judah so that Judah might  (JAMB 2015)",
+    "questionText": "Nebuchadnezzar allowed the Chaldeans, Syrians and Moabites to attack Judah so that Judah might",
     "options": [
       "learn a lesson",
       "be destroyed",
@@ -9528,7 +9528,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-29-227",
-    "questionText": "The experience which totally changed Paul’s focus in life was his (JAMB 2005)",
+    "questionText": "The experience which totally changed Paul’s focus in life was his",
     "options": [
       "witnessing the martyrdom of Stephen",
       "determination to wipe out the church",
@@ -9540,7 +9540,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-30-828",
-    "questionText": "Why according to Paul must Christians be subject to civil authority?  (JAMB 2010)",
+    "questionText": "Why according to Paul must Christians be subject to civil authority?",
     "options": [
       "To receive God’s approval",
       "To avoid God’s wrath",
@@ -9552,7 +9552,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-31-703",
-    "questionText": "And the prayer of _________ shall save the sick. And the lord shall raise him up; and if he hath committed sins, they shall be forgiven him.” (JAMB 2019)",
+    "questionText": "And the prayer of _________ shall save the sick. And the lord shall raise him up; and if he hath committed sins, they shall be forgiven him.”",
     "options": [
       "petition",
       "intercession",
@@ -9564,7 +9564,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-32-685",
-    "questionText": "In his comparison of the human body with the body of Christ, Paul did not mention the (JAMB 2011)",
+    "questionText": "In his comparison of the human body with the body of Christ, Paul did not mention the",
     "options": [
       "hand.",
       "foot.",
@@ -9576,7 +9576,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-33-225",
-    "questionText": "The final trial of Jesus was presided over by (JAMB 2005)",
+    "questionText": "The final trial of Jesus was presided over by",
     "options": [
       "Herod",
       "Caiaphas",
@@ -9588,7 +9588,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-34-564",
-    "questionText": "According to Amos’ prophecy, the “Day of the Lord” to the Israelites would be a day of (JAMB 2010)",
+    "questionText": "According to Amos’ prophecy, the “Day of the Lord” to the Israelites would be a day of",
     "options": [
       "victory over enemies",
       "happiness.",
@@ -9600,7 +9600,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-35-992",
-    "questionText": "Moses was bom at a period when the Hebrews were (JAMB 2011)",
+    "questionText": "Moses was bom at a period when the Hebrews were",
     "options": [
       "suffering.",
       ". increasing",
@@ -9612,7 +9612,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-36-198",
-    "questionText": "During the creative activity of God, He made the beasts (JAMB 2005)",
+    "questionText": "During the creative activity of God, He made the beasts",
     "options": [
       "in His own image",
       "to multiply on the earth",
@@ -9624,7 +9624,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-37-258",
-    "questionText": "In the country of the Gerasenes, Jesus healed the (JAMB 2009)",
+    "questionText": "In the country of the Gerasenes, Jesus healed the",
     "options": [
       "man possessed of demons",
       "paralytic at the pool",
@@ -9636,7 +9636,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-38-377",
-    "questionText": "The miracles of Jesus in St. John’s Gospel are referred to as signs’ of the (JAMB 2008)",
+    "questionText": "The miracles of Jesus in St. John’s Gospel are referred to as signs’ of the",
     "options": [
       "manifestations of Jesus as the Messiah",
       "consuming power of God’s glory",
@@ -9648,7 +9648,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-39-637",
-    "questionText": "According to Galatians, the death of Christ has eliminate all forms of (JAMB 2010)",
+    "questionText": "According to Galatians, the death of Christ has eliminate all forms of",
     "options": [
       "suffering",
       "differences",
@@ -9660,7 +9660,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-40-579",
-    "questionText": "The conversion of the Ethiopian eunuch confirms the (JAMB 2010)",
+    "questionText": "The conversion of the Ethiopian eunuch confirms the",
     "options": [
       "universality of the gospel.",
       "work of the Apostles.",
@@ -9672,7 +9672,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-41-588",
-    "questionText": "According to Peter, a Christian should exercise his freedom by (JAMB 2010)",
+    "questionText": "According to Peter, a Christian should exercise his freedom by",
     "options": [
       "doing what is right.",
       "claiming his freedom at all cost.",
@@ -9684,7 +9684,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-42-819",
-    "questionText": "Apart from the miracles at the wedding feast, another miracle of Jesus at Cana in Galilee was (JAMB 2010)",
+    "questionText": "Apart from the miracles at the wedding feast, another miracle of Jesus at Cana in Galilee was",
     "options": [
       "feeding the four thousan",
       "healing the noble man’s son.",
@@ -9696,7 +9696,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-43-414",
-    "questionText": "When the three Hebrew men refused to worship the King’s image, he commanded that they be (JAMB 2013)",
+    "questionText": "When the three Hebrew men refused to worship the King’s image, he commanded that they be",
     "options": [
       "thrown into a furnace",
       "stoned",
@@ -9708,7 +9708,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-44-650",
-    "questionText": "After the departure of the Israelites God made Pharaoh pursue them in order to (JAMB 2011)",
+    "questionText": "After the departure of the Israelites God made Pharaoh pursue them in order to",
     "options": [
       "force Israel to return to Egypt.",
       "hasten Israel’s journey through the wilderness.",
@@ -9720,7 +9720,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-45-479",
-    "questionText": "John’s summary of God’s love for the world is that He (JAMB 2009)",
+    "questionText": "John’s summary of God’s love for the world is that He",
     "options": [
       "sent his son to judge the world righteously.",
       "created man in his own image with authority.",
@@ -9732,7 +9732,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-46-1084",
-    "questionText": "James taught that Christians should offer prayers of thanksgiving when they are  (JAMB 2015)",
+    "questionText": "James taught that Christians should offer prayers of thanksgiving when they are",
     "options": [
       "remorseful",
       "sick",
@@ -9744,7 +9744,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-47-131",
-    "questionText": "Pick the odd out of the following characters:   (JAMB 2011)",
+    "questionText": "Pick the odd out of the following characters:",
     "options": [
       "Saul",
       "David",
@@ -9756,7 +9756,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-48-676",
-    "questionText": "On Ascension Day two men in white robes inform the disciples that Jesus would (JAMB 2011)",
+    "questionText": "On Ascension Day two men in white robes inform the disciples that Jesus would",
     "options": [
       "send for them.",
       "be seen in heaven.",
@@ -9768,7 +9768,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-49-781",
-    "questionText": "Herod Agrippa persecuted Peter primarily to______ (JAMB 2019)",
+    "questionText": "Herod Agrippa persecuted Peter primarily to______",
     "options": [
       "contain the news about Jesus' resurrection",
       "signal to the Apostles that he wouldn't tolerate them",
@@ -9780,7 +9780,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-50-1086",
-    "questionText": "As they were sharing Christ’s sufferings, Peter advised Christians to (JAMB 2015)",
+    "questionText": "As they were sharing Christ’s sufferings, Peter advised Christians to",
     "options": [
       "be prayerful",
       "rejoice",
@@ -9792,7 +9792,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-51-323",
-    "questionText": "‘Follow me and leave the dead to bury their own dead’ By this statement, Jesus means that (JAMB 2011)",
+    "questionText": "‘Follow me and leave the dead to bury their own dead’ By this statement, Jesus means that",
     "options": [
       "disciples shall not attend burials",
       "there is no life after death",
@@ -9804,7 +9804,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-52-138",
-    "questionText": "The phrase ‘you cows of Bashan’ referred to  (JAMB 2011)",
+    "questionText": "The phrase ‘you cows of Bashan’ referred to",
     "options": [
       "Cows in the land of Bashan",
       "The fat and greedy men of Israel who oppress the priest",
@@ -9816,7 +9816,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-53-188",
-    "questionText": "‘Those who honour me I will honour , and those who despise  me shall be lightly esteemed.’ Who was being addressed?   (JAMB 2013)",
+    "questionText": "‘Those who honour me I will honour , and those who despise  me shall be lightly esteemed.’ Who was being addressed?",
     "options": [
       "Eli",
       "Samuel",
@@ -9828,7 +9828,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-54-232",
-    "questionText": "Paul argued that Jesus died for us while we were yet sinners in order to (JAMB 2005)",
+    "questionText": "Paul argued that Jesus died for us while we were yet sinners in order to",
     "options": [
       "prove that he was not an ordinary man",
       "show Gods’ love for sinful man",
@@ -9840,7 +9840,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-55-725",
-    "questionText": "Jesus charged Christians to express love just as________ (JAMB 2019)",
+    "questionText": "Jesus charged Christians to express love just as________",
     "options": [
       "He taught them the new commandment",
       "They would do with their neighbours",
@@ -9852,7 +9852,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-56-816",
-    "questionText": "In one of the resurrection appearances Jesus asked his disciples, whether they had anything to eat as he  (JAMB 2010)",
+    "questionText": "In one of the resurrection appearances Jesus asked his disciples, whether they had anything to eat as he",
     "options": [
       "was hungry after three days in the grave without foo",
       "suspected that the disciples stock may have finished",
@@ -9864,7 +9864,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-57-633",
-    "questionText": "Paul informed the Galatians that the gospel he preached came through (Gal. 3:23-29) (JAMB 2010)",
+    "questionText": "Paul informed the Galatians that the gospel he preached came through (Gal. 3:23-29)",
     "options": [
       "a revelation of Jesus Christ",
       "his desire to lead them",
@@ -9876,7 +9876,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-58-865",
-    "questionText": " Hosea described the relationship between God and Israel as (JAMB 2012)",
+    "questionText": " Hosea described the relationship between God and Israel as",
     "options": [
       "a covenant contract",
       "a marriage bond",
@@ -9888,7 +9888,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-59-647",
-    "questionText": "Moses was born at a period when the Hebrew were (JAMB 2011)",
+    "questionText": "Moses was born at a period when the Hebrew were",
     "options": [
       "suffering.",
       "increasing.",
@@ -9900,7 +9900,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-60-99",
-    "questionText": "Why did David spare the life of Saul at Ziph?  (JAMB 2010)",
+    "questionText": "Why did David spare the life of Saul at Ziph?",
     "options": [
       "he recognized Gods anointing on Saul",
       "Saul was also an Israelite",
@@ -9912,7 +9912,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-61-346",
-    "questionText": "Peter in his epistle, charged his fellow elders to (JAMB 2011)",
+    "questionText": "Peter in his epistle, charged his fellow elders to",
     "options": [
       "take care of their families",
       "be strong in their faith",
@@ -9924,7 +9924,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-62-1057",
-    "questionText": "Gehazi became a leper because of his (JAMB 2015)",
+    "questionText": "Gehazi became a leper because of his",
     "options": [
       "deceitfulness",
       "greed",
@@ -9936,7 +9936,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-63-94",
-    "questionText": "Which prophet encouraged Jeroboam I to  revolt at the initial stage?  (JAMB 2009)",
+    "questionText": "Which prophet encouraged Jeroboam I to  revolt at the initial stage?",
     "options": [
       "Micaiah",
       "Jeremiah",
@@ -9948,7 +9948,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-64-1029",
-    "questionText": "Which of the following is not true about spiritual gifts as taught by Paul?  (JAMB 2011)",
+    "questionText": "Which of the following is not true about spiritual gifts as taught by Paul?",
     "options": [
       "Gifts should be used with all modesty",
       "No gift can be independent of others",
@@ -9960,7 +9960,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-65-211",
-    "questionText": "Who among the prophets was referred to as a prophet of doom? (JAMB 2005)",
+    "questionText": "Who among the prophets was referred to as a prophet of doom?",
     "options": [
       "Isaiah",
       "Ezekiel",
@@ -9972,7 +9972,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-66-335",
-    "questionText": "Saul was convened so that he might (JAMB 2011)",
+    "questionText": "Saul was convened so that he might",
     "options": [
       "cause confusion among the Jews",
       "help Peter in his work",
@@ -9984,7 +9984,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-67-235",
-    "questionText": "Paul said he was not fit to be called an apostle because he (JAMB 2005)",
+    "questionText": "Paul said he was not fit to be called an apostle because he",
     "options": [
       "was not called like the others",
       "was not a Jew",
@@ -9996,7 +9996,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-68-540",
-    "questionText": "One of the prophets that prophesied hope for Israel in spite of God’s promise of punishment was (JAMB 2015)",
+    "questionText": "One of the prophets that prophesied hope for Israel in spite of God’s promise of punishment was",
     "options": [
       "Amos",
       "Jeremiah",
@@ -10008,7 +10008,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-69-722",
-    "questionText": "The model example for wives in Christian families according to St Peter is _____ (JAMB 2019)",
+    "questionText": "The model example for wives in Christian families according to St Peter is _____",
     "options": [
       "Ruth",
       "Deborah",
@@ -10020,7 +10020,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-70-329",
-    "questionText": "Jesus drove the money changers and sellers of doves out of the Temple because (JAMB 2011)",
+    "questionText": "Jesus drove the money changers and sellers of doves out of the Temple because",
     "options": [
       "the people defiled it with dubious business",
       "there was no need for animal sacrifice anymore",
@@ -10032,7 +10032,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691962-71-937",
-    "questionText": "According to Paul’s teaching in Galatians, Christian become sons of God by  (JAMB 2013)",
+    "questionText": "According to Paul’s teaching in Galatians, Christian become sons of God by",
     "options": [
       "According to Paul’s teaching in Galatians, Christian become sons of God by",
       "adoption of Judaism",
@@ -10044,7 +10044,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-72-862",
-    "questionText": "Nehemiah showed concern for this nation by (JAMB 2012)",
+    "questionText": "Nehemiah showed concern for this nation by",
     "options": [
       "reviving Yahweh worship",
       "rebuilding the temple",
@@ -10056,7 +10056,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-73-268",
-    "questionText": "“Can any one forbid water for baptizing these people who have received the Holy Spirit just as we have?” The statement above was made by Peter at the conversion of (JAMB 2009)",
+    "questionText": "“Can any one forbid water for baptizing these people who have received the Holy Spirit just as we have?” The statement above was made by Peter at the conversion of",
     "options": [
       "Herod",
       "Lydia",
@@ -10068,7 +10068,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-74-581",
-    "questionText": "Before Barnabas and Saul were sent on missionary journey, the elders, laid hands on them. The laying on of  hands signifies (JAMB 2010)",
+    "questionText": "Before Barnabas and Saul were sent on missionary journey, the elders, laid hands on them. The laying on of  hands signifies",
     "options": [
       "confirmation.",
       "selection.",
@@ -10080,7 +10080,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-75-879",
-    "questionText": "As a result of Peter’s speech on Pentecost day (JAMB 2012)",
+    "questionText": "As a result of Peter’s speech on Pentecost day",
     "options": [
       "the dispute over drunkenness was resolved",
       "the prophecies of Joel were vindicated",
@@ -10092,7 +10092,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-76-738",
-    "questionText": "The significance of the last supper is evident in all but one of the following------ (JAMB 2019)",
+    "questionText": "The significance of the last supper is evident in all but one of the following------",
     "options": [
       "The Revelation of Judas Betrayal",
       "Prediction of the suffering and death of Jesus",
@@ -10104,7 +10104,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-77-164",
-    "questionText": "The person who was invited to nurse Moses was  (JAMB 2012)",
+    "questionText": "The person who was invited to nurse Moses was",
     "options": [
       "Jochebed",
       "Puah",
@@ -10116,7 +10116,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-78-1058",
-    "questionText": "Which of the following events could be attributed to Josiah?  (JAMB 2015)",
+    "questionText": "Which of the following events could be attributed to Josiah?",
     "options": [
       "Establishing relationship with Assyria",
       "Reconstruction of the valley of Hinnon",
@@ -10128,7 +10128,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-79-618",
-    "questionText": "Isaiah emphasized holiness above all things be¬cause God (JAMB 2010)",
+    "questionText": "Isaiah emphasized holiness above all things be¬cause God",
     "options": [
       "knew their hearts were right with him",
       "was not interested in their sacrifices",
@@ -10140,7 +10140,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-80-1082",
-    "questionText": "Partially, according to James, is practised in the church by  (JAMB 2015)",
+    "questionText": "Partially, according to James, is practised in the church by",
     "options": [
       "neglecting the poor",
       "misusing church funds",
@@ -10152,7 +10152,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-81-748",
-    "questionText": "The Lord protected the Israelites with all but one of the following when the Egyptians chased them (JAMB 2019)",
+    "questionText": "The Lord protected the Israelites with all but one of the following when the Egyptians chased them",
     "options": [
       "Pillar of cloud",
       "Pillar of darkness",
@@ -10164,7 +10164,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-82-256",
-    "questionText": "Angel Gabriel told Zachariah that he would become dumb until John was born because he (JAMB 2009)",
+    "questionText": "Angel Gabriel told Zachariah that he would become dumb until John was born because he",
     "options": [
       "looked down on the Angel",
       "was advanced in age",
@@ -10176,7 +10176,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-83-598",
-    "questionText": "In God’s covenant with Israel, the central theme was (JAMB 2010)",
+    "questionText": "In God’s covenant with Israel, the central theme was",
     "options": [
       "restoration",
       "circumcision",
@@ -10188,7 +10188,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-84-580",
-    "questionText": "After his conversion, Paul was introduced to the disciples in Jerusalem by (JAMB 2010)",
+    "questionText": "After his conversion, Paul was introduced to the disciples in Jerusalem by",
     "options": [
       "Peter",
       "Ananias.",
@@ -10200,7 +10200,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-85-178",
-    "questionText": "Who was the secretary employed by Jeremiah to write his prophecy? (JAMB 2013)",
+    "questionText": "Who was the secretary employed by Jeremiah to write his prophecy?",
     "options": [
       "Amanuensis",
       "Amos",
@@ -10212,7 +10212,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-86-706",
-    "questionText": "In the Gospel of Matthew, Jesus sent the twelve to ___________. (JAMB 2019)",
+    "questionText": "In the Gospel of Matthew, Jesus sent the twelve to ___________.",
     "options": [
       "the Jews",
       "the Gentiles and Samaritans",
@@ -10224,7 +10224,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-87-593",
-    "questionText": "James teaches that the man who shall be blessed is he who (JAMB 2010)",
+    "questionText": "James teaches that the man who shall be blessed is he who",
     "options": [
       "hears the word of God.",
       "knows the law perfectly.",
@@ -10236,7 +10236,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-88-492",
-    "questionText": "“Your blood be upon your heads! I am innocent. From now on I will go to the Gentiles.” This was Paul’s utterance at (JAMB 2009)",
+    "questionText": "“Your blood be upon your heads! I am innocent. From now on I will go to the Gentiles.” This was Paul’s utterance at",
     "options": [
       "Antioch.",
       "Corinth.",
@@ -10248,7 +10248,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-89-1027",
-    "questionText": "According to Paul, ‘As sin reigned in death, grace also might reign through righteousness to  (JAMB 2011)",
+    "questionText": "According to Paul, ‘As sin reigned in death, grace also might reign through righteousness to",
     "options": [
       "faith in God’.",
       "the knowledge of God’.",
@@ -10260,7 +10260,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-90-876",
-    "questionText": "How many groups of people mocked at Jesus on the cross  (JAMB 2012)",
+    "questionText": "How many groups of people mocked at Jesus on the cross",
     "options": [
       "Two",
       "Three",
@@ -10272,7 +10272,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-91-180",
-    "questionText": "The son of Solomon who made unwise decisions was …. (JAMB 2013)",
+    "questionText": "The son of Solomon who made unwise decisions was ….",
     "options": [
       "Jeroboam",
       "Rechoboam",
@@ -10284,7 +10284,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-92-169",
-    "questionText": "In the Sermon on the Mount, Jesus taught his disciples that whenever they faced persecution, they should   (JAMB 2012)",
+    "questionText": "In the Sermon on the Mount, Jesus taught his disciples that whenever they faced persecution, they should",
     "options": [
       "be more serious with their drive for souls",
       "be rejoiced and be exceedingly glad",
@@ -10296,7 +10296,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-93-221",
-    "questionText": "The rich man who ignored the needs of Lazarus lacked (JAMB 2005)",
+    "questionText": "The rich man who ignored the needs of Lazarus lacked",
     "options": [
       "a sense of proportion",
       "parental care",
@@ -10308,7 +10308,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-94-902",
-    "questionText": "Joshua gathered all the tribes of Israel for his farewell address at  (JAMB 2013)",
+    "questionText": "Joshua gathered all the tribes of Israel for his farewell address at",
     "options": [
       "Shechem",
       "Gibeon",
@@ -10320,7 +10320,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-95-1069",
-    "questionText": "Golgotha means the place of (JAMB 2015)",
+    "questionText": "Golgotha means the place of",
     "options": [
       "the dead",
       "crucifixion",
@@ -10332,7 +10332,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-96-381",
-    "questionText": "Which of the following is the result of Christian baptism? (JAMB 2008)",
+    "questionText": "Which of the following is the result of Christian baptism?",
     "options": [
       "Fulfilment of all righteousness",
       "Walking in the newness of life",
@@ -10344,7 +10344,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-97-984",
-    "questionText": "Paul believes that the resurrection of the dead would only occur on the (JAMB 2011)",
+    "questionText": "Paul believes that the resurrection of the dead would only occur on the",
     "options": [
       "last day.",
       "triumphant day.",
@@ -10356,7 +10356,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-98-744",
-    "questionText": "\"It shall be neither mine nor yours; divide it\" what was to be divided? (JAMB 2019)",
+    "questionText": "\"It shall be neither mine nor yours; divide it\" what was to be divided?",
     "options": [
       "Elijah's mantle",
       "Jesus Garment",
@@ -10368,7 +10368,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-99-219",
-    "questionText": "According to Jesus, the seventy disciples who returned from a successful missionary work should rejoice because (JAMB 2005)",
+    "questionText": "According to Jesus, the seventy disciples who returned from a successful missionary work should rejoice because",
     "options": [
       "the demons were subject to them",
       "the sick were healed through their ministry",
@@ -10380,7 +10380,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-100-709",
-    "questionText": "In St. Luke’s record, Jesus specially sent the seventy disciples on mission to _____________. (JAMB 2019)",
+    "questionText": "In St. Luke’s record, Jesus specially sent the seventy disciples on mission to _____________.",
     "options": [
       "every town where he was to visit",
       "Gentile cities only",
@@ -10392,7 +10392,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-101-938",
-    "questionText": "According to Peter, doing the right thing is a way of expressing (JAMB 2013)",
+    "questionText": "According to Peter, doing the right thing is a way of expressing",
     "options": [
       "our rights.",
       "our freedom.",
@@ -10404,7 +10404,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-102-775",
-    "questionText": "... updated Nehemiah about the state of Jerusalem while he was ... (JAMB 2019)",
+    "questionText": "... updated Nehemiah about the state of Jerusalem while he was ...",
     "options": [
       "Ezra, a captive in Babylon",
       "Ezekiah, an Emperor in Babylon",
@@ -10416,7 +10416,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-103-1037",
-    "questionText": "James strongly condemned partiality in the Church for all the following reasons except that it  (JAMB 2011)",
+    "questionText": "James strongly condemned partiality in the Church for all the following reasons except that it",
     "options": [
       "is contrary to Christ’s example of humility",
       "accords due respect to the rich who merit it.",
@@ -10428,7 +10428,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-104-344",
-    "questionText": "At the second coming of Christ, those who are alive shall be (JAMB 2011)",
+    "questionText": "At the second coming of Christ, those who are alive shall be",
     "options": [
       "bound for life",
       "caught up together with the Lord",
@@ -10440,7 +10440,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-105-160",
-    "questionText": "According to the Letter to the Hebrews, why should Christians lay aside every weight and sin which clings so closely?   (JAMB 2012)",
+    "questionText": "According to the Letter to the Hebrews, why should Christians lay aside every weight and sin which clings so closely?",
     "options": [
       "Sin is contagious",
       "Christian can easily be influenced by sinners",
@@ -10452,7 +10452,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-106-873",
-    "questionText": "Which of the following incidents occurred during Jesus’ trial before Caiaphas? (JAMB 2012)",
+    "questionText": "Which of the following incidents occurred during Jesus’ trial before Caiaphas?",
     "options": [
       "The preference of Barabbas to Jesus",
       "The question of payment of tribute",
@@ -10464,7 +10464,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-107-44",
-    "questionText": "Who baptized the Ethiopian Eunuch?  (JAMB 2007)",
+    "questionText": "Who baptized the Ethiopian Eunuch?",
     "options": [
       "Paul",
       "peter",
@@ -10476,7 +10476,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-108-282",
-    "questionText": "What did Gideon call the altar which he built to the LORD? (JAMB 2009)",
+    "questionText": "What did Gideon call the altar which he built to the LORD?",
     "options": [
       "The LORD is merciful",
       "The LORD is peace",
@@ -10488,7 +10488,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-109-617",
-    "questionText": "‘... But let justice roll down like waters, and righteousness like an overflowing stream.’ Amos’ statement above suggests that the society was terribly (JAMB 2010)",
+    "questionText": "‘... But let justice roll down like waters, and righteousness like an overflowing stream.’ Amos’ statement above suggests that the society was terribly",
     "options": [
       "vindictive",
       "abusive",
@@ -10500,7 +10500,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-110-567",
-    "questionText": "Before their first encounter with Jesus, Peter and Andrew were (JAMB 2010)",
+    "questionText": "Before their first encounter with Jesus, Peter and Andrew were",
     "options": [
       "preachers.",
       "tax collectors.",
@@ -10512,7 +10512,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-111-956",
-    "questionText": "Jeremiah’s vision of a boiling pot represented (JAMB 2011)",
+    "questionText": "Jeremiah’s vision of a boiling pot represented",
     "options": [
       "Judah’s sins.",
       "pot of destruction",
@@ -10524,7 +10524,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-112-870",
-    "questionText": "Jesus taught that Christians should forgive their neighbours’ sin (JAMB 2012)",
+    "questionText": "Jesus taught that Christians should forgive their neighbours’ sin",
     "options": [
       "three time only",
       "seventy times seven times",
@@ -10536,7 +10536,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-113-129",
-    "questionText": "One of the following  is not correct about the order of creation in the Creation Stories  (JAMB 2011)",
+    "questionText": "One of the following  is not correct about the order of creation in the Creation Stories",
     "options": [
       "the evening came before the morning",
       "darkness came before light",
@@ -10548,7 +10548,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-114-660",
-    "questionText": "In spite of Solomon’s apostasy, his empire remained intact until his death because (JAMB 2011)",
+    "questionText": "In spite of Solomon’s apostasy, his empire remained intact until his death because",
     "options": [
       "God deferred, for David’s sake, the punishment due to him",
       "he won decisive victories over his enemies.",
@@ -10560,7 +10560,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-115-362",
-    "questionText": "Amos declared that God hated solemn feasts, songs and sacrifices because the people of Israel were (JAMB 2008)",
+    "questionText": "Amos declared that God hated solemn feasts, songs and sacrifices because the people of Israel were",
     "options": [
       "unjust and unrighteous",
       "unforgiving and unrepentant",
@@ -10572,7 +10572,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-116-230",
-    "questionText": "Which of the following was not characteristic of the Early Church? (JAMB 2005)",
+    "questionText": "Which of the following was not characteristic of the Early Church?",
     "options": [
       "Constant change in leadership",
       "Devotion to the teachings of the apostles",
@@ -10584,7 +10584,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-117-330",
-    "questionText": "The tearing of the curtain of the Temple into two at the death of Jesus signifies (JAMB 2011)",
+    "questionText": "The tearing of the curtain of the Temple into two at the death of Jesus signifies",
     "options": [
       "the passing away of the prophets",
       "direct access to God through Christ",
@@ -10596,7 +10596,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-118-961",
-    "questionText": "The opposition to the rebuilding of the temple was resolved by  (JAMB 2011)",
+    "questionText": "The opposition to the rebuilding of the temple was resolved by",
     "options": [
       "constant prayer.",
       "edict issued by Darius",
@@ -10608,7 +10608,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-119-789",
-    "questionText": "St. Paul on 'Civic Responsibility' advised Christians not only to be law-abiding but also_________ (JAMB 2019)",
+    "questionText": "St. Paul on 'Civic Responsibility' advised Christians not only to be law-abiding but also_________",
     "options": [
       "to provide moral advice to those in authority",
       "do what is expected of them",
@@ -10620,7 +10620,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-120-840",
-    "questionText": "Peter recommends submission to the civil authority so as to  (JAMB 2010)",
+    "questionText": "Peter recommends submission to the civil authority so as to",
     "options": [
       "silence the ungodly",
       "encourage the believers.",
@@ -10632,7 +10632,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-121-947",
-    "questionText": "The purpose of Joshua’s add  (JAMB 2011)",
+    "questionText": "The purpose of Joshua’s add",
     "options": [
       "show his love for Go",
       "establish a new covenant with God",
@@ -10644,7 +10644,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-122-911",
-    "questionText": "According to Matthew’s account of the baptism of Jesus, the voice from heaven said  (JAMB 2013)",
+    "questionText": "According to Matthew’s account of the baptism of Jesus, the voice from heaven said",
     "options": [
       "“here is my beloved son...”",
       "“this is my beloved son...”",
@@ -10656,7 +10656,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-123-217",
-    "questionText": "According to Jesus, a disciple must not (JAMB 2005)",
+    "questionText": "According to Jesus, a disciple must not",
     "options": [
       "hate his parents and family",
       "bear his own cross",
@@ -10668,7 +10668,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-124-145",
-    "questionText": "The Amalekites who opposed the Israelites in the wilderness were from the lineage of   (JAMB 2011)",
+    "questionText": "The Amalekites who opposed the Israelites in the wilderness were from the lineage of",
     "options": [
       "Benjamin",
       "Jacob",
@@ -10680,7 +10680,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-125-800",
-    "questionText": "slay Ishbosheth. Saul’s successor. (JAMB 2010)",
+    "questionText": "slay Ishbosheth. Saul’s successor.",
     "options": [
       "Power and authority",
       "Great wealth and riches",
@@ -10692,7 +10692,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-126-37",
-    "questionText": "The meaning of Emmanuel is  (JAMB 2007)",
+    "questionText": "The meaning of Emmanuel is",
     "options": [
       "laughter",
       "“for I draw him from water",
@@ -10704,7 +10704,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-127-135",
-    "questionText": "How many disciples of Jesus Christ were fishermen?  (JAMB 2011)",
+    "questionText": "How many disciples of Jesus Christ were fishermen?",
     "options": [
       "two",
       "three",
@@ -10716,7 +10716,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-128-642",
-    "questionText": "Busy bodies and those living in idleness in the church at Thessalonica were admonished to (JAMB 2010)",
+    "questionText": "Busy bodies and those living in idleness in the church at Thessalonica were admonished to",
     "options": [
       "pray for those in authority for peace",
       "do their work in quietness and earn a living",
@@ -10728,7 +10728,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-129-786",
-    "questionText": "The Last Supper refers the last meal Jesus had with His disciples immediately before His_____ (JAMB 2019)",
+    "questionText": "The Last Supper refers the last meal Jesus had with His disciples immediately before His_____",
     "options": [
       "arrest and crucification",
       "crucification and death",
@@ -10740,7 +10740,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-130-511",
-    "questionText": "A good example of parental responsibility was demonstrated by (JAMB 2015)",
+    "questionText": "A good example of parental responsibility was demonstrated by",
     "options": [
       "Samuel",
       "Eli",
@@ -10752,7 +10752,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-131-963",
-    "questionText": "Jesus taught in parables in order to (JAMB 2011)",
+    "questionText": "Jesus taught in parables in order to",
     "options": [
       "make known the secrets of the kingdom",
       "hide the secrets of life from the public.",
@@ -10764,7 +10764,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-132-1022",
-    "questionText": "“Go up and join this chariot”.   This statement was made to  (JAMB 2011)",
+    "questionText": "“Go up and join this chariot”.   This statement was made to",
     "options": [
       "John.",
       "Paul.",
@@ -10776,7 +10776,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-133-849",
-    "questionText": "Beside being a true prophetess, Deborah could also be described as a woman of (JAMB 2012)",
+    "questionText": "Beside being a true prophetess, Deborah could also be described as a woman of",
     "options": [
       "love",
       "glory",
@@ -10788,7 +10788,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-134-669",
-    "questionText": "“My son your sins are forgiven”. These were the words of Jesus to the (JAMB 2011)",
+    "questionText": "“My son your sins are forgiven”. These were the words of Jesus to the",
     "options": [
       "demoniac.",
       "paralytic.",
@@ -10800,7 +10800,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-135-270",
-    "questionText": "The message in the parable of the weeds is to (JAMB 2009)",
+    "questionText": "The message in the parable of the weeds is to",
     "options": [
       "make Christians to be aware of the evil one",
       "remind Christians to pray always",
@@ -10812,7 +10812,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-136-994",
-    "questionText": "The name Moses means  (JAMB 2011)",
+    "questionText": "The name Moses means",
     "options": [
       "baptized in water",
       "abandoned in water.",
@@ -10824,7 +10824,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-137-920",
-    "questionText": "What did Jesus do at Jacob’s well to occasion a conversation between him and the Samaritan woman? Jesus (JAMB 2013)",
+    "questionText": "What did Jesus do at Jacob’s well to occasion a conversation between him and the Samaritan woman? Jesus",
     "options": [
       "told her about her past life",
       "drove away her attackers.",
@@ -10836,7 +10836,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-138-616",
-    "questionText": "In Prophet Hosea’s analysis, harlotry is equivalent to Israel’s (JAMB 2010)",
+    "questionText": "In Prophet Hosea’s analysis, harlotry is equivalent to Israel’s",
     "options": [
       "prostitution",
       "idolatrous practices",
@@ -10848,7 +10848,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-139-241",
-    "questionText": "At the coming of the Lord, unbelievers will (JAMB 2005)",
+    "questionText": "At the coming of the Lord, unbelievers will",
     "options": [
       "be condemned",
       "have a desolate land",
@@ -10860,7 +10860,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-140-771",
-    "questionText": "In the Gospel according to St. Matthew, Jesus sent His disciples to_______ (JAMB 2019)",
+    "questionText": "In the Gospel according to St. Matthew, Jesus sent His disciples to_______",
     "options": [
       "the Gentiles",
       "the Samaritans",
@@ -10872,7 +10872,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-141-535",
-    "questionText": "In his teaching on Spiritual gifts in Corinthians, Paul said that all gifts are inspired by (JAMB 2015)",
+    "questionText": "In his teaching on Spiritual gifts in Corinthians, Paul said that all gifts are inspired by",
     "options": [
       "the same Spirit",
       "prayer",
@@ -10884,7 +10884,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-142-91",
-    "questionText": "What did God create on the 6th day  (JAMB 2009)",
+    "questionText": "What did God create on the 6th day",
     "options": [
       "The firmament",
       "light",
@@ -10896,7 +10896,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-143-898",
-    "questionText": "Who among the following was to ensure the safety of King Saul in the wilderness of Ziph?  (JAMB 2013)",
+    "questionText": "Who among the following was to ensure the safety of King Saul in the wilderness of Ziph?",
     "options": [
       "Joab",
       "Jonathan",
@@ -10908,7 +10908,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-144-923",
-    "questionText": "On the day of Pentecost, the Apostles were filled with the Holy Spirit and they all (JAMB 2013)",
+    "questionText": "On the day of Pentecost, the Apostles were filled with the Holy Spirit and they all",
     "options": [
       "prophesied.",
       "spoke in tongues.",
@@ -10920,7 +10920,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-145-539",
-    "questionText": "Paul returned Philemon’s slave back to him, to ensure that (JAMB 2015)",
+    "questionText": "Paul returned Philemon’s slave back to him, to ensure that",
     "options": [
       "Philemon forgave and accepted the slave",
       "the slave can complete his service time",
@@ -10932,7 +10932,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-146-347",
-    "questionText": "The land, the sea and vegetation were created on the (JAMB 2008)",
+    "questionText": "The land, the sea and vegetation were created on the",
     "options": [
       "first day",
       "second day",
@@ -10944,7 +10944,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-147-374",
-    "questionText": "Peter’s general outlook towards Gentile converts was significantly changed by the conversion of (JAMB 2008)",
+    "questionText": "Peter’s general outlook towards Gentile converts was significantly changed by the conversion of",
     "options": [
       "people of Lydda",
       "the people of Samaria",
@@ -10956,7 +10956,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-148-1018",
-    "questionText": "The Jews showed their hatred for Paul and Barnabas in Pisidia by  (JAMB 2011)",
+    "questionText": "The Jews showed their hatred for Paul and Barnabas in Pisidia by",
     "options": [
       "dragging out the apostles for stoning.",
       "insisting and driving them out of the Synagogue.",
@@ -10968,7 +10968,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-149-175",
-    "questionText": "A prophet mostly emphasized the holiness of God. This prophet was   (JAMB 2013)",
+    "questionText": "A prophet mostly emphasized the holiness of God. This prophet was",
     "options": [
       "Hosea",
       "Jeremiah",
@@ -10980,7 +10980,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-150-872",
-    "questionText": "During Jesus’ trial, some people discovered that Peter was Jesus’ fellower because of his (JAMB 2012)",
+    "questionText": "During Jesus’ trial, some people discovered that Peter was Jesus’ fellower because of his",
     "options": [
       "The preference of Barabbas to Jesus",
       "The question of payment of tribute",
@@ -10992,7 +10992,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-151-654",
-    "questionText": "Who was the first king of Israel? (JAMB 2011)",
+    "questionText": "Who was the first king of Israel?",
     "options": [
       "Kish",
       "David",
@@ -11004,7 +11004,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-152-745",
-    "questionText": "St. Paul's teaching on forgiveness primarily shows that________ (JAMB 2019)",
+    "questionText": "St. Paul's teaching on forgiveness primarily shows that________",
     "options": [
       "Subordinates must regard their superiors and vice-versa for forgiveness to thrive",
       "Genuine forgiveness only comes from God",
@@ -11016,7 +11016,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-153-688",
-    "questionText": "According to Paul in Corinthians the gospel message could only be lifeless when Christians (JAMB 2011)",
+    "questionText": "According to Paul in Corinthians the gospel message could only be lifeless when Christians",
     "options": [
       "deny the resurrection message.",
       "persecute one another.",
@@ -11028,7 +11028,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-154-197",
-    "questionText": "At the time of creation, the river that flowed out of Eden to water the garden divided into (JAMB 2005)",
+    "questionText": "At the time of creation, the river that flowed out of Eden to water the garden divided into",
     "options": [
       "Pishon, Hauijah, Gihon and Tigris",
       "Tigris, Cush, Assune and Hauijah",
@@ -11040,7 +11040,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-155-683",
-    "questionText": "Paul in Romans declared “for as by one man’s disobedience many were made sinners, so by one man’s obedience many will be made...” (JAMB 2011)",
+    "questionText": "Paul in Romans declared “for as by one man’s disobedience many were made sinners, so by one man’s obedience many will be made...”",
     "options": [
       "innocent.",
       "righteous.",
@@ -11052,7 +11052,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-156-575",
-    "questionText": "At whose well did Jesus meet the Samaritan woman? (JAMB 2010)",
+    "questionText": "At whose well did Jesus meet the Samaritan woman?",
     "options": [
       "Abraham",
       "Isaac",
@@ -11064,7 +11064,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-157-167",
-    "questionText": "Who was the King of Judah who witnessed the second deportation?   (JAMB 2012)",
+    "questionText": "Who was the King of Judah who witnessed the second deportation?",
     "options": [
       "Gedaliah",
       "Jehoiachin",
@@ -11076,7 +11076,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-158-481",
-    "questionText": "Jesus said to Martha, “...and whoever live and believes in me shall never die...” Jesus talks about (JAMB 2009)",
+    "questionText": "Jesus said to Martha, “...and whoever live and believes in me shall never die...” Jesus talks about",
     "options": [
       "physical death.",
       "spiritual death.",
@@ -11088,7 +11088,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-159-289",
-    "questionText": "“Behold, I am the LORD, the God of all flesh; is anything too hard for me...” The statement above suggests that God is (JAMB 2009)",
+    "questionText": "“Behold, I am the LORD, the God of all flesh; is anything too hard for me...” The statement above suggests that God is",
     "options": [
       "merciful",
       "awesome",
@@ -11100,7 +11100,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-160-859",
-    "questionText": "King Nebuchadnezzar mounted his golden image on/at (JAMB 2012)",
+    "questionText": "King Nebuchadnezzar mounted his golden image on/at",
     "options": [
       "the plain of Dura",
       "the plain of Jericho",
@@ -11112,7 +11112,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-161-797",
-    "questionText": "The first king of Israel lost his throne because he  (JAMB 2010)",
+    "questionText": "The first king of Israel lost his throne because he",
     "options": [
       "was a weak king.",
       "knew little about governance.",
@@ -11124,7 +11124,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-162-520",
-    "questionText": "Cornelius who was converted and baptized by Peter was a (JAMB 2015)",
+    "questionText": "Cornelius who was converted and baptized by Peter was a",
     "options": [
       "member of the Sanhedrin",
       "centurion",
@@ -11136,7 +11136,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-163-977",
-    "questionText": "The appointment of the Seven Deacons highlighted the need for  (JAMB 2011)",
+    "questionText": "The appointment of the Seven Deacons highlighted the need for",
     "options": [
       "sharing responsibility.",
       "distributing gifts among the apostles",
@@ -11148,7 +11148,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-164-927",
-    "questionText": "“Tabitha, arise”. These were said by Peter during the  (JAMB 2013)",
+    "questionText": "“Tabitha, arise”. These were said by Peter during the",
     "options": [
       "healing of Aeneas from paralysis.",
       "raising of Dorcas from death.",
@@ -11160,7 +11160,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-165-89",
-    "questionText": "‘Now I known that Lord has sent his angel to deliver me ……”who said this?  (JAMB 2009)",
+    "questionText": "‘Now I known that Lord has sent his angel to deliver me ……”who said this?",
     "options": [
       "Joseph",
       "Moses",
@@ -11172,7 +11172,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-166-168",
-    "questionText": "Paul, the apostle to the gentile, was a native of   (JAMB 2012)",
+    "questionText": "Paul, the apostle to the gentile, was a native of",
     "options": [
       "Perga in Pamphylis",
       "Rome",
@@ -11184,7 +11184,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-167-132",
-    "questionText": "“Talitha cumi”  means   (JAMB 2011)",
+    "questionText": "“Talitha cumi”  means",
     "options": [
       "Dorcas, Arise",
       "Little girl, I say to you, arise",
@@ -11196,7 +11196,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-168-361",
-    "questionText": "Ahab was condemned for allowing Jericho to be rebuilt although that city had been (JAMB 2008)",
+    "questionText": "Ahab was condemned for allowing Jericho to be rebuilt although that city had been",
     "options": [
       "under Joshua’s curse",
       "devastated by an earthquake",
@@ -11208,7 +11208,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-169-1087",
-    "questionText": "Peter described Christians as a chosen race of God because they (JAMB 2015)",
+    "questionText": "Peter described Christians as a chosen race of God because they",
     "options": [
       "declared God’s wonderful deeds",
       "had all become ordained men",
@@ -11220,7 +11220,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-170-311",
-    "questionText": "Baal did not answer his worshippers at the contest on Mount Carmel because he (JAMB 2011)",
+    "questionText": "Baal did not answer his worshippers at the contest on Mount Carmel because he",
     "options": [
       "was annoyed with their sacrifice",
       "did not hear",
@@ -11232,7 +11232,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-171-312",
-    "questionText": "The workmen who repaired the house of the LORD during Josiah’s religious reforms were not made to account for the money given them because they (JAMB 2011)",
+    "questionText": "The workmen who repaired the house of the LORD during Josiah’s religious reforms were not made to account for the money given them because they",
     "options": [
       "did not receive the money directly",
       "lacked accounting capabilities",
@@ -11244,7 +11244,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-172-52",
-    "questionText": "Explain why Jesus was identified as the lamb by John (Jn:1:29 )  (JAMB 2008)",
+    "questionText": "Explain why Jesus was identified as the lamb by John (Jn:1:29 )",
     "options": [
       "lamb of God is a figurative language which describes Christ sacrificial mission in the word",
       "he is being compared to the Passover Lamb that would atone for the sins of all world",
@@ -11256,7 +11256,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-173-266",
-    "questionText": "The good shepherd according to Jesus is one who (JAMB 2009)",
+    "questionText": "The good shepherd according to Jesus is one who",
     "options": [
       "lays down his life for his sheep",
       "goes about with his sheep",
@@ -11268,7 +11268,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-174-143",
-    "questionText": "After eating the forbidden fruit Adam’s and Eve’s eyes opened and they realized that they  (JAMB 2011)",
+    "questionText": "After eating the forbidden fruit Adam’s and Eve’s eyes opened and they realized that they",
     "options": [
       "had sinned against God",
       "had disobeyed God",
@@ -11280,7 +11280,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-175-73",
-    "questionText": "Joshua’s first victory was over the people of  (JAMB 2008)",
+    "questionText": "Joshua’s first victory was over the people of",
     "options": [
       "Ai",
       "Gideon",
@@ -11292,7 +11292,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-176-512",
-    "questionText": "Why did Pilate send Jesus to Herod during the trial? (JAMB 2015)",
+    "questionText": "Why did Pilate send Jesus to Herod during the trial?",
     "options": [
       "Jesus, as a Galilean was under Herod’s jurisdiction",
       "Pilate had no power to pass the death sentence",
@@ -11304,7 +11304,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-177-302",
-    "questionText": "God guided Abraham’s steward in choosing a wife for Isaac by (JAMB 2011)",
+    "questionText": "God guided Abraham’s steward in choosing a wife for Isaac by",
     "options": [
       "teaching him how to select a good woman",
       "leading a lady to fulfil his prayer request",
@@ -11316,7 +11316,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-178-1010",
-    "questionText": "God’s constant love for unfaithful Israel is demonstrated in the book of  (JAMB 2011)",
+    "questionText": "God’s constant love for unfaithful Israel is demonstrated in the book of",
     "options": [
       "Amos",
       "Isaiah",
@@ -11328,7 +11328,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-179-372",
-    "questionText": "Which, according to Luke, were the last words of Jesus? (JAMB 2008)",
+    "questionText": "Which, according to Luke, were the last words of Jesus?",
     "options": [
       "“Eli. Eli, lamasabach-thani”",
       "“Father forgive them for they know not what they do”",
@@ -11340,7 +11340,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-180-666",
-    "questionText": "During the rebuilding of the temple, Zerubbabel rejected the offer of help from the (JAMB 2011)",
+    "questionText": "During the rebuilding of the temple, Zerubbabel rejected the offer of help from the",
     "options": [
       "inhabitants of Ammon.",
       "people of Samaria.",
@@ -11352,7 +11352,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-181-195",
-    "questionText": "“O dry bones, hear the word of the Lord… “The dry bones mentioned by Prophet Ezekiel  in the statement above refer to the (JAMB 2013)",
+    "questionText": "“O dry bones, hear the word of the Lord… “The dry bones mentioned by Prophet Ezekiel  in the statement above refer to the",
     "options": [
       "Amalakite king and soldiers",
       "Whole house of Israel",
@@ -11364,7 +11364,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-182-890",
-    "questionText": "Peter encourage the church to humble themselves before  God so that He would (JAMB 2012)",
+    "questionText": "Peter encourage the church to humble themselves before  God so that He would",
     "options": [
       "exonerate them",
       "not punish them",
@@ -11376,7 +11376,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-183-529",
-    "questionText": "Paul in Romans advised believers to respect those in authority to avoid God’s wrath and also for the sake of (JAMB 2015)",
+    "questionText": "Paul in Romans advised believers to respect those in authority to avoid God’s wrath and also for the sake of",
     "options": [
       "conscience",
       "Christ",
@@ -11388,7 +11388,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-184-313",
-    "questionText": "During Jehoiakim’s reign, Judah was destroyed as punishment for Manasseh’s sin of (JAMB 2011)",
+    "questionText": "During Jehoiakim’s reign, Judah was destroyed as punishment for Manasseh’s sin of",
     "options": [
       "keeping Temple prostitutes in the land",
       "defiling the vessels in the Temple",
@@ -11400,7 +11400,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-185-147",
-    "questionText": "During his first missionary journey, Paul first recorded sermon was delivered at   (JAMB 2011)",
+    "questionText": "During his first missionary journey, Paul first recorded sermon was delivered at",
     "options": [
       "Perga",
       "Iconium",
@@ -11412,7 +11412,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-186-78",
-    "questionText": "In order that Benjamin might be brought to Egypt, Joseph detained  (JAMB 2009)",
+    "questionText": "In order that Benjamin might be brought to Egypt, Joseph detained",
     "options": [
       "Ruben",
       "Levi",
@@ -11424,7 +11424,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-187-587",
-    "questionText": "In Corinthians, Paul cited all the following resurrection appearances of Jesus except (JAMB 2010)",
+    "questionText": "In Corinthians, Paul cited all the following resurrection appearances of Jesus except",
     "options": [
       "Cephas.",
       "The Twelve.",
@@ -11436,7 +11436,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-188-239",
-    "questionText": "Which of the following does not relate to the new life in Christ? (JAMB 2005)",
+    "questionText": "Which of the following does not relate to the new life in Christ?",
     "options": [
       "Baptism",
       "Circumcision",
@@ -11448,7 +11448,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-189-208",
-    "questionText": "Nebuchadnezzar punished those who refused to worship the golden image by throwing them into (JAMB 2005)",
+    "questionText": "Nebuchadnezzar punished those who refused to worship the golden image by throwing them into",
     "options": [
       "the River Nile",
       "the rivers of Babylon",
@@ -11460,7 +11460,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-190-206",
-    "questionText": "When God said to Solomon, “Ask what I shall give you”, he requested for (JAMB 2005)",
+    "questionText": "When God said to Solomon, “Ask what I shall give you”, he requested for",
     "options": [
       "long life and prosperity",
       "power and assistance against his enemies",
@@ -11472,7 +11472,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-191-212",
-    "questionText": "Jonah typified Jesus Christ when he (JAMB 2005)",
+    "questionText": "Jonah typified Jesus Christ when he",
     "options": [
       "surrendered himself to be swallowed by the fish",
       "offered to lose his life that others might be saved",
@@ -11484,7 +11484,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-192-229",
-    "questionText": "One of the early Christians who sold his property and gave the money to the apostles was (JAMB 2005)",
+    "questionText": "One of the early Christians who sold his property and gave the money to the apostles was",
     "options": [
       "Barnabas",
       "Stephen",
@@ -11496,7 +11496,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-193-243",
-    "questionText": "Paul wrote to the Thessalonians about idleness because he \tlearnt that they were (JAMB 2005)",
+    "questionText": "Paul wrote to the Thessalonians about idleness because he \tlearnt that they were",
     "options": [
       "among the idlest people in Asia",
       "forcing Christians to work in the Church",
@@ -11508,7 +11508,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-194-237",
-    "questionText": "Paul taught that by our common faith in Jesus and baptism, the difference between Jews and Gentiles has become (JAMB 2005)",
+    "questionText": "Paul taught that by our common faith in Jesus and baptism, the difference between Jews and Gentiles has become",
     "options": [
       "permanent",
       "temporal",
@@ -11520,7 +11520,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-195-233",
-    "questionText": "Paul, in Romans, taught that Christians are Abraham’s descendants by (JAMB 2005)",
+    "questionText": "Paul, in Romans, taught that Christians are Abraham’s descendants by",
     "options": [
       "grace",
       "faith",
@@ -11532,7 +11532,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-196-234",
-    "questionText": "According to Romans, when civil authorities punish evil doers, they do so as the (JAMB 2005)",
+    "questionText": "According to Romans, when civil authorities punish evil doers, they do so as the",
     "options": [
       "agents of God’s wrath",
       "supervisory authority",
@@ -11544,7 +11544,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-197-209",
-    "questionText": "The wife of Hosea was called (JAMB 2005)",
+    "questionText": "The wife of Hosea was called",
     "options": [
       "Gomer",
       "B . Rahab",
@@ -11556,7 +11556,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-198-213",
-    "questionText": "The message of Amos was mainly about (JAMB 2005)",
+    "questionText": "The message of Amos was mainly about",
     "options": [
       "the love of God",
       "man’s response to God’s love.",
@@ -11568,7 +11568,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-199-199",
-    "questionText": "“Two nations are in your womb, and two peoples born of you shall be divided”. The two people are (JAMB 2005)",
+    "questionText": "“Two nations are in your womb, and two peoples born of you shall be divided”. The two people are",
     "options": [
       "Moses and Jacob",
       "Jacob and Benjamin",
@@ -11580,7 +11580,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-200-200",
-    "questionText": "Moses was nursed by (JAMB 2005)",
+    "questionText": "Moses was nursed by",
     "options": [
       "Pharaoh’s daughter",
       "Rachael",
@@ -11592,7 +11592,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-201-244",
-    "questionText": "Paul appealed to Philemon to forgive Onesimus on the basis of (JAMB 2005)",
+    "questionText": "Paul appealed to Philemon to forgive Onesimus on the basis of",
     "options": [
       "equality",
       "righteousness",
@@ -11604,7 +11604,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-202-226",
-    "questionText": "Before his ascension, Jesus commissioned his disciples to go to all nations and (JAMB 2005)",
+    "questionText": "Before his ascension, Jesus commissioned his disciples to go to all nations and",
     "options": [
       "cast out demons",
       "heal the sick",
@@ -11616,7 +11616,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-203-215",
-    "questionText": "“How is it that you, a Jew, ask a drink of me, a woman of \tSamaria?” The speaker was surprised because (JAMB 2005)",
+    "questionText": "“How is it that you, a Jew, ask a drink of me, a woman of \tSamaria?” The speaker was surprised because",
     "options": [
       "Jesus was God and not human",
       "the Jews could only buy water from Samaria",
@@ -11628,7 +11628,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-204-202",
-    "questionText": "When Saul and his troops came after David in the wilderness of Ziph, David and Abishai went to Saul’s camp \t\tto (JAMB 2005)",
+    "questionText": "When Saul and his troops came after David in the wilderness of Ziph, David and Abishai went to Saul’s camp \t\tto",
     "options": [
       "slay him",
       "surprise him",
@@ -11640,7 +11640,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-205-214",
-    "questionText": "Before Joseph and Mary came together, she was found to be with a child (JAMB 2005)",
+    "questionText": "Before Joseph and Mary came together, she was found to be with a child",
     "options": [
       "to be called Jesus",
       "of the Holy Spirit",
@@ -11652,7 +11652,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-206-218",
-    "questionText": "Instead of being unnecessarily anxious about life and the affairs of this world, Jesus taught us to (JAMB 2005)",
+    "questionText": "Instead of being unnecessarily anxious about life and the affairs of this world, Jesus taught us to",
     "options": [
       "relax our minds and wait for the manna from above",
       "seek first the kingdom of God and its righteousness",
@@ -11664,7 +11664,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-207-223",
-    "questionText": "According to Jesus, a good shepherd lays down his life for the sheep but a hireling (JAMB 2005)",
+    "questionText": "According to Jesus, a good shepherd lays down his life for the sheep but a hireling",
     "options": [
       "sells them off for personal profit",
       "abandons the sheep in the face of danger",
@@ -11676,7 +11676,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-208-204",
-    "questionText": "Naboth would not give the vineyard to Ahab because it was (JAMB 2005)",
+    "questionText": "Naboth would not give the vineyard to Ahab because it was",
     "options": [
       "under cultivation",
       "inherited from his father",
@@ -11688,7 +11688,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-209-203",
-    "questionText": "Saul’s death on Mount Gilboa was in consequence of his (JAMB 2005)",
+    "questionText": "Saul’s death on Mount Gilboa was in consequence of his",
     "options": [
       "sin of disobedience",
       "resorting to the witch of Endor",
@@ -11700,7 +11700,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-210-245",
-    "questionText": "James recommends the anointing oil of the elders because such anointing (JAMB 2005)",
+    "questionText": "James recommends the anointing oil of the elders because such anointing",
     "options": [
       "prepares the sick for his last journey",
       "makes the sick holy and righteous",
@@ -11712,7 +11712,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-211-207",
-    "questionText": "The remote cause of the fall of Jerusalem was (JAMB 2005)",
+    "questionText": "The remote cause of the fall of Jerusalem was",
     "options": [
       "Josiah’s death at the battle of Megiddo",
       "the military might of Israel’s enemies",
@@ -11724,7 +11724,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-212-222",
-    "questionText": "Abiding in Christ’s love demands that we (JAMB 2005)",
+    "questionText": "Abiding in Christ’s love demands that we",
     "options": [
       "have hope for the future",
       "keep His commandments",
@@ -11736,7 +11736,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-213-246",
-    "questionText": "Peter advised his fellow elders to tend the flock of God that was in their charge (JAMB 2005)",
+    "questionText": "Peter advised his fellow elders to tend the flock of God that was in their charge",
     "options": [
       "with care",
       "willingly",
@@ -11748,7 +11748,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-214-224",
-    "questionText": "The arrest of Jesus by his enemies was (JAMB 2005)",
+    "questionText": "The arrest of Jesus by his enemies was",
     "options": [
       "an accident of faith",
       "a result of his tough teaching",
@@ -11760,7 +11760,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-215-210",
-    "questionText": "As a reward for their faith, Shadrach, Meshack and Abednego were (JAMB 2005)",
+    "questionText": "As a reward for their faith, Shadrach, Meshack and Abednego were",
     "options": [
       "asked to return to Jerusalem",
       "granted respectable positions",
@@ -11772,7 +11772,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-216-238",
-    "questionText": "The Philippians’ gifts to Paul were for (JAMB 2005)",
+    "questionText": "The Philippians’ gifts to Paul were for",
     "options": [
       "the growth of the church",
       "his sustenance",
@@ -11784,7 +11784,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-217-228",
-    "questionText": "Herod persecuted the early church because he was (JAMB 2005)",
+    "questionText": "Herod persecuted the early church because he was",
     "options": [
       "opposed to the Apostles’ teaching",
       "impressed by his growing popularity after killing James",
@@ -11796,7 +11796,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-218-8",
-    "questionText": "What did God create on the fifth day?  (JAMB 2006)",
+    "questionText": "What did God create on the fifth day?",
     "options": [
       "the firmament",
       "the two great light",
@@ -11808,7 +11808,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-219-18",
-    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29)  When did he say this?  (JAMB 2006)",
+    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29)  When did he say this?",
     "options": [
       "When he was about to die",
       "When he was seriously sick",
@@ -11820,7 +11820,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-220-7",
-    "questionText": "Charismatic leaders in the Book of Judges arose in Israel to  (JAMB 2006)",
+    "questionText": "Charismatic leaders in the Book of Judges arose in Israel to",
     "options": [
       "revive faith in Yahweh",
       "rally the tribe together",
@@ -11832,7 +11832,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-221-2",
-    "questionText": "According to John’s Gospel, Lazarus was from:  (JAMB 2006)",
+    "questionText": "According to John’s Gospel, Lazarus was from:",
     "options": [
       "Jerusalem",
       "Teberias",
@@ -11844,7 +11844,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-222-13",
-    "questionText": "When Paul came to Rome, the first set of people to whom he preached were the  (JAMB 2006)",
+    "questionText": "When Paul came to Rome, the first set of people to whom he preached were the",
     "options": [
       "Romans",
       "Jews",
@@ -11856,7 +11856,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-223-23",
-    "questionText": "What is meant by the Christian doctrine that God is Trinity?  (JAMB 2006)",
+    "questionText": "What is meant by the Christian doctrine that God is Trinity?",
     "options": [
       "the idea started in Trinidad and Tobago",
       "God is three persons in one",
@@ -11868,7 +11868,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-224-11",
-    "questionText": "The death of Adonibezek in Bezek was a typical proof of  (JAMB 2006)",
+    "questionText": "The death of Adonibezek in Bezek was a typical proof of",
     "options": [
       "cowardice",
       "nemesis",
@@ -11880,7 +11880,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-225-15",
-    "questionText": "The renowned interpreters of the Mosaic Law in the time of Jesus were the  (JAMB 2006)",
+    "questionText": "The renowned interpreters of the Mosaic Law in the time of Jesus were the",
     "options": [
       "Sadducees",
       "Scribes",
@@ -11892,7 +11892,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-226-21",
-    "questionText": "The names of the two kings of Jericho destroyed by the Israelites during the conquest were  (JAMB 2006)",
+    "questionText": "The names of the two kings of Jericho destroyed by the Israelites during the conquest were",
     "options": [
       "Adonija and Haggith",
       "Shion and Og",
@@ -11904,7 +11904,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-227-3",
-    "questionText": "Jesus’ new commandment according to the Gospel of Jesus of John is  (JAMB 2006)",
+    "questionText": "Jesus’ new commandment according to the Gospel of Jesus of John is",
     "options": [
       "salvation",
       "love",
@@ -11916,7 +11916,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-228-12",
-    "questionText": "In order that Benjamin might be brought to Egypt, Joseph   (JAMB 2006)",
+    "questionText": "In order that Benjamin might be brought to Egypt, Joseph",
     "options": [
       "Reuben",
       "Judah",
@@ -11928,7 +11928,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-229-19",
-    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) What was his wish?  (JAMB 2006)",
+    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) What was his wish?",
     "options": [
       "he wanted to buried at Canaan in the cave at Ephron",
       "he wanted to be buried at Jericho",
@@ -11940,7 +11940,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-230-17",
-    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) Who was the speaker?  (JAMB 2006)",
+    "questionText": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29) Who was the speaker?",
     "options": [
       "Joseph",
       "Jacob",
@@ -11952,7 +11952,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-231-14",
-    "questionText": "The three sons of Noah Sdhem, Ham and  (JAMB 2006)",
+    "questionText": "The three sons of Noah Sdhem, Ham and",
     "options": [
       "Lot",
       "Hirah",
@@ -11964,7 +11964,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-232-20",
-    "questionText": "Who was authorized by God to go and liberate the Israelites the Egyptian bondage?  (JAMB 2006)",
+    "questionText": "Who was authorized by God to go and liberate the Israelites the Egyptian bondage?",
     "options": [
       "Joshua",
       "Daniel",
@@ -11976,7 +11976,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-233-4",
-    "questionText": "The thief as described by Jesus comes to  (JAMB 2006)",
+    "questionText": "The thief as described by Jesus comes to",
     "options": [
       "destroy, kill and steal",
       "destroy, steal and kill",
@@ -11988,7 +11988,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-234-10",
-    "questionText": "Manahem, the son of Gadi reigned over Israel for  (JAMB 2006)",
+    "questionText": "Manahem, the son of Gadi reigned over Israel for",
     "options": [
       "eight years",
       "twenty years",
@@ -12000,7 +12000,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-235-5",
-    "questionText": "The agony of Jesus in the Garden of Gethsemane is a  (JAMB 2006)",
+    "questionText": "The agony of Jesus in the Garden of Gethsemane is a",
     "options": [
       "sign of abandonment",
       "manifestation of human weakness",
@@ -12012,7 +12012,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-236-9",
-    "questionText": "Joshua and Caleb were from the tribe of  (JAMB 2006)",
+    "questionText": "Joshua and Caleb were from the tribe of",
     "options": [
       "Judah and Rueben",
       "Reuben and Dan",
@@ -12024,7 +12024,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-237-1",
-    "questionText": "In Jesus’ teaching on the mount, the only justifiable reason for divorce is  (JAMB 2006)",
+    "questionText": "In Jesus’ teaching on the mount, the only justifiable reason for divorce is",
     "options": [
       "indolence",
       "insubordination",
@@ -12036,7 +12036,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-238-22",
-    "questionText": "Who is an atheist?  (JAMB 2006)",
+    "questionText": "Who is an atheist?",
     "options": [
       "someone who does believe in God",
       "someone who rejects completely the idea of a divine being",
@@ -12048,7 +12048,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-239-6",
-    "questionText": "Eutychus fell from the third storey to the ground when Paul  prolonged his sermon at  (JAMB 2006)",
+    "questionText": "Eutychus fell from the third storey to the ground when Paul  prolonged his sermon at",
     "options": [
       "Troas",
       "Ephesus",
@@ -12060,7 +12060,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-240-16",
-    "questionText": "The mother of Esau is  (JAMB 2006)",
+    "questionText": "The mother of Esau is",
     "options": [
       "Ruth",
       "Ester",
@@ -12072,7 +12072,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-241-25",
-    "questionText": "The person who the Bible calls the son of consolation is  (JAMB 2007)",
+    "questionText": "The person who the Bible calls the son of consolation is",
     "options": [
       "Barsabas",
       "Barabbas",
@@ -12084,7 +12084,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-242-34",
-    "questionText": "The last things which Zedekiah saw before his eyes were removed was the  (JAMB 2007)",
+    "questionText": "The last things which Zedekiah saw before his eyes were removed was the",
     "options": [
       "Egyptian army",
       "slaughter of all his sons",
@@ -12096,7 +12096,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-243-43",
-    "questionText": "The meaning of Ephphatha is  (JAMB 2007)",
+    "questionText": "The meaning of Ephphatha is",
     "options": [
       "be opened",
       "be still",
@@ -12108,7 +12108,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-244-32",
-    "questionText": "Daniel was delivered from the den of lions for all the following reason except  (JAMB 2007)",
+    "questionText": "Daniel was delivered from the den of lions for all the following reason except",
     "options": [
       "his holiness and faith",
       "his kindness",
@@ -12120,7 +12120,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691963-245-42",
-    "questionText": "Josiah’s reign was popular because of his  (JAMB 2007)",
+    "questionText": "Josiah’s reign was popular because of his",
     "options": [
       "allies",
       "victory",
@@ -12132,7 +12132,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-246-28",
-    "questionText": "The lesson which Jesus teaches in the parable of the Good Samaritan is that your neighbor is (JAMB 2007)",
+    "questionText": "The lesson which Jesus teaches in the parable of the Good Samaritan is that your neighbor is",
     "options": [
       "only your friend",
       "your next of kin",
@@ -12144,7 +12144,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-247-40",
-    "questionText": "Where did Paul cure a slave girl who had a spirit of divination  (JAMB 2007)",
+    "questionText": "Where did Paul cure a slave girl who had a spirit of divination",
     "options": [
       "Philippi",
       "Ephesus",
@@ -12156,7 +12156,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-248-46",
-    "questionText": "Which of the following prophets was described as weeping prophet?  (JAMB 2007)",
+    "questionText": "Which of the following prophets was described as weeping prophet?",
     "options": [
       "Amos",
       "Ezekiel",
@@ -12168,7 +12168,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-249-45",
-    "questionText": "Moses fled from pharaoh at the age of  (JAMB 2007)",
+    "questionText": "Moses fled from pharaoh at the age of",
     "options": [
       "45",
       "40",
@@ -12180,7 +12180,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-250-27",
-    "questionText": "In Peter’s teaching,” God…………..the proud and gives grace to the humble (JAMB 2007)",
+    "questionText": "In Peter’s teaching,” God…………..the proud and gives grace to the humble",
     "options": [
       "receives",
       "relegates",
@@ -12192,7 +12192,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-251-30",
-    "questionText": "The two Hebrew midwives instructed by pharaoh to kill the Hebrew male babies at birth were: (JAMB 2007)",
+    "questionText": "The two Hebrew midwives instructed by pharaoh to kill the Hebrew male babies at birth were:",
     "options": [
       "Zipporah and Pauh",
       "Pauh and Miriam",
@@ -12204,7 +12204,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-252-29",
-    "questionText": "Amram and Jochebad gave birth to :  (JAMB 2007)",
+    "questionText": "Amram and Jochebad gave birth to :",
     "options": [
       "Mirian",
       "Jedida",
@@ -12216,7 +12216,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-253-38",
-    "questionText": "“Bring your necks under the yoke of the king of Babylon and serve him and his people and live” who gave this advice?  (JAMB 2007)",
+    "questionText": "“Bring your necks under the yoke of the king of Babylon and serve him and his people and live” who gave this advice?",
     "options": [
       "Jeremiah",
       "Isaiah",
@@ -12228,7 +12228,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-254-33",
-    "questionText": "Which of the following carried Judah into captivity  (JAMB 2007)",
+    "questionText": "Which of the following carried Judah into captivity",
     "options": [
       "Pharaoh Neco of Egypt",
       "Goliath of Philistia",
@@ -12240,7 +12240,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-255-35",
-    "questionText": "The prophet who was with the exiles of 597 BC in Babylon was  (JAMB 2007)",
+    "questionText": "The prophet who was with the exiles of 597 BC in Babylon was",
     "options": [
       "Moses",
       "Hosea",
@@ -12252,7 +12252,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-256-36",
-    "questionText": "The king of Persia who made it possible for the return of the exiles from Babylon was  (JAMB 2007)",
+    "questionText": "The king of Persia who made it possible for the return of the exiles from Babylon was",
     "options": [
       "Dairus",
       "Cyrus",
@@ -12264,7 +12264,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-257-47",
-    "questionText": "Who was the priest that confronted Uzziah in the temple  (JAMB 2007)",
+    "questionText": "Who was the priest that confronted Uzziah in the temple",
     "options": [
       "Zadokaul",
       "Phineas",
@@ -12276,7 +12276,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-258-39",
-    "questionText": "One of the following said: “the lion has roared who will not fear? The Lord has spoken, who can  but prophesy?”  (JAMB 2007)",
+    "questionText": "One of the following said: “the lion has roared who will not fear? The Lord has spoken, who can  but prophesy?”",
     "options": [
       "Nathan",
       "Jeremiah",
@@ -12288,7 +12288,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-259-26",
-    "questionText": "Who do people say the son of man is? Jesus asks this question to know people’s  (JAMB 2007)",
+    "questionText": "Who do people say the son of man is? Jesus asks this question to know people’s",
     "options": [
       "desires",
       "demand",
@@ -12300,7 +12300,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-260-31",
-    "questionText": "Israel went into Assyrain captivity in  (JAMB 2007)",
+    "questionText": "Israel went into Assyrain captivity in",
     "options": [
       "71AD",
       "720BC",
@@ -12312,7 +12312,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-261-376",
-    "questionText": "When Peter was in prison the Church (JAMB 2008)",
+    "questionText": "When Peter was in prison the Church",
     "options": [
       "appealed to the authorities",
       "lived in fear",
@@ -12324,7 +12324,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-262-380",
-    "questionText": "The result of justification by faith is (JAMB 2008)",
+    "questionText": "The result of justification by faith is",
     "options": [
       "divine protection",
       "peace with God",
@@ -12336,7 +12336,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-263-365",
-    "questionText": "Jesus came to John at River Jordan to (JAMB 2008)",
+    "questionText": "Jesus came to John at River Jordan to",
     "options": [
       "proclaim himself as Messiah",
       "disclose himself to John",
@@ -12348,7 +12348,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-264-389",
-    "questionText": "In Romans, Paul taught that where there is no law, there is no (JAMB 2008)",
+    "questionText": "In Romans, Paul taught that where there is no law, there is no",
     "options": [
       "transgression",
       "peace",
@@ -12360,7 +12360,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-265-371",
-    "questionText": "The fate that would befall those who do not receive the gospel of Jesus would be (JAMB 2008)",
+    "questionText": "The fate that would befall those who do not receive the gospel of Jesus would be",
     "options": [
       "rejection by men",
       "lack of peace in the family",
@@ -12372,7 +12372,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-266-363",
-    "questionText": "At Ezekiel’s call he beheld (JAMB 2008)",
+    "questionText": "At Ezekiel’s call he beheld",
     "options": [
       "the love of God",
       "God’s glory",
@@ -12384,7 +12384,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-267-350",
-    "questionText": "What was Moses’ reaction when God called him to liberate his people from Egypt? (JAMB 2008)",
+    "questionText": "What was Moses’ reaction when God called him to liberate his people from Egypt?",
     "options": [
       "He was afraid of being punished for his previous offence",
       "His people would think he was too young to lead them",
@@ -12396,7 +12396,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-268-386",
-    "questionText": "Christ demonstrated humility by (JAMB 2008)",
+    "questionText": "Christ demonstrated humility by",
     "options": [
       "riding on an ass to Jerusalem",
       "allowing John to baptize him",
@@ -12408,7 +12408,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-269-391",
-    "questionText": "In Romans. Paul stressed that the righteousness of God is (JAMB 2008)",
+    "questionText": "In Romans. Paul stressed that the righteousness of God is",
     "options": [
       "faith in the law for all who believe",
       "works of the law for all who believe",
@@ -12420,7 +12420,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-270-55",
-    "questionText": "The lesson, who Jesus teaches in the parable of the Good Samaritan is that your neighbor is  (JAMB 2008)",
+    "questionText": "The lesson, who Jesus teaches in the parable of the Good Samaritan is that your neighbor is",
     "options": [
       "only your friend",
       "your next of king",
@@ -12432,7 +12432,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-271-382",
-    "questionText": "Sin that reigns in our mortal bodies makes us obey (JAMB 2008)",
+    "questionText": "Sin that reigns in our mortal bodies makes us obey",
     "options": [
       "one another",
       "rules and regulations",
@@ -12444,7 +12444,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-272-370",
-    "questionText": "Which of the following miracles shows Jesus’ power over nature? (JAMB 2008)",
+    "questionText": "Which of the following miracles shows Jesus’ power over nature?",
     "options": [
       "Walking on the sea",
       "Healing of the leper",
@@ -12456,7 +12456,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-273-388",
-    "questionText": "New life in Christ means (JAMB 2008)",
+    "questionText": "New life in Christ means",
     "options": [
       "paying your tithe regularly",
       "helping the poor and the needy",
@@ -12468,7 +12468,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-274-69",
-    "questionText": "One of the following said: “the lion has roared who will not fear?  (JAMB 2008)",
+    "questionText": "One of the following said: “the lion has roared who will not fear?",
     "options": [
       "Nathan",
       "Jeremiah",
@@ -12480,7 +12480,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-275-367",
-    "questionText": "According to the Mosaic law, the only authority to declare a leper healed was (JAMB 2008)",
+    "questionText": "According to the Mosaic law, the only authority to declare a leper healed was",
     "options": [
       "Jesus Christ",
       "the Emperor",
@@ -12492,7 +12492,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-276-364",
-    "questionText": "In spite of Israel’s faithlessness, Jeremiah saw a ray of hope for them if only they should (JAMB 2008)",
+    "questionText": "In spite of Israel’s faithlessness, Jeremiah saw a ray of hope for them if only they should",
     "options": [
       "forgive one another",
       "repent and return to God",
@@ -12504,7 +12504,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-277-393",
-    "questionText": "Paul said in Galatians that, before faith came, we were confined under (JAMB 2008)",
+    "questionText": "Paul said in Galatians that, before faith came, we were confined under",
     "options": [
       "grace",
       "the law",
@@ -12516,7 +12516,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-278-395",
-    "questionText": "Peter enjoined humility because the humble shall (JAMB 2008)",
+    "questionText": "Peter enjoined humility because the humble shall",
     "options": [
       "not be tempted",
       "be blessed",
@@ -12528,7 +12528,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-279-354",
-    "questionText": "When the Spirit of the Lord departed from Saul (JAMB 2008)",
+    "questionText": "When the Spirit of the Lord departed from Saul",
     "options": [
       "a new spirit entered into him",
       "an evil spirit from God tormented him",
@@ -12540,7 +12540,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-280-369",
-    "questionText": "According to Matthew, the disciples were sent out with the charge to go nowhere among the Gentiles nor enter any town of the (JAMB 2008)",
+    "questionText": "According to Matthew, the disciples were sent out with the charge to go nowhere among the Gentiles nor enter any town of the",
     "options": [
       "Jews",
       "Samaritans",
@@ -12552,7 +12552,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-281-379",
-    "questionText": "The miracles of Jesus recorded in John’s gospel are called (JAMB 2008)",
+    "questionText": "The miracles of Jesus recorded in John’s gospel are called",
     "options": [
       "works",
       "signs",
@@ -12564,7 +12564,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-282-375",
-    "questionText": "Which Jewish party was bitterly opposed to the disciples for preaching the resurrection of Jesus? (JAMB 2008)",
+    "questionText": "Which Jewish party was bitterly opposed to the disciples for preaching the resurrection of Jesus?",
     "options": [
       "The Pharisees",
       "The Sadducees .",
@@ -12576,7 +12576,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-283-366",
-    "questionText": "“Blessed are the peace makers for (JAMB 2008)",
+    "questionText": "“Blessed are the peace makers for",
     "options": [
       "theirs is the kingdom of God”",
       "they shall be called sons of God”",
@@ -12588,7 +12588,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-284-51",
-    "questionText": "Name three places Christian religious people look up to find the truth about the nature of God (JAMB 2008)",
+    "questionText": "Name three places Christian religious people look up to find the truth about the nature of God",
     "options": [
       "In the sacred scripture",
       "In the religious leader",
@@ -12600,7 +12600,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-285-494",
-    "questionText": "The first missionary journey was started by Paul and (JAMB 2009)",
+    "questionText": "The first missionary journey was started by Paul and",
     "options": [
       "Judas",
       ". Barabbas.",
@@ -12612,7 +12612,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-286-261",
-    "questionText": "The baptism of Jesus by John in River Jordan was to (JAMB 2009)",
+    "questionText": "The baptism of Jesus by John in River Jordan was to",
     "options": [
       "convince others that John was His forerunner",
       "ensure that proper baptism must be in a river",
@@ -12624,7 +12624,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-287-74",
-    "questionText": "“There shall be neither dew nor rain this year except by my word” Who said this? (JAMB 2009)",
+    "questionText": "“There shall be neither dew nor rain this year except by my word” Who said this?",
     "options": [
       "Moses",
       "Pharaoh",
@@ -12636,7 +12636,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-288-95",
-    "questionText": "‘This had is gone: and where shall I go’ who is being referred to here  (JAMB 2009)",
+    "questionText": "‘This had is gone: and where shall I go’ who is being referred to here",
     "options": [
       "Isaac",
       "Joseph",
@@ -12648,7 +12648,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-289-271",
-    "questionText": "The sin of the sons of Eli was that they treated the offering of the LORD with (JAMB 2009)",
+    "questionText": "The sin of the sons of Eli was that they treated the offering of the LORD with",
     "options": [
       "suspicion",
       "contempt",
@@ -12660,7 +12660,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-290-465",
-    "questionText": "The king planned to set Daniel over the whole kingdom because, (JAMB 2009)",
+    "questionText": "The king planned to set Daniel over the whole kingdom because,",
     "options": [
       "he was the most educated of all.",
       "an excellent spirit was in him.",
@@ -12672,7 +12672,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-291-279",
-    "questionText": "David was anointed king over Judah at (JAMB 2009)",
+    "questionText": "David was anointed king over Judah at",
     "options": [
       "Zuph",
       "Bethlehem",
@@ -12684,7 +12684,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-292-292",
-    "questionText": "In addition to the declaration of freedom to the exiles in Babylon, King Cyrus ordered for (JAMB 2009)",
+    "questionText": "In addition to the declaration of freedom to the exiles in Babylon, King Cyrus ordered for",
     "options": [
       "free will offering for the house of God in Jerusalem",
       "the release of Jewish, slaves in the empire",
@@ -12696,7 +12696,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-293-93",
-    "questionText": "In the parable of the sower, the seeds on the good ground represent those who  (JAMB 2009)",
+    "questionText": "In the parable of the sower, the seeds on the good ground represent those who",
     "options": [
       "Accept and live by the world of God",
       "feed the poor",
@@ -12708,7 +12708,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-294-77",
-    "questionText": "Those bitten by the serpent were treated by  (JAMB 2009)",
+    "questionText": "Those bitten by the serpent were treated by",
     "options": [
       "Drinking from the Red sea",
       "fasting for seven day",
@@ -12720,7 +12720,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-295-75",
-    "questionText": "In the case before Solomon over the deal and the living, child the mother of the dead child supported.  (JAMB 2009)",
+    "questionText": "In the case before Solomon over the deal and the living, child the mother of the dead child supported.",
     "options": [
       "Giving the living child to her opponent",
       "Killing the living child",
@@ -12732,7 +12732,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-296-96",
-    "questionText": "According to Psalm 51, the sacrifice acceptable to God is (JAMB 2009)",
+    "questionText": "According to Psalm 51, the sacrifice acceptable to God is",
     "options": [
       "A clean hear",
       "Obedience",
@@ -12744,7 +12744,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-297-285",
-    "questionText": "Josiah believed that the wrath of the LORD was kindled against him and all Judah because (JAMB 2009)",
+    "questionText": "Josiah believed that the wrath of the LORD was kindled against him and all Judah because",
     "options": [
       "they did not observe the Passover",
       "there was an unholy thing in their midst",
@@ -12756,7 +12756,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-298-463",
-    "questionText": "When Isaiah saw the Lord in His holiness and glory, he exclaimed (JAMB 2009)",
+    "questionText": "When Isaiah saw the Lord in His holiness and glory, he exclaimed",
     "options": [
       "“Blessed is me for 1 am truly holy”.",
       "“Woe is me! For I am lost”",
@@ -12768,7 +12768,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-299-460",
-    "questionText": "The king of Judah who suffered in the hands of Nebuchadnezzar was (JAMB 2009)",
+    "questionText": "The king of Judah who suffered in the hands of Nebuchadnezzar was",
     "options": [
       "Jehoachin.",
       "Manasseh.",
@@ -12780,7 +12780,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-300-475",
-    "questionText": "The treasures which Jesus wants us to lay in heaven include (JAMB 2009)",
+    "questionText": "The treasures which Jesus wants us to lay in heaven include",
     "options": [
       "generosity and kindness.",
       "love and mercy.",
@@ -12792,7 +12792,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-301-470",
-    "questionText": "The devout man in Jerusalem whom the Lord promised would see Christ before his death was named (JAMB 2009)",
+    "questionText": "The devout man in Jerusalem whom the Lord promised would see Christ before his death was named",
     "options": [
       "Zechariah.",
       "Joseph.",
@@ -12804,7 +12804,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-302-257",
-    "questionText": "“...but should write to them to abstain from the pollutions of idols and from unchastity and from what is strangled and from blood...” The statement above was made at the Council of Jerusalem by (JAMB 2009)",
+    "questionText": "“...but should write to them to abstain from the pollutions of idols and from unchastity and from what is strangled and from blood...” The statement above was made at the Council of Jerusalem by",
     "options": [
       "Philip",
       "Simon",
@@ -12816,7 +12816,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-303-457",
-    "questionText": "Elijah was a prophet during the reign of (JAMB 2009)",
+    "questionText": "Elijah was a prophet during the reign of",
     "options": [
       "Gideon.",
       "David.",
@@ -12828,7 +12828,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-304-90",
-    "questionText": "The seven deacons were appointed by  (JAMB 2009)",
+    "questionText": "The seven deacons were appointed by",
     "options": [
       "conduct a mission to the Gentiles",
       "Replace the twelve",
@@ -12840,7 +12840,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-305-491",
-    "questionText": "According to Paul in Romans, if it is the adherents of the law who are to be the heirs of Abraham then faith in Jesus is (JAMB 2009)",
+    "questionText": "According to Paul in Romans, if it is the adherents of the law who are to be the heirs of Abraham then faith in Jesus is",
     "options": [
       "null and void.",
       "not attainable",
@@ -12852,7 +12852,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-306-467",
-    "questionText": "The first batch of Jewish exiles to rebuild the temple was under the leadership of (JAMB 2009)",
+    "questionText": "The first batch of Jewish exiles to rebuild the temple was under the leadership of",
     "options": [
       "Joshua.",
       "Hanani.",
@@ -12864,7 +12864,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-307-476",
-    "questionText": "“No one can serve two masters...” This means that one should not (JAMB 2009)",
+    "questionText": "“No one can serve two masters...” This means that one should not",
     "options": [
       "be idolatrous.",
       "belong to two religions.",
@@ -12876,7 +12876,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-308-487",
-    "questionText": "According to Peter, God set up the state for the purpose of (JAMB 2009)",
+    "questionText": "According to Peter, God set up the state for the purpose of",
     "options": [
       "silencing the ignorance of foolish men.",
       "collecting appropriate taxes from its citizens",
@@ -12888,7 +12888,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-309-493",
-    "questionText": "The preaching of the resurrection of Jesus by his disciples \twas opposed by the (JAMB 2009)",
+    "questionText": "The preaching of the resurrection of Jesus by his disciples \twas opposed by the",
     "options": [
       "Jews.",
       "Elders.",
@@ -12900,7 +12900,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-310-449",
-    "questionText": "Pharaoh’s horsemen and his army overtook the fleeing Hebrews encamped by the sea at (JAMB 2009)",
+    "questionText": "Pharaoh’s horsemen and his army overtook the fleeing Hebrews encamped by the sea at",
     "options": [
       "Migdol.",
       "Etham.",
@@ -12912,7 +12912,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-311-466",
-    "questionText": "God spoke through Amos that He would punish Israel for the following sins except that they (JAMB 2009)",
+    "questionText": "God spoke through Amos that He would punish Israel for the following sins except that they",
     "options": [
       "sold the righteous for silver.",
       "sold the needy for a pair of shoes.",
@@ -12924,7 +12924,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-312-478",
-    "questionText": "Jesus said “I am the bread of life; he who comes to me shall not hunger...” ‘Bread of life’ in this context means the (JAMB 2009)",
+    "questionText": "Jesus said “I am the bread of life; he who comes to me shall not hunger...” ‘Bread of life’ in this context means the",
     "options": [
       "body of Jesus Christ.",
       "manna given to the Israelites.",
@@ -12936,7 +12936,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-313-468",
-    "questionText": "Which two tribes in Israel led in the rebuilding of the temple after the exile? (JAMB 2009)",
+    "questionText": "Which two tribes in Israel led in the rebuilding of the temple after the exile?",
     "options": [
       "Judah and Benjamin",
       "Naphtali and Joseph",
@@ -12948,7 +12948,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-314-464",
-    "questionText": "Jeremiah said the people of Judah were in a state of mourning because, (JAMB 2009)",
+    "questionText": "Jeremiah said the people of Judah were in a state of mourning because,",
     "options": [
       "they sinned against God.",
       "their vessels were empty",
@@ -12960,7 +12960,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-315-288",
-    "questionText": "The Kingdom of Israel was divided because the (JAMB 2009)",
+    "questionText": "The Kingdom of Israel was divided because the",
     "options": [
       "kingdom was too large to be administered",
       "leadership wanted to create more nations",
@@ -12972,7 +12972,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-316-247",
-    "questionText": "In Timothy, Paul urges Christians to pray for kings and those in authority for the achievement of (JAMB 2009)",
+    "questionText": "In Timothy, Paul urges Christians to pray for kings and those in authority for the achievement of",
     "options": [
       "a successful Christian life",
       "godly and acceptable life",
@@ -12984,7 +12984,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-317-608",
-    "questionText": "The prophet who made known the imminent divi¬sion of the kingdom of Israel during Solomon’s reign was (JAMB 2010)",
+    "questionText": "The prophet who made known the imminent divi¬sion of the kingdom of Israel during Solomon’s reign was",
     "options": [
       "Jehu",
       "Ahijah",
@@ -12996,7 +12996,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-318-792",
-    "questionText": "Which of the following rivers flowed out of Eden to water  (JAMB 2010)",
+    "questionText": "Which of the following rivers flowed out of Eden to water",
     "options": [
       "Abana",
       "Pharpar",
@@ -13008,7 +13008,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-319-811",
-    "questionText": "From Luke’s account of the baptism of Jesus, which of the following happened before the voice was heard?  (JAMB 2010)",
+    "questionText": "From Luke’s account of the baptism of Jesus, which of the following happened before the voice was heard?",
     "options": [
       "John was reluctant to baptize Him.",
       "John called Jesus the lamb of Go",
@@ -13020,7 +13020,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-320-111",
-    "questionText": "What specific reply did John the Baptist give to the soldiers during his preaching  (JAMB 2010)",
+    "questionText": "What specific reply did John the Baptist give to the soldiers during his preaching",
     "options": [
       "collect no more than is appointed you",
       "do not begin to say to yourselves: we have Abraham as our father",
@@ -13032,7 +13032,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-321-594",
-    "questionText": "Through God the Christian is no longer a slave but a son, and if a son then (JAMB 2010)",
+    "questionText": "Through God the Christian is no longer a slave but a son, and if a son then",
     "options": [
       "a master.",
       "a redeemed.",
@@ -13044,7 +13044,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-322-101",
-    "questionText": "The treatment of those  bitten by fiery serpent was to  (JAMB 2010)",
+    "questionText": "The treatment of those  bitten by fiery serpent was to",
     "options": [
       "drink from the Red sea",
       "look at the bronze serpent",
@@ -13056,7 +13056,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-323-807",
-    "questionText": "Daniel was delivered from the lion’s den because  (JAMB 2010)",
+    "questionText": "Daniel was delivered from the lion’s den because",
     "options": [
       "of his faith in God’s power.",
       "of the king’s prayers.",
@@ -13068,7 +13068,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691964-324-569",
-    "questionText": "The <em>lost sheep</em> and the <em>lost coin</em> share the following except that (JAMB 2010)",
+    "questionText": "The <em>lost sheep</em> and the <em>lost coin</em> share the following except that",
     "options": [
       "both of them are lost and need to be found",
       "it is their owners’ responsibility to look for them.",
@@ -13080,7 +13080,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-325-624",
-    "questionText": "After the healing of the demoniac in the country of the Gerasenes, the people begged Jesus to (Mark 5:15-19) (JAMB 2010)",
+    "questionText": "After the healing of the demoniac in the country of the Gerasenes, the people begged Jesus to (Mark 5:15-19)",
     "options": [
       "stay with them",
       "visit them always",
@@ -13092,7 +13092,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-326-561",
-    "questionText": "Which of the following prophets taught that Yahweh was merciful? (JAMB 2010)",
+    "questionText": "Which of the following prophets taught that Yahweh was merciful?",
     "options": [
       "Isaiah",
       "Hosea",
@@ -13104,7 +13104,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-327-100",
-    "questionText": "Deborah was a judge when Israel was under the yoke of  (JAMB 2010)",
+    "questionText": "Deborah was a judge when Israel was under the yoke of",
     "options": [
       "Moab",
       "Midian",
@@ -13116,7 +13116,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-328-644",
-    "questionText": "James stated in his epistle that when believers meet various trials, their faith produces (JAMB 2010)",
+    "questionText": "James stated in his epistle that when believers meet various trials, their faith produces",
     "options": [
       "weakness",
       "strength",
@@ -13128,7 +13128,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-329-614",
-    "questionText": "Daniel became distinguished above all other pre¬sidents and satraps because (JAMB 2010)",
+    "questionText": "Daniel became distinguished above all other pre¬sidents and satraps because",
     "options": [
       "an excellent spirit was in him",
       "the spirit of Darius was in him",
@@ -13140,7 +13140,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-330-645",
-    "questionText": "Peter in his epistle enjoined servants to be sub¬missive to their masters with all (JAMB 2010)",
+    "questionText": "Peter in his epistle enjoined servants to be sub¬missive to their masters with all",
     "options": [
       "gentleness",
       "seriousness",
@@ -13152,7 +13152,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-331-582",
-    "questionText": "The man who delivered judgment of the Jerusalem Council on the admission of Gentiles into the Church was (JAMB 2010)",
+    "questionText": "The man who delivered judgment of the Jerusalem Council on the admission of Gentiles into the Church was",
     "options": [
       "Peter.",
       "Paul.",
@@ -13164,7 +13164,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-332-641",
-    "questionText": "According to Paul in Corinthians, generosity produce (JAMB 2010)",
+    "questionText": "According to Paul in Corinthians, generosity produce",
     "options": [
       "righteousness",
       "salvation",
@@ -13176,7 +13176,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-333-805",
-    "questionText": "Who was the prophet responsible for the re-building of the Temple during the exile?  (JAMB 2010)",
+    "questionText": "Who was the prophet responsible for the re-building of the Temple during the exile?",
     "options": [
       "Ezra",
       "Isaiah",
@@ -13188,7 +13188,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-334-620",
-    "questionText": "According to Isaiah, God sent him to (JAMB 2010)",
+    "questionText": "According to Isaiah, God sent him to",
     "options": [
       "proclaim liberty to the captives",
       "proclaim victory over Israel’s enemies",
@@ -13200,7 +13200,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-335-606",
-    "questionText": "David’s behaviour after Prophet Nathan accused him of murder and adultery showed his (JAMB 2010)",
+    "questionText": "David’s behaviour after Prophet Nathan accused him of murder and adultery showed his",
     "options": [
       "justification",
       "repentance",
@@ -13212,7 +13212,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-336-839",
-    "questionText": "Through God the Christian is no longer a slave but a son, and if a son  (JAMB 2010)",
+    "questionText": "Through God the Christian is no longer a slave but a son, and if a son",
     "options": [
       "a master",
       "a redeeme",
@@ -13224,7 +13224,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-337-119",
-    "questionText": "“It is not the sound of shouting for victory, or the sound of the cry of defeat, but the sound of singing that I hear” When was this statement made?  (JAMB 2010)",
+    "questionText": "“It is not the sound of shouting for victory, or the sound of the cry of defeat, but the sound of singing that I hear” When was this statement made?",
     "options": [
       "at the consecration of the Israelites",
       "at the crossing of the Red Sea",
@@ -13236,7 +13236,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-338-629",
-    "questionText": "‘Truly, I say to you, today you will be with me in paradise.....’ Jesus made the statement above to one of the \t\tcriminals because he (Luke 23:42-43) (JAMB 2010)",
+    "questionText": "‘Truly, I say to you, today you will be with me in paradise.....’ Jesus made the statement above to one of the \t\tcriminals because he (Luke 23:42-43)",
     "options": [
       "respected Him",
       "praised Him",
@@ -13248,7 +13248,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-339-591",
-    "questionText": "In Philippians, Paul taught that Jesus ‘humility and death on the cross earned Him (JAMB 2010)",
+    "questionText": "In Philippians, Paul taught that Jesus ‘humility and death on the cross earned Him",
     "options": [
       "salvation for Israel.",
       "adoption as son of God.",
@@ -13260,7 +13260,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-340-610",
-    "questionText": "Obadiah who was m charge of Ahab’s house hold demonstrated reverence for the LORD by (JAMB 2010)",
+    "questionText": "Obadiah who was m charge of Ahab’s house hold demonstrated reverence for the LORD by",
     "options": [
       "giving Elijah the bull for the sacrifice on Mount Carmel.",
       "rebuking Ahab and Jezebel for their evil deeds",
@@ -13272,7 +13272,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-341-118",
-    "questionText": "What specifically makes Samson a unique prophet of God?  (JAMB 2010)",
+    "questionText": "What specifically makes Samson a unique prophet of God?",
     "options": [
       "He was a Nazarene",
       "He loved honey",
@@ -13284,7 +13284,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-342-586",
-    "questionText": "Paul’s greatest writing about spiritual gift is found in his letter to the (JAMB 2010)",
+    "questionText": "Paul’s greatest writing about spiritual gift is found in his letter to the",
     "options": [
       "Galatians.",
       "Ephesians.",
@@ -13296,7 +13296,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-343-102",
-    "questionText": "Which of these was detained by Joseph in order that Benjamin might be brought to Egypt  (JAMB 2010)",
+    "questionText": "Which of these was detained by Joseph in order that Benjamin might be brought to Egypt",
     "options": [
       "Reuben",
       "Levi",
@@ -13308,7 +13308,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-344-600",
-    "questionText": "What was Samson’s major achievement as Israel’s leader? (JAMB 2010)",
+    "questionText": "What was Samson’s major achievement as Israel’s leader?",
     "options": [
       "He suppressed the Philistines",
       "He captured the city of Jericho",
@@ -13320,7 +13320,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-345-626",
-    "questionText": "According to Jesus, the seventy disciples should rejoice because (JAMB 2010)",
+    "questionText": "According to Jesus, the seventy disciples should rejoice because",
     "options": [
       "their names were written in heaven",
       "their faith and zeal were increased",
@@ -13332,7 +13332,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-346-565",
-    "questionText": "Isaiah said that when Israel spread forth their hands, God would hide his face because they were (JAMB 2010)",
+    "questionText": "Isaiah said that when Israel spread forth their hands, God would hide his face because they were",
     "options": [
       "making many prayers",
       "offering vain sacrifices.",
@@ -13344,7 +13344,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-347-322",
-    "questionText": "When Zechariah saw the angel of the Lord standing on the right side of the altar of incense, he (JAMB 2011)",
+    "questionText": "When Zechariah saw the angel of the Lord standing on the right side of the altar of incense, he",
     "options": [
       "cried out to him",
       "was troubled and afraid",
@@ -13356,7 +13356,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-348-646",
-    "questionText": "According to Joseph’s interpretation to Pharaoh’s dreams; the seven empty ears blighted by the east wind represented seven years of (JAMB 2011)",
+    "questionText": "According to Joseph’s interpretation to Pharaoh’s dreams; the seven empty ears blighted by the east wind represented seven years of",
     "options": [
       "famine.",
       "abundance.",
@@ -13368,7 +13368,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-349-126",
-    "questionText": "The last born of Gomer for Hoshea was ………….   (JAMB 2011)",
+    "questionText": "The last born of Gomer for Hoshea was ………….",
     "options": [
       "Jezreel",
       "Loammi",
@@ -13380,7 +13380,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-350-652",
-    "questionText": "Deborah, a prophetess who was a judge in Israel was the wife of (JAMB 2011)",
+    "questionText": "Deborah, a prophetess who was a judge in Israel was the wife of",
     "options": [
       "Joshua.",
       "Abijah.",
@@ -13392,7 +13392,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-351-982",
-    "questionText": "James teaches that all the following are true causes of unanswered prayers except  (JAMB 2011)",
+    "questionText": "James teaches that all the following are true causes of unanswered prayers except",
     "options": [
       "sin",
       "diligence",
@@ -13404,7 +13404,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-352-299",
-    "questionText": "God visited the children of Israel on Mount Sinai during the giving of  the commandments through (JAMB 2011)",
+    "questionText": "God visited the children of Israel on Mount Sinai during the giving of  the commandments through",
     "options": [
       "a storm",
       "mist and dew",
@@ -13416,7 +13416,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-353-672",
-    "questionText": "“How is it that you a Jew ask a drink of me...” This statement was made by the (JAMB 2011)",
+    "questionText": "“How is it that you a Jew ask a drink of me...” This statement was made by the",
     "options": [
       "Gentile woman.",
       "woman of Samaria.",
@@ -13428,7 +13428,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-354-1019",
-    "questionText": "When Jesus said “apart from me you can do nothing”, he meant that Christians  (JAMB 2011)",
+    "questionText": "When Jesus said “apart from me you can do nothing”, he meant that Christians",
     "options": [
       "pray without ceasing.",
       "must faithfully trust in Him always.",
@@ -13440,7 +13440,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-355-656",
-    "questionText": "“...Behold, to obey is better than sacrifice and to hearken than the fat of rams”. This statement was Samuel’s reaction to (JAMB 2011)",
+    "questionText": "“...Behold, to obey is better than sacrifice and to hearken than the fat of rams”. This statement was Samuel’s reaction to",
     "options": [
       "David’s defense of his sin.",
       "Saul’s defense of disobedience.",
@@ -13452,7 +13452,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-356-655",
-    "questionText": "Joel and Abijah were the sons of (JAMB 2011)",
+    "questionText": "Joel and Abijah were the sons of",
     "options": [
       "Eli.",
       "Saul",
@@ -13464,7 +13464,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-357-318",
-    "questionText": "According to Amos, God desires knowledge of Him rather than (JAMB 2011)",
+    "questionText": "According to Amos, God desires knowledge of Him rather than",
     "options": [
       "fervent prayers",
       "dependency on the Law",
@@ -13476,7 +13476,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-358-975",
-    "questionText": "The First Martyr among the apostles was  (JAMB 2011)",
+    "questionText": "The First Martyr among the apostles was",
     "options": [
       "James",
       "Philip",
@@ -13488,7 +13488,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-359-678",
-    "questionText": "Saul was converted on his journey to (JAMB 2011)",
+    "questionText": "Saul was converted on his journey to",
     "options": [
       "Samaria",
       "Jerusalem.",
@@ -13500,7 +13500,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-360-662",
-    "questionText": "Obadiah, Ahabs servant, made history for himself by (JAMB 2011)",
+    "questionText": "Obadiah, Ahabs servant, made history for himself by",
     "options": [
       "arresting the prophets of Yahweh",
       ". executing all the prophets.",
@@ -13512,7 +13512,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-361-987",
-    "questionText": "According to Paul, God gives us victory over death through  (JAMB 2011)",
+    "questionText": "According to Paul, God gives us victory over death through",
     "options": [
       "Adam",
       "Jesus",
@@ -13524,7 +13524,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-362-1034",
-    "questionText": "Paul asked the Thessalonians to imitate his action of  (JAMB 2011)",
+    "questionText": "Paul asked the Thessalonians to imitate his action of",
     "options": [
       "demanding support from his converts.",
       "performing miracles",
@@ -13536,7 +13536,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-363-657",
-    "questionText": "On Mount Gilboa, king Saul decided to commit suicide in order to avoid (JAMB 2011)",
+    "questionText": "On Mount Gilboa, king Saul decided to commit suicide in order to avoid",
     "options": [
       "ridicule from the Philistines.",
       "witnessing the death of his sons",
@@ -13548,7 +13548,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-364-664",
-    "questionText": "King Jehoshaphat was commended for adopting his father’s policies which included (JAMB 2011)",
+    "questionText": "King Jehoshaphat was commended for adopting his father’s policies which included",
     "options": [
       "removing Maacah, his grandmother from being queen.",
       "waging wars with the king of Israel.",
@@ -13560,7 +13560,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-365-321",
-    "questionText": "According to Jeremiah, the anger of God towards Israel would only be reduced by (JAMB 2011)",
+    "questionText": "According to Jeremiah, the anger of God towards Israel would only be reduced by",
     "options": [
       "His mercy",
       "the prophet’s repentance",
@@ -13572,7 +13572,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-366-948",
-    "questionText": "God rejected Eli’s line of priesthood because  (JAMB 2011)",
+    "questionText": "God rejected Eli’s line of priesthood because",
     "options": [
       "his children were idolators.",
       "they did not obey the prophets.",
@@ -13584,7 +13584,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-367-695",
-    "questionText": "James advised Christians to portray their faith in Jesus by (JAMB 2011)",
+    "questionText": "James advised Christians to portray their faith in Jesus by",
     "options": [
       "listening to the word of God always.",
       "converting others to Christ.",
@@ -13596,7 +13596,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-368-966",
-    "questionText": "According to Luke, the third temptation of Jesus was that He should  (JAMB 2011)",
+    "questionText": "According to Luke, the third temptation of Jesus was that He should",
     "options": [
       "jump down from the high mountain.",
       "jump from the pinnacle of the temple",
@@ -13608,7 +13608,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-369-983",
-    "questionText": "The gifts of the spirit which could be regarded as “vocal gifts”  are  (JAMB 2011)",
+    "questionText": "The gifts of the spirit which could be regarded as “vocal gifts”  are",
     "options": [
       "healing, miracles and faith",
       "wisdom, knowledge and discernment",
@@ -13620,7 +13620,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-370-973",
-    "questionText": "Pilate referred Jesus to Herod for trial because (JAMB 2011)",
+    "questionText": "Pilate referred Jesus to Herod for trial because",
     "options": [
       "Pilate and Herod were good friends",
       "Jesus did not cooperate with Pilate.",
@@ -13632,7 +13632,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-371-340",
-    "questionText": "In Corinthians, believers are taught to forgive one another in order to (JAMB 2011)",
+    "questionText": "In Corinthians, believers are taught to forgive one another in order to",
     "options": [
       "keep Satan from gaining advantage",
       "prevent the wrongdoer from losing his salvation",
@@ -13644,7 +13644,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-372-123",
-    "questionText": "What Josiah, the king of Judah, is best remembered for in Jewish history is  (JAMB 2011)",
+    "questionText": "What Josiah, the king of Judah, is best remembered for in Jewish history is",
     "options": [
       "His ability to destroy all the shine of Baals",
       "His order that the bones and tombs of the prophets of God must be preserved",
@@ -13656,7 +13656,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-373-305",
-    "questionText": "God promised Abraham that nations of the earth shall be blessed through him because (JAMB 2011)",
+    "questionText": "God promised Abraham that nations of the earth shall be blessed through him because",
     "options": [
       "he had obeyed Him",
       "his descendants had obeyed Him",
@@ -13668,7 +13668,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-374-324",
-    "questionText": "The disciples became terrified when they saw Jesus walking on the sea because (JAMB 2011)",
+    "questionText": "The disciples became terrified when they saw Jesus walking on the sea because",
     "options": [
       "they thought He would drown",
       "they thought He was a ghost",
@@ -13680,7 +13680,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-375-306",
-    "questionText": "The punishment for Adam and Eve’s sin was that they (JAMB 2011)",
+    "questionText": "The punishment for Adam and Eve’s sin was that they",
     "options": [
       "were driven out of the garden",
       "would be naked forever",
@@ -13692,7 +13692,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-376-162",
-    "questionText": "The three sons of Saul who lost their live on Mount Gilboa were   (JAMB 2012)",
+    "questionText": "The three sons of Saul who lost their live on Mount Gilboa were",
     "options": [
       "Jonathan, Ishbosheth and Abinadab",
       "Abinadab, Jonathan and Ishbosheth",
@@ -13704,7 +13704,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-377-857",
-    "questionText": "Ahab revealed his disregard for the law when he (JAMB 2012)",
+    "questionText": "Ahab revealed his disregard for the law when he",
     "options": [
       "got married to Jezebel",
       "persecuted the prophets of lsrael",
@@ -13716,7 +13716,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-378-877",
-    "questionText": "“Mary Magdalene and the other Mary went to see the sepulchre”. “The other Mary”, according to St. Mark was the mother  (JAMB 2012)",
+    "questionText": "“Mary Magdalene and the other Mary went to see the sepulchre”. “The other Mary”, according to St. Mark was the mother",
     "options": [
       "James and Joses",
       "James and John",
@@ -13728,7 +13728,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-379-155",
-    "questionText": "The disciple in Damascus who prayed for Saul (Paul) to receive his sight after his conversions was   (JAMB 2012)",
+    "questionText": "The disciple in Damascus who prayed for Saul (Paul) to receive his sight after his conversions was",
     "options": [
       "Ananias",
       "Sapphira",
@@ -13740,7 +13740,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-380-158",
-    "questionText": "“Thy glory, O Israel upon thy high places! How are the mighty fallen! Tell it not in the streets of Ashkelon… How  are the mighty fallen in the midst of the battle!” The above dirge was written by David when   (JAMB 2012)",
+    "questionText": "“Thy glory, O Israel upon thy high places! How are the mighty fallen! Tell it not in the streets of Ashkelon… How  are the mighty fallen in the midst of the battle!” The above dirge was written by David when",
     "options": [
       "He killed Goliath",
       "Uriah the Hittite died",
@@ -13752,7 +13752,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-381-153",
-    "questionText": "One of the lessons one can derive from the story of Deborah the Prophetess is that   (JAMB 2012)",
+    "questionText": "One of the lessons one can derive from the story of Deborah the Prophetess is that",
     "options": [
       "Women are not good warriors",
       "Women should not be allowed to take leadership roles",
@@ -13764,7 +13764,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-382-844",
-    "questionText": "“Do you mean to kill me as you killed the Egyptian?”This statement made Moses aware of the fact that  (JAMB 2012)",
+    "questionText": "“Do you mean to kill me as you killed the Egyptian?”This statement made Moses aware of the fact that",
     "options": [
       "some Israelites did not like him",
       "God was sending him to Midian",
@@ -13776,7 +13776,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-383-170",
-    "questionText": "According to Peter, Judgment of God must first begin in   (JAMB 2012)",
+    "questionText": "According to Peter, Judgment of God must first begin in",
     "options": [
       "the house of God",
       "the public places",
@@ -13788,7 +13788,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-384-887",
-    "questionText": "\n Which of the following, accordings to James is an important\n factor for effective prayer?\n (JAMB 2012)",
+    "questionText": "\n Which of the following, accordings to James is an important\n factor for effective prayer?\n",
     "options": [
       "Love",
       "Faith",
@@ -13800,7 +13800,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-385-869",
-    "questionText": "“For he was astonished, and all that were with him, at the catch of fish which they had taken”The people being referred to in the text were (JAMB 2012)",
+    "questionText": "“For he was astonished, and all that were with him, at the catch of fish which they had taken”The people being referred to in the text were",
     "options": [
       "Matthew, John and Andrew",
       "Matthias, John and Peter",
@@ -13812,7 +13812,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-386-858",
-    "questionText": " Josiah sent the ashes of the burnt vessels of Baal to Bethel in order to (JAMB 2012)",
+    "questionText": " Josiah sent the ashes of the burnt vessels of Baal to Bethel in order to",
     "options": [
       "desecrate the golden calf being worshipped",
       "desecrate the place for child sacrifice",
@@ -13824,7 +13824,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-387-154",
-    "questionText": "One of the following is not among the reasons why Jesus taught in Parables   (JAMB 2012)",
+    "questionText": "One of the following is not among the reasons why Jesus taught in Parables",
     "options": [
       "to fulfill the prophecy in Psalm 78:2",
       "to create understanding",
@@ -13836,7 +13836,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-388-850",
-    "questionText": "“Give meat for the priest to roast for he will not accept boiled meat from you, but raw”This request was wrong because in a peace offering (JAMB 2012)",
+    "questionText": "“Give meat for the priest to roast for he will not accept boiled meat from you, but raw”This request was wrong because in a peace offering",
     "options": [
       "meat with blood was unacceptable",
       "juicy meat went to the worshippers",
@@ -13848,7 +13848,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-389-875",
-    "questionText": "“This is the King of the Jews”This inscription on the cross was meant to show Jesus (JAMB 2012)",
+    "questionText": "“This is the King of the Jews”This inscription on the cross was meant to show Jesus",
     "options": [
       "charge",
       "punishment",
@@ -13860,7 +13860,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-390-883",
-    "questionText": "The visitors of Peter after his vision at Joppa were  (JAMB 2012)",
+    "questionText": "The visitors of Peter after his vision at Joppa were",
     "options": [
       "Jerusalem",
       "Samaria",
@@ -13872,7 +13872,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-391-847",
-    "questionText": "Moses asked God for a new leader for Israel so that lsrael might (JAMB 2012)",
+    "questionText": "Moses asked God for a new leader for Israel so that lsrael might",
     "options": [
       "have a shepherd",
       "conquer the Cannanites",
@@ -13884,7 +13884,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-392-156",
-    "questionText": "According to James, one of the causes of wars among Christians is  (JAMB 2012)",
+    "questionText": "According to James, one of the causes of wars among Christians is",
     "options": [
       "their passions",
       "their wickedness",
@@ -13896,7 +13896,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-393-845",
-    "questionText": "God made Pharaoh to chase and bring the Israelites back to Egypt so that He would (JAMB 2012)",
+    "questionText": "God made Pharaoh to chase and bring the Israelites back to Egypt so that He would",
     "options": [
       "show that Moses was his true servant",
       "destroy first born males of Egyptians",
@@ -13908,7 +13908,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-394-848",
-    "questionText": "Moses before his death served lsrael as (JAMB 2012)",
+    "questionText": "Moses before his death served lsrael as",
     "options": [
       "prophet, liberator and king",
       "king, priest and warrior",
@@ -13920,7 +13920,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-395-871",
-    "questionText": "In the garden of Gethsemane, Jesus (JAMB 2012)",
+    "questionText": "In the garden of Gethsemane, Jesus",
     "options": [
       "was arrested",
       "was crucified",
@@ -13932,7 +13932,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-396-888",
-    "questionText": "Partially according to James is manifested in the Church through (JAMB 2012)",
+    "questionText": "Partially according to James is manifested in the Church through",
     "options": [
       "discrimination",
       "charity",
@@ -13944,7 +13944,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-397-852",
-    "questionText": "Samuel said that rebellion was as the sin of divination just as stubbornness was as  (JAMB 2012)",
+    "questionText": "Samuel said that rebellion was as the sin of divination just as stubbornness was as",
     "options": [
       "iniquity and adultery",
       "sinful as disobedience",
@@ -13956,7 +13956,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-398-880",
-    "questionText": "To which religious party did Gamaliel belong? The (JAMB 2012)",
+    "questionText": "To which religious party did Gamaliel belong? The",
     "options": [
       "Zealots",
       "Sadducees",
@@ -13968,7 +13968,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-399-152",
-    "questionText": "The prophet who prophesied that Paul would be arrested in Jerusalem is   (JAMB 2012)",
+    "questionText": "The prophet who prophesied that Paul would be arrested in Jerusalem is",
     "options": [
       "Isaiah",
       "Agabus",
@@ -13980,7 +13980,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-400-881",
-    "questionText": "And we are witnesses to these  things, and so is the Holy Spirit whom God has given to those who obey him”\n “These things” in the disciples’ statement before the\n Sanhedrin refers to\n (JAMB 2012)",
+    "questionText": "And we are witnesses to these  things, and so is the Holy Spirit whom God has given to those who obey him”\n “These things” in the disciples’ statement before the\n Sanhedrin refers to\n",
     "options": [
       "the election of Matthias",
       "outpouring of the Holy Spirit",
@@ -13992,7 +13992,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-401-841",
-    "questionText": "Darkness was not created during creation because (JAMB 2012)",
+    "questionText": "Darkness was not created during creation because",
     "options": [
       "the earth was full of water",
       "God’s spirit was over the waters",
@@ -14004,7 +14004,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-402-148",
-    "questionText": "In his second letter to the Christians in Thessalonians, Paul admonished them to have nothing to do with anyone who refused to obey what he wrote in the letter. What did Paul think would happen to the person?   (JAMB 2012)",
+    "questionText": "In his second letter to the Christians in Thessalonians, Paul admonished them to have nothing to do with anyone who refused to obey what he wrote in the letter. What did Paul think would happen to the person?",
     "options": [
       "The person would be encouraged",
       "The person would be ashamed",
@@ -14016,7 +14016,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-403-854",
-    "questionText": "After Saul’s death on Mount Gilboa, the Philistines (JAMB 2012)",
+    "questionText": "After Saul’s death on Mount Gilboa, the Philistines",
     "options": [
       "burnt his body near the tamarisk tree",
       "sent his head to Dagon their god",
@@ -14028,7 +14028,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-404-846",
-    "questionText": "The minority report of the twelve spies was presented by (JAMB 2012)",
+    "questionText": "The minority report of the twelve spies was presented by",
     "options": [
       "Caleb and Joshua",
       "Palti and Gaddiel",
@@ -14040,7 +14040,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-405-889",
-    "questionText": "To be a good citizen, Peter advised believers to honour all men and (JAMB 2012)",
+    "questionText": "To be a good citizen, Peter advised believers to honour all men and",
     "options": [
       "live as free men",
       "love the brotherhood",
@@ -14052,7 +14052,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-406-861",
-    "questionText": "The Judean King who revolted against Babylon after serving her for three years was (JAMB 2012)",
+    "questionText": "The Judean King who revolted against Babylon after serving her for three years was",
     "options": [
       "Jehoahaz",
       "Jehoiakim",
@@ -14064,7 +14064,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-407-878",
-    "questionText": "The resurrection stroy encourage Christians to believe that the Lord they adore is (JAMB 2012)",
+    "questionText": "The resurrection stroy encourage Christians to believe that the Lord they adore is",
     "options": [
       "still alive today",
       "a miracle working God",
@@ -14076,7 +14076,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-408-863",
-    "questionText": "The tribes which lead the Jews in rebuilding the temple were (JAMB 2012)",
+    "questionText": "The tribes which lead the Jews in rebuilding the temple were",
     "options": [
       "Judah and Benjamin",
       "Levi and Gad",
@@ -14088,7 +14088,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-409-412",
-    "questionText": "King Josiah was killed by Pharaoh Neco in a battle at (JAMB 2013)",
+    "questionText": "King Josiah was killed by Pharaoh Neco in a battle at",
     "options": [
       "Syria",
       "Meggiddo",
@@ -14100,7 +14100,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-410-437",
-    "questionText": "According to Colossians, the Lord does not wish that any should perish, but that all should (JAMB 2013)",
+    "questionText": "According to Colossians, the Lord does not wish that any should perish, but that all should",
     "options": [
       "rejoice",
       "be saved",
@@ -14112,7 +14112,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-411-926",
-    "questionText": "Philip’s flight into Samaria was necesitated by  (JAMB 2013)",
+    "questionText": "Philip’s flight into Samaria was necesitated by",
     "options": [
       "the need to convert the Samarians.",
       "directive from the Holy Spirit.",
@@ -14124,7 +14124,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-412-934",
-    "questionText": "In Corinthians, Paul stated that he was unfit to be called an apostle because he (JAMB 2013)",
+    "questionText": "In Corinthians, Paul stated that he was unfit to be called an apostle because he",
     "options": [
       "could not speak in tongues.",
       "persecuted the Church.",
@@ -14136,7 +14136,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-413-413",
-    "questionText": "The major reason God allowed the Babylonian attack on the city of Jerusalem was to (JAMB 2013)",
+    "questionText": "The major reason God allowed the Babylonian attack on the city of Jerusalem was to",
     "options": [
       "demonstrate the ability of God to deliver His people from captivity",
       "set a trap for the Babylonians and destroy them",
@@ -14148,7 +14148,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-414-174",
-    "questionText": "Israel went into Assyria captivity in (JAMB 2013)",
+    "questionText": "Israel went into Assyria captivity in",
     "options": [
       "720BC",
       "730 AD",
@@ -14160,7 +14160,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-415-424",
-    "questionText": "The disciples of Jesus could not heal the boy with epilepsy because they (JAMB 2013)",
+    "questionText": "The disciples of Jesus could not heal the boy with epilepsy because they",
     "options": [
       "did not fast",
       "had little faith",
@@ -14172,7 +14172,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-416-415",
-    "questionText": "Jonah’s explanation to the LORD for resisting His first call teaches us that God is (JAMB 2013)",
+    "questionText": "Jonah’s explanation to the LORD for resisting His first call teaches us that God is",
     "options": [
       "repentant of evil",
       "not ready to act fast",
@@ -14184,7 +14184,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-417-429",
-    "questionText": "After His arrest, Jesus was taken to (JAMB 2013)",
+    "questionText": "After His arrest, Jesus was taken to",
     "options": [
       "Pontiphas",
       "Agrippa",
@@ -14196,7 +14196,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-418-443",
-    "questionText": "According to Thessalonians, the second coming of the Lord will be (JAMB 2013)",
+    "questionText": "According to Thessalonians, the second coming of the Lord will be",
     "options": [
       "with the blowing of a trumpet",
       "after scoffers have come",
@@ -14208,7 +14208,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-419-185",
-    "questionText": "The sons of Samuel who did not walk in his ways were: (JAMB 2013)",
+    "questionText": "The sons of Samuel who did not walk in his ways were:",
     "options": [
       "Phinehas and Hophni",
       "Hophni and Amos",
@@ -14220,7 +14220,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-420-916",
-    "questionText": "According to the Sermon on the Mount, God’s kingdom would be filled with those who were  (JAMB 2013)",
+    "questionText": "According to the Sermon on the Mount, God’s kingdom would be filled with those who were",
     "options": [
       "mournful. .",
       "meek",
@@ -14232,7 +14232,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-421-912",
-    "questionText": "What virtue did the Centurion exhibit in the healing of his servant? (JAMB 2013)",
+    "questionText": "What virtue did the Centurion exhibit in the healing of his servant?",
     "options": [
       "Forgiveness",
       "Love",
@@ -14244,7 +14244,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-422-399",
-    "questionText": "During Moses leadership in Israel, he exhibited most importantly, the talent of a (JAMB 2013)",
+    "questionText": "During Moses leadership in Israel, he exhibited most importantly, the talent of a",
     "options": [
       "mediator",
       "warrior",
@@ -14256,7 +14256,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-423-190",
-    "questionText": "Amos explained true religion as   (JAMB 2013)",
+    "questionText": "Amos explained true religion as",
     "options": [
       "singing of praises to God",
       "self-righteousness",
@@ -14268,7 +14268,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-424-442",
-    "questionText": "Paul in Timothy urged believers to make supplications, prayers, intercession and thanksgivings for all those who (JAMB 2013)",
+    "questionText": "Paul in Timothy urged believers to make supplications, prayers, intercession and thanksgivings for all those who",
     "options": [
       "are in authority",
       "have accepted Christ",
@@ -14280,7 +14280,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-425-401",
-    "questionText": "How did God guide Eleazar in choosing a wife for lsaac? (JAMB 2013)",
+    "questionText": "How did God guide Eleazar in choosing a wife for lsaac?",
     "options": [
       "He caused Rebekah to give him free accommodation",
       "He made Rebekah’s parents willing to release her",
@@ -14292,7 +14292,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-426-928",
-    "questionText": "Luke described Cornelius as a devout man who feared God because he was a  (JAMB 2013)",
+    "questionText": "Luke described Cornelius as a devout man who feared God because he was a",
     "options": [
       "Hellenist of the Italian Cohort.",
       "Proselyte of Jewish descent.",
@@ -14304,7 +14304,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-427-440",
-    "questionText": "In Corinthians, Paul said that one can only say Jesus is Lord by (JAMB 2013)",
+    "questionText": "In Corinthians, Paul said that one can only say Jesus is Lord by",
     "options": [
       "denouncing the law",
       "faith",
@@ -14316,7 +14316,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-428-423",
-    "questionText": "“Lord, if you will, you can make me clean.” The statement above was made by the (JAMB 2013)",
+    "questionText": "“Lord, if you will, you can make me clean.” The statement above was made by the",
     "options": [
       "leper",
       "paralytic",
@@ -14328,7 +14328,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-429-420",
-    "questionText": "According to Jeremiah, the people of Israel were in exile because of their (JAMB 2013)",
+    "questionText": "According to Jeremiah, the people of Israel were in exile because of their",
     "options": [
       "impatience and immorality",
       "rebellion against Nebuchadnezzar",
@@ -14340,7 +14340,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-430-184",
-    "questionText": "One of the following is not in the Pentateuch   (JAMB 2013)",
+    "questionText": "One of the following is not in the Pentateuch",
     "options": [
       "Exodus",
       "Judges",
@@ -14352,7 +14352,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-431-427",
-    "questionText": "According to Peter during the great confession, people believed that Jesus was (JAMB 2013)",
+    "questionText": "According to Peter during the great confession, people believed that Jesus was",
     "options": [
       "the Messiah",
       "a priest",
@@ -14364,7 +14364,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-432-900",
-    "questionText": "The action of Rehoboam that led to the division of the kingdom was  (JAMB 2013)",
+    "questionText": "The action of Rehoboam that led to the division of the kingdom was",
     "options": [
       "following his father’s tyranny",
       "leading Isreal to war.",
@@ -14376,7 +14376,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-433-910",
-    "questionText": "God promised to make the forehead of Ezekiel hard against those of the Israelites. This meant that God would  (JAMB 2013)",
+    "questionText": "God promised to make the forehead of Ezekiel hard against those of the Israelites. This meant that God would",
     "options": [
       "strengthen and equip Ezekiel with courage",
       "protect and harden Ezekiel",
@@ -14388,7 +14388,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-434-891",
-    "questionText": "On the fourth day of creation God created  (JAMB 2013)",
+    "questionText": "On the fourth day of creation God created",
     "options": [
       "the great sea monsters.",
       "the firmament",
@@ -14400,7 +14400,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-435-913",
-    "questionText": "Jesus demonstrated his compassion for humanity in all the following miracles except the  (JAMB 2013)",
+    "questionText": "Jesus demonstrated his compassion for humanity in all the following miracles except the",
     "options": [
       "feeding of the five thousan",
       "healing of the centurion’s servant.",
@@ -14412,7 +14412,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-436-939",
-    "questionText": "Paul’s letter to Philemon was written to (JAMB 2013)",
+    "questionText": "Paul’s letter to Philemon was written to",
     "options": [
       "support Onesimus as he returned to his master.",
       "order him to take back his slave.",
@@ -14424,7 +14424,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-437-406",
-    "questionText": "‘...why then have you not kept watch over your lord the king?...” The question above by David was addressed to (JAMB 2013)",
+    "questionText": "‘...why then have you not kept watch over your lord the king?...” The question above by David was addressed to",
     "options": [
       "Amasa",
       "Joab",
@@ -14436,7 +14436,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-438-892",
-    "questionText": "In the first creation story, the major difference between man and all other living things was that  (JAMB 2013)",
+    "questionText": "In the first creation story, the major difference between man and all other living things was that",
     "options": [
       "every other thing was created after man.",
       "only man was given the power to be fruitful.",
@@ -14448,7 +14448,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-439-903",
-    "questionText": "The Israelites under Barak defeated the Canaanite troops led by  (JAMB 2013)",
+    "questionText": "The Israelites under Barak defeated the Canaanite troops led by",
     "options": [
       "Jael",
       "Siser",
@@ -14460,7 +14460,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-440-919",
-    "questionText": "The last words of Jesus on the cross was (JAMB 2013)",
+    "questionText": "The last words of Jesus on the cross was",
     "options": [
       "my God, my God, why has Thou forsaken me.",
       "father forgive them their transgression.",
@@ -14472,7 +14472,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-441-410",
-    "questionText": "The sins of Israel during the reign of Ahab consisted of (JAMB 2013)",
+    "questionText": "The sins of Israel during the reign of Ahab consisted of",
     "options": [
       "worship of the king",
       "trampling upon the poor",
@@ -14484,7 +14484,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-442-432",
-    "questionText": "The appointment of deacons became necessary because of the complaint by the (JAMB 2013)",
+    "questionText": "The appointment of deacons became necessary because of the complaint by the",
     "options": [
       "Gentile converts",
       "Hellenists",
@@ -14496,7 +14496,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-443-182",
-    "questionText": "In one of the missionary journeys, Paul was stoned   to a state of coma in   (JAMB 2013)",
+    "questionText": "In one of the missionary journeys, Paul was stoned   to a state of coma in",
     "options": [
       "Antioch in Pisidia",
       "Iconium",
@@ -14508,7 +14508,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-444-555",
-    "questionText": "God said to Solomon in a dream, <em>“Ask what I shall give you”</em>. What did Solomon ask for? (JAMB 2010)",
+    "questionText": "God said to Solomon in a dream, <em>“Ask what I shall give you”</em>. What did Solomon ask for?",
     "options": [
       "Power and authority",
       "Great wealth and riches",
@@ -14520,7 +14520,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-445-411",
-    "questionText": "The book of the law was found in the house of the LORD during the reign of king (JAMB 2013)",
+    "questionText": "The book of the law was found in the house of the LORD during the reign of king",
     "options": [
       "Josiah",
       "Ahab",
@@ -14532,7 +14532,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-446-691",
-    "questionText": "Paul, pleaded with Philemon to forgive (JAMB 2011)",
+    "questionText": "Paul, pleaded with Philemon to forgive",
     "options": [
       "Barnabas.",
       "Timothy.",
@@ -14544,7 +14544,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-447-979",
-    "questionText": "\n What yoke did the Council of Jerusalem say had been difficult for the Pharisees and their fathers to bear? The question of\n (JAMB 2011)",
+    "questionText": "\n What yoke did the Council of Jerusalem say had been difficult for the Pharisees and their fathers to bear? The question of\n",
     "options": [
       "discipleship.",
       "circumcision",
@@ -14556,7 +14556,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-448-1056",
-    "questionText": "When Elijah confronted Ahab over the Killing of Naboth, Ahab (JAMB 2015)",
+    "questionText": "When Elijah confronted Ahab over the Killing of Naboth, Ahab",
     "options": [
       "rejected any responsibility for it",
       "blamed Jezebel for the murder",
@@ -14568,7 +14568,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-449-484",
-    "questionText": "Paul and his associates gave the Thessalonian believers an \timportant example to imitate. This example was to (JAMB 2009)",
+    "questionText": "Paul and his associates gave the Thessalonian believers an \timportant example to imitate. This example was to",
     "options": [
       "be ready to help the poor always",
       "toil, labour and work to earn a living",
@@ -14580,7 +14580,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-450-538",
-    "questionText": "In His sermon on the Mount, Jesus discouraged His listeners from laying up treasures on earth because (JAMB 2015)",
+    "questionText": "In His sermon on the Mount, Jesus discouraged His listeners from laying up treasures on earth because",
     "options": [
       "it would create enmity",
       "they would not be respected",
@@ -14592,7 +14592,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-451-726",
-    "questionText": "Elijah fed on _____ after declaring drought upon the land of Israel (JAMB 2019)",
+    "questionText": "Elijah fed on _____ after declaring drought upon the land of Israel",
     "options": [
       "Bread, Fish and Oil",
       "Bread, Meat and Water",
@@ -14604,7 +14604,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-452-173",
-    "questionText": "The women sang and said David slain his ten thousands and Saul his   (JAMB 2013)",
+    "questionText": "The women sang and said David slain his ten thousands and Saul his",
     "options": [
       "five thousands",
       "thousand",
@@ -14616,7 +14616,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-453-749",
-    "questionText": "One derivative lesson from the story of Gehazi'z greed is that_______ (JAMB 2019)",
+    "questionText": "One derivative lesson from the story of Gehazi'z greed is that_______",
     "options": [
       "We can by ourselves, through materialism, cause the destruction of generations yet unborn",
       "Dishonesty should not have been a ground for cursing Gehazi with leprosy",
@@ -14628,7 +14628,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-454-255",
-    "questionText": "According to Matthew, the stone on the tomb of Jesus was removed by (JAMB 2009)",
+    "questionText": "According to Matthew, the stone on the tomb of Jesus was removed by",
     "options": [
       "an angel",
       "a Roman soldier",
@@ -14640,7 +14640,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-455-731",
-    "questionText": "Summarily, St Paul in his teaching on 'New Life In Christ' advised Christains to ______ (JAMB 2019)",
+    "questionText": "Summarily, St Paul in his teaching on 'New Life In Christ' advised Christains to ______",
     "options": [
       "Endeavor to be baptized by immersion",
       "Pray for the Grace of God",
@@ -14652,7 +14652,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-456-151",
-    "questionText": "The prophet whose message was primarily on social justice and true religion is   (JAMB 2012)",
+    "questionText": "The prophet whose message was primarily on social justice and true religion is",
     "options": [
       "Isaiah",
       "Agabus",
@@ -14664,7 +14664,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-457-770",
-    "questionText": "\"What you sow does not come to life unless it dies\". This was______ (JAMB 2019)",
+    "questionText": "\"What you sow does not come to life unless it dies\". This was______",
     "options": [
       "the message of St. Paul's teaching on the second coming of Christ",
       "made by St. Paul to Elymas, the magician",
@@ -14676,7 +14676,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-458-504",
-    "questionText": "God displayed His supremacy when Ahab was king during \tthe (JAMB 2015)",
+    "questionText": "God displayed His supremacy when Ahab was king during \tthe",
     "options": [
       "incidence of Naboth’s vineyard",
       "war with Ramoth-gilead",
@@ -14688,7 +14688,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-459-122",
-    "questionText": "The expression ‘dry bones’ in Ezekiel refers to  (JAMB 2010)",
+    "questionText": "The expression ‘dry bones’ in Ezekiel refers to",
     "options": [
       "an Israelites proverb",
       "the whole house of Israel",
@@ -14700,7 +14700,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-460-592",
-    "questionText": "Why did Paul wish to retain Onesimus? (JAMB 2010)",
+    "questionText": "Why did Paul wish to retain Onesimus?",
     "options": [
       "To protect him from persecution",
       "Christianity was opposed to slavery",
@@ -14712,7 +14712,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-461-860",
-    "questionText": "Daniel  disobeyed King Darius by (JAMB 2012)",
+    "questionText": "Daniel  disobeyed King Darius by",
     "options": [
       "refusing to honour the Persian gods",
       "refusing to be made president of the Satraps",
@@ -14724,7 +14724,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-462-568",
-    "questionText": "By the action of the Good Samaritan, Christians are encouraged to (JAMB 2010)",
+    "questionText": "By the action of the Good Samaritan, Christians are encouraged to",
     "options": [
       "go out to the streets and look for someone to help.",
       "always travel with enough money in case the need arises to help.",
@@ -14736,7 +14736,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-463-524",
-    "questionText": "The king who captured and drove the Israelites into exile during the reign of Jehoiachin was (JAMB 2015)",
+    "questionText": "The king who captured and drove the Israelites into exile during the reign of Jehoiachin was",
     "options": [
       "Nebuchadnezzar",
       "Darius",
@@ -14748,7 +14748,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-464-550",
-    "questionText": "How old was Joshua before he died? (JAMB 2010)",
+    "questionText": "How old was Joshua before he died?",
     "options": [
       "95 years",
       "98 years",
@@ -14760,7 +14760,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-465-602",
-    "questionText": "‘Deal gently for my sake with the young man Absalom.’ David’s statement above exhibited his (JAMB 2010)",
+    "questionText": "‘Deal gently for my sake with the young man Absalom.’ David’s statement above exhibited his",
     "options": [
       "indulgent love for his son",
       "willingness to forgive his competitors",
@@ -14772,7 +14772,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-466-640",
-    "questionText": "According to Corinthians, variety of gifts are inspired by (JAMB 2010)",
+    "questionText": "According to Corinthians, variety of gifts are inspired by",
     "options": [
       "fervent prayers",
       "angels of God",
@@ -14784,7 +14784,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-467-756",
-    "questionText": "The name \"Jezreel\" is a representation of ______ (JAMB 2019)",
+    "questionText": "The name \"Jezreel\" is a representation of ______",
     "options": [
       "Hosea's discontent with his wife",
       "Victory upon the enemies of Israel",
@@ -14796,7 +14796,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-468-1050",
-    "questionText": "Saul lied to Samuel when the (Saul) (JAMB 2015)",
+    "questionText": "Saul lied to Samuel when the (Saul)",
     "options": [
       "allowed the soldiers to bring booties of the war home",
       "said that he had utterly destroyed the Amalekites.",
@@ -14808,7 +14808,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-469-1076",
-    "questionText": "One remarkable thing about the feast of Pentecost for Christians was that it  (JAMB 2015)",
+    "questionText": "One remarkable thing about the feast of Pentecost for Christians was that it",
     "options": [
       "attracted many foreigners into Israel",
       "enabled people to speak in tongues",
@@ -14820,7 +14820,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-470-501",
-    "questionText": "“I tell you, if these were silent, the very stones would cry out.” Jesus’ statement above was made when (JAMB 2015)",
+    "questionText": "“I tell you, if these were silent, the very stones would cry out.” Jesus’ statement above was made when",
     "options": [
       "He was rebuked by the Pharisees for eating with sinners",
       "the scribes and the chief priest came to arrest Him",
@@ -14832,7 +14832,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-471-1062",
-    "questionText": "Which of the following distinctly demonstrates the episode of Shadrack, Meshack and Abednego  (JAMB 2015)",
+    "questionText": "Which of the following distinctly demonstrates the episode of Shadrack, Meshack and Abednego",
     "options": [
       "Complete trust in God",
       "God’s ability to save his servants",
@@ -14844,7 +14844,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-472-1080",
-    "questionText": "Peter’s tour of Lydda led to the (JAMB 2015)",
+    "questionText": "Peter’s tour of Lydda led to the",
     "options": [
       "development of the church in Caesarca",
       "conversion of the residents of sharon",
@@ -14856,7 +14856,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-473-498",
-    "questionText": "The ruler of the synagogue whose child Jesus raised to life was (JAMB 2015)",
+    "questionText": "The ruler of the synagogue whose child Jesus raised to life was",
     "options": [
       "Zebedee",
       "a widow",
@@ -14868,7 +14868,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-474-500",
-    "questionText": "Paul in Romans said that the righteousness of God has been manifested through faith in Jesus Christ for (JAMB 2015)",
+    "questionText": "Paul in Romans said that the righteousness of God has been manifested through faith in Jesus Christ for",
     "options": [
       "the exaltation of the authority",
       "the cleansing of the sinners",
@@ -14880,7 +14880,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-475-1047",
-    "questionText": "The boy Moses was hidden for three months because  (JAMB 2015)",
+    "questionText": "The boy Moses was hidden for three months because",
     "options": [
       "he was destined to become a great leader",
       "he was attacked by an abominable disease",
@@ -14892,7 +14892,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-476-1073",
-    "questionText": "According to Matthew, when the women met the risen Jesus, they (JAMB 2015)",
+    "questionText": "According to Matthew, when the women met the risen Jesus, they",
     "options": [
       "annointed him with spices",
       "took hold of his feet and worshipped him",
@@ -14904,7 +14904,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-477-1044",
-    "questionText": "“You shall be my own possession among all peoples” God made this promise to the Israelites on condition that they  (JAMB 2015)",
+    "questionText": "“You shall be my own possession among all peoples” God made this promise to the Israelites on condition that they",
     "options": [
       "drove the Canaanite out of the land",
       "kept away from foreign women",
@@ -14916,7 +14916,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-478-541",
-    "questionText": "The church that was commended for giving even when in extreme poverty was in (JAMB 2015)",
+    "questionText": "The church that was commended for giving even when in extreme poverty was in",
     "options": [
       "Galatia",
       "Corinth",
@@ -14928,7 +14928,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-479-1077",
-    "questionText": "The charge of drunkenness was levelled against the apostles on Pentecost day because (JAMB 2015)",
+    "questionText": "The charge of drunkenness was levelled against the apostles on Pentecost day because",
     "options": [
       "they were drunk before nine o’clock",
       "they spoke in other tongues",
@@ -14940,7 +14940,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-480-1064",
-    "questionText": "“I gave you cleanness of teeth in all your cities” This statement means God gave them (JAMB 2015)",
+    "questionText": "“I gave you cleanness of teeth in all your cities” This statement means God gave them",
     "options": [
       "no water to drink",
       "new set of teeth",
@@ -14952,7 +14952,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-481-519",
-    "questionText": "The most important aspect of the religious reforms of King Josiah was the (JAMB 2015)",
+    "questionText": "The most important aspect of the religious reforms of King Josiah was the",
     "options": [
       "renewal of the covenant",
       "cleaning of the Temple",
@@ -14964,7 +14964,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-482-1070",
-    "questionText": "A Roman Centurion was in charge of (JAMB 2015)",
+    "questionText": "A Roman Centurion was in charge of",
     "options": [
       "A.1,000 soldiers",
       "B.500 soldiers",
@@ -14976,7 +14976,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-483-517",
-    "questionText": "An action that demonstrated Solomon’s wisdom was his (JAMB 2015)",
+    "questionText": "An action that demonstrated Solomon’s wisdom was his",
     "options": [
       "judgment of the prostitute’s child",
       "reliance on a medium",
@@ -14988,7 +14988,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-484-516",
-    "questionText": "Paul admonished the Romans to live a new life in Christ by yielding themselves to God as men who (JAMB 2015)",
+    "questionText": "Paul admonished the Romans to live a new life in Christ by yielding themselves to God as men who",
     "options": [
       "have been brought from death to life",
       "will meet Christ in God’s Kingdom",
@@ -15000,7 +15000,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-485-503",
-    "questionText": "In His teaching about Himself, Jesus said the hireling is not a good shepherd because he (JAMB 2015)",
+    "questionText": "In His teaching about Himself, Jesus said the hireling is not a good shepherd because he",
     "options": [
       "leaves the sheep and flees at the sight of danger",
       "owns the sheep but does not care for them",
@@ -15012,7 +15012,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-486-506",
-    "questionText": "Paul in Thessalonians declared that at the second coming \tof the Lord, those who are alive will not precede those that are (JAMB 2015)",
+    "questionText": "Paul in Thessalonians declared that at the second coming \tof the Lord, those who are alive will not precede those that are",
     "options": [
       "ignorant",
       "condemned",
@@ -15024,7 +15024,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-487-536",
-    "questionText": "When David’s son Absalom rebelled against him, David was forced to (JAMB 2015)",
+    "questionText": "When David’s son Absalom rebelled against him, David was forced to",
     "options": [
       "flee from Jerusalem",
       "abdicate the throne",
@@ -15036,7 +15036,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-488-1053",
-    "questionText": "Nathan announced all the following forms of punishment for David’s Sin except that  (JAMB 2015)",
+    "questionText": "Nathan announced all the following forms of punishment for David’s Sin except that",
     "options": [
       "God will raise up evil against his own house",
       "his wives will be taken away from him",
@@ -15048,7 +15048,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-489-527",
-    "questionText": "How old was Abram when God appeared to him the second time? (JAMB 2015)",
+    "questionText": "How old was Abram when God appeared to him the second time?",
     "options": [
       "105 years",
       "75 years",
@@ -15060,7 +15060,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-490-509",
-    "questionText": "God fed the Israelites with Manna at the wilderness of (JAMB 2015)",
+    "questionText": "God fed the Israelites with Manna at the wilderness of",
     "options": [
       "Zin",
       "Elim",
@@ -15072,7 +15072,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-491-1090",
-    "questionText": "Peter admonished church leaders to take care of the flock of Christ in order to (JAMB 2015)",
+    "questionText": "Peter admonished church leaders to take care of the flock of Christ in order to",
     "options": [
       "restrain men from degrading the church",
       "obtain God’s crown of glory",
@@ -15084,7 +15084,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-492-532",
-    "questionText": "According to Paul in Philippians, Jesus demonstrated humility when He (JAMB 2015)",
+    "questionText": "According to Paul in Philippians, Jesus demonstrated humility when He",
     "options": [
       "had pity on the possessed man",
       "likened Himself to God",
@@ -15096,7 +15096,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-493-526",
-    "questionText": "“The Son of man must suffer many things, and be rejected by the elders .....” Jesus made the statement above after He (JAMB 2015)",
+    "questionText": "“The Son of man must suffer many things, and be rejected by the elders .....” Jesus made the statement above after He",
     "options": [
       "cleansed the Temple",
       "demanded to know who people thought He was",
@@ -15108,7 +15108,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-494-497",
-    "questionText": "“....... Behold, I will bring evil upon you; I will utterly sweep you away .....” Elijah pronounced destruction on Ahab with the statement above for his sin of (JAMB 2015)",
+    "questionText": "“....... Behold, I will bring evil upon you; I will utterly sweep you away .....” Elijah pronounced destruction on Ahab with the statement above for his sin of",
     "options": [
       "the killing of God’s prophets",
       "worship of other gods",
@@ -15120,7 +15120,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-495-522",
-    "questionText": "The action that portrayed Moses as a leader of the Israelites was his (JAMB 2015)",
+    "questionText": "The action that portrayed Moses as a leader of the Israelites was his",
     "options": [
       "request to Pharaoh to spare Israelite’s sons",
       "disobedience to Pharaoh and escape",
@@ -15132,7 +15132,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-496-534",
-    "questionText": "For obeying His word, God rewarded Shiphrah and Puah with (JAMB 2015)",
+    "questionText": "For obeying His word, God rewarded Shiphrah and Puah with",
     "options": [
       "families",
       "positions",
@@ -15144,7 +15144,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-497-521",
-    "questionText": "David was successful as a leader in Israel because (JAMB 2015)",
+    "questionText": "David was successful as a leader in Israel because",
     "options": [
       "he submitted to God’s guidance",
       "of his training as a solider",
@@ -15156,7 +15156,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-498-507",
-    "questionText": "When Ezekiel ate the scroll that was given to him his call. it signified that (JAMB 2015)",
+    "questionText": "When Ezekiel ate the scroll that was given to him his call. it signified that",
     "options": [
       "God would always go before him",
       "his sins were forgiven",
@@ -15168,7 +15168,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-499-537",
-    "questionText": "“Go and stand in the temple and speak to the people all the words of this life.” The angel’s statement above to Peter was after (JAMB 2015)",
+    "questionText": "“Go and stand in the temple and speak to the people all the words of this life.” The angel’s statement above to Peter was after",
     "options": [
       "the murmurings of the Hellenists",
       "his release from prison",
@@ -15180,7 +15180,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-500-518",
-    "questionText": "According to Corinthians, Paul while defending himself advised believers to boast only of the things that (JAMB 2015)",
+    "questionText": "According to Corinthians, Paul while defending himself advised believers to boast only of the things that",
     "options": [
       "exhibit their authority",
       "show their weakness",
@@ -15192,7 +15192,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-501-1067",
-    "questionText": " “Don’t be afraid, henceforth you will be catching men”. “Catching men” means capturing men  (JAMB 2015)",
+    "questionText": " “Don’t be afraid, henceforth you will be catching men”. “Catching men” means capturing men",
     "options": [
       "to the new faith",
       "who oppose the Gospel",
@@ -15204,7 +15204,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-502-980",
-    "questionText": "Justification by faith according to Paul is (JAMB 2011)",
+    "questionText": "Justification by faith according to Paul is",
     "options": [
       "the state of being a blessed child of God",
       "acquitted by the one offended.",
@@ -15216,7 +15216,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-503-1012",
-    "questionText": " “And I asked them concerning the Jews that survived, who has escaped exile, and concerning Jerusalem...” These were   the words of  (JAMB 2011)",
+    "questionText": " “And I asked them concerning the Jews that survived, who has escaped exile, and concerning Jerusalem...” These were   the words of",
     "options": [
       "Jeremiah.",
       "Nehemiah",
@@ -15228,7 +15228,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-504-653",
-    "questionText": "The sons of Eli were regarded as worthless men for all the following reasons except (JAMB 2011)",
+    "questionText": "The sons of Eli were regarded as worthless men for all the following reasons except",
     "options": [
       "sleeping with the women at the tent of meeting",
       "failing to attend the places of worship regularly.",
@@ -15240,7 +15240,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-505-107",
-    "questionText": "When was this statement made? ‘I repent that I Made Saul king ' (JAMB 2010)",
+    "questionText": "When was this statement made? ‘I repent that I Made Saul king '",
     "options": [
       "at the anointing of Saul",
       "When Saul failed to ray",
@@ -15252,7 +15252,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-506-117",
-    "questionText": "Paul was accused of apparently being a preacher of foreign divinities in Athens because he preached Jesus and the  (JAMB 2010)",
+    "questionText": "Paul was accused of apparently being a preacher of foreign divinities in Athens because he preached Jesus and the",
     "options": [
       "Cross",
       "Law",
@@ -15264,7 +15264,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-507-252",
-    "questionText": "In his teaching on partiality, James declares that mercy triumphs over (JAMB 2009)",
+    "questionText": "In his teaching on partiality, James declares that mercy triumphs over",
     "options": [
       "judgment",
       "righteousness",
@@ -15276,7 +15276,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-508-130",
-    "questionText": "What was Cain’s immediate reaction to the acceptance of Abel’s offering? (JAMB 2011)",
+    "questionText": "What was Cain’s immediate reaction to the acceptance of Abel’s offering?",
     "options": [
       "He offered another sacrifice",
       "He was angry and his countenance fell",
@@ -15288,7 +15288,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-509-317",
-    "questionText": "What shall I do with you, O Ephraim? What shall I do with you, O Judah? Your love is like a morning cloud...” In the statement above, the love of Israel is compared to a morning cloud because it (JAMB 2011)",
+    "questionText": "What shall I do with you, O Ephraim? What shall I do with you, O Judah? Your love is like a morning cloud...” In the statement above, the love of Israel is compared to a morning cloud because it",
     "options": [
       "disappears fast",
       "withers",
@@ -15300,7 +15300,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-510-750",
-    "questionText": "Paul advised the young in his teaching on interpersonal relationship among Christains to ________ (JAMB 2019)",
+    "questionText": "Paul advised the young in his teaching on interpersonal relationship among Christains to ________",
     "options": [
       "See themselves as strong and able-bodied servants of God",
       "Subject themselves to the elders",
@@ -15312,7 +15312,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-511-421",
-    "questionText": "‘‘... and many will rejoice at his birth; for he will be great before the Lord...” In the statement above, the angel made this pronouncement because of (JAMB 2013)",
+    "questionText": "‘‘... and many will rejoice at his birth; for he will be great before the Lord...” In the statement above, the angel made this pronouncement because of",
     "options": [
       "Elizabeth’s disbelief because of her bareness",
       "Mary’s holy nature",
@@ -15324,7 +15324,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-512-343",
-    "questionText": "‘Pay all of  them their dues, taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honour to whom honour is due’. Paul made the statement above to the Church at (JAMB 2011)",
+    "questionText": "‘Pay all of  them their dues, taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honour to whom honour is due’. Paul made the statement above to the Church at",
     "options": [
       "Thessalonica",
       "Rome",
@@ -15336,7 +15336,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-513-543",
-    "questionText": "Believers today are partakers of the New Covenant through (JAMB 2015)",
+    "questionText": "Believers today are partakers of the New Covenant through",
     "options": [
       "partaking in baptism by immersion",
       "the gift of the spirit",
@@ -15348,7 +15348,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-514-176",
-    "questionText": "One of the following was not among the religious sects in the New Testament   (JAMB 2013)",
+    "questionText": "One of the following was not among the religious sects in the New Testament",
     "options": [
       "The Pharisees",
       "The Nazarenes",
@@ -15360,7 +15360,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-515-981",
-    "questionText": "Paul in Thessalonian said the signs for the Second Coming of Christ would start with  (JAMB 2011)",
+    "questionText": "Paul in Thessalonian said the signs for the Second Coming of Christ would start with",
     "options": [
       "condemnation",
       "rebellion.",
@@ -15372,7 +15372,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-516-741",
-    "questionText": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______ (JAMB 2019)",
+    "questionText": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______",
     "options": [
       "New set of teeth",
       "No food to eat",
@@ -15384,7 +15384,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-517-482",
-    "questionText": "The meeting of the Christian Council of Jerusalem was chaired by (JAMB 2009)",
+    "questionText": "The meeting of the Christian Council of Jerusalem was chaired by",
     "options": [
       "Peter.",
       "Paul.",
@@ -15396,7 +15396,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-518-704",
-    "questionText": " Which one of the following is the man associated with prayers? (JAMB 2019)",
+    "questionText": " Which one of the following is the man associated with prayers?",
     "options": [
       "Elisha",
       "Elijah",
@@ -15408,7 +15408,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-519-339",
-    "questionText": "According to Paul in Philippians, humility means giving consideration to other people’s (JAMB 2011)",
+    "questionText": "According to Paul in Philippians, humility means giving consideration to other people’s",
     "options": [
       "wealth",
       "weakness",
@@ -15420,7 +15420,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-520-836",
-    "questionText": "In Philippians, Paul taught that Jesus’humility and death on the cross earned Him  (JAMB 2010)",
+    "questionText": "In Philippians, Paul taught that Jesus’humility and death on the cross earned Him",
     "options": [
       "salvation for Israel.",
       "adoption as son of Go",
@@ -15432,7 +15432,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-521-249",
-    "questionText": "According to Ephesians, children who obey their parents in the Lord will (JAMB 2009)",
+    "questionText": "According to Ephesians, children who obey their parents in the Lord will",
     "options": [
       "be happy",
       "go to heaven",
@@ -15444,7 +15444,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-522-967",
-    "questionText": "The initial evidence that the disciples had received the Holy Spirit was (JAMB 2011)",
+    "questionText": "The initial evidence that the disciples had received the Holy Spirit was",
     "options": [
       "performing miracles",
       "preaching to the people.",
@@ -15456,7 +15456,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-523-384",
-    "questionText": "Paul says that only the heathen who are led astray by dumb idols could say (JAMB 2008)",
+    "questionText": "Paul says that only the heathen who are led astray by dumb idols could say",
     "options": [
       "“Jesus is Lord!”",
       "“Praise ye the Lord!”",
@@ -15468,7 +15468,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-524-1016",
-    "questionText": "The incidents that took place following Jesus’ death on the cross did not include the  (JAMB 2011)",
+    "questionText": "The incidents that took place following Jesus’ death on the cross did not include the",
     "options": [
       "tearing into two of the temple’s veil.",
       "quaking of the earth that broke the rocks.",
@@ -15480,7 +15480,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-525-1078",
-    "questionText": "Which prophet did Peter quote when he preached on Pentecost day about the spirit falling upon all men?  (JAMB 2015)",
+    "questionText": "Which prophet did Peter quote when he preached on Pentecost day about the spirit falling upon all men?",
     "options": [
       "Amos",
       "Hosea",
@@ -15492,7 +15492,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-526-699",
-    "questionText": "After Abner’s death, David showed that he had sincerely forgiven him by ____________. (JAMB 2019)",
+    "questionText": "After Abner’s death, David showed that he had sincerely forgiven him by ____________.",
     "options": [
       "ordering the arrest of Joab who slew Abner",
       "directing all Israel to bury Abner with honour",
@@ -15504,7 +15504,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-527-1063",
-    "questionText": "The indigenous official of King Darius were unhappy with Daniel because he  (JAMB 2015)",
+    "questionText": "The indigenous official of King Darius were unhappy with Daniel because he",
     "options": [
       "often reported them to the King",
       "was a Jewish exile",
@@ -15516,7 +15516,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-528-510",
-    "questionText": "“The very stone which the builders rejected has become the head of the corner” The statement above in Peter was directed to those who (JAMB 2015)",
+    "questionText": "“The very stone which the builders rejected has become the head of the corner” The statement above in Peter was directed to those who",
     "options": [
       "did not believe in Jesus’ preciousness",
       "built the Temple of Jerusalem",
@@ -15528,7 +15528,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-529-690",
-    "questionText": "With respect to the date of the Parosia, Paul advised Thessalonians to (JAMB 2011)",
+    "questionText": "With respect to the date of the Parosia, Paul advised Thessalonians to",
     "options": [
       "be sober in maintaining their hope of salvation.",
       "disregard all speculations about it.",
@@ -15540,7 +15540,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-530-899",
-    "questionText": "Solomon showed lack of wisdom in  (JAMB 2013)",
+    "questionText": "Solomon showed lack of wisdom in",
     "options": [
       "building the temple.",
       "his bilateral agreement with other nations.",
@@ -15552,7 +15552,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-531-953",
-    "questionText": "God promised to punish the house of Ahab and not Ahab himself, because he (JAMB 2011)",
+    "questionText": "God promised to punish the house of Ahab and not Ahab himself, because he",
     "options": [
       "humbled himself.",
       "acted under pressure.",
@@ -15564,7 +15564,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-532-798",
-    "questionText": "During the Ammonite war Uriah disobeyed king David by refusing to go to his house to sleep because  (JAMB 2010)",
+    "questionText": "During the Ammonite war Uriah disobeyed king David by refusing to go to his house to sleep because",
     "options": [
       "it was wrong to go home drunk.",
       "his wife would regard him as a cowar",
@@ -15576,7 +15576,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-533-398",
-    "questionText": "The ark that God commanded Noah to build was made of (JAMB 2013)",
+    "questionText": "The ark that God commanded Noah to build was made of",
     "options": [
       "acacia wood",
       "gopher wood",
@@ -15588,7 +15588,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-534-670",
-    "questionText": "Peter called for the construction of three booths for Jesus, Moses and Elijah, respectively during (JAMB 2011)",
+    "questionText": "Peter called for the construction of three booths for Jesus, Moses and Elijah, respectively during",
     "options": [
       "the transfiguration.",
       "the Ascension.",
@@ -15600,7 +15600,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-535-341",
-    "questionText": "In Corinthians, Paul stated that by one Spirit we were (JAMB 2011)",
+    "questionText": "In Corinthians, Paul stated that by one Spirit we were",
     "options": [
       "free from bondage of sin",
       "united into one church",
@@ -15612,7 +15612,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-536-283",
-    "questionText": "When King Nebuchadnezzar besieged Judah, he took away all classes of people but spared the (JAMB 2009)",
+    "questionText": "When King Nebuchadnezzar besieged Judah, he took away all classes of people but spared the",
     "options": [
       "poorest people of the land",
       "palace guards",
@@ -15624,7 +15624,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-537-563",
-    "questionText": "The person who discovered the book of law in the sanctuary during the reign of Josiah was (JAMB 2010)",
+    "questionText": "The person who discovered the book of law in the sanctuary during the reign of Josiah was",
     "options": [
       "Zedekiah",
       "Huldah.",
@@ -15636,7 +15636,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-538-905",
-    "questionText": "Your love is like the morning cloud, like the dew that goes early”. What did Hosea mean by this statement?  (JAMB 2013)",
+    "questionText": "Your love is like the morning cloud, like the dew that goes early”. What did Hosea mean by this statement?",
     "options": [
       "Israel’s relationship with God was shortlived",
       "Israel did not truly love God as she should",
@@ -15648,7 +15648,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-539-603",
-    "questionText": "How did king Asa prove to be a godly king? (JAMB 2010)",
+    "questionText": "How did king Asa prove to be a godly king?",
     "options": [
       "He killed all the prophets of Baal at Mount Carmel.",
       "He saved Judah from the Philistine menace",
@@ -15660,7 +15660,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-540-936",
-    "questionText": "Peter described Christians as a chosen race of God  because they are to (JAMB 2013)",
+    "questionText": "Peter described Christians as a chosen race of God  because they are to",
     "options": [
       "declare God’s wonderful deeds.",
       "become ordained-pastors.",
@@ -15672,7 +15672,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-541-342",
-    "questionText": "Paul commended the churches in Macedonia for giving out of their freewill to the (JAMB 2011)",
+    "questionText": "Paul commended the churches in Macedonia for giving out of their freewill to the",
     "options": [
       "saints",
       "poor",
@@ -15684,7 +15684,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-542-163",
-    "questionText": "The original name of Shadrach was   (JAMB 2012)",
+    "questionText": "The original name of Shadrach was",
     "options": [
       "Daniel",
       "Mishael",
@@ -15696,7 +15696,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-543-394",
-    "questionText": "In his letter to Philemon Paul did not ask him to (JAMB 2008)",
+    "questionText": "In his letter to Philemon Paul did not ask him to",
     "options": [
       "grant freedom to his slave Onesimus",
       "allow Onesimus become a servant of God",
@@ -15708,7 +15708,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-544-314",
-    "questionText": "Nehemiah responded to the opposition of the enemies of Israel by (JAMB 2011)",
+    "questionText": "Nehemiah responded to the opposition of the enemies of Israel by",
     "options": [
       "telling the people not to say a word",
       "reporting the issue to King Artaxerxes",
@@ -15720,7 +15720,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-545-1081",
-    "questionText": "“Dress yourself and put on your sandals”. Obedience to this instruction led to  (JAMB 2015)",
+    "questionText": "“Dress yourself and put on your sandals”. Obedience to this instruction led to",
     "options": [
       "an angel’s destruction of Herod",
       "Peter’s arrest and imprisonment",
@@ -15732,7 +15732,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-546-686",
-    "questionText": "The New Life in Christ operates through (JAMB 2011)",
+    "questionText": "The New Life in Christ operates through",
     "options": [
       "humility.",
       "the name of Jesus.",
@@ -15744,7 +15744,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-547-297",
-    "questionText": "God blessed and hallowed the seventh day because (JAMB 2011)",
+    "questionText": "God blessed and hallowed the seventh day because",
     "options": [
       "it was the day He rested from creation",
       "it was the day He created man",
@@ -15756,7 +15756,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-548-885",
-    "questionText": "When Rhoda reported that Peter was at the door, the inmates retorted that (JAMB 2012)",
+    "questionText": "When Rhoda reported that Peter was at the door, the inmates retorted that",
     "options": [
       "“you are a liar”",
       "“you are mad”",
@@ -15768,7 +15768,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-549-754",
-    "questionText": "Josiah sent _____the priest to inquire of the Lord from Huldah (JAMB 2019)",
+    "questionText": "Josiah sent _____the priest to inquire of the Lord from Huldah",
     "options": [
       "Shallim",
       "Huldah",
@@ -15780,7 +15780,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-550-333",
-    "questionText": "In the early Church, believer devoted themselves to the (JAMB 2011)",
+    "questionText": "In the early Church, believer devoted themselves to the",
     "options": [
       "daily distribution of food",
       "apostles’ teaching and fellowship",
@@ -15792,7 +15792,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-551-551",
-    "questionText": "Why was Saul asked to destroy the Amalekites? (JAMB 2010)",
+    "questionText": "Why was Saul asked to destroy the Amalekites?",
     "options": [
       "They were worshipping false gods",
       "They opposed the Israelites when they left Egypt",
@@ -15804,7 +15804,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-552-407",
-    "questionText": "Solomon’s wisdom surpassed the wisdom of all the people of the East and all wisdom of Egypt because he (JAMB 2013)",
+    "questionText": "Solomon’s wisdom surpassed the wisdom of all the people of the East and all wisdom of Egypt because he",
     "options": [
       "prayed and fasted daily",
       "employed the service of seers",
@@ -15816,7 +15816,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-553-408",
-    "questionText": "Saul relied on a medium because God did not answer him through (JAMB 2013)",
+    "questionText": "Saul relied on a medium because God did not answer him through",
     "options": [
       "dreams, visions and prophets",
       "inspiration, tambourines and prophets",
@@ -15828,7 +15828,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-554-140",
-    "questionText": "Among the spiritual gifts, love is supreme because it  (JAMB 2011)",
+    "questionText": "Among the spiritual gifts, love is supreme because it",
     "options": [
       "facilitates development",
       "gives room for friendship",
@@ -15840,7 +15840,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-555-996",
-    "questionText": "Who among the following kings was raised by God against the Israelites for going after the Canaanite gods?  (JAMB 2011)",
+    "questionText": "Who among the following kings was raised by God against the Israelites for going after the Canaanite gods?",
     "options": [
       "Agap",
       "Jabin",
@@ -15852,7 +15852,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-556-711",
-    "questionText": "I desire steadfast love and not sacrifice, the knowledge of God, rather than burnt offerings.” This statement was the central theme of the prophecy of _____________. (JAMB 2019)",
+    "questionText": "I desire steadfast love and not sacrifice, the knowledge of God, rather than burnt offerings.” This statement was the central theme of the prophecy of _____________.",
     "options": [
       "Elijah",
       "Ezekiel",
@@ -15864,7 +15864,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-557-734",
-    "questionText": "The accusation of blasphemy against Moses, the law and God was levied against _______ (JAMB 2019)",
+    "questionText": "The accusation of blasphemy against Moses, the law and God was levied against _______",
     "options": [
       "Stephen",
       "Peter and John",
@@ -15876,7 +15876,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-558-762",
-    "questionText": "\"For the men in the ship knew that he was fleeing from the presence of the Lord\". The person referred to in this statement is________ (JAMB 2019)",
+    "questionText": "\"For the men in the ship knew that he was fleeing from the presence of the Lord\". The person referred to in this statement is________",
     "options": [
       "Jonah",
       "Hosea",
@@ -15888,7 +15888,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-559-715",
-    "questionText": "The word of the Lord came to Hosea the son of ___________. (JAMB 2019)",
+    "questionText": "The word of the Lord came to Hosea the son of ___________.",
     "options": [
       "Eliezer",
       "Juhu",
@@ -15900,7 +15900,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-560-728",
-    "questionText": "Peter healed Aeneas who had been bedridden for ____ years? (JAMB 2019)",
+    "questionText": "Peter healed Aeneas who had been bedridden for ____ years?",
     "options": [
       "Four",
       "Six",
@@ -15912,7 +15912,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-561-723",
-    "questionText": "According to Luke, Jesus was standing by the......He thereafter entered into the boat preaching and later 'calling' Simon Peter __________ (JAMB 2019)",
+    "questionText": "According to Luke, Jesus was standing by the......He thereafter entered into the boat preaching and later 'calling' Simon Peter __________",
     "options": [
       "Lake of Gennesaret",
       "City of Caprenaum",
@@ -15924,7 +15924,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-562-730",
-    "questionText": "St Paul, in 'Law and Grace', although man was condemned, he has been redeemed through the _____ (JAMB 2019)",
+    "questionText": "St Paul, in 'Law and Grace', although man was condemned, he has been redeemed through the _____",
     "options": [
       "Compliance to the laws of the God",
       "Righteousness of his deeds",
@@ -15936,7 +15936,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-563-719",
-    "questionText": "Jeremiah prophesied God's punishment of the Israelites because they had_______ (JAMB 2019)",
+    "questionText": "Jeremiah prophesied God's punishment of the Israelites because they had_______",
     "options": [
       "Compromised his worship",
       "Committed atrocities with their neighbors' wives",
@@ -15948,7 +15948,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-564-705",
-    "questionText": "For our prayers to manifest, we must be ________. (JAMB 2019)",
+    "questionText": "For our prayers to manifest, we must be ________.",
     "options": [
       "caring",
       "careful",
@@ -15960,7 +15960,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691965-565-753",
-    "questionText": "One of the most significant lessons from the healing of the Centurion's Servant is that ____________ (JAMB 2019)",
+    "questionText": "One of the most significant lessons from the healing of the Centurion's Servant is that ____________",
     "options": [
       "Jesus has the power to forgive sins",
       "The Level of faith of the servant made Jesus heal him",
@@ -15972,7 +15972,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-566-742",
-    "questionText": "God instructed Saul to utterly destroy Amalek because_____ (JAMB 2019)",
+    "questionText": "God instructed Saul to utterly destroy Amalek because_____",
     "options": [
       "Its people encouraged Israel to disobey God",
       "He abhors Idolatory and all forms of unrighteousness",
@@ -15984,7 +15984,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-567-757",
-    "questionText": "Moses named the place where the Israelites drank water from the rock \"Mesah and Meribah' particularly because--------- (JAMB 2019)",
+    "questionText": "Moses named the place where the Israelites drank water from the rock \"Mesah and Meribah' particularly because---------",
     "options": [
       "They wanted to put the lord to test",
       "They made him strike the rock angrily",
@@ -15996,7 +15996,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-568-746",
-    "questionText": "The model example in St. Paul teaching on humility is _______ (JAMB 2019)",
+    "questionText": "The model example in St. Paul teaching on humility is _______",
     "options": [
       "Abraham",
       "Prophet Elijah",
@@ -16008,7 +16008,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-569-758",
-    "questionText": "Abraham's faith was reckoned to him as righteousness'. This underscores St Paul's admonition that ______ (JAMB 2019)",
+    "questionText": "Abraham's faith was reckoned to him as righteousness'. This underscores St Paul's admonition that ______",
     "options": [
       "Redemption in Christ is possible through observance of the law",
       "Faith without work is fruitless",
@@ -16020,7 +16020,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-570-707",
-    "questionText": "Teacher, what shall I do to inherit eternal life?” Who among the following tested Jesus with this question? (JAMB 2019)",
+    "questionText": "Teacher, what shall I do to inherit eternal life?” Who among the following tested Jesus with this question?",
     "options": [
       "A Pharisee",
       "A lawyer",
@@ -16032,7 +16032,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-571-778",
-    "questionText": "The most significant lesson at the scene of the Israelites' blame of Moses in their struggle and escape from Egypt is that___________ (JAMB 2019)",
+    "questionText": "The most significant lesson at the scene of the Israelites' blame of Moses in their struggle and escape from Egypt is that___________",
     "options": [
       "God hardened the heart of Pharaoh to pursue the Israelites",
       "they would have perfered to stay back and die in Egypt",
@@ -16044,7 +16044,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-572-768",
-    "questionText": "\"I am the resurrection and the life, he who believes in me, though he dies, yet shall he live\". Jesus directed this statement to (JAMB 2019)",
+    "questionText": "\"I am the resurrection and the life, he who believes in me, though he dies, yet shall he live\". Jesus directed this statement to",
     "options": [
       "Peter",
       "Martha",
@@ -16056,7 +16056,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-573-720",
-    "questionText": "Jesus healed the lame man who had been sick for thirty-eight years at? (JAMB 2019)",
+    "questionText": "Jesus healed the lame man who had been sick for thirty-eight years at?",
     "options": [
       "Capernaum",
       "Samaria",
@@ -16068,7 +16068,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-574-710",
-    "questionText": "Which of these is not in the list of the twelve apostles? (JAMB 2019)",
+    "questionText": "Which of these is not in the list of the twelve apostles?",
     "options": [
       "Thaddeus",
       "Matthew",
@@ -16080,7 +16080,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-575-760",
-    "questionText": "The intent of the their temptation of Christ was to_____________ (JAMB 2019)",
+    "questionText": "The intent of the their temptation of Christ was to_____________",
     "options": [
       "Make him focus on wordly possessions",
       "Make him a political Messiah",
@@ -16092,7 +16092,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-576-767",
-    "questionText": "The Egyptians encamped at ____ when they pursued the Israelites (JAMB 2019)",
+    "questionText": "The Egyptians encamped at ____ when they pursued the Israelites",
     "options": [
       "Raphidim",
       "The sea",
@@ -16104,7 +16104,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-577-755",
-    "questionText": "St James teaching on impartiality centers on_________ (JAMB 2019)",
+    "questionText": "St James teaching on impartiality centers on_________",
     "options": [
       "A Giving the place of the rich to the poor and in the church",
       "Loving our neighbours as ourselves in all situation",
@@ -16116,7 +16116,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-578-724",
-    "questionText": "One significance of St Paul's teaching on Resurrection is that__________ (JAMB 2019)",
+    "questionText": "One significance of St Paul's teaching on Resurrection is that__________",
     "options": [
       "Christians must not underestimate the power of baptism by immersion",
       "As Christ rose and ascended into glory, so as also must uphold the observance of law",
@@ -16128,7 +16128,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-579-779",
-    "questionText": "When Ezekiel was called, he was shown a scroll on which were written words of______ (JAMB 2019)",
+    "questionText": "When Ezekiel was called, he was shown a scroll on which were written words of______",
     "options": [
       "wisdom, understanding and right judgement",
       "bitterness, right judgement and mourning",
@@ -16140,7 +16140,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-580-785",
-    "questionText": "At about the ... hour, Jesus cried with a loud voice \"Eli Eli lama sabach - thani\". (JAMB 2019)",
+    "questionText": "At about the ... hour, Jesus cried with a loud voice \"Eli Eli lama sabach - thani\".",
     "options": [
       "Ninth",
       "Eleventh",
@@ -16152,7 +16152,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-581-736",
-    "questionText": "One of the following is not a condition for effective prayer according to St James_____ (JAMB 2019)",
+    "questionText": "One of the following is not a condition for effective prayer according to St James_____",
     "options": [
       "Faith",
       "Lowliness",
@@ -16164,7 +16164,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-582-697",
-    "questionText": "“The sword devours now one and now another.” This statement was made by David in reaction to the death of __________. (JAMB 2019)",
+    "questionText": "“The sword devours now one and now another.” This statement was made by David in reaction to the death of __________.",
     "options": [
       "Saul",
       "Joab",
@@ -16176,7 +16176,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-583-788",
-    "questionText": "To St. James, a doer of the word of God must learn to also__________ (JAMB 2019)",
+    "questionText": "To St. James, a doer of the word of God must learn to also__________",
     "options": [
       "persevere in times of tribulation",
       "combine his faith with work",
@@ -16188,7 +16188,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-584-751",
-    "questionText": "According to St James, 'He who keeps the whole law and fails in one is guilty of....' (JAMB 2019)",
+    "questionText": "According to St James, 'He who keeps the whole law and fails in one is guilty of....'",
     "options": [
       "Breaking the new commandment of Christ",
       "Breaking that particular love and should pray for grace",
@@ -16200,7 +16200,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-585-740",
-    "questionText": "The triumphal entry was in fulfilment of the prophecy of_______ (JAMB 2019)",
+    "questionText": "The triumphal entry was in fulfilment of the prophecy of_______",
     "options": [
       "Isaiah",
       "Amos",
@@ -16212,7 +16212,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-586-747",
-    "questionText": "The core of Saul's disobedience was that___________ (JAMB 2019)",
+    "questionText": "The core of Saul's disobedience was that___________",
     "options": [
       "He didn't perform the task of smiting the Amalekites to the letter",
       "He preserved the booty for himself",
@@ -16224,7 +16224,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-587-714",
-    "questionText": ".I desire steadfast love and not sacrifice, offerings”. This statement was the central theme of the prophecy of __________. (JAMB 2019)",
+    "questionText": ".I desire steadfast love and not sacrifice, offerings”. This statement was the central theme of the prophecy of __________.",
     "options": [
       "Elijah",
       "Ezekiel",
@@ -16236,7 +16236,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-588-698",
-    "questionText": "“The sword devours now one and now another.” This statement was David’s reaction to the death of __________. (JAMB 2019)",
+    "questionText": "“The sword devours now one and now another.” This statement was David’s reaction to the death of __________.",
     "options": [
       "Saul",
       "Joab",
@@ -16248,7 +16248,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-589-733",
-    "questionText": "Peter advised Christians to _______as they were sharing Christ's sufferings (JAMB 2019)",
+    "questionText": "Peter advised Christians to _______as they were sharing Christ's sufferings",
     "options": [
       "Be Prayerful",
       "Rejoice",
@@ -16260,7 +16260,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-590-906",
-    "questionText": "Yet what they are building if a fox goes up on it he will breakdown their stone wall”. This statement by Tobias was  (JAMB 2013)",
+    "questionText": "Yet what they are building if a fox goes up on it he will breakdown their stone wall”. This statement by Tobias was",
     "options": [
       "taunt and ridicule the Jews",
       "stop and disgrace the Jews",
@@ -16272,7 +16272,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-591-632",
-    "questionText": "‘...Why has Satan filled your heart to lie to the Holy Spirit..’ Peter rebuked Ananias in the statement above for his sin of (Acts 5:3-4) (JAMB 2010)",
+    "questionText": "‘...Why has Satan filled your heart to lie to the Holy Spirit..’ Peter rebuked Ananias in the statement above for his sin of (Acts 5:3-4)",
     "options": [
       "greed",
       "insincerity",
@@ -16284,7 +16284,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-592-263",
-    "questionText": "“Do you understand what you are reading?” Philip asked the Ethiopian eunuch the question above when he found him reading the book of (JAMB 2009)",
+    "questionText": "“Do you understand what you are reading?” Philip asked the Ethiopian eunuch the question above when he found him reading the book of",
     "options": [
       "Hosea",
       "Ezekiel",
@@ -16296,7 +16296,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-593-301",
-    "questionText": "When Joshua fell upon his face during Israel’s defeat at Ai, God told him to rise and (JAMB 2011)",
+    "questionText": "When Joshua fell upon his face during Israel’s defeat at Ai, God told him to rise and",
     "options": [
       "send more courageous soldiers to Ai",
       "encourage the people",
@@ -16308,7 +16308,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-594-958",
-    "questionText": "What was Nehemiah’s immediate reaction to the news concerning Jerusalem? He  (JAMB 2011)",
+    "questionText": "What was Nehemiah’s immediate reaction to the news concerning Jerusalem? He",
     "options": [
       "wept.",
       "prayed",
@@ -16320,7 +16320,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-595-924",
-    "questionText": "The Jewish religious sect which did not believe in resurrection were the (JAMB 2013)",
+    "questionText": "The Jewish religious sect which did not believe in resurrection were the",
     "options": [
       "Pharisees. .",
       "Zealots",
@@ -16332,7 +16332,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-596-584",
-    "questionText": "In the Epistle to the Romans, justification is received through (JAMB 2010)",
+    "questionText": "In the Epistle to the Romans, justification is received through",
     "options": [
       "faith in Jesus.",
       "moral uprightness",
@@ -16344,7 +16344,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-597-444",
-    "questionText": "According to James, when we meet various trails in life, we should (JAMB 2013)",
+    "questionText": "According to James, when we meet various trails in life, we should",
     "options": [
       "bless God’s name",
       "call upon the name of the Lord",
@@ -16356,7 +16356,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-598-1085",
-    "questionText": "James advised against looking down on the poor because they are (JAMB 2015)",
+    "questionText": "James advised against looking down on the poor because they are",
     "options": [
       "the rightful heirs of the kingdom",
       "those who spent time on the Lord",
@@ -16368,7 +16368,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-599-945",
-    "questionText": "The twelve s the type of the fertilifortification of the availability of grapes in the land.citiesty of the landpeople in the lanpies that were sent by Moses to the promised land were to confirm all the following except  (JAMB 2011)",
+    "questionText": "The twelve s the type of the fertilifortification of the availability of grapes in the land.citiesty of the landpeople in the lanpies that were sent by Moses to the promised land were to confirm all the following except",
     "options": [
       "None of the above",
       "All of the above",
@@ -16379,7 +16379,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-600-304",
-    "questionText": "Laxity in disciplining children is dangerous to both the family and society as exemplified by (JAMB 2011)",
+    "questionText": "Laxity in disciplining children is dangerous to both the family and society as exemplified by",
     "options": [
       "Jonathan",
       "Tamar",
@@ -16391,7 +16391,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-601-277",
-    "questionText": "According to proverbs, a son that is attentive to a father’s instruction will (JAMB 2009)",
+    "questionText": "According to proverbs, a son that is attentive to a father’s instruction will",
     "options": [
       "be rich",
       "have eternal life",
@@ -16403,7 +16403,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-602-136",
-    "questionText": "Who among the seven deacons was an evangelist who had four daughters who prophesied?   (JAMB 2011)",
+    "questionText": "Who among the seven deacons was an evangelist who had four daughters who prophesied?",
     "options": [
       "Stephen",
       "Philip",
@@ -16415,7 +16415,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-603-396",
-    "questionText": "Paul, unhappy with high incidence of idleness among the Thessalonians, commanded them to (JAMB 2008)",
+    "questionText": "Paul, unhappy with high incidence of idleness among the Thessalonians, commanded them to",
     "options": [
       "assist those brothers who live in Idleness",
       "exhort the busy-bodies to leave the church",
@@ -16427,7 +16427,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-604-471",
-    "questionText": "Jesus ordered the seventy disciples not to salute any one because (JAMB 2009)",
+    "questionText": "Jesus ordered the seventy disciples not to salute any one because",
     "options": [
       "their mission required urgency.",
       "it is not part of their mission to salute people.",
@@ -16439,7 +16439,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-605-693",
-    "questionText": "The Galatians, were reminded by Paul that they were Abraham’s offspring and heirs according to (JAMB 2011)",
+    "questionText": "The Galatians, were reminded by Paul that they were Abraham’s offspring and heirs according to",
     "options": [
       "promise.",
       "good works.",
@@ -16451,7 +16451,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-606-970",
-    "questionText": "Jesus asked the name of the Gerasene Demonic in order to (JAMB 2011)",
+    "questionText": "Jesus asked the name of the Gerasene Demonic in order to",
     "options": [
       "know the character of the man.",
       "drive out the evil spirit.",
@@ -16463,7 +16463,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-607-438",
-    "questionText": "According to Peter, when Christians humble themselves, God will (JAMB 2013)",
+    "questionText": "According to Peter, when Christians humble themselves, God will",
     "options": [
       "protect them",
       "direct their ways",
@@ -16475,7 +16475,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-608-1039",
-    "questionText": "According to Paul in Galatians, law ceased to be our custodian as soon as  (JAMB 2011)",
+    "questionText": "According to Paul in Galatians, law ceased to be our custodian as soon as",
     "options": [
       "it was made available to us.",
       "Christ adopted us as his children.",
@@ -16487,7 +16487,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-609-950",
-    "questionText": "What reasons were put forward by the Israelites in asking for a king?  (JAMB 2011)",
+    "questionText": "What reasons were put forward by the Israelites in asking for a king?",
     "options": [
       "The age of Samuel and the conduct of his sons",
       "The conduct of Samuel and the strength of the Philistines",
@@ -16499,7 +16499,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-610-946",
-    "questionText": "When the people of Israel received the minority report from the spies, they decided to (JAMB 2011)",
+    "questionText": "When the people of Israel received the minority report from the spies, they decided to",
     "options": [
       "kill Moses for taking them out ress at Sheehem was of Egypt to",
       "go back to Egypt.",
@@ -16511,7 +16511,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-611-823",
-    "questionText": "When the apostles in Jerusalem heard that Samaria had received the gospel, they sent to them    (JAMB 2010)",
+    "questionText": "When the apostles in Jerusalem heard that Samaria had received the gospel, they sent to them",
     "options": [
       "Mark and Barnabas.",
       "Peter and John.",
@@ -16523,7 +16523,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-612-909",
-    "questionText": "God addressed Ezekiel as the “Son of man “. This phrase  (JAMB 2013)",
+    "questionText": "God addressed Ezekiel as the “Son of man “. This phrase",
     "options": [
       "humanity.",
       "character",
@@ -16535,7 +16535,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-613-874",
-    "questionText": "Discipline requires self- denial and complete (JAMB 2012)",
+    "questionText": "Discipline requires self- denial and complete",
     "options": [
       "tolerance",
       "forgiveness",
@@ -16547,7 +16547,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-614-125",
-    "questionText": "True religion, according to Amos’ submission, is the one in which   (JAMB 2011)",
+    "questionText": "True religion, according to Amos’ submission, is the one in which",
     "options": [
       "God is always appeased with sacrifices and tithes",
       "Foods and drinks are served as a mark of love",
@@ -16559,7 +16559,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-615-334",
-    "questionText": "The disciple that went to preach in Samaria after the great persecution in Jerusalem was (JAMB 2011)",
+    "questionText": "The disciple that went to preach in Samaria after the great persecution in Jerusalem was",
     "options": [
       "Philip",
       "Andrew",
@@ -16571,7 +16571,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-616-115",
-    "questionText": "Which religious groups asked Jesus about payment of taxes to Ceaser?  (JAMB 2010)",
+    "questionText": "Which religious groups asked Jesus about payment of taxes to Ceaser?",
     "options": [
       "Pharisees and Sadducces",
       "Pharisees and Herodians",
@@ -16583,7 +16583,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-617-303",
-    "questionText": "Why was God angry with Eli? (JAMB 2011)",
+    "questionText": "Why was God angry with Eli?",
     "options": [
       "Eli’s sons disregarded the people’s warning",
       "Eli’s sons were wicked people.",
@@ -16595,7 +16595,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-618-281",
-    "questionText": "“Let the waters under the heavens be gathered together into one place, and let the dry land appear.” In the statement above  the dry land and the water refer to (JAMB 2009)",
+    "questionText": "“Let the waters under the heavens be gathered together into one place, and let the dry land appear.” In the statement above  the dry land and the water refer to",
     "options": [
       "earth and oceans",
       "firmament and seas",
@@ -16607,7 +16607,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-619-327",
-    "questionText": "Jesus encouraged His followers to rejoice when they were \tpersecuted because (JAMB 2011)",
+    "questionText": "Jesus encouraged His followers to rejoice when they were \tpersecuted because",
     "options": [
       "great would be their reward in heaven",
       "angels would come to their aid",
@@ -16619,7 +16619,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-620-604",
-    "questionText": "The Hebrew midwives who obeyed God rather than Pharaoh were blessed with (JAMB 2010)",
+    "questionText": "The Hebrew midwives who obeyed God rather than Pharaoh were blessed with",
     "options": [
       "favour from all the Israelites",
       "long life in Canaan",
@@ -16631,7 +16631,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-621-298",
-    "questionText": "Noah’s ark was sustained during the flood by its (JAMB 2011)",
+    "questionText": "Noah’s ark was sustained during the flood by its",
     "options": [
       "resting on the highest mountains",
       "being rowed on the waters",
@@ -16643,7 +16643,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-622-611",
-    "questionText": "Although Josiah removed the vessels of Baal and Asherah from the Temple, God did not turn from the fierceness of His \twrath because” (JAMB 2010)",
+    "questionText": "Although Josiah removed the vessels of Baal and Asherah from the Temple, God did not turn from the fierceness of His \twrath because”",
     "options": [
       "the people did not remove them completely",
       "Jehoahaz, Josiah’s son, had provoked Him",
@@ -16655,7 +16655,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691966-623-430",
-    "questionText": "According to Mark, the young man that the women saw in Jesus’ tomb told them to go with the disciples and wait for Him in (JAMB 2013)",
+    "questionText": "According to Mark, the young man that the women saw in Jesus’ tomb told them to go with the disciples and wait for Him in",
     "options": [
       "Bethlehem",
       "Jerusalem",
@@ -16667,7 +16667,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-624-856",
-    "questionText": "The Hebrew kingdom broke up beacuse of  (JAMB 2012)",
+    "questionText": "The Hebrew kingdom broke up beacuse of",
     "options": [
       "prophet Ahijah’s curse against solomon",
       "Solomon’s marriage to foreign women",
@@ -16679,7 +16679,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-625-621",
-    "questionText": "Jesus was tempted by the devil so as to (JAMB 2010)",
+    "questionText": "Jesus was tempted by the devil so as to",
     "options": [
       "fulfil all righteousness",
       "show His power over forces of nature",
@@ -16691,7 +16691,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-626-284",
-    "questionText": "After Prophet Ezekiel had eaten what he was offered, he was sent to speak to (JAMB 2009)",
+    "questionText": "After Prophet Ezekiel had eaten what he was offered, he was sent to speak to",
     "options": [
       "a people of hard language",
       "the house of Israel",
@@ -16703,7 +16703,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-627-425",
-    "questionText": "The seeds that fell among the thorns in the parable of the sower refer to people that heard the word of God but (JAMB 2013)",
+    "questionText": "The seeds that fell among the thorns in the parable of the sower refer to people that heard the word of God but",
     "options": [
       "the evil one snatched it",
       "had no faith to nurture it",
@@ -16715,7 +16715,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-628-576",
-    "questionText": "The lame man who was healed at the pool of Bethizatha was charged by the Jews for breaking the law of the Sabbath \tbecause he (JAMB 2010)",
+    "questionText": "The lame man who was healed at the pool of Bethizatha was charged by the Jews for breaking the law of the Sabbath \tbecause he",
     "options": [
       "consulted Jesus on the Sabbath day.",
       "was carrying his pallet on a Sabbath day.",
@@ -16727,7 +16727,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-629-456",
-    "questionText": "David showed Nathan the prophet that he had repented of his sin by (JAMB 2009)",
+    "questionText": "David showed Nathan the prophet that he had repented of his sin by",
     "options": [
       "refusing to marry Uriah’s wife.",
       "confessing that he had sinned.",
@@ -16739,7 +16739,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-630-320",
-    "questionText": "The prophet who was ordained from the womb for God’s service was (JAMB 2011)",
+    "questionText": "The prophet who was ordained from the womb for God’s service was",
     "options": [
       "Jeremiah",
       "Isaiah",
@@ -16751,7 +16751,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-631-605",
-    "questionText": "When Saul disobeyed God’s command, Samuel rebuked him by saying that (JAMB 2010)",
+    "questionText": "When Saul disobeyed God’s command, Samuel rebuked him by saying that",
     "options": [
       "the sword would never depart from his house",
       "to obey was better than sacrifice",
@@ -16763,7 +16763,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-632-483",
-    "questionText": "Paul wished to retain Onesimus with him but did not do so because (JAMB 2009)",
+    "questionText": "Paul wished to retain Onesimus with him but did not do so because",
     "options": [
       "Onesimus was unwilling to stay with him.",
       "he was afraid of Philemon’s reaction.",
@@ -16775,7 +16775,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-633-932",
-    "questionText": "The Philippians showed their solidarity with Paul while in prison by  (JAMB 2013)",
+    "questionText": "The Philippians showed their solidarity with Paul while in prison by",
     "options": [
       "using Ephraphroditus to appeal for his release.",
       "sending gifts to him through Ephaphroditus.",
@@ -16787,7 +16787,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-634-817",
-    "questionText": "By introducing Jesus as the Lamb, John was pointing to  (JAMB 2010)",
+    "questionText": "By introducing Jesus as the Lamb, John was pointing to",
     "options": [
       "Jesus’sacrificial death.",
       "Jesus’miraculous healing.",
@@ -16799,7 +16799,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-635-452",
-    "questionText": "Which of the following tribes accompanied Deborah and Barak to the war against Jabin and Sisera? (JAMB 2009)",
+    "questionText": "Which of the following tribes accompanied Deborah and Barak to the war against Jabin and Sisera?",
     "options": [
       "Naphtali and Zebulum",
       "Issachar and Reuben",
@@ -16811,7 +16811,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-636-810",
-    "questionText": "Isaiah said that when Israel spread forth their hands, God  (JAMB 2010)",
+    "questionText": "Isaiah said that when Israel spread forth their hands, God",
     "options": [
       "making many prayers",
       "offering vain sacrifices",
@@ -16823,7 +16823,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-637-955",
-    "questionText": "Who among the following carried out a religious reform in Judah?  (JAMB 2011)",
+    "questionText": "Who among the following carried out a religious reform in Judah?",
     "options": [
       "Jehoshaphat",
       "Joshua",
@@ -16835,7 +16835,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-638-761",
-    "questionText": "According to St Paul, God sent the spirit of his son into men's heart----- (JAMB 2019)",
+    "questionText": "According to St Paul, God sent the spirit of his son into men's heart-----",
     "options": [
       "So that become and act like a God",
       "For Purification",
@@ -16847,7 +16847,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-639-978",
-    "questionText": "The laying of hands on Barnabas and Paul for the First Missionary Journey signifies their being (JAMB 2011)",
+    "questionText": "The laying of hands on Barnabas and Paul for the First Missionary Journey signifies their being",
     "options": [
       "blesse",
       "commissioned",
@@ -16859,7 +16859,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-640-307",
-    "questionText": "‘Do not destroy him; for who can stretch out his hand on the LORD’S anointed, and be guiltless?’ In the statement above, David was acknowledging God’s role in (JAMB 2011)",
+    "questionText": "‘Do not destroy him; for who can stretch out his hand on the LORD’S anointed, and be guiltless?’ In the statement above, David was acknowledging God’s role in",
     "options": [
       "Abishai’s command",
       "Saul’s leadership",
@@ -16871,7 +16871,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-641-782",
-    "questionText": "\"Hosanna to the son of David! Blessed is he who comes in the name of the Lord, Hosanna in the highest!\" This was... account of the Triumphal Entry (JAMB 2019)",
+    "questionText": "\"Hosanna to the son of David! Blessed is he who comes in the name of the Lord, Hosanna in the highest!\" This was... account of the Triumphal Entry",
     "options": [
       "Luke's",
       "Mark's",
@@ -16883,7 +16883,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-642-294",
-    "questionText": "According to Prophet Jeremiah, one of the promises of God was that He would give the Israelites (JAMB 2009)",
+    "questionText": "According to Prophet Jeremiah, one of the promises of God was that He would give the Israelites",
     "options": [
       "new priests",
       "new commandments",
@@ -16895,7 +16895,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-643-929",
-    "questionText": "Prior to the day of Pentecost, members that constituted the early Church were (JAMB 2013)",
+    "questionText": "Prior to the day of Pentecost, members that constituted the early Church were",
     "options": [
       "120",
       "1,200.00",
@@ -16907,7 +16907,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-644-559",
-    "questionText": "Who was the king who reintroduced the Passover feast in Israel? (JAMB 2010)",
+    "questionText": "Who was the king who reintroduced the Passover feast in Israel?",
     "options": [
       "Jeroboam",
       "Asa",
@@ -16919,7 +16919,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-645-189",
-    "questionText": "Amos reference to ‘cows of Bashan’ was a metaphoric allusion to   (JAMB 2013)",
+    "questionText": "Amos reference to ‘cows of Bashan’ was a metaphoric allusion to",
     "options": [
       "women of Samaria",
       "rich people of Samaria",
@@ -16931,7 +16931,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-646-446",
-    "questionText": "What in the creation account, gave man an edge over every other creature? (JAMB 2009)",
+    "questionText": "What in the creation account, gave man an edge over every other creature?",
     "options": [
       "Other creatures were made for man",
       "Man alone was created in the Image of God",
@@ -16943,7 +16943,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-647-1024",
-    "questionText": "Which of the following places was not visited by Paul during his first missionary journey?    (JAMB 2011)",
+    "questionText": "Which of the following places was not visited by Paul during his first missionary journey?",
     "options": [
       "Salamis",
       "Athens",
@@ -16955,7 +16955,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-648-441",
-    "questionText": "When Christians give freely, God will supply (JAMB 2013)",
+    "questionText": "When Christians give freely, God will supply",
     "options": [
       "only for those that give",
       "their needs according to His riches in glory",
@@ -16967,7 +16967,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-649-1042",
-    "questionText": "Which of the following was not a river flowing from the Garden of Eden?  (JAMB 2015)",
+    "questionText": "Which of the following was not a river flowing from the Garden of Eden?",
     "options": [
       "Gibon",
       "Tigris",
@@ -16979,7 +16979,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-650-359",
-    "questionText": "Gomer’s attitude towards her loving husband symbolizes (JAMB 2008)",
+    "questionText": "Gomer’s attitude towards her loving husband symbolizes",
     "options": [
       "Hosea’s unfaithfulness to God",
       "Israel’s faithfulness to God",
@@ -16991,7 +16991,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-651-356",
-    "questionText": "Solomon first applied wisdom granted to him by God at Gibeon by the (JAMB 2008)",
+    "questionText": "Solomon first applied wisdom granted to him by God at Gibeon by the",
     "options": [
       "establishment of high places in Judah",
       "utterances of proverbs and parables",
@@ -17003,7 +17003,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-652-290",
-    "questionText": "Immediately after the contest on Mount Carmel, Elijah prayed and God answered him with (JAMB 2009)",
+    "questionText": "Immediately after the contest on Mount Carmel, Elijah prayed and God answered him with",
     "options": [
       "thunder",
       "rainfall",
@@ -17015,7 +17015,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-653-453",
-    "questionText": "On matters of parental responsibility, Samuel could not be commended because he (JAMB 2009)",
+    "questionText": "On matters of parental responsibility, Samuel could not be commended because he",
     "options": [
       "made his children judges instead of priests.",
       "wanted his children to succeed him.",
@@ -17027,7 +17027,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-654-105",
-    "questionText": "God reveal to Samuel that he was going to punish Eli because he  (JAMB 2010)",
+    "questionText": "God reveal to Samuel that he was going to punish Eli because he",
     "options": [
       "did not correct his sons sinful behavior",
       "did not offer sacrifice as the law required",
@@ -17039,7 +17039,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-655-623",
-    "questionText": "The impact of Jesus’ miracle of turning water into wine was that the (JAMB 2010)",
+    "questionText": "The impact of Jesus’ miracle of turning water into wine was that the",
     "options": [
       "servants were astonished",
       "master of ceremony believed",
@@ -17051,7 +17051,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-656-988",
-    "questionText": "The meaning of Reconciliation in Paul’s thought is how to (JAMB 2011)",
+    "questionText": "The meaning of Reconciliation in Paul’s thought is how to",
     "options": [
       "pay back your debt",
       "have peace with God and man",
@@ -17063,7 +17063,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-657-287",
-    "questionText": "God had pity on the people of Nineveh because (JAMB 2009)",
+    "questionText": "God had pity on the people of Nineveh because",
     "options": [
       "they listened to Jonah’s message",
       "the king punished all the violent people in the land",
@@ -17075,7 +17075,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-658-316",
-    "questionText": "‘What is this that you have done!”  The people in the ship asked Jonah the question above because (JAMB 2011)",
+    "questionText": "‘What is this that you have done!”  The people in the ship asked Jonah the question above because",
     "options": [
       "he was fast asleep in the ship",
       "they knew he was fleeing from the LORD",
@@ -17087,7 +17087,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-659-914",
-    "questionText": "Which of the following parables alludes to the existence of a mixture of good and bad people in the church? The (JAMB 2013)",
+    "questionText": "Which of the following parables alludes to the existence of a mixture of good and bad people in the church? The",
     "options": [
       "Wicked Tenants.",
       "Seed Growing Secretly.",
@@ -17099,7 +17099,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-660-769",
-    "questionText": "\"Do not be afraid; for I know what you seek, Jesus who was crucified...\" This statement was made__________ (JAMB 2019)",
+    "questionText": "\"Do not be afraid; for I know what you seek, Jesus who was crucified...\" This statement was made__________",
     "options": [
       "by Joseph of Arimathea",
       "to Mary Magdalene and Mary the mother of James",
@@ -17111,7 +17111,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-661-76",
-    "questionText": "Before Moses died. God appointed ………. to succeed him  (JAMB 2009)",
+    "questionText": "Before Moses died. God appointed ………. to succeed him",
     "options": [
       "Aaron",
       "Balaam",
@@ -17123,7 +17123,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-662-1089",
-    "questionText": "Peter believed that God appreciates and gives credit to servants who (JAMB 2015)",
+    "questionText": "Peter believed that God appreciates and gives credit to servants who",
     "options": [
       "pray without ceasing",
       "keep their tongues shut",
@@ -17135,7 +17135,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-663-1065",
-    "questionText": "“O seer go, flee away to the land of Judah and eat bread” This means Amos was to  (JAMB 2015)",
+    "questionText": "“O seer go, flee away to the land of Judah and eat bread” This means Amos was to",
     "options": [
       "go and earn his living in Judah",
       "go and settle in Judah",
@@ -17147,7 +17147,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-664-759",
-    "questionText": "St Paul's epistle to the Philippians on \"Christian Giving' indicated his reception of gifts from them through________ (JAMB 2019)",
+    "questionText": "St Paul's epistle to the Philippians on \"Christian Giving' indicated his reception of gifts from them through________",
     "options": [
       "The Church In Corinth",
       "St Peter",
@@ -17159,7 +17159,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-665-110",
-    "questionText": "What is the meaning of Emmanuel?  (JAMB 2010)",
+    "questionText": "What is the meaning of Emmanuel?",
     "options": [
       "Son of Emmaus",
       "God is our Redeemer",
@@ -17171,7 +17171,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-666-373",
-    "questionText": "The first five disciples that Jesus called as recorded in the Synoptic gospels were (JAMB 2008)",
+    "questionText": "The first five disciples that Jesus called as recorded in the Synoptic gospels were",
     "options": [
       "Peter, Andrew, James, John and Levi",
       "Peter, Andrew, James, John and Thomas",
@@ -17183,7 +17183,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-667-801",
-    "questionText": "Solomon showed lack of wisdom when he  (JAMB 2010)",
+    "questionText": "Solomon showed lack of wisdom when he",
     "options": [
       "put up temples for the gods of his wives",
       "married many wives with children",
@@ -17195,7 +17195,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-668-643",
-    "questionText": "Paul in Thessalonians told believers that the coming of the Lord would be accompanied by (JAMB 2010)",
+    "questionText": "Paul in Thessalonians told believers that the coming of the Lord would be accompanied by",
     "options": [
       "songs of praise",
       "the sound of the trumpet",
@@ -17207,7 +17207,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-669-1020",
-    "questionText": "On the day of Ascension, Jesus promised his disciples    (JAMB 2011)",
+    "questionText": "On the day of Ascension, Jesus promised his disciples",
     "options": [
       "peace in the kingdom of Go",
       "amazing grace.",
@@ -17219,7 +17219,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-670-547",
-    "questionText": "Which of the following rivers flowed out of Eden to water \tits garden? River (JAMB 2010)",
+    "questionText": "Which of the following rivers flowed out of Eden to water \tits garden? River",
     "options": [
       "Abana",
       "Pharpar",
@@ -17231,7 +17231,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-671-1068",
-    "questionText": "The man who was forced to carry the cross of Jesus was  (JAMB 2015)",
+    "questionText": "The man who was forced to carry the cross of Jesus was",
     "options": [
       "Joseph of Arimathea",
       "Nichodemus",
@@ -17243,7 +17243,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-672-98",
-    "questionText": "For which of these prophets of God did the Bible record explicitly to have abandoned an agribusiness for a call to serve God?  (JAMB 2010)",
+    "questionText": "For which of these prophets of God did the Bible record explicitly to have abandoned an agribusiness for a call to serve God?",
     "options": [
       "Elisha",
       "Ezekiel",
@@ -17255,7 +17255,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-673-278",
-    "questionText": "When God called Moses to deliver the Israelites, he resisted because he could not speak and he was told to (JAMB 2009)",
+    "questionText": "When God called Moses to deliver the Israelites, he resisted because he could not speak and he was told to",
     "options": [
       "perform some signs with his rod",
       "wait for a sign from God",
@@ -17267,7 +17267,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-674-325",
-    "questionText": "The Jews sought to kill Jesus after He healed the man at the pool of Bethzatha because they thought that He (JAMB 2011)",
+    "questionText": "The Jews sought to kill Jesus after He healed the man at the pool of Bethzatha because they thought that He",
     "options": [
       "claimed to have authority to forgive sins",
       "made Himself equal with God",
@@ -17279,7 +17279,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-675-378",
-    "questionText": "Believers according to Jesus in John’s gospel, become his friends, if they imbibe his teaching on (JAMB 2008)",
+    "questionText": "Believers according to Jesus in John’s gospel, become his friends, if they imbibe his teaching on",
     "options": [
       "forgiveness",
       "obedience",
@@ -17291,7 +17291,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-676-109",
-    "questionText": "That was the sin of David that involved Bathseba?  (JAMB 2010)",
+    "questionText": "That was the sin of David that involved Bathseba?",
     "options": [
       "Murder",
       "adultery",
@@ -17303,7 +17303,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-677-993",
-    "questionText": "“.. .who is the Lord, that I should heed his voice and let Israel go”? After this statement, Pharaoh  (JAMB 2011)",
+    "questionText": "“.. .who is the Lord, that I should heed his voice and let Israel go”? After this statement, Pharaoh",
     "options": [
       "engaged Israel into forced labour with task masters.",
       "ordered midwives to kill all males born to Israelites.",
@@ -17315,7 +17315,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-678-416",
-    "questionText": "Before his call, Amos was a (JAMB 2013)",
+    "questionText": "Before his call, Amos was a",
     "options": [
       "herdsman",
       "seer",
@@ -17327,7 +17327,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-679-134",
-    "questionText": "Who was the last person Jesus appeared to after his resurrection according to Paul? (JAMB 2011)",
+    "questionText": "Who was the last person Jesus appeared to after his resurrection according to Paul?",
     "options": [
       "Mary Magdalene",
       "Joseph of Arimathea",
@@ -17339,7 +17339,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-680-631",
-    "questionText": "According to the Gospel of John, Jesus is the true vine while the vinedresser is (John 15:1) (JAMB 2010)",
+    "questionText": "According to the Gospel of John, Jesus is the true vine while the vinedresser is (John 15:1)",
     "options": [
       "the Holy Spirit",
       "His father",
@@ -17351,7 +17351,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-681-577",
-    "questionText": "The descent of the Holy Spirit on the day of  Pentecost was prophesied by (JAMB 2010)",
+    "questionText": "The descent of the Holy Spirit on the day of  Pentecost was prophesied by",
     "options": [
       "Amos.",
       "Joel.",
@@ -17363,7 +17363,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-682-264",
-    "questionText": "“Unbind him, and let him go.” The statement was made by Jesus when (JAMB 2009)",
+    "questionText": "“Unbind him, and let him go.” The statement was made by Jesus when",
     "options": [
       "He raised to life the dead Lazarus",
       "He healed the son of the widow at Nain",
@@ -17375,7 +17375,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-683-319",
-    "questionText": "In his vision, Isaiah’s guilt was taken away and his sin forgiven after (JAMB 2011)",
+    "questionText": "In his vision, Isaiah’s guilt was taken away and his sin forgiven after",
     "options": [
       "the angel of the LORD appeared to him",
       "his mouth was touched with a burning coal",
@@ -17387,7 +17387,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-684-960",
-    "questionText": "The incident in the fiery furnace concerning Shadrach, Meshach and Abednego convinced Nebuchadnezzar that (JAMB 2011)",
+    "questionText": "The incident in the fiery furnace concerning Shadrach, Meshach and Abednego convinced Nebuchadnezzar that",
     "options": [
       "they had many gods to save them.",
       "the Jews were very powerful people.",
@@ -17399,7 +17399,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-685-974",
-    "questionText": "After the resurrection, the Early Church met to (JAMB 2011)",
+    "questionText": "After the resurrection, the Early Church met to",
     "options": [
       "determine how to deal with the Sanhedrin.",
       "plan the expansion of the church.",
@@ -17411,7 +17411,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-686-907",
-    "questionText": "Jeremiah viewed the relationship between God and Israel in her youth to be that of  (JAMB 2013)",
+    "questionText": "Jeremiah viewed the relationship between God and Israel in her youth to be that of",
     "options": [
       "compassion, sincerity and hope",
       "obedience, tolerance and mercy.",
@@ -17423,7 +17423,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-687-941",
-    "questionText": "Eve was to have pains at childbirth because she  (JAMB 2011)",
+    "questionText": "Eve was to have pains at childbirth because she",
     "options": [
       "seduced Adam.",
       "conversed with the serpent.",
@@ -17435,7 +17435,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-688-201",
-    "questionText": "The name Ichabod means (JAMB 2005)",
+    "questionText": "The name Ichabod means",
     "options": [
       "Yahweh is God",
       "beloved of Yahweh",
@@ -17447,7 +17447,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-689-137",
-    "questionText": "“God has given your enemy into your hand this day, now, therefore, let me pin him to the earth with one stroke of the spear, and I will not strike him twice”. This statement was made to David by (JAMB 2011)",
+    "questionText": "“God has given your enemy into your hand this day, now, therefore, let me pin him to the earth with one stroke of the spear, and I will not strike him twice”. This statement was made to David by",
     "options": [
       "Abishai",
       "Abner",
@@ -17459,7 +17459,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-690-842",
-    "questionText": "The two creation stories agree that (JAMB 2012)",
+    "questionText": "The two creation stories agree that",
     "options": [
       "man and woman were created on the same day",
       "creation was carried out by spoken word",
@@ -17471,7 +17471,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-691-1013",
-    "questionText": "The presentation of Myrrh to Jesus signifies Jesus’  (JAMB 2011)",
+    "questionText": "The presentation of Myrrh to Jesus signifies Jesus’",
     "options": [
       "humility and servanthoo",
       "suffering and impending death.",
@@ -17483,7 +17483,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-692-114",
-    "questionText": "If anyone would be first, he must be last of all and servant of all. What does this saying of Jesus teach?  (JAMB 2010)",
+    "questionText": "If anyone would be first, he must be last of all and servant of all. What does this saying of Jesus teach?",
     "options": [
       "endurance",
       "lack of ambition",
@@ -17495,7 +17495,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-693-998",
-    "questionText": "The sons of Eli were regarded as worthless men for all the  (JAMB 2011)",
+    "questionText": "The sons of Eli were regarded as worthless men for all the",
     "options": [
       "sleeping with the women at the tent of meeting.",
       "failing to attend the places of worship regularly.",
@@ -17507,7 +17507,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-694-83",
-    "questionText": "In the trade treated between King Solomon and Lebanon, Solomon was to supply wheat and oil while Hiram was to supply (JAMB 2009)",
+    "questionText": "In the trade treated between King Solomon and Lebanon, Solomon was to supply wheat and oil while Hiram was to supply",
     "options": [
       "Grains only",
       "precious stories",
@@ -17519,7 +17519,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-695-92",
-    "questionText": "Joshua’s first victory was in  (JAMB 2009)",
+    "questionText": "Joshua’s first victory was in",
     "options": [
       "Ai",
       "Gibeon",
@@ -17531,7 +17531,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-696-48",
-    "questionText": "The person who the Bible calls the consolation is:   (JAMB 2008)",
+    "questionText": "The person who the Bible calls the consolation is:",
     "options": [
       "Barsabbas",
       "Barabbas",
@@ -17543,7 +17543,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-697-505",
-    "questionText": "In his teaching on effective prayer, James said that the prayer of faith would (JAMB 2015)",
+    "questionText": "In his teaching on effective prayer, James said that the prayer of faith would",
     "options": [
       "influence the authority",
       "heal and cleanse sins",
@@ -17555,7 +17555,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-698-764",
-    "questionText": "Cleopas' heart burnt within him on the road to Emmaus when Jesus ________ (JAMB 2019)",
+    "questionText": "Cleopas' heart burnt within him on the road to Emmaus when Jesus ________",
     "options": [
       "Appeared to them",
       "Broke bread with them",
@@ -17567,7 +17567,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-699-712",
-    "questionText": "Divine Love is a ___________love. (JAMB 2019)",
+    "questionText": "Divine Love is a ___________love.",
     "options": [
       "stronge",
       "steadfast",
@@ -17579,7 +17579,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-700-589",
-    "questionText": "In which of the following ways did the Philippians share in Paul’s suffering while in prison? (JAMB 2010)",
+    "questionText": "In which of the following ways did the Philippians share in Paul’s suffering while in prison?",
     "options": [
       "Appealing for the release of Paul",
       "Sending him relief materials",
@@ -17591,7 +17591,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-701-181",
-    "questionText": "The book of ____ mostly emphasized social justice (JAMB 2013)",
+    "questionText": "The book of ____ mostly emphasized social justice",
     "options": [
       "Amos",
       "Ezekiel",
@@ -17603,7 +17603,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-702-248",
-    "questionText": "According to Galatians, one of the benefits of being a joint heir with Christ is having His Spirit in (JAMB 2009)",
+    "questionText": "According to Galatians, one of the benefits of being a joint heir with Christ is having His Spirit in",
     "options": [
       "worship",
       "the heart",
@@ -17615,7 +17615,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-703-853",
-    "questionText": "“Has the Lord as great delight in burnt offerings and sacrifices as in obeying the voice of Lord? These words were directed to king (JAMB 2012)",
+    "questionText": "“Has the Lord as great delight in burnt offerings and sacrifices as in obeying the voice of Lord? These words were directed to king",
     "options": [
       "Ahab",
       "Saul",
@@ -17627,7 +17627,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-704-700",
-    "questionText": "When David learnt that the child born to him by Bethsheba had died, he ____________, (JAMB 2019)",
+    "questionText": "When David learnt that the child born to him by Bethsheba had died, he ____________,",
     "options": [
       "fasted and prayed for the dead",
       "tore his robe and dismissed his court",
@@ -17639,7 +17639,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-705-461",
-    "questionText": "The punishment of Israel according to the vision of Jeremiah includes all the following except (JAMB 2009)",
+    "questionText": "The punishment of Israel according to the vision of Jeremiah includes all the following except",
     "options": [
       "occupation of the land by foreigners.",
       "restoration of their kings and priests.",
@@ -17651,7 +17651,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-706-191",
-    "questionText": "Who was the prophet who said “I will put my law within them, and will write it upon their heart….”?   (JAMB 2013)",
+    "questionText": "Who was the prophet who said “I will put my law within them, and will write it upon their heart….”?",
     "options": [
       "Isaiah",
       "Jeremiah",
@@ -17663,7 +17663,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-707-87",
-    "questionText": "Let his habitation be made desolate, and let there be no one to live in it’ who is being referred to here?   (JAMB 2009)",
+    "questionText": "Let his habitation be made desolate, and let there be no one to live in it’ who is being referred to here?",
     "options": [
       "King soul",
       "Judas Iscariot",
@@ -17675,7 +17675,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-708-103",
-    "questionText": "In the biblical account of creation, man was permitted to  (JAMB 2010)",
+    "questionText": "In the biblical account of creation, man was permitted to",
     "options": [
       "plant fruit trees for food",
       "water the garden",
@@ -17687,7 +17687,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-709-97",
-    "questionText": "A would –be apostle who puts his hand to the plaughjsa and looks back lacks  (JAMB 2009)",
+    "questionText": "A would –be apostle who puts his hand to the plaughjsa and looks back lacks",
     "options": [
       "faith",
       "Kindness",
@@ -17699,7 +17699,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-710-166",
-    "questionText": "Eli’s inability to discipline his sons led to all the following except   (JAMB 2012)",
+    "questionText": "Eli’s inability to discipline his sons led to all the following except",
     "options": [
       "God’s curse on his family",
       "the extension of his life span",
@@ -17711,7 +17711,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-711-165",
-    "questionText": "“… But let judgment run down as waters, and righteousness as a mighty stream… “Fairness, judgment and righteousness were set aside during the time of  ________ for burnt and meat offerings. (JAMB 2012)",
+    "questionText": "“… But let judgment run down as waters, and righteousness as a mighty stream… “Fairness, judgment and righteousness were set aside during the time of  ________ for burnt and meat offerings.",
     "options": [
       "Amos",
       "Hosea",
@@ -17723,7 +17723,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-712-144",
-    "questionText": "What did Ahab do to Prophet Micaiah for speaking the truth about the war between Israel and Syria?  (JAMB 2011)",
+    "questionText": "What did Ahab do to Prophet Micaiah for speaking the truth about the war between Israel and Syria?",
     "options": [
       "he promoted him",
       "he gave him a gift",
@@ -17735,7 +17735,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-713-84",
-    "questionText": "Which prophet cried thus “woe is me” for lost, I am a man of unclean lips  (JAMB 2009)",
+    "questionText": "Which prophet cried thus “woe is me” for lost, I am a man of unclean lips",
     "options": [
       "Hosea",
       "Jeremiah",
@@ -17747,7 +17747,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-714-61",
-    "questionText": "The king of Persia who made it possible for the return of the exiles form Babylon was  (JAMB 2008)",
+    "questionText": "The king of Persia who made it possible for the return of the exiles form Babylon was",
     "options": [
       "Dairus",
       "Cyrus",
@@ -17759,7 +17759,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-715-124",
-    "questionText": "After receiving an order from God, Jonah went down to…………….   (JAMB 2011)",
+    "questionText": "After receiving an order from God, Jonah went down to…………….",
     "options": [
       "Joppa",
       "Tarshish",
@@ -17771,7 +17771,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-716-139",
-    "questionText": "The book of _______ mostly emphasized social justice  (JAMB 2011)",
+    "questionText": "The book of _______ mostly emphasized social justice",
     "options": [
       "Amos",
       "Ezekiel",
@@ -17783,7 +17783,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-717-196",
-    "questionText": "The eunuch who went to Jerusalem to worship in Acts 8:27 was a   (JAMB 2013)",
+    "questionText": "The eunuch who went to Jerusalem to worship in Acts 8:27 was a",
     "options": [
       "minister of God",
       "minister of Candace the queen Gaza",
@@ -17795,7 +17795,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-718-116",
-    "questionText": "To whom was the body of Jesus Christ given for burial after His death?  (JAMB 2010)",
+    "questionText": "To whom was the body of Jesus Christ given for burial after His death?",
     "options": [
       "Nicodemus the Pharisee",
       "Simon of Cyrene",
@@ -17807,7 +17807,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-719-157",
-    "questionText": "One of the following was not among the decisions reached at the Council of Jerusalem concerning the Gentiles who became Christians:   (JAMB 2012)",
+    "questionText": "One of the following was not among the decisions reached at the Council of Jerusalem concerning the Gentiles who became Christians:",
     "options": [
       "That Gentiles should obtain from what has been sacrificed to idols",
       "The Gentiles should abstain from blood",
@@ -17819,7 +17819,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-720-112",
-    "questionText": "Jesus taught that one should make friends quickly with one’s  (JAMB 2010)",
+    "questionText": "Jesus taught that one should make friends quickly with one’s",
     "options": [
       "enemy",
       "neighbor",
@@ -17831,7 +17831,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-721-159",
-    "questionText": "Who was one of the Seven Deacons who had four daughters who were prophetesses?   (JAMB 2012)",
+    "questionText": "Who was one of the Seven Deacons who had four daughters who were prophetesses?",
     "options": [
       "Nicolaus",
       "Stephen",
@@ -17843,7 +17843,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-722-193",
-    "questionText": "One of the following is not among the “I am” Sayings of Jesus   (JAMB 2013)",
+    "questionText": "One of the following is not among the “I am” Sayings of Jesus",
     "options": [
       "I am the bread of life",
       "I am the gate of life",
@@ -17855,7 +17855,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-723-172",
-    "questionText": "Render to Caesar the things that they are Caesar’s and to God the things are God’s, the above quotation emphasizes   (JAMB 2012)",
+    "questionText": "Render to Caesar the things that they are Caesar’s and to God the things are God’s, the above quotation emphasizes",
     "options": [
       "Obedience to divine authority",
       "Striking a balance between civil and divine authorities",
@@ -17867,7 +17867,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-724-183",
-    "questionText": "Moses spoke  to the Israelites to fear not, but be calm, confident and see the salvation of God at   (JAMB 2013)",
+    "questionText": "Moses spoke  to the Israelites to fear not, but be calm, confident and see the salvation of God at",
     "options": [
       "Pi-Hahirotti",
       "Meribah",
@@ -17879,7 +17879,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-725-149",
-    "questionText": "In the Sermon on the Mount, the meek are blessed because   (JAMB 2012)",
+    "questionText": "In the Sermon on the Mount, the meek are blessed because",
     "options": [
       "They shall see God",
       "They shall be exalted",
@@ -17891,7 +17891,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-726-161",
-    "questionText": "“To obey is better than sacrifice” came from   (JAMB 2012)",
+    "questionText": "“To obey is better than sacrifice” came from",
     "options": [
       "Prophet Daniel",
       "Prophet Ezekiel",
@@ -17903,7 +17903,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-727-127",
-    "questionText": "According to Paul in Romans, the law and the prophets bore witness to the righteousness of God but man could not be justified until he   (JAMB 2011)",
+    "questionText": "According to Paul in Romans, the law and the prophets bore witness to the righteousness of God but man could not be justified until he",
     "options": [
       "Had faith in Jesus",
       "Saw the glory of God",
@@ -17915,7 +17915,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-728-133",
-    "questionText": "Who according to James blaspheme the honourable name by which Christians are called (JAMB 2011)",
+    "questionText": "Who according to James blaspheme the honourable name by which Christians are called",
     "options": [
       "Non believers",
       "Pagan rulers",
@@ -17927,7 +17927,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-729-187",
-    "questionText": "Jonah refused to go to Nineveh because   (JAMB 2013)",
+    "questionText": "Jonah refused to go to Nineveh because",
     "options": [
       "Ninevites were in human and wicked",
       "God was merciful, gracious and could forgive them",
@@ -17939,7 +17939,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-730-141",
-    "questionText": "John the Baptist describes Jesus to his two disciples as the  (JAMB 2011)",
+    "questionText": "John the Baptist describes Jesus to his two disciples as the",
     "options": [
       "beloved Son of God",
       "great one of Israel",
@@ -17951,7 +17951,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-731-79",
-    "questionText": "Those inspired by God to lead the tribes of Israel in battle were the  (JAMB 2009)",
+    "questionText": "Those inspired by God to lead the tribes of Israel in battle were the",
     "options": [
       "Judges",
       "Captains of Guard",
@@ -17963,7 +17963,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-732-142",
-    "questionText": "Joseph’s brothers hated him the more because  (JAMB 2011)",
+    "questionText": "Joseph’s brothers hated him the more because",
     "options": [
       "he dreamed about his future dominion over his family members",
       "he used to give his father evil reports about them",
@@ -17975,7 +17975,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-733-146",
-    "questionText": "During the period of three and a half years of drought in Israel, the man who hid one hundred prophets of God in a cave was   (JAMB 2011)",
+    "questionText": "During the period of three and a half years of drought in Israel, the man who hid one hundred prophets of God in a cave was",
     "options": [
       "Isaiah",
       "Lisha",
@@ -17987,7 +17987,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-734-120",
-    "questionText": "“Blessed be the Lord God of Israel is a hymn of praise by  (JAMB 2010)",
+    "questionText": "“Blessed be the Lord God of Israel is a hymn of praise by",
     "options": [
       "the virgin Mary at the Annunciation",
       "Zachariah at the birth of John the Baptist",
@@ -17999,7 +17999,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-735-625",
-    "questionText": "Jesus told the parable of the lost sheep in order to illustrate that (JAMB 2010)",
+    "questionText": "Jesus told the parable of the lost sheep in order to illustrate that",
     "options": [
       "every believer ought to rejoice with those who rejoice.",
       "no person can hide from God",
@@ -18011,7 +18011,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-736-1051",
-    "questionText": "Solomon told Hiram, King of Tyre, that he had decided to build a temple for the Lord because  (JAMB 2015)",
+    "questionText": "Solomon told Hiram, King of Tyre, that he had decided to build a temple for the Lord because",
     "options": [
       "the Lord had given him peace and all good things.",
       "his father, David never intended to build one",
@@ -18023,7 +18023,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-737-515",
-    "questionText": "A parable that teaches a lesson on the demands of the kingdom is that of the (JAMB 2015)",
+    "questionText": "A parable that teaches a lesson on the demands of the kingdom is that of the",
     "options": [
       "lost coin",
       "Weeds",
@@ -18035,7 +18035,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-738-634",
-    "questionText": "‘You son of the devil, you enemy of all righteous¬ness, full of all deceit and villainy .....’ This statement of Paul was addressed to (Acts 13:6-11) (JAMB 2010)",
+    "questionText": "‘You son of the devil, you enemy of all righteous¬ness, full of all deceit and villainy .....’ This statement of Paul was addressed to (Acts 13:6-11)",
     "options": [
       "Elymas, the magician",
       "Paulus, the proconsul",
@@ -18047,7 +18047,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-739-502",
-    "questionText": "Before Moses brought the Israelites to meet God on Mount Sinai, he charged them to (JAMB 2015)",
+    "questionText": "Before Moses brought the Israelites to meet God on Mount Sinai, he charged them to",
     "options": [
       "touch the mountain at the sight of smoke",
       "ensure they eat very well",
@@ -18059,7 +18059,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-740-599",
-    "questionText": "‘Who am I that I should go to Pharoah......’ When Moses resisted God’s call with the state¬ment above, it portrayed his (JAMB 2010)",
+    "questionText": "‘Who am I that I should go to Pharoah......’ When Moses resisted God’s call with the state¬ment above, it portrayed his",
     "options": [
       "stubbornness",
       "incompetence",
@@ -18071,7 +18071,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-741-458",
-    "questionText": "When God ordered famine on Israel, Elijah was fed by the ravens at (JAMB 2009)",
+    "questionText": "When God ordered famine on Israel, Elijah was fed by the ravens at",
     "options": [
       "Brook Cherith.",
       "River Jordan.",
@@ -18083,7 +18083,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-742-933",
-    "questionText": "All the following describe Christians in first Peter except (JAMB 2013)",
+    "questionText": "All the following describe Christians in first Peter except",
     "options": [
       "holy nation.",
       "people living together.",
@@ -18095,7 +18095,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-743-328",
-    "questionText": "‘Blessed are you, Simon Bar-Jona ! For flesh and blood has not revealed this to you...’ As exemplified by the statement above, for believers to be able to identify with Jesus, they must (JAMB 2011)",
+    "questionText": "‘Blessed are you, Simon Bar-Jona ! For flesh and blood has not revealed this to you...’ As exemplified by the statement above, for believers to be able to identify with Jesus, they must",
     "options": [
       "offer their lives",
       "be led by the Spirit",
@@ -18107,7 +18107,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-744-50",
-    "questionText": "Daniel was delivered from the den of lion for all the following reason except  (JAMB 2008)",
+    "questionText": "Daniel was delivered from the den of lion for all the following reason except",
     "options": [
       "his holiness and faith",
       "his kindness",
@@ -18119,7 +18119,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-745-895",
-    "questionText": "Joseph named his first son “Manasseh” because God made him  (JAMB 2013)",
+    "questionText": "Joseph named his first son “Manasseh” because God made him",
     "options": [
       "king in Egypt",
       "forget his hardship.",
@@ -18131,7 +18131,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-746-544",
-    "questionText": "God’s message through Jonah’s was to the people of (JAMB 2015)",
+    "questionText": "God’s message through Jonah’s was to the people of",
     "options": [
       "Joppa",
       "Tarshish",
@@ -18143,7 +18143,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-747-236",
-    "questionText": "In Romans, Paul admonished Christians, in their dealings with secular powers, to (JAMB 2005)",
+    "questionText": "In Romans, Paul admonished Christians, in their dealings with secular powers, to",
     "options": [
       "reject all secular laws",
       "pray for the leaders",
@@ -18155,7 +18155,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-748-280",
-    "questionText": "“Behold, if people of Israel are to come, let us deal shrewdly with them, lest they multiply.....” ln the statement, the first step by the king of Egypt was to (JAMB 2009)",
+    "questionText": "“Behold, if people of Israel are to come, let us deal shrewdly with them, lest they multiply.....” ln the statement, the first step by the king of Egypt was to",
     "options": [
       "cast all Hebrew male children into the Nile",
       "impose heavy tax on them",
@@ -18167,7 +18167,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-749-352",
-    "questionText": "When Moses stayed away for too long on the mountain, the people of Israel (JAMB 2008)",
+    "questionText": "When Moses stayed away for too long on the mountain, the people of Israel",
     "options": [
       "prayed and fasted",
       "embarked on farming",
@@ -18179,7 +18179,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-750-488",
-    "questionText": "In Paul’s epistle to the Thessalonians, any Christian living \tin idleness should be (JAMB 2009)",
+    "questionText": "In Paul’s epistle to the Thessalonians, any Christian living \tin idleness should be",
     "options": [
       "thrown out of the Church.",
       "looked at as an enemy.",
@@ -18191,7 +18191,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-751-546",
-    "questionText": "On the fourth day, God created the sun, moon and stars for the following purposes except (JAMB 2010)",
+    "questionText": "On the fourth day, God created the sun, moon and stars for the following purposes except",
     "options": [
       "to separate the day from the night.",
       "for signs of seasons, days and years.",
@@ -18203,7 +18203,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-752-864",
-    "questionText": "Amos satirically invited the Jews to come to Bethel and Gilgal in order to (JAMB 2012)",
+    "questionText": "Amos satirically invited the Jews to come to Bethel and Gilgal in order to",
     "options": [
       "repent",
       "worship",
@@ -18215,7 +18215,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-753-405",
-    "questionText": "Because David sought God’s will to pursue the Amalekites \twho had invaded Ziklag, he was rewarded with victory and (JAMB 2013)",
+    "questionText": "Because David sought God’s will to pursue the Amalekites \twho had invaded Ziklag, he was rewarded with victory and",
     "options": [
       "many new territories",
       "spoils",
@@ -18227,7 +18227,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-754-397",
-    "questionText": "The new covenant between God and the Israelites is centered on (JAMB 2013)",
+    "questionText": "The new covenant between God and the Israelites is centered on",
     "options": [
       "religious doctrines",
       "intensive teaching",
@@ -18239,7 +18239,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-755-765",
-    "questionText": "For how long did the Lord supply the children of Israel with manna in the wilderness? (JAMB 2019)",
+    "questionText": "For how long did the Lord supply the children of Israel with manna in the wilderness?",
     "options": [
       "Forty Years",
       "Thirty-eight years",
@@ -18251,7 +18251,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-756-336",
-    "questionText": "What effect did the decision of the Council of Jerusalem have on the early Church? (JAMB 2011)",
+    "questionText": "What effect did the decision of the Council of Jerusalem have on the early Church?",
     "options": [
       "Members became more untied",
       "the Church experienced freedom from persecution",
@@ -18263,7 +18263,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-757-368",
-    "questionText": "Which of the following did not happen immediately after Jesus had yielded up his spirit on the cross? (JAMB 2008)",
+    "questionText": "Which of the following did not happen immediately after Jesus had yielded up his spirit on the cross?",
     "options": [
       "The curtain of the temple was torn into two",
       "Joseph of Arimathea removed his body for burial",
@@ -18275,7 +18275,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-758-308",
-    "questionText": "Saul’s decision to consult a medium displayed his lack of (JAMB 2011)",
+    "questionText": "Saul’s decision to consult a medium displayed his lack of",
     "options": [
       "faith in his army",
       "faith in God",
@@ -18287,7 +18287,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-759-1072",
-    "questionText": " Cleopas’ heart burnt within him on the road to Emmaus when Jesus (JAMB 2015)",
+    "questionText": " Cleopas’ heart burnt within him on the road to Emmaus when Jesus",
     "options": [
       "appeared to them",
       "taught them the scriptures",
@@ -18299,7 +18299,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-760-794",
-    "questionText": "When Joseph was sent to his brothers, he met them pasturing at   (JAMB 2010)",
+    "questionText": "When Joseph was sent to his brothers, he met them pasturing at",
     "options": [
       "Hebron.",
       "Bethel.",
@@ -18311,7 +18311,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-761-735",
-    "questionText": "St. James in the teaching on faith and work gave the analogy of ________ (JAMB 2019)",
+    "questionText": "St. James in the teaching on faith and work gave the analogy of ________",
     "options": [
       "A man who looks himself in the mirror and appreciates God for that",
       "A hungry man who approached his fellow Christian for help",
@@ -18323,7 +18323,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-762-990",
-    "questionText": "James urged Christians not to be partial but to fulfil the “royal law.” What is the royal law? (JAMB 2011)",
+    "questionText": "James urged Christians not to be partial but to fulfil the “royal law.” What is the royal law?",
     "options": [
       "You shall not commit adultery",
       "Do good to those who hate you",
@@ -18335,7 +18335,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-763-1025",
-    "questionText": "Paul was stoned and dragged out of the city by  (JAMB 2011)",
+    "questionText": "Paul was stoned and dragged out of the city by",
     "options": [
       "the Lyconians and the Ephesians.",
       "enemies of the healed lame man.",
@@ -18347,7 +18347,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-764-269",
-    "questionText": "The disciple who replaced Judas Iscariot was (JAMB 2009)",
+    "questionText": "The disciple who replaced Judas Iscariot was",
     "options": [
       "Justus",
       "Stephen",
@@ -18359,7 +18359,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-765-433",
-    "questionText": "According to Paul, before his conversion, he persecuted the church violently to (JAMB 2013)",
+    "questionText": "According to Paul, before his conversion, he persecuted the church violently to",
     "options": [
       "make it desirable to the Gentiles",
       "purge it",
@@ -18371,7 +18371,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-766-702",
-    "questionText": "Praying for others is a prayer of _____________. (JAMB 2019)",
+    "questionText": "Praying for others is a prayer of _____________.",
     "options": [
       "apprehension",
       "interceding",
@@ -18383,7 +18383,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-767-613",
-    "questionText": "After the dedication of the Temple, Ezra studied the law of the LORD in order to (JAMB 2010)",
+    "questionText": "After the dedication of the Temple, Ezra studied the law of the LORD in order to",
     "options": [
       "defend the Jews against the Babylonians",
       "become the first judge in Jerusalem",
@@ -18395,7 +18395,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-768-708",
-    "questionText": "Who among the following disciples of Jesus was a tax collector? (JAMB 2019)",
+    "questionText": "Who among the following disciples of Jesus was a tax collector?",
     "options": [
       "Levi",
       "Judas Iscariot",
@@ -18407,7 +18407,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-769-121",
-    "questionText": "The shema emphasizes the  (JAMB 2010)",
+    "questionText": "The shema emphasizes the",
     "options": [
       "unity of God",
       "richness of the spirit of God",
@@ -18419,7 +18419,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-770-533",
-    "questionText": "“Holy, holy, holy is the Lord of host ....” The statement above was made in reference to the call of (JAMB 2015)",
+    "questionText": "“Holy, holy, holy is the Lord of host ....” The statement above was made in reference to the call of",
     "options": [
       "Ezekiel",
       "Jeremiah",
@@ -18431,7 +18431,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-771-619",
-    "questionText": "God told Ezekiel that the house of Israel would not listen to him because they (JAMB 2010)",
+    "questionText": "God told Ezekiel that the house of Israel would not listen to him because they",
     "options": [
       "were a people of foreign speech",
       "had forsaken His laws",
@@ -18443,7 +18443,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-772-843",
-    "questionText": "Joseph was of a good behaviour because he (JAMB 2012)",
+    "questionText": "Joseph was of a good behaviour because he",
     "options": [
       "was loved and pampered by his father",
       "interacted well with his prision inmates",
@@ -18455,7 +18455,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-773-622",
-    "questionText": "‘Depart from me, for l am a sinful man, oh Lord.’ This statement was uttered by Peter at the (JAMB 2010)",
+    "questionText": "‘Depart from me, for l am a sinful man, oh Lord.’ This statement was uttered by Peter at the",
     "options": [
       "last supper",
       "garden of Gethsemane",
@@ -18467,7 +18467,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-774-489",
-    "questionText": "The two major obstacles against Abraham’s hope for a son were (JAMB 2009)",
+    "questionText": "The two major obstacles against Abraham’s hope for a son were",
     "options": [
       "impotency and old age",
       "faithlessness and unbelief.",
@@ -18479,7 +18479,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-775-790",
-    "questionText": "Which of the following was Pilate's question to Jesus at his trial? (JAMB 2019)",
+    "questionText": "Which of the following was Pilate's question to Jesus at his trial?",
     "options": [
       "Are you Jesus, the prophet from Galilee?",
       "What evil have you done?",
@@ -18491,7 +18491,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-776-1045",
-    "questionText": "Jacob’s special robe for Joseph portrayed him as a (JAMB 2015)",
+    "questionText": "Jacob’s special robe for Joseph portrayed him as a",
     "options": [
       "Prince",
       "heir",
@@ -18503,7 +18503,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-777-496",
-    "questionText": "What was Herod’s reaction when he heard the news about Jesus’ birth? (JAMB 2015)",
+    "questionText": "What was Herod’s reaction when he heard the news about Jesus’ birth?",
     "options": [
       "He sent gifts",
       "He was excited",
@@ -18515,7 +18515,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-778-1006",
-    "questionText": "“Your father made our yoke heavy. Now therefore, lighten the hard service of your father.” These were the words of  (JAMB 2011)",
+    "questionText": "“Your father made our yoke heavy. Now therefore, lighten the hard service of your father.” These were the words of",
     "options": [
       "Jeroboam",
       "Solomon.",
@@ -18527,7 +18527,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-779-635",
-    "questionText": "‘Unless you are circumcised according to the custom of Moses, you cannot be saved.’ The statement above by the men from Judea led to the (JAMB 2010)",
+    "questionText": "‘Unless you are circumcised according to the custom of Moses, you cannot be saved.’ The statement above by the men from Judea led to the",
     "options": [
       "murmurs of the Hellenists",
       "convening of the Jerusalem Council",
@@ -18539,7 +18539,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-780-472",
-    "questionText": "Jesus teaches, “Let your light so shine before men...” By light Jesus refers to, (JAMB 2009)",
+    "questionText": "Jesus teaches, “Let your light so shine before men...” By light Jesus refers to,",
     "options": [
       "the Christian character and virtues in us.",
       "the bright lights at the altar in the church.",
@@ -18551,7 +18551,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-781-793",
-    "questionText": "  The wife of  Moses was called    (JAMB 2010)",
+    "questionText": "  The wife of  Moses was called",
     "options": [
       "Rebecca",
       "Rachel",
@@ -18563,7 +18563,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-782-409",
-    "questionText": "When Naboth refused to exchange his vineyard with King Ahab, Ahab reacted by (JAMB 2013)",
+    "questionText": "When Naboth refused to exchange his vineyard with King Ahab, Ahab reacted by",
     "options": [
       "taking to prayers and fasting",
       "going to his house vexed and sullen",
@@ -18575,7 +18575,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-783-295",
-    "questionText": "Prophet Hosea named his second child Not Pitied because God would no more pity the (JAMB 2009)",
+    "questionText": "Prophet Hosea named his second child Not Pitied because God would no more pity the",
     "options": [
       "kings of Judah",
       "kings of Israel",
@@ -18587,7 +18587,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-784-590",
-    "questionText": "What advice did Peter give to the elders of the church in their relationship with the younger members? (JAMB 2010)",
+    "questionText": "What advice did Peter give to the elders of the church in their relationship with the younger members?",
     "options": [
       "Work as if being under external constraint",
       "Work without a domineering spirit",
@@ -18599,7 +18599,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-785-1079",
-    "questionText": "The boldness of Peter and John before the Sanhedrin was attributed to (JAMB 2015)",
+    "questionText": "The boldness of Peter and John before the Sanhedrin was attributed to",
     "options": [
       "their having great influence",
       "possession of great strength",
@@ -18611,7 +18611,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-786-944",
-    "questionText": "By removing his sandals before the burning bush, Moses was showing a sense of  (JAMB 2011)",
+    "questionText": "By removing his sandals before the burning bush, Moses was showing a sense of",
     "options": [
       "honour and love",
       "curiosity and adventure",
@@ -18623,7 +18623,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-787-957",
-    "questionText": "Hosea’s daughter was called  (JAMB 2011)",
+    "questionText": "Hosea’s daughter was called",
     "options": [
       "Jezreel",
       "Not pitie",
@@ -18635,7 +18635,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-788-922",
-    "questionText": "In his teaching as the True Vine, Jesus maintained that prayers could be answered if the disciples  (JAMB 2013)",
+    "questionText": "In his teaching as the True Vine, Jesus maintained that prayers could be answered if the disciples",
     "options": [
       "confess their sins.",
       "abide in him.",
@@ -18647,7 +18647,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-789-773",
-    "questionText": "God charged man to 'be fruitful, and multiply, and .... the earth, and subdue it'. (1st creation story) (JAMB 2019)",
+    "questionText": "God charged man to 'be fruitful, and multiply, and .... the earth, and subdue it'. (1st creation story)",
     "options": [
       "Renew",
       "Stock",
@@ -18659,7 +18659,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-790-986",
-    "questionText": "The primary motive for Christian giving is to (JAMB 2011)",
+    "questionText": "The primary motive for Christian giving is to",
     "options": [
       "go to heaven when they die",
       "reciprocate God’s blessing.",
@@ -18671,7 +18671,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-791-216",
-    "questionText": "Jesus said “Not everyone who says to me ‘Lord, Lord,’ shall enter into the kingdom of heaven, but he who (JAMB 2005)",
+    "questionText": "Jesus said “Not everyone who says to me ‘Lord, Lord,’ shall enter into the kingdom of heaven, but he who",
     "options": [
       "hears the word of God”.",
       "prays and fasts’",
@@ -18683,7 +18683,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-792-897",
-    "questionText": "God provided water for the Israelites by asking Moses to strike the rock of the wilderness of  (JAMB 2013)",
+    "questionText": "God provided water for the Israelites by asking Moses to strike the rock of the wilderness of",
     "options": [
       "Beersheb",
       "Red Se",
@@ -18695,7 +18695,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-793-490",
-    "questionText": "The theme justification by faith can only be achieved through (JAMB 2009)",
+    "questionText": "The theme justification by faith can only be achieved through",
     "options": [
       "sacrifices to Jesus.",
       "resurrection of Jesus.",
@@ -18707,7 +18707,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-794-882",
-    "questionText": "The importance of the parable of the unmerciful servant is that Christians should (JAMB 2012)",
+    "questionText": "The importance of the parable of the unmerciful servant is that Christians should",
     "options": [
       "allow mercy to take precedence over justice",
       "avoid discrimination against one another",
@@ -18719,7 +18719,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-795-436",
-    "questionText": "According to Galatians, judgment is without mercy to one who has shown no mercy, yet mercy triumphs over (JAMB 2013)",
+    "questionText": "According to Galatians, judgment is without mercy to one who has shown no mercy, yet mercy triumphs over",
     "options": [
       "tribulation",
       "the law",
@@ -18731,7 +18731,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-796-787",
-    "questionText": "Paul taught that spiritual gifts in all their varieties emanate from____________ (JAMB 2019)",
+    "questionText": "Paul taught that spiritual gifts in all their varieties emanate from____________",
     "options": [
       "man's cordial relationship with God",
       "the one body of Christ",
@@ -18743,7 +18743,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-797-338",
-    "questionText": "According to Romans, all who were baptized into Christ were also baptized into His (JAMB 2011)",
+    "questionText": "According to Romans, all who were baptized into Christ were also baptized into His",
     "options": [
       "crucifixion",
       "persecution",
@@ -18755,7 +18755,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-798-827",
-    "questionText": "The man who delivered judgement of the Jerusalem Council on the admission of Gentiles into the Church was  (JAMB 2010)",
+    "questionText": "The man who delivered judgement of the Jerusalem Council on the admission of Gentiles into the Church was",
     "options": [
       "Peter",
       "Paul.",
@@ -18767,7 +18767,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-799-485",
-    "questionText": "Peter urged all Christians to endure sufferings in faith conscious of the fact that (JAMB 2009)",
+    "questionText": "Peter urged all Christians to endure sufferings in faith conscious of the fact that",
     "options": [
       "Jesus, himself also resisted suffering",
       "the devil could lure them from faith with suffering.",
@@ -18779,7 +18779,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-800-964",
-    "questionText": "According to Luke, Jesus’ birth in a manger was due to  (JAMB 2011)",
+    "questionText": "According to Luke, Jesus’ birth in a manger was due to",
     "options": [
       "the choice of the parents.",
       "lack of room in Joseph’s family house.",
@@ -18791,7 +18791,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-801-866",
-    "questionText": "Jesus’ baptism was significant because it (JAMB 2012)",
+    "questionText": "Jesus’ baptism was significant because it",
     "options": [
       "initiated him into Judaism",
       "cleansed Him from sin",
@@ -18803,7 +18803,7 @@ export const crsQuestions = [
   },
   {
     "id": "crk-1788729691967-802-523",
-    "questionText": "“How is it that you have agreed together to tempt the spirit of the Lord ....” The statement above was made in reference to the greed of (JAMB 2015)",
+    "questionText": "“How is it that you have agreed together to tempt the spirit of the Lord ....” The statement above was made in reference to the greed of",
     "options": [
       "Gehazi and Naaman",
       "Ahab and Jezebel",

@@ -16,6 +16,8 @@ import { format } from 'date-fns';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from '@/components/ui/dialog';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
+import { MockExamSubmission } from '@/types';
 
 export default function MockExamTab() {
   const [selectedEventId, setSelectedEventId] = useState<string | null>(null);
@@ -69,6 +71,11 @@ function MockExamList({ onSelectEvent }: { onSelectEvent: (id: string) => void }
         durationMinutes: 60,
         status: 'pending',
         subjects: [],
+        categories: {
+          Science: ['Aptitude Test', 'Mathematics', 'Physics', 'Chemistry'],
+          Arts: ['Aptitude Test', 'Government', 'Literature in English', 'Economics'],
+          Commercial: ['Aptitude Test', 'Mathematics', 'Financial Accounting', 'Commerce']
+        },
         bannedEmails: [],
         createdAt: serverTimestamp(),
         createdBy: user.uid,
@@ -185,6 +192,7 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
   const [status, setStatus] = useState<'pending' | 'active' | 'completed'>('pending');
   const [showResults, setShowResults] = useState(false);
   const [banEmail, setBanEmail] = useState('');
+  const [categories, setCategories] = useState<Record<string, string[]>>({});
 
   // Modal State
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -207,6 +215,7 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
         setDuration(data.durationMinutes || 60);
         setStatus(data.status || 'pending');
         setShowResults(data.showResults || false);
+        setCategoriesConfig(data.categoriesConfig || data.categories || DEFAULT_CATEGORIES);
         
         if (data.startTime) {
           const date = new Date(data.startTime);
@@ -235,6 +244,7 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
         durationMinutes: duration,
         status,
         showResults,
+        categoriesConfig,
       });
       toast({ title: 'Success', description: 'Exam updated successfully.' });
     } catch (error) {
@@ -466,140 +476,232 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
         <h1 className="text-3xl font-bold tracking-tight">Manage Event: {exam.title}</h1>
       </div>
 
-      <div className="grid gap-6 md:grid-cols-2">
-        <Card>
-          <CardHeader>
-            <CardTitle>Event Settings</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            <div className="space-y-2">
-              <Label>Event Title</Label>
-              <Input value={title} onChange={e => setTitle(e.target.value)} />
-            </div>
+      <Tabs defaultValue="config">
+        <TabsList className="mb-4">
+          <TabsTrigger value="config">Event Configuration</TabsTrigger>
+          <TabsTrigger value="analytics">Live Analytics</TabsTrigger>
+        </TabsList>
+        
+        <TabsContent value="config" className="space-y-6">
+          <Tabs defaultValue="settings" className="space-y-6">
+            <TabsList>
+              <TabsTrigger value="settings">Settings</TabsTrigger>
+              <TabsTrigger value="categories">Categories & Subjects</TabsTrigger>
+            </TabsList>
             
-            <div className="space-y-2">
-              <Label>Start Time</Label>
-              <Input type="datetime-local" value={startTimeStr} onChange={e => setStartTimeStr(e.target.value)} />
-            </div>
+            <TabsContent value="settings" className="space-y-6">
+              <div className="grid gap-6 md:grid-cols-2">
+                <Card>
+                  <CardHeader>
+                    <CardTitle>Event Settings</CardTitle>
+                  </CardHeader>
+                  <CardContent className="space-y-4">
+                    <div className="space-y-2">
+                      <Label>Event Title</Label>
+                      <Input value={title} onChange={e => setTitle(e.target.value)} />
+                    </div>
+                    
+                    <div className="space-y-2">
+                      <Label>Start Time</Label>
+                      <Input type="datetime-local" value={startTimeStr} onChange={e => setStartTimeStr(e.target.value)} />
+                    </div>
 
-            <div className="space-y-2">
-              <Label>Duration (Minutes)</Label>
-              <Input type="number" value={duration} onChange={e => setDuration(Number(e.target.value))} />
-            </div>
+                    <div className="space-y-2">
+                      <Label>Duration (Minutes)</Label>
+                      <Input type="number" value={duration} onChange={e => setDuration(Number(e.target.value))} />
+                    </div>
 
-            <div className="space-y-2">
-              <Label>Status</Label>
-              <select 
-                className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background"
-                value={status} 
-                onChange={e => setStatus(e.target.value as any)}
-              >
-                <option value="pending">Pending (Not Started)</option>
-                <option value="active">Active (Running)</option>
-                <option value="completed">Completed (Closed)</option>
-              </select>
-            </div>
+                    <div className="space-y-2">
+                      <Label>Status</Label>
+                      <select 
+                        className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background"
+                        value={status} 
+                        onChange={e => setStatus(e.target.value as any)}
+                      >
+                        <option value="pending">Pending (Not Started)</option>
+                        <option value="active">Active (Running)</option>
+                        <option value="completed">Completed (Closed)</option>
+                      </select>
+                    </div>
 
-            <div className="flex flex-row items-center justify-between rounded-lg border p-4">
-              <div className="space-y-0.5">
-                <Label className="text-base">Release Results</Label>
-                <p className="text-sm text-muted-foreground">
-                  Allow students to view their scores after submitting.
-                </p>
-              </div>
-              <input 
-                type="checkbox" 
-                checked={showResults} 
-                onChange={(e) => setShowResults(e.target.checked)} 
-                className="h-5 w-5" 
-              />
-            </div>
+                    <div className="flex flex-row items-center justify-between rounded-lg border p-4">
+                      <div className="space-y-0.5">
+                        <Label className="text-base">Release Results</Label>
+                        <p className="text-sm text-muted-foreground">
+                          Allow students to view their scores after submitting.
+                        </p>
+                      </div>
+                      <input 
+                        type="checkbox" 
+                        checked={showResults} 
+                        onChange={(e) => setShowResults(e.target.checked)} 
+                        className="h-5 w-5" 
+                      />
+                    </div>
 
-            <Button onClick={handleSave} disabled={saving} className="w-full mt-4">
-              {saving ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Save className="mr-2 h-4 w-4" />}
-              Save Settings
-            </Button>
-          </CardContent>
-        </Card>
+                    <Button onClick={handleSave} disabled={saving} className="w-full mt-4">
+                      {saving ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Save className="mr-2 h-4 w-4" />}
+                      Save Settings
+                    </Button>
+                  </CardContent>
+                </Card>
 
-        <div className="space-y-6">
-          <Card>
-            <CardHeader>
-              <CardTitle>Student Link</CardTitle>
-            </CardHeader>
-            <CardContent>
-              <p className="text-sm text-muted-foreground mb-4">
-                Share this direct link with your students for this specific exam event. It is hidden from the main site.
-              </p>
-              <div className="flex gap-2">
-                <Input readOnly value={`https://pinnacleacademia.com/mock-exam/${exam.id}`} className="bg-muted" />
-                <Button variant="secondary" onClick={() => {
-                  navigator.clipboard.writeText(`https://pinnacleacademia.com/mock-exam/${exam.id}`);
-                  toast({ title: 'Copied!' });
-                }}>Copy</Button>
-              </div>
-            </CardContent>
-          </Card>
+                <div className="space-y-6">
+                  <Card>
+                    <CardHeader>
+                      <CardTitle>Student Link</CardTitle>
+                    </CardHeader>
+                    <CardContent>
+                      <p className="text-sm text-muted-foreground mb-4">
+                        Share this direct link with your students for this specific exam event. It is hidden from the main site.
+                      </p>
+                      <div className="flex gap-2">
+                        <Input readOnly value={`https://pinnacleacademia.com/mock-exam/${exam.id}`} className="bg-muted" />
+                        <Button variant="secondary" onClick={() => {
+                          navigator.clipboard.writeText(`https://pinnacleacademia.com/mock-exam/${exam.id}`);
+                          toast({ title: 'Copied!' });
+                        }}>Copy</Button>
+                      </div>
+                    </CardContent>
+                  </Card>
 
-          <Card>
-            <CardHeader>
-              <CardTitle>Access Control (Banned Users)</CardTitle>
-            </CardHeader>
-            <CardContent>
-              <div className="flex gap-2 mb-4">
-                <Input placeholder="student@example.com" value={banEmail} onChange={e => setBanEmail(e.target.value)} />
-                <Button variant="destructive" onClick={handleBanEmail}>
-                  <Ban className="h-4 w-4 mr-2" /> Ban
-                </Button>
-              </div>
-              
-              {exam.bannedEmails?.length > 0 ? (
-                <ul className="space-y-2">
-                  {exam.bannedEmails.map((email: string) => (
-                    <li key={email} className="flex justify-between items-center text-sm p-2 bg-muted rounded-md">
-                      <span>{email}</span>
-                      <Button variant="ghost" size="sm" onClick={() => handleRemoveBan(email)}>
-                        <Trash2 className="h-4 w-4 text-red-500" />
-                      </Button>
-                    </li>
-                  ))}
-                </ul>
-              ) : (
-                <p className="text-sm text-muted-foreground text-center py-4">No banned users.</p>
-              )}
-            </CardContent>
-          </Card>
-        </div>
-      </div>
-
-      <Card>
-        <CardHeader>
-          <CardTitle>Exam Subjects (Fixed List)</CardTitle>
-          <CardDescription>Click on a subject to add or edit its questions.</CardDescription>
-        </CardHeader>
-        <CardContent>
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
-            {FIXED_SUBJECTS.map(subjectName => {
-              const existingSub = exam.subjects?.find(s => s.name === subjectName);
-              const count = existingSub?.questions?.length || 0;
-              
-              return (
-                <div 
-                  key={subjectName} 
-                  onClick={() => openModalFor(subjectName)}
-                  className={`border rounded-lg p-4 cursor-pointer transition-all hover:shadow-md flex flex-col items-center text-center justify-center min-h-[100px] ${count > 0 ? 'border-green-200 bg-green-50/50' : 'hover:border-primary bg-card'}`}
-                >
-                   <h3 className="font-semibold text-sm mb-2">{subjectName}</h3>
-                   <div className={`text-xs font-medium px-2 py-1 rounded-full ${count > 0 ? 'bg-green-100 text-green-700' : 'bg-muted text-muted-foreground'}`}>
-                     {count} Questions
-                   </div>
+                  <Card>
+                    <CardHeader>
+                      <CardTitle>Access Control (Banned Users)</CardTitle>
+                    </CardHeader>
+                    <CardContent>
+                      <div className="flex gap-2 mb-4">
+                        <Input placeholder="student@example.com" value={banEmail} onChange={e => setBanEmail(e.target.value)} />
+                        <Button variant="destructive" onClick={handleBanEmail}>
+                          <Ban className="h-4 w-4 mr-2" /> Ban
+                        </Button>
+                      </div>
+                      
+                      {exam.bannedEmails?.length > 0 ? (
+                        <ul className="space-y-2">
+                          {exam.bannedEmails.map((email: string) => (
+                            <li key={email} className="flex justify-between items-center text-sm p-2 bg-muted rounded-md">
+                              <span>{email}</span>
+                              <Button variant="ghost" size="sm" onClick={() => handleRemoveBan(email)}>
+                                <Trash2 className="h-4 w-4 text-red-500" />
+                              </Button>
+                            </li>
+                          ))}
+                        </ul>
+                      ) : (
+                        <p className="text-sm text-muted-foreground text-center py-4">No banned users.</p>
+                      )}
+                    </CardContent>
+                  </Card>
                 </div>
-              )
-            })}
-          </div>
-        </CardContent>
-      </Card>
+              </div>
+            </TabsContent>
 
+            <TabsContent value="categories" className="space-y-6">
+              <Card>
+                <CardHeader>
+                  <CardTitle>Categories Configuration</CardTitle>
+                  <CardDescription>Configure the 4 subjects required for each category.</CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <div className="grid gap-6 md:grid-cols-3">
+                    {['Science', 'Arts', 'Commercial'].map(category => (
+                      <div key={category} className="border p-4 rounded-lg bg-card">
+                        <h3 className="font-semibold mb-3 flex items-center justify-between">
+                          {category} 
+                          <span className="text-xs bg-primary/10 text-primary px-2 py-1 rounded-full">
+                            {categoriesConfig[category]?.length || 0}/4 Subjects
+                          </span>
+                        </h3>
+                        <div className="space-y-2 mb-4">
+                          {categoriesConfig[category]?.map((subject, idx) => (
+                            <div key={idx} className="flex items-center justify-between bg-muted px-2 py-1.5 rounded text-sm">
+                              <span>{subject}</span>
+                              <Button 
+                                variant="ghost" 
+                                size="sm" 
+                                className="h-6 w-6 p-0 text-red-500 hover:text-red-700 hover:bg-red-50"
+                                onClick={() => {
+                                  const newConfig = { ...categoriesConfig };
+                                  newConfig[category] = newConfig[category].filter((_, i) => i !== idx);
+                                  setCategoriesConfig(newConfig);
+                                }}
+                              >
+                                <Trash2 className="h-3 w-3" />
+                              </Button>
+                            </div>
+                          ))}
+                          {(!categoriesConfig[category] || categoriesConfig[category].length === 0) && (
+                            <div className="text-sm text-muted-foreground italic">No subjects configured.</div>
+                          )}
+                        </div>
+                        {(!categoriesConfig[category] || categoriesConfig[category].length < 4) ? (
+                          <div className="flex gap-2">
+                            <Select 
+                              onValueChange={(val) => {
+                                const newConfig = { ...categoriesConfig };
+                                if (!newConfig[category]) newConfig[category] = [];
+                                if (!newConfig[category].includes(val) && newConfig[category].length < 4) {
+                                  newConfig[category].push(val);
+                                  setCategoriesConfig(newConfig);
+                                } else if (newConfig[category].includes(val)) {
+                                  toast({ title: 'Notice', description: 'Subject already in category' });
+                                }
+                              }}
+                            >
+                              <SelectTrigger className="h-8 text-xs">
+                                <SelectValue placeholder="Add subject..." />
+                              </SelectTrigger>
+                              <SelectContent>
+                                {FIXED_SUBJECTS.map(sub => (
+                                  <SelectItem key={sub} value={sub}>{sub}</SelectItem>
+                                ))}
+                              </SelectContent>
+                            </Select>
+                          </div>
+                        ) : (
+                          <div className="text-xs text-green-600 font-medium">Category limit reached (4 subjects).</div>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                  <Button onClick={handleSave} disabled={saving} className="mt-6">
+                    {saving ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Save className="mr-2 h-4 w-4" />}
+                    Save Categories Configuration
+                  </Button>
+                </CardContent>
+              </Card>
+
+              <Card>
+                <CardHeader>
+                  <CardTitle>Exam Subjects Question Bank</CardTitle>
+                  <CardDescription>Click on a subject to configure its 10 questions. (Limit: 40 questions per category total)</CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+                    {FIXED_SUBJECTS.map(subjectName => {
+                      const existingSub = exam.subjects?.find(s => s.name === subjectName);
+                      const count = existingSub?.questions?.length || 0;
+                      
+                      return (
+                        <div 
+                          key={subjectName} 
+                          onClick={() => openModalFor(subjectName)}
+                          className={`border rounded-lg p-4 cursor-pointer transition-all hover:shadow-md flex flex-col items-center text-center justify-center min-h-[100px] ${count > 0 ? (count === 10 ? 'border-green-200 bg-green-50/50' : 'border-yellow-200 bg-yellow-50/50') : 'hover:border-primary bg-card'}`}
+                        >
+                           <h3 className="font-semibold text-sm mb-2">{subjectName}</h3>
+                           <div className={`text-xs font-medium px-2 py-1 rounded-full ${count === 10 ? 'bg-green-100 text-green-700' : count > 0 ? 'bg-yellow-100 text-yellow-700' : 'bg-muted text-muted-foreground'}`}>
+                             {count} / 10 Questions
+                           </div>
+                        </div>
+                      )
+                    })}
+                  </div>
+                </CardContent>
+              </Card>
+            </TabsContent>
+          </Tabs>
+        </TabsContent>
       <Dialog open={isModalOpen} onOpenChange={setIsModalOpen}>
         <DialogContent className="max-w-3xl max-h-[90vh] overflow-y-auto">
           <DialogHeader>
@@ -725,6 +827,110 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
           </div>
         </DialogContent>
       </Dialog>
+        <TabsContent value="analytics">
+          <MockExamAnalytics eventId={exam.id} />
+        </TabsContent>
+      </Tabs>
     </div>
   );
+}
+
+function MockExamAnalytics({ eventId }: { eventId: string }) {
+  const { academy } = useAcademy();
+  const [submissions, setSubmissions] = useState<MockExamSubmission[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    if (!academy || !eventId) return;
+    const q = query(collection(db, 'academies', academy.id, 'mockExams', eventId, 'submissions'));
+    const unsub = onSnapshot(q, (snap) => {
+       const subs = snap.docs.map(doc => ({ id: doc.id, ...doc.data() })) as MockExamSubmission[];
+       setSubmissions(subs);
+       setLoading(false);
+    });
+    return () => unsub();
+  }, [academy, eventId]);
+
+  if (loading) return <div><Loader2 className="h-6 w-6 animate-spin mx-auto mt-10" /></div>;
+
+  if (submissions.length === 0) return (
+     <Card className="py-12 text-center text-muted-foreground">
+        No students have submitted this mock exam yet.
+     </Card>
+  );
+
+  const totalSubs = submissions.length;
+  const avgScore = submissions.reduce((acc, curr) => acc + (curr.totalScore / (curr.totalQuestions || 1)), 0) / totalSubs;
+  
+  const subjectStats: Record<string, { score: number, total: number }> = {};
+  submissions.forEach(sub => {
+    if (sub.scorePerSubject) {
+      Object.entries(sub.scorePerSubject).forEach(([subj, data]) => {
+         if (!subjectStats[subj]) subjectStats[subj] = { score: 0, total: 0 };
+         subjectStats[subj].score += data.score;
+         subjectStats[subj].total += data.total;
+      });
+    }
+  });
+
+  const subjectPerformance = Object.entries(subjectStats).map(([subj, data]) => ({
+     subject: subj,
+     avgScore: Math.round((data.score / (data.total || 1)) * 100)
+  }));
+
+  const sortedLeaderboard = [...submissions].sort((a,b) => (b.totalScore / (b.totalQuestions || 1)) - (a.totalScore / (a.totalQuestions || 1)));
+
+  return (
+    <div className="space-y-6">
+       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <Card>
+            <CardHeader className="pb-2"><CardTitle className="text-sm">Total Submissions</CardTitle></CardHeader>
+            <CardContent><div className="text-2xl font-bold">{totalSubs}</div></CardContent>
+          </Card>
+          <Card>
+            <CardHeader className="pb-2"><CardTitle className="text-sm">Average Score</CardTitle></CardHeader>
+            <CardContent><div className="text-2xl font-bold">{Math.round(avgScore * 100)}%</div></CardContent>
+          </Card>
+       </div>
+       
+       <div className="grid md:grid-cols-2 gap-6">
+         <Card>
+           <CardHeader><CardTitle>Leaderboard</CardTitle></CardHeader>
+           <CardContent className="max-h-[400px] overflow-y-auto">
+             <Table>
+               <TableHeader><TableRow><TableHead>Student</TableHead><TableHead>Score</TableHead></TableRow></TableHeader>
+               <TableBody>
+                 {sortedLeaderboard.map((sub) => (
+                   <TableRow key={sub.id}>
+                     <TableCell>
+                       <p className="font-medium">{sub.studentName}</p>
+                       <p className="text-xs text-muted-foreground">{sub.category}</p>
+                     </TableCell>
+                     <TableCell className="font-bold">{sub.totalScore}/{sub.totalQuestions}</TableCell>
+                   </TableRow>
+                 ))}
+               </TableBody>
+             </Table>
+           </CardContent>
+         </Card>
+         
+         <Card>
+           <CardHeader><CardTitle>Subject Performance</CardTitle></CardHeader>
+           <CardContent className="max-h-[400px] overflow-y-auto">
+             <Table>
+               <TableHeader><TableRow><TableHead>Subject</TableHead><TableHead>Avg. Score</TableHead></TableRow></TableHeader>
+               <TableBody>
+                 {subjectPerformance.sort((a,b) => b.avgScore - a.avgScore).map(sub => (
+                   <TableRow key={sub.subject}>
+                     <TableCell className="capitalize">{sub.subject}</TableCell>
+                     <TableCell>{sub.avgScore}%</TableCell>
+                   </TableRow>
+                 ))}
+               </TableBody>
+             </Table>
+           </CardContent>
+         </Card>
+       </div>
+    </div>
+  )
 }

@@ -1,7 +1,7 @@
 export const economicsQuestions = [
   {
     "id": "economics-1788679734092-0-574",
-    "questionText": "In the normal market situation, when the price of a commodity rises, the (JAMB 2006)",
+    "questionText": "In the normal market situation, when the price of a commodity rises, the",
     "options": [
       "demand for the commodity will rise",
       "demand for the commodity will fall",
@@ -13,7 +13,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-1-161",
-    "questionText": "Disposable income means: (JAMB 2013)",
+    "questionText": "Disposable income means:",
     "options": [
       "Income that is lost after tax has been removed   ",
       "Income that could be spent when tax has been removed   ",
@@ -25,7 +25,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-2-55",
-    "questionText": "Which of the following is not a basic assumption underlying the theory of consumer behavior (JAMB 2008)",
+    "questionText": "Which of the following is not a basic assumption underlying the theory of consumer behavior",
     "options": [
       "Consumers prefer more to less ",
       "consumers are rational ",
@@ -37,7 +37,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-3-406",
-    "questionText": "A disadvantage of Nigeria’s dependence on imported petroleum products is the (JAMB 2010)",
+    "questionText": "A disadvantage of Nigeria’s dependence on imported petroleum products is the",
     "options": [
       "instability in the demand to the  products",
       "instability in the supply for the products",
@@ -49,7 +49,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-4-612",
-    "questionText": "One characteristic of labour is that it is (JAMB 2007)",
+    "questionText": "One characteristic of labour is that it is",
     "options": [
       "fixed in demand",
       "fixed in supply",
@@ -61,7 +61,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-5-511",
-    "questionText": "Farming, mining and fishing are (JAMB 2005)",
+    "questionText": "Farming, mining and fishing are",
     "options": [
       "primary production",
       "secondary production",
@@ -73,7 +73,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-6-580",
-    "questionText": "The total amount of money raised by a company through insurance of shares to the public is (JAMB 2006)",
+    "questionText": "The total amount of money raised by a company through insurance of shares to the public is",
     "options": [
       "debentures",
       "nominal capital",
@@ -85,7 +85,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-7-200",
-    "questionText": "The cost incurred by using both fixed and variable factors in production is called (JAMB 2001)",
+    "questionText": "The cost incurred by using both fixed and variable factors in production is called",
     "options": [
       "marginal cost",
       "fixed cost",
@@ -97,7 +97,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-8-540",
-    "questionText": "To a commercial bank, deposits are (JAMB 2005)",
+    "questionText": "To a commercial bank, deposits are",
     "options": [
       "liabilities",
       "assets",
@@ -109,7 +109,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-9-288",
-    "questionText": "The resources used in production are called (JAMB 2012)",
+    "questionText": "The resources used in production are called",
     "options": [
       "variable inputs",
       "factors of production",
@@ -121,7 +121,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-10-646",
-    "questionText": "The Net National Product (NNP) is Gross National Product (GNP) less (JAMB 2007)",
+    "questionText": "The Net National Product (NNP) is Gross National Product (GNP) less",
     "options": [
       "domestic product",
       "foreign product",
@@ -133,7 +133,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-11-251",
-    "questionText": "The wholesaler performs the following functions except (JAMB 2010)",
+    "questionText": "The wholesaler performs the following functions except",
     "options": [
       "breaking the bulk",
       "offering credit facilities to consumers",
@@ -145,7 +145,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-12-401",
-    "questionText": "National development plans in Nigeria fail mainly because of (JAMB 2010)",
+    "questionText": "National development plans in Nigeria fail mainly because of",
     "options": [
       "over dependence on foreign aids",
       "poor implementation strategies",
@@ -157,7 +157,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-13-261",
-    "questionText": "Which of the following over estimates the value of national income? (JAMB 2010)",
+    "questionText": "Which of the following over estimates the value of national income?",
     "options": [
       "Incomplete statistical data",
       "Wrong timing of computation",
@@ -169,7 +169,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-14-82",
-    "questionText": "Demand as a factor of production is  (JAMB 2009)",
+    "questionText": "Demand as a factor of production is",
     "options": [
       "a composite demand ",
       "joint demand ",
@@ -181,7 +181,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-15-69",
-    "questionText": " A monopolist will practice price discrimination in two market if  (JAMB 2008)",
+    "questionText": " A monopolist will practice price discrimination in two market if",
     "options": [
       "there is a patent of the commodity ",
       "There is free flow of information in the market ",
@@ -193,7 +193,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-16-299",
-    "questionText": "Natural growth rate of population can be defined as the (JAMB 2012)",
+    "questionText": "Natural growth rate of population can be defined as the",
     "options": [
       "difference between birth rate and death rate",
       "number of births in a year",
@@ -205,7 +205,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-17-52",
-    "questionText": "The reason for the law of demand can best be explained in terms of:  (JAMB 2008)",
+    "questionText": "The reason for the law of demand can best be explained in terms of:",
     "options": [
       "supply ",
       "complementary goods ",
@@ -217,7 +217,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-18-29",
-    "questionText": "Which of the following statements is correct? The Central  Bank  (JAMB 2007)",
+    "questionText": "Which of the following statements is correct? The Central  Bank",
     "options": [
       "prints the country’s currency ",
       "handles the collection of depts. Owed to the government",
@@ -229,7 +229,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-19-578",
-    "questionText": "A debenture holder is entitled to payments in the form of (JAMB 2006)",
+    "questionText": "A debenture holder is entitled to payments in the form of",
     "options": [
       "allowance",
       "interest",
@@ -241,7 +241,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-20-414",
-    "questionText": "Economic as a field of study is a (JAMB 2003)",
+    "questionText": "Economic as a field of study is a",
     "options": [
       "pure science",
       "political science",
@@ -253,7 +253,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-21-18",
-    "questionText": "The production within the domestic territory of a country is called the  (JAMB 2006)",
+    "questionText": "The production within the domestic territory of a country is called the",
     "options": [
       "net national product ",
       "gross domestic product ",
@@ -265,7 +265,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-22-533",
-    "questionText": "ln which of the following business units are the owners mostly the customers? (JAMB 2005)",
+    "questionText": "ln which of the following business units are the owners mostly the customers?",
     "options": [
       "Co-operatives",
       "Limited liability companies",
@@ -277,7 +277,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-23-347",
-    "questionText": "If government expenditure exceeds revenue, this results in (JAMB 2009)",
+    "questionText": "If government expenditure exceeds revenue, this results in",
     "options": [
       "balanced budget",
       "national debt",
@@ -289,7 +289,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-24-186",
-    "questionText": "Economic problems arise because (JAMB 2001)",
+    "questionText": "Economic problems arise because",
     "options": [
       "resources are scarce relative to wants",
       "man is insatiable",
@@ -301,7 +301,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-25-544",
-    "questionText": "Among the principles of taxation propounded by Adam Smith was that (JAMB 2005)",
+    "questionText": "Among the principles of taxation propounded by Adam Smith was that",
     "options": [
       "a tax should be impossible to evade",
       "a tax should be convenient to pay",
@@ -313,7 +313,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-26-657",
-    "questionText": "ECA means (JAMB 2007)",
+    "questionText": "ECA means",
     "options": [
       "Economic Commission for Africa",
       "Economic Community of Africa",
@@ -325,7 +325,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-27-86",
-    "questionText": "By using exchanges controls, a country tries to eliminate a balance of payment deficit by  (JAMB 2009)",
+    "questionText": "By using exchanges controls, a country tries to eliminate a balance of payment deficit by",
     "options": [
       "limited her imports to its currency value of exports ",
       "Reducing the nation’s domestic piece level ",
@@ -337,7 +337,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-28-387",
-    "questionText": "The rising portion of the long - run average cost curve of a (JAMB 2010)",
+    "questionText": "The rising portion of the long - run average cost curve of a",
     "options": [
       "firm is an indication that it is experiencing \n\tincreasing efficiency",
       "diseconomies of scale",
@@ -349,7 +349,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-29-4",
-    "questionText": "What happens to a supply curve when the variables that are normally held constant are allowed to changer?  (JAMB 2006)",
+    "questionText": "What happens to a supply curve when the variables that are normally held constant are allowed to changer?",
     "options": [
       "the curve flattens out",
       "there is a movement along the curve",
@@ -361,7 +361,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-30-525",
-    "questionText": "Amount of goods offered to the market at respective prices and presented in a table is called (JAMB 2005)",
+    "questionText": "Amount of goods offered to the market at respective prices and presented in a table is called",
     "options": [
       "price schedule",
       "supply schedule",
@@ -373,7 +373,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-31-166",
-    "questionText": "As it relates to international trade, dumping:  (JAMB 2010)",
+    "questionText": "As it relates to international trade, dumping:",
     "options": [
       "is a form of price discrimination illegal under U.S antitrust laws ",
       "is the practice of selling goods in a foreign market at less than the cost ",
@@ -385,7 +385,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-32-235",
-    "questionText": "Find the median of the following set of scores: 8, 9, 6, 5, 10 (JAMB 2010)",
+    "questionText": "Find the median of the following set of scores: 8, 9, 6, 5, 10",
     "options": [
       "9",
       "8",
@@ -397,7 +397,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-33-534",
-    "questionText": "information about new goods is passed on to buyers through (JAMB 2005)",
+    "questionText": "information about new goods is passed on to buyers through",
     "options": [
       "advertising",
       "retail trade",
@@ -409,7 +409,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-34-220",
-    "questionText": "The situation in which there is a persistent fall in the general price level is referred to as (JAMB 2001)",
+    "questionText": "The situation in which there is a persistent fall in the general price level is referred to as",
     "options": [
       "devaluation",
       "depreciation",
@@ -421,7 +421,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-35-284",
-    "questionText": "A rational consumer is one who (JAMB 2012)",
+    "questionText": "A rational consumer is one who",
     "options": [
       "spends his income to maximize satisfaction",
       "is not influenced by advertisement",
@@ -433,7 +433,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-36-282",
-    "questionText": "A consumer purchasing a commodity X will maximize his satisfaction if (JAMB 2012)",
+    "questionText": "A consumer purchasing a commodity X will maximize his satisfaction if",
     "options": [
       "Px = Mux",
       "Px  >_  MUx",
@@ -445,7 +445,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-37-421",
-    "questionText": "A major limiting factor of mass production is (JAMB 2003)",
+    "questionText": "A major limiting factor of mass production is",
     "options": [
       "efficient management",
       "adequate labour supply",
@@ -457,7 +457,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-38-438",
-    "questionText": "Which of the following is a type of business organization? (JAMB 2003)",
+    "questionText": "Which of the following is a type of business organization?",
     "options": [
       "Stock exchange",
       "Insurance company",
@@ -469,7 +469,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-39-442",
-    "questionText": "One of the factors responsible for low agricultural \n\tproduction in West Africa is (JAMB 2003)",
+    "questionText": "One of the factors responsible for low agricultural \n\tproduction in West Africa is",
     "options": [
       "inadequate labour",
       "shortage of land",
@@ -481,7 +481,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-40-607",
-    "questionText": "The full meaning of OPEC is (JAMB 2006)",
+    "questionText": "The full meaning of OPEC is",
     "options": [
       "Oil and Petroleum Exporting Countries",
       "Original Petroleum Exporting Companies",
@@ -493,7 +493,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-41-483",
-    "questionText": "The market structure in which the operators are many and none of them can influence the price is (JAMB 2004)",
+    "questionText": "The market structure in which the operators are many and none of them can influence the price is",
     "options": [
       "imperfect market",
       "perfect market",
@@ -505,7 +505,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-42-59",
-    "questionText": "The situation in which the total amount of government spending excesses total revenues is called a:   (JAMB 2008)",
+    "questionText": "The situation in which the total amount of government spending excesses total revenues is called a:",
     "options": [
       "balance budget ",
       "budget surplus. ",
@@ -517,7 +517,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-43-234",
-    "questionText": "The sum of items divided by the number of items is the (JAMB 2010)",
+    "questionText": "The sum of items divided by the number of items is the",
     "options": [
       "Frequency",
       "mean",
@@ -529,7 +529,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-44-324",
-    "questionText": "Price elasticity of demand is expressed as (JAMB 2009)",
+    "questionText": "Price elasticity of demand is expressed as",
     "options": [
       "percentage change in price percentage change in quantity demanded",
       "percentage change in quantity demanded percentage change in Income",
@@ -541,7 +541,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-45-276",
-    "questionText": "The co-efficient of income elasticity of demand for inferior goods is (JAMB 2012)",
+    "questionText": "The co-efficient of income elasticity of demand for inferior goods is",
     "options": [
       "Positive",
       "equal to one",
@@ -553,7 +553,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-46-481",
-    "questionText": "When a change in price does not affect the quantity demanded of a commodity, the price elasticity of demand is (JAMB 2004)",
+    "questionText": "When a change in price does not affect the quantity demanded of a commodity, the price elasticity of demand is",
     "options": [
       "fairly inelastic",
       "infinitely elastic",
@@ -565,7 +565,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-47-366",
-    "questionText": "Economics is the study of human behaviour as it relates to the (JAMB 2010)",
+    "questionText": "Economics is the study of human behaviour as it relates to the",
     "options": [
       "efficient allocation of resources",
       "operation of companies",
@@ -577,7 +577,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-48-410",
-    "questionText": "If  Nigeria imports vehicles from Japan, the transaction will appear as a (JAMB 2010)",
+    "questionText": "If  Nigeria imports vehicles from Japan, the transaction will appear as a",
     "options": [
       "debit on Japan’s balance of payments",
       "credit on Nigeria’s balance of trade",
@@ -589,7 +589,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-49-150",
-    "questionText": "A country’s aggregate consumption was N20 million when its GDP was N100million. Following an increase in GDP to N120 million, consumption increased to N25 million. The marginal propensity to consume is given as (JAMB 2013)",
+    "questionText": "A country’s aggregate consumption was N20 million when its GDP was N100million. Following an increase in GDP to N120 million, consumption increased to N25 million. The marginal propensity to consume is given as",
     "options": [
       "0.25",
       "0.5",
@@ -601,7 +601,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-50-273",
-    "questionText": "The Production Possibility Curve (PPC) indicates that as \tmore of one good is produced (JAMB 2012)",
+    "questionText": "The Production Possibility Curve (PPC) indicates that as \tmore of one good is produced",
     "options": [
       "less of the other good is produced",
       "the same quantity of the other good is produced",
@@ -613,7 +613,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-51-221",
-    "questionText": "Commercial banks settle their daily interbank indebtedness through the (JAMB 2001)",
+    "questionText": "Commercial banks settle their daily interbank indebtedness through the",
     "options": [
       "Money Market",
       "Finance House",
@@ -625,7 +625,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-52-94",
-    "questionText": "The best index for indentation comparison of standard of living is the  (JAMB 2009)",
+    "questionText": "The best index for indentation comparison of standard of living is the",
     "options": [
       "Gross national product ",
       "Net national income ",
@@ -637,7 +637,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-53-118",
-    "questionText": "The following is the main difference between firm and industry   (JAMB 2012)",
+    "questionText": "The following is the main difference between firm and industry",
     "options": [
       "Industry is the group of firms producing related products  ",
       "Industry is the group of firms in the manufacturing sector  ",
@@ -649,7 +649,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-54-588",
-    "questionText": "The tendency for prices to rise while the value of money falls is known as (JAMB 2006)",
+    "questionText": "The tendency for prices to rise while the value of money falls is known as",
     "options": [
       "bills of exchange",
       "inflation",
@@ -661,7 +661,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-55-144",
-    "questionText": "How can we eliminate a surplus in a commodity market?  (JAMB 2013)",
+    "questionText": "How can we eliminate a surplus in a commodity market?",
     "options": [
       "Increase quantity supplied ",
       "Decrease quantity demanded  ",
@@ -673,7 +673,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-56-319",
-    "questionText": "A high rent on land will affect the cost of producing maize (JAMB 2009)",
+    "questionText": "A high rent on land will affect the cost of producing maize",
     "options": [
       "positively",
       "negatively",
@@ -685,7 +685,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-57-498",
-    "questionText": "Taxes levied on commodities are (JAMB 2004)",
+    "questionText": "Taxes levied on commodities are",
     "options": [
       "direct taxes",
       "indirect taxes",
@@ -697,7 +697,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-58-329",
-    "questionText": "In a regulated market, price is determined by (JAMB 2009)",
+    "questionText": "In a regulated market, price is determined by",
     "options": [
       "Consumers",
       "producers",
@@ -709,7 +709,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-59-232",
-    "questionText": "A tent-making factory offers (JAMB 2010)",
+    "questionText": "A tent-making factory offers",
     "options": [
       "personal services",
       "indirect services",
@@ -721,7 +721,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-60-190",
-    "questionText": "Which of the following is function of an entrepreneur? (JAMB 2001)",
+    "questionText": "Which of the following is function of an entrepreneur?",
     "options": [
       "Avoidance of risks",
       "Decision making",
@@ -733,7 +733,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-61-629",
-    "questionText": "Which of the following is a middlemen in the chain of distribution? (JAMB 2007)",
+    "questionText": "Which of the following is a middlemen in the chain of distribution?",
     "options": [
       "An entrepreneur",
       "A producer",
@@ -745,7 +745,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-62-521",
-    "questionText": "A factor that has slowed down the rate of industrial development in West Africa is (JAMB 2005)",
+    "questionText": "A factor that has slowed down the rate of industrial development in West Africa is",
     "options": [
       "inadequate technology",
       "increasing rate of manpower production",
@@ -757,7 +757,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-63-568",
-    "questionText": "Middlemen in an economy perform the function of (JAMB 2006)",
+    "questionText": "Middlemen in an economy perform the function of",
     "options": [
       "distribution",
       "exchange",
@@ -769,7 +769,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-64-19",
-    "questionText": "Suppose a consumer’s income increases from N30,000 to N36, 000. As a result the consumer increases her purchase of compact discs (CDS) from 25 CDS to 30CDS.What is consumer’s income elasticity of demand for CDS? (JAMB 2006)",
+    "questionText": "Suppose a consumer’s income increases from N30,000 to N36, 000. As a result the consumer increases her purchase of compact discs (CDS) from 25 CDS to 30CDS.What is consumer’s income elasticity of demand for CDS?",
     "options": [
       "0.5",
       "1,0 ",
@@ -781,7 +781,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-65-226",
-    "questionText": "Which of the following is a direct tax? (JAMB 2001)",
+    "questionText": "Which of the following is a direct tax?",
     "options": [
       "Import duty",
       "Export duty",
@@ -793,7 +793,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-66-622",
-    "questionText": "In a situation where demand is perfectly elastic, imposition of a tax on a commodity to raise its price will result in (JAMB 2007)",
+    "questionText": "In a situation where demand is perfectly elastic, imposition of a tax on a commodity to raise its price will result in",
     "options": [
       "consumers increasing their demand for the product",
       "consumers demand for the product remaining unchanged",
@@ -805,7 +805,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-67-278",
-    "questionText": "Palm oil and palm kernel have (JAMB 2012)",
+    "questionText": "Palm oil and palm kernel have",
     "options": [
       "competitive supply",
       "excess supply",
@@ -817,7 +817,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-68-64",
-    "questionText": "Which of the following is the most liquid asset to a commercial bank?  (JAMB 2008)",
+    "questionText": "Which of the following is the most liquid asset to a commercial bank?",
     "options": [
       "cash ",
       "money at call ",
@@ -829,7 +829,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-69-611",
-    "questionText": "The Malthusian theory of population does not concern itself with (JAMB 2007)",
+    "questionText": "The Malthusian theory of population does not concern itself with",
     "options": [
       "growth of food production in arithmetical progression",
       "growth of population in geometric progression",
@@ -841,7 +841,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-70-572",
-    "questionText": "What are inferior goods? These are goods (JAMB 2006)",
+    "questionText": "What are inferior goods? These are goods",
     "options": [
       "that are generally in short supply.",
       "that are no longer in demand",
@@ -853,7 +853,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-71-594",
-    "questionText": "Which of the following agricultural systems is mainly for the (JAMB 2006)",
+    "questionText": "Which of the following agricultural systems is mainly for the",
     "options": [
       "cultivation of food crops for family consumption?",
       "Co-operative farming",
@@ -865,7 +865,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-72-465",
-    "questionText": "The reward for land as a factor of production is (JAMB 2004)",
+    "questionText": "The reward for land as a factor of production is",
     "options": [
       "interest",
       "rent",
@@ -877,7 +877,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-73-175",
-    "questionText": "Investment and saving are, respectively:  (JAMB 2010)",
+    "questionText": "Investment and saving are, respectively:",
     "options": [
       "income and wealth ",
       "stock & flows ",
@@ -889,7 +889,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-74-606",
-    "questionText": "One of the functions of the International Monetary Fund (IMF) is to (JAMB 2006)",
+    "questionText": "One of the functions of the International Monetary Fund (IMF) is to",
     "options": [
       "devalue the currency of member states",
       "reduce drastically the size of deficit financing of member states",
@@ -901,7 +901,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-75-553",
-    "questionText": ".\n\n\tAn essential characteristics of a market economy is (JAMB 2005)",
+    "questionText": ".\n\n\tAn essential characteristics of a market economy is",
     "options": [
       "government control",
       "producer surplus",
@@ -913,7 +913,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-76-179",
-    "questionText": "The discount rate is the interest:  (JAMB 2010)",
+    "questionText": "The discount rate is the interest:",
     "options": [
       "rate at which the Central Bank of Nigeria lends in the Nigeria Government ",
       "yield on long-term government bonds ",
@@ -925,7 +925,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-77-508",
-    "questionText": "The economic Community of West African States (ECOWAS) has been slow in achieving its objectives because of (JAMB 2004)",
+    "questionText": "The economic Community of West African States (ECOWAS) has been slow in achieving its objectives because of",
     "options": [
       "political instability in member state",
       "the activities of multi-national",
@@ -937,7 +937,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-78-371",
-    "questionText": "The mean is the best measure of central tendency because it (JAMB 2010)",
+    "questionText": "The mean is the best measure of central tendency because it",
     "options": [
       "is not affected by extreme values in a data",
       "is a balancing point in an observation",
@@ -949,7 +949,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-79-325",
-    "questionText": "A major assumption in cardinal utility theory is that (JAMB 2009)",
+    "questionText": "A major assumption in cardinal utility theory is that",
     "options": [
       "utility is measurable",
       "utility is not measurable",
@@ -961,7 +961,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-80-374",
-    "questionText": "If  the price of a commodity with elastic demand increases, the revenue accruing to the producer will (JAMB 2010)",
+    "questionText": "If  the price of a commodity with elastic demand increases, the revenue accruing to the producer will",
     "options": [
       "Double",
       "be constant",
@@ -973,7 +973,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-81-286",
-    "questionText": "The type of production that involves the tapping and \tharnessing of natural resources is (JAMB 2012)",
+    "questionText": "The type of production that involves the tapping and \tharnessing of natural resources is",
     "options": [
       "primary production",
       "secondary production",
@@ -985,7 +985,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-82-425",
-    "questionText": "West  African   countries  have  low  levels  of  economic \tdevelopment due to (JAMB 2003)",
+    "questionText": "West  African   countries  have  low  levels  of  economic \tdevelopment due to",
     "options": [
       "underpopulation",
       "inadequate labour",
@@ -997,7 +997,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-83-637",
-    "questionText": "Which of the following is true under rapid inflation? People (JAMB 2007)",
+    "questionText": "Which of the following is true under rapid inflation? People",
     "options": [
       "demand less foreign exchange",
       "set up businesses",
@@ -1009,7 +1009,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-84-216",
-    "questionText": "One of the functions of money is (JAMB 2001)",
+    "questionText": "One of the functions of money is",
     "options": [
       "double coincidence of wants",
       "unit of account",
@@ -1021,7 +1021,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-85-332",
-    "questionText": "The marginal product of the 5th unit of capital is (JAMB 2009)",
+    "questionText": "The marginal product of the 5th unit of capital is",
     "options": [
       "42",
       "85",
@@ -1033,7 +1033,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-86-351",
-    "questionText": "Dumping in international trade means selling a good at a (JAMB 2009)",
+    "questionText": "Dumping in international trade means selling a good at a",
     "options": [
       "higher price at home than abroad",
       "lower price at home than abroad",
@@ -1045,7 +1045,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-87-451",
-    "questionText": "Invisible trade refers to trade in (JAMB 2003)",
+    "questionText": "Invisible trade refers to trade in",
     "options": [
       "services",
       "goods and services",
@@ -1057,7 +1057,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-88-535",
-    "questionText": "The profit of the producer can be calculated as (JAMB 2005)",
+    "questionText": "The profit of the producer can be calculated as",
     "options": [
       "total cost less total revenue",
       "average revenue less average cost",
@@ -1069,7 +1069,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-89-489",
-    "questionText": "The market consisting  of  a  network  of  dealers  where \tcurrencies can be bought and sold is known as (JAMB 2004)",
+    "questionText": "The market consisting  of  a  network  of  dealers  where \tcurrencies can be bought and sold is known as",
     "options": [
       "capital market",
       "foreign exchange market",
@@ -1081,7 +1081,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-90-460",
-    "questionText": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the (JAMB 2003)",
+    "questionText": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
     "options": [
       "increasing population",
       "willingness of member to co-operate",
@@ -1093,7 +1093,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-91-367",
-    "questionText": "A classroom teacher is promoted to the rank of a principal. This is an example of (JAMB 2010)",
+    "questionText": "A classroom teacher is promoted to the rank of a principal. This is an example of",
     "options": [
       "vertical mobility",
       "lateral mobility",
@@ -1105,7 +1105,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-92-238",
-    "questionText": "The slope of a supply curve is (JAMB 2010)",
+    "questionText": "The slope of a supply curve is",
     "options": [
       "Horizontal",
       "uniform",
@@ -1117,7 +1117,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-93-146",
-    "questionText": "When the product of any one firm in an industry is not  perceived by consumers as a perfect substitute for the product of any other firm in the same industry, we have  (JAMB 2013)",
+    "questionText": "When the product of any one firm in an industry is not  perceived by consumers as a perfect substitute for the product of any other firm in the same industry, we have",
     "options": [
       "Perfect competition",
       "Monopoly  ",
@@ -1129,7 +1129,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-94-101",
-    "questionText": "The following are features of a free market economy except  (JAMB 2011)",
+    "questionText": "The following are features of a free market economy except",
     "options": [
       "private ownership of properties  ",
       "existence of competition ",
@@ -1141,7 +1141,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-95-27",
-    "questionText": "The reason for the law of demand can best be explained in terms of  (JAMB 2007)",
+    "questionText": "The reason for the law of demand can best be explained in terms of",
     "options": [
       "supply ",
       "complementary ",
@@ -1153,7 +1153,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-96-189",
-    "questionText": "The reward for entrepreneurship is (JAMB 2001)",
+    "questionText": "The reward for entrepreneurship is",
     "options": [
       "rent",
       "wages",
@@ -1165,7 +1165,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-97-7",
-    "questionText": "When a nation’s exports are greater than its imports  (JAMB 2006)",
+    "questionText": "When a nation’s exports are greater than its imports",
     "options": [
       "the net foreign trade is zero ",
       "an unfavourable balance of payments exists ",
@@ -1177,7 +1177,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-98-342",
-    "questionText": "In the circular flow of income, an increase in saving causes (JAMB 2009)",
+    "questionText": "In the circular flow of income, an increase in saving causes",
     "options": [
       "an increase in imports",
       "a decrease in the income stream",
@@ -1189,7 +1189,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-99-248",
-    "questionText": "The public sector of an economy includes (JAMB 2010)",
+    "questionText": "The public sector of an economy includes",
     "options": [
       "cooperative societies",
       "nationalized industries",
@@ -1201,7 +1201,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-100-644",
-    "questionText": "Monetary control measures are coordinated by (JAMB 2007)",
+    "questionText": "Monetary control measures are coordinated by",
     "options": [
       "development banks",
       "merchant banks",
@@ -1213,7 +1213,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-101-440",
-    "questionText": "The shares which do not carry any fixed rate of dividend are known as (JAMB 2003)",
+    "questionText": "The shares which do not carry any fixed rate of dividend are known as",
     "options": [
       "debentures",
       "cumulative preference shares",
@@ -1225,7 +1225,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-102-447",
-    "questionText": "Which of the following is a function of the central bank? (JAMB 2003)",
+    "questionText": "Which of the following is a function of the central bank?",
     "options": [
       "Accepting deposits from the public",
       "Lending to the commercial bank",
@@ -1237,7 +1237,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-103-306",
-    "questionText": "A tax is regressive if the (JAMB 2012)",
+    "questionText": "A tax is regressive if the",
     "options": [
       "rate of tax is constant at all income levels",
       "rate of tax decreases as income increases",
@@ -1249,7 +1249,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-104-400",
-    "questionText": "In Nigeria, the huge public debt is as a result of (JAMB 2010)",
+    "questionText": "In Nigeria, the huge public debt is as a result of",
     "options": [
       "balanced budgeting",
       "surplus budgeting",
@@ -1261,7 +1261,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-105-151",
-    "questionText": "Which of the following is not a measure for controlling inflation by the central bank?   (JAMB 2013)",
+    "questionText": "Which of the following is not a measure for controlling inflation by the central bank?",
     "options": [
       "Open market operation  ",
       " Reserve requirements  ",
@@ -1273,7 +1273,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-106-138",
-    "questionText": "The sum of MPS and MPC is   (JAMB 2013)",
+    "questionText": "The sum of MPS and MPC is",
     "options": [
       "greater than 1 but less than infinity  ",
       "greater than 0 but less than 1 ",
@@ -1285,7 +1285,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-107-106",
-    "questionText": "The following are the advantages of internal economics of large scale production except  (JAMB 2011)",
+    "questionText": "The following are the advantages of internal economics of large scale production except",
     "options": [
       "financial economics ",
       "administrative economics ",
@@ -1297,7 +1297,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-108-488",
-    "questionText": "Government can control inflation by (JAMB 2004)",
+    "questionText": "Government can control inflation by",
     "options": [
       "printing more money",
       "reducing the rate of taxes",
@@ -1309,7 +1309,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-109-214",
-    "questionText": "The reward for shareholdership of a company is (JAMB 2001)",
+    "questionText": "The reward for shareholdership of a company is",
     "options": [
       "Wages",
       "interest",
@@ -1321,7 +1321,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-110-33",
-    "questionText": "The ‘term’ of trade’ means  (JAMB 2007)",
+    "questionText": "The ‘term’ of trade’ means",
     "options": [
       "The trade agreement between two countries ",
       "The difference in the volumes of exports of two countries ",
@@ -1333,7 +1333,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-111-159",
-    "questionText": "The law of comparative cost and absolute cost advantage are not the same is that;  (JAMB 2013)",
+    "questionText": "The law of comparative cost and absolute cost advantage are not the same is that;",
     "options": [
       "Former require that one of the countries has absolute advantage in the two goods but latter does not   ",
       "Former requires one country to have at least absolute advantage in one of the trading goods over the other country but latter does not.",
@@ -1345,7 +1345,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-112-302",
-    "questionText": "Which of the following is not true of small companies? (JAMB 2012)",
+    "questionText": "Which of the following is not true of small companies?",
     "options": [
       "The cannot benefit from economics of scale",
       "are a good source of new jobs",
@@ -1357,7 +1357,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-113-620",
-    "questionText": "If the price of good X rises and the quantity demanded of good Y increases then the two goods X and Y must be (JAMB 2007)",
+    "questionText": "If the price of good X rises and the quantity demanded of good Y increases then the two goods X and Y must be",
     "options": [
       "inferior good",
       "substitutes",
@@ -1369,7 +1369,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-114-125",
-    "questionText": "When the government expenditure and income are the same in fiscal year, this is referred as; (JAMB 2012)",
+    "questionText": "When the government expenditure and income are the same in fiscal year, this is referred as;",
     "options": [
       "Net balance  ",
       "Zero balanced budget  ",
@@ -1381,7 +1381,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-115-227",
-    "questionText": "Tax evasions means (JAMB 2001)",
+    "questionText": "Tax evasions means",
     "options": [
       "postponing payment of tax",
       "tax payment according to ability to pay",
@@ -1393,7 +1393,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-116-317",
-    "questionText": "A typical feature of a market economy is that (JAMB 2009)",
+    "questionText": "A typical feature of a market economy is that",
     "options": [
       "all producers make profit",
       "full employment exists",
@@ -1405,7 +1405,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-117-582",
-    "questionText": "Which of the following is not reason for establishing public \tenterprises? (JAMB 2006)",
+    "questionText": "Which of the following is not reason for establishing public \tenterprises?",
     "options": [
       "Discouraging investors",
       "Opening up neglected parts of the country",
@@ -1417,7 +1417,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-118-505",
-    "questionText": "Development planning which takes an overall view of the economy is described as (JAMB 2004)",
+    "questionText": "Development planning which takes an overall view of the economy is described as",
     "options": [
       "Aggregate economic planning",
       "Disaggregated economic planning",
@@ -1429,7 +1429,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-119-296",
-    "questionText": "Frictional unemployment can be reduced by (JAMB 2012)",
+    "questionText": "Frictional unemployment can be reduced by",
     "options": [
       "encouraging the use of retraining schemes",
       "removing barriers to labour mobility",
@@ -1441,7 +1441,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-120-616",
-    "questionText": "Revenue is the (JAMB 2007)",
+    "questionText": "Revenue is the",
     "options": [
       "total profit made after sales",
       "amount spent on purchases",
@@ -1453,7 +1453,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-121-515",
-    "questionText": "The production factor, whose entire world supply is fixed is (JAMB 2005)",
+    "questionText": "The production factor, whose entire world supply is fixed is",
     "options": [
       "land",
       "skilled labour",
@@ -1465,7 +1465,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-122-244",
-    "questionText": "If TC, FC and VC represent total cost, fixed cost and variable cost respectively, which of the following is\n\tcorrect? (JAMB 2010)",
+    "questionText": "If TC, FC and VC represent total cost, fixed cost and variable cost respectively, which of the following is\n\tcorrect?",
     "options": [
       "TC = FC-VC",
       "FC = TC + VC",
@@ -1477,7 +1477,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-123-559",
-    "questionText": "The study of Economics enables individuals to (JAMB 2006)",
+    "questionText": "The study of Economics enables individuals to",
     "options": [
       "change jobs.",
       "evade taxes.",
@@ -1489,7 +1489,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-124-416",
-    "questionText": "Which of the following  is  not  an  advantage  of  tabular presentation of data? (JAMB 2003)",
+    "questionText": "Which of the following  is  not  an  advantage  of  tabular presentation of data?",
     "options": [
       "enables easy location of required figures",
       "makes for easy comparison of figures",
@@ -1501,7 +1501,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-125-115",
-    "questionText": "Indifference curve and isoquant are respectively relevant is   (JAMB 2012)",
+    "questionText": "Indifference curve and isoquant are respectively relevant is",
     "options": [
       "Theories of consumer behaviours and production  ",
       "Theories of human indifference and production  ",
@@ -1513,7 +1513,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-126-264",
-    "questionText": "The best way of combating demand-pull inflation is to (JAMB 2010)",
+    "questionText": "The best way of combating demand-pull inflation is to",
     "options": [
       "increase income taxes",
       "reduce income taxes",
@@ -1525,7 +1525,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-127-111",
-    "questionText": "Price legislation can be defined as  (JAMB 2011)",
+    "questionText": "Price legislation can be defined as",
     "options": [
       "how price fluctuates in the market",
       "how prices are controlled in the market  ",
@@ -1537,7 +1537,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-128-37",
-    "questionText": "In a sole proprietorship, the decisions are made by the  (JAMB 2007)",
+    "questionText": "In a sole proprietorship, the decisions are made by the",
     "options": [
       "Government ",
       "Board of directors ",
@@ -1549,7 +1549,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-129-96",
-    "questionText": "The most popularly adopted industrialization strategy in West African  (JAMB 2009)",
+    "questionText": "The most popularly adopted industrialization strategy in West African",
     "options": [
       "import substitution ",
       "Export promotion ",
@@ -1561,7 +1561,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-130-135",
-    "questionText": "A stock variable is measured;   (JAMB 2012)",
+    "questionText": "A stock variable is measured;",
     "options": [
       "Over a period  ",
       "At a point  ",
@@ -1573,7 +1573,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-131-566",
-    "questionText": "Distribution of good and services is hindered by (JAMB 2006)",
+    "questionText": "Distribution of good and services is hindered by",
     "options": [
       "good road network",
       "efficient storage facilities",
@@ -1585,7 +1585,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-132-156",
-    "questionText": "Based on the fact that demand curve shows the maximum price at which consumers will buy, it then shows  (JAMB 2013)",
+    "questionText": "Based on the fact that demand curve shows the maximum price at which consumers will buy, it then shows",
     "options": [
       "average benefit   ",
       "marginal benefit  ",
@@ -1597,7 +1597,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-133-50",
-    "questionText": " Which of the following statement is false?  (JAMB 2008)",
+    "questionText": " Which of the following statement is false?",
     "options": [
       "An economy where economic decision making is shared by individuals and government is known as mixed economy ",
       "Given that apples and pears are substitutes, If the price of pear fall ",
@@ -1609,7 +1609,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-134-257",
-    "questionText": "The following are advantages of large scale agriculture except (JAMB 2010)",
+    "questionText": "The following are advantages of large scale agriculture except",
     "options": [
       "use of simple implements",
       "use of sophisticated implements",
@@ -1621,7 +1621,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-135-44",
-    "questionText": "The maximization of profit tends to be driving force in the economic decision making of   (JAMB 2007)",
+    "questionText": "The maximization of profit tends to be driving force in the economic decision making of",
     "options": [
       "entrepreneurs  ",
       "workers ",
@@ -1633,7 +1633,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-136-565",
-    "questionText": "If the fixed cost of a firm is 800 Naira and its variable cost is \t2,700 Naira while its total output is 100 units, what is the average cost of the firm? (JAMB 2006)",
+    "questionText": "If the fixed cost of a firm is 800 Naira and its variable cost is \t2,700 Naira while its total output is 100 units, what is the average cost of the firm?",
     "options": [
       "25 Naira",
       "35 Naira",
@@ -1645,7 +1645,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-137-397",
-    "questionText": "The velocity of money is represented as (JAMB 2010)",
+    "questionText": "The velocity of money is represented as",
     "options": [
       "money supply /real GDP",
       "real GDPmoney supply",
@@ -1657,7 +1657,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-138-260",
-    "questionText": "Which of the following equations is appropriate for determining the Net Domestic Product (NDP)? (JAMB 2010)",
+    "questionText": "Which of the following equations is appropriate for determining the Net Domestic Product (NDP)?",
     "options": [
       "NDP = GNP – depreciation",
       "NDP = GDP + Net Income from abroad",
@@ -1669,7 +1669,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-139-558",
-    "questionText": "Which of the following is not an objective of the \n\tOrganization of Petroleum Exporting Countries (OPEC)? (JAMB 2005)",
+    "questionText": "Which of the following is not an objective of the \n\tOrganization of Petroleum Exporting Countries (OPEC)?",
     "options": [
       "Stabilization of oil prices",
       "Co-ordinating oil prices",
@@ -1681,7 +1681,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-140-600",
-    "questionText": "Where the burden of a tax finally rest is called (JAMB 2006)",
+    "questionText": "Where the burden of a tax finally rest is called",
     "options": [
       "tax object",
       "tax rate",
@@ -1693,7 +1693,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-141-567",
-    "questionText": "A movement along the same demand curve either upwards \tor downwards as a result of changes in price implies (JAMB 2006)",
+    "questionText": "A movement along the same demand curve either upwards \tor downwards as a result of changes in price implies",
     "options": [
       "a change in demand",
       "a change in quantity demanded.",
@@ -1705,7 +1705,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-142-209",
-    "questionText": "Which of the following business units can issue shares? (JAMB 2001)",
+    "questionText": "Which of the following business units can issue shares?",
     "options": [
       "Sole trader",
       "Private limited company",
@@ -1717,7 +1717,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-143-35",
-    "questionText": "Inflation can be curbed by  (JAMB 2007)",
+    "questionText": "Inflation can be curbed by",
     "options": [
       "Increasing aggregate demand ",
       "paying higher wages ",
@@ -1729,7 +1729,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-144-541",
-    "questionText": "The lender of last resort in the banking system is the (JAMB 2005)",
+    "questionText": "The lender of last resort in the banking system is the",
     "options": [
       "industrial bank",
       "mortgage bank",
@@ -1741,7 +1741,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-145-429",
-    "questionText": "The marginal revenue when output is 4 units is (JAMB 2003)",
+    "questionText": "The marginal revenue when output is 4 units is",
     "options": [
       "5 naira",
       "8 naira",
@@ -1753,7 +1753,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-146-68",
-    "questionText": "Tax incidence is the analysis of   (JAMB 2008)",
+    "questionText": "Tax incidence is the analysis of",
     "options": [
       "How progressive a tax is ",
       "How distorting a tax is ",
@@ -1765,7 +1765,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-147-562",
-    "questionText": "The reward of capital as a factor of production is (JAMB 2006)",
+    "questionText": "The reward of capital as a factor of production is",
     "options": [
       "rent",
       "wage",
@@ -1777,7 +1777,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-148-75",
-    "questionText": "A characteristic of a debenture is that  (JAMB 2009)",
+    "questionText": "A characteristic of a debenture is that",
     "options": [
       "Its yield is based on profit ",
       "Its yield is a fixed rate of interest ",
@@ -1789,7 +1789,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-149-272",
-    "questionText": "The difference between the money cost and the real cost of any item is that (JAMB 2012)",
+    "questionText": "The difference between the money cost and the real cost of any item is that",
     "options": [
       "real cost is the alternative forgone while the money cost is the actual amount paid for buying the item",
       "the real cost is the opportunity cost, while the money cost is the marginal cost",
@@ -1801,7 +1801,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-150-516",
-    "questionText": "When all factor inputs are reduced by half, the production possibility curve will shift (JAMB 2005)",
+    "questionText": "When all factor inputs are reduced by half, the production possibility curve will shift",
     "options": [
       "outwards",
       "inwards",
@@ -1813,7 +1813,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-151-450",
-    "questionText": "Precautionary motive relates to (JAMB 2003)",
+    "questionText": "Precautionary motive relates to",
     "options": [
       "demand for money",
       "demand for goods",
@@ -1825,7 +1825,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-152-207",
-    "questionText": "Monoculture agriculture means (JAMB 2001)",
+    "questionText": "Monoculture agriculture means",
     "options": [
       "the cultivation of seasonal crops",
       "the cultivation of one major crop",
@@ -1837,7 +1837,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-153-262",
-    "questionText": "The total stock of money available for use in an economy is (JAMB 2010)",
+    "questionText": "The total stock of money available for use in an economy is",
     "options": [
       "a function of money",
       "a characteristic of money",
@@ -1849,7 +1849,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-154-543",
-    "questionText": "The central bank controls credit in the economy through the use of (JAMB 2005)",
+    "questionText": "The central bank controls credit in the economy through the use of",
     "options": [
       "legal tender",
       "travelers cheque",
@@ -1861,7 +1861,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-155-331",
-    "questionText": "Production takes place when (JAMB 2009)",
+    "questionText": "Production takes place when",
     "options": [
       "output is transformed into input",
       "machines replace human effort",
@@ -1873,7 +1873,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-156-350",
-    "questionText": "According to the theory of comparative advantage, specialization will result in (JAMB 2009)",
+    "questionText": "According to the theory of comparative advantage, specialization will result in",
     "options": [
       "labour–intensive method of production",
       "capital–intensive method of production",
@@ -1885,7 +1885,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-157-522",
-    "questionText": "To achieve an equilibrium position, the consumer must buy so much of each commodity whose price is equal its (JAMB 2005)",
+    "questionText": "To achieve an equilibrium position, the consumer must buy so much of each commodity whose price is equal its",
     "options": [
       "marginal utility",
       "total utility",
@@ -1897,7 +1897,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-158-77",
-    "questionText": "The revenue accruing to the seller of commodity X as a result of a fall in price will  (JAMB 2009)",
+    "questionText": "The revenue accruing to the seller of commodity X as a result of a fall in price will",
     "options": [
       "increase",
       "fall ",
@@ -1909,7 +1909,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-159-487",
-    "questionText": "Which of the following will be an effect of inflation? (JAMB 2004)",
+    "questionText": "Which of the following will be an effect of inflation?",
     "options": [
       "Wages earners will gain",
       "Borrowing of money will be restricted",
@@ -1921,7 +1921,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-160-53",
-    "questionText": "The demand curve for the pure monopolists is  (JAMB 2008)",
+    "questionText": "The demand curve for the pure monopolists is",
     "options": [
       "perfectly price elastic ",
       "perfectly price inelastic ",
@@ -1933,7 +1933,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-161-339",
-    "questionText": "In the long run, one of the characteristics of monopolistic competitive firms is that the (JAMB 2009)",
+    "questionText": "In the long run, one of the characteristics of monopolistic competitive firms is that the",
     "options": [
       "make  abnormal profits",
       "suffer losses",
@@ -1945,7 +1945,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-162-430",
-    "questionText": "The term under population refers to a situation where the population is (JAMB 2003)",
+    "questionText": "The term under population refers to a situation where the population is",
     "options": [
       "dispersed over the country",
       "small in relation to available resources",
@@ -1957,7 +1957,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-163-99",
-    "questionText": "Basic economic problems of society include the following except:   (JAMB 2011)",
+    "questionText": "Basic economic problems of society include the following except:",
     "options": [
       "what to produce",
       "how to produce ",
@@ -1969,7 +1969,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-164-2",
-    "questionText": "What implication does resources scarcity have for the satisfaction of wants? (JAMB 2006)",
+    "questionText": "What implication does resources scarcity have for the satisfaction of wants?",
     "options": [
       "not all wants can be satisfied ",
       "we will never be faced with the need to make choice ",
@@ -1981,7 +1981,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-165-477",
-    "questionText": "One of the problems associated with the middleman in the distribution of goods is that he (JAMB 2004)",
+    "questionText": "One of the problems associated with the middleman in the distribution of goods is that he",
     "options": [
       "buys in large quantities",
       "hoards goods",
@@ -1993,7 +1993,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-166-443",
-    "questionText": "Efficient distribution of goods in West Africa will be \n\tfacilitated by (JAMB 2003)",
+    "questionText": "Efficient distribution of goods in West Africa will be \n\tfacilitated by",
     "options": [
       "poor storage facilities",
       "adequate transportation system",
@@ -2005,7 +2005,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-167-640",
-    "questionText": "A foreign exchange market deals in (JAMB 2007)",
+    "questionText": "A foreign exchange market deals in",
     "options": [
       "treasury bills",
       "currencies",
@@ -2017,7 +2017,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-168-340",
-    "questionText": "In developing countries, it is easier to obtain accurate national income estimates through the (JAMB 2009)",
+    "questionText": "In developing countries, it is easier to obtain accurate national income estimates through the",
     "options": [
       "GNP",
       "GDP",
@@ -2029,7 +2029,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-169-436",
-    "questionText": "Price elasticity of supply measures the responsiveness of (JAMB 2003)",
+    "questionText": "Price elasticity of supply measures the responsiveness of",
     "options": [
       "quantity supplied to   changes in suppliers’ income",
       "changes in prices of other commodities",
@@ -2041,7 +2041,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-170-338",
-    "questionText": "If a monopolist is incurring short–run losses, this means that his (JAMB 2009)",
+    "questionText": "If a monopolist is incurring short–run losses, this means that his",
     "options": [
       "selling price is above the short–run marginal cost",
       "selling price is below the short–run marginal cost",
@@ -2053,7 +2053,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-171-479",
-    "questionText": "The gap between demand and  supply  curves  below the equilibrium price indicates (JAMB 2004)",
+    "questionText": "The gap between demand and  supply  curves  below the equilibrium price indicates",
     "options": [
       "excess demand",
       "excess supply",
@@ -2065,7 +2065,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-172-417",
-    "questionText": "The problem of scarcity is reduced by (JAMB 2003)",
+    "questionText": "The problem of scarcity is reduced by",
     "options": [
       "controlling consumption of goods and services",
       "producing everything needed by consumers",
@@ -2077,7 +2077,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-173-217",
-    "questionText": "Money is demanded for which of the following reasons? (JAMB 2001)",
+    "questionText": "Money is demanded for which of the following reasons?",
     "options": [
       "To meet unforeseen contingencies",
       "To solve the problem of inflation",
@@ -2089,7 +2089,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-174-474",
-    "questionText": "An entrepreneur is likely to make more profits when (JAMB 2004)",
+    "questionText": "An entrepreneur is likely to make more profits when",
     "options": [
       "expenditure is more than revenue",
       "competitors charge lower prices",
@@ -2101,7 +2101,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-175-100",
-    "questionText": "An economic system can be defined as an  (JAMB 2011)",
+    "questionText": "An economic system can be defined as an",
     "options": [
       " arrangement specifying how production and consumption are controlled in a   society ",
       "arrangement whereby goods are distributed in a society  ",
@@ -2113,7 +2113,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-176-219",
-    "questionText": "Which of the following is the most liquid asset? (JAMB 2001)",
+    "questionText": "Which of the following is the most liquid asset?",
     "options": [
       "Bank notes",
       "Silver",
@@ -2125,7 +2125,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-177-177",
-    "questionText": "The value of money varies  (JAMB 2010)",
+    "questionText": "The value of money varies",
     "options": [
       "inversely with the price of level ",
       "directly with the volume of employment ",
@@ -2137,7 +2137,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-178-631",
-    "questionText": "An example of a producer good is a (JAMB 2007)",
+    "questionText": "An example of a producer good is a",
     "options": [
       "tin of milk",
       "hammer",
@@ -2149,7 +2149,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-179-149",
-    "questionText": "One among the following options is not correct  (JAMB 2013)",
+    "questionText": "One among the following options is not correct",
     "options": [
       "Any point inside the production possibility curve indicates unemployment or underemployment  ",
       "Increase in the price of a commodity leads to a fall in the demand for its substitute ",
@@ -2161,7 +2161,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-180-651",
-    "questionText": "International trade depends on the concept of (JAMB 2007)",
+    "questionText": "International trade depends on the concept of",
     "options": [
       "marginal cost advantage",
       "comparative cost disadvantage",
@@ -2173,7 +2173,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-181-494",
-    "questionText": "When the general price level persistently falls, the rate of  unemployment (JAMB 2004)",
+    "questionText": "When the general price level persistently falls, the rate of  unemployment",
     "options": [
       "rises",
       "stagnates",
@@ -2185,7 +2185,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-182-173",
-    "questionText": "Unemployment involving a mismatch of the skills of unemployment workers and the skill required for available jobs is called:  (JAMB 2010)",
+    "questionText": "Unemployment involving a mismatch of the skills of unemployment workers and the skill required for available jobs is called:",
     "options": [
       "frictional unemployment ",
       "structural unemployment ",
@@ -2197,7 +2197,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-183-249",
-    "questionText": "One advantage of the Sole Proprietorship over other forms of business organizations is that it can (JAMB 2010)",
+    "questionText": "One advantage of the Sole Proprietorship over other forms of business organizations is that it can",
     "options": [
       "make very high profits",
       "employ many workers",
@@ -2209,7 +2209,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-184-531",
-    "questionText": "One-man businesses are popular in West Africa because of all the following except the (JAMB 2005)",
+    "questionText": "One-man businesses are popular in West Africa because of all the following except the",
     "options": [
       "ease of entry",
       "small capital required",
@@ -2221,7 +2221,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-185-446",
-    "questionText": "A continuous fall in the general price level is called (JAMB 2003)",
+    "questionText": "A continuous fall in the general price level is called",
     "options": [
       "recession",
       "depression",
@@ -2233,7 +2233,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-186-174",
-    "questionText": "The greater is the marginal propensity to consume, the:  (JAMB 2010)",
+    "questionText": "The greater is the marginal propensity to consume, the:",
     "options": [
       "smaller is the marginal propensity to save ",
       "higher is the interest rate ",
@@ -2245,7 +2245,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-187-404",
-    "questionText": "Localization of industries refers to the (JAMB 2010)",
+    "questionText": "Localization of industries refers to the",
     "options": [
       "spread of firms producing different products",
       "concentration of firms of an industry",
@@ -2257,7 +2257,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-188-390",
-    "questionText": "The demand curve for factors of production (JAMB 2010)",
+    "questionText": "The demand curve for factors of production",
     "options": [
       "is perfectly elastic",
       "slopes downwards",
@@ -2269,7 +2269,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-189-154",
-    "questionText": "Which of the following statements is true?  (JAMB 2013)",
+    "questionText": "Which of the following statements is true?",
     "options": [
       "Disposable income is the only variable that determines consumption   ",
       "Investment spending is positively related to the rate of interest   ",
@@ -2281,7 +2281,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-190-449",
-    "questionText": "The most important function of merchant banks is the (JAMB 2003)",
+    "questionText": "The most important function of merchant banks is the",
     "options": [
       "issuing of currency",
       "provision of short term loans",
@@ -2293,7 +2293,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-191-228",
-    "questionText": "A greater burden of tax on a product with high price elasticity of demand rests mainly on the (JAMB 2001)",
+    "questionText": "A greater burden of tax on a product with high price elasticity of demand rests mainly on the",
     "options": [
       "producer",
       "teacher",
@@ -2305,7 +2305,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-192-184",
-    "questionText": "The primary problem of economics is:  (JAMB 2010)",
+    "questionText": "The primary problem of economics is:",
     "options": [
       "to obtain more equitable distribution of money income ",
       "production of a given output with the lowest cost combination of factors of production ",
@@ -2317,7 +2317,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-193-123",
-    "questionText": "If salary of worker increases from 50,000 to 80,000 Naira and average price of certain commodities consumed by the worker increase from 120 Naira to 160 Naira then   (JAMB 2012)",
+    "questionText": "If salary of worker increases from 50,000 to 80,000 Naira and average price of certain commodities consumed by the worker increase from 120 Naira to 160 Naira then",
     "options": [
       "The nominal income increases but leave the real income constant  ",
       "The real income increases, but nominal income has reduced  ",
@@ -2329,7 +2329,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-194-375",
-    "questionText": "An excess demand for beans will result from (JAMB 2010)",
+    "questionText": "An excess demand for beans will result from",
     "options": [
       "an increase in the price of  beans",
       "a decrease in the price of  beans",
@@ -2341,7 +2341,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-195-590",
-    "questionText": "The motive for holding money for investing in securities is \treferred to as (JAMB 2006)",
+    "questionText": "The motive for holding money for investing in securities is \treferred to as",
     "options": [
       "transactionary",
       "speculative",
@@ -2353,7 +2353,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-196-131",
-    "questionText": "The following may not inflate the National Income figure  (JAMB 2012)",
+    "questionText": "The following may not inflate the National Income figure",
     "options": [
       "Student’s bursary  ",
       "Owners occupied houses  ",
@@ -2365,7 +2365,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-197-405",
-    "questionText": "in developing countries, governments influence the location of  industries in order to (JAMB 2010)",
+    "questionText": "in developing countries, governments influence the location of  industries in order to",
     "options": [
       "spread development",
       "encourage entrepreneurs",
@@ -2377,7 +2377,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-198-337",
-    "questionText": "The supply curve of a perfectly competitive firm is identical to its (JAMB 2009)",
+    "questionText": "The supply curve of a perfectly competitive firm is identical to its",
     "options": [
       "total cost",
       "marginal cost",
@@ -2389,7 +2389,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-199-129",
-    "questionText": "Normal profit means;   (JAMB 2012)",
+    "questionText": "Normal profit means;",
     "options": [
       "All the accountant cost are covered but not all the economist cost  ",
       "All the economist cost are covered but not all the accountant cost  ",
@@ -2401,7 +2401,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-200-363",
-    "questionText": "Occupational distribution of population determines the (JAMB 2009)",
+    "questionText": "Occupational distribution of population determines the",
     "options": [
       "size of a population available and willing to work",
       "population density of a place",
@@ -2413,7 +2413,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-201-304",
-    "questionText": "The production strategy used in an over populated country is (JAMB 2012)",
+    "questionText": "The production strategy used in an over populated country is",
     "options": [
       "import substitution",
       "capital intensive",
@@ -2425,7 +2425,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-202-497",
-    "questionText": "The act of selling goods in foreign markets at prices below those charged at home markets is called (JAMB 2004)",
+    "questionText": "The act of selling goods in foreign markets at prices below those charged at home markets is called",
     "options": [
       "exchange",
       "specialization",
@@ -2437,7 +2437,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-203-185",
-    "questionText": "Economic problems arise because (JAMB 2001)",
+    "questionText": "Economic problems arise because",
     "options": [
       "resources are scarce relative to wants",
       "man is insatiable",
@@ -2449,7 +2449,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-204-122",
-    "questionText": "Private and public limited liability companies are not the same because   (JAMB 2012)",
+    "questionText": "Private and public limited liability companies are not the same because",
     "options": [
       "Former is limited to fifty shareholders but not the later  ",
       "both are not legal entities  ",
@@ -2461,7 +2461,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-205-548",
-    "questionText": "When the value of a nation’s exports is greater than its imports (JAMB 2005)",
+    "questionText": "When the value of a nation’s exports is greater than its imports",
     "options": [
       "a favourable balance of trade exists",
       "an unfavourable balance of payment exists",
@@ -2473,7 +2473,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-206-256",
-    "questionText": "The role of government in promoting agricultural development includes the following except (JAMB 2010)",
+    "questionText": "The role of government in promoting agricultural development includes the following except",
     "options": [
       "paying the wages of all farmers",
       "establishing and funding research",
@@ -2485,7 +2485,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-207-196",
-    "questionText": "Performance of one task in a production process is known as (JAMB 2001)",
+    "questionText": "Performance of one task in a production process is known as",
     "options": [
       "Specialization",
       "standardization",
@@ -2497,7 +2497,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-208-563",
-    "questionText": "Mining is an example of (JAMB 2006)",
+    "questionText": "Mining is an example of",
     "options": [
       "tertiary production",
       "primary production",
@@ -2509,7 +2509,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-209-399",
-    "questionText": "A strategy for curbing unemployment is to (JAMB 2010)",
+    "questionText": "A strategy for curbing unemployment is to",
     "options": [
       "implement government stabilization policy",
       "increase government expenditure and decrease taxes",
@@ -2521,7 +2521,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-210-448",
-    "questionText": "Cost-push inflation is likely to arise when (JAMB 2003)",
+    "questionText": "Cost-push inflation is likely to arise when",
     "options": [
       "there is an increase in government spending",
       "there is an increase in direct taxes",
@@ -2533,7 +2533,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-211-628",
-    "questionText": "The return on investment that is just sufficient to satisfy the owner of a business is called (JAMB 2007)",
+    "questionText": "The return on investment that is just sufficient to satisfy the owner of a business is called",
     "options": [
       "economic profit",
       "business profit",
@@ -2545,7 +2545,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-212-308",
-    "questionText": "A fall in national output will necessitate (JAMB 2012)",
+    "questionText": "A fall in national output will necessitate",
     "options": [
       "a rise in expenditure on imports",
       "a rise in the level of savings",
@@ -2557,7 +2557,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-213-116",
-    "questionText": "Perfect price elastic supply means   (JAMB 2012)",
+    "questionText": "Perfect price elastic supply means",
     "options": [
       "No change in supply as price changes  ",
       "Any change in price completely stops supply  ",
@@ -2569,7 +2569,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-214-444",
-    "questionText": "The demand for money is (JAMB 2003)",
+    "questionText": "The demand for money is",
     "options": [
       "derived demand",
       "composite demand",
@@ -2581,7 +2581,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-215-570",
-    "questionText": "Standardization of products or services is a feature of (JAMB 2006)",
+    "questionText": "Standardization of products or services is a feature of",
     "options": [
       "large firms",
       "retailers",
@@ -2593,7 +2593,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-216-60",
-    "questionText": "The maximization of profit tends to be the driving force in the economics decision making of: (JAMB 2008)",
+    "questionText": "The maximization of profit tends to be the driving force in the economics decision making of:",
     "options": [
       "entrepreneurs. ",
       "Workers ",
@@ -2605,7 +2605,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-217-239",
-    "questionText": "Equilibrium price is the price at which quantity (JAMB 2010)",
+    "questionText": "Equilibrium price is the price at which quantity",
     "options": [
       "demanded is greater than quantity supplied",
       "supplied is greater than quantity demanded",
@@ -2617,7 +2617,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-218-74",
-    "questionText": "Which if this is likely to be inflationary  (JAMB 2009)",
+    "questionText": "Which if this is likely to be inflationary",
     "options": [
       "Tax increase ",
       "Budget surplus ",
@@ -2629,7 +2629,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-219-283",
-    "questionText": "When total utility is constant, it means marginal utility is (JAMB 2012)",
+    "questionText": "When total utility is constant, it means marginal utility is",
     "options": [
       "Increasing",
       "zero",
@@ -2641,7 +2641,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-220-78",
-    "questionText": "Deflation is persistence fall in price in the general price level and is usually caused by  (JAMB 2009)",
+    "questionText": "Deflation is persistence fall in price in the general price level and is usually caused by",
     "options": [
       "A reduction in total demand ",
       " An increase in government spending ",
@@ -2653,7 +2653,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-221-554",
-    "questionText": "ln a capitalist system, goods are produced for those who (JAMB 2005)",
+    "questionText": "ln a capitalist system, goods are produced for those who",
     "options": [
       "want them most but cannot pay for them",
       "can pay for them but do not want them",
@@ -2665,7 +2665,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-222-348",
-    "questionText": "The Basic Needs Approach to development is directed a (JAMB 2009)",
+    "questionText": "The Basic Needs Approach to development is directed a",
     "options": [
       "poverty alleviation",
       "provision of educational infrastructure",
@@ -2677,7 +2677,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-223-70",
-    "questionText": "Which of the following is regarded as fixed cost?  (JAMB 2008)",
+    "questionText": "Which of the following is regarded as fixed cost?",
     "options": [
       "Cost of raw materials ",
       "rent on land ",
@@ -2689,7 +2689,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-224-145",
-    "questionText": "Identify one among the following which is NOT part of the objectives or functions of the African Development Bank (ADB).  (JAMB 2013)",
+    "questionText": "Identify one among the following which is NOT part of the objectives or functions of the African Development Bank (ADB).",
     "options": [
       "Provision of technical assistance for development projects   ",
       "Provision of funds for the supply and demand of infrastructural facilities  ",
@@ -2701,7 +2701,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-225-506",
-    "questionText": "The national income of a country can be estimated by the (JAMB 2004)",
+    "questionText": "The national income of a country can be estimated by the",
     "options": [
       "cost-benefit method",
       "distribution method",
@@ -2713,7 +2713,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-226-169",
-    "questionText": "Productive efficiency refers to:  (JAMB 2010)",
+    "questionText": "Productive efficiency refers to:",
     "options": [
       "the use of the least-cost method of production ",
       "the production of the product-mix most wanted by society ",
@@ -2725,7 +2725,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-227-395",
-    "questionText": "The function of money which makes division of  labour \tpossible is its (JAMB 2010)",
+    "questionText": "The function of money which makes division of  labour \tpossible is its",
     "options": [
       "unit of account",
       "medium of exchange",
@@ -2737,7 +2737,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-228-326",
-    "questionText": "A supply curve is positively sloped because (JAMB 2009)",
+    "questionText": "A supply curve is positively sloped because",
     "options": [
       "supply always exceeds demand",
       "demand always exceeds supply",
@@ -2749,7 +2749,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-229-265",
-    "questionText": "In which of the following ways has (JAMB 2010)",
+    "questionText": "In which of the following ways has",
     "options": [
       "Increase in money supply",
       "A fall in real income",
@@ -2761,7 +2761,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-230-66",
-    "questionText": "Which of the following does not hinder the efficient distribution of goods in West Africa?  (JAMB 2008)",
+    "questionText": "Which of the following does not hinder the efficient distribution of goods in West Africa?",
     "options": [
       "Government participation in the distribution trade ",
       "Inadequate storage facilities for agricultural goods ",
@@ -2773,7 +2773,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-231-41",
-    "questionText": "Money market differs from capital market in that it.  (JAMB 2007)",
+    "questionText": "Money market differs from capital market in that it.",
     "options": [
       "deals with short-term loans while capital market deals with terms funds ",
       "deals with money only while capital market deals with capital as well ",
@@ -2785,7 +2785,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-232-402",
-    "questionText": "The ultimate aim of agricultural policies in Nigeria is to achieve (JAMB 2010)",
+    "questionText": "The ultimate aim of agricultural policies in Nigeria is to achieve",
     "options": [
       "food sufficiency",
       "full employment",
@@ -2797,7 +2797,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-233-203",
-    "questionText": "Which of the following is a luxury item? (JAMB 2001)",
+    "questionText": "Which of the following is a luxury item?",
     "options": [
       "Petrol",
       "Textbook",
@@ -2809,7 +2809,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-234-242",
-    "questionText": "The law of diminishing marginal utility states that, the more a commodity is consumed the (JAMB 2010)",
+    "questionText": "The law of diminishing marginal utility states that, the more a commodity is consumed the",
     "options": [
       "higher the satisfaction derived from an additional unit",
       "higher the price to be paid",
@@ -2821,7 +2821,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-235-95",
-    "questionText": "A major obstacle to economic development in many African countries  (JAMB 2009)",
+    "questionText": "A major obstacle to economic development in many African countries",
     "options": [
       "A rise in industrial output ",
       "Low farm productivity ",
@@ -2833,7 +2833,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-236-386",
-    "questionText": "A firm enjoying economics of scale is said to be (JAMB 2010)",
+    "questionText": "A firm enjoying economics of scale is said to be",
     "options": [
       "reducing average cost as production increases",
       "maximizing profits as production increases",
@@ -2845,7 +2845,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-237-383",
-    "questionText": "In perfect competition, price is determined by the (JAMB 2010)",
+    "questionText": "In perfect competition, price is determined by the",
     "options": [
       "Government",
       "buyers",
@@ -2857,7 +2857,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-238-403",
-    "questionText": "Government can boost agricultural output in Nigeria primarily by (JAMB 2010)",
+    "questionText": "Government can boost agricultural output in Nigeria primarily by",
     "options": [
       "embarking on buffer stock programs",
       "granting subsidies on farm Inputs",
@@ -2869,7 +2869,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-239-518",
-    "questionText": "Which of the following determines the sizes of a country’s population?    (l) Birth rate    (ll) Death rate     \n\t(lll) Migration rate     (lV) lmportation rate    (V) Unemployment (JAMB 2005)",
+    "questionText": "Which of the following determines the sizes of a country’s population?    (l) Birth rate    (ll) Death rate     \n\t(lll) Migration rate     (lV) lmportation rate    (V) Unemployment",
     "options": [
       "l), (ll) and (V)",
       "(ll) and (lV)",
@@ -2881,7 +2881,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-240-618",
-    "questionText": "The lower the price of a commodity, the greater the quantity demanded. This is based on the assumption that consumers’ (JAMB 2007)",
+    "questionText": "The lower the price of a commodity, the greater the quantity demanded. This is based on the assumption that consumers’",
     "options": [
       "income is diminished",
       "income remains the same",
@@ -2893,7 +2893,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-241-128",
-    "questionText": "The following is not correct   (JAMB 2012)",
+    "questionText": "The following is not correct",
     "options": [
       "Average variable cost equals average total cost minus average fixed cost   ",
       "Average fixed cost equals average variable cost minus average total cost  ",
@@ -2905,7 +2905,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-242-373",
-    "questionText": "If  the demand for a good is more elastic than its supply, the tax burden is borne (JAMB 2010)",
+    "questionText": "If  the demand for a good is more elastic than its supply, the tax burden is borne",
     "options": [
       "equally by consumers and producers",
       "more by consumers",
@@ -2917,7 +2917,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-243-89",
-    "questionText": "Optimum population is desirable because it enable an economy to attain maximum  (JAMB 2009)",
+    "questionText": "Optimum population is desirable because it enable an economy to attain maximum",
     "options": [
       "per capital income ",
       "per capital output ",
@@ -2929,7 +2929,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-244-137",
-    "questionText": "In the short run, all of the following are applicable except   (JAMB 2013)",
+    "questionText": "In the short run, all of the following are applicable except",
     "options": [
       "Output may be increased by changing all factors by the same proportion  ",
       "Diminishing returns   ",
@@ -2941,7 +2941,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-245-193",
-    "questionText": "The dispersal of people in a country is called (JAMB 2001)",
+    "questionText": "The dispersal of people in a country is called",
     "options": [
       "mobility of people",
       "geographical distribution",
@@ -2953,7 +2953,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-246-613",
-    "questionText": "A country where labour is not sufficient to make proper use of the natural resources is said to have an (JAMB 2007)",
+    "questionText": "A country where labour is not sufficient to make proper use of the natural resources is said to have an",
     "options": [
       "active population",
       "optimum population",
@@ -2965,7 +2965,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-247-168",
-    "questionText": "If the production possibilities, curve were a straight down sloping line, this would suggest that:  (JAMB 2010)",
+    "questionText": "If the production possibilities, curve were a straight down sloping line, this would suggest that:",
     "options": [
       "it is possible to produce  more of both products ",
       "resources are perfectly shift able between the production  of these two goods ",
@@ -2977,7 +2977,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-248-349",
-    "questionText": "The major reason why countries strive to achieve optimum growth is to (JAMB 2009)",
+    "questionText": "The major reason why countries strive to achieve optimum growth is to",
     "options": [
       "be self–sufficient",
       "raise general living standards",
@@ -2989,7 +2989,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-249-148",
-    "questionText": "In economics, a commodity is said to have an opportunity cost because   (JAMB 2013)",
+    "questionText": "In economics, a commodity is said to have an opportunity cost because",
     "options": [
       "The price of the commodity is high  ",
       "The commodity is scarce  ",
@@ -3001,7 +3001,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-250-412",
-    "questionText": "The choice of the method of production in an economy is determined by the (JAMB 2010)",
+    "questionText": "The choice of the method of production in an economy is determined by the",
     "options": [
       "level of income",
       "rate of population growth",
@@ -3013,7 +3013,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-251-532",
-    "questionText": "Wholesalers are often criticized because they (JAMB 2005)",
+    "questionText": "Wholesalers are often criticized because they",
     "options": [
       "help to break the bulk",
       "finance producers",
@@ -3025,7 +3025,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-252-279",
-    "questionText": "A supply curve which is vertical has an elasticity co-efficient of (JAMB 2012)",
+    "questionText": "A supply curve which is vertical has an elasticity co-efficient of",
     "options": [
       "0",
       "0.5",
@@ -3037,7 +3037,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-253-526",
-    "questionText": "At the equilibrium price, quantity demanded is (JAMB 2005)",
+    "questionText": "At the equilibrium price, quantity demanded is",
     "options": [
       "greater than quantity supplied",
       "equal to quantity supplied",
@@ -3049,7 +3049,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-254-346",
-    "questionText": "Cost–push inflation occurs when (JAMB 2009)",
+    "questionText": "Cost–push inflation occurs when",
     "options": [
       "production cost is high",
       "factor prices decrease",
@@ -3061,7 +3061,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-255-409",
-    "questionText": "One of  the characteristics of  free trade zone is (JAMB 2010)",
+    "questionText": "One of  the characteristics of  free trade zone is",
     "options": [
       "common tariff against non-member countries",
       "free factor mobility within the zone",
@@ -3073,7 +3073,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-256-171",
-    "questionText": "If depreciation exceeds gross investment:  (JAMB 2010)",
+    "questionText": "If depreciation exceeds gross investment:",
     "options": [
       "the economy’s stock of capital may be either growing or shrinking  ",
       "the economy’s stock of capital is growing ",
@@ -3085,7 +3085,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-257-480",
-    "questionText": "Demand for inferior good is an example of (JAMB 2004)",
+    "questionText": "Demand for inferior good is an example of",
     "options": [
       "expansion of demand",
       "contraction of demand",
@@ -3097,7 +3097,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-258-23",
-    "questionText": "The only essential attribute of the good currency is  (JAMB 2006)",
+    "questionText": "The only essential attribute of the good currency is",
     "options": [
       "scarcity ",
       "homogeneity",
@@ -3109,7 +3109,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-259-457",
-    "questionText": "The tax whose rate increases as the level of income increases is known as (JAMB 2003)",
+    "questionText": "The tax whose rate increases as the level of income increases is known as",
     "options": [
       "regressive tax",
       "proportional tax",
@@ -3121,7 +3121,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-260-576",
-    "questionText": "The market price of a commodity is normally determined by the (JAMB 2006)",
+    "questionText": "The market price of a commodity is normally determined by the",
     "options": [
       "law of demand",
       "interaction of the forces of demand and supply.",
@@ -3133,7 +3133,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-261-215",
-    "questionText": "In a public corporation, the risks of business are borne by the (JAMB 2001)",
+    "questionText": "In a public corporation, the risks of business are borne by the",
     "options": [
       "workers",
       "tax payers",
@@ -3145,7 +3145,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-262-130",
-    "questionText": "If the price of commodity X increases because of the increase in the price vis-à-vis the increase in demand  for other commodities are likely to be   (JAMB 2012)",
+    "questionText": "If the price of commodity X increases because of the increase in the price vis-à-vis the increase in demand  for other commodities are likely to be",
     "options": [
       "Complimentary  ",
       "Substitute  ",
@@ -3157,7 +3157,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-263-225",
-    "questionText": "Public expenditure can be financed from all the following sources except (JAMB 2001)",
+    "questionText": "Public expenditure can be financed from all the following sources except",
     "options": [
       "borrowing",
       "grant-in-aid",
@@ -3169,7 +3169,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-264-25",
-    "questionText": "The capitalist system is characterized by all the following except:  (JAMB 2007)",
+    "questionText": "The capitalist system is characterized by all the following except:",
     "options": [
       "private ownership of the means of production ",
       "Equitable distribution of income and wealth  ",
@@ -3181,7 +3181,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-265-482",
-    "questionText": "For both the monopolist and the perfectly competitive firm, profit maximizing output occurs at the point where the (JAMB 2004)",
+    "questionText": "For both the monopolist and the perfectly competitive firm, profit maximizing output occurs at the point where the",
     "options": [
       "marginal cost curve cuts the marginal revenue curve from below",
       "marginal revenue curve cuts the marginal output from above",
@@ -3193,7 +3193,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-266-65",
-    "questionText": "A recovery point on an indifference curve, the  (JAMB 2008)",
+    "questionText": "A recovery point on an indifference curve, the",
     "options": [
       "Total utility is decreasing ",
       "Level of utility is constant ",
@@ -3205,7 +3205,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-267-384",
-    "questionText": "In order to reduce hardship faced by consumers due to high prices, government can introduce (JAMB 2010)",
+    "questionText": "In order to reduce hardship faced by consumers due to high prices, government can introduce",
     "options": [
       "maximum prices",
       "minimum prices",
@@ -3217,7 +3217,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-268-318",
-    "questionText": "The privatization exercise in Nigeria is a move towards a (JAMB 2009)",
+    "questionText": "The privatization exercise in Nigeria is a move towards a",
     "options": [
       "mixed economy",
       "subsistence economy",
@@ -3229,7 +3229,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-269-369",
-    "questionText": "If  X = 6 and N = 6, determine the value of   Efx. (JAMB 2010)",
+    "questionText": "If  X = 6 and N = 6, determine the value of   Efx.",
     "options": [
       "36",
       "12",
@@ -3241,7 +3241,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-270-398",
-    "questionText": "One of the functions of commercial banks is (JAMB 2010)",
+    "questionText": "One of the functions of commercial banks is",
     "options": [
       "maintaining stable price in the economy",
       "granting loans to customers",
@@ -3253,7 +3253,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-271-602",
-    "questionText": "The formula “index of export prices” / “Index of import prices”   x 100   is used to measure the (JAMB 2006)",
+    "questionText": "The formula “index of export prices” / “Index of import prices”   x 100   is used to measure the",
     "options": [
       "volume of trade between countries",
       "direction of international trade",
@@ -3265,7 +3265,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-272-20",
-    "questionText": "The Multiplier is always the reciprocal of  (JAMB 2006)",
+    "questionText": "The Multiplier is always the reciprocal of",
     "options": [
       "MPC ",
       "MPS ",
@@ -3277,7 +3277,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-273-205",
-    "questionText": "The responsiveness of demand to a change in income is the measurement of (JAMB 2001)",
+    "questionText": "The responsiveness of demand to a change in income is the measurement of",
     "options": [
       "foreign exchange rate",
       "cross elasticity of demand",
@@ -3289,7 +3289,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-274-345",
-    "questionText": "A manufacturer who wants to build a new plant will source funds from the (JAMB 2009)",
+    "questionText": "A manufacturer who wants to build a new plant will source funds from the",
     "options": [
       "commercial banks",
       "money market",
@@ -3301,7 +3301,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-275-258",
-    "questionText": "The following are all factors determining the location of industry except (JAMB 2010)",
+    "questionText": "The following are all factors determining the location of industry except",
     "options": [
       "minimum wage rate",
       "availability of labour",
@@ -3313,7 +3313,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-276-466",
-    "questionText": "The three broad categories of production are (JAMB 2004)",
+    "questionText": "The three broad categories of production are",
     "options": [
       "direct, secondary and extractive",
       "primary, tertiary and direct",
@@ -3325,7 +3325,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-277-467",
-    "questionText": "A carpenter’s consumer good include:  I.  a kilogram of rice II.  3 pairs of shoes    III.  4 pairs of socks   IV. 3 screw-drivers (JAMB 2004)",
+    "questionText": "A carpenter’s consumer good include:  I.  a kilogram of rice II.  3 pairs of shoes    III.  4 pairs of socks   IV. 3 screw-drivers",
     "options": [
       "I and IV only",
       "I, II, III and IV",
@@ -3337,7 +3337,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-278-362",
-    "questionText": "High dependency ratio is influenced by (JAMB 2009)",
+    "questionText": "High dependency ratio is influenced by",
     "options": [
       "high infant mortality rate",
       "the level of income",
@@ -3349,7 +3349,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-279-188",
-    "questionText": "Quasi-rent refers to (JAMB 2001)",
+    "questionText": "Quasi-rent refers to",
     "options": [
       "Payment made on acquisition of firm’s premises",
       "Payment  made  for  the  procurement  of  tools  and equipment",
@@ -3361,7 +3361,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-280-120",
-    "questionText": "Ordinary shareholders and preferential shareholders are different because  (JAMB 2012)",
+    "questionText": "Ordinary shareholders and preferential shareholders are different because",
     "options": [
       "Preferential shareholders participate and can vote and be voted for during the  AGM  ",
       "ordinary shareholders are given priority in case the company is liquidated  ",
@@ -3373,7 +3373,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-281-300",
-    "questionText": "Which of the following is not a consequence of increased unemployment? (JAMB 2012)",
+    "questionText": "Which of the following is not a consequence of increased unemployment?",
     "options": [
       "A fall in tax revenue for the government",
       "A reduction in trade union’s influence",
@@ -3385,7 +3385,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-282-247",
-    "questionText": "All the following are sources of finance to a joint stock company except (JAMB 2010)",
+    "questionText": "All the following are sources of finance to a joint stock company except",
     "options": [
       "debentures",
       "cooperative loans",
@@ -3397,7 +3397,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-283-601",
-    "questionText": "An increase in the quantity of goods and services produced \tin a country which raises her national income is known as (JAMB 2006)",
+    "questionText": "An increase in the quantity of goods and services produced \tin a country which raises her national income is known as",
     "options": [
       "economic development",
       "economic growth",
@@ -3409,7 +3409,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-284-437",
-    "questionText": "The most common type of business in West African countries is (JAMB 2003)",
+    "questionText": "The most common type of business in West African countries is",
     "options": [
       "joint stock companies",
       "sole proprietorships",
@@ -3421,7 +3421,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-285-162",
-    "questionText": "In economics, the pleasure, happiness, or satisfaction received from a product is called:  (JAMB 2010)",
+    "questionText": "In economics, the pleasure, happiness, or satisfaction received from a product is called:",
     "options": [
       "Marginal cost ",
       "Rational outcome ",
@@ -3433,7 +3433,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-286-36",
-    "questionText": "The supply and demand for goods and service are influenced by the  (JAMB 2007)",
+    "questionText": "The supply and demand for goods and service are influenced by the",
     "options": [
       "Super markets ",
       "Entrepreneurs ",
@@ -3445,7 +3445,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-287-280",
-    "questionText": "If the current price of an apple is twice that of last year, it implies that the value of money is (JAMB 2012)",
+    "questionText": "If the current price of an apple is twice that of last year, it implies that the value of money is",
     "options": [
       "Stable",
       "falling",
@@ -3457,7 +3457,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-288-434",
-    "questionText": "A normal demand curve slopes (JAMB 2003)",
+    "questionText": "A normal demand curve slopes",
     "options": [
       "downwards from left to right",
       "upwards from left to right",
@@ -3469,7 +3469,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-289-240",
-    "questionText": "A decrease in supply with demand remaining unchanged will cause the equilibrium price for a good to (JAMB 2010)",
+    "questionText": "A decrease in supply with demand remaining unchanged will cause the equilibrium price for a good to",
     "options": [
       "be unchanged",
       "remain elastic",
@@ -3481,7 +3481,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-290-591",
-    "questionText": "A cheque book is issued to customers of a bank operating a (JAMB 2006)",
+    "questionText": "A cheque book is issued to customers of a bank operating a",
     "options": [
       "savings account",
       "time deposit account",
@@ -3493,7 +3493,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-291-312",
-    "questionText": "One profitable form of business undertaken by the commercial banks is (JAMB 2012)",
+    "questionText": "One profitable form of business undertaken by the commercial banks is",
     "options": [
       "the issuing of cheques",
       "the payment of standing order",
@@ -3505,7 +3505,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-292-608",
-    "questionText": "The three principal economic units in any system are (JAMB 2007)",
+    "questionText": "The three principal economic units in any system are",
     "options": [
       "trade, industry and banking",
       "workers, consumers and shareholder",
@@ -3517,7 +3517,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-293-12",
-    "questionText": "A deficit budget is usually drawn up during  (JAMB 2006)",
+    "questionText": "A deficit budget is usually drawn up during",
     "options": [
       "economic buoyancy ",
       "inflationary period ",
@@ -3529,7 +3529,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-294-475",
-    "questionText": "Natural growth rate is (JAMB 2004)",
+    "questionText": "Natural growth rate is",
     "options": [
       "birth rate less death rate",
       "death rate less migration",
@@ -3541,7 +3541,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-295-212",
-    "questionText": "The monopolist power can be controlled by the government through (JAMB 2001)",
+    "questionText": "The monopolist power can be controlled by the government through",
     "options": [
       "Labour union",
       "Price legislation",
@@ -3553,7 +3553,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-296-418",
-    "questionText": "The reward for labour is (JAMB 2003)",
+    "questionText": "The reward for labour is",
     "options": [
       "wages",
       "profit",
@@ -3565,7 +3565,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-297-183",
-    "questionText": "Allocative efficiency occurs only at that output where:  (JAMB 2010)",
+    "questionText": "Allocative efficiency occurs only at that output where:",
     "options": [
       "marginal benefit exceeds marginal cost the by greatest ",
       "consumer surplus exceeds producer surplus by the greatest amount ",
@@ -3577,7 +3577,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-298-495",
-    "questionText": "Which of the following is not a direct effort to increase agricultural production? (JAMB 2004)",
+    "questionText": "Which of the following is not a direct effort to increase agricultural production?",
     "options": [
       "Operation feed the nation",
       "Use of improved seedlings",
@@ -3589,7 +3589,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788679734092-299-583",
-    "questionText": "For a monopolist, the average revenue (AR) curve is  above (JAMB 2006)",
+    "questionText": "For a monopolist, the average revenue (AR) curve is  above",
     "options": [
       "the total cost curve",
       "the same as the marginal cost curve",
@@ -3601,7 +3601,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-0-478",
-    "questionText": "The distribution of goods is said to be completed when it reaches the (JAMB 2004)",
+    "questionText": "The distribution of goods is said to be completed when it reaches the",
     "options": [
       "wholesalers",
       "consumers",
@@ -3613,7 +3613,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-1-471",
-    "questionText": "The concept of opportunity cost is important to the firm because it (JAMB 2004)",
+    "questionText": "The concept of opportunity cost is important to the firm because it",
     "options": [
       "determines the prices of the firm’s products",
       "increases the level of output of the firm",
@@ -3625,7 +3625,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-2-624",
-    "questionText": "Which of the following is a characteristic of monopoly? (JAMB 2007)",
+    "questionText": "Which of the following is a characteristic of monopoly?",
     "options": [
       "Many sellers",
       "Homogeneous commodity.",
@@ -3637,7 +3637,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-3-635",
-    "questionText": "Long-term loans can be secured from (JAMB 2007)",
+    "questionText": "Long-term loans can be secured from",
     "options": [
       "commercial banks",
       "discount houses",
@@ -3649,7 +3649,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-4-48",
-    "questionText": " If the equation relating consumption (C) to income (Y) is C= N7,500 + 0.2Y, then  (JAMB 2008)",
+    "questionText": " If the equation relating consumption (C) to income (Y) is C= N7,500 + 0.2Y, then",
     "options": [
       "consumption is inversely related to income",
       "consumption is the independent inversely related to income is the dependent variable",
@@ -3661,7 +3661,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-5-1",
-    "questionText": "Which of the following is the best general definition of the study of economics?  (JAMB 2006)",
+    "questionText": "Which of the following is the best general definition of the study of economics?",
     "options": [
       "the best way invest in the stock market",
       "business decision making under foreign competition",
@@ -3673,7 +3673,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-6-656",
-    "questionText": "Which of the following are examples of transfer payments? (JAMB 2007)",
+    "questionText": "Which of the following are examples of transfer payments?",
     "options": [
       "Gifts and donations",
       "Rents and rates",
@@ -3685,7 +3685,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-7-586",
-    "questionText": ".\n\nWhich of the following is a legal tender in West Africa? (JAMB 2006)",
+    "questionText": ".\n\nWhich of the following is a legal tender in West Africa?",
     "options": [
       "Treasury bill",
       "Share",
@@ -3697,7 +3697,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-8-213",
-    "questionText": "Which of the following is not a condition for a perfect market? (JAMB 2001)",
+    "questionText": "Which of the following is not a condition for a perfect market?",
     "options": [
       "Homogenous commodity",
       "Ignorance of consumers",
@@ -3709,7 +3709,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-9-441",
-    "questionText": "The economic goal of public corporations is to (JAMB 2003)",
+    "questionText": "The economic goal of public corporations is to",
     "options": [
       "maximize profit",
       "expand assets",
@@ -3721,7 +3721,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-10-191",
-    "questionText": "The difference between the highest and lowest in a set of data is the (JAMB 2001)",
+    "questionText": "The difference between the highest and lowest in a set of data is the",
     "options": [
       "Range",
       "median",
@@ -3733,7 +3733,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-11-73",
-    "questionText": "If a person receives a higher wage than would be necessary to induce him to work, he is be receiving (JAMB 2009)",
+    "questionText": "If a person receives a higher wage than would be necessary to induce him to work, he is be receiving",
     "options": [
       "rent",
       "profit",
@@ -3745,7 +3745,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-12-519",
-    "questionText": "Age distribution is important because it helps the \tgovernment to (JAMB 2005)",
+    "questionText": "Age distribution is important because it helps the \tgovernment to",
     "options": [
       "check rural-urban drift",
       "determine the number of foreigners",
@@ -3757,7 +3757,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-13-259",
-    "questionText": "Which of the following is not a concept in National income accounting? (JAMB 2010)",
+    "questionText": "Which of the following is not a concept in National income accounting?",
     "options": [
       "Domestic National Product (DNP)",
       "Gross National Product (GNP)",
@@ -3769,7 +3769,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-14-336",
-    "questionText": "The shape of the long-run average cost curve is best explained by the (JAMB 2009)",
+    "questionText": "The shape of the long-run average cost curve is best explained by the",
     "options": [
       "law of diminishing returns",
       "law of returns to scale",
@@ -3781,7 +3781,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-15-245",
-    "questionText": "The reward to land as a factor of production is (JAMB 2010)",
+    "questionText": "The reward to land as a factor of production is",
     "options": [
       "Profit",
       "rent",
@@ -3793,7 +3793,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-16-305",
-    "questionText": "National income is used to measure (JAMB 2012)",
+    "questionText": "National income is used to measure",
     "options": [
       "a country’s population size",
       "a country’s economic growth",
@@ -3805,7 +3805,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-17-85",
-    "questionText": "The marginal theory of distribution makes an assertion that the price of any factor depends upon its marginal  (JAMB 2009)",
+    "questionText": "The marginal theory of distribution makes an assertion that the price of any factor depends upon its marginal",
     "options": [
       "Unity",
       "Productivity",
@@ -3817,7 +3817,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-18-561",
-    "questionText": "Which of the following tools of economic analysis is used when data contains more than one category? (JAMB 2006)",
+    "questionText": "Which of the following tools of economic analysis is used when data contains more than one category?",
     "options": [
       "Bars charts",
       "Component bar charts",
@@ -3829,7 +3829,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-19-321",
-    "questionText": "A cumulative frequency graph is (JAMB 2009)",
+    "questionText": "A cumulative frequency graph is",
     "options": [
       "a histogram",
       "an ogive",
@@ -3841,7 +3841,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-20-163",
-    "questionText": "A person should consume more of something when its marginal:  (JAMB 2010)",
+    "questionText": "A person should consume more of something when its marginal:",
     "options": [
       "benefit exceeds its marginal cost",
       "cost benefit",
@@ -3853,7 +3853,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-21-354",
-    "questionText": "The major problem confronting a sole proprietor is (JAMB 2009)",
+    "questionText": "The major problem confronting a sole proprietor is",
     "options": [
       "high level of risk",
       "limited expertise",
@@ -3865,7 +3865,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-22-236",
-    "questionText": "Which of the following causes the demand curve to shift to the right? (JAMB 2010)",
+    "questionText": "Which of the following causes the demand curve to shift to the right?",
     "options": [
       "A reduction in the size of population",
       "An increase in the income of the buyer",
@@ -3877,7 +3877,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-23-40",
-    "questionText": "A producer sustains a loss in the short run if?  (JAMB 2007)",
+    "questionText": "A producer sustains a loss in the short run if?",
     "options": [
       "marginal revenue is less than price",
       "price is less than average cost",
@@ -3889,7 +3889,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-24-222",
-    "questionText": "One disadvantage of inflation is that (JAMB 2001)",
+    "questionText": "One disadvantage of inflation is that",
     "options": [
       "fixed income earners gain",
       "fixed income earners lose",
@@ -3901,7 +3901,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-25-11",
-    "questionText": "Which tends to be a progressive tax in Nigeria?  (JAMB 2006)",
+    "questionText": "Which tends to be a progressive tax in Nigeria?",
     "options": [
       "income tax",
       "property tax",
@@ -3913,7 +3913,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-26-49",
-    "questionText": "Which of the following best describes a perfectly inelastic demand function?  (JAMB 2008)",
+    "questionText": "Which of the following best describes a perfectly inelastic demand function?",
     "options": [
       "The quantity demand is insensitive to changes in price",
       "Price is insensitive changes in quantity",
@@ -3925,7 +3925,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-27-210",
-    "questionText": "When the government initiates measures to make an organization in which it has substantial interest more profit \toriented, such a business is described as being (JAMB 2001)",
+    "questionText": "When the government initiates measures to make an organization in which it has substantial interest more profit \toriented, such a business is described as being",
     "options": [
       "indigenized",
       "restructured",
@@ -3937,7 +3937,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-28-34",
-    "questionText": "The burden of tax on a commodity whose demand is infinitely inelastic  (JAMB 2007)",
+    "questionText": "The burden of tax on a commodity whose demand is infinitely inelastic",
     "options": [
       "is Zero",
       "will be borne by sellers alone",
@@ -3949,7 +3949,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-29-208",
-    "questionText": "Industries are not sited in most rural areas of Nigeria because (JAMB 2001)",
+    "questionText": "Industries are not sited in most rural areas of Nigeria because",
     "options": [
       "of inadequate basic infrastructure",
       "they lack raw materials",
@@ -3961,7 +3961,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-30-269",
-    "questionText": "The function of the Central Bank as a lender of last resort means that when all other sources fail (JAMB 2010)",
+    "questionText": "The function of the Central Bank as a lender of last resort means that when all other sources fail",
     "options": [
       "the consumer can always borrow money from the Central Bank",
       "the government can ask the Central Bank to print more money",
@@ -3973,7 +3973,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-31-192",
-    "questionText": "In which of the following economic systems is the consumer referred to as King? (JAMB 2001)",
+    "questionText": "In which of the following economic systems is the consumer referred to as King?",
     "options": [
       "Capitalist economy",
       "Socialist economy",
@@ -3985,7 +3985,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-32-5",
-    "questionText": "If the price of Pepsi decrease relative to the price of coke and 7-up the demand for  (JAMB 2006)",
+    "questionText": "If the price of Pepsi decrease relative to the price of coke and 7-up the demand for",
     "options": [
       "coke will decrease",
       "7-up will decrease",
@@ -3997,7 +3997,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-33-194",
-    "questionText": "In a country with ageing population, the total population (JAMB 2001)",
+    "questionText": "In a country with ageing population, the total population",
     "options": [
       "comprises young school leavers only",
       "comprises mainly women",
@@ -4009,7 +4009,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-34-230",
-    "questionText": "Which of the following is associated with the development of the petroleum industry in Nigeria? (JAMB 2001)",
+    "questionText": "Which of the following is associated with the development of the petroleum industry in Nigeria?",
     "options": [
       "Neglect of agriculture",
       "Increase in population growth",
@@ -4021,7 +4021,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-35-491",
-    "questionText": "Which of the following is an advantage of  localization of industry? (JAMB 2004)",
+    "questionText": "Which of the following is an advantage of  localization of industry?",
     "options": [
       "Development of subsidiary firms",
       "Creation of parallel markets",
@@ -4033,7 +4033,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-36-334",
-    "questionText": "Which of the following can be deduced from law of variable proportions when total output is rising? (JAMB 2009)",
+    "questionText": "Which of the following can be deduced from law of variable proportions when total output is rising?",
     "options": [
       "MP is greater than AP",
       "MP is less than AP",
@@ -4045,7 +4045,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-37-463",
-    "questionText": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a (JAMB 2003)",
+    "questionText": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a",
     "options": [
       "perfect competition",
       "monopsony",
@@ -4057,7 +4057,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-38-263",
-    "questionText": "Which of the following is not a reason for holding money? (JAMB 2010)",
+    "questionText": "Which of the following is not a reason for holding money?",
     "options": [
       "Ostentation",
       "Speculation",
@@ -4069,7 +4069,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-39-231",
-    "questionText": "The following are examples of economic goods except (JAMB 2010)",
+    "questionText": "The following are examples of economic goods except",
     "options": [
       "bottled water",
       "air",
@@ -4081,7 +4081,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-40-551",
-    "questionText": "One reason for the low agricultural production in West African countries is that (JAMB 2005)",
+    "questionText": "One reason for the low agricultural production in West African countries is that",
     "options": [
       "agriculture employs the highest percentage of the labour force",
       "too much money is invested in agriculture",
@@ -4093,7 +4093,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-41-322",
-    "questionText": "A movement along the same demand curve is caused by the (JAMB 2009)",
+    "questionText": "A movement along the same demand curve is caused by the",
     "options": [
       "price of the product",
       "price of other products",
@@ -4105,7 +4105,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-42-476",
-    "questionText": "A major effect of aging populations is (JAMB 2004)",
+    "questionText": "A major effect of aging populations is",
     "options": [
       "reduced labour force",
       "rise in prices of commodities",
@@ -4117,7 +4117,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-43-176",
-    "questionText": "The amount by which government expenditures exceed revenues during a particular year is the:  (JAMB 2010)",
+    "questionText": "The amount by which government expenditures exceed revenues during a particular year is the:",
     "options": [
       "public debt",
       "budget deficit",
@@ -4129,7 +4129,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-44-647",
-    "questionText": "If the population of a country is low and the Gross National Product is high, the per capita income will be (JAMB 2007)",
+    "questionText": "If the population of a country is low and the Gross National Product is high, the per capita income will be",
     "options": [
       "high",
       "low",
@@ -4141,7 +4141,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-45-653",
-    "questionText": "The practice of selling goods overseas and often below the cost of production is known as (JAMB 2007)",
+    "questionText": "The practice of selling goods overseas and often below the cost of production is known as",
     "options": [
       "retailing",
       "dumping",
@@ -4153,7 +4153,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-46-24",
-    "questionText": "Economic is founded on the principle that:  (JAMB 2007)",
+    "questionText": "Economic is founded on the principle that:",
     "options": [
       "Human wants are more than human needs",
       "Material things are more than human wants",
@@ -4165,7 +4165,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-47-158",
-    "questionText": "Which of the following is one of the responsibilities of the Central Bank of Nigeria?  (JAMB 2013)",
+    "questionText": "Which of the following is one of the responsibilities of the Central Bank of Nigeria?",
     "options": [
       "issuing new bond to finance public sector borrowing requirements",
       "auditing the various agencies and departments of government",
@@ -4177,7 +4177,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-48-84",
-    "questionText": "The monetary system that requires double coincidence of wants is known as  (JAMB 2009)",
+    "questionText": "The monetary system that requires double coincidence of wants is known as",
     "options": [
       "The gold standard",
       "The gold standard",
@@ -4189,7 +4189,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-49-109",
-    "questionText": "Which of the following is NOT True of a market demand schedule?  (JAMB 2011)",
+    "questionText": "Which of the following is NOT True of a market demand schedule?",
     "options": [
       "it is a schedule of all consumers of a commodity in a market",
       "it is the aggregate demand schedule of all consumers of a commodity in a market",
@@ -4201,7 +4201,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-50-58",
-    "questionText": "A production possibility curve shows  (JAMB 2008)",
+    "questionText": "A production possibility curve shows",
     "options": [
       "how much of the resources of society are used to produce a particular commodity",
       "the rate of inflation",
@@ -4213,7 +4213,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-51-513",
-    "questionText": "The 150.00 Naira which Olu would have used to purchase a textbook was used to buy a T-shirt. This implies that (JAMB 2005)",
+    "questionText": "The 150.00 Naira which Olu would have used to purchase a textbook was used to buy a T-shirt. This implies that",
     "options": [
       "Olu’s real cost is 150.00 Naira",
       "Olu’s opportunity cost is the T-shirt",
@@ -4225,7 +4225,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-52-432",
-    "questionText": "Which of the following could be  used  to  measure  the efficiency of labour? (JAMB 2003)",
+    "questionText": "Which of the following could be  used  to  measure  the efficiency of labour?",
     "options": [
       "Education and training",
       "Rate of inflation",
@@ -4237,7 +4237,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-53-359",
-    "questionText": "Industries for consumer goods are concentrated in urban centres as result of (JAMB 2009)",
+    "questionText": "Industries for consumer goods are concentrated in urban centres as result of",
     "options": [
       "large market",
       "power supply",
@@ -4249,7 +4249,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-54-51",
-    "questionText": "Which of the following statement is true?  (JAMB 2008)",
+    "questionText": "Which of the following statement is true?",
     "options": [
       "if cross price elasticity that of demand between two goals, A and B, is negative we can conclude that A and B are substitutes",
       "the co-efficient of elasticity of demand is measured as a ration of change in quantity demand to change in price",
@@ -4261,7 +4261,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-55-626",
-    "questionText": "The practice whereby a business is owned by two or more independent firms is termed (JAMB 2007)",
+    "questionText": "The practice whereby a business is owned by two or more independent firms is termed",
     "options": [
       "indigenization",
       "joint venture",
@@ -4273,7 +4273,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-56-527",
-    "questionText": "lf the government fixed a price of a commodity above the equilibrium price, the quantity supplied will be (JAMB 2005)",
+    "questionText": "lf the government fixed a price of a commodity above the equilibrium price, the quantity supplied will be",
     "options": [
       "less than quantity demanded",
       "equal to the quantity demanded",
@@ -4285,7 +4285,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-57-619",
-    "questionText": "The demand for beans in bags is given by the function Q - 36 + 0.4P = 0. Where P is price in Naira and Q is quantity, find Q when P = 20 Naira. (JAMB 2007)",
+    "questionText": "The demand for beans in bags is given by the function Q - 36 + 0.4P = 0. Where P is price in Naira and Q is quantity, find Q when P = 20 Naira.",
     "options": [
       "12 bags",
       "24 bags",
@@ -4297,7 +4297,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-58-528",
-    "questionText": "One of the factors determining price elasticity of demand for a commodity is the (JAMB 2005)",
+    "questionText": "One of the factors determining price elasticity of demand for a commodity is the",
     "options": [
       "availability of close substitutes",
       "number of producers",
@@ -4309,7 +4309,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-59-592",
-    "questionText": "Amount proposed for payments of wages and salaries in a budget is regarded as part of (JAMB 2006)",
+    "questionText": "Amount proposed for payments of wages and salaries in a budget is regarded as part of",
     "options": [
       "recurrent expenditure",
       "direct investment",
@@ -4321,7 +4321,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-60-598",
-    "questionText": "In a rapidly growing economy, a change in technology which is labour saving is likely to cause (JAMB 2006)",
+    "questionText": "In a rapidly growing economy, a change in technology which is labour saving is likely to cause",
     "options": [
       "residual unemployment",
       "structure unemployment",
@@ -4333,7 +4333,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-61-266",
-    "questionText": "Which of the following is a legal tender? (JAMB 2010)",
+    "questionText": "Which of the following is a legal tender?",
     "options": [
       "Bank notes",
       "Bank overdrafts",
@@ -4345,7 +4345,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-62-455",
-    "questionText": "Governments of West African countries levy taxes to (JAMB 2003)",
+    "questionText": "Governments of West African countries levy taxes to",
     "options": [
       "prevent prices from falling",
       "make people richer",
@@ -4357,7 +4357,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-63-411",
-    "questionText": "One of  the objectives of ADB is to (JAMB 2010)",
+    "questionText": "One of  the objectives of ADB is to",
     "options": [
       "provide subsidies on imported goods to members countries",
       "promote economic and social development of member countries",
@@ -4369,7 +4369,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-64-372",
-    "questionText": "The most popular sizes of dresses and shoes are determined by the (JAMB 2010)",
+    "questionText": "The most popular sizes of dresses and shoes are determined by the",
     "options": [
       "Range",
       "mode",
@@ -4381,7 +4381,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-65-642",
-    "questionText": "If tax takes a larger proportion of the income of people with \tlower income, the tax is (JAMB 2007)",
+    "questionText": "If tax takes a larger proportion of the income of people with \tlower income, the tax is",
     "options": [
       "progressive",
       "proportional",
@@ -4393,7 +4393,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-66-67",
-    "questionText": "Which of the following is the most important reason why wages differ among occupation?  (JAMB 2008)",
+    "questionText": "Which of the following is the most important reason why wages differ among occupation?",
     "options": [
       "Length and cost of training",
       "Supply of Labour",
@@ -4405,7 +4405,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-67-343",
-    "questionText": "The ability of commercial banks to create money depends on the (JAMB 2009)",
+    "questionText": "The ability of commercial banks to create money depends on the",
     "options": [
       "Ratio",
       "liquidity ratio",
@@ -4417,7 +4417,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-68-439",
-    "questionText": "One advantage of the sole proprietorship is that (JAMB 2003)",
+    "questionText": "One advantage of the sole proprietorship is that",
     "options": [
       "control and supervision is under one man",
       "accounts must be publicized",
@@ -4429,7 +4429,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-69-246",
-    "questionText": "A firm is said to be a public joint stock company when it (JAMB 2010)",
+    "questionText": "A firm is said to be a public joint stock company when it",
     "options": [
       "is owned by the government",
       "sells its shares to members of the public",
@@ -4441,7 +4441,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-70-523",
-    "questionText": "Price control refers to (JAMB 2005)",
+    "questionText": "Price control refers to",
     "options": [
       "the ways of making more goods available in the market",
       "a policy of ensuring stable price in the market",
@@ -4453,7 +4453,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069182-71-358",
-    "questionText": "In Nigeria, the location of a steel industry at Ajaokuta is due to (JAMB 2009)",
+    "questionText": "In Nigeria, the location of a steel industry at Ajaokuta is due to",
     "options": [
       "the availability of transport network",
       "the proximity to source of power",
@@ -4465,7 +4465,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-72-104",
-    "questionText": "Marginal Produce (MP) is best defined as  (JAMB 2011)",
+    "questionText": "Marginal Produce (MP) is best defined as",
     "options": [
       "Total produce/no of labour",
       "Change in total product/ change in variable factor",
@@ -4477,7 +4477,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-73-368",
-    "questionText": "The downturn in the prices of shares on stock markets is a \thighlight of (JAMB 2010)",
+    "questionText": "The downturn in the prices of shares on stock markets is a \thighlight of",
     "options": [
       "efficient allocation of resources",
       "the regulatory nature of the market",
@@ -4489,7 +4489,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-74-22",
-    "questionText": "Economic freedom is brought about by the existence of  (JAMB 2006)",
+    "questionText": "Economic freedom is brought about by the existence of",
     "options": [
       "Government",
       "Money",
@@ -4501,7 +4501,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-75-97",
-    "questionText": "The basic concepts of Economics are  (JAMB 2011)",
+    "questionText": "The basic concepts of Economics are",
     "options": [
       "choice, scarcity, resources and efficiency",
       "wants, scarcity, choice, scale of preference and opportunity cost",
@@ -4513,7 +4513,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-76-143",
-    "questionText": "If a market for good X is in disequilibrium, which of the following statements is true about the quantity of X that is actually exchanged?   (JAMB 2013)",
+    "questionText": "If a market for good X is in disequilibrium, which of the following statements is true about the quantity of X that is actually exchanged?",
     "options": [
       "It is determined by the forces of demand",
       "it is determined by the forces of supply",
@@ -4525,7 +4525,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-77-241",
-    "questionText": "At the highest level of total utility, marginal utility is (JAMB 2010)",
+    "questionText": "At the highest level of total utility, marginal utility is",
     "options": [
       "Negative",
       "positive and falling",
@@ -4537,7 +4537,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-78-415",
-    "questionText": "The three major agents of an economic system are the (JAMB 2003)",
+    "questionText": "The three major agents of an economic system are the",
     "options": [
       "consumers, workers and producers",
       "markets, telecommunication and banks",
@@ -4549,7 +4549,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-79-407",
-    "questionText": "The maximum number of shareholders  for a limited liability company is (JAMB 2010)",
+    "questionText": "The maximum number of shareholders  for a limited liability company is",
     "options": [
       "Twenty",
       "seven",
@@ -4561,7 +4561,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-80-254",
-    "questionText": "An efficient weapon used in resolving disputes between employers and employees is (JAMB 2010)",
+    "questionText": "An efficient weapon used in resolving disputes between employers and employees is",
     "options": [
       "co – operation",
       "collective bargaining",
@@ -4573,7 +4573,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-81-435",
-    "questionText": "If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is (JAMB 2003)",
+    "questionText": "If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is",
     "options": [
       "0",
       "1",
@@ -4585,7 +4585,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-82-355",
-    "questionText": "A public liability company is run on a daily basis by (JAMB 2009)",
+    "questionText": "A public liability company is run on a daily basis by",
     "options": [
       "the chief executive",
       "the shareholders",
@@ -4597,7 +4597,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-83-599",
-    "questionText": "Which of the following is a form of tax evasion? (JAMB 2006)",
+    "questionText": "Which of the following is a form of tax evasion?",
     "options": [
       "Wrong declaration of earnings",
       "Payments of flat rate tax",
@@ -4609,7 +4609,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-84-364",
-    "questionText": "The mobility of labour is mainly determined by (JAMB 2009)",
+    "questionText": "The mobility of labour is mainly determined by",
     "options": [
       "the age of workers",
       "government policy",
@@ -4621,7 +4621,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-85-571",
-    "questionText": "The amount of satisfaction obtained from the consumption of a commodity at a particular time is called (JAMB 2006)",
+    "questionText": "The amount of satisfaction obtained from the consumption of a commodity at a particular time is called",
     "options": [
       "marginal utility",
       "diminishing utility",
@@ -4633,7 +4633,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-86-10",
-    "questionText": "Which of the following is an economic cost  (JAMB 2006)",
+    "questionText": "Which of the following is an economic cost",
     "options": [
       "uninsurable risk",
       "normal profit",
@@ -4645,7 +4645,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-87-103",
-    "questionText": "The following are advantages of socialism except  (JAMB 2011)",
+    "questionText": "The following are advantages of socialism except",
     "options": [
       "equitable distribution of resources",
       "absence of exploitation",
@@ -4657,7 +4657,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-88-218",
-    "questionText": "The Quantity Theory of money states that a reduction in the quantity of money in circulation would bring about (JAMB 2001)",
+    "questionText": "The Quantity Theory of money states that a reduction in the quantity of money in circulation would bring about",
     "options": [
       "a geometrical fall in prices",
       "a proprotionate fall in price",
@@ -4669,7 +4669,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-89-504",
-    "questionText": "A surplus in the balance of payments should be used to (JAMB 2004)",
+    "questionText": "A surplus in the balance of payments should be used to",
     "options": [
       "subsidize multi-national companies",
       "build infrastructure for friendly nations",
@@ -4681,7 +4681,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-90-110",
-    "questionText": "Supply is said to be inelastic when the coefficient of elasticity of supply is  (JAMB 2011)",
+    "questionText": "Supply is said to be inelastic when the coefficient of elasticity of supply is",
     "options": [
       "2.5",
       "0.5",
@@ -4693,7 +4693,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-91-512",
-    "questionText": "A list of consumers’ wants arranged in order of priority is known as (JAMB 2005)",
+    "questionText": "A list of consumers’ wants arranged in order of priority is known as",
     "options": [
       "a budget",
       "an opportunity cost",
@@ -4705,7 +4705,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-92-499",
-    "questionText": "One disadvantage of direct taxes is that (JAMB 2004)",
+    "questionText": "One disadvantage of direct taxes is that",
     "options": [
       "government’s revenue is reduced",
       "price of essential commodities fall",
@@ -4717,7 +4717,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-93-393",
-    "questionText": "A decrease in aggregate spending in an economy will ultimately lead to (JAMB 2010)",
+    "questionText": "A decrease in aggregate spending in an economy will ultimately lead to",
     "options": [
       "Boom",
       "deflation",
@@ -4729,7 +4729,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-94-379",
-    "questionText": "If a consumer plans to spend 120k on four oranges but spent 80k, his consumer surplus is (JAMB 2010)",
+    "questionText": "If a consumer plans to spend 120k on four oranges but spent 80k, his consumer surplus is",
     "options": [
       "N = 1.50",
       "N = 1.00",
@@ -4741,7 +4741,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-95-392",
-    "questionText": "In national income accounting, tax is determined by the (JAMB 2010)",
+    "questionText": "In national income accounting, tax is determined by the",
     "options": [
       "level of income",
       "level of investment",
@@ -4753,7 +4753,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-96-14",
-    "questionText": "The liability of a sole trade is (JAMB 2006)",
+    "questionText": "The liability of a sole trade is",
     "options": [
       "indeterminate",
       "unlimited",
@@ -4765,7 +4765,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-97-274",
-    "questionText": "An arrangement of data in rows and columns is referred to as a (JAMB 2012)",
+    "questionText": "An arrangement of data in rows and columns is referred to as a",
     "options": [
       "Graph",
       "bar chart",
@@ -4777,7 +4777,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-98-655",
-    "questionText": "4Which of the following countries export cocoa? (JAMB 2007)",
+    "questionText": "4Which of the following countries export cocoa?",
     "options": [
       "Liberia and The Gambia",
       "Ghana and Sierra Leone",
@@ -4789,7 +4789,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-99-509",
-    "questionText": "A major achievement of  the  Organization  of  Petroleum Exporting Countries (OPEC) is that (JAMB 2004)",
+    "questionText": "A major achievement of  the  Organization  of  Petroleum Exporting Countries (OPEC) is that",
     "options": [
       "crude oil price has increased tremendously",
       "petroleum products prices have remained low",
@@ -4801,7 +4801,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-100-581",
-    "questionText": "Buying and selling of shares is a function performed mostly \tby the (JAMB 2006)",
+    "questionText": "Buying and selling of shares is a function performed mostly \tby the",
     "options": [
       "insurance companies",
       "stock exchange",
@@ -4813,7 +4813,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-101-610",
-    "questionText": "The reward which accrues to labour for participating in production is (JAMB 2007)",
+    "questionText": "The reward which accrues to labour for participating in production is",
     "options": [
       "interest",
       "wage",
@@ -4825,7 +4825,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-102-394",
-    "questionText": "If  MPC is 0.7 while government expenditure increased by N= 150m, the equilibrium national income is (JAMB 2010)",
+    "questionText": "If  MPC is 0.7 while government expenditure increased by N= 150m, the equilibrium national income is",
     "options": [
       "N= 214 million",
       "N= 105 million",
@@ -4837,7 +4837,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-103-388",
-    "questionText": "An industry’s supply curve is more likely to be elastic when firms are (JAMB 2010)",
+    "questionText": "An industry’s supply curve is more likely to be elastic when firms are",
     "options": [
       "enjoying free entry and exit",
       "operating below capacity",
@@ -4849,7 +4849,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-104-453",
-    "questionText": "Which of the following is part of the capital account of the balance of payments? (JAMB 2003)",
+    "questionText": "Which of the following is part of the capital account of the balance of payments?",
     "options": [
       "Net investment from abroad",
       "Import of machinery",
@@ -4861,7 +4861,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-105-298",
-    "questionText": "The grouping of population according to the economic activities people engage in is (JAMB 2012)",
+    "questionText": "The grouping of population according to the economic activities people engage in is",
     "options": [
       "age distribution",
       "sex distribution",
@@ -4873,7 +4873,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-106-307",
-    "questionText": "When a country’s net income from abroad is added to its total \toutput, the result is (JAMB 2012)",
+    "questionText": "When a country’s net income from abroad is added to its total \toutput, the result is",
     "options": [
       "gross domestic product",
       "net national product",
@@ -4885,7 +4885,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069183-107-87",
-    "questionText": "Economics of scale operates only when  (JAMB 2009)",
+    "questionText": "Economics of scale operates only when",
     "options": [
       "Marginal cost is falling with output fixed cost is variable",
       "fixed cost is variable",
@@ -4897,7 +4897,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-108-542",
-    "questionText": "Discounting a bill of exchange means the bill is (JAMB 2005)",
+    "questionText": "Discounting a bill of exchange means the bill is",
     "options": [
       "cashed over the counter",
       "sold on the stock exchange",
@@ -4909,7 +4909,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-109-609",
-    "questionText": "The satisfaction derived from the use of a commodity is its (JAMB 2007)",
+    "questionText": "The satisfaction derived from the use of a commodity is its",
     "options": [
       "demand",
       "elasticity",
@@ -4921,7 +4921,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-110-287",
-    "questionText": "Which of the following does not change in the short run? (JAMB 2012)",
+    "questionText": "Which of the following does not change in the short run?",
     "options": [
       "Variable cost",
       "Marginal cost",
@@ -4933,7 +4933,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-111-452",
-    "questionText": "When the demand for foreign exchange exceeds its supply, the value of the domestic currency (JAMB 2003)",
+    "questionText": "When the demand for foreign exchange exceeds its supply, the value of the domestic currency",
     "options": [
       "appreciates",
       "depreciates",
@@ -4945,7 +4945,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-112-593",
-    "questionText": "The difference between the Gross National Product (GNP) and the Gross Domestic Product(GDP) is (JAMB 2006)",
+    "questionText": "The difference between the Gross National Product (GNP) and the Gross Domestic Product(GDP) is",
     "options": [
       "total interest payment",
       "net income generated internally",
@@ -4957,7 +4957,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-113-195",
-    "questionText": "Population growth can be controlled by all the following except (JAMB 2001)",
+    "questionText": "Population growth can be controlled by all the following except",
     "options": [
       "legalizing abortion",
       "incentives on immigration",
@@ -4969,7 +4969,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-114-181",
-    "questionText": "For a bicycle company, an economist predicted that, other things being equal, a rise in consumer incomes will increase the demand for bicycles. This prediction is based on the assumption that:  (JAMB 2010)",
+    "questionText": "For a bicycle company, an economist predicted that, other things being equal, a rise in consumer incomes will increase the demand for bicycles. This prediction is based on the assumption that:",
     "options": [
       "there are many goods that are substitutes for bicycles",
       "there are many goods that are many goods that are substitutes for bicycles",
@@ -4981,7 +4981,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-115-140",
-    "questionText": "Demand for money is:  (JAMB 2013)",
+    "questionText": "Demand for money is:",
     "options": [
       "Composite demand",
       "Derive demand",
@@ -4993,7 +4993,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-116-573",
-    "questionText": "In the analysis of utility theory, the basis of demand is (JAMB 2006)",
+    "questionText": "In the analysis of utility theory, the basis of demand is",
     "options": [
       "marginal utility",
       "average utility",
@@ -5005,7 +5005,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-117-422",
-    "questionText": "Division of labour leads to (JAMB 2003)",
+    "questionText": "Division of labour leads to",
     "options": [
       "improved craftsmanship",
       "the production of standardized goods",
@@ -5017,7 +5017,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-118-648",
-    "questionText": "The population of a country in a certain year was fifty million and the per capita income was $2050. What was the national income? (JAMB 2007)",
+    "questionText": "The population of a country in a certain year was fifty million and the per capita income was $2050. What was the national income?",
     "options": [
       "$ 750,000 million",
       "$100,250 million",
@@ -5029,7 +5029,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-119-468",
-    "questionText": "In a capitalist system, the means of production is owned and controlled by (JAMB 2004)",
+    "questionText": "In a capitalist system, the means of production is owned and controlled by",
     "options": [
       "the government",
       "politicians",
@@ -5041,7 +5041,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-120-320",
-    "questionText": "If the  active  population  is 50  million and unemployed is 5 million, what is the unemployment rate? (JAMB 2009)",
+    "questionText": "If the  active  population  is 50  million and unemployed is 5 million, what is the unemployment rate?",
     "options": [
       "10%",
       "45%",
@@ -5053,7 +5053,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-121-281",
-    "questionText": "Price fixed above the equilibrium is to (JAMB 2012)",
+    "questionText": "Price fixed above the equilibrium is to",
     "options": [
       "protect agricultural producers",
       "discourage agricultural producers",
@@ -5065,7 +5065,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-122-290",
-    "questionText": "A market structure where profit is maximized when marginal \trevenue, marginal cost and price are equal is known as (JAMB 2012)",
+    "questionText": "A market structure where profit is maximized when marginal \trevenue, marginal cost and price are equal is known as",
     "options": [
       "perfect competition",
       "monopoly",
@@ -5077,7 +5077,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-123-584",
-    "questionText": "Advertising expenses would not be necessary under perfect competition because (JAMB 2006)",
+    "questionText": "Advertising expenses would not be necessary under perfect competition because",
     "options": [
       "consumers would have complete knowledge of goods",
       "cost of production would be at the maximum level",
@@ -5089,7 +5089,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-124-537",
-    "questionText": "Acceptability, durability, homogeneity and portability are all \tattributes of good (JAMB 2005)",
+    "questionText": "Acceptability, durability, homogeneity and portability are all \tattributes of good",
     "options": [
       "markets",
       "money",
@@ -5101,7 +5101,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-125-301",
-    "questionText": "The following are features of subsistence agriculture except (JAMB 2012)",
+    "questionText": "The following are features of subsistence agriculture except",
     "options": [
       "little capital",
       "processing of raw materials",
@@ -5113,7 +5113,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-126-315",
-    "questionText": "Tariff is used to protect domestic industries by making foreign goods relatively (JAMB 2012)",
+    "questionText": "Tariff is used to protect domestic industries by making foreign goods relatively",
     "options": [
       "cheaper in the domestic market",
       "more expensive in the domestic market",
@@ -5125,7 +5125,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-127-13",
-    "questionText": "A drawer of a cheque is the  (JAMB 2006)",
+    "questionText": "A drawer of a cheque is the",
     "options": [
       "person who is to be paid",
       "bank on which the cheque is drawn",
@@ -5137,7 +5137,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-128-536",
-    "questionText": "The direct exchange of one good for another without the use of money is known as (JAMB 2005)",
+    "questionText": "The direct exchange of one good for another without the use of money is known as",
     "options": [
       "foreign exchange",
       "exchange rate",
@@ -5149,7 +5149,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-129-585",
-    "questionText": "The equilibrium level of output of a monopolist is determined at a point where (JAMB 2006)",
+    "questionText": "The equilibrium level of output of a monopolist is determined at a point where",
     "options": [
       "marginal cost equal average revenue",
       "marginal cost equals average cost",
@@ -5161,7 +5161,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-130-43",
-    "questionText": "The situation in which the total amount of government spending exceeds total called  (JAMB 2007)",
+    "questionText": "The situation in which the total amount of government spending exceeds total called",
     "options": [
       "balance budget",
       "budget surplus",
@@ -5173,7 +5173,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-131-382",
-    "questionText": "If commodity X is a by-product of commodity Y, this implies that both commodities are (JAMB 2010)",
+    "questionText": "If commodity X is a by-product of commodity Y, this implies that both commodities are",
     "options": [
       "in competitive supply",
       "jointly supplied",
@@ -5185,7 +5185,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-132-502",
-    "questionText": "A policy by which governments restrict the amount of \n\tforeign currencies bought and sold is known as (JAMB 2004)",
+    "questionText": "A policy by which governments restrict the amount of \n\tforeign currencies bought and sold is known as",
     "options": [
       "devaluation",
       "credit creation",
@@ -5197,7 +5197,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-133-641",
-    "questionText": "Which of the following institutions assists the government in managing the national debt? (JAMB 2007)",
+    "questionText": "Which of the following institutions assists the government in managing the national debt?",
     "options": [
       "Commercial Banks",
       "The Central Bank",
@@ -5209,7 +5209,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-134-112",
-    "questionText": "Price discrimination exists when   (JAMB 2012)",
+    "questionText": "Price discrimination exists when",
     "options": [
       "The same product of the same quality is sold for different prices of the same buyer",
       "The same product of the same quality is sold for different prices to different buyers",
@@ -5221,7 +5221,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-135-126",
-    "questionText": "Inflation as a result of increase in the payment for factors of production is called   (JAMB 2012)",
+    "questionText": "Inflation as a result of increase in the payment for factors of production is called",
     "options": [
       "Cost-pull inflation",
       "Demand-push inflation",
@@ -5233,7 +5233,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-136-285",
-    "questionText": "Which of the following is not true about land? (JAMB 2012)",
+    "questionText": "Which of the following is not true about land?",
     "options": [
       "The supply is fixed",
       "Land is mobile",
@@ -5245,7 +5245,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-137-91",
-    "questionText": "The concept of economic efficiency refers to:  (JAMB 2009)",
+    "questionText": "The concept of economic efficiency refers to:",
     "options": [
       "obtaining the maximum output from available resources at the lowest possible cost",
       "Conservation of natural gas and oil deposits",
@@ -5257,7 +5257,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-138-92",
-    "questionText": "A major factor affecting the value of money is the:  (JAMB 2009)",
+    "questionText": "A major factor affecting the value of money is the:",
     "options": [
       "price level",
       "banking habit",
@@ -5269,7 +5269,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-139-603",
-    "questionText": "Which of the following is an invisible item? (JAMB 2006)",
+    "questionText": "Which of the following is an invisible item?",
     "options": [
       "Banking services",
       "Petroleum products",
@@ -5281,7 +5281,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-140-141",
-    "questionText": "If the cross elasticity of demand between X and Y is zero, then    (JAMB 2013)",
+    "questionText": "If the cross elasticity of demand between X and Y is zero, then",
     "options": [
       "X and Y are substitutes",
       "X and Y are complements",
@@ -5293,7 +5293,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-141-80",
-    "questionText": "In a sole proprietorship decision are made by the  (JAMB 2009)",
+    "questionText": "In a sole proprietorship decision are made by the",
     "options": [
       "Government",
       "Board of directors",
@@ -5305,7 +5305,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-142-556",
-    "questionText": "ln calculating the national income of a country x, the cost of both raw materials and the finished products \t\twere included. This is a case of (JAMB 2005)",
+    "questionText": "ln calculating the national income of a country x, the cost of both raw materials and the finished products \t\twere included. This is a case of",
     "options": [
       "double counting",
       "price fluctuations",
@@ -5317,7 +5317,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-143-107",
-    "questionText": "Which of the following is TRUE of marginal cost?  (JAMB 2011)",
+    "questionText": "Which of the following is TRUE of marginal cost?",
     "options": [
       "it is a cost incurred by the firm on variable inputs",
       "it is the cost of producing one extra unit of a commodity at any output level",
@@ -5329,7 +5329,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-144-293",
-    "questionText": "A firm’s main aim is to (JAMB 2012)",
+    "questionText": "A firm’s main aim is to",
     "options": [
       "survive in business",
       "maximize profits",
@@ -5341,7 +5341,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-145-237",
-    "questionText": "Goods for which demand rises as income rises are (JAMB 2010)",
+    "questionText": "Goods for which demand rises as income rises are",
     "options": [
       "complementary goods",
       "inferior goods",
@@ -5353,7 +5353,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-146-88",
-    "questionText": "If an increase in income induces a reduction in the demand for beans, beans can be referred to as:  (JAMB 2009)",
+    "questionText": "If an increase in income induces a reduction in the demand for beans, beans can be referred to as:",
     "options": [
       "A normal good",
       "An inferior good",
@@ -5365,7 +5365,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-147-638",
-    "questionText": "Which of the following financial institutions was originally known as a Building Society? (JAMB 2007)",
+    "questionText": "Which of the following financial institutions was originally known as a Building Society?",
     "options": [
       "Development bank",
       "Insurance company",
@@ -5377,7 +5377,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-148-547",
-    "questionText": "The theory of comparative cost advantage is associated with (JAMB 2005)",
+    "questionText": "The theory of comparative cost advantage is associated with",
     "options": [
       "Alfred Marshal",
       "Adam Smith",
@@ -5389,7 +5389,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-149-490",
-    "questionText": "Open Market Operation (OMO) means the (JAMB 2004)",
+    "questionText": "Open Market Operation (OMO) means the",
     "options": [
       "provision of credit facilities by commercial banks",
       "provision of credit facilities by the mortgage banks",
@@ -5401,7 +5401,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-150-636",
-    "questionText": "The value of money is generally measured in relation to the (JAMB 2007)",
+    "questionText": "The value of money is generally measured in relation to the",
     "options": [
       "interest rate charged on bank loan",
       "general price level",
@@ -5413,7 +5413,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-151-500",
-    "questionText": "International trade is an application of the principle of (JAMB 2004)",
+    "questionText": "International trade is an application of the principle of",
     "options": [
       "industrial production",
       "mass production",
@@ -5425,7 +5425,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-152-634",
-    "questionText": "A certain amount of money is needed for everyday expenditure like buying of goods, transportation and others. This is (JAMB 2007)",
+    "questionText": "A certain amount of money is needed for everyday expenditure like buying of goods, transportation and others. This is",
     "options": [
       "transaction demand for money",
       "precautionary demand for money",
@@ -5437,7 +5437,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-153-71",
-    "questionText": "Given that fixed cost is N500.00, Variable cost is N1,500.00 and output is 40 units, what will be the average cost of producing one units?  (JAMB 2008)",
+    "questionText": "Given that fixed cost is N500.00, Variable cost is N1,500.00 and output is 40 units, what will be the average cost of producing one units?",
     "options": [
       "N12.50.00",
       "N50.00",
@@ -5449,7 +5449,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-154-623",
-    "questionText": "Patents are examples of (JAMB 2007)",
+    "questionText": "Patents are examples of",
     "options": [
       "natural barriers to entry",
       "legal barriers to entry",
@@ -5461,7 +5461,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-155-268",
-    "questionText": "One of the functions of the Central Bank is (JAMB 2010)",
+    "questionText": "One of the functions of the Central Bank is",
     "options": [
       "production of goods",
       "issuing of currency",
@@ -5473,7 +5473,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-156-124",
-    "questionText": "Discount rate means   (JAMB 2012)",
+    "questionText": "Discount rate means",
     "options": [
       "Rate at which money are borrowed from commercial bank",
       "Rate at which bank receive deposit from the public",
@@ -5485,7 +5485,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-157-26",
-    "questionText": "If the equation relating consumption (C) to income (Y) is C=  N7,500+0.2Y,then  (JAMB 2007)",
+    "questionText": "If the equation relating consumption (C) to income (Y) is C=  N7,500+0.2Y,then",
     "options": [
       "consumption is inversely related to income",
       "consumptions is the independent variable and income is the dependent variable",
@@ -5497,7 +5497,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-158-117",
-    "questionText": "Change in demand and change in quantity demanded are not the same because   (JAMB 2012)",
+    "questionText": "Change in demand and change in quantity demanded are not the same because",
     "options": [
       "All factors affecting change in demand also affect change in quantity demanded except income",
       "All factors affecting change in demand are not affecting change in quantity demanded except income",
@@ -5509,7 +5509,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-159-377",
-    "questionText": "One of  the assumptions of ordinal utility theory is that (JAMB 2010)",
+    "questionText": "One of  the assumptions of ordinal utility theory is that",
     "options": [
       "choice is not consistent",
       "total utility is a function of price",
@@ -5521,7 +5521,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-160-426",
-    "questionText": "When the total product is at its maximum, marginal \n\tproduct is (JAMB 2003)",
+    "questionText": "When the total product is at its maximum, marginal \n\tproduct is",
     "options": [
       "increasing",
       "positive",
@@ -5533,7 +5533,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-161-313",
-    "questionText": "When governments want to discourage consumption, they \ttax goods whose demand (JAMB 2012)",
+    "questionText": "When governments want to discourage consumption, they \ttax goods whose demand",
     "options": [
       "price inelastic",
       "abnormal in nature",
@@ -5545,7 +5545,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-162-424",
-    "questionText": "The additional satisfaction derived from the consumption of one more unit of a good is called (JAMB 2003)",
+    "questionText": "The additional satisfaction derived from the consumption of one more unit of a good is called",
     "options": [
       "marginal product",
       "marginal utility",
@@ -5557,7 +5557,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-163-433",
-    "questionText": "Which of the following is necessary for the survival of small firms in West Africa? (JAMB 2003)",
+    "questionText": "Which of the following is necessary for the survival of small firms in West Africa?",
     "options": [
       "Access to land for development",
       "Inadequate collaterals for bank loans",
@@ -5569,7 +5569,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-164-6",
-    "questionText": "Suppose wages paid by a firm increase what would reasonably be expected to happen to the equilibrium price and equilibrium quantity for the firm’s output?  (JAMB 2006)",
+    "questionText": "Suppose wages paid by a firm increase what would reasonably be expected to happen to the equilibrium price and equilibrium quantity for the firm’s output?",
     "options": [
       "price increase, quantity decreases",
       "price decrease, quantity decrease",
@@ -5581,7 +5581,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-165-32",
-    "questionText": "Disposable income equals  (JAMB 2007)",
+    "questionText": "Disposable income equals",
     "options": [
       "Personal income less business profits",
       "personal income less taxes and subsidies",
@@ -5593,7 +5593,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-166-180",
-    "questionText": "Assume a household would consume N100 worth of goods and services per week if its weekly income were zero and would spend an additional N80 per week for each 100 of additional income, if C represents consumption and Y income the equation that summarizes this relationship is (JAMB 2010)",
+    "questionText": "Assume a household would consume N100 worth of goods and services per week if its weekly income were zero and would spend an additional N80 per week for each 100 of additional income, if C represents consumption and Y income the equation that summarizes this relationship is",
     "options": [
       "C =8+100Y",
       "C=100+8Y",
@@ -5605,7 +5605,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-167-17",
-    "questionText": "The creation of utility can be referred to as  (JAMB 2006)",
+    "questionText": "The creation of utility can be referred to as",
     "options": [
       "value added",
       "profit marginalization",
@@ -5617,7 +5617,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-168-164",
-    "questionText": "Macroeconomics can best be described as the:  (JAMB 2010)",
+    "questionText": "Macroeconomics can best be described as the:",
     "options": [
       "analysis of how a consumer tries to spend income",
       "study of the large aggregates of the economy or the economy as whole",
@@ -5629,7 +5629,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-169-229",
-    "questionText": "An ad valorem tax refers to a tax (JAMB 2001)",
+    "questionText": "An ad valorem tax refers to a tax",
     "options": [
       "imposed on exports",
       "on goods manufactured in the country",
@@ -5641,7 +5641,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-170-472",
-    "questionText": "As a firm expands, it enjoys some advantages called (JAMB 2004)",
+    "questionText": "As a firm expands, it enjoys some advantages called",
     "options": [
       "variable proportions",
       "diminishing marginal returns",
@@ -5653,7 +5653,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-171-160",
-    "questionText": "When demand for a product is price inelastic, the following can happen   (JAMB 2013)",
+    "questionText": "When demand for a product is price inelastic, the following can happen",
     "options": [
       "Consumers suffer the entire increase in tax on the product",
       "producer suffers the entire increase in tax on the product",
@@ -5665,7 +5665,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-172-376",
-    "questionText": "Consumer surplus tends to be higher when demand is (JAMB 2010)",
+    "questionText": "Consumer surplus tends to be higher when demand is",
     "options": [
       "perfectly elastic",
       "inelastic",
@@ -5677,7 +5677,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-173-182",
-    "questionText": "A demand curve which is parallel to the horizontal axis is (JAMB 2010)",
+    "questionText": "A demand curve which is parallel to the horizontal axis is",
     "options": [
       "perfectly inelastic",
       "perfectly elastic",
@@ -5689,7 +5689,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-174-309",
-    "questionText": "The demand for money to take advantage of changes in bond \tprices is the (JAMB 2012)",
+    "questionText": "The demand for money to take advantage of changes in bond \tprices is the",
     "options": [
       "unforeseen motive",
       "transaction motive",
@@ -5701,7 +5701,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-175-201",
-    "questionText": "Consumers buy more of a commodity at a lower price than at a higher price because (JAMB 2001)",
+    "questionText": "Consumers buy more of a commodity at a lower price than at a higher price because",
     "options": [
       "producers like to produce more",
       "in any given situation, people like to buy more",
@@ -5713,7 +5713,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-176-365",
-    "questionText": "When workers have a union, the supply of labour is said to be (JAMB 2009)",
+    "questionText": "When workers have a union, the supply of labour is said to be",
     "options": [
       "Monopolistic",
       "oligopolistic",
@@ -5725,7 +5725,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-177-419",
-    "questionText": "Which of the following factors of production consists of man made goods? (JAMB 2003)",
+    "questionText": "Which of the following factors of production consists of man made goods?",
     "options": [
       "Land",
       "Labour",
@@ -5737,7 +5737,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-178-233",
-    "questionText": "In which of the following economic systems do we have mostly private ownership of resources and individual (JAMB 2010)",
+    "questionText": "In which of the following economic systems do we have mostly private ownership of resources and individual",
     "options": [
       "decision making?",
       "Capitalist system",
@@ -5749,7 +5749,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-179-380",
-    "questionText": "A set of  factors that can shift the supply curve are changes in (JAMB 2010)",
+    "questionText": "A set of  factors that can shift the supply curve are changes in",
     "options": [
       "weather, price and technology",
       "technology, price and taste",
@@ -5761,7 +5761,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-180-454",
-    "questionText": "The most common index for measuring development is (JAMB 2003)",
+    "questionText": "The most common index for measuring development is",
     "options": [
       "the level of illiteracy",
       "the per capital income",
@@ -5773,7 +5773,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-181-654",
-    "questionText": "A summary of all the receipts and payments of a country in \tinternational transactions is called (JAMB 2007)",
+    "questionText": "A summary of all the receipts and payments of a country in \tinternational transactions is called",
     "options": [
       "terms of trade",
       "balance of payment",
@@ -5785,7 +5785,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-182-496",
-    "questionText": "To ensure high employment rates, developing countries should (JAMB 2004)",
+    "questionText": "To ensure high employment rates, developing countries should",
     "options": [
       "build more universities",
       "protect infant industries",
@@ -5797,7 +5797,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-183-621",
-    "questionText": "Use the following  demand schedule to answer question Price (N=) [15, 13]\tQuantity Demanded[60, 70] The percentage change in quantity demanded is (JAMB 2007)",
+    "questionText": "Use the following  demand schedule to answer question Price (N=) [15, 13]\tQuantity Demanded[60, 70] The percentage change in quantity demanded is",
     "options": [
       "12.7%",
       "15.7%",
@@ -5809,7 +5809,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-184-303",
-    "questionText": "The effect of privatization on the industrial sector of a country is that it (JAMB 2012)",
+    "questionText": "The effect of privatization on the industrial sector of a country is that it",
     "options": [
       "ensures efficiency",
       "discourages efficiency",
@@ -5821,7 +5821,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-185-327",
-    "questionText": "The short-run supply curve for medical doctors is more  likely to be (JAMB 2009)",
+    "questionText": "The short-run supply curve for medical doctors is more  likely to be",
     "options": [
       "perfectly elastic",
       "perfectly inelastic",
@@ -5833,7 +5833,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-186-550",
-    "questionText": "The Economic Community of West African State (ECOWAS) is an example of (JAMB 2005)",
+    "questionText": "The Economic Community of West African State (ECOWAS) is an example of",
     "options": [
       "bilateral trade",
       "economic integration",
@@ -5845,7 +5845,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-187-587",
-    "questionText": "The policy of government to increase the supply of money to meet its own expenditure plans is likely to be (JAMB 2006)",
+    "questionText": "The policy of government to increase the supply of money to meet its own expenditure plans is likely to be",
     "options": [
       "speculative",
       "deflationary",
@@ -5857,7 +5857,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-188-420",
-    "questionText": "One major function of the entrepreneur is (JAMB 2003)",
+    "questionText": "One major function of the entrepreneur is",
     "options": [
       "bearing of risk",
       "maximizing profits",
@@ -5869,7 +5869,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-189-560",
-    "questionText": "Most of the problems of economies arise as a result of (JAMB 2006)",
+    "questionText": "Most of the problems of economies arise as a result of",
     "options": [
       "demands for scarce resource",
       "increase in the demand for more goods and services.",
@@ -5881,7 +5881,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-190-76",
-    "questionText": "Which of these is not included in measuring national income by the income approach?  (JAMB 2009)",
+    "questionText": "Which of these is not included in measuring national income by the income approach?",
     "options": [
       "Wages and salaries of public servants",
       "students branches and scholarships",
@@ -5893,7 +5893,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-191-54",
-    "questionText": "Which of the following statement is correct? The Central bank  (JAMB 2008)",
+    "questionText": "Which of the following statement is correct? The Central bank",
     "options": [
       "prints the country’s currency",
       "handles the collection of debts of owed to the government",
@@ -5905,7 +5905,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-192-357",
-    "questionText": "To enhance the competitiveness of domestic agricultural products, there is need to (JAMB 2009)",
+    "questionText": "To enhance the competitiveness of domestic agricultural products, there is need to",
     "options": [
       "ban the importation of agricultural products",
       "increase the exportation of agricultural products",
@@ -5917,7 +5917,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-193-459",
-    "questionText": "Budget deficit can be financed by (JAMB 2003)",
+    "questionText": "Budget deficit can be financed by",
     "options": [
       "reducing the level of taxation",
       "printing more money",
@@ -5929,7 +5929,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-194-539",
-    "questionText": "A persistent and appreciable rise in the general level of prices is known as (JAMB 2005)",
+    "questionText": "A persistent and appreciable rise in the general level of prices is known as",
     "options": [
       "depreciation",
       "inflation",
@@ -5941,7 +5941,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-195-514",
-    "questionText": "The remuneration of the entrepreneur as a factor of production is called (JAMB 2005)",
+    "questionText": "The remuneration of the entrepreneur as a factor of production is called",
     "options": [
       "wages",
       "salary",
@@ -5953,7 +5953,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-196-136",
-    "questionText": "The following is not true of price mechanism  (JAMB 2012)",
+    "questionText": "The following is not true of price mechanism",
     "options": [
       "Equilibrium price is determined by forces of demand and supply",
       "Individual households and firms pursue personal interest",
@@ -5965,7 +5965,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-197-652",
-    "questionText": "One advantage of international trade is that (JAMB 2007)",
+    "questionText": "One advantage of international trade is that",
     "options": [
       "countries depend on each other",
       "it introduces variation in prices",
@@ -5977,7 +5977,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-198-335",
-    "questionText": "As the level of output increases, the average fixed cost of a firm will (JAMB 2009)",
+    "questionText": "As the level of output increases, the average fixed cost of a firm will",
     "options": [
       "continue to increase",
       "remain uncharged",
@@ -5989,7 +5989,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-199-461",
-    "questionText": "In a socialist economy, the means of production is owned and controlled by the (JAMB 2003)",
+    "questionText": "In a socialist economy, the means of production is owned and controlled by the",
     "options": [
       "state",
       "rich",
@@ -6001,7 +6001,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-200-45",
-    "questionText": "Which of the following equations is the correct one about Net National Product (NNP)?  (JAMB 2007)",
+    "questionText": "Which of the following equations is the correct one about Net National Product (NNP)?",
     "options": [
       "NNP= Gross National Product (GNP) - Depreciation",
       "NNP= Gross National product (GNP Net incomes from abroad",
@@ -6013,7 +6013,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-201-564",
-    "questionText": "An owner-manager of a firm can also be called (JAMB 2006)",
+    "questionText": "An owner-manager of a firm can also be called",
     "options": [
       "shareholder",
       "an entrepreneur",
@@ -6025,7 +6025,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-202-396",
-    "questionText": "By buying treasury bills, the Central Bank of  Nigeria intends \tto (JAMB 2010)",
+    "questionText": "By buying treasury bills, the Central Bank of  Nigeria intends \tto",
     "options": [
       "increase money supply in the economy",
       "reduce money supply in the economy",
@@ -6037,7 +6037,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-203-333",
-    "questionText": "Determine the average product of the 4th unit of capital (JAMB 2009)",
+    "questionText": "Determine the average product of the 4th unit of capital",
     "options": [
       "53",
       "86",
@@ -6049,7 +6049,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-204-555",
-    "questionText": "An economy which exhibits features of both private and State enterprises is known as a (JAMB 2005)",
+    "questionText": "An economy which exhibits features of both private and State enterprises is known as a",
     "options": [
       "capitalist economy",
       "mixed economy",
@@ -6061,7 +6061,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-205-294",
-    "questionText": "One good reason for the elimination of middlemen is that they (JAMB 2012)",
+    "questionText": "One good reason for the elimination of middlemen is that they",
     "options": [
       "cause increase in price",
       "help in price stability",
@@ -6073,7 +6073,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-206-643",
-    "questionText": "Which of Ike following is an example of direct tax? (JAMB 2007)",
+    "questionText": "Which of Ike following is an example of direct tax?",
     "options": [
       "Import duties",
       "Income tax",
@@ -6085,7 +6085,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-207-596",
-    "questionText": "The economic system in which the state takes the (JAMB 2006)",
+    "questionText": "The economic system in which the state takes the",
     "options": [
       "economic decisions through details planning is",
       "capitalism",
@@ -6097,7 +6097,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-208-38",
-    "questionText": "Which of the following are direct taxes?  (JAMB 2007)",
+    "questionText": "Which of the following are direct taxes?",
     "options": [
       "Income and company taxes",
       "Sale taxes",
@@ -6109,7 +6109,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-209-63",
-    "questionText": "An economic system in which most capital goods are owned by individual and private firms is known as  (JAMB 2008)",
+    "questionText": "An economic system in which most capital goods are owned by individual and private firms is known as",
     "options": [
       "planned economy",
       "Capitalist economy.",
@@ -6121,7 +6121,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-210-427",
-    "questionText": "Marginal cost can be derived from the (JAMB 2003)",
+    "questionText": "Marginal cost can be derived from the",
     "options": [
       "total product",
       "total revenue",
@@ -6133,7 +6133,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-211-270",
-    "questionText": "One disadvantage of direct taxes is that they (JAMB 2010)",
+    "questionText": "One disadvantage of direct taxes is that they",
     "options": [
       "allocate scarce resources",
       "are not rigid",
@@ -6145,7 +6145,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-212-16",
-    "questionText": "Which of the following is not a member of OPEC? (JAMB 2006)",
+    "questionText": "Which of the following is not a member of OPEC?",
     "options": [
       "Indonesia",
       "Iran",
@@ -6157,7 +6157,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-213-252",
-    "questionText": "Age Group\t[0 -15\t\t30%], [16 - 40\t\t27%], [41 - 60\t\t25%], [61 and above\t18%] The data shows the age distribution of a country \n\tin 1983. Using the data, calculate the percentage of working population in 1983. (JAMB 2010)",
+    "questionText": "Age Group\t[0 -15\t\t30%], [16 - 40\t\t27%], [41 - 60\t\t25%], [61 and above\t18%] The data shows the age distribution of a country \n\tin 1983. Using the data, calculate the percentage of working population in 1983.",
     "options": [
       "48%",
       "52%",
@@ -6169,7 +6169,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-214-484",
-    "questionText": "One main benefit of partnerships is (JAMB 2004)",
+    "questionText": "One main benefit of partnerships is",
     "options": [
       "the possibility of raising funds on the stock exchange",
       "the possibility of attracting twenty one or more members",
@@ -6181,7 +6181,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-215-21",
-    "questionText": "If the marginal propensity to save is 0.4 and consumption expenditure changes by N10 million , the equilibrium  level of income will change by  (JAMB 2006)",
+    "questionText": "If the marginal propensity to save is 0.4 and consumption expenditure changes by N10 million , the equilibrium  level of income will change by",
     "options": [
       "N15.0million",
       "N4,0million",
@@ -6193,7 +6193,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-216-633",
-    "questionText": "The most important quality of money is that it must be (JAMB 2007)",
+    "questionText": "The most important quality of money is that it must be",
     "options": [
       "relatively scarce",
       "generally acceptable",
@@ -6205,7 +6205,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-217-615",
-    "questionText": "What must be added to variable cost to give total cost? (JAMB 2007)",
+    "questionText": "What must be added to variable cost to give total cost?",
     "options": [
       "Average total cost",
       "Average variable cost",
@@ -6217,7 +6217,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-218-492",
-    "questionText": "Which of the following will ensure efficiency in the industrial sector of your country? (JAMB 2004)",
+    "questionText": "Which of the following will ensure efficiency in the industrial sector of your country?",
     "options": [
       "Indigenization",
       "Privatization",
@@ -6229,7 +6229,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-219-157",
-    "questionText": "Money that a government has required to be accepted in settlement of debts is  (JAMB 2013)",
+    "questionText": "Money that a government has required to be accepted in settlement of debts is",
     "options": [
       "commodity money",
       "currency value",
@@ -6241,7 +6241,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-220-90",
-    "questionText": "Marginal cost curve intersects average cost curve  (JAMB 2009)",
+    "questionText": "Marginal cost curve intersects average cost curve",
     "options": [
       "from above at its lowest point",
       "from below the lowest point",
@@ -6253,7 +6253,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-221-378",
-    "questionText": "The law of diminishing marginal utility explains why (JAMB 2010)",
+    "questionText": "The law of diminishing marginal utility explains why",
     "options": [
       "the slope of a normal demand curve is negative",
       "the slope of a normal demand curve is positive",
@@ -6265,7 +6265,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-222-292",
-    "questionText": "If there arc no barriers to entering a market, it means that (JAMB 2012)",
+    "questionText": "If there arc no barriers to entering a market, it means that",
     "options": [
       "anyone can become a buyer or seller",
       "unwanted goods can always enter the market",
@@ -6277,7 +6277,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-223-344",
-    "questionText": "The reform in the banking sector in Nigeria is principally \tmotivated by the need to (JAMB 2009)",
+    "questionText": "The reform in the banking sector in Nigeria is principally \tmotivated by the need to",
     "options": [
       "increase the capital base of banks",
       "provide more money to run the economy",
@@ -6289,7 +6289,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-224-187",
-    "questionText": "The economic system in which resources are privately owned is known as (JAMB 2001)",
+    "questionText": "The economic system in which resources are privately owned is known as",
     "options": [
       "capitalism",
       "socialism",
@@ -6301,7 +6301,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-225-267",
-    "questionText": "The Central Bank controls money supply through all the following except (JAMB 2010)",
+    "questionText": "The Central Bank controls money supply through all the following except",
     "options": [
       "lending to the public",
       "bank rate",
@@ -6313,7 +6313,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-226-316",
-    "questionText": "Musa has a choice of buying a shirt, a book and a bag. What is the opportunity cost of buying a book? (JAMB 2009)",
+    "questionText": "Musa has a choice of buying a shirt, a book and a bag. What is the opportunity cost of buying a book?",
     "options": [
       "A bag only",
       "A book and a bag",
@@ -6325,7 +6325,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-227-277",
-    "questionText": "If a 20% rise in the price of  Whisky leads to a 30% increase in quantity demanded of Schnapps, the cross elasticity of demand is (JAMB 2012)",
+    "questionText": "If a 20% rise in the price of  Whisky leads to a 30% increase in quantity demanded of Schnapps, the cross elasticity of demand is",
     "options": [
       "3.0",
       "2.5",
@@ -6337,7 +6337,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-228-83",
-    "questionText": "One disadvantage of sole proprietorship is its  (JAMB 2009)",
+    "questionText": "One disadvantage of sole proprietorship is its",
     "options": [
       "Limited liability",
       "High profit",
@@ -6349,7 +6349,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-229-295",
-    "questionText": "The increase in population growth in big cities is referred to as (JAMB 2012)",
+    "questionText": "The increase in population growth in big cities is referred to as",
     "options": [
       "settlement",
       "migration",
@@ -6361,7 +6361,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-230-31",
-    "questionText": "The slope of the budget constraint  (JAMB 2007)",
+    "questionText": "The slope of the budget constraint",
     "options": [
       "changes as the marginal rate of satisfaction changes",
       "is the ration of the prices of the two goods?",
@@ -6373,7 +6373,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-231-470",
-    "questionText": "An economic good is described as a good which (JAMB 2004)",
+    "questionText": "An economic good is described as a good which",
     "options": [
       "yield utility and commands a price",
       "is useful and occupies a space",
@@ -6385,7 +6385,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-232-291",
-    "questionText": "In which of the following markets does a firm have power to \tmake super normal profits both in the short run and long run? (JAMB 2012)",
+    "questionText": "In which of the following markets does a firm have power to \tmake super normal profits both in the short run and long run?",
     "options": [
       "Monopol",
       "Duopoly",
@@ -6397,7 +6397,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-233-133",
-    "questionText": "In the ownership structure of joint stock company the following is correct;   (JAMB 2012)",
+    "questionText": "In the ownership structure of joint stock company the following is correct;",
     "options": [
       "Ordinary shareholders are stronger than preferential shareholders",
       "Preferential shareholder are stronger than ordinary shareholders",
@@ -6409,7 +6409,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-234-253",
-    "questionText": "A country whose population size is too small relative to its resources is (JAMB 2010)",
+    "questionText": "A country whose population size is too small relative to its resources is",
     "options": [
       "over populated",
       "optimally populated",
@@ -6421,7 +6421,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-235-310",
-    "questionText": "Cost push inflation is caused by a (JAMB 2012)",
+    "questionText": "Cost push inflation is caused by a",
     "options": [
       "rise in the cost of production",
       "decrease in the transportation cost",
@@ -6433,7 +6433,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-236-520",
-    "questionText": "A group of firms producing similar commodities for the same market constitute (JAMB 2005)",
+    "questionText": "A group of firms producing similar commodities for the same market constitute",
     "options": [
       "a cartel",
       "an industry",
@@ -6445,7 +6445,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-237-72",
-    "questionText": "For two substitute goods, the gross elasticity of demand is  (JAMB 2009)",
+    "questionText": "For two substitute goods, the gross elasticity of demand is",
     "options": [
       "Greater than one but lee than zero",
       "zero",
@@ -6457,7 +6457,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-238-178",
-    "questionText": "If actual reserves in the banking system are #40,000, excess reserves are #10,000, and checkable deposits are #240,000, then the legal reserve requirement is:  (JAMB 2010)",
+    "questionText": "If actual reserves in the banking system are #40,000, excess reserves are #10,000, and checkable deposits are #240,000, then the legal reserve requirement is:",
     "options": [
       "10%",
       "12.50%",
@@ -6469,7 +6469,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-239-198",
-    "questionText": "The difference between the highest and the least marginal (JAMB 2001)",
+    "questionText": "The difference between the highest and the least marginal",
     "options": [
       "product of the variable factor is 3",
       "8",
@@ -6481,7 +6481,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-240-105",
-    "questionText": "Which of the following is NOT a limitation to division of labour and specialization  (JAMB 2011)",
+    "questionText": "Which of the following is NOT a limitation to division of labour and specialization",
     "options": [
       "the size of the market",
       "availability of capital",
@@ -6493,7 +6493,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-241-630",
-    "questionText": "A negative effect of the presence of a large number of middlemen in the distributive network is (JAMB 2007)",
+    "questionText": "A negative effect of the presence of a large number of middlemen in the distributive network is",
     "options": [
       "greater variety of goods",
       "greater quality of goods",
@@ -6505,7 +6505,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-242-546",
-    "questionText": "Government revenue from the groundnut industry is from (JAMB 2005)",
+    "questionText": "Government revenue from the groundnut industry is from",
     "options": [
       "licenses",
       "rents",
@@ -6517,7 +6517,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-243-486",
-    "questionText": "The value of money is best determined by (JAMB 2004)",
+    "questionText": "The value of money is best determined by",
     "options": [
       "input-output ratio",
       "the purchasing power",
@@ -6529,7 +6529,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-244-165",
-    "questionText": "When economics say that people act rationally in their self-interest, they mean that individual:  (JAMB 2010)",
+    "questionText": "When economics say that people act rationally in their self-interest, they mean that individual:",
     "options": [
       "look and pursue opportunities to increase their utility",
       "generally disregard the interest of others",
@@ -6541,7 +6541,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-245-328",
-    "questionText": "If the price of an item changes by 8% and quantity supplied changes from 600 units to 660 units, the price elasticity of supply is (JAMB 2009)",
+    "questionText": "If the price of an item changes by 8% and quantity supplied changes from 600 units to 660 units, the price elasticity of supply is",
     "options": [
       "0.80",
       "1.25",
@@ -6553,7 +6553,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-246-632",
-    "questionText": "To promote the development of the agricultural sector, governments of West African countries should (JAMB 2007)",
+    "questionText": "To promote the development of the agricultural sector, governments of West African countries should",
     "options": [
       "encourage rural-urban drift",
       "discourage foreign investment in agriculture",
@@ -6565,7 +6565,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-247-341",
-    "questionText": "Double counting is a problem in computing national income when using the (JAMB 2009)",
+    "questionText": "Double counting is a problem in computing national income when using the",
     "options": [
       "expenditure method",
       "income method",
@@ -6577,7 +6577,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-248-458",
-    "questionText": "Public expenditure on education and health is known as expenditure on (JAMB 2003)",
+    "questionText": "Public expenditure on education and health is known as expenditure on",
     "options": [
       "general services",
       "social services",
@@ -6589,7 +6589,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-249-524",
-    "questionText": "The desire for goods without the ability to pay is called (JAMB 2005)",
+    "questionText": "The desire for goods without the ability to pay is called",
     "options": [
       "choice",
       "effective demand",
@@ -6601,7 +6601,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-250-360",
-    "questionText": "The current industrial development strategy in Nigeria is aimed at encouraging (JAMB 2009)",
+    "questionText": "The current industrial development strategy in Nigeria is aimed at encouraging",
     "options": [
       "small–scale industries",
       "medium–scale Industries",
@@ -6613,7 +6613,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-251-132",
-    "questionText": "Legal Entity means   (JAMB 2012)",
+    "questionText": "Legal Entity means",
     "options": [
       "A company is owned by large number of people",
       "A company is owned by small number of people",
@@ -6625,7 +6625,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-252-353",
-    "questionText": "An important function of the world bank is to (JAMB 2009)",
+    "questionText": "An important function of the world bank is to",
     "options": [
       "provide short–term loans to members",
       "encourage trade between members",
@@ -6637,7 +6637,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-253-431",
-    "questionText": "West African countries experience rapid population growth due to (JAMB 2003)",
+    "questionText": "West African countries experience rapid population growth due to",
     "options": [
       "existence of birth control clinics",
       "early marriages",
@@ -6649,7 +6649,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-254-445",
-    "questionText": "Money becomes a very poor store of value in a period of (JAMB 2003)",
+    "questionText": "Money becomes a very poor store of value in a period of",
     "options": [
       "deflation",
       "depression",
@@ -6661,7 +6661,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-255-545",
-    "questionText": "Mr. Bala’s income is $800.00 per month while that of Mr. Jatau is $1,200.00. lf Messrs Bala and Jatau pay $80.00 and $120.00 respectively as taxes, the tax system is (JAMB 2005)",
+    "questionText": "Mr. Bala’s income is $800.00 per month while that of Mr. Jatau is $1,200.00. lf Messrs Bala and Jatau pay $80.00 and $120.00 respectively as taxes, the tax system is",
     "options": [
       "progressive",
       "regressive",
@@ -6673,7 +6673,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-256-569",
-    "questionText": "One of the factors affecting geographical distribution of population is (JAMB 2006)",
+    "questionText": "One of the factors affecting geographical distribution of population is",
     "options": [
       "high birth rate",
       "high death rate",
@@ -6685,7 +6685,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-257-352",
-    "questionText": "Guided deregulation as currently practiced in Nigeria implies that (JAMB 2009)",
+    "questionText": "Guided deregulation as currently practiced in Nigeria implies that",
     "options": [
       "market forces determine interest and exchange rates",
       "government alone determines interest and exchange rates",
@@ -6697,7 +6697,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-258-81",
-    "questionText": "A greater burden of taxes on essential goods in borne by the  (JAMB 2009)",
+    "questionText": "A greater burden of taxes on essential goods in borne by the",
     "options": [
       "middle income group",
       "Higher income group",
@@ -6709,7 +6709,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-259-98",
-    "questionText": "In Economics human wants are usually described as   (JAMB 2011)",
+    "questionText": "In Economics human wants are usually described as",
     "options": [
       "many",
       "insatiable",
@@ -6721,7 +6721,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-260-575",
-    "questionText": "When the quantity of a commodity supplied increases and the quantity demanded decreases there will be (JAMB 2006)",
+    "questionText": "When the quantity of a commodity supplied increases and the quantity demanded decreases there will be",
     "options": [
       "a rise in price",
       "no change in price",
@@ -6733,7 +6733,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-261-204",
-    "questionText": "If the quantity demanded of a particular commodity is represented by the function Qd = 30 - 2p. What is the quantity demanded at a price of twelve Naira? (JAMB 2001)",
+    "questionText": "If the quantity demanded of a particular commodity is represented by the function Qd = 30 - 2p. What is the quantity demanded at a price of twelve Naira?",
     "options": [
       "6 units",
       "8 units",
@@ -6745,7 +6745,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-262-102",
-    "questionText": "In a capitalist society, production and consumption are regulated by the:  (JAMB 2011)",
+    "questionText": "In a capitalist society, production and consumption are regulated by the:",
     "options": [
       "demand for the commodity",
       "the government",
@@ -6757,7 +6757,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-263-147",
-    "questionText": "In which of the following situations do we have a free good?   (JAMB 2013)",
+    "questionText": "In which of the following situations do we have a free good?",
     "options": [
       "At zero price, more is demanded than supplied",
       "At zero price, quantity supplied exceeds quantity demanded",
@@ -6769,7 +6769,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-264-597",
-    "questionText": "A mixed economy combines the characteristics of both (JAMB 2006)",
+    "questionText": "A mixed economy combines the characteristics of both",
     "options": [
       "planned and capitalist economics",
       "exchange subsistence economies",
@@ -6781,7 +6781,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-265-199",
-    "questionText": "The average product of the variable factor when four units are employed is (JAMB 2001)",
+    "questionText": "The average product of the variable factor when four units are employed is",
     "options": [
       "6",
       "8",
@@ -6793,7 +6793,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-266-605",
-    "questionText": "Which of the following is an objective of economic integration? (JAMB 2006)",
+    "questionText": "Which of the following is an objective of economic integration?",
     "options": [
       "Harmonization of cultural practices",
       "Free movement of persons, goods and services",
@@ -6805,7 +6805,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-267-167",
-    "questionText": "A nation’s production possibility curve is bowed out from the origin because: (JAMB 2010)",
+    "questionText": "A nation’s production possibility curve is bowed out from the origin because:",
     "options": [
       "wants are virtually unlimited",
       "the originator of the idea drew it this way and modem economists follow this convention",
@@ -6817,7 +6817,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069184-268-428",
-    "questionText": "The market supply curve slopes upwards from left to right indicating that (JAMB 2003)",
+    "questionText": "The market supply curve slopes upwards from left to right indicating that",
     "options": [
       "at a lower price, more is supplied",
       "two commodities can be supplied at the same time",
@@ -6829,7 +6829,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069185-269-617",
-    "questionText": "Given that TR is total revenue, then TRn - TR(n-1) can be used to find the (JAMB 2007)",
+    "questionText": "Given that TR is total revenue, then TRn - TR(n-1) can be used to find the",
     "options": [
       "marginal revenue",
       "marginal cost",
@@ -6841,7 +6841,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069185-270-510",
-    "questionText": "Economic activities are undertaken to solve the problem of (JAMB 2005)",
+    "questionText": "Economic activities are undertaken to solve the problem of",
     "options": [
       "consumption",
       "opportunity cost",
@@ -6853,7 +6853,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069185-271-517",
-    "questionText": "When a worker changes from one type of job to another, it is called (JAMB 2005)",
+    "questionText": "When a worker changes from one type of job to another, it is called",
     "options": [
       "geographical mobility of labour",
       "occupational mobility of labour",
@@ -6865,7 +6865,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069185-272-485",
-    "questionText": "Joint ventures are partnerships involving (JAMB 2004)",
+    "questionText": "Joint ventures are partnerships involving",
     "options": [
       "the poor and the rich",
       "employers and workers",
@@ -6877,7 +6877,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069185-273-127",
-    "questionText": "When Lump-sun tax is paid by a producer, it means that;   (JAMB 2012)",
+    "questionText": "When Lump-sun tax is paid by a producer, it means that;",
     "options": [
       "The tax is paid proportional to the quantity of output produced",
       "The tax is paid regardless of volume of output",
@@ -6889,7 +6889,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069185-274-650",
-    "questionText": "Which of the following contributes the highest amount of foreign exchange to the economy of West African nations? (JAMB 2007)",
+    "questionText": "Which of the following contributes the highest amount of foreign exchange to the economy of West African nations?",
     "options": [
       "Construction, manufacturing and banking",
       "Shipping, trading and fishing",
@@ -6901,7 +6901,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788725069185-275-503",
-    "questionText": "Which of the following items is under the capital account of a balance of payments (JAMB 2004)",
+    "questionText": "Which of the following items is under the capital account of a balance of payments",
     "options": [
       "Repayments of foreign loans",
       "Visible imports",
@@ -6913,7 +6913,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-0-367",
-    "questionText": "A classroom teacher is promoted to the rank of a principal. This is an example of (JAMB 2010)",
+    "questionText": "A classroom teacher is promoted to the rank of a principal. This is an example of",
     "options": [
       "vertical mobility",
       "lateral mobility",
@@ -6925,7 +6925,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-1-478",
-    "questionText": "The distribution of goods is said to be completed when it reaches the (JAMB 2004)",
+    "questionText": "The distribution of goods is said to be completed when it reaches the",
     "options": [
       "wholesalers",
       "consumers",
@@ -6937,7 +6937,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-2-517",
-    "questionText": "When a worker changes from one type of job to another, it is called (JAMB 2005)",
+    "questionText": "When a worker changes from one type of job to another, it is called",
     "options": [
       "geographical mobility of labour",
       "occupational mobility of labour",
@@ -6949,7 +6949,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-3-127",
-    "questionText": "When Lump-sun tax is paid by a producer, it means that;   (JAMB 2012)",
+    "questionText": "When Lump-sun tax is paid by a producer, it means that;",
     "options": [
       "The tax is paid proportional to the quantity of output produced",
       "The tax is paid regardless of volume of output",
@@ -6961,7 +6961,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-4-266",
-    "questionText": "Which of the following is a legal tender? (JAMB 2010)",
+    "questionText": "Which of the following is a legal tender?",
     "options": [
       "Bank notes",
       "Bank overdrafts",
@@ -6973,7 +6973,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-5-32",
-    "questionText": "Disposable income equals  (JAMB 2007)",
+    "questionText": "Disposable income equals",
     "options": [
       "Personal income less business profits",
       "personal income less taxes and subsidies",
@@ -6985,7 +6985,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-6-541",
-    "questionText": "The lender of last resort in the banking system is the (JAMB 2005)",
+    "questionText": "The lender of last resort in the banking system is the",
     "options": [
       "industrial bank",
       "mortgage bank",
@@ -6997,7 +6997,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-7-646",
-    "questionText": "The Net National Product (NNP) is Gross National Product (GNP) less (JAMB 2007)",
+    "questionText": "The Net National Product (NNP) is Gross National Product (GNP) less",
     "options": [
       "domestic product",
       "foreign product",
@@ -7009,7 +7009,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-8-576",
-    "questionText": "The market price of a commodity is normally determined by the (JAMB 2006)",
+    "questionText": "The market price of a commodity is normally determined by the",
     "options": [
       "law of demand",
       "interaction of the forces of demand and supply.",
@@ -7021,7 +7021,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-9-16",
-    "questionText": "Which of the following is not a member of OPEC? (JAMB 2006)",
+    "questionText": "Which of the following is not a member of OPEC?",
     "options": [
       "Indonesia",
       "Iran",
@@ -7033,7 +7033,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-10-581",
-    "questionText": "Buying and selling of shares is a function performed mostly \tby the (JAMB 2006)",
+    "questionText": "Buying and selling of shares is a function performed mostly \tby the",
     "options": [
       "insurance companies",
       "stock exchange",
@@ -7045,7 +7045,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-11-390",
-    "questionText": "The demand curve for factors of production (JAMB 2010)",
+    "questionText": "The demand curve for factors of production",
     "options": [
       "is perfectly elastic",
       "slopes downwards",
@@ -7057,7 +7057,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-12-323",
-    "questionText": "The demand curve for a luxury good is (JAMB 2009)",
+    "questionText": "The demand curve for a luxury good is",
     "options": [
       "negatively sloped",
       "parallel to the price axis",
@@ -7069,7 +7069,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-13-227",
-    "questionText": "Tax evasions means (JAMB 2001)",
+    "questionText": "Tax evasions means",
     "options": [
       "postponing payment of tax",
       "tax payment according to ability to pay",
@@ -7081,7 +7081,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-14-588",
-    "questionText": "The tendency for prices to rise while the value of money falls is known as (JAMB 2006)",
+    "questionText": "The tendency for prices to rise while the value of money falls is known as",
     "options": [
       "bills of exchange",
       "inflation",
@@ -7093,7 +7093,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-15-151",
-    "questionText": "Which of the following is not a measure for controlling inflation by the central bank?   (JAMB 2013)",
+    "questionText": "Which of the following is not a measure for controlling inflation by the central bank?",
     "options": [
       "Open market operation",
       "Reserve requirements",
@@ -7105,7 +7105,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-16-520",
-    "questionText": "A group of firms producing similar commodities for the same market constitute (JAMB 2005)",
+    "questionText": "A group of firms producing similar commodities for the same market constitute",
     "options": [
       "a cartel",
       "an industry",
@@ -7117,7 +7117,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-17-381",
-    "questionText": "If  the coefficient of price elasticity of supply is greater than one, the supply is said to be (JAMB 2010)",
+    "questionText": "If  the coefficient of price elasticity of supply is greater than one, the supply is said to be",
     "options": [
       "perfectly elastic",
       "infinitely inelastic",
@@ -7129,7 +7129,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-18-529",
-    "questionText": "lf elasticity of demand for a commodity is less than one, demand is (JAMB 2005)",
+    "questionText": "lf elasticity of demand for a commodity is less than one, demand is",
     "options": [
       "unitary elastic",
       "inelastic",
@@ -7141,7 +7141,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-19-437",
-    "questionText": "The most common type of business in West African countries is (JAMB 2003)",
+    "questionText": "The most common type of business in West African countries is",
     "options": [
       "joint stock companies",
       "sole proprietorships",
@@ -7153,7 +7153,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-20-320",
-    "questionText": "If the  active  population  is 50  million and unemployed is 5 million, what is the unemployment rate? (JAMB 2009)",
+    "questionText": "If the  active  population  is 50  million and unemployed is 5 million, what is the unemployment rate?",
     "options": [
       "10%",
       "45%",
@@ -7165,7 +7165,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-21-136",
-    "questionText": "The following is not true of price mechanism  (JAMB 2012)",
+    "questionText": "The following is not true of price mechanism",
     "options": [
       "Equilibrium price is determined by forces of demand and supply",
       "Individual households and firms pursue personal interest",
@@ -7177,7 +7177,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-22-451",
-    "questionText": "Invisible trade refers to trade in (JAMB 2003)",
+    "questionText": "Invisible trade refers to trade in",
     "options": [
       "services",
       "goods and services",
@@ -7189,7 +7189,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-23-308",
-    "questionText": "A fall in national output will necessitate (JAMB 2012)",
+    "questionText": "A fall in national output will necessitate",
     "options": [
       "a rise in expenditure on imports",
       "a rise in the level of savings",
@@ -7201,7 +7201,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-24-172",
-    "questionText": "Assuming the total population is 100 million, the civilian labour force is 50 million and 47 million workers are employed, the unemployment rate is  (JAMB 2010)",
+    "questionText": "Assuming the total population is 100 million, the civilian labour force is 50 million and 47 million workers are employed, the unemployment rate is",
     "options": [
       "3%",
       "6%",
@@ -7213,7 +7213,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-25-418",
-    "questionText": "The reward for labour is (JAMB 2003)",
+    "questionText": "The reward for labour is",
     "options": [
       "wages",
       "profit",
@@ -7225,7 +7225,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-26-210",
-    "questionText": "When the government initiates measures to make an organization in which it has substantial interest more profit \toriented, such a business is described as being (JAMB 2001)",
+    "questionText": "When the government initiates measures to make an organization in which it has substantial interest more profit \toriented, such a business is described as being",
     "options": [
       "indigenized",
       "restructured",
@@ -7237,7 +7237,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-27-365",
-    "questionText": "When workers have a union, the supply of labour is said to be (JAMB 2009)",
+    "questionText": "When workers have a union, the supply of labour is said to be",
     "options": [
       "Monopolistic",
       "oligopolistic",
@@ -7249,7 +7249,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-28-547",
-    "questionText": "The theory of comparative cost advantage is associated with (JAMB 2005)",
+    "questionText": "The theory of comparative cost advantage is associated with",
     "options": [
       "Alfred Marshal",
       "Adam Smith",
@@ -7261,7 +7261,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-29-355",
-    "questionText": "A public liability company is run on a daily basis by (JAMB 2009)",
+    "questionText": "A public liability company is run on a daily basis by",
     "options": [
       "the chief executive",
       "the shareholders",
@@ -7273,7 +7273,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-30-75",
-    "questionText": "A characteristic of a debenture is that  (JAMB 2009)",
+    "questionText": "A characteristic of a debenture is that",
     "options": [
       "Its yield is based on profit",
       "Its yield is a fixed rate of interest",
@@ -7285,7 +7285,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-31-604",
-    "questionText": "In an attempt to correct a deficit balance of payments, a country may decide to increase (JAMB 2006)",
+    "questionText": "In an attempt to correct a deficit balance of payments, a country may decide to increase",
     "options": [
       "domestic production",
       "imports",
@@ -7297,7 +7297,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-32-154",
-    "questionText": "Which of the following statements is true?  (JAMB 2013)",
+    "questionText": "Which of the following statements is true?",
     "options": [
       "Disposable income is the only variable that determines consumption",
       "Investment spending is positively related to the rate of interest",
@@ -7309,7 +7309,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-33-46",
-    "questionText": "Middlemen in a economy perform the function of  (JAMB 2007)",
+    "questionText": "Middlemen in a economy perform the function of",
     "options": [
       "protection",
       "hoarding",
@@ -7321,7 +7321,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-34-61",
-    "questionText": "Which of these factors does not cause a change in demand?  (JAMB 2008)",
+    "questionText": "Which of these factors does not cause a change in demand?",
     "options": [
       "Income",
       "Population",
@@ -7333,7 +7333,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-35-631",
-    "questionText": "An example of a producer good is a (JAMB 2007)",
+    "questionText": "An example of a producer good is a",
     "options": [
       "tin of milk",
       "hammer",
@@ -7345,7 +7345,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-36-47",
-    "questionText": "Which of the following statement is false?  (JAMB 2008)",
+    "questionText": "Which of the following statement is false?",
     "options": [
       "Ends in Economic are the resources with which it can attain our goals",
       "Tables and graphs are focus of arithmetic technique used in economics to present ideas pictorially",
@@ -7357,7 +7357,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-37-515",
-    "questionText": "The production factor, whose entire world supply is fixed is (JAMB 2005)",
+    "questionText": "The production factor, whose entire world supply is fixed is",
     "options": [
       "land",
       "skilled labour",
@@ -7369,7 +7369,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-38-326",
-    "questionText": "A supply curve is positively sloped because (JAMB 2009)",
+    "questionText": "A supply curve is positively sloped because",
     "options": [
       "supply always exceeds demand",
       "demand always exceeds supply",
@@ -7381,7 +7381,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-39-255",
-    "questionText": "Which of the following does not explain why a school principal earns more salary than a school messenger? (JAMB 2010)",
+    "questionText": "Which of the following does not explain why a school principal earns more salary than a school messenger?",
     "options": [
       "Length of training",
       "Demand and Supply",
@@ -7393,7 +7393,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-40-222",
-    "questionText": "One disadvantage of inflation is that (JAMB 2001)",
+    "questionText": "One disadvantage of inflation is that",
     "options": [
       "fixed income earners gain",
       "fixed income earners lose",
@@ -7405,7 +7405,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-41-207",
-    "questionText": "Monoculture agriculture means (JAMB 2001)",
+    "questionText": "Monoculture agriculture means",
     "options": [
       "the cultivation of seasonal crops",
       "the cultivation of one major crop",
@@ -7417,7 +7417,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-42-213",
-    "questionText": "Which of the following is not a condition for a perfect market? (JAMB 2001)",
+    "questionText": "Which of the following is not a condition for a perfect market?",
     "options": [
       "Homogenous commodity",
       "Ignorance of consumers",
@@ -7429,7 +7429,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-43-230",
-    "questionText": "Which of the following is associated with the development of the petroleum industry in Nigeria? (JAMB 2001)",
+    "questionText": "Which of the following is associated with the development of the petroleum industry in Nigeria?",
     "options": [
       "Neglect of agriculture",
       "Increase in population growth",
@@ -7441,7 +7441,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-44-208",
-    "questionText": "Industries are not sited in most rural areas of Nigeria because (JAMB 2001)",
+    "questionText": "Industries are not sited in most rural areas of Nigeria because",
     "options": [
       "of inadequate basic infrastructure",
       "they lack raw materials",
@@ -7453,7 +7453,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-45-221",
-    "questionText": "Commercial banks settle their daily interbank indebtedness through the (JAMB 2001)",
+    "questionText": "Commercial banks settle their daily interbank indebtedness through the",
     "options": [
       "Money Market",
       "Finance House",
@@ -7465,7 +7465,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-46-202",
-    "questionText": "The demand for a commodity not directly for immediate consumption but for the production of another commodity is (JAMB 2001)",
+    "questionText": "The demand for a commodity not directly for immediate consumption but for the production of another commodity is",
     "options": [
       "competitive demand",
       "derived demand",
@@ -7477,7 +7477,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-47-190",
-    "questionText": "Which of the following is function of an entrepreneur? (JAMB 2001)",
+    "questionText": "Which of the following is function of an entrepreneur?",
     "options": [
       "Avoidance of risks",
       "Decision making",
@@ -7489,7 +7489,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-48-212",
-    "questionText": "The monopolist power can be controlled by the government through (JAMB 2001)",
+    "questionText": "The monopolist power can be controlled by the government through",
     "options": [
       "Labour union",
       "Price legislation",
@@ -7501,7 +7501,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-49-215",
-    "questionText": "In a public corporation, the risks of business are borne by the (JAMB 2001)",
+    "questionText": "In a public corporation, the risks of business are borne by the",
     "options": [
       "workers",
       "tax payers",
@@ -7513,7 +7513,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-50-206",
-    "questionText": "The upward sloping of the supply curve indicates that (JAMB 2001)",
+    "questionText": "The upward sloping of the supply curve indicates that",
     "options": [
       "more will be supplied as price rises",
       "less will be supplied as price rises",
@@ -7525,7 +7525,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-51-192",
-    "questionText": "In which of the following economic systems is the consumer referred to as King? (JAMB 2001)",
+    "questionText": "In which of the following economic systems is the consumer referred to as King?",
     "options": [
       "Capitalist economy",
       "Socialist economy",
@@ -7537,7 +7537,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-52-194",
-    "questionText": "In a country with ageing population, the total population (JAMB 2001)",
+    "questionText": "In a country with ageing population, the total population",
     "options": [
       "comprises young school leavers only",
       "comprises mainly women",
@@ -7549,7 +7549,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-53-189",
-    "questionText": "The reward for entrepreneurship is (JAMB 2001)",
+    "questionText": "The reward for entrepreneurship is",
     "options": [
       "rent",
       "wages",
@@ -7561,7 +7561,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-54-195",
-    "questionText": "Population growth can be controlled by all the following except (JAMB 2001)",
+    "questionText": "Population growth can be controlled by all the following except",
     "options": [
       "legalizing abortion",
       "incentives on immigration",
@@ -7573,7 +7573,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-55-200",
-    "questionText": "The cost incurred by using both fixed and variable factors in production is called (JAMB 2001)",
+    "questionText": "The cost incurred by using both fixed and variable factors in production is called",
     "options": [
       "marginal cost",
       "fixed cost",
@@ -7585,7 +7585,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-56-229",
-    "questionText": "An ad valorem tax refers to a tax (JAMB 2001)",
+    "questionText": "An ad valorem tax refers to a tax",
     "options": [
       "imposed on exports",
       "on goods manufactured in the country",
@@ -7597,7 +7597,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-57-214",
-    "questionText": "The reward for shareholdership of a company is (JAMB 2001)",
+    "questionText": "The reward for shareholdership of a company is",
     "options": [
       "Wages",
       "interest",
@@ -7609,7 +7609,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-58-203",
-    "questionText": "Which of the following is a luxury item? (JAMB 2001)",
+    "questionText": "Which of the following is a luxury item?",
     "options": [
       "Petrol",
       "Textbook",
@@ -7621,7 +7621,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-59-225",
-    "questionText": "Public expenditure can be financed from all the following sources except (JAMB 2001)",
+    "questionText": "Public expenditure can be financed from all the following sources except",
     "options": [
       "borrowing",
       "grant-in-aid",
@@ -7633,7 +7633,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-60-218",
-    "questionText": "The Quantity Theory of money states that a reduction in the quantity of money in circulation would bring about (JAMB 2001)",
+    "questionText": "The Quantity Theory of money states that a reduction in the quantity of money in circulation would bring about",
     "options": [
       "a geometrical fall in prices",
       "a proprotionate fall in price",
@@ -7645,7 +7645,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-61-193",
-    "questionText": "The dispersal of people in a country is called (JAMB 2001)",
+    "questionText": "The dispersal of people in a country is called",
     "options": [
       "mobility of people",
       "geographical distribution",
@@ -7657,7 +7657,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-62-201",
-    "questionText": "Consumers buy more of a commodity at a lower price than at a higher price because (JAMB 2001)",
+    "questionText": "Consumers buy more of a commodity at a lower price than at a higher price because",
     "options": [
       "producers like to produce more",
       "in any given situation, people like to buy more",
@@ -7669,7 +7669,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-63-205",
-    "questionText": "The responsiveness of demand to a change in income is the measurement of (JAMB 2001)",
+    "questionText": "The responsiveness of demand to a change in income is the measurement of",
     "options": [
       "foreign exchange rate",
       "cross elasticity of demand",
@@ -7681,7 +7681,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-64-197",
-    "questionText": "The marginal product at the fourth variable factor is (JAMB 2001)",
+    "questionText": "The marginal product at the fourth variable factor is",
     "options": [
       "12",
       "9",
@@ -7693,7 +7693,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-65-185",
-    "questionText": "Economic problems arise because (JAMB 2001)",
+    "questionText": "Economic problems arise because",
     "options": [
       "resources are scarce relative to wants",
       "man is insatiable",
@@ -7705,7 +7705,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-66-209",
-    "questionText": "Which of the following business units can issue shares? (JAMB 2001)",
+    "questionText": "Which of the following business units can issue shares?",
     "options": [
       "Sole trader",
       "Private limited company",
@@ -7717,7 +7717,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-67-223",
-    "questionText": "Short-term loans can be sourced from (JAMB 2001)",
+    "questionText": "Short-term loans can be sourced from",
     "options": [
       "the central bank",
       "development banks",
@@ -7729,7 +7729,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-68-199",
-    "questionText": "The average product of the variable factor when four units are employed is (JAMB 2001)",
+    "questionText": "The average product of the variable factor when four units are employed is",
     "options": [
       "6",
       "8",
@@ -7741,7 +7741,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-69-220",
-    "questionText": "The situation in which there is a persistent fall in the general price level is referred to as (JAMB 2001)",
+    "questionText": "The situation in which there is a persistent fall in the general price level is referred to as",
     "options": [
       "devaluation",
       "depreciation",
@@ -7753,7 +7753,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-70-219",
-    "questionText": "Which of the following is the most liquid asset? (JAMB 2001)",
+    "questionText": "Which of the following is the most liquid asset?",
     "options": [
       "Bank notes",
       "Silver",
@@ -7765,7 +7765,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-71-217",
-    "questionText": "Money is demanded for which of the following reasons? (JAMB 2001)",
+    "questionText": "Money is demanded for which of the following reasons?",
     "options": [
       "To meet unforeseen contingencies",
       "To solve the problem of inflation",
@@ -7777,7 +7777,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-72-211",
-    "questionText": "Which of the following is not a trade union in Nigeria? (JAMB 2001)",
+    "questionText": "Which of the following is not a trade union in Nigeria?",
     "options": [
       "Nigerian Labour Congress",
       "Academic Staff Union of Universities",
@@ -7789,7 +7789,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-73-228",
-    "questionText": "A greater burden of tax on a product with high price elasticity of demand rests mainly on the (JAMB 2001)",
+    "questionText": "A greater burden of tax on a product with high price elasticity of demand rests mainly on the",
     "options": [
       "producer",
       "teacher",
@@ -7801,7 +7801,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-74-204",
-    "questionText": "If the quantity demanded of a particular commodity is represented by the function Qd = 30 - 2p. What is the quantity demanded at a price of twelve Naira? (JAMB 2001)",
+    "questionText": "If the quantity demanded of a particular commodity is represented by the function Qd = 30 - 2p. What is the quantity demanded at a price of twelve Naira?",
     "options": [
       "6 units",
       "8 units",
@@ -7813,7 +7813,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-75-191",
-    "questionText": "The difference between the highest and lowest in a set of data is the (JAMB 2001)",
+    "questionText": "The difference between the highest and lowest in a set of data is the",
     "options": [
       "Range",
       "median",
@@ -7825,7 +7825,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-76-187",
-    "questionText": "The economic system in which resources are privately owned is known as (JAMB 2001)",
+    "questionText": "The economic system in which resources are privately owned is known as",
     "options": [
       "capitalism",
       "socialism",
@@ -7837,7 +7837,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-77-636",
-    "questionText": "The value of money is generally measured in relation to the (JAMB 2007)",
+    "questionText": "The value of money is generally measured in relation to the",
     "options": [
       "interest rate charged on bank loan",
       "general price level",
@@ -7849,7 +7849,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-78-244",
-    "questionText": "If TC, FC and VC represent total cost, fixed cost and variable cost respectively, which of the following is\n\tcorrect? (JAMB 2010)",
+    "questionText": "If TC, FC and VC represent total cost, fixed cost and variable cost respectively, which of the following is\n\tcorrect?",
     "options": [
       "TC = FC-VC",
       "FC = TC + VC",
@@ -7861,7 +7861,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-79-121",
-    "questionText": " Yam and palm oil are together; therefore   (JAMB 2012)",
+    "questionText": " Yam and palm oil are together; therefore",
     "options": [
       "Yam is a substitute good while palm oil is a complementary good",
       "Yam is complimentary good while palm oil is a substitute good",
@@ -7873,7 +7873,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-80-87",
-    "questionText": "Economics of scale operates only when  (JAMB 2009)",
+    "questionText": "Economics of scale operates only when",
     "options": [
       "Marginal cost is falling with output fixed cost is variable",
       "fixed cost is variable",
@@ -7885,7 +7885,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-81-599",
-    "questionText": "Which of the following is a form of tax evasion? (JAMB 2006)",
+    "questionText": "Which of the following is a form of tax evasion?",
     "options": [
       "Wrong declaration of earnings",
       "Payments of flat rate tax",
@@ -7897,7 +7897,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-82-257",
-    "questionText": "The following are advantages of large scale agriculture except (JAMB 2010)",
+    "questionText": "The following are advantages of large scale agriculture except",
     "options": [
       "use of simple implements",
       "use of sophisticated implements",
@@ -7909,7 +7909,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-83-419",
-    "questionText": "Which of the following factors of production consists of man made goods? (JAMB 2003)",
+    "questionText": "Which of the following factors of production consists of man made goods?",
     "options": [
       "Land",
       "Labour",
@@ -7921,7 +7921,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-84-467",
-    "questionText": "A carpenter’s consumer good include:  I.  a kilogram of rice II.  3 pairs of shoes    III.  4 pairs of socks   IV. 3 screw-drivers (JAMB 2004)",
+    "questionText": "A carpenter’s consumer good include:  I.  a kilogram of rice II.  3 pairs of shoes    III.  4 pairs of socks   IV. 3 screw-drivers",
     "options": [
       "I and IV only",
       "I, II, III and IV",
@@ -7933,7 +7933,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-85-460",
-    "questionText": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the (JAMB 2003)",
+    "questionText": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
     "options": [
       "increasing population",
       "willingness of member to co-operate",
@@ -7945,7 +7945,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-86-496",
-    "questionText": "To ensure high employment rates, developing countries should (JAMB 2004)",
+    "questionText": "To ensure high employment rates, developing countries should",
     "options": [
       "build more universities",
       "protect infant industries",
@@ -7957,7 +7957,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-87-81",
-    "questionText": "A greater burden of taxes on essential goods in borne by the  (JAMB 2009)",
+    "questionText": "A greater burden of taxes on essential goods in borne by the",
     "options": [
       "middle income group",
       "Higher income group",
@@ -7969,7 +7969,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-88-216",
-    "questionText": "One of the functions of money is (JAMB 2001)",
+    "questionText": "One of the functions of money is",
     "options": [
       "double coincidence of wants",
       "unit of account",
@@ -7981,7 +7981,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-89-617",
-    "questionText": "Given that TR is total revenue, then TRn - TR(n-1) can be used to find the (JAMB 2007)",
+    "questionText": "Given that TR is total revenue, then TRn - TR(n-1) can be used to find the",
     "options": [
       "marginal revenue",
       "marginal cost",
@@ -7993,7 +7993,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-90-300",
-    "questionText": "Which of the following is not a consequence of increased unemployment? (JAMB 2012)",
+    "questionText": "Which of the following is not a consequence of increased unemployment?",
     "options": [
       "A fall in tax revenue for the government",
       "A reduction in trade union’s influence",
@@ -8005,7 +8005,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-91-359",
-    "questionText": "Industries for consumer goods are concentrated in urban centres as result of (JAMB 2009)",
+    "questionText": "Industries for consumer goods are concentrated in urban centres as result of",
     "options": [
       "large market",
       "power supply",
@@ -8017,7 +8017,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-92-122",
-    "questionText": "Private and public limited liability companies are not the same because   (JAMB 2012)",
+    "questionText": "Private and public limited liability companies are not the same because",
     "options": [
       "Former is limited to fifty shareholders but not the later",
       "both are not legal entities",
@@ -8029,7 +8029,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-93-246",
-    "questionText": "A firm is said to be a public joint stock company when it (JAMB 2010)",
+    "questionText": "A firm is said to be a public joint stock company when it",
     "options": [
       "is owned by the government",
       "sells its shares to members of the public",
@@ -8041,7 +8041,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-94-238",
-    "questionText": "The slope of a supply curve is (JAMB 2010)",
+    "questionText": "The slope of a supply curve is",
     "options": [
       "Horizontal",
       "uniform",
@@ -8053,7 +8053,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-95-446",
-    "questionText": "A continuous fall in the general price level is called (JAMB 2003)",
+    "questionText": "A continuous fall in the general price level is called",
     "options": [
       "recession",
       "depression",
@@ -8065,7 +8065,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-96-41",
-    "questionText": "Money market differs from capital market in that it.  (JAMB 2007)",
+    "questionText": "Money market differs from capital market in that it.",
     "options": [
       "deals with short-term loans while capital market deals with terms funds",
       "deals with money only while capital market deals with capital as well",
@@ -8077,7 +8077,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-97-561",
-    "questionText": "Which of the following tools of economic analysis is used when data contains more than one category? (JAMB 2006)",
+    "questionText": "Which of the following tools of economic analysis is used when data contains more than one category?",
     "options": [
       "Bars charts",
       "Component bar charts",
@@ -8089,7 +8089,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-98-70",
-    "questionText": "Which of the following is regarded as fixed cost?  (JAMB 2008)",
+    "questionText": "Which of the following is regarded as fixed cost?",
     "options": [
       "Cost of raw materials",
       "rent on land",
@@ -8101,7 +8101,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394863-99-357",
-    "questionText": "To enhance the competitiveness of domestic agricultural products, there is need to (JAMB 2009)",
+    "questionText": "To enhance the competitiveness of domestic agricultural products, there is need to",
     "options": [
       "ban the importation of agricultural products",
       "increase the exportation of agricultural products",
@@ -8113,7 +8113,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-100-640",
-    "questionText": "A foreign exchange market deals in (JAMB 2007)",
+    "questionText": "A foreign exchange market deals in",
     "options": [
       "treasury bills",
       "currencies",
@@ -8125,7 +8125,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-101-277",
-    "questionText": "If a 20% rise in the price of  Whisky leads to a 30% increase in quantity demanded of Schnapps, the cross elasticity of demand is (JAMB 2012)",
+    "questionText": "If a 20% rise in the price of  Whisky leads to a 30% increase in quantity demanded of Schnapps, the cross elasticity of demand is",
     "options": [
       "3.0",
       "2.5",
@@ -8137,7 +8137,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-102-276",
-    "questionText": "The co-efficient of income elasticity of demand for inferior goods is (JAMB 2012)",
+    "questionText": "The co-efficient of income elasticity of demand for inferior goods is",
     "options": [
       "Positive",
       "equal to one",
@@ -8149,7 +8149,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-103-497",
-    "questionText": "The act of selling goods in foreign markets at prices below those charged at home markets is called (JAMB 2004)",
+    "questionText": "The act of selling goods in foreign markets at prices below those charged at home markets is called",
     "options": [
       "exchange",
       "specialization",
@@ -8161,7 +8161,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-104-571",
-    "questionText": "The amount of satisfaction obtained from the consumption of a commodity at a particular time is called (JAMB 2006)",
+    "questionText": "The amount of satisfaction obtained from the consumption of a commodity at a particular time is called",
     "options": [
       "marginal utility",
       "diminishing utility",
@@ -8173,7 +8173,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-105-283",
-    "questionText": "When total utility is constant, it means marginal utility is (JAMB 2012)",
+    "questionText": "When total utility is constant, it means marginal utility is",
     "options": [
       "Increasing",
       "zero",
@@ -8185,7 +8185,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-106-521",
-    "questionText": "A factor that has slowed down the rate of industrial development in West Africa is (JAMB 2005)",
+    "questionText": "A factor that has slowed down the rate of industrial development in West Africa is",
     "options": [
       "inadequate technology",
       "increasing rate of manpower production",
@@ -8197,7 +8197,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-107-141",
-    "questionText": "If the cross elasticity of demand between X and Y is zero, then    (JAMB 2013)",
+    "questionText": "If the cross elasticity of demand between X and Y is zero, then",
     "options": [
       "X and Y are substitutes",
       "X and Y are complements",
@@ -8209,7 +8209,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-108-341",
-    "questionText": "Double counting is a problem in computing national income when using the (JAMB 2009)",
+    "questionText": "Double counting is a problem in computing national income when using the",
     "options": [
       "expenditure method",
       "income method",
@@ -8221,7 +8221,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-109-158",
-    "questionText": "Which of the following is one of the responsibilities of the Central Bank of Nigeria?  (JAMB 2013)",
+    "questionText": "Which of the following is one of the responsibilities of the Central Bank of Nigeria?",
     "options": [
       "issuing new bond to finance public sector borrowing requirements",
       "auditing the various agencies and departments of government",
@@ -8233,7 +8233,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-110-101",
-    "questionText": "The following are features of a free market economy except  (JAMB 2011)",
+    "questionText": "The following are features of a free market economy except",
     "options": [
       "private ownership of properties",
       "existence of competition",
@@ -8245,7 +8245,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-111-333",
-    "questionText": "Determine the average product of the 4th unit of capital (JAMB 2009)",
+    "questionText": "Determine the average product of the 4th unit of capital",
     "options": [
       "53",
       "86",
@@ -8257,7 +8257,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-112-137",
-    "questionText": "In the short run, all of the following are applicable except   (JAMB 2013)",
+    "questionText": "In the short run, all of the following are applicable except",
     "options": [
       "Output may be increased by changing all factors by the same proportion",
       "Diminishing returns",
@@ -8269,7 +8269,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-113-438",
-    "questionText": "Which of the following is a type of business organization? (JAMB 2003)",
+    "questionText": "Which of the following is a type of business organization?",
     "options": [
       "Stock exchange",
       "Insurance company",
@@ -8281,7 +8281,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-114-457",
-    "questionText": "The tax whose rate increases as the level of income increases is known as (JAMB 2003)",
+    "questionText": "The tax whose rate increases as the level of income increases is known as",
     "options": [
       "regressive tax",
       "proportional tax",
@@ -8293,7 +8293,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-115-447",
-    "questionText": "Which of the following is a function of the central bank? (JAMB 2003)",
+    "questionText": "Which of the following is a function of the central bank?",
     "options": [
       "Accepting deposits from the public",
       "Lending to the commercial bank",
@@ -8305,7 +8305,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-116-420",
-    "questionText": "One major function of the entrepreneur is (JAMB 2003)",
+    "questionText": "One major function of the entrepreneur is",
     "options": [
       "bearing of risk",
       "maximizing profits",
@@ -8317,7 +8317,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-117-463",
-    "questionText": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a (JAMB 2003)",
+    "questionText": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a",
     "options": [
       "perfect competition",
       "monopsony",
@@ -8329,7 +8329,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-118-428",
-    "questionText": "The market supply curve slopes upwards from left to right indicating that (JAMB 2003)",
+    "questionText": "The market supply curve slopes upwards from left to right indicating that",
     "options": [
       "at a lower price, more is supplied",
       "two commodities can be supplied at the same time",
@@ -8341,7 +8341,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-119-456",
-    "questionText": "Which of the following is a direct tax? (JAMB 2003)",
+    "questionText": "Which of the following is a direct tax?",
     "options": [
       "Import duties",
       "Purchase tax",
@@ -8353,7 +8353,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-120-462",
-    "questionText": "It is necessary to estimate the national income of a country because it (JAMB 2003)",
+    "questionText": "It is necessary to estimate the national income of a country because it",
     "options": [
       "indicates the overall performance of the economy",
       "ensures equitable distribution of wealth",
@@ -8365,7 +8365,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-121-452",
-    "questionText": "When the demand for foreign exchange exceeds its supply, the value of the domestic currency (JAMB 2003)",
+    "questionText": "When the demand for foreign exchange exceeds its supply, the value of the domestic currency",
     "options": [
       "appreciates",
       "depreciates",
@@ -8377,7 +8377,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-122-442",
-    "questionText": "One of the factors responsible for low agricultural \n\tproduction in West Africa is (JAMB 2003)",
+    "questionText": "One of the factors responsible for low agricultural \n\tproduction in West Africa is",
     "options": [
       "inadequate labour",
       "shortage of land",
@@ -8389,7 +8389,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-123-424",
-    "questionText": "The additional satisfaction derived from the consumption of one more unit of a good is called (JAMB 2003)",
+    "questionText": "The additional satisfaction derived from the consumption of one more unit of a good is called",
     "options": [
       "marginal product",
       "marginal utility",
@@ -8401,7 +8401,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-124-414",
-    "questionText": "Economic as a field of study is a (JAMB 2003)",
+    "questionText": "Economic as a field of study is a",
     "options": [
       "pure science",
       "political science",
@@ -8413,7 +8413,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-125-455",
-    "questionText": "Governments of West African countries levy taxes to (JAMB 2003)",
+    "questionText": "Governments of West African countries levy taxes to",
     "options": [
       "prevent prices from falling",
       "make people richer",
@@ -8425,7 +8425,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-126-427",
-    "questionText": "Marginal cost can be derived from the (JAMB 2003)",
+    "questionText": "Marginal cost can be derived from the",
     "options": [
       "total product",
       "total revenue",
@@ -8437,7 +8437,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-127-439",
-    "questionText": "One advantage of the sole proprietorship is that (JAMB 2003)",
+    "questionText": "One advantage of the sole proprietorship is that",
     "options": [
       "control and supervision is under one man",
       "accounts must be publicized",
@@ -8449,7 +8449,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-128-430",
-    "questionText": "The term under population refers to a situation where the population is (JAMB 2003)",
+    "questionText": "The term under population refers to a situation where the population is",
     "options": [
       "dispersed over the country",
       "small in relation to available resources",
@@ -8461,7 +8461,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-129-445",
-    "questionText": "Money becomes a very poor store of value in a period of (JAMB 2003)",
+    "questionText": "Money becomes a very poor store of value in a period of",
     "options": [
       "deflation",
       "depression",
@@ -8473,7 +8473,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-130-449",
-    "questionText": "The most important function of merchant banks is the (JAMB 2003)",
+    "questionText": "The most important function of merchant banks is the",
     "options": [
       "issuing of currency",
       "provision of short term loans",
@@ -8485,7 +8485,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-131-454",
-    "questionText": "The most common index for measuring development is (JAMB 2003)",
+    "questionText": "The most common index for measuring development is",
     "options": [
       "the level of illiteracy",
       "the per capital income",
@@ -8497,7 +8497,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-132-432",
-    "questionText": "Which of the following could be  used  to  measure  the efficiency of labour? (JAMB 2003)",
+    "questionText": "Which of the following could be  used  to  measure  the efficiency of labour?",
     "options": [
       "Education and training",
       "Rate of inflation",
@@ -8509,7 +8509,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-133-440",
-    "questionText": "The shares which do not carry any fixed rate of dividend are known as (JAMB 2003)",
+    "questionText": "The shares which do not carry any fixed rate of dividend are known as",
     "options": [
       "debentures",
       "cumulative preference shares",
@@ -8521,7 +8521,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-134-435",
-    "questionText": "If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is (JAMB 2003)",
+    "questionText": "If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is",
     "options": [
       "0",
       "1",
@@ -8533,7 +8533,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-135-459",
-    "questionText": "Budget deficit can be financed by (JAMB 2003)",
+    "questionText": "Budget deficit can be financed by",
     "options": [
       "reducing the level of taxation",
       "printing more money",
@@ -8545,7 +8545,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-136-444",
-    "questionText": "The demand for money is (JAMB 2003)",
+    "questionText": "The demand for money is",
     "options": [
       "derived demand",
       "composite demand",
@@ -8557,7 +8557,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-137-417",
-    "questionText": "The problem of scarcity is reduced by (JAMB 2003)",
+    "questionText": "The problem of scarcity is reduced by",
     "options": [
       "controlling consumption of goods and services",
       "producing everything needed by consumers",
@@ -8569,7 +8569,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-138-433",
-    "questionText": "Which of the following is necessary for the survival of small firms in West Africa? (JAMB 2003)",
+    "questionText": "Which of the following is necessary for the survival of small firms in West Africa?",
     "options": [
       "Access to land for development",
       "Inadequate collaterals for bank loans",
@@ -8581,7 +8581,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-139-453",
-    "questionText": "Which of the following is part of the capital account of the balance of payments? (JAMB 2003)",
+    "questionText": "Which of the following is part of the capital account of the balance of payments?",
     "options": [
       "Net investment from abroad",
       "Import of machinery",
@@ -8593,7 +8593,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-140-461",
-    "questionText": "In a socialist economy, the means of production is owned and controlled by the (JAMB 2003)",
+    "questionText": "In a socialist economy, the means of production is owned and controlled by the",
     "options": [
       "state",
       "rich",
@@ -8605,7 +8605,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-141-434",
-    "questionText": "A normal demand curve slopes (JAMB 2003)",
+    "questionText": "A normal demand curve slopes",
     "options": [
       "downwards from left to right",
       "upwards from left to right",
@@ -8617,7 +8617,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-142-448",
-    "questionText": "Cost-push inflation is likely to arise when (JAMB 2003)",
+    "questionText": "Cost-push inflation is likely to arise when",
     "options": [
       "there is an increase in government spending",
       "there is an increase in direct taxes",
@@ -8629,7 +8629,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-143-458",
-    "questionText": "Public expenditure on education and health is known as expenditure on (JAMB 2003)",
+    "questionText": "Public expenditure on education and health is known as expenditure on",
     "options": [
       "general services",
       "social services",
@@ -8641,7 +8641,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-144-423",
-    "questionText": "Which of the following is  an  advantage of localization of \n\tindustry? (JAMB 2003)",
+    "questionText": "Which of the following is  an  advantage of localization of \n\tindustry?",
     "options": [
       "Development of subsidiary firms",
       "Creation of parallel markets",
@@ -8653,7 +8653,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-145-441",
-    "questionText": "The economic goal of public corporations is to (JAMB 2003)",
+    "questionText": "The economic goal of public corporations is to",
     "options": [
       "maximize profit",
       "expand assets",
@@ -8665,7 +8665,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-146-436",
-    "questionText": "Price elasticity of supply measures the responsiveness of (JAMB 2003)",
+    "questionText": "Price elasticity of supply measures the responsiveness of",
     "options": [
       "quantity supplied to changes in suppliers’ income",
       "changes in prices of other commodities",
@@ -8677,7 +8677,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-147-466",
-    "questionText": "The three broad categories of production are (JAMB 2004)",
+    "questionText": "The three broad categories of production are",
     "options": [
       "direct, secondary and extractive",
       "primary, tertiary and direct",
@@ -8689,7 +8689,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-148-494",
-    "questionText": "When the general price level persistently falls, the rate of  unemployment (JAMB 2004)",
+    "questionText": "When the general price level persistently falls, the rate of  unemployment",
     "options": [
       "rises",
       "stagnates",
@@ -8701,7 +8701,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-149-508",
-    "questionText": "The economic Community of West African States (ECOWAS) has been slow in achieving its objectives because of (JAMB 2004)",
+    "questionText": "The economic Community of West African States (ECOWAS) has been slow in achieving its objectives because of",
     "options": [
       "political instability in member state",
       "the activities of multi-national",
@@ -8713,7 +8713,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-150-504",
-    "questionText": "A surplus in the balance of payments should be used to (JAMB 2004)",
+    "questionText": "A surplus in the balance of payments should be used to",
     "options": [
       "subsidize multi-national companies",
       "build infrastructure for friendly nations",
@@ -8725,7 +8725,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-151-507",
-    "questionText": "Which of the following is excluded when estimating national income? (JAMB 2004)",
+    "questionText": "Which of the following is excluded when estimating national income?",
     "options": [
       "Dividends",
       "Wages and salaries",
@@ -8737,7 +8737,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-152-475",
-    "questionText": "Natural growth rate is (JAMB 2004)",
+    "questionText": "Natural growth rate is",
     "options": [
       "birth rate less death rate",
       "death rate less migration",
@@ -8749,7 +8749,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-153-469",
-    "questionText": "Mixed economy refers to a system in which the means of production are controlled by (JAMB 2004)",
+    "questionText": "Mixed economy refers to a system in which the means of production are controlled by",
     "options": [
       "private enterprise and the government",
       "private individuals",
@@ -8761,7 +8761,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-154-489",
-    "questionText": "The market consisting  of  a  network  of  dealers  where \tcurrencies can be bought and sold is known as (JAMB 2004)",
+    "questionText": "The market consisting  of  a  network  of  dealers  where \tcurrencies can be bought and sold is known as",
     "options": [
       "capital market",
       "foreign exchange market",
@@ -8773,7 +8773,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-155-495",
-    "questionText": "Which of the following is not a direct effort to increase agricultural production? (JAMB 2004)",
+    "questionText": "Which of the following is not a direct effort to increase agricultural production?",
     "options": [
       "Operation feed the nation",
       "Use of improved seedlings",
@@ -8785,7 +8785,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-156-470",
-    "questionText": "An economic good is described as a good which (JAMB 2004)",
+    "questionText": "An economic good is described as a good which",
     "options": [
       "yield utility and commands a price",
       "is useful and occupies a space",
@@ -8797,7 +8797,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-157-492",
-    "questionText": "Which of the following will ensure efficiency in the industrial sector of your country? (JAMB 2004)",
+    "questionText": "Which of the following will ensure efficiency in the industrial sector of your country?",
     "options": [
       "Indigenization",
       "Privatization",
@@ -8809,7 +8809,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-158-488",
-    "questionText": "Government can control inflation by (JAMB 2004)",
+    "questionText": "Government can control inflation by",
     "options": [
       "printing more money",
       "reducing the rate of taxes",
@@ -8821,7 +8821,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-159-509",
-    "questionText": "A major achievement of  the  Organization  of  Petroleum Exporting Countries (OPEC) is that (JAMB 2004)",
+    "questionText": "A major achievement of  the  Organization  of  Petroleum Exporting Countries (OPEC) is that",
     "options": [
       "crude oil price has increased tremendously",
       "petroleum products prices have remained low",
@@ -8833,7 +8833,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-160-468",
-    "questionText": "In a capitalist system, the means of production is owned and controlled by (JAMB 2004)",
+    "questionText": "In a capitalist system, the means of production is owned and controlled by",
     "options": [
       "the government",
       "politicians",
@@ -8845,7 +8845,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-161-464",
-    "questionText": "Which of the following is an economic activity? (JAMB 2004)",
+    "questionText": "Which of the following is an economic activity?",
     "options": [
       "Attending a town’s meeting",
       "A visit to the stadium",
@@ -8857,7 +8857,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-162-498",
-    "questionText": "Taxes levied on commodities are (JAMB 2004)",
+    "questionText": "Taxes levied on commodities are",
     "options": [
       "direct taxes",
       "indirect taxes",
@@ -8869,7 +8869,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-163-477",
-    "questionText": "One of the problems associated with the middleman in the distribution of goods is that he (JAMB 2004)",
+    "questionText": "One of the problems associated with the middleman in the distribution of goods is that he",
     "options": [
       "buys in large quantities",
       "hoards goods",
@@ -8881,7 +8881,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-164-493",
-    "questionText": "The number of people who are qualified to work and who offer themselves for employment are called (JAMB 2004)",
+    "questionText": "The number of people who are qualified to work and who offer themselves for employment are called",
     "options": [
       "migrant labour",
       "working population",
@@ -8893,7 +8893,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-165-501",
-    "questionText": "Trade among West African countries is poor because the (JAMB 2004)",
+    "questionText": "Trade among West African countries is poor because the",
     "options": [
       "countries are self-sufficient",
       "communication links are weak",
@@ -8905,7 +8905,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-166-465",
-    "questionText": "The reward for land as a factor of production is (JAMB 2004)",
+    "questionText": "The reward for land as a factor of production is",
     "options": [
       "interest",
       "rent",
@@ -8917,7 +8917,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-167-490",
-    "questionText": "Open Market Operation (OMO) means the (JAMB 2004)",
+    "questionText": "Open Market Operation (OMO) means the",
     "options": [
       "provision of credit facilities by commercial banks",
       "provision of credit facilities by the mortgage banks",
@@ -8929,7 +8929,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-168-473",
-    "questionText": "Division of labour is limited by (JAMB 2004)",
+    "questionText": "Division of labour is limited by",
     "options": [
       "the size of the market",
       "the productivity of capital",
@@ -8941,7 +8941,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-169-500",
-    "questionText": "International trade is an application of the principle of (JAMB 2004)",
+    "questionText": "International trade is an application of the principle of",
     "options": [
       "industrial production",
       "mass production",
@@ -8953,7 +8953,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-170-482",
-    "questionText": "For both the monopolist and the perfectly competitive firm, profit maximizing output occurs at the point where the (JAMB 2004)",
+    "questionText": "For both the monopolist and the perfectly competitive firm, profit maximizing output occurs at the point where the",
     "options": [
       "marginal cost curve cuts the marginal revenue curve from below",
       "marginal revenue curve cuts the marginal output from above",
@@ -8965,7 +8965,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-171-481",
-    "questionText": "When a change in price does not affect the quantity demanded of a commodity, the price elasticity of demand is (JAMB 2004)",
+    "questionText": "When a change in price does not affect the quantity demanded of a commodity, the price elasticity of demand is",
     "options": [
       "fairly inelastic",
       "infinitely elastic",
@@ -8977,7 +8977,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-172-503",
-    "questionText": "Which of the following items is under the capital account of a balance of payments (JAMB 2004)",
+    "questionText": "Which of the following items is under the capital account of a balance of payments",
     "options": [
       "Repayments of foreign loans",
       "Visible imports",
@@ -8989,7 +8989,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-173-471",
-    "questionText": "The concept of opportunity cost is important to the firm because it (JAMB 2004)",
+    "questionText": "The concept of opportunity cost is important to the firm because it",
     "options": [
       "determines the prices of the firm’s products",
       "increases the level of output of the firm",
@@ -9001,7 +9001,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-174-505",
-    "questionText": "Development planning which takes an overall view of the economy is described as (JAMB 2004)",
+    "questionText": "Development planning which takes an overall view of the economy is described as",
     "options": [
       "Aggregate economic planning",
       "Disaggregated economic planning",
@@ -9013,7 +9013,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-175-479",
-    "questionText": "The gap between demand and  supply  curves  below the equilibrium price indicates (JAMB 2004)",
+    "questionText": "The gap between demand and  supply  curves  below the equilibrium price indicates",
     "options": [
       "excess demand",
       "excess supply",
@@ -9025,7 +9025,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-176-480",
-    "questionText": "Demand for inferior good is an example of (JAMB 2004)",
+    "questionText": "Demand for inferior good is an example of",
     "options": [
       "expansion of demand",
       "contraction of demand",
@@ -9037,7 +9037,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-177-485",
-    "questionText": "Joint ventures are partnerships involving (JAMB 2004)",
+    "questionText": "Joint ventures are partnerships involving",
     "options": [
       "the poor and the rich",
       "employers and workers",
@@ -9049,7 +9049,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-178-487",
-    "questionText": "Which of the following will be an effect of inflation? (JAMB 2004)",
+    "questionText": "Which of the following will be an effect of inflation?",
     "options": [
       "Wages earners will gain",
       "Borrowing of money will be restricted",
@@ -9061,7 +9061,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-179-474",
-    "questionText": "An entrepreneur is likely to make more profits when (JAMB 2004)",
+    "questionText": "An entrepreneur is likely to make more profits when",
     "options": [
       "expenditure is more than revenue",
       "competitors charge lower prices",
@@ -9073,7 +9073,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-180-486",
-    "questionText": "The value of money is best determined by (JAMB 2004)",
+    "questionText": "The value of money is best determined by",
     "options": [
       "input-output ratio",
       "the purchasing power",
@@ -9085,7 +9085,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-181-502",
-    "questionText": "A policy by which governments restrict the amount of \n\tforeign currencies bought and sold is known as (JAMB 2004)",
+    "questionText": "A policy by which governments restrict the amount of \n\tforeign currencies bought and sold is known as",
     "options": [
       "devaluation",
       "credit creation",
@@ -9097,7 +9097,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-182-472",
-    "questionText": "As a firm expands, it enjoys some advantages called (JAMB 2004)",
+    "questionText": "As a firm expands, it enjoys some advantages called",
     "options": [
       "variable proportions",
       "diminishing marginal returns",
@@ -9109,7 +9109,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-183-524",
-    "questionText": "The desire for goods without the ability to pay is called (JAMB 2005)",
+    "questionText": "The desire for goods without the ability to pay is called",
     "options": [
       "choice",
       "effective demand",
@@ -9121,7 +9121,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-184-537",
-    "questionText": "Acceptability, durability, homogeneity and portability are all \tattributes of good (JAMB 2005)",
+    "questionText": "Acceptability, durability, homogeneity and portability are all \tattributes of good",
     "options": [
       "markets",
       "money",
@@ -9133,7 +9133,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-185-513",
-    "questionText": "The 150.00 Naira which Olu would have used to purchase a textbook was used to buy a T-shirt. This implies that (JAMB 2005)",
+    "questionText": "The 150.00 Naira which Olu would have used to purchase a textbook was used to buy a T-shirt. This implies that",
     "options": [
       "Olu’s real cost is 150.00 Naira",
       "Olu’s opportunity cost is the T-shirt",
@@ -9145,7 +9145,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-186-526",
-    "questionText": "At the equilibrium price, quantity demanded is (JAMB 2005)",
+    "questionText": "At the equilibrium price, quantity demanded is",
     "options": [
       "greater than quantity supplied",
       "equal to quantity supplied",
@@ -9157,7 +9157,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-187-556",
-    "questionText": "ln calculating the national income of a country x, the cost of both raw materials and the finished products \t\twere included. This is a case of (JAMB 2005)",
+    "questionText": "ln calculating the national income of a country x, the cost of both raw materials and the finished products \t\twere included. This is a case of",
     "options": [
       "double counting",
       "price fluctuations",
@@ -9169,7 +9169,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-188-533",
-    "questionText": "ln which of the following business units are the owners mostly the customers? (JAMB 2005)",
+    "questionText": "ln which of the following business units are the owners mostly the customers?",
     "options": [
       "Co-operatives",
       "Limited liability companies",
@@ -9181,7 +9181,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-189-519",
-    "questionText": "Age distribution is important because it helps the \tgovernment to (JAMB 2005)",
+    "questionText": "Age distribution is important because it helps the \tgovernment to",
     "options": [
       "check rural-urban drift",
       "determine the number of foreigners",
@@ -9193,7 +9193,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-190-522",
-    "questionText": "To achieve an equilibrium position, the consumer must buy so much of each commodity whose price is equal its (JAMB 2005)",
+    "questionText": "To achieve an equilibrium position, the consumer must buy so much of each commodity whose price is equal its",
     "options": [
       "marginal utility",
       "total utility",
@@ -9205,7 +9205,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-191-544",
-    "questionText": "Among the principles of taxation propounded by Adam Smith was that (JAMB 2005)",
+    "questionText": "Among the principles of taxation propounded by Adam Smith was that",
     "options": [
       "a tax should be impossible to evade",
       "a tax should be convenient to pay",
@@ -9217,7 +9217,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-192-525",
-    "questionText": "Amount of goods offered to the market at respective prices and presented in a table is called (JAMB 2005)",
+    "questionText": "Amount of goods offered to the market at respective prices and presented in a table is called",
     "options": [
       "price schedule",
       "supply schedule",
@@ -9229,7 +9229,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-193-542",
-    "questionText": "Discounting a bill of exchange means the bill is (JAMB 2005)",
+    "questionText": "Discounting a bill of exchange means the bill is",
     "options": [
       "cashed over the counter",
       "sold on the stock exchange",
@@ -9241,7 +9241,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-194-530",
-    "questionText": "The transfer of ownership of a public enterprise to  individuals and firms is called (JAMB 2005)",
+    "questionText": "The transfer of ownership of a public enterprise to  individuals and firms is called",
     "options": [
       "commercialization",
       "nationalization",
@@ -9253,7 +9253,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-195-523",
-    "questionText": "Price control refers to (JAMB 2005)",
+    "questionText": "Price control refers to",
     "options": [
       "the ways of making more goods available in the market",
       "a policy of ensuring stable price in the market",
@@ -9265,7 +9265,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-196-552",
-    "questionText": "Mono-product economies are those that (JAMB 2005)",
+    "questionText": "Mono-product economies are those that",
     "options": [
       "produce one main commodity",
       "produce only raw materials",
@@ -9277,7 +9277,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-197-538",
-    "questionText": "The term demand for money means (JAMB 2005)",
+    "questionText": "The term demand for money means",
     "options": [
       "desire to borrow money from people",
       "desire of an individual to invest all his money in projects",
@@ -9289,7 +9289,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-198-549",
-    "questionText": "To improve the balance of payments position of West African countries, there must be (JAMB 2005)",
+    "questionText": "To improve the balance of payments position of West African countries, there must be",
     "options": [
       "removal of barriers to importation of goods and services",
       "increased rate of exportation of goods and services",
@@ -9301,7 +9301,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-199-531",
-    "questionText": "One-man businesses are popular in West Africa because of all the following except the (JAMB 2005)",
+    "questionText": "One-man businesses are popular in West Africa because of all the following except the",
     "options": [
       "ease of entry",
       "small capital required",
@@ -9313,7 +9313,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-200-518",
-    "questionText": "Which of the following determines the sizes of a country’s population?    (l) Birth rate    (ll) Death rate     \n\t(lll) Migration rate     (lV) lmportation rate    (V) Unemployment (JAMB 2005)",
+    "questionText": "Which of the following determines the sizes of a country’s population?    (l) Birth rate    (ll) Death rate     \n\t(lll) Migration rate     (lV) lmportation rate    (V) Unemployment",
     "options": [
       "l), (ll) and (V)",
       "(ll) and (lV)",
@@ -9325,7 +9325,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-201-539",
-    "questionText": "A persistent and appreciable rise in the general level of prices is known as (JAMB 2005)",
+    "questionText": "A persistent and appreciable rise in the general level of prices is known as",
     "options": [
       "depreciation",
       "inflation",
@@ -9337,7 +9337,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-202-554",
-    "questionText": "ln a capitalist system, goods are produced for those who (JAMB 2005)",
+    "questionText": "ln a capitalist system, goods are produced for those who",
     "options": [
       "want them most but cannot pay for them",
       "can pay for them but do not want them",
@@ -9349,7 +9349,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-203-543",
-    "questionText": "The central bank controls credit in the economy through the use of (JAMB 2005)",
+    "questionText": "The central bank controls credit in the economy through the use of",
     "options": [
       "legal tender",
       "travelers cheque",
@@ -9361,7 +9361,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-204-527",
-    "questionText": "lf the government fixed a price of a commodity above the equilibrium price, the quantity supplied will be (JAMB 2005)",
+    "questionText": "lf the government fixed a price of a commodity above the equilibrium price, the quantity supplied will be",
     "options": [
       "less than quantity demanded",
       "equal to the quantity demanded",
@@ -9373,7 +9373,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-205-535",
-    "questionText": "The profit of the producer can be calculated as (JAMB 2005)",
+    "questionText": "The profit of the producer can be calculated as",
     "options": [
       "total cost less total revenue",
       "average revenue less average cost",
@@ -9385,7 +9385,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-206-548",
-    "questionText": "When the value of a nation’s exports is greater than its imports (JAMB 2005)",
+    "questionText": "When the value of a nation’s exports is greater than its imports",
     "options": [
       "a favourable balance of trade exists",
       "an unfavourable balance of payment exists",
@@ -9397,7 +9397,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-207-514",
-    "questionText": "The remuneration of the entrepreneur as a factor of production is called (JAMB 2005)",
+    "questionText": "The remuneration of the entrepreneur as a factor of production is called",
     "options": [
       "wages",
       "salary",
@@ -9409,7 +9409,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-208-553",
-    "questionText": ".\n\n\tAn essential characteristics of a market economy is (JAMB 2005)",
+    "questionText": ".\n\n\tAn essential characteristics of a market economy is",
     "options": [
       "government control",
       "producer surplus",
@@ -9421,7 +9421,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-209-528",
-    "questionText": "One of the factors determining price elasticity of demand for a commodity is the (JAMB 2005)",
+    "questionText": "One of the factors determining price elasticity of demand for a commodity is the",
     "options": [
       "availability of close substitutes",
       "number of producers",
@@ -9433,7 +9433,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-210-511",
-    "questionText": "Farming, mining and fishing are (JAMB 2005)",
+    "questionText": "Farming, mining and fishing are",
     "options": [
       "primary production",
       "secondary production",
@@ -9445,7 +9445,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-211-550",
-    "questionText": "The Economic Community of West African State (ECOWAS) is an example of (JAMB 2005)",
+    "questionText": "The Economic Community of West African State (ECOWAS) is an example of",
     "options": [
       "bilateral trade",
       "economic integration",
@@ -9457,7 +9457,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-212-540",
-    "questionText": "To a commercial bank, deposits are (JAMB 2005)",
+    "questionText": "To a commercial bank, deposits are",
     "options": [
       "liabilities",
       "assets",
@@ -9469,7 +9469,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-213-532",
-    "questionText": "Wholesalers are often criticized because they (JAMB 2005)",
+    "questionText": "Wholesalers are often criticized because they",
     "options": [
       "help to break the bulk",
       "finance producers",
@@ -9481,7 +9481,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-214-555",
-    "questionText": "An economy which exhibits features of both private and State enterprises is known as a (JAMB 2005)",
+    "questionText": "An economy which exhibits features of both private and State enterprises is known as a",
     "options": [
       "capitalist economy",
       "mixed economy",
@@ -9493,7 +9493,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-215-557",
-    "questionText": "Economic development is defined as (JAMB 2005)",
+    "questionText": "Economic development is defined as",
     "options": [
       "outward shift of the production possibility curve",
       "availability of more goods and services",
@@ -9505,7 +9505,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-216-512",
-    "questionText": "A list of consumers’ wants arranged in order of priority is known as (JAMB 2005)",
+    "questionText": "A list of consumers’ wants arranged in order of priority is known as",
     "options": [
       "a budget",
       "an opportunity cost",
@@ -9517,7 +9517,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-217-545",
-    "questionText": "Mr. Bala’s income is $800.00 per month while that of Mr. Jatau is $1,200.00. lf Messrs Bala and Jatau pay $80.00 and $120.00 respectively as taxes, the tax system is (JAMB 2005)",
+    "questionText": "Mr. Bala’s income is $800.00 per month while that of Mr. Jatau is $1,200.00. lf Messrs Bala and Jatau pay $80.00 and $120.00 respectively as taxes, the tax system is",
     "options": [
       "progressive",
       "regressive",
@@ -9529,7 +9529,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-218-580",
-    "questionText": "The total amount of money raised by a company through insurance of shares to the public is (JAMB 2006)",
+    "questionText": "The total amount of money raised by a company through insurance of shares to the public is",
     "options": [
       "debentures",
       "nominal capital",
@@ -9541,7 +9541,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-219-575",
-    "questionText": "When the quantity of a commodity supplied increases and the quantity demanded decreases there will be (JAMB 2006)",
+    "questionText": "When the quantity of a commodity supplied increases and the quantity demanded decreases there will be",
     "options": [
       "a rise in price",
       "no change in price",
@@ -9553,7 +9553,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-220-584",
-    "questionText": "Advertising expenses would not be necessary under perfect competition because (JAMB 2006)",
+    "questionText": "Advertising expenses would not be necessary under perfect competition because",
     "options": [
       "consumers would have complete knowledge of goods",
       "cost of production would be at the maximum level",
@@ -9565,7 +9565,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-221-20",
-    "questionText": "The Multiplier is always the reciprocal of  (JAMB 2006)",
+    "questionText": "The Multiplier is always the reciprocal of",
     "options": [
       "MPC",
       "MPS",
@@ -9577,7 +9577,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-222-598",
-    "questionText": "In a rapidly growing economy, a change in technology which is labour saving is likely to cause (JAMB 2006)",
+    "questionText": "In a rapidly growing economy, a change in technology which is labour saving is likely to cause",
     "options": [
       "residual unemployment",
       "structure unemployment",
@@ -9589,7 +9589,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-223-563",
-    "questionText": "Mining is an example of (JAMB 2006)",
+    "questionText": "Mining is an example of",
     "options": [
       "tertiary production",
       "primary production",
@@ -9601,7 +9601,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-224-6",
-    "questionText": "Suppose wages paid by a firm increase what would reasonably be expected to happen to the equilibrium price and equilibrium quantity for the firm’s output?  (JAMB 2006)",
+    "questionText": "Suppose wages paid by a firm increase what would reasonably be expected to happen to the equilibrium price and equilibrium quantity for the firm’s output?",
     "options": [
       "price increase, quantity decreases",
       "price decrease, quantity decrease",
@@ -9613,7 +9613,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-225-573",
-    "questionText": "In the analysis of utility theory, the basis of demand is (JAMB 2006)",
+    "questionText": "In the analysis of utility theory, the basis of demand is",
     "options": [
       "marginal utility",
       "average utility",
@@ -9625,7 +9625,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-226-567",
-    "questionText": "A movement along the same demand curve either upwards \tor downwards as a result of changes in price implies (JAMB 2006)",
+    "questionText": "A movement along the same demand curve either upwards \tor downwards as a result of changes in price implies",
     "options": [
       "a change in demand",
       "a change in quantity demanded.",
@@ -9637,7 +9637,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-227-593",
-    "questionText": "The difference between the Gross National Product (GNP) and the Gross Domestic Product(GDP) is (JAMB 2006)",
+    "questionText": "The difference between the Gross National Product (GNP) and the Gross Domestic Product(GDP) is",
     "options": [
       "total interest payment",
       "net income generated internally",
@@ -9649,7 +9649,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-228-4",
-    "questionText": "What happens to a supply curve when the variables that are normally held constant are allowed to changer?  (JAMB 2006)",
+    "questionText": "What happens to a supply curve when the variables that are normally held constant are allowed to changer?",
     "options": [
       "the curve flattens out",
       "there is a movement along the curve",
@@ -9661,7 +9661,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-229-595",
-    "questionText": "Agriculture is important to the economy of West African countries because it is the source of (JAMB 2006)",
+    "questionText": "Agriculture is important to the economy of West African countries because it is the source of",
     "options": [
       "power",
       "equipment supply",
@@ -9673,7 +9673,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-230-562",
-    "questionText": "The reward of capital as a factor of production is (JAMB 2006)",
+    "questionText": "The reward of capital as a factor of production is",
     "options": [
       "rent",
       "wage",
@@ -9685,7 +9685,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-231-606",
-    "questionText": "One of the functions of the International Monetary Fund (IMF) is to (JAMB 2006)",
+    "questionText": "One of the functions of the International Monetary Fund (IMF) is to",
     "options": [
       "devalue the currency of member states",
       "reduce drastically the size of deficit financing of member states",
@@ -9697,7 +9697,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-232-568",
-    "questionText": "Middlemen in an economy perform the function of (JAMB 2006)",
+    "questionText": "Middlemen in an economy perform the function of",
     "options": [
       "distribution",
       "exchange",
@@ -9709,7 +9709,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-233-19",
-    "questionText": "Suppose a consumer’s income increases from N30,000 to N36, 000. As a result the consumer increases her purchase of compact discs (CDS) from 25 CDS to 30CDS.What is consumer’s income elasticity of demand for CDS? (JAMB 2006)",
+    "questionText": "Suppose a consumer’s income increases from N30,000 to N36, 000. As a result the consumer increases her purchase of compact discs (CDS) from 25 CDS to 30CDS.What is consumer’s income elasticity of demand for CDS?",
     "options": [
       "0.5",
       "1,0",
@@ -9721,7 +9721,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-234-7",
-    "questionText": "When a nation’s exports are greater than its imports  (JAMB 2006)",
+    "questionText": "When a nation’s exports are greater than its imports",
     "options": [
       "the net foreign trade is zero",
       "an unfavourable balance of payments exists",
@@ -9733,7 +9733,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-235-574",
-    "questionText": "In the normal market situation, when the price of a commodity rises, the (JAMB 2006)",
+    "questionText": "In the normal market situation, when the price of a commodity rises, the",
     "options": [
       "demand for the commodity will rise",
       "demand for the commodity will fall",
@@ -9745,7 +9745,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-236-559",
-    "questionText": "The study of Economics enables individuals to (JAMB 2006)",
+    "questionText": "The study of Economics enables individuals to",
     "options": [
       "change jobs.",
       "evade taxes.",
@@ -9757,7 +9757,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-237-3",
-    "questionText": "In economics , rational decision-making requires that:  (JAMB 2006)",
+    "questionText": "In economics , rational decision-making requires that:",
     "options": [
       "one’s choices be arrived at logically and without error",
       "one’s choice be consistent with one’s goals",
@@ -9769,7 +9769,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-238-582",
-    "questionText": "Which of the following is not reason for establishing public \tenterprises? (JAMB 2006)",
+    "questionText": "Which of the following is not reason for establishing public \tenterprises?",
     "options": [
       "Discouraging investors",
       "Opening up neglected parts of the country",
@@ -9781,7 +9781,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-239-2",
-    "questionText": "What implication does resources scarcity have for the satisfaction of wants? (JAMB 2006)",
+    "questionText": "What implication does resources scarcity have for the satisfaction of wants?",
     "options": [
       "not all wants can be satisfied",
       "we will never be faced with the need to make choice",
@@ -9793,7 +9793,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-240-566",
-    "questionText": "Distribution of good and services is hindered by (JAMB 2006)",
+    "questionText": "Distribution of good and services is hindered by",
     "options": [
       "good road network",
       "efficient storage facilities",
@@ -9805,7 +9805,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-241-596",
-    "questionText": "The economic system in which the state takes the (JAMB 2006)",
+    "questionText": "The economic system in which the state takes the",
     "options": [
       "economic decisions through details planning is",
       "capitalism",
@@ -9817,7 +9817,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-242-14",
-    "questionText": "The liability of a sole trade is (JAMB 2006)",
+    "questionText": "The liability of a sole trade is",
     "options": [
       "indeterminate",
       "unlimited",
@@ -9829,7 +9829,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-243-603",
-    "questionText": "Which of the following is an invisible item? (JAMB 2006)",
+    "questionText": "Which of the following is an invisible item?",
     "options": [
       "Banking services",
       "Petroleum products",
@@ -9841,7 +9841,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-244-579",
-    "questionText": "The main difference between a private and a public \n\tenterprise is the (JAMB 2006)",
+    "questionText": "The main difference between a private and a public \n\tenterprise is the",
     "options": [
       "amount of profit realized",
       "mode of operation",
@@ -9853,7 +9853,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-245-589",
-    "questionText": "One way to solve the economic problem of inflation in a country is by increasing the (JAMB 2006)",
+    "questionText": "One way to solve the economic problem of inflation in a country is by increasing the",
     "options": [
       "supply of commodities",
       "supply of currency",
@@ -9865,7 +9865,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-246-13",
-    "questionText": "A drawer of a cheque is the  (JAMB 2006)",
+    "questionText": "A drawer of a cheque is the",
     "options": [
       "person who is to be paid",
       "bank on which the cheque is drawn",
@@ -9877,7 +9877,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-247-1",
-    "questionText": "Which of the following is the best general definition of the study of economics?  (JAMB 2006)",
+    "questionText": "Which of the following is the best general definition of the study of economics?",
     "options": [
       "the best way invest in the stock market",
       "business decision making under foreign competition",
@@ -9889,7 +9889,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394864-248-21",
-    "questionText": "If the marginal propensity to save is 0.4 and consumption expenditure changes by N10 million , the equilibrium  level of income will change by  (JAMB 2006)",
+    "questionText": "If the marginal propensity to save is 0.4 and consumption expenditure changes by N10 million , the equilibrium  level of income will change by",
     "options": [
       "N15.0million",
       "N4,0million",
@@ -9901,7 +9901,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-249-592",
-    "questionText": "Amount proposed for payments of wages and salaries in a budget is regarded as part of (JAMB 2006)",
+    "questionText": "Amount proposed for payments of wages and salaries in a budget is regarded as part of",
     "options": [
       "recurrent expenditure",
       "direct investment",
@@ -9913,7 +9913,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-250-626",
-    "questionText": "The practice whereby a business is owned by two or more independent firms is termed (JAMB 2007)",
+    "questionText": "The practice whereby a business is owned by two or more independent firms is termed",
     "options": [
       "indigenization",
       "joint venture",
@@ -9925,7 +9925,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-251-642",
-    "questionText": "If tax takes a larger proportion of the income of people with \tlower income, the tax is (JAMB 2007)",
+    "questionText": "If tax takes a larger proportion of the income of people with \tlower income, the tax is",
     "options": [
       "progressive",
       "proportional",
@@ -9937,7 +9937,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-252-39",
-    "questionText": "The production within the domestic territory of a country is called the  (JAMB 2007)",
+    "questionText": "The production within the domestic territory of a country is called the",
     "options": [
       "Net national product",
       "Gross domestic",
@@ -9949,7 +9949,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-253-622",
-    "questionText": "In a situation where demand is perfectly elastic, imposition of a tax on a commodity to raise its price will result in (JAMB 2007)",
+    "questionText": "In a situation where demand is perfectly elastic, imposition of a tax on a commodity to raise its price will result in",
     "options": [
       "consumers increasing their demand for the product",
       "consumers demand for the product remaining unchanged",
@@ -9961,7 +9961,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-254-38",
-    "questionText": "Which of the following are direct taxes?  (JAMB 2007)",
+    "questionText": "Which of the following are direct taxes?",
     "options": [
       "Income and company taxes",
       "Sale taxes",
@@ -9973,7 +9973,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-255-647",
-    "questionText": "If the population of a country is low and the Gross National Product is high, the per capita income will be (JAMB 2007)",
+    "questionText": "If the population of a country is low and the Gross National Product is high, the per capita income will be",
     "options": [
       "high",
       "low",
@@ -9985,7 +9985,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-256-657",
-    "questionText": "ECA means (JAMB 2007)",
+    "questionText": "ECA means",
     "options": [
       "Economic Commission for Africa",
       "Economic Community of Africa",
@@ -9997,7 +9997,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-257-637",
-    "questionText": "Which of the following is true under rapid inflation? People (JAMB 2007)",
+    "questionText": "Which of the following is true under rapid inflation? People",
     "options": [
       "demand less foreign exchange",
       "set up businesses",
@@ -10009,7 +10009,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-258-620",
-    "questionText": "If the price of good X rises and the quantity demanded of good Y increases then the two goods X and Y must be (JAMB 2007)",
+    "questionText": "If the price of good X rises and the quantity demanded of good Y increases then the two goods X and Y must be",
     "options": [
       "inferior good",
       "substitutes",
@@ -10021,7 +10021,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-259-28",
-    "questionText": "The demand curve for the pure monopolists is  (JAMB 2007)",
+    "questionText": "The demand curve for the pure monopolists is",
     "options": [
       "perfectly price elastic",
       "perfectly price inelastic",
@@ -10033,7 +10033,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-260-641",
-    "questionText": "Which of the following institutions assists the government in managing the national debt? (JAMB 2007)",
+    "questionText": "Which of the following institutions assists the government in managing the national debt?",
     "options": [
       "Commercial Banks",
       "The Central Bank",
@@ -10045,7 +10045,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-261-627",
-    "questionText": "The main objective of privatizing a government business is to (JAMB 2007)",
+    "questionText": "The main objective of privatizing a government business is to",
     "options": [
       "create additional employment",
       "increase expenditure",
@@ -10057,7 +10057,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-262-652",
-    "questionText": "One advantage of international trade is that (JAMB 2007)",
+    "questionText": "One advantage of international trade is that",
     "options": [
       "countries depend on each other",
       "it introduces variation in prices",
@@ -10069,7 +10069,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-263-44",
-    "questionText": "The maximization of profit tends to be driving force in the economic decision making of   (JAMB 2007)",
+    "questionText": "The maximization of profit tends to be driving force in the economic decision making of",
     "options": [
       "entrepreneurs",
       "workers",
@@ -10081,7 +10081,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-264-26",
-    "questionText": "If the equation relating consumption (C) to income (Y) is C=  N7,500+0.2Y,then  (JAMB 2007)",
+    "questionText": "If the equation relating consumption (C) to income (Y) is C=  N7,500+0.2Y,then",
     "options": [
       "consumption is inversely related to income",
       "consumptions is the independent variable and income is the dependent variable",
@@ -10093,7 +10093,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-265-625",
-    "questionText": "When a firm is nationalized (JAMB 2007)",
+    "questionText": "When a firm is nationalized",
     "options": [
       "former owners are removed without compensation",
       "it has the right to draw on state funds for capital investment",
@@ -10105,7 +10105,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-266-644",
-    "questionText": "Monetary control measures are coordinated by (JAMB 2007)",
+    "questionText": "Monetary control measures are coordinated by",
     "options": [
       "development banks",
       "merchant banks",
@@ -10117,7 +10117,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-267-650",
-    "questionText": "Which of the following contributes the highest amount of foreign exchange to the economy of West African nations? (JAMB 2007)",
+    "questionText": "Which of the following contributes the highest amount of foreign exchange to the economy of West African nations?",
     "options": [
       "Construction, manufacturing and banking",
       "Shipping, trading and fishing",
@@ -10129,7 +10129,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-268-656",
-    "questionText": "Which of the following are examples of transfer payments? (JAMB 2007)",
+    "questionText": "Which of the following are examples of transfer payments?",
     "options": [
       "Gifts and donations",
       "Rents and rates",
@@ -10141,7 +10141,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-269-619",
-    "questionText": "The demand for beans in bags is given by the function Q - 36 + 0.4P = 0. Where P is price in Naira and Q is quantity, find Q when P = 20 Naira. (JAMB 2007)",
+    "questionText": "The demand for beans in bags is given by the function Q - 36 + 0.4P = 0. Where P is price in Naira and Q is quantity, find Q when P = 20 Naira.",
     "options": [
       "12 bags",
       "24 bags",
@@ -10153,7 +10153,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-270-613",
-    "questionText": "A country where labour is not sufficient to make proper use of the natural resources is said to have an (JAMB 2007)",
+    "questionText": "A country where labour is not sufficient to make proper use of the natural resources is said to have an",
     "options": [
       "active population",
       "optimum population",
@@ -10165,7 +10165,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-271-638",
-    "questionText": "Which of the following financial institutions was originally known as a Building Society? (JAMB 2007)",
+    "questionText": "Which of the following financial institutions was originally known as a Building Society?",
     "options": [
       "Development bank",
       "Insurance company",
@@ -10177,7 +10177,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-272-629",
-    "questionText": "Which of the following is a middlemen in the chain of distribution? (JAMB 2007)",
+    "questionText": "Which of the following is a middlemen in the chain of distribution?",
     "options": [
       "An entrepreneur",
       "A producer",
@@ -10189,7 +10189,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-273-37",
-    "questionText": "In a sole proprietorship, the decisions are made by the  (JAMB 2007)",
+    "questionText": "In a sole proprietorship, the decisions are made by the",
     "options": [
       "Government",
       "Board of directors",
@@ -10201,7 +10201,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-274-615",
-    "questionText": "What must be added to variable cost to give total cost? (JAMB 2007)",
+    "questionText": "What must be added to variable cost to give total cost?",
     "options": [
       "Average total cost",
       "Average variable cost",
@@ -10213,7 +10213,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-275-43",
-    "questionText": "The situation in which the total amount of government spending exceeds total called  (JAMB 2007)",
+    "questionText": "The situation in which the total amount of government spending exceeds total called",
     "options": [
       "balance budget",
       "budget surplus",
@@ -10225,7 +10225,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-276-33",
-    "questionText": "The ‘term’ of trade’ means  (JAMB 2007)",
+    "questionText": "The ‘term’ of trade’ means",
     "options": [
       "The trade agreement between two countries",
       "The difference in the volumes of exports of two countries",
@@ -10237,7 +10237,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-277-34",
-    "questionText": "The burden of tax on a commodity whose demand is infinitely inelastic  (JAMB 2007)",
+    "questionText": "The burden of tax on a commodity whose demand is infinitely inelastic",
     "options": [
       "is Zero",
       "will be borne by sellers alone",
@@ -10249,7 +10249,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-278-24",
-    "questionText": "Economic is founded on the principle that:  (JAMB 2007)",
+    "questionText": "Economic is founded on the principle that:",
     "options": [
       "Human wants are more than human needs",
       "Material things are more than human wants",
@@ -10261,7 +10261,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-279-608",
-    "questionText": "The three principal economic units in any system are (JAMB 2007)",
+    "questionText": "The three principal economic units in any system are",
     "options": [
       "trade, industry and banking",
       "workers, consumers and shareholder",
@@ -10273,7 +10273,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-280-621",
-    "questionText": "Use the following  demand schedule to answer question Price (N=) [15, 13]\tQuantity Demanded[60, 70] The percentage change in quantity demanded is (JAMB 2007)",
+    "questionText": "Use the following  demand schedule to answer question Price (N=) [15, 13]\tQuantity Demanded[60, 70] The percentage change in quantity demanded is",
     "options": [
       "12.7%",
       "15.7%",
@@ -10285,7 +10285,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-281-633",
-    "questionText": "The most important quality of money is that it must be (JAMB 2007)",
+    "questionText": "The most important quality of money is that it must be",
     "options": [
       "relatively scarce",
       "generally acceptable",
@@ -10297,7 +10297,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-282-653",
-    "questionText": "The practice of selling goods overseas and often below the cost of production is known as (JAMB 2007)",
+    "questionText": "The practice of selling goods overseas and often below the cost of production is known as",
     "options": [
       "retailing",
       "dumping",
@@ -10309,7 +10309,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-283-624",
-    "questionText": "Which of the following is a characteristic of monopoly? (JAMB 2007)",
+    "questionText": "Which of the following is a characteristic of monopoly?",
     "options": [
       "Many sellers",
       "Homogeneous commodity.",
@@ -10321,7 +10321,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-284-635",
-    "questionText": "Long-term loans can be secured from (JAMB 2007)",
+    "questionText": "Long-term loans can be secured from",
     "options": [
       "commercial banks",
       "discount houses",
@@ -10333,7 +10333,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-285-639",
-    "questionText": "A non-bank financial intermediary which is regarded as a pool of risks is the (JAMB 2007)",
+    "questionText": "A non-bank financial intermediary which is regarded as a pool of risks is the",
     "options": [
       "cooperative society",
       "stock exchange",
@@ -10345,7 +10345,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-286-655",
-    "questionText": "4Which of the following countries export cocoa? (JAMB 2007)",
+    "questionText": "4Which of the following countries export cocoa?",
     "options": [
       "Liberia and The Gambia",
       "Ghana and Sierra Leone",
@@ -10357,7 +10357,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-287-618",
-    "questionText": "The lower the price of a commodity, the greater the quantity demanded. This is based on the assumption that consumers’ (JAMB 2007)",
+    "questionText": "The lower the price of a commodity, the greater the quantity demanded. This is based on the assumption that consumers’",
     "options": [
       "income is diminished",
       "income remains the same",
@@ -10369,7 +10369,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-288-56",
-    "questionText": "Which of the following equation is the correct one about Net National Product (NNP)?  (JAMB 2008)",
+    "questionText": "Which of the following equation is the correct one about Net National Product (NNP)?",
     "options": [
       "NNP= Gross National product (GNP) – Depreciation",
       "NNP = Gross National product (GNP) + Net incomes from abroad.",
@@ -10381,7 +10381,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-289-66",
-    "questionText": "Which of the following does not hinder the efficient distribution of goods in West Africa?  (JAMB 2008)",
+    "questionText": "Which of the following does not hinder the efficient distribution of goods in West Africa?",
     "options": [
       "Government participation in the distribution trade",
       "Inadequate storage facilities for agricultural goods",
@@ -10393,7 +10393,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-290-54",
-    "questionText": "Which of the following statement is correct? The Central bank  (JAMB 2008)",
+    "questionText": "Which of the following statement is correct? The Central bank",
     "options": [
       "prints the country’s currency",
       "handles the collection of debts of owed to the government",
@@ -10405,7 +10405,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-291-65",
-    "questionText": "A recovery point on an indifference curve, the  (JAMB 2008)",
+    "questionText": "A recovery point on an indifference curve, the",
     "options": [
       "Total utility is decreasing",
       "Level of utility is constant",
@@ -10417,7 +10417,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-292-63",
-    "questionText": "An economic system in which most capital goods are owned by individual and private firms is known as  (JAMB 2008)",
+    "questionText": "An economic system in which most capital goods are owned by individual and private firms is known as",
     "options": [
       "planned economy",
       "Capitalist economy.",
@@ -10429,7 +10429,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-293-62",
-    "questionText": "When the demand for a commodity is inelastic, total revenue will fall if  (JAMB 2008)",
+    "questionText": "When the demand for a commodity is inelastic, total revenue will fall if",
     "options": [
       "price is increase",
       "price remains constant",
@@ -10441,7 +10441,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-294-68",
-    "questionText": "Tax incidence is the analysis of   (JAMB 2008)",
+    "questionText": "Tax incidence is the analysis of",
     "options": [
       "How progressive a tax is",
       "How distorting a tax is",
@@ -10453,7 +10453,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-295-71",
-    "questionText": "Given that fixed cost is N500.00, Variable cost is N1,500.00 and output is 40 units, what will be the average cost of producing one units?  (JAMB 2008)",
+    "questionText": "Given that fixed cost is N500.00, Variable cost is N1,500.00 and output is 40 units, what will be the average cost of producing one units?",
     "options": [
       "N12.50.00",
       "N50.00",
@@ -10465,7 +10465,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-296-58",
-    "questionText": "A production possibility curve shows  (JAMB 2008)",
+    "questionText": "A production possibility curve shows",
     "options": [
       "how much of the resources of society are used to produce a particular commodity",
       "the rate of inflation",
@@ -10477,7 +10477,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-297-52",
-    "questionText": "The reason for the law of demand can best be explained in terms of:  (JAMB 2008)",
+    "questionText": "The reason for the law of demand can best be explained in terms of:",
     "options": [
       "supply",
       "complementary goods",
@@ -10489,7 +10489,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-298-60",
-    "questionText": "The maximization of profit tends to be the driving force in the economics decision making of: (JAMB 2008)",
+    "questionText": "The maximization of profit tends to be the driving force in the economics decision making of:",
     "options": [
       "entrepreneurs.",
       "Workers",
@@ -10501,7 +10501,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-299-55",
-    "questionText": "Which of the following is not a basic assumption underlying the theory of consumer behavior (JAMB 2008)",
+    "questionText": "Which of the following is not a basic assumption underlying the theory of consumer behavior",
     "options": [
       "Consumers prefer more to less",
       "consumers are rational",
@@ -10513,7 +10513,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-300-69",
-    "questionText": " A monopolist will practice price discrimination in two market if  (JAMB 2008)",
+    "questionText": " A monopolist will practice price discrimination in two market if",
     "options": [
       "there is a patent of the commodity",
       "There is free flow of information in the market",
@@ -10525,7 +10525,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-301-67",
-    "questionText": "Which of the following is the most important reason why wages differ among occupation?  (JAMB 2008)",
+    "questionText": "Which of the following is the most important reason why wages differ among occupation?",
     "options": [
       "Length and cost of training",
       "Supply of Labour",
@@ -10537,7 +10537,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-302-59",
-    "questionText": "The situation in which the total amount of government spending excesses total revenues is called a:   (JAMB 2008)",
+    "questionText": "The situation in which the total amount of government spending excesses total revenues is called a:",
     "options": [
       "balance budget",
       "budget surplus.",
@@ -10549,7 +10549,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-303-49",
-    "questionText": "Which of the following best describes a perfectly inelastic demand function?  (JAMB 2008)",
+    "questionText": "Which of the following best describes a perfectly inelastic demand function?",
     "options": [
       "The quantity demand is insensitive to changes in price",
       "Price is insensitive changes in quantity",
@@ -10561,7 +10561,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-304-51",
-    "questionText": "Which of the following statement is true?  (JAMB 2008)",
+    "questionText": "Which of the following statement is true?",
     "options": [
       "if cross price elasticity that of demand between two goals, A and B, is negative we can conclude that A and B are substitutes",
       "the co-efficient of elasticity of demand is measured as a ration of change in quantity demand to change in price",
@@ -10573,7 +10573,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-305-48",
-    "questionText": " If the equation relating consumption (C) to income (Y) is C= N7,500 + 0.2Y, then  (JAMB 2008)",
+    "questionText": " If the equation relating consumption (C) to income (Y) is C= N7,500 + 0.2Y, then",
     "options": [
       "consumption is inversely related to income",
       "consumption is the independent inversely related to income is the dependent variable",
@@ -10585,7 +10585,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-306-64",
-    "questionText": "Which of the following is the most liquid asset to a commercial bank?  (JAMB 2008)",
+    "questionText": "Which of the following is the most liquid asset to a commercial bank?",
     "options": [
       "cash",
       "money at call",
@@ -10597,7 +10597,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-307-78",
-    "questionText": "Deflation is persistence fall in price in the general price level and is usually caused by  (JAMB 2009)",
+    "questionText": "Deflation is persistence fall in price in the general price level and is usually caused by",
     "options": [
       "A reduction in total demand",
       "An increase in government spending",
@@ -10609,7 +10609,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-308-332",
-    "questionText": "The marginal product of the 5th unit of capital is (JAMB 2009)",
+    "questionText": "The marginal product of the 5th unit of capital is",
     "options": [
       "42",
       "85",
@@ -10621,7 +10621,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-309-322",
-    "questionText": "A movement along the same demand curve is caused by the (JAMB 2009)",
+    "questionText": "A movement along the same demand curve is caused by the",
     "options": [
       "price of the product",
       "price of other products",
@@ -10633,7 +10633,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394865-310-329",
-    "questionText": "In a regulated market, price is determined by (JAMB 2009)",
+    "questionText": "In a regulated market, price is determined by",
     "options": [
       "Consumers",
       "producers",
@@ -10645,7 +10645,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-311-335",
-    "questionText": "As the level of output increases, the average fixed cost of a firm will (JAMB 2009)",
+    "questionText": "As the level of output increases, the average fixed cost of a firm will",
     "options": [
       "continue to increase",
       "remain uncharged",
@@ -10657,7 +10657,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-312-349",
-    "questionText": "The major reason why countries strive to achieve optimum growth is to (JAMB 2009)",
+    "questionText": "The major reason why countries strive to achieve optimum growth is to",
     "options": [
       "be self–sufficient",
       "raise general living standards",
@@ -10669,7 +10669,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-313-342",
-    "questionText": "In the circular flow of income, an increase in saving causes (JAMB 2009)",
+    "questionText": "In the circular flow of income, an increase in saving causes",
     "options": [
       "an increase in imports",
       "a decrease in the income stream",
@@ -10681,7 +10681,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-314-356",
-    "questionText": "The marketing of agricultural products in Nigeria can be improved by (JAMB 2009)",
+    "questionText": "The marketing of agricultural products in Nigeria can be improved by",
     "options": [
       "a massive production of farm produce",
       "re–establishing the marketing boards",
@@ -10693,7 +10693,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-315-324",
-    "questionText": "Price elasticity of demand is expressed as (JAMB 2009)",
+    "questionText": "Price elasticity of demand is expressed as",
     "options": [
       "percentage change in price percentage change in quantity demanded",
       "percentage change in quantity demanded percentage change in Income",
@@ -10705,7 +10705,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-316-354",
-    "questionText": "The major problem confronting a sole proprietor is (JAMB 2009)",
+    "questionText": "The major problem confronting a sole proprietor is",
     "options": [
       "high level of risk",
       "limited expertise",
@@ -10717,7 +10717,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-317-96",
-    "questionText": "The most popularly adopted industrialization strategy in West African  (JAMB 2009)",
+    "questionText": "The most popularly adopted industrialization strategy in West African",
     "options": [
       "import substitution",
       "Export promotion",
@@ -10729,7 +10729,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-318-352",
-    "questionText": "Guided deregulation as currently practiced in Nigeria implies that (JAMB 2009)",
+    "questionText": "Guided deregulation as currently practiced in Nigeria implies that",
     "options": [
       "market forces determine interest and exchange rates",
       "government alone determines interest and exchange rates",
@@ -10741,7 +10741,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-319-327",
-    "questionText": "The short-run supply curve for medical doctors is more  likely to be (JAMB 2009)",
+    "questionText": "The short-run supply curve for medical doctors is more  likely to be",
     "options": [
       "perfectly elastic",
       "perfectly inelastic",
@@ -10753,7 +10753,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-320-351",
-    "questionText": "Dumping in international trade means selling a good at a (JAMB 2009)",
+    "questionText": "Dumping in international trade means selling a good at a",
     "options": [
       "higher price at home than abroad",
       "lower price at home than abroad",
@@ -10765,7 +10765,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-321-363",
-    "questionText": "Occupational distribution of population determines the (JAMB 2009)",
+    "questionText": "Occupational distribution of population determines the",
     "options": [
       "size of a population available and willing to work",
       "population density of a place",
@@ -10777,7 +10777,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-322-330",
-    "questionText": "A decrease in supply without a corresponding change in demand will lead to (JAMB 2009)",
+    "questionText": "A decrease in supply without a corresponding change in demand will lead to",
     "options": [
       "an increase in equilibrium price and a decrease equilibrium quantity",
       "a decrease in equilibrium price and an increase in equilibrium quantity",
@@ -10789,7 +10789,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-323-316",
-    "questionText": "Musa has a choice of buying a shirt, a book and a bag. What is the opportunity cost of buying a book? (JAMB 2009)",
+    "questionText": "Musa has a choice of buying a shirt, a book and a bag. What is the opportunity cost of buying a book?",
     "options": [
       "A bag only",
       "A book and a bag",
@@ -10801,7 +10801,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-324-338",
-    "questionText": "If a monopolist is incurring short–run losses, this means that his (JAMB 2009)",
+    "questionText": "If a monopolist is incurring short–run losses, this means that his",
     "options": [
       "selling price is above the short–run marginal cost",
       "selling price is below the short–run marginal cost",
@@ -10813,7 +10813,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-325-362",
-    "questionText": "High dependency ratio is influenced by (JAMB 2009)",
+    "questionText": "High dependency ratio is influenced by",
     "options": [
       "high infant mortality rate",
       "the level of income",
@@ -10825,7 +10825,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-326-73",
-    "questionText": "If a person receives a higher wage than would be necessary to induce him to work, he is be receiving (JAMB 2009)",
+    "questionText": "If a person receives a higher wage than would be necessary to induce him to work, he is be receiving",
     "options": [
       "rent",
       "profit",
@@ -10837,7 +10837,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-327-72",
-    "questionText": "For two substitute goods, the gross elasticity of demand is  (JAMB 2009)",
+    "questionText": "For two substitute goods, the gross elasticity of demand is",
     "options": [
       "Greater than one but lee than zero",
       "zero",
@@ -10849,7 +10849,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-328-353",
-    "questionText": "An important function of the world bank is to (JAMB 2009)",
+    "questionText": "An important function of the world bank is to",
     "options": [
       "provide short–term loans to members",
       "encourage trade between members",
@@ -10861,7 +10861,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-329-331",
-    "questionText": "Production takes place when (JAMB 2009)",
+    "questionText": "Production takes place when",
     "options": [
       "output is transformed into input",
       "machines replace human effort",
@@ -10873,7 +10873,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-330-92",
-    "questionText": "A major factor affecting the value of money is the:  (JAMB 2009)",
+    "questionText": "A major factor affecting the value of money is the:",
     "options": [
       "price level",
       "banking habit",
@@ -10885,7 +10885,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394866-331-88",
-    "questionText": "If an increase in income induces a reduction in the demand for beans, beans can be referred to as:  (JAMB 2009)",
+    "questionText": "If an increase in income induces a reduction in the demand for beans, beans can be referred to as:",
     "options": [
       "A normal good",
       "An inferior good",
@@ -10897,7 +10897,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-332-82",
-    "questionText": "Demand as a factor of production is  (JAMB 2009)",
+    "questionText": "Demand as a factor of production is",
     "options": [
       "a composite demand",
       "joint demand",
@@ -10909,7 +10909,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-333-89",
-    "questionText": "Optimum population is desirable because it enable an economy to attain maximum  (JAMB 2009)",
+    "questionText": "Optimum population is desirable because it enable an economy to attain maximum",
     "options": [
       "per capital income",
       "per capital output",
@@ -10921,7 +10921,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-334-364",
-    "questionText": "The mobility of labour is mainly determined by (JAMB 2009)",
+    "questionText": "The mobility of labour is mainly determined by",
     "options": [
       "the age of workers",
       "government policy",
@@ -10933,7 +10933,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-335-347",
-    "questionText": "If government expenditure exceeds revenue, this results in (JAMB 2009)",
+    "questionText": "If government expenditure exceeds revenue, this results in",
     "options": [
       "balanced budget",
       "national debt",
@@ -10945,7 +10945,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-336-91",
-    "questionText": "The concept of economic efficiency refers to:  (JAMB 2009)",
+    "questionText": "The concept of economic efficiency refers to:",
     "options": [
       "obtaining the maximum output from available resources at the lowest possible cost",
       "Conservation of natural gas and oil deposits",
@@ -10957,7 +10957,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-337-321",
-    "questionText": "A cumulative frequency graph is (JAMB 2009)",
+    "questionText": "A cumulative frequency graph is",
     "options": [
       "a histogram",
       "an ogive",
@@ -10969,7 +10969,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-338-85",
-    "questionText": "The marginal theory of distribution makes an assertion that the price of any factor depends upon its marginal  (JAMB 2009)",
+    "questionText": "The marginal theory of distribution makes an assertion that the price of any factor depends upon its marginal",
     "options": [
       "Unity",
       "Productivity",
@@ -10981,7 +10981,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-339-318",
-    "questionText": "The privatization exercise in Nigeria is a move towards a (JAMB 2009)",
+    "questionText": "The privatization exercise in Nigeria is a move towards a",
     "options": [
       "mixed economy",
       "subsistence economy",
@@ -10993,7 +10993,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-340-385",
-    "questionText": "Average product is less than marginal product when (JAMB 2010)",
+    "questionText": "Average product is less than marginal product when",
     "options": [
       "there is constant returns to scale",
       "there is decreasing returns to scale",
@@ -11005,7 +11005,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-341-378",
-    "questionText": "The law of diminishing marginal utility explains why (JAMB 2010)",
+    "questionText": "The law of diminishing marginal utility explains why",
     "options": [
       "the slope of a normal demand curve is negative",
       "the slope of a normal demand curve is positive",
@@ -11017,7 +11017,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-342-262",
-    "questionText": "The total stock of money available for use in an economy is (JAMB 2010)",
+    "questionText": "The total stock of money available for use in an economy is",
     "options": [
       "a function of money",
       "a characteristic of money",
@@ -11029,7 +11029,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-343-382",
-    "questionText": "If commodity X is a by-product of commodity Y, this implies that both commodities are (JAMB 2010)",
+    "questionText": "If commodity X is a by-product of commodity Y, this implies that both commodities are",
     "options": [
       "in competitive supply",
       "jointly supplied",
@@ -11041,7 +11041,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-344-178",
-    "questionText": "If actual reserves in the banking system are #40,000, excess reserves are #10,000, and checkable deposits are #240,000, then the legal reserve requirement is:  (JAMB 2010)",
+    "questionText": "If actual reserves in the banking system are #40,000, excess reserves are #10,000, and checkable deposits are #240,000, then the legal reserve requirement is:",
     "options": [
       "10%",
       "12.50%",
@@ -11053,7 +11053,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-345-176",
-    "questionText": "The amount by which government expenditures exceed revenues during a particular year is the:  (JAMB 2010)",
+    "questionText": "The amount by which government expenditures exceed revenues during a particular year is the:",
     "options": [
       "public debt",
       "budget deficit",
@@ -11065,7 +11065,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-346-379",
-    "questionText": "If a consumer plans to spend 120k on four oranges but spent 80k, his consumer surplus is (JAMB 2010)",
+    "questionText": "If a consumer plans to spend 120k on four oranges but spent 80k, his consumer surplus is",
     "options": [
       "N = 1.50",
       "N = 1.00",
@@ -11077,7 +11077,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-347-258",
-    "questionText": "The following are all factors determining the location of industry except (JAMB 2010)",
+    "questionText": "The following are all factors determining the location of industry except",
     "options": [
       "minimum wage rate",
       "availability of labour",
@@ -11089,7 +11089,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-348-164",
-    "questionText": "Macroeconomics can best be described as the:  (JAMB 2010)",
+    "questionText": "Macroeconomics can best be described as the:",
     "options": [
       "analysis of how a consumer tries to spend income",
       "study of the large aggregates of the economy or the economy as whole",
@@ -11101,7 +11101,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-349-393",
-    "questionText": "A decrease in aggregate spending in an economy will ultimately lead to (JAMB 2010)",
+    "questionText": "A decrease in aggregate spending in an economy will ultimately lead to",
     "options": [
       "Boom",
       "deflation",
@@ -11113,7 +11113,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-350-249",
-    "questionText": "One advantage of the Sole Proprietorship over other forms of business organizations is that it can (JAMB 2010)",
+    "questionText": "One advantage of the Sole Proprietorship over other forms of business organizations is that it can",
     "options": [
       "make very high profits",
       "employ many workers",
@@ -11125,7 +11125,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-351-408",
-    "questionText": "The primary motive for an individual engaging in production is to (JAMB 2010)",
+    "questionText": "The primary motive for an individual engaging in production is to",
     "options": [
       "make profit",
       "redistribute wealth",
@@ -11137,7 +11137,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-352-181",
-    "questionText": "For a bicycle company, an economist predicted that, other things being equal, a rise in consumer incomes will increase the demand for bicycles. This prediction is based on the assumption that:  (JAMB 2010)",
+    "questionText": "For a bicycle company, an economist predicted that, other things being equal, a rise in consumer incomes will increase the demand for bicycles. This prediction is based on the assumption that:",
     "options": [
       "there are many goods that are substitutes for bicycles",
       "there are many goods that are many goods that are substitutes for bicycles",
@@ -11149,7 +11149,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-353-409",
-    "questionText": "One of  the characteristics of  free trade zone is (JAMB 2010)",
+    "questionText": "One of  the characteristics of  free trade zone is",
     "options": [
       "common tariff against non-member countries",
       "free factor mobility within the zone",
@@ -11161,7 +11161,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-354-240",
-    "questionText": "A decrease in supply with demand remaining unchanged will cause the equilibrium price for a good to (JAMB 2010)",
+    "questionText": "A decrease in supply with demand remaining unchanged will cause the equilibrium price for a good to",
     "options": [
       "be unchanged",
       "remain elastic",
@@ -11173,7 +11173,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-355-374",
-    "questionText": "If  the price of a commodity with elastic demand increases, the revenue accruing to the producer will (JAMB 2010)",
+    "questionText": "If  the price of a commodity with elastic demand increases, the revenue accruing to the producer will",
     "options": [
       "Double",
       "be constant",
@@ -11185,7 +11185,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-356-184",
-    "questionText": "The primary problem of economics is:  (JAMB 2010)",
+    "questionText": "The primary problem of economics is:",
     "options": [
       "to obtain more equitable distribution of money income",
       "production of a given output with the lowest cost combination of factors of production",
@@ -11197,7 +11197,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-357-242",
-    "questionText": "The law of diminishing marginal utility states that, the more a commodity is consumed the (JAMB 2010)",
+    "questionText": "The law of diminishing marginal utility states that, the more a commodity is consumed the",
     "options": [
       "higher the satisfaction derived from an additional unit",
       "higher the price to be paid",
@@ -11209,7 +11209,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-358-175",
-    "questionText": "Investment and saving are, respectively:  (JAMB 2010)",
+    "questionText": "Investment and saving are, respectively:",
     "options": [
       "income and wealth",
       "stock & flows",
@@ -11221,7 +11221,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-359-369",
-    "questionText": "If  X = 6 and N = 6, determine the value of   Efx. (JAMB 2010)",
+    "questionText": "If  X = 6 and N = 6, determine the value of   Efx.",
     "options": [
       "36",
       "12",
@@ -11233,7 +11233,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-360-259",
-    "questionText": "Which of the following is not a concept in National income accounting? (JAMB 2010)",
+    "questionText": "Which of the following is not a concept in National income accounting?",
     "options": [
       "Domestic National Product (DNP)",
       "Gross National Product (GNP)",
@@ -11245,7 +11245,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-361-163",
-    "questionText": "A person should consume more of something when its marginal:  (JAMB 2010)",
+    "questionText": "A person should consume more of something when its marginal:",
     "options": [
       "benefit exceeds its marginal cost",
       "cost benefit",
@@ -11257,7 +11257,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-362-372",
-    "questionText": "The most popular sizes of dresses and shoes are determined by the (JAMB 2010)",
+    "questionText": "The most popular sizes of dresses and shoes are determined by the",
     "options": [
       "Range",
       "mode",
@@ -11269,7 +11269,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-363-387",
-    "questionText": "The rising portion of the long - run average cost curve of a (JAMB 2010)",
+    "questionText": "The rising portion of the long - run average cost curve of a",
     "options": [
       "firm is an indication that it is experiencing increasing efficiency",
       "diseconomies of scale",
@@ -11281,7 +11281,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-364-386",
-    "questionText": "A firm enjoying economics of scale is said to be (JAMB 2010)",
+    "questionText": "A firm enjoying economics of scale is said to be",
     "options": [
       "reducing average cost as production increases",
       "maximizing profits as production increases",
@@ -11293,7 +11293,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-365-261",
-    "questionText": "Which of the following over estimates the value of national income? (JAMB 2010)",
+    "questionText": "Which of the following over estimates the value of national income?",
     "options": [
       "Incomplete statistical data",
       "Wrong timing of computation",
@@ -11305,7 +11305,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-366-370",
-    "questionText": "The standard deviation of a set of data is (JAMB 2010)",
+    "questionText": "The standard deviation of a set of data is",
     "options": [
       "always measured from the mode",
       "always measured from the median",
@@ -11317,7 +11317,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-367-162",
-    "questionText": "In economics, the pleasure, happiness, or satisfaction received from a product is called:  (JAMB 2010)",
+    "questionText": "In economics, the pleasure, happiness, or satisfaction received from a product is called:",
     "options": [
       "Marginal cost",
       "Rational outcome",
@@ -11329,7 +11329,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-368-243",
-    "questionText": "Greater inter-dependence among workers in production is associated with (JAMB 2010)",
+    "questionText": "Greater inter-dependence among workers in production is associated with",
     "options": [
       "utility",
       "manufacturing",
@@ -11341,7 +11341,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-369-383",
-    "questionText": "In perfect competition, price is determined by the (JAMB 2010)",
+    "questionText": "In perfect competition, price is determined by the",
     "options": [
       "Government",
       "buyers",
@@ -11353,7 +11353,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-370-183",
-    "questionText": "Allocative efficiency occurs only at that output where:  (JAMB 2010)",
+    "questionText": "Allocative efficiency occurs only at that output where:",
     "options": [
       "marginal benefit exceeds marginal cost the by greatest",
       "consumer surplus exceeds producer surplus by the greatest amount",
@@ -11365,7 +11365,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-371-269",
-    "questionText": "The function of the Central Bank as a lender of last resort means that when all other sources fail (JAMB 2010)",
+    "questionText": "The function of the Central Bank as a lender of last resort means that when all other sources fail",
     "options": [
       "the consumer can always borrow money from the Central Bank",
       "the government can ask the Central Bank to print more money",
@@ -11377,7 +11377,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-372-380",
-    "questionText": "A set of  factors that can shift the supply curve are changes in (JAMB 2010)",
+    "questionText": "A set of  factors that can shift the supply curve are changes in",
     "options": [
       "weather, price and technology",
       "technology, price and taste",
@@ -11389,7 +11389,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-373-247",
-    "questionText": "All the following are sources of finance to a joint stock company except (JAMB 2010)",
+    "questionText": "All the following are sources of finance to a joint stock company except",
     "options": [
       "debentures",
       "cooperative loans",
@@ -11401,7 +11401,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-374-105",
-    "questionText": "Which of the following is NOT a limitation to division of labour and specialization  (JAMB 2011)",
+    "questionText": "Which of the following is NOT a limitation to division of labour and specialization",
     "options": [
       "the size of the market",
       "availability of capital",
@@ -11413,7 +11413,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-375-109",
-    "questionText": "Which of the following is NOT True of a market demand schedule?  (JAMB 2011)",
+    "questionText": "Which of the following is NOT True of a market demand schedule?",
     "options": [
       "it is a schedule of all consumers of a commodity in a market",
       "it is the aggregate demand schedule of all consumers of a commodity in a market",
@@ -11425,7 +11425,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-376-104",
-    "questionText": "Marginal Produce (MP) is best defined as  (JAMB 2011)",
+    "questionText": "Marginal Produce (MP) is best defined as",
     "options": [
       "Total produce/no of labour",
       "Change in total product/ change in variable factor",
@@ -11437,7 +11437,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-377-102",
-    "questionText": "In a capitalist society, production and consumption are regulated by the:  (JAMB 2011)",
+    "questionText": "In a capitalist society, production and consumption are regulated by the:",
     "options": [
       "demand for the commodity",
       "the government",
@@ -11449,7 +11449,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-378-108",
-    "questionText": "Which of the following items is NOT a variable cost?  (JAMB 2011)",
+    "questionText": "Which of the following items is NOT a variable cost?",
     "options": [
       "cost of machine",
       "cost of electricity",
@@ -11461,7 +11461,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-379-106",
-    "questionText": "The following are the advantages of internal economics of large scale production except  (JAMB 2011)",
+    "questionText": "The following are the advantages of internal economics of large scale production except",
     "options": [
       "financial economics",
       "administrative economics",
@@ -11473,7 +11473,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-380-103",
-    "questionText": "The following are advantages of socialism except  (JAMB 2011)",
+    "questionText": "The following are advantages of socialism except",
     "options": [
       "equitable distribution of resources",
       "absence of exploitation",
@@ -11485,7 +11485,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-381-111",
-    "questionText": "Price legislation can be defined as  (JAMB 2011)",
+    "questionText": "Price legislation can be defined as",
     "options": [
       "how price fluctuates in the market",
       "how prices are controlled in the market",
@@ -11497,7 +11497,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-382-100",
-    "questionText": "An economic system can be defined as an  (JAMB 2011)",
+    "questionText": "An economic system can be defined as an",
     "options": [
       "arrangement specifying how production and consumption are controlled in a society",
       "arrangement whereby goods are distributed in a society",
@@ -11509,7 +11509,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-383-98",
-    "questionText": "In Economics human wants are usually described as   (JAMB 2011)",
+    "questionText": "In Economics human wants are usually described as",
     "options": [
       "many",
       "insatiable",
@@ -11521,7 +11521,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-384-110",
-    "questionText": "Supply is said to be inelastic when the coefficient of elasticity of supply is  (JAMB 2011)",
+    "questionText": "Supply is said to be inelastic when the coefficient of elasticity of supply is",
     "options": [
       "2.5",
       "0.5",
@@ -11533,7 +11533,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-385-97",
-    "questionText": "The basic concepts of Economics are  (JAMB 2011)",
+    "questionText": "The basic concepts of Economics are",
     "options": [
       "choice, scarcity, resources and efficiency",
       "wants, scarcity, choice, scale of preference and opportunity cost",
@@ -11545,7 +11545,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-386-107",
-    "questionText": "Which of the following is TRUE of marginal cost?  (JAMB 2011)",
+    "questionText": "Which of the following is TRUE of marginal cost?",
     "options": [
       "it is a cost incurred by the firm on variable inputs",
       "it is the cost of producing one extra unit of a commodity at any output level",
@@ -11557,7 +11557,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-387-99",
-    "questionText": "Basic economic problems of society include the following except:   (JAMB 2011)",
+    "questionText": "Basic economic problems of society include the following except:",
     "options": [
       "what to produce",
       "how to produce",
@@ -11569,7 +11569,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-388-315",
-    "questionText": "Tariff is used to protect domestic industries by making foreign goods relatively (JAMB 2012)",
+    "questionText": "Tariff is used to protect domestic industries by making foreign goods relatively",
     "options": [
       "cheaper in the domestic market",
       "more expensive in the domestic market",
@@ -11581,7 +11581,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-389-271",
-    "questionText": "Human wants are (JAMB 2012)",
+    "questionText": "Human wants are",
     "options": [
       "Limited",
       "scarce",
@@ -11593,7 +11593,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-390-282",
-    "questionText": "A consumer purchasing a commodity X will maximize his satisfaction if (JAMB 2012)",
+    "questionText": "A consumer purchasing a commodity X will maximize his satisfaction if",
     "options": [
       "Px = Mux",
       "Px >_ MUx",
@@ -11605,7 +11605,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-391-291",
-    "questionText": "In which of the following markets does a firm have power to \tmake super normal profits both in the short run and long run? (JAMB 2012)",
+    "questionText": "In which of the following markets does a firm have power to \tmake super normal profits both in the short run and long run?",
     "options": [
       "Monopol",
       "Duopoly",
@@ -11617,7 +11617,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-392-310",
-    "questionText": "Cost push inflation is caused by a (JAMB 2012)",
+    "questionText": "Cost push inflation is caused by a",
     "options": [
       "rise in the cost of production",
       "decrease in the transportation cost",
@@ -11629,7 +11629,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-393-313",
-    "questionText": "When governments want to discourage consumption, they \ttax goods whose demand (JAMB 2012)",
+    "questionText": "When governments want to discourage consumption, they \ttax goods whose demand",
     "options": [
       "price inelastic",
       "abnormal in nature",
@@ -11641,7 +11641,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-394-311",
-    "questionText": "Deposits held in a commercial bank are part of (JAMB 2012)",
+    "questionText": "Deposits held in a commercial bank are part of",
     "options": [
       "money supply",
       "transfer payments",
@@ -11653,7 +11653,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-395-279",
-    "questionText": "A supply curve which is vertical has an elasticity co-efficient of (JAMB 2012)",
+    "questionText": "A supply curve which is vertical has an elasticity co-efficient of",
     "options": [
       "0",
       "0.5",
@@ -11665,7 +11665,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-396-123",
-    "questionText": "If salary of worker increases from 50,000 to 80,000 Naira and average price of certain commodities consumed by the worker increase from 120 Naira to 160 Naira then   (JAMB 2012)",
+    "questionText": "If salary of worker increases from 50,000 to 80,000 Naira and average price of certain commodities consumed by the worker increase from 120 Naira to 160 Naira then",
     "options": [
       "The nominal income increases but leave the real income constant",
       "The real income increases, but nominal income has reduced",
@@ -11677,7 +11677,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-397-288",
-    "questionText": "The resources used in production are called (JAMB 2012)",
+    "questionText": "The resources used in production are called",
     "options": [
       "variable inputs",
       "factors of production",
@@ -11689,7 +11689,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-398-118",
-    "questionText": "The following is the main difference between firm and industry   (JAMB 2012)",
+    "questionText": "The following is the main difference between firm and industry",
     "options": [
       "Industry is the group of firms producing related products",
       "Industry is the group of firms in the manufacturing sector",
@@ -11701,7 +11701,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-399-274",
-    "questionText": "An arrangement of data in rows and columns is referred to as a (JAMB 2012)",
+    "questionText": "An arrangement of data in rows and columns is referred to as a",
     "options": [
       "Graph",
       "bar chart",
@@ -11713,7 +11713,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-400-302",
-    "questionText": "Which of the following is not true of small companies? (JAMB 2012)",
+    "questionText": "Which of the following is not true of small companies?",
     "options": [
       "The cannot benefit from economics of scale",
       "are a good source of new jobs",
@@ -11725,7 +11725,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-401-132",
-    "questionText": "Legal Entity means   (JAMB 2012)",
+    "questionText": "Legal Entity means",
     "options": [
       "A company is owned by large number of people",
       "A company is owned by small number of people",
@@ -11737,7 +11737,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-402-296",
-    "questionText": "Frictional unemployment can be reduced by (JAMB 2012)",
+    "questionText": "Frictional unemployment can be reduced by",
     "options": [
       "encouraging the use of retraining schemes",
       "removing barriers to labour mobility",
@@ -11749,7 +11749,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-403-312",
-    "questionText": "One profitable form of business undertaken by the commercial banks is (JAMB 2012)",
+    "questionText": "One profitable form of business undertaken by the commercial banks is",
     "options": [
       "the issuing of cheques",
       "the payment of standing order",
@@ -11761,7 +11761,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-404-292",
-    "questionText": "If there arc no barriers to entering a market, it means that (JAMB 2012)",
+    "questionText": "If there arc no barriers to entering a market, it means that",
     "options": [
       "anyone can become a buyer or seller",
       "unwanted goods can always enter the market",
@@ -11773,7 +11773,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-405-306",
-    "questionText": "A tax is regressive if the (JAMB 2012)",
+    "questionText": "A tax is regressive if the",
     "options": [
       "rate of tax is constant at all income levels",
       "rate of tax decreases as income increases",
@@ -11785,7 +11785,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-406-293",
-    "questionText": "A firm’s main aim is to (JAMB 2012)",
+    "questionText": "A firm’s main aim is to",
     "options": [
       "survive in business",
       "maximize profits",
@@ -11797,7 +11797,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-407-114",
-    "questionText": "The parameter ‘b’ in a consumption function of the form; C = a + bY; where Y is the National income is   (JAMB 2012)",
+    "questionText": "The parameter ‘b’ in a consumption function of the form; C = a + bY; where Y is the National income is",
     "options": [
       "Marginal benefit of consumption",
       "Marginal propensity to purchase",
@@ -11809,7 +11809,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-408-128",
-    "questionText": "The following is not correct   (JAMB 2012)",
+    "questionText": "The following is not correct",
     "options": [
       "Average variable cost equals average total cost minus average fixed cost",
       "Average fixed cost equals average variable cost minus average total cost",
@@ -11821,7 +11821,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-409-273",
-    "questionText": "The Production Possibility Curve (PPC) indicates that as \tmore of one good is produced (JAMB 2012)",
+    "questionText": "The Production Possibility Curve (PPC) indicates that as \tmore of one good is produced",
     "options": [
       "less of the other good is produced",
       "the same quantity of the other good is produced",
@@ -11833,7 +11833,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-410-117",
-    "questionText": "Change in demand and change in quantity demanded are not the same because   (JAMB 2012)",
+    "questionText": "Change in demand and change in quantity demanded are not the same because",
     "options": [
       "All factors affecting change in demand also affect change in quantity demanded except income",
       "All factors affecting change in demand are not affecting change in quantity demanded except income",
@@ -11845,7 +11845,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-411-112",
-    "questionText": "Price discrimination exists when   (JAMB 2012)",
+    "questionText": "Price discrimination exists when",
     "options": [
       "The same product of the same quality is sold for different prices of the same buyer",
       "The same product of the same quality is sold for different prices to different buyers",
@@ -11857,7 +11857,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-412-285",
-    "questionText": "Which of the following is not true about land? (JAMB 2012)",
+    "questionText": "Which of the following is not true about land?",
     "options": [
       "The supply is fixed",
       "Land is mobile",
@@ -11869,7 +11869,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-413-135",
-    "questionText": "A stock variable is measured;   (JAMB 2012)",
+    "questionText": "A stock variable is measured;",
     "options": [
       "Over a period",
       "At a point",
@@ -11881,7 +11881,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-414-289",
-    "questionText": "A firm will shut down in the long run if its earning is (JAMB 2012)",
+    "questionText": "A firm will shut down in the long run if its earning is",
     "options": [
       "less than normal profit",
       "greater than normal profit",
@@ -11893,7 +11893,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-415-125",
-    "questionText": "When the government expenditure and income are the same in fiscal year, this is referred as; (JAMB 2012)",
+    "questionText": "When the government expenditure and income are the same in fiscal year, this is referred as;",
     "options": [
       "Net balance",
       "Zero balanced budget",
@@ -11905,7 +11905,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-416-284",
-    "questionText": "A rational consumer is one who (JAMB 2012)",
+    "questionText": "A rational consumer is one who",
     "options": [
       "spends his income to maximize satisfaction",
       "is not influenced by advertisement",
@@ -11917,7 +11917,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-417-133",
-    "questionText": "In the ownership structure of joint stock company the following is correct;   (JAMB 2012)",
+    "questionText": "In the ownership structure of joint stock company the following is correct;",
     "options": [
       "Ordinary shareholders are stronger than preferential shareholders",
       "Preferential shareholder are stronger than ordinary shareholders",
@@ -11929,7 +11929,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-418-303",
-    "questionText": "The effect of privatization on the industrial sector of a country is that it (JAMB 2012)",
+    "questionText": "The effect of privatization on the industrial sector of a country is that it",
     "options": [
       "ensures efficiency",
       "discourages efficiency",
@@ -11941,7 +11941,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-419-295",
-    "questionText": "The increase in population growth in big cities is referred to as (JAMB 2012)",
+    "questionText": "The increase in population growth in big cities is referred to as",
     "options": [
       "settlement",
       "migration",
@@ -11953,7 +11953,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-420-272",
-    "questionText": "The difference between the money cost and the real cost of any item is that (JAMB 2012)",
+    "questionText": "The difference between the money cost and the real cost of any item is that",
     "options": [
       "real cost is the alternative forgone while the money cost is the actual amount paid for buying the item",
       "the real cost is the opportunity cost, while the money cost is the marginal cost",
@@ -11965,7 +11965,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-421-130",
-    "questionText": "If the price of commodity X increases because of the increase in the price vis-à-vis the increase in demand  for other commodities are likely to be   (JAMB 2012)",
+    "questionText": "If the price of commodity X increases because of the increase in the price vis-à-vis the increase in demand  for other commodities are likely to be",
     "options": [
       "Complimentary",
       "Substitute",
@@ -11977,7 +11977,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-422-144",
-    "questionText": "How can we eliminate a surplus in a commodity market?  (JAMB 2013)",
+    "questionText": "How can we eliminate a surplus in a commodity market?",
     "options": [
       "Increase quantity supplied",
       "Decrease quantity demanded",
@@ -11989,7 +11989,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-423-139",
-    "questionText": "For a perfectly competitive market, the shape of the --------- is horizontal while the ----------- is downward slopping   (JAMB 2013)",
+    "questionText": "For a perfectly competitive market, the shape of the --------- is horizontal while the ----------- is downward slopping",
     "options": [
       "industry’s demand curve/industry’s supply curve",
       "firm’s supply curve/industry’s demand curve",
@@ -12001,7 +12001,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-424-146",
-    "questionText": "When the product of any one firm in an industry is not  perceived by consumers as a perfect substitute for the product of any other firm in the same industry, we have  (JAMB 2013)",
+    "questionText": "When the product of any one firm in an industry is not  perceived by consumers as a perfect substitute for the product of any other firm in the same industry, we have",
     "options": [
       "Perfect competition",
       "Monopoly",
@@ -12013,7 +12013,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-425-153",
-    "questionText": "A total utility is increasing, marginal utility is   (JAMB 2013)",
+    "questionText": "A total utility is increasing, marginal utility is",
     "options": [
       "Negative and decreasing",
       "Positive and increasing",
@@ -12025,7 +12025,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-426-152",
-    "questionText": "A 50% increase in the quantity demanded of a commodity, following a 100% decrease in its price, shows that the commodity has  (JAMB 2013)",
+    "questionText": "A 50% increase in the quantity demanded of a commodity, following a 100% decrease in its price, shows that the commodity has",
     "options": [
       "Fairly elastic demand",
       "Unitary elastic demand",
@@ -12037,7 +12037,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-427-156",
-    "questionText": "Based on the fact that demand curve shows the maximum price at which consumers will buy, it then shows  (JAMB 2013)",
+    "questionText": "Based on the fact that demand curve shows the maximum price at which consumers will buy, it then shows",
     "options": [
       "average benefit",
       "marginal benefit",
@@ -12049,7 +12049,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-428-149",
-    "questionText": "One among the following options is not correct  (JAMB 2013)",
+    "questionText": "One among the following options is not correct",
     "options": [
       "Any point inside the production possibility curve indicates unemployment or underemployment",
       "Increase in the price of a commodity leads to a fall in the demand for its substitute",
@@ -12061,7 +12061,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-429-143",
-    "questionText": "If a market for good X is in disequilibrium, which of the following statements is true about the quantity of X that is actually exchanged?   (JAMB 2013)",
+    "questionText": "If a market for good X is in disequilibrium, which of the following statements is true about the quantity of X that is actually exchanged?",
     "options": [
       "It is determined by the forces of demand",
       "it is determined by the forces of supply",
@@ -12073,7 +12073,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-430-138",
-    "questionText": "The sum of MPS and MPC is   (JAMB 2013)",
+    "questionText": "The sum of MPS and MPC is",
     "options": [
       "greater than 1 but less than infinity",
       "greater than 0 but less than 1",
@@ -12085,7 +12085,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-431-140",
-    "questionText": "Demand for money is:  (JAMB 2013)",
+    "questionText": "Demand for money is:",
     "options": [
       "Composite demand",
       "Derive demand",
@@ -12097,7 +12097,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-432-160",
-    "questionText": "When demand for a product is price inelastic, the following can happen   (JAMB 2013)",
+    "questionText": "When demand for a product is price inelastic, the following can happen",
     "options": [
       "Consumers suffer the entire increase in tax on the product",
       "producer suffers the entire increase in tax on the product",
@@ -12109,7 +12109,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-433-150",
-    "questionText": "A country’s aggregate consumption was N20 million when its GDP was N100million. Following an increase in GDP to N120 million, consumption increased to N25 million. The marginal propensity to consume is given as (JAMB 2013)",
+    "questionText": "A country’s aggregate consumption was N20 million when its GDP was N100million. Following an increase in GDP to N120 million, consumption increased to N25 million. The marginal propensity to consume is given as",
     "options": [
       "0.25",
       "0.5",
@@ -12121,7 +12121,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-434-157",
-    "questionText": "Money that a government has required to be accepted in settlement of debts is  (JAMB 2013)",
+    "questionText": "Money that a government has required to be accepted in settlement of debts is",
     "options": [
       "commodity money",
       "currency value",
@@ -12133,7 +12133,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-435-161",
-    "questionText": "Disposable income means: (JAMB 2013)",
+    "questionText": "Disposable income means:",
     "options": [
       "Income that is lost after tax has been removed",
       "Income that could be spent when tax has been removed",
@@ -12145,7 +12145,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-436-155",
-    "questionText": "Which of the following will benefit a producer who wants to maximize profit?   (JAMB 2013)",
+    "questionText": "Which of the following will benefit a producer who wants to maximize profit?",
     "options": [
       "reduce price when demand is inelastic",
       "increase price when demand is elastic",
@@ -12157,7 +12157,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-437-142",
-    "questionText": "Which of the following correctly defines inflation?  (JAMB 2013)",
+    "questionText": "Which of the following correctly defines inflation?",
     "options": [
       "A one-time increase in commodity prices",
       "A period when prices increase rapidly",
@@ -12169,7 +12169,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-438-147",
-    "questionText": "In which of the following situations do we have a free good?   (JAMB 2013)",
+    "questionText": "In which of the following situations do we have a free good?",
     "options": [
       "At zero price, more is demanded than supplied",
       "At zero price, quantity supplied exceeds quantity demanded",
@@ -12181,7 +12181,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-439-145",
-    "questionText": "Identify one among the following which is NOT part of the objectives or functions of the African Development Bank (ADB).  (JAMB 2013)",
+    "questionText": "Identify one among the following which is NOT part of the objectives or functions of the African Development Bank (ADB).",
     "options": [
       "Provision of technical assistance for development projects",
       "Provision of funds for the supply and demand of infrastructural facilities",
@@ -12193,7 +12193,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-440-159",
-    "questionText": "The law of comparative cost and absolute cost advantage are not the same is that;  (JAMB 2013)",
+    "questionText": "The law of comparative cost and absolute cost advantage are not the same is that;",
     "options": [
       "Former require that one of the countries has absolute advantage in the two goods but latter does not",
       "Former requires one country to have at least absolute advantage in one of the trading goods over the other country but latter does not.",
@@ -12205,7 +12205,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-441-148",
-    "questionText": "In economics, a commodity is said to have an opportunity cost because   (JAMB 2013)",
+    "questionText": "In economics, a commodity is said to have an opportunity cost because",
     "options": [
       "The price of the commodity is high",
       "The commodity is scarce",
@@ -12217,7 +12217,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-442-346",
-    "questionText": "Cost–push inflation occurs when (JAMB 2009)",
+    "questionText": "Cost–push inflation occurs when",
     "options": [
       "production cost is high",
       "factor prices decrease",
@@ -12229,7 +12229,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-443-11",
-    "questionText": "Which tends to be a progressive tax in Nigeria?  (JAMB 2006)",
+    "questionText": "Which tends to be a progressive tax in Nigeria?",
     "options": [
       "income tax",
       "property tax",
@@ -12241,7 +12241,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-444-287",
-    "questionText": "Which of the following does not change in the short run? (JAMB 2012)",
+    "questionText": "Which of the following does not change in the short run?",
     "options": [
       "Variable cost",
       "Marginal cost",
@@ -12253,7 +12253,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-445-614",
-    "questionText": "When population is classified according to professions, it is called (JAMB 2007)",
+    "questionText": "When population is classified according to professions, it is called",
     "options": [
       "geographical distribution of population",
       "age distribution of population",
@@ -12265,7 +12265,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-446-23",
-    "questionText": "The only essential attribute of the good currency is  (JAMB 2006)",
+    "questionText": "The only essential attribute of the good currency is",
     "options": [
       "scarcity",
       "homogeneity",
@@ -12277,7 +12277,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-447-443",
-    "questionText": "Efficient distribution of goods in West Africa will be \n\tfacilitated by (JAMB 2003)",
+    "questionText": "Efficient distribution of goods in West Africa will be \n\tfacilitated by",
     "options": [
       "poor storage facilities",
       "adequate transportation system",
@@ -12289,7 +12289,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-448-74",
-    "questionText": "Which if this is likely to be inflationary  (JAMB 2009)",
+    "questionText": "Which if this is likely to be inflationary",
     "options": [
       "Tax increase",
       "Budget surplus",
@@ -12301,7 +12301,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-449-425",
-    "questionText": "West  African   countries  have  low  levels  of  economic \tdevelopment due to (JAMB 2003)",
+    "questionText": "West  African   countries  have  low  levels  of  economic \tdevelopment due to",
     "options": [
       "underpopulation",
       "inadequate labour",
@@ -12313,7 +12313,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-450-307",
-    "questionText": "When a country’s net income from abroad is added to its total \toutput, the result is (JAMB 2012)",
+    "questionText": "When a country’s net income from abroad is added to its total \toutput, the result is",
     "options": [
       "gross domestic product",
       "net national product",
@@ -12325,7 +12325,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-451-8",
-    "questionText": "Inflation is likely to benefit  (JAMB 2006)",
+    "questionText": "Inflation is likely to benefit",
     "options": [
       "persons with bank savings",
       "persons who live on fixed pension funds",
@@ -12337,7 +12337,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-452-628",
-    "questionText": "The return on investment that is just sufficient to satisfy the owner of a business is called (JAMB 2007)",
+    "questionText": "The return on investment that is just sufficient to satisfy the owner of a business is called",
     "options": [
       "economic profit",
       "business profit",
@@ -12349,7 +12349,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-453-572",
-    "questionText": "What are inferior goods? These are goods (JAMB 2006)",
+    "questionText": "What are inferior goods? These are goods",
     "options": [
       "that are generally in short supply.",
       "that are no longer in demand",
@@ -12361,7 +12361,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-454-366",
-    "questionText": "Economics is the study of human behaviour as it relates to the (JAMB 2010)",
+    "questionText": "Economics is the study of human behaviour as it relates to the",
     "options": [
       "efficient allocation of resources",
       "operation of companies",
@@ -12373,7 +12373,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-455-10",
-    "questionText": "Which of the following is an economic cost  (JAMB 2006)",
+    "questionText": "Which of the following is an economic cost",
     "options": [
       "uninsurable risk",
       "normal profit",
@@ -12385,7 +12385,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-456-597",
-    "questionText": "A mixed economy combines the characteristics of both (JAMB 2006)",
+    "questionText": "A mixed economy combines the characteristics of both",
     "options": [
       "planned and capitalist economics",
       "exchange subsistence economies",
@@ -12397,7 +12397,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-457-278",
-    "questionText": "Palm oil and palm kernel have (JAMB 2012)",
+    "questionText": "Palm oil and palm kernel have",
     "options": [
       "competitive supply",
       "excess supply",
@@ -12409,7 +12409,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-458-188",
-    "questionText": "Quasi-rent refers to (JAMB 2001)",
+    "questionText": "Quasi-rent refers to",
     "options": [
       "Payment made on acquisition of firm’s premises",
       "Payment made for the procurement of tools and equipment",
@@ -12421,7 +12421,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-459-601",
-    "questionText": "An increase in the quantity of goods and services produced \tin a country which raises her national income is known as (JAMB 2006)",
+    "questionText": "An increase in the quantity of goods and services produced \tin a country which raises her national income is known as",
     "options": [
       "economic development",
       "economic growth",
@@ -12433,7 +12433,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-460-45",
-    "questionText": "Which of the following equations is the correct one about Net National Product (NNP)?  (JAMB 2007)",
+    "questionText": "Which of the following equations is the correct one about Net National Product (NNP)?",
     "options": [
       "NNP= Gross National Product (GNP) - Depreciation",
       "NNP= Gross National product (GNP Net incomes from abroad",
@@ -12445,7 +12445,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-461-234",
-    "questionText": "The sum of items divided by the number of items is the (JAMB 2010)",
+    "questionText": "The sum of items divided by the number of items is the",
     "options": [
       "Frequency",
       "mean",
@@ -12457,7 +12457,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-462-314",
-    "questionText": "A rise in government expenditure can lead to (JAMB 2012)",
+    "questionText": "A rise in government expenditure can lead to",
     "options": [
       "higher inflation",
       "higher unemployment",
@@ -12469,7 +12469,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-463-270",
-    "questionText": "One disadvantage of direct taxes is that they (JAMB 2010)",
+    "questionText": "One disadvantage of direct taxes is that they",
     "options": [
       "allocate scarce resources",
       "are not rigid",
@@ -12481,7 +12481,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-464-406",
-    "questionText": "A disadvantage of Nigeria’s dependence on imported petroleum products is the (JAMB 2010)",
+    "questionText": "A disadvantage of Nigeria’s dependence on imported petroleum products is the",
     "options": [
       "instability in the demand to the products",
       "instability in the supply for the products",
@@ -12493,7 +12493,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-465-317",
-    "questionText": "A typical feature of a market economy is that (JAMB 2009)",
+    "questionText": "A typical feature of a market economy is that",
     "options": [
       "all producers make profit",
       "full employment exists",
@@ -12505,7 +12505,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-466-165",
-    "questionText": "When economics say that people act rationally in their self-interest, they mean that individual:  (JAMB 2010)",
+    "questionText": "When economics say that people act rationally in their self-interest, they mean that individual:",
     "options": [
       "look and pursue opportunities to increase their utility",
       "generally disregard the interest of others",
@@ -12517,7 +12517,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-467-392",
-    "questionText": "In national income accounting, tax is determined by the (JAMB 2010)",
+    "questionText": "In national income accounting, tax is determined by the",
     "options": [
       "level of income",
       "level of investment",
@@ -12529,7 +12529,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-468-40",
-    "questionText": "A producer sustains a loss in the short run if?  (JAMB 2007)",
+    "questionText": "A producer sustains a loss in the short run if?",
     "options": [
       "marginal revenue is less than price",
       "price is less than average cost",
@@ -12541,7 +12541,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-469-375",
-    "questionText": "An excess demand for beans will result from (JAMB 2010)",
+    "questionText": "An excess demand for beans will result from",
     "options": [
       "an increase in the price of beans",
       "a decrease in the price of beans",
@@ -12553,7 +12553,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-470-84",
-    "questionText": "The monetary system that requires double coincidence of wants is known as  (JAMB 2009)",
+    "questionText": "The monetary system that requires double coincidence of wants is known as",
     "options": [
       "The gold standard",
       "The gold standard",
@@ -12565,7 +12565,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-471-429",
-    "questionText": "The marginal revenue when output is 4 units is (JAMB 2003)",
+    "questionText": "The marginal revenue when output is 4 units is",
     "options": [
       "5 naira",
       "8 naira",
@@ -12577,7 +12577,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-472-605",
-    "questionText": "Which of the following is an objective of economic integration? (JAMB 2006)",
+    "questionText": "Which of the following is an objective of economic integration?",
     "options": [
       "Harmonization of cultural practices",
       "Free movement of persons, goods and services",
@@ -12589,7 +12589,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-473-510",
-    "questionText": "Economic activities are undertaken to solve the problem of (JAMB 2005)",
+    "questionText": "Economic activities are undertaken to solve the problem of",
     "options": [
       "consumption",
       "opportunity cost",
@@ -12601,7 +12601,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-474-319",
-    "questionText": "A high rent on land will affect the cost of producing maize (JAMB 2009)",
+    "questionText": "A high rent on land will affect the cost of producing maize",
     "options": [
       "positively",
       "negatively",
@@ -12613,7 +12613,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-475-654",
-    "questionText": "A summary of all the receipts and payments of a country in \tinternational transactions is called (JAMB 2007)",
+    "questionText": "A summary of all the receipts and payments of a country in \tinternational transactions is called",
     "options": [
       "terms of trade",
       "balance of payment",
@@ -12625,7 +12625,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-476-389",
-    "questionText": "One of  the characteristics of  monopolistic competition is that (JAMB 2010)",
+    "questionText": "One of  the characteristics of  monopolistic competition is that",
     "options": [
       "there is mobility of factors of production",
       "consumers have perfect knowledge of price",
@@ -12637,7 +12637,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-477-415",
-    "questionText": "The three major agents of an economic system are the (JAMB 2003)",
+    "questionText": "The three major agents of an economic system are the",
     "options": [
       "consumers, workers and producers",
       "markets, telecommunication and banks",
@@ -12649,7 +12649,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-478-407",
-    "questionText": "The maximum number of shareholders  for a limited liability company is (JAMB 2010)",
+    "questionText": "The maximum number of shareholders  for a limited liability company is",
     "options": [
       "Twenty",
       "seven",
@@ -12661,7 +12661,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-479-256",
-    "questionText": "The role of government in promoting agricultural development includes the following except (JAMB 2010)",
+    "questionText": "The role of government in promoting agricultural development includes the following except",
     "options": [
       "paying the wages of all farmers",
       "establishing and funding research",
@@ -12673,7 +12673,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-480-350",
-    "questionText": "According to the theory of comparative advantage, specialization will result in (JAMB 2009)",
+    "questionText": "According to the theory of comparative advantage, specialization will result in",
     "options": [
       "labour–intensive method of production",
       "capital–intensive method of production",
@@ -12685,7 +12685,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-481-609",
-    "questionText": "The satisfaction derived from the use of a commodity is its (JAMB 2007)",
+    "questionText": "The satisfaction derived from the use of a commodity is its",
     "options": [
       "demand",
       "elasticity",
@@ -12697,7 +12697,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-482-248",
-    "questionText": "The public sector of an economy includes (JAMB 2010)",
+    "questionText": "The public sector of an economy includes",
     "options": [
       "cooperative societies",
       "nationalized industries",
@@ -12709,7 +12709,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-483-371",
-    "questionText": "The mean is the best measure of central tendency because it (JAMB 2010)",
+    "questionText": "The mean is the best measure of central tendency because it",
     "options": [
       "is not affected by extreme values in a data",
       "is a balancing point in an observation",
@@ -12721,7 +12721,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-484-90",
-    "questionText": "Marginal cost curve intersects average cost curve  (JAMB 2009)",
+    "questionText": "Marginal cost curve intersects average cost curve",
     "options": [
       "from above at its lowest point",
       "from below the lowest point",
@@ -12733,7 +12733,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-485-198",
-    "questionText": "The difference between the highest and the least marginal (JAMB 2001)",
+    "questionText": "The difference between the highest and the least marginal",
     "options": [
       "product of the variable factor is 3",
       "8",
@@ -12745,7 +12745,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-486-360",
-    "questionText": "The current industrial development strategy in Nigeria is aimed at encouraging (JAMB 2009)",
+    "questionText": "The current industrial development strategy in Nigeria is aimed at encouraging",
     "options": [
       "small–scale industries",
       "medium–scale Industries",
@@ -12757,7 +12757,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-487-585",
-    "questionText": "The equilibrium level of output of a monopolist is determined at a point where (JAMB 2006)",
+    "questionText": "The equilibrium level of output of a monopolist is determined at a point where",
     "options": [
       "marginal cost equal average revenue",
       "marginal cost equals average cost",
@@ -12769,7 +12769,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-488-373",
-    "questionText": "If  the demand for a good is more elastic than its supply, the tax burden is borne (JAMB 2010)",
+    "questionText": "If  the demand for a good is more elastic than its supply, the tax burden is borne",
     "options": [
       "equally by consumers and producers",
       "more by consumers",
@@ -12781,7 +12781,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-489-168",
-    "questionText": "If the production possibilities, curve were a straight down sloping line, this would suggest that:  (JAMB 2010)",
+    "questionText": "If the production possibilities, curve were a straight down sloping line, this would suggest that:",
     "options": [
       "it is possible to produce more of both products",
       "resources are perfectly shift able between the production of these two goods",
@@ -12793,7 +12793,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-490-345",
-    "questionText": "A manufacturer who wants to build a new plant will source funds from the (JAMB 2009)",
+    "questionText": "A manufacturer who wants to build a new plant will source funds from the",
     "options": [
       "commercial banks",
       "money market",
@@ -12805,7 +12805,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-491-516",
-    "questionText": "When all factor inputs are reduced by half, the production possibility curve will shift (JAMB 2005)",
+    "questionText": "When all factor inputs are reduced by half, the production possibility curve will shift",
     "options": [
       "outwards",
       "inwards",
@@ -12817,7 +12817,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-492-115",
-    "questionText": "Indifference curve and isoquant are respectively relevant is   (JAMB 2012)",
+    "questionText": "Indifference curve and isoquant are respectively relevant is",
     "options": [
       "Theories of consumer behaviours and production",
       "Theories of human indifference and production",
@@ -12829,7 +12829,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-493-328",
-    "questionText": "If the price of an item changes by 8% and quantity supplied changes from 600 units to 660 units, the price elasticity of supply is (JAMB 2009)",
+    "questionText": "If the price of an item changes by 8% and quantity supplied changes from 600 units to 660 units, the price elasticity of supply is",
     "options": [
       "0.80",
       "1.25",
@@ -12841,7 +12841,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-494-299",
-    "questionText": "Natural growth rate of population can be defined as the (JAMB 2012)",
+    "questionText": "Natural growth rate of population can be defined as the",
     "options": [
       "difference between birth rate and death rate",
       "number of births in a year",
@@ -12853,7 +12853,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-495-83",
-    "questionText": "One disadvantage of sole proprietorship is its  (JAMB 2009)",
+    "questionText": "One disadvantage of sole proprietorship is its",
     "options": [
       "Limited liability",
       "High profit",
@@ -12865,7 +12865,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-496-298",
-    "questionText": "The grouping of population according to the economic activities people engage in is (JAMB 2012)",
+    "questionText": "The grouping of population according to the economic activities people engage in is",
     "options": [
       "age distribution",
       "sex distribution",
@@ -12877,7 +12877,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-497-79",
-    "questionText": "Under partnership, investors who have no desire to be actively involved in the day-to-day management of such organization are called  (JAMB 2009)",
+    "questionText": "Under partnership, investors who have no desire to be actively involved in the day-to-day management of such organization are called",
     "options": [
       "Stock brokers",
       "Sleeping partners",
@@ -12889,7 +12889,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-498-551",
-    "questionText": "One reason for the low agricultural production in West African countries is that (JAMB 2005)",
+    "questionText": "One reason for the low agricultural production in West African countries is that",
     "options": [
       "agriculture employs the highest percentage of the labour force",
       "too much money is invested in agriculture",
@@ -12901,7 +12901,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-499-286",
-    "questionText": "The type of production that involves the tapping and \tharnessing of natural resources is (JAMB 2012)",
+    "questionText": "The type of production that involves the tapping and \tharnessing of natural resources is",
     "options": [
       "primary production",
       "secondary production",
@@ -12913,7 +12913,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-500-134",
-    "questionText": "The difference between the output proceedings of Nigerians abroad and foreigners in Nigeria is known as;   (JAMB 2012)",
+    "questionText": "The difference between the output proceedings of Nigerians abroad and foreigners in Nigeria is known as;",
     "options": [
       "Net export to abroad",
       "Net import from abroad",
@@ -12925,7 +12925,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-501-340",
-    "questionText": "In developing countries, it is easier to obtain accurate national income estimates through the (JAMB 2009)",
+    "questionText": "In developing countries, it is easier to obtain accurate national income estimates through the",
     "options": [
       "GNP",
       "GDP",
@@ -12937,7 +12937,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394867-502-400",
-    "questionText": "In Nigeria, the huge public debt is as a result of (JAMB 2010)",
+    "questionText": "In Nigeria, the huge public debt is as a result of",
     "options": [
       "balanced budgeting",
       "surplus budgeting",
@@ -12949,7 +12949,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-503-131",
-    "questionText": "The following may not inflate the National Income figure  (JAMB 2012)",
+    "questionText": "The following may not inflate the National Income figure",
     "options": [
       "Student’s bursary",
       "Owners occupied houses",
@@ -12961,7 +12961,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-504-395",
-    "questionText": "The function of money which makes division of  labour \tpossible is its (JAMB 2010)",
+    "questionText": "The function of money which makes division of  labour \tpossible is its",
     "options": [
       "unit of account",
       "medium of exchange",
@@ -12973,7 +12973,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-505-499",
-    "questionText": "One disadvantage of direct taxes is that (JAMB 2004)",
+    "questionText": "One disadvantage of direct taxes is that",
     "options": [
       "government’s revenue is reduced",
       "price of essential commodities fall",
@@ -12985,7 +12985,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-506-35",
-    "questionText": "Inflation can be curbed by  (JAMB 2007)",
+    "questionText": "Inflation can be curbed by",
     "options": [
       "Increasing aggregate demand",
       "paying higher wages",
@@ -12997,7 +12997,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-507-377",
-    "questionText": "One of  the assumptions of ordinal utility theory is that (JAMB 2010)",
+    "questionText": "One of  the assumptions of ordinal utility theory is that",
     "options": [
       "choice is not consistent",
       "total utility is a function of price",
@@ -13009,7 +13009,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-508-304",
-    "questionText": "The production strategy used in an over populated country is (JAMB 2012)",
+    "questionText": "The production strategy used in an over populated country is",
     "options": [
       "import substitution",
       "capital intensive",
@@ -13021,7 +13021,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-509-339",
-    "questionText": "In the long run, one of the characteristics of monopolistic competitive firms is that the (JAMB 2009)",
+    "questionText": "In the long run, one of the characteristics of monopolistic competitive firms is that the",
     "options": [
       "make abnormal profits",
       "suffer losses",
@@ -13033,7 +13033,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-510-173",
-    "questionText": "Unemployment involving a mismatch of the skills of unemployment workers and the skill required for available jobs is called:  (JAMB 2010)",
+    "questionText": "Unemployment involving a mismatch of the skills of unemployment workers and the skill required for available jobs is called:",
     "options": [
       "frictional unemployment",
       "structural unemployment",
@@ -13045,7 +13045,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-511-558",
-    "questionText": "Which of the following is not an objective of the \n\tOrganization of Petroleum Exporting Countries (OPEC)? (JAMB 2005)",
+    "questionText": "Which of the following is not an objective of the \n\tOrganization of Petroleum Exporting Countries (OPEC)?",
     "options": [
       "Stabilization of oil prices",
       "Co-ordinating oil prices",
@@ -13057,7 +13057,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-512-236",
-    "questionText": "Which of the following causes the demand curve to shift to the right? (JAMB 2010)",
+    "questionText": "Which of the following causes the demand curve to shift to the right?",
     "options": [
       "A reduction in the size of population",
       "An increase in the income of the buyer",
@@ -13069,7 +13069,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-513-129",
-    "questionText": "Normal profit means;   (JAMB 2012)",
+    "questionText": "Normal profit means;",
     "options": [
       "All the accountant cost are covered but not all the economist cost",
       "All the economist cost are covered but not all the accountant cost",
@@ -13081,7 +13081,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-514-252",
-    "questionText": "Age Group\t[0 -15\t\t30%], [16 - 40\t\t27%], [41 - 60\t\t25%], [61 and above\t18%] The data shows the age distribution of a country \n\tin 1983. Using the data, calculate the percentage of working population in 1983. (JAMB 2010)",
+    "questionText": "Age Group\t[0 -15\t\t30%], [16 - 40\t\t27%], [41 - 60\t\t25%], [61 and above\t18%] The data shows the age distribution of a country \n\tin 1983. Using the data, calculate the percentage of working population in 1983.",
     "options": [
       "48%",
       "52%",
@@ -13093,7 +13093,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-515-264",
-    "questionText": "The best way of combating demand-pull inflation is to (JAMB 2010)",
+    "questionText": "The best way of combating demand-pull inflation is to",
     "options": [
       "increase income taxes",
       "reduce income taxes",
@@ -13105,7 +13105,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-516-233",
-    "questionText": "In which of the following economic systems do we have mostly private ownership of resources and individual (JAMB 2010)",
+    "questionText": "In which of the following economic systems do we have mostly private ownership of resources and individual",
     "options": [
       "decision making?",
       "Capitalist system",
@@ -13117,7 +13117,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-517-426",
-    "questionText": "When the total product is at its maximum, marginal \n\tproduct is (JAMB 2003)",
+    "questionText": "When the total product is at its maximum, marginal \n\tproduct is",
     "options": [
       "increasing",
       "positive",
@@ -13129,7 +13129,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-518-484",
-    "questionText": "One main benefit of partnerships is (JAMB 2004)",
+    "questionText": "One main benefit of partnerships is",
     "options": [
       "the possibility of raising funds on the stock exchange",
       "the possibility of attracting twenty one or more members",
@@ -13141,7 +13141,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-519-294",
-    "questionText": "One good reason for the elimination of middlemen is that they (JAMB 2012)",
+    "questionText": "One good reason for the elimination of middlemen is that they",
     "options": [
       "cause increase in price",
       "help in price stability",
@@ -13153,7 +13153,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-520-76",
-    "questionText": "Which of these is not included in measuring national income by the income approach?  (JAMB 2009)",
+    "questionText": "Which of these is not included in measuring national income by the income approach?",
     "options": [
       "Wages and salaries of public servants",
       "students branches and scholarships",
@@ -13165,7 +13165,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-521-124",
-    "questionText": "Discount rate means   (JAMB 2012)",
+    "questionText": "Discount rate means",
     "options": [
       "Rate at which money are borrowed from commercial bank",
       "Rate at which bank receive deposit from the public",
@@ -13177,7 +13177,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-522-648",
-    "questionText": "The population of a country in a certain year was fifty million and the per capita income was $2050. What was the national income? (JAMB 2007)",
+    "questionText": "The population of a country in a certain year was fifty million and the per capita income was $2050. What was the national income?",
     "options": [
       "$ 750,000 million",
       "$100,250 million",
@@ -13189,7 +13189,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-523-416",
-    "questionText": "Which of the following  is  not  an  advantage  of  tabular presentation of data? (JAMB 2003)",
+    "questionText": "Which of the following  is  not  an  advantage  of  tabular presentation of data?",
     "options": [
       "enables easy location of required figures",
       "makes for easy comparison of figures",
@@ -13201,7 +13201,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-524-396",
-    "questionText": "By buying treasury bills, the Central Bank of  Nigeria intends \tto (JAMB 2010)",
+    "questionText": "By buying treasury bills, the Central Bank of  Nigeria intends \tto",
     "options": [
       "increase money supply in the economy",
       "reduce money supply in the economy",
@@ -13213,7 +13213,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-525-421",
-    "questionText": "A major limiting factor of mass production is (JAMB 2003)",
+    "questionText": "A major limiting factor of mass production is",
     "options": [
       "efficient management",
       "adequate labour supply",
@@ -13225,7 +13225,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-526-358",
-    "questionText": "In Nigeria, the location of a steel industry at Ajaokuta is due to (JAMB 2009)",
+    "questionText": "In Nigeria, the location of a steel industry at Ajaokuta is due to",
     "options": [
       "the availability of transport network",
       "the proximity to source of power",
@@ -13237,7 +13237,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-527-368",
-    "questionText": "The downturn in the prices of shares on stock markets is a \thighlight of (JAMB 2010)",
+    "questionText": "The downturn in the prices of shares on stock markets is a \thighlight of",
     "options": [
       "efficient allocation of resources",
       "the regulatory nature of the market",
@@ -13249,7 +13249,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-528-170",
-    "questionText": "Which of the following statement is correct?  (JAMB 2010)",
+    "questionText": "Which of the following statement is correct?",
     "options": [
       "if demand increase and supply decrease equilibrium price will fall",
       "if supply increase and demand decrease, equilibrium price will fall",
@@ -13261,7 +13261,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-529-77",
-    "questionText": "The revenue accruing to the seller of commodity X as a result of a fall in price will  (JAMB 2009)",
+    "questionText": "The revenue accruing to the seller of commodity X as a result of a fall in price will",
     "options": [
       "increase",
       "fall",
@@ -13273,7 +13273,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-530-534",
-    "questionText": "information about new goods is passed on to buyers through (JAMB 2005)",
+    "questionText": "information about new goods is passed on to buyers through",
     "options": [
       "advertising",
       "retail trade",
@@ -13285,7 +13285,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-531-260",
-    "questionText": "Which of the following equations is appropriate for determining the Net Domestic Product (NDP)? (JAMB 2010)",
+    "questionText": "Which of the following equations is appropriate for determining the Net Domestic Product (NDP)?",
     "options": [
       "NDP = GNP – depreciation",
       "NDP = GDP + Net Income from abroad",
@@ -13297,7 +13297,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-532-241",
-    "questionText": "At the highest level of total utility, marginal utility is (JAMB 2010)",
+    "questionText": "At the highest level of total utility, marginal utility is",
     "options": [
       "Negative",
       "positive and falling",
@@ -13309,7 +13309,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-533-179",
-    "questionText": "The discount rate is the interest:  (JAMB 2010)",
+    "questionText": "The discount rate is the interest:",
     "options": [
       "rate at which the Central Bank of Nigeria lends in the Nigeria Government",
       "yield on long-term government bonds",
@@ -13321,7 +13321,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-534-645",
-    "questionText": "A country whose economy is buoyant is likely to have (JAMB 2007)",
+    "questionText": "A country whose economy is buoyant is likely to have",
     "options": [
       "a weak currency",
       "devaluation from time to time",
@@ -13333,7 +13333,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-535-177",
-    "questionText": "The value of money varies  (JAMB 2010)",
+    "questionText": "The value of money varies",
     "options": [
       "inversely with the price of level",
       "directly with the volume of employment",
@@ -13345,7 +13345,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-536-182",
-    "questionText": "A demand curve which is parallel to the horizontal axis is (JAMB 2010)",
+    "questionText": "A demand curve which is parallel to the horizontal axis is",
     "options": [
       "perfectly inelastic",
       "perfectly elastic",
@@ -13357,7 +13357,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-537-583",
-    "questionText": "For a monopolist, the average revenue (AR) curve is  above (JAMB 2006)",
+    "questionText": "For a monopolist, the average revenue (AR) curve is  above",
     "options": [
       "the total cost curve",
       "the same as the marginal cost curve",
@@ -13369,7 +13369,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-538-399",
-    "questionText": "A strategy for curbing unemployment is to (JAMB 2010)",
+    "questionText": "A strategy for curbing unemployment is to",
     "options": [
       "implement government stabilization policy",
       "increase government expenditure and decrease taxes",
@@ -13381,7 +13381,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-539-565",
-    "questionText": "If the fixed cost of a firm is 800 Naira and its variable cost is \t2,700 Naira while its total output is 100 units, what is the average cost of the firm? (JAMB 2006)",
+    "questionText": "If the fixed cost of a firm is 800 Naira and its variable cost is \t2,700 Naira while its total output is 100 units, what is the average cost of the firm?",
     "options": [
       "25 Naira",
       "35 Naira",
@@ -13393,7 +13393,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-540-297",
-    "questionText": "If the labour force of a country is 2.5 million and 2 million are employed, what is the unemployment rate? (JAMB 2012)",
+    "questionText": "If the labour force of a country is 2.5 million and 2 million are employed, what is the unemployment rate?",
     "options": [
       "0.2%",
       "20%",
@@ -13405,7 +13405,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-541-564",
-    "questionText": "An owner-manager of a firm can also be called (JAMB 2006)",
+    "questionText": "An owner-manager of a firm can also be called",
     "options": [
       "shareholder",
       "an entrepreneur",
@@ -13417,7 +13417,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-542-591",
-    "questionText": "A cheque book is issued to customers of a bank operating a (JAMB 2006)",
+    "questionText": "A cheque book is issued to customers of a bank operating a",
     "options": [
       "savings account",
       "time deposit account",
@@ -13429,7 +13429,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-543-325",
-    "questionText": "A major assumption in cardinal utility theory is that (JAMB 2009)",
+    "questionText": "A major assumption in cardinal utility theory is that",
     "options": [
       "utility is measurable",
       "utility is not measurable",
@@ -13441,7 +13441,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-544-607",
-    "questionText": "The full meaning of OPEC is (JAMB 2006)",
+    "questionText": "The full meaning of OPEC is",
     "options": [
       "Oil and Petroleum Exporting Countries",
       "Original Petroleum Exporting Companies",
@@ -13453,7 +13453,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-545-391",
-    "questionText": "An agreement among firms on price and segmentation is termed (JAMB 2010)",
+    "questionText": "An agreement among firms on price and segmentation is termed",
     "options": [
       "Cartel",
       "haggling",
@@ -13465,7 +13465,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-546-343",
-    "questionText": "The ability of commercial banks to create money depends on the (JAMB 2009)",
+    "questionText": "The ability of commercial banks to create money depends on the",
     "options": [
       "Ratio",
       "liquidity ratio",
@@ -13477,7 +13477,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-547-120",
-    "questionText": "Ordinary shareholders and preferential shareholders are different because  (JAMB 2012)",
+    "questionText": "Ordinary shareholders and preferential shareholders are different because",
     "options": [
       "Preferential shareholders participate and can vote and be voted for during the AGM",
       "ordinary shareholders are given priority in case the company is liquidated",
@@ -13489,7 +13489,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-548-431",
-    "questionText": "West African countries experience rapid population growth due to (JAMB 2003)",
+    "questionText": "West African countries experience rapid population growth due to",
     "options": [
       "existence of birth control clinics",
       "early marriages",
@@ -13501,7 +13501,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-549-9",
-    "questionText": "For which market model is there a very large number of firms?  (JAMB 2006)",
+    "questionText": "For which market model is there a very large number of firms?",
     "options": [
       "monopolistic competition",
       "oligopoly",
@@ -13513,7 +13513,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-550-536",
-    "questionText": "The direct exchange of one good for another without the use of money is known as (JAMB 2005)",
+    "questionText": "The direct exchange of one good for another without the use of money is known as",
     "options": [
       "foreign exchange",
       "exchange rate",
@@ -13525,7 +13525,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-551-239",
-    "questionText": "Equilibrium price is the price at which quantity (JAMB 2010)",
+    "questionText": "Equilibrium price is the price at which quantity",
     "options": [
       "demanded is greater than quantity supplied",
       "supplied is greater than quantity demanded",
@@ -13537,7 +13537,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-552-623",
-    "questionText": "Patents are examples of (JAMB 2007)",
+    "questionText": "Patents are examples of",
     "options": [
       "natural barriers to entry",
       "legal barriers to entry",
@@ -13549,7 +13549,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-553-5",
-    "questionText": "If the price of Pepsi decrease relative to the price of coke and 7-up the demand for  (JAMB 2006)",
+    "questionText": "If the price of Pepsi decrease relative to the price of coke and 7-up the demand for",
     "options": [
       "coke will decrease",
       "7-up will decrease",
@@ -13561,7 +13561,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-554-305",
-    "questionText": "National income is used to measure (JAMB 2012)",
+    "questionText": "National income is used to measure",
     "options": [
       "a country’s population size",
       "a country’s economic growth",
@@ -13573,7 +13573,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-555-348",
-    "questionText": "The Basic Needs Approach to development is directed a (JAMB 2009)",
+    "questionText": "The Basic Needs Approach to development is directed a",
     "options": [
       "poverty alleviation",
       "provision of educational infrastructure",
@@ -13585,7 +13585,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-556-587",
-    "questionText": "The policy of government to increase the supply of money to meet its own expenditure plans is likely to be (JAMB 2006)",
+    "questionText": "The policy of government to increase the supply of money to meet its own expenditure plans is likely to be",
     "options": [
       "speculative",
       "deflationary",
@@ -13597,7 +13597,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-557-506",
-    "questionText": "The national income of a country can be estimated by the (JAMB 2004)",
+    "questionText": "The national income of a country can be estimated by the",
     "options": [
       "cost-benefit method",
       "distribution method",
@@ -13609,7 +13609,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-558-546",
-    "questionText": "Government revenue from the groundnut industry is from (JAMB 2005)",
+    "questionText": "Government revenue from the groundnut industry is from",
     "options": [
       "licenses",
       "rents",
@@ -13621,7 +13621,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-559-602",
-    "questionText": "The formula “index of export prices” / “Index of import prices”   x 100   is used to measure the (JAMB 2006)",
+    "questionText": "The formula “index of export prices” / “Index of import prices”   x 100   is used to measure the",
     "options": [
       "volume of trade between countries",
       "direction of international trade",
@@ -13633,7 +13633,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-560-337",
-    "questionText": "The supply curve of a perfectly competitive firm is identical to its (JAMB 2009)",
+    "questionText": "The supply curve of a perfectly competitive firm is identical to its",
     "options": [
       "total cost",
       "marginal cost",
@@ -13645,7 +13645,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-561-361",
-    "questionText": "Activities in the oil and gas industry are classified into (JAMB 2009)",
+    "questionText": "Activities in the oil and gas industry are classified into",
     "options": [
       "oil exportation and distribution",
       "refining and marketing of finished products",
@@ -13657,7 +13657,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-562-180",
-    "questionText": "Assume a household would consume N100 worth of goods and services per week if its weekly income were zero and would spend an additional N80 per week for each 100 of additional income, if C represents consumption and Y income the equation that summarizes this relationship is (JAMB 2010)",
+    "questionText": "Assume a household would consume N100 worth of goods and services per week if its weekly income were zero and would spend an additional N80 per week for each 100 of additional income, if C represents consumption and Y income the equation that summarizes this relationship is",
     "options": [
       "C =8+100Y",
       "C=100+8Y",
@@ -13669,7 +13669,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-563-643",
-    "questionText": "Which of Ike following is an example of direct tax? (JAMB 2007)",
+    "questionText": "Which of Ike following is an example of direct tax?",
     "options": [
       "Import duties",
       "Income tax",
@@ -13681,7 +13681,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-564-169",
-    "questionText": "Productive efficiency refers to:  (JAMB 2010)",
+    "questionText": "Productive efficiency refers to:",
     "options": [
       "the use of the least-cost method of production",
       "the production of the product-mix most wanted by society",
@@ -13693,7 +13693,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-565-402",
-    "questionText": "The ultimate aim of agricultural policies in Nigeria is to achieve (JAMB 2010)",
+    "questionText": "The ultimate aim of agricultural policies in Nigeria is to achieve",
     "options": [
       "food sufficiency",
       "full employment",
@@ -13705,7 +13705,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-566-95",
-    "questionText": "A major obstacle to economic development in many African countries  (JAMB 2009)",
+    "questionText": "A major obstacle to economic development in many African countries",
     "options": [
       "A rise in industrial output",
       "Low farm productivity",
@@ -13717,7 +13717,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-567-93",
-    "questionText": "Which of the following is an example of invisible item on balance of payments account? (JAMB 2009)",
+    "questionText": "Which of the following is an example of invisible item on balance of payments account?",
     "options": [
       "Shipping and aviation",
       "Import and Export",
@@ -13729,7 +13729,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-568-174",
-    "questionText": "The greater is the marginal propensity to consume, the:  (JAMB 2010)",
+    "questionText": "The greater is the marginal propensity to consume, the:",
     "options": [
       "smaller is the marginal propensity to save",
       "higher is the interest rate",
@@ -13741,7 +13741,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-569-17",
-    "questionText": "The creation of utility can be referred to as  (JAMB 2006)",
+    "questionText": "The creation of utility can be referred to as",
     "options": [
       "value added",
       "profit marginalization",
@@ -13753,7 +13753,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-570-119",
-    "questionText": "Roles of central bank include the following except   (JAMB 2012)",
+    "questionText": "Roles of central bank include the following except",
     "options": [
       "Lender of last resort to commercial bank",
       "Banker to commercial bank",
@@ -13765,7 +13765,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-571-166",
-    "questionText": "As it relates to international trade, dumping:  (JAMB 2010)",
+    "questionText": "As it relates to international trade, dumping:",
     "options": [
       "is a form of price discrimination illegal under U.S antitrust laws",
       "is the practice of selling goods in a foreign market at less than the cost",
@@ -13777,7 +13777,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-572-31",
-    "questionText": "The slope of the budget constraint  (JAMB 2007)",
+    "questionText": "The slope of the budget constraint",
     "options": [
       "changes as the marginal rate of satisfaction changes",
       "is the ration of the prices of the two goods?",
@@ -13789,7 +13789,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394868-573-167",
-    "questionText": "A nation’s production possibility curve is bowed out from the origin because: (JAMB 2010)",
+    "questionText": "A nation’s production possibility curve is bowed out from the origin because:",
     "options": [
       "wants are virtually unlimited",
       "the originator of the idea drew it this way and modem economists follow this convention",
@@ -13801,7 +13801,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-574-113",
-    "questionText": "A commodity is said to be price inelastic if   (JAMB 2012)",
+    "questionText": "A commodity is said to be price inelastic if",
     "options": [
       "Changes in the quantity purchased of a good is less than proportionate changes in its price",
       "Changes in the quantity purchased of a good is proportional to changes in its price",
@@ -13813,7 +13813,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-575-126",
-    "questionText": "Inflation as a result of increase in the payment for factors of production is called   (JAMB 2012)",
+    "questionText": "Inflation as a result of increase in the payment for factors of production is called",
     "options": [
       "Cost-pull inflation",
       "Demand-push inflation",
@@ -13825,7 +13825,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-576-36",
-    "questionText": "The supply and demand for goods and service are influenced by the  (JAMB 2007)",
+    "questionText": "The supply and demand for goods and service are influenced by the",
     "options": [
       "Super markets",
       "Entrepreneurs",
@@ -13837,7 +13837,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-577-22",
-    "questionText": "Economic freedom is brought about by the existence of  (JAMB 2006)",
+    "questionText": "Economic freedom is brought about by the existence of",
     "options": [
       "Government",
       "Money",
@@ -13849,7 +13849,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-578-29",
-    "questionText": "Which of the following statements is correct? The Central  Bank  (JAMB 2007)",
+    "questionText": "Which of the following statements is correct? The Central  Bank",
     "options": [
       "prints the country’s currency",
       "handles the collection of depts. Owed to the government",
@@ -13861,7 +13861,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-579-86",
-    "questionText": "By using exchanges controls, a country tries to eliminate a balance of payment deficit by  (JAMB 2009)",
+    "questionText": "By using exchanges controls, a country tries to eliminate a balance of payment deficit by",
     "options": [
       "limited her imports to its currency value of exports",
       "Reducing the nation’s domestic piece level",
@@ -13873,7 +13873,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-580-394",
-    "questionText": "If  MPC is 0.7 while government expenditure increased by N= 150m, the equilibrium national income is (JAMB 2010)",
+    "questionText": "If  MPC is 0.7 while government expenditure increased by N= 150m, the equilibrium national income is",
     "options": [
       "N= 214 million",
       "N= 105 million",
@@ -13885,7 +13885,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-581-301",
-    "questionText": "The following are features of subsistence agriculture except (JAMB 2012)",
+    "questionText": "The following are features of subsistence agriculture except",
     "options": [
       "little capital",
       "processing of raw materials",
@@ -13897,7 +13897,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-582-281",
-    "questionText": "Price fixed above the equilibrium is to (JAMB 2012)",
+    "questionText": "Price fixed above the equilibrium is to",
     "options": [
       "protect agricultural producers",
       "discourage agricultural producers",
@@ -13909,7 +13909,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-583-171",
-    "questionText": "If depreciation exceeds gross investment:  (JAMB 2010)",
+    "questionText": "If depreciation exceeds gross investment:",
     "options": [
       "the economy’s stock of capital may be either growing or shrinking",
       "the economy’s stock of capital is growing",
@@ -13921,7 +13921,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-584-594",
-    "questionText": "Which of the following agricultural systems is mainly for the (JAMB 2006)",
+    "questionText": "Which of the following agricultural systems is mainly for the",
     "options": [
       "cultivation of food crops for family consumption?",
       "Co-operative farming",
@@ -13933,7 +13933,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-585-405",
-    "questionText": "in developing countries, governments influence the location of  industries in order to (JAMB 2010)",
+    "questionText": "in developing countries, governments influence the location of  industries in order to",
     "options": [
       "spread development",
       "encourage entrepreneurs",
@@ -13945,7 +13945,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-586-251",
-    "questionText": "The wholesaler performs the following functions except (JAMB 2010)",
+    "questionText": "The wholesaler performs the following functions except",
     "options": [
       "breaking the bulk",
       "offering credit facilities to consumers",
@@ -13957,7 +13957,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-587-632",
-    "questionText": "To promote the development of the agricultural sector, governments of West African countries should (JAMB 2007)",
+    "questionText": "To promote the development of the agricultural sector, governments of West African countries should",
     "options": [
       "encourage rural-urban drift",
       "discourage foreign investment in agriculture",
@@ -13969,7 +13969,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-588-388",
-    "questionText": "An industry’s supply curve is more likely to be elastic when firms are (JAMB 2010)",
+    "questionText": "An industry’s supply curve is more likely to be elastic when firms are",
     "options": [
       "enjoying free entry and exit",
       "operating below capacity",
@@ -13981,7 +13981,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-589-245",
-    "questionText": "The reward to land as a factor of production is (JAMB 2010)",
+    "questionText": "The reward to land as a factor of production is",
     "options": [
       "Profit",
       "rent",
@@ -13993,7 +13993,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-590-25",
-    "questionText": "The capitalist system is characterized by all the following except:  (JAMB 2007)",
+    "questionText": "The capitalist system is characterized by all the following except:",
     "options": [
       "private ownership of the means of production",
       "Equitable distribution of income and wealth",
@@ -14005,7 +14005,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-591-476",
-    "questionText": "A major effect of aging populations is (JAMB 2004)",
+    "questionText": "A major effect of aging populations is",
     "options": [
       "reduced labour force",
       "rise in prices of commodities",
@@ -14017,7 +14017,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-592-250",
-    "questionText": "Which of the following is obtainable in a perfect market? (JAMB 2010)",
+    "questionText": "Which of the following is obtainable in a perfect market?",
     "options": [
       "P = MR >AR",
       "MR = MC>P",
@@ -14029,7 +14029,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-593-630",
-    "questionText": "A negative effect of the presence of a large number of middlemen in the distributive network is (JAMB 2007)",
+    "questionText": "A negative effect of the presence of a large number of middlemen in the distributive network is",
     "options": [
       "greater variety of goods",
       "greater quality of goods",
@@ -14041,7 +14041,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-594-403",
-    "questionText": "Government can boost agricultural output in Nigeria primarily by (JAMB 2010)",
+    "questionText": "Government can boost agricultural output in Nigeria primarily by",
     "options": [
       "embarking on buffer stock programs",
       "granting subsidies on farm Inputs",
@@ -14053,7 +14053,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-595-569",
-    "questionText": "One of the factors affecting geographical distribution of population is (JAMB 2006)",
+    "questionText": "One of the factors affecting geographical distribution of population is",
     "options": [
       "high birth rate",
       "high death rate",
@@ -14065,7 +14065,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-596-570",
-    "questionText": "Standardization of products or services is a feature of (JAMB 2006)",
+    "questionText": "Standardization of products or services is a feature of",
     "options": [
       "large firms",
       "retailers",
@@ -14077,7 +14077,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-597-616",
-    "questionText": "Revenue is the (JAMB 2007)",
+    "questionText": "Revenue is the",
     "options": [
       "total profit made after sales",
       "amount spent on purchases",
@@ -14089,7 +14089,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-598-231",
-    "questionText": "The following are examples of economic goods except (JAMB 2010)",
+    "questionText": "The following are examples of economic goods except",
     "options": [
       "bottled water",
       "air",
@@ -14101,7 +14101,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-599-397",
-    "questionText": "The velocity of money is represented as (JAMB 2010)",
+    "questionText": "The velocity of money is represented as",
     "options": [
       "money supply /real GDP",
       "real GDPmoney supply",
@@ -14113,7 +14113,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-600-263",
-    "questionText": "Which of the following is not a reason for holding money? (JAMB 2010)",
+    "questionText": "Which of the following is not a reason for holding money?",
     "options": [
       "Ostentation",
       "Speculation",
@@ -14125,7 +14125,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-601-224",
-    "questionText": "If there is an increase in wages and salaries without a corresponding increase in the supply of goods and services, the situation will lead to (JAMB 2001)",
+    "questionText": "If there is an increase in wages and salaries without a corresponding increase in the supply of goods and services, the situation will lead to",
     "options": [
       "a reduction in aggregate demand",
       "inflation",
@@ -14137,7 +14137,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-602-611",
-    "questionText": "The Malthusian theory of population does not concern itself with (JAMB 2007)",
+    "questionText": "The Malthusian theory of population does not concern itself with",
     "options": [
       "growth of food production in arithmetical progression",
       "growth of population in geometric progression",
@@ -14149,7 +14149,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-603-634",
-    "questionText": "A certain amount of money is needed for everyday expenditure like buying of goods, transportation and others. This is (JAMB 2007)",
+    "questionText": "A certain amount of money is needed for everyday expenditure like buying of goods, transportation and others. This is",
     "options": [
       "transaction demand for money",
       "precautionary demand for money",
@@ -14161,7 +14161,7 @@ export const economicsQuestions = [
   },
   {
     "id": "economics-1788729394869-604-590",
-    "questionText": "The motive for holding money for investing in securities is \treferred to as (JAMB 2006)",
+    "questionText": "The motive for holding money for investing in securities is \treferred to as",
     "options": [
       "transactionary",
       "speculative",

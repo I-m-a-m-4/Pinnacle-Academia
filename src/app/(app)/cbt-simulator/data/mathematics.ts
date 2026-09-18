@@ -1,7 +1,7 @@
 export const mathematicsQuestions = [
   {
     "id": "mathematics-1788679435990-0-948",
-    "questionText": "A man's initial salary is N540.00 a month and increases after each period of six months by N36.00. Find his salary in the eight month of the third year. (JAMB 2018)",
+    "questionText": "A man's initial salary is N540.00 a month and increases after each period of six months by N36.00. Find his salary in the eight month of the third year.",
     "options": [
       "N828.00",
       "N756.00",
@@ -13,7 +13,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-1-828",
-    "questionText": "The venn diagram shows a class of 50 students with the games they play. How many students play only two games? (JAMB 2016)",
+    "questionText": "The venn diagram shows a class of 50 students with the games they play. How many students play only two games?",
     "options": [
       "15",
       "16",
@@ -25,7 +25,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-2-668",
-    "questionText": "In how many ways can the letters of the word ELATION be arranged? (JAMB 2011)",
+    "questionText": "In how many ways can the letters of the word ELATION be arranged?",
     "options": [
       " \n5!",
       " \n7!",
@@ -37,7 +37,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-3-955",
-    "questionText": "Find the equation of the tangent at the point (2, 0) to the curve y = x<sup>2</sup> - 2x (JAMB 2018)",
+    "questionText": "Find the equation of the tangent at the point (2, 0) to the curve y = x<sup>2</sup> - 2x",
     "options": [
       "y = 2x - 4",
       " y = 2x + 4",
@@ -49,7 +49,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-4-650",
-    "questionText": "Find the equation of a line perpendicular to line 2y = 5x + 4 which passes through (4, 2). (JAMB 2011)",
+    "questionText": "Find the equation of a line perpendicular to line 2y = 5x + 4 which passes through (4, 2).",
     "options": [
       "5y - 2x -18 = 0",
       "5y + 2x - 18 = 0",
@@ -61,7 +61,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-5-574",
-    "questionText": "Express the product of 0.21 and 0.34 in standard form (JAMB 2010)",
+    "questionText": "Express the product of 0.21 and 0.34 in standard form",
     "options": [
       " 7.14 x 10<sup>-3</sup>",
       " 7.14 x 10<sup>-2</sup>",
@@ -73,7 +73,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-6-479",
-    "questionText": "〖log〗<sub>(x<sup>1/2</sup>)</sub><sup>64</sup> = 3,  find the value of x (JAMB 2008)",
+    "questionText": "〖log〗<sub>(x<sup>1/2</sup>)</sub><sup>64</sup> = 3,  find the value of x",
     "options": [
       "4",
       "16",
@@ -85,7 +85,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-7-959",
-    "questionText": "\nThe table above shows the frequency of children age x years in a hospital\nx\t1\t2\t3\t4\t5\t6\t7\t8\ny\t3\t4\t5\t6\t7\t6\t5\t4\nHow many children are in the hospital (JAMB 2018)",
+    "questionText": "\nThe table above shows the frequency of children age x years in a hospital\nx\t1\t2\t3\t4\t5\t6\t7\t8\ny\t3\t4\t5\t6\t7\t6\t5\t4\nHow many children are in the hospital",
     "options": [
       "36",
       "40",
@@ -97,7 +97,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-8-178",
-    "questionText": "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x. (JAMB 2002)",
+    "questionText": "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x.",
     "options": [
       " 2x<sup>2</sup> - 3x",
       " x<sup>2</sup> - 3x",
@@ -109,7 +109,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-9-811",
-    "questionText": "If the midpoint of the line PQ is (2,3) and the point P is (-2, 1), find the coordinate of the point Q. (JAMB 2013)",
+    "questionText": "If the midpoint of the line PQ is (2,3) and the point P is (-2, 1), find the coordinate of the point Q.",
     "options": [
       " (8,6)",
       "(5,6)",
@@ -121,7 +121,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-10-368",
-    "questionText": "In the diagram above calculate the value of x (JAMB 2005)",
+    "questionText": "In the diagram above calculate the value of x",
     "options": [
       "60°",
       "100°",
@@ -133,7 +133,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-11-595",
-    "questionText": "At what rate will the interest on N400 increases to N24 in 3 years reckoning in simple interest? (JAMB 2010)",
+    "questionText": "At what rate will the interest on N400 increases to N24 in 3 years reckoning in simple interest?",
     "options": [
       "3%",
       "2%",
@@ -145,7 +145,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-12-466",
-    "questionText": "The area of a square is 144 sqcm. Find the length of the diagonal. (JAMB 2007)",
+    "questionText": "The area of a square is 144 sqcm. Find the length of the diagonal.",
     "options": [
       " 13 cm",
       "12√2 cm",
@@ -157,7 +157,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-13-894",
-    "questionText": "Evaluate 0.00000231/0.007\n and leave the answer in standard form (JAMB 2017)",
+    "questionText": "Evaluate 0.00000231/0.007\n and leave the answer in standard form",
     "options": [
       "3.3 x 10<sup>-4</sup>",
       "3.3 x 10<sup>-3</sup>",
@@ -169,7 +169,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-14-937",
-    "questionText": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\n \n\nWhat is the median mark? (JAMB 2018)",
+    "questionText": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\n \n\nWhat is the median mark?",
     "options": [
       "1",
       "2",
@@ -181,7 +181,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-15-752",
-    "questionText": "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number. (JAMB 2012)",
+    "questionText": "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number.",
     "options": [
       "126",
       "180",
@@ -193,7 +193,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-16-1133",
-    "questionText": "If n(P) = 20 and n(Q) = 30 and n(PuQ) = 40, find the value n(PnQ) (JAMB 2022)",
+    "questionText": "If n(P) = 20 and n(Q) = 30 and n(PuQ) = 40, find the value n(PnQ)",
     "options": [
       "10",
       " 30",
@@ -205,7 +205,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-17-1252",
-    "questionText": "Find at which rate per annum simple interest N525 will amount to N588 in 3 years. (JAMB 2015)",
+    "questionText": "Find at which rate per annum simple interest N525 will amount to N588 in 3 years.",
     "options": [
       "3%",
       "2%",
@@ -217,7 +217,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-18-766",
-    "questionText": "A circular arc subtends angle 150° at the centre of a circle of radius 12cm. Calculate the area of the sector of the arc. (JAMB 2012)",
+    "questionText": "A circular arc subtends angle 150° at the centre of a circle of radius 12cm. Calculate the area of the sector of the arc.",
     "options": [
       "30π cm<sup>2</sup>",
       "60π cm<sup>2</sup>",
@@ -229,7 +229,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-19-1075",
-    "questionText": "Find the length of a side of a rhombus whose diagonals are 6 cm and 8 cm (JAMB 2021)",
+    "questionText": "Find the length of a side of a rhombus whose diagonals are 6 cm and 8 cm",
     "options": [
       "8 cm",
       "5 cm",
@@ -253,7 +253,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-21-1102",
-    "questionText": "If the mean of 2, 5, (x+1), (x+2), 7 and 9 is 6. Find the median (JAMB 2022)",
+    "questionText": "If the mean of 2, 5, (x+1), (x+2), 7 and 9 is 6. Find the median",
     "options": [
       "5.5",
       " 5",
@@ -265,7 +265,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-22-575",
-    "questionText": "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers? (JAMB 2010)",
+    "questionText": "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers?",
     "options": [
       "10",
       "5",
@@ -277,7 +277,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-23-1107",
-    "questionText": "A rectangular pyramid has an area 24cm<sup>2</sup>\n and height 7.5cm. Find its volume? (JAMB 2022)",
+    "questionText": "A rectangular pyramid has an area 24cm<sup>2</sup>\n and height 7.5cm. Find its volume?",
     "options": [
       "65.0cm<sup>3</sup>",
       "70.5cm<sup>3</sup>",
@@ -289,7 +289,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-24-296",
-    "questionText": "y = is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10. (JAMB 2004)",
+    "questionText": "y = is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.",
     "options": [
       "2",
       "10",
@@ -301,7 +301,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-25-842",
-    "questionText": "Evaluate (〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2) (JAMB 2016)",
+    "questionText": "Evaluate (〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)",
     "options": [
       "23/5",
       "-(23/5)",
@@ -313,7 +313,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-26-4",
-    "questionText": "In how many different ways can the letters of the word GEOLOGY be arranged in order?  (JAMB 2006)",
+    "questionText": "In how many different ways can the letters of the word GEOLOGY be arranged in order?",
     "options": [
       "720",
       "1260",
@@ -325,7 +325,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-27-580",
-    "questionText": "If ∣∣∣x237∣∣∣ = 15, find the value of x (JAMB 2010)",
+    "questionText": "If ∣∣∣x237∣∣∣ = 15, find the value of x",
     "options": [
       "3",
       "4",
@@ -337,7 +337,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-28-638",
-    "questionText": "Solve the inequality x<sup>2</sup> + 2x > 15. (JAMB 2011)",
+    "questionText": "Solve the inequality x<sup>2</sup> + 2x > 15.",
     "options": [
       "x < -3 or x > 5",
       "-5 < x < 3",
@@ -349,7 +349,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-29-1060",
-    "questionText": "What is the rate of change of the volume V of a hemisphere with respect to its radius r when r = 2?\n (JAMB 2021)",
+    "questionText": "What is the rate of change of the volume V of a hemisphere with respect to its radius r when r = 2?\n",
     "options": [
       "8π",
       "16π",
@@ -361,7 +361,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-30-170",
-    "questionText": "The graph shows the cumulative frequency of the distribution of masses of fertilizer for 48 workers in one institution. Which of the following gives the inter-quartile range? (JAMB 2001)",
+    "questionText": "The graph shows the cumulative frequency of the distribution of masses of fertilizer for 48 workers in one institution. Which of the following gives the inter-quartile range?",
     "options": [
       "1/2(Q<sub>3</sub> - Q<sub>1</sub>",
       "(Q<sub>3</sub> - Q<sub>2</sub>",
@@ -373,7 +373,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-31-536",
-    "questionText": "Find the range of values of x for which 3x - 7 ≤ 0 and x + 5 > 0? (JAMB 2009)",
+    "questionText": "Find the range of values of x for which 3x - 7 ≤ 0 and x + 5 > 0?",
     "options": [
       "-5 < x < 7/3",
       "-5 ≤ x ≤ 7/3",
@@ -385,7 +385,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-32-244",
-    "questionText": "Find the slope of the curve y = 2x2\n + 5x - 3 at (1, 4). (JAMB 2003)",
+    "questionText": "Find the slope of the curve y = 2x2\n + 5x - 3 at (1, 4).",
     "options": [
       " 4",
       "6",
@@ -397,7 +397,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-33-1189",
-    "questionText": "Express the product of 0.00043 and 2000 in standard form. (JAMB 2014)",
+    "questionText": "Express the product of 0.00043 and 2000 in standard form.",
     "options": [
       " 8.6 x 10<sup>-3</sup>",
       "8.3 x 10<sup>-2</sup>",
@@ -409,7 +409,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-34-271",
-    "questionText": "Find the value of p, if the line of which passes through \n(-1, -p) and (-2, 2) is parallel to the line 2y + 8x – 17\n= 0 (JAMB 2003)",
+    "questionText": "Find the value of p, if the line of which passes through \n(-1, -p) and (-2, 2) is parallel to the line 2y + 8x – 17\n= 0",
     "options": [
       "–2/7",
       "7/6",
@@ -421,7 +421,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-35-1091",
-    "questionText": "If the binary operation ∗\n is defined by m ∗\n n = mn + m + n for any real number m and n, find the identity of the elements under this operation (JAMB 2021)",
+    "questionText": "If the binary operation ∗\n is defined by m ∗\n n = mn + m + n for any real number m and n, find the identity of the elements under this operation",
     "options": [
       " e = 1",
       "e = -1",
@@ -433,7 +433,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-36-1200",
-    "questionText": "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R. (JAMB 2014)",
+    "questionText": "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R.",
     "options": [
       "P = Q/12R",
       "P = 12Q/R",
@@ -445,7 +445,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-37-329",
-    "questionText": "Simplify ((√12-√3))/((√12+√3)) (JAMB 2005)",
+    "questionText": "Simplify ((√12-√3))/((√12+√3))",
     "options": [
       "zero",
       "1/3",
@@ -457,7 +457,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-38-1263",
-    "questionText": "A man sells his new brand car for N420,000 at a gain of 15%. What did it cost him? (JAMB 2015)",
+    "questionText": "A man sells his new brand car for N420,000 at a gain of 15%. What did it cost him?",
     "options": [
       "N410,000",
       "N365, 217",
@@ -469,7 +469,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-39-31",
-    "questionText": "The expression a 3 + b 3 is equal  to  (JAMB 2008)",
+    "questionText": "The expression a 3 + b 3 is equal  to",
     "options": [
       "(a2 +b)(a-ab+b2 )",
       "(a+b)(a2 –ab+b2 )  ",
@@ -481,7 +481,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-40-517",
-    "questionText": "Find the values of x and y respectively if (JAMB 2008)",
+    "questionText": "Find the values of x and y respectively if",
     "options": [
       "-3, -2",
       "-5, -3",
@@ -493,7 +493,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-41-727",
-    "questionText": "Simplify (√6+2)<sup>2</sup> −(√6−2)<sup>2</sup>  (JAMB 2012)",
+    "questionText": "Simplify (√6+2)<sup>2</sup> −(√6−2)<sup>2</sup>",
     "options": [
       "2√6",
       "4√6",
@@ -505,7 +505,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-42-522",
-    "questionText": "If 55<sub>x</sub> + 52<sub>x</sub> = 77<sub>10</sub> find X (JAMB 2009)",
+    "questionText": "If 55<sub>x</sub> + 52<sub>x</sub> = 77<sub>10</sub> find X",
     "options": [
       "5",
       "6",
@@ -517,7 +517,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435990-43-163",
-    "questionText": "In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, ∠SQR is 75o and ∠QPT is 25o. Calculate the value of ∠RST. (JAMB 2001)",
+    "questionText": "In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, ∠SQR is 75o and ∠QPT is 25o. Calculate the value of ∠RST.",
     "options": [
       "45°",
       "55°",
@@ -529,7 +529,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-44-1213",
-    "questionText": "Calculate the mid point of the line segment y - 4x + 3 = 0, which lies between the x-axis and y-axis. (JAMB 2014)",
+    "questionText": "Calculate the mid point of the line segment y - 4x + 3 = 0, which lies between the x-axis and y-axis.",
     "options": [
       "None of the above",
       "All of the above"
@@ -539,7 +539,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-45-1198",
-    "questionText": "Find the value of k if y - 1 is a factor of y<sup>3</sup> + 4y<sup>2</sup> + ky - 6 (JAMB 2014)",
+    "questionText": "Find the value of k if y - 1 is a factor of y<sup>3</sup> + 4y<sup>2</sup> + ky - 6",
     "options": [
       "-6",
       "-4",
@@ -551,7 +551,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-46-520",
-    "questionText": "\nA student sitting on a tower 68 metres high observes his principal's car at the angle of depression of 20°. How far is the car from the bottom of the tower to the nearest metre? (JAMB 2008)",
+    "questionText": "\nA student sitting on a tower 68 metres high observes his principal's car at the angle of depression of 20°. How far is the car from the bottom of the tower to the nearest metre?",
     "options": [
       "184 m",
       "185 m",
@@ -563,7 +563,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-47-789",
-    "questionText": "If y = x sin x, find δy/δx (JAMB 2013)",
+    "questionText": "If y = x sin x, find δy/δx",
     "options": [
       "sin x - cos x",
       ". cos x - x sin x",
@@ -575,7 +575,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-48-549",
-    "questionText": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)? (JAMB 2009)",
+    "questionText": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)?",
     "options": [
       " x + y = 0",
       "x - y = 0",
@@ -587,7 +587,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-49-1217",
-    "questionText": "Find the minimum value of y = x<sup>2</sup>  - 2x - 3 (JAMB 2014)",
+    "questionText": "Find the minimum value of y = x<sup>2</sup>  - 2x - 3",
     "options": [
       "4",
       "1",
@@ -599,7 +599,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-50-841",
-    "questionText": "Calculate the perimeter of a sector of a circle of raduis 9cm and angle 36o. (JAMB 2016)",
+    "questionText": "Calculate the perimeter of a sector of a circle of raduis 9cm and angle 36o.",
     "options": [
       "18cm",
       "(18 + 9π/5)cm",
@@ -611,7 +611,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-51-857",
-    "questionText": "If N = p/2((T<sub>1</sub> −T<sub>2</sub> )/T<sub>1</sub> ). Find P when N = 12, T<sub>1</sub>  = 27 and T<sub>2</sub>  = 24. (JAMB 2016)",
+    "questionText": "If N = p/2((T<sub>1</sub> −T<sub>2</sub> )/T<sub>1</sub> ). Find P when N = 12, T<sub>1</sub>  = 27 and T<sub>2</sub>  = 24.",
     "options": [
       "48",
       "108",
@@ -623,7 +623,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-52-976",
-    "questionText": "Given sin58° = cos p°, find p. (JAMB 2019)",
+    "questionText": "Given sin58° = cos p°, find p.",
     "options": [
       "48°",
       " 58°",
@@ -635,7 +635,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-53-1208",
-    "questionText": "Find the value of ∣∣∣∣010375284∣∣∣∣\n. (JAMB 2014)",
+    "questionText": "Find the value of ∣∣∣∣010375284∣∣∣∣\n.",
     "options": [
       "12",
       "10",
@@ -647,7 +647,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-54-193",
-    "questionText": "The sum to infinity of the series: 1 + (1/3) + (1/9) + (1/27) + ... Is (JAMB 2002)",
+    "questionText": "The sum to infinity of the series: 1 + (1/3) + (1/9) + (1/27) + ... Is",
     "options": [
       "11/3",
       "10/3",
@@ -659,7 +659,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-55-190",
-    "questionText": "The inverse function f(x) = 3x + 4 is (JAMB 2002)",
+    "questionText": "The inverse function f(x) = 3x + 4 is",
     "options": [
       "(x-4)/3",
       " (x-5)/5",
@@ -671,7 +671,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-56-180",
-    "questionText": "The slope of the tangent to the curve y = 3x<sup>2</sup>\n - 2x + 5 at the point (1, 6) is (JAMB 2002)",
+    "questionText": "The slope of the tangent to the curve y = 3x<sup>2</sup>\n - 2x + 5 at the point (1, 6) is",
     "options": [
       "4",
       "1",
@@ -683,7 +683,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-57-997",
-    "questionText": "Integrate ∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx (JAMB 2019)",
+    "questionText": "Integrate ∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx",
     "options": [
       "4(1/2)",
       "3(1/2)",
@@ -695,7 +695,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-58-1232",
-    "questionText": "in the figure above, what is the equation of the line that passes the y-axis at (0,5) and passes the x-axis at (5,0)? (JAMB 2014)",
+    "questionText": "in the figure above, what is the equation of the line that passes the y-axis at (0,5) and passes the x-axis at (5,0)?",
     "options": [
       " y = x + 5",
       "y = -x + 5",
@@ -707,7 +707,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-59-548",
-    "questionText": "Find the radius of a sphere whose surface area is 154 cm<sup>2</sup>? (JAMB 2009)",
+    "questionText": "Find the radius of a sphere whose surface area is 154 cm<sup>2</sup>?",
     "options": [
       " 7.00 cm",
       "3.50 cm",
@@ -719,7 +719,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-60-1096",
-    "questionText": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group? (JAMB 2021)",
+    "questionText": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
     "options": [
       "25",
       "19",
@@ -731,7 +731,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-61-52",
-    "questionText": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became  (JAMB 2009)",
+    "questionText": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became",
     "options": [
       "N180 ",
       "N 165 ",
@@ -743,7 +743,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-62-960",
-    "questionText": "The figure above is a Venn diagram showing the elements arranged within sets A,B,C,ε.\nUse the figure to answer this question\n\nWhat is n(A U B)1 ? (JAMB 2018)",
+    "questionText": "The figure above is a Venn diagram showing the elements arranged within sets A,B,C,ε.\nUse the figure to answer this question\n\nWhat is n(A U B)1 ?",
     "options": [
       "2",
       "3",
@@ -755,7 +755,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-63-419",
-    "questionText": "Find the roots of x<sup>3</sup> - 2x<sup>2</sup> - 5x + 6 = 0 (JAMB 2006)",
+    "questionText": "Find the roots of x<sup>3</sup> - 2x<sup>2</sup> - 5x + 6 = 0",
     "options": [
       "1, -2, 3",
       " 1, 2, -3,",
@@ -767,7 +767,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-64-606",
-    "questionText": "Find the sum to infinity of the following series. 0.5 + 0.05 + 0.005 + 0.0005 + ..... (JAMB 2010)",
+    "questionText": "Find the sum to infinity of the following series. 0.5 + 0.05 + 0.005 + 0.0005 + .....",
     "options": [
       "5/8",
       "5/7",
@@ -779,7 +779,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-65-1076",
-    "questionText": "Each of the interior angles of a regular polygon is 140°. How many sides has the polygon? (JAMB 2021)",
+    "questionText": "Each of the interior angles of a regular polygon is 140°. How many sides has the polygon?",
     "options": [
       "9",
       "8",
@@ -791,7 +791,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-66-1142",
-    "questionText": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon. (JAMB 2023)",
+    "questionText": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon.",
     "options": [
       " dodecagon",
       "enneadecagon",
@@ -803,7 +803,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-67-726",
-    "questionText": "If log<sub>3</sub> x<sup>2</sup> = -8, what is x? (JAMB 2012)",
+    "questionText": "If log<sub>3</sub> x<sup>2</sup> = -8, what is x?",
     "options": [
       "1/3",
       "1/9",
@@ -815,7 +815,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-68-1061",
-    "questionText": "determine the maximum value of y=3x<sup>2</sup> + 5x - 3 (JAMB 2021)",
+    "questionText": "determine the maximum value of y=3x<sup>2</sup> + 5x - 3",
     "options": [
       "6",
       "0",
@@ -827,7 +827,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-69-1212",
-    "questionText": "The gradient of a line joining (x,4) and (1,2) is 1/2\n. Find the value of x (JAMB 2014)",
+    "questionText": "The gradient of a line joining (x,4) and (1,2) is 1/2\n. Find the value of x",
     "options": [
       "5",
       "3",
@@ -839,7 +839,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-70-872",
-    "questionText": "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base\nπ = 22/7 (JAMB 2017)",
+    "questionText": "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base\nπ = 22/7",
     "options": [
       "2.6cm",
       "3.5cm",
@@ -851,7 +851,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-71-189",
-    "questionText": "ake r subject of the formula given that x/r+a = a/r (JAMB 2002)",
+    "questionText": "ake r subject of the formula given that x/r+a = a/r",
     "options": [
       "a<sub>2</sub>/(x−a)",
       "a<sub>2</sub>/(x+a)",
@@ -863,7 +863,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-72-1242",
-    "questionText": "Simplify log<sub>10</sub> 1.5 + 3 log<sub>10</sub> 2 − log<sub>10</sub> 0.3 (JAMB 2015)",
+    "questionText": "Simplify log<sub>10</sub> 1.5 + 3 log<sub>10</sub> 2 − log<sub>10</sub> 0.3",
     "options": [
       "log<sub>10</sub>4",
       "log<sub>10</sub>40",
@@ -875,7 +875,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-73-93",
-    "questionText": "if P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is\n (JAMB 2000)",
+    "questionText": "if P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is\n",
     "options": [
       "straight line",
       "a circle",
@@ -887,7 +887,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-74-354",
-    "questionText": "Find the area of the figure bounded by the given pair of curves y = x2 - x + 3 and y = 3 (JAMB 2005)",
+    "questionText": "Find the area of the figure bounded by the given pair of curves y = x2 - x + 3 and y = 3",
     "options": [
       "17/6 units (sq)",
       "7/6 units (sq)",
@@ -899,7 +899,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-75-868",
-    "questionText": "From the diagram above, find the required roots/region of x. (JAMB 2016)",
+    "questionText": "From the diagram above, find the required roots/region of x.",
     "options": [
       "x≤-1, x ≥4",
       "x≤4",
@@ -911,7 +911,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-76-132",
-    "questionText": "Solve the equations\nm<sup>2</sup> + n<sup>2</sup> = 29\nm + n = 7 (JAMB 2001)",
+    "questionText": "Solve the equations\nm<sup>2</sup> + n<sup>2</sup> = 29\nm + n = 7",
     "options": [
       "(2, 3) and ( 3, 5)",
       "(2, 5) and (5, 2)",
@@ -923,7 +923,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-77-1267",
-    "questionText": "The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both (JAMB 2015)",
+    "questionText": "The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both",
     "options": [
       "2/15",
       "3/4",
@@ -935,7 +935,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-78-276",
-    "questionText": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3). (JAMB 2004)",
+    "questionText": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3).",
     "options": [
       "(1, 1)",
       "(2, 2)",
@@ -947,7 +947,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-79-279",
-    "questionText": "P, R and S lie on a circle center as shown above while Q lies outside the circle. Find ∠PSO (JAMB 2004)",
+    "questionText": "P, R and S lie on a circle center as shown above while Q lies outside the circle. Find ∠PSO",
     "options": [
       "45°",
       "55°",
@@ -959,7 +959,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-80-460",
-    "questionText": "If the lines 2y - kx + 2 = 0 and y + x - k/2 = 0 Intersect at (1, -2), find the value of k (JAMB 2007)",
+    "questionText": "If the lines 2y - kx + 2 = 0 and y + x - k/2 = 0 Intersect at (1, -2), find the value of k",
     "options": [
       " -4",
       " -3",
@@ -971,7 +971,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-81-1188",
-    "questionText": "A woman bought a grinder for N60,000. She sold it at a loss of 15%. How much did she sell it? (JAMB 2014)",
+    "questionText": "A woman bought a grinder for N60,000. She sold it at a loss of 15%. How much did she sell it?",
     "options": [
       " N53,000",
       "N52,000",
@@ -983,7 +983,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-82-408",
-    "questionText": "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r? (JAMB 2006)",
+    "questionText": "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r?",
     "options": [
       "p varies directly as r<sup>3</sup>",
       "p varies inversely as r<sup>6</sup>",
@@ -1007,7 +1007,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-84-1007",
-    "questionText": "If 2<sup>(x+y)</sup>\n = 16 and 4<sup>(x-y)</sup>=1/32\n, find the values of x and y. (JAMB 2019)",
+    "questionText": "If 2<sup>(x+y)</sup>\n = 16 and 4<sup>(x-y)</sup>=1/32\n, find the values of x and y.",
     "options": [
       "x = 3/4, y = 11/4",
       "x = 3/4, y = 13/4",
@@ -1019,7 +1019,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-85-412",
-    "questionText": "THe cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room? (JAMB 2006)",
+    "questionText": "THe cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?",
     "options": [
       "N1215",
       "N720",
@@ -1031,7 +1031,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-86-252",
-    "questionText": "The histogram above shows the ages of victims of a pollution. How many people were involved in the pollution? (JAMB 2003)",
+    "questionText": "The histogram above shows the ages of victims of a pollution. How many people were involved in the pollution?",
     "options": [
       "20",
       "21",
@@ -1055,7 +1055,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-88-1261",
-    "questionText": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B (JAMB 2015)",
+    "questionText": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B",
     "options": [
       "{}",
       "{⅓, 1, 2}",
@@ -1067,7 +1067,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-89-140",
-    "questionText": "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3). (JAMB 2001)",
+    "questionText": "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3).",
     "options": [
       "4",
       "6",
@@ -1079,7 +1079,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-90-1012",
-    "questionText": "In the diagram above, O is the centre of the circle ABC, < ABO = 26° and < BOC = 130°. Calculate < AOC. (JAMB 2019)",
+    "questionText": "In the diagram above, O is the centre of the circle ABC, < ABO = 26° and < BOC = 130°. Calculate < AOC.",
     "options": [
       "26°",
       "13°",
@@ -1091,7 +1091,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-91-384",
-    "questionText": "Differentiate (cos θ - sin θ)<sup>2</sup> (JAMB 2006)",
+    "questionText": "Differentiate (cos θ - sin θ)<sup>2</sup>",
     "options": [
       "-2 cos 2θ",
       "-2 sin2θ",
@@ -1103,7 +1103,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-92-334",
-    "questionText": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 4(2/3) and L = 54, find d in terms of W and L. (JAMB 2005)",
+    "questionText": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 4(2/3) and L = 54, find d in terms of W and L.",
     "options": [
       "√(42W/5L)",
       "√(6L/42W)",
@@ -1115,7 +1115,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-93-895",
-    "questionText": "If a rod 10cm in length was measured as 10.5cm, calculate the percentage error (JAMB 2017)",
+    "questionText": "If a rod 10cm in length was measured as 10.5cm, calculate the percentage error",
     "options": [
       "5%",
       "10%",
@@ -1127,7 +1127,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-94-597",
-    "questionText": "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression (JAMB 2010)",
+    "questionText": "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression",
     "options": [
       "-44",
       " -165",
@@ -1139,7 +1139,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-95-891",
-    "questionText": "Divide 4x<sup>23</sup>  - 3x + 1 by 2x - 1 (JAMB 2017)",
+    "questionText": "Divide 4x<sup>23</sup>  - 3x + 1 by 2x - 1",
     "options": [
       "2x<sup>2</sup>  -x + 1",
       "2x<sup>2</sup>  - x -1",
@@ -1151,7 +1151,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-96-1264",
-    "questionText": "Find the value of x if [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>] (JAMB 2015)",
+    "questionText": "Find the value of x if [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>]",
     "options": [
       "3/2",
       "2/3",
@@ -1163,7 +1163,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-97-303",
-    "questionText": "Find the sum to infinity of the series 1/2 , 1/6, 1/18, ..... (JAMB 2004)",
+    "questionText": "Find the sum to infinity of the series 1/2 , 1/6, 1/18, .....",
     "options": [
       "2/3",
       "1/3",
@@ -1175,7 +1175,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-98-843",
-    "questionText": "From the table above, find the median (JAMB 2016)",
+    "questionText": "From the table above, find the median",
     "options": [
       "3",
       "5",
@@ -1187,7 +1187,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-99-1000",
-    "questionText": "The simple interest on ₦8550 for 3 years at x% per annum is ₦4890. Calculate the value of x to the nearest whole number. (JAMB 2019)",
+    "questionText": "The simple interest on ₦8550 for 3 years at x% per annum is ₦4890. Calculate the value of x to the nearest whole number.",
     "options": [
       "19%",
       "20%",
@@ -1199,7 +1199,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-100-922",
-    "questionText": "A trader realises 10x - x<sup>2</sup>\nNaira profit from the sale of x bags of corn. How many bags will give him the maximum profit? (JAMB 2018)",
+    "questionText": "A trader realises 10x - x<sup>2</sup>\nNaira profit from the sale of x bags of corn. How many bags will give him the maximum profit?",
     "options": [
       "7",
       "6",
@@ -1211,7 +1211,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-101-577",
-    "questionText": "If y varies directly as the square root of x and y = 3 when x = 16. Calculate y when x = 64 (JAMB 2010)",
+    "questionText": "If y varies directly as the square root of x and y = 3 when x = 16. Calculate y when x = 64",
     "options": [
       "12",
       "6",
@@ -1223,7 +1223,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-102-985",
-    "questionText": "If 4sin2x−3=0, find the value of x, when 0° ≤ x ≤ 90° (JAMB 2019)",
+    "questionText": "If 4sin2x−3=0, find the value of x, when 0° ≤ x ≤ 90°",
     "options": [
       " 90°",
       "45°",
@@ -1235,7 +1235,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-103-561",
-    "questionText": "The probability of a student passing any examination is 2/3. If the students takes three examination, what is the probability that he will not pass any of them? (JAMB 2009)",
+    "questionText": "The probability of a student passing any examination is 2/3. If the students takes three examination, what is the probability that he will not pass any of them?",
     "options": [
       "2/3",
       "4/9",
@@ -1247,7 +1247,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-104-315",
-    "questionText": "PQRSTV is a regular polygon of side 7 cm inscribed in a circle. Find the circumference of the circle PQRSTV. (JAMB 2004)",
+    "questionText": "PQRSTV is a regular polygon of side 7 cm inscribed in a circle. Find the circumference of the circle PQRSTV.",
     "options": [
       "56 cm",
       "22 cm",
@@ -1259,7 +1259,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-105-1170",
-    "questionText": "How many students scored at least 25% (JAMB 2023)",
+    "questionText": "How many students scored at least 25%",
     "options": [
       "16",
       "19",
@@ -1271,7 +1271,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-106-187",
-    "questionText": "Find the maximum value of y in the equation y = 1 - 2x - 3x<sup>2</sup>  (JAMB 2002)",
+    "questionText": "Find the maximum value of y in the equation y = 1 - 2x - 3x<sup>2</sup>",
     "options": [
       "5/4",
       "5/3",
@@ -1283,7 +1283,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-107-125",
-    "questionText": "A car dealer bought a second-hand car for N250,000 and spent N70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain? (JAMB 2001)",
+    "questionText": "A car dealer bought a second-hand car for N250,000 and spent N70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
     "options": [
       "60%",
       " 32%",
@@ -1295,7 +1295,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-108-457",
-    "questionText": "In the parallelogram PQRS above, find angle SQR (JAMB 2007)",
+    "questionText": "In the parallelogram PQRS above, find angle SQR",
     "options": [
       "100°",
       "80°",
@@ -1307,7 +1307,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-109-475",
-    "questionText": "Express 123456 to 3 significant figures (JAMB 2008)",
+    "questionText": "Express 123456 to 3 significant figures",
     "options": [
       " 123000",
       "124000",
@@ -1319,7 +1319,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-110-411",
-    "questionText": "Solve the inequalities for which \n \n (x + 4)/(3) - (x -3)/(2)  < 4 (JAMB 2006)",
+    "questionText": "Solve the inequalities for which \n \n (x + 4)/(3) - (x -3)/(2)  < 4",
     "options": [
       "x < 7",
       "x > -7",
@@ -1331,7 +1331,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-111-385",
-    "questionText": "Evaluate ∫<sub>-4</sub>\n<sup>0</sup>(1-2x)dx (JAMB 2006)",
+    "questionText": "Evaluate ∫<sub>-4</sub>\n<sup>0</sup>(1-2x)dx",
     "options": [
       "-16",
       "-20",
@@ -1343,7 +1343,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-112-871",
-    "questionText": "If U = {x : x is an integer and 1 ≤ x ≤ 20 }\nE1 = {x: x is a multiple of 3}\nE2 = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E2 (JAMB 2017)",
+    "questionText": "If U = {x : x is an integer and 1 ≤ x ≤ 20 }\nE1 = {x: x is a multiple of 3}\nE2 = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E2",
     "options": [
       "3/4",
       "3/10",
@@ -1355,7 +1355,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-113-533",
-    "questionText": "Which of the following equations represent the graph above? (JAMB 2009)",
+    "questionText": "Which of the following equations represent the graph above?",
     "options": [
       "y = 2+7x+4x<sup>2</sup>",
       "y = 2-7x+4x<sup>2</sup>",
@@ -1367,7 +1367,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-114-776",
-    "questionText": "Simplify (√5(√147-√12)/√15 (JAMB 2013)",
+    "questionText": "Simplify (√5(√147-√12)/√15",
     "options": [
       "5",
       "1/5",
@@ -1379,7 +1379,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-115-950",
-    "questionText": "Integrate the expression 6x<sup>2</sup> - 2x + 1 (JAMB 2018)",
+    "questionText": "Integrate the expression 6x<sup>2</sup> - 2x + 1",
     "options": [
       " 3x<sup>3</sup> - 2x<sup>2</sup>\n + x + c",
       "2x<sup>3</sup> - x<sup>2</sup>\n + x + c",
@@ -1391,7 +1391,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-116-382",
-    "questionText": "Find the value of x for which the function 3x<sup>3</sup> - 9x is minimum (JAMB 2006)",
+    "questionText": "Find the value of x for which the function 3x<sup>3</sup> - 9x is minimum",
     "options": [
       "zero",
       "2",
@@ -1403,7 +1403,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-117-1074",
-    "questionText": "The angle of a sector of a circle, radius 10.5 cm, is 48°, Calculate the perimeter of the sector (JAMB 2021)",
+    "questionText": "The angle of a sector of a circle, radius 10.5 cm, is 48°, Calculate the perimeter of the sector",
     "options": [
       "8.8 cm",
       "25.4 cm",
@@ -1415,7 +1415,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-118-215",
-    "questionText": "In the diagram above are two concentric circles of radii r and R respectively with center O. If r = 2/3R, express the area of the shaded portion in terms of π and R (JAMB 2002)",
+    "questionText": "In the diagram above are two concentric circles of radii r and R respectively with center O. If r = 2/3R, express the area of the shaded portion in terms of π and R",
     "options": [
       "21/25πR<sup>2</sup>",
       " 9/25πR<sup>2</sup>",
@@ -1427,7 +1427,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-119-888",
-    "questionText": "Simplify 4√27 + 5√12 − 3√75 (JAMB 2017)",
+    "questionText": "Simplify 4√27 + 5√12 − 3√75",
     "options": [
       "7",
       "-7",
@@ -1439,7 +1439,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-120-1093",
-    "questionText": "Find x if log<sub>9</sub>\nx = 1.5 (JAMB 2021)",
+    "questionText": "Find x if log<sub>9</sub>\nx = 1.5",
     "options": [
       "27",
       "15",
@@ -1463,7 +1463,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-122-739",
-    "questionText": "The binary operation * is defined on the set of integers such that p * q = pq + p - q. Find 2 * (3 * 4) (JAMB 2012)",
+    "questionText": "The binary operation * is defined on the set of integers such that p * q = pq + p - q. Find 2 * (3 * 4)",
     "options": [
       "11",
       "13",
@@ -1475,7 +1475,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-123-151",
-    "questionText": "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1. (JAMB 2001)",
+    "questionText": "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1.",
     "options": [
       "12π",
       "4π",
@@ -1487,7 +1487,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-124-37",
-    "questionText": "Dividing 2x3 – x2 – 5x + 1 by x  + 3 gives the remainder  (JAMB 2008)",
+    "questionText": "Dividing 2x3 – x2 – 5x + 1 by x  + 3 gives the remainder",
     "options": [
       ".-3",
       "47",
@@ -1499,7 +1499,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-125-1113",
-    "questionText": "Find the determinant of the matrix A = (2133) (JAMB 2022)",
+    "questionText": "Find the determinant of the matrix A = (2133)",
     "options": [
       " 4",
       "2 ",
@@ -1511,7 +1511,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-126-806",
-    "questionText": "If the angles of a quadrilateral are (3y + 10)°, (2y + 30)°, (y + 20)° and 4y°. Find the value of y. (JAMB 2013)",
+    "questionText": "If the angles of a quadrilateral are (3y + 10)°, (2y + 30)°, (y + 20)° and 4y°. Find the value of y.",
     "options": [
       " 66°",
       "12°",
@@ -1523,7 +1523,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-127-613",
-    "questionText": "If cotθ = 8/15, where θ is acute, find sinθ (JAMB 2010)",
+    "questionText": "If cotθ = 8/15, where θ is acute, find sinθ",
     "options": [
       "8/17",
       "15/17",
@@ -1535,7 +1535,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-128-179",
-    "questionText": "Find the derivative of y=sin<sup>2</sup>(5x)\n with respect to x. (JAMB 2002)",
+    "questionText": "Find the derivative of y=sin<sup>2</sup>(5x)\n with respect to x.",
     "options": [
       " 10 sin 5x cos 5x",
       "5 sin5x cos 5x",
@@ -1547,7 +1547,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-129-834",
-    "questionText": "The bar chart above shows the number of visitors received in a week. How many visitors were received on Friday, Tuesday and Sunday? (JAMB 2016)",
+    "questionText": "The bar chart above shows the number of visitors received in a week. How many visitors were received on Friday, Tuesday and Sunday?",
     "options": [
       "17",
       "22",
@@ -1559,7 +1559,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-130-918",
-    "questionText": "Determine the distance between point P(3, 4) and Q(4,5) (JAMB 2017)",
+    "questionText": "Determine the distance between point P(3, 4) and Q(4,5)",
     "options": [
       "2",
       "√5\n ",
@@ -1571,7 +1571,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-131-825",
-    "questionText": "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon. (JAMB 2016)",
+    "questionText": "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon.",
     "options": [
       "5",
       "7",
@@ -1583,7 +1583,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-132-579",
-    "questionText": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true? (JAMB 2010)",
+    "questionText": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
     "options": [
       "q = 18",
       "p <1",
@@ -1607,7 +1607,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-134-246",
-    "questionText": "If y = 3 sin(-4x), dy/dx is (JAMB 2003)",
+    "questionText": "If y = 3 sin(-4x), dy/dx is",
     "options": [
       "12x cos (4x)",
       " -12x cos (-4x)",
@@ -1619,7 +1619,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-135-1220",
-    "questionText": "The mean of 2 - t, 4 + t, 3 - 2t, 2 + t and t - 1 is (JAMB 2014)",
+    "questionText": "The mean of 2 - t, 4 + t, 3 - 2t, 2 + t and t - 1 is",
     "options": [
       "t",
       "-t",
@@ -1631,7 +1631,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-136-947",
-    "questionText": "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12  (JAMB 2018)",
+    "questionText": "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12",
     "options": [
       "5x + 7y = 20",
       " 7x + 5y = 70",
@@ -1643,7 +1643,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-137-1002",
-    "questionText": "Find the value of ((0.5436)<sup>3</sup>)/(0.017×0.219) to 3 significant figures. (JAMB 2019)",
+    "questionText": "Find the value of ((0.5436)<sup>3</sup>)/(0.017×0.219) to 3 significant figures.",
     "options": [
       "46.2",
       "43.1",
@@ -1655,7 +1655,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-138-639",
-    "questionText": "Find the sum of the first 18 terms of the series 3, 6, 9,..., 36. (JAMB 2011)",
+    "questionText": "Find the sum of the first 18 terms of the series 3, 6, 9,..., 36.",
     "options": [
       "505",
       "513",
@@ -1667,7 +1667,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-139-235",
-    "questionText": "The graph of the function y = x<sup>2</sup> + 4 and a straight line PQ are drawn to solve the equation x<sup>2</sup>\n - 3x + 2 = 0. What is the equation of PQ? (JAMB 2003)",
+    "questionText": "The graph of the function y = x<sup>2</sup> + 4 and a straight line PQ are drawn to solve the equation x<sup>2</sup>\n - 3x + 2 = 0. What is the equation of PQ?",
     "options": [
       "y = 3x - 2",
       "y = 3x + 2",
@@ -1679,7 +1679,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-140-256",
-    "questionText": "A bag contains 5 blacks balls and 3 red balls. Two balls are picked at random without replacement. What is the probability that a black and red balls are picked? (JAMB 2003)",
+    "questionText": "A bag contains 5 blacks balls and 3 red balls. Two balls are picked at random without replacement. What is the probability that a black and red balls are picked?",
     "options": [
       "15/28",
       "13/28",
@@ -1691,7 +1691,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-141-884",
-    "questionText": "The base in which the operation was performed was (JAMB 2017)",
+    "questionText": "The base in which the operation was performed was",
     "options": [
       "6",
       "2",
@@ -1703,7 +1703,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-142-95",
-    "questionText": "A predator moves in a circle of radius √2 centre (0,0), while a prey moves along the line y = x. If 0 ≤ x ≤ 2, at which point(s) will they meet?\n (JAMB 2000)",
+    "questionText": "A predator moves in a circle of radius √2 centre (0,0), while a prey moves along the line y = x. If 0 ≤ x ≤ 2, at which point(s) will they meet?\n",
     "options": [
       "(1,1) only",
       "(1,1) and (1,2)",
@@ -1715,7 +1715,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-143-46",
-    "questionText": "The fair coins are tossed simultaneously. What is the probability of obtaining at least 1 tail turns up?  (JAMB 2008)",
+    "questionText": "The fair coins are tossed simultaneously. What is the probability of obtaining at least 1 tail turns up?",
     "options": [
       "1/4",
       "3/4",
@@ -1727,7 +1727,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-144-487",
-    "questionText": "If p varies inversely as the square of q and p=8 when q=4, find q when p =32 (JAMB 2008)",
+    "questionText": "If p varies inversely as the square of q and p=8 when q=4, find q when p =32",
     "options": [
       "± 16",
       "± 8",
@@ -1739,7 +1739,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-145-1255",
-    "questionText": "Factorize x<sup>2</sup> −2x−15 (JAMB 2015)",
+    "questionText": "Factorize x<sup>2</sup> −2x−15",
     "options": [
       "(x + 3)<sup>2</sup> ",
       " (x + 5)(x − 3)",
@@ -1751,7 +1751,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-146-824",
-    "questionText": "From the diagram above, find the value of < OTQ (JAMB 2016)",
+    "questionText": "From the diagram above, find the value of < OTQ",
     "options": [
       "230°",
       "55°",
@@ -1763,7 +1763,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-147-1235",
-    "questionText": "The locus of a dog tethered to a pole with a rope of 4m is a\n (JAMB 2014)",
+    "questionText": "The locus of a dog tethered to a pole with a rope of 4m is a\n",
     "options": [
       "semi-circle with diameter 4m",
       "semi-circle with radius 4m",
@@ -1775,7 +1775,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-148-604",
-    "questionText": "For what range of values of x is 1/2x + 1/4 > 1/3x + 1/2? (JAMB 2010)",
+    "questionText": "For what range of values of x is 1/2x + 1/4 > 1/3x + 1/2?",
     "options": [
       "x < 3/2",
       "x > 3/2",
@@ -1787,7 +1787,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-149-490",
-    "questionText": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term. (JAMB 2008)",
+    "questionText": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term.",
     "options": [
       "12",
       "4",
@@ -1799,7 +1799,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-150-400",
-    "questionText": "In the diagram above, find the value of x (JAMB 2006)",
+    "questionText": "In the diagram above, find the value of x",
     "options": [
       "55°",
       "50°",
@@ -1811,7 +1811,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-151-1146",
-    "questionText": "The diagram above is a circle with centre C. P, Q and S are points on the circumference. PS and SR are tangents to the circle. ∠PSR = 36<sup>o</sup>\n. Find ∠PQR (JAMB 2023)",
+    "questionText": "The diagram above is a circle with centre C. P, Q and S are points on the circumference. PS and SR are tangents to the circle. ∠PSR = 36<sup>o</sup>\n. Find ∠PQR",
     "options": [
       "72<sup>o</sup>",
       "36<sup>o</sup>",
@@ -1823,7 +1823,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-152-86",
-    "questionText": "A trader realizes 10x - x<sup>2</sup>\n naira profit from the sale of x bags on corn. How many bags will give him the desired profit? (JAMB 2000)",
+    "questionText": "A trader realizes 10x - x<sup>2</sup>\n naira profit from the sale of x bags on corn. How many bags will give him the desired profit?",
     "options": [
       "4",
       "5",
@@ -1835,7 +1835,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-153-1163",
-    "questionText": "Find the value of y, if log (y + 8) + log (y - 8) = 2log 3 + 2log 5 (JAMB 2023)",
+    "questionText": "Find the value of y, if log (y + 8) + log (y - 8) = 2log 3 + 2log 5",
     "options": [
       " y = ±5",
       " y = ±10",
@@ -1847,7 +1847,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-154-627",
-    "questionText": "If log<sub>3</sub>18 + log<sub>3</sub>3 - log<sub>3</sub>x = 3, Find x. (JAMB 2011)",
+    "questionText": "If log<sub>3</sub>18 + log<sub>3</sub>3 - log<sub>3</sub>x = 3, Find x.",
     "options": [
       "1",
       "2",
@@ -1871,7 +1871,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-156-1265",
-    "questionText": "Solve x<sup>2</sup> − 2x − 3 = 0 (JAMB 2015)",
+    "questionText": "Solve x<sup>2</sup> − 2x − 3 = 0",
     "options": [
       "x = 2 or 1",
       "x = 3 or -1",
@@ -1883,7 +1883,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-157-1240",
-    "questionText": "X and Y are two sets such that n(X) = 15, n(Y) = 12 and n{X ∩ Y} = 7. Find ∩{X ∪ Y} (JAMB 2015)",
+    "questionText": "X and Y are two sets such that n(X) = 15, n(Y) = 12 and n{X ∩ Y} = 7. Find ∩{X ∪ Y}",
     "options": [
       "21",
       "22.5",
@@ -1895,7 +1895,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-158-164",
-    "questionText": "The histogram above shows the distribution of passengers in taxis of a certain motor park. How many taxis have more than 4 passengers (JAMB 2001)",
+    "questionText": "The histogram above shows the distribution of passengers in taxis of a certain motor park. How many taxis have more than 4 passengers",
     "options": [
       "16",
       "17",
@@ -1907,7 +1907,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-159-1138",
-    "questionText": "Evaluate: 16<sup>(0.16)</sup>\n × 16<sup>(0.04)</sup>(0.04) × 2<sup>(0.2)</sup> (JAMB 2023)",
+    "questionText": "Evaluate: 16<sup>(0.16)</sup>\n × 16<sup>(0.04)</sup>(0.04) × 2<sup>(0.2)</sup>",
     "options": [
       " 2",
       " 0",
@@ -1919,7 +1919,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-160-501",
-    "questionText": "If sinθ = 3/5. Find Tanθ (JAMB 2008)",
+    "questionText": "If sinθ = 3/5. Find Tanθ",
     "options": [
       "3/4",
       "3/5",
@@ -1931,7 +1931,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-161-881",
-    "questionText": "Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60° (JAMB 2017)",
+    "questionText": "Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60°",
     "options": [
       "100o",
       "140°",
@@ -1943,7 +1943,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-162-803",
-    "questionText": "The value x in the figure given is (JAMB 2013)",
+    "questionText": "The value x in the figure given is",
     "options": [
       "110°",
       "100°",
@@ -1955,7 +1955,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-163-1123",
-    "questionText": "The cost C of running a school is directly proportional to the number of students N, if 20 students cost #10,000, How many students can #1,000,000 cover? (JAMB 2022)",
+    "questionText": "The cost C of running a school is directly proportional to the number of students N, if 20 students cost #10,000, How many students can #1,000,000 cover?",
     "options": [
       "3000",
       "1000",
@@ -1967,7 +1967,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-164-500",
-    "questionText": "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0 (JAMB 2008)",
+    "questionText": "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0",
     "options": [
       "3/2",
       "2/3",
@@ -1979,7 +1979,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-165-943",
-    "questionText": "(0.00256×0.0064)/(0.025 × 0.08) (JAMB 2018)",
+    "questionText": "(0.00256×0.0064)/(0.025 × 0.08)",
     "options": [
       "8.8 x 10<sup>-1</sup>",
       "8.8 x 10<sup>-2</sup>",
@@ -1991,7 +1991,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-166-292",
-    "questionText": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal? (JAMB 2004)",
+    "questionText": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal?",
     "options": [
       "9/35",
       "11/35",
@@ -2003,7 +2003,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-167-1179",
-    "questionText": "An article when sold for ₦230.00 makes a 15% profit. Find the profit or loss % if it was sold for ₦180.00 (JAMB 2023)",
+    "questionText": "An article when sold for ₦230.00 makes a 15% profit. Find the profit or loss % if it was sold for ₦180.00",
     "options": [
       "10% gain",
       " 10% loss",
@@ -2015,7 +2015,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-168-837",
-    "questionText": "The table above shows the frequency distribution of marks obtained by a group of students. If the total mark is 48, find the value of y. (JAMB 2016)",
+    "questionText": "The table above shows the frequency distribution of marks obtained by a group of students. If the total mark is 48, find the value of y.",
     "options": [
       "6",
       "8",
@@ -2027,7 +2027,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-169-1195",
-    "questionText": "If P = {1,2,3,4,5} and P ∪\n Q = {1,2,3,4,5,6,7}, list the elements in Q (JAMB 2014)",
+    "questionText": "If P = {1,2,3,4,5} and P ∪\n Q = {1,2,3,4,5,6,7}, list the elements in Q",
     "options": [
       "{6}",
       "{7}",
@@ -2039,7 +2039,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-170-407",
-    "questionText": "A binary operation θ defined on the set of real number is such that xθy = xy/6 for all x, y ∈ R. Find the inverse of 20 under this operation when the identity element is 6 (JAMB 2006)",
+    "questionText": "A binary operation θ defined on the set of real number is such that xθy = xy/6 for all x, y ∈ R. Find the inverse of 20 under this operation when the identity element is 6",
     "options": [
       " 1/12",
       " 10/3",
@@ -2051,7 +2051,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-171-953",
-    "questionText": "Express 495g as a percentage of 16.5kg (JAMB 2018)",
+    "questionText": "Express 495g as a percentage of 16.5kg",
     "options": [
       "3%",
       "3(1/3)%",
@@ -2063,7 +2063,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-172-13",
-    "questionText": "The indefinite integral of the function f(x) = xcosx for any constant k, is  (JAMB 2006)",
+    "questionText": "The indefinite integral of the function f(x) = xcosx for any constant k, is",
     "options": [
       "–cos + sinx +k,  ",
       "xsinx-cosx,   ",
@@ -2075,7 +2075,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-173-502",
-    "questionText": "Find the derivative of y=x<sup>7</sup> −x<sup>7</sup>/ x<sup>4</sup>  (JAMB 2008)",
+    "questionText": "Find the derivative of y=x<sup>7</sup> −x<sup>7</sup>/ x<sup>4</sup>",
     "options": [
       " x(x<sup>2</sup> -1)",
       "3x(x<sup>2</sup> -1)",
@@ -2099,7 +2099,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-175-781",
-    "questionText": "P varies jointly as m and u, and varies inversely as q. Given that p = 4, m = 3 and u = 2 and q = 1, find the value of p when m = 6, u = 4 and q = 8/5 (JAMB 2013)",
+    "questionText": "P varies jointly as m and u, and varies inversely as q. Given that p = 4, m = 3 and u = 2 and q = 1, find the value of p when m = 6, u = 4 and q = 8/5",
     "options": [
       "12(8/5)",
       "15",
@@ -2111,7 +2111,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-176-323",
-    "questionText": "If 321<sub>4</sub> is divided by 23<sub>4</sub> and leaves a remainder r, what is the value of r? (JAMB 2005)",
+    "questionText": "If 321<sub>4</sub> is divided by 23<sub>4</sub> and leaves a remainder r, what is the value of r?",
     "options": [
       "zero",
       "1",
@@ -2123,7 +2123,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-177-1247",
-    "questionText": "The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms (JAMB 2015)",
+    "questionText": "The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms",
     "options": [
       " nth = 3",
       "nth = 4",
@@ -2147,7 +2147,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-179-851",
-    "questionText": "If y = 2x<sup>3</sup> + 6x<sup>2</sup> + 6x + 1, Find dy/dx (JAMB 2016)",
+    "questionText": "If y = 2x<sup>3</sup> + 6x<sup>2</sup> + 6x + 1, Find dy/dx",
     "options": [
       "6x<sup>2</sup> + 12x + 1",
       "6x<sup>2</sup> + 6x + 1",
@@ -2159,7 +2159,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-180-557",
-    "questionText": "The distance traveled by a particle from a fixed point is given as s = (t<sup>3</sup> - t<sup>2</sup> - t + 5)cm. Find the minimum distance that the particle can cover from the fixed point? (JAMB 2009)",
+    "questionText": "The distance traveled by a particle from a fixed point is given as s = (t<sup>3</sup> - t<sup>2</sup> - t + 5)cm. Find the minimum distance that the particle can cover from the fixed point?",
     "options": [
       "2.3 cm",
       "4.0 cm",
@@ -2171,7 +2171,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-181-832",
-    "questionText": "The pie chart above shows the distribution of subjects offered by students in SSS III level. If 80 students enrolled in the class. What is the size of the angle of the sector in economics? (JAMB 2016)",
+    "questionText": "The pie chart above shows the distribution of subjects offered by students in SSS III level. If 80 students enrolled in the class. What is the size of the angle of the sector in economics?",
     "options": [
       "24°",
       "39°",
@@ -2183,7 +2183,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-182-1158",
-    "questionText": "Find the equation of straight line passing through (2, 3) and perpendicular to the line 3x+2y+4=0 (JAMB 2023)",
+    "questionText": "Find the equation of straight line passing through (2, 3) and perpendicular to the line 3x+2y+4=0",
     "options": [
       " 3y = 5x - 2",
       " y = 5/3× − 2",
@@ -2195,7 +2195,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-183-241",
-    "questionText": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series (JAMB 2003)",
+    "questionText": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
     "options": [
       "6",
       "7",
@@ -2207,7 +2207,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-184-1150",
-    "questionText": "Find the value of t, if the distance between the points P(–3, –14) and Q(t, –5) is 9 units. (JAMB 2023)",
+    "questionText": "Find the value of t, if the distance between the points P(–3, –14) and Q(t, –5) is 9 units.",
     "options": [
       "3",
       "2",
@@ -2219,7 +2219,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-185-373",
-    "questionText": "A final examination requires that a student answer any 4 out of 6 questions. In how many ways can this be done? (JAMB 2006)",
+    "questionText": "A final examination requires that a student answer any 4 out of 6 questions. In how many ways can this be done?",
     "options": [
       "15",
       "20",
@@ -2231,7 +2231,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-186-1199",
-    "questionText": "y varies directly as w<sup>2</sup>. When y = 8, w = 2. Find y when w = 3 (JAMB 2014)",
+    "questionText": "y varies directly as w<sup>2</sup>. When y = 8, w = 2. Find y when w = 3",
     "options": [
       "18",
       "12",
@@ -2243,7 +2243,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-187-862",
-    "questionText": "In the cyclic quadrilateral above . Find < PRO (JAMB 2016)",
+    "questionText": "In the cyclic quadrilateral above . Find < PRO",
     "options": [
       "70°",
       "20°",
@@ -2255,7 +2255,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-188-275",
-    "questionText": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm 2, find the area of the trapezium PQRU (JAMB 2004)",
+    "questionText": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm 2, find the area of the trapezium PQRU",
     "options": [
       "60 cm2",
       "72 cm2",
@@ -2267,7 +2267,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-189-5",
-    "questionText": "A cyclist rode for 30minutes at xhkm/hr. if the total distance covered is less than 60km, what is the range of values for x?  (JAMB 2006)",
+    "questionText": "A cyclist rode for 30minutes at xhkm/hr. if the total distance covered is less than 60km, what is the range of values for x?",
     "options": [
       "x<14   ",
       "x<20  ",
@@ -2279,7 +2279,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-190-316",
-    "questionText": "The shaded region in the venn diagram above is (JAMB 2004)",
+    "questionText": "The shaded region in the venn diagram above is",
     "options": [
       "P° ∩ \n(Q ∩\n R)",
       "P ∩\n Q",
@@ -2291,7 +2291,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-191-1143",
-    "questionText": "The area A of a circle is increasing at a constant rate of 1.5 cm <sup>2</sup>s<sup>−1</sup>\n. Find, to 3 significant figures, the rate at which the radius r of the circle is increasing when the area of the circle is 2 cm<sup>2</sup>\n. (JAMB 2023)",
+    "questionText": "The area A of a circle is increasing at a constant rate of 1.5 cm <sup>2</sup>s<sup>−1</sup>\n. Find, to 3 significant figures, the rate at which the radius r of the circle is increasing when the area of the circle is 2 cm<sup>2</sup>\n.",
     "options": [
       " 0.200 cms<sup>−1</sup>",
       "0.798 cms<sup>−1</sup>",
@@ -2303,7 +2303,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-192-128",
-    "questionText": "Evaluate (0.14<sup>2</sup> x 0.275) 7(0.02) to 3 decimal places. (JAMB 2001)",
+    "questionText": "Evaluate (0.14<sup>2</sup> x 0.275) 7(0.02) to 3 decimal places.",
     "options": [
       "0.039",
       "0.358",
@@ -2315,7 +2315,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-193-1196",
-    "questionText": "If gt<sup>2</sup> - k - w = 0, make g the subject of the formula (JAMB 2014)",
+    "questionText": "If gt<sup>2</sup> - k - w = 0, make g the subject of the formula",
     "options": [
       "k+w/t<sup>2</sup>",
       "k-w/t<sup>2</sup>",
@@ -2327,7 +2327,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-194-336",
-    "questionText": "The diagram above is the graph of the function f(x). Determined the range of values of x for which f(x) ≤ 0 (JAMB 2005)",
+    "questionText": "The diagram above is the graph of the function f(x). Determined the range of values of x for which f(x) ≤ 0",
     "options": [
       "x ≤ 2",
       "0 ≤\n x ≤\n 2",
@@ -2339,7 +2339,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-195-42",
-    "questionText": "If the distance covered by a body in time t seconds is s = t2 - 6t2  - 5t, what is its initial velocity?   (JAMB 2008)",
+    "questionText": "If the distance covered by a body in time t seconds is s = t2 - 6t2  - 5t, what is its initial velocity?",
     "options": [
       "0ms-1    ",
       "-4 ms-1 ",
@@ -2351,7 +2351,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-196-1139",
-    "questionText": "Let '*' and '^' be two binary operations such that a * b = a<sup>2</sup>b and a ^ b = 2a + b. Find (-4 * 2) ^ (7 * -1). (JAMB 2023)",
+    "questionText": "Let '*' and '^' be two binary operations such that a * b = a<sup>2</sup>b and a ^ b = 2a + b. Find (-4 * 2) ^ (7 * -1).",
     "options": [
       "-49",
       "64",
@@ -2363,7 +2363,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-197-16",
-    "questionText": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is without replacement  (JAMB 2006)",
+    "questionText": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is without replacement",
     "options": [
       "0.1",
       "0.47",
@@ -2375,7 +2375,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-198-362",
-    "questionText": "How many possible ways are there of seating seven people P,Q,R,S,T,U and V at a circular table (JAMB 2005)",
+    "questionText": "How many possible ways are there of seating seven people P,Q,R,S,T,U and V at a circular table",
     "options": [
       "360",
       "720",
@@ -2387,7 +2387,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-199-324",
-    "questionText": "Simplify 3(1/2) - (2(1/3) * 1(1/4) + 3/5 (JAMB 2005)",
+    "questionText": "Simplify 3(1/2) - (2(1/3) * 1(1/4) + 3/5",
     "options": [
       "2(11/60)",
       " 2(1/60)",
@@ -2399,7 +2399,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-200-36",
-    "questionText": "The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5        (JAMB 2008)",
+    "questionText": "The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5",
     "options": [
       "10",
       "12",
@@ -2411,7 +2411,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-201-364",
-    "questionText": "What is the probability that an integer x,(1 ≤\n x ≤\n 20) chosen at random is divisible by both 2 and 3? (JAMB 2005)",
+    "questionText": "What is the probability that an integer x,(1 ≤\n x ≤\n 20) chosen at random is divisible by both 2 and 3?",
     "options": [
       "1/20",
       "1/3",
@@ -2423,7 +2423,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-202-510",
-    "questionText": "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0 (JAMB 2008)",
+    "questionText": "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0",
     "options": [
       "0",
       "1",
@@ -2435,7 +2435,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-203-1135",
-    "questionText": "The number line represented by the inequality (JAMB 2022)",
+    "questionText": "The number line represented by the inequality",
     "options": [
       " x≤2",
       " x<2",
@@ -2447,7 +2447,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-204-1250",
-    "questionText": "Make x the subject of the equation\ns = 2 + t/5(x + ⅗y) (JAMB 2015)",
+    "questionText": "Make x the subject of the equation\ns = 2 + t/5(x + ⅗y)",
     "options": [
       " x = 5[(s − 2) ÷ t] - 3/5y",
       "x = 25[(s − 2) ÷ t] − 3ty",
@@ -2459,7 +2459,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-205-1059",
-    "questionText": "In how many ways can 2 students be selected from a group of 5 students in a debating competition? (JAMB 2021)",
+    "questionText": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
     "options": [
       "25 ways",
       "10 ways",
@@ -2471,7 +2471,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-206-76",
-    "questionText": "Evaluate (2.813×10<sup>−3</sup>×1.063)/(5.637×10<sup>−2</sup>) reducing each number to two significant figures and leaving your answer in two significant figures.\u000b\n (JAMB 2000)",
+    "questionText": "Evaluate (2.813×10<sup>−3</sup>×1.063)/(5.637×10<sup>−2</sup>) reducing each number to two significant figures and leaving your answer in two significant figures.\u000b\n",
     "options": [
       "0.056",
       "0.055",
@@ -2483,7 +2483,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-207-404",
-    "questionText": "If the locus of the points which are equidistant from point P and Q meets line PQ at point N, then PN equals (JAMB 2006)",
+    "questionText": "If the locus of the points which are equidistant from point P and Q meets line PQ at point N, then PN equals",
     "options": [
       "NQ",
       "1/4NQ",
@@ -2495,7 +2495,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-208-1094",
-    "questionText": "List all integers satisfying the inequality in -2 < 2x-6 < 4  (JAMB 2021)",
+    "questionText": "List all integers satisfying the inequality in -2 < 2x-6 < 4",
     "options": [
       "2,3,4 and 5",
       "2,3",
@@ -2507,7 +2507,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-209-967",
-    "questionText": "Evaluate ∫<sup>2</sup><sub>1</sub> 5/x\n dx (JAMB 2018)",
+    "questionText": "Evaluate ∫<sup>2</sup><sub>1</sub> 5/x\n dx",
     "options": [
       "1.47",
       "2.67",
@@ -2519,7 +2519,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-210-205",
-    "questionText": "Find the mean of the data: 7, -3, 4, -2, 5, -9, 4, 8, -6, 12 (JAMB 2002)",
+    "questionText": "Find the mean of the data: 7, -3, 4, -2, 5, -9, 4, 8, -6, 12",
     "options": [
       "3",
       "4",
@@ -2531,7 +2531,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-211-61",
-    "questionText": "The value of (0.303)3 – (0.02)3 is  (JAMB 2009)",
+    "questionText": "The value of (0.303)3 – (0.02)3 is",
     "options": [
       "0.019",
       "0.0019",
@@ -2543,7 +2543,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-212-66",
-    "questionText": "Solve 4x2 +20x -24 =0 (JAMB 2013)",
+    "questionText": "Solve 4x2 +20x -24 =0",
     "options": [
       " 1, 6",
       " -1, -6",
@@ -2555,7 +2555,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-213-1016",
-    "questionText": "Express (0.0439÷3.62)\n as a fraction. (JAMB 2019)",
+    "questionText": "Express (0.0439÷3.62)\n as a fraction.",
     "options": [
       "21/100",
       "21/1000",
@@ -2567,7 +2567,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-214-537",
-    "questionText": "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35, ... is? (JAMB 2009)",
+    "questionText": "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35, ... is?",
     "options": [
       "n(3n - 0.5)",
       " n(3n + 2)",
@@ -2579,7 +2579,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-215-724",
-    "questionText": "A man earns N3,500 per month out of which he spends 15% on his children's education. If he spends additional N1,950 on food, how much does he have left? (JAMB 2012)",
+    "questionText": "A man earns N3,500 per month out of which he spends 15% on his children's education. If he spends additional N1,950 on food, how much does he have left?",
     "options": [
       "N525",
       "N1,025",
@@ -2591,7 +2591,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-216-525",
-    "questionText": "A man bought a second-hand photocopying machine for N34,000. He serviced it at a cost of N2,000 and then sold it at a profit of 15%. What was the selling price? (JAMB 2009)",
+    "questionText": "A man bought a second-hand photocopying machine for N34,000. He serviced it at a cost of N2,000 and then sold it at a profit of 15%. What was the selling price?",
     "options": [
       " N37,550",
       " N40,400",
@@ -2603,7 +2603,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-217-223",
-    "questionText": "Simplify 213<sub>4</sub>\n x 23<sub>4</sub> (JAMB 2003)",
+    "questionText": "Simplify 213<sub>4</sub>\n x 23<sub>4</sub>",
     "options": [
       "10311<sub>4</sub>",
       "10321<sub>4</sub>",
@@ -2615,7 +2615,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-218-844",
-    "questionText": "Find dy/dx, if y = 2/3 x<sup>3</sup> - 4/x (JAMB 2016)",
+    "questionText": "Find dy/dx, if y = 2/3 x<sup>3</sup> - 4/x",
     "options": [
       "3x<sup>2</sup> - 4/x",
       "2x<sup>2</sup> +4/x2",
@@ -2627,7 +2627,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-219-594",
-    "questionText": "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement? (JAMB 2010)",
+    "questionText": "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?",
     "options": [
       "0.25%",
       " 0.01%",
@@ -2639,7 +2639,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-220-349",
-    "questionText": "If sin θ = -1/2 for 0 < θ < 360°, the value of θ is (JAMB 2005)",
+    "questionText": "If sin θ = -1/2 for 0 < θ < 360°, the value of θ is",
     "options": [
       "30° and 150°",
       "150° and 210°",
@@ -2651,7 +2651,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-221-924",
-    "questionText": "Find the value of x in the diagram (JAMB 2018)",
+    "questionText": "Find the value of x in the diagram",
     "options": [
       "10°",
       "28°",
@@ -2663,7 +2663,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-222-410",
-    "questionText": "Find the value of k if the expression kx3 + x2 - 5x - 2 leaves a remainder 2 when it is divided by 2x + 1 (JAMB 2006)",
+    "questionText": "Find the value of k if the expression kx3 + x2 - 5x - 2 leaves a remainder 2 when it is divided by 2x + 1",
     "options": [
       "10",
       " 8",
@@ -2687,7 +2687,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-224-875",
-    "questionText": "If y = x Sin x, find dy/dx when x = π/2 (JAMB 2017)",
+    "questionText": "If y = x Sin x, find dy/dx when x = π/2",
     "options": [
       "−π/2",
       "-1",
@@ -2699,7 +2699,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-225-314",
-    "questionText": "The shaded area in the diagram above is represented by (JAMB 2004)",
+    "questionText": "The shaded area in the diagram above is represented by",
     "options": [
       " {(x,y) : y - 3x < -6}",
       "{(x,y) : y + 3x < 6}",
@@ -2723,7 +2723,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-227-431",
-    "questionText": "Integrate (x<sup>2</sup>-√x)/x with respect to x (JAMB 2007)",
+    "questionText": "Integrate (x<sup>2</sup>-√x)/x with respect to x",
     "options": [
       "x<sup>2</sup>/2-2√x+K",
       "(2(x<sup>2</sup>-x))/3x+K",
@@ -2735,7 +2735,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-228-625",
-    "questionText": "If the numbers M, N, Q are in the ratio 5:4:3, find the value of 2N−Q/M (JAMB 2011)",
+    "questionText": "If the numbers M, N, Q are in the ratio 5:4:3, find the value of 2N−Q/M",
     "options": [
       "2",
       "3",
@@ -2747,7 +2747,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-229-67",
-    "questionText": "What is the 15th term of the sequence -3, 2,7,…?  (JAMB 2013)",
+    "questionText": "What is the 15th term of the sequence -3, 2,7,…?",
     "options": [
       "65",
       "66",
@@ -2759,7 +2759,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-230-28",
-    "questionText": "The smallest section of a rod which can be cut 36cm in length is (JAMB 2007)",
+    "questionText": "The smallest section of a rod which can be cut 36cm in length is",
     "options": [
       "90cm ",
       "180cm ",
@@ -2771,7 +2771,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-231-458",
-    "questionText": "The volume of a hemispherical bowl is 718(2/3)\n. Find its radius . (JAMB 2007)",
+    "questionText": "The volume of a hemispherical bowl is 718(2/3)\n. Find its radius .",
     "options": [
       " 4.0 cm",
       " 5.6 cm",
@@ -2783,7 +2783,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-232-731",
-    "questionText": "Find the remainder when 2x<sup>3</sup>  - 11x<sup>2</sup>  + 8x - 1 is divided by x + 3 (JAMB 2012)",
+    "questionText": "Find the remainder when 2x<sup>3</sup>  - 11x<sup>2</sup>  + 8x - 1 is divided by x + 3",
     "options": [
       "-871",
       "-781",
@@ -2795,7 +2795,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-233-312",
-    "questionText": "A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested? (JAMB 2004)",
+    "questionText": "A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested?",
     "options": [
       "1 : 250 000",
       "1 : 25 000",
@@ -2807,7 +2807,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-234-600",
-    "questionText": "Make Q the subject of formula if p = M/5(X + Q) + 1 (JAMB 2010)",
+    "questionText": "Make Q the subject of formula if p = M/5(X + Q) + 1",
     "options": [
       "5P−MX+5/M",
       "5P−MX−5/M",
@@ -2819,7 +2819,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-235-989",
-    "questionText": "If P(2, m) is the midpoint of the line joining Q(m, n) and R(n, -4), find the values of m and n. (JAMB 2019)",
+    "questionText": "If P(2, m) is the midpoint of the line joining Q(m, n) and R(n, -4), find the values of m and n.",
     "options": [
       " m = 0, n = 4",
       "m = 4, n = 0",
@@ -2831,7 +2831,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-236-346",
-    "questionText": "Two lines PQ and ST intersect at 75°. The locus of points equidistant from PQ and ST lies on the (JAMB 2005)",
+    "questionText": "Two lines PQ and ST intersect at 75°. The locus of points equidistant from PQ and ST lies on the",
     "options": [
       "perpendicular bisector of PQ",
       "perpendicular bisector of ST",
@@ -2843,7 +2843,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-237-964",
-    "questionText": "Using the table,What is the modal age? (JAMB 2018)",
+    "questionText": "Using the table,What is the modal age?",
     "options": [
       "4",
       "5",
@@ -2855,7 +2855,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-238-645",
-    "questionText": "What is the size of each interior angle of a 12-sided regular polygon? (JAMB 2011)",
+    "questionText": "What is the size of each interior angle of a 12-sided regular polygon?",
     "options": [
       "120°",
       "150°",
@@ -2867,7 +2867,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-239-524",
-    "questionText": "Evaluate (81.81+99.44)/(20.09+36.16) correct to 3 siginficant figures (JAMB 2009)",
+    "questionText": "Evaluate (81.81+99.44)/(20.09+36.16) correct to 3 siginficant figures",
     "options": [
       "6.24",
       "3.22",
@@ -2879,7 +2879,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-240-1014",
-    "questionText": "A man bought a car newly for ₦1,250,000. He had a crash with the car and later sold it at the rate of ₦1,085,000. What is the percentage gain or loss of the man? (JAMB 2019)",
+    "questionText": "A man bought a car newly for ₦1,250,000. He had a crash with the car and later sold it at the rate of ₦1,085,000. What is the percentage gain or loss of the man?",
     "options": [
       " 43.7% loss",
       "13.2% gain",
@@ -2891,7 +2891,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-241-1187",
-    "questionText": "Find the value of 110111<sub>2</sub>  + 10100<sub>2</sub>  (JAMB 2014)",
+    "questionText": "Find the value of 110111<sub>2</sub>  + 10100<sub>2</sub>",
     "options": [
       "1101011<sub>2</sub> ",
       "1001001<sub>2</sub> ",
@@ -2903,7 +2903,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-242-1144",
-    "questionText": "Make x the subject of the formula: y = (3x−9c)/(4x+5d) (JAMB 2023)",
+    "questionText": "Make x the subject of the formula: y = (3x−9c)/(4x+5d)",
     "options": [
       " x = −(9c−5dy)/4y−3",
       " x = 9c + 5dy/4y − 3",
@@ -2915,7 +2915,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-243-565",
-    "questionText": "In how many ways can 9 people be seated if 3 chairs are available? (JAMB 2009)",
+    "questionText": "In how many ways can 9 people be seated if 3 chairs are available?",
     "options": [
       "720",
       "504",
@@ -2927,7 +2927,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-244-1092",
-    "questionText": "Factorize completely 81a<sup>4</sup> - 16b<sup>4</sup> (JAMB 2021)",
+    "questionText": "Factorize completely 81a<sup>4</sup> - 16b<sup>4</sup>",
     "options": [
       " (3a + 2b)(2a - 3b)(9a<sup>2</sup> + 4b<sup>2</sup>)",
       "(3a - 2b)(2a - 3b)(4a<sup>2</sup> - 9b<sup>2</sup>)",
@@ -2939,7 +2939,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-245-957",
-    "questionText": "Evaluate log<sup>2</sup>\n 8 – log<sup>3</sup> 1/9 (JAMB 2018)",
+    "questionText": "Evaluate log<sup>2</sup>\n 8 – log<sup>3</sup> 1/9",
     "options": [
       "-11(1/2)",
       "-1",
@@ -2951,7 +2951,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-246-47",
-    "questionText": "A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?   (JAMB 2008)",
+    "questionText": "A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?",
     "options": [
       "18,    ",
       "36,       ",
@@ -2963,7 +2963,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-247-451",
-    "questionText": "A man made a profit of 5% when he sold an article for N60,000.00. How much would he have sell the article to make a profit of 26% (JAMB 2007)",
+    "questionText": "A man made a profit of 5% when he sold an article for N60,000.00. How much would he have sell the article to make a profit of 26%",
     "options": [
       "N68,000",
       " N72,000",
@@ -2987,7 +2987,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-249-485",
-    "questionText": "Factorize completely; (4x+3y)<sup>2</sup>\n - (3x-2y)<sup>2</sup>\n  (JAMB 2008)",
+    "questionText": "Factorize completely; (4x+3y)<sup>2</sup>\n - (3x-2y)<sup>2</sup>\n",
     "options": [
       " (x+5y)(7x+y)",
       " (x+5y)(7x-y)",
@@ -2999,7 +2999,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-250-478",
-    "questionText": "simplify 〖16〗<sup>((-1)/2)</sup> × 4<sup>((-1)/2)</sup>×〖27〗<sup>(1/3)</sup> (JAMB 2008)",
+    "questionText": "simplify 〖16〗<sup>((-1)/2)</sup> × 4<sup>((-1)/2)</sup>×〖27〗<sup>(1/3)</sup>",
     "options": [
       "3/8",
       "2/3",
@@ -3011,7 +3011,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-251-8",
-    "questionText": "Solve for p in the following  equation given in base two  11(p+ 110) = 1001p    (JAMB 2006)",
+    "questionText": "Solve for p in the following  equation given in base two  11(p+ 110) = 1001p",
     "options": [
       "10",
       "11",
@@ -3023,7 +3023,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-252-578",
-    "questionText": "If x * y = x + y<sup>2</sup>, find then value of (2*3)*5 (JAMB 2010)",
+    "questionText": "If x * y = x + y<sup>2</sup>, find then value of (2*3)*5",
     "options": [
       "36",
       "25",
@@ -3035,7 +3035,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-253-899",
-    "questionText": "In how many ways can the word MACICITA be arranged? (JAMB 2017)",
+    "questionText": "In how many ways can the word MACICITA be arranged?",
     "options": [
       "8!/2!",
       "8!/3!2!",
@@ -3047,7 +3047,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-254-253",
-    "questionText": "On a pie chart, there are four sectors of which three angles are 45°, 90° and 135°. If the smallest sector represents N28.00, how much is the largest sector? (JAMB 2003)",
+    "questionText": "On a pie chart, there are four sectors of which three angles are 45°, 90° and 135°. If the smallest sector represents N28.00, how much is the largest sector?",
     "options": [
       " N96.00",
       "N84.00",
@@ -3059,7 +3059,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-255-260",
-    "questionText": "Find the equation of the locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1). (JAMB 2003)",
+    "questionText": "Find the equation of the locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1).",
     "options": [
       "4x + 2y = 5",
       "4x - 2y = 5",
@@ -3071,7 +3071,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-256-1104",
-    "questionText": "Simplify 1/(3−√2)\n in the form of p + q√2 (JAMB 2022)",
+    "questionText": "Simplify 1/(3−√2)\n in the form of p + q√2",
     "options": [
       "7/(3 - 1/7√2)",
       "7/(3 + 1/7√2)",
@@ -3083,7 +3083,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-257-602",
-    "questionText": "Solve for x and y if x - y = 2 and x<sup>2</sup>  - y<sup>2</sup>  = 8 (JAMB 2010)",
+    "questionText": "Solve for x and y if x - y = 2 and x<sup>2</sup>  - y<sup>2</sup>  = 8",
     "options": [
       " (-1, 3)",
       "(3, 1)",
@@ -3095,7 +3095,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-258-621",
-    "questionText": "Find the sum to infinity of the following series. 0.5 + 0.05 + 0.005 + 0.0005 + ..... (JAMB 2010)",
+    "questionText": "Find the sum to infinity of the following series. 0.5 + 0.05 + 0.005 + 0.0005 + .....",
     "options": [
       "5/8",
       "5/7",
@@ -3107,7 +3107,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-259-295",
-    "questionText": "I. Rectangular bars of equal width\nII. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.\nIII. Rectangular bars have common sides with no gaps in between\nA histogram is described completely by (JAMB 2004)",
+    "questionText": "I. Rectangular bars of equal width\nII. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.\nIII. Rectangular bars have common sides with no gaps in between\nA histogram is described completely by",
     "options": [
       "I, II and III",
       "I and II",
@@ -3119,7 +3119,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-260-1223",
-    "questionText": "Find the median of 5,9,1,10,3,8,9,2,4,5,5,5,7,3 and 6 (JAMB 2014)",
+    "questionText": "Find the median of 5,9,1,10,3,8,9,2,4,5,5,5,7,3 and 6",
     "options": [
       "6",
       "5",
@@ -3131,7 +3131,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-261-647",
-    "questionText": "A solid metal cube of side 3 cm is placed in a rectangular tank of dimension 3, 4 and 5 cm. What volume of water can the tank now hold (JAMB 2011)",
+    "questionText": "A solid metal cube of side 3 cm is placed in a rectangular tank of dimension 3, 4 and 5 cm. What volume of water can the tank now hold",
     "options": [
       "48 cm<sup>3</sup>",
       "33 cm<sup>3</sup>",
@@ -3143,7 +3143,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-262-1282",
-    "questionText": "The area of an ellipse is 132cm2.The length of its major axis is 14cm.Find the length of it minor axis (JAMB 2015)",
+    "questionText": "The area of an ellipse is 132cm2.The length of its major axis is 14cm.Find the length of it minor axis",
     "options": [
       "10.5cm",
       "5cm",
@@ -3155,7 +3155,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-263-250",
-    "questionText": "Triangle OPQ is the solution of the inequalities (JAMB 2003)",
+    "questionText": "Triangle OPQ is the solution of the inequalities",
     "options": [
       "x - 1 < 0, y + ≥  0, y - x ≥  0",
       "x + 1 ≤ 0, y + x ≥  0, y - x ≤ 0",
@@ -3167,7 +3167,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-264-493",
-    "questionText": "In the diagram above, PQ//RS. The size of the angle marked x is? (JAMB 2008)",
+    "questionText": "In the diagram above, PQ//RS. The size of the angle marked x is?",
     "options": [
       "100°",
       "80°",
@@ -3179,7 +3179,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-265-41",
-    "questionText": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. How many learn Igbo only?    (JAMB 2008)",
+    "questionText": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. How many learn Igbo only?",
     "options": [
       "45",
       "30",
@@ -3191,7 +3191,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-266-793",
-    "questionText": "The mean of seven numbers is 10. If six of the numbers are 2, 4, 8, 14, 16 and 18, find the mode. (JAMB 2013)",
+    "questionText": "The mean of seven numbers is 10. If six of the numbers are 2, 4, 8, 14, 16 and 18, find the mode.",
     "options": [
       "6",
       "8",
@@ -3203,7 +3203,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-267-357",
-    "questionText": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent? (JAMB 2005)",
+    "questionText": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent?",
     "options": [
       "7",
       "8",
@@ -3215,7 +3215,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-268-45",
-    "questionText": "Without replacement  (JAMB 2008)",
+    "questionText": "Without replacement",
     "options": [
       "0.1, ",
       "0.47, ",
@@ -3227,7 +3227,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-269-1273",
-    "questionText": "Given that S and T are sets of real numbers such that S = {x : 0 ≤\n x ≤ 5} and T = {x : − 2 < x < 3} Find S ∪ T (JAMB 2015)",
+    "questionText": "Given that S and T are sets of real numbers such that S = {x : 0 ≤\n x ≤ 5} and T = {x : − 2 < x < 3} Find S ∪ T",
     "options": [
       "−3 < x < ≤3",
       "−2< x < ≤5",
@@ -3239,7 +3239,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-270-809",
-    "questionText": "A chord of a circle subtends an angle of 120° at the centre of a circle of diameter 4√3cm\n. Calculate the area of the major sector. (JAMB 2013)",
+    "questionText": "A chord of a circle subtends an angle of 120° at the centre of a circle of diameter 4√3cm\n. Calculate the area of the major sector.",
     "options": [
       "32πcm<sup>2</sup>",
       "4π cm<sup>2</sup>",
@@ -3251,7 +3251,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-271-1154",
-    "questionText": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women? (JAMB 2023)",
+    "questionText": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women?",
     "options": [
       " 60",
       "15",
@@ -3263,7 +3263,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-272-133",
-    "questionText": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *. (JAMB 2001)",
+    "questionText": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *.",
     "options": [
       "4",
       "0",
@@ -3275,7 +3275,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-273-860",
-    "questionText": "rom the cyclic quadrilateral above, find < TSV (JAMB 2016)",
+    "questionText": "rom the cyclic quadrilateral above, find < TSV",
     "options": [
       "60°",
       "80°",
@@ -3287,7 +3287,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-274-663",
-    "questionText": "Find the probability that a number picked at random from the set(43, 44, 45, ..., 60) is a prime number. (JAMB 2011)",
+    "questionText": "Find the probability that a number picked at random from the set(43, 44, 45, ..., 60) is a prime number.",
     "options": [
       "2/3",
       "1/3",
@@ -3299,7 +3299,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-275-119",
-    "questionText": "A matrix P is such that P<sup>T</sup>= p, where P<sup>T</sup> is the transpose of P, if b = 1, then P is (JAMB 2000)",
+    "questionText": "A matrix P is such that P<sup>T</sup>= p, where P<sup>T</sup> is the transpose of P, if b = 1, then P is",
     "options": [
       "(0, 1)\n(1, 0)",
       "(0, 1)\n(-1, 0)",
@@ -3311,7 +3311,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-276-830",
-    "questionText": "Evaluate ∫\n(cos4x + sin3x)dx (JAMB 2016)",
+    "questionText": "Evaluate ∫\n(cos4x + sin3x)dx",
     "options": [
       "sin4x - cos3x + k",
       "sin4x + cos3x + k",
@@ -3323,7 +3323,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-277-310",
-    "questionText": "The shaded region in the Venn diagram above is (JAMB 2004)",
+    "questionText": "The shaded region in the Venn diagram above is",
     "options": [
       " Pc ∪ (Q ∩ R)",
       " Pc ∩ (Q ∪ R)",
@@ -3347,7 +3347,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-279-609",
-    "questionText": "The interior angles of a quadrilateral are (x + 15)°, (2x - 45)°, ( x - 30)° and (x + 10)°. Find the value of the least interior angle. (JAMB 2010)",
+    "questionText": "The interior angles of a quadrilateral are (x + 15)°, (2x - 45)°, ( x - 30)° and (x + 10)°. Find the value of the least interior angle.",
     "options": [
       "112°",
       "102°",
@@ -3359,7 +3359,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-280-527",
-    "questionText": "If log<sub>10</sub>2 = 0.3010 and log<sub>10</sub>7 = 0.8451, evaluate log<sub>10</sub>280 (JAMB 2009)",
+    "questionText": "If log<sub>10</sub>2 = 0.3010 and log<sub>10</sub>7 = 0.8451, evaluate log<sub>10</sub>280",
     "options": [
       "3.4471",
       "2.4471",
@@ -3371,7 +3371,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-281-1013",
-    "questionText": "Each of the interior angles of a regular polygon is 140°. Calculate the sum of all the interior angles of the polygon. (JAMB 2019)",
+    "questionText": "Each of the interior angles of a regular polygon is 140°. Calculate the sum of all the interior angles of the polygon.",
     "options": [
       "1080°",
       "1260°",
@@ -3383,7 +3383,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788679435991-282-191",
-    "questionText": "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c. (JAMB 2002)",
+    "questionText": "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c.",
     "options": [
       "4",
       "3",
@@ -3395,7 +3395,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-0-754",
-    "questionText": "Find the range of 4,9,6,3,2,8,10 and 11 (JAMB 2012)",
+    "questionText": "Find the range of 4,9,6,3,2,8,10 and 11",
     "options": [
       "11",
       "9",
@@ -3407,7 +3407,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-1-1084",
-    "questionText": "Simplify 2log 2/5 -log72/125 + log 9 (JAMB 2021)",
+    "questionText": "Simplify 2log 2/5 -log72/125 + log 9",
     "options": [
       "1 - 4 log3",
       "-1 + 2 log 3",
@@ -3419,7 +3419,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-2-96",
-    "questionText": " Find the value of ∫π0(cos<sup>2</sup>θ−1/sin<sup>2</sup>θ)*dθ (JAMB 2000)",
+    "questionText": " Find the value of ∫π0(cos<sup>2</sup>θ−1/sin<sup>2</sup>θ)*dθ",
     "options": [
       "π",
       "π/2",
@@ -3431,7 +3431,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-3-92",
-    "questionText": "3y = 4x - 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K.\n (JAMB 2000)",
+    "questionText": "3y = 4x - 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K.\n",
     "options": [
       "-4/3",
       "-3/4",
@@ -3443,7 +3443,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-4-1115",
-    "questionText": "The locus of points equidistant from a fixed point. (JAMB 2022)",
+    "questionText": "The locus of points equidistant from a fixed point.",
     "options": [
       "circle",
       "perpendicular lines",
@@ -3455,7 +3455,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-5-974",
-    "questionText": "Rationalize  (√2+√3)/(√2-√3) (JAMB 2019)",
+    "questionText": "Rationalize  (√2+√3)/(√2-√3)",
     "options": [
       "−5−2√6",
       "−5 + 3√2",
@@ -3467,7 +3467,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-6-870",
-    "questionText": "What is the next number in the series 2, 1, 1/2, 1/4 ... (JAMB 2017)",
+    "questionText": "What is the next number in the series 2, 1, 1/2, 1/4 ...",
     "options": [
       "1/3",
       "2/8",
@@ -3479,7 +3479,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-7-186",
-    "questionText": "Find the range of values of x for which (x+2)/4−2x−3/3 < 4 (JAMB 2002)",
+    "questionText": "Find the range of values of x for which (x+2)/4−2x−3/3 < 4",
     "options": [
       "x > -6",
       "x > -3",
@@ -3491,7 +3491,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-8-345",
-    "questionText": "Find the curved surface area of a cone with circular base diameter 10 cm and height 12 cm (JAMB 2005)",
+    "questionText": "Find the curved surface area of a cone with circular base diameter 10 cm and height 12 cm",
     "options": [
       "25 πcm<sup>2</sup>",
       "65 πcm<sup>2</sup>",
@@ -3503,7 +3503,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-9-867",
-    "questionText": "From the diagram above. Find the fraction of the shaded position? (JAMB 2016)",
+    "questionText": "From the diagram above. Find the fraction of the shaded position?",
     "options": [
       "1/3",
       "1/5",
@@ -3515,7 +3515,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-10-655",
-    "questionText": "Find the value of x at the minimum point of the curve y = x<sup>3</sup> + x<sup>2</sup> - x + 1 (JAMB 2011)",
+    "questionText": "Find the value of x at the minimum point of the curve y = x<sup>3</sup> + x<sup>2</sup> - x + 1",
     "options": [
       "1/3",
       "1/3",
@@ -3527,7 +3527,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-11-438",
-    "questionText": "The solution of the quadratic inequality (x<sup>3</sup> + x - 12) ≥ 0 is (JAMB 2007)",
+    "questionText": "The solution of the quadratic inequality (x<sup>3</sup> + x - 12) ≥ 0 is",
     "options": [
       "x ≥ -3 or x ≤ 4",
       "x ≥ 3 or x ≥ -4",
@@ -3539,7 +3539,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-12-185",
-    "questionText": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men (JAMB 2002)",
+    "questionText": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men",
     "options": [
       "15 days",
       "12 days",
@@ -3551,7 +3551,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-13-1174",
-    "questionText": "What is the general term of the sequence 3, 8, 13, 18, ...? (JAMB 2023)",
+    "questionText": "What is the general term of the sequence 3, 8, 13, 18, ...?",
     "options": [
       "5n - 2",
       "5n + 2",
@@ -3563,7 +3563,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-14-9",
-    "questionText": "Factorize 16(3x+2y)2-25 (a+2b)2 (JAMB 2006)",
+    "questionText": "Factorize 16(3x+2y)2-25 (a+2b)2",
     "options": [
       "(12x +8y+5a+10b)(12x+8y-5a-10b)",
       "(12x+8y-5a-10b) (12x+8y-5a-10b),",
@@ -3575,7 +3575,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-15-150",
-    "questionText": "Find the area bounded by the curves y = 4 - x<sup>2</sup> and y = 2x + 1 (JAMB 2001)",
+    "questionText": "Find the area bounded by the curves y = 4 - x<sup>2</sup> and y = 2x + 1",
     "options": [
       "20(1/3) sq. units",
       "20(2/3) sq. units",
@@ -3587,7 +3587,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-16-1078",
-    "questionText": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the? (JAMB 2021)",
+    "questionText": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the?",
     "options": [
       "perpendicular bisector of the two lines",
       "angle bisector of the two lines",
@@ -3599,7 +3599,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-17-534",
-    "questionText": "W is directly proportional to U. If W = 5 when U = 3, find U when W = 2/7 (JAMB 2009)",
+    "questionText": "W is directly proportional to U. If W = 5 when U = 3, find U when W = 2/7",
     "options": [
       "6/35",
       "10/21",
@@ -3611,7 +3611,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-18-930",
-    "questionText": "The probabilities that John and James pass an examination are 3/4 and 3/5 respectively. Find the probability of both boys failing the examination. (JAMB 2018)",
+    "questionText": "The probabilities that John and James pass an examination are 3/4 and 3/5 respectively. Find the probability of both boys failing the examination.",
     "options": [
       "1/10",
       "2/10",
@@ -3623,7 +3623,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-19-496",
-    "questionText": "Find the area of the figure above\n[π = 22/7] (JAMB 2008)",
+    "questionText": "Find the area of the figure above\n[π = 22/7]",
     "options": [
       "12.5 cm2",
       "75.0 cm2",
@@ -3635,7 +3635,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-20-73",
-    "questionText": "Given f(x) =3+x and g(x) =3-x, find g (f(x)) (JAMB 2013)",
+    "questionText": "Given f(x) =3+x and g(x) =3-x, find g (f(x))",
     "options": [
       "6",
       "x",
@@ -3647,7 +3647,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-21-59",
-    "questionText": "Given a regular hexagon, calculate each interior angle of the hexagon  (JAMB 2009)",
+    "questionText": "Given a regular hexagon, calculate each interior angle of the hexagon",
     "options": [
       "60",
       "30",
@@ -3659,7 +3659,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-22-586",
-    "questionText": "If the area of ΔPQR above is 12√3 cm2, find the value of q? (JAMB 2010)",
+    "questionText": "If the area of ΔPQR above is 12√3 cm2, find the value of q?",
     "options": [
       "6 cm",
       "7 cm",
@@ -3671,7 +3671,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-23-836",
-    "questionText": "Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60°. (JAMB 2016)",
+    "questionText": "Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60°.",
     "options": [
       "(12 + 4π)cm",
       "(24 + 4π)cm",
@@ -3683,7 +3683,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-24-1225",
-    "questionText": "In how many ways can a team of 3 girls be selected from 7 girls? (JAMB 2014)",
+    "questionText": "In how many ways can a team of 3 girls be selected from 7 girls?",
     "options": [
       "7!/3!",
       "7!/4!",
@@ -3695,7 +3695,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-25-1063",
-    "questionText": "find the value of p if the line which passes through (-1, -p) and (-2,2) is parallel to the line 2y+8x-17=0? (JAMB 2021)",
+    "questionText": "find the value of p if the line which passes through (-1, -p) and (-2,2) is parallel to the line 2y+8x-17=0?",
     "options": [
       "-2/7",
       "7/6",
@@ -3707,7 +3707,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-26-425",
-    "questionText": "A senatorial candidate had planned to visit seven cities prior to a primary election. However, he could only visit four of the cities. How many different itineraries could be considered? (JAMB 2007)",
+    "questionText": "A senatorial candidate had planned to visit seven cities prior to a primary election. However, he could only visit four of the cities. How many different itineraries could be considered?",
     "options": [
       "640",
       "840",
@@ -3719,7 +3719,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-27-313",
-    "questionText": "The shadow of a pole 5√3m high is 5m. Find the angle of elevation of the sun. (JAMB 2004)",
+    "questionText": "The shadow of a pole 5√3m high is 5m. Find the angle of elevation of the sun.",
     "options": [
       "45°",
       "75°",
@@ -3731,7 +3731,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-28-242",
-    "questionText": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 21cm2, find the distance between the parallel sides (JAMB 2003)",
+    "questionText": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 21cm2, find the distance between the parallel sides",
     "options": [
       "3 cm",
       "4 cm",
@@ -3743,7 +3743,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-29-472",
-    "questionText": "Add 1101<sub>2</sub> ,10111<sub>2</sub>  and 111<sub>2</sub>  (JAMB 2008)",
+    "questionText": "Add 1101<sub>2</sub> ,10111<sub>2</sub>  and 111<sub>2</sub>",
     "options": [
       "111011<sub>2</sub>",
       "110110<sub>2</sub>",
@@ -3755,7 +3755,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-30-560",
-    "questionText": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?\n (JAMB 2009)",
+    "questionText": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?\n",
     "options": [
       "45",
       "50",
@@ -3767,7 +3767,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-31-938",
-    "questionText": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\nWhat is the probability of selecting a student from the group that scored 2 or 3 (JAMB 2018)",
+    "questionText": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\nWhat is the probability of selecting a student from the group that scored 2 or 3",
     "options": [
       "1/11",
       "5/22",
@@ -3779,7 +3779,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-32-359",
-    "questionText": "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r. (JAMB 2005)",
+    "questionText": "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r.",
     "options": [
       "1.35",
       "1.65",
@@ -3791,7 +3791,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-33-1197",
-    "questionText": "Factorize 2y<sup>2</sup> - 15xy + 18x<sup>2</sup> (JAMB 2014)",
+    "questionText": "Factorize 2y<sup>2</sup> - 15xy + 18x<sup>2</sup>",
     "options": [
       "(2y - 3x) (y + 6x)",
       "(2y - 3x) (y - 6x)",
@@ -3803,7 +3803,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-34-1253",
-    "questionText": "Given that A = {1, 5, 7}\n\nB = {3, 9, 12, 15}\n\nC = {2, 4, 6, 8}\n\nFind (A ∪ B) ∪ C (JAMB 2015)",
+    "questionText": "Given that A = {1, 5, 7}\n\nB = {3, 9, 12, 15}\n\nC = {2, 4, 6, 8}\n\nFind (A ∪ B) ∪ C",
     "options": [
       "{1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
       "{1, 2, 3, 5, 6, 8, 12, 15}",
@@ -3815,7 +3815,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-35-732",
-    "questionText": "Solve for x and y in the equations below\nx<sup>2</sup>  - y<sup>2</sup>  = 4\nx + y = 2 (JAMB 2012)",
+    "questionText": "Solve for x and y in the equations below\nx<sup>2</sup>  - y<sup>2</sup>  = 4\nx + y = 2",
     "options": [
       "x = 0, y = -2",
       "x = 0, y = 2",
@@ -3827,7 +3827,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799317-36-248",
-    "questionText": "By how much is the mean of 30, 56, 31, 55, 43 and 44 less than the median? (JAMB 2003)",
+    "questionText": "By how much is the mean of 30, 56, 31, 55, 43 and 44 less than the median?",
     "options": [
       "0.75",
       "0.50",
@@ -3839,7 +3839,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-37-528",
-    "questionText": "Simplify (5+√7)/(3+√7) (JAMB 2009)",
+    "questionText": "Simplify (5+√7)/(3+√7)",
     "options": [
       "17-√7",
       "4-√7",
@@ -3851,7 +3851,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-38-1079",
-    "questionText": "4, 16, 30, 20, 10, 14 and 26 are represented on a pie chart. Find the sum of the angles of the bisectors representing all numbers equals to or greater than 16 (JAMB 2021)",
+    "questionText": "4, 16, 30, 20, 10, 14 and 26 are represented on a pie chart. Find the sum of the angles of the bisectors representing all numbers equals to or greater than 16",
     "options": [
       "48°",
       "84°",
@@ -3875,7 +3875,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-40-998",
-    "questionText": "If P varies inversely as the square root of q, where p = 3 and q = 16, find the value of q when p = 4. (JAMB 2019)",
+    "questionText": "If P varies inversely as the square root of q, where p = 3 and q = 16, find the value of q when p = 4.",
     "options": [
       "12",
       "8",
@@ -3887,7 +3887,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-41-488",
-    "questionText": "Find the range of values of x which satisfy the inequalities 4x - 7 ≤ 3x and 3x - 4 ≤ 4x (JAMB 2008)",
+    "questionText": "Find the range of values of x which satisfy the inequalities 4x - 7 ≤ 3x and 3x - 4 ≤ 4x",
     "options": [
       "-4 ≤ x ≤ 7",
       "-7 ≤ x ≤ 4",
@@ -3899,7 +3899,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-42-263",
-    "questionText": "A triangle has vertices P(-1,6), Q(-3, -4) and R(1, -4).Find the midpoint of PQ and QR respectively. (JAMB 2003)",
+    "questionText": "A triangle has vertices P(-1,6), Q(-3, -4) and R(1, -4).Find the midpoint of PQ and QR respectively.",
     "options": [
       "(0,-2) and (-1, -4)",
       "(-1,0) and (-1,-1)",
@@ -3911,7 +3911,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-43-544",
-    "questionText": "A regular polygon has 150º as the size of each interior angle. How many sides does it have? (JAMB 2009)",
+    "questionText": "A regular polygon has 150º as the size of each interior angle. How many sides does it have?",
     "options": [
       "12",
       "10",
@@ -3923,7 +3923,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-44-797",
-    "questionText": "In how many ways can a student select 2 subjects from 5 subjects? (JAMB 2013)",
+    "questionText": "In how many ways can a student select 2 subjects from 5 subjects?",
     "options": [
       "5!/3!",
       "5!/2!2!",
@@ -3935,7 +3935,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-45-932",
-    "questionText": "Simplify\n(〖25〗<sup>2/3</sup>)÷〖25〗<sup>(1/6)</sup>)/((1/5 )<sup>(7/6)</sup>÷(1/5 )<sp>(1/6)</sup> ) (JAMB 2018)",
+    "questionText": "Simplify\n(〖25〗<sup>2/3</sup>)÷〖25〗<sup>(1/6)</sup>)/((1/5 )<sup>(7/6)</sup>÷(1/5 )<sp>(1/6)</sup> )",
     "options": [
       "25",
       "1",
@@ -3947,7 +3947,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-46-966",
-    "questionText": "Calculate 243<sub>six</sub> – 243<sub>five</sub>\nexpressing your answer in base 10 (JAMB 2018)",
+    "questionText": "Calculate 243<sub>six</sub> – 243<sub>five</sub>\nexpressing your answer in base 10",
     "options": [
       "0",
       "1",
@@ -3959,7 +3959,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-47-483",
-    "questionText": "Make Q the subject of formula when L = 4/3 M√PQ (JAMB 2008)",
+    "questionText": "Make Q the subject of formula when L = 4/3 M√PQ",
     "options": [
       "(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
       "3L/(4M√P)",
@@ -3971,7 +3971,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-48-987",
-    "questionText": "The marks scored by 30 students in a Mathematics test are recorded in the table below: What is the total number of marks scored by the children? (JAMB 2019)",
+    "questionText": "The marks scored by 30 students in a Mathematics test are recorded in the table below: What is the total number of marks scored by the children?",
     "options": [
       "82",
       "15",
@@ -3983,7 +3983,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-49-861",
-    "questionText": "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23. (JAMB 2016)",
+    "questionText": "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23.",
     "options": [
       "11.2",
       "10",
@@ -3995,7 +3995,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-50-798",
-    "questionText": "In how many ways can 3 seats be occupied if 5 people are willing to sit? (JAMB 2013)",
+    "questionText": "In how many ways can 3 seats be occupied if 5 people are willing to sit?",
     "options": [
       "60",
       "20",
@@ -4007,7 +4007,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-51-227",
-    "questionText": "Simplify 1 - (7/3 x 5/4) + 3/5 (JAMB 2003)",
+    "questionText": "Simplify 1 - (7/3 x 5/4) + 3/5",
     "options": [
       "-16/15",
       "-79/60",
@@ -4019,7 +4019,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-52-722",
-    "questionText": "Simply {2(2/3)×1(1/2)}/4(4/5) (JAMB 2012)",
+    "questionText": "Simply {2(2/3)×1(1/2)}/4(4/5)",
     "options": [
       "1(1/4)",
       "1(1/6)",
@@ -4031,7 +4031,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-53-796",
-    "questionText": "The table above shows the scores of 20 students in further mathematics test. What is the range of the distribution? (JAMB 2013)",
+    "questionText": "The table above shows the scores of 20 students in further mathematics test. What is the range of the distribution?",
     "options": [
       "7",
       "6",
@@ -4043,7 +4043,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-54-453",
-    "questionText": "Evaluate 1011<sup>2</sup><sub>2</sub>  - 101<sup>2</sup><sub>2</sub>  (JAMB 2007)",
+    "questionText": "Evaluate 1011<sup>2</sup><sub>2</sub>  - 101<sup>2</sup><sub>2</sub>",
     "options": [
       "110000<sub>2</sub>",
       "110<sub>2</sub>",
@@ -4055,7 +4055,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-55-939",
-    "questionText": "A boy walks 800m in 20 minutes. Calculate his average speed in Km/H (JAMB 2018)",
+    "questionText": "A boy walks 800m in 20 minutes. Calculate his average speed in Km/H",
     "options": [
       "2.4",
       "4",
@@ -4067,7 +4067,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-56-1015",
-    "questionText": "If the volume of a frustrum is given as V=πh/3(R<sup>2</sup + Rr + r<sup>2</sup), find dV/dR\n. (JAMB 2019)",
+    "questionText": "If the volume of a frustrum is given as V=πh/3(R<sup>2</sup + Rr + r<sup>2</sup), find dV/dR\n.",
     "options": [
       "πh/3(2R + r)",
       "2R + r + πh/3",
@@ -4079,7 +4079,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-57-1205",
-    "questionText": "A binary operation * is defined by x * y = xy. If x * 2 = 12 - x, find the possible values of x (JAMB 2014)",
+    "questionText": "A binary operation * is defined by x * y = xy. If x * 2 = 12 - x, find the possible values of x",
     "options": [
       "3,4",
       "3,-4",
@@ -4091,7 +4091,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-58-459",
-    "questionText": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P (JAMB 2007)",
+    "questionText": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P",
     "options": [
       "It is a semi circle with ST as diameter",
       "It is a perpendicular bisector of St",
@@ -4103,7 +4103,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-59-398",
-    "questionText": "PQ and RS are two parallel lines. If the coordinates of P, Q, R, S are (1,q), (3,2), (3,4), (5,2q) respectively, find the value of q (JAMB 2006)",
+    "questionText": "PQ and RS are two parallel lines. If the coordinates of P, Q, R, S are (1,q), (3,2), (3,4), (5,2q) respectively, find the value of q",
     "options": [
       "3",
       "4",
@@ -4115,7 +4115,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-60-572",
-    "questionText": "Evaluate (81/16)<sup>−1/4</sup> × 2<sup>−1</sup> (JAMB 2010)",
+    "questionText": "Evaluate (81/16)<sup>−1/4</sup> × 2<sup>−1</sup>",
     "options": [
       "1/3",
       "3",
@@ -4127,7 +4127,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-61-222",
-    "questionText": "Evaluate log<sub>√2</sub>4 + log1/2 16 − log<sub>4</sub>32 (JAMB 2003)",
+    "questionText": "Evaluate log<sub>√2</sub>4 + log1/2 16 − log<sub>4</sub>32",
     "options": [
       "-5.5",
       "-2.5",
@@ -4139,7 +4139,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-62-1257",
-    "questionText": "Find the simple interest on N325 in 5years at 3% per annum. (JAMB 2015)",
+    "questionText": "Find the simple interest on N325 in 5years at 3% per annum.",
     "options": [
       "N48.75K",
       "N50.10K",
@@ -4151,7 +4151,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-63-1259",
-    "questionText": "Simplify [1÷(x<sup>2</sup> + 3x + 2)]+[1 ÷ (x<sup>2</sup> + 5x + 6)] (JAMB 2015)",
+    "questionText": "Simplify [1÷(x<sup>2</sup> + 3x + 2)]+[1 ÷ (x<sup>2</sup> + 5x + 6)]",
     "options": [
       "2/(x+1)<sup>2</sup>",
       "2/(x+1)(x+2)",
@@ -4163,7 +4163,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-64-188",
-    "questionText": "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d. (JAMB 2002)",
+    "questionText": "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d.",
     "options": [
       "2a + 2 = 0",
       "3a + 5d = 0",
@@ -4187,7 +4187,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-66-725",
-    "questionText": "If 27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>, find x. (JAMB 2012)",
+    "questionText": "If 27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>, find x.",
     "options": [
       "3",
       "4",
@@ -4199,7 +4199,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-67-144",
-    "questionText": "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?\n\n(Take pi = 22/7) (JAMB 2001)",
+    "questionText": "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?\n\n(Take pi = 22/7)",
     "options": [
       "23 m",
       "25 m",
@@ -4211,7 +4211,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-68-492",
-    "questionText": "A binary operation on the real set of numbers excluding -1 is such that for all m, n ∈ R, mΔn = m+n+mn. Find the identity element of the operation. (JAMB 2008)",
+    "questionText": "A binary operation on the real set of numbers excluding -1 is such that for all m, n ∈ R, mΔn = m+n+mn. Find the identity element of the operation.",
     "options": [
       "1",
       "0",
@@ -4223,7 +4223,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-69-1169",
-    "questionText": "Find the matrix A (JAMB 2023)",
+    "questionText": "Find the matrix A",
     "options": [
       "None of the above",
       "All of the above",
@@ -4234,7 +4234,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-70-901",
-    "questionText": "Find the equation of the locus of a point p (x, y) such that pv = pw, where v= (1, 1) and w = (3, 5) (JAMB 2017)",
+    "questionText": "Find the equation of the locus of a point p (x, y) such that pv = pw, where v= (1, 1) and w = (3, 5)",
     "options": [
       "2x + 2y = 9",
       "2x + 3y = 8",
@@ -4246,7 +4246,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-71-1192",
-    "questionText": "Solve for x in 8x<sup>-2</sup> = 2/25 (JAMB 2014)",
+    "questionText": "Solve for x in 8x<sup>-2</sup> = 2/25",
     "options": [
       "4",
       "6",
@@ -4258,7 +4258,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-72-946",
-    "questionText": "Divide the L.C.M of 48, 64 and 80 by their H.C.F (JAMB 2018)",
+    "questionText": "Divide the L.C.M of 48, 64 and 80 by their H.C.F",
     "options": [
       "20",
       "30",
@@ -4270,7 +4270,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-73-778",
-    "questionText": "If S = √(t<sup>2</sup>-4t+4), find t in terms of s (JAMB 2013)",
+    "questionText": "If S = √(t<sup>2</sup>-4t+4), find t in terms of s",
     "options": [
       "S<sup>2</sup> - 2",
       "S + 2",
@@ -4282,7 +4282,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-74-68",
-    "questionText": "What is the remainder when x3 +5x2-6x+1 is divided by x-1?  (JAMB 2013)",
+    "questionText": "What is the remainder when x3 +5x2-6x+1 is divided by x-1?",
     "options": [
       "-1",
       "2",
@@ -4294,7 +4294,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-75-896",
-    "questionText": "Find the principal which amounts to ₦ 5,500 at a simple interest in 5 years at 2% per annum (JAMB 2017)",
+    "questionText": "Find the principal which amounts to ₦ 5,500 at a simple interest in 5 years at 2% per annum",
     "options": [
       "₦ 4,900",
       "₦ 5,000",
@@ -4306,7 +4306,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-76-658",
-    "questionText": "The sum of four consecutive integers is 34. Find the least of these numbers (JAMB 2011)",
+    "questionText": "The sum of four consecutive integers is 34. Find the least of these numbers",
     "options": [
       "7",
       "6",
@@ -4318,7 +4318,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-77-367",
-    "questionText": "From the diagram given, find the bearing of R from S (JAMB 2005)",
+    "questionText": "From the diagram given, find the bearing of R from S",
     "options": [
       "226°",
       "224°",
@@ -4330,7 +4330,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-78-747",
-    "questionText": "Find the equation of the line through the points (-2, 1) and (-1/2, 4) (JAMB 2012)",
+    "questionText": "Find the equation of the line through the points (-2, 1) and (-1/2, 4)",
     "options": [
       "y = 2x - 3",
       "y = 2x + 5",
@@ -4342,7 +4342,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-79-573",
-    "questionText": "Rationalize (2√3 + √5)/(√5 - √3) (JAMB 2010)",
+    "questionText": "Rationalize (2√3 + √5)/(√5 - √3)",
     "options": [
       "(3 √ 15 +11) / 2",
       "3 √ 15 -11",
@@ -4354,7 +4354,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-80-1136",
-    "questionText": "If a dress is sold for #3800.00 at 20% discount. what is its original price? (JAMB 2022)",
+    "questionText": "If a dress is sold for #3800.00 at 20% discount. what is its original price?",
     "options": [
       "#3,000.00",
       "#4,000.00",
@@ -4366,7 +4366,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-81-566",
-    "questionText": "The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5? (JAMB 2009)",
+    "questionText": "The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5?",
     "options": [
       "3/5",
       "2/5",
@@ -4378,7 +4378,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-82-134",
-    "questionText": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to (JAMB 2001)",
+    "questionText": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to",
     "options": [
       "Zero",
       "half of the common difference",
@@ -4390,7 +4390,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-83-1249",
-    "questionText": "The amount A to which a principal P amounts at r% compound interest for n years is given by the formula A = P(1 + (r ÷ 100)<sup>n</sup>\n. Find A, if P = 126, r = 4 and n = 2. (JAMB 2015)",
+    "questionText": "The amount A to which a principal P amounts at r% compound interest for n years is given by the formula A = P(1 + (r ÷ 100)<sup>n</sup>\n. Find A, if P = 126, r = 4 and n = 2.",
     "options": [
       "N132.50K",
       "N136.30K",
@@ -4402,7 +4402,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-84-430",
-    "questionText": "In how many ways can 6 subjects be selected from 10 subjects for an examination (JAMB 2007)",
+    "questionText": "In how many ways can 6 subjects be selected from 10 subjects for an examination",
     "options": [
       "218",
       "216",
@@ -4414,7 +4414,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-85-1110",
-    "questionText": "In how many ways can the letter of ZOOLOGY be arranged? (JAMB 2022)",
+    "questionText": "In how many ways can the letter of ZOOLOGY be arranged?",
     "options": [
       "720",
       "360",
@@ -4426,7 +4426,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-86-1173",
-    "questionText": "Solve the following quadratic inequality: x<sup>2</sup> − x - 4 ≤ 2 (JAMB 2023)",
+    "questionText": "Solve the following quadratic inequality: x<sup>2</sup> − x - 4 ≤ 2",
     "options": [
       "−3 < x < 2",
       "−2 ≤ x ≤ 3",
@@ -4438,7 +4438,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-87-225",
-    "questionText": "Find (1/0.06 ÷ 1/0.042\n)<sup>=1</sup> , correct to two decimal \nplaces (JAMB 2003)",
+    "questionText": "Find (1/0.06 ÷ 1/0.042\n)<sup>=1</sup> , correct to two decimal \nplaces",
     "options": [
       "1.43",
       "1.53",
@@ -4450,7 +4450,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-88-406",
-    "questionText": "The solution set of the shaded area above is (JAMB 2006)",
+    "questionText": "The solution set of the shaded area above is",
     "options": [
       "Y ≥ 0, y ≥ x and y + x ≤ 4",
       "Y ≤ x, y + x ≤ 4",
@@ -4462,7 +4462,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-89-266",
-    "questionText": "By how much is the mean of 30, 56, 31, 55, 43 and \n44 less than the median (JAMB 2003)",
+    "questionText": "By how much is the mean of 30, 56, 31, 55, 43 and \n44 less than the median",
     "options": [
       "0.50",
       "0.75",
@@ -4474,7 +4474,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-90-968",
-    "questionText": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die? (JAMB 2018)",
+    "questionText": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
     "options": [
       "1/16",
       "1/6",
@@ -4486,7 +4486,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-91-1132",
-    "questionText": "Factorize 4a<sub>2</sub> - 9b<sub>2</sub> (JAMB 2022)",
+    "questionText": "Factorize 4a<sub>2</sub> - 9b<sub>2</sub>",
     "options": [
       "(2a-3b) (2a+3b)",
       "(2a-b) (2a+3b)",
@@ -4498,7 +4498,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-92-499",
-    "questionText": "The locus of a point equidistant from two points p(6,2) and R(4,2) is a perpendicular bisector of PR passing through? (JAMB 2008)",
+    "questionText": "The locus of a point equidistant from two points p(6,2) and R(4,2) is a perpendicular bisector of PR passing through?",
     "options": [
       "(2,5)",
       "(5,2)",
@@ -4510,7 +4510,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-93-581",
-    "questionText": "From the diagram above, find x (JAMB 2010)",
+    "questionText": "From the diagram above, find x",
     "options": [
       "65°",
       "50°",
@@ -4522,7 +4522,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-94-167",
-    "questionText": "In the figure PQR a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75° and < QPT IS 25°. Calculate the value of < RST (JAMB 2001)",
+    "questionText": "In the figure PQR a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75° and < QPT IS 25°. Calculate the value of < RST",
     "options": [
       "50°",
       "25°",
@@ -4534,7 +4534,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-95-750",
-    "questionText": "Evaluate ∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx (JAMB 2012)",
+    "questionText": "Evaluate ∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx",
     "options": [
       "11/3",
       "3/11",
@@ -4546,7 +4546,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-96-219",
-    "questionText": "The venn diagram shows the number of students offering Music and History in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only? (JAMB 2002)",
+    "questionText": "The venn diagram shows the number of students offering Music and History in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
     "options": [
       "0.25",
       "0.38",
@@ -4558,7 +4558,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-97-1152",
-    "questionText": "Evaluate the following limit: lim <sub>(x→2)</sub> (x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> − 2x) (JAMB 2023)",
+    "questionText": "Evaluate the following limit: lim <sub>(x→2)</sub> (x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> − 2x)",
     "options": [
       "4",
       "8",
@@ -4570,7 +4570,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-98-462",
-    "questionText": "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0 (JAMB 2007)",
+    "questionText": "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0",
     "options": [
       "y - 2 = 0",
       "y - 4 = 0",
@@ -4594,7 +4594,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-100-504",
-    "questionText": "Find the minimum value of the function y = x(1+x) (JAMB 2008)",
+    "questionText": "Find the minimum value of the function y = x(1+x)",
     "options": [
       "-1/4",
       "-1/2",
@@ -4606,7 +4606,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-101-757",
-    "questionText": "In how many ways can the letters of the word TOTALITY be arranged? (JAMB 2012)",
+    "questionText": "In how many ways can the letters of the word TOTALITY be arranged?",
     "options": [
       "6720",
       "6270",
@@ -4618,7 +4618,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-102-1245",
-    "questionText": "A man with an annual salary of N2000, has allowances of N600. If Income Tax is 5%. How much income tax expenses does he pay each year? (JAMB 2015)",
+    "questionText": "A man with an annual salary of N2000, has allowances of N600. If Income Tax is 5%. How much income tax expenses does he pay each year?",
     "options": [
       "15",
       "50",
@@ -4630,7 +4630,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-103-149",
-    "questionText": "Differentiate (2x+5)<sup>2</sup>(x-4) with respect to x. (JAMB 2001)",
+    "questionText": "Differentiate (2x+5)<sup>2</sup>(x-4) with respect to x.",
     "options": [
       "4(2x+5)(x-4)",
       "4(2x+5)(4x-3)",
@@ -4642,7 +4642,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-104-614",
-    "questionText": "If y = x sinx, find dy/dx (JAMB 2010)",
+    "questionText": "If y = x sinx, find dy/dx",
     "options": [
       "sin x - x cosx",
       "sinx + x cosx",
@@ -4654,7 +4654,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-105-220",
-    "questionText": "Use the graph find the values of p and q if px + qy ≥\n 4 (JAMB 2002)",
+    "questionText": "Use the graph find the values of p and q if px + qy ≥\n 4",
     "options": [
       "p = 2, q = -1",
       "p = -1, q = 2",
@@ -4666,7 +4666,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-106-1277",
-    "questionText": "Evaluate log5(y<sup>2</sup>x<sup>5</sup>÷125b½) (JAMB 2015)",
+    "questionText": "Evaluate log5(y<sup>2</sup>x<sup>5</sup>÷125b½)",
     "options": [
       "2 log<sub>5</sub>y + 5log5 y<sup>2</sup> − 3",
       "log<sub>5</sub> y<sup>2</sup> + 5log<sub>5</sub> x + 3",
@@ -4678,7 +4678,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-107-30",
-    "questionText": "In a survey of 100 students in an institution, 80 students speak Yoruba, 22 speak Igbo, while 6 speak neither Igbo nor Yoruba. How many students speak Yoruba and Igbo?  (JAMB 2007)",
+    "questionText": "In a survey of 100 students in an institution, 80 students speak Yoruba, 22 speak Igbo, while 6 speak neither Igbo nor Yoruba. How many students speak Yoruba and Igbo?",
     "options": [
       "96",
       "8",
@@ -4690,7 +4690,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-108-623",
-    "questionText": "simolify (3 (2/3) × 5/6 ×2/3)/(11/15 × 3/4 × 2/27) (JAMB 2011)",
+    "questionText": "simolify (3 (2/3) × 5/6 ×2/3)/(11/15 × 3/4 × 2/27)",
     "options": [
       "5(2/3)",
       "30",
@@ -4702,7 +4702,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-109-598",
-    "questionText": "At what value of X does the function y = -3 - 2x + X2 attain a minimum value? (JAMB 2010)",
+    "questionText": "At what value of X does the function y = -3 - 2x + X2 attain a minimum value?",
     "options": [
       "-1",
       "14",
@@ -4714,7 +4714,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-110-174",
-    "questionText": "Simplify 52.4 - 5.7 - 3.45 - 1.75 (JAMB 2002)",
+    "questionText": "Simplify 52.4 - 5.7 - 3.45 - 1.75",
     "options": [
       "41.4",
       "41.5",
@@ -4726,7 +4726,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-111-360",
-    "questionText": "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is √2 (JAMB 2005)",
+    "questionText": "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is √2",
     "options": [
       "1",
       "2",
@@ -4738,7 +4738,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-112-447",
-    "questionText": "Evaluate ((05652)<sup>2</sup> - (04375)<sup>2</sup>)/0.04 correct to three significant figures (JAMB 2007)",
+    "questionText": "Evaluate ((05652)<sup>2</sup> - (04375)<sup>2</sup>)/0.04 correct to three significant figures",
     "options": [
       "3.11",
       "3.13",
@@ -4750,7 +4750,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-113-307",
-    "questionText": "Find P, if 451<sub>6</sub> - P<sub>7</sub> = 305<sub>6</sub> (JAMB 2004)",
+    "questionText": "Find P, if 451<sub>6</sub> - P<sub>7</sub> = 305<sub>6</sub>",
     "options": [
       "62<sub>7</sub>",
       "116<sub>7</sub>",
@@ -4762,7 +4762,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-114-743",
-    "questionText": "The angles of a polygon are given by x, 2x, 3x, 4x and 5x respectively. Find the value of x. (JAMB 2012)",
+    "questionText": "The angles of a polygon are given by x, 2x, 3x, 4x and 5x respectively. Find the value of x.",
     "options": [
       "24°",
       "30°",
@@ -4774,7 +4774,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-115-1167",
-    "questionText": "A bag contains 8 red balls and some white balls. If the probability of drawing a white ball is half of the probability of drawing a red ball then find the probability of drawing a red ball and a white ball if the balls are drawn without replacement. (JAMB 2023)",
+    "questionText": "A bag contains 8 red balls and some white balls. If the probability of drawing a white ball is half of the probability of drawing a red ball then find the probability of drawing a red ball and a white ball if the balls are drawn without replacement.",
     "options": [
       "1/3",
       "2/9",
@@ -4786,7 +4786,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-116-1087",
-    "questionText": "If g(x) = x2<sup>2</sup> + 3x  find g(x + 1) - g(x) (JAMB 2021)",
+    "questionText": "If g(x) = x2<sup>2</sup> + 3x  find g(x + 1) - g(x)",
     "options": [
       "(x + 2)",
       "2(x + 2)",
@@ -4798,7 +4798,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-117-327",
-    "questionText": "Evaluate ((〖81〗<sup>(3/4)</sup> -〖27〗<sup>(1/3)</sup>)))/(3×2^3 ) (JAMB 2005)",
+    "questionText": "Evaluate ((〖81〗<sup>(3/4)</sup> -〖27〗<sup>(1/3)</sup>)))/(3×2^3 )",
     "options": [
       "3",
       "1",
@@ -4810,7 +4810,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-118-626",
-    "questionText": "Simplify (16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup> (JAMB 2011)",
+    "questionText": "Simplify (16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup>",
     "options": [
       "2/3",
       "1/2",
@@ -4822,7 +4822,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-119-366",
-    "questionText": "The Venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only? (JAMB 2005)",
+    "questionText": "The Venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only?",
     "options": [
       "19",
       "6",
@@ -4834,7 +4834,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-120-944",
-    "questionText": "Two sisters, Taiwo and Kehinde, own a store. The ratio of Taiwo's share to Kehinde's is 11:9. Later Kehinde sells \\(\\frac{2}{3}\\) of her share to Taiwo for N720.00. Find the value of the store (JAMB 2018)",
+    "questionText": "Two sisters, Taiwo and Kehinde, own a store. The ratio of Taiwo's share to Kehinde's is 11:9. Later Kehinde sells \\(\\frac{2}{3}\\) of her share to Taiwo for N720.00. Find the value of the store",
     "options": [
       "N1,080.00",
       "N2,400.00",
@@ -4846,7 +4846,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-121-226",
-    "questionText": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit? (JAMB 2003)",
+    "questionText": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit?",
     "options": [
       "N2,160.00",
       "N1, 620.00",
@@ -4858,7 +4858,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-122-127",
-    "questionText": "Find the principal which amounts to N5,500 at a simple interest in 5 years at 2% per annum. (JAMB 2001)",
+    "questionText": "Find the principal which amounts to N5,500 at a simple interest in 5 years at 2% per annum.",
     "options": [
       "N4,900",
       "N5,000",
@@ -4870,7 +4870,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-123-117",
-    "questionText": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places  (JAMB 2000)",
+    "questionText": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places",
     "options": [
       "20.980",
       "20.351",
@@ -4882,7 +4882,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-124-603",
-    "questionText": "If x is inversely proportional to y and x = 2(1/2) when y = 2, find x if y = 4 (JAMB 2010)",
+    "questionText": "If x is inversely proportional to y and x = 2(1/2) when y = 2, find x if y = 4",
     "options": [
       "4",
       "5",
@@ -4894,7 +4894,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-125-352",
-    "questionText": "The radius r of a circular disc is increasing at the rate of 0.5cm/sec. At what rate is the area of the disc increasing when its radius is 6cm? (JAMB 2005)",
+    "questionText": "The radius r of a circular disc is increasing at the rate of 0.5cm/sec. At what rate is the area of the disc increasing when its radius is 6cm?",
     "options": [
       "36 π cm<sup>2</sup>/sec",
       "18 π cm<sup>2</sup>/sec",
@@ -4906,7 +4906,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-126-289",
-    "questionText": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested (JAMB 2004)",
+    "questionText": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested",
     "options": [
       "6000 tonnes",
       "1500 tonnes",
@@ -4918,7 +4918,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-127-1128",
-    "questionText": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)<sup>2</sup>, then find 3 * 5 (JAMB 2022)",
+    "questionText": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)<sup>2</sup>, then find 3 * 5",
     "options": [
       "223",
       "232",
@@ -4930,7 +4930,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-128-1183",
-    "questionText": "Find the area, to the nearest cm<sup>2</sup>, of the triangle whose sides are in the ratio 2 : 3 : 4 and whose perimeter is 180 cm. (JAMB 2023)",
+    "questionText": "Find the area, to the nearest cm<sup>2</sup>, of the triangle whose sides are in the ratio 2 : 3 : 4 and whose perimeter is 180 cm.",
     "options": [
       "1162 cm<sup>2</sup>",
       "1163 cm<sup>2</sup>",
@@ -4942,7 +4942,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-129-114",
-    "questionText": "In the diagram, EFGH is a circle centre O. FH is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH (JAMB 2000)",
+    "questionText": "In the diagram, EFGH is a circle centre O. FH is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH",
     "options": [
       "32cm",
       "26cm",
@@ -4954,7 +4954,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-130-251",
-    "questionText": "In the diagram PQR is a straight line and PS is a tangent to the circle < QRS with |PS| = |SR| and < SPR = 40°. Find PSQ (JAMB 2003)",
+    "questionText": "In the diagram PQR is a straight line and PS is a tangent to the circle < QRS with |PS| = |SR| and < SPR = 40°. Find PSQ",
     "options": [
       "20°",
       "40°",
@@ -4966,7 +4966,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-131-129",
-    "questionText": "Divide: ax<sup>3x</sup> - 26x<sup>2x</sup> + 156a<sup>x</sup> - 216 by a<sup>2x</sup> - 24a<sup>x</sup> + 108 (JAMB 2001)",
+    "questionText": "Divide: ax<sup>3x</sup> - 26x<sup>2x</sup> + 156a<sup>x</sup> - 216 by a<sup>2x</sup> - 24a<sup>x</sup> + 108",
     "options": [
       "a<sup>x</sup> - 2",
       "a<sup>x</sup> + 2",
@@ -4978,7 +4978,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-132-347",
-    "questionText": "Find the equation of the perpendicular at the point (4,3) to the line y + 2x = 5 (JAMB 2005)",
+    "questionText": "Find the equation of the perpendicular at the point (4,3) to the line y + 2x = 5",
     "options": [
       "2y - x = 4",
       "y + 2x = 3",
@@ -4990,7 +4990,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-133-468",
-    "questionText": "The sum of the ages of Musa and Lawal is 28 years. After sharing a certain sum of money in the ratio of their ages, Musa gets N600 and Lawal N800. How old is Lawal? (JAMB 2007)",
+    "questionText": "The sum of the ages of Musa and Lawal is 28 years. After sharing a certain sum of money in the ratio of their ages, Musa gets N600 and Lawal N800. How old is Lawal?",
     "options": [
       "14 years",
       "20 years",
@@ -5002,7 +5002,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-134-124",
-    "questionText": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq) (JAMB 2001)",
+    "questionText": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq)",
     "options": [
       "2(2+√2)",
       "-2(2+√2)",
@@ -5014,7 +5014,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-135-1077",
-    "questionText": "A cylinder pipe, made of metal is 3cm thick.If the internal radius of the pipe is 10cm.Find the volume of metal used in making 3m of the pipe. (JAMB 2021)",
+    "questionText": "A cylinder pipe, made of metal is 3cm thick.If the internal radius of the pipe is 10cm.Find the volume of metal used in making 3m of the pipe.",
     "options": [
       "153π cm<sup>3</sup>",
       "207π cm<sup>3</sup>",
@@ -5026,7 +5026,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-136-165",
-    "questionText": "The bar chart above shows different colours of passing a particular point of a certain street in two minutes. What fraction of the total number of cars is yellow? (JAMB 2001)",
+    "questionText": "The bar chart above shows different colours of passing a particular point of a certain street in two minutes. What fraction of the total number of cars is yellow?",
     "options": [
       "3/25",
       "2/25",
@@ -5038,7 +5038,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-137-742",
-    "questionText": "Given that I<sub>3</sub>  is a unit matrix of order 3, find |I<sub>3</sub> | (JAMB 2012)",
+    "questionText": "Given that I<sub>3</sub>  is a unit matrix of order 3, find |I<sub>3</sub> |",
     "options": [
       "-1",
       "0",
@@ -5062,7 +5062,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-139-777",
-    "questionText": "if P = {x:x is odd, −1<x≤20\n} and Q is {y:y is prime, −2 < y ≤ 25, find P ∩ Q (JAMB 2013)",
+    "questionText": "if P = {x:x is odd, −1<x≤20\n} and Q is {y:y is prime, −2 < y ≤ 25, find P ∩ Q",
     "options": [
       "{3,5,7,11,17,19}",
       "{3,5,11,13,17,19}",
@@ -5074,7 +5074,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-140-369",
-    "questionText": "The histogram above shows the distribution of the distribution of the monthly incomes of the workers in a company. How many workers earn more than N700.000? (JAMB 2005)",
+    "questionText": "The histogram above shows the distribution of the distribution of the monthly incomes of the workers in a company. How many workers earn more than N700.000?",
     "options": [
       "16",
       "12",
@@ -5098,7 +5098,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-142-288",
-    "questionText": "An unbiased die is rolled 100 times and the outcome is tabulated above.\nWhat is the probability of obtaining a 5?\n (JAMB 2004)",
+    "questionText": "An unbiased die is rolled 100 times and the outcome is tabulated above.\nWhat is the probability of obtaining a 5?\n",
     "options": [
       "1/5",
       "1/2",
@@ -5110,7 +5110,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-143-1106",
-    "questionText": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gift+B10s(g), savings(s) and some B28miscellaneous (m) as indicate in the table below:                 If the above information is represented on a pie chart. What angle represents his spending on food? (JAMB 2022)",
+    "questionText": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gift+B10s(g), savings(s) and some B28miscellaneous (m) as indicate in the table below:                 If the above information is represented on a pie chart. What angle represents his spending on food?",
     "options": [
       "108.5",
       "100.8",
@@ -5122,7 +5122,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-144-670",
-    "questionText": "In a class of 60 students, 30 offers physics and 40 offers chemistry. If a students is picked at random from the class, what is the probability that the student offer both physics and Chemistry? (JAMB 2011)",
+    "questionText": "In a class of 60 students, 30 offers physics and 40 offers chemistry. If a students is picked at random from the class, what is the probability that the student offer both physics and Chemistry?",
     "options": [
       "1/2",
       "1/6",
@@ -5134,7 +5134,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-145-616",
-    "questionText": "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women? (JAMB 2010)",
+    "questionText": "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women?",
     "options": [
       "100",
       "200",
@@ -5146,7 +5146,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-146-1226",
-    "questionText": "The table above represents the outcome of throwing a die 100 times. What is the probability of obtaining at least a 4? (JAMB 2014)",
+    "questionText": "The table above represents the outcome of throwing a die 100 times. What is the probability of obtaining at least a 4?",
     "options": [
       "1/5",
       "1/2",
@@ -5170,7 +5170,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-148-1193",
-    "questionText": "Simplify  (2√2-√3)/(√2+√3) (JAMB 2014)",
+    "questionText": "Simplify  (2√2-√3)/(√2+√3)",
     "options": [
       "3√6-7",
       "3√6-+7",
@@ -5182,7 +5182,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-149-101",
-    "questionText": "\nIf the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation. (JAMB 2000)",
+    "questionText": "\nIf the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation.",
     "options": [
       "0",
       "2",
@@ -5194,7 +5194,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-150-755",
-    "questionText": "Find the standard deviation of 2,3,8,10 and 12 (JAMB 2012)",
+    "questionText": "Find the standard deviation of 2,3,8,10 and 12",
     "options": [
       "3.9",
       "4.9",
@@ -5206,7 +5206,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-151-213",
-    "questionText": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only? (JAMB 2002)",
+    "questionText": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
     "options": [
       "0.38",
       "0.13",
@@ -5218,7 +5218,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-152-473",
-    "questionText": "If 125<sub>x</sub>  = 20<sub>10</sub>  find x (JAMB 2008)",
+    "questionText": "If 125<sub>x</sub>  = 20<sub>10</sub>  find x",
     "options": [
       "2",
       "3",
@@ -5230,7 +5230,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-153-562",
-    "questionText": "5, 8, 6 and k occur with frequency 3, 2, 4, and 1 respectively and have a mean of 5.7. Find the value of k? (JAMB 2009)",
+    "questionText": "5, 8, 6 and k occur with frequency 3, 2, 4, and 1 respectively and have a mean of 5.7. Find the value of k?",
     "options": [
       "4",
       "3",
@@ -5242,7 +5242,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-154-1111",
-    "questionText": "Integrate (2x+1)<sup>3</sup> (JAMB 2022)",
+    "questionText": "Integrate (2x+1)<sup>3</sup>",
     "options": [
       "2x+1<sup>3</sup>/8 + C",
       "2x+1<sup>4</sup>/8 + C",
@@ -5254,7 +5254,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-155-491",
-    "questionText": "A binary operation * is defined on the set of positive integers is such x*y = 2x-3y+2 for all positive integers x and y. The binary operation is? (JAMB 2008)",
+    "questionText": "A binary operation * is defined on the set of positive integers is such x*y = 2x-3y+2 for all positive integers x and y. The binary operation is?",
     "options": [
       "commutative and close on the set of positive integers",
       "neither commutative nor closed on the set of positive integers",
@@ -5266,7 +5266,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-156-511",
-    "questionText": "If x > 0, find the range of number x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x and 3x+1 (JAMB 2008)",
+    "questionText": "If x > 0, find the range of number x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x and 3x+1",
     "options": [
       "3x+3",
       "3x+1",
@@ -5278,7 +5278,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-157-436",
-    "questionText": "The graph above is represented by (JAMB 2007)",
+    "questionText": "The graph above is represented by",
     "options": [
       "y = x<sup>3</sup> - 3x - 2",
       "y = x<sup>3</sup> + 2x<sup>2</sup> - x - 2",
@@ -5290,7 +5290,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-158-1256",
-    "questionText": "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point (JAMB 2015)",
+    "questionText": "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point",
     "options": [
       "2, ½",
       "½ , 2",
@@ -5302,7 +5302,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-159-1222",
-    "questionText": " (JAMB 2014)",
+    "questionText": "",
     "options": [
       "None of the above",
       "All of the above",
@@ -5313,7 +5313,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-160-481",
-    "questionText": "If X = {n<sup>2</sup>\n + 1:n = 0,2,3} and Y = {n+1:n=2,3,5}, find X∩Y. (JAMB 2008)",
+    "questionText": "If X = {n<sup>2</sup>\n + 1:n = 0,2,3} and Y = {n+1:n=2,3,5}, find X∩Y.",
     "options": [
       "{1,3}",
       "{5,10}",
@@ -5325,7 +5325,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-161-1285",
-    "questionText": "Given that Z = {1,2,4,5} what is the power of set Z? (JAMB 2015)",
+    "questionText": "Given that Z = {1,2,4,5} what is the power of set Z?",
     "options": [
       "16",
       "8",
@@ -5337,7 +5337,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-162-921",
-    "questionText": "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is N7200? (JAMB 2018)",
+    "questionText": "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is N7200?",
     "options": [
       "1000",
       "2000",
@@ -5349,7 +5349,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-163-933",
-    "questionText": "p = [(Q(R - T)/(15))]<sup>1/3</sup> (JAMB 2018)",
+    "questionText": "p = [(Q(R - T)/(15))]<sup>1/3</sup>",
     "options": [
       "T = (R+P3)/15Q",
       "T = (R-15P<sup>3</sup>)/Q",
@@ -5361,7 +5361,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-164-610",
-    "questionText": "A cylindrical pipe 50m long with radius 7m has one end open. What is the total surface area of the pipe?\n (JAMB 2010)",
+    "questionText": "A cylindrical pipe 50m long with radius 7m has one end open. What is the total surface area of the pipe?\n",
     "options": [
       "749πm<sup>2</sup>",
       "700πm<sup>2</sup>",
@@ -5373,7 +5373,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-165-204",
-    "questionText": "The locus of a point P which is equidistant from two given points S and T is (JAMB 2002)",
+    "questionText": "The locus of a point P which is equidistant from two given points S and T is",
     "options": [
       "the perpendicular bisector of ST",
       "the angle bisector of PS and ST",
@@ -5385,7 +5385,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-166-301",
-    "questionText": "The nth term of two sequences are Q<sub>n</sub> = 3 . 2<sup>n - 2</sup> and U<sub>m</sub> = 3 . 2<sup>2m - 3</sup>. Find the product of Q<sub>2</sub> and U<sub>2</sub>. (JAMB 2004)",
+    "questionText": "The nth term of two sequences are Q<sub>n</sub> = 3 . 2<sup>n - 2</sup> and U<sub>m</sub> = 3 . 2<sup>2m - 3</sup>. Find the product of Q<sub>2</sub> and U<sub>2</sub>.",
     "options": [
       "18",
       "12",
@@ -5397,7 +5397,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-167-34",
-    "questionText": "A. cylinder has height 4cm and base radius 5cm.its volume to 3 significant figure is   (JAMB 2008)",
+    "questionText": "A. cylinder has height 4cm and base radius 5cm.its volume to 3 significant figure is",
     "options": [
       "314.2cm2",
       "31.42 cm2",
@@ -5409,7 +5409,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-168-835",
-    "questionText": "Factorize k<sup>2</sup> - 2kp + p<sup>2</sup> (JAMB 2016)",
+    "questionText": "Factorize k<sup>2</sup> - 2kp + p<sup>2</sup>",
     "options": [
       "(k +p)<sup>2</sup>",
       "(k - p)<sup>2</sup>",
@@ -5421,7 +5421,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-169-305",
-    "questionText": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive? (JAMB 2004)",
+    "questionText": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive?",
     "options": [
       "8/15",
       "11/25",
@@ -5433,7 +5433,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-170-980",
-    "questionText": "In how many ways can the word MATHEMATICIAN be arranged? (JAMB 2019)",
+    "questionText": "In how many ways can the word MATHEMATICIAN be arranged?",
     "options": [
       "6794800 ways",
       "2664910 ways",
@@ -5445,7 +5445,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-171-1155",
-    "questionText": "If D = [241−11−3321]\nFind |D| (JAMB 2023)",
+    "questionText": "If D = [241−11−3321]\nFind |D|",
     "options": [
       "16",
       "14",
@@ -5469,7 +5469,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-173-748",
-    "questionText": "If angle θ is 135°, evaluate cosθ (JAMB 2012)",
+    "questionText": "If angle θ is 135°, evaluate cosθ",
     "options": [
       "1/2",
       "√2/2",
@@ -5481,7 +5481,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-174-465",
-    "questionText": "Find the value of (tan60°-tan30°)/(tan60°+tan 30° ) (JAMB 2007)",
+    "questionText": "Find the value of (tan60°-tan30°)/(tan60°+tan 30° )",
     "options": [
       "4/√3",
       "2/√3",
@@ -5493,7 +5493,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-175-952",
-    "questionText": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/ (JAMB 2018)",
+    "questionText": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/",
     "options": [
       "32 cm",
       "24 cm",
@@ -5505,7 +5505,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-176-962",
-    "questionText": "Given that Sin (5x − 28)° = Cos(3x − 50)°, 0 < x < 90°\n\nFind the value °f x (JAMB 2018)",
+    "questionText": "Given that Sin (5x − 28)° = Cos(3x − 50)°, 0 < x < 90°\n\nFind the value °f x",
     "options": [
       "14°",
       "21°",
@@ -5517,7 +5517,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-177-320",
-    "questionText": "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested? (JAMB 2004)",
+    "questionText": "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?",
     "options": [
       "9000 tonnes",
       "6000 tonnes",
@@ -5529,7 +5529,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-178-584",
-    "questionText": "An arc subtends an angle of 50o at the center of circle of radius 6cm. Calculate the area of the sector formed (JAMB 2010)",
+    "questionText": "An arc subtends an angle of 50o at the center of circle of radius 6cm. Calculate the area of the sector formed",
     "options": [
       "100/7",
       "80/7",
@@ -5541,7 +5541,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-179-26",
-    "questionText": "How long will take a sum of money invested at 8% simple interest to double the original sum?  (JAMB 2007)",
+    "questionText": "How long will take a sum of money invested at 8% simple interest to double the original sum?",
     "options": [
       "8 years",
       "10.5years",
@@ -5565,7 +5565,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-181-664",
-    "questionText": "Find the derivative of sinθ/cosθ (JAMB 2011)",
+    "questionText": "Find the derivative of sinθ/cosθ",
     "options": [
       "sec<sup>2</sup> θ",
       "tan θ cosec θ",
@@ -5577,7 +5577,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-182-484",
-    "questionText": "If 2x<sup>2</sup>\n - kx - 12 is divisible by x-4, Find the value of k (JAMB 2008)",
+    "questionText": "If 2x<sup>2</sup>\n - kx - 12 is divisible by x-4, Find the value of k",
     "options": [
       "4",
       "5",
@@ -5589,7 +5589,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-183-582",
-    "questionText": "From the cyclic quadrilateral TUVW above, find the value of x (JAMB 2010)",
+    "questionText": "From the cyclic quadrilateral TUVW above, find the value of x",
     "options": [
       "26°",
       "24°",
@@ -5601,7 +5601,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-184-249",
-    "questionText": "The histogram above shows the ages of the victims of a pollution. How many people were involved in the pollution? (JAMB 2003)",
+    "questionText": "The histogram above shows the ages of the victims of a pollution. How many people were involved in the pollution?",
     "options": [
       "15",
       "18",
@@ -5613,7 +5613,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-185-1175",
-    "questionText": "The locus of a point equidistant from two intersecting lines is (JAMB 2023)",
+    "questionText": "The locus of a point equidistant from two intersecting lines is",
     "options": [
       "where the sum of the distances of two focal points is fixed",
       "the collection of points that are equally distant from a fixed point and a line",
@@ -5625,7 +5625,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-186-194",
-    "questionText": "If x varies directly as √n and x = 9 when n = 9, find x when n = (17/9) (JAMB 2002)",
+    "questionText": "If x varies directly as √n and x = 9 when n = 9, find x when n = (17/9)",
     "options": [
       "4",
       "27",
@@ -5637,7 +5637,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-187-208",
-    "questionText": "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart? (JAMB 2002)",
+    "questionText": "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart?",
     "options": [
       "108°",
       "180°",
@@ -5649,7 +5649,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-188-509",
-    "questionText": "What is the mean of the data t, 2t-1, t-2, 2t-1, 4t and 2t+2? (JAMB 2008)",
+    "questionText": "What is the mean of the data t, 2t-1, t-2, 2t-1, 4t and 2t+2?",
     "options": [
       "2t",
       "2t-1",
@@ -5661,7 +5661,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-189-388",
-    "questionText": "Calculate the logarithm to base 9 of 3<sup>-4</sup> * 9<sup>2</sup> * (81)<sup>-1</sup> (JAMB 2006)",
+    "questionText": "Calculate the logarithm to base 9 of 3<sup>-4</sup> * 9<sup>2</sup> * (81)<sup>-1</sup>",
     "options": [
       "2",
       "0",
@@ -5673,7 +5673,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-190-376",
-    "questionText": "Find the variance of 2x, 2x-1 and 2x+1 (JAMB 2006)",
+    "questionText": "Find the variance of 2x, 2x-1 and 2x+1",
     "options": [
       "2/3",
       "2",
@@ -5685,7 +5685,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-191-988",
-    "questionText": "If given two points A(3, 12) and B(5, 22) on a x-y plane. Find the equation of the straight line with intercept at 2. (JAMB 2019)",
+    "questionText": "If given two points A(3, 12) and B(5, 22) on a x-y plane. Find the equation of the straight line with intercept at 2.",
     "options": [
       "y = 5x + 2",
       "y = 5x + 3",
@@ -5697,7 +5697,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-192-993",
-    "questionText": "if f(x)=3x<sup>3</sup>+4x<sup>2</sup>+x - 8, what is the value of f(-2)? (JAMB 2019)",
+    "questionText": "if f(x)=3x<sup>3</sup>+4x<sup>2</sup>+x - 8, what is the value of f(-2)?",
     "options": [
       "-24",
       "30",
@@ -5709,7 +5709,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-193-1184",
-    "questionText": "Find the compound interest (CI) on ₦15,700 for 2 years at 8% per annum compounded annually. (JAMB 2023)",
+    "questionText": "Find the compound interest (CI) on ₦15,700 for 2 years at 8% per annum compounded annually.",
     "options": [
       "₦6,212.48",
       "₦2,834.48",
@@ -5721,7 +5721,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-194-365",
-    "questionText": "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) ≥ 0.\n  (JAMB 2005)",
+    "questionText": "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) ≥ 0.\n",
     "options": [
       "x ≥ 2",
       "0 ≥ x ≥ 2",
@@ -5733,7 +5733,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-195-770",
-    "questionText": "Convert 27<sub>10</sub>  to another number in base three (JAMB 2013)",
+    "questionText": "Convert 27<sub>10</sub>  to another number in base three",
     "options": [
       "1001<sub>3</sub>",
       "1010<sub>3</sub>",
@@ -5745,7 +5745,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-196-612",
-    "questionText": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5). (JAMB 2010)",
+    "questionText": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5).",
     "options": [
       "3",
       "2",
@@ -5769,7 +5769,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-198-238",
-    "questionText": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio (JAMB 2003)",
+    "questionText": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio",
     "options": [
       "1/4",
       "1/2",
@@ -5781,7 +5781,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-199-387",
-    "questionText": "If m:n = 13:111, find m<sup>2</sup> - n<sup>2</sup> : (m + n)<sup>2</sup> (JAMB 2006)",
+    "questionText": "If m:n = 13:111, find m<sup>2</sup> - n<sup>2</sup> : (m + n)<sup>2</sup>",
     "options": [
       "1:11",
       "1:13",
@@ -5793,7 +5793,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-200-264",
-    "questionText": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and ∠SPR = 40o. Find ∠PSQ (JAMB 2003)",
+    "questionText": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and ∠SPR = 40o. Find ∠PSQ",
     "options": [
       "40°",
       "30°",
@@ -5805,7 +5805,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-201-102",
-    "questionText": "Given that the various faces of a fair dice 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f).\nIf a pie chart is used to depict the data, the angle corresponding to 4 is? (JAMB 2000)",
+    "questionText": "Given that the various faces of a fair dice 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f).\nIf a pie chart is used to depict the data, the angle corresponding to 4 is?",
     "options": [
       "10°",
       "16°",
@@ -5817,7 +5817,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-202-1233",
-    "questionText": "The pie chart above shows the monthly distribution of a man's salary on food items. If he spent N8,000 on rice, how much did he spent on yam? (JAMB 2014)",
+    "questionText": "The pie chart above shows the monthly distribution of a man's salary on food items. If he spent N8,000 on rice, how much did he spent on yam?",
     "options": [
       "N42,000",
       "N18,000",
@@ -5841,7 +5841,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-204-833",
-    "questionText": "Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1. (JAMB 2016)",
+    "questionText": "Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1.",
     "options": [
       "32",
       "36",
@@ -5853,7 +5853,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-205-865",
-    "questionText": "The bar chart above shows the marks obtained by students in a mathematics test.\nHow many students in all took the test? (JAMB 2016)",
+    "questionText": "The bar chart above shows the marks obtained by students in a mathematics test.\nHow many students in all took the test?",
     "options": [
       "40",
       "30",
@@ -5865,7 +5865,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-206-1125",
-    "questionText": "Evaluate <sup>n</sup><sup>2 </sup> + <sup>1</sup>C<sub>(n+5)</sub> \n if n = 3  (JAMB 2022)",
+    "questionText": "Evaluate <sup>n</sup><sup>2 </sup> + <sup>1</sup>C<sub>(n+5)</sub> \n if n = 3",
     "options": [
       "55",
       "45",
@@ -5877,7 +5877,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-207-126",
-    "questionText": "If x = y/2, evaluate (x<sup>2</sup> / y<sup>2</sup> + 1/2) / (1/2 - x<sup>2</sup> / y<sup>2</sup>) (JAMB 2001)",
+    "questionText": "If x = y/2, evaluate (x<sup>2</sup> / y<sup>2</sup> + 1/2) / (1/2 - x<sup>2</sup> / y<sup>2</sup>)",
     "options": [
       "5/8",
       "5/2",
@@ -5889,7 +5889,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-208-325",
-    "questionText": "If the interest on N150.00 for 2(1/2) years is N4.50, find the interest on N250.00 for 6 months at the same rate (JAMB 2005)",
+    "questionText": "If the interest on N150.00 for 2(1/2) years is N4.50, find the interest on N250.00 for 6 months at the same rate",
     "options": [
       "N1.50",
       "N7.50",
@@ -5901,7 +5901,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-209-69",
-    "questionText": "If  are the roots of equation 6 +5x –x2 =0, find  x (JAMB 2013)",
+    "questionText": "If  are the roots of equation 6 +5x –x2 =0, find  x",
     "options": [
       "11",
       "-11",
@@ -5913,7 +5913,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-210-309",
-    "questionText": "Evaluate  (1/10×2/3+1/4)/((1/2)/(3/5)-1/4) (JAMB 2004)",
+    "questionText": "Evaluate  (1/10×2/3+1/4)/((1/2)/(3/5)-1/4)",
     "options": [
       "7/12",
       "19/35",
@@ -5925,7 +5925,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-211-261",
-    "questionText": "In the diagram above, PQ is parallel to RS. What is the value of α + β + γ? (JAMB 2003)",
+    "questionText": "In the diagram above, PQ is parallel to RS. What is the value of α + β + γ?",
     "options": [
       "360°",
       "200°",
@@ -5937,7 +5937,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-212-854",
-    "questionText": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km? (JAMB 2016)",
+    "questionText": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?",
     "options": [
       "720 litres",
       "160 litres",
@@ -5949,7 +5949,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-213-890",
-    "questionText": "In the figure, find x (JAMB 2017)",
+    "questionText": "In the figure, find x",
     "options": [
       "40°",
       "55°",
@@ -5961,7 +5961,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-214-1156",
-    "questionText": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree. (JAMB 2023)",
+    "questionText": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree.",
     "options": [
       "217<sup>o</sup>",
       "323<sup>o</sup>",
@@ -5973,7 +5973,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-215-897",
-    "questionText": "The pie chart shows the allocation of money to each sector in a farm. The total amount allocated to the farm is ₦ 80 000. Find the amount allocated to fertilizer (JAMB 2017)",
+    "questionText": "The pie chart shows the allocation of money to each sector in a farm. The total amount allocated to the farm is ₦ 80 000. Find the amount allocated to fertilizer",
     "options": [
       "₦ 35, 000",
       "₦ 40,000",
@@ -5985,7 +5985,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-216-784",
-    "questionText": "Solve for x: |x - 2| < 3 (JAMB 2013)",
+    "questionText": "Solve for x: |x - 2| < 3",
     "options": [
       "x < 5",
       "-2 < x < 3",
@@ -5997,7 +5997,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-217-1268",
-    "questionText": "If (159.75)10 = (x)6. Find x (JAMB 2015)",
+    "questionText": "If (159.75)10 = (x)6. Find x",
     "options": [
       "x<sub>6</sub> = 123.34<sub>6</sub>",
       "x<sub>6</sub> = 424.5<sub>6</sub>",
@@ -6009,7 +6009,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-218-973",
-    "questionText": "In a class of 50 students, 40 students offered Physics and 30 offered Biology. How many offered both Physics and Biology? (JAMB 2019)",
+    "questionText": "In a class of 50 students, 40 students offered Physics and 30 offered Biology. How many offered both Physics and Biology?",
     "options": [
       "42",
       "20",
@@ -6021,7 +6021,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-219-476",
-    "questionText": "calculate the simple interest on N7,500 for 8 years at 5% per annum. (JAMB 2008)",
+    "questionText": "calculate the simple interest on N7,500 for 8 years at 5% per annum.",
     "options": [
       "N3,000",
       "N600",
@@ -6033,7 +6033,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-220-622",
-    "questionText": "If 2q3<sub>5</sub>  = 77<sub>8</sub> , find q (JAMB 2011)",
+    "questionText": "If 2q3<sub>5</sub>  = 77<sub>8</sub> , find q",
     "options": [
       "2",
       "1",
@@ -6045,7 +6045,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-221-507",
-    "questionText": "On a pie chart there are six sectors of which four angles are 30°, 45°, 60°, 90° and the remaining two angles are in the ratio 2:1. Find the smallest angles of the remaining two angles. (JAMB 2008)",
+    "questionText": "On a pie chart there are six sectors of which four angles are 30°, 45°, 60°, 90° and the remaining two angles are in the ratio 2:1. Find the smallest angles of the remaining two angles.",
     "options": [
       "15°",
       "30°",
@@ -6057,7 +6057,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-222-646",
-    "questionText": "A chord of circle of radius 7cm is 5cm from the centre of the circle.What is the length of the chord? (JAMB 2011)",
+    "questionText": "A chord of circle of radius 7cm is 5cm from the centre of the circle.What is the length of the chord?",
     "options": [
       "4√6 cm",
       "3√6 cm",
@@ -6069,7 +6069,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-223-840",
-    "questionText": "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio of 2:3:5 respectively. If Bisi got 5, how many were shared out? (JAMB 2016)",
+    "questionText": "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio of 2:3:5 respectively. If Bisi got 5, how many were shared out?",
     "options": [
       "15",
       "25",
@@ -6081,7 +6081,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-224-236",
-    "questionText": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality (JAMB 2003)",
+    "questionText": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality",
     "options": [
       "60",
       "30",
@@ -6093,7 +6093,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-225-19",
-    "questionText": "A square tile measures 20cm by 20cm. How many of such tiles will cover a floor measuring 5m by 4m?  (JAMB 2007)",
+    "questionText": "A square tile measures 20cm by 20cm. How many of such tiles will cover a floor measuring 5m by 4m?",
     "options": [
       "500",
       "400",
@@ -6105,7 +6105,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-226-1065",
-    "questionText": "Find the derivative of the function y = 2x<sup>2</sup>(2x - 1) at the point x = -1? (JAMB 2021)",
+    "questionText": "Find the derivative of the function y = 2x<sup>2</sup>(2x - 1) at the point x = -1?",
     "options": [
       "18",
       "16",
@@ -6117,7 +6117,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-227-567",
-    "questionText": "What value of x will make the function x(4 - x) a maximum? (JAMB 2009)",
+    "questionText": "What value of x will make the function x(4 - x) a maximum?",
     "options": [
       "4",
       "3",
@@ -6129,7 +6129,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-228-978",
-    "questionText": "if 6x<sup>3</sup>+2x<sup>2</sup>-5x+1 divides x<sup>2</sup>−x−1\n, find the remainder.\n (JAMB 2019)",
+    "questionText": "if 6x<sup>3</sup>+2x<sup>2</sup>-5x+1 divides x<sup>2</sup>−x−1\n, find the remainder.\n",
     "options": [
       "9x + 9",
       "2x + 6",
@@ -6141,7 +6141,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-229-467",
-    "questionText": "If y = (1 + x)<sup>2</sup>, find dy/dx (JAMB 2007)",
+    "questionText": "If y = (1 + x)<sup>2</sup>, find dy/dx",
     "options": [
       "x - 1",
       "2 + 2x",
@@ -6153,7 +6153,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-230-1081",
-    "questionText": "Two numbers are removed at random from the numbers 1, 2, 3 and 4. What is the probability that the sum of the numbers removed is even? (JAMB 2021)",
+    "questionText": "Two numbers are removed at random from the numbers 1, 2, 3 and 4. What is the probability that the sum of the numbers removed is even?",
     "options": [
       "2/3",
       "1/2",
@@ -6165,7 +6165,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-231-945",
-    "questionText": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room. (JAMB 2018)",
+    "questionText": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room.",
     "options": [
       "15/17",
       "9/17",
@@ -6177,7 +6177,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-232-812",
-    "questionText": "Find the equation of the perpendicular bisector of the line joining P(2, -3) to Q(-5, 1) (JAMB 2013)",
+    "questionText": "Find the equation of the perpendicular bisector of the line joining P(2, -3) to Q(-5, 1)",
     "options": [
       "8y + 14x + 13 = 0",
       "8y - 14x + 13 = 0",
@@ -6189,7 +6189,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-233-445",
-    "questionText": "Find y, if √12-√147+y√3=0 (JAMB 2007)",
+    "questionText": "Find y, if √12-√147+y√3=0",
     "options": [
       "5",
       "1",
@@ -6201,7 +6201,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-234-257",
-    "questionText": "The result of tossing a fair die 120 times is summarized above. Find the value of x (JAMB 2003)",
+    "questionText": "The result of tossing a fair die 120 times is summarized above. Find the value of x",
     "options": [
       "19",
       "20",
@@ -6213,7 +6213,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-235-917",
-    "questionText": "From the diagram above, find the value of x (JAMB 2017)",
+    "questionText": "From the diagram above, find the value of x",
     "options": [
       "15°",
       "45°",
@@ -6225,7 +6225,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-236-70",
-    "questionText": "Solve the equation  = 25x+4  (JAMB 2013)",
+    "questionText": "Solve the equation  = 25x+4",
     "options": [
       "-4, 2",
       "-4,-2",
@@ -6237,7 +6237,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-237-906",
-    "questionText": "The operation * on the set R of real number is defined by x * y = 3x + 2y − 1, find 3* − 1 (JAMB 2017)",
+    "questionText": "The operation * on the set R of real number is defined by x * y = 3x + 2y − 1, find 3* − 1",
     "options": [
       "9",
       "-9",
@@ -6249,7 +6249,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-238-209",
-    "questionText": "How many three-digit numbers can be formed from 32564 without repeating any of the digits? (JAMB 2002)",
+    "questionText": "How many three-digit numbers can be formed from 32564 without repeating any of the digits?",
     "options": [
       "120",
       "10",
@@ -6261,7 +6261,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-239-1005",
-    "questionText": "The weight of a day-old chick was measured to be 0.21g. If the actual weight of the chick is 0.18g, what was the percentage error in the measurement? (JAMB 2019)",
+    "questionText": "The weight of a day-old chick was measured to be 0.21g. If the actual weight of the chick is 0.18g, what was the percentage error in the measurement?",
     "options": [
       "15.5%",
       "18.2%",
@@ -6273,7 +6273,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-240-1172",
-    "questionText": "Let a binary operation '*' be defined on a set A. The operation will be commutative if (JAMB 2023)",
+    "questionText": "Let a binary operation '*' be defined on a set A. The operation will be commutative if",
     "options": [
       "a*b = b*a",
       "(a*b)*c = a*(b*c)",
@@ -6285,7 +6285,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-241-641",
-    "questionText": "A binary operation ⊕ on real numbers is defined by x ⊕ y = xy + x + y for two real numbers x and y. Find the value of 3 ⊕ -2/3\n. (JAMB 2011)",
+    "questionText": "A binary operation ⊕ on real numbers is defined by x ⊕ y = xy + x + y for two real numbers x and y. Find the value of 3 ⊕ -2/3\n.",
     "options": [
       "- 1/2",
       "1/3",
@@ -6297,7 +6297,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-242-1121",
-    "questionText": "Calculate the median of 14, 17, 10, 13, 18 and 10 (JAMB 2022)",
+    "questionText": "Calculate the median of 14, 17, 10, 13, 18 and 10",
     "options": [
       "12.5",
       "13.5",
@@ -6309,7 +6309,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-243-141",
-    "questionText": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle. (JAMB 2001)",
+    "questionText": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
     "options": [
       "6",
       "2",
@@ -6333,7 +6333,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-245-576",
-    "questionText": " Factorize completely (x<sup>3</sup>+3x<sup>2</sup>-10x)/(2x<sup>2</sup>-8) (JAMB 2010)",
+    "questionText": " Factorize completely (x<sup>3</sup>+3x<sup>2</sup>-10x)/(2x<sup>2</sup>-8)",
     "options": [
       "x(x-5)/2(x+2)",
       "x(x-5)/2(x-2)",
@@ -6345,7 +6345,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-246-1258",
-    "questionText": "Simplify (0.09)<sup>2</sup> and give your answer correct to 4 significant figures (JAMB 2015)",
+    "questionText": "Simplify (0.09)<sup>2</sup> and give your answer correct to 4 significant figures",
     "options": [
       "0.81",
       "0.081",
@@ -6369,7 +6369,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-248-1274",
-    "questionText": "If an investor invest N450,000 in a certain organization in order to yield X as a return of N25,000. Find the return on an investment of N700,000 by Y in the same organization. (JAMB 2015)",
+    "questionText": "If an investor invest N450,000 in a certain organization in order to yield X as a return of N25,000. Find the return on an investment of N700,000 by Y in the same organization.",
     "options": [
       "N14,950.50K",
       "N25,150.30K",
@@ -6381,7 +6381,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-249-1090",
-    "questionText": "What is the n-th term of the sequence 2, 6, 12, 20...? (JAMB 2021)",
+    "questionText": "What is the n-th term of the sequence 2, 6, 12, 20...?",
     "options": [
       "4n - 2",
       "2(3<sup>(n - 1)</sup>)",
@@ -6393,7 +6393,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-250-54",
-    "questionText": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium   (JAMB 2009)",
+    "questionText": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium",
     "options": [
       "3/5",
       "2/5",
@@ -6405,7 +6405,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-251-775",
-    "questionText": "If log<sub>10</sub> 4 = 0.6021, evaluate log<sub>10</sub> 4<sup>1/3</sup> (JAMB 2013)",
+    "questionText": "If log<sub>10</sub> 4 = 0.6021, evaluate log<sub>10</sub> 4<sup>1/3</sup>",
     "options": [
       "0.3011",
       "0.9021",
@@ -6417,7 +6417,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-252-780",
-    "questionText": "The remainder when 6p3 - p<sup>2</sup> - 47p + 30 is divided by p - 3 is (JAMB 2013)",
+    "questionText": "The remainder when 6p3 - p<sup>2</sup> - 47p + 30 is divided by p - 3 is",
     "options": [
       "21",
       "42",
@@ -6429,7 +6429,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-253-281",
-    "questionText": "If y = 3 cos(x/3), find dy/dx when x = (3π/2) (JAMB 2004)",
+    "questionText": "If y = 3 cos(x/3), find dy/dx when x = (3π/2)",
     "options": [
       "1",
       "-3",
@@ -6453,7 +6453,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-255-820",
-    "questionText": "If the mean of 4, y, 8 and 10 is 7. Find Y? (JAMB 2016)",
+    "questionText": "If the mean of 4, y, 8 and 10 is 7. Find Y?",
     "options": [
       "6",
       "10",
@@ -6465,7 +6465,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-256-734",
-    "questionText": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3 (JAMB 2012)",
+    "questionText": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3",
     "options": [
       "24",
       "27",
@@ -6477,7 +6477,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-257-298",
-    "questionText": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression (JAMB 2004)",
+    "questionText": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression",
     "options": [
       "27",
       "8",
@@ -6489,7 +6489,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799318-258-807",
-    "questionText": "A square tile has side 30 cm. How many of these tiles will cover a rectangular floor of length 7.2m and width 4.2m? (JAMB 2013)",
+    "questionText": "A square tile has side 30 cm. How many of these tiles will cover a rectangular floor of length 7.2m and width 4.2m?",
     "options": [
       "720",
       "336",
@@ -6513,7 +6513,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-260-923",
-    "questionText": "If y = 23<sub>five</sub> + 101<sub>three</sub> , find y, leaving your answer in base two (JAMB 2018)",
+    "questionText": "If y = 23<sub>five</sub> + 101<sub>three</sub> , find y, leaving your answer in base two",
     "options": [
       "1110",
       "10111",
@@ -6525,7 +6525,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-261-72",
-    "questionText": "Solve the equation 3x+1 = 271-x   (JAMB 2013)",
+    "questionText": "Solve the equation 3x+1 = 271-x",
     "options": [
       "1/2",
       "-1/2",
@@ -6537,7 +6537,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-262-542",
-    "questionText": "If P = []  evaluate x if |P| = -10 (JAMB 2009)",
+    "questionText": "If P = []  evaluate x if |P| = -10",
     "options": [
       "-5",
       "-2",
@@ -6549,7 +6549,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-263-1124",
-    "questionText": "The coordinates of the mid-point of the line joining the points (-3,5) and (2,10) is given by?  (JAMB 2022)",
+    "questionText": "The coordinates of the mid-point of the line joining the points (-3,5) and (2,10) is given by?",
     "options": [
       "( 1/2, 15/2)",
       "( 1/2, −15/2)",
@@ -6561,7 +6561,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-264-1214",
-    "questionText": "If sin θ=12/13\n, find the value of 1 + cos θ (JAMB 2014)",
+    "questionText": "If sin θ=12/13\n, find the value of 1 + cos θ",
     "options": [
       "25/13",
       "18/13",
@@ -6573,7 +6573,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-265-100",
-    "questionText": "X and Y are two events. The probability of X or Y is 0.7 and that of X is 0.4. If X and Y are independent, find the probability of Y. (JAMB 2000)",
+    "questionText": "X and Y are two events. The probability of X or Y is 0.7 and that of X is 0.4. If X and Y are independent, find the probability of Y.",
     "options": [
       "0.30",
       "0.50",
@@ -6585,7 +6585,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-266-175",
-    "questionText": "Simplify (√0.7+√70)<sup>2</sup> (JAMB 2002)",
+    "questionText": "Simplify (√0.7+√70)<sup>2</sup>",
     "options": [
       "84.7",
       "70.7",
@@ -6597,7 +6597,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-267-237",
-    "questionText": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0 (JAMB 2003)",
+    "questionText": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
     "options": [
       "-5, -4",
       "-4,. -5",
@@ -6621,7 +6621,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-269-146",
-    "questionText": "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST. (JAMB 2001)",
+    "questionText": "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST.",
     "options": [
       "πr/6",
       "πr/2",
@@ -6633,7 +6633,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-270-413",
-    "questionText": "The sum of the first n positive integers is (JAMB 2006)",
+    "questionText": "The sum of the first n positive integers is",
     "options": [
       "1/2 n(n-1)",
       "n(n+1)",
@@ -6645,7 +6645,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-271-1017",
-    "questionText": "A bricklayer charges ₦1,500 per day for himself and ₦500 per day for his assistant. If a two bedroom flat was built for ₦95,000 and the bricklayer worked 10 days more than his assistant, how much did the assistant receive? (JAMB 2019)",
+    "questionText": "A bricklayer charges ₦1,500 per day for himself and ₦500 per day for his assistant. If a two bedroom flat was built for ₦95,000 and the bricklayer worked 10 days more than his assistant, how much did the assistant receive?",
     "options": [
       "N20,000",
       "N28,000",
@@ -6657,7 +6657,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-272-1119",
-    "questionText": "find the limit of y = x<sup>3</sup>+6x−7/x−1\n as x tends to 1 (JAMB 2022)",
+    "questionText": "find the limit of y = x<sup>3</sup>+6x−7/x−1\n as x tends to 1",
     "options": [
       "9",
       "8",
@@ -6669,7 +6669,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-273-306",
-    "questionText": "If 6log<sub>x</sub>2 - 3log<sub>x</sub>3 = 3log<sub>5</sub>0.2, find x. (JAMB 2004)",
+    "questionText": "If 6log<sub>x</sub>2 - 3log<sub>x</sub>3 = 3log<sub>5</sub>0.2, find x.",
     "options": [
       "8/3",
       "4/3",
@@ -6681,7 +6681,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-274-255",
-    "questionText": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women (JAMB 2003)",
+    "questionText": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women",
     "options": [
       "3",
       "6",
@@ -6693,7 +6693,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-275-395",
-    "questionText": "Convert 22324 to base six (JAMB 2006)",
+    "questionText": "Convert 22324 to base six",
     "options": [
       "450<sub>6</sub>",
       "254<sub>6</sub>",
@@ -6705,7 +6705,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-276-142",
-    "questionText": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius. (JAMB 2001)",
+    "questionText": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius.",
     "options": [
       "6.5 units",
       "13.0 units",
@@ -6717,7 +6717,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-277-157",
-    "questionText": "If <sup>6</sup>P<sub>r</sub> = 6, find the value of If <sup>6</sup>P<sub>r+1</sub>  (JAMB 2001)",
+    "questionText": "If <sup>6</sup>P<sub>r</sub> = 6, find the value of If <sup>6</sup>P<sub>r+1</sub>",
     "options": [
       "30",
       "33",
@@ -6729,7 +6729,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-278-463",
-    "questionText": "What is the value of k if the mid-point of the line joining (1 - k, - 4) and (2, k + 1) is (-k , k)? (JAMB 2007)",
+    "questionText": "What is the value of k if the mid-point of the line joining (1 - k, - 4) and (2, k + 1) is (-k , k)?",
     "options": [
       "-3",
       "-1",
@@ -6741,7 +6741,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-279-773",
-    "questionText": "Calculate the time taken for N3000 to earn N600 if invested at 8% simple interest (JAMB 2013)",
+    "questionText": "Calculate the time taken for N3000 to earn N600 if invested at 8% simple interest",
     "options": [
       "2(1/2) years",
       "3 years",
@@ -6753,7 +6753,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-280-199",
-    "questionText": "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have? (JAMB 2002)",
+    "questionText": "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have?",
     "options": [
       "12",
       "20",
@@ -6765,7 +6765,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-281-541",
-    "questionText": "If Q is, []  then |Q| is? (JAMB 2009)",
+    "questionText": "If Q is, []  then |Q| is?",
     "options": [
       "-50",
       "-22",
@@ -6777,7 +6777,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-282-240",
-    "questionText": "Factorize completely 4abx - 2axy -12b<sup>2</sup>x + 6bxy (JAMB 2003)",
+    "questionText": "Factorize completely 4abx - 2axy -12b<sup>2</sup>x + 6bxy",
     "options": [
       "2x(a - 3b)(2b - y)",
       "2x(3b - a)(2b - y)",
@@ -6789,7 +6789,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-283-40",
-    "questionText": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. 13. How many learn both languages?  (JAMB 2008)",
+    "questionText": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. 13. How many learn both languages?",
     "options": [
       "60",
       "45",
@@ -6801,7 +6801,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-284-267",
-    "questionText": "On a pie chart, there are four sectors of which three angles \nare 45°, 90° and 135°. if the smallest sector represents\n#28.00, how much is the largest sector? (JAMB 2003)",
+    "questionText": "On a pie chart, there are four sectors of which three angles \nare 45°, 90° and 135°. if the smallest sector represents\n#28.00, how much is the largest sector?",
     "options": [
       "#48.00",
       "#56.00",
@@ -6813,7 +6813,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-285-217",
-    "questionText": "The triangle PQR above is (JAMB 2002)",
+    "questionText": "The triangle PQR above is",
     "options": [
       "an obtuse-angled triangle",
       "a scalene triangle",
@@ -6825,7 +6825,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-286-554",
-    "questionText": "Find the value of sin 45° - cos 30° (JAMB 2009)",
+    "questionText": "Find the value of sin 45° - cos 30°",
     "options": [
       "(2+√3)/4",
       "(√2+√3)/4",
@@ -6837,7 +6837,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-287-669",
-    "questionText": "Find the probability that a number picked at random from the set {43, 44, 45, - , -, -, 60} is a prime number (JAMB 2011)",
+    "questionText": "Find the probability that a number picked at random from the set {43, 44, 45, - , -, -, 60} is a prime number",
     "options": [
       "2/9",
       "7/9",
@@ -6849,7 +6849,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-288-1272",
-    "questionText": "Determine the third term of a geometrical progression whose first and second term are 2 and 54 respectively (JAMB 2015)",
+    "questionText": "Determine the third term of a geometrical progression whose first and second term are 2 and 54 respectively",
     "options": [
       "1458",
       "1485",
@@ -6861,7 +6861,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-289-628",
-    "questionText": "Rationalize 2−√5/3−√5 (JAMB 2011)",
+    "questionText": "Rationalize 2−√5/3−√5",
     "options": [
       "1−√5/2",
       "1−√5/4",
@@ -6873,7 +6873,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-290-259",
-    "questionText": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc. (JAMB 2003)",
+    "questionText": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc.",
     "options": [
       "11cm",
       "22cm",
@@ -6885,7 +6885,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-291-172",
-    "questionText": "Without using tables, evaluate (343)<sup>(1/3)</sup> × (0.14)<sup>−1</sup> × (25)<sup>(−1/2)</sup> (JAMB 2002)",
+    "questionText": "Without using tables, evaluate (343)<sup>(1/3)</sup> × (0.14)<sup>−1</sup> × (25)<sup>(−1/2)</sup>",
     "options": [
       "10",
       "12",
@@ -6897,7 +6897,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-292-1176",
-    "questionText": "Two numbers are respectively 35% and 80% more than a third number. The ratio of the two numbers is (JAMB 2023)",
+    "questionText": "Two numbers are respectively 35% and 80% more than a third number. The ratio of the two numbers is",
     "options": [
       "7 : 16",
       "3 : 4",
@@ -6909,7 +6909,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-293-816",
-    "questionText": "∫<sub>0</sub>  <sup>(π/2)</sup>〖sin⁡xdx〗 (JAMB 2013)",
+    "questionText": "∫<sub>0</sub>  <sup>(π/2)</sup>〖sin⁡xdx〗",
     "options": [
       "-2",
       "2",
@@ -6921,7 +6921,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-294-435",
-    "questionText": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is (JAMB 2007)",
+    "questionText": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is",
     "options": [
       "3/4",
       "-9/2",
@@ -6933,7 +6933,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-295-1148",
-    "questionText": "Divide 1101001<sub>two</sub> by 101<sub>two</sub> (JAMB 2023)",
+    "questionText": "Divide 1101001<sub>two</sub> by 101<sub>two</sub>",
     "options": [
       "11101<sub>two</sub>",
       "111<sub>two</sub>",
@@ -6945,7 +6945,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-296-823",
-    "questionText": "If the 2nd term of a G.P is 8/9\n and the 6th term is 4(1/2)\n. Find the common ratio. (JAMB 2016)",
+    "questionText": "If the 2nd term of a G.P is 8/9\n and the 6th term is 4(1/2)\n. Find the common ratio.",
     "options": [
       "2",
       "3/2",
@@ -6957,7 +6957,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-297-1062",
-    "questionText": "A trapezium has two parallel sides of lengths 5cm and 9cm. If the area is 91cm2\n, find the distance between the parallel sides (JAMB 2021)",
+    "questionText": "A trapezium has two parallel sides of lengths 5cm and 9cm. If the area is 91cm2\n, find the distance between the parallel sides",
     "options": [
       "13 cm",
       "4 cm",
@@ -6969,7 +6969,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-298-1117",
-    "questionText": "A poultry farmer realized 200 eggs from his birds and sold 5(1/2) crates of eggs. What percentages of eggs are left? (JAMB 2022)",
+    "questionText": "A poultry farmer realized 200 eggs from his birds and sold 5(1/2) crates of eggs. What percentages of eggs are left?",
     "options": [
       "82.5%",
       "15%",
@@ -6981,7 +6981,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-299-1241",
-    "questionText": "Find the x and z intercepts of the graph of 3x - z ≤ 9\n\n (JAMB 2015)",
+    "questionText": "Find the x and z intercepts of the graph of 3x - z ≤ 9\n\n",
     "options": [
       "(3, -9)",
       "(-3, 9)",
@@ -6993,7 +6993,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-300-1254",
-    "questionText": "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton’s is 2cm, find the extension produced by a tension of 12 newton’s. (JAMB 2015)",
+    "questionText": "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton’s is 2cm, find the extension produced by a tension of 12 newton’s.",
     "options": [
       "2",
       "1",
@@ -7005,7 +7005,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-301-910",
-    "questionText": "If α and β are the roots of the equation 3x<sup>2</sup + 5x - 2 = 0, find the value of 1/α + 1/β (JAMB 2017)",
+    "questionText": "If α and β are the roots of the equation 3x<sup>2</sup + 5x - 2 = 0, find the value of 1/α + 1/β",
     "options": [
       "-5/4",
       "-2/3",
@@ -7017,7 +7017,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-302-1082",
-    "questionText": "Find the probability that a number selected at random from 41 to 56 is a multiple of 9 (JAMB 2021)",
+    "questionText": "Find the probability that a number selected at random from 41 to 56 is a multiple of 9",
     "options": [
       "1/8",
       "2/15",
@@ -7029,7 +7029,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-303-448",
-    "questionText": "Find the value of x for which 2(3<sup>2x-1</sup>) = 162 (JAMB 2007)",
+    "questionText": "Find the value of x for which 2(3<sup>2x-1</sup>) = 162",
     "options": [
       "5/2",
       "3/2",
@@ -7041,7 +7041,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-304-505",
-    "questionText": "Evaluate ∫<sub>1</sub> <sup>2</sup>〖(6x<sup>2</sup>-2x)dx〗〗 (JAMB 2008)",
+    "questionText": "Evaluate ∫<sub>1</sub> <sup>2</sup>〖(6x<sup>2</sup>-2x)dx〗〗",
     "options": [
       "16",
       "13",
@@ -7053,7 +7053,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-305-38",
-    "questionText": "The difference of two numbers is 10, while their product is 39. Find these numbers (JAMB 2008)",
+    "questionText": "The difference of two numbers is 10, while their product is 39. Find these numbers",
     "options": [
       "– 3 and 10 or 13 and 10,",
       "3 and – 10 or 3 and 13,",
@@ -7065,7 +7065,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-306-162",
-    "questionText": "The identity element with respect to the multiplication shown in the table above is (JAMB 2001)",
+    "questionText": "The identity element with respect to the multiplication shown in the table above is",
     "options": [
       "o",
       "m",
@@ -7077,7 +7077,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-307-1210",
-    "questionText": "A cylindrical tank has a capacity of 6160m3. What is the depth of the tank if the radius of its base is 28cm? (JAMB 2014)",
+    "questionText": "A cylindrical tank has a capacity of 6160m3. What is the depth of the tank if the radius of its base is 28cm?",
     "options": [
       "8.0m",
       "7.5m",
@@ -7089,7 +7089,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-308-427",
-    "questionText": "The table above shows the number of pupils in each age group in a class. What is the probability that a pupil chosen at random is at least 11 years old? (JAMB 2007)",
+    "questionText": "The table above shows the number of pupils in each age group in a class. What is the probability that a pupil chosen at random is at least 11 years old?",
     "options": [
       "27/40",
       "17/20",
@@ -7101,7 +7101,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-309-64",
-    "questionText": "If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ?  (JAMB 2009)",
+    "questionText": "If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ?",
     "options": [
       "2",
       "6",
@@ -7125,7 +7125,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-311-391",
-    "questionText": "Find the tax on an income of N20,000 if no tax is paid on the first N10,000 and tax is paid at N50 in N1000 on the next N5000 and at N55 in N1000 on the remainder (JAMB 2006)",
+    "questionText": "Find the tax on an income of N20,000 if no tax is paid on the first N10,000 and tax is paid at N50 in N1000 on the next N5000 and at N55 in N1000 on the remainder",
     "options": [
       "N500",
       "N552",
@@ -7137,7 +7137,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-312-203",
-    "questionText": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0 (JAMB 2002)",
+    "questionText": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0",
     "options": [
       "-4",
       "4",
@@ -7149,7 +7149,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-313-48",
-    "questionText": "One angle of an octagon is 1000 while the other sides are equal. Find each of these exterior angles.  (JAMB 2008)",
+    "questionText": "One angle of an octagon is 1000 while the other sides are equal. Find each of these exterior angles.",
     "options": [
       "800,",
       "600,",
@@ -7161,7 +7161,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-314-1067",
-    "questionText": "Find the mean deviation of 1, 2, 3 and 4 (JAMB 2021)",
+    "questionText": "Find the mean deviation of 1, 2, 3 and 4",
     "options": [
       "1.0",
       "1.5",
@@ -7173,7 +7173,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-315-1180",
-    "questionText": "Calculate, correct to three significant figures, the length of the arc AB in the diagram above.[Take π=22/7] (JAMB 2023)",
+    "questionText": "Calculate, correct to three significant figures, the length of the arc AB in the diagram above.[Take π=22/7]",
     "options": [
       "32.4 cm",
       "30.6 cm",
@@ -7185,7 +7185,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-316-444",
-    "questionText": "Find the sum to infinity of the series 2+3/2+9/8+27/32+...... (JAMB 2007)",
+    "questionText": "Find the sum to infinity of the series 2+3/2+9/8+27/32+......",
     "options": [
       "1",
       "2",
@@ -7197,7 +7197,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-317-822",
-    "questionText": "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects? (JAMB 2016)",
+    "questionText": "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?",
     "options": [
       "45",
       "10",
@@ -7209,7 +7209,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-318-206",
-    "questionText": "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is (JAMB 2002)",
+    "questionText": "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is",
     "options": [
       "10",
       "11",
@@ -7221,7 +7221,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-319-353",
-    "questionText": "The maximum value of the function\nf(x) = 2 + x - x<sup>2</sup> is (JAMB 2005)",
+    "questionText": "The maximum value of the function\nf(x) = 2 + x - x<sup>2</sup> is",
     "options": [
       "9/4",
       "7/4",
@@ -7233,7 +7233,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-320-344",
-    "questionText": "A sector of a circle has an area of 55 cm<sup>2</sup> . If the radius of the circle is 10 cm, calculate the angle of the sector\n[π = 22/7] (JAMB 2005)",
+    "questionText": "A sector of a circle has an area of 55 cm<sup>2</sup> . If the radius of the circle is 10 cm, calculate the angle of the sector\n[π = 22/7]",
     "options": [
       "45°",
       "63°",
@@ -7245,7 +7245,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-321-247",
-    "questionText": "Determine the maximum value of y = 3x<sup>2</sup> - x<sup>3</sup> (JAMB 2003)",
+    "questionText": "Determine the maximum value of y = 3x<sup>2</sup> - x<sup>3</sup>",
     "options": [
       "zero",
       "2",
@@ -7257,7 +7257,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-322-17",
-    "questionText": "The interior angles of a pentagon are: 180o, 118o, 78o, 84o and  x. The value of x is:  (JAMB 2007)",
+    "questionText": "The interior angles of a pentagon are: 180o, 118o, 78o, 84o and  x. The value of x is:",
     "options": [
       "80o",
       "108o",
@@ -7269,7 +7269,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-323-210",
-    "questionText": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set. (JAMB 2002)",
+    "questionText": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set.",
     "options": [
       "105",
       "100",
@@ -7281,7 +7281,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-324-526",
-    "questionText": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept? (JAMB 2009)",
+    "questionText": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept?",
     "options": [
       "7/15",
       "8/15",
@@ -7293,7 +7293,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-325-808",
-    "questionText": "Find the length of a chord which subtends an angle of 90° at the centre of a circle whose radius is 8 cm. (JAMB 2013)",
+    "questionText": "Find the length of a chord which subtends an angle of 90° at the centre of a circle whose radius is 8 cm.",
     "options": [
       "8√3 cm",
       "4 cm",
@@ -7305,7 +7305,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-326-1246",
-    "questionText": "Solve the equation 3x<sup>2</sup> − 4x − 5 = 0 (JAMB 2015)",
+    "questionText": "Solve the equation 3x<sup>2</sup> − 4x − 5 = 0",
     "options": [
       "x = 1.75 or − 0.15",
       "x = 2.12 or − 0.79",
@@ -7317,7 +7317,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-327-12",
-    "questionText": "Expand the expression (x2-2x-3)(x2+x+1).   (JAMB 2006)",
+    "questionText": "Expand the expression (x2-2x-3)(x2+x+1).",
     "options": [
       "x4-4x2-5x-3",
       "–x3-4x2+5x-3",
@@ -7329,7 +7329,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-328-1066",
-    "questionText": "Correct 241.34(3 x 10<sup>-3</sup>\n)2<sup>2</sup>\n to 4 significant figures (JAMB 2021)",
+    "questionText": "Correct 241.34(3 x 10<sup>-3</sup>\n)2<sup>2</sup>\n to 4 significant figures",
     "options": [
       "0.0014",
       "0.001448",
@@ -7341,7 +7341,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-329-659",
-    "questionText": " From the table above, find the median and range of the data respectively. (JAMB 2011)",
+    "questionText": " From the table above, find the median and range of the data respectively.",
     "options": [
       "(8,5)",
       "(3, 5)",
@@ -7353,7 +7353,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-330-181",
-    "questionText": "Evaluate ∫sin3xdx (JAMB 2002)",
+    "questionText": "Evaluate ∫sin3xdx",
     "options": [
       "(2/3) cos 3x + c",
       "(1/3) cos 3x + c",
@@ -7365,7 +7365,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-331-667",
-    "questionText": "The bar chart above shows the distribution of SS2 students in a school.\n\nFind the total number of students (JAMB 2011)",
+    "questionText": "The bar chart above shows the distribution of SS2 students in a school.\n\nFind the total number of students",
     "options": [
       "180",
       "135",
@@ -7377,7 +7377,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-332-599",
-    "questionText": "Find the equation of a line parallel to y = -4x + 2 passing through (2,3) (JAMB 2010)",
+    "questionText": "Find the equation of a line parallel to y = -4x + 2 passing through (2,3)",
     "options": [
       "y + 4x + 11 = 0",
       "y - 4x - 11 = 0",
@@ -7401,7 +7401,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-334-514",
-    "questionText": "Find the number of ways of selecting 6 out of 10 subjects for an examination (JAMB 2008)",
+    "questionText": "Find the number of ways of selecting 6 out of 10 subjects for an examination",
     "options": [
       "128",
       "216",
@@ -7413,7 +7413,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-335-620",
-    "questionText": "Determine the value of x for which (x2 - 1)>0 (JAMB 2010)",
+    "questionText": "Determine the value of x for which (x2 - 1)>0",
     "options": [
       "x < -1 or x > 1",
       "-1 < x < 1",
@@ -7437,7 +7437,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-337-762",
-    "questionText": "In the diagram above, PQR is a circle centre O. If < QPR is x°, find < QRP. (JAMB 2012)",
+    "questionText": "In the diagram above, PQR is a circle centre O. If < QPR is x°, find < QRP.",
     "options": [
       "x°",
       "(90 – x)°",
@@ -7449,7 +7449,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-338-802",
-    "questionText": "In the diagram given, find the value of x. (JAMB 2013)",
+    "questionText": "In the diagram given, find the value of x.",
     "options": [
       "30°",
       "40°",
@@ -7461,7 +7461,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-339-529",
-    "questionText": "If x = {n<sup>2</sup>+1:n is a positive integer and 1 ≤ n ≤ 5},\nY = {5n:n is a positive integer and 1 ≤ n ≤ 5}, find x ∩ y. (JAMB 2009)",
+    "questionText": "If x = {n<sup>2</sup>+1:n is a positive integer and 1 ≤ n ≤ 5},\nY = {5n:n is a positive integer and 1 ≤ n ≤ 5}, find x ∩ y.",
     "options": [
       "{5,10}",
       "{5, 10, 15}",
@@ -7473,7 +7473,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-340-375",
-    "questionText": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/3, find the value of x (JAMB 2006)",
+    "questionText": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/3, find the value of x",
     "options": [
       "8",
       "10",
@@ -7485,7 +7485,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-341-545",
-    "questionText": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n? (JAMB 2009)",
+    "questionText": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n?",
     "options": [
       "47°",
       "52°",
@@ -7497,7 +7497,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-342-321",
-    "questionText": "the graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks? (JAMB 2004)",
+    "questionText": "the graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?",
     "options": [
       "68%",
       "28%",
@@ -7509,7 +7509,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-343-396",
-    "questionText": "In the diagram above, QR is in the diameter of the semicircle QR. Find the areas of the figure to the nearest whole number. (JAMB 2006)",
+    "questionText": "In the diagram above, QR is in the diameter of the semicircle QR. Find the areas of the figure to the nearest whole number.",
     "options": [
       "89 cm<sup>2</sup>",
       "70 cm<sup>2</sup>",
@@ -7521,7 +7521,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-344-592",
-    "questionText": "Find r, if 6r7<sub>8</sub> = 511<sub>9</sub> (JAMB 2010)",
+    "questionText": "Find r, if 6r7<sub>8</sub> = 511<sub>9</sub>",
     "options": [
       "3",
       "2",
@@ -7533,7 +7533,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-345-927",
-    "questionText": "If x/(a+1) + y/b = 1. Make y the subject of the relation. (JAMB 2018)",
+    "questionText": "If x/(a+1) + y/b = 1. Make y the subject of the relation.",
     "options": [
       "b(a+1−x)/(a+1)",
       "(a+1)/b(a−x+1)",
@@ -7545,7 +7545,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-346-723",
-    "questionText": "Evaluate 21/9 to 3 significant figures (JAMB 2012)",
+    "questionText": "Evaluate 21/9 to 3 significant figures",
     "options": [
       "2.30",
       "2.31",
@@ -7569,7 +7569,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-348-934",
-    "questionText": "What is the place value of 9 in the number 3.0492? (JAMB 2018)",
+    "questionText": "What is the place value of 9 in the number 3.0492?",
     "options": [
       "9/10000",
       "9/1000",
@@ -7581,7 +7581,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-349-954",
-    "questionText": "Evaluate (2√3 - 4) (2√3 + 4)  (JAMB 2018)",
+    "questionText": "Evaluate (2√3 - 4) (2√3 + 4)",
     "options": [
       "-4",
       "-2",
@@ -7593,7 +7593,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-350-827",
-    "questionText": "From the diagram above, Find the value of < ROP (JAMB 2016)",
+    "questionText": "From the diagram above, Find the value of < ROP",
     "options": [
       "110°",
       "70°",
@@ -7605,7 +7605,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-351-818",
-    "questionText": "Evaluate 3(x + 2) > 6(x + 3) (JAMB 2013)",
+    "questionText": "Evaluate 3(x + 2) > 6(x + 3)",
     "options": [
       "x < 4",
       "x > -4",
@@ -7617,7 +7617,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-352-721",
-    "questionText": "Convert 112<sub>6</sub>  to a number in base three (JAMB 2012)",
+    "questionText": "Convert 112<sub>6</sub>  to a number in base three",
     "options": [
       "2211",
       "2121",
@@ -7641,7 +7641,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-354-494",
-    "questionText": "Find the exterior angle of a 12 sided regular polygon (JAMB 2008)",
+    "questionText": "Find the exterior angle of a 12 sided regular polygon",
     "options": [
       "12°",
       "24°",
@@ -7653,7 +7653,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-355-583",
-    "questionText": "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area (JAMB 2010)",
+    "questionText": "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area",
     "options": [
       "10 cm<sup>2</sup>",
       "6 cm<sup>2</sup>",
@@ -7665,7 +7665,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-356-1227",
-    "questionText": "A number is chosen at random from 10 to 30 both inclusive. What is the probability that the number is divisible by 3? (JAMB 2014)",
+    "questionText": "A number is chosen at random from 10 to 30 both inclusive. What is the probability that the number is divisible by 3?",
     "options": [
       "2/15",
       "1/10",
@@ -7677,7 +7677,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-357-418",
-    "questionText": "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals (JAMB 2006)",
+    "questionText": "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals",
     "options": [
       "2NQ",
       "NQ",
@@ -7689,7 +7689,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-358-1178",
-    "questionText": "Calculate, correct to three significant figures, the length AB in the diagram above. (JAMB 2023)",
+    "questionText": "Calculate, correct to three significant figures, the length AB in the diagram above.",
     "options": [
       "36.4 cm",
       "36.1 cm",
@@ -7701,7 +7701,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-359-1164",
-    "questionText": "In a group of 500 people, 350 people can speak English, and 400 people can speak French. Find how many people can speak both languages. (JAMB 2023)",
+    "questionText": "In a group of 500 people, 350 people can speak English, and 400 people can speak French. Find how many people can speak both languages.",
     "options": [
       "750",
       "850",
@@ -7713,7 +7713,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-360-640",
-    "questionText": "The seconds term of a geometric series is 4 while the fourth term is 16. Find the sum of the first five terms (JAMB 2011)",
+    "questionText": "The seconds term of a geometric series is 4 while the fourth term is 16. Find the sum of the first five terms",
     "options": [
       "60",
       "62",
@@ -7725,7 +7725,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-361-503",
-    "questionText": "Differentiate sin x - x cos x (JAMB 2008)",
+    "questionText": "Differentiate sin x - x cos x",
     "options": [
       "x cos x",
       "x sin x",
@@ -7737,7 +7737,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-362-233",
-    "questionText": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3? (JAMB 2003)",
+    "questionText": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3?",
     "options": [
       "3",
       "4",
@@ -7749,7 +7749,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-363-374",
-    "questionText": "If the mean of five consecutive integers is 30, find the largest of the numbers (JAMB 2006)",
+    "questionText": "If the mean of five consecutive integers is 30, find the largest of the numbers",
     "options": [
       "28",
       "30",
@@ -7761,7 +7761,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-364-767",
-    "questionText": "A man stands on a tree 150 cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree. (JAMB 2012)",
+    "questionText": "A man stands on a tree 150 cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.",
     "options": [
       "52 cm",
       "43 cm",
@@ -7773,7 +7773,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-365-649",
-    "questionText": "The midpoint of P(x, y) and Q(8, 6) is (5, 8). Find x and y. (JAMB 2011)",
+    "questionText": "The midpoint of P(x, y) and Q(8, 6) is (5, 8). Find x and y.",
     "options": [
       "(2, 10)",
       "(2, 8)",
@@ -7785,7 +7785,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-366-546",
-    "questionText": "If the hypotenuse of a right-angled isosceles triangle is 2cm. What is the area of the triangle? (JAMB 2009)",
+    "questionText": "If the hypotenuse of a right-angled isosceles triangle is 2cm. What is the area of the triangle?",
     "options": [
       "1/√2 cm<sup>2</sup>",
       "1 cm<sup>2</sup>",
@@ -7797,7 +7797,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-367-123",
-    "questionText": "Simplify (3√(64a<sup>3</sup>))<−1\n (JAMB 2001)",
+    "questionText": "Simplify (3√(64a<sup>3</sup>))<−1\n",
     "options": [
       "4a",
       "1/8a",
@@ -7809,7 +7809,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-368-882",
-    "questionText": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 7, 10, 6, 5 (JAMB 2017)",
+    "questionText": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 7, 10, 6, 5",
     "options": [
       "16",
       "14",
@@ -7821,7 +7821,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-369-1276",
-    "questionText": "10011<sub>2</sub>  + *****2 + 11100<sub>2</sub>  + 101<sub>2</sub>  = 1001111<sub>2</sub>  (JAMB 2015)",
+    "questionText": "10011<sub>2</sub>  + *****2 + 11100<sub>2</sub>  + 101<sub>2</sub>  = 1001111<sub>2</sub>",
     "options": [
       "1111<sub>2</sub>",
       "11011<sub>2</sub>",
@@ -7833,7 +7833,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-370-1204",
-    "questionText": "What is the common ratio of the G.P. (√10 + √5) + (√10 +2√5) +...? (JAMB 2014)",
+    "questionText": "What is the common ratio of the G.P. (√10 + √5) + (√10 +2√5) +...?",
     "options": [
       "√2",
       "√5",
@@ -7845,7 +7845,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-371-420",
-    "questionText": "The response of 160 pupils in a school asked to indicate their favourite subjects is given in the bar chart above. What percentage of the pupils have English and Health education as the their favourite subjects? (JAMB 2006)",
+    "questionText": "The response of 160 pupils in a school asked to indicate their favourite subjects is given in the bar chart above. What percentage of the pupils have English and Health education as the their favourite subjects?",
     "options": [
       "55%",
       "52%",
@@ -7857,7 +7857,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-372-1266",
-    "questionText": "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (π = 3.14) (JAMB 2015)",
+    "questionText": "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (π = 3.14)",
     "options": [
       "3.13 cm<sup>2</sup>",
       "145 cm<sup>2</sup>",
@@ -7869,7 +7869,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-373-971",
-    "questionText": "A binary operation ⊗\n is defined by m ⊗ n = mn + m − n on the set of real numbers, for all m, n ∈\n R. Find the value of 3 ⊗ (2⊗ 4). (JAMB 2019)",
+    "questionText": "A binary operation ⊗\n is defined by m ⊗ n = mn + m − n on the set of real numbers, for all m, n ∈\n R. Find the value of 3 ⊗ (2⊗ 4).",
     "options": [
       "6",
       "25",
@@ -7881,7 +7881,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-374-6",
-    "questionText": "A business invested a total of N200,000 in two companies which paid dividends of 5% and 7% respectively. If the received a total of N11, 600 as dividend, how much did he invest at 5%  (JAMB 2006)",
+    "questionText": "A business invested a total of N200,000 in two companies which paid dividends of 5% and 7% respectively. If the received a total of N11, 600 as dividend, how much did he invest at 5%",
     "options": [
       "N160,000",
       "N140,000",
@@ -7893,7 +7893,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-375-461",
-    "questionText": "A man 40 m from the foot of a tower observes the angle of elevation of the tower to be 30°. Determine the height of the tower. (JAMB 2007)",
+    "questionText": "A man 40 m from the foot of a tower observes the angle of elevation of the tower to be 30°. Determine the height of the tower.",
     "options": [
       "(40√3)/3 m",
       "20 m",
@@ -7905,7 +7905,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-376-852",
-    "questionText": "The nth term of the sequence 3, 9, 27, 81.....is (JAMB 2016)",
+    "questionText": "The nth term of the sequence 3, 9, 27, 81.....is",
     "options": [
       "3 x 3n-2",
       "3 x 3n-1",
@@ -7917,7 +7917,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-377-116",
-    "questionText": "The cumulative frequency curve represents the ages of ages of students in a school. What age group do 70% of the students belongs? (JAMB 2000)",
+    "questionText": "The cumulative frequency curve represents the ages of ages of students in a school. What age group do 70% of the students belongs?",
     "options": [
       "17.5 - 20.5",
       "16.5 - 19.5",
@@ -7929,7 +7929,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-378-805",
-    "questionText": "The pie chart above shows the statistical distribution of 80 students in five subjects in an examination. Calculate how many student offer Mathematics. (JAMB 2013)",
+    "questionText": "The pie chart above shows the statistical distribution of 80 students in five subjects in an examination. Calculate how many student offer Mathematics.",
     "options": [
       "30",
       "11",
@@ -7941,7 +7941,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-379-200",
-    "questionText": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8 (JAMB 2002)",
+    "questionText": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8",
     "options": [
       "(2, 0)",
       "(1, -2)",
@@ -7953,7 +7953,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-380-426",
-    "questionText": "\nThe pie chart above illustrate the amount of private time a student spends in a week studying various subjects. Find the value of k (JAMB 2007)",
+    "questionText": "\nThe pie chart above illustrate the amount of private time a student spends in a week studying various subjects. Find the value of k",
     "options": [
       "90°",
       "60°",
@@ -7965,7 +7965,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-381-60",
-    "questionText": "Factorize 6x2 – 14x – 12  (JAMB 2009)",
+    "questionText": "Factorize 6x2 – 14x – 12",
     "options": [
       "2(x + 3)(3x – 2)",
       "6(x – 2)(x + 1)",
@@ -7977,7 +7977,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-382-585",
-    "questionText": "What is the locus of point that is equidistant from points P(1,3) and Q(3,5)? (JAMB 2010)",
+    "questionText": "What is the locus of point that is equidistant from points P(1,3) and Q(3,5)?",
     "options": [
       "y = -χ + 6",
       "y = -χ - 6",
@@ -7989,7 +7989,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-383-450",
-    "questionText": "If log<sub>10</sub> 2 = x, express log<sub>10</sub>12.5 in terms of x (JAMB 2007)",
+    "questionText": "If log<sub>10</sub> 2 = x, express log<sub>10</sub>12.5 in terms of x",
     "options": [
       "2(1 + x)",
       "2 + 3x",
@@ -8001,7 +8001,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-384-1100",
-    "questionText": "The shaded portion in the venn diagram above represents? (JAMB 2022)",
+    "questionText": "The shaded portion in the venn diagram above represents?",
     "options": [
       "F - (E n F) - (G n F)",
       "E' n F n G'",
@@ -8013,7 +8013,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-385-869",
-    "questionText": "Given T = { even numbers from 1 to 12 }\nN = {common factors of 6, 8 and 12}\nFind T ∩ N (JAMB 2017)",
+    "questionText": "Given T = { even numbers from 1 to 12 }\nN = {common factors of 6, 8 and 12}\nFind T ∩ N",
     "options": [
       "{2, 3}",
       "{2, 3, 4}",
@@ -8025,7 +8025,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-386-1157",
-    "questionText": "A coin is thrown 3 times. What is the probability that atleast one head is obtained? (JAMB 2023)",
+    "questionText": "A coin is thrown 3 times. What is the probability that atleast one head is obtained?",
     "options": [
       "7/8",
       "3/8",
@@ -8037,7 +8037,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-387-161",
-    "questionText": "Triangle SPT is the solution of the linear inequalities (JAMB 2001)",
+    "questionText": "Triangle SPT is the solution of the linear inequalities",
     "options": [
       "2y - x - 2 ≤ 0, y + 2x + 2 ≥ 0, -2 ≤ x ≤ - 1",
       "-2 ≤ x ≤ 2, y ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0",
@@ -8049,7 +8049,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-388-137",
-    "questionText": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30° (JAMB 2001)",
+    "questionText": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30°",
     "options": [
       "4√3cm",
       "8cm",
@@ -8061,7 +8061,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-389-331",
-    "questionText": "If m = 3, p = -3, q = 7 and r = 5/2, evaluate m(p+q+r) (JAMB 2005)",
+    "questionText": "If m = 3, p = -3, q = 7 and r = 5/2, evaluate m(p+q+r)",
     "options": [
       "19.50",
       "19.15",
@@ -8073,7 +8073,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-390-593",
-    "questionText": "Simplify  (3/4 of 4/9 ÷ 9(1/2) ÷ 1(5/19) (JAMB 2010)",
+    "questionText": "Simplify  (3/4 of 4/9 ÷ 9(1/2) ÷ 1(5/19)",
     "options": [
       "1/2",
       "1/4",
@@ -8085,7 +8085,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-391-1244",
-    "questionText": "If x + y = 90 simplify (sinx+siny)<sup>2</sup> −2sinxsiny (JAMB 2015)",
+    "questionText": "If x + y = 90 simplify (sinx+siny)<sup>2</sup> −2sinxsiny",
     "options": [
       "1",
       "0",
@@ -8097,7 +8097,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-392-764",
-    "questionText": "The grades of 36 students in a class test are as shown in the pie chart above. How many students have excellent? (JAMB 2012)",
+    "questionText": "The grades of 36 students in a class test are as shown in the pie chart above. How many students have excellent?",
     "options": [
       "12",
       "9",
@@ -8109,7 +8109,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-393-916",
-    "questionText": "The bar chart above is a representation of a candidate’s scores in UTME in 2014, find his total scores (JAMB 2017)",
+    "questionText": "The bar chart above is a representation of a candidate’s scores in UTME in 2014, find his total scores",
     "options": [
       "210",
       "240",
@@ -8121,7 +8121,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-394-273",
-    "questionText": "Find the value of α<sup>2</sup> + β<sup>2</sup> if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units (JAMB 2004)",
+    "questionText": "Find the value of α<sup>2</sup> + β<sup>2</sup> if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units",
     "options": [
       "14",
       "3",
@@ -8133,7 +8133,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-395-1270",
-    "questionText": "Simplify 6(1/12) − 2¾ + 1½ (JAMB 2015)",
+    "questionText": "Simplify 6(1/12) − 2¾ + 1½",
     "options": [
       "3(5/6)",
       "4(5/6)",
@@ -8145,7 +8145,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799319-396-1236",
-    "questionText": "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate (JAMB 2015)",
+    "questionText": "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate",
     "options": [
       "3%",
       "1.0%",
@@ -8157,7 +8157,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-397-876",
-    "questionText": "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J (JAMB 2017)",
+    "questionText": "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J",
     "options": [
       "24°C",
       "20°C",
@@ -8169,7 +8169,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-398-975",
-    "questionText": "Find the length of the chord |AB| in the diagram shown above. (JAMB 2019)",
+    "questionText": "Find the length of the chord |AB| in the diagram shown above.",
     "options": [
       "4.2 cm",
       "4.3 cm",
@@ -8181,7 +8181,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-399-110",
-    "questionText": "Evaluate 5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup> (JAMB 2000)",
+    "questionText": "Evaluate 5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup>",
     "options": [
       "8",
       "1(1/8)",
@@ -8193,7 +8193,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-400-291",
-    "questionText": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group (JAMB 2004)",
+    "questionText": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group",
     "options": [
       "0",
       "7",
@@ -8205,7 +8205,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-401-889",
-    "questionText": "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was? (JAMB 2017)",
+    "questionText": "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was?",
     "options": [
       "three times as much",
       "the same",
@@ -8217,7 +8217,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-402-965",
-    "questionText": "Convert 0.04945 to two significant figures (JAMB 2018)",
+    "questionText": "Convert 0.04945 to two significant figures",
     "options": [
       "0.040",
       "0.049",
@@ -8229,7 +8229,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-403-730",
-    "questionText": "Make 'n' the subject of the formula if w = v(2+cn)/(1−cn) (JAMB 2012)",
+    "questionText": "Make 'n' the subject of the formula if w = v(2+cn)/(1−cn)",
     "options": [
       "1/c(w−2/vv+w)",
       "1/c(w−2/vv−w)",
@@ -8241,7 +8241,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-404-286",
-    "questionText": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white balls from the baskets is 3/7, how many white balls were introduced? (JAMB 2004)",
+    "questionText": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white balls from the baskets is 3/7, how many white balls were introduced?",
     "options": [
       "12",
       "21",
@@ -8253,7 +8253,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-405-550",
-    "questionText": "What is the locus of the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O? (JAMB 2009)",
+    "questionText": "What is the locus of the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O?",
     "options": [
       "A circle of radius 4 cm and the center 0",
       "The perpendicular bisector of the chords",
@@ -8265,7 +8265,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-406-455",
-    "questionText": "Calculate the length of an arc of a circle diameter 14 cm, which substends an angle of 90o at the center of the circle (JAMB 2007)",
+    "questionText": "Calculate the length of an arc of a circle diameter 14 cm, which substends an angle of 90o at the center of the circle",
     "options": [
       "7π/2 cm",
       "7π cm",
@@ -8277,7 +8277,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-407-403",
-    "questionText": "PQRSTW is a regular hexagon and QS intersects RT at V. Calculate ∠TVS (JAMB 2006)",
+    "questionText": "PQRSTW is a regular hexagon and QS intersects RT at V. Calculate ∠TVS",
     "options": [
       "120°",
       "90°",
@@ -8289,7 +8289,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-408-898",
-    "questionText": "In how many ways can the word MATHEMATICS be arranged? (JAMB 2017)",
+    "questionText": "In how many ways can the word MATHEMATICS be arranged?",
     "options": [
       "11!/9!2!",
       "11!/9!2!2!",
@@ -8301,7 +8301,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-409-197",
-    "questionText": "Find the equation of the set of points which are equidistant from the parallel lines x = 1 and x = 7 (JAMB 2002)",
+    "questionText": "Find the equation of the set of points which are equidistant from the parallel lines x = 1 and x = 7",
     "options": [
       "y = 3",
       "x = 3",
@@ -8313,7 +8313,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-410-489",
-    "questionText": "Solve the quadratic inequalities x<sup>2</sup> - 5x + 6 ≥ 0 (JAMB 2008)",
+    "questionText": "Solve the quadratic inequalities x<sup>2</sup> - 5x + 6 ≥ 0",
     "options": [
       "x ≤ 2, x ≥ 3",
       "x ≤ 3, x ≥ 2",
@@ -8325,7 +8325,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-411-969",
-    "questionText": "Make q the subject of the formula in the equation mn/a<sup>2</sup>− pq/b<sup>2</sup> = 1 (JAMB 2019)",
+    "questionText": "Make q the subject of the formula in the equation mn/a<sup>2</sup>− pq/b<sup>2</sup> = 1",
     "options": [
       "q=(b<sup>2</sup> (mn-a<sup>2</sup>))/(a<sup>2</sup> p)",
       "q=(m<sup>2</sup> n-a<sup>2</sup>)/p<sup>2</sup>",
@@ -8337,7 +8337,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-412-761",
-    "questionText": "In diagram above, QR//TU, < PQR = 80° and < PSU = 95°. Calculate < SUT. (JAMB 2012)",
+    "questionText": "In diagram above, QR//TU, < PQR = 80° and < PSU = 95°. Calculate < SUT.",
     "options": [
       "15°",
       "25°",
@@ -8349,7 +8349,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-413-49",
-    "questionText": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?.  (JAMB 2009)",
+    "questionText": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?.",
     "options": [
       "6cm",
       "7cm",
@@ -8361,7 +8361,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-414-935",
-    "questionText": "If the simple interest on a sum of money invested at 3% per annum for 2(1/2)\n  years is N123, find the principal. (JAMB 2018)",
+    "questionText": "If the simple interest on a sum of money invested at 3% per annum for 2(1/2)\n  years is N123, find the principal.",
     "options": [
       "N676.50",
       "N820",
@@ -8373,7 +8373,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-415-873",
-    "questionText": "If two graphs Y = px<sup>2</sup> + q and y = 2x<sup>2</sup> − 1 intersect at x =2, find the value of p in terms of q (JAMB 2017)",
+    "questionText": "If two graphs Y = px<sup>2</sup> + q and y = 2x<sup>2</sup> − 1 intersect at x =2, find the value of p in terms of q",
     "options": [
       "q − 8/7",
       "7 − q/4",
@@ -8385,7 +8385,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-416-629",
-    "questionText": "Simplify √2+1/√3)(√2-1/√3 (JAMB 2011)",
+    "questionText": "Simplify √2+1/√3)(√2-1/√3",
     "options": [
       "7/3",
       "5/3",
@@ -8397,7 +8397,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-417-615",
-    "questionText": "Evaluate ∫<sup>2</sup><sub>0</sub>(x<sup>3</sup>+x<sup>2</sup>)dx. (JAMB 2010)",
+    "questionText": "Evaluate ∫<sup>2</sup><sub>0</sub>(x<sup>3</sup>+x<sup>2</sup>)dx.",
     "options": [
       "4(5/6)",
       "6(2/3)",
@@ -8409,7 +8409,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-418-449",
-    "questionText": "Simplify 3/5÷(2/7×4/3÷4/9) (JAMB 2007)",
+    "questionText": "Simplify 3/5÷(2/7×4/3÷4/9)",
     "options": [
       "4/5",
       "7/10",
@@ -8421,7 +8421,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-419-902",
-    "questionText": "Find ∫(x<sup>2</sup>  + 3x − 5)dx (JAMB 2017)",
+    "questionText": "Find ∫(x<sup>2</sup>  + 3x − 5)dx",
     "options": [
       "x3/3 - 3x2/2 - 5x + k",
       "x3/3 - 3x2/2 + 5x + k",
@@ -8433,7 +8433,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-420-810",
-    "questionText": "The locus of the points which is equidistant from the line PQ forms a (JAMB 2013)",
+    "questionText": "The locus of the points which is equidistant from the line PQ forms a",
     "options": [
       "perpendicular line to PQ",
       "circle centre P",
@@ -8445,7 +8445,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-421-839",
-    "questionText": "Simplify (0.026 × 0.36)/0.69\n. Leave your answer in standard form (JAMB 2016)",
+    "questionText": "Simplify (0.026 × 0.36)/0.69\n. Leave your answer in standard form",
     "options": [
       "1.36 x 10-4",
       "1.36 x 10-3",
@@ -8457,7 +8457,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-422-337",
-    "questionText": "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference. (JAMB 2005)",
+    "questionText": "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference.",
     "options": [
       "6",
       "3",
@@ -8469,7 +8469,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-423-642",
-    "questionText": "If ∣∣∣2533x∣∣∣ = ∣∣∣4312x∣∣∣\n, find the value of x.  (JAMB 2011)",
+    "questionText": "If ∣∣∣2533x∣∣∣ = ∣∣∣4312x∣∣∣\n, find the value of x.",
     "options": [
       "-6",
       "6",
@@ -8481,7 +8481,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-424-198",
-    "questionText": "A bucket is 12 cm in diameter at the top, 8 cm in diameter at the bottom and 4 cm deep. Calculate its volume. (JAMB 2002)",
+    "questionText": "A bucket is 12 cm in diameter at the top, 8 cm in diameter at the bottom and 4 cm deep. Calculate its volume.",
     "options": [
       "304π/3 cm<sup>3</sup>",
       "144π cm<sup>3</sup>",
@@ -8493,7 +8493,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-425-506",
-    "questionText": "∫<sub>((-π)/2)</sub><sup>(π/2)</sup>cosxdx (JAMB 2008)",
+    "questionText": "∫<sub>((-π)/2)</sub><sup>(π/2)</sup>cosxdx",
     "options": [
       "0",
       "1",
@@ -8505,7 +8505,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-426-1216",
-    "questionText": "If y = cos 3x, find δy/δx (JAMB 2014)",
+    "questionText": "If y = cos 3x, find δy/δx",
     "options": [
       "1/3sin3x",
       "−1/3sin3x",
@@ -8517,7 +8517,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-427-866",
-    "questionText": "Determine the mean score of the student that took the mathematics test? (JAMB 2016)",
+    "questionText": "Determine the mean score of the student that took the mathematics test?",
     "options": [
       "4.5",
       "4.3",
@@ -8529,7 +8529,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-428-530",
-    "questionText": "I.S∩T∩W=S II. S ∪ T ∪ W = W\nIII. T ∩ W = S\nIf S⊂T⊂W, which of the above statements are true? (JAMB 2009)",
+    "questionText": "I.S∩T∩W=S II. S ∪ T ∪ W = W\nIII. T ∩ W = S\nIf S⊂T⊂W, which of the above statements are true?",
     "options": [
       "I and II",
       "I and III",
@@ -8541,7 +8541,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-429-1069",
-    "questionText": "Three children shared a basket of mangoes in such a way that the first child took 1/4 of the mangoes and the second 3/4 of the remainder. What fraction of the mangoes did the third child take? (JAMB 2021)",
+    "questionText": "Three children shared a basket of mangoes in such a way that the first child took 1/4 of the mangoes and the second 3/4 of the remainder. What fraction of the mangoes did the third child take?",
     "options": [
       "3/16",
       "7/16",
@@ -8553,7 +8553,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-430-10",
-    "questionText": "1.3logx+logy =3. Then, y is   (JAMB 2006)",
+    "questionText": "1.3logx+logy =3. Then, y is",
     "options": [
       "(10/x)3",
       "(x/10)3",
@@ -8565,7 +8565,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-431-1162",
-    "questionText": "Find the value of y if 402<sub>y</sub> =102<sub>ten</sub> (JAMB 2023)",
+    "questionText": "Find the value of y if 402<sub>y</sub> =102<sub>ten</sub>",
     "options": [
       "4",
       "2",
@@ -8577,7 +8577,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-432-1218",
-    "questionText": "Evaluate ∫sin2xdx (JAMB 2014)",
+    "questionText": "Evaluate ∫sin2xdx",
     "options": [
       "cos 2x + k",
       "1/2cos 2x + k",
@@ -8589,7 +8589,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-433-304",
-    "questionText": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec (JAMB 2004)",
+    "questionText": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec",
     "options": [
       "96 cm",
       "324 cm",
@@ -8601,7 +8601,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-434-994",
-    "questionText": "Solve for x in (4x-6)/3 ≤ (3 + 2x)/2 (JAMB 2019)",
+    "questionText": "Solve for x in (4x-6)/3 ≤ (3 + 2x)/2",
     "options": [
       "x≤1(1/2)",
       "x≤(21/2)",
@@ -8613,7 +8613,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-435-1219",
-    "questionText": "Evaluate ∫(2x+3)<sup>(1/2)</sup> δx (JAMB 2014)",
+    "questionText": "Evaluate ∫(2x+3)<sup>(1/2)</sup> δx",
     "options": [
       "1/12(2x+3)<sup>6</sup> +k",
       "1/3(2x+3)<sup>(1/2)</sup> +k",
@@ -8625,7 +8625,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-436-417",
-    "questionText": "If tan θ = 5/4 find sin<sup>2</sup> - cos<sup>2</sup>θ (JAMB 2006)",
+    "questionText": "If tan θ = 5/4 find sin<sup>2</sup> - cos<sup>2</sup>θ",
     "options": [
       "9/41",
       "5/4",
@@ -8637,7 +8637,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-437-940",
-    "questionText": "A car uses one litre of petrol for every 14km. If one litre of petrol cost N63.00, how far can the car go with N900.00 worth of petrol? (JAMB 2018)",
+    "questionText": "A car uses one litre of petrol for every 14km. If one litre of petrol cost N63.00, how far can the car go with N900.00 worth of petrol?",
     "options": [
       "420 Km",
       "405 Km",
@@ -8649,7 +8649,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-438-11",
-    "questionText": "Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.   (JAMB 2006)",
+    "questionText": "Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.",
     "options": [
       "2",
       "3.5",
@@ -8661,7 +8661,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-439-892",
-    "questionText": "A car dealer bought a second-hand car for 250,000 and spent N 70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain? (JAMB 2017)",
+    "questionText": "A car dealer bought a second-hand car for 250,000 and spent N 70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
     "options": [
       "60%",
       "32%",
@@ -8673,7 +8673,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-440-790",
-    "questionText": "If y = (2x + 2)<sup>3</sup>, find δy/δx (JAMB 2013)",
+    "questionText": "If y = (2x + 2)<sup>3</sup>, find δy/δx",
     "options": [
       "3(2x +2)<sup>2</sup>",
       "6(2x +2)",
@@ -8685,7 +8685,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-441-415",
-    "questionText": "If y = x2 - x - 12, find the range of values of x for which y ≥ \n 0 (JAMB 2006)",
+    "questionText": "If y = x2 - x - 12, find the range of values of x for which y ≥ \n 0",
     "options": [
       "x < -3 0r x > 4",
       "x ≤ -3 or x ≥ 4",
@@ -8697,7 +8697,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-442-760",
-    "questionText": "The shaded region above is represented by\nthe equation (JAMB 2012)",
+    "questionText": "The shaded region above is represented by\nthe equation",
     "options": [
       "y ≤ 4x + 2",
       "y ≥ 4x + 2",
@@ -8709,7 +8709,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-443-78",
-    "questionText": "If 314<sub>10</sub> - 256<sub>7</sub> = 340<sub>x</sub>, find x.\n (JAMB 2000)",
+    "questionText": "If 314<sub>10</sub> - 256<sub>7</sub> = 340<sub>x</sub>, find x.\n",
     "options": [
       "7",
       "8",
@@ -8721,7 +8721,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-444-981",
-    "questionText": "Find the mean of the data. (JAMB 2019)",
+    "questionText": "Find the mean of the data.",
     "options": [
       "3.26",
       "4.91",
@@ -8733,7 +8733,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-445-956",
-    "questionText": "Use the quadratic equation curve to answer this questions\nWhat is the minimum value of the graph? (JAMB 2018)",
+    "questionText": "Use the quadratic equation curve to answer this questions\nWhat is the minimum value of the graph?",
     "options": [
       "-5.3",
       "0.5",
@@ -8745,7 +8745,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-446-886",
-    "questionText": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon (JAMB 2017)",
+    "questionText": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon",
     "options": [
       "8",
       "6",
@@ -8757,7 +8757,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-447-925",
-    "questionText": "Solve for t in the equation 3/4\nt + 13\n(21 - t) = 11 (JAMB 2018)",
+    "questionText": "Solve for t in the equation 3/4\nt + 13\n(21 - t) = 11",
     "options": [
       "9/13",
       "7/13",
@@ -8769,7 +8769,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-448-212",
-    "questionText": "In the diagram above , XZ is the diameter of the circle XZW, with center O and radius 15/2 cm. If XY = 12 cm, find the area of the triangle XYZ (JAMB 2002)",
+    "questionText": "In the diagram above , XZ is the diameter of the circle XZW, with center O and radius 15/2 cm. If XY = 12 cm, find the area of the triangle XYZ",
     "options": [
       "54 cm<sup>2</sup>",
       "45 cm<sup>2</sup>",
@@ -8781,7 +8781,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-449-631",
-    "questionText": "Make R the subject of the formula if T = KR<sup>2</sup>+M/3 (JAMB 2011)",
+    "questionText": "Make R the subject of the formula if T = KR<sup>2</sup>+M/3",
     "options": [
       "√((3T-K)/M)",
       "√((3T-M)/K)",
@@ -8793,7 +8793,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-450-302",
-    "questionText": "Factorize completely ac - 2bc - a + 4b<sup>2</sup> (JAMB 2004)",
+    "questionText": "Factorize completely ac - 2bc - a + 4b<sup>2</sup>",
     "options": [
       "(a - 2b)(c - a - 2b)",
       "(a - 2b)(c + a +2b)",
@@ -8805,7 +8805,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-451-1190",
-    "questionText": "A man donates 10% of his monthly net earnings to his church. If it amounts to N4,500, what is his net monthly income? (JAMB 2014)",
+    "questionText": "A man donates 10% of his monthly net earnings to his church. If it amounts to N4,500, what is his net monthly income?",
     "options": [
       "N40,500",
       "N45,000",
@@ -8817,7 +8817,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-452-1153",
-    "questionText": "The ages of students in a small primary school were recorded in the table below.  Estimate the mean (JAMB 2023)",
+    "questionText": "The ages of students in a small primary school were recorded in the table below.  Estimate the mean",
     "options": [
       "7.7",
       "7.5",
@@ -8829,7 +8829,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-453-887",
-    "questionText": "A cylindrical tank has a capacity of 3080m3. What is the depth of the tank if the diameter of its base is 14m? Take pi = 22/7. (JAMB 2017)",
+    "questionText": "A cylindrical tank has a capacity of 3080m3. What is the depth of the tank if the diameter of its base is 14m? Take pi = 22/7.",
     "options": [
       "23m",
       "25m",
@@ -8841,7 +8841,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-454-497",
-    "questionText": "Find the angle subtended at the center of a circle by a chord which is equal in length to the radius of the circle. (JAMB 2008)",
+    "questionText": "Find the angle subtended at the center of a circle by a chord which is equal in length to the radius of the circle.",
     "options": [
       "30°",
       "45°",
@@ -8853,7 +8853,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-455-1203",
-    "questionText": "The 4th term of an A.P. is 13 while the 10th term is 31. Find the 24th term. (JAMB 2014)",
+    "questionText": "The 4th term of an A.P. is 13 while the 10th term is 31. Find the 24th term.",
     "options": [
       "89",
       "75",
@@ -8877,7 +8877,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-457-153",
-    "questionText": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p. (JAMB 2001)",
+    "questionText": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p.",
     "options": [
       "square of sides p",
       "square of sides 2p",
@@ -8889,7 +8889,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-458-328",
-    "questionText": "If Log<sub>10</sub> 2 = 0.3010 and Log<sub>10</sub>3 = 0.4771, evaluate Log<sub>10</sub>4.5 (JAMB 2005)",
+    "questionText": "If Log<sub>10</sub> 2 = 0.3010 and Log<sub>10</sub>3 = 0.4771, evaluate Log<sub>10</sub>4.5",
     "options": [
       "0.9542",
       "0.6532",
@@ -8901,7 +8901,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-459-106",
-    "questionText": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5  (JAMB 2000)",
+    "questionText": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5",
     "options": [
       "16",
       "14",
@@ -8913,7 +8913,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-460-498",
-    "questionText": "Find the capacity in liters of a cylindrical well of radius 1 meter and depth 14 meters\n[π = 22/7] (JAMB 2008)",
+    "questionText": "Find the capacity in liters of a cylindrical well of radius 1 meter and depth 14 meters\n[π = 22/7]",
     "options": [
       "44,000 liters",
       "4,400 liters",
@@ -8925,7 +8925,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-461-268",
-    "questionText": "The range of 4, 3, 11, 9, 6, 15, 19, 23, 27, 24, 21 and\n16 is (JAMB 2003)",
+    "questionText": "The range of 4, 3, 11, 9, 6, 15, 19, 23, 27, 24, 21 and\n16 is",
     "options": [
       "23",
       "24",
@@ -8937,7 +8937,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-462-801",
-    "questionText": "The graph above is correctly represented by (JAMB 2013)",
+    "questionText": "The graph above is correctly represented by",
     "options": [
       "y = x<sup>2</sup> - x - 2",
       "y = x<sup>2</sup> - 3x + 2",
@@ -8949,7 +8949,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-463-341",
-    "questionText": "Three straight lines EF, GH and LK interest at O as shown above. If ∠KOF = 52° and ∠LOH = 85°, calculate the size of ∠EOG. (JAMB 2005)",
+    "questionText": "Three straight lines EF, GH and LK interest at O as shown above. If ∠KOF = 52° and ∠LOH = 85°, calculate the size of ∠EOG.",
     "options": [
       "26°",
       "43°",
@@ -8961,7 +8961,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-464-50",
-    "questionText": "If 32y – 6(3y) = 27, find y  (JAMB 2009)",
+    "questionText": "If 32y – 6(3y) = 27, find y",
     "options": [
       "3",
       "-1",
@@ -8973,7 +8973,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-465-563",
-    "questionText": "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2 (JAMB 2009)",
+    "questionText": "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2",
     "options": [
       "0.5",
       "1.0",
@@ -8985,7 +8985,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-466-1278",
-    "questionText": "Integral ∫(5x<sup>3</sup> + 7x<sup>2</sup> − 2x +5)\ndx (JAMB 2015)",
+    "questionText": "Integral ∫(5x<sup>3</sup> + 7x<sup>2</sup> − 2x +5)\ndx",
     "options": [
       "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 + 2x + C",
       "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 − x<sup>2</sup> + 5x + C",
@@ -8997,7 +8997,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-467-999",
-    "questionText": "Tade bought 200 mangoes at 4 for ₦2.50. 30 out of the mangoes got spoilt and the remaining were sold at 2 for ₦2.40. Find the percentage profit or loss. (JAMB 2019)",
+    "questionText": "Tade bought 200 mangoes at 4 for ₦2.50. 30 out of the mangoes got spoilt and the remaining were sold at 2 for ₦2.40. Find the percentage profit or loss.",
     "options": [
       "43.6% loss",
       "35% profit",
@@ -9009,7 +9009,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-468-83",
-    "questionText": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity\n (JAMB 2000)",
+    "questionText": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity\n",
     "options": [
       "p",
       "p -1",
@@ -9021,7 +9021,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-469-1275",
-    "questionText": "Evaluate log<sub>7</sub>17 (JAMB 2015)",
+    "questionText": "Evaluate log<sub>7</sub>17",
     "options": [
       "1.35",
       "1.353",
@@ -9033,7 +9033,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-470-440",
-    "questionText": "Solve the inequalities -3(x - 2) < -2(x + 3) (JAMB 2007)",
+    "questionText": "Solve the inequalities -3(x - 2) < -2(x + 3)",
     "options": [
       "x > 12",
       "x < 12",
@@ -9045,7 +9045,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-471-351",
-    "questionText": "Find the derivative of y = sin(2x<sup>3</sup>\n + 3x - 4) (JAMB 2005)",
+    "questionText": "Find the derivative of y = sin(2x<sup>3</sup>\n + 3x - 4)",
     "options": [
       "cos (2x<sup>3</sup> + 3x - 4)",
       "-cos (2x<sup>3</sup> + 3x - 4)",
@@ -9057,7 +9057,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-472-155",
-    "questionText": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is (JAMB 2001)",
+    "questionText": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is",
     "options": [
       "7.0",
       "8.7",
@@ -9069,7 +9069,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-473-880",
-    "questionText": "The locus of a point which is equidistant from the line PQ forms a (JAMB 2017)",
+    "questionText": "The locus of a point which is equidistant from the line PQ forms a",
     "options": [
       "circle centre P",
       "pair of parallel lines each opposite to PQ",
@@ -9081,7 +9081,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-474-879",
-    "questionText": "Simplify 3<sup>n−1</sup> ×  (27<sup>n+1</sup>)/81<sup>n</sup> (JAMB 2017)",
+    "questionText": "Simplify 3<sup>n−1</sup> ×  (27<sup>n+1</sup>)/81<sup>n</sup>",
     "options": [
       "32<sup>2n</sup>",
       "9",
@@ -9093,7 +9093,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-475-1280",
-    "questionText": "Simplify 1/(x+1) + 1/(x−1) (JAMB 2015)",
+    "questionText": "Simplify 1/(x+1) + 1/(x−1)",
     "options": [
       "2x/(x + 1)(x−3)",
       "2x/(x + 1)(x−1)",
@@ -9105,7 +9105,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-476-35",
-    "questionText": "A cyclist rode for 30minutes at xkm/hr and due to a breakdown, he had to push the bike for 2hrs at (x – 5) km/hr. if the total distance covered is less than 60km, what is the range of values for x?  (JAMB 2008)",
+    "questionText": "A cyclist rode for 30minutes at xkm/hr and due to a breakdown, he had to push the bike for 2hrs at (x – 5) km/hr. if the total distance covered is less than 60km, what is the range of values for x?",
     "options": [
       "x<14",
       "x<29",
@@ -9129,7 +9129,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-478-109",
-    "questionText": "The expression ax<sup>2</sup> + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, c respectively? (JAMB 2000)",
+    "questionText": "The expression ax<sup>2</sup> + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, c respectively?",
     "options": [
       "1, 3, 1",
       "1, 2, 1",
@@ -9141,7 +9141,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-479-570",
-    "questionText": "Subtract 16418<sub>9</sub> from 18630<sub>9</sub>. (JAMB 2009)",
+    "questionText": "Subtract 16418<sub>9</sub> from 18630<sub>9</sub>.",
     "options": [
       "1121<sub>9</sub>",
       "2112<sub>9</sub>",
@@ -9153,7 +9153,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-480-949",
-    "questionText": "A man stands on a tree 150cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree. (JAMB 2018)",
+    "questionText": "A man stands on a tree 150cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.",
     "options": [
       "52 cm",
       "43 cm",
@@ -9165,7 +9165,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-481-370",
-    "questionText": "From the diagram above, find the bearing of R and S (JAMB 2005)",
+    "questionText": "From the diagram above, find the bearing of R and S",
     "options": [
       "226°",
       "224°",
@@ -9177,7 +9177,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-482-848",
-    "questionText": "An arc of the length 16π cm subtends an angle of 80° at the centre of the circle. Find the radius of the circle. (JAMB 2016)",
+    "questionText": "An arc of the length 16π cm subtends an angle of 80° at the centre of the circle. Find the radius of the circle.",
     "options": [
       "24cm",
       "28cm",
@@ -9189,7 +9189,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-483-274",
-    "questionText": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x (JAMB 2004)",
+    "questionText": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x",
     "options": [
       "y = 90 - x",
       "y = 150 - x",
@@ -9201,7 +9201,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-484-405",
-    "questionText": "In the diagram above, PQ = 10 cm, PS = 8 cm and ∠PSR is 60o while ∠SRQ is a right angle. Find SR (JAMB 2006)",
+    "questionText": "In the diagram above, PQ = 10 cm, PS = 8 cm and ∠PSR is 60o while ∠SRQ is a right angle. Find SR",
     "options": [
       "14 cm",
       "14√3 cm",
@@ -9213,7 +9213,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-485-454",
-    "questionText": "If X = {all the perfect squares less than 40}\nY = {all the odd numbers fro, 1 to 15}. Find X ∩ Y. (JAMB 2007)",
+    "questionText": "If X = {all the perfect squares less than 40}\nY = {all the odd numbers fro, 1 to 15}. Find X ∩ Y.",
     "options": [
       "{3, 9}",
       "{9}",
@@ -9225,7 +9225,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-486-905",
-    "questionText": "Make S the subject of the relation\np = s + (sm<sup>2</sup>)/nr (JAMB 2017)",
+    "questionText": "Make S the subject of the relation\np = s + (sm<sup>2</sup>)/nr",
     "options": [
       "s = nrpn/r+m<sup>2</sup>",
       "s = nr + m<sup>2</sup> /mrp",
@@ -9237,7 +9237,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-487-55",
-    "questionText": "A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close  (JAMB 2009)",
+    "questionText": "A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close",
     "options": [
       "1/7",
       "7/18",
@@ -9249,7 +9249,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-488-1166",
-    "questionText": "If A = { 1, 2, 3, 4, 5, 6}, B = { 2, 4, 6, 8 }. Find (A – B) ⋃ (B – A). (JAMB 2023)",
+    "questionText": "If A = { 1, 2, 3, 4, 5, 6}, B = { 2, 4, 6, 8 }. Find (A – B) ⋃ (B – A).",
     "options": [
       "{1, 3, 5, 8}",
       "{8}",
@@ -9261,7 +9261,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-489-785",
-    "questionText": "The n<sup>th</sup> term of the progression 4/2, 7/3, 10/4, 13/5 is ... (JAMB 2013)",
+    "questionText": "The n<sup>th</sup> term of the progression 4/2, 7/3, 10/4, 13/5 is ...",
     "options": [
       "(1−3n)/(n+1)",
       "(3n + 1)/(n+1)",
@@ -9273,7 +9273,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-490-611",
-    "questionText": "Find the distance between the points (1/2, 1/2) and (-1/2, -1/2). (JAMB 2010)",
+    "questionText": "Find the distance between the points (1/2, 1/2) and (-1/2, -1/2).",
     "options": [
       "1",
       "0",
@@ -9285,7 +9285,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-491-847",
-    "questionText": "Evaluate ∫<sub>0</sub><sup>π/2</sup> sin xdx (JAMB 2016)",
+    "questionText": "Evaluate ∫<sub>0</sub><sup>π/2</sup> sin xdx",
     "options": [
       "2",
       "-1",
@@ -9297,7 +9297,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-492-553",
-    "questionText": "If y = 3 cos 4x, dy/dx equals? (JAMB 2009)",
+    "questionText": "If y = 3 cos 4x, dy/dx equals?",
     "options": [
       "6 sin 8x",
       "-24 sin 4x",
@@ -9309,7 +9309,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-493-856",
-    "questionText": "Evaluate ∫\n(sinx - 5x<sup>2</sup>)dx (JAMB 2016)",
+    "questionText": "Evaluate ∫\n(sinx - 5x<sup>2</sup>)dx",
     "options": [
       "-cosx - 10x + k",
       "cosx - 5x<sup>3</sup>/3 + k",
@@ -9321,7 +9321,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-494-182",
-    "questionText": "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area? (JAMB 2002)",
+    "questionText": "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?",
     "options": [
       "2π",
       "5π",
@@ -9333,7 +9333,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-495-885",
-    "questionText": "The value of x + x ( xx) when x = 2 is (JAMB 2017)",
+    "questionText": "The value of x + x ( xx) when x = 2 is",
     "options": [
       "16",
       "10",
@@ -9345,7 +9345,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-496-333",
-    "questionText": "The time taken to do a piece of work is inversely proportional to the number of men employed. If it takes 30 men to do a piece of work in 6 days, how many men are required to do the work in 4 days? (JAMB 2005)",
+    "questionText": "The time taken to do a piece of work is inversely proportional to the number of men employed. If it takes 30 men to do a piece of work in 6 days, how many men are required to do the work in 4 days?",
     "options": [
       "20",
       "35",
@@ -9357,7 +9357,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-497-508",
-    "questionText": "The bar chart above shows the number of times the word a, and , in, it, the , to appear in a paragraph in a book. What is the ratio of the least frequent word? (JAMB 2008)",
+    "questionText": "The bar chart above shows the number of times the word a, and , in, it, the , to appear in a paragraph in a book. What is the ratio of the least frequent word?",
     "options": [
       "1/4",
       "1/3",
@@ -9369,7 +9369,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-498-1126",
-    "questionText": "Given that S = 3t<sup>2</sup> + 5t - 10 is displacement of a particle in metres, calculate it initial velocity. (JAMB 2022)",
+    "questionText": "Given that S = 3t<sup>2</sup> + 5t - 10 is displacement of a particle in metres, calculate it initial velocity.",
     "options": [
       "10m/s",
       "2m/s",
@@ -9381,7 +9381,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-499-1269",
-    "questionText": "A man bought a car for N800 and sold it for N520. Find his loss per cent (JAMB 2015)",
+    "questionText": "A man bought a car for N800 and sold it for N520. Find his loss per cent",
     "options": [
       "15%",
       "25%",
@@ -9393,7 +9393,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-500-568",
-    "questionText": "The histogram above represents the number of candidates that sat for Mathematics examination in a school. How many candidate scored more than 50 marks? (JAMB 2009)",
+    "questionText": "The histogram above represents the number of candidates that sat for Mathematics examination in a school. How many candidate scored more than 50 marks?",
     "options": [
       "80",
       "95",
@@ -9405,7 +9405,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-501-158",
-    "questionText": "Find the variance of 2, 6, 8, 6 2, and 6. (JAMB 2001)",
+    "questionText": "Find the variance of 2, 6, 8, 6 2, and 6.",
     "options": [
       "6",
       "5",
@@ -9417,7 +9417,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-502-733",
-    "questionText": "If y varies directly as √n\n and y = 4 when n = 4, find y when n = 1(7/9) (JAMB 2012)",
+    "questionText": "If y varies directly as √n\n and y = 4 when n = 4, find y when n = 1(7/9)",
     "options": [
       "√17",
       "4/3",
@@ -9429,7 +9429,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-503-624",
-    "questionText": "A man invested N5,000 for 9 months at 4%. What is the simple interest? (JAMB 2011)",
+    "questionText": "A man invested N5,000 for 9 months at 4%. What is the simple interest?",
     "options": [
       "N150",
       "N220",
@@ -9441,7 +9441,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-504-804",
-    "questionText": "The bar chart above shows the allotment of time(in minutes) per week for selected subjects in a certain school. What is the total time allocated to the six subjects per week? (JAMB 2013)",
+    "questionText": "The bar chart above shows the allotment of time(in minutes) per week for selected subjects in a certain school. What is the total time allocated to the six subjects per week?",
     "options": [
       "460mins",
       "720mins",
@@ -9453,7 +9453,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-505-814",
-    "questionText": "If tanθ=3/4, find the value of sinθ + cosθ\n. (JAMB 2013)",
+    "questionText": "If tanθ=3/4, find the value of sinθ + cosθ\n.",
     "options": [
       "1(1/3)",
       "1(2/3)",
@@ -9465,7 +9465,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-506-176",
-    "questionText": "Evaluate: 0.21×0.072×0.00054/0.006×1.68×0.063 (JAMB 2002)",
+    "questionText": "Evaluate: 0.21×0.072×0.00054/0.006×1.68×0.063",
     "options": [
       "0.01286",
       "0.01285",
@@ -9477,7 +9477,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-507-1283",
-    "questionText": "The volume of a cone (s) of height 6cm and base radius 5cm is (JAMB 2015)",
+    "questionText": "The volume of a cone (s) of height 6cm and base radius 5cm is",
     "options": [
       "157 cm<sup>3</sup>",
       "155 cm<sup>3</sup>",
@@ -9489,7 +9489,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-508-662",
-    "questionText": "In how many ways can five people sit round a circular table? (JAMB 2011)",
+    "questionText": "In how many ways can five people sit round a circular table?",
     "options": [
       "24",
       "60",
@@ -9501,7 +9501,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-509-71",
-    "questionText": "What is the coordinate of centre of the circle X2+y2+2x-4y =10?   (JAMB 2013)",
+    "questionText": "What is the coordinate of centre of the circle X2+y2+2x-4y =10?",
     "options": [
       "(-1,-2)",
       "( 1, 2)",
@@ -9525,7 +9525,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-511-156",
-    "questionText": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw? (JAMB 2001)",
+    "questionText": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw?",
     "options": [
       "2/3",
       "1/2",
@@ -9537,7 +9537,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-512-995",
-    "questionText": "Solve the inequality: -7 ≤\n 9 - 8x < 16 - x (JAMB 2019)",
+    "questionText": "Solve the inequality: -7 ≤\n 9 - 8x < 16 - x",
     "options": [
       "-1 ≤ x ≤ 2",
       "-1 ≤ x < 2",
@@ -9549,7 +9549,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-513-284",
-    "questionText": "Find the derivatives of the function y = 2x2(2x - 1) at the point x = -1 (JAMB 2004)",
+    "questionText": "Find the derivatives of the function y = 2x2(2x - 1) at the point x = -1",
     "options": [
       "18",
       "16",
@@ -9561,7 +9561,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-514-1058",
-    "questionText": "Solve the following equation: 2(2r−1) - 5/3 =  1(r+2) (JAMB 2021)",
+    "questionText": "Solve the following equation: 2(2r−1) - 5/3 =  1(r+2)",
     "options": [
       "( -1, 5/2 )",
       "( 1, - 5/2 )",
@@ -9573,7 +9573,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-515-763",
-    "questionText": "Find the area of the trapezium above. (JAMB 2012)",
+    "questionText": "Find the area of the trapezium above.",
     "options": [
       "91 cm<sub>2</sub>",
       "78 cm<sub>2</sub>",
@@ -9585,7 +9585,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-516-963",
-    "questionText": "Find the average of the first four prime numbers greater than 10 (JAMB 2018)",
+    "questionText": "Find the average of the first four prime numbers greater than 10",
     "options": [
       "20",
       "19",
@@ -9597,7 +9597,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-517-21",
-    "questionText": "A bearing of 310o, expressed as a compass bearing is:  (JAMB 2007)",
+    "questionText": "A bearing of 310o, expressed as a compass bearing is:",
     "options": [
       "N50oW",
       "N40oW",
@@ -9609,7 +9609,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-518-657",
-    "questionText": "Find ∫ cos4 x dx (JAMB 2011)",
+    "questionText": "Find ∫ cos4 x dx",
     "options": [
       "3/4 sin 4x + k",
       "-1/4 sin 4x + k",
@@ -9621,7 +9621,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788724799320-519-1114",
-    "questionText": "Evaluate Log<sub>2</sub> 8√2 (JAMB 2022)",
+    "questionText": "Evaluate Log<sub>2</sub> 8√2",
     "options": [
       "3.0",
       "4.5",
@@ -9633,7 +9633,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-0-84",
-    "questionText": "Evaluate (1/2 - 1/4 - 1/8 - 1/16 + ...) - 1 (JAMB 2000)",
+    "questionText": "Evaluate (1/2 - 1/4 - 1/8 - 1/16 + ...) - 1",
     "options": [
       "2/3",
       "zero",
@@ -9645,7 +9645,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-1-90",
-    "questionText": "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and angle VUS = 60°, find angle UST. (JAMB 2000)",
+    "questionText": "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and angle VUS = 60°, find angle UST.",
     "options": [
       "310°",
       "130°",
@@ -9657,7 +9657,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-2-112",
-    "questionText": "In the diagram above, EFGH is a circle center O. Fh is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH. (JAMB 2000)",
+    "questionText": "In the diagram above, EFGH is a circle center O. Fh is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH.",
     "options": [
       "16 cm",
       "20 cm",
@@ -9669,7 +9669,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-3-86",
-    "questionText": "A trader realizes 10x - x<sup>2</sup>\n naira profit from the sale of x bags on corn. How many bags will give him the desired profit? (JAMB 2000)",
+    "questionText": "A trader realizes 10x - x<sup>2</sup>\n naira profit from the sale of x bags on corn. How many bags will give him the desired profit?",
     "options": [
       "4",
       "5",
@@ -9681,7 +9681,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-4-116",
-    "questionText": "The cumulative frequency curve represents the ages of ages of students in a school. What age group do 70% of the students belongs? (JAMB 2000)",
+    "questionText": "The cumulative frequency curve represents the ages of ages of students in a school. What age group do 70% of the students belongs?",
     "options": [
       "17.5 - 20.5",
       "16.5 - 19.5",
@@ -9693,7 +9693,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-5-121",
-    "questionText": "An equilateral triangle of side √3 cm is inscribed in \na circle. Find the radius of the circle (JAMB 2000)",
+    "questionText": "An equilateral triangle of side √3 cm is inscribed in \na circle. Find the radius of the circle",
     "options": [
       "2/3cm",
       "2cm",
@@ -9705,7 +9705,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-6-113",
-    "questionText": "In the diagram, If < RPS = 50°, < RPQ = 30° and pq = QR, Find the value of < prs\n (JAMB 2000)",
+    "questionText": "In the diagram, If < RPS = 50°, < RPQ = 30° and pq = QR, Find the value of < prs\n",
     "options": [
       "50°",
       "60°",
@@ -9717,7 +9717,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-7-77",
-    "questionText": "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for N150,000. How much does he need to deposit?\n (JAMB 2000)",
+    "questionText": "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for N150,000. How much does he need to deposit?\n",
     "options": [
       "N112,000.50",
       "N96,000.00",
@@ -9729,7 +9729,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-8-78",
-    "questionText": "If 314<sub>10</sub> - 256<sub>7</sub> = 340<sub>x</sub>, find x.\n (JAMB 2000)",
+    "questionText": "If 314<sub>10</sub> - 256<sub>7</sub> = 340<sub>x</sub>, find x.\n",
     "options": [
       "7",
       "8",
@@ -9741,7 +9741,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-9-103",
-    "questionText": "If U = {x : x is an integer and 1≤ x ≤ 20\nE1 = {x : x is a multiple of 3}\nE2 = {x : x is a multiple of 4}\nand an integer is picked at random from U, find the probability that it is not in E2 (JAMB 2000)",
+    "questionText": "If U = {x : x is an integer and 1≤ x ≤ 20\nE1 = {x : x is a multiple of 3}\nE2 = {x : x is a multiple of 4}\nand an integer is picked at random from U, find the probability that it is not in E2",
     "options": [
       "3/4",
       "3/10",
@@ -9753,7 +9753,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-10-100",
-    "questionText": "X and Y are two events. The probability of X or Y is 0.7 and that of X is 0.4. If X and Y are independent, find the probability of Y. (JAMB 2000)",
+    "questionText": "X and Y are two events. The probability of X or Y is 0.7 and that of X is 0.4. If X and Y are independent, find the probability of Y.",
     "options": [
       "0.30",
       "0.50",
@@ -9765,7 +9765,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-11-92",
-    "questionText": "3y = 4x - 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K.\n (JAMB 2000)",
+    "questionText": "3y = 4x - 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K.\n",
     "options": [
       "-4/3",
       "-3/4",
@@ -9777,7 +9777,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-12-75",
-    "questionText": "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music? (JAMB 2000)",
+    "questionText": "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?",
     "options": [
       "8",
       "24",
@@ -9789,7 +9789,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-13-108",
-    "questionText": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)?  (JAMB 2000)",
+    "questionText": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)?",
     "options": [
       "y = (3x<sup>2</sup>/)2 + 2x",
       "y = (3x<sup>2</sup>)/2 + x",
@@ -9801,7 +9801,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-14-115",
-    "questionText": "If the diagram is the graph of y = x<sup>2</sup>, the shaded area is (JAMB 2000)",
+    "questionText": "If the diagram is the graph of y = x<sup>2</sup>, the shaded area is",
     "options": [
       "64 square units",
       "126/4 square units",
@@ -9813,7 +9813,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-15-119",
-    "questionText": "A matrix P is such that P<sup>T</sup>= p, where P<sup>T</sup> is the transpose of P, if b = 1, then P is (JAMB 2000)",
+    "questionText": "A matrix P is such that P<sup>T</sup>= p, where P<sup>T</sup> is the transpose of P, if b = 1, then P is",
     "options": [
       "(0, 1) (1, 0)",
       "(0, 1) (-1, 0)",
@@ -9825,7 +9825,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-16-98",
-    "questionText": "A bowl is designed by revolving completely the area enclosed by y = x<sup>2</sup> - 1, y = 3 and x ≥ 0 around the axis. What is the volume of this bowl?\n\n (JAMB 2000)",
+    "questionText": "A bowl is designed by revolving completely the area enclosed by y = x<sup>2</sup> - 1, y = 3 and x ≥ 0 around the axis. What is the volume of this bowl?\n\n",
     "options": [
       "7π cubic units",
       "15π/2 cubic units",
@@ -9837,7 +9837,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-17-120",
-    "questionText": "A ship sails a distance of 50km in the direction S50°E \nand then sails a distance of 50km in the direction \nN40°E. find the bearing of the ship from its original \nposition (JAMB 2000)",
+    "questionText": "A ship sails a distance of 50km in the direction S50°E \nand then sails a distance of 50km in the direction \nN40°E. find the bearing of the ship from its original \nposition",
     "options": [
       "S90°E",
       "N40°E",
@@ -9849,7 +9849,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-18-83",
-    "questionText": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity\n (JAMB 2000)",
+    "questionText": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity\n",
     "options": [
       "p",
       "p -1",
@@ -9861,7 +9861,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-19-114",
-    "questionText": "In the diagram, EFGH is a circle centre O. FH is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH (JAMB 2000)",
+    "questionText": "In the diagram, EFGH is a circle centre O. FH is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH",
     "options": [
       "32cm",
       "26cm",
@@ -9873,7 +9873,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-20-76",
-    "questionText": "Evaluate (2.813×10<sup>−3</sup>×1.063)/(5.637×10<sup>−2</sup>) reducing each number to two significant figures and leaving your answer in two significant figures.\u000b\n (JAMB 2000)",
+    "questionText": "Evaluate (2.813×10<sup>−3</sup>×1.063)/(5.637×10<sup>−2</sup>) reducing each number to two significant figures and leaving your answer in two significant figures.\u000b\n",
     "options": [
       "0.056",
       "0.055",
@@ -9885,7 +9885,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-21-117",
-    "questionText": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places  (JAMB 2000)",
+    "questionText": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places",
     "options": [
       "20.980",
       "20.351",
@@ -9897,7 +9897,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-22-96",
-    "questionText": " Find the value of ∫π0(cos<sup>2</sup>θ−1/sin<sup>2</sup>θ)*dθ (JAMB 2000)",
+    "questionText": " Find the value of ∫π0(cos<sup>2</sup>θ−1/sin<sup>2</sup>θ)*dθ",
     "options": [
       "π",
       "π/2",
@@ -9909,7 +9909,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-23-97",
-    "questionText": "If y = 2x - sin2x, find dy/dx when x = π/4\n (JAMB 2000)",
+    "questionText": "If y = 2x - sin2x, find dy/dx when x = π/4\n",
     "options": [
       "π",
       "-π",
@@ -9921,7 +9921,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-24-106",
-    "questionText": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5  (JAMB 2000)",
+    "questionText": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5",
     "options": [
       "16",
       "14",
@@ -9933,7 +9933,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-25-110",
-    "questionText": "Evaluate 5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup> (JAMB 2000)",
+    "questionText": "Evaluate 5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup>",
     "options": [
       "8",
       "1(1/8)",
@@ -9945,7 +9945,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-26-102",
-    "questionText": "Given that the various faces of a fair dice 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f).\nIf a pie chart is used to depict the data, the angle corresponding to 4 is? (JAMB 2000)",
+    "questionText": "Given that the various faces of a fair dice 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f).\nIf a pie chart is used to depict the data, the angle corresponding to 4 is?",
     "options": [
       "10°",
       "16°",
@@ -9957,7 +9957,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-27-111",
-    "questionText": "In the diagram above, if ∠RPS = 50°, ∠RPQ = 30° and PQ = QR, find the value of ∠PRS. (JAMB 2000)",
+    "questionText": "In the diagram above, if ∠RPS = 50°, ∠RPQ = 30° and PQ = QR, find the value of ∠PRS.",
     "options": [
       "80°",
       "70°",
@@ -9969,7 +9969,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-28-107",
-    "questionText": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man and at least one woman must be included? (JAMB 2000)",
+    "questionText": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man and at least one woman must be included?",
     "options": [
       "15",
       "28",
@@ -9981,7 +9981,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-29-118",
-    "questionText": "In how many ways can the word MATHEMATICS be arranged? (JAMB 2000)",
+    "questionText": "In how many ways can the word MATHEMATICS be arranged?",
     "options": [
       "11!/(9! 2!)",
       "11!/(9! 2! 2!)",
@@ -9993,7 +9993,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-30-85",
-    "questionText": "if (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax<sup>3</sup> + bx<sup>2</sup> + cx - 1, find a, b, c in that order.\n (JAMB 2000)",
+    "questionText": "if (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax<sup>3</sup> + bx<sup>2</sup> + cx - 1, find a, b, c in that order.\n",
     "options": [
       "-1/2, 1., 1/2",
       "1/2, 1, 1/2",
@@ -10005,7 +10005,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-31-95",
-    "questionText": "A predator moves in a circle of radius √2 centre (0,0), while a prey moves along the line y = x. If 0 ≤ x ≤ 2, at which point(s) will they meet?\n (JAMB 2000)",
+    "questionText": "A predator moves in a circle of radius √2 centre (0,0), while a prey moves along the line y = x. If 0 ≤ x ≤ 2, at which point(s) will they meet?\n",
     "options": [
       "(1,1) only",
       "(1,1) and (1,2)",
@@ -10017,7 +10017,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-32-101",
-    "questionText": "\nIf the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation. (JAMB 2000)",
+    "questionText": "\nIf the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation.",
     "options": [
       "0",
       "2",
@@ -10029,7 +10029,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-33-109",
-    "questionText": "The expression ax<sup>2</sup> + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, c respectively? (JAMB 2000)",
+    "questionText": "The expression ax<sup>2</sup> + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, c respectively?",
     "options": [
       "1, 3, 1",
       "1, 2, 1",
@@ -10041,7 +10041,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-34-94",
-    "questionText": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon. (JAMB 2000)",
+    "questionText": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon.",
     "options": [
       "8",
       "6",
@@ -10053,7 +10053,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-35-93",
-    "questionText": "if P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is\n (JAMB 2000)",
+    "questionText": "if P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is\n",
     "options": [
       "straight line",
       "a circle",
@@ -10065,7 +10065,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-36-130",
-    "questionText": "If two graphs y = px<sup>2</sup>+ q and y = 2x<sup>2</sup> -1 intersect at x = 2, find the value of p in terms q. (JAMB 2001)",
+    "questionText": "If two graphs y = px<sup>2</sup>+ q and y = 2x<sup>2</sup> -1 intersect at x = 2, find the value of p in terms q.",
     "options": [
       "(q-8)/7",
       "(7-q)/4",
@@ -10077,7 +10077,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-37-157",
-    "questionText": "If <sup>6</sup>P<sub>r</sub> = 6, find the value of If <sup>6</sup>P<sub>r+1</sub>  (JAMB 2001)",
+    "questionText": "If <sup>6</sup>P<sub>r</sub> = 6, find the value of If <sup>6</sup>P<sub>r+1</sub>",
     "options": [
       "30",
       "33",
@@ -10089,7 +10089,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-38-159",
-    "questionText": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination. (JAMB 2001)",
+    "questionText": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination.",
     "options": [
       "490",
       "495",
@@ -10101,7 +10101,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-39-171",
-    "questionText": "The histogram shows the distribution of passengers in taxis at a certain motor park. How many taxis have more than 4 passengers? (JAMB 2001)",
+    "questionText": "The histogram shows the distribution of passengers in taxis at a certain motor park. How many taxis have more than 4 passengers?",
     "options": [
       "17",
       "16",
@@ -10113,7 +10113,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-40-127",
-    "questionText": "Find the principal which amounts to N5,500 at a simple interest in 5 years at 2% per annum. (JAMB 2001)",
+    "questionText": "Find the principal which amounts to N5,500 at a simple interest in 5 years at 2% per annum.",
     "options": [
       "N4,900",
       "N5,000",
@@ -10125,7 +10125,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-41-163",
-    "questionText": "In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, ∠SQR is 75o and ∠QPT is 25o. Calculate the value of ∠RST. (JAMB 2001)",
+    "questionText": "In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, ∠SQR is 75o and ∠QPT is 25o. Calculate the value of ∠RST.",
     "options": [
       "45°",
       "55°",
@@ -10137,7 +10137,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-42-149",
-    "questionText": "Differentiate (2x+5)<sup>2</sup>(x-4) with respect to x. (JAMB 2001)",
+    "questionText": "Differentiate (2x+5)<sup>2</sup>(x-4) with respect to x.",
     "options": [
       "4(2x+5)(x-4)",
       "4(2x+5)(4x-3)",
@@ -10149,7 +10149,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-43-142",
-    "questionText": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius. (JAMB 2001)",
+    "questionText": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius.",
     "options": [
       "6.5 units",
       "13.0 units",
@@ -10161,7 +10161,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-44-154",
-    "questionText": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode. (JAMB 2001)",
+    "questionText": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode.",
     "options": [
       "49",
       "121",
@@ -10173,7 +10173,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-45-162",
-    "questionText": "The identity element with respect to the multiplication shown in the table above is (JAMB 2001)",
+    "questionText": "The identity element with respect to the multiplication shown in the table above is",
     "options": [
       "o",
       "m",
@@ -10185,7 +10185,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-46-124",
-    "questionText": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq) (JAMB 2001)",
+    "questionText": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq)",
     "options": [
       "2(2+√2)",
       "-2(2+√2)",
@@ -10197,7 +10197,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-47-128",
-    "questionText": "Evaluate (0.14<sup>2</sup> x 0.275) 7(0.02) to 3 decimal places. (JAMB 2001)",
+    "questionText": "Evaluate (0.14<sup>2</sup> x 0.275) 7(0.02) to 3 decimal places.",
     "options": [
       "0.039",
       "0.358",
@@ -10209,7 +10209,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-48-147",
-    "questionText": "If the gradient of the curve y = 2kx<sup>2</sup> + x + 1 at x = 1 is 9, find k. (JAMB 2001)",
+    "questionText": "If the gradient of the curve y = 2kx<sup>2</sup> + x + 1 at x = 1 is 9, find k.",
     "options": [
       "4",
       "3",
@@ -10221,7 +10221,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-49-146",
-    "questionText": "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST. (JAMB 2001)",
+    "questionText": "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST.",
     "options": [
       "πr/6",
       "πr/2",
@@ -10233,7 +10233,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-50-158",
-    "questionText": "Find the variance of 2, 6, 8, 6 2, and 6. (JAMB 2001)",
+    "questionText": "Find the variance of 2, 6, 8, 6 2, and 6.",
     "options": [
       "6",
       "5",
@@ -10245,7 +10245,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-51-152",
-    "questionText": "If y = x sinx, find dy/dx when x = π/2. (JAMB 2001)",
+    "questionText": "If y = x sinx, find dy/dx when x = π/2.",
     "options": [
       "-π/2",
       "-1",
@@ -10257,7 +10257,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-52-148",
-    "questionText": "Evaluate (Integral)2(2x-3)<sup>2/3</sup>dx (JAMB 2001)",
+    "questionText": "Evaluate (Integral)2(2x-3)<sup>2/3</sup>dx",
     "options": [
       "3/5(2x-3)<sup>5/3</sup> + k",
       "6/5(2x-3)<sup>5/3</sup> + k",
@@ -10269,7 +10269,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-53-151",
-    "questionText": "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1. (JAMB 2001)",
+    "questionText": "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1.",
     "options": [
       "12π",
       "4π",
@@ -10281,7 +10281,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-54-126",
-    "questionText": "If x = y/2, evaluate (x<sup>2</sup> / y<sup>2</sup> + 1/2) / (1/2 - x<sup>2</sup> / y<sup>2</sup>) (JAMB 2001)",
+    "questionText": "If x = y/2, evaluate (x<sup>2</sup> / y<sup>2</sup> + 1/2) / (1/2 - x<sup>2</sup> / y<sup>2</sup>)",
     "options": [
       "5/8",
       "5/2",
@@ -10293,7 +10293,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-55-138",
-    "questionText": "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line. (JAMB 2001)",
+    "questionText": "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line.",
     "options": [
       "y = (x/10) + 5",
       "y = x + 5",
@@ -10305,7 +10305,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-56-155",
-    "questionText": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is (JAMB 2001)",
+    "questionText": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is",
     "options": [
       "7.0",
       "8.7",
@@ -10317,7 +10317,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-57-137",
-    "questionText": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30° (JAMB 2001)",
+    "questionText": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30°",
     "options": [
       "4√3cm",
       "8cm",
@@ -10329,7 +10329,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-58-153",
-    "questionText": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p. (JAMB 2001)",
+    "questionText": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p.",
     "options": [
       "square of sides p",
       "square of sides 2p",
@@ -10341,7 +10341,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-59-143",
-    "questionText": "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q. (JAMB 2001)",
+    "questionText": "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q.",
     "options": [
       "040°",
       "070°",
@@ -10353,7 +10353,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-60-170",
-    "questionText": "The graph shows the cumulative frequency of the distribution of masses of fertilizer for 48 workers in one institution. Which of the following gives the inter-quartile range? (JAMB 2001)",
+    "questionText": "The graph shows the cumulative frequency of the distribution of masses of fertilizer for 48 workers in one institution. Which of the following gives the inter-quartile range?",
     "options": [
       "1/2(Q<sub>3</sub> - Q<sub>1</sub>",
       "(Q<sub>3</sub> - Q<sub>2</sub>",
@@ -10365,7 +10365,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-61-160",
-    "questionText": "Find the range of these fractions:\n1/6, 1/3, 3/2, 2/3, 8/9 and 4/3. (JAMB 2001)",
+    "questionText": "Find the range of these fractions:\n1/6, 1/3, 3/2, 2/3, 8/9 and 4/3.",
     "options": [
       "3/4",
       "5/6",
@@ -10377,7 +10377,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-62-150",
-    "questionText": "Find the area bounded by the curves y = 4 - x<sup>2</sup> and y = 2x + 1 (JAMB 2001)",
+    "questionText": "Find the area bounded by the curves y = 4 - x<sup>2</sup> and y = 2x + 1",
     "options": [
       "20(1/3) sq. units",
       "20(2/3) sq. units",
@@ -10389,7 +10389,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-63-161",
-    "questionText": "Triangle SPT is the solution of the linear inequalities (JAMB 2001)",
+    "questionText": "Triangle SPT is the solution of the linear inequalities",
     "options": [
       "2y - x - 2 ≤ 0, y + 2x + 2 ≥ 0, -2 ≤ x ≤ - 1",
       "-2 ≤ x ≤ 2, y ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0",
@@ -10401,7 +10401,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-64-166",
-    "questionText": "Triangle SPT is the solution of the linear inequalitie (JAMB 2001)",
+    "questionText": "Triangle SPT is the solution of the linear inequalitie",
     "options": [
       "2y - x - 2 ≤ 0, y + 2x + 2 ≥ 0, x ≥ 0",
       "2y - x - 2 ≥ 0, y + 2x + 2 ≤ 0, -2 ≥ x ≥ -1",
@@ -10413,7 +10413,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-65-156",
-    "questionText": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw? (JAMB 2001)",
+    "questionText": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw?",
     "options": [
       "2/3",
       "1/2",
@@ -10425,7 +10425,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-66-135",
-    "questionText": "Factorize 4x<sup>2</sup>  - 9y<sup>2</sup>  + 20x + 25 (JAMB 2001)",
+    "questionText": "Factorize 4x<sup>2</sup>  - 9y<sup>2</sup>  + 20x + 25",
     "options": [
       "(2x -3y + 5)(2x - 3y - 5)",
       "(2x - 3y)(2x + 3y)",
@@ -10437,7 +10437,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-67-167",
-    "questionText": "In the figure PQR a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75° and < QPT IS 25°. Calculate the value of < RST (JAMB 2001)",
+    "questionText": "In the figure PQR a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75° and < QPT IS 25°. Calculate the value of < RST",
     "options": [
       "50°",
       "25°",
@@ -10449,7 +10449,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-68-165",
-    "questionText": "The bar chart above shows different colours of passing a particular point of a certain street in two minutes. What fraction of the total number of cars is yellow? (JAMB 2001)",
+    "questionText": "The bar chart above shows different colours of passing a particular point of a certain street in two minutes. What fraction of the total number of cars is yellow?",
     "options": [
       "3/25",
       "2/25",
@@ -10461,7 +10461,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209570-69-129",
-    "questionText": "Divide: ax<sup>3x</sup> - 26x<sup>2x</sup> + 156a<sup>x</sup> - 216 by a<sup>2x</sup> - 24a<sup>x</sup> + 108 (JAMB 2001)",
+    "questionText": "Divide: ax<sup>3x</sup> - 26x<sup>2x</sup> + 156a<sup>x</sup> - 216 by a<sup>2x</sup> - 24a<sup>x</sup> + 108",
     "options": [
       "a<sup>x</sup> - 2",
       "a<sup>x</sup> + 2",
@@ -10473,7 +10473,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-70-141",
-    "questionText": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle. (JAMB 2001)",
+    "questionText": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
     "options": [
       "6",
       "2",
@@ -10485,7 +10485,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-71-132",
-    "questionText": "Solve the equations\nm<sup>2</sup> + n<sup>2</sup> = 29\nm + n = 7 (JAMB 2001)",
+    "questionText": "Solve the equations\nm<sup>2</sup> + n<sup>2</sup> = 29\nm + n = 7",
     "options": [
       "(2, 3) and ( 3, 5)",
       "(2, 5) and (5, 2)",
@@ -10497,7 +10497,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-72-169",
-    "questionText": "The bar chart shows different colours of cars passing a particular point of a certain street in two minutes. What fraction of the cars is yellow (JAMB 2001)",
+    "questionText": "The bar chart shows different colours of cars passing a particular point of a certain street in two minutes. What fraction of the cars is yellow",
     "options": [
       "1/5",
       "2/25",
@@ -10509,7 +10509,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-73-168",
-    "questionText": "Find the value of θ in the diagram (JAMB 2001)",
+    "questionText": "Find the value of θ in the diagram",
     "options": [
       "60°",
       "100°",
@@ -10521,7 +10521,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-74-133",
-    "questionText": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *. (JAMB 2001)",
+    "questionText": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *.",
     "options": [
       "4",
       "0",
@@ -10533,7 +10533,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-75-139",
-    "questionText": "Given an isosceles triangle with length of 2 equal sides t units and opposite side √3t units with angle θ. Find the value of the angle θ opposite to the √3t units. (JAMB 2001)",
+    "questionText": "Given an isosceles triangle with length of 2 equal sides t units and opposite side √3t units with angle θ. Find the value of the angle θ opposite to the √3t units.",
     "options": [
       "100°",
       "120°",
@@ -10545,7 +10545,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-76-176",
-    "questionText": "Evaluate: 0.21×0.072×0.00054/0.006×1.68×0.063 (JAMB 2002)",
+    "questionText": "Evaluate: 0.21×0.072×0.00054/0.006×1.68×0.063",
     "options": [
       "0.01286",
       "0.01285",
@@ -10557,7 +10557,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-77-206",
-    "questionText": "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is (JAMB 2002)",
+    "questionText": "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is",
     "options": [
       "10",
       "11",
@@ -10569,7 +10569,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-78-190",
-    "questionText": "The inverse function f(x) = 3x + 4 is (JAMB 2002)",
+    "questionText": "The inverse function f(x) = 3x + 4 is",
     "options": [
       "(x-4)/3",
       "(x-5)/5",
@@ -10581,7 +10581,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-79-210",
-    "questionText": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set. (JAMB 2002)",
+    "questionText": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set.",
     "options": [
       "105",
       "100",
@@ -10593,7 +10593,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-80-209",
-    "questionText": "How many three-digit numbers can be formed from 32564 without repeating any of the digits? (JAMB 2002)",
+    "questionText": "How many three-digit numbers can be formed from 32564 without repeating any of the digits?",
     "options": [
       "120",
       "10",
@@ -10605,7 +10605,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-81-201",
-    "questionText": "A hunter 1.6 m tall, views a bird on top of a tree at an angle of 45°. if the distance between the hunter and the tree is 10.4 m, find the height of the tree. (JAMB 2002)",
+    "questionText": "A hunter 1.6 m tall, views a bird on top of a tree at an angle of 45°. if the distance between the hunter and the tree is 10.4 m, find the height of the tree.",
     "options": [
       "9.0 m",
       "12. 0 m",
@@ -10617,7 +10617,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-82-213",
-    "questionText": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only? (JAMB 2002)",
+    "questionText": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
     "options": [
       "0.38",
       "0.13",
@@ -10629,7 +10629,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-83-211",
-    "questionText": "Calculate the mean deviation of the set of numbers 7, 3, 14, 9, 7, and 8. (JAMB 2002)",
+    "questionText": "Calculate the mean deviation of the set of numbers 7, 3, 14, 9, 7, and 8.",
     "options": [
       "13/6",
       "5/2",
@@ -10641,7 +10641,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-84-196",
-    "questionText": "If tan θ = 4/3, calculate sin<sup>2</sup> θ - cos<sup>2</sup> θ. (JAMB 2002)",
+    "questionText": "If tan θ = 4/3, calculate sin<sup>2</sup> θ - cos<sup>2</sup> θ.",
     "options": [
       "16/25",
       "24/25",
@@ -10653,7 +10653,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-85-191",
-    "questionText": "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c. (JAMB 2002)",
+    "questionText": "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c.",
     "options": [
       "4",
       "3",
@@ -10665,7 +10665,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-86-193",
-    "questionText": "The sum to infinity of the series: 1 + (1/3) + (1/9) + (1/27) + ... Is (JAMB 2002)",
+    "questionText": "The sum to infinity of the series: 1 + (1/3) + (1/9) + (1/27) + ... Is",
     "options": [
       "11/3",
       "10/3",
@@ -10677,7 +10677,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-87-208",
-    "questionText": "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart? (JAMB 2002)",
+    "questionText": "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart?",
     "options": [
       "108°",
       "180°",
@@ -10689,7 +10689,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-88-188",
-    "questionText": "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d. (JAMB 2002)",
+    "questionText": "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d.",
     "options": [
       "2a + 2 = 0",
       "3a + 5d = 0",
@@ -10701,7 +10701,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-89-202",
-    "questionText": "A solid hemisphere has a radius of 7 cm. Find the total surface area. (JAMB 2002)",
+    "questionText": "A solid hemisphere has a radius of 7 cm. Find the total surface area.",
     "options": [
       "400 cm<sup>2</sup>",
       "462 cm<sup>2</sup>",
@@ -10713,7 +10713,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-90-214",
-    "questionText": "In the diagram above, PST is a straight line, PQ = QS = RS. If ∠RST = 72°, find x (JAMB 2002)",
+    "questionText": "In the diagram above, PST is a straight line, PQ = QS = RS. If ∠RST = 72°, find x",
     "options": [
       "36°",
       "18°",
@@ -10725,7 +10725,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-91-184",
-    "questionText": "Solve for x in the equation x<sup>3</sup>\n - 5x<sup>2</sup>\n - x + 5 = 0 (JAMB 2002)",
+    "questionText": "Solve for x in the equation x<sup>3</sup>\n - 5x<sup>2</sup>\n - x + 5 = 0",
     "options": [
       "1, - 1, or 5",
       "1, 1, or -5",
@@ -10737,7 +10737,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-92-182",
-    "questionText": "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area? (JAMB 2002)",
+    "questionText": "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?",
     "options": [
       "2π",
       "5π",
@@ -10749,7 +10749,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-93-221",
-    "questionText": "The triangle POR is (JAMB 2002)",
+    "questionText": "The triangle POR is",
     "options": [
       "an isosceles triange",
       "an obtuse angle",
@@ -10761,7 +10761,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-94-178",
-    "questionText": "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x. (JAMB 2002)",
+    "questionText": "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x.",
     "options": [
       "2x<sup>2</sup> - 3x",
       "x<sup>2</sup> - 3x",
@@ -10773,7 +10773,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-95-181",
-    "questionText": "Evaluate ∫sin3xdx (JAMB 2002)",
+    "questionText": "Evaluate ∫sin3xdx",
     "options": [
       "(2/3) cos 3x + c",
       "(1/3) cos 3x + c",
@@ -10785,7 +10785,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-96-174",
-    "questionText": "Simplify 52.4 - 5.7 - 3.45 - 1.75 (JAMB 2002)",
+    "questionText": "Simplify 52.4 - 5.7 - 3.45 - 1.75",
     "options": [
       "41.4",
       "41.5",
@@ -10797,7 +10797,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-97-173",
-    "questionText": "In a school, 220 students offer Biology or Mathematics or both. 125 offer Biology and 110 mathematics. How many offer Biology but not Mathematics? (JAMB 2002)",
+    "questionText": "In a school, 220 students offer Biology or Mathematics or both. 125 offer Biology and 110 mathematics. How many offer Biology but not Mathematics?",
     "options": [
       "95",
       "80",
@@ -10809,7 +10809,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-98-197",
-    "questionText": "Find the equation of the set of points which are equidistant from the parallel lines x = 1 and x = 7 (JAMB 2002)",
+    "questionText": "Find the equation of the set of points which are equidistant from the parallel lines x = 1 and x = 7",
     "options": [
       "y = 3",
       "x = 3",
@@ -10821,7 +10821,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-99-218",
-    "questionText": "The distribution above shows the number of days a group of 260 students were absents from school in a particular term. How many students were absent for at least four days in the term (JAMB 2002)",
+    "questionText": "The distribution above shows the number of days a group of 260 students were absents from school in a particular term. How many students were absent for at least four days in the term",
     "options": [
       "210",
       "40",
@@ -10833,7 +10833,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-100-204",
-    "questionText": "The locus of a point P which is equidistant from two given points S and T is (JAMB 2002)",
+    "questionText": "The locus of a point P which is equidistant from two given points S and T is",
     "options": [
       "the perpendicular bisector of ST",
       "the angle bisector of PS and ST",
@@ -10845,7 +10845,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-101-180",
-    "questionText": "The slope of the tangent to the curve y = 3x<sup>2</sup>\n - 2x + 5 at the point (1, 6) is (JAMB 2002)",
+    "questionText": "The slope of the tangent to the curve y = 3x<sup>2</sup>\n - 2x + 5 at the point (1, 6) is",
     "options": [
       "4",
       "1",
@@ -10857,7 +10857,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-102-185",
-    "questionText": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men (JAMB 2002)",
+    "questionText": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men",
     "options": [
       "15 days",
       "12 days",
@@ -10869,7 +10869,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-103-195",
-    "questionText": "A chord of a circle subtends an angle of 120° degrees at the centre of a circle of diameter 4√3 cm. Calculate the area of the major sector. (JAMB 2002)",
+    "questionText": "A chord of a circle subtends an angle of 120° degrees at the centre of a circle of diameter 4√3 cm. Calculate the area of the major sector.",
     "options": [
       "4π cm<sup>2</sup>",
       "32 π cm<sup>2</sup>",
@@ -10881,7 +10881,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-104-212",
-    "questionText": "In the diagram above , XZ is the diameter of the circle XZW, with center O and radius 15/2 cm. If XY = 12 cm, find the area of the triangle XYZ (JAMB 2002)",
+    "questionText": "In the diagram above , XZ is the diameter of the circle XZW, with center O and radius 15/2 cm. If XY = 12 cm, find the area of the triangle XYZ",
     "options": [
       "54 cm<sup>2</sup>",
       "45 cm<sup>2</sup>",
@@ -10893,7 +10893,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-105-172",
-    "questionText": "Without using tables, evaluate (343)<sup>(1/3)</sup> × (0.14)<sup>−1</sup> × (25)<sup>(−1/2)</sup> (JAMB 2002)",
+    "questionText": "Without using tables, evaluate (343)<sup>(1/3)</sup> × (0.14)<sup>−1</sup> × (25)<sup>(−1/2)</sup>",
     "options": [
       "10",
       "12",
@@ -10905,7 +10905,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-106-198",
-    "questionText": "A bucket is 12 cm in diameter at the top, 8 cm in diameter at the bottom and 4 cm deep. Calculate its volume. (JAMB 2002)",
+    "questionText": "A bucket is 12 cm in diameter at the top, 8 cm in diameter at the bottom and 4 cm deep. Calculate its volume.",
     "options": [
       "304π/3 cm<sup>3</sup>",
       "144π cm<sup>3</sup>",
@@ -10917,7 +10917,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-107-219",
-    "questionText": "The venn diagram shows the number of students offering Music and History in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only? (JAMB 2002)",
+    "questionText": "The venn diagram shows the number of students offering Music and History in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
     "options": [
       "0.25",
       "0.38",
@@ -10929,7 +10929,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-108-183",
-    "questionText": "If y=x<sup>2</sup>−1x. find dy/dx (JAMB 2002)",
+    "questionText": "If y=x<sup>2</sup>−1x. find dy/dx",
     "options": [
       "2x - (1/x<sup>2</sup>)",
       "2x + x<sup>2</sup>",
@@ -10941,7 +10941,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-109-186",
-    "questionText": "Find the range of values of x for which (x+2)/4−2x−3/3 < 4 (JAMB 2002)",
+    "questionText": "Find the range of values of x for which (x+2)/4−2x−3/3 < 4",
     "options": [
       "x > -6",
       "x > -3",
@@ -10953,7 +10953,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-110-207",
-    "questionText": "The probability of a student passing any exam is 2/3. If the student takes three exams, what is the probability that he will not pass any of them? (JAMB 2002)",
+    "questionText": "The probability of a student passing any exam is 2/3. If the student takes three exams, what is the probability that he will not pass any of them?",
     "options": [
       "2/3",
       "4/9",
@@ -10965,7 +10965,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-111-177",
-    "questionText": "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy? (JAMB 2002)",
+    "questionText": "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy?",
     "options": [
       "60",
       "50",
@@ -10977,7 +10977,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-112-179",
-    "questionText": "Find the derivative of y=sin<sup>2</sup>(5x)\n with respect to x. (JAMB 2002)",
+    "questionText": "Find the derivative of y=sin<sup>2</sup>(5x)\n with respect to x.",
     "options": [
       "10 sin 5x cos 5x",
       "5 sin5x cos 5x",
@@ -10989,7 +10989,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-113-216",
-    "questionText": "In the diagram above, a cylinder is summounted by a hemisphere bowl. Calculate the volume of the solid. (JAMB 2002)",
+    "questionText": "In the diagram above, a cylinder is summounted by a hemisphere bowl. Calculate the volume of the solid.",
     "options": [
       "180 πcm<sup>3</sup>",
       "162 πcm<sup>3</sup>",
@@ -11001,7 +11001,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-114-199",
-    "questionText": "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have? (JAMB 2002)",
+    "questionText": "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have?",
     "options": [
       "12",
       "20",
@@ -11013,7 +11013,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-115-192",
-    "questionText": "The binary operation * is defined on the set of integers p and q by p*q = pq + p + q. Find 2 * (3 * 4). (JAMB 2002)",
+    "questionText": "The binary operation * is defined on the set of integers p and q by p*q = pq + p + q. Find 2 * (3 * 4).",
     "options": [
       "59",
       "19",
@@ -11025,7 +11025,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-116-241",
-    "questionText": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series (JAMB 2003)",
+    "questionText": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
     "options": [
       "6",
       "7",
@@ -11037,7 +11037,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-117-251",
-    "questionText": "In the diagram PQR is a straight line and PS is a tangent to the circle < QRS with |PS| = |SR| and < SPR = 40°. Find PSQ (JAMB 2003)",
+    "questionText": "In the diagram PQR is a straight line and PS is a tangent to the circle < QRS with |PS| = |SR| and < SPR = 40°. Find PSQ",
     "options": [
       "20°",
       "40°",
@@ -11049,7 +11049,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-118-235",
-    "questionText": "The graph of the function y = x<sup>2</sup> + 4 and a straight line PQ are drawn to solve the equation x<sup>2</sup>\n - 3x + 2 = 0. What is the equation of PQ? (JAMB 2003)",
+    "questionText": "The graph of the function y = x<sup>2</sup> + 4 and a straight line PQ are drawn to solve the equation x<sup>2</sup>\n - 3x + 2 = 0. What is the equation of PQ?",
     "options": [
       "y = 3x - 2",
       "y = 3x + 2",
@@ -11061,7 +11061,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-119-253",
-    "questionText": "On a pie chart, there are four sectors of which three angles are 45°, 90° and 135°. If the smallest sector represents N28.00, how much is the largest sector? (JAMB 2003)",
+    "questionText": "On a pie chart, there are four sectors of which three angles are 45°, 90° and 135°. If the smallest sector represents N28.00, how much is the largest sector?",
     "options": [
       "N96.00",
       "N84.00",
@@ -11073,7 +11073,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-120-267",
-    "questionText": "On a pie chart, there are four sectors of which three angles \nare 45°, 90° and 135°. if the smallest sector represents\n#28.00, how much is the largest sector? (JAMB 2003)",
+    "questionText": "On a pie chart, there are four sectors of which three angles \nare 45°, 90° and 135°. if the smallest sector represents\n#28.00, how much is the largest sector?",
     "options": [
       "#48.00",
       "#56.00",
@@ -11085,7 +11085,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-121-223",
-    "questionText": "Simplify 213<sub>4</sub>\n x 23<sub>4</sub> (JAMB 2003)",
+    "questionText": "Simplify 213<sub>4</sub>\n x 23<sub>4</sub>",
     "options": [
       "10311<sub>4</sub>",
       "10321<sub>4</sub>",
@@ -11097,7 +11097,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-122-240",
-    "questionText": "Factorize completely 4abx - 2axy -12b<sup>2</sup>x + 6bxy (JAMB 2003)",
+    "questionText": "Factorize completely 4abx - 2axy -12b<sup>2</sup>x + 6bxy",
     "options": [
       "2x(a - 3b)(2b - y)",
       "2x(3b - a)(2b - y)",
@@ -11109,7 +11109,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-123-226",
-    "questionText": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit? (JAMB 2003)",
+    "questionText": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit?",
     "options": [
       "N2,160.00",
       "N1, 620.00",
@@ -11121,7 +11121,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-124-266",
-    "questionText": "By how much is the mean of 30, 56, 31, 55, 43 and \n44 less than the median (JAMB 2003)",
+    "questionText": "By how much is the mean of 30, 56, 31, 55, 43 and \n44 less than the median",
     "options": [
       "0.50",
       "0.75",
@@ -11133,7 +11133,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-125-244",
-    "questionText": "Find the slope of the curve y = 2x2\n + 5x - 3 at (1, 4). (JAMB 2003)",
+    "questionText": "Find the slope of the curve y = 2x2\n + 5x - 3 at (1, 4).",
     "options": [
       "4",
       "6",
@@ -11145,7 +11145,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-126-233",
-    "questionText": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3? (JAMB 2003)",
+    "questionText": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3?",
     "options": [
       "3",
       "4",
@@ -11157,7 +11157,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-127-224",
-    "questionText": "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat\nematics and Physics? (JAMB 2003)",
+    "questionText": "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat\nematics and Physics?",
     "options": [
       "20",
       "16",
@@ -11169,7 +11169,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-128-249",
-    "questionText": "The histogram above shows the ages of the victims of a pollution. How many people were involved in the pollution? (JAMB 2003)",
+    "questionText": "The histogram above shows the ages of the victims of a pollution. How many people were involved in the pollution?",
     "options": [
       "15",
       "18",
@@ -11181,7 +11181,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-129-228",
-    "questionText": "Simplify (√98 -√50)/√32 (JAMB 2003)",
+    "questionText": "Simplify (√98 -√50)/√32",
     "options": [
       "3",
       "1",
@@ -11193,7 +11193,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-130-232",
-    "questionText": "Given:\nU = {Even numbers between 0 and 30}\nP = {Multiples of 6 between 0 and 30}\nQ = {Multiples of 4 between 0 and 30}\nFind (P∪Q)<sup>c</sup> (JAMB 2003)",
+    "questionText": "Given:\nU = {Even numbers between 0 and 30}\nP = {Multiples of 6 between 0 and 30}\nQ = {Multiples of 4 between 0 and 30}\nFind (P∪Q)<sup>c</sup>",
     "options": [
       "{2, 10, 14, 22, 26}",
       "{0, 10, 14, 22, 26}",
@@ -11205,7 +11205,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-131-252",
-    "questionText": "The histogram above shows the ages of victims of a pollution. How many people were involved in the pollution? (JAMB 2003)",
+    "questionText": "The histogram above shows the ages of victims of a pollution. How many people were involved in the pollution?",
     "options": [
       "20",
       "21",
@@ -11217,7 +11217,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-132-256",
-    "questionText": "A bag contains 5 blacks balls and 3 red balls. Two balls are picked at random without replacement. What is the probability that a black and red balls are picked? (JAMB 2003)",
+    "questionText": "A bag contains 5 blacks balls and 3 red balls. Two balls are picked at random without replacement. What is the probability that a black and red balls are picked?",
     "options": [
       "15/28",
       "13/28",
@@ -11229,7 +11229,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-133-239",
-    "questionText": "Triangle OPQ above is the solution of the inequalities (JAMB 2003)",
+    "questionText": "Triangle OPQ above is the solution of the inequalities",
     "options": [
       "x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
       "y + x ≤ 0, y - x ≥ 0, x -1 ≥ 0",
@@ -11241,7 +11241,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-134-255",
-    "questionText": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women (JAMB 2003)",
+    "questionText": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women",
     "options": [
       "3",
       "6",
@@ -11253,7 +11253,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-135-269",
-    "questionText": "The result of tossing a fair die 120 times is \nsummarized above. Find the value of x (JAMB 2003)",
+    "questionText": "The result of tossing a fair die 120 times is \nsummarized above. Find the value of x",
     "options": [
       "21",
       "19",
@@ -11265,7 +11265,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-136-263",
-    "questionText": "A triangle has vertices P(-1,6), Q(-3, -4) and R(1, -4).Find the midpoint of PQ and QR respectively. (JAMB 2003)",
+    "questionText": "A triangle has vertices P(-1,6), Q(-3, -4) and R(1, -4).Find the midpoint of PQ and QR respectively.",
     "options": [
       "(0,-2) and (-1, -4)",
       "(-1,0) and (-1,-1)",
@@ -11277,7 +11277,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-137-264",
-    "questionText": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and ∠SPR = 40o. Find ∠PSQ (JAMB 2003)",
+    "questionText": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and ∠SPR = 40o. Find ∠PSQ",
     "options": [
       "40°",
       "30°",
@@ -11289,7 +11289,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-138-260",
-    "questionText": "Find the equation of the locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1). (JAMB 2003)",
+    "questionText": "Find the equation of the locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1).",
     "options": [
       "4x + 2y = 5",
       "4x - 2y = 5",
@@ -11301,7 +11301,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-139-234",
-    "questionText": "Find the range of the value of x satisfying the inequalities 5 + x ≤ 8 and 13 + x ≥ 7 (JAMB 2003)",
+    "questionText": "Find the range of the value of x satisfying the inequalities 5 + x ≤ 8 and 13 + x ≥ 7",
     "options": [
       "-3 ≤ x ≤ 3",
       "3 ≤ x ≤ 6",
@@ -11313,7 +11313,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-140-250",
-    "questionText": "Triangle OPQ is the solution of the inequalities (JAMB 2003)",
+    "questionText": "Triangle OPQ is the solution of the inequalities",
     "options": [
       "x - 1 < 0, y + ≥ 0, y - x ≥ 0",
       "x + 1 ≤ 0, y + x ≥ 0, y - x ≤ 0",
@@ -11325,7 +11325,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-141-262",
-    "questionText": "XYZ is a circle enter o and a radius 7cm. Find the area of the shaded region. θ = 45 x 2 = 90 (JAMB 2003)",
+    "questionText": "XYZ is a circle enter o and a radius 7cm. Find the area of the shaded region. θ = 45 x 2 = 90",
     "options": [
       "84cm<sup>2</sup>",
       "B 77cm<sup>2</sup>",
@@ -11337,7 +11337,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-142-236",
-    "questionText": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality (JAMB 2003)",
+    "questionText": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality",
     "options": [
       "60",
       "30",
@@ -11349,7 +11349,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-143-258",
-    "questionText": "An aeroplane flies due north from airport P to Q and then flies due east R. If Q is equidistant from P and R, find the bearing of P and R (JAMB 2003)",
+    "questionText": "An aeroplane flies due north from airport P to Q and then flies due east R. If Q is equidistant from P and R, find the bearing of P and R",
     "options": [
       "90°",
       "135°",
@@ -11361,7 +11361,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-144-271",
-    "questionText": "Find the value of p, if the line of which passes through \n(-1, -p) and (-2, 2) is parallel to the line 2y + 8x – 17\n= 0 (JAMB 2003)",
+    "questionText": "Find the value of p, if the line of which passes through \n(-1, -p) and (-2, 2) is parallel to the line 2y + 8x – 17\n= 0",
     "options": [
       "–2/7",
       "7/6",
@@ -11373,7 +11373,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-145-229",
-    "questionText": "A cinema hall contains a certain number of people. If 22(1/2)% are children, 47{1/2)% are men and 84 are women, find the number of men in the hall. (JAMB 2003)",
+    "questionText": "A cinema hall contains a certain number of people. If 22(1/2)% are children, 47{1/2)% are men and 84 are women, find the number of men in the hall.",
     "options": [
       "63",
       "84",
@@ -11385,7 +11385,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-146-227",
-    "questionText": "Simplify 1 - (7/3 x 5/4) + 3/5 (JAMB 2003)",
+    "questionText": "Simplify 1 - (7/3 x 5/4) + 3/5",
     "options": [
       "-16/15",
       "-79/60",
@@ -11397,7 +11397,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-147-242",
-    "questionText": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 21cm2, find the distance between the parallel sides (JAMB 2003)",
+    "questionText": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 21cm2, find the distance between the parallel sides",
     "options": [
       "3 cm",
       "4 cm",
@@ -11409,7 +11409,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-148-270",
-    "questionText": "If π/≤ 2π, find the maximum value of f(θ) = 4/6 + 2 \ncos θ (JAMB 2003)",
+    "questionText": "If π/≤ 2π, find the maximum value of f(θ) = 4/6 + 2 \ncos θ",
     "options": [
       "1",
       "1/2",
@@ -11421,7 +11421,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-149-245",
-    "questionText": "Evaluate ∫<sup>2</sup>\n<sub>3</sub>(x2−2x)dx (JAMB 2003)",
+    "questionText": "Evaluate ∫<sup>2</sup>\n<sub>3</sub>(x2−2x)dx",
     "options": [
       "4",
       "2",
@@ -11433,7 +11433,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-150-247",
-    "questionText": "Determine the maximum value of y = 3x<sup>2</sup> - x<sup>3</sup> (JAMB 2003)",
+    "questionText": "Determine the maximum value of y = 3x<sup>2</sup> - x<sup>3</sup>",
     "options": [
       "zero",
       "2",
@@ -11445,7 +11445,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-151-254",
-    "questionText": "If <sup>n</sup>P<sub>3</sub>−6(nC<sub>4</sub>)=0, find the value of n. (JAMB 2003)",
+    "questionText": "If <sup>n</sup>P<sub>3</sub>−6(nC<sub>4</sub>)=0, find the value of n.",
     "options": [
       "5",
       "6",
@@ -11457,7 +11457,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-152-238",
-    "questionText": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio (JAMB 2003)",
+    "questionText": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio",
     "options": [
       "1/4",
       "1/2",
@@ -11469,7 +11469,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-153-313",
-    "questionText": "The shadow of a pole 5√3m high is 5m. Find the angle of elevation of the sun. (JAMB 2004)",
+    "questionText": "The shadow of a pole 5√3m high is 5m. Find the angle of elevation of the sun.",
     "options": [
       "45°",
       "75°",
@@ -11481,7 +11481,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-154-282",
-    "questionText": "Find the derivatives of (2 + 3x)(1 - x) with respect to x (JAMB 2004)",
+    "questionText": "Find the derivatives of (2 + 3x)(1 - x) with respect to x",
     "options": [
       "6",
       "-3",
@@ -11493,7 +11493,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209571-155-303",
-    "questionText": "Find the sum to infinity of the series 1/2 , 1/6, 1/18, ..... (JAMB 2004)",
+    "questionText": "Find the sum to infinity of the series 1/2 , 1/6, 1/18, .....",
     "options": [
       "2/3",
       "1/3",
@@ -11505,7 +11505,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-156-280",
-    "questionText": "The locus of a point which is 5 cm from the line LM is a (JAMB 2004)",
+    "questionText": "The locus of a point which is 5 cm from the line LM is a",
     "options": [
       "line distance 10 cm from LM and parallel to LM",
       "pair of line on opposite sides of LM and parallel to it, each distance 5 cm from LM",
@@ -11517,7 +11517,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-157-275",
-    "questionText": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm 2, find the area of the trapezium PQRU (JAMB 2004)",
+    "questionText": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm 2, find the area of the trapezium PQRU",
     "options": [
       "60 cm2",
       "72 cm2",
@@ -11529,7 +11529,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-158-306",
-    "questionText": "If 6log<sub>x</sub>2 - 3log<sub>x</sub>3 = 3log<sub>5</sub>0.2, find x. (JAMB 2004)",
+    "questionText": "If 6log<sub>x</sub>2 - 3log<sub>x</sub>3 = 3log<sub>5</sub>0.2, find x.",
     "options": [
       "8/3",
       "4/3",
@@ -11541,7 +11541,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-159-304",
-    "questionText": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec (JAMB 2004)",
+    "questionText": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec",
     "options": [
       "96 cm",
       "324 cm",
@@ -11553,7 +11553,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-160-293",
-    "questionText": "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of assembly (JAMB 2004)",
+    "questionText": "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of assembly",
     "options": [
       "378 ways",
       "462 ways",
@@ -11565,7 +11565,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-161-284",
-    "questionText": "Find the derivatives of the function y = 2x2(2x - 1) at the point x = -1 (JAMB 2004)",
+    "questionText": "Find the derivatives of the function y = 2x2(2x - 1) at the point x = -1",
     "options": [
       "18",
       "16",
@@ -11577,7 +11577,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-162-292",
-    "questionText": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal? (JAMB 2004)",
+    "questionText": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal?",
     "options": [
       "9/35",
       "11/35",
@@ -11589,7 +11589,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-163-307",
-    "questionText": "Find P, if 451<sub>6</sub> - P<sub>7</sub> = 305<sub>6</sub> (JAMB 2004)",
+    "questionText": "Find P, if 451<sub>6</sub> - P<sub>7</sub> = 305<sub>6</sub>",
     "options": [
       "62<sub>7</sub>",
       "116<sub>7</sub>",
@@ -11601,7 +11601,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-164-319",
-    "questionText": "In the diagram above, PQ = 4cm and TS = 6cm. If the area of parallelogram PQTU is 32cm<sup>2</sup>, find the area of trapezium PQRU (JAMB 2004)",
+    "questionText": "In the diagram above, PQ = 4cm and TS = 6cm. If the area of parallelogram PQTU is 32cm<sup>2</sup>, find the area of trapezium PQRU",
     "options": [
       "24 cm<sup>2</sup>",
       "48 cm<sup>2</sup>",
@@ -11613,7 +11613,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-165-317",
-    "questionText": "The shaded area in the diagram above is represented by (JAMB 2004)",
+    "questionText": "The shaded area in the diagram above is represented by",
     "options": [
       "{(x,y) : y - 3x < -6}",
       "{(x,y) : y + 3x < 6}",
@@ -11625,7 +11625,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-166-320",
-    "questionText": "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested? (JAMB 2004)",
+    "questionText": "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?",
     "options": [
       "9000 tonnes",
       "6000 tonnes",
@@ -11637,7 +11637,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-167-295",
-    "questionText": "I. Rectangular bars of equal width\nII. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.\nIII. Rectangular bars have common sides with no gaps in between\nA histogram is described completely by (JAMB 2004)",
+    "questionText": "I. Rectangular bars of equal width\nII. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.\nIII. Rectangular bars have common sides with no gaps in between\nA histogram is described completely by",
     "options": [
       "I, II and III",
       "I and II",
@@ -11649,7 +11649,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-168-312",
-    "questionText": "A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested? (JAMB 2004)",
+    "questionText": "A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested?",
     "options": [
       "1 : 250 000",
       "1 : 25 000",
@@ -11661,7 +11661,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-169-276",
-    "questionText": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3). (JAMB 2004)",
+    "questionText": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3).",
     "options": [
       "(1, 1)",
       "(2, 2)",
@@ -11673,7 +11673,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-170-277",
-    "questionText": "Find the value of x in the figure above (JAMB 2004)",
+    "questionText": "Find the value of x in the figure above",
     "options": [
       "15√6",
       "20√6",
@@ -11685,7 +11685,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-171-301",
-    "questionText": "The nth term of two sequences are Q<sub>n</sub> = 3 . 2<sup>n - 2</sup> and U<sub>m</sub> = 3 . 2<sup>2m - 3</sup>. Find the product of Q<sub>2</sub> and U<sub>2</sub>. (JAMB 2004)",
+    "questionText": "The nth term of two sequences are Q<sub>n</sub> = 3 . 2<sup>n - 2</sup> and U<sub>m</sub> = 3 . 2<sup>2m - 3</sup>. Find the product of Q<sub>2</sub> and U<sub>2</sub>.",
     "options": [
       "18",
       "12",
@@ -11697,7 +11697,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-172-294",
-    "questionText": "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution? (JAMB 2004)",
+    "questionText": "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution?",
     "options": [
       "4",
       "3",
@@ -11709,7 +11709,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-173-289",
-    "questionText": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested (JAMB 2004)",
+    "questionText": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested",
     "options": [
       "6000 tonnes",
       "1500 tonnes",
@@ -11721,7 +11721,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-174-283",
-    "questionText": "What is the rate of change of the volume v of a hemisphere with respect to its radius r when r = 2? (JAMB 2004)",
+    "questionText": "What is the rate of change of the volume v of a hemisphere with respect to its radius r when r = 2?",
     "options": [
       "8π",
       "16π",
@@ -11733,7 +11733,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-175-302",
-    "questionText": "Factorize completely ac - 2bc - a + 4b<sup>2</sup> (JAMB 2004)",
+    "questionText": "Factorize completely ac - 2bc - a + 4b<sup>2</sup>",
     "options": [
       "(a - 2b)(c - a - 2b)",
       "(a - 2b)(c + a +2b)",
@@ -11745,7 +11745,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-176-305",
-    "questionText": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive? (JAMB 2004)",
+    "questionText": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive?",
     "options": [
       "8/15",
       "11/25",
@@ -11757,7 +11757,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-177-296",
-    "questionText": "y = is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10. (JAMB 2004)",
+    "questionText": "y = is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.",
     "options": [
       "2",
       "10",
@@ -11769,7 +11769,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-178-315",
-    "questionText": "PQRSTV is a regular polygon of side 7 cm inscribed in a circle. Find the circumference of the circle PQRSTV. (JAMB 2004)",
+    "questionText": "PQRSTV is a regular polygon of side 7 cm inscribed in a circle. Find the circumference of the circle PQRSTV.",
     "options": [
       "56 cm",
       "22 cm",
@@ -11781,7 +11781,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-179-310",
-    "questionText": "The shaded region in the Venn diagram above is (JAMB 2004)",
+    "questionText": "The shaded region in the Venn diagram above is",
     "options": [
       "Pc ∪ (Q ∩ R)",
       "Pc ∩ (Q ∪ R)",
@@ -11793,7 +11793,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-180-299",
-    "questionText": "If the operation * on the set of integers is defined by P * Q = √PQ\n, find the value of 4 * ( 8 * 32). (JAMB 2004)",
+    "questionText": "If the operation * on the set of integers is defined by P * Q = √PQ\n, find the value of 4 * ( 8 * 32).",
     "options": [
       "8",
       "3",
@@ -11805,7 +11805,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-181-273",
-    "questionText": "Find the value of α<sup>2</sup> + β<sup>2</sup> if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units (JAMB 2004)",
+    "questionText": "Find the value of α<sup>2</sup> + β<sup>2</sup> if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units",
     "options": [
       "14",
       "3",
@@ -11817,7 +11817,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-182-311",
-    "questionText": "Simplify 1/√3+2\n in the form a+b√3 (JAMB 2004)",
+    "questionText": "Simplify 1/√3+2\n in the form a+b√3",
     "options": [
       "2 -√3",
       "-2 - √3",
@@ -11829,7 +11829,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-183-291",
-    "questionText": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group (JAMB 2004)",
+    "questionText": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group",
     "options": [
       "0",
       "7",
@@ -11841,7 +11841,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-184-318",
-    "questionText": "P, R and S lie on a circle centre O as shown in the diagram while Q lies outside the circle. Find < PSO (JAMB 2004)",
+    "questionText": "P, R and S lie on a circle centre O as shown in the diagram while Q lies outside the circle. Find < PSO",
     "options": [
       "35°",
       "40°",
@@ -11853,7 +11853,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-185-297",
-    "questionText": "What is the integral value of x which satisfy the inequality -1 < 3 -2x \n  ≤ 5? (JAMB 2004)",
+    "questionText": "What is the integral value of x which satisfy the inequality -1 < 3 -2x \n  ≤ 5?",
     "options": [
       "-1. 0, 1, 2",
       "-2, 1, 0 , -1",
@@ -11865,7 +11865,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-186-308",
-    "questionText": "Given that 3√4<sup>2x</sup>  = 16, find the value of x (JAMB 2004)",
+    "questionText": "Given that 3√4<sup>2x</sup>  = 16, find the value of x",
     "options": [
       "4",
       "6",
@@ -11877,7 +11877,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-187-298",
-    "questionText": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression (JAMB 2004)",
+    "questionText": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression",
     "options": [
       "27",
       "8",
@@ -11889,7 +11889,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-188-309",
-    "questionText": "Evaluate  (1/10×2/3+1/4)/((1/2)/(3/5)-1/4) (JAMB 2004)",
+    "questionText": "Evaluate  (1/10×2/3+1/4)/((1/2)/(3/5)-1/4)",
     "options": [
       "7/12",
       "19/35",
@@ -11901,7 +11901,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-189-285",
-    "questionText": "Evaluate ∫_<sub>1</sub><sup>3</sup>(X<sup>2</sup>-1)dx (JAMB 2004)",
+    "questionText": "Evaluate ∫_<sub>1</sub><sup>3</sup>(X<sup>2</sup>-1)dx",
     "options": [
       "2/3",
       "-2/3",
@@ -11913,7 +11913,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-190-288",
-    "questionText": "An unbiased die is rolled 100 times and the outcome is tabulated above.\nWhat is the probability of obtaining a 5?\n (JAMB 2004)",
+    "questionText": "An unbiased die is rolled 100 times and the outcome is tabulated above.\nWhat is the probability of obtaining a 5?\n",
     "options": [
       "1/5",
       "1/2",
@@ -11925,7 +11925,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-191-287",
-    "questionText": "find the mean deviation of 1, 2, 3 and 4 (JAMB 2004)",
+    "questionText": "find the mean deviation of 1, 2, 3 and 4",
     "options": [
       "2.5",
       "2.0",
@@ -11937,7 +11937,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-192-272",
-    "questionText": "An arc of a circle of length 22 cm subtends an angle of 3x° at the center of the circle. Find the value of x if the diameter of the circle is 14 cm (JAMB 2004)",
+    "questionText": "An arc of a circle of length 22 cm subtends an angle of 3x° at the center of the circle. Find the value of x if the diameter of the circle is 14 cm",
     "options": [
       "60°",
       "120°",
@@ -11949,7 +11949,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-193-354",
-    "questionText": "Find the area of the figure bounded by the given pair of curves y = x2 - x + 3 and y = 3 (JAMB 2005)",
+    "questionText": "Find the area of the figure bounded by the given pair of curves y = x2 - x + 3 and y = 3",
     "options": [
       "17/6 units (sq)",
       "7/6 units (sq)",
@@ -11961,7 +11961,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-194-350",
-    "questionText": "If y = (1 - 2x)<sup>3</sup>\n, find the value of dy/dx at x = -1 (JAMB 2005)",
+    "questionText": "If y = (1 - 2x)<sup>3</sup>\n, find the value of dy/dx at x = -1",
     "options": [
       "57",
       "27",
@@ -11973,7 +11973,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-195-324",
-    "questionText": "Simplify 3(1/2) - (2(1/3) * 1(1/4) + 3/5 (JAMB 2005)",
+    "questionText": "Simplify 3(1/2) - (2(1/3) * 1(1/4) + 3/5",
     "options": [
       "2(11/60)",
       "2(1/60)",
@@ -11985,7 +11985,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-196-340",
-    "questionText": "In the diagram above calculate the value of x (JAMB 2005)",
+    "questionText": "In the diagram above calculate the value of x",
     "options": [
       "60°",
       "100°",
@@ -11997,7 +11997,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-197-349",
-    "questionText": "If sin θ = -1/2 for 0 < θ < 360°, the value of θ is (JAMB 2005)",
+    "questionText": "If sin θ = -1/2 for 0 < θ < 360°, the value of θ is",
     "options": [
       "30° and 150°",
       "150° and 210°",
@@ -12009,7 +12009,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-198-331",
-    "questionText": "If m = 3, p = -3, q = 7 and r = 5/2, evaluate m(p+q+r) (JAMB 2005)",
+    "questionText": "If m = 3, p = -3, q = 7 and r = 5/2, evaluate m(p+q+r)",
     "options": [
       "19.50",
       "19.15",
@@ -12021,7 +12021,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-199-348",
-    "questionText": "A chord of a circle subtends an angle of 60° at the length of a circle of radius 14 cm. Find the length of the chord (JAMB 2005)",
+    "questionText": "A chord of a circle subtends an angle of 60° at the length of a circle of radius 14 cm. Find the length of the chord",
     "options": [
       "7 cm",
       "14 cm",
@@ -12033,7 +12033,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-200-323",
-    "questionText": "If 321<sub>4</sub> is divided by 23<sub>4</sub> and leaves a remainder r, what is the value of r? (JAMB 2005)",
+    "questionText": "If 321<sub>4</sub> is divided by 23<sub>4</sub> and leaves a remainder r, what is the value of r?",
     "options": [
       "zero",
       "1",
@@ -12045,7 +12045,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-201-364",
-    "questionText": "What is the probability that an integer x,(1 ≤\n x ≤\n 20) chosen at random is divisible by both 2 and 3? (JAMB 2005)",
+    "questionText": "What is the probability that an integer x,(1 ≤\n x ≤\n 20) chosen at random is divisible by both 2 and 3?",
     "options": [
       "1/20",
       "1/3",
@@ -12057,7 +12057,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-202-370",
-    "questionText": "From the diagram above, find the bearing of R and S (JAMB 2005)",
+    "questionText": "From the diagram above, find the bearing of R and S",
     "options": [
       "226°",
       "224°",
@@ -12069,7 +12069,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-203-355",
-    "questionText": "Evaluate  ∫<sub>0</sub>, <sup>(π/2</sup>sin2xdx (JAMB 2005)",
+    "questionText": "Evaluate  ∫<sub>0</sub>, <sup>(π/2</sup>sin2xdx",
     "options": [
       "1",
       "Zero",
@@ -12081,7 +12081,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-204-342",
-    "questionText": "The sum of the interior angle of a regular polygon is 1800o. Calculate the size of one exterior angle of the polygon (JAMB 2005)",
+    "questionText": "The sum of the interior angle of a regular polygon is 1800o. Calculate the size of one exterior angle of the polygon",
     "options": [
       "30°",
       "24°",
@@ -12093,7 +12093,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-205-360",
-    "questionText": "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is √2 (JAMB 2005)",
+    "questionText": "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is √2",
     "options": [
       "1",
       "2",
@@ -12105,7 +12105,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-206-358",
-    "questionText": "The table above shows that the scores of a group of students in a test. If the average score is 3.5, find the value of x (JAMB 2005)",
+    "questionText": "The table above shows that the scores of a group of students in a test. If the average score is 3.5, find the value of x",
     "options": [
       "1",
       "2",
@@ -12117,7 +12117,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-207-346",
-    "questionText": "Two lines PQ and ST intersect at 75°. The locus of points equidistant from PQ and ST lies on the (JAMB 2005)",
+    "questionText": "Two lines PQ and ST intersect at 75°. The locus of points equidistant from PQ and ST lies on the",
     "options": [
       "perpendicular bisector of PQ",
       "perpendicular bisector of ST",
@@ -12129,7 +12129,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-208-328",
-    "questionText": "If Log<sub>10</sub> 2 = 0.3010 and Log<sub>10</sub>3 = 0.4771, evaluate Log<sub>10</sub>4.5 (JAMB 2005)",
+    "questionText": "If Log<sub>10</sub> 2 = 0.3010 and Log<sub>10</sub>3 = 0.4771, evaluate Log<sub>10</sub>4.5",
     "options": [
       "0.9542",
       "0.6532",
@@ -12141,7 +12141,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-209-332",
-    "questionText": "A polynomial in x whose zeros are -2, -1 and 3 is (JAMB 2005)",
+    "questionText": "A polynomial in x whose zeros are -2, -1 and 3 is",
     "options": [
       "x<sup>3</sup> - 7x + 6",
       "x<sup>3</sup> + 7x - 6",
@@ -12153,7 +12153,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-210-356",
-    "questionText": "The histogram above shows the distribution of monthly incomes of the workers in a company. How many workers earn more than N700.00? (JAMB 2005)",
+    "questionText": "The histogram above shows the distribution of monthly incomes of the workers in a company. How many workers earn more than N700.00?",
     "options": [
       "16",
       "12",
@@ -12165,7 +12165,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-211-367",
-    "questionText": "From the diagram given, find the bearing of R from S (JAMB 2005)",
+    "questionText": "From the diagram given, find the bearing of R from S",
     "options": [
       "226°",
       "224°",
@@ -12177,7 +12177,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-212-369",
-    "questionText": "The histogram above shows the distribution of the distribution of the monthly incomes of the workers in a company. How many workers earn more than N700.000? (JAMB 2005)",
+    "questionText": "The histogram above shows the distribution of the distribution of the monthly incomes of the workers in a company. How many workers earn more than N700.000?",
     "options": [
       "16",
       "12",
@@ -12189,7 +12189,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-213-352",
-    "questionText": "The radius r of a circular disc is increasing at the rate of 0.5cm/sec. At what rate is the area of the disc increasing when its radius is 6cm? (JAMB 2005)",
+    "questionText": "The radius r of a circular disc is increasing at the rate of 0.5cm/sec. At what rate is the area of the disc increasing when its radius is 6cm?",
     "options": [
       "36 π cm<sup>2</sup>/sec",
       "18 π cm<sup>2</sup>/sec",
@@ -12201,7 +12201,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-214-359",
-    "questionText": "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r. (JAMB 2005)",
+    "questionText": "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r.",
     "options": [
       "1.35",
       "1.65",
@@ -12213,7 +12213,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-215-327",
-    "questionText": "Evaluate ((〖81〗<sup>(3/4)</sup> -〖27〗<sup>(1/3)</sup>)))/(3×2^3 ) (JAMB 2005)",
+    "questionText": "Evaluate ((〖81〗<sup>(3/4)</sup> -〖27〗<sup>(1/3)</sup>)))/(3×2^3 )",
     "options": [
       "3",
       "1",
@@ -12225,7 +12225,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-216-357",
-    "questionText": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent? (JAMB 2005)",
+    "questionText": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent?",
     "options": [
       "7",
       "8",
@@ -12237,7 +12237,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-217-361",
-    "questionText": "In how many ways can 6 coloured chalks be arranged if 2 are same colour? (JAMB 2005)",
+    "questionText": "In how many ways can 6 coloured chalks be arranged if 2 are same colour?",
     "options": [
       "60",
       "120",
@@ -12249,7 +12249,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-218-344",
-    "questionText": "A sector of a circle has an area of 55 cm<sup>2</sup> . If the radius of the circle is 10 cm, calculate the angle of the sector\n[π = 22/7] (JAMB 2005)",
+    "questionText": "A sector of a circle has an area of 55 cm<sup>2</sup> . If the radius of the circle is 10 cm, calculate the angle of the sector\n[π = 22/7]",
     "options": [
       "45°",
       "63°",
@@ -12261,7 +12261,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-219-329",
-    "questionText": "Simplify ((√12-√3))/((√12+√3)) (JAMB 2005)",
+    "questionText": "Simplify ((√12-√3))/((√12+√3))",
     "options": [
       "zero",
       "1/3",
@@ -12273,7 +12273,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-220-339",
-    "questionText": "An operation * is defined on the set of real numbers by a * b = ab + 2(a + b + 1). find the identity elements (JAMB 2005)",
+    "questionText": "An operation * is defined on the set of real numbers by a * b = ab + 2(a + b + 1). find the identity elements",
     "options": [
       "2",
       "1",
@@ -12285,7 +12285,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-221-335",
-    "questionText": "Find the range of values of x for which 7x - 3 > 25 + 3x (JAMB 2005)",
+    "questionText": "Find the range of values of x for which 7x - 3 > 25 + 3x",
     "options": [
       "x >7",
       "x<7",
@@ -12297,7 +12297,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-222-337",
-    "questionText": "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference. (JAMB 2005)",
+    "questionText": "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference.",
     "options": [
       "6",
       "3",
@@ -12309,7 +12309,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-223-347",
-    "questionText": "Find the equation of the perpendicular at the point (4,3) to the line y + 2x = 5 (JAMB 2005)",
+    "questionText": "Find the equation of the perpendicular at the point (4,3) to the line y + 2x = 5",
     "options": [
       "2y - x = 4",
       "y + 2x = 3",
@@ -12321,7 +12321,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-224-362",
-    "questionText": "How many possible ways are there of seating seven people P,Q,R,S,T,U and V at a circular table (JAMB 2005)",
+    "questionText": "How many possible ways are there of seating seven people P,Q,R,S,T,U and V at a circular table",
     "options": [
       "360",
       "720",
@@ -12333,7 +12333,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-225-322",
-    "questionText": "Find the value of m if 13<sub>m</sub> + 24<sub>m</sub> = 41<sub>m</sub> (JAMB 2005)",
+    "questionText": "Find the value of m if 13<sub>m</sub> + 24<sub>m</sub> = 41<sub>m</sub>",
     "options": [
       "8",
       "6",
@@ -12345,7 +12345,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-226-365",
-    "questionText": "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) ≥ 0.\n  (JAMB 2005)",
+    "questionText": "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) ≥ 0.\n",
     "options": [
       "x ≥ 2",
       "0 ≥ x ≥ 2",
@@ -12357,7 +12357,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-227-338",
-    "questionText": "Find the sum of the first 20 terms of the series 8, 12, 16, ....., 96 (JAMB 2005)",
+    "questionText": "Find the sum of the first 20 terms of the series 8, 12, 16, ....., 96",
     "options": [
       "1400",
       "1040",
@@ -12369,7 +12369,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-228-343",
-    "questionText": "In the diagram above, O is the center of the circle,\n\n∠UOT = 70° and ∠RST = 100°. Calculate ∠RUO. (JAMB 2005)",
+    "questionText": "In the diagram above, O is the center of the circle,\n\n∠UOT = 70° and ∠RST = 100°. Calculate ∠RUO.",
     "options": [
       "20°",
       "25°",
@@ -12381,7 +12381,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-229-341",
-    "questionText": "Three straight lines EF, GH and LK interest at O as shown above. If ∠KOF = 52° and ∠LOH = 85°, calculate the size of ∠EOG. (JAMB 2005)",
+    "questionText": "Three straight lines EF, GH and LK interest at O as shown above. If ∠KOF = 52° and ∠LOH = 85°, calculate the size of ∠EOG.",
     "options": [
       "26°",
       "43°",
@@ -12393,7 +12393,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-230-326",
-    "questionText": "Three boys shared some oranges. The first received 1/3 of the oranges and the second received 2/3 of the remaining. If the third boy received the remaining 12 oranges, how many oranges did they share (JAMB 2005)",
+    "questionText": "Three boys shared some oranges. The first received 1/3 of the oranges and the second received 2/3 of the remaining. If the third boy received the remaining 12 oranges, how many oranges did they share",
     "options": [
       "60",
       "54",
@@ -12405,7 +12405,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-231-330",
-    "questionText": "The venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only? (JAMB 2005)",
+    "questionText": "The venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only?",
     "options": [
       "19",
       "16",
@@ -12417,7 +12417,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-232-415",
-    "questionText": "If y = x2 - x - 12, find the range of values of x for which y ≥ \n 0 (JAMB 2006)",
+    "questionText": "If y = x2 - x - 12, find the range of values of x for which y ≥ \n 0",
     "options": [
       "x < -3 0r x > 4",
       "x ≤ -3 or x ≥ 4",
@@ -12429,7 +12429,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-233-385",
-    "questionText": "Evaluate ∫<sub>-4</sub>\n<sup>0</sup>(1-2x)dx (JAMB 2006)",
+    "questionText": "Evaluate ∫<sub>-4</sub>\n<sup>0</sup>(1-2x)dx",
     "options": [
       "-16",
       "-20",
@@ -12441,7 +12441,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-234-10",
-    "questionText": "1.3logx+logy =3. Then, y is   (JAMB 2006)",
+    "questionText": "1.3logx+logy =3. Then, y is",
     "options": [
       "(10/x)3",
       "(x/10)3",
@@ -12453,7 +12453,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-235-418",
-    "questionText": "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals (JAMB 2006)",
+    "questionText": "If the locus of the points which are equidistant from points P and Q meets line PQ at point N, then PN equals",
     "options": [
       "2NQ",
       "NQ",
@@ -12465,7 +12465,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-236-402",
-    "questionText": "What is the locus of points equidistant from the lines ax + bc + c = 0? (JAMB 2006)",
+    "questionText": "What is the locus of points equidistant from the lines ax + bc + c = 0?",
     "options": [
       "A line bx - ay +q = 0",
       "A line ax - ay +q = 0",
@@ -12477,7 +12477,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-237-378",
-    "questionText": "The pie chart above shows the expenditure of a family whose income is N30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food? (JAMB 2006)",
+    "questionText": "The pie chart above shows the expenditure of a family whose income is N30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?",
     "options": [
       "N 28 000",
       "N 25 500",
@@ -12489,7 +12489,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-238-416",
-    "questionText": "How many terms of the series 3, -6, +12, - 24, + ..... are needed to make a total of 1-2<sup>8</sup>? (JAMB 2006)",
+    "questionText": "How many terms of the series 3, -6, +12, - 24, + ..... are needed to make a total of 1-2<sup>8</sup>?",
     "options": [
       "12",
       "10",
@@ -12501,7 +12501,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-239-389",
-    "questionText": "If (K2)\n<sub>6</sub> * 3<sub>6</sub> = 3<sub>5</sub>(K4)<sub>5</sub>, what is the value of k? (JAMB 2006)",
+    "questionText": "If (K2)\n<sub>6</sub> * 3<sub>6</sub> = 3<sub>5</sub>(K4)<sub>5</sub>, what is the value of k?",
     "options": [
       "1",
       "4",
@@ -12513,7 +12513,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-240-16",
-    "questionText": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is without replacement  (JAMB 2006)",
+    "questionText": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is without replacement",
     "options": [
       "0.1",
       "0.47",
@@ -12525,7 +12525,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-241-394",
-    "questionText": "Simplify (25)<sup>-1/2 </sup>x (27)<sup>1/3</sup>+ (121)<sup>-1/2</sup> x (625)<sup>-1/4</sup> (JAMB 2006)",
+    "questionText": "Simplify (25)<sup>-1/2 </sup>x (27)<sup>1/3</sup>+ (121)<sup>-1/2</sup> x (625)<sup>-1/4</sup>",
     "options": [
       "34/55",
       "9/11",
@@ -12537,7 +12537,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-242-8",
-    "questionText": "Solve for p in the following  equation given in base two  11(p+ 110) = 1001p    (JAMB 2006)",
+    "questionText": "Solve for p in the following  equation given in base two  11(p+ 110) = 1001p",
     "options": [
       "10",
       "11",
@@ -12549,7 +12549,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209572-243-421",
-    "questionText": "If E⊆G⊆U, where U is the universal set, then the shaded venn diagram representing U−E or E<sup>c</sup is (JAMB 2006)",
+    "questionText": "If E⊆G⊆U, where U is the universal set, then the shaded venn diagram representing U−E or E<sup>c</sup is",
     "options": [
       "I",
       "II",
@@ -12561,7 +12561,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-244-13",
-    "questionText": "The indefinite integral of the function f(x) = xcosx for any constant k, is  (JAMB 2006)",
+    "questionText": "The indefinite integral of the function f(x) = xcosx for any constant k, is",
     "options": [
       "–cos + sinx +k,",
       "xsinx-cosx,",
@@ -12573,7 +12573,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-245-384",
-    "questionText": "Differentiate (cos θ - sin θ)<sup>2</sup> (JAMB 2006)",
+    "questionText": "Differentiate (cos θ - sin θ)<sup>2</sup>",
     "options": [
       "-2 cos 2θ",
       "-2 sin2θ",
@@ -12585,7 +12585,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-246-374",
-    "questionText": "If the mean of five consecutive integers is 30, find the largest of the numbers (JAMB 2006)",
+    "questionText": "If the mean of five consecutive integers is 30, find the largest of the numbers",
     "options": [
       "28",
       "30",
@@ -12597,7 +12597,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-247-1",
-    "questionText": "A regular polygon has each of it angles at 160. What is the number of sides of the polygon?  (JAMB 2006)",
+    "questionText": "A regular polygon has each of it angles at 160. What is the number of sides of the polygon?",
     "options": [
       "36",
       "9",
@@ -12609,7 +12609,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-248-2",
-    "questionText": "A girl walks 30m from a point P on  a bearing of 040 to a point Q. she   then walks 30m on a bearing of 140 to a point R. the bearing of R from P is  (JAMB 2006)",
+    "questionText": "A girl walks 30m from a point P on  a bearing of 040 to a point Q. she   then walks 30m on a bearing of 140 to a point R. the bearing of R from P is",
     "options": [
       "90",
       "50",
@@ -12621,7 +12621,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-249-386",
-    "questionText": "Simolify (7/9-2/3)/(1/3+(2/5)/(4/5)) (JAMB 2006)",
+    "questionText": "Simolify (7/9-2/3)/(1/3+(2/5)/(4/5))",
     "options": [
       "11/12",
       "5/6",
@@ -12633,7 +12633,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-250-400",
-    "questionText": "In the diagram above, find the value of x (JAMB 2006)",
+    "questionText": "In the diagram above, find the value of x",
     "options": [
       "55°",
       "50°",
@@ -12645,7 +12645,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-251-379",
-    "questionText": "For what of n is <sup>n+1</sup> C<sub>3</sub> = 4(<sup> n</sup>C<sub>3</sub>)? (JAMB 2006)",
+    "questionText": "For what of n is <sup>n+1</sup> C<sub>3</sub> = 4(<sup> n</sup>C<sub>3</sub>)?",
     "options": [
       "6",
       "5",
@@ -12657,7 +12657,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-252-376",
-    "questionText": "Find the variance of 2x, 2x-1 and 2x+1 (JAMB 2006)",
+    "questionText": "Find the variance of 2x, 2x-1 and 2x+1",
     "options": [
       "2/3",
       "2",
@@ -12669,7 +12669,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-253-393",
-    "questionText": "Compute 110011<sub>2</sub> + 11111<sub>2</sub> (JAMB 2006)",
+    "questionText": "Compute 110011<sub>2</sub> + 11111<sub>2</sub>",
     "options": [
       "1001010<sub>2</sub>",
       "1010010<sub>2</sub>",
@@ -12681,7 +12681,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-254-401",
-    "questionText": "IN the diagram above, POQ is a diameter of the circle PQRS. If ∠PSR = 145°, find xo (JAMB 2006)",
+    "questionText": "IN the diagram above, POQ is a diameter of the circle PQRS. If ∠PSR = 145°, find xo",
     "options": [
       "55°",
       "45°",
@@ -12693,7 +12693,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-255-399",
-    "questionText": "In triangle XYZ, ∠XYZ = 15o, ∠XZY = 45o and lXYl = 7 cm. Find lYZl. (JAMB 2006)",
+    "questionText": "In triangle XYZ, ∠XYZ = 15o, ∠XZY = 45o and lXYl = 7 cm. Find lYZl.",
     "options": [
       "14√2 cm",
       "7(√6/2)",
@@ -12705,7 +12705,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-256-375",
-    "questionText": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/3, find the value of x (JAMB 2006)",
+    "questionText": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/3, find the value of x",
     "options": [
       "8",
       "10",
@@ -12717,7 +12717,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-257-417",
-    "questionText": "If tan θ = 5/4 find sin<sup>2</sup> - cos<sup>2</sup>θ (JAMB 2006)",
+    "questionText": "If tan θ = 5/4 find sin<sup>2</sup> - cos<sup>2</sup>θ",
     "options": [
       "9/41",
       "5/4",
@@ -12729,7 +12729,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-258-382",
-    "questionText": "Find the value of x for which the function 3x<sup>3</sup> - 9x is minimum (JAMB 2006)",
+    "questionText": "Find the value of x for which the function 3x<sup>3</sup> - 9x is minimum",
     "options": [
       "zero",
       "2",
@@ -12741,7 +12741,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-259-14",
-    "questionText": "The trigonometric expression cos 2A +sin 2A can be written as     (JAMB 2006)",
+    "questionText": "The trigonometric expression cos 2A +sin 2A can be written as",
     "options": [
       "cosA (cosA-sinA),",
       "Cos2A +sin2A-2sinAcosA,",
@@ -12753,7 +12753,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-260-408",
-    "questionText": "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r? (JAMB 2006)",
+    "questionText": "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r?",
     "options": [
       "p varies directly as r<sup>3</sup>",
       "p varies inversely as r<sup>6</sup>",
@@ -12765,7 +12765,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-261-9",
-    "questionText": "Factorize 16(3x+2y)2-25 (a+2b)2 (JAMB 2006)",
+    "questionText": "Factorize 16(3x+2y)2-25 (a+2b)2",
     "options": [
       "(12x +8y+5a+10b)(12x+8y-5a-10b)",
       "(12x+8y-5a-10b) (12x+8y-5a-10b),",
@@ -12777,7 +12777,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-262-11",
-    "questionText": "Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.   (JAMB 2006)",
+    "questionText": "Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.",
     "options": [
       "2",
       "3.5",
@@ -12789,7 +12789,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-263-410",
-    "questionText": "Find the value of k if the expression kx3 + x2 - 5x - 2 leaves a remainder 2 when it is divided by 2x + 1 (JAMB 2006)",
+    "questionText": "Find the value of k if the expression kx3 + x2 - 5x - 2 leaves a remainder 2 when it is divided by 2x + 1",
     "options": [
       "10",
       "8",
@@ -12801,7 +12801,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-264-381",
-    "questionText": "Differentiate (x<sup>2</sup> - 1/x)<sup>2</sup> with respect to x (JAMB 2006)",
+    "questionText": "Differentiate (x<sup>2</sup> - 1/x)<sup>2</sup> with respect to x",
     "options": [
       "4x<sup>2</sup> - 4x - 2/x",
       "4x<sup>2</sup> - 2 + 2/x3",
@@ -12813,7 +12813,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-265-12",
-    "questionText": "Expand the expression (x2-2x-3)(x2+x+1).   (JAMB 2006)",
+    "questionText": "Expand the expression (x2-2x-3)(x2+x+1).",
     "options": [
       "x4-4x2-5x-3",
       "–x3-4x2+5x-3",
@@ -12825,7 +12825,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-266-387",
-    "questionText": "If m:n = 13:111, find m<sup>2</sup> - n<sup>2</sup> : (m + n)<sup>2</sup> (JAMB 2006)",
+    "questionText": "If m:n = 13:111, find m<sup>2</sup> - n<sup>2</sup> : (m + n)<sup>2</sup>",
     "options": [
       "1:11",
       "1:13",
@@ -12837,7 +12837,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-267-398",
-    "questionText": "PQ and RS are two parallel lines. If the coordinates of P, Q, R, S are (1,q), (3,2), (3,4), (5,2q) respectively, find the value of q (JAMB 2006)",
+    "questionText": "PQ and RS are two parallel lines. If the coordinates of P, Q, R, S are (1,q), (3,2), (3,4), (5,2q) respectively, find the value of q",
     "options": [
       "3",
       "4",
@@ -12849,7 +12849,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-268-390",
-    "questionText": "In a small village of 500 people, 350 speak the local language while 200 speak pidgin English. What percentage of the population speak both. (JAMB 2006)",
+    "questionText": "In a small village of 500 people, 350 speak the local language while 200 speak pidgin English. What percentage of the population speak both.",
     "options": [
       "30%",
       "10%",
@@ -12861,7 +12861,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-269-372",
-    "questionText": "The table above shows the scores of a group of students in a physics test. If the mode is m and the number of students who scored 4 or more is n, what is (n, m)? (JAMB 2006)",
+    "questionText": "The table above shows the scores of a group of students in a physics test. If the mode is m and the number of students who scored 4 or more is n, what is (n, m)?",
     "options": [
       "(33, 4)",
       "(22, 4)",
@@ -12873,7 +12873,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-270-4",
-    "questionText": "In how many different ways can the letters of the word GEOLOGY be arranged in order?  (JAMB 2006)",
+    "questionText": "In how many different ways can the letters of the word GEOLOGY be arranged in order?",
     "options": [
       "720",
       "1260",
@@ -12885,7 +12885,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-271-446",
-    "questionText": "If x<sub>10</sub> = 1214<sub>5</sub> find x (JAMB 2007)",
+    "questionText": "If x<sub>10</sub> = 1214<sub>5</sub> find x",
     "options": [
       "124",
       "121",
@@ -12897,7 +12897,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-272-423",
-    "questionText": "In a basket, there are 6 grapes, 11 bananas and 13 oranges. If one fruit is chosen at random. What is the probability that the fruit is either a grape or a banana (JAMB 2007)",
+    "questionText": "In a basket, there are 6 grapes, 11 bananas and 13 oranges. If one fruit is chosen at random. What is the probability that the fruit is either a grape or a banana",
     "options": [
       "6/30",
       "5/30",
@@ -12909,7 +12909,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-273-19",
-    "questionText": "A square tile measures 20cm by 20cm. How many of such tiles will cover a floor measuring 5m by 4m?  (JAMB 2007)",
+    "questionText": "A square tile measures 20cm by 20cm. How many of such tiles will cover a floor measuring 5m by 4m?",
     "options": [
       "500",
       "400",
@@ -12921,7 +12921,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-274-440",
-    "questionText": "Solve the inequalities -3(x - 2) < -2(x + 3) (JAMB 2007)",
+    "questionText": "Solve the inequalities -3(x - 2) < -2(x + 3)",
     "options": [
       "x > 12",
       "x < 12",
@@ -12933,7 +12933,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-275-465",
-    "questionText": "Find the value of (tan60°-tan30°)/(tan60°+tan 30° ) (JAMB 2007)",
+    "questionText": "Find the value of (tan60°-tan30°)/(tan60°+tan 30° )",
     "options": [
       "4/√3",
       "2/√3",
@@ -12945,7 +12945,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-276-24",
-    "questionText": "Evaluate x in base 3 if 41x-22x=17x.  (JAMB 2007)",
+    "questionText": "Evaluate x in base 3 if 41x-22x=17x.",
     "options": [
       "11",
       "8",
@@ -12957,7 +12957,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-277-471",
-    "questionText": "Calculate the length of an arc of a circle diameter 14 cm, which subtends an angle of 90°\n at the center of the circle (JAMB 2007)",
+    "questionText": "Calculate the length of an arc of a circle diameter 14 cm, which subtends an angle of 90°\n at the center of the circle",
     "options": [
       "7π/2 cm",
       "7π cm",
@@ -12969,7 +12969,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-278-445",
-    "questionText": "Find y, if √12-√147+y√3=0 (JAMB 2007)",
+    "questionText": "Find y, if √12-√147+y√3=0",
     "options": [
       "5",
       "1",
@@ -12981,7 +12981,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-279-22",
-    "questionText": "Which of the following specified sets of data is not necessarily sufficient for the construction of a triangle?  (JAMB 2007)",
+    "questionText": "Which of the following specified sets of data is not necessarily sufficient for the construction of a triangle?",
     "options": [
       "three angles",
       "two sides and a right angle",
@@ -12993,7 +12993,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-280-457",
-    "questionText": "In the parallelogram PQRS above, find angle SQR (JAMB 2007)",
+    "questionText": "In the parallelogram PQRS above, find angle SQR",
     "options": [
       "100°",
       "80°",
@@ -13005,7 +13005,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-281-29",
-    "questionText": "If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure?  (JAMB 2007)",
+    "questionText": "If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure?",
     "options": [
       "0.01",
       "0.0051",
@@ -13017,7 +13017,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-282-441",
-    "questionText": "W ∝ L<sup>2</sup> and W = 6 when L = 4. If L = √17 find W (JAMB 2007)",
+    "questionText": "W ∝ L<sup>2</sup> and W = 6 when L = 4. If L = √17 find W",
     "options": [
       "6(7/8)",
       "6(5/8)",
@@ -13029,7 +13029,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-283-432",
-    "questionText": "If y = x cos x, find dy/dx (JAMB 2007)",
+    "questionText": "If y = x cos x, find dy/dx",
     "options": [
       "sin x - x cos x",
       "sin x + x cos x",
@@ -13041,7 +13041,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-284-444",
-    "questionText": "Find the sum to infinity of the series 2+3/2+9/8+27/32+...... (JAMB 2007)",
+    "questionText": "Find the sum to infinity of the series 2+3/2+9/8+27/32+......",
     "options": [
       "1",
       "2",
@@ -13053,7 +13053,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-285-431",
-    "questionText": "Integrate (x<sup>2</sup>-√x)/x with respect to x (JAMB 2007)",
+    "questionText": "Integrate (x<sup>2</sup>-√x)/x with respect to x",
     "options": [
       "x<sup>2</sup>/2-2√x+K",
       "(2(x<sup>2</sup>-x))/3x+K",
@@ -13065,7 +13065,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-286-456",
-    "questionText": "If the lines 3y = 4x - 1 and qy = x + 3 are parallel to each other, the value of q is (JAMB 2007)",
+    "questionText": "If the lines 3y = 4x - 1 and qy = x + 3 are parallel to each other, the value of q is",
     "options": [
       "-4/3",
       "-3/4",
@@ -13077,7 +13077,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-287-451",
-    "questionText": "A man made a profit of 5% when he sold an article for N60,000.00. How much would he have sell the article to make a profit of 26% (JAMB 2007)",
+    "questionText": "A man made a profit of 5% when he sold an article for N60,000.00. How much would he have sell the article to make a profit of 26%",
     "options": [
       "N68,000",
       "N72,000",
@@ -13089,7 +13089,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-288-433",
-    "questionText": "Find the value of x for which the function f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x + 4 has a maximum value (JAMB 2007)",
+    "questionText": "Find the value of x for which the function f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x + 4 has a maximum value",
     "options": [
       "2/3",
       "1",
@@ -13101,7 +13101,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-289-23",
-    "questionText": "The average age of the three children in a family is 9 years. If the average age of their parent is 39 years, the average age of the whole family is:  (JAMB 2007)",
+    "questionText": "The average age of the three children in a family is 9 years. If the average age of their parent is 39 years, the average age of the whole family is:",
     "options": [
       "20 years",
       "21years",
@@ -13113,7 +13113,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-290-464",
-    "questionText": "Find the size of each exterior angle of a regular octagon (JAMB 2007)",
+    "questionText": "Find the size of each exterior angle of a regular octagon",
     "options": [
       "51°",
       "45°",
@@ -13125,7 +13125,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-291-468",
-    "questionText": "The sum of the ages of Musa and Lawal is 28 years. After sharing a certain sum of money in the ratio of their ages, Musa gets N600 and Lawal N800. How old is Lawal? (JAMB 2007)",
+    "questionText": "The sum of the ages of Musa and Lawal is 28 years. After sharing a certain sum of money in the ratio of their ages, Musa gets N600 and Lawal N800. How old is Lawal?",
     "options": [
       "14 years",
       "20 years",
@@ -13137,7 +13137,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-292-424",
-    "questionText": "The histogram above represents the weights of students who travelled out to their school for an examination. How many people made the trip? (JAMB 2007)",
+    "questionText": "The histogram above represents the weights of students who travelled out to their school for an examination. How many people made the trip?",
     "options": [
       "78",
       "38",
@@ -13149,7 +13149,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-293-466",
-    "questionText": "The area of a square is 144 sqcm. Find the length of the diagonal. (JAMB 2007)",
+    "questionText": "The area of a square is 144 sqcm. Find the length of the diagonal.",
     "options": [
       "13 cm",
       "12√2 cm",
@@ -13161,7 +13161,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-294-460",
-    "questionText": "If the lines 2y - kx + 2 = 0 and y + x - k/2 = 0 Intersect at (1, -2), find the value of k (JAMB 2007)",
+    "questionText": "If the lines 2y - kx + 2 = 0 and y + x - k/2 = 0 Intersect at (1, -2), find the value of k",
     "options": [
       "-4",
       "-3",
@@ -13173,7 +13173,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-295-454",
-    "questionText": "If X = {all the perfect squares less than 40}\nY = {all the odd numbers fro, 1 to 15}. Find X ∩ Y. (JAMB 2007)",
+    "questionText": "If X = {all the perfect squares less than 40}\nY = {all the odd numbers fro, 1 to 15}. Find X ∩ Y.",
     "options": [
       "{3, 9}",
       "{9}",
@@ -13185,7 +13185,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-296-427",
-    "questionText": "The table above shows the number of pupils in each age group in a class. What is the probability that a pupil chosen at random is at least 11 years old? (JAMB 2007)",
+    "questionText": "The table above shows the number of pupils in each age group in a class. What is the probability that a pupil chosen at random is at least 11 years old?",
     "options": [
       "27/40",
       "17/20",
@@ -13197,7 +13197,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-297-459",
-    "questionText": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P (JAMB 2007)",
+    "questionText": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P",
     "options": [
       "It is a semi circle with ST as diameter",
       "It is a perpendicular bisector of St",
@@ -13209,7 +13209,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-298-426",
-    "questionText": "\nThe pie chart above illustrate the amount of private time a student spends in a week studying various subjects. Find the value of k (JAMB 2007)",
+    "questionText": "\nThe pie chart above illustrate the amount of private time a student spends in a week studying various subjects. Find the value of k",
     "options": [
       "90°",
       "60°",
@@ -13221,7 +13221,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-299-18",
-    "questionText": "All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is:  (JAMB 2007)",
+    "questionText": "All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is:",
     "options": [
       "130o",
       "115o",
@@ -13233,7 +13233,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-300-20",
-    "questionText": "The volume of a certain sphere is numerically equal to twice its surface area. The diameter of the sphere is:  (JAMB 2007)",
+    "questionText": "The volume of a certain sphere is numerically equal to twice its surface area. The diameter of the sphere is:",
     "options": [
       "6",
       "9",
@@ -13245,7 +13245,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-301-430",
-    "questionText": "In how many ways can 6 subjects be selected from 10 subjects for an examination (JAMB 2007)",
+    "questionText": "In how many ways can 6 subjects be selected from 10 subjects for an examination",
     "options": [
       "218",
       "216",
@@ -13257,7 +13257,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-302-429",
-    "questionText": "The table above gives the frequency distribution of marks obtained by a group of students in a test. If the total mark scored is 200, calculate the value of y (JAMB 2007)",
+    "questionText": "The table above gives the frequency distribution of marks obtained by a group of students in a test. If the total mark scored is 200, calculate the value of y",
     "options": [
       "15",
       "13",
@@ -13269,7 +13269,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-303-443",
-    "questionText": "The nth term of the sequence 3/2, 3, 7, 16, 35, 74 ..... Is (JAMB 2007)",
+    "questionText": "The nth term of the sequence 3/2, 3, 7, 16, 35, 74 ..... Is",
     "options": [
       "5 . 2<sup>n-2</sup> - n",
       "5 . 2<sup>n-2</sup> - (n+1) / 2",
@@ -13281,7 +13281,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-304-17",
-    "questionText": "The interior angles of a pentagon are: 180o, 118o, 78o, 84o and  x. The value of x is:  (JAMB 2007)",
+    "questionText": "The interior angles of a pentagon are: 180o, 118o, 78o, 84o and  x. The value of x is:",
     "options": [
       "80o",
       "108o",
@@ -13293,7 +13293,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-305-442",
-    "questionText": "A binary operation Δ is defined by aΔb = a + b + 1 for any numbers a and b. Find the inverse of the real number 7 under the operation Δ, if the identity element is -1 (JAMB 2007)",
+    "questionText": "A binary operation Δ is defined by aΔb = a + b + 1 for any numbers a and b. Find the inverse of the real number 7 under the operation Δ, if the identity element is -1",
     "options": [
       "-7",
       "-9",
@@ -13305,7 +13305,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-306-448",
-    "questionText": "Find the value of x for which 2(3<sup>2x-1</sup>) = 162 (JAMB 2007)",
+    "questionText": "Find the value of x for which 2(3<sup>2x-1</sup>) = 162",
     "options": [
       "5/2",
       "3/2",
@@ -13317,7 +13317,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-307-28",
-    "questionText": "The smallest section of a rod which can be cut 36cm in length is (JAMB 2007)",
+    "questionText": "The smallest section of a rod which can be cut 36cm in length is",
     "options": [
       "90cm",
       "180cm",
@@ -13329,7 +13329,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-308-25",
-    "questionText": "When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is  (JAMB 2007)",
+    "questionText": "When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is",
     "options": [
       "N 6.",
       "N 7",
@@ -13341,7 +13341,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-309-462",
-    "questionText": "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0 (JAMB 2007)",
+    "questionText": "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0",
     "options": [
       "y - 2 = 0",
       "y - 4 = 0",
@@ -13353,7 +13353,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-310-481",
-    "questionText": "If X = {n<sup>2</sup>\n + 1:n = 0,2,3} and Y = {n+1:n=2,3,5}, find X∩Y. (JAMB 2008)",
+    "questionText": "If X = {n<sup>2</sup>\n + 1:n = 0,2,3} and Y = {n+1:n=2,3,5}, find X∩Y.",
     "options": [
       "{1,3}",
       "{5,10}",
@@ -13365,7 +13365,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-311-495",
-    "questionText": "In the diagram above ∠ OPQ is (JAMB 2008)",
+    "questionText": "In the diagram above ∠ OPQ is",
     "options": [
       "90°",
       "53°",
@@ -13377,7 +13377,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-312-482",
-    "questionText": "A book seller sells Mathematics and English books. If 30 customers buy Mathematics books, 20 customers buy English books and 10 customers buy the two books. How many customers has he altogether? (JAMB 2008)",
+    "questionText": "A book seller sells Mathematics and English books. If 30 customers buy Mathematics books, 20 customers buy English books and 10 customers buy the two books. How many customers has he altogether?",
     "options": [
       "30",
       "40",
@@ -13389,7 +13389,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-313-497",
-    "questionText": "Find the angle subtended at the center of a circle by a chord which is equal in length to the radius of the circle. (JAMB 2008)",
+    "questionText": "Find the angle subtended at the center of a circle by a chord which is equal in length to the radius of the circle.",
     "options": [
       "30°",
       "45°",
@@ -13401,7 +13401,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-314-45",
-    "questionText": "Without replacement  (JAMB 2008)",
+    "questionText": "Without replacement",
     "options": [
       "0.1,",
       "0.47,",
@@ -13413,7 +13413,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-315-483",
-    "questionText": "Make Q the subject of formula when L = 4/3 M√PQ (JAMB 2008)",
+    "questionText": "Make Q the subject of formula when L = 4/3 M√PQ",
     "options": [
       "(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
       "3L/(4M√P)",
@@ -13425,7 +13425,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-316-486",
-    "questionText": "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6. (JAMB 2008)",
+    "questionText": "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6.",
     "options": [
       "30",
       "21",
@@ -13437,7 +13437,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-317-500",
-    "questionText": "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0 (JAMB 2008)",
+    "questionText": "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0",
     "options": [
       "3/2",
       "2/3",
@@ -13449,7 +13449,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-318-39",
-    "questionText": "The average age of x pupils in a class is 14 years 2 months. A pupils of 15years 2 months joins the class and  the average age is increased  by one month. Find x.       (JAMB 2008)",
+    "questionText": "The average age of x pupils in a class is 14 years 2 months. A pupils of 15years 2 months joins the class and  the average age is increased  by one month. Find x.",
     "options": [
       "12,",
       "6,",
@@ -13461,7 +13461,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-319-34",
-    "questionText": "A. cylinder has height 4cm and base radius 5cm.its volume to 3 significant figure is   (JAMB 2008)",
+    "questionText": "A. cylinder has height 4cm and base radius 5cm.its volume to 3 significant figure is",
     "options": [
       "314.2cm2",
       "31.42 cm2",
@@ -13473,7 +13473,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-320-44",
-    "questionText": "With replacement  (JAMB 2008)",
+    "questionText": "With replacement",
     "options": [
       "0.9,",
       "1,",
@@ -13485,7 +13485,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-321-476",
-    "questionText": "calculate the simple interest on N7,500 for 8 years at 5% per annum. (JAMB 2008)",
+    "questionText": "calculate the simple interest on N7,500 for 8 years at 5% per annum.",
     "options": [
       "N3,000",
       "N600",
@@ -13497,7 +13497,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-322-504",
-    "questionText": "Find the minimum value of the function y = x(1+x) (JAMB 2008)",
+    "questionText": "Find the minimum value of the function y = x(1+x)",
     "options": [
       "-1/4",
       "-1/2",
@@ -13509,7 +13509,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-323-487",
-    "questionText": "If p varies inversely as the square of q and p=8 when q=4, find q when p =32 (JAMB 2008)",
+    "questionText": "If p varies inversely as the square of q and p=8 when q=4, find q when p =32",
     "options": [
       "± 16",
       "± 8",
@@ -13521,7 +13521,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-324-517",
-    "questionText": "Find the values of x and y respectively if (JAMB 2008)",
+    "questionText": "Find the values of x and y respectively if",
     "options": [
       "-3, -2",
       "-5, -3",
@@ -13533,7 +13533,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-325-33",
-    "questionText": "A cone has base radius 4cm and  height 3cm. The area of its curved surface is (JAMB 2008)",
+    "questionText": "A cone has base radius 4cm and  height 3cm. The area of its curved surface is",
     "options": [
       "12pcm2",
       "20pcm2",
@@ -13545,7 +13545,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-326-493",
-    "questionText": "In the diagram above, PQ//RS. The size of the angle marked x is? (JAMB 2008)",
+    "questionText": "In the diagram above, PQ//RS. The size of the angle marked x is?",
     "options": [
       "100°",
       "80°",
@@ -13557,7 +13557,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-327-521",
-    "questionText": "A trader bought goats for ₦4,000 each. He sold them for ₦18,000 at a loss of . How many goats did he buy? (JAMB 2008)",
+    "questionText": "A trader bought goats for ₦4,000 each. He sold them for ₦18,000 at a loss of . How many goats did he buy?",
     "options": [
       "60",
       "50",
@@ -13569,7 +13569,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-328-507",
-    "questionText": "On a pie chart there are six sectors of which four angles are 30°, 45°, 60°, 90° and the remaining two angles are in the ratio 2:1. Find the smallest angles of the remaining two angles. (JAMB 2008)",
+    "questionText": "On a pie chart there are six sectors of which four angles are 30°, 45°, 60°, 90° and the remaining two angles are in the ratio 2:1. Find the smallest angles of the remaining two angles.",
     "options": [
       "15°",
       "30°",
@@ -13581,7 +13581,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-329-489",
-    "questionText": "Solve the quadratic inequalities x<sup>2</sup> - 5x + 6 ≥ 0 (JAMB 2008)",
+    "questionText": "Solve the quadratic inequalities x<sup>2</sup> - 5x + 6 ≥ 0",
     "options": [
       "x ≤ 2, x ≥ 3",
       "x ≤ 3, x ≥ 2",
@@ -13593,7 +13593,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-330-484",
-    "questionText": "If 2x<sup>2</sup>\n - kx - 12 is divisible by x-4, Find the value of k (JAMB 2008)",
+    "questionText": "If 2x<sup>2</sup>\n - kx - 12 is divisible by x-4, Find the value of k",
     "options": [
       "4",
       "5",
@@ -13605,7 +13605,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-331-512",
-    "questionText": "Find the mean deviation of 2, 4, 5, and 9 (JAMB 2008)",
+    "questionText": "Find the mean deviation of 2, 4, 5, and 9",
     "options": [
       "1",
       "2",
@@ -13617,7 +13617,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-332-499",
-    "questionText": "The locus of a point equidistant from two points p(6,2) and R(4,2) is a perpendicular bisector of PR passing through? (JAMB 2008)",
+    "questionText": "The locus of a point equidistant from two points p(6,2) and R(4,2) is a perpendicular bisector of PR passing through?",
     "options": [
       "(2,5)",
       "(5,2)",
@@ -13629,7 +13629,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-333-513",
-    "questionText": "In how many ways can the letters of the word ACCEPTANCE be arranged? (JAMB 2008)",
+    "questionText": "In how many ways can the letters of the word ACCEPTANCE be arranged?",
     "options": [
       "10! / (2!2!3!)",
       "10! / ( 2!3!)",
@@ -13641,7 +13641,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-334-475",
-    "questionText": "Express 123456 to 3 significant figures (JAMB 2008)",
+    "questionText": "Express 123456 to 3 significant figures",
     "options": [
       "123000",
       "124000",
@@ -13653,7 +13653,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-335-32",
-    "questionText": "Factorize 16(3x +2y)2 -25(a+2b)2   (JAMB 2008)",
+    "questionText": "Factorize 16(3x +2y)2 -25(a+2b)2",
     "options": [
       "(12x + 8y -5a-10b)(12x+8y-5a-10b)",
       "20(3x +2y-a-2b)(3x+2y+a+1-2b)",
@@ -13665,7 +13665,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-336-473",
-    "questionText": "If 125<sub>x</sub>  = 20<sub>10</sub>  find x (JAMB 2008)",
+    "questionText": "If 125<sub>x</sub>  = 20<sub>10</sub>  find x",
     "options": [
       "2",
       "3",
@@ -13677,7 +13677,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-337-485",
-    "questionText": "Factorize completely; (4x+3y)<sup>2</sup>\n - (3x-2y)<sup>2</sup>\n  (JAMB 2008)",
+    "questionText": "Factorize completely; (4x+3y)<sup>2</sup>\n - (3x-2y)<sup>2</sup>\n",
     "options": [
       "(x+5y)(7x+y)",
       "(x+5y)(7x-y)",
@@ -13689,7 +13689,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-338-501",
-    "questionText": "If sinθ = 3/5. Find Tanθ (JAMB 2008)",
+    "questionText": "If sinθ = 3/5. Find Tanθ",
     "options": [
       "3/4",
       "3/5",
@@ -13701,7 +13701,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-339-496",
-    "questionText": "Find the area of the figure above\n[π = 22/7] (JAMB 2008)",
+    "questionText": "Find the area of the figure above\n[π = 22/7]",
     "options": [
       "12.5 cm2",
       "75.0 cm2",
@@ -13713,7 +13713,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-340-47",
-    "questionText": "A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?   (JAMB 2008)",
+    "questionText": "A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?",
     "options": [
       "18,",
       "36,",
@@ -13725,7 +13725,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-341-42",
-    "questionText": "If the distance covered by a body in time t seconds is s = t2 - 6t2  - 5t, what is its initial velocity?   (JAMB 2008)",
+    "questionText": "If the distance covered by a body in time t seconds is s = t2 - 6t2  - 5t, what is its initial velocity?",
     "options": [
       "0ms-1",
       "-4 ms-1",
@@ -13737,7 +13737,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-342-511",
-    "questionText": "If x > 0, find the range of number x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x and 3x+1 (JAMB 2008)",
+    "questionText": "If x > 0, find the range of number x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x and 3x+1",
     "options": [
       "3x+3",
       "3x+1",
@@ -13749,7 +13749,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-343-31",
-    "questionText": "The expression a 3 + b 3 is equal  to  (JAMB 2008)",
+    "questionText": "The expression a 3 + b 3 is equal  to",
     "options": [
       "(a2 +b)(a-ab+b2 )",
       "(a+b)(a2 –ab+b2 )",
@@ -13761,7 +13761,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-344-494",
-    "questionText": "Find the exterior angle of a 12 sided regular polygon (JAMB 2008)",
+    "questionText": "Find the exterior angle of a 12 sided regular polygon",
     "options": [
       "12°",
       "24°",
@@ -13773,7 +13773,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-345-488",
-    "questionText": "Find the range of values of x which satisfy the inequalities 4x - 7 ≤ 3x and 3x - 4 ≤ 4x (JAMB 2008)",
+    "questionText": "Find the range of values of x which satisfy the inequalities 4x - 7 ≤ 3x and 3x - 4 ≤ 4x",
     "options": [
       "-4 ≤ x ≤ 7",
       "-7 ≤ x ≤ 4",
@@ -13785,7 +13785,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-346-38",
-    "questionText": "The difference of two numbers is 10, while their product is 39. Find these numbers (JAMB 2008)",
+    "questionText": "The difference of two numbers is 10, while their product is 39. Find these numbers",
     "options": [
       "– 3 and 10 or 13 and 10,",
       "3 and – 10 or 3 and 13,",
@@ -13797,7 +13797,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-347-510",
-    "questionText": "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0 (JAMB 2008)",
+    "questionText": "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0",
     "options": [
       "0",
       "1",
@@ -13809,7 +13809,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-348-477",
-    "questionText": "The cost of kerosene per liter increased from N60 to N85. What is the percentage rate of increase? (JAMB 2008)",
+    "questionText": "The cost of kerosene per liter increased from N60 to N85. What is the percentage rate of increase?",
     "options": [
       "42%",
       "41%",
@@ -13821,7 +13821,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-349-518",
-    "questionText": "( −2 2 1 3 ) ( p r q s ) = ( 1 0 0 1 ) . What is the value of r? (JAMB 2008)",
+    "questionText": "( −2 2 1 3 ) ( p r q s ) = ( 1 0 0 1 ) . What is the value of r?",
     "options": [
       "-1/8",
       "3/8",
@@ -13833,7 +13833,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-350-526",
-    "questionText": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept? (JAMB 2009)",
+    "questionText": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept?",
     "options": [
       "7/15",
       "8/15",
@@ -13845,7 +13845,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-351-55",
-    "questionText": "A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close  (JAMB 2009)",
+    "questionText": "A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close",
     "options": [
       "1/7",
       "7/18",
@@ -13857,7 +13857,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-352-552",
-    "questionText": "What is the value of r if the distance between the point (4,2) and (1,r) is 3 units? (JAMB 2009)",
+    "questionText": "What is the value of r if the distance between the point (4,2) and (1,r) is 3 units?",
     "options": [
       "1",
       "2",
@@ -13869,7 +13869,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-353-49",
-    "questionText": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?.  (JAMB 2009)",
+    "questionText": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?.",
     "options": [
       "6cm",
       "7cm",
@@ -13881,7 +13881,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-354-555",
-    "questionText": "A cliff on the bank of a river is 300 meter high. if the angle of depression of a point on the opposite side of the river is 60º, find the width of the river? (JAMB 2009)",
+    "questionText": "A cliff on the bank of a river is 300 meter high. if the angle of depression of a point on the opposite side of the river is 60º, find the width of the river?",
     "options": [
       "100m",
       "75√3 m",
@@ -13893,7 +13893,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-355-571",
-    "questionText": "Solve 5<sup>(2(x-1))</sup> × 5<sup>(x+1)</sup>=0.04 (JAMB 2009)",
+    "questionText": "Solve 5<sup>(2(x-1))</sup> × 5<sup>(x+1)</sup>=0.04",
     "options": [
       "1/3",
       "1/4",
@@ -13905,7 +13905,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-356-51",
-    "questionText": "An (n-2)2 sided figure has n diagonal, find the number n of diagonal for a 25 sided Figure    (JAMB 2009)",
+    "questionText": "An (n-2)2 sided figure has n diagonal, find the number n of diagonal for a 25 sided Figure",
     "options": [
       "8",
       "7",
@@ -13917,7 +13917,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-357-62",
-    "questionText": "What is the product of 27/5 ¸(3)3 and (1/5)  (JAMB 2009)",
+    "questionText": "What is the product of 27/5 ¸(3)3 and (1/5)",
     "options": [
       "5",
       "3",
@@ -13929,7 +13929,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-358-61",
-    "questionText": "The value of (0.303)3 – (0.02)3 is  (JAMB 2009)",
+    "questionText": "The value of (0.303)3 – (0.02)3 is",
     "options": [
       "0.019",
       "0.0019",
@@ -13941,7 +13941,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-359-531",
-    "questionText": "If p=√((rs<sup>3</sup>)/t), express r in terms of p, s and t? (JAMB 2009)",
+    "questionText": "If p=√((rs<sup>3</sup>)/t), express r in terms of p, s and t?",
     "options": [
       "p<sup>2</sup> t/s<sup>3</sup>",
       "p3t/s<sup>3</sup>",
@@ -13953,7 +13953,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-360-537",
-    "questionText": "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35, ... is? (JAMB 2009)",
+    "questionText": "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35, ... is?",
     "options": [
       "n(3n - 0.5)",
       "n(3n + 2)",
@@ -13965,7 +13965,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-361-542",
-    "questionText": "If P = []  evaluate x if |P| = -10 (JAMB 2009)",
+    "questionText": "If P = []  evaluate x if |P| = -10",
     "options": [
       "-5",
       "-2",
@@ -13977,7 +13977,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-362-545",
-    "questionText": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n? (JAMB 2009)",
+    "questionText": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n?",
     "options": [
       "47°",
       "52°",
@@ -13989,7 +13989,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-363-558",
-    "questionText": "Evaluate ∫sec<sup>2</sup>θ dθ? (JAMB 2009)",
+    "questionText": "Evaluate ∫sec<sup>2</sup>θ dθ?",
     "options": [
       "sec θ tan θ + k",
       "tan θ + k",
@@ -14001,7 +14001,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-364-536",
-    "questionText": "Find the range of values of x for which 3x - 7 ≤ 0 and x + 5 > 0? (JAMB 2009)",
+    "questionText": "Find the range of values of x for which 3x - 7 ≤ 0 and x + 5 > 0?",
     "options": [
       "-5 < x < 7/3",
       "-5 ≤ x ≤ 7/3",
@@ -14013,7 +14013,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-365-63",
-    "questionText": "Find the probability that a number selected at random 40 to 50 is a prime number    (JAMB 2009)",
+    "questionText": "Find the probability that a number selected at random 40 to 50 is a prime number",
     "options": [
       "3/11",
       "5/11",
@@ -14025,7 +14025,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-366-547",
-    "questionText": "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord? (JAMB 2009)",
+    "questionText": "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord?",
     "options": [
       "7cm",
       "9cm",
@@ -14037,7 +14037,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-367-544",
-    "questionText": "A regular polygon has 150º as the size of each interior angle. How many sides does it have? (JAMB 2009)",
+    "questionText": "A regular polygon has 150º as the size of each interior angle. How many sides does it have?",
     "options": [
       "12",
       "10",
@@ -14049,7 +14049,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-368-566",
-    "questionText": "The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5? (JAMB 2009)",
+    "questionText": "The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5?",
     "options": [
       "3/5",
       "2/5",
@@ -14061,7 +14061,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-369-533",
-    "questionText": "Which of the following equations represent the graph above? (JAMB 2009)",
+    "questionText": "Which of the following equations represent the graph above?",
     "options": [
       "y = 2+7x+4x<sup>2</sup>",
       "y = 2-7x+4x<sup>2</sup>",
@@ -14073,7 +14073,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-370-551",
-    "questionText": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is 2/3? (JAMB 2009)",
+    "questionText": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is 2/3?",
     "options": [
       "-2",
       "-1",
@@ -14085,7 +14085,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-371-565",
-    "questionText": "In how many ways can 9 people be seated if 3 chairs are available? (JAMB 2009)",
+    "questionText": "In how many ways can 9 people be seated if 3 chairs are available?",
     "options": [
       "720",
       "504",
@@ -14097,7 +14097,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-372-549",
-    "questionText": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)? (JAMB 2009)",
+    "questionText": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)?",
     "options": [
       "x + y = 0",
       "x - y = 0",
@@ -14109,7 +14109,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-373-567",
-    "questionText": "What value of x will make the function x(4 - x) a maximum? (JAMB 2009)",
+    "questionText": "What value of x will make the function x(4 - x) a maximum?",
     "options": [
       "4",
       "3",
@@ -14121,7 +14121,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-374-535",
-    "questionText": "Determine the value of x for which (x<sup>2</sup> - 1) > 0? (JAMB 2009)",
+    "questionText": "Determine the value of x for which (x<sup>2</sup> - 1) > 0?",
     "options": [
       "x < -1 or x > 1",
       "-1 < x < 1",
@@ -14133,7 +14133,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-375-58",
-    "questionText": "Find the positive number n such that thrice its square is equal to twelve time the number  (JAMB 2009)",
+    "questionText": "Find the positive number n such that thrice its square is equal to twelve time the number",
     "options": [
       "1",
       "4",
@@ -14145,7 +14145,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-376-538",
-    "questionText": "Find to infinity, the sum of the sequence 1,9/10,(9/10)<sup>2</sup>,(9/10)<sup>3</sup>,….. (JAMB 2009)",
+    "questionText": "Find to infinity, the sum of the sequence 1,9/10,(9/10)<sup>2</sup>,(9/10)<sup>3</sup>,…..",
     "options": [
       "10",
       "9",
@@ -14157,7 +14157,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-377-541",
-    "questionText": "If Q is, []  then |Q| is? (JAMB 2009)",
+    "questionText": "If Q is, []  then |Q| is?",
     "options": [
       "-50",
       "-22",
@@ -14169,7 +14169,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-378-522",
-    "questionText": "If 55<sub>x</sub> + 52<sub>x</sub> = 77<sub>10</sub> find X (JAMB 2009)",
+    "questionText": "If 55<sub>x</sub> + 52<sub>x</sub> = 77<sub>10</sub> find X",
     "options": [
       "5",
       "6",
@@ -14181,7 +14181,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-379-546",
-    "questionText": "If the hypotenuse of a right-angled isosceles triangle is 2cm. What is the area of the triangle? (JAMB 2009)",
+    "questionText": "If the hypotenuse of a right-angled isosceles triangle is 2cm. What is the area of the triangle?",
     "options": [
       "1/√2 cm<sup>2</sup>",
       "1 cm<sup>2</sup>",
@@ -14193,7 +14193,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-380-564",
-    "questionText": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included? (JAMB 2009)",
+    "questionText": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?",
     "options": [
       "15",
       "28",
@@ -14205,7 +14205,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-381-534",
-    "questionText": "W is directly proportional to U. If W = 5 when U = 3, find U when W = 2/7 (JAMB 2009)",
+    "questionText": "W is directly proportional to U. If W = 5 when U = 3, find U when W = 2/7",
     "options": [
       "6/35",
       "10/21",
@@ -14217,7 +14217,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-382-550",
-    "questionText": "What is the locus of the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O? (JAMB 2009)",
+    "questionText": "What is the locus of the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O?",
     "options": [
       "A circle of radius 4 cm and the center 0",
       "The perpendicular bisector of the chords",
@@ -14229,7 +14229,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-383-56",
-    "questionText": "If P varies inversely as V and V varies directly as R2, find the relationship between P and R given that R = 7 when P = 2  (JAMB 2009)",
+    "questionText": "If P varies inversely as V and V varies directly as R2, find the relationship between P and R given that R = 7 when P = 2",
     "options": [
       "P = 98R2",
       "PR2 = 98",
@@ -14241,7 +14241,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-384-561",
-    "questionText": "The probability of a student passing any examination is 2/3. If the students takes three examination, what is the probability that he will not pass any of them? (JAMB 2009)",
+    "questionText": "The probability of a student passing any examination is 2/3. If the students takes three examination, what is the probability that he will not pass any of them?",
     "options": [
       "2/3",
       "4/9",
@@ -14253,7 +14253,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-385-563",
-    "questionText": "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2 (JAMB 2009)",
+    "questionText": "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2",
     "options": [
       "0.5",
       "1.0",
@@ -14265,7 +14265,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-386-554",
-    "questionText": "Find the value of sin 45° - cos 30° (JAMB 2009)",
+    "questionText": "Find the value of sin 45° - cos 30°",
     "options": [
       "(2+√3)/4",
       "(√2+√3)/4",
@@ -14277,7 +14277,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-387-553",
-    "questionText": "If y = 3 cos 4x, dy/dx equals? (JAMB 2009)",
+    "questionText": "If y = 3 cos 4x, dy/dx equals?",
     "options": [
       "6 sin 8x",
       "-24 sin 4x",
@@ -14289,7 +14289,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-388-524",
-    "questionText": "Evaluate (81.81+99.44)/(20.09+36.16) correct to 3 siginficant figures (JAMB 2009)",
+    "questionText": "Evaluate (81.81+99.44)/(20.09+36.16) correct to 3 siginficant figures",
     "options": [
       "6.24",
       "3.22",
@@ -14301,7 +14301,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-389-53",
-    "questionText": "Two fair dice are rolled. What is the probability that both show up the same number of point? (JAMB 2009)",
+    "questionText": "Two fair dice are rolled. What is the probability that both show up the same number of point?",
     "options": [
       "1/36",
       "7/36",
@@ -14313,7 +14313,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-390-586",
-    "questionText": "If the area of ΔPQR above is 12√3 cm2, find the value of q? (JAMB 2010)",
+    "questionText": "If the area of ΔPQR above is 12√3 cm2, find the value of q?",
     "options": [
       "6 cm",
       "7 cm",
@@ -14325,7 +14325,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-391-599",
-    "questionText": "Find the equation of a line parallel to y = -4x + 2 passing through (2,3) (JAMB 2010)",
+    "questionText": "Find the equation of a line parallel to y = -4x + 2 passing through (2,3)",
     "options": [
       "y + 4x + 11 = 0",
       "y - 4x - 11 = 0",
@@ -14337,7 +14337,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-392-581",
-    "questionText": "From the diagram above, find x (JAMB 2010)",
+    "questionText": "From the diagram above, find x",
     "options": [
       "65°",
       "50°",
@@ -14349,7 +14349,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-393-590",
-    "questionText": "The table above show the marks obtained in a given test.\nHow many student took the test? (JAMB 2010)",
+    "questionText": "The table above show the marks obtained in a given test.\nHow many student took the test?",
     "options": [
       "16",
       "13",
@@ -14361,7 +14361,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-394-580",
-    "questionText": "If ∣∣∣x237∣∣∣ = 15, find the value of x (JAMB 2010)",
+    "questionText": "If ∣∣∣x237∣∣∣ = 15, find the value of x",
     "options": [
       "3",
       "4",
@@ -14373,7 +14373,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-395-609",
-    "questionText": "The interior angles of a quadrilateral are (x + 15)°, (2x - 45)°, ( x - 30)° and (x + 10)°. Find the value of the least interior angle. (JAMB 2010)",
+    "questionText": "The interior angles of a quadrilateral are (x + 15)°, (2x - 45)°, ( x - 30)° and (x + 10)°. Find the value of the least interior angle.",
     "options": [
       "112°",
       "102°",
@@ -14385,7 +14385,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-396-618",
-    "questionText": "Find the standard deviation of 2, 3, 5 and 6 (JAMB 2010)",
+    "questionText": "Find the standard deviation of 2, 3, 5 and 6",
     "options": [
       "√6",
       "√10",
@@ -14397,7 +14397,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-397-598",
-    "questionText": "At what value of X does the function y = -3 - 2x + X2 attain a minimum value? (JAMB 2010)",
+    "questionText": "At what value of X does the function y = -3 - 2x + X2 attain a minimum value?",
     "options": [
       "-1",
       "14",
@@ -14409,7 +14409,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-398-573",
-    "questionText": "Rationalize (2√3 + √5)/(√5 - √3) (JAMB 2010)",
+    "questionText": "Rationalize (2√3 + √5)/(√5 - √3)",
     "options": [
       "(3 √ 15 +11) / 2",
       "3 √ 15 -11",
@@ -14421,7 +14421,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-399-596",
-    "questionText": "If p : q = 2/3 : 5/6 and q : r = 3/4 : 1/2, find p : q : r (JAMB 2010)",
+    "questionText": "If p : q = 2/3 : 5/6 and q : r = 3/4 : 1/2, find p : q : r",
     "options": [
       "12 : 15 : 10",
       "12 : 15 : 16",
@@ -14433,7 +14433,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-400-610",
-    "questionText": "A cylindrical pipe 50m long with radius 7m has one end open. What is the total surface area of the pipe?\n (JAMB 2010)",
+    "questionText": "A cylindrical pipe 50m long with radius 7m has one end open. What is the total surface area of the pipe?\n",
     "options": [
       "749πm<sup>2</sup>",
       "700πm<sup>2</sup>",
@@ -14445,7 +14445,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-401-589",
-    "questionText": "from the table above, if the pass mark is 5, how many students failed the test? (JAMB 2010)",
+    "questionText": "from the table above, if the pass mark is 5, how many students failed the test?",
     "options": [
       "6",
       "2",
@@ -14457,7 +14457,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-402-614",
-    "questionText": "If y = x sinx, find dy/dx (JAMB 2010)",
+    "questionText": "If y = x sinx, find dy/dx",
     "options": [
       "sin x - x cosx",
       "sinx + x cosx",
@@ -14469,7 +14469,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-403-603",
-    "questionText": "If x is inversely proportional to y and x = 2(1/2) when y = 2, find x if y = 4 (JAMB 2010)",
+    "questionText": "If x is inversely proportional to y and x = 2(1/2) when y = 2, find x if y = 4",
     "options": [
       "4",
       "5",
@@ -14481,7 +14481,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-404-602",
-    "questionText": "Solve for x and y if x - y = 2 and x<sup>2</sup>  - y<sup>2</sup>  = 8 (JAMB 2010)",
+    "questionText": "Solve for x and y if x - y = 2 and x<sup>2</sup>  - y<sup>2</sup>  = 8",
     "options": [
       "(-1, 3)",
       "(3, 1)",
@@ -14493,7 +14493,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-405-593",
-    "questionText": "Simplify  (3/4 of 4/9 ÷ 9(1/2) ÷ 1(5/19) (JAMB 2010)",
+    "questionText": "Simplify  (3/4 of 4/9 ÷ 9(1/2) ÷ 1(5/19)",
     "options": [
       "1/2",
       "1/4",
@@ -14505,7 +14505,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-406-620",
-    "questionText": "Determine the value of x for which (x2 - 1)>0 (JAMB 2010)",
+    "questionText": "Determine the value of x for which (x2 - 1)>0",
     "options": [
       "x < -1 or x > 1",
       "-1 < x < 1",
@@ -14517,7 +14517,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-407-584",
-    "questionText": "An arc subtends an angle of 50o at the center of circle of radius 6cm. Calculate the area of the sector formed (JAMB 2010)",
+    "questionText": "An arc subtends an angle of 50o at the center of circle of radius 6cm. Calculate the area of the sector formed",
     "options": [
       "100/7",
       "80/7",
@@ -14529,7 +14529,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-408-577",
-    "questionText": "If y varies directly as the square root of x and y = 3 when x = 16. Calculate y when x = 64 (JAMB 2010)",
+    "questionText": "If y varies directly as the square root of x and y = 3 when x = 16. Calculate y when x = 64",
     "options": [
       "12",
       "6",
@@ -14541,7 +14541,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-409-615",
-    "questionText": "Evaluate ∫<sup>2</sup><sub>0</sub>(x<sup>3</sup>+x<sup>2</sup>)dx. (JAMB 2010)",
+    "questionText": "Evaluate ∫<sup>2</sup><sub>0</sub>(x<sup>3</sup>+x<sup>2</sup>)dx.",
     "options": [
       "4(5/6)",
       "6(2/3)",
@@ -14553,7 +14553,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-410-617",
-    "questionText": "If three unbiased coins are tossed, find the probability that they are all heads (JAMB 2010)",
+    "questionText": "If three unbiased coins are tossed, find the probability that they are all heads",
     "options": [
       "1/2",
       "1/3",
@@ -14565,7 +14565,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-411-574",
-    "questionText": "Express the product of 0.21 and 0.34 in standard form (JAMB 2010)",
+    "questionText": "Express the product of 0.21 and 0.34 in standard form",
     "options": [
       "7.14 x 10<sup>-3</sup>",
       "7.14 x 10<sup>-2</sup>",
@@ -14577,7 +14577,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-412-588",
-    "questionText": "Find ∫(sin x + 2)dx (JAMB 2010)",
+    "questionText": "Find ∫(sin x + 2)dx",
     "options": [
       "cos x + x<sup>2</sup> + K",
       "cos x 2x + K",
@@ -14589,7 +14589,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-413-575",
-    "questionText": "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers? (JAMB 2010)",
+    "questionText": "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers?",
     "options": [
       "10",
       "5",
@@ -14601,7 +14601,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-414-585",
-    "questionText": "What is the locus of point that is equidistant from points P(1,3) and Q(3,5)? (JAMB 2010)",
+    "questionText": "What is the locus of point that is equidistant from points P(1,3) and Q(3,5)?",
     "options": [
       "y = -χ + 6",
       "y = -χ - 6",
@@ -14613,7 +14613,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-415-583",
-    "questionText": "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area (JAMB 2010)",
+    "questionText": "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area",
     "options": [
       "10 cm<sup>2</sup>",
       "6 cm<sup>2</sup>",
@@ -14625,7 +14625,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-416-595",
-    "questionText": "At what rate will the interest on N400 increases to N24 in 3 years reckoning in simple interest? (JAMB 2010)",
+    "questionText": "At what rate will the interest on N400 increases to N24 in 3 years reckoning in simple interest?",
     "options": [
       "3%",
       "2%",
@@ -14637,7 +14637,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-417-597",
-    "questionText": "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression (JAMB 2010)",
+    "questionText": "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression",
     "options": [
       "-44",
       "-165",
@@ -14649,7 +14649,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-418-591",
-    "questionText": "The table above show the marks obtained in a given test.\nFind the mean mark (JAMB 2010)",
+    "questionText": "The table above show the marks obtained in a given test.\nFind the mean mark",
     "options": [
       "3.1",
       "3.0",
@@ -14661,7 +14661,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-419-604",
-    "questionText": "For what range of values of x is 1/2x + 1/4 > 1/3x + 1/2? (JAMB 2010)",
+    "questionText": "For what range of values of x is 1/2x + 1/4 > 1/3x + 1/2?",
     "options": [
       "x < 3/2",
       "x > 3/2",
@@ -14673,7 +14673,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-420-612",
-    "questionText": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5). (JAMB 2010)",
+    "questionText": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5).",
     "options": [
       "3",
       "2",
@@ -14685,7 +14685,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-421-592",
-    "questionText": "Find r, if 6r7<sub>8</sub> = 511<sub>9</sub> (JAMB 2010)",
+    "questionText": "Find r, if 6r7<sub>8</sub> = 511<sub>9</sub>",
     "options": [
       "3",
       "2",
@@ -14697,7 +14697,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-422-611",
-    "questionText": "Find the distance between the points (1/2, 1/2) and (-1/2, -1/2). (JAMB 2010)",
+    "questionText": "Find the distance between the points (1/2, 1/2) and (-1/2, -1/2).",
     "options": [
       "1",
       "0",
@@ -14709,7 +14709,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-423-594",
-    "questionText": "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement? (JAMB 2010)",
+    "questionText": "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?",
     "options": [
       "0.25%",
       "0.01%",
@@ -14721,7 +14721,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-424-601",
-    "questionText": "If 9x<sup>2</sup>  + 6xy + 4y<sup>2</sup>  is a factor of 27x<sup>3</sup>  - 8y<sup>3</sup> , find the other factor. (JAMB 2010)",
+    "questionText": "If 9x<sup>2</sup>  + 6xy + 4y<sup>2</sup>  is a factor of 27x<sup>3</sup>  - 8y<sup>3</sup> , find the other factor.",
     "options": [
       "2y + 3x",
       "2y - 3x",
@@ -14733,7 +14733,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-425-572",
-    "questionText": "Evaluate (81/16)<sup>−1/4</sup> × 2<sup>−1</sup> (JAMB 2010)",
+    "questionText": "Evaluate (81/16)<sup>−1/4</sup> × 2<sup>−1</sup>",
     "options": [
       "1/3",
       "3",
@@ -14745,7 +14745,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-426-600",
-    "questionText": "Make Q the subject of formula if p = M/5(X + Q) + 1 (JAMB 2010)",
+    "questionText": "Make Q the subject of formula if p = M/5(X + Q) + 1",
     "options": [
       "5P−MX+5/M",
       "5P−MX−5/M",
@@ -14757,7 +14757,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-427-607",
-    "questionText": "Evaluate [] (JAMB 2010)",
+    "questionText": "Evaluate []",
     "options": [
       "5y - 2x -18 = 0",
       "102",
@@ -14769,7 +14769,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-428-579",
-    "questionText": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true? (JAMB 2010)",
+    "questionText": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
     "options": [
       "q = 18",
       "p <1",
@@ -14781,7 +14781,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-429-661",
-    "questionText": "In how many was can the letters of the word ELATION be arranged? (JAMB 2011)",
+    "questionText": "In how many was can the letters of the word ELATION be arranged?",
     "options": [
       "6!",
       "7!",
@@ -14793,7 +14793,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-430-657",
-    "questionText": "Find ∫ cos4 x dx (JAMB 2011)",
+    "questionText": "Find ∫ cos4 x dx",
     "options": [
       "3/4 sin 4x + k",
       "-1/4 sin 4x + k",
@@ -14805,7 +14805,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-431-630",
-    "questionText": "Raial has 7 different posters to be hanged in her bedroom, living room and kitchen. Assuming she has plans to place at least a poster in each of the 3 rooms, how many choices does she have? (JAMB 2011)",
+    "questionText": "Raial has 7 different posters to be hanged in her bedroom, living room and kitchen. Assuming she has plans to place at least a poster in each of the 3 rooms, how many choices does she have?",
     "options": [
       "49",
       "170",
@@ -14817,7 +14817,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-432-631",
-    "questionText": "Make R the subject of the formula if T = KR<sup>2</sup>+M/3 (JAMB 2011)",
+    "questionText": "Make R the subject of the formula if T = KR<sup>2</sup>+M/3",
     "options": [
       "√((3T-K)/M)",
       "√((3T-M)/K)",
@@ -14829,7 +14829,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-433-640",
-    "questionText": "The seconds term of a geometric series is 4 while the fourth term is 16. Find the sum of the first five terms (JAMB 2011)",
+    "questionText": "The seconds term of a geometric series is 4 while the fourth term is 16. Find the sum of the first five terms",
     "options": [
       "60",
       "62",
@@ -14841,7 +14841,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-434-632",
-    "questionText": "Find the remainder when X3 - 2X2 + 3X - 3 is divided by X2 + 1 (JAMB 2011)",
+    "questionText": "Find the remainder when X3 - 2X2 + 3X - 3 is divided by X2 + 1",
     "options": [
       "2X - 1",
       "X + 3",
@@ -14853,7 +14853,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-435-660",
-    "questionText": "Find the standard deviation of the above distribution. (JAMB 2011)",
+    "questionText": "Find the standard deviation of the above distribution.",
     "options": [
       "√5",
       "√6",
@@ -14865,7 +14865,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-436-636",
-    "questionText": "T varies inversely as the cube of R. When R = 3, T = 2/81\n, find T when R = 2 (JAMB 2011)",
+    "questionText": "T varies inversely as the cube of R. When R = 3, T = 2/81\n, find T when R = 2",
     "options": [
       "1/18",
       "1/12",
@@ -14877,7 +14877,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-437-670",
-    "questionText": "In a class of 60 students, 30 offers physics and 40 offers chemistry. If a students is picked at random from the class, what is the probability that the student offer both physics and Chemistry? (JAMB 2011)",
+    "questionText": "In a class of 60 students, 30 offers physics and 40 offers chemistry. If a students is picked at random from the class, what is the probability that the student offer both physics and Chemistry?",
     "options": [
       "1/2",
       "1/6",
@@ -14889,7 +14889,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-438-654",
-    "questionText": "ClassIntervalsFrequency0−233−526−859−113\n \nFind the mode of the above distribution. (JAMB 2011)",
+    "questionText": "ClassIntervalsFrequency0−233−526−859−113\n \nFind the mode of the above distribution.",
     "options": [
       "9",
       "8",
@@ -14901,7 +14901,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-439-668",
-    "questionText": "In how many ways can the letters of the word ELATION be arranged? (JAMB 2011)",
+    "questionText": "In how many ways can the letters of the word ELATION be arranged?",
     "options": [
       "5!",
       "7!",
@@ -14913,7 +14913,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-440-656",
-    "questionText": "Evaluate ∫<sup>1</sup><sub>0</sub>(3 - 2x)dx (JAMB 2011)",
+    "questionText": "Evaluate ∫<sup>1</sup><sub>0</sub>(3 - 2x)dx",
     "options": [
       "33m",
       "5",
@@ -14925,7 +14925,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-441-649",
-    "questionText": "The midpoint of P(x, y) and Q(8, 6) is (5, 8). Find x and y. (JAMB 2011)",
+    "questionText": "The midpoint of P(x, y) and Q(8, 6) is (5, 8). Find x and y.",
     "options": [
       "(2, 10)",
       "(2, 8)",
@@ -14937,7 +14937,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-442-625",
-    "questionText": "If the numbers M, N, Q are in the ratio 5:4:3, find the value of 2N−Q/M (JAMB 2011)",
+    "questionText": "If the numbers M, N, Q are in the ratio 5:4:3, find the value of 2N−Q/M",
     "options": [
       "2",
       "3",
@@ -14949,7 +14949,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-443-643",
-    "questionText": "Evaluate ∣∣∣∣42−1231−1−13∣∣∣∣ (JAMB 2011)",
+    "questionText": "Evaluate ∣∣∣∣42−1231−1−13∣∣∣∣",
     "options": [
       "25",
       "45",
@@ -14961,7 +14961,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-444-667",
-    "questionText": "The bar chart above shows the distribution of SS2 students in a school.\n\nFind the total number of students (JAMB 2011)",
+    "questionText": "The bar chart above shows the distribution of SS2 students in a school.\n\nFind the total number of students",
     "options": [
       "180",
       "135",
@@ -14973,7 +14973,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-445-655",
-    "questionText": "Find the value of x at the minimum point of the curve y = x<sup>3</sup> + x<sup>2</sup> - x + 1 (JAMB 2011)",
+    "questionText": "Find the value of x at the minimum point of the curve y = x<sup>3</sup> + x<sup>2</sup> - x + 1",
     "options": [
       "1/3",
       "1/3",
@@ -14985,7 +14985,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-446-641",
-    "questionText": "A binary operation ⊕ on real numbers is defined by x ⊕ y = xy + x + y for two real numbers x and y. Find the value of 3 ⊕ -2/3\n. (JAMB 2011)",
+    "questionText": "A binary operation ⊕ on real numbers is defined by x ⊕ y = xy + x + y for two real numbers x and y. Find the value of 3 ⊕ -2/3\n.",
     "options": [
       "- 1/2",
       "1/3",
@@ -14997,7 +14997,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-447-633",
-    "questionText": "Factorize completely 9y<sup>2</sup> - 16X<sup>2</sup> (JAMB 2011)",
+    "questionText": "Factorize completely 9y<sup>2</sup> - 16X<sup>2</sup>",
     "options": [
       "(3y - 2x)(3y + 4x)",
       "(3y + 4x)(3y + 4x)",
@@ -15009,7 +15009,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-448-646",
-    "questionText": "A chord of circle of radius 7cm is 5cm from the centre of the circle.What is the length of the chord? (JAMB 2011)",
+    "questionText": "A chord of circle of radius 7cm is 5cm from the centre of the circle.What is the length of the chord?",
     "options": [
       "4√6 cm",
       "3√6 cm",
@@ -15021,7 +15021,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-449-651",
-    "questionText": "In a right angled triangle, if tan θ = 3/4. What is cosθ\n - sinθ? (JAMB 2011)",
+    "questionText": "In a right angled triangle, if tan θ = 3/4. What is cosθ\n - sinθ?",
     "options": [
       "2/3",
       "3/5",
@@ -15033,7 +15033,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-450-653",
-    "questionText": "The derivatives of (2x + 1)(3x + 1) is (JAMB 2011)",
+    "questionText": "The derivatives of (2x + 1)(3x + 1) is",
     "options": [
       "12x + 1",
       "6x + 5",
@@ -15045,7 +15045,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-451-628",
-    "questionText": "Rationalize 2−√5/3−√5 (JAMB 2011)",
+    "questionText": "Rationalize 2−√5/3−√5",
     "options": [
       "1−√5/2",
       "1−√5/4",
@@ -15057,7 +15057,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-452-658",
-    "questionText": "The sum of four consecutive integers is 34. Find the least of these numbers (JAMB 2011)",
+    "questionText": "The sum of four consecutive integers is 34. Find the least of these numbers",
     "options": [
       "7",
       "6",
@@ -15069,7 +15069,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-453-659",
-    "questionText": " From the table above, find the median and range of the data respectively. (JAMB 2011)",
+    "questionText": " From the table above, find the median and range of the data respectively.",
     "options": [
       "(8,5)",
       "(3, 5)",
@@ -15081,7 +15081,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-454-663",
-    "questionText": "Find the probability that a number picked at random from the set(43, 44, 45, ..., 60) is a prime number. (JAMB 2011)",
+    "questionText": "Find the probability that a number picked at random from the set(43, 44, 45, ..., 60) is a prime number.",
     "options": [
       "2/3",
       "1/3",
@@ -15093,7 +15093,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209573-455-647",
-    "questionText": "A solid metal cube of side 3 cm is placed in a rectangular tank of dimension 3, 4 and 5 cm. What volume of water can the tank now hold (JAMB 2011)",
+    "questionText": "A solid metal cube of side 3 cm is placed in a rectangular tank of dimension 3, 4 and 5 cm. What volume of water can the tank now hold",
     "options": [
       "48 cm<sup>3</sup>",
       "33 cm<sup>3</sup>",
@@ -15105,7 +15105,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-456-629",
-    "questionText": "Simplify √2+1/√3)(√2-1/√3 (JAMB 2011)",
+    "questionText": "Simplify √2+1/√3)(√2-1/√3",
     "options": [
       "7/3",
       "5/3",
@@ -15117,7 +15117,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-457-623",
-    "questionText": "simolify (3 (2/3) × 5/6 ×2/3)/(11/15 × 3/4 × 2/27) (JAMB 2011)",
+    "questionText": "simolify (3 (2/3) × 5/6 ×2/3)/(11/15 × 3/4 × 2/27)",
     "options": [
       "5(2/3)",
       "30",
@@ -15129,7 +15129,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-458-662",
-    "questionText": "In how many ways can five people sit round a circular table? (JAMB 2011)",
+    "questionText": "In how many ways can five people sit round a circular table?",
     "options": [
       "24",
       "60",
@@ -15141,7 +15141,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-459-626",
-    "questionText": "Simplify (16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup> (JAMB 2011)",
+    "questionText": "Simplify (16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup>",
     "options": [
       "2/3",
       "1/2",
@@ -15153,7 +15153,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-460-652",
-    "questionText": "A man walks 100 m due West from a point X to Y, he then walks 100 m due North to a point Z. Find the bearing of X from Z. (JAMB 2011)",
+    "questionText": "A man walks 100 m due West from a point X to Y, he then walks 100 m due North to a point Z. Find the bearing of X from Z.",
     "options": [
       "195°",
       "135°",
@@ -15165,7 +15165,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-461-666",
-    "questionText": "The pie chart shows the distribution of courses offered by students. What percentage of the students offer English? (JAMB 2011)",
+    "questionText": "The pie chart shows the distribution of courses offered by students. What percentage of the students offer English?",
     "options": [
       "30%",
       "25%",
@@ -15177,7 +15177,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-462-648",
-    "questionText": "The perpendicular bisector of a line XY is the locus of a point \n (JAMB 2011)",
+    "questionText": "The perpendicular bisector of a line XY is the locus of a point \n",
     "options": [
       "whose distance from X is always twice its distance from Y",
       "whose distance from Y is always twice its distance from X.",
@@ -15189,7 +15189,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-463-634",
-    "questionText": "Solve for x and y respectively in the simultaneous equations -2x - 5y = 3. x + 3y = 0 (JAMB 2011)",
+    "questionText": "Solve for x and y respectively in the simultaneous equations -2x - 5y = 3. x + 3y = 0",
     "options": [
       "-3, -9",
       "9, -3",
@@ -15201,7 +15201,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-464-650",
-    "questionText": "Find the equation of a line perpendicular to line 2y = 5x + 4 which passes through (4, 2). (JAMB 2011)",
+    "questionText": "Find the equation of a line perpendicular to line 2y = 5x + 4 which passes through (4, 2).",
     "options": [
       "5y - 2x -18 = 0",
       "5y + 2x - 18 = 0",
@@ -15213,7 +15213,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-465-637",
-    "questionText": "Solve the inequality -6(x + 3) ≤ 4(x - 2) (JAMB 2011)",
+    "questionText": "Solve the inequality -6(x + 3) ≤ 4(x - 2)",
     "options": [
       "x ≤ 2",
       "x ≥ -1",
@@ -15225,7 +15225,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-466-645",
-    "questionText": "What is the size of each interior angle of a 12-sided regular polygon? (JAMB 2011)",
+    "questionText": "What is the size of each interior angle of a 12-sided regular polygon?",
     "options": [
       "120°",
       "150°",
@@ -15237,7 +15237,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-467-624",
-    "questionText": "A man invested N5,000 for 9 months at 4%. What is the simple interest? (JAMB 2011)",
+    "questionText": "A man invested N5,000 for 9 months at 4%. What is the simple interest?",
     "options": [
       "N150",
       "N220",
@@ -15249,7 +15249,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-468-638",
-    "questionText": "Solve the inequality x<sup>2</sup> + 2x > 15. (JAMB 2011)",
+    "questionText": "Solve the inequality x<sup>2</sup> + 2x > 15.",
     "options": [
       "x < -3 or x > 5",
       "-5 < x < 3",
@@ -15261,7 +15261,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-469-731",
-    "questionText": "Find the remainder when 2x<sup>3</sup>  - 11x<sup>2</sup>  + 8x - 1 is divided by x + 3 (JAMB 2012)",
+    "questionText": "Find the remainder when 2x<sup>3</sup>  - 11x<sup>2</sup>  + 8x - 1 is divided by x + 3",
     "options": [
       "-871",
       "-781",
@@ -15273,7 +15273,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-470-730",
-    "questionText": "Make 'n' the subject of the formula if w = v(2+cn)/(1−cn) (JAMB 2012)",
+    "questionText": "Make 'n' the subject of the formula if w = v(2+cn)/(1−cn)",
     "options": [
       "1/c(w−2/vv+w)",
       "1/c(w−2/vv−w)",
@@ -15285,7 +15285,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-471-729",
-    "questionText": "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither? (JAMB 2012)",
+    "questionText": "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?",
     "options": [
       "1",
       "2",
@@ -15297,7 +15297,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-472-735",
-    "questionText": "The value of y for which 1/5y + 1/5 < 1/2y + 2/5 is (JAMB 2012)",
+    "questionText": "The value of y for which 1/5y + 1/5 < 1/2y + 2/5 is",
     "options": [
       "y > 2/3",
       "y < 2/3",
@@ -15309,7 +15309,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-473-758",
-    "questionText": "The probability that a student passes a physics test is 2/3. If he takes three physics tests, what is the probability that he passes two of the tests? (JAMB 2012)",
+    "questionText": "The probability that a student passes a physics test is 2/3. If he takes three physics tests, what is the probability that he passes two of the tests?",
     "options": [
       "2/27",
       "3/27",
@@ -15321,7 +15321,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-474-757",
-    "questionText": "In how many ways can the letters of the word TOTALITY be arranged? (JAMB 2012)",
+    "questionText": "In how many ways can the letters of the word TOTALITY be arranged?",
     "options": [
       "6720",
       "6270",
@@ -15333,7 +15333,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-475-767",
-    "questionText": "A man stands on a tree 150 cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree. (JAMB 2012)",
+    "questionText": "A man stands on a tree 150 cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.",
     "options": [
       "52 cm",
       "43 cm",
@@ -15345,7 +15345,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-476-762",
-    "questionText": "In the diagram above, PQR is a circle centre O. If < QPR is x°, find < QRP. (JAMB 2012)",
+    "questionText": "In the diagram above, PQR is a circle centre O. If < QPR is x°, find < QRP.",
     "options": [
       "x°",
       "(90 – x)°",
@@ -15357,7 +15357,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-477-763",
-    "questionText": "Find the area of the trapezium above. (JAMB 2012)",
+    "questionText": "Find the area of the trapezium above.",
     "options": [
       "91 cm<sub>2</sub>",
       "78 cm<sub>2</sub>",
@@ -15369,7 +15369,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-478-759",
-    "questionText": "The probabilities that a man and his wife live for 80 years are 2/3 and 3/5 respectively. Find the probability that at least one of them will live up to 80 years (JAMB 2012)",
+    "questionText": "The probabilities that a man and his wife live for 80 years are 2/3 and 3/5 respectively. Find the probability that at least one of them will live up to 80 years",
     "options": [
       "2/15",
       "3/15",
@@ -15381,7 +15381,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-479-747",
-    "questionText": "Find the equation of the line through the points (-2, 1) and (-1/2, 4) (JAMB 2012)",
+    "questionText": "Find the equation of the line through the points (-2, 1) and (-1/2, 4)",
     "options": [
       "y = 2x - 3",
       "y = 2x + 5",
@@ -15393,7 +15393,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-480-748",
-    "questionText": "If angle θ is 135°, evaluate cosθ (JAMB 2012)",
+    "questionText": "If angle θ is 135°, evaluate cosθ",
     "options": [
       "1/2",
       "√2/2",
@@ -15405,7 +15405,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-481-752",
-    "questionText": "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number. (JAMB 2012)",
+    "questionText": "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number.",
     "options": [
       "126",
       "180",
@@ -15417,7 +15417,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-482-724",
-    "questionText": "A man earns N3,500 per month out of which he spends 15% on his children's education. If he spends additional N1,950 on food, how much does he have left? (JAMB 2012)",
+    "questionText": "A man earns N3,500 per month out of which he spends 15% on his children's education. If he spends additional N1,950 on food, how much does he have left?",
     "options": [
       "N525",
       "N1,025",
@@ -15429,7 +15429,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-483-751",
-    "questionText": "Evaluate ∫<sup>π/4</sup>, <sub>0</sub>sec<sup>2</sup>θdθ (JAMB 2012)",
+    "questionText": "Evaluate ∫<sup>π/4</sup>, <sub>0</sub>sec<sup>2</sup>θdθ",
     "options": [
       "1",
       "2",
@@ -15441,7 +15441,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-484-746",
-    "questionText": "The distance between the point (4, 3) and the intersection of y = 2x + 4 and y = 7 - x is (JAMB 2012)",
+    "questionText": "The distance between the point (4, 3) and the intersection of y = 2x + 4 and y = 7 - x is",
     "options": [
       "√13",
       "3√2",
@@ -15453,7 +15453,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-485-753",
-    "questionText": "Find the median of 2,3,7,3,4,5,8,9,9,4,5,3,4,2,4 and 5 (JAMB 2012)",
+    "questionText": "Find the median of 2,3,7,3,4,5,8,9,9,4,5,3,4,2,4 and 5",
     "options": [
       "9",
       "8",
@@ -15465,7 +15465,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-486-755",
-    "questionText": "Find the standard deviation of 2,3,8,10 and 12 (JAMB 2012)",
+    "questionText": "Find the standard deviation of 2,3,8,10 and 12",
     "options": [
       "3.9",
       "4.9",
@@ -15477,7 +15477,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-487-723",
-    "questionText": "Evaluate 21/9 to 3 significant figures (JAMB 2012)",
+    "questionText": "Evaluate 21/9 to 3 significant figures",
     "options": [
       "2.30",
       "2.31",
@@ -15489,7 +15489,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-488-738",
-    "questionText": "The sum to infinity of a geometric progression is −1/10\n and the first term is −1/8\n. Find the common ratio of the progression. (JAMB 2012)",
+    "questionText": "The sum to infinity of a geometric progression is −1/10\n and the first term is −1/8\n. Find the common ratio of the progression.",
     "options": [
       "−1/5",
       "−1/4",
@@ -15501,7 +15501,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-489-756",
-    "questionText": "Evaluate <sup>n+1</sup>C<sub>n-2</sub> If n =15 (JAMB 2012)",
+    "questionText": "Evaluate <sup>n+1</sup>C<sub>n-2</sub> If n =15",
     "options": [
       "3630",
       "3360",
@@ -15513,7 +15513,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-490-764",
-    "questionText": "The grades of 36 students in a class test are as shown in the pie chart above. How many students have excellent? (JAMB 2012)",
+    "questionText": "The grades of 36 students in a class test are as shown in the pie chart above. How many students have excellent?",
     "options": [
       "12",
       "9",
@@ -15525,7 +15525,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-491-749",
-    "questionText": "If y = x<sup>2</sup>  - 1/x, find δy/δx (JAMB 2012)",
+    "questionText": "If y = x<sup>2</sup>  - 1/x, find δy/δx",
     "options": [
       "2x - 1/x<sup>2</sup>",
       "2x + x<sup>2</sup>",
@@ -15537,7 +15537,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-492-744",
-    "questionText": "Calculate the volume of a cuboid of length 0.76cm, breadth 2.6cm and height 0.82cm. (JAMB 2012)",
+    "questionText": "Calculate the volume of a cuboid of length 0.76cm, breadth 2.6cm and height 0.82cm.",
     "options": [
       "3.92cm<sup>3</sup>",
       "2.13cm<sup>3</sup>",
@@ -15549,7 +15549,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-493-727",
-    "questionText": "Simplify (√6+2)<sup>2</sup> −(√6−2)<sup>2</sup>  (JAMB 2012)",
+    "questionText": "Simplify (√6+2)<sup>2</sup> −(√6−2)<sup>2</sup>",
     "options": [
       "2√6",
       "4√6",
@@ -15561,7 +15561,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-494-734",
-    "questionText": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3 (JAMB 2012)",
+    "questionText": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3",
     "options": [
       "24",
       "27",
@@ -15573,7 +15573,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-495-740",
-    "questionText": "The binary operation on the set of real numbers is defined by m*n = mn/2\n for all m, n ∈ R. If the identity element is 2, find the inverse of -5 (JAMB 2012)",
+    "questionText": "The binary operation on the set of real numbers is defined by m*n = mn/2\n for all m, n ∈ R. If the identity element is 2, find the inverse of -5",
     "options": [
       "−4/5",
       "−2/5",
@@ -15585,7 +15585,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-496-769",
-    "questionText": "Convert 112<sub>6</sub>  to a number in base three (JAMB 2012)",
+    "questionText": "Convert 112<sub>6</sub>  to a number in base three",
     "options": [
       "2211",
       "2121",
@@ -15597,7 +15597,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-497-726",
-    "questionText": "If log<sub>3</sub> x<sup>2</sup> = -8, what is x? (JAMB 2012)",
+    "questionText": "If log<sub>3</sub> x<sup>2</sup> = -8, what is x?",
     "options": [
       "1/3",
       "1/9",
@@ -15609,7 +15609,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-498-760",
-    "questionText": "The shaded region above is represented by\nthe equation (JAMB 2012)",
+    "questionText": "The shaded region above is represented by\nthe equation",
     "options": [
       "y ≤ 4x + 2",
       "y ≥ 4x + 2",
@@ -15621,7 +15621,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-499-722",
-    "questionText": "Simply {2(2/3)×1(1/2)}/4(4/5) (JAMB 2012)",
+    "questionText": "Simply {2(2/3)×1(1/2)}/4(4/5)",
     "options": [
       "1(1/4)",
       "1(1/6)",
@@ -15633,7 +15633,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-500-742",
-    "questionText": "Given that I<sub>3</sub>  is a unit matrix of order 3, find |I<sub>3</sub> | (JAMB 2012)",
+    "questionText": "Given that I<sub>3</sub>  is a unit matrix of order 3, find |I<sub>3</sub> |",
     "options": [
       "-1",
       "0",
@@ -15645,7 +15645,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-501-728",
-    "questionText": "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P ∩ Q (JAMB 2012)",
+    "questionText": "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P ∩ Q",
     "options": [
       "{3}",
       "{2,3}",
@@ -15657,7 +15657,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-502-750",
-    "questionText": "Evaluate ∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx (JAMB 2012)",
+    "questionText": "Evaluate ∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx",
     "options": [
       "11/3",
       "3/11",
@@ -15669,7 +15669,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-503-745",
-    "questionText": "The gradient of the straight line joining the points P(5, -7) and Q(-2, -3) is (JAMB 2012)",
+    "questionText": "The gradient of the straight line joining the points P(5, -7) and Q(-2, -3) is",
     "options": [
       "1/2",
       "2/5",
@@ -15681,7 +15681,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-504-737",
-    "questionText": "The nth term of a sequence is n2 - 6n - 4. Find the sum of the 3rd and 4th terms (JAMB 2012)",
+    "questionText": "The nth term of a sequence is n2 - 6n - 4. Find the sum of the 3rd and 4th terms",
     "options": [
       "24",
       "23",
@@ -15693,7 +15693,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-505-768",
-    "questionText": "Find dy/dx if y = cosx\n. (JAMB 2012)",
+    "questionText": "Find dy/dx if y = cosx\n.",
     "options": [
       "sinx",
       "−sinx",
@@ -15705,7 +15705,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-506-736",
-    "questionText": "Find the range of values of m which satisfy (m - 3)(m - 4) < 0 (JAMB 2012)",
+    "questionText": "Find the range of values of m which satisfy (m - 3)(m - 4) < 0",
     "options": [
       "2 < m < 5",
       "-3 < m < 4",
@@ -15717,7 +15717,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-507-761",
-    "questionText": "In diagram above, QR//TU, < PQR = 80° and < PSU = 95°. Calculate < SUT. (JAMB 2012)",
+    "questionText": "In diagram above, QR//TU, < PQR = 80° and < PSU = 95°. Calculate < SUT.",
     "options": [
       "15°",
       "25°",
@@ -15729,7 +15729,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-508-754",
-    "questionText": "Find the range of 4,9,6,3,2,8,10 and 11 (JAMB 2012)",
+    "questionText": "Find the range of 4,9,6,3,2,8,10 and 11",
     "options": [
       "11",
       "9",
@@ -15741,7 +15741,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-509-816",
-    "questionText": "∫<sub>0</sub>  <sup>(π/2)</sup>〖sin⁡xdx〗 (JAMB 2013)",
+    "questionText": "∫<sub>0</sub>  <sup>(π/2)</sup>〖sin⁡xdx〗",
     "options": [
       "-2",
       "2",
@@ -15753,7 +15753,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-510-781",
-    "questionText": "P varies jointly as m and u, and varies inversely as q. Given that p = 4, m = 3 and u = 2 and q = 1, find the value of p when m = 6, u = 4 and q = 8/5 (JAMB 2013)",
+    "questionText": "P varies jointly as m and u, and varies inversely as q. Given that p = 4, m = 3 and u = 2 and q = 1, find the value of p when m = 6, u = 4 and q = 8/5",
     "options": [
       "12(8/5)",
       "15",
@@ -15765,7 +15765,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-511-811",
-    "questionText": "If the midpoint of the line PQ is (2,3) and the point P is (-2, 1), find the coordinate of the point Q. (JAMB 2013)",
+    "questionText": "If the midpoint of the line PQ is (2,3) and the point P is (-2, 1), find the coordinate of the point Q.",
     "options": [
       "(8,6)",
       "(5,6)",
@@ -15777,7 +15777,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-512-73",
-    "questionText": "Given f(x) =3+x and g(x) =3-x, find g (f(x)) (JAMB 2013)",
+    "questionText": "Given f(x) =3+x and g(x) =3-x, find g (f(x))",
     "options": [
       "6",
       "x",
@@ -15789,7 +15789,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-513-772",
-    "questionText": "Evaluate 1.25×0.025/0.05\n, correct to 1 decimal place (JAMB 2013)",
+    "questionText": "Evaluate 1.25×0.025/0.05\n, correct to 1 decimal place",
     "options": [
       "0.6",
       "6.2",
@@ -15801,7 +15801,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-514-798",
-    "questionText": "In how many ways can 3 seats be occupied if 5 people are willing to sit? (JAMB 2013)",
+    "questionText": "In how many ways can 3 seats be occupied if 5 people are willing to sit?",
     "options": [
       "60",
       "20",
@@ -15813,7 +15813,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-515-803",
-    "questionText": "The value x in the figure given is (JAMB 2013)",
+    "questionText": "The value x in the figure given is",
     "options": [
       "110°",
       "100°",
@@ -15825,7 +15825,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-516-790",
-    "questionText": "If y = (2x + 2)<sup>3</sup>, find δy/δx (JAMB 2013)",
+    "questionText": "If y = (2x + 2)<sup>3</sup>, find δy/δx",
     "options": [
       "3(2x +2)<sup>2</sup>",
       "6(2x +2)",
@@ -15837,7 +15837,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-517-802",
-    "questionText": "In the diagram given, find the value of x. (JAMB 2013)",
+    "questionText": "In the diagram given, find the value of x.",
     "options": [
       "30°",
       "40°",
@@ -15849,7 +15849,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-518-808",
-    "questionText": "Find the length of a chord which subtends an angle of 90° at the centre of a circle whose radius is 8 cm. (JAMB 2013)",
+    "questionText": "Find the length of a chord which subtends an angle of 90° at the centre of a circle whose radius is 8 cm.",
     "options": [
       "8√3 cm",
       "4 cm",
@@ -15861,7 +15861,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-519-72",
-    "questionText": "Solve the equation 3x+1 = 271-x   (JAMB 2013)",
+    "questionText": "Solve the equation 3x+1 = 271-x",
     "options": [
       "1/2",
       "-1/2",
@@ -15873,7 +15873,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-520-815",
-    "questionText": "Integrate 1+x/x<sup>3</sup>dx (JAMB 2013)",
+    "questionText": "Integrate 1+x/x<sup>3</sup>dx",
     "options": [
       "2x<sup>2</sup>−(1/x) + k",
       "−1/2x<sup>2</sup> −1/x + k",
@@ -15885,7 +15885,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-521-801",
-    "questionText": "The graph above is correctly represented by (JAMB 2013)",
+    "questionText": "The graph above is correctly represented by",
     "options": [
       "y = x<sup>2</sup> - x - 2",
       "y = x<sup>2</sup> - 3x + 2",
@@ -15897,7 +15897,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-522-804",
-    "questionText": "The bar chart above shows the allotment of time(in minutes) per week for selected subjects in a certain school. What is the total time allocated to the six subjects per week? (JAMB 2013)",
+    "questionText": "The bar chart above shows the allotment of time(in minutes) per week for selected subjects in a certain school. What is the total time allocated to the six subjects per week?",
     "options": [
       "460mins",
       "720mins",
@@ -15909,7 +15909,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-523-775",
-    "questionText": "If log<sub>10</sub> 4 = 0.6021, evaluate log<sub>10</sub> 4<sup>1/3</sup> (JAMB 2013)",
+    "questionText": "If log<sub>10</sub> 4 = 0.6021, evaluate log<sub>10</sub> 4<sup>1/3</sup>",
     "options": [
       "0.3011",
       "0.9021",
@@ -15921,7 +15921,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-524-797",
-    "questionText": "In how many ways can a student select 2 subjects from 5 subjects? (JAMB 2013)",
+    "questionText": "In how many ways can a student select 2 subjects from 5 subjects?",
     "options": [
       "5!/3!",
       "5!/2!2!",
@@ -15933,7 +15933,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-525-791",
-    "questionText": "The radius of a circle is increasing at the rate of 0.02cms<sup>-1</sup>. Find the rate at which the area is increasing when the radius of the circle is 7cm. (JAMB 2013)",
+    "questionText": "The radius of a circle is increasing at the rate of 0.02cms<sup>-1</sup>. Find the rate at which the area is increasing when the radius of the circle is 7cm.",
     "options": [
       "0.75cm<sup>2</sup>S<sup>-1</sup>",
       "0.53cm<sup>2</sup>,S<sup>-1</sup>",
@@ -15945,7 +15945,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-526-779",
-    "questionText": "If x - 4 is a factor of x<sup>2</sup> - x - k, then k is (JAMB 2013)",
+    "questionText": "If x - 4 is a factor of x<sup>2</sup> - x - k, then k is",
     "options": [
       "4",
       "12",
@@ -15957,7 +15957,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-527-782",
-    "questionText": "If r varies inversely as the square root of s and t, how does s vary with r and t? (JAMB 2013)",
+    "questionText": "If r varies inversely as the square root of s and t, how does s vary with r and t?",
     "options": [
       "s varies inversely as r and t<sup>2</sup>",
       "s varies inverely as r<sup>2</sup> and t",
@@ -15969,7 +15969,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-528-786",
-    "questionText": "If a binary operation * is defined by x * y = x + 2y, find 2 * (3 * 4) (JAMB 2013)",
+    "questionText": "If a binary operation * is defined by x * y = x + 2y, find 2 * (3 * 4)",
     "options": [
       "24",
       "16",
@@ -15981,7 +15981,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-529-807",
-    "questionText": "A square tile has side 30 cm. How many of these tiles will cover a rectangular floor of length 7.2m and width 4.2m? (JAMB 2013)",
+    "questionText": "A square tile has side 30 cm. How many of these tiles will cover a rectangular floor of length 7.2m and width 4.2m?",
     "options": [
       "720",
       "336",
@@ -15993,7 +15993,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-530-795",
-    "questionText": "If the variance of 3+x, 6, 4, x and 7-x is 4 and the mean is 5, find the standard deviation (JAMB 2013)",
+    "questionText": "If the variance of 3+x, 6, 4, x and 7-x is 4 and the mean is 5, find the standard deviation",
     "options": [
       "√3",
       "2",
@@ -16005,7 +16005,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-531-809",
-    "questionText": "A chord of a circle subtends an angle of 120° at the centre of a circle of diameter 4√3cm\n. Calculate the area of the major sector. (JAMB 2013)",
+    "questionText": "A chord of a circle subtends an angle of 120° at the centre of a circle of diameter 4√3cm\n. Calculate the area of the major sector.",
     "options": [
       "32πcm<sup>2</sup>",
       "4π cm<sup>2</sup>",
@@ -16017,7 +16017,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-532-68",
-    "questionText": "What is the remainder when x3 +5x2-6x+1 is divided by x-1?  (JAMB 2013)",
+    "questionText": "What is the remainder when x3 +5x2-6x+1 is divided by x-1?",
     "options": [
       "-1",
       "2",
@@ -16029,7 +16029,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-533-789",
-    "questionText": "If y = x sin x, find δy/δx (JAMB 2013)",
+    "questionText": "If y = x sin x, find δy/δx",
     "options": [
       "sin x - cos x",
       ". cos x - x sin x",
@@ -16041,7 +16041,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-534-817",
-    "questionText": "P, Q and R are subsets of the universal set U. The Venn diagram showing the relationship (P∩Q)∪R\n is (JAMB 2013)",
+    "questionText": "P, Q and R are subsets of the universal set U. The Venn diagram showing the relationship (P∩Q)∪R\n is",
     "options": [
       "1",
       "2",
@@ -16053,7 +16053,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-535-785",
-    "questionText": "The n<sup>th</sup> term of the progression 4/2, 7/3, 10/4, 13/5 is ... (JAMB 2013)",
+    "questionText": "The n<sup>th</sup> term of the progression 4/2, 7/3, 10/4, 13/5 is ...",
     "options": [
       "(1−3n)/(n+1)",
       "(3n + 1)/(n+1)",
@@ -16065,7 +16065,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-536-818",
-    "questionText": "Evaluate 3(x + 2) > 6(x + 3) (JAMB 2013)",
+    "questionText": "Evaluate 3(x + 2) > 6(x + 3)",
     "options": [
       "x < 4",
       "x > -4",
@@ -16077,7 +16077,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-537-812",
-    "questionText": "Find the equation of the perpendicular bisector of the line joining P(2, -3) to Q(-5, 1) (JAMB 2013)",
+    "questionText": "Find the equation of the perpendicular bisector of the line joining P(2, -3) to Q(-5, 1)",
     "options": [
       "8y + 14x + 13 = 0",
       "8y - 14x + 13 = 0",
@@ -16089,7 +16089,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-538-770",
-    "questionText": "Convert 27<sub>10</sub>  to another number in base three (JAMB 2013)",
+    "questionText": "Convert 27<sub>10</sub>  to another number in base three",
     "options": [
       "1001<sub>3</sub>",
       "1010<sub>3</sub>",
@@ -16101,7 +16101,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-539-780",
-    "questionText": "The remainder when 6p3 - p<sup>2</sup> - 47p + 30 is divided by p - 3 is (JAMB 2013)",
+    "questionText": "The remainder when 6p3 - p<sup>2</sup> - 47p + 30 is divided by p - 3 is",
     "options": [
       "21",
       "42",
@@ -16113,7 +16113,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-540-71",
-    "questionText": "What is the coordinate of centre of the circle X2+y2+2x-4y =10?   (JAMB 2013)",
+    "questionText": "What is the coordinate of centre of the circle X2+y2+2x-4y =10?",
     "options": [
       "(-1,-2)",
       "( 1, 2)",
@@ -16125,7 +16125,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-541-70",
-    "questionText": "Solve the equation  = 25x+4  (JAMB 2013)",
+    "questionText": "Solve the equation  = 25x+4",
     "options": [
       "-4, 2",
       "-4,-2",
@@ -16137,7 +16137,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-542-66",
-    "questionText": "Solve 4x2 +20x -24 =0 (JAMB 2013)",
+    "questionText": "Solve 4x2 +20x -24 =0",
     "options": [
       "1, 6",
       "-1, -6",
@@ -16149,7 +16149,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-543-773",
-    "questionText": "Calculate the time taken for N3000 to earn N600 if invested at 8% simple interest (JAMB 2013)",
+    "questionText": "Calculate the time taken for N3000 to earn N600 if invested at 8% simple interest",
     "options": [
       "2(1/2) years",
       "3 years",
@@ -16161,7 +16161,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-544-814",
-    "questionText": "If tanθ=3/4, find the value of sinθ + cosθ\n. (JAMB 2013)",
+    "questionText": "If tanθ=3/4, find the value of sinθ + cosθ\n.",
     "options": [
       "1(1/3)",
       "1(2/3)",
@@ -16173,7 +16173,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-545-778",
-    "questionText": "If S = √(t<sup>2</sup>-4t+4), find t in terms of s (JAMB 2013)",
+    "questionText": "If S = √(t<sup>2</sup>-4t+4), find t in terms of s",
     "options": [
       "S<sup>2</sup> - 2",
       "S + 2",
@@ -16185,7 +16185,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-546-813",
-    "questionText": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12 Calculate the value of (JAMB 2013)",
+    "questionText": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12 Calculate the value of",
     "options": [
       "√108 cm",
       "9 cm",
@@ -16197,7 +16197,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-547-805",
-    "questionText": "The pie chart above shows the statistical distribution of 80 students in five subjects in an examination. Calculate how many student offer Mathematics. (JAMB 2013)",
+    "questionText": "The pie chart above shows the statistical distribution of 80 students in five subjects in an examination. Calculate how many student offer Mathematics.",
     "options": [
       "30",
       "11",
@@ -16209,7 +16209,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-548-806",
-    "questionText": "If the angles of a quadrilateral are (3y + 10)°, (2y + 30)°, (y + 20)° and 4y°. Find the value of y. (JAMB 2013)",
+    "questionText": "If the angles of a quadrilateral are (3y + 10)°, (2y + 30)°, (y + 20)° and 4y°. Find the value of y.",
     "options": [
       "66°",
       "12°",
@@ -16221,7 +16221,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-549-1220",
-    "questionText": "The mean of 2 - t, 4 + t, 3 - 2t, 2 + t and t - 1 is (JAMB 2014)",
+    "questionText": "The mean of 2 - t, 4 + t, 3 - 2t, 2 + t and t - 1 is",
     "options": [
       "t",
       "-t",
@@ -16233,7 +16233,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-550-1226",
-    "questionText": "The table above represents the outcome of throwing a die 100 times. What is the probability of obtaining at least a 4? (JAMB 2014)",
+    "questionText": "The table above represents the outcome of throwing a die 100 times. What is the probability of obtaining at least a 4?",
     "options": [
       "1/5",
       "1/2",
@@ -16245,7 +16245,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-551-1190",
-    "questionText": "A man donates 10% of his monthly net earnings to his church. If it amounts to N4,500, what is his net monthly income? (JAMB 2014)",
+    "questionText": "A man donates 10% of his monthly net earnings to his church. If it amounts to N4,500, what is his net monthly income?",
     "options": [
       "N40,500",
       "N45,000",
@@ -16257,7 +16257,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-552-1212",
-    "questionText": "The gradient of a line joining (x,4) and (1,2) is 1/2\n. Find the value of x (JAMB 2014)",
+    "questionText": "The gradient of a line joining (x,4) and (1,2) is 1/2\n. Find the value of x",
     "options": [
       "5",
       "3",
@@ -16269,7 +16269,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-553-1202",
-    "questionText": "Evaluate the inequality x/2+3/4≤ 5x/6 − 7/12 (JAMB 2014)",
+    "questionText": "Evaluate the inequality x/2+3/4≤ 5x/6 − 7/12",
     "options": [
       "x≥4",
       "x≤3",
@@ -16281,7 +16281,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-554-1193",
-    "questionText": "Simplify  (2√2-√3)/(√2+√3) (JAMB 2014)",
+    "questionText": "Simplify  (2√2-√3)/(√2+√3)",
     "options": [
       "3√6-7",
       "3√6-+7",
@@ -16293,7 +16293,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-555-1235",
-    "questionText": "The locus of a dog tethered to a pole with a rope of 4m is a\n (JAMB 2014)",
+    "questionText": "The locus of a dog tethered to a pole with a rope of 4m is a\n",
     "options": [
       "semi-circle with diameter 4m",
       "semi-circle with radius 4m",
@@ -16305,7 +16305,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-556-1207",
-    "questionText": "If ∣∣∣−x−1124∣∣∣=−12\n, find x. (JAMB 2014)",
+    "questionText": "If ∣∣∣−x−1124∣∣∣=−12\n, find x.",
     "options": [
       "-6",
       "-2",
@@ -16317,7 +16317,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-557-1197",
-    "questionText": "Factorize 2y<sup>2</sup> - 15xy + 18x<sup>2</sup> (JAMB 2014)",
+    "questionText": "Factorize 2y<sup>2</sup> - 15xy + 18x<sup>2</sup>",
     "options": [
       "(2y - 3x) (y + 6x)",
       "(2y - 3x) (y - 6x)",
@@ -16329,7 +16329,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-558-1200",
-    "questionText": "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R. (JAMB 2014)",
+    "questionText": "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R.",
     "options": [
       "P = Q/12R",
       "P = 12Q/R",
@@ -16341,7 +16341,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-559-1192",
-    "questionText": "Solve for x in 8x<sup>-2</sup> = 2/25 (JAMB 2014)",
+    "questionText": "Solve for x in 8x<sup>-2</sup> = 2/25",
     "options": [
       "4",
       "6",
@@ -16353,7 +16353,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-560-1199",
-    "questionText": "y varies directly as w<sup>2</sup>. When y = 8, w = 2. Find y when w = 3 (JAMB 2014)",
+    "questionText": "y varies directly as w<sup>2</sup>. When y = 8, w = 2. Find y when w = 3",
     "options": [
       "18",
       "12",
@@ -16365,7 +16365,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-561-1204",
-    "questionText": "What is the common ratio of the G.P. (√10 + √5) + (√10 +2√5) +...? (JAMB 2014)",
+    "questionText": "What is the common ratio of the G.P. (√10 + √5) + (√10 +2√5) +...?",
     "options": [
       "√2",
       "√5",
@@ -16377,7 +16377,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-562-1217",
-    "questionText": "Find the minimum value of y = x<sup>2</sup>  - 2x - 3 (JAMB 2014)",
+    "questionText": "Find the minimum value of y = x<sup>2</sup>  - 2x - 3",
     "options": [
       "4",
       "1",
@@ -16389,7 +16389,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-563-1191",
-    "questionText": "If log7.5 = 0.8751, evaluate 2 log75 + log750 (JAMB 2014)",
+    "questionText": "If log7.5 = 0.8751, evaluate 2 log75 + log750",
     "options": [
       "6.6252",
       "6.6253",
@@ -16401,7 +16401,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-564-1196",
-    "questionText": "If gt<sup>2</sup> - k - w = 0, make g the subject of the formula (JAMB 2014)",
+    "questionText": "If gt<sup>2</sup> - k - w = 0, make g the subject of the formula",
     "options": [
       "k+w/t<sup>2</sup>",
       "k-w/t<sup>2</sup>",
@@ -16413,7 +16413,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-565-1201",
-    "questionText": "What is the solution of x−5/x+3 <−1? (JAMB 2014)",
+    "questionText": "What is the solution of x−5/x+3 <−1?",
     "options": [
       "=-3 < x < 1",
       "x < -3 or x > 1",
@@ -16425,7 +16425,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-566-1189",
-    "questionText": "Express the product of 0.00043 and 2000 in standard form. (JAMB 2014)",
+    "questionText": "Express the product of 0.00043 and 2000 in standard form.",
     "options": [
       "8.6 x 10<sup>-3</sup>",
       "8.3 x 10<sup>-2</sup>",
@@ -16437,7 +16437,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-567-1210",
-    "questionText": "A cylindrical tank has a capacity of 6160m3. What is the depth of the tank if the radius of its base is 28cm? (JAMB 2014)",
+    "questionText": "A cylindrical tank has a capacity of 6160m3. What is the depth of the tank if the radius of its base is 28cm?",
     "options": [
       "8.0m",
       "7.5m",
@@ -16449,7 +16449,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-568-1227",
-    "questionText": "A number is chosen at random from 10 to 30 both inclusive. What is the probability that the number is divisible by 3? (JAMB 2014)",
+    "questionText": "A number is chosen at random from 10 to 30 both inclusive. What is the probability that the number is divisible by 3?",
     "options": [
       "2/15",
       "1/10",
@@ -16461,7 +16461,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-569-1206",
-    "questionText": "Find y, if (52−6−7)(xy)=(7−11) (JAMB 2014)",
+    "questionText": "Find y, if (52−6−7)(xy)=(7−11)",
     "options": [
       "8",
       "5",
@@ -16473,7 +16473,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-570-1214",
-    "questionText": "If sin θ=12/13\n, find the value of 1 + cos θ (JAMB 2014)",
+    "questionText": "If sin θ=12/13\n, find the value of 1 + cos θ",
     "options": [
       "25/13",
       "18/13",
@@ -16485,7 +16485,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-571-1209",
-    "questionText": "How many sides has a regular polygon whose interior angle is 135°? (JAMB 2014)",
+    "questionText": "How many sides has a regular polygon whose interior angle is 135°?",
     "options": [
       "12",
       "10",
@@ -16497,7 +16497,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-572-1195",
-    "questionText": "If P = {1,2,3,4,5} and P ∪\n Q = {1,2,3,4,5,6,7}, list the elements in Q (JAMB 2014)",
+    "questionText": "If P = {1,2,3,4,5} and P ∪\n Q = {1,2,3,4,5,6,7}, list the elements in Q",
     "options": [
       "{6}",
       "{7}",
@@ -16509,7 +16509,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-573-1215",
-    "questionText": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, find δy/δx (JAMB 2014)",
+    "questionText": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, find δy/δx",
     "options": [
       "8x<sup>2</sup> - 2x + 1",
       "8x<sup>2</sup> - 4x + 1",
@@ -16521,7 +16521,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-574-1218",
-    "questionText": "Evaluate ∫sin2xdx (JAMB 2014)",
+    "questionText": "Evaluate ∫sin2xdx",
     "options": [
       "cos 2x + k",
       "1/2cos 2x + k",
@@ -16533,7 +16533,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-575-1234",
-    "questionText": "If the angle of a sector of a circle with radius 10.5 cm is 120°, find the perimeter of the sector. [Take π=22/7] (JAMB 2014)",
+    "questionText": "If the angle of a sector of a circle with radius 10.5 cm is 120°, find the perimeter of the sector. [Take π=22/7]",
     "options": [
       "48 cm",
       "40 cm",
@@ -16545,7 +16545,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-576-1203",
-    "questionText": "The 4th term of an A.P. is 13 while the 10th term is 31. Find the 24th term. (JAMB 2014)",
+    "questionText": "The 4th term of an A.P. is 13 while the 10th term is 31. Find the 24th term.",
     "options": [
       "89",
       "75",
@@ -16557,7 +16557,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-577-1213",
-    "questionText": "Calculate the mid point of the line segment y - 4x + 3 = 0, which lies between the x-axis and y-axis. (JAMB 2014)",
+    "questionText": "Calculate the mid point of the line segment y - 4x + 3 = 0, which lies between the x-axis and y-axis.",
     "options": [
       "None of the above",
       "All of the above",
@@ -16568,7 +16568,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-578-1224",
-    "questionText": "Find the standard deviation of 5, 4, 3, 2, 1 (JAMB 2014)",
+    "questionText": "Find the standard deviation of 5, 4, 3, 2, 1",
     "options": [
       "√2",
       "√3",
@@ -16580,7 +16580,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-579-1208",
-    "questionText": "Find the value of ∣∣∣∣010375284∣∣∣∣\n. (JAMB 2014)",
+    "questionText": "Find the value of ∣∣∣∣010375284∣∣∣∣\n.",
     "options": [
       "12",
       "10",
@@ -16592,7 +16592,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-580-1205",
-    "questionText": "A binary operation * is defined by x * y = xy. If x * 2 = 12 - x, find the possible values of x (JAMB 2014)",
+    "questionText": "A binary operation * is defined by x * y = xy. If x * 2 = 12 - x, find the possible values of x",
     "options": [
       "3,4",
       "3,-4",
@@ -16604,7 +16604,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-581-1211",
-    "questionText": "Find the mid point of S(-5, 4) and T(-3, -2) (JAMB 2014)",
+    "questionText": "Find the mid point of S(-5, 4) and T(-3, -2)",
     "options": [
       "-4, 2",
       "4, -2",
@@ -16616,7 +16616,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-582-1219",
-    "questionText": "Evaluate ∫(2x+3)<sup>(1/2)</sup> δx (JAMB 2014)",
+    "questionText": "Evaluate ∫(2x+3)<sup>(1/2)</sup> δx",
     "options": [
       "1/12(2x+3)<sup>6</sup> +k",
       "1/3(2x+3)<sup>(1/2)</sup> +k",
@@ -16628,7 +16628,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-583-1187",
-    "questionText": "Find the value of 110111<sub>2</sub>  + 10100<sub>2</sub>  (JAMB 2014)",
+    "questionText": "Find the value of 110111<sub>2</sub>  + 10100<sub>2</sub>",
     "options": [
       "1101011<sub>2</sub>",
       "1001001<sub>2</sub>",
@@ -16640,7 +16640,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-584-1230",
-    "questionText": "From the figure above, what is the value of p? (JAMB 2014)",
+    "questionText": "From the figure above, what is the value of p?",
     "options": [
       "135°",
       "90°",
@@ -16652,7 +16652,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-585-1233",
-    "questionText": "The pie chart above shows the monthly distribution of a man's salary on food items. If he spent N8,000 on rice, how much did he spent on yam? (JAMB 2014)",
+    "questionText": "The pie chart above shows the monthly distribution of a man's salary on food items. If he spent N8,000 on rice, how much did he spent on yam?",
     "options": [
       "N42,000",
       "N18,000",
@@ -16664,7 +16664,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-586-1228",
-    "questionText": "From the venn diagram above, the shaded parts represent (JAMB 2014)",
+    "questionText": "From the venn diagram above, the shaded parts represent",
     "options": [
       "(P∩Q)∪(P∩R)",
       "(P∪Q)∩(P∩R)",
@@ -16676,7 +16676,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-587-1263",
-    "questionText": "A man sells his new brand car for N420,000 at a gain of 15%. What did it cost him? (JAMB 2015)",
+    "questionText": "A man sells his new brand car for N420,000 at a gain of 15%. What did it cost him?",
     "options": [
       "N410,000",
       "N365, 217",
@@ -16688,7 +16688,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-588-1248",
-    "questionText": "Find the equation of a line which is form origin and passes through the point (−3, −4) (JAMB 2015)",
+    "questionText": "Find the equation of a line which is form origin and passes through the point (−3, −4)",
     "options": [
       "y = 3x/4",
       "y = 4x/3",
@@ -16700,7 +16700,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-589-1258",
-    "questionText": "Simplify (0.09)<sup>2</sup> and give your answer correct to 4 significant figures (JAMB 2015)",
+    "questionText": "Simplify (0.09)<sup>2</sup> and give your answer correct to 4 significant figures",
     "options": [
       "0.81",
       "0.081",
@@ -16712,7 +16712,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-590-1240",
-    "questionText": "X and Y are two sets such that n(X) = 15, n(Y) = 12 and n{X ∩ Y} = 7. Find ∩{X ∪ Y} (JAMB 2015)",
+    "questionText": "X and Y are two sets such that n(X) = 15, n(Y) = 12 and n{X ∩ Y} = 7. Find ∩{X ∪ Y}",
     "options": [
       "21",
       "22.5",
@@ -16724,7 +16724,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-591-1255",
-    "questionText": "Factorize x<sup>2</sup> −2x−15 (JAMB 2015)",
+    "questionText": "Factorize x<sup>2</sup> −2x−15",
     "options": [
       "(x + 3)<sup>2</sup>",
       "(x + 5)(x − 3)",
@@ -16736,7 +16736,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-592-1284",
-    "questionText": "The probability of an outcome A is 1/6 . The probability of the B outcome is 1/4 . If the probability of A or B or both is 1/12 . What is the probability of both outcomes A and B? (JAMB 2015)",
+    "questionText": "The probability of an outcome A is 1/6 . The probability of the B outcome is 1/4 . If the probability of A or B or both is 1/12 . What is the probability of both outcomes A and B?",
     "options": [
       "1/2",
       "1/3",
@@ -16748,7 +16748,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-593-1274",
-    "questionText": "If an investor invest N450,000 in a certain organization in order to yield X as a return of N25,000. Find the return on an investment of N700,000 by Y in the same organization. (JAMB 2015)",
+    "questionText": "If an investor invest N450,000 in a certain organization in order to yield X as a return of N25,000. Find the return on an investment of N700,000 by Y in the same organization.",
     "options": [
       "N14,950.50K",
       "N25,150.30K",
@@ -16760,7 +16760,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-594-1266",
-    "questionText": "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (π = 3.14) (JAMB 2015)",
+    "questionText": "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (π = 3.14)",
     "options": [
       "3.13 cm<sup>2</sup>",
       "145 cm<sup>2</sup>",
@@ -16772,7 +16772,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-595-1265",
-    "questionText": "Solve x<sup>2</sup> − 2x − 3 = 0 (JAMB 2015)",
+    "questionText": "Solve x<sup>2</sup> − 2x − 3 = 0",
     "options": [
       "x = 2 or 1",
       "x = 3 or -1",
@@ -16784,7 +16784,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-596-1236",
-    "questionText": "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate (JAMB 2015)",
+    "questionText": "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate",
     "options": [
       "3%",
       "1.0%",
@@ -16796,7 +16796,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-597-1267",
-    "questionText": "The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both (JAMB 2015)",
+    "questionText": "The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both",
     "options": [
       "2/15",
       "3/4",
@@ -16808,7 +16808,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-598-1238",
-    "questionText": "Factorize x<sup>2</sup> + 9x + 20 (JAMB 2015)",
+    "questionText": "Factorize x<sup>2</sup> + 9x + 20",
     "options": [
       "(x − 5)<sup>2</sup>",
       "(x + 5)(x + 4)",
@@ -16820,7 +16820,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-599-1251",
-    "questionText": "If log<sub>5</sub>20 = x, find x (JAMB 2015)",
+    "questionText": "If log<sub>5</sub>20 = x, find x",
     "options": [
       "1.761",
       "1.354",
@@ -16832,7 +16832,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-600-1259",
-    "questionText": "Simplify [1÷(x<sup>2</sup> + 3x + 2)]+[1 ÷ (x<sup>2</sup> + 5x + 6)] (JAMB 2015)",
+    "questionText": "Simplify [1÷(x<sup>2</sup> + 3x + 2)]+[1 ÷ (x<sup>2</sup> + 5x + 6)]",
     "options": [
       "2/(x+1)<sup>2</sup>",
       "2/(x+1)(x+2)",
@@ -16844,7 +16844,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-601-1254",
-    "questionText": "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton’s is 2cm, find the extension produced by a tension of 12 newton’s. (JAMB 2015)",
+    "questionText": "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton’s is 2cm, find the extension produced by a tension of 12 newton’s.",
     "options": [
       "2",
       "1",
@@ -16856,7 +16856,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-602-1252",
-    "questionText": "Find at which rate per annum simple interest N525 will amount to N588 in 3 years. (JAMB 2015)",
+    "questionText": "Find at which rate per annum simple interest N525 will amount to N588 in 3 years.",
     "options": [
       "3%",
       "2%",
@@ -16868,7 +16868,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-603-1282",
-    "questionText": "The area of an ellipse is 132cm2.The length of its major axis is 14cm.Find the length of it minor axis (JAMB 2015)",
+    "questionText": "The area of an ellipse is 132cm2.The length of its major axis is 14cm.Find the length of it minor axis",
     "options": [
       "10.5cm",
       "5cm",
@@ -16880,7 +16880,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-604-1256",
-    "questionText": "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point (JAMB 2015)",
+    "questionText": "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point",
     "options": [
       "2, ½",
       "½ , 2",
@@ -16892,7 +16892,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-605-1241",
-    "questionText": "Find the x and z intercepts of the graph of 3x - z ≤ 9\n\n (JAMB 2015)",
+    "questionText": "Find the x and z intercepts of the graph of 3x - z ≤ 9\n\n",
     "options": [
       "(3, -9)",
       "(-3, 9)",
@@ -16904,7 +16904,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-606-1250",
-    "questionText": "Make x the subject of the equation\ns = 2 + t/5(x + ⅗y) (JAMB 2015)",
+    "questionText": "Make x the subject of the equation\ns = 2 + t/5(x + ⅗y)",
     "options": [
       "x = 5[(s − 2) ÷ t] - 3/5y",
       "x = 25[(s − 2) ÷ t] − 3ty",
@@ -16916,7 +16916,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-607-1247",
-    "questionText": "The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms (JAMB 2015)",
+    "questionText": "The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms",
     "options": [
       "nth = 3",
       "nth = 4",
@@ -16928,7 +16928,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-608-1273",
-    "questionText": "Given that S and T are sets of real numbers such that S = {x : 0 ≤\n x ≤ 5} and T = {x : − 2 < x < 3} Find S ∪ T (JAMB 2015)",
+    "questionText": "Given that S and T are sets of real numbers such that S = {x : 0 ≤\n x ≤ 5} and T = {x : − 2 < x < 3} Find S ∪ T",
     "options": [
       "−3 < x < ≤3",
       "−2< x < ≤5",
@@ -16940,7 +16940,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-609-1283",
-    "questionText": "The volume of a cone (s) of height 6cm and base radius 5cm is (JAMB 2015)",
+    "questionText": "The volume of a cone (s) of height 6cm and base radius 5cm is",
     "options": [
       "157 cm<sup>3</sup>",
       "155 cm<sup>3</sup>",
@@ -16952,7 +16952,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-610-1278",
-    "questionText": "Integral ∫(5x<sup>3</sup> + 7x<sup>2</sup> − 2x +5)\ndx (JAMB 2015)",
+    "questionText": "Integral ∫(5x<sup>3</sup> + 7x<sup>2</sup> − 2x +5)\ndx",
     "options": [
       "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 + 2x + C",
       "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 − x<sup>2</sup> + 5x + C",
@@ -16964,7 +16964,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-611-1285",
-    "questionText": "Given that Z = {1,2,4,5} what is the power of set Z? (JAMB 2015)",
+    "questionText": "Given that Z = {1,2,4,5} what is the power of set Z?",
     "options": [
       "16",
       "8",
@@ -16976,7 +16976,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-612-1270",
-    "questionText": "Simplify 6(1/12) − 2¾ + 1½ (JAMB 2015)",
+    "questionText": "Simplify 6(1/12) − 2¾ + 1½",
     "options": [
       "3(5/6)",
       "4(5/6)",
@@ -16988,7 +16988,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-613-1276",
-    "questionText": "10011<sub>2</sub>  + *****2 + 11100<sub>2</sub>  + 101<sub>2</sub>  = 1001111<sub>2</sub>  (JAMB 2015)",
+    "questionText": "10011<sub>2</sub>  + *****2 + 11100<sub>2</sub>  + 101<sub>2</sub>  = 1001111<sub>2</sub>",
     "options": [
       "1111<sub>2</sub>",
       "11011<sub>2</sub>",
@@ -17000,7 +17000,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-614-1260",
-    "questionText": "One bag contain 3 blue and 5 red balls, another bag contain 2 blue and 4 red balls respectively. One ball is drawn for each bag. What is the probability both balls are blue (JAMB 2015)",
+    "questionText": "One bag contain 3 blue and 5 red balls, another bag contain 2 blue and 4 red balls respectively. One ball is drawn for each bag. What is the probability both balls are blue",
     "options": [
       "2/15",
       "3/24",
@@ -17012,7 +17012,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-615-1243",
-    "questionText": "Find the total surface area of a cylinder of base radius 5cm and length 7cm ( π = 3.14) (JAMB 2015)",
+    "questionText": "Find the total surface area of a cylinder of base radius 5cm and length 7cm ( π = 3.14)",
     "options": [
       "17.8 cm<sup>2</sup>",
       "15.8 cm<sup>2</sup>",
@@ -17024,7 +17024,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-616-1275",
-    "questionText": "Evaluate log<sub>7</sub>17 (JAMB 2015)",
+    "questionText": "Evaluate log<sub>7</sub>17",
     "options": [
       "1.35",
       "1.353",
@@ -17036,7 +17036,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-617-1271",
-    "questionText": "Find the distance between the points (-2,-3) and (-2,4) (JAMB 2015)",
+    "questionText": "Find the distance between the points (-2,-3) and (-2,4)",
     "options": [
       "3m",
       "2.4m",
@@ -17048,7 +17048,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-618-1257",
-    "questionText": "Find the simple interest on N325 in 5years at 3% per annum. (JAMB 2015)",
+    "questionText": "Find the simple interest on N325 in 5years at 3% per annum.",
     "options": [
       "N48.75K",
       "N50.10K",
@@ -17060,7 +17060,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-619-1264",
-    "questionText": "Find the value of x if [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>] (JAMB 2015)",
+    "questionText": "Find the value of x if [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>]",
     "options": [
       "3/2",
       "2/3",
@@ -17072,7 +17072,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-620-1272",
-    "questionText": "Determine the third term of a geometrical progression whose first and second term are 2 and 54 respectively (JAMB 2015)",
+    "questionText": "Determine the third term of a geometrical progression whose first and second term are 2 and 54 respectively",
     "options": [
       "1458",
       "1485",
@@ -17084,7 +17084,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-621-1246",
-    "questionText": "Solve the equation 3x<sup>2</sup> − 4x − 5 = 0 (JAMB 2015)",
+    "questionText": "Solve the equation 3x<sup>2</sup> − 4x − 5 = 0",
     "options": [
       "x = 1.75 or − 0.15",
       "x = 2.12 or − 0.79",
@@ -17096,7 +17096,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-622-1261",
-    "questionText": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B (JAMB 2015)",
+    "questionText": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B",
     "options": [
       "{}",
       "{⅓, 1, 2}",
@@ -17108,7 +17108,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-623-1268",
-    "questionText": "If (159.75)10 = (x)6. Find x (JAMB 2015)",
+    "questionText": "If (159.75)10 = (x)6. Find x",
     "options": [
       "x<sub>6</sub> = 123.34<sub>6</sub>",
       "x<sub>6</sub> = 424.5<sub>6</sub>",
@@ -17120,7 +17120,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-624-1242",
-    "questionText": "Simplify log<sub>10</sub> 1.5 + 3 log<sub>10</sub> 2 − log<sub>10</sub> 0.3 (JAMB 2015)",
+    "questionText": "Simplify log<sub>10</sub> 1.5 + 3 log<sub>10</sub> 2 − log<sub>10</sub> 0.3",
     "options": [
       "log<sub>10</sub>4",
       "log<sub>10</sub>40",
@@ -17132,7 +17132,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-625-1244",
-    "questionText": "If x + y = 90 simplify (sinx+siny)<sup>2</sup> −2sinxsiny (JAMB 2015)",
+    "questionText": "If x + y = 90 simplify (sinx+siny)<sup>2</sup> −2sinxsiny",
     "options": [
       "1",
       "0",
@@ -17144,7 +17144,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-626-1281",
-    "questionText": "The area of a circle of radius 4cm is equal to (Take π = 3.142 ) (JAMB 2015)",
+    "questionText": "The area of a circle of radius 4cm is equal to (Take π = 3.142 )",
     "options": [
       "10.3 cm<sup>2</sup>",
       "15.7 cm<sup>2</sup>",
@@ -17156,7 +17156,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-627-829",
-    "questionText": "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w. (JAMB 2016)",
+    "questionText": "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w.",
     "options": [
       "7",
       "3",
@@ -17168,7 +17168,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-628-854",
-    "questionText": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km? (JAMB 2016)",
+    "questionText": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?",
     "options": [
       "720 litres",
       "160 litres",
@@ -17180,7 +17180,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-629-867",
-    "questionText": "From the diagram above. Find the fraction of the shaded position? (JAMB 2016)",
+    "questionText": "From the diagram above. Find the fraction of the shaded position?",
     "options": [
       "1/3",
       "1/5",
@@ -17192,7 +17192,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-630-828",
-    "questionText": "The venn diagram shows a class of 50 students with the games they play. How many students play only two games? (JAMB 2016)",
+    "questionText": "The venn diagram shows a class of 50 students with the games they play. How many students play only two games?",
     "options": [
       "15",
       "16",
@@ -17204,7 +17204,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-631-833",
-    "questionText": "Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1. (JAMB 2016)",
+    "questionText": "Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1.",
     "options": [
       "32",
       "36",
@@ -17216,7 +17216,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-632-832",
-    "questionText": "The pie chart above shows the distribution of subjects offered by students in SSS III level. If 80 students enrolled in the class. What is the size of the angle of the sector in economics? (JAMB 2016)",
+    "questionText": "The pie chart above shows the distribution of subjects offered by students in SSS III level. If 80 students enrolled in the class. What is the size of the angle of the sector in economics?",
     "options": [
       "24°",
       "39°",
@@ -17228,7 +17228,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-633-835",
-    "questionText": "Factorize k<sup>2</sup> - 2kp + p<sup>2</sup> (JAMB 2016)",
+    "questionText": "Factorize k<sup>2</sup> - 2kp + p<sup>2</sup>",
     "options": [
       "(k +p)<sup>2</sup>",
       "(k - p)<sup>2</sup>",
@@ -17240,7 +17240,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-634-824",
-    "questionText": "From the diagram above, find the value of < OTQ (JAMB 2016)",
+    "questionText": "From the diagram above, find the value of < OTQ",
     "options": [
       "230°",
       "55°",
@@ -17252,7 +17252,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-635-838",
-    "questionText": "Given U = {x: x is a positive integer less than 15} and P = {x: x is even number from 1 to 14}. Find the compliment of P. (JAMB 2016)",
+    "questionText": "Given U = {x: x is a positive integer less than 15} and P = {x: x is even number from 1 to 14}. Find the compliment of P.",
     "options": [
       "{1, 3, 5, 7, 9, 11, 13, 15}",
       "{2, 3, 5, 7, 9, 11, 13}",
@@ -17264,7 +17264,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-636-837",
-    "questionText": "The table above shows the frequency distribution of marks obtained by a group of students. If the total mark is 48, find the value of y. (JAMB 2016)",
+    "questionText": "The table above shows the frequency distribution of marks obtained by a group of students. If the total mark is 48, find the value of y.",
     "options": [
       "6",
       "8",
@@ -17276,7 +17276,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-637-823",
-    "questionText": "If the 2nd term of a G.P is 8/9\n and the 6th term is 4(1/2)\n. Find the common ratio. (JAMB 2016)",
+    "questionText": "If the 2nd term of a G.P is 8/9\n and the 6th term is 4(1/2)\n. Find the common ratio.",
     "options": [
       "2",
       "3/2",
@@ -17288,7 +17288,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-638-848",
-    "questionText": "An arc of the length 16π cm subtends an angle of 80° at the centre of the circle. Find the radius of the circle. (JAMB 2016)",
+    "questionText": "An arc of the length 16π cm subtends an angle of 80° at the centre of the circle. Find the radius of the circle.",
     "options": [
       "24cm",
       "28cm",
@@ -17300,7 +17300,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-639-842",
-    "questionText": "Evaluate (〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2) (JAMB 2016)",
+    "questionText": "Evaluate (〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)",
     "options": [
       "23/5",
       "-(23/5)",
@@ -17312,7 +17312,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-640-825",
-    "questionText": "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon. (JAMB 2016)",
+    "questionText": "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon.",
     "options": [
       "5",
       "7",
@@ -17324,7 +17324,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-641-851",
-    "questionText": "If y = 2x<sup>3</sup> + 6x<sup>2</sup> + 6x + 1, Find dy/dx (JAMB 2016)",
+    "questionText": "If y = 2x<sup>3</sup> + 6x<sup>2</sup> + 6x + 1, Find dy/dx",
     "options": [
       "6x<sup>2</sup> + 12x + 1",
       "6x<sup>2</sup> + 6x + 1",
@@ -17336,7 +17336,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-642-857",
-    "questionText": "If N = p/2((T<sub>1</sub> −T<sub>2</sub> )/T<sub>1</sub> ). Find P when N = 12, T<sub>1</sub>  = 27 and T<sub>2</sub>  = 24. (JAMB 2016)",
+    "questionText": "If N = p/2((T<sub>1</sub> −T<sub>2</sub> )/T<sub>1</sub> ). Find P when N = 12, T<sub>1</sub>  = 27 and T<sub>2</sub>  = 24.",
     "options": [
       "48",
       "108",
@@ -17348,7 +17348,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-643-846",
-    "questionText": "An arc subtends an angle of 30o at the centre of a circle radius 12cm. Calculate the length of the arc. (JAMB 2016)",
+    "questionText": "An arc subtends an angle of 30o at the centre of a circle radius 12cm. Calculate the length of the arc.",
     "options": [
       "6π cm",
       "2π cm",
@@ -17360,7 +17360,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-644-840",
-    "questionText": "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio of 2:3:5 respectively. If Bisi got 5, how many were shared out? (JAMB 2016)",
+    "questionText": "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio of 2:3:5 respectively. If Bisi got 5, how many were shared out?",
     "options": [
       "15",
       "25",
@@ -17372,7 +17372,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-645-861",
-    "questionText": "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23. (JAMB 2016)",
+    "questionText": "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23.",
     "options": [
       "11.2",
       "10",
@@ -17384,7 +17384,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-646-834",
-    "questionText": "The bar chart above shows the number of visitors received in a week. How many visitors were received on Friday, Tuesday and Sunday? (JAMB 2016)",
+    "questionText": "The bar chart above shows the number of visitors received in a week. How many visitors were received on Friday, Tuesday and Sunday?",
     "options": [
       "17",
       "22",
@@ -17396,7 +17396,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-647-859",
-    "questionText": "If Q is a factor of 18 and T is prime numbers between 2 and 18. What is Q∩T? (JAMB 2016)",
+    "questionText": "If Q is a factor of 18 and T is prime numbers between 2 and 18. What is Q∩T?",
     "options": [
       "(2,3)",
       "(2,3,18)",
@@ -17408,7 +17408,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-648-821",
-    "questionText": "Find the derivative of y = (1/3X + 6)<sup>2</sup> (JAMB 2016)",
+    "questionText": "Find the derivative of y = (1/3X + 6)<sup>2</sup>",
     "options": [
       "2( 1/3X + 6)",
       "2/3 ( 1/3x 6)",
@@ -17420,7 +17420,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-649-839",
-    "questionText": "Simplify (0.026 × 0.36)/0.69\n. Leave your answer in standard form (JAMB 2016)",
+    "questionText": "Simplify (0.026 × 0.36)/0.69\n. Leave your answer in standard form",
     "options": [
       "1.36 x 10-4",
       "1.36 x 10-3",
@@ -17432,7 +17432,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-650-841",
-    "questionText": "Calculate the perimeter of a sector of a circle of raduis 9cm and angle 36o. (JAMB 2016)",
+    "questionText": "Calculate the perimeter of a sector of a circle of raduis 9cm and angle 36o.",
     "options": [
       "18cm",
       "(18 + 9π/5)cm",
@@ -17444,7 +17444,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-651-819",
-    "questionText": "Integrate (2x<sup>3</sup>+2x)/x\n with respect to x (JAMB 2016)",
+    "questionText": "Integrate (2x<sup>3</sup>+2x)/x\n with respect to x",
     "options": [
       "2x<sup>3</sup>/3 - 2x + k",
       "x<sup>3</sup> + 2x + k",
@@ -17456,7 +17456,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-652-868",
-    "questionText": "From the diagram above, find the required roots/region of x. (JAMB 2016)",
+    "questionText": "From the diagram above, find the required roots/region of x.",
     "options": [
       "x≤-1, x ≥4",
       "x≤4",
@@ -17468,7 +17468,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-653-855",
-    "questionText": "Find dy/dx. If y = 3x<sup>3</sup> + 2x<sup>2</sup> + 3x + 1 (JAMB 2016)",
+    "questionText": "Find dy/dx. If y = 3x<sup>3</sup> + 2x<sup>2</sup> + 3x + 1",
     "options": [
       "9x<sup>2</sup> + 4x + 3",
       "9x<sup>2</sup> - 4x - 3",
@@ -17480,7 +17480,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-654-845",
-    "questionText": "Evaluate (0.8×0.43×0.031)/(0.05×0.72×0.021)\n. Correct to four significant figures. (JAMB 2016)",
+    "questionText": "Evaluate (0.8×0.43×0.031)/(0.05×0.72×0.021)\n. Correct to four significant figures.",
     "options": [
       "14.09",
       "14.1",
@@ -17492,7 +17492,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-655-856",
-    "questionText": "Evaluate ∫\n(sinx - 5x<sup>2</sup>)dx (JAMB 2016)",
+    "questionText": "Evaluate ∫\n(sinx - 5x<sup>2</sup>)dx",
     "options": [
       "-cosx - 10x + k",
       "cosx - 5x<sup>3</sup>/3 + k",
@@ -17504,7 +17504,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-656-853",
-    "questionText": "Simplify 1 - (1/7 x 3(1/2) ÷\n 3/4 (JAMB 2016)",
+    "questionText": "Simplify 1 - (1/7 x 3(1/2) ÷\n 3/4",
     "options": [
       "2",
       "1/3",
@@ -17516,7 +17516,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-657-858",
-    "questionText": "Solve for x and y respectively\n3x - 5y = 9\n6x - 4y = 12 (JAMB 2016)",
+    "questionText": "Solve for x and y respectively\n3x - 5y = 9\n6x - 4y = 12",
     "options": [
       "3/4 , 1",
       "4/3 , 1",
@@ -17528,7 +17528,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-658-866",
-    "questionText": "Determine the mean score of the student that took the mathematics test? (JAMB 2016)",
+    "questionText": "Determine the mean score of the student that took the mathematics test?",
     "options": [
       "4.5",
       "4.3",
@@ -17540,7 +17540,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-659-822",
-    "questionText": "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects? (JAMB 2016)",
+    "questionText": "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?",
     "options": [
       "45",
       "10",
@@ -17552,7 +17552,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-660-852",
-    "questionText": "The nth term of the sequence 3, 9, 27, 81.....is (JAMB 2016)",
+    "questionText": "The nth term of the sequence 3, 9, 27, 81.....is",
     "options": [
       "3 x 3n-2",
       "3 x 3n-1",
@@ -17564,7 +17564,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-661-864",
-    "questionText": "Rationalize(√6−√4)/(√6 + √4) (JAMB 2016)",
+    "questionText": "Rationalize(√6−√4)/(√6 + √4)",
     "options": [
       "5 + 2√6",
       "5 - 4√6",
@@ -17576,7 +17576,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-662-849",
-    "questionText": "The mean of 2-t, 4+t, 3-2t, 2+t and t-1 is (JAMB 2016)",
+    "questionText": "The mean of 2-t, 4+t, 3-2t, 2+t and t-1 is",
     "options": [
       "2",
       "t",
@@ -17588,7 +17588,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-663-826",
-    "questionText": "In the diagram above, l<sub>1</sub> is parallel to l<sub>2</sub>, Find the value of < PMT (JAMB 2016)",
+    "questionText": "In the diagram above, l<sub>1</sub> is parallel to l<sub>2</sub>, Find the value of < PMT",
     "options": [
       "82°",
       "36°",
@@ -17600,7 +17600,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-664-820",
-    "questionText": "If the mean of 4, y, 8 and 10 is 7. Find Y? (JAMB 2016)",
+    "questionText": "If the mean of 4, y, 8 and 10 is 7. Find Y?",
     "options": [
       "6",
       "10",
@@ -17612,7 +17612,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-665-865",
-    "questionText": "The bar chart above shows the marks obtained by students in a mathematics test.\nHow many students in all took the test? (JAMB 2016)",
+    "questionText": "The bar chart above shows the marks obtained by students in a mathematics test.\nHow many students in all took the test?",
     "options": [
       "40",
       "30",
@@ -17624,7 +17624,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-666-830",
-    "questionText": "Evaluate ∫\n(cos4x + sin3x)dx (JAMB 2016)",
+    "questionText": "Evaluate ∫\n(cos4x + sin3x)dx",
     "options": [
       "sin4x - cos3x + k",
       "sin4x + cos3x + k",
@@ -17636,7 +17636,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-667-893",
-    "questionText": "Find the number of ways that the letters of the word EXCELLENCE be arranged (JAMB 2017)",
+    "questionText": "Find the number of ways that the letters of the word EXCELLENCE be arranged",
     "options": [
       "(10!2!2!)/2!",
       "(10!4!)/2!",
@@ -17648,7 +17648,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-668-911",
-    "questionText": "Find the range of the following set of numbers 0.4, −0.4, 0.3, 0.47, −0.53, 0.2 and −0.2 (JAMB 2017)",
+    "questionText": "Find the range of the following set of numbers 0.4, −0.4, 0.3, 0.47, −0.53, 0.2 and −0.2",
     "options": [
       "1.03",
       "0.07",
@@ -17660,7 +17660,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-669-906",
-    "questionText": "The operation * on the set R of real number is defined by x * y = 3x + 2y − 1, find 3* − 1 (JAMB 2017)",
+    "questionText": "The operation * on the set R of real number is defined by x * y = 3x + 2y − 1, find 3* − 1",
     "options": [
       "9",
       "-9",
@@ -17672,7 +17672,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209574-670-881",
-    "questionText": "Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60° (JAMB 2017)",
+    "questionText": "Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60°",
     "options": [
       "100o",
       "140°",
@@ -17684,7 +17684,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-671-913",
-    "questionText": "What is the product of 2x<sup>2</sup − x + 1 and 3 − 2x (JAMB 2017)",
+    "questionText": "What is the product of 2x<sup>2</sup − x + 1 and 3 − 2x",
     "options": [
       "4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3",
       "−4x<sup>3</sup> + 8x<sup>2</sup> − 5x + 3",
@@ -17696,7 +17696,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-672-915",
-    "questionText": "The time taken to a piece of work is inversely proportional to the number of men employed. If it takes 45 men to do a piece of work in 5 days, how long will it take 25 men? (JAMB 2017)",
+    "questionText": "The time taken to a piece of work is inversely proportional to the number of men employed. If it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
     "options": [
       "15 days",
       "12 days",
@@ -17708,7 +17708,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-673-877",
-    "questionText": "Evaluate 1 - (1/5 x 2/3) + ( 5 + 2/3) (JAMB 2017)",
+    "questionText": "Evaluate 1 - (1/5 x 2/3) + ( 5 + 2/3)",
     "options": [
       "4",
       "3",
@@ -17720,7 +17720,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-674-897",
-    "questionText": "The pie chart shows the allocation of money to each sector in a farm. The total amount allocated to the farm is ₦ 80 000. Find the amount allocated to fertilizer (JAMB 2017)",
+    "questionText": "The pie chart shows the allocation of money to each sector in a farm. The total amount allocated to the farm is ₦ 80 000. Find the amount allocated to fertilizer",
     "options": [
       "₦ 35, 000",
       "₦ 40,000",
@@ -17732,7 +17732,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-675-870",
-    "questionText": "What is the next number in the series 2, 1, 1/2, 1/4 ... (JAMB 2017)",
+    "questionText": "What is the next number in the series 2, 1, 1/2, 1/4 ...",
     "options": [
       "1/3",
       "2/8",
@@ -17744,7 +17744,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-676-903",
-    "questionText": "In the diagram above MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140°, find, to the nearest cm, the length of the chord MN. (JAMB 2017)",
+    "questionText": "In the diagram above MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140°, find, to the nearest cm, the length of the chord MN.",
     "options": [
       "10cm",
       "19cm",
@@ -17756,7 +17756,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-677-902",
-    "questionText": "Find ∫(x<sup>2</sup>  + 3x − 5)dx (JAMB 2017)",
+    "questionText": "Find ∫(x<sup>2</sup>  + 3x − 5)dx",
     "options": [
       "x3/3 - 3x2/2 - 5x + k",
       "x3/3 - 3x2/2 + 5x + k",
@@ -17768,7 +17768,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-678-905",
-    "questionText": "Make S the subject of the relation\np = s + (sm<sup>2</sup>)/nr (JAMB 2017)",
+    "questionText": "Make S the subject of the relation\np = s + (sm<sup>2</sup>)/nr",
     "options": [
       "s = nrpn/r+m<sup>2</sup>",
       "s = nr + m<sup>2</sup> /mrp",
@@ -17780,7 +17780,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-679-876",
-    "questionText": "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J (JAMB 2017)",
+    "questionText": "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J",
     "options": [
       "24°C",
       "20°C",
@@ -17792,7 +17792,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-680-918",
-    "questionText": "Determine the distance between point P(3, 4) and Q(4,5) (JAMB 2017)",
+    "questionText": "Determine the distance between point P(3, 4) and Q(4,5)",
     "options": [
       "2",
       "√5",
@@ -17804,7 +17804,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-681-879",
-    "questionText": "Simplify 3<sup>n−1</sup> ×  (27<sup>n+1</sup>)/81<sup>n</sup> (JAMB 2017)",
+    "questionText": "Simplify 3<sup>n−1</sup> ×  (27<sup>n+1</sup>)/81<sup>n</sup>",
     "options": [
       "32<sup>2n</sup>",
       "9",
@@ -17816,7 +17816,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-682-914",
-    "questionText": "A card is picked at random from a pack of 52 well shuffled playing cards. Find the probability of NOT picking a red cards in the pack. If there are 13 red card in the pack (JAMB 2017)",
+    "questionText": "A card is picked at random from a pack of 52 well shuffled playing cards. Find the probability of NOT picking a red cards in the pack. If there are 13 red card in the pack",
     "options": [
       "3/4",
       "2/3",
@@ -17828,7 +17828,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-683-890",
-    "questionText": "In the figure, find x (JAMB 2017)",
+    "questionText": "In the figure, find x",
     "options": [
       "40°",
       "55°",
@@ -17840,7 +17840,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-684-904",
-    "questionText": "Factorize completely X<sup>2</sup> +2XY+Y<sup>2</sup> +3X+3Y-18 (JAMB 2017)",
+    "questionText": "Factorize completely X<sup>2</sup> +2XY+Y<sup>2</sup> +3X+3Y-18",
     "options": [
       "(x + y + 6)(x + y -3)",
       "(x - y - 6)(x - y + 3)",
@@ -17852,7 +17852,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-685-891",
-    "questionText": "Divide 4x<sup>23</sup>  - 3x + 1 by 2x - 1 (JAMB 2017)",
+    "questionText": "Divide 4x<sup>23</sup>  - 3x + 1 by 2x - 1",
     "options": [
       "2x<sup>2</sup> -x + 1",
       "2x<sup>2</sup> - x -1",
@@ -17864,7 +17864,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-686-912",
-    "questionText": "Evaluate 1 − (1/5 x 1(2/3)) + (5 + 1(2/3)) (JAMB 2017)",
+    "questionText": "Evaluate 1 − (1/5 x 1(2/3)) + (5 + 1(2/3))",
     "options": [
       "4",
       "3",
@@ -17876,7 +17876,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-687-885",
-    "questionText": "The value of x + x ( xx) when x = 2 is (JAMB 2017)",
+    "questionText": "The value of x + x ( xx) when x = 2 is",
     "options": [
       "16",
       "10",
@@ -17888,7 +17888,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-688-909",
-    "questionText": "If (2√3−√2)/(√3+2√2) = m + n √ 6, find the values of m and n respectively (JAMB 2017)",
+    "questionText": "If (2√3−√2)/(√3+2√2) = m + n √ 6, find the values of m and n respectively",
     "options": [
       "1, − 2",
       "− 2, n = 1",
@@ -17900,7 +17900,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-689-907",
-    "questionText": "Find the gradient of the line joining the points (3, 2) and (1, 4) (JAMB 2017)",
+    "questionText": "Find the gradient of the line joining the points (3, 2) and (1, 4)",
     "options": [
       "3/2",
       "2/1",
@@ -17912,7 +17912,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-690-917",
-    "questionText": "From the diagram above, find the value of x (JAMB 2017)",
+    "questionText": "From the diagram above, find the value of x",
     "options": [
       "15°",
       "45°",
@@ -17924,7 +17924,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-691-882",
-    "questionText": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 7, 10, 6, 5 (JAMB 2017)",
+    "questionText": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 7, 10, 6, 5",
     "options": [
       "16",
       "14",
@@ -17936,7 +17936,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-692-880",
-    "questionText": "The locus of a point which is equidistant from the line PQ forms a (JAMB 2017)",
+    "questionText": "The locus of a point which is equidistant from the line PQ forms a",
     "options": [
       "circle centre P",
       "pair of parallel lines each opposite to PQ",
@@ -17948,7 +17948,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-693-894",
-    "questionText": "Evaluate 0.00000231/0.007\n and leave the answer in standard form (JAMB 2017)",
+    "questionText": "Evaluate 0.00000231/0.007\n and leave the answer in standard form",
     "options": [
       "3.3 x 10<sup>-4</sup>",
       "3.3 x 10<sup>-3</sup>",
@@ -17960,7 +17960,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-694-900",
-    "questionText": "y is inversely proportional to x and y is 6 when x = 7. Find the constant of the variation (JAMB 2017)",
+    "questionText": "y is inversely proportional to x and y is 6 when x = 7. Find the constant of the variation",
     "options": [
       "47",
       "42",
@@ -17972,7 +17972,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-695-901",
-    "questionText": "Find the equation of the locus of a point p (x, y) such that pv = pw, where v= (1, 1) and w = (3, 5) (JAMB 2017)",
+    "questionText": "Find the equation of the locus of a point p (x, y) such that pv = pw, where v= (1, 1) and w = (3, 5)",
     "options": [
       "2x + 2y = 9",
       "2x + 3y = 8",
@@ -17984,7 +17984,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-696-884",
-    "questionText": "The base in which the operation was performed was (JAMB 2017)",
+    "questionText": "The base in which the operation was performed was",
     "options": [
       "6",
       "2",
@@ -17996,7 +17996,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-697-872",
-    "questionText": "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base\nπ = 22/7 (JAMB 2017)",
+    "questionText": "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base\nπ = 22/7",
     "options": [
       "2.6cm",
       "3.5cm",
@@ -18008,7 +18008,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-698-875",
-    "questionText": "If y = x Sin x, find dy/dx when x = π/2 (JAMB 2017)",
+    "questionText": "If y = x Sin x, find dy/dx when x = π/2",
     "options": [
       "−π/2",
       "-1",
@@ -18020,7 +18020,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-699-873",
-    "questionText": "If two graphs Y = px<sup>2</sup> + q and y = 2x<sup>2</sup> − 1 intersect at x =2, find the value of p in terms of q (JAMB 2017)",
+    "questionText": "If two graphs Y = px<sup>2</sup> + q and y = 2x<sup>2</sup> − 1 intersect at x =2, find the value of p in terms of q",
     "options": [
       "q − 8/7",
       "7 − q/4",
@@ -18032,7 +18032,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-700-896",
-    "questionText": "Find the principal which amounts to ₦ 5,500 at a simple interest in 5 years at 2% per annum (JAMB 2017)",
+    "questionText": "Find the principal which amounts to ₦ 5,500 at a simple interest in 5 years at 2% per annum",
     "options": [
       "₦ 4,900",
       "₦ 5,000",
@@ -18044,7 +18044,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-701-889",
-    "questionText": "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was? (JAMB 2017)",
+    "questionText": "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was?",
     "options": [
       "three times as much",
       "the same",
@@ -18056,7 +18056,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-702-899",
-    "questionText": "In how many ways can the word MACICITA be arranged? (JAMB 2017)",
+    "questionText": "In how many ways can the word MACICITA be arranged?",
     "options": [
       "8!/2!",
       "8!/3!2!",
@@ -18068,7 +18068,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-703-916",
-    "questionText": "The bar chart above is a representation of a candidate’s scores in UTME in 2014, find his total scores (JAMB 2017)",
+    "questionText": "The bar chart above is a representation of a candidate’s scores in UTME in 2014, find his total scores",
     "options": [
       "210",
       "240",
@@ -18080,7 +18080,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-704-874",
-    "questionText": "Evaluate (sin45° + sin30° ) in surd form (JAMB 2017)",
+    "questionText": "Evaluate (sin45° + sin30° ) in surd form",
     "options": [
       "√3/2√2",
       "√3 − 1/2",
@@ -18092,7 +18092,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-705-965",
-    "questionText": "Convert 0.04945 to two significant figures (JAMB 2018)",
+    "questionText": "Convert 0.04945 to two significant figures",
     "options": [
       "0.040",
       "0.049",
@@ -18104,7 +18104,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-706-963",
-    "questionText": "Find the average of the first four prime numbers greater than 10 (JAMB 2018)",
+    "questionText": "Find the average of the first four prime numbers greater than 10",
     "options": [
       "20",
       "19",
@@ -18116,7 +18116,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-707-951",
-    "questionText": "In how many ways can the letters LEADER be arranged? (JAMB 2018)",
+    "questionText": "In how many ways can the letters LEADER be arranged?",
     "options": [
       "72",
       "144",
@@ -18128,7 +18128,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-708-923",
-    "questionText": "If y = 23<sub>five</sub> + 101<sub>three</sub> , find y, leaving your answer in base two (JAMB 2018)",
+    "questionText": "If y = 23<sub>five</sub> + 101<sub>three</sub> , find y, leaving your answer in base two",
     "options": [
       "1110",
       "10111",
@@ -18140,7 +18140,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-709-958",
-    "questionText": "Tanθ is positive and Sinθ is negative. In which quadrant does θ lies (JAMB 2018)",
+    "questionText": "Tanθ is positive and Sinθ is negative. In which quadrant does θ lies",
     "options": [
       "Second only",
       "Third only",
@@ -18152,7 +18152,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-710-939",
-    "questionText": "A boy walks 800m in 20 minutes. Calculate his average speed in Km/H (JAMB 2018)",
+    "questionText": "A boy walks 800m in 20 minutes. Calculate his average speed in Km/H",
     "options": [
       "2.4",
       "4",
@@ -18164,7 +18164,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209575-711-966",
-    "questionText": "Calculate 243<sub>six</sub> – 243<sub>five</sub>\nexpressing your answer in base 10 (JAMB 2018)",
+    "questionText": "Calculate 243<sub>six</sub> – 243<sub>five</sub>\nexpressing your answer in base 10",
     "options": [
       "0",
       "1",
@@ -18176,7 +18176,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-712-948",
-    "questionText": "A man's initial salary is N540.00 a month and increases after each period of six months by N36.00. Find his salary in the eight month of the third year. (JAMB 2018)",
+    "questionText": "A man's initial salary is N540.00 a month and increases after each period of six months by N36.00. Find his salary in the eight month of the third year.",
     "options": [
       "N828.00",
       "N756.00",
@@ -18188,7 +18188,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-713-919",
-    "questionText": "In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither Mathematics nor Physics. How many offer both Mathematics and Physics? (JAMB 2018)",
+    "questionText": "In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither Mathematics nor Physics. How many offer both Mathematics and Physics?",
     "options": [
       "4",
       "8",
@@ -18200,7 +18200,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-714-968",
-    "questionText": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die? (JAMB 2018)",
+    "questionText": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
     "options": [
       "1/16",
       "1/6",
@@ -18212,7 +18212,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-715-930",
-    "questionText": "The probabilities that John and James pass an examination are 3/4 and 3/5 respectively. Find the probability of both boys failing the examination. (JAMB 2018)",
+    "questionText": "The probabilities that John and James pass an examination are 3/4 and 3/5 respectively. Find the probability of both boys failing the examination.",
     "options": [
       "1/10",
       "2/10",
@@ -18224,7 +18224,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-716-932",
-    "questionText": "Simplify\n(〖25〗<sup>2/3</sup>)÷〖25〗<sup>(1/6)</sup>)/((1/5 )<sup>(7/6)</sup>÷(1/5 )<sp>(1/6)</sup> ) (JAMB 2018)",
+    "questionText": "Simplify\n(〖25〗<sup>2/3</sup>)÷〖25〗<sup>(1/6)</sup>)/((1/5 )<sup>(7/6)</sup>÷(1/5 )<sp>(1/6)</sup> )",
     "options": [
       "25",
       "1",
@@ -18236,7 +18236,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-717-933",
-    "questionText": "p = [(Q(R - T)/(15))]<sup>1/3</sup> (JAMB 2018)",
+    "questionText": "p = [(Q(R - T)/(15))]<sup>1/3</sup>",
     "options": [
       "T = (R+P3)/15Q",
       "T = (R-15P<sup>3</sup>)/Q",
@@ -18248,7 +18248,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-718-947",
-    "questionText": "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12  (JAMB 2018)",
+    "questionText": "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12",
     "options": [
       "5x + 7y = 20",
       "7x + 5y = 70",
@@ -18260,7 +18260,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-719-920",
-    "questionText": "Find the values of x for which\n\n(x+2)/4 - (2x−3)/3 < 4 (JAMB 2018)",
+    "questionText": "Find the values of x for which\n\n(x+2)/4 - (2x−3)/3 < 4",
     "options": [
       "x < 8",
       "x > -6",
@@ -18272,7 +18272,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-720-949",
-    "questionText": "A man stands on a tree 150cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree. (JAMB 2018)",
+    "questionText": "A man stands on a tree 150cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.",
     "options": [
       "52 cm",
       "43 cm",
@@ -18284,7 +18284,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-721-957",
-    "questionText": "Evaluate log<sup>2</sup>\n 8 – log<sup>3</sup> 1/9 (JAMB 2018)",
+    "questionText": "Evaluate log<sup>2</sup>\n 8 – log<sup>3</sup> 1/9",
     "options": [
       "-11(1/2)",
       "-1",
@@ -18296,7 +18296,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-722-935",
-    "questionText": "If the simple interest on a sum of money invested at 3% per annum for 2(1/2)\n  years is N123, find the principal. (JAMB 2018)",
+    "questionText": "If the simple interest on a sum of money invested at 3% per annum for 2(1/2)\n  years is N123, find the principal.",
     "options": [
       "N676.50",
       "N820",
@@ -18308,7 +18308,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-723-937",
-    "questionText": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\n \n\nWhat is the median mark? (JAMB 2018)",
+    "questionText": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\n \n\nWhat is the median mark?",
     "options": [
       "1",
       "2",
@@ -18320,7 +18320,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-724-960",
-    "questionText": "The figure above is a Venn diagram showing the elements arranged within sets A,B,C,ε.\nUse the figure to answer this question\n\nWhat is n(A U B)1 ? (JAMB 2018)",
+    "questionText": "The figure above is a Venn diagram showing the elements arranged within sets A,B,C,ε.\nUse the figure to answer this question\n\nWhat is n(A U B)1 ?",
     "options": [
       "2",
       "3",
@@ -18332,7 +18332,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-725-941",
-    "questionText": "In the diagram, GI is a tangent to the circle at H. If EF||GI, calculate the size of ∠EHF (JAMB 2018)",
+    "questionText": "In the diagram, GI is a tangent to the circle at H. If EF||GI, calculate the size of ∠EHF",
     "options": [
       "126°",
       "72°",
@@ -18344,7 +18344,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-726-961",
-    "questionText": "What is the loci of a distance 4cm from a given point P? (JAMB 2018)",
+    "questionText": "What is the loci of a distance 4cm from a given point P?",
     "options": [
       "A straight line of length 4cm",
       "a circle of radius 4cm",
@@ -18356,7 +18356,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-727-924",
-    "questionText": "Find the value of x in the diagram (JAMB 2018)",
+    "questionText": "Find the value of x in the diagram",
     "options": [
       "10°",
       "28°",
@@ -18368,7 +18368,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-728-946",
-    "questionText": "Divide the L.C.M of 48, 64 and 80 by their H.C.F (JAMB 2018)",
+    "questionText": "Divide the L.C.M of 48, 64 and 80 by their H.C.F",
     "options": [
       "20",
       "30",
@@ -18380,7 +18380,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-729-928",
-    "questionText": "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm (JAMB 2018)",
+    "questionText": "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm",
     "options": [
       "1920cm<sup>2</sup>",
       "592cm<sup>2</sup>",
@@ -18392,7 +18392,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-730-945",
-    "questionText": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room. (JAMB 2018)",
+    "questionText": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room.",
     "options": [
       "15/17",
       "9/17",
@@ -18404,7 +18404,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-731-927",
-    "questionText": "If x/(a+1) + y/b = 1. Make y the subject of the relation. (JAMB 2018)",
+    "questionText": "If x/(a+1) + y/b = 1. Make y the subject of the relation.",
     "options": [
       "b(a+1−x)/(a+1)",
       "(a+1)/b(a−x+1)",
@@ -18416,7 +18416,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-732-964",
-    "questionText": "Using the table,What is the modal age? (JAMB 2018)",
+    "questionText": "Using the table,What is the modal age?",
     "options": [
       "4",
       "5",
@@ -18428,7 +18428,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-733-938",
-    "questionText": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\nWhat is the probability of selecting a student from the group that scored 2 or 3 (JAMB 2018)",
+    "questionText": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\nWhat is the probability of selecting a student from the group that scored 2 or 3",
     "options": [
       "1/11",
       "5/22",
@@ -18440,7 +18440,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-734-922",
-    "questionText": "A trader realises 10x - x<sup>2</sup>\nNaira profit from the sale of x bags of corn. How many bags will give him the maximum profit? (JAMB 2018)",
+    "questionText": "A trader realises 10x - x<sup>2</sup>\nNaira profit from the sale of x bags of corn. How many bags will give him the maximum profit?",
     "options": [
       "7",
       "6",
@@ -18452,7 +18452,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-735-934",
-    "questionText": "What is the place value of 9 in the number 3.0492? (JAMB 2018)",
+    "questionText": "What is the place value of 9 in the number 3.0492?",
     "options": [
       "9/10000",
       "9/1000",
@@ -18464,7 +18464,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-736-936",
-    "questionText": "A machine valued at N20,000 depreciates by 10% every year. What will be the value of the machine at the end of two years? (JAMB 2018)",
+    "questionText": "A machine valued at N20,000 depreciates by 10% every year. What will be the value of the machine at the end of two years?",
     "options": [
       "N16,200",
       "N14,200",
@@ -18476,7 +18476,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-737-921",
-    "questionText": "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is N7200? (JAMB 2018)",
+    "questionText": "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is N7200?",
     "options": [
       "1000",
       "2000",
@@ -18488,7 +18488,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-738-959",
-    "questionText": "\nThe table above shows the frequency of children age x years in a hospital\nx\t1\t2\t3\t4\t5\t6\t7\t8\ny\t3\t4\t5\t6\t7\t6\t5\t4\nHow many children are in the hospital (JAMB 2018)",
+    "questionText": "\nThe table above shows the frequency of children age x years in a hospital\nx\t1\t2\t3\t4\t5\t6\t7\t8\ny\t3\t4\t5\t6\t7\t6\t5\t4\nHow many children are in the hospital",
     "options": [
       "36",
       "40",
@@ -18500,7 +18500,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-739-942",
-    "questionText": "How many times, correct to the nearest whole number, will a man run round a circular track of diameter 100m to cover a distance of 1000m? (JAMB 2018)",
+    "questionText": "How many times, correct to the nearest whole number, will a man run round a circular track of diameter 100m to cover a distance of 1000m?",
     "options": [
       "3",
       "4",
@@ -18512,7 +18512,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-740-950",
-    "questionText": "Integrate the expression 6x<sup>2</sup> - 2x + 1 (JAMB 2018)",
+    "questionText": "Integrate the expression 6x<sup>2</sup> - 2x + 1",
     "options": [
       "3x<sup>3</sup> - 2x<sup>2</sup> + x + c",
       "2x<sup>3</sup> - x<sup>2</sup> + x + c",
@@ -18524,7 +18524,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-741-952",
-    "questionText": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/ (JAMB 2018)",
+    "questionText": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/",
     "options": [
       "32 cm",
       "24 cm",
@@ -18536,7 +18536,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-742-926",
-    "questionText": "A school girl spends 1/4\nof her pocket money on books and 1/3\non dress. What fraction remains? (JAMB 2018)",
+    "questionText": "A school girl spends 1/4\nof her pocket money on books and 1/3\non dress. What fraction remains?",
     "options": [
       "5/6",
       "7/12",
@@ -18548,7 +18548,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-743-925",
-    "questionText": "Solve for t in the equation 3/4\nt + 13\n(21 - t) = 11 (JAMB 2018)",
+    "questionText": "Solve for t in the equation 3/4\nt + 13\n(21 - t) = 11",
     "options": [
       "9/13",
       "7/13",
@@ -18560,7 +18560,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-744-1017",
-    "questionText": "A bricklayer charges ₦1,500 per day for himself and ₦500 per day for his assistant. If a two bedroom flat was built for ₦95,000 and the bricklayer worked 10 days more than his assistant, how much did the assistant receive? (JAMB 2019)",
+    "questionText": "A bricklayer charges ₦1,500 per day for himself and ₦500 per day for his assistant. If a two bedroom flat was built for ₦95,000 and the bricklayer worked 10 days more than his assistant, how much did the assistant receive?",
     "options": [
       "N20,000",
       "N28,000",
@@ -18572,7 +18572,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-745-1008",
-    "questionText": "Simplify (0.0839 × 6.381)/5.44\n to 2 significant figures. (JAMB 2019)",
+    "questionText": "Simplify (0.0839 × 6.381)/5.44\n to 2 significant figures.",
     "options": [
       "0.2809",
       "2.51",
@@ -18584,7 +18584,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-746-1013",
-    "questionText": "Each of the interior angles of a regular polygon is 140°. Calculate the sum of all the interior angles of the polygon. (JAMB 2019)",
+    "questionText": "Each of the interior angles of a regular polygon is 140°. Calculate the sum of all the interior angles of the polygon.",
     "options": [
       "1080°",
       "1260°",
@@ -18596,7 +18596,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-747-971",
-    "questionText": "A binary operation ⊗\n is defined by m ⊗ n = mn + m − n on the set of real numbers, for all m, n ∈\n R. Find the value of 3 ⊗ (2⊗ 4). (JAMB 2019)",
+    "questionText": "A binary operation ⊗\n is defined by m ⊗ n = mn + m − n on the set of real numbers, for all m, n ∈\n R. Find the value of 3 ⊗ (2⊗ 4).",
     "options": [
       "6",
       "25",
@@ -18608,7 +18608,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-748-1002",
-    "questionText": "Find the value of ((0.5436)<sup>3</sup>)/(0.017×0.219) to 3 significant figures. (JAMB 2019)",
+    "questionText": "Find the value of ((0.5436)<sup>3</sup>)/(0.017×0.219) to 3 significant figures.",
     "options": [
       "46.2",
       "43.1",
@@ -18620,7 +18620,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-749-991",
-    "questionText": "If y=6x<sup>3</sup> +2x<sup>(-2)</sup> - x<sup>(-3</sup>), find dy/dx\n. (JAMB 2019)",
+    "questionText": "If y=6x<sup>3</sup> +2x<sup>(-2)</sup> - x<sup>(-3</sup>), find dy/dx\n.",
     "options": [
       "dy/dx=15x<sup>2</sup> -4x<sup>(-2)</sup> - 3x<sup>(-2)</sup>",
       "dy/dx = 6x + 4x<sup>(-1)</sup> - 3x<sup>(-4)</sup>",
@@ -18632,7 +18632,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-750-1012",
-    "questionText": "In the diagram above, O is the centre of the circle ABC, < ABO = 26° and < BOC = 130°. Calculate < AOC. (JAMB 2019)",
+    "questionText": "In the diagram above, O is the centre of the circle ABC, < ABO = 26° and < BOC = 130°. Calculate < AOC.",
     "options": [
       "26°",
       "13°",
@@ -18644,7 +18644,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-751-1006",
-    "questionText": "Evaluate  (6/0.32÷2/0.084 )<sup>(-1)</sup> correct to 1 decimal place.\n (JAMB 2019)",
+    "questionText": "Evaluate  (6/0.32÷2/0.084 )<sup>(-1)</sup> correct to 1 decimal place.\n",
     "options": [
       "1.3",
       "2.5",
@@ -18656,7 +18656,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-752-1004",
-    "questionText": "The angles of a polygon are given by 2x, 5x, x and 4x respectively. The value of x is (JAMB 2019)",
+    "questionText": "The angles of a polygon are given by 2x, 5x, x and 4x respectively. The value of x is",
     "options": [
       "31°",
       "30°",
@@ -18668,7 +18668,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-753-982",
-    "questionText": "Find the variance (JAMB 2019)",
+    "questionText": "Find the variance",
     "options": [
       "3.42",
       "4.69",
@@ -18680,7 +18680,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-754-979",
-    "questionText": "If a fair coin is tossed 3 times, what is the probability of getting at least two heads? (JAMB 2019)",
+    "questionText": "If a fair coin is tossed 3 times, what is the probability of getting at least two heads?",
     "options": [
       "2/3",
       "4/5",
@@ -18692,7 +18692,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-755-990",
-    "questionText": "If ∣∣∣2x−49∣∣∣=58\n, find the value of x. (JAMB 2019)",
+    "questionText": "If ∣∣∣2x−49∣∣∣=58\n, find the value of x.",
     "options": [
       "10",
       "30",
@@ -18704,7 +18704,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-756-970",
-    "questionText": "The angle of elevation of the top of a tree from a point on the ground 60m away from the foot of the tree is 78°. Find the height of the tree correct to the nearest whole number. (JAMB 2019)",
+    "questionText": "The angle of elevation of the top of a tree from a point on the ground 60m away from the foot of the tree is 78°. Find the height of the tree correct to the nearest whole number.",
     "options": [
       "148 m",
       "382 m",
@@ -18716,7 +18716,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-757-977",
-    "questionText": "(2/3÷4/5)/(1/4+3/5-1/3) (JAMB 2019)",
+    "questionText": "(2/3÷4/5)/(1/4+3/5-1/3)",
     "options": [
       "31/50",
       "20/31",
@@ -18728,7 +18728,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-758-975",
-    "questionText": "Find the length of the chord |AB| in the diagram shown above. (JAMB 2019)",
+    "questionText": "Find the length of the chord |AB| in the diagram shown above.",
     "options": [
       "4.2 cm",
       "4.3 cm",
@@ -18740,7 +18740,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-759-1016",
-    "questionText": "Express (0.0439÷3.62)\n as a fraction. (JAMB 2019)",
+    "questionText": "Express (0.0439÷3.62)\n as a fraction.",
     "options": [
       "21/100",
       "21/1000",
@@ -18752,7 +18752,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-760-1010",
-    "questionText": "Points X and Y are 20km North and 9km East of point O, respectively. What is the bearing of Y from X? Correct to the nearest degree. (JAMB 2019)",
+    "questionText": "Points X and Y are 20km North and 9km East of point O, respectively. What is the bearing of Y from X? Correct to the nearest degree.",
     "options": [
       "24°",
       "56°",
@@ -18764,7 +18764,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-761-980",
-    "questionText": "In how many ways can the word MATHEMATICIAN be arranged? (JAMB 2019)",
+    "questionText": "In how many ways can the word MATHEMATICIAN be arranged?",
     "options": [
       "6794800 ways",
       "2664910 ways",
@@ -18776,7 +18776,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-762-1007",
-    "questionText": "If 2<sup>(x+y)</sup>\n = 16 and 4<sup>(x-y)</sup>=1/32\n, find the values of x and y. (JAMB 2019)",
+    "questionText": "If 2<sup>(x+y)</sup>\n = 16 and 4<sup>(x-y)</sup>=1/32\n, find the values of x and y.",
     "options": [
       "x = 3/4, y = 11/4",
       "x = 3/4, y = 13/4",
@@ -18788,7 +18788,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-763-993",
-    "questionText": "if f(x)=3x<sup>3</sup>+4x<sup>2</sup>+x - 8, what is the value of f(-2)? (JAMB 2019)",
+    "questionText": "if f(x)=3x<sup>3</sup>+4x<sup>2</sup>+x - 8, what is the value of f(-2)?",
     "options": [
       "-24",
       "30",
@@ -18800,7 +18800,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-764-1000",
-    "questionText": "The simple interest on ₦8550 for 3 years at x% per annum is ₦4890. Calculate the value of x to the nearest whole number. (JAMB 2019)",
+    "questionText": "The simple interest on ₦8550 for 3 years at x% per annum is ₦4890. Calculate the value of x to the nearest whole number.",
     "options": [
       "19%",
       "20%",
@@ -18812,7 +18812,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-765-973",
-    "questionText": "In a class of 50 students, 40 students offered Physics and 30 offered Biology. How many offered both Physics and Biology? (JAMB 2019)",
+    "questionText": "In a class of 50 students, 40 students offered Physics and 30 offered Biology. How many offered both Physics and Biology?",
     "options": [
       "42",
       "20",
@@ -18824,7 +18824,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-766-972",
-    "questionText": "The table above shows the number of pupils in a class with respect to their ages. If a pie chart is constructed to represent the age, the angle corresponding to 8 years old is (JAMB 2019)",
+    "questionText": "The table above shows the number of pupils in a class with respect to their ages. If a pie chart is constructed to represent the age, the angle corresponding to 8 years old is",
     "options": [
       "48.6°",
       "56.3°",
@@ -18836,7 +18836,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-767-995",
-    "questionText": "Solve the inequality: -7 ≤\n 9 - 8x < 16 - x (JAMB 2019)",
+    "questionText": "Solve the inequality: -7 ≤\n 9 - 8x < 16 - x",
     "options": [
       "-1 ≤ x ≤ 2",
       "-1 ≤ x < 2",
@@ -18848,7 +18848,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-768-989",
-    "questionText": "If P(2, m) is the midpoint of the line joining Q(m, n) and R(n, -4), find the values of m and n. (JAMB 2019)",
+    "questionText": "If P(2, m) is the midpoint of the line joining Q(m, n) and R(n, -4), find the values of m and n.",
     "options": [
       "m = 0, n = 4",
       "m = 4, n = 0",
@@ -18860,7 +18860,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-769-988",
-    "questionText": "If given two points A(3, 12) and B(5, 22) on a x-y plane. Find the equation of the straight line with intercept at 2. (JAMB 2019)",
+    "questionText": "If given two points A(3, 12) and B(5, 22) on a x-y plane. Find the equation of the straight line with intercept at 2.",
     "options": [
       "y = 5x + 2",
       "y = 5x + 3",
@@ -18872,7 +18872,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-770-994",
-    "questionText": "Solve for x in (4x-6)/3 ≤ (3 + 2x)/2 (JAMB 2019)",
+    "questionText": "Solve for x in (4x-6)/3 ≤ (3 + 2x)/2",
     "options": [
       "x≤1(1/2)",
       "x≤(21/2)",
@@ -18884,7 +18884,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-771-1003",
-    "questionText": "If S = (4t + 3)(t - 2), find ds/dt when t = 5 secs. (JAMB 2019)",
+    "questionText": "If S = (4t + 3)(t - 2), find ds/dt when t = 5 secs.",
     "options": [
       "50 units per sec",
       "35 units per sec",
@@ -18896,7 +18896,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-772-983",
-    "questionText": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the\n (JAMB 2019)",
+    "questionText": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the\n",
     "options": [
       "bisector of the two lines",
       "line parallel to the two lines",
@@ -18908,7 +18908,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-773-1009",
-    "questionText": "Find the value of x and y in the simultaneous equation: 3x + y = 21; xy = 30 (JAMB 2019)",
+    "questionText": "Find the value of x and y in the simultaneous equation: 3x + y = 21; xy = 30",
     "options": [
       "x = 3 or 7, y = 12 or 8",
       "x = 6 or 1, y = 11 or 5",
@@ -18920,7 +18920,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-774-981",
-    "questionText": "Find the mean of the data. (JAMB 2019)",
+    "questionText": "Find the mean of the data.",
     "options": [
       "3.26",
       "4.91",
@@ -18932,7 +18932,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-775-969",
-    "questionText": "Make q the subject of the formula in the equation mn/a<sup>2</sup>− pq/b<sup>2</sup> = 1 (JAMB 2019)",
+    "questionText": "Make q the subject of the formula in the equation mn/a<sup>2</sup>− pq/b<sup>2</sup> = 1",
     "options": [
       "q=(b<sup>2</sup> (mn-a<sup>2</sup>))/(a<sup>2</sup> p)",
       "q=(m<sup>2</sup> n-a<sup>2</sup>)/p<sup>2</sup>",
@@ -18944,7 +18944,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-776-1005",
-    "questionText": "The weight of a day-old chick was measured to be 0.21g. If the actual weight of the chick is 0.18g, what was the percentage error in the measurement? (JAMB 2019)",
+    "questionText": "The weight of a day-old chick was measured to be 0.21g. If the actual weight of the chick is 0.18g, what was the percentage error in the measurement?",
     "options": [
       "15.5%",
       "18.2%",
@@ -18956,7 +18956,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-777-985",
-    "questionText": "If 4sin2x−3=0, find the value of x, when 0° ≤ x ≤ 90° (JAMB 2019)",
+    "questionText": "If 4sin2x−3=0, find the value of x, when 0° ≤ x ≤ 90°",
     "options": [
       "90°",
       "45°",
@@ -18968,7 +18968,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-778-987",
-    "questionText": "The marks scored by 30 students in a Mathematics test are recorded in the table below: What is the total number of marks scored by the children? (JAMB 2019)",
+    "questionText": "The marks scored by 30 students in a Mathematics test are recorded in the table below: What is the total number of marks scored by the children?",
     "options": [
       "82",
       "15",
@@ -18980,7 +18980,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-779-986",
-    "questionText": "In the figure above, |CD| is the base of the triangle CDE. Find the area of the figure to the nearest whole number. (JAMB 2019)",
+    "questionText": "In the figure above, |CD| is the base of the triangle CDE. Find the area of the figure to the nearest whole number.",
     "options": [
       "56 cm<sup>2</sup>",
       "24 cm<sup>2</sup>",
@@ -18992,7 +18992,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-780-978",
-    "questionText": "if 6x<sup>3</sup>+2x<sup>2</sup>-5x+1 divides x<sup>2</sup>−x−1\n, find the remainder.\n (JAMB 2019)",
+    "questionText": "if 6x<sup>3</sup>+2x<sup>2</sup>-5x+1 divides x<sup>2</sup>−x−1\n, find the remainder.\n",
     "options": [
       "9x + 9",
       "2x + 6",
@@ -19004,7 +19004,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-781-1014",
-    "questionText": "A man bought a car newly for ₦1,250,000. He had a crash with the car and later sold it at the rate of ₦1,085,000. What is the percentage gain or loss of the man? (JAMB 2019)",
+    "questionText": "A man bought a car newly for ₦1,250,000. He had a crash with the car and later sold it at the rate of ₦1,085,000. What is the percentage gain or loss of the man?",
     "options": [
       "43.7% loss",
       "13.2% gain",
@@ -19016,7 +19016,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-782-1011",
-    "questionText": "IfP=((Q(R-T))/15 )<sup>(1/3)</sup>, make T the subject of the formula.\n (JAMB 2019)",
+    "questionText": "IfP=((Q(R-T))/15 )<sup>(1/3)</sup>, make T the subject of the formula.\n",
     "options": [
       "T=(15R-Q)/P<sup>3</sup>",
       "T=R-(15P<sup>3</sup>)/Q",
@@ -19028,7 +19028,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-783-999",
-    "questionText": "Tade bought 200 mangoes at 4 for ₦2.50. 30 out of the mangoes got spoilt and the remaining were sold at 2 for ₦2.40. Find the percentage profit or loss. (JAMB 2019)",
+    "questionText": "Tade bought 200 mangoes at 4 for ₦2.50. 30 out of the mangoes got spoilt and the remaining were sold at 2 for ₦2.40. Find the percentage profit or loss.",
     "options": [
       "43.6% loss",
       "35% profit",
@@ -19040,7 +19040,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-784-281",
-    "questionText": "If y = 3 cos(x/3), find dy/dx when x = (3π/2) (JAMB 2004)",
+    "questionText": "If y = 3 cos(x/3), find dy/dx when x = (3π/2)",
     "options": [
       "1",
       "-3",
@@ -19052,7 +19052,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-785-1063",
-    "questionText": "find the value of p if the line which passes through (-1, -p) and (-2,2) is parallel to the line 2y+8x-17=0? (JAMB 2021)",
+    "questionText": "find the value of p if the line which passes through (-1, -p) and (-2,2) is parallel to the line 2y+8x-17=0?",
     "options": [
       "-2/7",
       "7/6",
@@ -19064,7 +19064,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-786-1111",
-    "questionText": "Integrate (2x+1)<sup>3</sup> (JAMB 2022)",
+    "questionText": "Integrate (2x+1)<sup>3</sup>",
     "options": [
       "2x+1<sup>3</sup>/8 + C",
       "2x+1<sup>4</sup>/8 + C",
@@ -19076,7 +19076,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-787-543",
-    "questionText": "Find the acute angle between the straight lines y = x and y = √3x (JAMB 2009)",
+    "questionText": "Find the acute angle between the straight lines y = x and y = √3x",
     "options": [
       "15°",
       "30°",
@@ -19088,7 +19088,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-788-1116",
-    "questionText": "What will be the result obtained when the numerator of 96/50\n is decreased by 37.5% and its denominator decreased by 20%. (JAMB 2022)",
+    "questionText": "What will be the result obtained when the numerator of 96/50\n is decreased by 37.5% and its denominator decreased by 20%.",
     "options": [
       "1.5",
       "5/2",
@@ -19100,7 +19100,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-789-1132",
-    "questionText": "Factorize 4a<sub>2</sub> - 9b<sub>2</sub> (JAMB 2022)",
+    "questionText": "Factorize 4a<sub>2</sub> - 9b<sub>2</sub>",
     "options": [
       "(2a-3b) (2a+3b)",
       "(2a-b) (2a+3b)",
@@ -19124,7 +19124,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-791-59",
-    "questionText": "Given a regular hexagon, calculate each interior angle of the hexagon  (JAMB 2009)",
+    "questionText": "Given a regular hexagon, calculate each interior angle of the hexagon",
     "options": [
       "60",
       "30",
@@ -19136,7 +19136,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-792-470",
-    "questionText": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus off P (JAMB 2007)",
+    "questionText": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus off P",
     "options": [
       "It is a semi circle with ST as diameter",
       "It is a perpendicular bisector of St",
@@ -19148,7 +19148,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-793-321",
-    "questionText": "the graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks? (JAMB 2004)",
+    "questionText": "the graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?",
     "options": [
       "68%",
       "28%",
@@ -19160,7 +19160,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-794-548",
-    "questionText": "Find the radius of a sphere whose surface area is 154 cm<sup>2</sup>? (JAMB 2009)",
+    "questionText": "Find the radius of a sphere whose surface area is 154 cm<sup>2</sup>?",
     "options": [
       "7.00 cm",
       "3.50 cm",
@@ -19172,7 +19172,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-795-792",
-    "questionText": "Find the mean of t + 2, 2t - 4, 3t + 2 and 2t. (JAMB 2013)",
+    "questionText": "Find the mean of t + 2, 2t - 4, 3t + 2 and 2t.",
     "options": [
       "t + 1",
       "2t",
@@ -19184,7 +19184,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-796-290",
-    "questionText": "In how many ways can 2 students be selected from a group of 5 students in a debating competition? (JAMB 2004)",
+    "questionText": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
     "options": [
       "25 ways",
       "10 ways",
@@ -19196,7 +19196,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-797-895",
-    "questionText": "If a rod 10cm in length was measured as 10.5cm, calculate the percentage error (JAMB 2017)",
+    "questionText": "If a rod 10cm in length was measured as 10.5cm, calculate the percentage error",
     "options": [
       "5%",
       "10%",
@@ -19208,7 +19208,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-798-515",
-    "questionText": "The probability of picking a letter T from the word OBSTRUCTION is? (JAMB 2008)",
+    "questionText": "The probability of picking a letter T from the word OBSTRUCTION is?",
     "options": [
       "1/11",
       "2/11",
@@ -19220,7 +19220,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-799-46",
-    "questionText": "The fair coins are tossed simultaneously. What is the probability of obtaining at least 1 tail turns up?  (JAMB 2008)",
+    "questionText": "The fair coins are tossed simultaneously. What is the probability of obtaining at least 1 tail turns up?",
     "options": [
       "1/4",
       "3/4",
@@ -19232,7 +19232,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-800-377",
-    "questionText": "The table above shows the distribution of recharge cards of four major GSM operators. What is the probability that a recharge card selected at random will be GTN or Qtel? (JAMB 2006)",
+    "questionText": "The table above shows the distribution of recharge cards of four major GSM operators. What is the probability that a recharge card selected at random will be GTN or Qtel?",
     "options": [
       "3/20",
       "1/4",
@@ -19256,7 +19256,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-802-1085",
-    "questionText": "A car travels from calabar to Enugu, a distance of P km with an average speed of U km per hour and continues to benin, a distance of Q km, with an average speed of Wkm per hour. Find its average speed from Calabar to Benin (JAMB 2021)",
+    "questionText": "A car travels from calabar to Enugu, a distance of P km with an average speed of U km per hour and continues to benin, a distance of Q km, with an average speed of Wkm per hour. Find its average speed from Calabar to Benin",
     "options": [
       "(p+q)/(pw + qu)",
       "(uw(p+q))/(pw + qu)",
@@ -19268,7 +19268,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-803-1092",
-    "questionText": "Factorize completely 81a<sup>4</sup> - 16b<sup>4</sup> (JAMB 2021)",
+    "questionText": "Factorize completely 81a<sup>4</sup> - 16b<sup>4</sup>",
     "options": [
       "(3a + 2b)(2a - 3b)(9a<sup>2</sup> + 4b<sup>2</sup>)",
       "(3a - 2b)(2a - 3b)(4a<sup>2</sup> - 9b<sup>2</sup>)",
@@ -19280,7 +19280,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-804-1081",
-    "questionText": "Two numbers are removed at random from the numbers 1, 2, 3 and 4. What is the probability that the sum of the numbers removed is even? (JAMB 2021)",
+    "questionText": "Two numbers are removed at random from the numbers 1, 2, 3 and 4. What is the probability that the sum of the numbers removed is even?",
     "options": [
       "2/3",
       "1/2",
@@ -19292,7 +19292,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-805-1062",
-    "questionText": "A trapezium has two parallel sides of lengths 5cm and 9cm. If the area is 91cm2\n, find the distance between the parallel sides (JAMB 2021)",
+    "questionText": "A trapezium has two parallel sides of lengths 5cm and 9cm. If the area is 91cm2\n, find the distance between the parallel sides",
     "options": [
       "13 cm",
       "4 cm",
@@ -19304,7 +19304,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-806-1065",
-    "questionText": "Find the derivative of the function y = 2x<sup>2</sup>(2x - 1) at the point x = -1? (JAMB 2021)",
+    "questionText": "Find the derivative of the function y = 2x<sup>2</sup>(2x - 1) at the point x = -1?",
     "options": [
       "18",
       "16",
@@ -19316,7 +19316,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-807-1095",
-    "questionText": "X is due east point of y on a coast. Z is another point on the coast but 6.0km due south of Y. If the distance ZX is 12km, calculate the bearing of Z from X (JAMB 2021)",
+    "questionText": "X is due east point of y on a coast. Z is another point on the coast but 6.0km due south of Y. If the distance ZX is 12km, calculate the bearing of Z from X",
     "options": [
       "240°",
       "150°",
@@ -19328,7 +19328,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-808-1083",
-    "questionText": "Musa borrows N10.00 at 2% per month simple interest and repays N8.00 after 4 months. How much does he still owe? (JAMB 2021)",
+    "questionText": "Musa borrows N10.00 at 2% per month simple interest and repays N8.00 after 4 months. How much does he still owe?",
     "options": [
       "N10.80",
       "N10.67",
@@ -19340,7 +19340,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-809-1090",
-    "questionText": "What is the n-th term of the sequence 2, 6, 12, 20...? (JAMB 2021)",
+    "questionText": "What is the n-th term of the sequence 2, 6, 12, 20...?",
     "options": [
       "4n - 2",
       "2(3<sup>(n - 1)</sup>)",
@@ -19352,7 +19352,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-810-1080",
-    "questionText": "The mean of ten positive numbers is 16. When another number is added, the mean becomes 18. Find the eleventh number (JAMB 2021)",
+    "questionText": "The mean of ten positive numbers is 16. When another number is added, the mean becomes 18. Find the eleventh number",
     "options": [
       "3",
       "16",
@@ -19364,7 +19364,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-811-1068",
-    "questionText": "At what rate would a sum of N100.00 deposited for 5 years raise an interest of N7.50? (JAMB 2021)",
+    "questionText": "At what rate would a sum of N100.00 deposited for 5 years raise an interest of N7.50?",
     "options": [
       "1/2 %",
       "2(1/2)%",
@@ -19376,7 +19376,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-812-1061",
-    "questionText": "determine the maximum value of y=3x<sup>2</sup> + 5x - 3 (JAMB 2021)",
+    "questionText": "determine the maximum value of y=3x<sup>2</sup> + 5x - 3",
     "options": [
       "6",
       "0",
@@ -19388,7 +19388,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-813-1088",
-    "questionText": "factorize m<sup>3</sup> - m<sup>2</sup> + 2m - 2 (JAMB 2021)",
+    "questionText": "factorize m<sup>3</sup> - m<sup>2</sup> + 2m - 2",
     "options": [
       "(m<sup>2</sup> + 1)(m - 2)",
       "(m - 1)(m + 1)(m + 2)",
@@ -19400,7 +19400,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-814-1064",
-    "questionText": "The ratio of the length of two similar rectangular blocks is 2 : 3. If the volume of the larger block is 351 cm<sup>3</sup>\n, then the volume of the other block is? (JAMB 2021)",
+    "questionText": "The ratio of the length of two similar rectangular blocks is 2 : 3. If the volume of the larger block is 351 cm<sup>3</sup>\n, then the volume of the other block is?",
     "options": [
       "234.00 cm<sup>3</sup>",
       "526.50 cm<sup>3</sup>",
@@ -19412,7 +19412,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-815-1072",
-    "questionText": "Three brothers in a business deal share the profit at the end of a contract. The first received 13\n of the profit and the second 23\n of the remainder. If the third received the remaining N12000.00 how much profit did they share? (JAMB 2021)",
+    "questionText": "Three brothers in a business deal share the profit at the end of a contract. The first received 13\n of the profit and the second 23\n of the remainder. If the third received the remaining N12000.00 how much profit did they share?",
     "options": [
       "N60 000.00",
       "N54 000.00",
@@ -19424,7 +19424,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-816-1076",
-    "questionText": "Each of the interior angles of a regular polygon is 140°. How many sides has the polygon? (JAMB 2021)",
+    "questionText": "Each of the interior angles of a regular polygon is 140°. How many sides has the polygon?",
     "options": [
       "9",
       "8",
@@ -19436,7 +19436,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-817-1079",
-    "questionText": "4, 16, 30, 20, 10, 14 and 26 are represented on a pie chart. Find the sum of the angles of the bisectors representing all numbers equals to or greater than 16 (JAMB 2021)",
+    "questionText": "4, 16, 30, 20, 10, 14 and 26 are represented on a pie chart. Find the sum of the angles of the bisectors representing all numbers equals to or greater than 16",
     "options": [
       "48°",
       "84°",
@@ -19448,7 +19448,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-818-1082",
-    "questionText": "Find the probability that a number selected at random from 41 to 56 is a multiple of 9 (JAMB 2021)",
+    "questionText": "Find the probability that a number selected at random from 41 to 56 is a multiple of 9",
     "options": [
       "1/8",
       "2/15",
@@ -19460,7 +19460,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-819-1066",
-    "questionText": "Correct 241.34(3 x 10<sup>-3</sup>\n)2<sup>2</sup>\n to 4 significant figures (JAMB 2021)",
+    "questionText": "Correct 241.34(3 x 10<sup>-3</sup>\n)2<sup>2</sup>\n to 4 significant figures",
     "options": [
       "0.0014",
       "0.001448",
@@ -19472,7 +19472,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-820-1097",
-    "questionText": "If (x + 2) and (x - 1) are factors of the expression Lx+2kx<sup>2</sup>+24\n, find the values of L and k. (JAMB 2021)",
+    "questionText": "If (x + 2) and (x - 1) are factors of the expression Lx+2kx<sup>2</sup>+24\n, find the values of L and k.",
     "options": [
       "l = -12, k = -6",
       "l = -2 , k = 1",
@@ -19484,7 +19484,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-821-1084",
-    "questionText": "Simplify 2log 2/5 -log72/125 + log 9 (JAMB 2021)",
+    "questionText": "Simplify 2log 2/5 -log72/125 + log 9",
     "options": [
       "1 - 4 log3",
       "-1 + 2 log 3",
@@ -19496,7 +19496,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-822-1086",
-    "questionText": "If w varies inversely as (uv)/(u + v) and w = 8 when\n\nu = 2 and v = 6, find a relationship between u, v, w. (JAMB 2021)",
+    "questionText": "If w varies inversely as (uv)/(u + v) and w = 8 when\n\nu = 2 and v = 6, find a relationship between u, v, w.",
     "options": [
       "uvw = 16(u + v)",
       "16uv = 3w(u + v)",
@@ -19508,7 +19508,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-823-1077",
-    "questionText": "A cylinder pipe, made of metal is 3cm thick.If the internal radius of the pipe is 10cm.Find the volume of metal used in making 3m of the pipe. (JAMB 2021)",
+    "questionText": "A cylinder pipe, made of metal is 3cm thick.If the internal radius of the pipe is 10cm.Find the volume of metal used in making 3m of the pipe.",
     "options": [
       "153π cm<sup>3</sup>",
       "207π cm<sup>3</sup>",
@@ -19520,7 +19520,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-824-1087",
-    "questionText": "If g(x) = x2<sup>2</sup> + 3x  find g(x + 1) - g(x) (JAMB 2021)",
+    "questionText": "If g(x) = x2<sup>2</sup> + 3x  find g(x + 1) - g(x)",
     "options": [
       "(x + 2)",
       "2(x + 2)",
@@ -19532,7 +19532,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-825-1094",
-    "questionText": "List all integers satisfying the inequality in -2 < 2x-6 < 4  (JAMB 2021)",
+    "questionText": "List all integers satisfying the inequality in -2 < 2x-6 < 4",
     "options": [
       "2,3,4 and 5",
       "2,3",
@@ -19544,7 +19544,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-826-1091",
-    "questionText": "If the binary operation ∗\n is defined by m ∗\n n = mn + m + n for any real number m and n, find the identity of the elements under this operation (JAMB 2021)",
+    "questionText": "If the binary operation ∗\n is defined by m ∗\n n = mn + m + n for any real number m and n, find the identity of the elements under this operation",
     "options": [
       "e = 1",
       "e = -1",
@@ -19556,7 +19556,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-827-1096",
-    "questionText": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group? (JAMB 2021)",
+    "questionText": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
     "options": [
       "25",
       "19",
@@ -19568,7 +19568,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-828-1075",
-    "questionText": "Find the length of a side of a rhombus whose diagonals are 6 cm and 8 cm (JAMB 2021)",
+    "questionText": "Find the length of a side of a rhombus whose diagonals are 6 cm and 8 cm",
     "options": [
       "8 cm",
       "5 cm",
@@ -19580,7 +19580,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-829-1058",
-    "questionText": "Solve the following equation: 2(2r−1) - 5/3 =  1(r+2) (JAMB 2021)",
+    "questionText": "Solve the following equation: 2(2r−1) - 5/3 =  1(r+2)",
     "options": [
       "( -1, 5/2 )",
       "( 1, - 5/2 )",
@@ -19592,7 +19592,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-830-1071",
-    "questionText": "Simplify √27 + 3/√3 (JAMB 2021)",
+    "questionText": "Simplify √27 + 3/√3",
     "options": [
       "4√3",
       "4/√3",
@@ -19604,7 +19604,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-831-1089",
-    "questionText": "The angles of a quadrilateral are 5x-30, 4x+60, 60-x and 3x+61.find the smallest of these angles​ (JAMB 2021)",
+    "questionText": "The angles of a quadrilateral are 5x-30, 4x+60, 60-x and 3x+61.find the smallest of these angles​",
     "options": [
       "5x - 30",
       "4x + 60",
@@ -19616,7 +19616,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-832-1074",
-    "questionText": "The angle of a sector of a circle, radius 10.5 cm, is 48°, Calculate the perimeter of the sector (JAMB 2021)",
+    "questionText": "The angle of a sector of a circle, radius 10.5 cm, is 48°, Calculate the perimeter of the sector",
     "options": [
       "8.8 cm",
       "25.4 cm",
@@ -19628,7 +19628,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-833-1070",
-    "questionText": "Simplify and express in standard form (0.00275 × 0.00640)/(0.025 × 0.08) (JAMB 2021)",
+    "questionText": "Simplify and express in standard form (0.00275 × 0.00640)/(0.025 × 0.08)",
     "options": [
       "8.8 x 10<sup>-1</sup>",
       "8.8 x 10<sup>-2</sup>",
@@ -19640,7 +19640,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-834-1093",
-    "questionText": "Find x if log<sub>9</sub>\nx = 1.5 (JAMB 2021)",
+    "questionText": "Find x if log<sub>9</sub>\nx = 1.5",
     "options": [
       "27",
       "15",
@@ -19652,7 +19652,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-835-1069",
-    "questionText": "Three children shared a basket of mangoes in such a way that the first child took 1/4 of the mangoes and the second 3/4 of the remainder. What fraction of the mangoes did the third child take? (JAMB 2021)",
+    "questionText": "Three children shared a basket of mangoes in such a way that the first child took 1/4 of the mangoes and the second 3/4 of the remainder. What fraction of the mangoes did the third child take?",
     "options": [
       "3/16",
       "7/16",
@@ -19664,7 +19664,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-836-1123",
-    "questionText": "The cost C of running a school is directly proportional to the number of students N, if 20 students cost #10,000, How many students can #1,000,000 cover? (JAMB 2022)",
+    "questionText": "The cost C of running a school is directly proportional to the number of students N, if 20 students cost #10,000, How many students can #1,000,000 cover?",
     "options": [
       "3000",
       "1000",
@@ -19676,7 +19676,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-837-1128",
-    "questionText": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)<sup>2</sup>, then find 3 * 5 (JAMB 2022)",
+    "questionText": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)<sup>2</sup>, then find 3 * 5",
     "options": [
       "223",
       "232",
@@ -19688,7 +19688,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-838-1117",
-    "questionText": "A poultry farmer realized 200 eggs from his birds and sold 5(1/2) crates of eggs. What percentages of eggs are left? (JAMB 2022)",
+    "questionText": "A poultry farmer realized 200 eggs from his birds and sold 5(1/2) crates of eggs. What percentages of eggs are left?",
     "options": [
       "82.5%",
       "15%",
@@ -19700,7 +19700,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-839-1130",
-    "questionText": "If 8, p, q and 26 is an A.P. Find the values of p and q (JAMB 2022)",
+    "questionText": "If 8, p, q and 26 is an A.P. Find the values of p and q",
     "options": [
       "p = 14 and q = 14",
       "p = 20 and q = 14",
@@ -19712,7 +19712,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-840-1136",
-    "questionText": "If a dress is sold for #3800.00 at 20% discount. what is its original price? (JAMB 2022)",
+    "questionText": "If a dress is sold for #3800.00 at 20% discount. what is its original price?",
     "options": [
       "#3,000.00",
       "#4,000.00",
@@ -19724,7 +19724,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-841-1114",
-    "questionText": "Evaluate Log<sub>2</sub> 8√2 (JAMB 2022)",
+    "questionText": "Evaluate Log<sub>2</sub> 8√2",
     "options": [
       "3.0",
       "4.5",
@@ -19736,7 +19736,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-842-1115",
-    "questionText": "The locus of points equidistant from a fixed point. (JAMB 2022)",
+    "questionText": "The locus of points equidistant from a fixed point.",
     "options": [
       "circle",
       "perpendicular lines",
@@ -19748,7 +19748,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-843-1113",
-    "questionText": "Find the determinant of the matrix A = (2133) (JAMB 2022)",
+    "questionText": "Find the determinant of the matrix A = (2133)",
     "options": [
       "4",
       "2",
@@ -19760,7 +19760,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-844-1122",
-    "questionText": "The equivalent of (10110.011)<sub>2</sub>\n in base 10 is? (JAMB 2022)",
+    "questionText": "The equivalent of (10110.011)<sub>2</sub>\n in base 10 is?",
     "options": [
       "26.325",
       "24.372",
@@ -19772,7 +19772,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-845-1133",
-    "questionText": "If n(P) = 20 and n(Q) = 30 and n(PuQ) = 40, find the value n(PnQ) (JAMB 2022)",
+    "questionText": "If n(P) = 20 and n(Q) = 30 and n(PuQ) = 40, find the value n(PnQ)",
     "options": [
       "10",
       "30",
@@ -19784,7 +19784,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-846-1100",
-    "questionText": "The shaded portion in the venn diagram above represents? (JAMB 2022)",
+    "questionText": "The shaded portion in the venn diagram above represents?",
     "options": [
       "F - (E n F) - (G n F)",
       "E' n F n G'",
@@ -19796,7 +19796,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-847-1119",
-    "questionText": "find the limit of y = x<sup>3</sup>+6x−7/x−1\n as x tends to 1 (JAMB 2022)",
+    "questionText": "find the limit of y = x<sup>3</sup>+6x−7/x−1\n as x tends to 1",
     "options": [
       "9",
       "8",
@@ -19808,7 +19808,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-848-1134",
-    "questionText": "Three times a certain number (x), minus 2 is less than the number minus 6.Find the possible values of x. (JAMB 2022)",
+    "questionText": "Three times a certain number (x), minus 2 is less than the number minus 6.Find the possible values of x.",
     "options": [
       "x <-2",
       "x>2",
@@ -19820,7 +19820,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-849-1112",
-    "questionText": "Given that r = √(3v/πh), make v the subject of the formula (JAMB 2022)",
+    "questionText": "Given that r = √(3v/πh), make v the subject of the formula",
     "options": [
       "v = 3 πr<sup>2</sup> h",
       "v = πrh/3",
@@ -19832,7 +19832,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-850-1098",
-    "questionText": "Solve for k in the equation 1/8<sup>k+2</sup>\n = 1 (JAMB 2022)",
+    "questionText": "Solve for k in the equation 1/8<sup>k+2</sup>\n = 1",
     "options": [
       "2",
       "-4",
@@ -19844,7 +19844,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-851-1124",
-    "questionText": "The coordinates of the mid-point of the line joining the points (-3,5) and (2,10) is given by?  (JAMB 2022)",
+    "questionText": "The coordinates of the mid-point of the line joining the points (-3,5) and (2,10) is given by?",
     "options": [
       "( 1/2, 15/2)",
       "( 1/2, −15/2)",
@@ -19856,7 +19856,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-852-1102",
-    "questionText": "If the mean of 2, 5, (x+1), (x+2), 7 and 9 is 6. Find the median (JAMB 2022)",
+    "questionText": "If the mean of 2, 5, (x+1), (x+2), 7 and 9 is 6. Find the median",
     "options": [
       "5.5",
       "5",
@@ -19868,7 +19868,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-853-1107",
-    "questionText": "A rectangular pyramid has an area 24cm<sup>2</sup>\n and height 7.5cm. Find its volume? (JAMB 2022)",
+    "questionText": "A rectangular pyramid has an area 24cm<sup>2</sup>\n and height 7.5cm. Find its volume?",
     "options": [
       "65.0cm<sup>3</sup>",
       "70.5cm<sup>3</sup>",
@@ -19880,7 +19880,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-854-1104",
-    "questionText": "Simplify 1/(3−√2)\n in the form of p + q√2 (JAMB 2022)",
+    "questionText": "Simplify 1/(3−√2)\n in the form of p + q√2",
     "options": [
       "7/(3 - 1/7√2)",
       "7/(3 + 1/7√2)",
@@ -19892,7 +19892,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-855-1131",
-    "questionText": "Find x if the mean of 2x, 4x, 2x - 13 and 6x is 4. (JAMB 2022)",
+    "questionText": "Find x if the mean of 2x, 4x, 2x - 13 and 6x is 4.",
     "options": [
       "1.5",
       "2.0",
@@ -19904,7 +19904,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-856-1127",
-    "questionText": "In the diagram above, XY = 8cm and OX = 5cm. Find Oz (JAMB 2022)",
+    "questionText": "In the diagram above, XY = 8cm and OX = 5cm. Find Oz",
     "options": [
       "9cm",
       "3.4cm",
@@ -19916,7 +19916,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-857-1126",
-    "questionText": "Given that S = 3t<sup>2</sup> + 5t - 10 is displacement of a particle in metres, calculate it initial velocity. (JAMB 2022)",
+    "questionText": "Given that S = 3t<sup>2</sup> + 5t - 10 is displacement of a particle in metres, calculate it initial velocity.",
     "options": [
       "10m/s",
       "2m/s",
@@ -19928,7 +19928,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-858-1103",
-    "questionText": "If sin θ = -  3/5\n and θ lies in the third quadrant, find cos θ (JAMB 2022)",
+    "questionText": "If sin θ = -  3/5\n and θ lies in the third quadrant, find cos θ",
     "options": [
       "4/5",
       "-1 1/4",
@@ -19940,7 +19940,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-859-1120",
-    "questionText": "Find the equation of a straight line parallel to the line 2x - y = 5 and having intercept of 5 (JAMB 2022)",
+    "questionText": "Find the equation of a straight line parallel to the line 2x - y = 5 and having intercept of 5",
     "options": [
       "2x + y = 5",
       "2x + y = -5",
@@ -19952,7 +19952,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-860-1106",
-    "questionText": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gift+B10s(g), savings(s) and some B28miscellaneous (m) as indicate in the table below:                 If the above information is represented on a pie chart. What angle represents his spending on food? (JAMB 2022)",
+    "questionText": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gift+B10s(g), savings(s) and some B28miscellaneous (m) as indicate in the table below:                 If the above information is represented on a pie chart. What angle represents his spending on food?",
     "options": [
       "108.5",
       "100.8",
@@ -19964,7 +19964,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-861-1108",
-    "questionText": "The 10th term of an AP is 32. If the first term is 3/2, what is the 4th term? (JAMB 2022)",
+    "questionText": "The 10th term of an AP is 32. If the first term is 3/2, what is the 4th term?",
     "options": [
       "35/3",
       "64",
@@ -19976,7 +19976,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-862-1129",
-    "questionText": "If y varies inversely as x and x = 3 when y =4. Find the value of x when y = 12 (JAMB 2022)",
+    "questionText": "If y varies inversely as x and x = 3 when y =4. Find the value of x when y = 12",
     "options": [
       "4",
       "1",
@@ -19988,7 +19988,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-863-1118",
-    "questionText": "If sec<sup>2</sup>θ + tan<sup>2</sup>θ = 3, then the angle θ is equal to? (JAMB 2022)",
+    "questionText": "If sec<sup>2</sup>θ + tan<sup>2</sup>θ = 3, then the angle θ is equal to?",
     "options": [
       "90°",
       "30°",
@@ -20000,7 +20000,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-864-1109",
-    "questionText": "In the diagram above angle LNM and angle YNZ are represented by g and h respectively. Find ∠MNY (JAMB 2022)",
+    "questionText": "In the diagram above angle LNM and angle YNZ are represented by g and h respectively. Find ∠MNY",
     "options": [
       "180° - g° - h°",
       "360° - (g-h)°",
@@ -20012,7 +20012,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-865-1125",
-    "questionText": "Evaluate <sup>n</sup><sup>2 </sup> + <sup>1</sup>C<sub>(n+5)</sub> \n if n = 3  (JAMB 2022)",
+    "questionText": "Evaluate <sup>n</sup><sup>2 </sup> + <sup>1</sup>C<sub>(n+5)</sub> \n if n = 3",
     "options": [
       "55",
       "45",
@@ -20024,7 +20024,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-866-1110",
-    "questionText": "In how many ways can the letter of ZOOLOGY be arranged? (JAMB 2022)",
+    "questionText": "In how many ways can the letter of ZOOLOGY be arranged?",
     "options": [
       "720",
       "360",
@@ -20036,7 +20036,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-867-1121",
-    "questionText": "Calculate the median of 14, 17, 10, 13, 18 and 10 (JAMB 2022)",
+    "questionText": "Calculate the median of 14, 17, 10, 13, 18 and 10",
     "options": [
       "12.5",
       "13.5",
@@ -20048,7 +20048,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-868-1105",
-    "questionText": "Find the length of a chord 3cm from the centre of a circle of radius 5cm (JAMB 2022)",
+    "questionText": "Find the length of a chord 3cm from the centre of a circle of radius 5cm",
     "options": [
       "8cm",
       "5.6cm",
@@ -20060,7 +20060,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-869-1135",
-    "questionText": "The number line represented by the inequality (JAMB 2022)",
+    "questionText": "The number line represented by the inequality",
     "options": [
       "x≤2",
       "x<2",
@@ -20072,7 +20072,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-870-1101",
-    "questionText": "If a fair coin is tossed twice, what is the probability of obtaining at least one head? (JAMB 2022)",
+    "questionText": "If a fair coin is tossed twice, what is the probability of obtaining at least one head?",
     "options": [
       "0.25",
       "0.75",
@@ -20084,7 +20084,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-871-1099",
-    "questionText": "Evaluate (101<sub>two</sub>)<sup>3</sup> (JAMB 2022)",
+    "questionText": "Evaluate (101<sub>two</sub>)<sup>3</sup>",
     "options": [
       "111101<sub>two</sub>",
       "11111101<sub>two</sub>",
@@ -20096,7 +20096,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-872-1180",
-    "questionText": "Calculate, correct to three significant figures, the length of the arc AB in the diagram above.[Take π=22/7] (JAMB 2023)",
+    "questionText": "Calculate, correct to three significant figures, the length of the arc AB in the diagram above.[Take π=22/7]",
     "options": [
       "32.4 cm",
       "30.6 cm",
@@ -20108,7 +20108,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-873-1151",
-    "questionText": "At simple interest, a man made a deposit of some money in the bank. The amount in his bank account after 10 years is three times the money deposited. If the interest rate stays the same, after how many years will the amount be five times the money deposited?\n (JAMB 2023)",
+    "questionText": "At simple interest, a man made a deposit of some money in the bank. The amount in his bank account after 10 years is three times the money deposited. If the interest rate stays the same, after how many years will the amount be five times the money deposited?\n",
     "options": [
       "15 years",
       "25 years",
@@ -20120,7 +20120,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-874-1165",
-    "questionText": "Factorize: 16x<sup>4</sup>−y<sup>4</sup> (JAMB 2023)",
+    "questionText": "Factorize: 16x<sup>4</sup>−y<sup>4</sup>",
     "options": [
       "(2x−y)(2x+y)(4x<sup>2</sup>+y<sup>2</sup>)",
       "(2x+y)(2x+y)(4x<sup>2</sup>+y<sup>2</sup>)",
@@ -20132,7 +20132,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-875-1169",
-    "questionText": "Find the matrix A (JAMB 2023)",
+    "questionText": "Find the matrix A",
     "options": [
       "None of the above",
       "All of the above",
@@ -20143,7 +20143,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-876-1179",
-    "questionText": "An article when sold for ₦230.00 makes a 15% profit. Find the profit or loss % if it was sold for ₦180.00 (JAMB 2023)",
+    "questionText": "An article when sold for ₦230.00 makes a 15% profit. Find the profit or loss % if it was sold for ₦180.00",
     "options": [
       "10% gain",
       "10% loss",
@@ -20155,7 +20155,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-877-1139",
-    "questionText": "Let '*' and '^' be two binary operations such that a * b = a<sup>2</sup>b and a ^ b = 2a + b. Find (-4 * 2) ^ (7 * -1). (JAMB 2023)",
+    "questionText": "Let '*' and '^' be two binary operations such that a * b = a<sup>2</sup>b and a ^ b = 2a + b. Find (-4 * 2) ^ (7 * -1).",
     "options": [
       "-49",
       "64",
@@ -20167,7 +20167,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-878-1184",
-    "questionText": "Find the compound interest (CI) on ₦15,700 for 2 years at 8% per annum compounded annually. (JAMB 2023)",
+    "questionText": "Find the compound interest (CI) on ₦15,700 for 2 years at 8% per annum compounded annually.",
     "options": [
       "₦6,212.48",
       "₦2,834.48",
@@ -20179,7 +20179,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-879-1161",
-    "questionText": "Determine the area of the region bounded by y = 2x<sup>2</sup> + 10 and Y = 4x + 16\n. (JAMB 2023)",
+    "questionText": "Determine the area of the region bounded by y = 2x<sup>2</sup> + 10 and Y = 4x + 16\n.",
     "options": [
       "18",
       "−10/3",
@@ -20191,7 +20191,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-880-1178",
-    "questionText": "Calculate, correct to three significant figures, the length AB in the diagram above. (JAMB 2023)",
+    "questionText": "Calculate, correct to three significant figures, the length AB in the diagram above.",
     "options": [
       "36.4 cm",
       "36.1 cm",
@@ -20203,7 +20203,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-881-1186",
-    "questionText": "The third term of an A.P is 6 and the fifth term is 12. Find the sum of its first twelve terms (JAMB 2023)",
+    "questionText": "The third term of an A.P is 6 and the fifth term is 12. Find the sum of its first twelve terms",
     "options": [
       "201",
       "144",
@@ -20215,7 +20215,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-882-1154",
-    "questionText": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women? (JAMB 2023)",
+    "questionText": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women?",
     "options": [
       "60",
       "15",
@@ -20227,7 +20227,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-883-1153",
-    "questionText": "The ages of students in a small primary school were recorded in the table below.  Estimate the mean (JAMB 2023)",
+    "questionText": "The ages of students in a small primary school were recorded in the table below.  Estimate the mean",
     "options": [
       "7.7",
       "7.5",
@@ -20239,7 +20239,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-884-1152",
-    "questionText": "Evaluate the following limit: lim <sub>(x→2)</sub> (x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> − 2x) (JAMB 2023)",
+    "questionText": "Evaluate the following limit: lim <sub>(x→2)</sub> (x<sup>2</sup> + 4x − 12)/(x<sup>2</sup> − 2x)",
     "options": [
       "4",
       "8",
@@ -20251,7 +20251,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-885-1163",
-    "questionText": "Find the value of y, if log (y + 8) + log (y - 8) = 2log 3 + 2log 5 (JAMB 2023)",
+    "questionText": "Find the value of y, if log (y + 8) + log (y - 8) = 2log 3 + 2log 5",
     "options": [
       "y = ±5",
       "y = ±10",
@@ -20263,7 +20263,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-886-1155",
-    "questionText": "If D = [241−11−3321]\nFind |D| (JAMB 2023)",
+    "questionText": "If D = [241−11−3321]\nFind |D|",
     "options": [
       "16",
       "14",
@@ -20275,7 +20275,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-887-1150",
-    "questionText": "Find the value of t, if the distance between the points P(–3, –14) and Q(t, –5) is 9 units. (JAMB 2023)",
+    "questionText": "Find the value of t, if the distance between the points P(–3, –14) and Q(t, –5) is 9 units.",
     "options": [
       "3",
       "2",
@@ -20287,7 +20287,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-888-1143",
-    "questionText": "The area A of a circle is increasing at a constant rate of 1.5 cm <sup>2</sup>s<sup>−1</sup>\n. Find, to 3 significant figures, the rate at which the radius r of the circle is increasing when the area of the circle is 2 cm<sup>2</sup>\n. (JAMB 2023)",
+    "questionText": "The area A of a circle is increasing at a constant rate of 1.5 cm <sup>2</sup>s<sup>−1</sup>\n. Find, to 3 significant figures, the rate at which the radius r of the circle is increasing when the area of the circle is 2 cm<sup>2</sup>\n.",
     "options": [
       "0.200 cms<sup>−1</sup>",
       "0.798 cms<sup>−1</sup>",
@@ -20299,7 +20299,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-889-1172",
-    "questionText": "Let a binary operation '*' be defined on a set A. The operation will be commutative if (JAMB 2023)",
+    "questionText": "Let a binary operation '*' be defined on a set A. The operation will be commutative if",
     "options": [
       "a*b = b*a",
       "(a*b)*c = a*(b*c)",
@@ -20311,7 +20311,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-890-1138",
-    "questionText": "Evaluate: 16<sup>(0.16)</sup>\n × 16<sup>(0.04)</sup>(0.04) × 2<sup>(0.2)</sup> (JAMB 2023)",
+    "questionText": "Evaluate: 16<sup>(0.16)</sup>\n × 16<sup>(0.04)</sup>(0.04) × 2<sup>(0.2)</sup>",
     "options": [
       "2",
       "0",
@@ -20323,7 +20323,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-891-1160",
-    "questionText": "Calculate the mean deviation of the first five prime numbers. (JAMB 2023)",
+    "questionText": "Calculate the mean deviation of the first five prime numbers.",
     "options": [
       "2.72",
       "5.6",
@@ -20335,7 +20335,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-892-1171",
-    "questionText": "If −2x<sup></sup> +6x<sup>2</sup> +17x - 21 is divided by (x+1), then the remainder is (JAMB 2023)",
+    "questionText": "If −2x<sup></sup> +6x<sup>2</sup> +17x - 21 is divided by (x+1), then the remainder is",
     "options": [
       "32",
       "30",
@@ -20347,7 +20347,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-893-1176",
-    "questionText": "Two numbers are respectively 35% and 80% more than a third number. The ratio of the two numbers is (JAMB 2023)",
+    "questionText": "Two numbers are respectively 35% and 80% more than a third number. The ratio of the two numbers is",
     "options": [
       "7 : 16",
       "3 : 4",
@@ -20359,7 +20359,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-894-1141",
-    "questionText": "The population of a village decreased from 1,230 to 1,040 due to breakout of an epidemic. What is the percentage decrease in the population? (JAMB 2023)",
+    "questionText": "The population of a village decreased from 1,230 to 1,040 due to breakout of an epidemic. What is the percentage decrease in the population?",
     "options": [
       "15.44%",
       "15.43%",
@@ -20371,7 +20371,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-895-1174",
-    "questionText": "What is the general term of the sequence 3, 8, 13, 18, ...? (JAMB 2023)",
+    "questionText": "What is the general term of the sequence 3, 8, 13, 18, ...?",
     "options": [
       "5n - 2",
       "5n + 2",
@@ -20383,7 +20383,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-896-1173",
-    "questionText": "Solve the following quadratic inequality: x<sup>2</sup> − x - 4 ≤ 2 (JAMB 2023)",
+    "questionText": "Solve the following quadratic inequality: x<sup>2</sup> − x - 4 ≤ 2",
     "options": [
       "−3 < x < 2",
       "−2 ≤ x ≤ 3",
@@ -20395,7 +20395,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-897-1149",
-    "questionText": "If (3−√3)/(2+√3) = a + b√3, what are the values a and b? (JAMB 2023)",
+    "questionText": "If (3−√3)/(2+√3) = a + b√3, what are the values a and b?",
     "options": [
       "a = 9, b = -5",
       "a = 5, b = 9",
@@ -20407,7 +20407,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-898-1158",
-    "questionText": "Find the equation of straight line passing through (2, 3) and perpendicular to the line 3x+2y+4=0 (JAMB 2023)",
+    "questionText": "Find the equation of straight line passing through (2, 3) and perpendicular to the line 3x+2y+4=0",
     "options": [
       "3y = 5x - 2",
       "y = 5/3× − 2",
@@ -20419,7 +20419,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-899-1185",
-    "questionText": "Find the volume of the cylinder above[Take π=22/7\n] (JAMB 2023)",
+    "questionText": "Find the volume of the cylinder above[Take π=22/7\n]",
     "options": [
       "9,856 cm<sup>3</sup>",
       "14,784 cm<sup>3</sup>",
@@ -20431,7 +20431,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-900-1170",
-    "questionText": "How many students scored at least 25% (JAMB 2023)",
+    "questionText": "How many students scored at least 25%",
     "options": [
       "16",
       "19",
@@ -20443,7 +20443,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-901-1142",
-    "questionText": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon. (JAMB 2023)",
+    "questionText": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon.",
     "options": [
       "dodecagon",
       "enneadecagon",
@@ -20455,7 +20455,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-902-1162",
-    "questionText": "Find the value of y if 402<sub>y</sub> =102<sub>ten</sub> (JAMB 2023)",
+    "questionText": "Find the value of y if 402<sub>y</sub> =102<sub>ten</sub>",
     "options": [
       "4",
       "2",
@@ -20467,7 +20467,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-903-1140",
-    "questionText": "Evaluate ∫<sup>1</sup> <sub>0</sub> 4x−6<sup>3</sup>√x<sup>2</sup>−dx (JAMB 2023)",
+    "questionText": "Evaluate ∫<sup>1</sup> <sub>0</sub> 4x−6<sup>3</sup>√x<sup>2</sup>−dx",
     "options": [
       "- 5/8",
       "-8/5",
@@ -20479,7 +20479,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-904-1167",
-    "questionText": "A bag contains 8 red balls and some white balls. If the probability of drawing a white ball is half of the probability of drawing a red ball then find the probability of drawing a red ball and a white ball if the balls are drawn without replacement. (JAMB 2023)",
+    "questionText": "A bag contains 8 red balls and some white balls. If the probability of drawing a white ball is half of the probability of drawing a red ball then find the probability of drawing a red ball and a white ball if the balls are drawn without replacement.",
     "options": [
       "1/3",
       "2/9",
@@ -20491,7 +20491,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-905-1159",
-    "questionText": "Differentiate the function y = <sup>3</sup>√x<sup>2</sup>(2x − x<sup>2</sup>) (JAMB 2023)",
+    "questionText": "Differentiate the function y = <sup>3</sup>√x<sup>2</sup>(2x − x<sup>2</sup>)",
     "options": [
       "dy/dx=10x<sup>5/3</sup>/3−8x<sup>2/3</sup>/3",
       "dy/dx=10x<sup>2/3</sup>/3−8x<sup>5/3</sup>/3",
@@ -20503,7 +20503,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-906-1157",
-    "questionText": "A coin is thrown 3 times. What is the probability that atleast one head is obtained? (JAMB 2023)",
+    "questionText": "A coin is thrown 3 times. What is the probability that atleast one head is obtained?",
     "options": [
       "7/8",
       "3/8",
@@ -20515,7 +20515,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209576-907-1147",
-    "questionText": "If a car runs at a constant speed and takes 4.5 hrs to run a distance of 225 km, what time will it take to run 150 km? (JAMB 2023)",
+    "questionText": "If a car runs at a constant speed and takes 4.5 hrs to run a distance of 225 km, what time will it take to run 150 km?",
     "options": [
       "2 hrs",
       "4 hrs",
@@ -20527,7 +20527,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-908-1183",
-    "questionText": "Find the area, to the nearest cm<sup>2</sup>, of the triangle whose sides are in the ratio 2 : 3 : 4 and whose perimeter is 180 cm. (JAMB 2023)",
+    "questionText": "Find the area, to the nearest cm<sup>2</sup>, of the triangle whose sides are in the ratio 2 : 3 : 4 and whose perimeter is 180 cm.",
     "options": [
       "1162 cm<sup>2</sup>",
       "1163 cm<sup>2</sup>",
@@ -20539,7 +20539,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-909-1148",
-    "questionText": "Divide 1101001<sub>two</sub> by 101<sub>two</sub> (JAMB 2023)",
+    "questionText": "Divide 1101001<sub>two</sub> by 101<sub>two</sub>",
     "options": [
       "11101<sub>two</sub>",
       "111<sub>two</sub>",
@@ -20551,7 +20551,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-910-1175",
-    "questionText": "The locus of a point equidistant from two intersecting lines is (JAMB 2023)",
+    "questionText": "The locus of a point equidistant from two intersecting lines is",
     "options": [
       "where the sum of the distances of two focal points is fixed",
       "the collection of points that are equally distant from a fixed point and a line",
@@ -20563,7 +20563,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-911-1181",
-    "questionText": "A rectangular plot of land has sides with lengths of 38 m and 52 m corrected to the nearest m. Find the range of the possible values of the area of the rectangle (JAMB 2023)",
+    "questionText": "A rectangular plot of land has sides with lengths of 38 m and 52 m corrected to the nearest m. Find the range of the possible values of the area of the rectangle",
     "options": [
       "1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>",
       "1950 m<sup>2</sup> ≤ A < 2002m<sup>2</sup>",
@@ -20575,7 +20575,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-912-411",
-    "questionText": "Solve the inequalities for which \n \n (x + 4)/(3) - (x -3)/(2)  < 4 (JAMB 2006)",
+    "questionText": "Solve the inequalities for which \n \n (x + 4)/(3) - (x -3)/(2)  < 4",
     "options": [
       "x < 7",
       "x > -7",
@@ -20599,7 +20599,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-914-175",
-    "questionText": "Simplify (√0.7+√70)<sup>2</sup> (JAMB 2002)",
+    "questionText": "Simplify (√0.7+√70)<sup>2</sup>",
     "options": [
       "84.7",
       "70.7",
@@ -20611,7 +20611,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-915-436",
-    "questionText": "The graph above is represented by (JAMB 2007)",
+    "questionText": "The graph above is represented by",
     "options": [
       "y = x<sup>3</sup> - 3x - 2",
       "y = x<sup>3</sup> + 2x<sup>2</sup> - x - 2",
@@ -20659,7 +20659,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-919-194",
-    "questionText": "If x varies directly as √n and x = 9 when n = 9, find x when n = (17/9) (JAMB 2002)",
+    "questionText": "If x varies directly as √n and x = 9 when n = 9, find x when n = (17/9)",
     "options": [
       "4",
       "27",
@@ -20671,7 +20671,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-920-502",
-    "questionText": "Find the derivative of y=x<sup>7</sup> −x<sup>7</sup>/ x<sup>4</sup>  (JAMB 2008)",
+    "questionText": "Find the derivative of y=x<sup>7</sup> −x<sup>7</sup>/ x<sup>4</sup>",
     "options": [
       "x(x<sup>2</sup> -1)",
       "3x(x<sup>2</sup> -1)",
@@ -20683,7 +20683,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-921-509",
-    "questionText": "What is the mean of the data t, 2t-1, t-2, 2t-1, 4t and 2t+2? (JAMB 2008)",
+    "questionText": "What is the mean of the data t, 2t-1, t-2, 2t-1, 4t and 2t+2?",
     "options": [
       "2t",
       "2t-1",
@@ -20695,7 +20695,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-922-422",
-    "questionText": "If 5, 8, 6 and 2 occur with frequencies 3, 2, 4 and 1 respectively. Find the product of the modal and the median number (JAMB 2007)",
+    "questionText": "If 5, 8, 6 and 2 occur with frequencies 3, 2, 4 and 1 respectively. Find the product of the modal and the median number",
     "options": [
       "36",
       "48",
@@ -20707,7 +20707,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-923-40",
-    "questionText": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. 13. How many learn both languages?  (JAMB 2008)",
+    "questionText": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. 13. How many learn both languages?",
     "options": [
       "60",
       "45",
@@ -20731,7 +20731,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-925-771",
-    "questionText": "3 girls share a number of apples in the ration 5:3:2. If the highest share is 40 apples, find the smallest share (JAMB 2013)",
+    "questionText": "3 girls share a number of apples in the ration 5:3:2. If the highest share is 40 apples, find the smallest share",
     "options": [
       "36",
       "24",
@@ -20743,7 +20743,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-926-954",
-    "questionText": "Evaluate (2√3 - 4) (2√3 + 4)  (JAMB 2018)",
+    "questionText": "Evaluate (2√3 - 4) (2√3 + 4)",
     "options": [
       "-4",
       "-2",
@@ -20755,7 +20755,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-927-587",
-    "questionText": "If y = (2x + 1)3 find dy/dx (JAMB 2010)",
+    "questionText": "If y = (2x + 1)3 find dy/dx",
     "options": [
       "3(2x+1)<sup>2</sup>",
       "6(2x+1)",
@@ -20767,7 +20767,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-928-351",
-    "questionText": "Find the derivative of y = sin(2x<sup>3</sup>\n + 3x - 4) (JAMB 2005)",
+    "questionText": "Find the derivative of y = sin(2x<sup>3</sup>\n + 3x - 4)",
     "options": [
       "cos (2x<sup>3</sup> + 3x - 4)",
       "-cos (2x<sup>3</sup> + 3x - 4)",
@@ -20779,7 +20779,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-929-1269",
-    "questionText": "A man bought a car for N800 and sold it for N520. Find his loss per cent (JAMB 2015)",
+    "questionText": "A man bought a car for N800 and sold it for N520. Find his loss per cent",
     "options": [
       "15%",
       "25%",
@@ -20791,7 +20791,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-930-450",
-    "questionText": "If log<sub>10</sub> 2 = x, express log<sub>10</sub>12.5 in terms of x (JAMB 2007)",
+    "questionText": "If log<sub>10</sub> 2 = x, express log<sub>10</sub>12.5 in terms of x",
     "options": [
       "2(1 + x)",
       "2 + 3x",
@@ -20803,7 +20803,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-931-743",
-    "questionText": "The angles of a polygon are given by x, 2x, 3x, 4x and 5x respectively. Find the value of x. (JAMB 2012)",
+    "questionText": "The angles of a polygon are given by x, 2x, 3x, 4x and 5x respectively. Find the value of x.",
     "options": [
       "24°",
       "30°",
@@ -20815,7 +20815,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-932-140",
-    "questionText": "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3). (JAMB 2001)",
+    "questionText": "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3).",
     "options": [
       "4",
       "6",
@@ -20827,7 +20827,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-933-836",
-    "questionText": "Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60°. (JAMB 2016)",
+    "questionText": "Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60°.",
     "options": [
       "(12 + 4π)cm",
       "(24 + 4π)cm",
@@ -20839,7 +20839,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-934-35",
-    "questionText": "A cyclist rode for 30minutes at xkm/hr and due to a breakdown, he had to push the bike for 2hrs at (x – 5) km/hr. if the total distance covered is less than 60km, what is the range of values for x?  (JAMB 2008)",
+    "questionText": "A cyclist rode for 30minutes at xkm/hr and due to a breakdown, he had to push the bike for 2hrs at (x – 5) km/hr. if the total distance covered is less than 60km, what is the range of values for x?",
     "options": [
       "x<14",
       "x<29",
@@ -20851,7 +20851,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-935-1001",
-    "questionText": "Simplify 81<sup>(−3/4)</sup> x 25<sup>(1/2)</sup>\n x 243<sup>2/5</sup> (JAMB 2019)",
+    "questionText": "Simplify 81<sup>(−3/4)</sup> x 25<sup>(1/2)</sup>\n x 243<sup>2/5</sup>",
     "options": [
       "2/5",
       "3/5",
@@ -20863,7 +20863,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-936-639",
-    "questionText": "Find the sum of the first 18 terms of the series 3, 6, 9,..., 36. (JAMB 2011)",
+    "questionText": "Find the sum of the first 18 terms of the series 3, 6, 9,..., 36.",
     "options": [
       "505",
       "513",
@@ -20875,7 +20875,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-937-334",
-    "questionText": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 4(2/3) and L = 54, find d in terms of W and L. (JAMB 2005)",
+    "questionText": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 4(2/3) and L = 54, find d in terms of W and L.",
     "options": [
       "√(42W/5L)",
       "√(6L/42W)",
@@ -20887,7 +20887,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-938-413",
-    "questionText": "The sum of the first n positive integers is (JAMB 2006)",
+    "questionText": "The sum of the first n positive integers is",
     "options": [
       "1/2 n(n-1)",
       "n(n+1)",
@@ -20899,7 +20899,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-939-1216",
-    "questionText": "If y = cos 3x, find δy/δx (JAMB 2014)",
+    "questionText": "If y = cos 3x, find δy/δx",
     "options": [
       "1/3sin3x",
       "−1/3sin3x",
@@ -20911,7 +20911,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-940-1262",
-    "questionText": "Find x if 132<sub>x</sub>  = 70 <sub>eight</sub> . (JAMB 2015)",
+    "questionText": "Find x if 132<sub>x</sub>  = 70 <sub>eight</sub> .",
     "options": [
       "5",
       "3",
@@ -20935,7 +20935,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-942-850",
-    "questionText": "Evaluate (12.02×20.06)/(26.04×60.06)\n, correct to three significant figures. (JAMB 2016)",
+    "questionText": "Evaluate (12.02×20.06)/(26.04×60.06)\n, correct to three significant figures.",
     "options": [
       "0.157",
       "0.154",
@@ -20947,7 +20947,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-943-261",
-    "questionText": "In the diagram above, PQ is parallel to RS. What is the value of α + β + γ? (JAMB 2003)",
+    "questionText": "In the diagram above, PQ is parallel to RS. What is the value of α + β + γ?",
     "options": [
       "360°",
       "200°",
@@ -20959,7 +20959,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-944-144",
-    "questionText": "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?\n\n(Take pi = 22/7) (JAMB 2001)",
+    "questionText": "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?\n\n(Take pi = 22/7)",
     "options": [
       "23 m",
       "25 m",
@@ -20971,7 +20971,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-945-635",
-    "questionText": "If x varies directly as square root of y and x = 81 when y = 9, Find x when y = 1(7/9) (JAMB 2011)",
+    "questionText": "If x varies directly as square root of y and x = 81 when y = 9, Find x when y = 1(7/9)",
     "options": [
       "20(1/4)",
       "27",
@@ -20983,7 +20983,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-946-472",
-    "questionText": "Add 1101<sub>2</sub> ,10111<sub>2</sub>  and 111<sub>2</sub>  (JAMB 2008)",
+    "questionText": "Add 1101<sub>2</sub> ,10111<sub>2</sub>  and 111<sub>2</sub>",
     "options": [
       "111011<sub>2</sub>",
       "110110<sub>2</sub>",
@@ -21007,7 +21007,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-948-67",
-    "questionText": "What is the 15th term of the sequence -3, 2,7,…?  (JAMB 2013)",
+    "questionText": "What is the 15th term of the sequence -3, 2,7,…?",
     "options": [
       "65",
       "66",
@@ -21031,7 +21031,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-950-437",
-    "questionText": "Make L the subjects of the formula if d=√(42w/5l) (JAMB 2007)",
+    "questionText": "Make L the subjects of the formula if d=√(42w/5l)",
     "options": [
       "√(42w/5d)",
       "42W/(5d<sup>2</sup> )",
@@ -21055,7 +21055,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-952-48",
-    "questionText": "One angle of an octagon is 1000 while the other sides are equal. Find each of these exterior angles.  (JAMB 2008)",
+    "questionText": "One angle of an octagon is 1000 while the other sides are equal. Find each of these exterior angles.",
     "options": [
       "800,",
       "600,",
@@ -21067,7 +21067,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-953-43",
-    "questionText": "The trigonometric expression cos2A + sin 2A can be written as:   (JAMB 2008)",
+    "questionText": "The trigonometric expression cos2A + sin 2A can be written as:",
     "options": [
       "cosA(cosA + sinA)",
       "B.cos2A + sin2A – 2sinAcosA,",
@@ -21079,7 +21079,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-954-50",
-    "questionText": "If 32y – 6(3y) = 27, find y  (JAMB 2009)",
+    "questionText": "If 32y – 6(3y) = 27, find y",
     "options": [
       "3",
       "-1",
@@ -21091,7 +21091,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-955-54",
-    "questionText": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium   (JAMB 2009)",
+    "questionText": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium",
     "options": [
       "3/5",
       "2/5",
@@ -21103,7 +21103,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-956-36",
-    "questionText": "The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5        (JAMB 2008)",
+    "questionText": "The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5",
     "options": [
       "10",
       "12",
@@ -21115,7 +21115,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-957-37",
-    "questionText": "Dividing 2x3 – x2 – 5x + 1 by x  + 3 gives the remainder  (JAMB 2008)",
+    "questionText": "Dividing 2x3 – x2 – 5x + 1 by x  + 3 gives the remainder",
     "options": [
       ".-3",
       "47",
@@ -21127,7 +21127,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-958-60",
-    "questionText": "Factorize 6x2 – 14x – 12  (JAMB 2009)",
+    "questionText": "Factorize 6x2 – 14x – 12",
     "options": [
       "2(x + 3)(3x – 2)",
       "6(x – 2)(x + 1)",
@@ -21139,7 +21139,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-959-27",
-    "questionText": "The journey from Lagos to Ibadan usually takes a motorist 1 hour 30 minutes. By increasing his average speed by 20km/hr, the motorist saves 15 minutes. His usual speed, in Km/hr is  (JAMB 2007)",
+    "questionText": "The journey from Lagos to Ibadan usually takes a motorist 1 hour 30 minutes. By increasing his average speed by 20km/hr, the motorist saves 15 minutes. His usual speed, in Km/hr is",
     "options": [
       "100",
       "90",
@@ -21151,7 +21151,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-960-57",
-    "questionText": "If 7 and 189 are the first and fourth terms of a geometric progression respectively find the sum of the first three terms of the progression  (JAMB 2009)",
+    "questionText": "If 7 and 189 are the first and fourth terms of a geometric progression respectively find the sum of the first three terms of the progression",
     "options": [
       "182",
       "180",
@@ -21163,7 +21163,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-961-69",
-    "questionText": "If  are the roots of equation 6 +5x –x2 =0, find  x (JAMB 2013)",
+    "questionText": "If  are the roots of equation 6 +5x –x2 =0, find  x",
     "options": [
       "11",
       "-11",
@@ -21175,7 +21175,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-962-74",
-    "questionText": "Differentiate sin (2x-5) with respect to x.  (JAMB 2013)",
+    "questionText": "Differentiate sin (2x-5) with respect to x.",
     "options": [
       "cos (2x-5)",
       "–cos (2x-5)",
@@ -21187,7 +21187,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-963-41",
-    "questionText": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. How many learn Igbo only?    (JAMB 2008)",
+    "questionText": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. How many learn Igbo only?",
     "options": [
       "45",
       "30",
@@ -21199,7 +21199,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-964-5",
-    "questionText": "A cyclist rode for 30minutes at xhkm/hr. if the total distance covered is less than 60km, what is the range of values for x?  (JAMB 2006)",
+    "questionText": "A cyclist rode for 30minutes at xhkm/hr. if the total distance covered is less than 60km, what is the range of values for x?",
     "options": [
       "x<14",
       "x<20",
@@ -21211,7 +21211,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-965-30",
-    "questionText": "In a survey of 100 students in an institution, 80 students speak Yoruba, 22 speak Igbo, while 6 speak neither Igbo nor Yoruba. How many students speak Yoruba and Igbo?  (JAMB 2007)",
+    "questionText": "In a survey of 100 students in an institution, 80 students speak Yoruba, 22 speak Igbo, while 6 speak neither Igbo nor Yoruba. How many students speak Yoruba and Igbo?",
     "options": [
       "96",
       "8",
@@ -21223,7 +21223,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-966-7",
-    "questionText": "In a class, 37 students take a least one of chemistry, Economics and Government, 8 students take Chemistry, 19 take Economics and 25 take Government, 12 students take Economics and Government but nobody takes Chemistry and Economics. How many students take both chemistry and Government?  (JAMB 2006)",
+    "questionText": "In a class, 37 students take a least one of chemistry, Economics and Government, 8 students take Chemistry, 19 take Economics and 25 take Government, 12 students take Economics and Government but nobody takes Chemistry and Economics. How many students take both chemistry and Government?",
     "options": [
       "3",
       "4",
@@ -21235,7 +21235,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-967-26",
-    "questionText": "How long will take a sum of money invested at 8% simple interest to double the original sum?  (JAMB 2007)",
+    "questionText": "How long will take a sum of money invested at 8% simple interest to double the original sum?",
     "options": [
       "8 years",
       "10.5years",
@@ -21247,7 +21247,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-968-52",
-    "questionText": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became  (JAMB 2009)",
+    "questionText": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became",
     "options": [
       "N180",
       "N 165",
@@ -21259,7 +21259,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-969-64",
-    "questionText": "If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ?  (JAMB 2009)",
+    "questionText": "If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ?",
     "options": [
       "2",
       "6",
@@ -21271,7 +21271,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-970-65",
-    "questionText": "A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared?  (JAMB 2009)",
+    "questionText": "A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared?",
     "options": [
       "15",
       "25",
@@ -21283,7 +21283,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-971-6",
-    "questionText": "A business invested a total of N200,000 in two companies which paid dividends of 5% and 7% respectively. If the received a total of N11, 600 as dividend, how much did he invest at 5%  (JAMB 2006)",
+    "questionText": "A business invested a total of N200,000 in two companies which paid dividends of 5% and 7% respectively. If the received a total of N11, 600 as dividend, how much did he invest at 5%",
     "options": [
       "N160,000",
       "N140,000",
@@ -21295,7 +21295,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-972-15",
-    "questionText": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is with replacement:  (JAMB 2006)",
+    "questionText": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is with replacement:",
     "options": [
       "0.9",
       "1",
@@ -21307,7 +21307,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-973-21",
-    "questionText": "A bearing of 310o, expressed as a compass bearing is:  (JAMB 2007)",
+    "questionText": "A bearing of 310o, expressed as a compass bearing is:",
     "options": [
       "N50oW",
       "N40oW",
@@ -21319,7 +21319,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-974-3",
-    "questionText": "How many different three digit numbers can be formed using the integers 1 to 6 if no integer 1 to 6 if no integer occurs twice in a number?  (JAMB 2006)",
+    "questionText": "How many different three digit numbers can be formed using the integers 1 to 6 if no integer 1 to 6 if no integer occurs twice in a number?",
     "options": [
       "720",
       "1260",
@@ -21331,7 +21331,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-975-1168",
-    "questionText": "The ages of students in a small primary school were recorded in the table below.                                                                               Estimate the median. (JAMB 2023)",
+    "questionText": "The ages of students in a small primary school were recorded in the table below.                                                                               Estimate the median.",
     "options": [
       "7.725",
       "6.225",
@@ -21355,7 +21355,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-977-530",
-    "questionText": "I.S∩T∩W=S II. S ∪ T ∪ W = W\nIII. T ∩ W = S\nIf S⊂T⊂W, which of the above statements are true? (JAMB 2009)",
+    "questionText": "I.S∩T∩W=S II. S ∪ T ∪ W = W\nIII. T ∩ W = S\nIf S⊂T⊂W, which of the above statements are true?",
     "options": [
       "I and II",
       "I and III",
@@ -21367,7 +21367,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-978-333",
-    "questionText": "The time taken to do a piece of work is inversely proportional to the number of men employed. If it takes 30 men to do a piece of work in 6 days, how many men are required to do the work in 4 days? (JAMB 2005)",
+    "questionText": "The time taken to do a piece of work is inversely proportional to the number of men employed. If it takes 30 men to do a piece of work in 6 days, how many men are required to do the work in 4 days?",
     "options": [
       "20",
       "35",
@@ -21379,7 +21379,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-979-1164",
-    "questionText": "In a group of 500 people, 350 people can speak English, and 400 people can speak French. Find how many people can speak both languages. (JAMB 2023)",
+    "questionText": "In a group of 500 people, 350 people can speak English, and 400 people can speak French. Find how many people can speak both languages.",
     "options": [
       "750",
       "850",
@@ -21391,7 +21391,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-980-669",
-    "questionText": "Find the probability that a number picked at random from the set {43, 44, 45, - , -, -, 60} is a prime number (JAMB 2011)",
+    "questionText": "Find the probability that a number picked at random from the set {43, 44, 45, - , -, -, 60} is a prime number",
     "options": [
       "2/9",
       "7/9",
@@ -21403,7 +21403,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-981-1249",
-    "questionText": "The amount A to which a principal P amounts at r% compound interest for n years is given by the formula A = P(1 + (r ÷ 100)<sup>n</sup>\n. Find A, if P = 126, r = 4 and n = 2. (JAMB 2015)",
+    "questionText": "The amount A to which a principal P amounts at r% compound interest for n years is given by the formula A = P(1 + (r ÷ 100)<sup>n</sup>\n. Find A, if P = 126, r = 4 and n = 2.",
     "options": [
       "N132.50K",
       "N136.30K",
@@ -21415,7 +21415,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-982-862",
-    "questionText": "In the cyclic quadrilateral above . Find < PRO (JAMB 2016)",
+    "questionText": "In the cyclic quadrilateral above . Find < PRO",
     "options": [
       "70°",
       "20°",
@@ -21427,7 +21427,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-983-136",
-    "questionText": "a sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone? (JAMB 2001)",
+    "questionText": "a sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone?",
     "options": [
       "8cm",
       "6cm",
@@ -21439,7 +21439,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-984-570",
-    "questionText": "Subtract 16418<sub>9</sub> from 18630<sub>9</sub>. (JAMB 2009)",
+    "questionText": "Subtract 16418<sub>9</sub> from 18630<sub>9</sub>.",
     "options": [
       "1121<sub>9</sub>",
       "2112<sub>9</sub>",
@@ -21451,7 +21451,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-985-613",
-    "questionText": "If cotθ = 8/15, where θ is acute, find sinθ (JAMB 2010)",
+    "questionText": "If cotθ = 8/15, where θ is acute, find sinθ",
     "options": [
       "8/17",
       "15/17",
@@ -21463,7 +21463,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-986-539",
-    "questionText": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)? (JAMB 2009)",
+    "questionText": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)?",
     "options": [
       "-6",
       "-8",
@@ -21475,7 +21475,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-987-405",
-    "questionText": "In the diagram above, PQ = 10 cm, PS = 8 cm and ∠PSR is 60o while ∠SRQ is a right angle. Find SR (JAMB 2006)",
+    "questionText": "In the diagram above, PQ = 10 cm, PS = 8 cm and ∠PSR is 60o while ∠SRQ is a right angle. Find SR",
     "options": [
       "14 cm",
       "14√3 cm",
@@ -21487,7 +21487,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-988-1182",
-    "questionText": "A man sells different brands of an items. 1/9\n of the items he has in his shop are from Brand A, 5/8\n of the remainder are from Brand B and the rest are from Brand C. If the total number of Brand C items in the man's shop is 81, how many more Brand B items than Brand C does the shop has? (JAMB 2023)",
+    "questionText": "A man sells different brands of an items. 1/9\n of the items he has in his shop are from Brand A, 5/8\n of the remainder are from Brand B and the rest are from Brand C. If the total number of Brand C items in the man's shop is 81, how many more Brand B items than Brand C does the shop has?",
     "options": [
       "243",
       "108",
@@ -21499,7 +21499,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-989-325",
-    "questionText": "If the interest on N150.00 for 2(1/2) years is N4.50, find the interest on N250.00 for 6 months at the same rate (JAMB 2005)",
+    "questionText": "If the interest on N150.00 for 2(1/2) years is N4.50, find the interest on N250.00 for 6 months at the same rate",
     "options": [
       "N1.50",
       "N7.50",
@@ -21511,7 +21511,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-990-831",
-    "questionText": "If x<sub>10</sub> = 23<sub>5</sub>. Find x (JAMB 2016)",
+    "questionText": "If x<sub>10</sub> = 23<sub>5</sub>. Find x",
     "options": [
       "15",
       "12",
@@ -21523,7 +21523,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-991-1253",
-    "questionText": "Given that A = {1, 5, 7}\n\nB = {3, 9, 12, 15}\n\nC = {2, 4, 6, 8}\n\nFind (A ∪ B) ∪ C (JAMB 2015)",
+    "questionText": "Given that A = {1, 5, 7}\n\nB = {3, 9, 12, 15}\n\nC = {2, 4, 6, 8}\n\nFind (A ∪ B) ∪ C",
     "options": [
       "{1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
       "{1, 2, 3, 5, 6, 8, 12, 15}",
@@ -21535,7 +21535,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-992-508",
-    "questionText": "The bar chart above shows the number of times the word a, and , in, it, the , to appear in a paragraph in a book. What is the ratio of the least frequent word? (JAMB 2008)",
+    "questionText": "The bar chart above shows the number of times the word a, and , in, it, the , to appear in a paragraph in a book. What is the ratio of the least frequent word?",
     "options": [
       "1/4",
       "1/3",
@@ -21559,7 +21559,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-994-794",
-    "questionText": "Calculate the median age of the frequency distribution in the table above (JAMB 2013)",
+    "questionText": "Calculate the median age of the frequency distribution in the table above",
     "options": [
       "25",
       "30",
@@ -21571,7 +21571,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-995-134",
-    "questionText": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to (JAMB 2001)",
+    "questionText": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to",
     "options": [
       "Zero",
       "half of the common difference",
@@ -21583,7 +21583,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-996-976",
-    "questionText": "Given sin58° = cos p°, find p. (JAMB 2019)",
+    "questionText": "Given sin58° = cos p°, find p.",
     "options": [
       "48°",
       "58°",
@@ -21595,7 +21595,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-997-503",
-    "questionText": "Differentiate sin x - x cos x (JAMB 2008)",
+    "questionText": "Differentiate sin x - x cos x",
     "options": [
       "x cos x",
       "x sin x",
@@ -21607,7 +21607,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-998-409",
-    "questionText": "A binary operation * on the set of rational numbers is defined asx×y=(x^2-y^2)/2xy find-5×3 (JAMB 2006)",
+    "questionText": "A binary operation * on the set of rational numbers is defined asx×y=(x^2-y^2)/2xy find-5×3",
     "options": [
       "-8/15",
       "8/15",
@@ -21619,7 +21619,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-999-860",
-    "questionText": "rom the cyclic quadrilateral above, find < TSV (JAMB 2016)",
+    "questionText": "rom the cyclic quadrilateral above, find < TSV",
     "options": [
       "60°",
       "80°",
@@ -21631,7 +21631,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1000-435",
-    "questionText": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is (JAMB 2007)",
+    "questionText": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is",
     "options": [
       "3/4",
       "-9/2",
@@ -21643,7 +21643,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1001-237",
-    "questionText": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0 (JAMB 2003)",
+    "questionText": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
     "options": [
       "-5, -4",
       "-4,. -5",
@@ -21655,7 +21655,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1002-863",
-    "questionText": "OGIVE is constructed using (JAMB 2016)",
+    "questionText": "OGIVE is constructed using",
     "options": [
       "Third quartile range",
       "Semi-quartile range",
@@ -21667,7 +21667,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1003-1225",
-    "questionText": "In how many ways can a team of 3 girls be selected from 7 girls? (JAMB 2014)",
+    "questionText": "In how many ways can a team of 3 girls be selected from 7 girls?",
     "options": [
       "7!/3!",
       "7!/4!",
@@ -21679,7 +21679,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1004-395",
-    "questionText": "Convert 22324 to base six (JAMB 2006)",
+    "questionText": "Convert 22324 to base six",
     "options": [
       "450<sub>6</sub>",
       "254<sub>6</sub>",
@@ -21691,7 +21691,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1005-463",
-    "questionText": "What is the value of k if the mid-point of the line joining (1 - k, - 4) and (2, k + 1) is (-k , k)? (JAMB 2007)",
+    "questionText": "What is the value of k if the mid-point of the line joining (1 - k, - 4) and (2, k + 1) is (-k , k)?",
     "options": [
       "-3",
       "-1",
@@ -21703,7 +21703,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1006-490",
-    "questionText": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term. (JAMB 2008)",
+    "questionText": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term.",
     "options": [
       "12",
       "4",
@@ -21715,7 +21715,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1007-259",
-    "questionText": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc. (JAMB 2003)",
+    "questionText": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc.",
     "options": [
       "11cm",
       "22cm",
@@ -21727,7 +21727,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1008-403",
-    "questionText": "PQRSTW is a regular hexagon and QS intersects RT at V. Calculate ∠TVS (JAMB 2006)",
+    "questionText": "PQRSTW is a regular hexagon and QS intersects RT at V. Calculate ∠TVS",
     "options": [
       "120°",
       "90°",
@@ -21739,7 +21739,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1009-996",
-    "questionText": "The nth term of a sequence is given by 2<sup>(2n−1)</sup>. Find the sum of the first four terms. (JAMB 2019)",
+    "questionText": "The nth term of a sequence is given by 2<sup>(2n−1)</sup>. Find the sum of the first four terms.",
     "options": [
       "74",
       "32",
@@ -21751,7 +21751,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1010-516",
-    "questionText": "The result of rolling a fair die 150 times is as summarized in the table above. What is the probability of obtaining a 5 (JAMB 2008)",
+    "questionText": "The result of rolling a fair die 150 times is as summarized in the table above. What is the probability of obtaining a 5",
     "options": [
       "3/10",
       "1/5",
@@ -21763,7 +21763,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1011-616",
-    "questionText": "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women? (JAMB 2010)",
+    "questionText": "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women?",
     "options": [
       "100",
       "200",
@@ -21775,7 +21775,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1012-231",
-    "questionText": "The sum of four numbers is 1214<sub>5</sub>\n. What is the average expressed in base five? (JAMB 2003)",
+    "questionText": "The sum of four numbers is 1214<sub>5</sub>\n. What is the average expressed in base five?",
     "options": [
       "114",
       "141",
@@ -21787,7 +21787,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1013-1245",
-    "questionText": "A man with an annual salary of N2000, has allowances of N600. If Income Tax is 5%. How much income tax expenses does he pay each year? (JAMB 2015)",
+    "questionText": "A man with an annual salary of N2000, has allowances of N600. If Income Tax is 5%. How much income tax expenses does he pay each year?",
     "options": [
       "15",
       "50",
@@ -21799,7 +21799,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1014-1156",
-    "questionText": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree. (JAMB 2023)",
+    "questionText": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree.",
     "options": [
       "217<sup>o</sup>",
       "323<sup>o</sup>",
@@ -21811,7 +21811,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1015-800",
-    "questionText": "A basket contains 9 apples, 8 bananas and 7 oranges. A fruit is picked from the basket, find the probability that it is neither an apple nor an orange.\n (JAMB 2013)",
+    "questionText": "A basket contains 9 apples, 8 bananas and 7 oranges. A fruit is picked from the basket, find the probability that it is neither an apple nor an orange.\n",
     "options": [
       "3/8",
       "1/3",
@@ -21823,7 +21823,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1016-519",
-    "questionText": "Calculate the distance between points L(-1, -6) and M(-3, -5) (JAMB 2008)",
+    "questionText": "Calculate the distance between points L(-1, -6) and M(-3, -5)",
     "options": [
       "√5",
       "2√3",
@@ -21835,7 +21835,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1017-300",
-    "questionText": "Find the remainder when 3x<sup>3</sup> + 5x<sup>2</sup> - 11x + 4 is divided by x + 3 (JAMB 2004)",
+    "questionText": "Find the remainder when 3x<sup>3</sup> + 5x<sup>2</sup> - 11x + 4 is divided by x + 3",
     "options": [
       "-4",
       "4",
@@ -21859,7 +21859,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1019-765",
-    "questionText": "The bar chart above shows the distribution of marks in a class test. If the pass mark is 5, what percentage of students failed the test? (JAMB 2012)",
+    "questionText": "The bar chart above shows the distribution of marks in a class test. If the pass mark is 5, what percentage of students failed the test?",
     "options": [
       "10%",
       "20%",
@@ -21871,7 +21871,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1020-878",
-    "questionText": "Given m = N√(SL/T) make T the subject of the formula (JAMB 2017)",
+    "questionText": "Given m = N√(SL/T) make T the subject of the formula",
     "options": [
       "NSL/M",
       "N<sup>2</sup>SL/M<sup>2</sup>",
@@ -21883,7 +21883,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1021-1232",
-    "questionText": "in the figure above, what is the equation of the line that passes the y-axis at (0,5) and passes the x-axis at (5,0)? (JAMB 2014)",
+    "questionText": "in the figure above, what is the equation of the line that passes the y-axis at (0,5) and passes the x-axis at (5,0)?",
     "options": [
       "y = x + 5",
       "y = -x + 5",
@@ -21895,7 +21895,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1022-420",
-    "questionText": "The response of 160 pupils in a school asked to indicate their favourite subjects is given in the bar chart above. What percentage of the pupils have English and Health education as the their favourite subjects? (JAMB 2006)",
+    "questionText": "The response of 160 pupils in a school asked to indicate their favourite subjects is given in the bar chart above. What percentage of the pupils have English and Health education as the their favourite subjects?",
     "options": [
       "55%",
       "52%",
@@ -21907,7 +21907,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1023-1223",
-    "questionText": "Find the median of 5,9,1,10,3,8,9,2,4,5,5,5,7,3 and 6 (JAMB 2014)",
+    "questionText": "Find the median of 5,9,1,10,3,8,9,2,4,5,5,5,7,3 and 6",
     "options": [
       "6",
       "5",
@@ -21919,7 +21919,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1024-189",
-    "questionText": "ake r subject of the formula given that x/r+a = a/r (JAMB 2002)",
+    "questionText": "ake r subject of the formula given that x/r+a = a/r",
     "options": [
       "a<sub>2</sub>/(x−a)",
       "a<sub>2</sub>/(x+a)",
@@ -21931,7 +21931,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1025-406",
-    "questionText": "The solution set of the shaded area above is (JAMB 2006)",
+    "questionText": "The solution set of the shaded area above is",
     "options": [
       "Y ≥ 0, y ≥ x and y + x ≤ 4",
       "Y ≤ x, y + x ≤ 4",
@@ -21943,7 +21943,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1026-605",
-    "questionText": "Solve the inequalities -6 ≤ 4 - 2x < 5 - x (JAMB 2010)",
+    "questionText": "Solve the inequalities -6 ≤ 4 - 2x < 5 - x",
     "options": [
       "-1 < x < 5",
       "-1 < x ≤ 5",
@@ -21955,7 +21955,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1027-396",
-    "questionText": "In the diagram above, QR is in the diameter of the semicircle QR. Find the areas of the figure to the nearest whole number. (JAMB 2006)",
+    "questionText": "In the diagram above, QR is in the diameter of the semicircle QR. Find the areas of the figure to the nearest whole number.",
     "options": [
       "89 cm<sup>2</sup>",
       "70 cm<sup>2</sup>",
@@ -21967,7 +21967,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1028-523",
-    "questionText": "Simplify 7 1/12-4( 3/4+2 1/2 (JAMB 2009)",
+    "questionText": "Simplify 7 1/12-4( 3/4+2 1/2",
     "options": [
       "4",
       "4(1/6",
@@ -21979,7 +21979,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1029-560",
-    "questionText": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?\n (JAMB 2009)",
+    "questionText": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?\n",
     "options": [
       "45",
       "50",
@@ -21991,7 +21991,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1030-200",
-    "questionText": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8 (JAMB 2002)",
+    "questionText": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8",
     "options": [
       "(2, 0)",
       "(1, -2)",
@@ -22003,7 +22003,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1031-810",
-    "questionText": "The locus of the points which is equidistant from the line PQ forms a (JAMB 2013)",
+    "questionText": "The locus of the points which is equidistant from the line PQ forms a",
     "options": [
       "perpendicular line to PQ",
       "circle centre P",
@@ -22015,7 +22015,7 @@ export const mathematicsQuestions = [
   },
   {
     "id": "mathematics-1788729209577-1032-380",
-    "questionText": "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve. (JAMB 2006)",
+    "questionText": "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve.",
     "options": [
       "y = x<sup>2</sup> + 7x + 9",
       "y = x<sup>2</sup> + 7x - 18",

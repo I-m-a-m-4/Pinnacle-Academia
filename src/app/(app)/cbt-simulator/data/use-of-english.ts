@@ -1,7 +1,7 @@
 export const englishQuestions = [
   {
     "id": "english-1788679341946-0-950",
-    "questionText": "What you are asking me to do is a <u>herculean</u> task? (JAMB 2011)",
+    "questionText": "What you are asking me to do is a <u>herculean</u> task?",
     "options": [
       "a strenuous",
       "a demanding",
@@ -13,7 +13,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-1-1495",
-    "questionText": "After so many trials, the experiment __________ (JAMB 2018)",
+    "questionText": "After so many trials, the experiment __________",
     "options": [
       "paid up",
       "paid for",
@@ -25,7 +25,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-2-679",
-    "questionText": "The man reasoned that there ought to be a limit to sycophancy? (JAMB 2001)",
+    "questionText": "The man reasoned that there ought to be a limit to sycophancy?",
     "options": [
       "there can be no favour beyond a reasonable point",
       " sycophants need not talk all the time",
@@ -37,7 +37,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-3-1365",
-    "questionText": "The University has a large <u>intake</u>, very few ________ take place (JAMB 2020)",
+    "questionText": "The University has a large <u>intake</u>, very few ________ take place",
     "options": [
       "turnouts",
       "rejections",
@@ -49,7 +49,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-4-240",
-    "questionText": "Despite all preparations, the wedding did not ….. (JAMB 2006)",
+    "questionText": "Despite all preparations, the wedding did not …..",
     "options": [
       "come along ",
       "come by",
@@ -61,7 +61,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-5-1024",
-    "questionText": "The company ought to have issued warrants for one billion shares  (JAMB 2012)",
+    "questionText": "The company ought to have issued warrants for one billion shares",
     "options": [
       "the company has issued one billion share",
       "the management expected the company to issue more than one billion shares",
@@ -73,7 +73,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-6-512",
-    "questionText": "  <u>th</u>ought (JAMB 2009)",
+    "questionText": "  <u>th</u>ought",
     "options": [
       "taught",
       "weather",
@@ -85,7 +85,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-7-35",
-    "questionText": "In spite of his humble beginning, Audu now throws his weight around  (JAMB 2003)",
+    "questionText": "In spite of his humble beginning, Audu now throws his weight around",
     "options": [
       "His noble birth notwithstanding, Audu is a corrupt man ",
       "From his poor background, Audu is now a rich man ",
@@ -97,7 +97,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-8-1693",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho was the teacher to whom the students called “cane”? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho was the teacher to whom the students called “cane”?",
     "options": [
       "Mr Bade",
       "Mr Okoro",
@@ -109,7 +109,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-9-1217",
-    "questionText": "He was underrated at the <u>preliminary</u> stage of the competition (JAMB 2021)",
+    "questionText": "He was underrated at the <u>preliminary</u> stage of the competition",
     "options": [
       "advance",
       "initial",
@@ -121,7 +121,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-10-351",
-    "questionText": "Government should invest more in …...   training. (JAMB 2007)",
+    "questionText": "Government should invest more in …...   training.",
     "options": [
       "teacher's  ",
       "teacher  ",
@@ -133,7 +133,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-11-60",
-    "questionText": "The leader has the <i>unstinting</i> support of his party  (JAMB 2003)",
+    "questionText": "The leader has the <i>unstinting</i> support of his party",
     "options": [
       "cautious ",
       "uninspiring ",
@@ -145,7 +145,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-12-568",
-    "questionText": "One of the women who .... in the premises.... been  ordered to quit  (JAMB 2010)",
+    "questionText": "One of the women who .... in the premises.... been  ordered to quit",
     "options": [
       "sells/have ",
       "sell/has  ",
@@ -157,7 +157,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-13-1137",
-    "questionText": "Ramatus expressed her feelings in uncertain terms (JAMB 2013)",
+    "questionText": "Ramatus expressed her feelings in uncertain terms",
     "options": [
       "She expressed it secretly and courageously",
       "she expressed it quietly and cautiously",
@@ -169,7 +169,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-14-487",
-    "questionText": "They hated the police and, by <i>implication,</i> me (JAMB 2009)",
+    "questionText": "They hated the police and, by <i>implication,</i> me",
     "options": [
       "extension",
       " inference ",
@@ -181,7 +181,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-15-576",
-    "questionText": "Vital... is still spread ……..... word of mouth in most villages in Africa.  (JAMB 2010)",
+    "questionText": "Vital... is still spread ……..... word of mouth in most villages in Africa.",
     "options": [
       "information/from  ",
       "information/with",
@@ -193,7 +193,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-16-1062",
-    "questionText": "He started his career as an..........teacher (JAMB 2012)",
+    "questionText": "He started his career as an..........teacher",
     "options": [
       "auxilliary",
       "auxiluryy",
@@ -205,7 +205,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-17-374",
-    "questionText": "Thanks to that phone call, I was able to obtain the visa, (JAMB 2008)",
+    "questionText": "Thanks to that phone call, I was able to obtain the visa,",
     "options": [
       "in spite of that phone call, I obtained the vist ",
       " It was because of that phone call that the visa",
@@ -217,7 +217,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-18-238",
-    "questionText": "Our neigbour was attracted by the ………. from my mother’s cooking  (JAMB 2006)",
+    "questionText": "Our neigbour was attracted by the ………. from my mother’s cooking",
     "options": [
       "flavour",
       "stench",
@@ -229,7 +229,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-19-121",
-    "questionText": "The injured man is determined to <i>get back</i> at his assailant. (JAMB 2004)",
+    "questionText": "The injured man is determined to <i>get back</i> at his assailant.",
     "options": [
       "attack",
       "identify",
@@ -241,7 +241,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-20-921",
-    "questionText": "If he were here, could be more fun? (JAMB 2011)",
+    "questionText": "If he were here, could be more fun?",
     "options": [
       "He was expected but did not show up to make the occasion lively",
       "There was no fun because he was not present",
@@ -253,7 +253,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-21-1618",
-    "questionText": "The speculation amongst the students of Forcados High School was that Jimi was dating (JAMB 2016)",
+    "questionText": "The speculation amongst the students of Forcados High School was that Jimi was dating",
     "options": [
       "Risikat",
       "Joke",
@@ -265,7 +265,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-22-1409",
-    "questionText": "Vacancies in the company will be notified by ..... (JAMB 2019)",
+    "questionText": "Vacancies in the company will be notified by .....",
     "options": [
       "Bulletin",
       "Publication",
@@ -277,7 +277,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-23-849",
-    "questionText": " (JAMB 2002)",
+    "questionText": "",
     "options": [
       "does",
       "flood",
@@ -289,7 +289,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-24-546",
-    "questionText": "Ada gave her husband a look that made words  <i>superfluous</i>  (JAMB 2010)",
+    "questionText": "Ada gave her husband a look that made words  <i>superfluous</i>",
     "options": [
       "redundant ",
       "spurious ",
@@ -301,7 +301,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-25-407",
-    "questionText": "I cannot stand Simon, I find his attitude <i>offensive</i> (JAMB 2008)",
+    "questionText": "I cannot stand Simon, I find his attitude <i>offensive</i>",
     "options": [
       "unapproachable   ",
       " obnoxious ",
@@ -313,7 +313,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-26-1758",
-    "questionText": "Choose the option that best fills the gap.\n\nThe ------------------- in an attempt to please the workers promised to provide for them an..........as soon as possible. (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nThe ------------------- in an attempt to please the workers promised to provide for them an..........as soon as possible.",
     "options": [
       " Commitee/ accommondation",
       " Comittee/ acommodation",
@@ -325,7 +325,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-27-1430",
-    "questionText": "Choose the word that has the same rhyme scheme.\n\nDice (JAMB 2019)",
+    "questionText": "Choose the word that has the same rhyme scheme.\n\nDice",
     "options": [
       "mint",
       "rice",
@@ -337,7 +337,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-28-1123",
-    "questionText": "It can be inferred from the novel that Mr, \nEze was Terkura Atsen’s  (JAMB 2013)",
+    "questionText": "It can be inferred from the novel that Mr, \nEze was Terkura Atsen’s",
     "options": [
       " business partner",
       "uncle",
@@ -349,7 +349,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-29-1424",
-    "questionText": "Smoo[th] (JAMB 2019)",
+    "questionText": "Smoo[th]",
     "options": [
       "worth",
       "wealthy",
@@ -361,7 +361,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-30-1688",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n                    ‘Sorry does anyone know you’re here? does daddy know?… who said this and to who? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n                    ‘Sorry does anyone know you’re here? does daddy know?… who said this and to who?",
     "options": [
       "Mr. Solade to Mrs.Solade",
       "Mrs. Solade to Mr. Solade",
@@ -373,7 +373,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-31-826",
-    "questionText": "....... a motor cycle can be harmful ..... your health. (JAMB 2002)",
+    "questionText": "....... a motor cycle can be harmful ..... your health.",
     "options": [
       "riding / for",
       "riding / to",
@@ -385,7 +385,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-32-854",
-    "questionText": " (JAMB 2002)",
+    "questionText": "",
     "options": [
       "success",
       "suffer",
@@ -397,7 +397,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-33-306",
-    "questionText": "He holds on firmly to his <i>hackneyed</i> view of life (JAMB 2007)",
+    "questionText": "He holds on firmly to his <i>hackneyed</i> view of life",
     "options": [
       "wayward  ",
       "principled",
@@ -409,7 +409,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-34-649",
-    "questionText": "They had to ...... the generator when the electricity failed? (JAMB 2001)",
+    "questionText": "They had to ...... the generator when the electricity failed?",
     "options": [
       "light up",
       "fall back on",
@@ -421,7 +421,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-35-63",
-    "questionText": "The company is to <i>shed</i> three thousand staff this year  (JAMB 2003)",
+    "questionText": "The company is to <i>shed</i> three thousand staff this year",
     "options": [
       "Throw up ",
       "placate ",
@@ -433,7 +433,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-36-1193",
-    "questionText": "The bed is IN the room (JAMB 2013)",
+    "questionText": "The bed is IN the room",
     "options": [
       " Is the bed in the parlour?",
       "Was the bed in the room?",
@@ -445,7 +445,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-37-1655",
-    "questionText": "......lawyers enrolled at the Nigerian Bar last year....this year. (JAMB 2016)",
+    "questionText": "......lawyers enrolled at the Nigerian Bar last year....this year.",
     "options": [
       "Very many/than",
       "Same/as",
@@ -457,7 +457,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-38-643",
-    "questionText": "The weather is probably ..... appealing for people who live in Jos ..... for foreigners? (JAMB 2001)",
+    "questionText": "The weather is probably ..... appealing for people who live in Jos ..... for foreigners?",
     "options": [
       "as / much as",
       "more / as",
@@ -469,7 +469,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-39-326",
-    "questionText": "The stadium was <i>seething</i> with people when we entered (JAMB 2007)",
+    "questionText": "The stadium was <i>seething</i> with people when we entered",
     "options": [
       " filled ",
       " crowded ",
@@ -481,7 +481,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-40-957",
-    "questionText": "His <u>antipathy</u> affected the growth of is business? (JAMB 2011)",
+    "questionText": "His <u>antipathy</u> affected the growth of is business?",
     "options": [
       "hatred",
       "receptiveness",
@@ -493,7 +493,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-41-92",
-    "questionText": "No teacher of honour would subject his student to any form of …….. (JAMB 2004)",
+    "questionText": "No teacher of honour would subject his student to any form of ……..",
     "options": [
       "harassment",
       "Harassment",
@@ -505,7 +505,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-42-271",
-    "questionText": "His loss suddenly became <i>redeemable</i>  (JAMB 2006)",
+    "questionText": "His loss suddenly became <i>redeemable</i>",
     "options": [
       "Incurable  ",
       "exclusive",
@@ -517,7 +517,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-43-154",
-    "questionText": "If the trader paid in full, his order was not pruned down. (JAMB 2005)",
+    "questionText": "If the trader paid in full, his order was not pruned down.",
     "options": [
       "The trader who made full payment did not have his order reduced",
       "The trader who made some payment did not have his order delayed.",
@@ -529,7 +529,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-44-1591",
-    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe painting was beautifully faked (JAMB 2017)",
+    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe painting was beautifully faked",
     "options": [
       "The painting was a good deceptive replica",
       "The painting was well-framed and displayed",
@@ -541,7 +541,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-45-1708",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat was the early morning surprise Jimi get while he was still half-asleep? (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat was the early morning surprise Jimi get while he was still half-asleep?",
     "options": [
       "Mrs Solade’s return",
       "Mr. Solade’s return",
@@ -553,7 +553,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-46-58",
-    "questionText": "t<u>e</u>nd  (JAMB 2003)",
+    "questionText": "t<u>e</u>nd",
     "options": [
       "caned ",
       " jeopardy ",
@@ -565,7 +565,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-47-1260",
-    "questionText": "What is Ummi Matric Number?   (JAMB 2022)",
+    "questionText": "What is Ummi Matric Number?",
     "options": [
       "UG0001",
       "UG00001",
@@ -577,7 +577,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341946-48-764",
-    "questionText": "The Governor told the chief that he was only on a <u>routine tour</u>? (JAMB 2000)",
+    "questionText": "The Governor told the chief that he was only on a <u>routine tour</u>?",
     "options": [
       "normal and regular visit",
       "unplanned encounter",
@@ -589,7 +589,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-49-337",
-    "questionText": " (JAMB 2007)",
+    "questionText": "",
     "options": [
       " intact  ",
       " integral ",
@@ -601,7 +601,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-50-858",
-    "questionText": "Tortoises need cool climates and must have places where they can <u>hibernate</u>? (JAMB 2002)",
+    "questionText": "Tortoises need cool climates and must have places where they can <u>hibernate</u>?",
     "options": [
       "reproduce",
       "hide at night",
@@ -613,7 +613,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-51-1777",
-    "questionText": "The dressmaker <u>unpicked</u> the seam of the shirt. (JAMB 2014)",
+    "questionText": "The dressmaker <u>unpicked</u> the seam of the shirt.",
     "options": [
       "Tore up.",
       "Threaded.",
@@ -625,7 +625,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-52-844",
-    "questionText": "We did not understand what the magistrate said about ........ and battery? (JAMB 2002)",
+    "questionText": "We did not understand what the magistrate said about ........ and battery?",
     "options": [
       "acid",
       "insult",
@@ -637,7 +637,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-53-1126",
-    "questionText": "My boy, your future is bright, you can be \nanything you want to be ….\nThe statement above was made because Ifenne \n‘had (JAMB 2013)",
+    "questionText": "My boy, your future is bright, you can be \nanything you want to be ….\nThe statement above was made because Ifenne \n‘had",
     "options": [
       " purchased his first bus",
       "been working for others to make profit",
@@ -649,7 +649,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-54-1736",
-    "questionText": "From the words lettered A to D, choose the word that has the same <b>consonant</b> sounds as the one represented by the letters underlined.\n\nGri<u>tt</u>y (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same <b>consonant</b> sounds as the one represented by the letters underlined.\n\nGri<u>tt</u>y",
     "options": [
       "asked",
       "sachet",
@@ -661,7 +661,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-55-1501",
-    "questionText": "Choose the option that best completes the gap. While the worshippers closed their eyes in prayer, a thief made __________ with the collection (JAMB 2018)",
+    "questionText": "Choose the option that best completes the gap. While the worshippers closed their eyes in prayer, a thief made __________ with the collection",
     "options": [
       "away",
       "up",
@@ -673,7 +673,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-56-4",
-    "questionText": "If you saw the photograph of the man……………………you be able to identify him? (JAMB 2003)",
+    "questionText": "If you saw the photograph of the man……………………you be able to identify him?",
     "options": [
       "could",
       "would   ",
@@ -685,7 +685,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-57-1224",
-    "questionText": "The lady has devised a means of <u>tackling</u> her current challenges. (JAMB 2021)",
+    "questionText": "The lady has devised a means of <u>tackling</u> her current challenges.",
     "options": [
       "attacking",
       "avoiding",
@@ -697,7 +697,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-58-596",
-    "questionText": "My bag is made of LEATHER  (JAMB 2010)",
+    "questionText": "My bag is made of LEATHER",
     "options": [
       "Whose bag is made of leather? ",
       "Is my bag made of polythene? ",
@@ -709,7 +709,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-59-506",
-    "questionText": "Uche has been in ……….with his pen pal  for years. (JAMB 2009)",
+    "questionText": "Uche has been in ……….with his pen pal  for years.",
     "options": [
       "exchange",
       "correspondence ",
@@ -721,7 +721,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-60-1624",
-    "questionText": "Seyi Lawal, the head boy of the school was described as someone who (JAMB 2016)",
+    "questionText": "Seyi Lawal, the head boy of the school was described as someone who",
     "options": [
       "loved his job",
       "hated Physics practical",
@@ -733,7 +733,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-61-277",
-    "questionText": "h<u>ur</u>t (JAMB 2006)",
+    "questionText": "h<u>ur</u>t",
     "options": [
       "hut ",
       "girl ",
@@ -745,7 +745,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-62-137",
-    "questionText": "His plans <i>boomeranged</i> on him (JAMB 2004)",
+    "questionText": "His plans <i>boomeranged</i> on him",
     "options": [
       "bounce",
       "fell",
@@ -757,7 +757,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-63-33",
-    "questionText": "The manager paid us in hard currency   (JAMB 2003)",
+    "questionText": "The manager paid us in hard currency",
     "options": [
       "We were paid in a strong and stable currency ",
       "We were paid in new notes ",
@@ -769,7 +769,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-64-1799",
-    "questionText": "The words _____ divided between the end of one line. (JAMB 2014)",
+    "questionText": "The words _____ divided between the end of one line.",
     "options": [
       "Has being.",
       "Have been.",
@@ -781,7 +781,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-65-1135",
-    "questionText": "I can't wait to becoming a mother', the new bride declared (JAMB 2013)",
+    "questionText": "I can't wait to becoming a mother', the new bride declared",
     "options": [
       "she is excited about motherhood",
       "She is not keen on becoming a mother",
@@ -793,7 +793,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-66-1177",
-    "questionText": "We should try to help..... (JAMB 2013)",
+    "questionText": "We should try to help.....",
     "options": [
       "fortunates",
       "less fortunates",
@@ -805,7 +805,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-67-159",
-    "questionText": "if I visited England, I might go to Manchester City  (JAMB 2005)",
+    "questionText": "if I visited England, I might go to Manchester City",
     "options": [
       "When I go to England, I could go to Manchester City",
       "Whenever I visit England, I must go to Manchester City",
@@ -817,7 +817,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-68-1398",
-    "questionText": "The significance of Mr Bello's advice to Aliya on Bobo's gift is that (JAMB 2019)",
+    "questionText": "The significance of Mr Bello's advice to Aliya on Bobo's gift is that",
     "options": [
       " the gift is a demonstration of love and affection",
       "the gift shouldn't necessarily impose an obligation on Aliya to act in tune with Bobo's interest",
@@ -829,7 +829,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-69-118",
-    "questionText": "My father’s presentation was rather <i>causal</i> (JAMB 2004)",
+    "questionText": "My father’s presentation was rather <i>causal</i>",
     "options": [
       "formal",
       "vital",
@@ -841,7 +841,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-70-249",
-    "questionText": "Dovetail  (JAMB 2006)",
+    "questionText": "Dovetail",
     "options": [
       "proviso ",
       "simplicity ",
@@ -853,7 +853,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-71-1644",
-    "questionText": "His book was one of those that <i>galvanized</i> democracy (JAMB 2016)",
+    "questionText": "His book was one of those that <i>galvanized</i> democracy",
     "options": [
       "stimulated",
       "encouraged",
@@ -865,7 +865,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-72-1570",
-    "questionText": "Choose the most appropriate stress pattern from the options below\n\npalatable (JAMB 2017)",
+    "questionText": "Choose the most appropriate stress pattern from the options below\n\npalatable",
     "options": [
       " PAL—a—ta—ble",
       "pal—A—ta—ble",
@@ -877,7 +877,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-73-1512",
-    "questionText": "The events of last Friday show that there is no love lost between the Principal and the Vice-principal (JAMB 2018)",
+    "questionText": "The events of last Friday show that there is no love lost between the Principal and the Vice-principal",
     "options": [
       "They like each other",
       "They work independently",
@@ -889,7 +889,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-74-342",
-    "questionText": " (JAMB 2007)",
+    "questionText": "",
     "options": [
       "cigarette ",
       "European ",
@@ -901,7 +901,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-75-768",
-    "questionText": "The essay topic is <u>nebulous</u>? (JAMB 2000)",
+    "questionText": "The essay topic is <u>nebulous</u>?",
     "options": [
       "vague",
       "incorrect",
@@ -913,7 +913,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-76-106",
-    "questionText": "The government warns that drink-driving is punishable under the law. (JAMB 2004)",
+    "questionText": "The government warns that drink-driving is punishable under the law.",
     "options": [
       "a drunkard driving can be punished",
       "driving while drunk is an offence",
@@ -925,7 +925,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-77-1646",
-    "questionText": "The nation is in a period of economic <i>flux</i> (JAMB 2016)",
+    "questionText": "The nation is in a period of economic <i>flux</i>",
     "options": [
       "modification",
       "change",
@@ -937,7 +937,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-78-98",
-    "questionText": "He not only looked after the children when their parents died, ………..sponsored their education to university. (JAMB 2004)",
+    "questionText": "He not only looked after the children when their parents died, ………..sponsored their education to university.",
     "options": [
       "but also",
       "also he",
@@ -949,7 +949,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-79-1159",
-    "questionText": "Our teacher defined ......in his introductory lesson (JAMB 2013)",
+    "questionText": "Our teacher defined ......in his introductory lesson",
     "options": [
       "onomatopoeia",
       "onomatopieoa",
@@ -961,7 +961,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-80-398",
-    "questionText": "The doctor tried to <i>soothe</i> the patient before the operation   (JAMB 2008)",
+    "questionText": "The doctor tried to <i>soothe</i> the patient before the operation",
     "options": [
       "examine   ",
       " treat ",
@@ -973,7 +973,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-81-1091",
-    "questionText": " (JAMB 2012)",
+    "questionText": "",
     "options": [
       "commute",
       "import (verb)",
@@ -985,7 +985,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-82-678",
-    "questionText": "You must not attend the end-of year party? (JAMB 2001)",
+    "questionText": "You must not attend the end-of year party?",
     "options": [
       "It is not necessary that you attend the party",
       " It is necessary that you attend the party",
@@ -997,7 +997,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-83-1796",
-    "questionText": "The guard spent all the night pacing _____. (JAMB 2014)",
+    "questionText": "The guard spent all the night pacing _____.",
     "options": [
       "To and fro.",
       "From and to.",
@@ -1009,7 +1009,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-84-789",
-    "questionText": "The diminutive figure bounces over the track with <u>unfathomable</u> lightness?  (JAMB 2000)",
+    "questionText": "The diminutive figure bounces over the track with <u>unfathomable</u> lightness?",
     "options": [
       "invigorating",
       "irresistible",
@@ -1021,7 +1021,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-85-594",
-    "questionText": "EMEKA finished his home work yesterday  (JAMB 2010)",
+    "questionText": "EMEKA finished his home work yesterday",
     "options": [
       "Was Emeka helped to do his home work? ",
       "Did Emeka do his home work yesterday?",
@@ -1033,7 +1033,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-86-1133",
-    "questionText": "You need to brush up on your Spanish (JAMB 2013)",
+    "questionText": "You need to brush up on your Spanish",
     "options": [
       " you need to improve your skills",
       "you need a brush from Spain",
@@ -1045,7 +1045,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-87-265",
-    "questionText": "Adamu is rather <i>meddlesome</i> in dealing with his friends (JAMB 2006)",
+    "questionText": "Adamu is rather <i>meddlesome</i> in dealing with his friends",
     "options": [
       "impertinent ",
       "intimidating ",
@@ -1057,7 +1057,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-88-12",
-    "questionText": "I can't stand people prying into my private life. 'Ladi said '………… agree Agbenu (JAMB 2003)",
+    "questionText": "I can't stand people prying into my private life. 'Ladi said '………… agree Agbenu",
     "options": [
       "Me too ",
       "Likewise myself ",
@@ -1069,7 +1069,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-89-1023",
-    "questionText": "The landlord is fond of throwing his weight about (JAMB 2012)",
+    "questionText": "The landlord is fond of throwing his weight about",
     "options": [
       "the landlord likes healthy exercise",
       "the landlord is overweight",
@@ -1081,7 +1081,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-90-130",
-    "questionText": "<i>Funnily enough,</i> the priest prayed for the robber who shot him. (JAMB 2004)",
+    "questionText": "<i>Funnily enough,</i> the priest prayed for the robber who shot him.",
     "options": [
       "Timidly",
       "Unexpectedly",
@@ -1093,7 +1093,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-91-1462",
-    "questionText": "You can have ........ of these two books (JAMB 2019)",
+    "questionText": "You can have ........ of these two books",
     "options": [
       "either",
       "none",
@@ -1105,7 +1105,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-92-1410",
-    "questionText": "The driver was short of petrol, so he ........ down the road with the engine switched off (JAMB 2019)",
+    "questionText": "The driver was short of petrol, so he ........ down the road with the engine switched off",
     "options": [
       "glided",
       "coasted",
@@ -1117,7 +1117,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-93-1532",
-    "questionText": "Knowledge of figures of speech as well as of idiom and lexical items ____________ in this section (JAMB 2018)",
+    "questionText": "Knowledge of figures of speech as well as of idiom and lexical items ____________ in this section",
     "options": [
       "is tested",
       "have been tested",
@@ -1129,7 +1129,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-94-832",
-    "questionText": "The members of the team agree ........ all the members of the contract? (JAMB 2002)",
+    "questionText": "The members of the team agree ........ all the members of the contract?",
     "options": [
       "by",
       "to",
@@ -1141,7 +1141,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-95-680",
-    "questionText": "Adawo is an imp?\n (JAMB 2001)",
+    "questionText": "Adawo is an imp?\n",
     "options": [
       "Adawo behaves queerly",
       "Adawo behaves decently",
@@ -1153,7 +1153,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-96-932",
-    "questionText": "The mistake brought the show to an <u>ignominious</u> end? (JAMB 2011)",
+    "questionText": "The mistake brought the show to an <u>ignominious</u> end?",
     "options": [
       "a good",
       "a palatable",
@@ -1165,7 +1165,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-97-653",
-    "questionText": " (JAMB 2001)",
+    "questionText": "",
     "options": [
       "resist",
       "salon",
@@ -1177,7 +1177,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-98-103",
-    "questionText": "mis<u>chi</u>ef  (JAMB 2004)",
+    "questionText": "mis<u>chi</u>ef",
     "options": [
       "Christmas",
       "ritual",
@@ -1189,7 +1189,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-99-676",
-    "questionText": "They FLEW to Abuja? (JAMB 2001)",
+    "questionText": "They FLEW to Abuja?",
     "options": [
       " Did they go Abuja by road?",
       "Did they fly to jos?",
@@ -1201,7 +1201,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-100-245",
-    "questionText": " (JAMB 2006)",
+    "questionText": "",
     "options": [
       "ability ",
       "Registration ",
@@ -1213,7 +1213,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-101-79",
-    "questionText": "One needs to exemplify or ………. the aspect of the subject being discussed (JAMB 2004)",
+    "questionText": "One needs to exemplify or ………. the aspect of the subject being discussed",
     "options": [
       "supply",
       "declare",
@@ -1225,7 +1225,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-102-1517",
-    "questionText": "The witness <i>averred</i> that she had seen Dosun at the scene of the crime (JAMB 2018)",
+    "questionText": "The witness <i>averred</i> that she had seen Dosun at the scene of the crime",
     "options": [
       "argued",
       "confirmed",
@@ -1237,7 +1237,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-103-1307",
-    "questionText": "Bankole is upset as his wife does not understand his <u>predicament</u> . (JAMB 2022)",
+    "questionText": "Bankole is upset as his wife does not understand his <u>predicament</u> .",
     "options": [
       "sadness",
       "dilemma",
@@ -1249,7 +1249,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-104-830",
-    "questionText": "Ali has been cured of his amnesia, he no longer suffers from ...... ? (JAMB 2002)",
+    "questionText": "Ali has been cured of his amnesia, he no longer suffers from ...... ?",
     "options": [
       "rounds of anxeity",
       "loss of memory",
@@ -1261,7 +1261,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-105-73",
-    "questionText": "There was a <i>glut</i> of oil on the market (JAMB 2003)",
+    "questionText": "There was a <i>glut</i> of oil on the market",
     "options": [
       "an abundance of",
       "an increase in",
@@ -1273,7 +1273,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-106-876",
-    "questionText": "Audu was taken bad in the middle of the night? (JAMB 2002)",
+    "questionText": "Audu was taken bad in the middle of the night?",
     "options": [
       "He was caught",
       "He was robbed",
@@ -1285,7 +1285,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-107-695",
-    "questionText": "The player kept on <u>gamely</u> to the end of the match? (JAMB 2001)",
+    "questionText": "The player kept on <u>gamely</u> to the end of the match?",
     "options": [
       "amateurishly",
       "skilfully",
@@ -1297,7 +1297,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-108-1092",
-    "questionText": "The traditional chief NARRATED the story to the children (JAMB 2012)",
+    "questionText": "The traditional chief NARRATED the story to the children",
     "options": [
       "the children heard the story from the traditional chief",
       "who narrated the story to the children?",
@@ -1309,7 +1309,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-109-1066",
-    "questionText": "...........a good leader must have two characteristics (JAMB 2012)",
+    "questionText": "...........a good leader must have two characteristics",
     "options": [
       "first and formost",
       " first and formust",
@@ -1321,7 +1321,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-110-193",
-    "questionText": "I was often angry …… Oche since he differed…   me often (JAMB 2005)",
+    "questionText": "I was often angry …… Oche since he differed…   me often",
     "options": [
       "with/to ",
       "about/with   ",
@@ -1333,7 +1333,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-111-873",
-    "questionText": "His meteoric rise to fame surprise everyone? (JAMB 2002)",
+    "questionText": "His meteoric rise to fame surprise everyone?",
     "options": [
       "His rise to fame was only temporary",
       "People were amazed at his rapid success",
@@ -1345,7 +1345,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-112-663",
-    "questionText": "The journalist's write-up contained a <u>plethora</u> of detail? (JAMB 2001)",
+    "questionText": "The journalist's write-up contained a <u>plethora</u> of detail?",
     "options": [
       "shortage",
       "simplicity",
@@ -1357,7 +1357,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-113-397",
-    "questionText": "The speaker was rather <i>bold</i> in his presentation of the case  (JAMB 2008)",
+    "questionText": "The speaker was rather <i>bold</i> in his presentation of the case",
     "options": [
       "unfair ",
       "reserved ",
@@ -1369,7 +1369,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-114-320",
-    "questionText": "The man paid a large sum to <i>redeem</i> his mortgaged property  (JAMB 2007)",
+    "questionText": "The man paid a large sum to <i>redeem</i> his mortgaged property",
     "options": [
       "ransom ",
       "acquire ",
@@ -1381,7 +1381,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-115-1339",
-    "questionText": "This class __________students and teachers (JAMB 2020)",
+    "questionText": "This class __________students and teachers",
     "options": [
       "comprise",
       "comprises",
@@ -1393,7 +1393,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-116-1628",
-    "questionText": "Mr. Rufus bore the brunt in the last promotion examination. (JAMB 2016)",
+    "questionText": "Mr. Rufus bore the brunt in the last promotion examination.",
     "options": [
       "Mr Rufus failed the examination woefully",
       "Mr Rufus excelled in the examination",
@@ -1405,7 +1405,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-117-792",
-    "questionText": "The string was <u>taut</u>? (JAMB 2000)",
+    "questionText": "The string was <u>taut</u>?",
     "options": [
       "loose",
       "firm",
@@ -1417,7 +1417,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-118-1181",
-    "questionText": "Coma (JAMB 2013)",
+    "questionText": "Coma",
     "options": [
       "come",
       "comma",
@@ -1429,7 +1429,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-119-435",
-    "questionText": "w<u>ai</u> st  (JAMB 2008)",
+    "questionText": "w<u>ai</u> st",
     "options": [
       "fete ",
       "says",
@@ -1441,7 +1441,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-120-173",
-    "questionText": "The proprietor accuse Uche of silently<i> acquiescing</i>  to the students’ demands (JAMB 2005)",
+    "questionText": "The proprietor accuse Uche of silently<i> acquiescing</i>  to the students’ demands",
     "options": [
       "submitting to",
       "adjusting",
@@ -1453,7 +1453,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-121-401",
-    "questionText": "Our teacher described Agbo's story as a <i>phantom</i> (JAMB 2008)",
+    "questionText": "Our teacher described Agbo's story as a <i>phantom</i>",
     "options": [
       "scary  ",
       "realistic ",
@@ -1465,7 +1465,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-122-157",
-    "questionText": "One thing I will not be complaining about in my new job is a lack of excitement (JAMB 2005)",
+    "questionText": "One thing I will not be complaining about in my new job is a lack of excitement",
     "options": [
       "The job is bad  ",
       "The job is exiting",
@@ -1477,7 +1477,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-123-1569",
-    "questionText": "Choose the option to which the given sentence relates\n\nMy Boss has an amiable DISPOSITION (JAMB 2017)",
+    "questionText": "Choose the option to which the given sentence relates\n\nMy Boss has an amiable DISPOSITION",
     "options": [
       "Does your boss have an amiable disposition",
       "Does my boss have an unfriendly disposition",
@@ -1489,7 +1489,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-124-582",
-    "questionText": "c<u>oup</u>  (JAMB 2010)",
+    "questionText": "c<u>oup</u>",
     "options": [
       "whup  ",
       "shoot ",
@@ -1501,7 +1501,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-125-894",
-    "questionText": "He gave an unsatisfactory excuse but the boss swallowed it <u>hook, line and sinker</u>?\n (JAMB 2002)",
+    "questionText": "He gave an unsatisfactory excuse but the boss swallowed it <u>hook, line and sinker</u>?\n",
     "options": [
       "with a pinch of salt",
       "completely",
@@ -1513,7 +1513,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-126-460",
-    "questionText": "Salasi's <i>tremendous</i> effort has yielded results. (JAMB 2009)",
+    "questionText": "Salasi's <i>tremendous</i> effort has yielded results.",
     "options": [
       "absolute  ",
       "insignificant  ",
@@ -1525,7 +1525,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-127-554",
-    "questionText": "Thousands of workers have been victims of  <i>retrenchment</i>  since the military came back to power. (JAMB 2010)",
+    "questionText": "Thousands of workers have been victims of  <i>retrenchment</i>  since the military came back to power.",
     "options": [
       "unemployment ",
       "trench mentality ",
@@ -1537,7 +1537,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-128-533",
-    "questionText": "The trader was amused by the  <i>cutthroat</i>  rush for the goods  (JAMB 2010)",
+    "questionText": "The trader was amused by the  <i>cutthroat</i>  rush for the goods",
     "options": [
       "worrisome",
       "strange ",
@@ -1549,7 +1549,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-129-1663",
-    "questionText": "<u>y</u>et''' (JAMB 2016)",
+    "questionText": "<u>y</u>et'''",
     "options": [
       "bury",
       "way",
@@ -1561,7 +1561,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-130-1080",
-    "questionText": "B<u>oo</u>k (JAMB 2012)",
+    "questionText": "B<u>oo</u>k",
     "options": [
       "cool",
       "cook",
@@ -1573,7 +1573,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-131-1163",
-    "questionText": "Do you mind......another hour or two? (JAMB 2013)",
+    "questionText": "Do you mind......another hour or two?",
     "options": [
       "wait",
       "waiting",
@@ -1585,7 +1585,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-132-175",
-    "questionText": "Nigeria has been playing a <i>vital role</i> in the political an economic development of Africa (JAMB 2005)",
+    "questionText": "Nigeria has been playing a <i>vital role</i> in the political an economic development of Africa",
     "options": [
       "creditable",
       "crucial",
@@ -1597,7 +1597,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-133-1786",
-    "questionText": "They accused him of <u>fomenting</u>  political unrest. (JAMB 2014)",
+    "questionText": "They accused him of <u>fomenting</u>  political unrest.",
     "options": [
       "Guiding.",
       "Inciting.",
@@ -1609,7 +1609,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-134-1531",
-    "questionText": "We saw Ifueko ____________ an egg on the wall (JAMB 2018)",
+    "questionText": "We saw Ifueko ____________ an egg on the wall",
     "options": [
       "smashed",
       "smash",
@@ -1621,7 +1621,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-135-1557",
-    "questionText": "High mortality rate is becoming increasingly <i>predominant</i>. (JAMB 2018)",
+    "questionText": "High mortality rate is becoming increasingly <i>predominant</i>.",
     "options": [
       "Controlled",
       "Rampant",
@@ -1633,7 +1633,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-136-94",
-    "questionText": "The police claim that a number of stolen cars…………. recovered. (JAMB 2004)",
+    "questionText": "The police claim that a number of stolen cars…………. recovered.",
     "options": [
       "has being",
       "is being",
@@ -1645,7 +1645,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-137-775",
-    "questionText": "My father was at the <u>apogee</u> of his career when he was retired?  (JAMB 2000)",
+    "questionText": "My father was at the <u>apogee</u> of his career when he was retired?",
     "options": [
       "terminal point",
       "highest point",
@@ -1657,7 +1657,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-138-1399",
-    "questionText": "Aliya although is born with a silver spoon, but she has no freedom to move around meet new people unlike other persons. This signals to the… (JAMB 2019)",
+    "questionText": "Aliya although is born with a silver spoon, but she has no freedom to move around meet new people unlike other persons. This signals to the…",
     "options": [
       "criticism of strict parenting",
       "irony of life",
@@ -1669,7 +1669,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-139-162",
-    "questionText": "The Principal was filled with <i>scorn</i>  when we gave  our reason for coming late (JAMB 2005)",
+    "questionText": "The Principal was filled with <i>scorn</i>  when we gave  our reason for coming late",
     "options": [
       "contempt",
       "sympathy ",
@@ -1681,7 +1681,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-140-330",
-    "questionText": "The study he carried out of the problem was quite <i>comprehensive</i> (JAMB 2007)",
+    "questionText": "The study he carried out of the problem was quite <i>comprehensive</i>",
     "options": [
       "detailed ",
       " sketch  ",
@@ -1693,7 +1693,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-141-8",
-    "questionText": "Three quarters of the people in the village  killed but only half of then \n          huts……. affected  \n (JAMB 2003)",
+    "questionText": "Three quarters of the people in the village  killed but only half of then \n          huts……. affected  \n",
     "options": [
       "were/ were ",
       "was/was",
@@ -1705,7 +1705,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-142-1146",
-    "questionText": "The man's <u>mordant</u> wit is apparent to the entire village (JAMB 2013)",
+    "questionText": "The man's <u>mordant</u> wit is apparent to the entire village",
     "options": [
       "scathing",
       "caustic",
@@ -1717,7 +1717,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-143-1480",
-    "questionText": "Neighb[our] (JAMB 2019)",
+    "questionText": "Neighb[our]",
     "options": [
       "blood",
       "standard",
@@ -1729,7 +1729,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-144-1074",
-    "questionText": "Her mother brought her some....... (JAMB 2012)",
+    "questionText": "Her mother brought her some.......",
     "options": [
       "clothes",
       "yards",
@@ -1741,7 +1741,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-145-1508",
-    "questionText": "Nwankwo was on the <u>verge</u> of signing a two-year contract with the club (JAMB 2018)",
+    "questionText": "Nwankwo was on the <u>verge</u> of signing a two-year contract with the club",
     "options": [
       "brink",
       "summit",
@@ -1753,7 +1753,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-146-1295",
-    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\n<u>F</u>oot (JAMB 2022)",
+    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\n<u>F</u>oot",
     "options": [
       "live",
       "vegetable",
@@ -1765,7 +1765,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-147-1461",
-    "questionText": "It is high time we ........ seeing her (JAMB 2019)",
+    "questionText": "It is high time we ........ seeing her",
     "options": [
       "stop",
       "will stop",
@@ -1777,7 +1777,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-148-85",
-    "questionText": "You may not have heard the last word on the matter…….. (JAMB 2004)",
+    "questionText": "You may not have heard the last word on the matter……..",
     "options": [
       "may you have",
       "haven’t you",
@@ -1789,7 +1789,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-149-183",
-    "questionText": "The boxer <i>fizzled</i> out just in the sixth round (JAMB 2005)",
+    "questionText": "The boxer <i>fizzled</i> out just in the sixth round",
     "options": [
       "knocked out his opponent",
       "showed off his talents",
@@ -1801,7 +1801,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-150-880",
-    "questionText": "The university has been TEMPORARILY closed. (JAMB 2002)",
+    "questionText": "The university has been TEMPORARILY closed.",
     "options": [
       "Has the campus been permanantly closed?",
       "Has the university been permanantly open?",
@@ -1813,7 +1813,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-151-1601",
-    "questionText": "The first time Paul met Ngozi, her beauty caught his eye. This means that _________ (JAMB 2017)",
+    "questionText": "The first time Paul met Ngozi, her beauty caught his eye. This means that _________",
     "options": [
       " Ngozi admired Paul",
       "Paul recognized Ngozi.",
@@ -1825,7 +1825,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-152-974",
-    "questionText": "I want to .......this chance to acquaint you the latest development? (JAMB 2011)",
+    "questionText": "I want to .......this chance to acquaint you the latest development?",
     "options": [
       "size",
       "seize",
@@ -1837,7 +1837,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-153-1449",
-    "questionText": "The stereotypical act in the book centres (JAMB 2019)",
+    "questionText": "The stereotypical act in the book centres",
     "options": [
       "terrorism",
       "religious intolerance",
@@ -1849,7 +1849,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-154-31",
-    "questionText": "If he went to London, he would see the Queen (JAMB 2003)",
+    "questionText": "If he went to London, he would see the Queen",
     "options": [
       "He did not go to London and did not see the Queen",
       " He would like to see the Queen when he goes to London",
@@ -1861,7 +1861,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-155-737",
-    "questionText": "Without our relentless campaigns we might ....... sure of victory in the race for the National Assembly? (JAMB 2000)",
+    "questionText": "Without our relentless campaigns we might ....... sure of victory in the race for the National Assembly?",
     "options": [
       "never have been",
       "have never be",
@@ -1873,7 +1873,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-156-1432",
-    "questionText": "The ACCOUNTANT paid the workers july salary in september (JAMB 2019)",
+    "questionText": "The ACCOUNTANT paid the workers july salary in september",
     "options": [
       "when were the workers paid",
       "did the cashier pay the workers salary in september",
@@ -1885,7 +1885,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-157-192",
-    "questionText": "Tsadu always cautions that difficult jobs should be done (JAMB 2005)",
+    "questionText": "Tsadu always cautions that difficult jobs should be done",
     "options": [
       "step from step ",
       "step by step",
@@ -1897,7 +1897,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-158-1474",
-    "questionText": "The student's union leader delivered his speech [extempore] (JAMB 2019)",
+    "questionText": "The student's union leader delivered his speech [extempore]",
     "options": [
       "out-of-hand",
       "accurately",
@@ -1909,7 +1909,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-159-1559",
-    "questionText": "Select the option that best explains the information conveyed in the sentence.\n\n  Grandma told the boys a story that cheered them up. (JAMB 2018)",
+    "questionText": "Select the option that best explains the information conveyed in the sentence.\n\n  Grandma told the boys a story that cheered them up.",
     "options": [
       "The story made them cry.",
       " The story made them scared.",
@@ -1921,7 +1921,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-160-1027",
-    "questionText": "He could not speak out because he had a feet of clay. (JAMB 2012)",
+    "questionText": "He could not speak out because he had a feet of clay.",
     "options": [
       "His feet was muddy",
       "He was weak and cowardly",
@@ -1933,7 +1933,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-161-1705",
-    "questionText": "Who was Efua related to? (JAMB 2015)",
+    "questionText": "Who was Efua related to?",
     "options": [
       "Arisa",
       "Jimi",
@@ -1945,7 +1945,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-162-684",
-    "questionText": "The <u>coalescence</u> of the groups created additional problems? (JAMB 2001)",
+    "questionText": "The <u>coalescence</u> of the groups created additional problems?",
     "options": [
       " proscription",
       "fighting",
@@ -1957,7 +1957,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-163-105",
-    "questionText": "Adamu’s father is a key figure in that ministry (JAMB 2004)",
+    "questionText": "Adamu’s father is a key figure in that ministry",
     "options": [
       "The ministry trusts Adamu’s father as a central figure",
       "Adamu’s father is a figurehead in the ministry",
@@ -1969,7 +1969,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-164-1280",
-    "questionText": "Prison (JAMB 2022)",
+    "questionText": "Prison",
     "options": [
       "rising",
       "risen",
@@ -1981,7 +1981,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-165-493",
-    "questionText": " The….. part of a new book is often written by a more experienced writer than the author.  (JAMB 2009)",
+    "questionText": " The….. part of a new book is often written by a more experienced writer than the author.",
     "options": [
       "foreward",
       "foreword",
@@ -1993,7 +1993,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-166-329",
-    "questionText": "For anything to do with academic work, he has a great  a <i>version</i> (JAMB 2007)",
+    "questionText": "For anything to do with academic work, he has a great  a <i>version</i>",
     "options": [
       "conversion ",
       "attention",
@@ -2005,7 +2005,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-167-549",
-    "questionText": "The uniform makes the guards look  <i>absurd</i>   (JAMB 2010)",
+    "questionText": "The uniform makes the guards look  <i>absurd</i>",
     "options": [
       "dirty",
       "smart ",
@@ -2017,7 +2017,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-168-1503",
-    "questionText": "<u>For all he cared: the game was as good as lost</u> (JAMB 2018)",
+    "questionText": "<u>For all he cared: the game was as good as lost</u>",
     "options": [
       "He did not care if the game as lost",
       "He could not care less if the game was lost",
@@ -2029,7 +2029,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-169-1571",
-    "questionText": "Choose the interpretation that you consider most appropriate for each sentence. \n\nDespite their newness on the job, the workers were remunerated rather handsomely. This means that _________? (JAMB 2017)",
+    "questionText": "Choose the interpretation that you consider most appropriate for each sentence. \n\nDespite their newness on the job, the workers were remunerated rather handsomely. This means that _________?",
     "options": [
       "the salaries were poor",
       "those paid were handsome in appearance",
@@ -2041,7 +2041,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-170-1731",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nForcado is a nice school. They always have excellent results. I told a few people you were coming (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nForcado is a nice school. They always have excellent results. I told a few people you were coming",
     "options": [
       "Aunty moni said this to Efua",
       " Efua said this to aunty Moni",
@@ -2053,7 +2053,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-171-961",
-    "questionText": "........ he switches on the light, the shadow disappears? (JAMB 2011)",
+    "questionText": "........ he switches on the light, the shadow disappears?",
     "options": [
       "Whenever",
       "Expect",
@@ -2065,7 +2065,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-172-565",
-    "questionText": "Last Monday his father asked me, ....... (JAMB 2010)",
+    "questionText": "Last Monday his father asked me, .......",
     "options": [
       "if' had come some days before ",
       "if I had come the day before",
@@ -2077,7 +2077,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-173-1792",
-    "questionText": "You may have the pencil, but you can't have the ballpoint ________. (JAMB 2014)",
+    "questionText": "You may have the pencil, but you can't have the ballpoint ________.",
     "options": [
       "As well.",
       "Either.",
@@ -2089,7 +2089,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-174-951",
-    "questionText": "Nkechi was a <u>novice</u> when she was first employed? (JAMB 2011)",
+    "questionText": "Nkechi was a <u>novice</u> when she was first employed?",
     "options": [
       "manager",
       "clerk",
@@ -2101,7 +2101,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-175-160",
-    "questionText": "The man puts his foot down whenever he is convince of his action (JAMB 2005)",
+    "questionText": "The man puts his foot down whenever he is convince of his action",
     "options": [
       "He desires to assert his will in the situation",
       "He makes his mark wherever he goes",
@@ -2113,7 +2113,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-176-1823",
-    "questionText": "AMINA went to Abuja by air. (JAMB 2014)",
+    "questionText": "AMINA went to Abuja by air.",
     "options": [
       "Did Amina go to Jos by air?",
       "Is Amina going to Abuja by air?",
@@ -2125,7 +2125,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-177-274",
-    "questionText": "77. The recommended novel has a <i>convoluted</i> theme (JAMB 2006)",
+    "questionText": "77. The recommended novel has a <i>convoluted</i> theme",
     "options": [
       " a simple ",
       "an attractive ",
@@ -2137,7 +2137,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-178-314",
-    "questionText": "E<u>ngs</u>lish (JAMB 2007)",
+    "questionText": "E<u>ngs</u>lish",
     "options": [
       "end",
       "thin",
@@ -2149,7 +2149,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-179-235",
-    "questionText": "His father hardly misses the news because he goes about with his………..  Radio (JAMB 2006)",
+    "questionText": "His father hardly misses the news because he goes about with his………..  Radio",
     "options": [
       "pointable ",
       "potable ",
@@ -2161,7 +2161,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-180-1381",
-    "questionText": "Orthop[ae]dic (JAMB 2019)",
+    "questionText": "Orthop[ae]dic",
     "options": [
       "elite",
       "impasse",
@@ -2173,7 +2173,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-181-516",
-    "questionText": "ceremoniously  (JAMB 2009)",
+    "questionText": "ceremoniously",
     "options": [
       "CEremoniously   ",
       "ceREmoniously",
@@ -2185,7 +2185,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-182-1727",
-    "questionText": "Each of the contestants --------------- a chance now (JAMB 2015)",
+    "questionText": "Each of the contestants --------------- a chance now",
     "options": [
       "has",
       "have",
@@ -2197,7 +2197,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-183-468",
-    "questionText": "A novel is an <i>embellished</i> ' falsehood', said the teacher (JAMB 2009)",
+    "questionText": "A novel is an <i>embellished</i> ' falsehood', said the teacher",
     "options": [
       "enriched ",
       " exaggerated ",
@@ -2209,7 +2209,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-184-256",
-    "questionText": "The prefect reeled off the names of all the students who Drake the library law. (JAMB 2006)",
+    "questionText": "The prefect reeled off the names of all the students who Drake the library law.",
     "options": [
       "The prefect gave a disjointed list of the students in the law library.",
       "  The prefect omitted the names of the students who broke into the law library ",
@@ -2221,7 +2221,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-185-1184",
-    "questionText": "Loo<u>s</u>e (JAMB 2013)",
+    "questionText": "Loo<u>s</u>e",
     "options": [
       "close",
       "rouse",
@@ -2233,7 +2233,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-186-994",
-    "questionText": "My eldest son, who is in Lagos, studying English. (JAMB 2011)",
+    "questionText": "My eldest son, who is in Lagos, studying English.",
     "options": [
       "only my son is in lagos studying english",
       "my only son is in lagos studying english",
@@ -2245,7 +2245,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-187-405",
-    "questionText": "The attempt to count the population was <i>largely</i> successful.   (JAMB 2008)",
+    "questionText": "The attempt to count the population was <i>largely</i> successful.",
     "options": [
       " mostly ",
       "completely   ",
@@ -2257,7 +2257,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-188-1140",
-    "questionText": "The relationship between the couple has been <u>frosty</u> (JAMB 2013)",
+    "questionText": "The relationship between the couple has been <u>frosty</u>",
     "options": [
       "Cordial",
       "Amenable",
@@ -2269,7 +2269,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-189-692",
-    "questionText": "Bose was angry because her friend called her <u>pilferer</u>? (JAMB 2001)",
+    "questionText": "Bose was angry because her friend called her <u>pilferer</u>?",
     "options": [
       "hypocrite",
       "thief",
@@ -2281,7 +2281,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-190-1243",
-    "questionText": "Mr. Jude made the meeting _____his poor health (JAMB 2021)",
+    "questionText": "Mr. Jude made the meeting _____his poor health",
     "options": [
       "even though",
       " inspite of",
@@ -2293,7 +2293,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-191-979",
-    "questionText": "B<u>u</u>bble? (JAMB 2011)",
+    "questionText": "B<u>u</u>bble?",
     "options": [
       "guy",
       "bull",
@@ -2305,7 +2305,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-192-427",
-    "questionText": "The condition of the room was so………... so I went outside  (JAMB 2008)",
+    "questionText": "The condition of the room was so………... so I went outside",
     "options": [
       "intolerant",
       "intolerable ",
@@ -2317,7 +2317,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-193-413",
-    "questionText": "The chairman addressed the…………  (JAMB 2008)",
+    "questionText": "The chairman addressed the…………",
     "options": [
       "university French teacher",
       "university of French teachers ",
@@ -2329,7 +2329,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-194-112",
-    "questionText": "The <i>potency</i> of the drug has been acknowledged. (JAMB 2004)",
+    "questionText": "The <i>potency</i> of the drug has been acknowledged.",
     "options": [
       "action",
       "loss",
@@ -2341,7 +2341,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-195-1407",
-    "questionText": "Mr Bello's best advice to Aliya on dating is that (JAMB 2019)",
+    "questionText": "Mr Bello's best advice to Aliya on dating is that",
     "options": [
       "gifting doesn't mean true affection",
       " dating can be so distracting",
@@ -2353,7 +2353,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-196-6",
-    "questionText": " The doctor asked the patient what…………. (JAMB 2003)",
+    "questionText": " The doctor asked the patient what………….",
     "options": [
       "The problem is   ",
       " Is your problem ",
@@ -2365,7 +2365,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-197-878",
-    "questionText": "The king RAN to the palace? (JAMB 2002)",
+    "questionText": "The king RAN to the palace?",
     "options": [
       "Where did the king run to?",
       " Did the king walk to the palace?",
@@ -2377,7 +2377,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-198-191",
-    "questionText": "The first prize was (JAMB 2005)",
+    "questionText": "The first prize was",
     "options": [
       "a carved wooden, attractive ",
       "a wooden attractive carved   ",
@@ -2389,7 +2389,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-199-1334",
-    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n\n \n\nExpenditure (JAMB 2020)",
+    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n\n \n\nExpenditure",
     "options": [
       "EX-pen-di-ture",
       "ex-PEN-di-ture",
@@ -2401,7 +2401,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-200-1312",
-    "questionText": "Choose the word that has the same rhyme\n\nWatch (JAMB 2022)",
+    "questionText": "Choose the word that has the same rhyme\n\nWatch",
     "options": [
       "none of the above",
       "botch",
@@ -2413,7 +2413,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-201-686",
-    "questionText": "The village girl wore <u>sumptuous</u> clothes? (JAMB 2001)",
+    "questionText": "The village girl wore <u>sumptuous</u> clothes?",
     "options": [
       " faded looking",
       "cheap",
@@ -2425,7 +2425,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-202-551",
-    "questionText": "Isa and llu  <i>ate sumptuous</i>  meals on their brother's wedding day (JAMB 2010)",
+    "questionText": "Isa and llu  <i>ate sumptuous</i>  meals on their brother's wedding day",
     "options": [
       "expensive ",
       "foreign ",
@@ -2437,7 +2437,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-203-1469",
-    "questionText": "The jollof rice served at the wedding reception was [malodorous] (JAMB 2019)",
+    "questionText": "The jollof rice served at the wedding reception was [malodorous]",
     "options": [
       " small but palatable",
       " unpalatably big",
@@ -2449,7 +2449,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-204-1511",
-    "questionText": "The essay topic is <u>nebulous</u> (JAMB 2018)",
+    "questionText": "The essay topic is <u>nebulous</u>",
     "options": [
       "distinct",
       "incorrect",
@@ -2461,7 +2461,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-205-357",
-    "questionText": "Making a phone call instead of paying a visit represents a …….  trend  (JAMB 2007)",
+    "questionText": "Making a phone call instead of paying a visit represents a …….  trend",
     "options": [
       " sudden new major social  ",
       " new social sudden major",
@@ -2473,7 +2473,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-206-293",
-    "questionText": "In our last play, Segun acted the <i>hero</i> (JAMB 2006)",
+    "questionText": "In our last play, Segun acted the <i>hero</i>",
     "options": [
       "villain  ",
       " devil ",
@@ -2485,7 +2485,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-207-222",
-    "questionText": "The EAGLES won the match (JAMB 2005)",
+    "questionText": "The EAGLES won the match",
     "options": [
       "Did the Eagles lose the match?",
       "Who won the match?",
@@ -2497,7 +2497,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-208-939",
-    "questionText": "Some drugs have a <u>deleterious</u> effect on a child's development? (JAMB 2011)",
+    "questionText": "Some drugs have a <u>deleterious</u> effect on a child's development?",
     "options": [
       "debilitating",
       "helpful",
@@ -2509,7 +2509,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-209-449",
-    "questionText": "As we watched, he just popped along to the shop for some bread   (JAMB 2009)",
+    "questionText": "As we watched, he just popped along to the shop for some bread",
     "options": [
       " He has walked slowly to the shop.",
       " He stole some bread from the shop but we could not stop him",
@@ -2521,7 +2521,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-210-526",
-    "questionText": "The footballers moved with their tails between their legs. (JAMB 2010)",
+    "questionText": "The footballers moved with their tails between their legs.",
     "options": [
       "They moved happily because they won the match",
       "They were unhappy because they had been despised  by their opponents. ",
@@ -2533,7 +2533,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-211-1558",
-    "questionText": " The rapist claimed that the woman’s <i>voluptuous</i> hips attracted him (JAMB 2018)",
+    "questionText": " The rapist claimed that the woman’s <i>voluptuous</i> hips attracted him",
     "options": [
       "Strong",
       "Generous",
@@ -2545,7 +2545,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-212-735",
-    "questionText": " (JAMB 2000)",
+    "questionText": "",
     "options": [
       "integral",
       "intimate",
@@ -2557,7 +2557,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-213-510",
-    "questionText": " tr<u>a</u>p (JAMB 2009)",
+    "questionText": " tr<u>a</u>p",
     "options": [
       "wonder",
       "because",
@@ -2569,7 +2569,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-214-1523",
-    "questionText": "He is loved for his <i>altruism</i> (JAMB 2018)",
+    "questionText": "He is loved for his <i>altruism</i>",
     "options": [
       "benevolence",
       "sincerity",
@@ -2581,7 +2581,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-215-1178",
-    "questionText": "Gl<u>ac</u>ier (JAMB 2013)",
+    "questionText": "Gl<u>ac</u>ier",
     "options": [
       "feign",
       "glass",
@@ -2593,7 +2593,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-216-43",
-    "questionText": "The labour leader’s <i>recalcitrant</i> stance was applauded  (JAMB 2003)",
+    "questionText": "The labour leader’s <i>recalcitrant</i> stance was applauded",
     "options": [
       "flexible ",
       "uncompromising ",
@@ -2605,7 +2605,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-217-856",
-    "questionText": "He is a <u>stringer</u> for a newspaper? (JAMB 2002)",
+    "questionText": "He is a <u>stringer</u> for a newspaper?",
     "options": [
       "a financier of",
       "an editor of",
@@ -2617,7 +2617,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-218-202",
-    "questionText": "The man is refurbishing the flat with a view to ……. it. (JAMB 2005)",
+    "questionText": "The man is refurbishing the flat with a view to ……. it.",
     "options": [
       "sell   ",
       "selling ",
@@ -2629,7 +2629,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-219-480",
-    "questionText": "Hers was a <i>specious</i> argument about the government of the day  (JAMB 2009)",
+    "questionText": "Hers was a <i>specious</i> argument about the government of the day",
     "options": [
       "misleading ",
       "precious ",
@@ -2641,7 +2641,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-220-793",
-    "questionText": "Hypertension is a <u>debilitating</u> disease that everyone should prevent? (JAMB 2000)",
+    "questionText": "Hypertension is a <u>debilitating</u> disease that everyone should prevent?",
     "options": [
       "a mortal",
       "an enervating",
@@ -2653,7 +2653,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-221-664",
-    "questionText": "In his <u>naivety</u> he believed all the stories his friend told him? (JAMB 2001)",
+    "questionText": "In his <u>naivety</u> he believed all the stories his friend told him?",
     "options": [
       "artlessness",
       "stupidity",
@@ -2665,7 +2665,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-222-525",
-    "questionText": "The witness said he had no axe to grind with his brothers. (JAMB 2010)",
+    "questionText": "The witness said he had no axe to grind with his brothers.",
     "options": [
       " He had no hatred for the brothers ",
       "He had no axe and therefore stole the matchet ",
@@ -2677,7 +2677,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-223-1820",
-    "questionText": "Congratulation. (JAMB 2014)",
+    "questionText": "Congratulation.",
     "options": [
       "conGRAtulation.",
       "congraTUlation.",
@@ -2689,7 +2689,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-224-884",
-    "questionText": "Tunde's reaction <u>underscores</u> the point I was making? (JAMB 2002)",
+    "questionText": "Tunde's reaction <u>underscores</u> the point I was making?",
     "options": [
       "justifies",
       "emphasizes",
@@ -2701,7 +2701,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-225-1235",
-    "questionText": "choose the option with the correct spelling from the options lettered A-E (JAMB 2021)",
+    "questionText": "choose the option with the correct spelling from the options lettered A-E",
     "options": [
       "Sucesful",
       "Succeful",
@@ -2713,7 +2713,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-226-1039",
-    "questionText": "His gift to the poor was always <u>infinitesimal</u> (JAMB 2012)",
+    "questionText": "His gift to the poor was always <u>infinitesimal</u>",
     "options": [
       "large",
       "small",
@@ -2725,7 +2725,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-227-1293",
-    "questionText": "Last Easter was an <u>austere</u> period. (JAMB 2022)",
+    "questionText": "Last Easter was an <u>austere</u> period.",
     "options": [
       "harsh",
       "severe",
@@ -2737,7 +2737,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-228-1227",
-    "questionText": "The soldiers were <u>remorseful</u> for their inhuman treatment of the civilians. (JAMB 2021)",
+    "questionText": "The soldiers were <u>remorseful</u> for their inhuman treatment of the civilians.",
     "options": [
       "boastful",
       "sad",
@@ -2749,7 +2749,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-229-360",
-    "questionText": "Kola was fined; ……….. thieves were given a jail sentence. (JAMB 2007)",
+    "questionText": "Kola was fined; ……….. thieves were given a jail sentence.",
     "options": [
       "the rest of the",
       "rest ",
@@ -2761,7 +2761,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-230-1516",
-    "questionText": "The organization is constantly in a state of flux (JAMB 2018)",
+    "questionText": "The organization is constantly in a state of flux",
     "options": [
       "There are periodic changes in the organization",
       "The organization is facing a difficult period",
@@ -2773,7 +2773,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-231-1340",
-    "questionText": "Before I arrived, the choir _______ the hymn (JAMB 2020)",
+    "questionText": "Before I arrived, the choir _______ the hymn",
     "options": [
       "have sing",
       "has sing",
@@ -2785,7 +2785,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-232-1581",
-    "questionText": "Choose the most appropriate stress pattern from the options. The stressed are written in capital letters\n\nJudiciary (JAMB 2017)",
+    "questionText": "Choose the most appropriate stress pattern from the options. The stressed are written in capital letters\n\nJudiciary",
     "options": [
       "judiCIAry",
       "judiciaRY",
@@ -2797,7 +2797,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-233-667",
-    "questionText": "The teacher taught the  <u>rudiments</u> of Chemistry to the \nfirst grade. (JAMB 2001)",
+    "questionText": "The teacher taught the  <u>rudiments</u> of Chemistry to the \nfirst grade.",
     "options": [
       "elements",
       "fundamentals",
@@ -2809,7 +2809,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-234-760",
-    "questionText": "Though he is our elected representative he often takes a rather jaundiced view of our problems? (JAMB 2000)",
+    "questionText": "Though he is our elected representative he often takes a rather jaundiced view of our problems?",
     "options": [
       " He takes a rather hazy view of our problems",
       "He takes an unfavourable position concerning our problems",
@@ -2821,7 +2821,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-235-339",
-    "questionText": " (JAMB 2007)",
+    "questionText": "",
     "options": [
       "understand   ",
       "address ",
@@ -2833,7 +2833,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-236-571",
-    "questionText": "Paper is made…….. wood pulp  (JAMB 2010)",
+    "questionText": "Paper is made…….. wood pulp",
     "options": [
       "on ",
       "of ",
@@ -2845,7 +2845,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-237-1049",
-    "questionText": "That type of response is <u>typical</u> of a lazy teacher (JAMB 2012)",
+    "questionText": "That type of response is <u>typical</u> of a lazy teacher",
     "options": [
       "symptomatic",
       "characteristic",
@@ -2857,7 +2857,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-238-544",
-    "questionText": "The report of the committee contained a  <i>plethora</i>  of details (JAMB 2010)",
+    "questionText": "The report of the committee contained a  <i>plethora</i>  of details",
     "options": [
       " shortage ",
       "simplicity ",
@@ -2869,7 +2869,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-239-16",
-    "questionText": "If you would do me this favour,  I …………..  be very grateful (JAMB 2003)",
+    "questionText": "If you would do me this favour,  I …………..  be very grateful",
     "options": [
       "should",
       " would ",
@@ -2881,7 +2881,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-240-494",
-    "questionText": "The officer acted in….. the instructions.  (JAMB 2009)",
+    "questionText": "The officer acted in….. the instructions.",
     "options": [
       "accordance ",
       "accordance to",
@@ -2893,7 +2893,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-241-748",
-    "questionText": "llesa witness the largest ..... of writers at any convention in recent times? (JAMB 2000)",
+    "questionText": "llesa witness the largest ..... of writers at any convention in recent times?",
     "options": [
       " turnaround",
       "turnover",
@@ -2905,7 +2905,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-242-1258",
-    "questionText": "The full meaning of IPO is ______ (JAMB 2022)",
+    "questionText": "The full meaning of IPO is ______",
     "options": [
       " Independent Police Officer",
       " International Police Officer",
@@ -2917,7 +2917,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-243-1540",
-    "questionText": "<u>ch</u>ateau (JAMB 2018)",
+    "questionText": "<u>ch</u>ateau",
     "options": [
       "chart",
       "church",
@@ -2929,7 +2929,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-244-1815",
-    "questionText": "Epita<u>ph</u>. (JAMB 2014)",
+    "questionText": "Epita<u>ph</u>.",
     "options": [
       "Pneumonia.",
       "Pseudo.",
@@ -2941,7 +2941,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-245-1603",
-    "questionText": "The government has decided to freeze student's grants. This means that government intends to (JAMB 2017)",
+    "questionText": "The government has decided to freeze student's grants. This means that government intends to",
     "options": [
       "reduce grants meant for students",
       "resume paying grants to students",
@@ -2953,7 +2953,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-246-1060",
-    "questionText": "He was both a writer and a politician, but he was better...... a singer (JAMB 2012)",
+    "questionText": "He was both a writer and a politician, but he was better...... a singer",
     "options": [
       "as if",
       "like",
@@ -2965,7 +2965,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-247-925",
-    "questionText": "Mrs. Adamu does all her work with more haste, less speed. (JAMB 2011)",
+    "questionText": "Mrs. Adamu does all her work with more haste, less speed.",
     "options": [
       "She accept whatever she does with more haste and speed",
       "She approaches whatever she does hurriedly",
@@ -2977,7 +2977,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-248-333",
-    "questionText": "Otokpa took after his late father who was a <i>tee totaller.</i> (JAMB 2007)",
+    "questionText": "Otokpa took after his late father who was a <i>tee totaller.</i>",
     "options": [
       "a drunk ",
       " careless ",
@@ -2989,7 +2989,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-249-769",
-    "questionText": "The man was able to persuade his <u>willful and obstinate</u> daughter to follow the career he chose for her? (JAMB 2000)",
+    "questionText": "The man was able to persuade his <u>willful and obstinate</u> daughter to follow the career he chose for her?",
     "options": [
       "intelligent but arrogant",
       "unyielding and obdurate",
@@ -3001,7 +3001,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-250-1551",
-    "questionText": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The coach invited me to his office having found me <i>mettlesome</i> (JAMB 2018)",
+    "questionText": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The coach invited me to his office having found me <i>mettlesome</i>",
     "options": [
       "Courageous",
       "Hardworking",
@@ -3013,7 +3013,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-251-56",
-    "questionText": "Mark<u>e</u>t   (JAMB 2003)",
+    "questionText": "Mark<u>e</u>t",
     "options": [
       "mortgage ",
       " bachelor ",
@@ -3025,7 +3025,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-252-1609",
-    "questionText": "In the book \"Independence\" Tayo's uncle, Kayode, wanted to study Engineering in _______? (JAMB 2017)",
+    "questionText": "In the book \"Independence\" Tayo's uncle, Kayode, wanted to study Engineering in _______?",
     "options": [
       "Britain",
       "U.S.A",
@@ -3037,7 +3037,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-253-1081",
-    "questionText": "Vill<u>a</a>ge (JAMB 2012)",
+    "questionText": "Vill<u>a</a>ge",
     "options": [
       "page",
       "pig",
@@ -3049,7 +3049,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-254-834",
-    "questionText": "The match gave the team a chance to show their ........? (JAMB 2002)",
+    "questionText": "The match gave the team a chance to show their ........?",
     "options": [
       "worth",
       "position",
@@ -3061,7 +3061,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-255-83",
-    "questionText": "The reporter said that the Honourable speaker………….. impeached  (JAMB 2004)",
+    "questionText": "The reporter said that the Honourable speaker………….. impeached",
     "options": [
       "is to be",
       "might have been",
@@ -3073,7 +3073,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-256-1649",
-    "questionText": "Bola takes......his father both in appearance and his manner (JAMB 2016)",
+    "questionText": "Bola takes......his father both in appearance and his manner",
     "options": [
       "On",
       "from",
@@ -3085,7 +3085,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-257-1477",
-    "questionText": "We must not [foreclose] reconciliation as the purpose of his trip\n (JAMB 2019)",
+    "questionText": "We must not [foreclose] reconciliation as the purpose of his trip\n",
     "options": [
       "exclude",
       "consider",
@@ -3097,7 +3097,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341947-258-84",
-    "questionText": "Actually, he forgot the one to …………… the job was given. (JAMB 2004)",
+    "questionText": "Actually, he forgot the one to …………… the job was given.",
     "options": [
       "whom",
       "who",
@@ -3109,7 +3109,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-259-417",
-    "questionText": "My mother had........  the fire wood before it began to rain.  (JAMB 2008)",
+    "questionText": "My mother had........  the fire wood before it began to rain.",
     "options": [
       "splitting ",
       "splited  ",
@@ -3121,7 +3121,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-260-44",
-    "questionText": "The company has continued to <i>monopolize</i> the distribution of the products. (JAMB 2003)",
+    "questionText": "The company has continued to <i>monopolize</i> the distribution of the products.",
     "options": [
       "regularize ",
       "liberalize ",
@@ -3133,7 +3133,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-261-1378",
-    "questionText": "Choose the word that has the same rhyme \n\nThyme (JAMB 2019)",
+    "questionText": "Choose the word that has the same rhyme \n\nThyme",
     "options": [
       "climb",
       "bind",
@@ -3145,7 +3145,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-262-97",
-    "questionText": "The poor widow who could not buy the clothes was seen…….her wool into……….yesterday (JAMB 2004)",
+    "questionText": "The poor widow who could not buy the clothes was seen…….her wool into……….yesterday",
     "options": [
       "to spin/yards",
       "spinning/yarn",
@@ -3157,7 +3157,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-263-352",
-    "questionText": "The team has benefitted from the coach's ………. of experience.  (JAMB 2007)",
+    "questionText": "The team has benefitted from the coach's ………. of experience.",
     "options": [
       "minefield ",
       "reservoir ",
@@ -3169,7 +3169,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-264-123",
-    "questionText": "The noise of the fan <i>unnerved</i>  the star player. (JAMB 2004)",
+    "questionText": "The noise of the fan <i>unnerved</i>  the star player.",
     "options": [
       "refreshed",
       "confused",
@@ -3181,7 +3181,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-265-412",
-    "questionText": "The popularity of the military dictator <i>waned</i>  after war  (JAMB 2008)",
+    "questionText": "The popularity of the military dictator <i>waned</i>  after war",
     "options": [
       "increased ",
       "changed ",
@@ -3193,7 +3193,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-266-1698",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nP<u>a</u>ss (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nP<u>a</u>ss",
     "options": [
       "earth",
       "clerk",
@@ -3205,7 +3205,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-267-1803",
-    "questionText": "My mother was _____ annoyed with me for coming late. (JAMB 2014)",
+    "questionText": "My mother was _____ annoyed with me for coming late.",
     "options": [
       "Just.",
       "Very.",
@@ -3217,7 +3217,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-268-1707",
-    "questionText": "Choose the option that best fills the gap.\n\nIt has been confirmed that the election ------------- held in July next year (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nIt has been confirmed that the election ------------- held in July next year",
     "options": [
       " will be",
       " is being",
@@ -3229,7 +3229,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-269-509",
-    "questionText": " c<u>ou</u>ntry (JAMB 2009)",
+    "questionText": " c<u>ou</u>ntry",
     "options": [
       "worry",
       "courteous",
@@ -3241,7 +3241,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-270-1088",
-    "questionText": "Imperialism\n (JAMB 2012)",
+    "questionText": "Imperialism\n",
     "options": [
       "<u>IM</u>perialism",
       "im<u>PE</u>rialism",
@@ -3253,7 +3253,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-271-971",
-    "questionText": "Of the three girls, Uka is the ........? (JAMB 2011)",
+    "questionText": "Of the three girls, Uka is the ........?",
     "options": [
       "so much notorious",
       " notorious",
@@ -3265,7 +3265,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-272-131",
-    "questionText": "The presence of the captain makes the sailors <i>ill at ease</i>. (JAMB 2004)",
+    "questionText": "The presence of the captain makes the sailors <i>ill at ease</i>.",
     "options": [
       "uncomfortable ",
       "sickly ",
@@ -3277,7 +3277,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-273-1418",
-    "questionText": "After the wedding, the wife became <u>anorexic</u> (JAMB 2019)",
+    "questionText": "After the wedding, the wife became <u>anorexic</u>",
     "options": [
       "obese",
       "melancholic",
@@ -3289,7 +3289,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-274-981",
-    "questionText": "L<u>ea</u>ch? (JAMB 2011)",
+    "questionText": "L<u>ea</u>ch?",
     "options": [
       "gear",
       "cedar",
@@ -3301,7 +3301,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-275-937",
-    "questionText": "The principal described Oche as the most <u>tactful</u> person he had ever worked with? (JAMB 2011)",
+    "questionText": "The principal described Oche as the most <u>tactful</u> person he had ever worked with?",
     "options": [
       "passionate",
       "discreet",
@@ -3313,7 +3313,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-276-1775",
-    "questionText": "My niece has an <u>unquenchable</u> thirst for adventure stories. (JAMB 2014)",
+    "questionText": "My niece has an <u>unquenchable</u> thirst for adventure stories.",
     "options": [
       "An inextinguishable.",
       "A spurious.",
@@ -3325,7 +3325,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-277-1578",
-    "questionText": "Choose the best option that best completes the gap(s)\n\nThe delegates were given_____ (JAMB 2017)",
+    "questionText": "Choose the best option that best completes the gap(s)\n\nThe delegates were given_____",
     "options": [
       " a two hour break",
       "a two-hour break",
@@ -3337,7 +3337,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-278-1613",
-    "questionText": "At the end of term in Forcados High School. Nene was saddled with the responsibility of (JAMB 2016)",
+    "questionText": "At the end of term in Forcados High School. Nene was saddled with the responsibility of",
     "options": [
       "leading her house in the race",
       " packaging the gifts for presentation",
@@ -3349,7 +3349,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-279-1543",
-    "questionText": "choose the option that best completes the gap(s).\n\nI am not sure that all _____ well with John. (JAMB 2018)",
+    "questionText": "choose the option that best completes the gap(s).\n\nI am not sure that all _____ well with John.",
     "options": [
       "Were",
       "Is",
@@ -3361,7 +3361,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-280-1641",
-    "questionText": "A cup of coffee <i>invigorated</i> him (JAMB 2016)",
+    "questionText": "A cup of coffee <i>invigorated</i> him",
     "options": [
       "destroyed",
       "energized",
@@ -3373,7 +3373,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-281-1297",
-    "questionText": "Choose the option that has a different vowel sound from the others (JAMB 2022)",
+    "questionText": "Choose the option that has a different vowel sound from the others",
     "options": [
       "beach",
       "ski",
@@ -3385,7 +3385,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-282-1169",
-    "questionText": "Yours is to command.....is to obey (JAMB 2013)",
+    "questionText": "Yours is to command.....is to obey",
     "options": [
       "theirs'",
       "their's",
@@ -3397,7 +3397,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-283-869",
-    "questionText": "Let us not indulge in <u>recrimination</u>? (JAMB 2002)",
+    "questionText": "Let us not indulge in <u>recrimination</u>?",
     "options": [
       "indictment",
       "accusation",
@@ -3409,7 +3409,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-284-1617",
-    "questionText": "Ansa licked his lips and said furtively, look this is between you and me. Jimi would be angry if i told you but his brother is ---- well, we suspect he sometimes sells drugs and...'\n\nFrom the excerpt above, Ansa was talking to (JAMB 2016)",
+    "questionText": "Ansa licked his lips and said furtively, look this is between you and me. Jimi would be angry if i told you but his brother is ---- well, we suspect he sometimes sells drugs and...'\n\nFrom the excerpt above, Ansa was talking to",
     "options": [
       "Risikat and Nene",
       "Novi",
@@ -3421,7 +3421,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-285-1668",
-    "questionText": "inoffensive (JAMB 2016)",
+    "questionText": "inoffensive",
     "options": [
       "inOFfensive",
       "inoffenSIVE",
@@ -3433,7 +3433,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-286-22",
-    "questionText": "  Be careful not to…………….  this money  (JAMB 2003)",
+    "questionText": "  Be careful not to…………….  this money",
     "options": [
       "loose  ",
       " loss ",
@@ -3445,7 +3445,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-287-420",
-    "questionText": "When he.........from his journey, I want to see him. (JAMB 2008)",
+    "questionText": "When he.........from his journey, I want to see him.",
     "options": [
       "returns ",
       "might have returned ",
@@ -3457,7 +3457,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-288-625",
-    "questionText": " (JAMB 2001)",
+    "questionText": "",
     "options": [
       "key",
       "wind",
@@ -3469,7 +3469,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-289-1471",
-    "questionText": "The [prodigious] building was razed to the carpet level yesterday (JAMB 2019)",
+    "questionText": "The [prodigious] building was razed to the carpet level yesterday",
     "options": [
       "ramshackle",
       "modern",
@@ -3481,7 +3481,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-290-1451",
-    "questionText": "Aliya was advised to be mindless of popular perception about her… (JAMB 2019)",
+    "questionText": "Aliya was advised to be mindless of popular perception about her…",
     "options": [
       "when it comes to her self esteem",
       " when it comes to applying",
@@ -3493,7 +3493,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-291-77",
-    "questionText": "Agbo says he is not afraid of ……… (JAMB 2004)",
+    "questionText": "Agbo says he is not afraid of ………",
     "options": [
       "anybody",
       "nothing",
@@ -3505,7 +3505,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-292-660",
-    "questionText": "Had I known about their plan much earlier I would have <u>nipped it in the bud</u>? (JAMB 2001)",
+    "questionText": "Had I known about their plan much earlier I would have <u>nipped it in the bud</u>?",
     "options": [
       " stopped it",
       "intiated it",
@@ -3517,7 +3517,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-293-367",
-    "questionText": "The next village is at least 30 kilometres away. (JAMB 2007)",
+    "questionText": "The next village is at least 30 kilometres away.",
     "options": [
       "The next village is 30 kilometres away, possibly less. ",
       "The next village is approximately 30 kilometres away.    ",
@@ -3529,7 +3529,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-294-1554",
-    "questionText": " The pastor asked the women to _________ their hearts to God in prayers. (JAMB 2018)",
+    "questionText": " The pastor asked the women to _________ their hearts to God in prayers.",
     "options": [
       "Bare",
       "Bear",
@@ -3541,7 +3541,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-295-65",
-    "questionText": "The man’s story sounded <i>plausible</i> to his audience  (JAMB 2003)",
+    "questionText": "The man’s story sounded <i>plausible</i> to his audience",
     "options": [
       "credible ",
       "entertaining ",
@@ -3553,7 +3553,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-296-796",
-    "questionText": "It is surprising that this politician has now turned <u>renegade</u>? (JAMB 2000)",
+    "questionText": "It is surprising that this politician has now turned <u>renegade</u>?",
     "options": [
       "milliant",
       "corrupt",
@@ -3565,7 +3565,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-297-867",
-    "questionText": "The Executive Secretary has just <u>assumed office</u>? (JAMB 2002)",
+    "questionText": "The Executive Secretary has just <u>assumed office</u>?",
     "options": [
       "resumed work",
       "started work",
@@ -3577,7 +3577,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-298-239",
-    "questionText": "Everybody is allowed to ………. his views on state matters  (JAMB 2006)",
+    "questionText": "Everybody is allowed to ………. his views on state matters",
     "options": [
       "Air ",
       "hear ",
@@ -3589,7 +3589,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-299-42",
-    "questionText": "Students could be <i>timid</i> (JAMB 2003)",
+    "questionText": "Students could be <i>timid</i>",
     "options": [
       "Pugnacious ",
       "friendly ",
@@ -3601,7 +3601,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-300-445",
-    "questionText": "xenophobia    (JAMB 2008)",
+    "questionText": "xenophobia",
     "options": [
       "XEndphobia   ",
       "xeNOphobia",
@@ -3613,7 +3613,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-301-253",
-    "questionText": "Ogiri takes after his father, he fawns upon anyone with influence. (JAMB 2006)",
+    "questionText": "Ogiri takes after his father, he fawns upon anyone with influence.",
     "options": [
       "Like his father, Ogiri likes to flatter people with influence in society",
       "Like his father, Ogiri hates influential people",
@@ -3625,7 +3625,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-302-122",
-    "questionText": "The player <i>writhed in pain</i> after the fall. (JAMB 2004)",
+    "questionText": "The player <i>writhed in pain</i> after the fall.",
     "options": [
       "remained still",
       "cried out",
@@ -3637,7 +3637,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-303-1573",
-    "questionText": "Choose the interpretation that you consider most appropriate for each sentence.\n\nNow that Michael has become rich, Nancy has begun to make much of him. This means __________ (JAMB 2017)",
+    "questionText": "Choose the interpretation that you consider most appropriate for each sentence.\n\nNow that Michael has become rich, Nancy has begun to make much of him. This means __________",
     "options": [
       "now values Michael",
       " now gets a lot of money from Michael",
@@ -3649,7 +3649,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-304-1463",
-    "questionText": "Either Buntu or you ........ to go (JAMB 2019)",
+    "questionText": "Either Buntu or you ........ to go",
     "options": [
       "was",
       "are",
@@ -3661,7 +3661,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-305-1538",
-    "questionText": "Choose the option that has a different stress pattern from the others. (JAMB 2018)",
+    "questionText": "Choose the option that has a different stress pattern from the others.",
     "options": [
       "competent",
       "represent",
@@ -3673,7 +3673,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-306-1479",
-    "questionText": "B[oo]k (JAMB 2019)",
+    "questionText": "B[oo]k",
     "options": [
       "shoe",
       "group",
@@ -3685,7 +3685,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-307-1781",
-    "questionText": "Today's weather is <u>favourable</u> for a game of tennis. (JAMB 2014)",
+    "questionText": "Today's weather is <u>favourable</u> for a game of tennis.",
     "options": [
       "Disapproving.",
       "Impartial.",
@@ -3697,7 +3697,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-308-1592",
-    "questionText": "Choose the best option that best completes the gap(s)\n\nThe crops the farmer planted will be ____ in three months time. (JAMB 2017)",
+    "questionText": "Choose the best option that best completes the gap(s)\n\nThe crops the farmer planted will be ____ in three months time.",
     "options": [
       "sold",
       "weeded",
@@ -3709,7 +3709,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-309-1356",
-    "questionText": "Coming late to work, according to Leonard, is <u>inimical</u> to the progress of the company (JAMB 2020)",
+    "questionText": "Coming late to work, according to Leonard, is <u>inimical</u> to the progress of the company",
     "options": [
       "harmful",
       "predominat",
@@ -3721,7 +3721,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-310-1225",
-    "questionText": "One hundred and forty kilometres per hour is a <u>reasonable</u> speed limit.  (JAMB 2021)",
+    "questionText": "One hundred and forty kilometres per hour is a <u>reasonable</u> speed limit.",
     "options": [
       "acceptable",
       "unbelievable",
@@ -3733,7 +3733,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-311-845",
-    "questionText": "Didn't ......... draw your attention to the entry requirements? (JAMB 2002)",
+    "questionText": "Didn't ......... draw your attention to the entry requirements?",
     "options": [
       "anyone",
       "someone",
@@ -3745,7 +3745,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-312-964",
-    "questionText": "Suara needn't come with us, .......? (JAMB 2011)",
+    "questionText": "Suara needn't come with us, .......?",
     "options": [
       "does she",
       "will she",
@@ -3757,7 +3757,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-313-1160",
-    "questionText": "The philanthropist devoted himself......the poor (JAMB 2013)",
+    "questionText": "The philanthropist devoted himself......the poor",
     "options": [
       "by helping",
       " to be helping",
@@ -3769,7 +3769,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-314-437",
-    "questionText": "<u> ch</u> ateau   (JAMB 2008)",
+    "questionText": "<u> ch</u> ateau",
     "options": [
       "chart    ",
       "church ",
@@ -3781,7 +3781,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-315-1047",
-    "questionText": "Justice is difficult to enforce because people are unwilling to accept any loss <u>sovereignty</u> (JAMB 2012)",
+    "questionText": "Justice is difficult to enforce because people are unwilling to accept any loss <u>sovereignty</u>",
     "options": [
       "autonomy",
       "position",
@@ -3793,7 +3793,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-316-1702",
-    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nFret (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nFret",
     "options": [
       "freight",
       "height",
@@ -3805,7 +3805,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788679341948-317-1666",
-    "questionText": "'terror'' (JAMB 2016)",
+    "questionText": "'terror''",
     "options": [
       "tenor",
       "warrior",
@@ -3817,7 +3817,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-0-1527",
-    "questionText": "The sea wave continue to ____________ the cliff on the west coast constantly (JAMB 2018)",
+    "questionText": "The sea wave continue to ____________ the cliff on the west coast constantly",
     "options": [
       "impair",
       "rub",
@@ -3829,7 +3829,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-1-1452",
-    "questionText": "In the novel, we learnt that (JAMB 2019)",
+    "questionText": "In the novel, we learnt that",
     "options": [
       "it pays to be diligent and hardworking",
       "beauty without character is nothing",
@@ -3841,7 +3841,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-2-492",
-    "questionText": "An acceptance of the offer would be a departure from the several rejections that…..  (JAMB 2009)",
+    "questionText": "An acceptance of the offer would be a departure from the several rejections that…..",
     "options": [
       "had taken place",
       "have taken place",
@@ -3853,7 +3853,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-3-88",
-    "questionText": "Each of the houses………… (JAMB 2004)",
+    "questionText": "Each of the houses…………",
     "options": [
       "have got",
       "Have",
@@ -3865,7 +3865,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-4-850",
-    "questionText": "Bu<u>s</u>iness? (JAMB 2002)",
+    "questionText": "Bu<u>s</u>iness?",
     "options": [
       "grace",
       "rice",
@@ -3877,7 +3877,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-5-1626",
-    "questionText": "Efua's guarded and hostile attitude towards boys could be traced to (JAMB 2016)",
+    "questionText": "Efua's guarded and hostile attitude towards boys could be traced to",
     "options": [
       "the teachings she had from her cleric",
       "stories she had heard from her aunt",
@@ -3889,7 +3889,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-6-172",
-    "questionText": "Many Nigerians are <i>wary</i> of night journeys (JAMB 2005)",
+    "questionText": "Many Nigerians are <i>wary</i> of night journeys",
     "options": [
       "worried about",
       "unscarred of",
@@ -3901,7 +3901,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-7-1605",
-    "questionText": "Choose the option opposite in meaning to the word underlined\n\nOne of the twins was as <u>daring</u> as the other was ______ (JAMB 2017)",
+    "questionText": "Choose the option opposite in meaning to the word underlined\n\nOne of the twins was as <u>daring</u> as the other was ______",
     "options": [
       "morose",
       "timid",
@@ -3913,7 +3913,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-8-933",
-    "questionText": "He <u>compliments</u> me on my way of doing things? (JAMB 2011)",
+    "questionText": "He <u>compliments</u> me on my way of doing things?",
     "options": [
       "complements",
       "imitates",
@@ -3925,7 +3925,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-9-248",
-    "questionText": "Unfair  (JAMB 2006)",
+    "questionText": "Unfair",
     "options": [
       "insight",
       "towards",
@@ -3937,7 +3937,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-10-1547",
-    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  Everyone testifies to the <i>unique</i> taste of our flavor. (JAMB 2018)",
+    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  Everyone testifies to the <i>unique</i> taste of our flavor.",
     "options": [
       "Offensive",
       "Common",
@@ -3949,7 +3949,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-11-282",
-    "questionText": "gara<u>ge</u> (JAMB 2006)",
+    "questionText": "gara<u>ge</u>",
     "options": [
       "gear",
       "sure",
@@ -3961,7 +3961,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-12-842",
-    "questionText": "The quality of your questions which ....... always attracted attention ....... never been in doubt. (JAMB 2002)",
+    "questionText": "The quality of your questions which ....... always attracted attention ....... never been in doubt.",
     "options": [
       "have / has",
       "have / have",
@@ -3973,7 +3973,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-13-402",
-    "questionText": "I find the way she approaches her customers quite <i>repugnant</i>  (JAMB 2008)",
+    "questionText": "I find the way she approaches her customers quite <i>repugnant</i>",
     "options": [
       "unpleasant",
       "attractive.",
@@ -3985,7 +3985,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762795-14-652",
-    "questionText": "A wide range of options ....... made available to the political parties during the recently concluded elections? (JAMB 2001)",
+    "questionText": "A wide range of options ....... made available to the political parties during the recently concluded elections?",
     "options": [
       "are",
       "were",
@@ -3997,7 +3997,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-15-232",
-    "questionText": "He wrote to you,……….  ? (JAMB 2006)",
+    "questionText": "He wrote to you,……….  ?",
     "options": [
       "hadn’t he",
       "wouldn’t he",
@@ -4009,7 +4009,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-16-497",
-    "questionText": "They are taught to value honour….. their lives.   (JAMB 2009)",
+    "questionText": "They are taught to value honour….. their lives.",
     "options": [
       "from",
       "in",
@@ -4021,7 +4021,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-17-831",
-    "questionText": "The operations of the bank ........ not ...... cottage and small-scale industries? (JAMB 2002)",
+    "questionText": "The operations of the bank ........ not ...... cottage and small-scale industries?",
     "options": [
       "does /covered",
       "does / cover",
@@ -4033,7 +4033,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-18-76",
-    "questionText": "I shall find time for my ……… when I get …… with this difficult assignment. (JAMB 2004)",
+    "questionText": "I shall find time for my ……… when I get …… with this difficult assignment.",
     "options": [
       "Pat time /over",
       "pass-time/over",
@@ -4045,7 +4045,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-19-691",
-    "questionText": "The professor discussed a number of <u>abstruse</u> topics? (JAMB 2001)",
+    "questionText": "The professor discussed a number of <u>abstruse</u> topics?",
     "options": [
       "esoteric",
       "relevant",
@@ -4057,7 +4057,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-20-1038",
-    "questionText": "Otokpa is a member of the <u>ad hoc</u>committee on stock acquisition. (JAMB 2012)",
+    "questionText": "Otokpa is a member of the <u>ad hoc</u>committee on stock acquisition.",
     "options": [
       "improvised",
       "formal",
@@ -4069,7 +4069,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-21-1025",
-    "questionText": "He needed not to have played in the position of quarterback in volley ball. (JAMB 2012)",
+    "questionText": "He needed not to have played in the position of quarterback in volley ball.",
     "options": [
       "He participated in the game in his unusual position",
       "Nobody expected him to have participated in the game",
@@ -4081,7 +4081,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-22-865",
-    "questionText": "The teacher's apparent nonchalant attitude was <u>misconstrued</u> by his students? (JAMB 2002)",
+    "questionText": "The teacher's apparent nonchalant attitude was <u>misconstrued</u> by his students?",
     "options": [
       "condoned",
       "misrepresented",
@@ -4093,7 +4093,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-23-190",
-    "questionText": "The Bank Manager assured us that there was nothing to worry about (JAMB 2005)",
+    "questionText": "The Bank Manager assured us that there was nothing to worry about",
     "options": [
       "as regard to the loan",
       "with regards to the loan",
@@ -4105,7 +4105,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-24-348",
-    "questionText": "When they examined his body, they found that he ... (JAMB 2007)",
+    "questionText": "When they examined his body, they found that he ...",
     "options": [
       "had been dead",
       "had been dying",
@@ -4117,7 +4117,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-25-545",
-    "questionText": "The weather was still very  <i>heavy and sultry </i>  (JAMB 2010)",
+    "questionText": "The weather was still very  <i>heavy and sultry </i>",
     "options": [
       "wintry and shadowy",
       "cold and friendly",
@@ -4129,7 +4129,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-26-1798",
-    "questionText": "A bike must have found the very interesting movies quite _____. (JAMB 2014)",
+    "questionText": "A bike must have found the very interesting movies quite _____.",
     "options": [
       "Perverting.",
       "Absolving.",
@@ -4141,7 +4141,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-27-1614",
-    "questionText": "Efua was not in the good books of teachers at Forcados High School because (JAMB 2016)",
+    "questionText": "Efua was not in the good books of teachers at Forcados High School because",
     "options": [
       "the students of Forcados did not like her",
       "she was expelled from her previous school",
@@ -4153,7 +4153,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-28-1183",
-    "questionText": "<u>g</u>uitar (JAMB 2013)",
+    "questionText": "<u>g</u>uitar",
     "options": [
       "judge",
       "rogue",
@@ -4165,7 +4165,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-29-889",
-    "questionText": "Her <u>phlegmatic</u> temperament endears her to her friends? (JAMB 2002)",
+    "questionText": "Her <u>phlegmatic</u> temperament endears her to her friends?",
     "options": [
       "stoic",
       "irritable",
@@ -4177,7 +4177,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-30-992",
-    "questionText": "The POLICE arrested the suspect. (JAMB 2011)",
+    "questionText": "The POLICE arrested the suspect.",
     "options": [
       "Did the police placate the suspect?",
       "Who arrested the suspect?",
@@ -4189,7 +4189,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-31-825",
-    "questionText": "As election day draws near, the party looks ...... because many of its members have....... other parties? (JAMB 2002)",
+    "questionText": "As election day draws near, the party looks ...... because many of its members have....... other parties?",
     "options": [
       "successful / decleared for",
       "vulnerable / defected to",
@@ -4201,7 +4201,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-32-226",
-    "questionText": "The old man was rushed to hospital when his blood  pressure dropped to a ……..  level (JAMB 2006)",
+    "questionText": "The old man was rushed to hospital when his blood  pressure dropped to a ……..  level",
     "options": [
       "dangerously lowly",
       "dangerous lowly",
@@ -4213,7 +4213,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-33-941",
-    "questionText": "Laraba saw a <u>forlorn</u> little figure sitting outside the class? (JAMB 2011)",
+    "questionText": "Laraba saw a <u>forlorn</u> little figure sitting outside the class?",
     "options": [
       "wise and intelligent",
       "lonely and unhappy",
@@ -4225,7 +4225,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-34-284",
-    "questionText": "The reporter made a <i>masterly</i> analysis of the situation (JAMB 2006)",
+    "questionText": "The reporter made a <i>masterly</i> analysis of the situation",
     "options": [
       "an unskilful",
       "a mistaken",
@@ -4237,7 +4237,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-35-313",
-    "questionText": "shoe<u>s</u> (JAMB 2007)",
+    "questionText": "shoe<u>s</u>",
     "options": [
       "horse",
       "house",
@@ -4249,7 +4249,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-36-1061",
-    "questionText": "Vacancies in the company will be notified by........... (JAMB 2012)",
+    "questionText": "Vacancies in the company will be notified by...........",
     "options": [
       "bulletin",
       "publication",
@@ -4261,7 +4261,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-37-1226",
-    "questionText": "The annual festival attracts <u>dignitaries</u> from both home and abroad. (JAMB 2021)",
+    "questionText": "The annual festival attracts <u>dignitaries</u> from both home and abroad.",
     "options": [
       "spectators",
       "celebrities",
@@ -4273,7 +4273,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-38-978",
-    "questionText": "The school authority dismissed him for ...... but I won't tell you about it yet? (JAMB 2011)",
+    "questionText": "The school authority dismissed him for ...... but I won't tell you about it yet?",
     "options": [
       "certain reason",
       "a reason",
@@ -4285,7 +4285,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-39-205",
-    "questionText": "By the end of the football match today, we ……. the best player (JAMB 2005)",
+    "questionText": "By the end of the football match today, we ……. the best player",
     "options": [
       "could have known",
       "might have known",
@@ -4297,7 +4297,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-40-299",
-    "questionText": "The striking workers have vowed not to return to work until the decision is <i>reversed.</i>  (JAMB 2007)",
+    "questionText": "The striking workers have vowed not to return to work until the decision is <i>reversed.</i>",
     "options": [
       "rescinded",
       "dismissed",
@@ -4309,7 +4309,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-41-1186",
-    "questionText": " Joys (JAMB 2013)",
+    "questionText": " Joys",
     "options": [
       "elbow",
       "pots",
@@ -4321,7 +4321,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-42-394",
-    "questionText": "Some aspects of their culture are <i>out of date</i> (JAMB 2008)",
+    "questionText": "Some aspects of their culture are <i>out of date</i>",
     "options": [
       "genuine",
       "pragmatic",
@@ -4333,7 +4333,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-43-1242",
-    "questionText": "The meeting was organised at _______ instance ? (JAMB 2021)",
+    "questionText": "The meeting was organised at _______ instance ?",
     "options": [
       "whom",
       "whose's",
@@ -4345,7 +4345,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-44-15",
-    "questionText": "Classmate……………………….  I haven't seen for years, wrote to me last week. (JAMB 2003)",
+    "questionText": "Classmate……………………….  I haven't seen for years, wrote to me last week.",
     "options": [
       "whose",
       "which",
@@ -4357,7 +4357,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-45-1150",
-    "questionText": "Mohammed does his work with so much <u>ardour</u> (JAMB 2013)",
+    "questionText": "Mohammed does his work with so much <u>ardour</u>",
     "options": [
       "discouragement",
       "knowledge",
@@ -4369,7 +4369,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-46-730",
-    "questionText": "HONOUR? (JAMB 2000)",
+    "questionText": "HONOUR?",
     "options": [
       "hotel",
       "hyena",
@@ -4381,7 +4381,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-47-1239",
-    "questionText": "Democracy (JAMB 2021)",
+    "questionText": "Democracy",
     "options": [
       "DEmocracy",
       "deMOcracy",
@@ -4393,7 +4393,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-48-444",
-    "questionText": " (JAMB 2008)",
+    "questionText": "",
     "options": [
       "july",
       "litereture",
@@ -4405,7 +4405,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-49-1283",
-    "questionText": "Choose the word that has a different stress pattern (JAMB 2022)",
+    "questionText": "Choose the word that has a different stress pattern",
     "options": [
       "embrace",
       "suspect(V)",
@@ -4417,7 +4417,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-50-1219",
-    "questionText": "Almost everyone she had worked with took advantage of her <u>meekness</u> (JAMB 2021)",
+    "questionText": "Almost everyone she had worked with took advantage of her <u>meekness</u>",
     "options": [
       "gentleness",
       "weakness",
@@ -4429,7 +4429,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-51-1233",
-    "questionText": "The incumbent president <u>conceded</u> defeat before the final result was announced. (JAMB 2021)",
+    "questionText": "The incumbent president <u>conceded</u> defeat before the final result was announced.",
     "options": [
       "accepted",
       "rejected",
@@ -4441,7 +4441,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-52-1363",
-    "questionText": "I thought that the comments made by the Manager were quite <u>innocuous</u> but the chairman considered them __________ (JAMB 2020)",
+    "questionText": "I thought that the comments made by the Manager were quite <u>innocuous</u> but the chairman considered them __________",
     "options": [
       "polite",
       "inappropriate",
@@ -4453,7 +4453,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-53-1718",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nP<u>ur</u>se (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nP<u>ur</u>se",
     "options": [
       "journey",
       "pays",
@@ -4465,7 +4465,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-54-1594",
-    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe letter was being written by the principal (JAMB 2017)",
+    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe letter was being written by the principal",
     "options": [
       "The letter had been written by the principal",
       "The principal was writing the letter",
@@ -4477,7 +4477,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-55-301",
-    "questionText": "The last criticism at the rally was made <i>in ignorance</i> (JAMB 2007)",
+    "questionText": "The last criticism at the rally was made <i>in ignorance</i>",
     "options": [
       "uniformed",
       "objective",
@@ -4489,7 +4489,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-56-980",
-    "questionText": "W<u>ei</u>ght? (JAMB 2011)",
+    "questionText": "W<u>ei</u>ght?",
     "options": [
       "whale",
       "white",
@@ -4501,7 +4501,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-57-1051",
-    "questionText": "He was too <u>petrified</u> to give the closing remarks at the conference. (JAMB 2012)",
+    "questionText": "He was too <u>petrified</u> to give the closing remarks at the conference.",
     "options": [
       "frightened",
       "agitated",
@@ -4513,7 +4513,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-58-370",
-    "questionText": "We have to iron out our differences at once. (JAMB 2007)",
+    "questionText": "We have to iron out our differences at once.",
     "options": [
       "We must clear up without delay our misunderstanding",
       "We must sure that our problems are eliminated at all costs",
@@ -4525,7 +4525,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-59-210",
-    "questionText": "l<u>u</u>ck (JAMB 2005)",
+    "questionText": "l<u>u</u>ck",
     "options": [
       "lock",
       "lack",
@@ -4537,7 +4537,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-60-1326",
-    "questionText": "KOTL means ___________ (JAMB 2020)",
+    "questionText": "KOTL means ___________",
     "options": [
       "Kiss on the lips",
       "Kiss on the lab",
@@ -4549,7 +4549,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-61-1042",
-    "questionText": "Ola thought that her father was very <u>callous</u> (JAMB 2012)",
+    "questionText": "Ola thought that her father was very <u>callous</u>",
     "options": [
       "parlous",
       "wicked",
@@ -4561,7 +4561,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-62-230",
-    "questionText": "Your performance will improve if you…….  Hard (JAMB 2006)",
+    "questionText": "Your performance will improve if you…….  Hard",
     "options": [
       "are practicing",
       "practical",
@@ -4573,7 +4573,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-63-1766",
-    "questionText": "Adeola doesn't have to go to the farm today. (JAMB 2014)",
+    "questionText": "Adeola doesn't have to go to the farm today.",
     "options": [
       "Adeola may go to the farm today if he so wishes.",
       "Adeola ought not to have gone to the farm today.",
@@ -4585,7 +4585,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-64-659",
-    "questionText": "The lecture seemed <u>interminable</u>? (JAMB 2001)",
+    "questionText": "The lecture seemed <u>interminable</u>?",
     "options": [
       "unending",
       "boring",
@@ -4597,7 +4597,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-65-275",
-    "questionText": "The party men <i>reveled</i> all night when the election results were announced. (JAMB 2006)",
+    "questionText": "The party men <i>reveled</i> all night when the election results were announced.",
     "options": [
       "Celebrated",
       "mourned",
@@ -4609,7 +4609,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-66-955",
-    "questionText": "She only gives a <u>superficial</u> impression of warmth and friendliness? (JAMB 2011)",
+    "questionText": "She only gives a <u>superficial</u> impression of warmth and friendliness?",
     "options": [
       "a strong",
       "a fake",
@@ -4621,7 +4621,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-67-862",
-    "questionText": "Adigun's jokes are always <u>puerile</u>?  (JAMB 2002)",
+    "questionText": "Adigun's jokes are always <u>puerile</u>?",
     "options": [
       "amusing",
       "childish",
@@ -4633,7 +4633,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-68-1465",
-    "questionText": "I know my onions (JAMB 2019)",
+    "questionText": "I know my onions",
     "options": [
       "I know my job very well",
       "I know my rights",
@@ -4645,7 +4645,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-69-1457",
-    "questionText": "The novelist noted that stereoscopic people should be (JAMB 2019)",
+    "questionText": "The novelist noted that stereoscopic people should be",
     "options": [
       "condemned for their bad thinking",
       "encouraged by admonition",
@@ -4657,7 +4657,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-70-1065",
-    "questionText": "One should be careful how......behaves in public, shouldn't....... (JAMB 2012)",
+    "questionText": "One should be careful how......behaves in public, shouldn't.......",
     "options": [
       "one/one",
       "he/lie",
@@ -4669,7 +4669,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-71-1078",
-    "questionText": "...........she didn't trust him, she married him. (JAMB 2012)",
+    "questionText": "...........she didn't trust him, she married him.",
     "options": [
       "after",
       "much as",
@@ -4681,7 +4681,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-72-1645",
-    "questionText": "He walks in a <i>gawky</i> way (JAMB 2016)",
+    "questionText": "He walks in a <i>gawky</i> way",
     "options": [
       "suitable",
       "clumsy",
@@ -4693,7 +4693,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-73-136",
-    "questionText": "It is a <i>misnomer</i> to call three thousand naira a living wage. (JAMB 2004)",
+    "questionText": "It is a <i>misnomer</i> to call three thousand naira a living wage.",
     "options": [
       "an incontrovertible assertion",
       "an appropriate term",
@@ -4705,7 +4705,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-74-1767",
-    "questionText": "My boss asked me to take my eyes off the ball. (JAMB 2014)",
+    "questionText": "My boss asked me to take my eyes off the ball.",
     "options": [
       "I should stop paying attention to what is most important.",
       "I should be focused when i am about to stay off football.",
@@ -4717,7 +4717,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-75-892",
-    "questionText": "The athlete has unexpectedly become <u>indomitable</u>?  (JAMB 2002)",
+    "questionText": "The athlete has unexpectedly become <u>indomitable</u>?",
     "options": [
       "weak",
       "disoriented",
@@ -4729,7 +4729,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-76-688",
-    "questionText": "Ugo has often been described as <u>belligerent</u>?\n (JAMB 2001)",
+    "questionText": "Ugo has often been described as <u>belligerent</u>?\n",
     "options": [
       "attractive",
       "patient",
@@ -4741,7 +4741,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-77-68",
-    "questionText": "From what she said, one may <i>infer</i> that she does not like the course (JAMB 2003)",
+    "questionText": "From what she said, one may <i>infer</i> that she does not like the course",
     "options": [
       "agree",
       "deduce",
@@ -4753,7 +4753,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-78-1608",
-    "questionText": "In the Novel \"Independence\" Tayo wrote a biography of ______? (JAMB 2017)",
+    "questionText": "In the Novel \"Independence\" Tayo wrote a biography of ______?",
     "options": [
       "Arthur Richardson",
       "Lord Lugard",
@@ -4765,7 +4765,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-79-1579",
-    "questionText": "Choose the option nearest to the statement\n\nMy brother's drunkenness often got on my nerves. This means (JAMB 2017)",
+    "questionText": "Choose the option nearest to the statement\n\nMy brother's drunkenness often got on my nerves. This means",
     "options": [
       "disgraced him",
       "made him ill",
@@ -4777,7 +4777,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-80-574",
-    "questionText": "The politician was sent …….. exile (JAMB 2010)",
+    "questionText": "The politician was sent …….. exile",
     "options": [
       "onto",
       "into",
@@ -4789,7 +4789,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-81-7",
-    "questionText": "The woman is one? of the …………. of the society. (JAMB 2003)",
+    "questionText": "The woman is one? of the …………. of the society.",
     "options": [
       "elitist",
       "elites",
@@ -4801,7 +4801,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-82-1654",
-    "questionText": "He decided to wait for the bus because he had.......... (JAMB 2016)",
+    "questionText": "He decided to wait for the bus because he had..........",
     "options": [
       "many luggages",
       "plenty luggages",
@@ -4813,7 +4813,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-83-948",
-    "questionText": "His wife hates his <u>garrulous</u> attitude? (JAMB 2011)",
+    "questionText": "His wife hates his <u>garrulous</u> attitude?",
     "options": [
       "outspoken",
       "unfriendly",
@@ -4825,7 +4825,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-84-247",
-    "questionText": "apparent  (JAMB 2006)",
+    "questionText": "apparent",
     "options": [
       "arrested",
       "telephone",
@@ -4837,7 +4837,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-85-335",
-    "questionText": "association  (JAMB 2007)",
+    "questionText": "association",
     "options": [
       "aSSociation",
       "associaTION",
@@ -4849,7 +4849,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-86-1079",
-    "questionText": "I wanted to know his political beliefs, so l asked him what........ (JAMB 2012)",
+    "questionText": "I wanted to know his political beliefs, so l asked him what........",
     "options": [
       "this was",
       "these are",
@@ -4861,7 +4861,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-87-1664",
-    "questionText": "task<u>ed</u> (JAMB 2016)",
+    "questionText": "task<u>ed</u>",
     "options": [
       "bagged",
       "floored",
@@ -4873,7 +4873,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-88-80",
-    "questionText": "……………his illness, Muhammad could not come to school. (JAMB 2004)",
+    "questionText": "……………his illness, Muhammad could not come to school.",
     "options": [
       "with reference to",
       "referring to",
@@ -4885,7 +4885,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-89-1246",
-    "questionText": "M<u>oo</u>n (JAMB 2021)",
+    "questionText": "M<u>oo</u>n",
     "options": [
       "cook",
       "loop",
@@ -4897,7 +4897,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-90-1249",
-    "questionText": "<u>T</u>each (JAMB 2021)",
+    "questionText": "<u>T</u>each",
     "options": [
       "deviate",
       "through",
@@ -4909,7 +4909,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-91-1630",
-    "questionText": "The retired army officer did a yeoman's service to the nation (JAMB 2016)",
+    "questionText": "The retired army officer did a yeoman's service to the nation",
     "options": [
       "His activity brought disrepute to the nation",
       "His service to the nation was not exemplary",
@@ -4921,7 +4921,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-92-1794",
-    "questionText": "He went to the restaurant to enjoy the special _____. (JAMB 2014)",
+    "questionText": "He went to the restaurant to enjoy the special _____.",
     "options": [
       "Chef.",
       "Suite.",
@@ -4933,7 +4933,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-93-1332",
-    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n \n\nCalculator (JAMB 2020)",
+    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n \n\nCalculator",
     "options": [
       "CAL-cu-la-tor",
       "cal-CU-la-tor",
@@ -4945,7 +4945,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-94-286",
-    "questionText": "That little boy has become quite <i>chubby</i> (JAMB 2006)",
+    "questionText": "That little boy has become quite <i>chubby</i>",
     "options": [
       "thin",
       "intelligent",
@@ -4957,7 +4957,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-95-569",
-    "questionText": "The new trade agreement should facilitate….....  (JAMB 2010)",
+    "questionText": "The new trade agreement should facilitate….....",
     "options": [
       "more economic rapid growth",
       "economic more rapid growth",
@@ -4969,7 +4969,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-96-505",
-    "questionText": "I am told that the market is.-, in to the interests of people from all ………….of life (JAMB 2009)",
+    "questionText": "I am told that the market is.-, in to the interests of people from all ………….of life",
     "options": [
       "tuned/walks",
       "constructed /places",
@@ -4981,7 +4981,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-97-1711",
-    "questionText": "\nIf the armed robbers ------------------------ caught, they would have been lynched (JAMB 2015)",
+    "questionText": "\nIf the armed robbers ------------------------ caught, they would have been lynched",
     "options": [
       "would be",
       "have been",
@@ -4993,7 +4993,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-98-841",
-    "questionText": "Despite all preparations, the wedding did not ....... ? (JAMB 2002)",
+    "questionText": "Despite all preparations, the wedding did not ....... ?",
     "options": [
       "come along",
       "come off",
@@ -5005,7 +5005,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-99-194",
-    "questionText": "I am writing to you for ……..  reasons (JAMB 2005)",
+    "questionText": "I am writing to you for ……..  reasons",
     "options": [
       "concerned",
       "several",
@@ -5017,7 +5017,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-100-406",
-    "questionText": "The governor has <i>approved</i>  the award of the contract (JAMB 2008)",
+    "questionText": "The governor has <i>approved</i>  the award of the contract",
     "options": [
       "appreciated",
       "acknowledged",
@@ -5029,7 +5029,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-101-343",
-    "questionText": "Because of his …… nature, Ayo was tricked out of his wrist watch.  (JAMB 2007)",
+    "questionText": "Because of his …… nature, Ayo was tricked out of his wrist watch.",
     "options": [
       "kind",
       "pliable",
@@ -5041,7 +5041,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-102-1281",
-    "questionText": "Crate (JAMB 2022)",
+    "questionText": "Crate",
     "options": [
       "Great",
       "Mint",
@@ -5053,7 +5053,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-103-1058",
-    "questionText": "We must not <u>foreclose</u> reconciliation as the purpose of his trip (JAMB 2012)",
+    "questionText": "We must not <u>foreclose</u> reconciliation as the purpose of his trip",
     "options": [
       "exclude",
       "consider",
@@ -5065,7 +5065,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-104-1303",
-    "questionText": "If James fails his examination, his teachers, his parents, his friends, or I ______ to be blame. (JAMB 2022)",
+    "questionText": "If James fails his examination, his teachers, his parents, his friends, or I ______ to be blame.",
     "options": [
       "are",
       "is",
@@ -5077,7 +5077,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-105-1631",
-    "questionText": "He suddenly found himself in the thick of the situation (JAMB 2016)",
+    "questionText": "He suddenly found himself in the thick of the situation",
     "options": [
       "He did not agree with the situation",
       "He used his experience to settle the sitution",
@@ -5089,7 +5089,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-106-323",
-    "questionText": "The police demanded a <i>factual</i> account of the accident (JAMB 2007)",
+    "questionText": "The police demanded a <i>factual</i> account of the accident",
     "options": [
       "a supportive",
       "an uncorroborated",
@@ -5101,7 +5101,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-107-1719",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n“come here, you pretty child; I hear you will be going to the same school as my daughter.’ Who made this statement and to whom? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n“come here, you pretty child; I hear you will be going to the same school as my daughter.’ Who made this statement and to whom?",
     "options": [
       "Aunt Moni said this to Efua",
       "Efua to Aunt Moni",
@@ -5113,7 +5113,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-108-1310",
-    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nMo<u>th</u>er (JAMB 2022)",
+    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nMo<u>th</u>er",
     "options": [
       "think",
       "teacher",
@@ -5125,7 +5125,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-109-1824",
-    "questionText": "Musa is STAYING in Enugu. (JAMB 2014)",
+    "questionText": "Musa is STAYING in Enugu.",
     "options": [
       "Was Musa staying in Enugu?",
       "Is Musa going through Enugu?",
@@ -5137,7 +5137,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-110-189",
-    "questionText": "Yesterday, my mother asked me....  (JAMB 2005)",
+    "questionText": "Yesterday, my mother asked me....",
     "options": [
       "If I am tired?",
       "are you tired?",
@@ -5149,7 +5149,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-111-1035",
-    "questionText": "The management wants to consider her <u>reticent</u> behaviour in due course. (JAMB 2012)",
+    "questionText": "The management wants to consider her <u>reticent</u> behaviour in due course.",
     "options": [
       "disapproving",
       "disciplinarian",
@@ -5161,7 +5161,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-112-777",
-    "questionText": "That punch by the young boxer prove to be <u>fatal</u>? (JAMB 2000)",
+    "questionText": "That punch by the young boxer prove to be <u>fatal</u>?",
     "options": [
       "effective",
       "hard",
@@ -5173,7 +5173,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-113-1771",
-    "questionText": "One of the students bought a <u>plagiarised</u> copy of the book. (JAMB 2014)",
+    "questionText": "One of the students bought a <u>plagiarised</u> copy of the book.",
     "options": [
       "An annotated.",
       "A used.",
@@ -5185,7 +5185,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-114-259",
-    "questionText": "He has hardly spoken when the bell rang  (JAMB 2006)",
+    "questionText": "He has hardly spoken when the bell rang",
     "options": [
       "He found it difficult to speak, and then the bell rang",
       "When the bell rang, he was still speaking",
@@ -5197,7 +5197,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-115-104",
-    "questionText": "Everyone was ready to play the evil’s advocate in the impeachment controversy. (JAMB 2004)",
+    "questionText": "Everyone was ready to play the evil’s advocate in the impeachment controversy.",
     "options": [
       "everyone was willing to speak against the impeachment to encourage discussion on it.",
       "everyone was willing to defend an unpopular point of view concerning the impeachment.",
@@ -5209,7 +5209,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-116-1636",
-    "questionText": "Her death was a bolt from the blue to us  (JAMB 2016)",
+    "questionText": "Her death was a bolt from the blue to us",
     "options": [
       "Her death bolted us together",
       "Her death caused confusion",
@@ -5221,7 +5221,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-117-1770",
-    "questionText": "Prolonged strike action <u>debilitated</u> the industry. (JAMB 2014)",
+    "questionText": "Prolonged strike action <u>debilitated</u> the industry.",
     "options": [
       "Stroyed.",
       "Invigorated.",
@@ -5233,7 +5233,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762796-118-1772",
-    "questionText": "The young girl was taken <u>aback</u> by her father's gift of a car. (JAMB 2014)",
+    "questionText": "The young girl was taken <u>aback</u> by her father's gift of a car.",
     "options": [
       "Nonplussed.",
       "Shocked.",
@@ -5245,7 +5245,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-119-1022",
-    "questionText": "She was absolved by the court from the charge. (JAMB 2012)",
+    "questionText": "She was absolved by the court from the charge.",
     "options": [
       "she was convicted for the charge",
       "she was blamed and charged to court",
@@ -5257,7 +5257,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-120-477",
-    "questionText": "Adamu's father is a <i>stern</i> man  (JAMB 2009)",
+    "questionText": "Adamu's father is a <i>stern</i> man",
     "options": [
       "wicked",
       "strict",
@@ -5269,7 +5269,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-121-724",
-    "questionText": "Pl<u>ea</u>sure? (JAMB 2000)",
+    "questionText": "Pl<u>ea</u>sure?",
     "options": [
       "pliable",
       "pleat",
@@ -5281,7 +5281,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-122-473",
-    "questionText": "Agwube's explanation of her poor performance at the examination only <i>begged the question.</i> (JAMB 2009)",
+    "questionText": "Agwube's explanation of her poor performance at the examination only <i>begged the question.</i>",
     "options": [
       "delayed her punishment",
       "sounded quite convincing",
@@ -5293,7 +5293,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-123-1703",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho laugh in such a way that showed only his upper teeth? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho laugh in such a way that showed only his upper teeth?",
     "options": [
       "Seyi Lawal",
       "Ansa boy",
@@ -5305,7 +5305,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-124-639",
-    "questionText": "Some scientists are trying to ...... human beings in their laboratories? (JAMB 2001)",
+    "questionText": "Some scientists are trying to ...... human beings in their laboratories?",
     "options": [
       "imitate",
       "replicate",
@@ -5317,7 +5317,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-125-1069",
-    "questionText": "She was............the verge of tears (JAMB 2012)",
+    "questionText": "She was............the verge of tears",
     "options": [
       "at",
       "on",
@@ -5329,7 +5329,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-126-783",
-    "questionText": "Civil engineering is <u>predominantly</u> a male profession? (JAMB 2000)",
+    "questionText": "Civil engineering is <u>predominantly</u> a male profession?",
     "options": [
       "absolutely",
       "essentially",
@@ -5341,7 +5341,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-127-396",
-    "questionText": "My father is always very <i>frank</i> about his intentions (JAMB 2008)",
+    "questionText": "My father is always very <i>frank</i> about his intentions",
     "options": [
       "open",
       "objective",
@@ -5353,7 +5353,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-128-1694",
-    "questionText": "I have the ---------- of meeting him (JAMB 2015)",
+    "questionText": "I have the ---------- of meeting him",
     "options": [
       "previlege",
       "privilege",
@@ -5365,7 +5365,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-129-294",
-    "questionText": "The police found a <i>conclusive</i> proof of the boy's guilt (JAMB 2006)",
+    "questionText": "The police found a <i>conclusive</i> proof of the boy's guilt",
     "options": [
       "a corroborative",
       "A doubtful",
@@ -5377,7 +5377,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-130-1473",
-    "questionText": "Every human being is [vulnerable] to communicable disease (JAMB 2019)",
+    "questionText": "Every human being is [vulnerable] to communicable disease",
     "options": [
       "liable",
       "lifted",
@@ -5389,7 +5389,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-131-280",
-    "questionText": "c<u>h</u>aracter (JAMB 2006)",
+    "questionText": "c<u>h</u>aracter",
     "options": [
       "unique",
       "charade",
@@ -5401,7 +5401,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-132-295",
-    "questionText": "The point you have made is quite <i>apt</i> (JAMB 2006)",
+    "questionText": "The point you have made is quite <i>apt</i>",
     "options": [
       "illogical",
       "helpful",
@@ -5413,7 +5413,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-133-391",
-    "questionText": "His <i>kind-hearted</i> master bought him a motorcycle (JAMB 2008)",
+    "questionText": "His <i>kind-hearted</i> master bought him a motorcycle",
     "options": [
       "stingy",
       "generous",
@@ -5425,7 +5425,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-134-881",
-    "questionText": "My UNCLE retired from the police? (JAMB 2002)",
+    "questionText": "My UNCLE retired from the police?",
     "options": [
       "Did your brother resign from the police?",
       "Did your sister resign from the police?",
@@ -5437,7 +5437,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-135-17",
-    "questionText": "Ali plays ……….violin with remarkable skill (JAMB 2003)",
+    "questionText": "Ali plays ……….violin with remarkable skill",
     "options": [
       "a",
       "the",
@@ -5449,7 +5449,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-136-436",
-    "questionText": "<u>th</u> atch  (JAMB 2008)",
+    "questionText": "<u>th</u> atch",
     "options": [
       "clothing",
       "mother",
@@ -5461,7 +5461,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-137-1696",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nS<u>ea</u>t (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nS<u>ea</u>t",
     "options": [
       "hide",
       "peasant",
@@ -5473,7 +5473,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-138-543",
-    "questionText": "Aisha seems to feel  <i>ambivalent</i>  about her future (JAMB 2010)",
+    "questionText": "Aisha seems to feel  <i>ambivalent</i>  about her future",
     "options": [
       "decisive",
       "anxious",
@@ -5485,7 +5485,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-139-390",
-    "questionText": "The students  <i>vandalized </i> their hostel curing the riot. (JAMB 2008)",
+    "questionText": "The students  <i>vandalized </i> their hostel curing the riot.",
     "options": [
       "deserted",
       "Unrepaired",
@@ -5497,7 +5497,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-140-936",
-    "questionText": "The stockbroker said it was an <u>astute</u> move to sell the shares then? (JAMB 2011)",
+    "questionText": "The stockbroker said it was an <u>astute</u> move to sell the shares then?",
     "options": [
       "a bad",
       "a shrewd",
@@ -5509,7 +5509,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-141-1367",
-    "questionText": "Our <u>mechanised</u> services contrast sharply with the _________ operative we had before (JAMB 2020)",
+    "questionText": "Our <u>mechanised</u> services contrast sharply with the _________ operative we had before",
     "options": [
       "electrical",
       "controlled",
@@ -5521,7 +5521,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-142-1661",
-    "questionText": "'fam<u>ou</u>s'' (JAMB 2016)",
+    "questionText": "'fam<u>ou</u>s''",
     "options": [
       "soup",
       "cook",
@@ -5533,7 +5533,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762797-143-182",
-    "questionText": "The accident victim received a <i>superficial</i> wound from the crash (JAMB 2005)",
+    "questionText": "The accident victim received a <i>superficial</i> wound from the crash",
     "options": [
       "a serious",
       "a painless",
@@ -5545,7 +5545,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-144-128",
-    "questionText": "The town was in such a <i>turmoil</i> that the dance was called off. (JAMB 2004)",
+    "questionText": "The town was in such a <i>turmoil</i> that the dance was called off.",
     "options": [
       "mourning state",
       "rainy state",
@@ -5557,7 +5557,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-145-585",
-    "questionText": "shea<u>th </u> (JAMB 2010)",
+    "questionText": "shea<u>th </u>",
     "options": [
       "bathe",
       "length",
@@ -5569,7 +5569,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-146-644",
-    "questionText": "The meeting was called to ...... divergent views on the subject of a national conference? (JAMB 2001)",
+    "questionText": "The meeting was called to ...... divergent views on the subject of a national conference?",
     "options": [
       "reconcile",
       "recommend",
@@ -5581,7 +5581,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-147-666",
-    "questionText": "As these boys never act in public, the police are now worried about their <u>convert</u> activities? (JAMB 2001)",
+    "questionText": "As these boys never act in public, the police are now worried about their <u>convert</u> activities?",
     "options": [
       "ignoble",
       "evil",
@@ -5593,7 +5593,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-148-1040",
-    "questionText": "The economist concluded that several factors have been <u>adduced</u> to explain the fall in the birth rate. (JAMB 2012)",
+    "questionText": "The economist concluded that several factors have been <u>adduced</u> to explain the fall in the birth rate.",
     "options": [
       "affirmed",
       "diffused",
@@ -5605,7 +5605,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-149-364",
-    "questionText": "My advice to Tolu was: 'Look before you leap.' (JAMB 2007)",
+    "questionText": "My advice to Tolu was: 'Look before you leap.'",
     "options": [
       "Tolu was advised to consider her opinions before reaching any decisions.",
       "Tolu was advised to consider the possible consequences before taking action.",
@@ -5617,7 +5617,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-150-1714",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWho was the best student in chemistry?  (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWho was the best student in chemistry?",
     "options": [
       "Ansa",
       "Caro",
@@ -5629,7 +5629,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-151-1750",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\n<u>Ow</u>l (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\n<u>Ow</u>l",
     "options": [
       "bowl",
       "tow",
@@ -5641,7 +5641,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-152-55",
-    "questionText": "My MOTHER served rice and fresh fish stew for dinner. (JAMB 2003)",
+    "questionText": "My MOTHER served rice and fresh fish stew for dinner.",
     "options": [
       "Did your mother serve rice and fresh fish stew for lunch?",
       "Who served rice and fresh fish stew for dinner?",
@@ -5653,7 +5653,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-153-71",
-    "questionText": "The <i>cynics</i>  feared that the nation’s nascent democracy would fail (JAMB 2003)",
+    "questionText": "The <i>cynics</i>  feared that the nation’s nascent democracy would fail",
     "options": [
       "illusionists",
       "pessimists",
@@ -5665,7 +5665,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-154-1504",
-    "questionText": "The meeting was <u>cancelled</u> because of the convocation (JAMB 2018)",
+    "questionText": "The meeting was <u>cancelled</u> because of the convocation",
     "options": [
       "brought up",
       "called off",
@@ -5677,7 +5677,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-155-462",
-    "questionText": "Life has become a <i>misery</i> for many owing to the harsh economic condition in the country (JAMB 2009)",
+    "questionText": "Life has become a <i>misery</i> for many owing to the harsh economic condition in the country",
     "options": [
       "drudgery",
       "ridicule",
@@ -5689,7 +5689,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-156-1544",
-    "questionText": "choose the option nearest in meaning to the underlined. Thousands of students <u>are candidates</u> for the examination but only very few pass (JAMB 2018)",
+    "questionText": "choose the option nearest in meaning to the underlined. Thousands of students <u>are candidates</u> for the examination but only very few pass",
     "options": [
       "Come in",
       "Call for",
@@ -5701,7 +5701,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-157-1689",
-    "questionText": "Choose the option that best completes the sentence.\n\nHe did not attend the final burial............ (JAMB 2015)",
+    "questionText": "Choose the option that best completes the sentence.\n\nHe did not attend the final burial............",
     "options": [
       "rite",
       "rights",
@@ -5713,7 +5713,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-158-1237",
-    "questionText": "Biography  (JAMB 2021)",
+    "questionText": "Biography",
     "options": [
       "bioGRAphy",
       "BIography",
@@ -5725,7 +5725,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-159-1759",
-    "questionText": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.\n\n<u>Str</u>aight (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.\n\n<u>Str</u>aight",
     "options": [
       "struggle",
       "waste",
@@ -5737,7 +5737,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-160-483",
-    "questionText": "There must be something <i>sinister</i> about her late arrival (JAMB 2009)",
+    "questionText": "There must be something <i>sinister</i> about her late arrival",
     "options": [
       "reasonable",
       "joyful",
@@ -5749,7 +5749,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-161-283",
-    "questionText": "The usually hostile crowd was captivated by the .player's <i>winsome</i> attitude (JAMB 2006)",
+    "questionText": "The usually hostile crowd was captivated by the .player's <i>winsome</i> attitude",
     "options": [
       "obnoxious",
       "friendly",
@@ -5761,7 +5761,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-162-498",
-    "questionText": "Our plan for the trip fell............when the rich man did not give us a life….. ? (JAMB 2009)",
+    "questionText": "Our plan for the trip fell............when the rich man did not give us a life….. ?",
     "options": [
       "off/boat",
       "through/line",
@@ -5773,7 +5773,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-163-1120",
-    "questionText": "According to the novel, Obu was good at (JAMB 2013)",
+    "questionText": "According to the novel, Obu was good at",
     "options": [
       "Proverbs",
       "Cricket",
@@ -5785,7 +5785,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-164-1041",
-    "questionText": "The presidential system is an <u>antidote</u> to some political ailments. (JAMB 2012)",
+    "questionText": "The presidential system is an <u>antidote</u> to some political ailments.",
     "options": [
       "an answer",
       "an inquiry",
@@ -5797,7 +5797,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-165-886",
-    "questionText": "The principal took exception to the <u>ignoble</u> role the teacher played in the matter? (JAMB 2002)",
+    "questionText": "The principal took exception to the <u>ignoble</u> role the teacher played in the matter?",
     "options": [
       "embarrassing",
       "honourable",
@@ -5809,7 +5809,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-166-213",
-    "questionText": "E<u>n</u>glish (JAMB 2005)",
+    "questionText": "E<u>n</u>glish",
     "options": [
       "single",
       "impugn",
@@ -5821,7 +5821,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-167-539",
-    "questionText": "The captain says sports is being  <i>debased</i>  by commercial sponsorship  (JAMB 2010)",
+    "questionText": "The captain says sports is being  <i>debased</i>  by commercial sponsorship",
     "options": [
       "localized",
       "perverted",
@@ -5833,7 +5833,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-168-502",
-    "questionText": "Government's frowned upon politicians who are out to…….... Wealth (JAMB 2009)",
+    "questionText": "Government's frowned upon politicians who are out to…….... Wealth",
     "options": [
       "gain",
       "amass",
@@ -5845,7 +5845,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-169-1545",
-    "questionText": "choose the option that best completes the gap(s). We look forward to _______ from you very soon. (JAMB 2018)",
+    "questionText": "choose the option that best completes the gap(s). We look forward to _______ from you very soon.",
     "options": [
       "Have heard",
       "Hear",
@@ -5857,7 +5857,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-170-1572",
-    "questionText": "Choose the option opposite in meaning to the word or phrase in italics\n\nThe chairman is <i>Parsimonious</i> (JAMB 2017)",
+    "questionText": "Choose the option opposite in meaning to the word or phrase in italics\n\nThe chairman is <i>Parsimonious</i>",
     "options": [
       "Avaricious",
       "thrifty",
@@ -5869,7 +5869,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-171-1072",
-    "questionText": "We stood up when the principal came in..........? (JAMB 2012)",
+    "questionText": "We stood up when the principal came in..........?",
     "options": [
       "isn't it",
       "didn't we",
@@ -5881,7 +5881,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-172-1625",
-    "questionText": "The author uses the novel to portray some of the (JAMB 2016)",
+    "questionText": "The author uses the novel to portray some of the",
     "options": [
       "NGO's activities only",
       "environment conditions",
@@ -5893,7 +5893,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-173-491",
-    "questionText": "Amina lives…..  campus. (JAMB 2009)",
+    "questionText": "Amina lives…..  campus.",
     "options": [
       "in the.",
       "on",
@@ -5905,7 +5905,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-174-1589",
-    "questionText": "choose the option opposite in meaning to the word or phrase in italics\n\nThey come here on bootless <i>errand</i> (JAMB 2017)",
+    "questionText": "choose the option opposite in meaning to the word or phrase in italics\n\nThey come here on bootless <i>errand</i>",
     "options": [
       "worthwhile",
       "vain",
@@ -5917,7 +5917,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-175-935",
-    "questionText": "Their new house was roofed with <u>corrugated</u> sheets? (JAMB 2011)",
+    "questionText": "Their new house was roofed with <u>corrugated</u> sheets?",
     "options": [
       "folded",
       "iron",
@@ -5929,7 +5929,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-176-1809",
-    "questionText": "She traced her family history _____ matrilineal. (JAMB 2014)",
+    "questionText": "She traced her family history _____ matrilineal.",
     "options": [
       "At.",
       "In.",
@@ -5941,7 +5941,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-177-116",
-    "questionText": "Beauty queens sometime wear <i>outlandish</i>  dresses. (JAMB 2004)",
+    "questionText": "Beauty queens sometime wear <i>outlandish</i>  dresses.",
     "options": [
       "beautiful",
       "flashy",
@@ -5953,7 +5953,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-178-756",
-    "questionText": "You can travel on your own ......? (JAMB 2000)",
+    "questionText": "You can travel on your own ......?",
     "options": [
       "isn't it",
       "wouldn't you",
@@ -5965,7 +5965,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-179-1377",
-    "questionText": "His many years of success in legal practice, .............. , didn't come out without challenges (JAMB 2019)",
+    "questionText": "His many years of success in legal practice, .............. , didn't come out without challenges",
     "options": [
       "but",
       "in spite of all",
@@ -5977,7 +5977,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-180-1483",
-    "questionText": "A[n]kle (JAMB 2019)",
+    "questionText": "A[n]kle",
     "options": [
       "Tongue",
       "New",
@@ -5989,7 +5989,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-181-432",
-    "questionText": "He ……… the picture on table (JAMB 2008)",
+    "questionText": "He ……… the picture on table",
     "options": [
       "laid",
       "lay",
@@ -6001,7 +6001,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-182-1257",
-    "questionText": "Ummi's husband wanted to study law but the providence chose that he study _____ (JAMB 2022)",
+    "questionText": "Ummi's husband wanted to study law but the providence chose that he study _____",
     "options": [
       "commerce",
       "accounting",
@@ -6013,7 +6013,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-183-415",
-    "questionText": "Last Tuesday, Ochonu asked me......... (JAMB 2008)",
+    "questionText": "Last Tuesday, Ochonu asked me.........",
     "options": [
       "had I come yesterday",
       "did you come yesterday",
@@ -6025,7 +6025,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-184-1593",
-    "questionText": "Choose the best option that best completes the gap(s)\n\nGarba acquiesced______their decision (JAMB 2017)",
+    "questionText": "Choose the best option that best completes the gap(s)\n\nGarba acquiesced______their decision",
     "options": [
       "for",
       "on",
@@ -6037,7 +6037,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-185-1807",
-    "questionText": "The unconscious man was _____ after receiving first aid. (JAMB 2014)",
+    "questionText": "The unconscious man was _____ after receiving first aid.",
     "options": [
       "Revived.",
       "Reawakened.",
@@ -6049,7 +6049,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-186-470",
-    "questionText": "We were <i>collectively</i> responsible for keeping the machine in good shape. (JAMB 2009)",
+    "questionText": "We were <i>collectively</i> responsible for keeping the machine in good shape.",
     "options": [
       "jointly",
       "severally",
@@ -6061,7 +6061,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-187-1408",
-    "questionText": "He was both a writer and a politician, but he was better ........ a singer (JAMB 2019)",
+    "questionText": "He was both a writer and a politician, but he was better ........ a singer",
     "options": [
       "As if",
       "Like",
@@ -6073,7 +6073,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-188-1584",
-    "questionText": "Choose the option opposite in meaning to the word or phrase in italics\n\nThe students received a mild <i>reproof</i> from the teacher (JAMB 2017)",
+    "questionText": "Choose the option opposite in meaning to the word or phrase in italics\n\nThe students received a mild <i>reproof</i> from the teacher",
     "options": [
       "exhortation",
       "opposition",
@@ -6085,7 +6085,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-189-1086",
-    "questionText": "Demarcation (JAMB 2012)",
+    "questionText": "Demarcation",
     "options": [
       "demar<u>CA</u>tion",
       "<u>DE</u>marcation",
@@ -6097,7 +6097,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-190-1375",
-    "questionText": "Some men will continue to cause offences until they are given [a taste of their own medicine] (JAMB 2019)",
+    "questionText": "Some men will continue to cause offences until they are given [a taste of their own medicine]",
     "options": [
       "placated",
       "revenged on",
@@ -6109,7 +6109,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-191-1800",
-    "questionText": "Those _____ are very beautiful. (JAMB 2014)",
+    "questionText": "Those _____ are very beautiful.",
     "options": [
       "Flowers of ours.",
       "Flowers of her.",
@@ -6121,7 +6121,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-192-560",
-    "questionText": "Ugo is  <i>eligible</i>  for the post of secretary  (JAMB 2010)",
+    "questionText": "Ugo is  <i>eligible</i>  for the post of secretary",
     "options": [
       "nominated",
       "invited",
@@ -6133,7 +6133,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-193-1347",
-    "questionText": "What a ________! the more you look, the less you see (JAMB 2020)",
+    "questionText": "What a ________! the more you look, the less you see",
     "options": [
       "wonder",
       "miracle",
@@ -6145,7 +6145,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-194-212",
-    "questionText": "heal<u>th</u>y     (JAMB 2005)",
+    "questionText": "heal<u>th</u>y",
     "options": [
       "father",
       "path",
@@ -6157,7 +6157,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-195-1518",
-    "questionText": "The governor's visit is an <i>unprecedented</i> event in the history of the social club (JAMB 2018)",
+    "questionText": "The governor's visit is an <i>unprecedented</i> event in the history of the social club",
     "options": [
       "a perfect",
       "momentous",
@@ -6169,7 +6169,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-196-308",
-    "questionText": "The debt the company incurred became rather <i>intolerable</i>.  (JAMB 2007)",
+    "questionText": "The debt the company incurred became rather <i>intolerable</i>.",
     "options": [
       "inevitable",
       "unprecedented",
@@ -6181,7 +6181,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-197-1665",
-    "questionText": "Risen (JAMB 2016)",
+    "questionText": "Risen",
     "options": [
       "prison",
       "motion",
@@ -6193,7 +6193,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-198-64",
-    "questionText": "A few years ago, nobody would have believed that the economy would <i>turn around </i> (JAMB 2003)",
+    "questionText": "A few years ago, nobody would have believed that the economy would <i>turn around </i>",
     "options": [
       "change",
       "deteriorate",
@@ -6205,7 +6205,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-199-135",
-    "questionText": "Ibro shows enough <i>liberality</i>  with his meager income. (JAMB 2004)",
+    "questionText": "Ibro shows enough <i>liberality</i>  with his meager income.",
     "options": [
       "generosity",
       "frugality",
@@ -6217,7 +6217,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-200-1064",
-    "questionText": "His many years of success in legal practice,…... didn’t come without challenges.\n (JAMB 2012)",
+    "questionText": "His many years of success in legal practice,…... didn’t come without challenges.\n",
     "options": [
       "indeed",
       "but",
@@ -6229,7 +6229,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-201-292",
-    "questionText": "The chief said he would use the power <i>inherent</i> in his office to stop the celebration (JAMB 2006)",
+    "questionText": "The chief said he would use the power <i>inherent</i> in his office to stop the celebration",
     "options": [
       "unrelated to",
       "common to",
@@ -6241,7 +6241,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-202-1036",
-    "questionText": "Election processes often become <u>volatile</u> (JAMB 2012)",
+    "questionText": "Election processes often become <u>volatile</u>",
     "options": [
       "calm",
       "strange",
@@ -6253,7 +6253,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-203-674",
-    "questionText": "YOUR sister should come with us tomorrow? (JAMB 2001)",
+    "questionText": "YOUR sister should come with us tomorrow?",
     "options": [
       "Should your brother come with us tomorrow?",
       "Should our brother come with us tomorrow?",
@@ -6265,7 +6265,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-204-1043",
-    "questionText": "He was very much respected, though he had no <u>temporal</u> power (JAMB 2012)",
+    "questionText": "He was very much respected, though he had no <u>temporal</u> power",
     "options": [
       "spiritual",
       "mundane",
@@ -6277,7 +6277,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-205-1364",
-    "questionText": "My uncle is a <u>prosperous</u> businessman, my aunt, unfortunately, is quite ________ (JAMB 2020)",
+    "questionText": "My uncle is a <u>prosperous</u> businessman, my aunt, unfortunately, is quite ________",
     "options": [
       "unskillful",
       "domestic",
@@ -6289,7 +6289,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-206-1247",
-    "questionText": " Cr<u>ee</u>p (JAMB 2021)",
+    "questionText": " Cr<u>ee</u>p",
     "options": [
       "beep",
       "bring",
@@ -6301,7 +6301,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-207-267",
-    "questionText": "The government has announced its <i>preparedness for</i> the scheme (JAMB 2006)",
+    "questionText": "The government has announced its <i>preparedness for</i> the scheme",
     "options": [
       "determination",
       "regret",
@@ -6313,7 +6313,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-208-1588",
-    "questionText": "Choose the most appropriate stress pattern from the options. \n\nThe stressed are written in capital letters\ndepartmental (JAMB 2017)",
+    "questionText": "Choose the most appropriate stress pattern from the options. \n\nThe stressed are written in capital letters\ndepartmental",
     "options": [
       "DEpartmental",
       "dePARTmental",
@@ -6325,7 +6325,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-209-740",
-    "questionText": "The loquacious young lad reeled off all the names of \nthe\nplayers……. (JAMB 2000)",
+    "questionText": "The loquacious young lad reeled off all the names of \nthe\nplayers…….",
     "options": [
       "off head",
       "offhand",
@@ -6337,7 +6337,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-210-1536",
-    "questionText": "Now, I am used ____________ bread without butter (JAMB 2018)",
+    "questionText": "Now, I am used ____________ bread without butter",
     "options": [
       "to eat",
       "in eating",
@@ -6349,7 +6349,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-211-217",
-    "questionText": "refuse(noun) (JAMB 2005)",
+    "questionText": "refuse(noun)",
     "options": [
       "reform",
       "intact",
@@ -6361,7 +6361,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-212-590",
-    "questionText": "seer  (JAMB 2010)",
+    "questionText": "seer",
     "options": [
       "snare",
       "spare",
@@ -6373,7 +6373,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-213-1238",
-    "questionText": "Successful (JAMB 2021)",
+    "questionText": "Successful",
     "options": [
       "SUccessful",
       "suCcessful",
@@ -6385,7 +6385,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-214-321",
-    "questionText": "Lami and her husband are simply <i>munificent</i> (JAMB 2007)",
+    "questionText": "Lami and her husband are simply <i>munificent</i>",
     "options": [
       "a wealthy",
       "angry",
@@ -6397,7 +6397,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-215-1167",
-    "questionText": "All farmers were encouraged ......carry out fumigation on their farms (JAMB 2013)",
+    "questionText": "All farmers were encouraged ......carry out fumigation on their farms",
     "options": [
       "in",
       "with",
@@ -6409,7 +6409,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-216-683",
-    "questionText": "The conference Centre caters for <u>transients</u> only? (JAMB 2001)",
+    "questionText": "The conference Centre caters for <u>transients</u> only?",
     "options": [
       "temporary guest",
       "professional",
@@ -6421,7 +6421,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-217-100",
-    "questionText": "The interpreter was wrong because he gave the congregation a ………… translation of the pastor’s statement. (JAMB 2004)",
+    "questionText": "The interpreter was wrong because he gave the congregation a ………… translation of the pastor’s statement.",
     "options": [
       "literal",
       "unilateral",
@@ -6433,7 +6433,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-218-1710",
-    "questionText": "Select the wrongly spelt words (JAMB 2015)",
+    "questionText": "Select the wrongly spelt words",
     "options": [
       "quite",
       "believe",
@@ -6445,7 +6445,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-219-593",
-    "questionText": "captivity  (JAMB 2010)",
+    "questionText": "captivity",
     "options": [
       "captiviTY",
       "captiVIty",
@@ -6457,7 +6457,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-220-421",
-    "questionText": "I knocked his door, but he......... (JAMB 2008)",
+    "questionText": "I knocked his door, but he.........",
     "options": [
       "has already ten",
       "left already",
@@ -6469,7 +6469,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-221-1030",
-    "questionText": "As an <u>idiot</u>, the boy is weak in class (JAMB 2012)",
+    "questionText": "As an <u>idiot</u>, the boy is weak in class",
     "options": [
       "a deviant",
       "an expert",
@@ -6481,7 +6481,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-222-124",
-    "questionText": "The team got <i>an ecstatic</i> welcome from the crowd. (JAMB 2004)",
+    "questionText": "The team got <i>an ecstatic</i> welcome from the crowd.",
     "options": [
       "An unexpected",
       "a joyous",
@@ -6493,7 +6493,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-223-1311",
-    "questionText": "Pick out the option with a different rhyme (JAMB 2022)",
+    "questionText": "Pick out the option with a different rhyme",
     "options": [
       "Roar",
       "Four",
@@ -6505,7 +6505,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-224-1149",
-    "questionText": "\nThe scholar's <u>epitaph</u> was demolished (JAMB 2013)",
+    "questionText": "\nThe scholar's <u>epitaph</u> was demolished",
     "options": [
       "embodiment",
       "farmland",
@@ -6517,7 +6517,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762799-225-40",
-    "questionText": "A <i>conservative</i> estimate put the number of missing persons at forty. (JAMB 2003)",
+    "questionText": "A <i>conservative</i> estimate put the number of missing persons at forty.",
     "options": [
       "an accurate",
       "An incorrect",
@@ -6529,7 +6529,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-226-1716",
-    "questionText": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.\n\nHa<u>ng</u> (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.\n\nHa<u>ng</u>",
     "options": [
       "hinge",
       "tinge",
@@ -6541,7 +6541,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-227-870",
-    "questionText": "Identify the word that has the stress on the first syllable. (JAMB 2002)",
+    "questionText": "Identify the word that has the stress on the first syllable.",
     "options": [
       "export (noun)",
       "commute",
@@ -6553,7 +6553,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-228-1741",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat was the name of Jimi’s elder brother who stays abroad? (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat was the name of Jimi’s elder brother who stays abroad?",
     "options": [
       "Wole",
       "Femi",
@@ -6565,7 +6565,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-229-1673",
-    "questionText": "My house is a BUNGALOW (JAMB 2016)",
+    "questionText": "My house is a BUNGALOW",
     "options": [
       "Is my house a terrace ?",
       "was my house a bungalow?",
@@ -6577,7 +6577,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-230-325",
-    "questionText": "Mr. Adeyemo is quite a <i>conceited</i> young man (JAMB 2007)",
+    "questionText": "Mr. Adeyemo is quite a <i>conceited</i> young man",
     "options": [
       "a resourceful",
       "a practical",
@@ -6589,7 +6589,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-231-504",
-    "questionText": "He was determined to……... all opposition into submission (JAMB 2009)",
+    "questionText": "He was determined to……... all opposition into submission",
     "options": [
       "push",
       "cow",
@@ -6601,7 +6601,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-232-671",
-    "questionText": "There is much <u>apathy</u> towards reading among students nowadays?\n (JAMB 2001)",
+    "questionText": "There is much <u>apathy</u> towards reading among students nowadays?\n",
     "options": [
       "enthusiasm",
       "indecision",
@@ -6613,7 +6613,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-233-795",
-    "questionText": "We intend to make the reception a <u>diurnal</u> event? (JAMB 2000)",
+    "questionText": "We intend to make the reception a <u>diurnal</u> event?",
     "options": [
       "a nightly",
       "a weekly",
@@ -6625,7 +6625,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-234-883",
-    "questionText": "The high cost of living these days calls for a lot of <u>frugality</u>? (JAMB 2002)",
+    "questionText": "The high cost of living these days calls for a lot of <u>frugality</u>?",
     "options": [
       "extravagance",
       "economy",
@@ -6637,7 +6637,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-235-378",
-    "questionText": "He wants the meeting to be adjourned, (JAMB 2008)",
+    "questionText": "He wants the meeting to be adjourned,",
     "options": [
       "He wants the meeting closed",
       "He wants the meeting cancelled",
@@ -6649,7 +6649,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-236-1348",
-    "questionText": "The soldiers pledge their ________ loyalty to the new government (JAMB 2020)",
+    "questionText": "The soldiers pledge their ________ loyalty to the new government",
     "options": [
       "enduring",
       "tireless",
@@ -6661,7 +6661,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-237-1505",
-    "questionText": "Ayodeji is an <u>ardent</u> supporter of education for the child (JAMB 2018)",
+    "questionText": "Ayodeji is an <u>ardent</u> supporter of education for the child",
     "options": [
       "cogent",
       "a passionate",
@@ -6673,7 +6673,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-238-550",
-    "questionText": "The law is often  <i>tardy</i>  in reacting to changing attitude (JAMB 2010)",
+    "questionText": "The law is often  <i>tardy</i>  in reacting to changing attitude",
     "options": [
       "quick",
       "low",
@@ -6685,7 +6685,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-239-146",
-    "questionText": "b<u>ea</u>r (JAMB 2004)",
+    "questionText": "b<u>ea</u>r",
     "options": [
       "beer",
       "steer",
@@ -6697,7 +6697,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-240-528",
-    "questionText": "As regards the matter, we have crossed the rubicon (JAMB 2010)",
+    "questionText": "As regards the matter, we have crossed the rubicon",
     "options": [
       "We are completely at a toss",
       "We are irrevocably committed",
@@ -6709,7 +6709,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-241-186",
-    "questionText": "His <i>taciturnity</i> amaze everyone in one court during the legal tussle (JAMB 2005)",
+    "questionText": "His <i>taciturnity</i> amaze everyone in one court during the legal tussle",
     "options": [
       "obliviousness",
       "reticence",
@@ -6721,7 +6721,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-242-285",
-    "questionText": "He has no reason to <i>have his heart in his mouth</i> (JAMB 2006)",
+    "questionText": "He has no reason to <i>have his heart in his mouth</i>",
     "options": [
       "think negatively",
       "feel guilty",
@@ -6733,7 +6733,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-243-125",
-    "questionText": "We found a <i>shady</i> place for the display. (JAMB 2004)",
+    "questionText": "We found a <i>shady</i> place for the display.",
     "options": [
       "an open",
       "an unsafe",
@@ -6745,7 +6745,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-244-362",
-    "questionText": "Didn't .......  draw your attention to the entry requirements? (JAMB 2007)",
+    "questionText": "Didn't .......  draw your attention to the entry requirements?",
     "options": [
       "anyone",
       "everyone",
@@ -6757,7 +6757,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-245-414",
-    "questionText": "Kanuri is a language......... (JAMB 2008)",
+    "questionText": "Kanuri is a language.........",
     "options": [
       "I can't speak it well",
       "that I cant speak it well",
@@ -6769,7 +6769,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-246-461",
-    "questionText": "The <i>computerised</i> service of the new banks is heart­  warming.  (JAMB 2009)",
+    "questionText": "The <i>computerised</i> service of the new banks is heart­  warming.",
     "options": [
       "manual",
       "mechanical",
@@ -6781,7 +6781,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-247-1306",
-    "questionText": "It was _____ who killed the goat. (JAMB 2022)",
+    "questionText": "It was _____ who killed the goat.",
     "options": [
       "his",
       "him",
@@ -6793,7 +6793,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-248-1778",
-    "questionText": "The testimony of the witness was <u>vague</u>. (JAMB 2014)",
+    "questionText": "The testimony of the witness was <u>vague</u>.",
     "options": [
       "Clear.",
       "Disturbing.",
@@ -6805,7 +6805,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-249-633",
-    "questionText": "Of course we all saw the culprit ....... and hit the man on the head? (JAMB 2001)",
+    "questionText": "Of course we all saw the culprit ....... and hit the man on the head?",
     "options": [
       "approached",
       "approching",
@@ -6817,7 +6817,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-250-101",
-    "questionText": "Ju<u>dge</u> (JAMB 2004)",
+    "questionText": "Ju<u>dge</u>",
     "options": [
       "gear",
       "spinach",
@@ -6829,7 +6829,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-251-1742",
-    "questionText": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.\n\nDi<u>ce</u> (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.\n\nDi<u>ce</u>",
     "options": [
       "shame",
       "cue",
@@ -6841,7 +6841,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-252-82",
-    "questionText": "People dislike Mariam because she is …………… (JAMB 2004)",
+    "questionText": "People dislike Mariam because she is ……………",
     "options": [
       "trickful",
       "trickish",
@@ -6853,7 +6853,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-253-355",
-    "questionText": "The girl cannot speak with a clear voice; she is always ……….  (JAMB 2007)",
+    "questionText": "The girl cannot speak with a clear voice; she is always ……….",
     "options": [
       "blabbing",
       "vociferating",
@@ -6865,7 +6865,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-254-829",
-    "questionText": "The new manager was responsible for the …….of the organization. (JAMB 2002)",
+    "questionText": "The new manager was responsible for the …….of the organization.",
     "options": [
       "uplifting",
       "lifting",
@@ -6877,7 +6877,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-255-1619",
-    "questionText": "Mr Solade sent Jimi to Ibadan for the holidays in order to (JAMB 2016)",
+    "questionText": "Mr Solade sent Jimi to Ibadan for the holidays in order to",
     "options": [
       "save Jimi from Wole's bad influence",
       "heed Jimi's request to stay with his friends",
@@ -6889,7 +6889,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-256-1346",
-    "questionText": "All the ________ were stolen by the thieves (JAMB 2020)",
+    "questionText": "All the ________ were stolen by the thieves",
     "options": [
       "arm and ammunition",
       "arms and ammunition",
@@ -6901,7 +6901,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-257-1192",
-    "questionText": "Lambusa TOOK OFF the wig.\n (JAMB 2013)",
+    "questionText": "Lambusa TOOK OFF the wig.\n",
     "options": [
       "Who took off the wig?",
       "What did Lambusa do?",
@@ -6913,7 +6913,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-258-634",
-    "questionText": "A child that shows mature characteristics at an early age may be described as .......? (JAMB 2001)",
+    "questionText": "A child that shows mature characteristics at an early age may be described as .......?",
     "options": [
       "preconceived",
       "premature",
@@ -6925,7 +6925,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-259-1765",
-    "questionText": "Olu gave his brother a bumpy ride.  (JAMB 2014)",
+    "questionText": "Olu gave his brother a bumpy ride.",
     "options": [
       "Olu's brother rode on Olu's back to success.",
       "Olu took his brother on a bumpy road.",
@@ -6937,7 +6937,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-260-1738",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘I could hear his voice from a distance, rowdy and full of fun as usual,’to whom were these words said to and who said it? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘I could hear his voice from a distance, rowdy and full of fun as usual,’to whom were these words said to and who said it?",
     "options": [
       "Ansa to Nene Ekpo",
       "Nene ekpo to Ansa",
@@ -6949,7 +6949,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-261-1659",
-    "questionText": "'repri<u>e</u>ve'' (JAMB 2016)",
+    "questionText": "'repri<u>e</u>ve''",
     "options": [
       "rich",
       "police",
@@ -6961,7 +6961,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-262-1230",
-    "questionText": "The lawmakers are perceived to be the <u>greediest</u> set of politicians. (JAMB 2021)",
+    "questionText": "The lawmakers are perceived to be the <u>greediest</u> set of politicians.",
     "options": [
       "selfless",
       "unwanted",
@@ -6973,7 +6973,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-263-287",
-    "questionText": "Akpan was able to <i>douse</i> the flames with the new piece of equipment (JAMB 2006)",
+    "questionText": "Akpan was able to <i>douse</i> the flames with the new piece of equipment",
     "options": [
       "reduce",
       "extinguish",
@@ -6985,7 +6985,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-264-668",
-    "questionText": "It isinconceivable that the rat devoured the cat? (JAMB 2001)",
+    "questionText": "It isinconceivable that the rat devoured the cat?",
     "options": [
       "contestable",
       "incomprehensible",
@@ -6997,7 +6997,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-265-187",
-    "questionText": "The greatness of the creator of the universe is always <i>inexpressible</i> to many adherents of certain faiths (JAMB 2005)",
+    "questionText": "The greatness of the creator of the universe is always <i>inexpressible</i> to many adherents of certain faiths",
     "options": [
       "inevitable",
       "wonderful",
@@ -7009,7 +7009,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-266-726",
-    "questionText": "T<u>ea</u>r?\n\n.  (JAMB 2000)",
+    "questionText": "T<u>ea</u>r?\n\n.",
     "options": [
       "dare",
       "care",
@@ -7021,7 +7021,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-267-774",
-    "questionText": "The family discussed the crime committed and resolved to <u>nail the lie to the counter</u>? (JAMB 2000)",
+    "questionText": "The family discussed the crime committed and resolved to <u>nail the lie to the counter</u>?",
     "options": [
       "expose it publicly",
       "bury it in a coffin",
@@ -7033,7 +7033,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-268-1454",
-    "questionText": "As it relates to sex education, Aliya's father advised that (JAMB 2019)",
+    "questionText": "As it relates to sex education, Aliya's father advised that",
     "options": [
       "she should abstain totally from sex as this is the worst sin ever in the history of human civilisation",
       "she should wisely decide before letting go of her body",
@@ -7045,7 +7045,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-269-322",
-    "questionText": "Is it necessary for us to go?' she asked in her <i>shrill</i> voice  (JAMB 2007)",
+    "questionText": "Is it necessary for us to go?' she asked in her <i>shrill</i> voice",
     "options": [
       "angry",
       "quiet",
@@ -7057,7 +7057,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-270-1695",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat is the name of Efua’s Aunt? (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat is the name of Efua’s Aunt?",
     "options": [
       "funmi",
       "Moni",
@@ -7069,7 +7069,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-271-1507",
-    "questionText": "As a Journalist, Bola has always had a <u>nose</u> for stories (JAMB 2018)",
+    "questionText": "As a Journalist, Bola has always had a <u>nose</u> for stories",
     "options": [
       "an instinct",
       "a command",
@@ -7081,7 +7081,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-272-851",
-    "questionText": "cou<u>gh</u>?  (JAMB 2002)",
+    "questionText": "cou<u>gh</u>?",
     "options": [
       "though",
       "thoroughly",
@@ -7093,7 +7093,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-273-673",
-    "questionText": "All wondered why the principal was <u>ambivalent</u> about the students' future? (JAMB 2001)",
+    "questionText": "All wondered why the principal was <u>ambivalent</u> about the students' future?",
     "options": [
       "anxious",
       "inconsiderate",
@@ -7105,7 +7105,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-274-1606",
-    "questionText": "Suleiman's reason for becoming a Muslim in the novel is because Islam brings sense of ______? (JAMB 2017)",
+    "questionText": "Suleiman's reason for becoming a Muslim in the novel is because Islam brings sense of ______?",
     "options": [
       "radicalism and aggression",
       "boldness and awareness",
@@ -7117,7 +7117,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-275-508",
-    "questionText": "c<u>aug</u>ht (JAMB 2009)",
+    "questionText": "c<u>aug</u>ht",
     "options": [
       "hot",
       "water",
@@ -7129,7 +7129,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-276-1667",
-    "questionText": "crowd (JAMB 2016)",
+    "questionText": "crowd",
     "options": [
       "crow",
       "bard",
@@ -7141,7 +7141,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-277-1500",
-    "questionText": "Choose the option that best completes the gap. The young man looked carefully at the long document, but he couldn't make __________ what it meant (JAMB 2018)",
+    "questionText": "Choose the option that best completes the gap. The young man looked carefully at the long document, but he couldn't make __________ what it meant",
     "options": [
       "up",
       "out",
@@ -7153,7 +7153,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-278-1620",
-    "questionText": "Students refused to sympathize with Efua when drinks spilled on her because (JAMB 2016)",
+    "questionText": "Students refused to sympathize with Efua when drinks spilled on her because",
     "options": [
       "she would not accept their sympathy",
       "she was Jimi's only girlfriend",
@@ -7165,7 +7165,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-279-1514",
-    "questionText": "Choose the option that best explains the information conveyed in the sentence. Adawo is an Imp (JAMB 2018)",
+    "questionText": "Choose the option that best explains the information conveyed in the sentence. Adawo is an Imp",
     "options": [
       "Adawo behaves queenly",
       "Adawo behaves differently",
@@ -7177,7 +7177,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-280-90",
-    "questionText": "I don’t coming home, is he?......... he is isn’t. (JAMB 2004)",
+    "questionText": "I don’t coming home, is he?......... he is isn’t.",
     "options": [
       "Yes",
       "No",
@@ -7189,7 +7189,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-281-1362",
-    "questionText": "The exotic bird looked <u>resplendent</u>; its bright plumage contrasted with the rather _________ undergrowth (JAMB 2020)",
+    "questionText": "The exotic bird looked <u>resplendent</u>; its bright plumage contrasted with the rather _________ undergrowth",
     "options": [
       "immobile",
       "foreign",
@@ -7201,7 +7201,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-282-669",
-    "questionText": "In the latter part of his life, the famous soldier showed signs of <u>youthfulness</u>? (JAMB 2001)",
+    "questionText": "In the latter part of his life, the famous soldier showed signs of <u>youthfulness</u>?",
     "options": [
       "energy",
       "senility",
@@ -7213,7 +7213,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-283-254",
-    "questionText": "You are to write a report and give it to the security office (JAMB 2006)",
+    "questionText": "You are to write a report and give it to the security office",
     "options": [
       "After writing your report, give it to the security office",
       "You are writing a report, as the security office directed",
@@ -7225,7 +7225,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-284-385",
-    "questionText": "As a public officer, he should act with <i>scrupulous</i>  honesty at all times   (JAMB 2008)",
+    "questionText": "As a public officer, he should act with <i>scrupulous</i>  honesty at all times",
     "options": [
       "impeccable",
       "careless",
@@ -7237,7 +7237,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-285-476",
-    "questionText": "The president has mapped out so many <i>laudable</i> projects to embark upon  (JAMB 2009)",
+    "questionText": "The president has mapped out so many <i>laudable</i> projects to embark upon",
     "options": [
       "laughable",
       "good",
@@ -7249,7 +7249,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-286-1615",
-    "questionText": "In the novel, Ansa looked around glumly when Jimi was engrossed in laughter and chatter because he was (JAMB 2016)",
+    "questionText": "In the novel, Ansa looked around glumly when Jimi was engrossed in laughter and chatter because he was",
     "options": [
       "neglected by Jimi",
       "anxious to go home",
@@ -7261,7 +7261,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-287-242",
-    "questionText": "We have been living peacefully here but……….. hear rumours of war. (JAMB 2006)",
+    "questionText": "We have been living peacefully here but……….. hear rumours of war.",
     "options": [
       "again",
       "slowly",
@@ -7273,7 +7273,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-288-1421",
-    "questionText": "I abhor a <u>traitor</u> (JAMB 2019)",
+    "questionText": "I abhor a <u>traitor</u>",
     "options": [
       "fallacious person",
       "reveler of secrets",
@@ -7285,7 +7285,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-289-1737",
-    "questionText": "Choose the option that best fills the gap.\n\nWhilst the thief was -------------- the passengers kept apologizing for the inconveniences he was causing them. (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nWhilst the thief was -------------- the passengers kept apologizing for the inconveniences he was causing them.",
     "options": [
       "rabbing",
       "rubbing",
@@ -7297,7 +7297,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-290-852",
-    "questionText": "Preach<u>ed</u>? (JAMB 2002)",
+    "questionText": "Preach<u>ed</u>?",
     "options": [
       "question",
       "castle",
@@ -7309,7 +7309,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-291-552",
-    "questionText": "Kaltume  <i>crouched</i>  over the papers on her desk  (JAMB 2010)",
+    "questionText": "Kaltume  <i>crouched</i>  over the papers on her desk",
     "options": [
       "wrote on",
       "stood on",
@@ -7321,7 +7321,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-292-1745",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nMoth<u>e</u>r (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nMoth<u>e</u>r",
     "options": [
       "labour",
       "cargo",
@@ -7333,7 +7333,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-293-57",
-    "questionText": "c<u>olo</u>nel  (JAMB 2003)",
+    "questionText": "c<u>olo</u>nel",
     "options": [
       "golden",
       "girl",
@@ -7345,7 +7345,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-294-41",
-    "questionText": "Agbenu was <i>ecstatic</i> about her result  (JAMB 2003)",
+    "questionText": "Agbenu was <i>ecstatic</i> about her result",
     "options": [
       "sad",
       "dispassionate",
@@ -7357,7 +7357,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-295-1638",
-    "questionText": "It is important not to let mistakes <i>blight</i>  your life (JAMB 2016)",
+    "questionText": "It is important not to let mistakes <i>blight</i>  your life",
     "options": [
       "damage",
       "impart",
@@ -7369,7 +7369,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-296-1734",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘What is this good-for-nothing doing in my house’. Whose words were these? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘What is this good-for-nothing doing in my house’. Whose words were these?",
     "options": [
       "Jimi",
       "Mrs Solade",
@@ -7381,7 +7381,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-297-400",
-    "questionText": "The man described his son as a <i>willful</i> character (JAMB 2008)",
+    "questionText": "The man described his son as a <i>willful</i> character",
     "options": [
       "wicked",
       "obstinate",
@@ -7393,7 +7393,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-298-1354",
-    "questionText": "Our chief is very intelligent but he could be <u>parochial</u> in his judgements (JAMB 2020)",
+    "questionText": "Our chief is very intelligent but he could be <u>parochial</u> in his judgements",
     "options": [
       "deep",
       "broad",
@@ -7405,7 +7405,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-299-1355",
-    "questionText": "I went through his work; it was <u>gibberish</u> (JAMB 2020)",
+    "questionText": "I went through his work; it was <u>gibberish</u>",
     "options": [
       "meaningless",
       "meaningful",
@@ -7417,7 +7417,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-300-1402",
-    "questionText": "\"The Gandhi Test\" indicates how (JAMB 2019)",
+    "questionText": "\"The Gandhi Test\" indicates how",
     "options": [
       "stubborn people act without thinking of public perception",
       "one should act when it comes to choosing a career",
@@ -7429,7 +7429,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-301-759",
-    "questionText": "If he were here, it could be more fun. (JAMB 2000)",
+    "questionText": "If he were here, it could be more fun.",
     "options": [
       "He did not show up and so the occasion lacked much fun",
       "He was being expected to supply more fun",
@@ -7441,7 +7441,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-302-891",
-    "questionText": "The governor's visit is an <u>unprecedented</u> event in the history of the social club? (JAMB 2002)",
+    "questionText": "The governor's visit is an <u>unprecedented</u> event in the history of the social club?",
     "options": [
       "a perfect",
       "a momentous",
@@ -7453,7 +7453,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-303-1309",
-    "questionText": "Now that the company is <u>insolvent</u> , it will shut down. (JAMB 2022)",
+    "questionText": "Now that the company is <u>insolvent</u> , it will shut down.",
     "options": [
       "overworked",
       "unstable",
@@ -7465,7 +7465,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-304-966",
-    "questionText": "Ife asked me ....... ? (JAMB 2011)",
+    "questionText": "Ife asked me ....... ?",
     "options": [
       "what time it was",
       "what is it by my time",
@@ -7477,7 +7477,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-305-472",
-    "questionText": "<i>Curiously,</i> he escaped unhurt  (JAMB 2009)",
+    "questionText": "<i>Curiously,</i> he escaped unhurt",
     "options": [
       "interestingly",
       "unsurprisingly",
@@ -7489,7 +7489,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-306-228",
-    "questionText": "The ……….   robber showed no mercy during the attack.  (JAMB 2006)",
+    "questionText": "The ……….   robber showed no mercy during the attack.",
     "options": [
       "loquacious",
       "senseless",
@@ -7501,7 +7501,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-307-1556",
-    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  It is <i>customary</i> to find young men and women in sports. (JAMB 2018)",
+    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  It is <i>customary</i> to find young men and women in sports.",
     "options": [
       "Common",
       "Unusual",
@@ -7513,7 +7513,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-308-1176",
-    "questionText": "We have a family mutiny......our hands (JAMB 2013)",
+    "questionText": "We have a family mutiny......our hands",
     "options": [
       "on",
       "for",
@@ -7525,7 +7525,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-309-1779",
-    "questionText": "As a student, Isa tied <u>communal</u> living for a few years. (JAMB 2014)",
+    "questionText": "As a student, Isa tied <u>communal</u> living for a few years.",
     "options": [
       "Private.",
       "Collective.",
@@ -7537,7 +7537,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-310-973",
-    "questionText": "Please sit on the ....... ? (JAMB 2011)",
+    "questionText": "Please sit on the ....... ?",
     "options": [
       "carier",
       "career",
@@ -7549,7 +7549,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-311-34",
-    "questionText": "The elders rebuked  (JAMB 2003)",
+    "questionText": "The elders rebuked",
     "options": [
       "Olu for talking issue with his principal.",
       "Olu was scolded for acting in collusion with his principal",
@@ -7561,7 +7561,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-312-843",
-    "questionText": "He is ....... Kaduna ......... an official assignment? (JAMB 2002)",
+    "questionText": "He is ....... Kaduna ......... an official assignment?",
     "options": [
       "in / on",
       "at / in",
@@ -7573,7 +7573,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-313-1691",
-    "questionText": "What did Wole pick up from Jimi’s Table beside Jimi’s music CD’s, chemisty and Mathematics Textbooks? (JAMB 2015)",
+    "questionText": "What did Wole pick up from Jimi’s Table beside Jimi’s music CD’s, chemisty and Mathematics Textbooks?",
     "options": [
       "a pen",
       "a watch",
@@ -7585,7 +7585,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-314-1285",
-    "questionText": "John's watch is made of GOLD. (JAMB 2022)",
+    "questionText": "John's watch is made of GOLD.",
     "options": [
       "Whose watch is made of gold?",
       "What is made of gold?",
@@ -7597,7 +7597,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-315-753",
-    "questionText": "Audu fought with his ........ brother? (JAMB 2000)",
+    "questionText": "Audu fought with his ........ brother?",
     "options": [
       "senior",
       "older",
@@ -7609,7 +7609,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-316-882",
-    "questionText": "The witness <u>averred</u> that had seen Dosun at the scene of the crime? (JAMB 2002)",
+    "questionText": "The witness <u>averred</u> that had seen Dosun at the scene of the crime?",
     "options": [
       "argued",
       "confirmed",
@@ -7621,7 +7621,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-317-1302",
-    "questionText": "The secretary and treasurer did not do ____ job. (JAMB 2022)",
+    "questionText": "The secretary and treasurer did not do ____ job.",
     "options": [
       "their",
       "all of the above",
@@ -7633,7 +7633,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-318-1228",
-    "questionText": "nsecurity has <u>escalated</u> since the present government came into power. (JAMB 2021)",
+    "questionText": "nsecurity has <u>escalated</u> since the present government came into power.",
     "options": [
       "abated",
       "increased",
@@ -7645,7 +7645,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-319-1142",
-    "questionText": "The accused was <u>eventually</u> convicted (JAMB 2013)",
+    "questionText": "The accused was <u>eventually</u> convicted",
     "options": [
       "consequently",
       "subsequently",
@@ -7657,7 +7657,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-320-840",
-    "questionText": "The highly appreciative audience clapped ........ hands and showered ......... on the lecturer? (JAMB 2002)",
+    "questionText": "The highly appreciative audience clapped ........ hands and showered ......... on the lecturer?",
     "options": [
       "their /encomiums",
       "its / encomiums",
@@ -7669,7 +7669,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-321-156",
-    "questionText": "The crisis ended as suddenly as it began (JAMB 2005)",
+    "questionText": "The crisis ended as suddenly as it began",
     "options": [
       "The crisis ha suddenly as it began",
       "The crisis will not end suddenly",
@@ -7681,7 +7681,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-322-25",
-    "questionText": "It is often……. that inflation ……….  from too much money chasing very few goods.     (JAMB 2003)",
+    "questionText": "It is often……. that inflation ……….  from too much money chasing very few goods.",
     "options": [
       "said/results",
       "say/result",
@@ -7693,7 +7693,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-323-1032",
-    "questionText": "The principal was advised to be <u>flexible</u> on critical issues. (JAMB 2012)",
+    "questionText": "The principal was advised to be <u>flexible</u> on critical issues.",
     "options": [
       "livid",
       "cautious",
@@ -7705,7 +7705,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-324-1529",
-    "questionText": "By the time the plane reaches Harare, it __________in the air for twelve hours (JAMB 2018)",
+    "questionText": "By the time the plane reaches Harare, it __________in the air for twelve hours",
     "options": [
       "has been",
       "would be",
@@ -7717,7 +7717,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-325-749",
-    "questionText": "The warring factions need words of…….\n (JAMB 2000)",
+    "questionText": "The warring factions need words of…….\n",
     "options": [
       "advise",
       "adverse",
@@ -7729,7 +7729,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-326-203",
-    "questionText": "The Secretary-General was shocked at the number of……. (JAMB 2005)",
+    "questionText": "The Secretary-General was shocked at the number of…….",
     "options": [
       "child's soldiers",
       "childish soldiers",
@@ -7741,7 +7741,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-327-1021",
-    "questionText": "The vice chancellor is riding the crest of the last quarter of his administration. (JAMB 2012)",
+    "questionText": "The vice chancellor is riding the crest of the last quarter of his administration.",
     "options": [
       "The vice chancellor enjoys the acknowledgment of the success of his administration",
       "the vice chancellor does not enjoy the people's criticism of his administration",
@@ -7753,7 +7753,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-328-896",
-    "questionText": "The President gave another <u>extemporaneous</u> speech last Friday? (JAMB 2002)",
+    "questionText": "The President gave another <u>extemporaneous</u> speech last Friday?",
     "options": [
       "unprepared",
       "fascinating",
@@ -7765,7 +7765,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-329-1764",
-    "questionText": "Kunana is like a bear in the sore head. (JAMB 2014)",
+    "questionText": "Kunana is like a bear in the sore head.",
     "options": [
       "He is a bully.",
       "He is grumpy.",
@@ -7777,7 +7777,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-330-416",
-    "questionText": "The young man has..... to sober...……  after being drunk. (JAMB 2008)",
+    "questionText": "The young man has..... to sober...……  after being drunk.",
     "options": [
       "began/up",
       "begun/in",
@@ -7789,7 +7789,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-331-392",
-    "questionText": "<i>Mutual</i> love is what Kabi and Musa have in common, and nothing else.    (JAMB 2008)",
+    "questionText": "<i>Mutual</i> love is what Kabi and Musa have in common, and nothing else.",
     "options": [
       "insincere",
       "unhappy",
@@ -7801,7 +7801,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-332-1282",
-    "questionText": "Phone (JAMB 2022)",
+    "questionText": "Phone",
     "options": [
       "frown",
       "grown",
@@ -7813,7 +7813,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-333-1333",
-    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n\n \n\nCriticism (JAMB 2020)",
+    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n\n \n\nCriticism",
     "options": [
       "cri-ti-ci-SM",
       "cri-ti-CI-sm",
@@ -7825,7 +7825,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-334-236",
-    "questionText": "The investigation Commission has treated all the …… submitted to it by the warring factions (JAMB 2006)",
+    "questionText": "The investigation Commission has treated all the …… submitted to it by the warring factions",
     "options": [
       "protests",
       "petitions",
@@ -7837,7 +7837,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-335-650",
-    "questionText": "The editor was not happy that the Nigerian press was hemmed ....... ? (JAMB 2001)",
+    "questionText": "The editor was not happy that the Nigerian press was hemmed ....... ?",
     "options": [
       "up",
       "over",
@@ -7849,7 +7849,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-336-771",
-    "questionText": "Inspite of her grim situation, the young widow smiled dutifully at the visitor's <u>pleasantries</u>? (JAMB 2000)",
+    "questionText": "Inspite of her grim situation, the young widow smiled dutifully at the visitor's <u>pleasantries</u>?",
     "options": [
       "unkind comments",
       "sad stories",
@@ -7861,7 +7861,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-337-1139",
-    "questionText": "The girl took a <u>cursory</u> glance at the letter and hid it (JAMB 2013)",
+    "questionText": "The girl took a <u>cursory</u> glance at the letter and hid it",
     "options": [
       "Concise",
       "Brief",
@@ -7873,7 +7873,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-338-540",
-    "questionText": "Governing a country is not always as  <i>straightforward as</i>  people sometimes imagine. (JAMB 2010)",
+    "questionText": "Governing a country is not always as  <i>straightforward as</i>  people sometimes imagine.",
     "options": [
       "complicated",
       "troublesome",
@@ -7885,7 +7885,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-339-1353",
-    "questionText": "Because of the hard times, workers live in ___________ poverty\n (JAMB 2020)",
+    "questionText": "Because of the hard times, workers live in ___________ poverty\n",
     "options": [
       "repulsive",
       "ridiculous",
@@ -7897,7 +7897,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-340-1034",
-    "questionText": "Dupe was promoted for her <u>efficiency</u> (JAMB 2012)",
+    "questionText": "Dupe was promoted for her <u>efficiency</u>",
     "options": [
       "ability",
       "inconsistency",
@@ -7909,7 +7909,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-341-1265",
-    "questionText": " What question did Bint ask her teacher? (JAMB 2022)",
+    "questionText": " What question did Bint ask her teacher?",
     "options": [
       "How to say good morning",
       "How to say what is your name",
@@ -7921,7 +7921,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-342-1784",
-    "questionText": "The first round of the tournament was a  <u>doddle</u> . (JAMB 2014)",
+    "questionText": "The first round of the tournament was a  <u>doddle</u> .",
     "options": [
       "Exasperating.",
       "Easy.",
@@ -7933,7 +7933,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-343-1179",
-    "questionText": "L<u>au</u>d (JAMB 2013)",
+    "questionText": "L<u>au</u>d",
     "options": [
       "lathe",
       "core",
@@ -7945,7 +7945,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-344-302",
-    "questionText": "The astute businessman neatly <i>fended</i> off questions off questions about his private life. (JAMB 2007)",
+    "questionText": "The astute businessman neatly <i>fended</i> off questions off questions about his private life.",
     "options": [
       "asked",
       "explained",
@@ -7957,7 +7957,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-345-428",
-    "questionText": "You don't like Mathematics, ........... you? (JAMB 2008)",
+    "questionText": "You don't like Mathematics, ........... you?",
     "options": [
       "do",
       "don't",
@@ -7969,7 +7969,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-346-1817",
-    "questionText": "Keep. (JAMB 2014)",
+    "questionText": "Keep.",
     "options": [
       "Dead.",
       "Reap.",
@@ -7981,7 +7981,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-347-515",
-    "questionText": "own (JAMB 2009)",
+    "questionText": "own",
     "options": [
       "brown",
       "frown",
@@ -7993,7 +7993,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-348-327",
-    "questionText": "The Vice-Chancellor <i>relinquished</i> power at the end of busterm  (JAMB 2007)",
+    "questionText": "The Vice-Chancellor <i>relinquished</i> power at the end of busterm",
     "options": [
       "abandoned",
       "wielded",
@@ -8005,7 +8005,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-349-741",
-    "questionText": "I like the character that played the role of a political ....... at the last convention of our party? (JAMB 2000)",
+    "questionText": "I like the character that played the role of a political ....... at the last convention of our party?",
     "options": [
       "thorncoat",
       "torncoat",
@@ -8017,7 +8017,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-350-59",
-    "questionText": "The boys knew that a storm was <i>imminent</i> (JAMB 2003)",
+    "questionText": "The boys knew that a storm was <i>imminent</i>",
     "options": [
       "Impending",
       "encroaching",
@@ -8029,7 +8029,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-351-675",
-    "questionText": "My neighbour BRUISED his thigh while playing football? (JAMB 2001)",
+    "questionText": "My neighbour BRUISED his thigh while playing football?",
     "options": [
       "Did your neighbour break his leg while playing tennis?",
       "Did your neighbour fracture his thigh while playing football?",
@@ -8041,7 +8041,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762800-352-530",
-    "questionText": "As debutants in that tournament, the Super Eagles were up against their first opponents by three goals to nil (JAMB 2010)",
+    "questionText": "As debutants in that tournament, the Super Eagles were up against their first opponents by three goals to nil",
     "options": [
       "The Super Eagles were playing in the tournament for the first time, but they won their match by three goals to nothing",
       "Though the Super Eagles were rated as the weakest side in the tournament they won their first match by three goals to nil",
@@ -8053,7 +8053,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-353-651",
-    "questionText": "Three quarter of the hostel ........ been painted and three quarter of the students ...... moved in. (JAMB 2001)",
+    "questionText": "Three quarter of the hostel ........ been painted and three quarter of the students ...... moved in.",
     "options": [
       "has/ has",
       "has /have",
@@ -8065,7 +8065,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-354-975",
-    "questionText": "Getting a well paid job nowadays is an ...... task? (JAMB 2011)",
+    "questionText": "Getting a well paid job nowadays is an ...... task?",
     "options": [
       "utmost",
       "upbeat",
@@ -8077,7 +8077,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-355-49",
-    "questionText": "<i>Gregarious</i> animals can be found in the zoo. (JAMB 2003)",
+    "questionText": "<i>Gregarious</i> animals can be found in the zoo.",
     "options": [
       "lonely",
       "tame",
@@ -8089,7 +8089,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-356-754",
-    "questionText": "The Dark Continent was an ...... for Africa?  (JAMB 2000)",
+    "questionText": "The Dark Continent was an ...... for Africa?",
     "options": [
       "abuse",
       "enigma",
@@ -8101,7 +8101,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-357-38",
-    "questionText": "Co<u>n</u>crete  (JAMB 2003)",
+    "questionText": "Co<u>n</u>crete",
     "options": [
       "anxious",
       "concern",
@@ -8113,7 +8113,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-358-1726",
-    "questionText": "Four persons accused with currency ------------------ are being held by the securing agents\n (JAMB 2015)",
+    "questionText": "Four persons accused with currency ------------------ are being held by the securing agents\n",
     "options": [
       "traficking",
       "trafiking",
@@ -8125,7 +8125,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-359-87",
-    "questionText": "Ali goes to the stadium regularly, but he …………… to the church for months. (JAMB 2004)",
+    "questionText": "Ali goes to the stadium regularly, but he …………… to the church for months.",
     "options": [
       "hasn’t been",
       "haven’t been",
@@ -8137,7 +8137,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-360-885",
-    "questionText": "Everyone admired the manager's <u>adroit</u> handling of the crises in the company?\n (JAMB 2002)",
+    "questionText": "Everyone admired the manager's <u>adroit</u> handling of the crises in the company?\n",
     "options": [
       "clever",
       "tactless",
@@ -8149,7 +8149,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-361-95",
-    "questionText": "The storm………….. Havoc on several buildings in the village. (JAMB 2004)",
+    "questionText": "The storm………….. Havoc on several buildings in the village.",
     "options": [
       "wreaked",
       "wrecked",
@@ -8161,7 +8161,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-362-1658",
-    "questionText": "After too much exercise, some people suffer from cramp which is caused by the ......... of the muscles (JAMB 2016)",
+    "questionText": "After too much exercise, some people suffer from cramp which is caused by the ......... of the muscles",
     "options": [
       "contraction",
       "restriction",
@@ -8173,7 +8173,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-363-1754",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nIn chapter two, after the national anthem and assembly prayers, who gave a brief talk welcoming everyone? (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nIn chapter two, after the national anthem and assembly prayers, who gave a brief talk welcoming everyone?",
     "options": [
       "Seyi Lawal",
       "Jimi",
@@ -8185,7 +8185,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-364-177",
-    "questionText": "<i>Courteously</i>, Ade stood back to let his teacher go first through the door (JAMB 2005)",
+    "questionText": "<i>Courteously</i>, Ade stood back to let his teacher go first through the door",
     "options": [
       "patiently",
       "politely",
@@ -8197,7 +8197,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-365-541",
-    "questionText": "The crowd was very  <i>receptive </i>  to the speaker's suggestion  (JAMB 2010)",
+    "questionText": "The crowd was very  <i>receptive </i>  to the speaker's suggestion",
     "options": [
       "disobedient",
       "repellent",
@@ -8209,7 +8209,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-366-209",
-    "questionText": "g<u>uar</u>d (JAMB 2005)",
+    "questionText": "g<u>uar</u>d",
     "options": [
       "gourd",
       "guide",
@@ -8221,7 +8221,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-367-947",
-    "questionText": "The teacher who beat the student was treated with <u>mercy</u>? (JAMB 2011)",
+    "questionText": "The teacher who beat the student was treated with <u>mercy</u>?",
     "options": [
       "disrespect",
       "contempt",
@@ -8233,7 +8233,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-368-1788",
-    "questionText": "All the researchers were asked to  <u>gather</u> information on the new viral infection. (JAMB 2014)",
+    "questionText": "All the researchers were asked to  <u>gather</u> information on the new viral infection.",
     "options": [
       "Give.",
       "Collect.",
@@ -8245,7 +8245,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-369-1640",
-    "questionText": "Jumoke is fond of <i>carping</i> her sister (JAMB 2016)",
+    "questionText": "Jumoke is fond of <i>carping</i> her sister",
     "options": [
       "praising",
       "joking with",
@@ -8257,7 +8257,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-370-538",
-    "questionText": " Beneath Ado's  <i>guff</i>  exterior, he's really very kind-hearted (JAMB 2010)",
+    "questionText": " Beneath Ado's  <i>guff</i>  exterior, he's really very kind-hearted",
     "options": [
       "nice",
       "harsh",
@@ -8269,7 +8269,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-371-1751",
-    "questionText": "What did papa Solade do after knowing that Wole and jimi still saw secretly? (JAMB 2015)",
+    "questionText": "What did papa Solade do after knowing that Wole and jimi still saw secretly?",
     "options": [
       "he flogged jimi",
       "he flogged wole",
@@ -8281,7 +8281,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-372-694",
-    "questionText": "Tade became <u>timorous</u> when she was asked to give the valedictory speech? (JAMB 2001)",
+    "questionText": "Tade became <u>timorous</u> when she was asked to give the valedictory speech?",
     "options": [
       "excited",
       "nervous",
@@ -8293,7 +8293,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-373-1530",
-    "questionText": "The patient is suffering from ____________ (JAMB 2018)",
+    "questionText": "The patient is suffering from ____________",
     "options": [
       "reumatism",
       "rheumantism",
@@ -8305,7 +8305,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-374-151",
-    "questionText": "If the rain hadn’t fallen, we wouldn’t have missed the match. (JAMB 2005)",
+    "questionText": "If the rain hadn’t fallen, we wouldn’t have missed the match.",
     "options": [
       "The rain is falling, so we will miss the match.",
       "The rain fell, so we didn’t watch the match",
@@ -8317,7 +8317,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-375-1076",
-    "questionText": "The driver died in the .......... road accident (JAMB 2012)",
+    "questionText": "The driver died in the .......... road accident",
     "options": [
       "fatal",
       "brutal",
@@ -8329,7 +8329,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-376-588",
-    "questionText": "boys  (JAMB 2010)",
+    "questionText": "boys",
     "options": [
       "stays",
       "moist",
@@ -8341,7 +8341,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-377-1077",
-    "questionText": "_______your parents frown _______our friendship, we shouldn't see each other anymore (JAMB 2012)",
+    "questionText": "_______your parents frown _______our friendship, we shouldn't see each other anymore",
     "options": [
       "because/over",
       "since/at",
@@ -8353,7 +8353,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-378-1735",
-    "questionText": "From the words lettered A to D, choose the word that has the same <b>vowel</b> sound as the one represented by the underlined letters or letters underlined.\n\nBr<u>ou</u>ght (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same <b>vowel</b> sound as the one represented by the underlined letters or letters underlined.\n\nBr<u>ou</u>ght",
     "options": [
       "roar",
       "plough",
@@ -8365,7 +8365,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-379-1709",
-    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nBreeze (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nBreeze",
     "options": [
       "stress",
       "chess",
@@ -8377,7 +8377,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-380-657",
-    "questionText": "<u>Th</u>ank? (JAMB 2001)",
+    "questionText": "<u>Th</u>ank?",
     "options": [
       "though",
       "thought",
@@ -8389,7 +8389,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-381-1351",
-    "questionText": "Many countries no longer have _______ punishment as the penalty for murder (JAMB 2020)",
+    "questionText": "Many countries no longer have _______ punishment as the penalty for murder",
     "options": [
       "mortal",
       "corporal",
@@ -8401,7 +8401,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-382-1526",
-    "questionText": "We found a <i>shady</i> place for the display (JAMB 2018)",
+    "questionText": "We found a <i>shady</i> place for the display",
     "options": [
       "an open",
       "an unsafe",
@@ -8413,7 +8413,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-383-21",
-    "questionText": "How is the new editor ……………on with hit work (JAMB 2003)",
+    "questionText": "How is the new editor ……………on with hit work",
     "options": [
       "moving",
       "getting",
@@ -8425,7 +8425,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-384-350",
-    "questionText": "Yesterday in the hall, Ola said that ...........  his watch. (JAMB 2007)",
+    "questionText": "Yesterday in the hall, Ola said that ...........  his watch.",
     "options": [
       "he had mislaid",
       "he had forgot",
@@ -8437,7 +8437,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-385-332",
-    "questionText": "Do not be <i>discouraged</i> by failure in life. (JAMB 2007)",
+    "questionText": "Do not be <i>discouraged</i> by failure in life.",
     "options": [
       "overjoyed",
       "dissuaded",
@@ -8449,7 +8449,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-386-1621",
-    "questionText": "Which of the following best describes Mr Mallum? (JAMB 2016)",
+    "questionText": "Which of the following best describes Mr Mallum?",
     "options": [
       "He was a fat, tall man with wimpish behaviour",
       "He was a tall, wiry man with good diction",
@@ -8461,7 +8461,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-387-531",
-    "questionText": "The woman was mournful as her husband was found dead drunk   (JAMB 2010)",
+    "questionText": "The woman was mournful as her husband was found dead drunk",
     "options": [
       "She was sad because her husband was absolutely drunk",
       "She was apprehensive that her husband would drink again as soon as he recovered from the drunken stupor.",
@@ -8473,7 +8473,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-388-1342",
-    "questionText": "Thank you for the __________ of presenting my paper. (JAMB 2020)",
+    "questionText": "Thank you for the __________ of presenting my paper.",
     "options": [
       "privelege",
       "priviledge",
@@ -8485,7 +8485,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-389-824",
-    "questionText": "Musa has lived here for five years but he does not seem able to get over the enormously........ and elaborate rules that govern the society? (JAMB 2002)",
+    "questionText": "Musa has lived here for five years but he does not seem able to get over the enormously........ and elaborate rules that govern the society?",
     "options": [
       "adsurd",
       "bizarre",
@@ -8497,7 +8497,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-390-304",
-    "questionText": "The shortage of petrol was a <i>perennial</i> problem (JAMB 2007)",
+    "questionText": "The shortage of petrol was a <i>perennial</i> problem",
     "options": [
       "a recurring",
       "a seasonal",
@@ -8509,7 +8509,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-391-553",
-    "questionText": "The <i> panacea</i>  for a country's economic mess lies in systematic planning and hard work  (JAMB 2010)",
+    "questionText": "The <i> panacea</i>  for a country's economic mess lies in systematic planning and hard work",
     "options": [
       "cure",
       "hope",
@@ -8521,7 +8521,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-392-1145",
-    "questionText": "The war against malaria keeps <u>waxing</u> (JAMB 2013)",
+    "questionText": "The war against malaria keeps <u>waxing</u>",
     "options": [
       "Decreasing",
       "increasing",
@@ -8533,7 +8533,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-393-1524",
-    "questionText": "The Journalist said he was working </i>freelance</i> (JAMB 2018)",
+    "questionText": "The Journalist said he was working </i>freelance</i>",
     "options": [
       "tireless",
       "without pay",
@@ -8545,7 +8545,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-394-1607",
-    "questionText": "Tayo opted to remain in Nigeria because he had a duty to serve his (JAMB 2017)",
+    "questionText": "Tayo opted to remain in Nigeria because he had a duty to serve his",
     "options": [
       "students",
       "wife",
@@ -8557,7 +8557,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-395-158",
-    "questionText": "The Governor parried all the questions put to him by the journalist. (JAMB 2005)",
+    "questionText": "The Governor parried all the questions put to him by the journalist.",
     "options": [
       "The Governor answered all the questions brilliantly",
       "The Governor evaded all the questions",
@@ -8569,7 +8569,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-396-258",
-    "questionText": "The dispute over land acquisition has now come a head (JAMB 2006)",
+    "questionText": "The dispute over land acquisition has now come a head",
     "options": [
       "The problem has reached crisis proportions",
       "The problem has now been referred to the headquarters",
@@ -8581,7 +8581,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-397-1612",
-    "questionText": "According to Tayo the two major problems of Nigeria were (JAMB 2017)",
+    "questionText": "According to Tayo the two major problems of Nigeria were",
     "options": [
       "tribalism and religion",
       "politics and culture",
@@ -8593,7 +8593,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-398-1044",
-    "questionText": "The way the workshop was organized was rather <u>hit-and-miss</u> (JAMB 2012)",
+    "questionText": "The way the workshop was organized was rather <u>hit-and-miss</u>",
     "options": [
       "systematic",
       "hasty",
@@ -8605,7 +8605,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-399-208",
-    "questionText": "b<u>ee</u>r (JAMB 2005)",
+    "questionText": "b<u>ee</u>r",
     "options": [
       "bear",
       "pear",
@@ -8617,7 +8617,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-400-36",
-    "questionText": " <u>Ch</u>alet (JAMB 2003)",
+    "questionText": " <u>Ch</u>alet",
     "options": [
       "chairman",
       "College",
@@ -8629,7 +8629,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-401-317",
-    "questionText": "bl<u>ues</u> (JAMB 2007)",
+    "questionText": "bl<u>ues</u>",
     "options": [
       "book",
       "root",
@@ -8641,7 +8641,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-402-1475",
-    "questionText": "These policies have been [espoused] by the ruling party (JAMB 2019)",
+    "questionText": "These policies have been [espoused] by the ruling party",
     "options": [
       "condemned",
       "rejected",
@@ -8653,7 +8653,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-403-1697",
-    "questionText": "Choose the option that best fills the gap.\n\nThe choice to go is ------------- (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nThe choice to go is -------------",
     "options": [
       "yours'",
       "your",
@@ -8665,7 +8665,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-404-1790",
-    "questionText": "The house and the senate will at noon next Wednesday, _________ to hear a special address by the president. (JAMB 2014)",
+    "questionText": "The house and the senate will at noon next Wednesday, _________ to hear a special address by the president.",
     "options": [
       "Collude.",
       "Convene.",
@@ -8677,7 +8677,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-405-1157",
-    "questionText": "As a journalist, Bala has always had a <u>nose</u> for stories (JAMB 2013)",
+    "questionText": "As a journalist, Bala has always had a <u>nose</u> for stories",
     "options": [
       "an instinct",
       "a command",
@@ -8689,7 +8689,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-406-1127",
-    "questionText": "The departure of Ibo competitors to the \nEast had favoured (JAMB 2013)",
+    "questionText": "The departure of Ibo competitors to the \nEast had favoured",
     "options": [
       "Okoh’s marriage",
       "Mama Okoh’s business",
@@ -8701,7 +8701,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-407-198",
-    "questionText": "We won't leave until it ……..  Raining (JAMB 2005)",
+    "questionText": "We won't leave until it ……..  Raining",
     "options": [
       "will stop",
       "stopped",
@@ -8713,7 +8713,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-408-318",
-    "questionText": "p<u>ears</u> (JAMB 2007)",
+    "questionText": "p<u>ears</u>",
     "options": [
       "dear",
       "year",
@@ -8725,7 +8725,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-409-127",
-    "questionText": "sufficiency (JAMB 2004)",
+    "questionText": "sufficiency",
     "options": [
       "sufFIciency",
       "SUFficiency",
@@ -8737,7 +8737,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-410-1284",
-    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nWatch<u>ed</u> (JAMB 2022)",
+    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nWatch<u>ed</u>",
     "options": [
       "lived",
       "address",
@@ -8749,7 +8749,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-411-1082",
-    "questionText": "P<u>a</u>tch (JAMB 2012)",
+    "questionText": "P<u>a</u>tch",
     "options": [
       "starch",
       "fare",
@@ -8761,7 +8761,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-412-1121",
-    "questionText": "Uke was conscripted into the military because (JAMB 2013)",
+    "questionText": "Uke was conscripted into the military because",
     "options": [
       "He was a social nuisance",
       "He loved the British soldiers",
@@ -8773,7 +8773,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-413-751",
-    "questionText": "There are many……. to her personality. (JAMB 2000)",
+    "questionText": "There are many……. to her personality.",
     "options": [
       "moods",
       "styles",
@@ -8785,7 +8785,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-414-1373",
-    "questionText": "I am quite <u>outspoken</u> but my brother is __________ (JAMB 2020)",
+    "questionText": "I am quite <u>outspoken</u> but my brother is __________",
     "options": [
       "dumb",
       "indolent",
@@ -8797,7 +8797,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-415-1801",
-    "questionText": "Cooking has never been Jumoke's _____. (JAMB 2014)",
+    "questionText": "Cooking has never been Jumoke's _____.",
     "options": [
       "Forte.",
       "Recital.",
@@ -8809,7 +8809,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-416-1344",
-    "questionText": "You need to __________your points\n (JAMB 2020)",
+    "questionText": "You need to __________your points\n",
     "options": [
       "expanciate",
       "expaciate",
@@ -8821,7 +8821,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-417-1405",
-    "questionText": "... is quick to anger and doesn't hide it when she is (JAMB 2019)",
+    "questionText": "... is quick to anger and doesn't hide it when she is",
     "options": [
       "Aliyu",
       "Mrs Bello",
@@ -8833,7 +8833,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-418-629",
-    "questionText": "Neither Agbo nor his parents ...... the meetings now? (JAMB 2001)",
+    "questionText": "Neither Agbo nor his parents ...... the meetings now?",
     "options": [
       "attended",
       "attend",
@@ -8845,7 +8845,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-419-133",
-    "questionText": "Okonkwo manages his household <i>with a heavy hand.</i> (JAMB 2004)",
+    "questionText": "Okonkwo manages his household <i>with a heavy hand.</i>",
     "options": [
       "like a powerful dictator",
       "using the cane on every occasion",
@@ -8857,7 +8857,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762801-420-1821",
-    "questionText": "Conspiracy. (JAMB 2014)",
+    "questionText": "Conspiracy.",
     "options": [
       "CONspiracy.",
       "conspiRAcy.",
@@ -8869,7 +8869,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-421-1623",
-    "questionText": "Jimi and Efua, there's something fishy going on there....\nFrom the exercept above, the expression...something fishy refers to (JAMB 2016)",
+    "questionText": "Jimi and Efua, there's something fishy going on there....\nFrom the exercept above, the expression...something fishy refers to",
     "options": [
       "Nene's fear that Efua and Jimi were no longer going out",
       "Nene's fear that Jimi was not determined to jilt Efua",
@@ -8881,7 +8881,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-422-587",
-    "questionText": "o<u>f </u>course   (JAMB 2010)",
+    "questionText": "o<u>f </u>course",
     "options": [
       "plough",
       "dough",
@@ -8893,7 +8893,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-423-425",
-    "questionText": "If you are not careful, you would .......... your money. (JAMB 2008)",
+    "questionText": "If you are not careful, you would .......... your money.",
     "options": [
       "toss",
       "lose",
@@ -8905,7 +8905,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-424-229",
-    "questionText": "Did you have ……… when you went to visit the medical doctor?  (JAMB 2006)",
+    "questionText": "Did you have ……… when you went to visit the medical doctor?",
     "options": [
       "diarrhea",
       "diarrhea",
@@ -8917,7 +8917,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-425-1762",
-    "questionText": "Jummai's father remarked that pigs would fly before she passed. (JAMB 2014)",
+    "questionText": "Jummai's father remarked that pigs would fly before she passed.",
     "options": [
       "She would have to cheat in order to pass.",
       "It would be possible to pass only if she worked harder.",
@@ -8929,7 +8929,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-426-1769",
-    "questionText": "Many workers are not happy because they live a hand-to-mouth life. (JAMB 2014)",
+    "questionText": "Many workers are not happy because they live a hand-to-mouth life.",
     "options": [
       "They work hard with their hands.",
       "They are voracious and avaricious.",
@@ -8941,7 +8941,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-427-395",
-    "questionText": "On the first day of her examination, Amina felt very <i>confident.</i> (JAMB 2008)",
+    "questionText": "On the first day of her examination, Amina felt very <i>confident.</i>",
     "options": [
       "excited",
       "dull",
@@ -8953,7 +8953,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-428-1269",
-    "questionText": "What was Omar's JAMB exam score? (JAMB 2022)",
+    "questionText": "What was Omar's JAMB exam score?",
     "options": [
       "230",
       "250",
@@ -8965,7 +8965,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-429-1627",
-    "questionText": "Jimi was very prominent in Forcados High School because he was (JAMB 2016)",
+    "questionText": "Jimi was very prominent in Forcados High School because he was",
     "options": [
       "the son of a great scholar",
       "the only child of his parents",
@@ -8977,7 +8977,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-430-1752",
-    "questionText": "‘Jims, we have a prefect meeting with Mr Mallum now’ who made this statement? (JAMB 2015)",
+    "questionText": "‘Jims, we have a prefect meeting with Mr Mallum now’ who made this statement?",
     "options": [
       "Seyi Lawal",
       "Mr Mallum",
@@ -8989,7 +8989,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-431-418",
-    "questionText": "The police officer warned the... communities against taking the law……… hands (JAMB 2008)",
+    "questionText": "The police officer warned the... communities against taking the law……… hands",
     "options": [
       "feuding/into their own",
       "feudal/ to their own",
@@ -9001,7 +9001,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-432-144",
-    "questionText": "The student BOUGHT the book. (JAMB 2004)",
+    "questionText": "The student BOUGHT the book.",
     "options": [
       "Who bought the book?",
       "Did the student steal the book?",
@@ -9013,7 +9013,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-433-310",
-    "questionText": " <i>Beads</i> of sweat ran down Ngozi's armpit (JAMB 2007)",
+    "questionText": " <i>Beads</i> of sweat ran down Ngozi's armpit",
     "options": [
       "Pools",
       "Springs",
@@ -9025,7 +9025,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-434-305",
-    "questionText": "The rest of the boys admire Olu's <i>verve</i> (JAMB 2007)",
+    "questionText": "The rest of the boys admire Olu's <i>verve</i>",
     "options": [
       "intelligence",
       "work",
@@ -9037,7 +9037,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-435-1496",
-    "questionText": "Choose the option that best completes the gap. The chairman refused to shake __________ with the secretary (JAMB 2018)",
+    "questionText": "Choose the option that best completes the gap. The chairman refused to shake __________ with the secretary",
     "options": [
       "hand",
       "his hand",
@@ -9049,7 +9049,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-436-489",
-    "questionText": "When the cashier told him to join the queue, he considered it……. his dignity. (JAMB 2009)",
+    "questionText": "When the cashier told him to join the queue, he considered it……. his dignity.",
     "options": [
       "a drawback to",
       "an affront on",
@@ -9061,7 +9061,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-437-264",
-    "questionText": "The witness provided a <i>monstrous</i> account of the event (JAMB 2006)",
+    "questionText": "The witness provided a <i>monstrous</i> account of the event",
     "options": [
       "supportive",
       "tragic",
@@ -9073,7 +9073,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-438-570",
-    "questionText": "The principal said that he was pleased......... my effort. (JAMB 2010)",
+    "questionText": "The principal said that he was pleased......... my effort.",
     "options": [
       "on",
       "of",
@@ -9085,7 +9085,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-439-1267",
-    "questionText": "How much did Habib give Tomiwa personally? (JAMB 2022)",
+    "questionText": "How much did Habib give Tomiwa personally?",
     "options": [
       "Ten thousand naira",
       "Five Thousand Naira",
@@ -9097,7 +9097,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-440-1052",
-    "questionText": "During a particular time of the day, the road <u>shimmers</u> in the heat (JAMB 2012)",
+    "questionText": "During a particular time of the day, the road <u>shimmers</u> in the heat",
     "options": [
       "darkens",
       "lightens",
@@ -9109,7 +9109,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-441-989",
-    "questionText": "meditative? (JAMB 2011)",
+    "questionText": "meditative?",
     "options": [
       "meDItative",
       "mediTAtive",
@@ -9121,7 +9121,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-442-977",
-    "questionText": "Bola studiously avoided ....... the questions? (JAMB 2011)",
+    "questionText": "Bola studiously avoided ....... the questions?",
     "options": [
       "parrying",
       "answering",
@@ -9133,7 +9133,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-443-23",
-    "questionText": "Nowadays, many graduates are not Will disposed to teaching…………….. (JAMB 2003)",
+    "questionText": "Nowadays, many graduates are not Will disposed to teaching……………..",
     "options": [
       "are they",
       "aren't they?",
@@ -9145,7 +9145,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-444-1231",
-    "questionText": "James found the photocopied material <u>invaluable</u> while preparing for the examination  (JAMB 2021)",
+    "questionText": "James found the photocopied material <u>invaluable</u> while preparing for the examination",
     "options": [
       "Valuable",
       "worthwhile",
@@ -9157,7 +9157,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-445-527",
-    "questionText": "The headmaster managed to talk his way out of having  to give a speech  (JAMB 2010)",
+    "questionText": "The headmaster managed to talk his way out of having  to give a speech",
     "options": [
       "He delivered a speech despite the difficulty",
       "He managed to give a speech out of a difficult situation",
@@ -9169,7 +9169,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-446-1610",
-    "questionText": "In the book \"Independence\" Wearing woolens, lamb cardigans, extra socks, gloves and Balliol scarf signified that Tayo was _______? (JAMB 2017)",
+    "questionText": "In the book \"Independence\" Wearing woolens, lamb cardigans, extra socks, gloves and Balliol scarf signified that Tayo was _______?",
     "options": [
       "Cold",
       "Going to a party",
@@ -9181,7 +9181,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-447-1331",
-    "questionText": "Choose the one with the different stress pattern (JAMB 2020)",
+    "questionText": "Choose the one with the different stress pattern",
     "options": [
       "physique",
       "menace",
@@ -9193,7 +9193,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-448-1292",
-    "questionText": "My father is <u>parsimonious</u> (JAMB 2022)",
+    "questionText": "My father is <u>parsimonious</u>",
     "options": [
       "thrifty",
       "ungenerous",
@@ -9205,7 +9205,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-449-319",
-    "questionText": "The refugees were received at the <i>transit</i> camp. (JAMB 2007)",
+    "questionText": "The refugees were received at the <i>transit</i> camp.",
     "options": [
       "passage",
       "permanent",
@@ -9217,7 +9217,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-450-519",
-    "questionText": "I AM called Uche a pilot.  (JAMB 2009)",
+    "questionText": "I AM called Uche a pilot.",
     "options": [
       "What did Lam call Uche",
       "Did Okoro call Uche a pilot?",
@@ -9229,7 +9229,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-451-681",
-    "questionText": "The solution lies in choosing between various negative alternatives? (JAMB 2001)",
+    "questionText": "The solution lies in choosing between various negative alternatives?",
     "options": [
       "the solution can be found in one of negative options",
       "the solution lies in choosing between the positively and the negative and the negative",
@@ -9241,7 +9241,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-452-1810",
-    "questionText": "C<u>oo</u>l. (JAMB 2014)",
+    "questionText": "C<u>oo</u>l.",
     "options": [
       "Should.",
       "Full.",
@@ -9253,7 +9253,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-453-53",
-    "questionText": "The witness decided to <i>conceal</i> the evidence  (JAMB 2003)",
+    "questionText": "The witness decided to <i>conceal</i> the evidence",
     "options": [
       "waive",
       "divulge",
@@ -9265,7 +9265,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-454-928",
-    "questionText": "Okon's company took a hit last year? (JAMB 2011)",
+    "questionText": "Okon's company took a hit last year?",
     "options": [
       "His company improved last year",
       "His company made a huge success last year",
@@ -9277,7 +9277,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-455-276",
-    "questionText": "He is <i>prolific</i>  writer  (JAMB 2006)",
+    "questionText": "He is <i>prolific</i>  writer",
     "options": [
       "a very productive",
       "a well-known",
@@ -9289,7 +9289,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-456-1171",
-    "questionText": "Umar: I have never visted the dentist\nAliyu: ......? (JAMB 2013)",
+    "questionText": "Umar: I have never visted the dentist\nAliyu: ......?",
     "options": [
       "neither myself",
       "i myself haven't",
@@ -9301,7 +9301,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-457-1464",
-    "questionText": "The prisoner finally ........ that he drank to ........ on the night he committed the murder (JAMB 2019)",
+    "questionText": "The prisoner finally ........ that he drank to ........ on the night he committed the murder",
     "options": [
       "acceded/access",
       "conceded/excess",
@@ -9313,7 +9313,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-458-580",
-    "questionText": "  Based on the facts before me, I have no alternative...........to hold you responsible  (JAMB 2010)",
+    "questionText": "  Based on the facts before me, I have no alternative...........to hold you responsible",
     "options": [
       "only",
       "as",
@@ -9325,7 +9325,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-459-383",
-    "questionText": "The weather condition now <i>prevailin</i>g in the town is unbearable    (JAMB 2008)",
+    "questionText": "The weather condition now <i>prevailin</i>g in the town is unbearable",
     "options": [
       "widespread",
       "dominant",
@@ -9337,7 +9337,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-460-729",
-    "questionText": "ENORMOUS? (JAMB 2000)",
+    "questionText": "ENORMOUS?",
     "options": [
       "interest",
       "solution",
@@ -9349,7 +9349,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-461-677",
-    "questionText": "Oche's chief idiosyncrasy is a passion for pounded yam? (JAMB 2001)",
+    "questionText": "Oche's chief idiosyncrasy is a passion for pounded yam?",
     "options": [
       "Oche's chief hates pounded yam",
       "Oche pounded yam",
@@ -9361,7 +9361,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-462-1028",
-    "questionText": "The player wasted a golden opportunity during the penalty shoot-out (JAMB 2012)",
+    "questionText": "The player wasted a golden opportunity during the penalty shoot-out",
     "options": [
       "The player first hit the bar",
       "The player did not score the shot",
@@ -9373,7 +9373,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-463-1360",
-    "questionText": "The Major demanded an <u>unalloyed</u> and not a __________ loyalty from his soldiers (JAMB 2020)",
+    "questionText": "The Major demanded an <u>unalloyed</u> and not a __________ loyalty from his soldiers",
     "options": [
       "strict",
       "wavering",
@@ -9385,7 +9385,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-464-1822",
-    "questionText": "My mother bought a BICYCLE yesterday. (JAMB 2014)",
+    "questionText": "My mother bought a BICYCLE yesterday.",
     "options": [
       "When did my mother buy a bicycle?",
       "What did my mother buy yesterday?",
@@ -9397,7 +9397,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-465-1358",
-    "questionText": "The appearance which the famous actor made last month was his swan song. This meant that_________ (JAMB 2020)",
+    "questionText": "The appearance which the famous actor made last month was his swan song. This meant that_________",
     "options": [
       "the actor sang beautifully during the play",
       "the play was postponed because of the actor's non-appearance",
@@ -9409,7 +9409,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-466-1313",
-    "questionText": "Choose the option that has the same stress pattern as the given word.\n\nStudent (JAMB 2022)",
+    "questionText": "Choose the option that has the same stress pattern as the given word.\n\nStudent",
     "options": [
       "Refuse(N)",
       "Propose",
@@ -9421,7 +9421,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-467-431",
-    "questionText": "By the end of this month……….for three years in this school. (JAMB 2008)",
+    "questionText": "By the end of this month……….for three years in this school.",
     "options": [
       "I will study",
       "I will have been studying",
@@ -9433,7 +9433,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-468-772",
-    "questionText": "I have always believed that my mother is a very <u>impassioned</u> woman? (JAMB 2000)",
+    "questionText": "I have always believed that my mother is a very <u>impassioned</u> woman?",
     "options": [
       "emotion",
       "impartial",
@@ -9445,7 +9445,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-469-1136",
-    "questionText": "Usman needs to get his act together if he wants to pass the examination (JAMB 2013)",
+    "questionText": "Usman needs to get his act together if he wants to pass the examination",
     "options": [
       "He needs to organized himself",
       "He needs to be fast when writing the examination",
@@ -9457,7 +9457,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-470-1182",
-    "questionText": "Lo<u>se</u> (JAMB 2013)",
+    "questionText": "Lo<u>se</u>",
     "options": [
       "noise",
       "horse",
@@ -9469,7 +9469,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-471-1747",
-    "questionText": "For taking part in the unsuccessful ------------------, the mutineers were court-martialed (JAMB 2015)",
+    "questionText": "For taking part in the unsuccessful ------------------, the mutineers were court-martialed",
     "options": [
       "coope",
       "copes",
@@ -9481,7 +9481,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-472-949",
-    "questionText": "Agoshito is a <u>callow</u> youth', said the teacher? (JAMB 2011)",
+    "questionText": "Agoshito is a <u>callow</u> youth', said the teacher?",
     "options": [
       "an ignorant",
       "an experienced",
@@ -9493,7 +9493,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-473-224",
-    "questionText": "     ………….  been there to look for her several times without success. (JAMB 2006)",
+    "questionText": "     ………….  been there to look for her several times without success.",
     "options": [
       "He'll",
       "He’s",
@@ -9505,7 +9505,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-474-765",
-    "questionText": "The boy was told that he would need <u>several</u> more pints of blood if he was to survive. (JAMB 2000)",
+    "questionText": "The boy was told that he would need <u>several</u> more pints of blood if he was to survive.",
     "options": [
       "many",
       "much",
@@ -9517,7 +9517,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-475-485",
-    "questionText": " His <i>amnesia</i> has affected his career  (JAMB 2009)",
+    "questionText": " His <i>amnesia</i> has affected his career",
     "options": [
       "loss of focus",
       "loss of sight",
@@ -9529,7 +9529,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-476-1699",
-    "questionText": "From the options, choose the word(s) that best filll the gap.\n\nMrs Godwin ---------------- in this school since 2001\n (JAMB 2015)",
+    "questionText": "From the options, choose the word(s) that best filll the gap.\n\nMrs Godwin ---------------- in this school since 2001\n",
     "options": [
       "taught",
       "was teaching",
@@ -9541,7 +9541,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-477-1478",
-    "questionText": "G[ua]rantee (JAMB 2019)",
+    "questionText": "G[ua]rantee",
     "options": [
       "plait",
       "far",
@@ -9553,7 +9553,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-478-728",
-    "questionText": "Cali<u>ph</u>?  (JAMB 2000)",
+    "questionText": "Cali<u>ph</u>?",
     "options": [
       "presently",
       "perhaps",
@@ -9565,7 +9565,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-479-1350",
-    "questionText": "Mr Cham will never tell you everything, he is very ________ (JAMB 2020)",
+    "questionText": "Mr Cham will never tell you everything, he is very ________",
     "options": [
       "secretive",
       "quiet",
@@ -9577,7 +9577,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-480-976",
-    "questionText": "The secretary has no right to ....... my affairs? (JAMB 2011)",
+    "questionText": "The secretary has no right to ....... my affairs?",
     "options": [
       "spy from",
       "meddle in",
@@ -9589,7 +9589,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-481-929",
-    "questionText": "Since its <u>inception</u> 1983, the newspaper has attracted thousands of readers? (JAMB 2011)",
+    "questionText": "Since its <u>inception</u> 1983, the newspaper has attracted thousands of readers?",
     "options": [
       "renaissance",
       "coming",
@@ -9601,7 +9601,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-482-1174",
-    "questionText": "Our teacher defined.......as the killing of one's mother (JAMB 2013)",
+    "questionText": "Our teacher defined.......as the killing of one's mother",
     "options": [
       "materiarch",
       "patricide",
@@ -9613,7 +9613,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-483-316",
-    "questionText": "p<u>os</u>table (JAMB 2007)",
+    "questionText": "p<u>os</u>table",
     "options": [
       "paw",
       "pot",
@@ -9625,7 +9625,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-484-1787",
-    "questionText": "You can <u>learn</u> a great deal just from watching other players. (JAMB 2014)",
+    "questionText": "You can <u>learn</u> a great deal just from watching other players.",
     "options": [
       "Discover.",
       "Invent.",
@@ -9637,7 +9637,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-485-656",
-    "questionText": "Pas<u>t</u>? (JAMB 2001)",
+    "questionText": "Pas<u>t</u>?",
     "options": [
       "wrestle",
       "preached",
@@ -9649,7 +9649,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-486-780",
-    "questionText": "The new ruler is <u>big-hearted</u> in his dealing with people? (JAMB 2000)",
+    "questionText": "The new ruler is <u>big-hearted</u> in his dealing with people?",
     "options": [
       "generous",
       "cruel",
@@ -9661,7 +9661,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-487-349",
-    "questionText": "The rain fell for days...  (JAMB 2007)",
+    "questionText": "The rain fell for days...",
     "options": [
       "on ending",
       "at ending",
@@ -9673,7 +9673,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-488-1616",
-    "questionText": "Mama Shilifat had an affection for Jimi because she always gave him (JAMB 2016)",
+    "questionText": "Mama Shilifat had an affection for Jimi because she always gave him",
     "options": [
       "money to buy chewing gum",
       "advice against bad students",
@@ -9685,7 +9685,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-489-1087",
-    "questionText": "Impossible (JAMB 2012)",
+    "questionText": "Impossible",
     "options": [
       "im<u>POS</u>sible",
       "<u>IM</u>possible",
@@ -9697,7 +9697,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-490-655",
-    "questionText": "<u>Ch</u>urch? (JAMB 2001)",
+    "questionText": "<u>Ch</u>urch?",
     "options": [
       "feature",
       "chauffeur",
@@ -9709,7 +9709,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-491-1325",
-    "questionText": "Adoringly, Aliya was referred to as ________ (JAMB 2020)",
+    "questionText": "Adoringly, Aliya was referred to as ________",
     "options": [
       "Journalist",
       "Sex addict",
@@ -9721,7 +9721,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788724762802-492-770",
-    "questionText": "Mr. Okon has been described as <u>an eagle-eyed editor</u>?.  (JAMB 2000)",
+    "questionText": "Mr. Okon has been described as <u>an eagle-eyed editor</u>?.",
     "options": [
       "a short-sighted",
       "a clear-sighted",
@@ -9733,7 +9733,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-0-760",
-    "questionText": "Though he is our elected representative he often takes a rather jaundiced view of our problems? (JAMB 2000)",
+    "questionText": "Though he is our elected representative he often takes a rather jaundiced view of our problems?",
     "options": [
       "He takes a rather hazy view of our problems",
       "He takes an unfavourable position concerning our problems",
@@ -9745,7 +9745,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-1-727",
-    "questionText": "<u>Th</u>ought?  (JAMB 2000)",
+    "questionText": "<u>Th</u>ought?",
     "options": [
       "theatre",
       "taught",
@@ -9757,7 +9757,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-2-740",
-    "questionText": "The loquacious young lad reeled off all the names of \nthe\nplayers……. (JAMB 2000)",
+    "questionText": "The loquacious young lad reeled off all the names of \nthe\nplayers…….",
     "options": [
       "off head",
       "offhand",
@@ -9769,7 +9769,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-3-746",
-    "questionText": "The new school is not provided with .......for science practicals? (JAMB 2000)",
+    "questionText": "The new school is not provided with .......for science practicals?",
     "options": [
       "enough equipment",
       "equipments",
@@ -9781,7 +9781,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-4-763",
-    "questionText": "The politician's inflammatory remarks were heavily criticized? (JAMB 2000)",
+    "questionText": "The politician's inflammatory remarks were heavily criticized?",
     "options": [
       "The politican's rude remarks were heavily criticized",
       "The politican's provocative remarks were heavily criticized",
@@ -9793,7 +9793,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-5-723",
-    "questionText": "<u>Ai</u>r?\n\n\n (JAMB 2000)",
+    "questionText": "<u>Ai</u>r?\n\n\n",
     "options": [
       "heir",
       "her",
@@ -9805,7 +9805,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-6-722",
-    "questionText": "b<u>oa</u>t? (JAMB 2000)",
+    "questionText": "b<u>oa</u>t?",
     "options": [
       "board",
       "bought",
@@ -9817,7 +9817,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-7-747",
-    "questionText": "Much as I would love to visit him, I’m afraid ……… (JAMB 2000)",
+    "questionText": "Much as I would love to visit him, I’m afraid ………",
     "options": [
       "I won’t",
       "I can’t",
@@ -9829,7 +9829,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-8-787",
-    "questionText": "It is rare for a leader and his deputy to <u>see eye to eye</u>?  (JAMB 2000)",
+    "questionText": "It is rare for a leader and his deputy to <u>see eye to eye</u>?",
     "options": [
       "disagree",
       "respect each other",
@@ -9841,7 +9841,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-9-776",
-    "questionText": "Though David's condition is <u>serious</u>, his life is not in immediate danger? (JAMB 2000)",
+    "questionText": "Though David's condition is <u>serious</u>, his life is not in immediate danger?",
     "options": [
       "nastly",
       "hypertensive",
@@ -9853,7 +9853,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-10-724",
-    "questionText": "Pl<u>ea</u>sure? (JAMB 2000)",
+    "questionText": "Pl<u>ea</u>sure?",
     "options": [
       "pliable",
       "pleat",
@@ -9865,7 +9865,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-11-762",
-    "questionText": "The events of last Friday show that there is no love lost between the principal and the Vice-Principal?  (JAMB 2000)",
+    "questionText": "The events of last Friday show that there is no love lost between the principal and the Vice-Principal?",
     "options": [
       "They like each other",
       "They work independently",
@@ -9877,7 +9877,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-12-791",
-    "questionText": "Despite his laxity in other matters, Ojo's father <u>drew the line</u> at truancy? (JAMB 2000)",
+    "questionText": "Despite his laxity in other matters, Ojo's father <u>drew the line</u> at truancy?",
     "options": [
       "favoured",
       "rejected",
@@ -9889,7 +9889,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-13-792",
-    "questionText": "The string was <u>taut</u>? (JAMB 2000)",
+    "questionText": "The string was <u>taut</u>?",
     "options": [
       "loose",
       "firm",
@@ -9901,7 +9901,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-14-782",
-    "questionText": "The project is designed to <u>alleviate</u> poverty in the country? (JAMB 2000)",
+    "questionText": "The project is designed to <u>alleviate</u> poverty in the country?",
     "options": [
       "tackle",
       "exacerbate",
@@ -9913,7 +9913,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-15-751",
-    "questionText": "There are many……. to her personality. (JAMB 2000)",
+    "questionText": "There are many……. to her personality.",
     "options": [
       "moods",
       "styles",
@@ -9925,7 +9925,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-16-737",
-    "questionText": "Without our relentless campaigns we might ....... sure of victory in the race for the National Assembly? (JAMB 2000)",
+    "questionText": "Without our relentless campaigns we might ....... sure of victory in the race for the National Assembly?",
     "options": [
       "never have been",
       "have never be",
@@ -9937,7 +9937,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267558-17-757",
-    "questionText": "Our culture does not allow one to ........ when an elderly person is speaking? (JAMB 2000)",
+    "questionText": "Our culture does not allow one to ........ when an elderly person is speaking?",
     "options": [
       "cut of",
       "cut off",
@@ -9949,7 +9949,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-18-756",
-    "questionText": "You can travel on your own ......? (JAMB 2000)",
+    "questionText": "You can travel on your own ......?",
     "options": [
       "isn't it",
       "wouldn't you",
@@ -9961,7 +9961,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-19-789",
-    "questionText": "The diminutive figure bounces over the track with <u>unfathomable</u> lightness?  (JAMB 2000)",
+    "questionText": "The diminutive figure bounces over the track with <u>unfathomable</u> lightness?",
     "options": [
       "invigorating",
       "irresistible",
@@ -9973,7 +9973,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-20-786",
-    "questionText": "The striking workers have vowed not to return to work until the decision is <u>rescinded</u>?  (JAMB 2000)",
+    "questionText": "The striking workers have vowed not to return to work until the decision is <u>rescinded</u>?",
     "options": [
       "changed",
       "dismissed",
@@ -9985,7 +9985,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-21-728",
-    "questionText": "Cali<u>ph</u>?  (JAMB 2000)",
+    "questionText": "Cali<u>ph</u>?",
     "options": [
       "presently",
       "perhaps",
@@ -9997,7 +9997,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-22-732",
-    "questionText": "EDUCATION?  (JAMB 2000)",
+    "questionText": "EDUCATION?",
     "options": [
       "duplicity",
       "economics",
@@ -10009,7 +10009,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-23-674",
-    "questionText": "YOUR sister should come with us tomorrow? (JAMB 2001)",
+    "questionText": "YOUR sister should come with us tomorrow?",
     "options": [
       "Should your brother come with us tomorrow?",
       "Should our brother come with us tomorrow?",
@@ -10021,7 +10021,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-24-660",
-    "questionText": "Had I known about their plan much earlier I would have <u>nipped it in the bud</u>? (JAMB 2001)",
+    "questionText": "Had I known about their plan much earlier I would have <u>nipped it in the bud</u>?",
     "options": [
       "stopped it",
       "intiated it",
@@ -10033,7 +10033,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-25-677",
-    "questionText": "Oche's chief idiosyncrasy is a passion for pounded yam? (JAMB 2001)",
+    "questionText": "Oche's chief idiosyncrasy is a passion for pounded yam?",
     "options": [
       "Oche's chief hates pounded yam",
       "Oche pounded yam",
@@ -10045,7 +10045,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-26-684",
-    "questionText": "The <u>coalescence</u> of the groups created additional problems? (JAMB 2001)",
+    "questionText": "The <u>coalescence</u> of the groups created additional problems?",
     "options": [
       "proscription",
       "fighting",
@@ -10057,7 +10057,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-27-692",
-    "questionText": "Bose was angry because her friend called her <u>pilferer</u>? (JAMB 2001)",
+    "questionText": "Bose was angry because her friend called her <u>pilferer</u>?",
     "options": [
       "hypocrite",
       "thief",
@@ -10069,7 +10069,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-28-658",
-    "questionText": "<u>S</u>ure? (JAMB 2001)",
+    "questionText": "<u>S</u>ure?",
     "options": [
       "cheer",
       "cheap",
@@ -10081,7 +10081,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-29-651",
-    "questionText": "Three quarter of the hostel ........ been painted and three quarter of the students ...... moved in. (JAMB 2001)",
+    "questionText": "Three quarter of the hostel ........ been painted and three quarter of the students ...... moved in.",
     "options": [
       "has/ has",
       "has /have",
@@ -10093,7 +10093,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-30-649",
-    "questionText": "They had to ...... the generator when the electricity failed? (JAMB 2001)",
+    "questionText": "They had to ...... the generator when the electricity failed?",
     "options": [
       "light up",
       "fall back on",
@@ -10105,7 +10105,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-31-640",
-    "questionText": "He does not seem to know how to solve the problem ...... ? (JAMB 2001)",
+    "questionText": "He does not seem to know how to solve the problem ...... ?",
     "options": [
       "does not he",
       "does he not",
@@ -10117,7 +10117,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-32-644",
-    "questionText": "The meeting was called to ...... divergent views on the subject of a national conference? (JAMB 2001)",
+    "questionText": "The meeting was called to ...... divergent views on the subject of a national conference?",
     "options": [
       "reconcile",
       "recommend",
@@ -10129,7 +10129,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-33-667",
-    "questionText": "The teacher taught the  <u>rudiments</u> of Chemistry to the \nfirst grade. (JAMB 2001)",
+    "questionText": "The teacher taught the  <u>rudiments</u> of Chemistry to the \nfirst grade.",
     "options": [
       "elements",
       "fundamentals",
@@ -10141,7 +10141,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-34-675",
-    "questionText": "My neighbour BRUISED his thigh while playing football? (JAMB 2001)",
+    "questionText": "My neighbour BRUISED his thigh while playing football?",
     "options": [
       "Did your neighbour break his leg while playing tennis?",
       "Did your neighbour fracture his thigh while playing football?",
@@ -10153,7 +10153,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-35-648",
-    "questionText": "When Ajike met her ..... husband at the party, she felt like reconciling with him? (JAMB 2001)",
+    "questionText": "When Ajike met her ..... husband at the party, she felt like reconciling with him?",
     "options": [
       "estranged",
       "strange",
@@ -10165,7 +10165,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-36-696",
-    "questionText": "Art lies in cherishing the initiative and <u>creative power</u> of each person? (JAMB 2001)",
+    "questionText": "Art lies in cherishing the initiative and <u>creative power</u> of each person?",
     "options": [
       "potential",
       "strenght",
@@ -10177,7 +10177,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-37-631",
-    "questionText": "Had he considered his public image carefully, he ..... for his in the election?  (JAMB 2001)",
+    "questionText": "Had he considered his public image carefully, he ..... for his in the election?",
     "options": [
       "might have stooos aside",
       "would have stepped stood",
@@ -10189,7 +10189,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-38-652",
-    "questionText": "A wide range of options ....... made available to the political parties during the recently concluded elections? (JAMB 2001)",
+    "questionText": "A wide range of options ....... made available to the political parties during the recently concluded elections?",
     "options": [
       "are",
       "were",
@@ -10201,7 +10201,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-39-688",
-    "questionText": "Ugo has often been described as <u>belligerent</u>?\n (JAMB 2001)",
+    "questionText": "Ugo has often been described as <u>belligerent</u>?\n",
     "options": [
       "attractive",
       "patient",
@@ -10213,7 +10213,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-40-686",
-    "questionText": "The village girl wore <u>sumptuous</u> clothes? (JAMB 2001)",
+    "questionText": "The village girl wore <u>sumptuous</u> clothes?",
     "options": [
       "faded looking",
       "cheap",
@@ -10225,7 +10225,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-41-676",
-    "questionText": "They FLEW to Abuja? (JAMB 2001)",
+    "questionText": "They FLEW to Abuja?",
     "options": [
       "Did they go Abuja by road?",
       "Did they fly to jos?",
@@ -10237,7 +10237,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-42-690",
-    "questionText": "Funmi is just being <u>facetious</u> about her marrying a soldier? (JAMB 2001)",
+    "questionText": "Funmi is just being <u>facetious</u> about her marrying a soldier?",
     "options": [
       "unserious",
       "crazy",
@@ -10249,7 +10249,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-43-636",
-    "questionText": "....... You come early to the new house, clean up my flat? (JAMB 2001)",
+    "questionText": "....... You come early to the new house, clean up my flat?",
     "options": [
       "While",
       "By chance",
@@ -10261,7 +10261,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-44-637",
-    "questionText": "This imposing edifice, ....... a fortune to build? (JAMB 2001)",
+    "questionText": "This imposing edifice, ....... a fortune to build?",
     "options": [
       "had costed",
       "have cost",
@@ -10273,7 +10273,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-45-666",
-    "questionText": "As these boys never act in public, the police are now worried about their <u>convert</u> activities? (JAMB 2001)",
+    "questionText": "As these boys never act in public, the police are now worried about their <u>convert</u> activities?",
     "options": [
       "ignoble",
       "evil",
@@ -10285,7 +10285,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-46-680",
-    "questionText": "Adawo is an imp?\n (JAMB 2001)",
+    "questionText": "Adawo is an imp?\n",
     "options": [
       "Adawo behaves queerly",
       "Adawo behaves decently",
@@ -10297,7 +10297,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-47-629",
-    "questionText": "Neither Agbo nor his parents ...... the meetings now? (JAMB 2001)",
+    "questionText": "Neither Agbo nor his parents ...... the meetings now?",
     "options": [
       "attended",
       "attend",
@@ -10309,7 +10309,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-48-657",
-    "questionText": "<u>Th</u>ank? (JAMB 2001)",
+    "questionText": "<u>Th</u>ank?",
     "options": [
       "though",
       "thought",
@@ -10321,7 +10321,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-49-635",
-    "questionText": "The company Director showed the contractor a ....... of the proposed office complex? (JAMB 2001)",
+    "questionText": "The company Director showed the contractor a ....... of the proposed office complex?",
     "options": [
       "prototype",
       "photograph",
@@ -10333,7 +10333,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-50-891",
-    "questionText": "The governor's visit is an <u>unprecedented</u> event in the history of the social club? (JAMB 2002)",
+    "questionText": "The governor's visit is an <u>unprecedented</u> event in the history of the social club?",
     "options": [
       "a perfect",
       "a momentous",
@@ -10345,7 +10345,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-51-895",
-    "questionText": "The <u>hardline</u> posture of the labour leader has not helped matters? (JAMB 2002)",
+    "questionText": "The <u>hardline</u> posture of the labour leader has not helped matters?",
     "options": [
       "compromising",
       "imposing",
@@ -10357,7 +10357,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-52-866",
-    "questionText": "They are considered to be legal <u>luminaries</u> (JAMB 2002)",
+    "questionText": "They are considered to be legal <u>luminaries</u>",
     "options": [
       "directors",
       "power",
@@ -10369,7 +10369,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-53-867",
-    "questionText": "The Executive Secretary has just <u>assumed office</u>? (JAMB 2002)",
+    "questionText": "The Executive Secretary has just <u>assumed office</u>?",
     "options": [
       "resumed work",
       "started work",
@@ -10381,7 +10381,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-54-829",
-    "questionText": "The new manager was responsible for the …….of the organization. (JAMB 2002)",
+    "questionText": "The new manager was responsible for the …….of the organization.",
     "options": [
       "uplifting",
       "lifting",
@@ -10393,7 +10393,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-55-879",
-    "questionText": "The man BOUGHT the newspaper. (JAMB 2002)",
+    "questionText": "The man BOUGHT the newspaper.",
     "options": [
       "Is this the newspaper which the man bought?",
       "Did the man read the newspaper?",
@@ -10405,7 +10405,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-56-887",
-    "questionText": "He is <u>notorious</u> for his drunkenness? (JAMB 2002)",
+    "questionText": "He is <u>notorious</u> for his drunkenness?",
     "options": [
       "popular",
       "unknown",
@@ -10417,7 +10417,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-57-872",
-    "questionText": "The organization is constantly in a state of flux? (JAMB 2002)",
+    "questionText": "The organization is constantly in a state of flux?",
     "options": [
       "There are perodic changes in the organization",
       "The organization is facing a difficult period",
@@ -10429,7 +10429,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-58-890",
-    "questionText": "The workers suddenly became <u>restive</u>? (JAMB 2002)",
+    "questionText": "The workers suddenly became <u>restive</u>?",
     "options": [
       "fidgety",
       "disorderly",
@@ -10441,7 +10441,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-59-880",
-    "questionText": "The university has been TEMPORARILY closed. (JAMB 2002)",
+    "questionText": "The university has been TEMPORARILY closed.",
     "options": [
       "Has the campus been permanantly closed?",
       "Has the university been permanantly open?",
@@ -10453,7 +10453,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-60-863",
-    "questionText": "I wonder what will be left of his essay when the <u>extraneous</u> material is deleted? (JAMB 2002)",
+    "questionText": "I wonder what will be left of his essay when the <u>extraneous</u> material is deleted?",
     "options": [
       "superfluous",
       "erroneous",
@@ -10465,7 +10465,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-61-884",
-    "questionText": "Tunde's reaction <u>underscores</u> the point I was making? (JAMB 2002)",
+    "questionText": "Tunde's reaction <u>underscores</u> the point I was making?",
     "options": [
       "justifies",
       "emphasizes",
@@ -10477,7 +10477,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-62-832",
-    "questionText": "The members of the team agree ........ all the members of the contract? (JAMB 2002)",
+    "questionText": "The members of the team agree ........ all the members of the contract?",
     "options": [
       "by",
       "to",
@@ -10489,7 +10489,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-63-834",
-    "questionText": "The match gave the team a chance to show their ........? (JAMB 2002)",
+    "questionText": "The match gave the team a chance to show their ........?",
     "options": [
       "worth",
       "position",
@@ -10501,7 +10501,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-64-896",
-    "questionText": "The President gave another <u>extemporaneous</u> speech last Friday? (JAMB 2002)",
+    "questionText": "The President gave another <u>extemporaneous</u> speech last Friday?",
     "options": [
       "unprepared",
       "fascinating",
@@ -10513,7 +10513,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-65-875",
-    "questionText": "After the successful operation, he recovered by leaps and bounds? (JAMB 2002)",
+    "questionText": "After the successful operation, he recovered by leaps and bounds?",
     "options": [
       "He got well very rapidly",
       "His well-bound wounds aided his recovery",
@@ -10525,7 +10525,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-66-894",
-    "questionText": "He gave an unsatisfactory excuse but the boss swallowed it <u>hook, line and sinker</u>?\n (JAMB 2002)",
+    "questionText": "He gave an unsatisfactory excuse but the boss swallowed it <u>hook, line and sinker</u>?\n",
     "options": [
       "with a pinch of salt",
       "completely",
@@ -10537,7 +10537,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-67-868",
-    "questionText": "The warming tribes have told been told to <u>parley</u> with each other? (JAMB 2002)",
+    "questionText": "The warming tribes have told been told to <u>parley</u> with each other?",
     "options": [
       "observe a truce",
       "hold talks",
@@ -10549,7 +10549,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-68-861",
-    "questionText": "Teachers of music believes in its <u>therapeutic</u> effect? (JAMB 2002)",
+    "questionText": "Teachers of music believes in its <u>therapeutic</u> effect?",
     "options": [
       "healing",
       "sound",
@@ -10561,7 +10561,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-69-881",
-    "questionText": "My UNCLE retired from the police? (JAMB 2002)",
+    "questionText": "My UNCLE retired from the police?",
     "options": [
       "Did your brother resign from the police?",
       "Did your sister resign from the police?",
@@ -10573,7 +10573,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-70-859",
-    "questionText": "The manager made <u>disparaging</u> remarks about the retiring officer? (JAMB 2002)",
+    "questionText": "The manager made <u>disparaging</u> remarks about the retiring officer?",
     "options": [
       "rude",
       "derogatory",
@@ -10585,7 +10585,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-71-855",
-    "questionText": "Practicing medicine is not as lucrative as many people <u>think</u>?\n (JAMB 2002)",
+    "questionText": "Practicing medicine is not as lucrative as many people <u>think</u>?\n",
     "options": [
       "know",
       "understand",
@@ -10597,7 +10597,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-72-852",
-    "questionText": "Preach<u>ed</u>? (JAMB 2002)",
+    "questionText": "Preach<u>ed</u>?",
     "options": [
       "question",
       "castle",
@@ -10609,7 +10609,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-73-885",
-    "questionText": "Everyone admired the manager's <u>adroit</u> handling of the crises in the company?\n (JAMB 2002)",
+    "questionText": "Everyone admired the manager's <u>adroit</u> handling of the crises in the company?\n",
     "options": [
       "clever",
       "tactless",
@@ -10621,7 +10621,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-74-870",
-    "questionText": "Identify the word that has the stress on the first syllable. (JAMB 2002)",
+    "questionText": "Identify the word that has the stress on the first syllable.",
     "options": [
       "export (noun)",
       "commute",
@@ -10633,7 +10633,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-75-10",
-    "questionText": " It was a free-for-all and the students were blamed for taking the law (JAMB 2003)",
+    "questionText": " It was a free-for-all and the students were blamed for taking the law",
     "options": [
       "in their own hands",
       "into their own hands",
@@ -10645,7 +10645,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-76-59",
-    "questionText": "The boys knew that a storm was <i>imminent</i> (JAMB 2003)",
+    "questionText": "The boys knew that a storm was <i>imminent</i>",
     "options": [
       "Impending",
       "encroaching",
@@ -10657,7 +10657,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-77-19",
-    "questionText": "The sergeant spoke to me in a ……………  manner (JAMB 2003)",
+    "questionText": "The sergeant spoke to me in a ……………  manner",
     "options": [
       "Coarse",
       "causal",
@@ -10669,7 +10669,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-78-22",
-    "questionText": "  Be careful not to…………….  this money  (JAMB 2003)",
+    "questionText": "  Be careful not to…………….  this money",
     "options": [
       "loose",
       "loss",
@@ -10681,7 +10681,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-79-5",
-    "questionText": "As Obande does not know anyone in this city, he hopes that some kind …………  will put him up for the night (JAMB 2003)",
+    "questionText": "As Obande does not know anyone in this city, he hopes that some kind …………  will put him up for the night",
     "options": [
       "man",
       "men",
@@ -10693,7 +10693,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-80-41",
-    "questionText": "Agbenu was <i>ecstatic</i> about her result  (JAMB 2003)",
+    "questionText": "Agbenu was <i>ecstatic</i> about her result",
     "options": [
       "sad",
       "dispassionate",
@@ -10705,7 +10705,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-81-75",
-    "questionText": "Cement (JAMB 2003)",
+    "questionText": "Cement",
     "options": [
       "perfect (adjective)",
       "include",
@@ -10717,7 +10717,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-82-6",
-    "questionText": " The doctor asked the patient what…………. (JAMB 2003)",
+    "questionText": " The doctor asked the patient what………….",
     "options": [
       "The problem is",
       "Is your problem",
@@ -10729,7 +10729,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-83-44",
-    "questionText": "The company has continued to <i>monopolize</i> the distribution of the products. (JAMB 2003)",
+    "questionText": "The company has continued to <i>monopolize</i> the distribution of the products.",
     "options": [
       "regularize",
       "liberalize",
@@ -10741,7 +10741,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-84-56",
-    "questionText": "Mark<u>e</u>t   (JAMB 2003)",
+    "questionText": "Mark<u>e</u>t",
     "options": [
       "mortgage",
       "bachelor",
@@ -10753,7 +10753,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-85-32",
-    "questionText": "Ngozi has always considered her father to be an impassioned man  (JAMB 2003)",
+    "questionText": "Ngozi has always considered her father to be an impassioned man",
     "options": [
       "Her father is a very strict man",
       "Her father is a very lively man",
@@ -10765,7 +10765,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-86-70",
-    "questionText": "Publishing as a business venture has become a <i>hot potato</i> in Nigeria.  (JAMB 2003)",
+    "questionText": "Publishing as a business venture has become a <i>hot potato</i> in Nigeria.",
     "options": [
       "unacceptable",
       "unpleasant",
@@ -10777,7 +10777,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-87-11",
-    "questionText": "The candidate's charisma should be a..………factor in winning the election.  (JAMB 2003)",
+    "questionText": "The candidate's charisma should be a..………factor in winning the election.",
     "options": [
       "determinant",
       "determinate",
@@ -10789,7 +10789,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-88-69",
-    "questionText": "The party supporters <i>vilified</i> the Chairman for the role he played in the crisis that rocked the party  (JAMB 2003)",
+    "questionText": "The party supporters <i>vilified</i> the Chairman for the role he played in the crisis that rocked the party",
     "options": [
       "impeached",
       "condemned",
@@ -10801,7 +10801,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-89-58",
-    "questionText": "t<u>e</u>nd  (JAMB 2003)",
+    "questionText": "t<u>e</u>nd",
     "options": [
       "caned",
       "jeopardy",
@@ -10813,7 +10813,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-90-34",
-    "questionText": "The elders rebuked  (JAMB 2003)",
+    "questionText": "The elders rebuked",
     "options": [
       "Olu for talking issue with his principal.",
       "Olu was scolded for acting in collusion with his principal",
@@ -10825,7 +10825,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-91-71",
-    "questionText": "The <i>cynics</i>  feared that the nation’s nascent democracy would fail (JAMB 2003)",
+    "questionText": "The <i>cynics</i>  feared that the nation’s nascent democracy would fail",
     "options": [
       "illusionists",
       "pessimists",
@@ -10837,7 +10837,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-92-45",
-    "questionText": "The doctor examined the patient <i>painstakingly</i>  (JAMB 2003)",
+    "questionText": "The doctor examined the patient <i>painstakingly</i>",
     "options": [
       "Carefully",
       "Perfunctorily",
@@ -10849,7 +10849,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-93-61",
-    "questionText": "The <i>essence</i> of governance is to seek the good and well-being of the majority of the people  (JAMB 2003)",
+    "questionText": "The <i>essence</i> of governance is to seek the good and well-being of the majority of the people",
     "options": [
       "characteristics",
       "importance",
@@ -10861,7 +10861,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-94-68",
-    "questionText": "From what she said, one may <i>infer</i> that she does not like the course (JAMB 2003)",
+    "questionText": "From what she said, one may <i>infer</i> that she does not like the course",
     "options": [
       "agree",
       "deduce",
@@ -10873,7 +10873,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-95-9",
-    "questionText": "The armed robbers went into the house and robbed the three (JAMB 2003)",
+    "questionText": "The armed robbers went into the house and robbed the three",
     "options": [
       "woman occupants",
       "women's occupants",
@@ -10885,7 +10885,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-96-51",
-    "questionText": "Only those who are <i>gullible</i> fall victim to his trickery  (JAMB 2003)",
+    "questionText": "Only those who are <i>gullible</i> fall victim to his trickery",
     "options": [
       "astute",
       "Courteous",
@@ -10897,7 +10897,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-97-35",
-    "questionText": "In spite of his humble beginning, Audu now throws his weight around  (JAMB 2003)",
+    "questionText": "In spite of his humble beginning, Audu now throws his weight around",
     "options": [
       "His noble birth notwithstanding, Audu is a corrupt man",
       "From his poor background, Audu is now a rich man",
@@ -10909,7 +10909,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-98-42",
-    "questionText": "Students could be <i>timid</i> (JAMB 2003)",
+    "questionText": "Students could be <i>timid</i>",
     "options": [
       "Pugnacious",
       "friendly",
@@ -10921,7 +10921,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-99-57",
-    "questionText": "c<u>olo</u>nel  (JAMB 2003)",
+    "questionText": "c<u>olo</u>nel",
     "options": [
       "golden",
       "girl",
@@ -10933,7 +10933,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-100-40",
-    "questionText": "A <i>conservative</i> estimate put the number of missing persons at forty. (JAMB 2003)",
+    "questionText": "A <i>conservative</i> estimate put the number of missing persons at forty.",
     "options": [
       "an accurate",
       "An incorrect",
@@ -10945,7 +10945,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-101-7",
-    "questionText": "The woman is one? of the …………. of the society. (JAMB 2003)",
+    "questionText": "The woman is one? of the …………. of the society.",
     "options": [
       "elitist",
       "elites",
@@ -10957,7 +10957,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-102-4",
-    "questionText": "If you saw the photograph of the man……………………you be able to identify him? (JAMB 2003)",
+    "questionText": "If you saw the photograph of the man……………………you be able to identify him?",
     "options": [
       "could",
       "would",
@@ -10969,7 +10969,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-103-53",
-    "questionText": "The witness decided to <i>conceal</i> the evidence  (JAMB 2003)",
+    "questionText": "The witness decided to <i>conceal</i> the evidence",
     "options": [
       "waive",
       "divulge",
@@ -10981,7 +10981,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-104-43",
-    "questionText": "The labour leader’s <i>recalcitrant</i> stance was applauded  (JAMB 2003)",
+    "questionText": "The labour leader’s <i>recalcitrant</i> stance was applauded",
     "options": [
       "flexible",
       "uncompromising",
@@ -10993,7 +10993,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-105-74",
-    "questionText": "Typist (JAMB 2003)",
+    "questionText": "Typist",
     "options": [
       "refuse (noun)",
       "superb",
@@ -11005,7 +11005,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-106-52",
-    "questionText": "A cool bath in a hot weather can be truly <i>invigorating</i>  (JAMB 2003)",
+    "questionText": "A cool bath in a hot weather can be truly <i>invigorating</i>",
     "options": [
       "debilitating",
       "devastating",
@@ -11017,7 +11017,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-107-37",
-    "questionText": "Tee<u>th</u> (JAMB 2003)",
+    "questionText": "Tee<u>th</u>",
     "options": [
       "taught",
       "tank",
@@ -11029,7 +11029,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-108-60",
-    "questionText": "The leader has the <i>unstinting</i> support of his party  (JAMB 2003)",
+    "questionText": "The leader has the <i>unstinting</i> support of his party",
     "options": [
       "cautious",
       "uninspiring",
@@ -11041,7 +11041,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-109-8",
-    "questionText": "Three quarters of the people in the village  killed but only half of then \n          huts……. affected  \n (JAMB 2003)",
+    "questionText": "Three quarters of the people in the village  killed but only half of then \n          huts……. affected  \n",
     "options": [
       "were/ were",
       "was/was",
@@ -11053,7 +11053,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-110-64",
-    "questionText": "A few years ago, nobody would have believed that the economy would <i>turn around </i> (JAMB 2003)",
+    "questionText": "A few years ago, nobody would have believed that the economy would <i>turn around </i>",
     "options": [
       "change",
       "deteriorate",
@@ -11065,7 +11065,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-111-24",
-    "questionText": "Adike ………….. a message from the club regularly. (JAMB 2003)",
+    "questionText": "Adike ………….. a message from the club regularly.",
     "options": [
       "Receive",
       "had received",
@@ -11077,7 +11077,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-112-23",
-    "questionText": "Nowadays, many graduates are not Will disposed to teaching…………….. (JAMB 2003)",
+    "questionText": "Nowadays, many graduates are not Will disposed to teaching……………..",
     "options": [
       "are they",
       "aren't they?",
@@ -11089,7 +11089,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-113-129",
-    "questionText": "The festivals create in the people a feeling of price in the cultural <i>heritage</i>   (JAMB 2004)",
+    "questionText": "The festivals create in the people a feeling of price in the cultural <i>heritage</i>",
     "options": [
       "history",
       "heirloom",
@@ -11101,7 +11101,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-114-113",
-    "questionText": "The dictator wanted <i>tractable</i> men in his cabinet. (JAMB 2004)",
+    "questionText": "The dictator wanted <i>tractable</i> men in his cabinet.",
     "options": [
       "reliable",
       "intelligent",
@@ -11113,7 +11113,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-115-83",
-    "questionText": "The reporter said that the Honourable speaker………….. impeached  (JAMB 2004)",
+    "questionText": "The reporter said that the Honourable speaker………….. impeached",
     "options": [
       "is to be",
       "might have been",
@@ -11125,7 +11125,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-116-116",
-    "questionText": "Beauty queens sometime wear <i>outlandish</i>  dresses. (JAMB 2004)",
+    "questionText": "Beauty queens sometime wear <i>outlandish</i>  dresses.",
     "options": [
       "beautiful",
       "flashy",
@@ -11137,7 +11137,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-117-80",
-    "questionText": "……………his illness, Muhammad could not come to school. (JAMB 2004)",
+    "questionText": "……………his illness, Muhammad could not come to school.",
     "options": [
       "with reference to",
       "referring to",
@@ -11149,7 +11149,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-118-101",
-    "questionText": "Ju<u>dge</u> (JAMB 2004)",
+    "questionText": "Ju<u>dge</u>",
     "options": [
       "gear",
       "spinach",
@@ -11161,7 +11161,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-119-122",
-    "questionText": "The player <i>writhed in pain</i> after the fall. (JAMB 2004)",
+    "questionText": "The player <i>writhed in pain</i> after the fall.",
     "options": [
       "remained still",
       "cried out",
@@ -11173,7 +11173,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-120-130",
-    "questionText": "<i>Funnily enough,</i> the priest prayed for the robber who shot him. (JAMB 2004)",
+    "questionText": "<i>Funnily enough,</i> the priest prayed for the robber who shot him.",
     "options": [
       "Timidly",
       "Unexpectedly",
@@ -11185,7 +11185,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-121-86",
-    "questionText": "All God’s prophets were given the great……….to preach salvation to people. (JAMB 2004)",
+    "questionText": "All God’s prophets were given the great……….to preach salvation to people.",
     "options": [
       "commission",
       "commition",
@@ -11197,7 +11197,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-122-95",
-    "questionText": "The storm………….. Havoc on several buildings in the village. (JAMB 2004)",
+    "questionText": "The storm………….. Havoc on several buildings in the village.",
     "options": [
       "wreaked",
       "wrecked",
@@ -11209,7 +11209,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-123-76",
-    "questionText": "I shall find time for my ……… when I get …… with this difficult assignment. (JAMB 2004)",
+    "questionText": "I shall find time for my ……… when I get …… with this difficult assignment.",
     "options": [
       "Pat time /over",
       "pass-time/over",
@@ -11221,7 +11221,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-124-100",
-    "questionText": "The interpreter was wrong because he gave the congregation a ………… translation of the pastor’s statement. (JAMB 2004)",
+    "questionText": "The interpreter was wrong because he gave the congregation a ………… translation of the pastor’s statement.",
     "options": [
       "literal",
       "unilateral",
@@ -11233,7 +11233,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-125-91",
-    "questionText": "………..as a federal capital only……….. the last twenty years. (JAMB 2004)",
+    "questionText": "………..as a federal capital only……….. the last twenty years.",
     "options": [
       "has existed/for",
       "existed/over",
@@ -11245,7 +11245,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-126-105",
-    "questionText": "Adamu’s father is a key figure in that ministry (JAMB 2004)",
+    "questionText": "Adamu’s father is a key figure in that ministry",
     "options": [
       "The ministry trusts Adamu’s father as a central figure",
       "Adamu’s father is a figurehead in the ministry",
@@ -11257,7 +11257,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-127-85",
-    "questionText": "You may not have heard the last word on the matter…….. (JAMB 2004)",
+    "questionText": "You may not have heard the last word on the matter……..",
     "options": [
       "may you have",
       "haven’t you",
@@ -11269,7 +11269,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-128-138",
-    "questionText": "The manager’s knowledge of the strike is of <i>the utmost</i>  importance. (JAMB 2004)",
+    "questionText": "The manager’s knowledge of the strike is of <i>the utmost</i>  importance.",
     "options": [
       "standard",
       "genuine",
@@ -11281,7 +11281,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-129-108",
-    "questionText": "The investigators stated clearly that they had reached a dead end in their scrutiny of suspects in the murder case. (JAMB 2004)",
+    "questionText": "The investigators stated clearly that they had reached a dead end in their scrutiny of suspects in the murder case.",
     "options": [
       "the investigators did not know what to do with the suspect’s murder",
       "The investigators had evidence to sentence the suspects to death in the end.",
@@ -11293,7 +11293,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-130-111",
-    "questionText": "Sailors are unusually <i>dauntless</i> in their exploits (JAMB 2004)",
+    "questionText": "Sailors are unusually <i>dauntless</i> in their exploits",
     "options": [
       "selfless",
       "ruthless",
@@ -11305,7 +11305,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-131-146",
-    "questionText": "b<u>ea</u>r (JAMB 2004)",
+    "questionText": "b<u>ea</u>r",
     "options": [
       "beer",
       "steer",
@@ -11317,7 +11317,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-132-94",
-    "questionText": "The police claim that a number of stolen cars…………. recovered. (JAMB 2004)",
+    "questionText": "The police claim that a number of stolen cars…………. recovered.",
     "options": [
       "has being",
       "is being",
@@ -11329,7 +11329,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-133-84",
-    "questionText": "Actually, he forgot the one to …………… the job was given. (JAMB 2004)",
+    "questionText": "Actually, he forgot the one to …………… the job was given.",
     "options": [
       "whom",
       "who",
@@ -11341,7 +11341,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-134-144",
-    "questionText": "The student BOUGHT the book. (JAMB 2004)",
+    "questionText": "The student BOUGHT the book.",
     "options": [
       "Who bought the book?",
       "Did the student steal the book?",
@@ -11353,7 +11353,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-135-90",
-    "questionText": "I don’t coming home, is he?......... he is isn’t. (JAMB 2004)",
+    "questionText": "I don’t coming home, is he?......... he is isn’t.",
     "options": [
       "Yes",
       "No",
@@ -11365,7 +11365,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-136-82",
-    "questionText": "People dislike Mariam because she is …………… (JAMB 2004)",
+    "questionText": "People dislike Mariam because she is ……………",
     "options": [
       "trickful",
       "trickish",
@@ -11377,7 +11377,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-137-97",
-    "questionText": "The poor widow who could not buy the clothes was seen…….her wool into……….yesterday (JAMB 2004)",
+    "questionText": "The poor widow who could not buy the clothes was seen…….her wool into……….yesterday",
     "options": [
       "to spin/yards",
       "spinning/yarn",
@@ -11389,7 +11389,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-138-126",
-    "questionText": "expostulate (JAMB 2004)",
+    "questionText": "expostulate",
     "options": [
       "exposTUlate",
       "expostuLATE",
@@ -11401,7 +11401,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-139-124",
-    "questionText": "The team got <i>an ecstatic</i> welcome from the crowd. (JAMB 2004)",
+    "questionText": "The team got <i>an ecstatic</i> welcome from the crowd.",
     "options": [
       "An unexpected",
       "a joyous",
@@ -11413,7 +11413,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-140-78",
-    "questionText": "It is …….. responsibility to look after their parents in old age. (JAMB 2004)",
+    "questionText": "It is …….. responsibility to look after their parents in old age.",
     "options": [
       "theirs’",
       "their",
@@ -11425,7 +11425,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-141-114",
-    "questionText": "After the war, the victors became increasingly <i>vindictive</i> (JAMB 2004)",
+    "questionText": "After the war, the victors became increasingly <i>vindictive</i>",
     "options": [
       "friendly",
       "vociferous",
@@ -11437,7 +11437,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-142-77",
-    "questionText": "Agbo says he is not afraid of ……… (JAMB 2004)",
+    "questionText": "Agbo says he is not afraid of ………",
     "options": [
       "anybody",
       "nothing",
@@ -11449,7 +11449,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-143-134",
-    "questionText": "The school’s badge is the <i>insignia</i> of office for all the prefects in the school. (JAMB 2004)",
+    "questionText": "The school’s badge is the <i>insignia</i> of office for all the prefects in the school.",
     "options": [
       "Power",
       "symbol",
@@ -11461,7 +11461,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-144-117",
-    "questionText": "The journalist said he was working <i>freelance</i> (JAMB 2004)",
+    "questionText": "The journalist said he was working <i>freelance</i>",
     "options": [
       "tirelessly",
       "satisfactorily",
@@ -11473,7 +11473,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-145-131",
-    "questionText": "The presence of the captain makes the sailors <i>ill at ease</i>. (JAMB 2004)",
+    "questionText": "The presence of the captain makes the sailors <i>ill at ease</i>.",
     "options": [
       "uncomfortable",
       "sickly",
@@ -11485,7 +11485,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-146-143",
-    "questionText": "The teacher wants MY pen. (JAMB 2004)",
+    "questionText": "The teacher wants MY pen.",
     "options": [
       "Does the teacher want his pen?",
       "What does the teacher want?",
@@ -11497,7 +11497,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-147-208",
-    "questionText": "b<u>ee</u>r (JAMB 2005)",
+    "questionText": "b<u>ee</u>r",
     "options": [
       "bear",
       "pear",
@@ -11509,7 +11509,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-148-167",
-    "questionText": "The President can afford to dispense with some of his <i>henchmen</i> (JAMB 2005)",
+    "questionText": "The President can afford to dispense with some of his <i>henchmen</i>",
     "options": [
       "detractors",
       "body guards",
@@ -11521,7 +11521,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-149-154",
-    "questionText": "If the trader paid in full, his order was not pruned down. (JAMB 2005)",
+    "questionText": "If the trader paid in full, his order was not pruned down.",
     "options": [
       "The trader who made full payment did not have his order reduced",
       "The trader who made some payment did not have his order delayed.",
@@ -11533,7 +11533,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-150-152",
-    "questionText": "The class was tired of the new boy jawing away all the time. (JAMB 2005)",
+    "questionText": "The class was tired of the new boy jawing away all the time.",
     "options": [
       "He bit off people’s jaws",
       "He was always chewing in the class.",
@@ -11545,7 +11545,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-151-170",
-    "questionText": "Some people consider the leather uphoistery and thick rugs a bit <i>sumptuous</i>   (JAMB 2005)",
+    "questionText": "Some people consider the leather uphoistery and thick rugs a bit <i>sumptuous</i>",
     "options": [
       "expensive",
       "desirable",
@@ -11557,7 +11557,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-152-205",
-    "questionText": "By the end of the football match today, we ……. the best player (JAMB 2005)",
+    "questionText": "By the end of the football match today, we ……. the best player",
     "options": [
       "could have known",
       "might have known",
@@ -11569,7 +11569,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-153-200",
-    "questionText": "The train ………. before I arrived (JAMB 2005)",
+    "questionText": "The train ………. before I arrived",
     "options": [
       "was leaving",
       "has left",
@@ -11581,7 +11581,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-154-164",
-    "questionText": "Idris gives me a <i>sour</i> look every time I pass by him (JAMB 2005)",
+    "questionText": "Idris gives me a <i>sour</i> look every time I pass by him",
     "options": [
       "bad",
       "satisfactory",
@@ -11593,7 +11593,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-155-160",
-    "questionText": "The man puts his foot down whenever he is convince of his action (JAMB 2005)",
+    "questionText": "The man puts his foot down whenever he is convince of his action",
     "options": [
       "He desires to assert his will in the situation",
       "He makes his mark wherever he goes",
@@ -11605,7 +11605,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-156-190",
-    "questionText": "The Bank Manager assured us that there was nothing to worry about (JAMB 2005)",
+    "questionText": "The Bank Manager assured us that there was nothing to worry about",
     "options": [
       "as regard to the loan",
       "with regards to the loan",
@@ -11617,7 +11617,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-157-191",
-    "questionText": "The first prize was (JAMB 2005)",
+    "questionText": "The first prize was",
     "options": [
       "a carved wooden, attractive",
       "a wooden attractive carved",
@@ -11629,7 +11629,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-158-166",
-    "questionText": "The views of the plateau are in stark contrast to the <i>workaday</i> cottages below (JAMB 2005)",
+    "questionText": "The views of the plateau are in stark contrast to the <i>workaday</i> cottages below",
     "options": [
       "ordinary an uninteresting",
       "beautiful an interesting",
@@ -11641,7 +11641,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-159-181",
-    "questionText": "That <i>fateful</i> decision change the company’s outlook in many ways. (JAMB 2005)",
+    "questionText": "That <i>fateful</i> decision change the company’s outlook in many ways.",
     "options": [
       "wonderful",
       "uncontrollable",
@@ -11653,7 +11653,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-160-210",
-    "questionText": "l<u>u</u>ck (JAMB 2005)",
+    "questionText": "l<u>u</u>ck",
     "options": [
       "lock",
       "lack",
@@ -11665,7 +11665,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-161-175",
-    "questionText": "Nigeria has been playing a <i>vital role</i> in the political an economic development of Africa (JAMB 2005)",
+    "questionText": "Nigeria has been playing a <i>vital role</i> in the political an economic development of Africa",
     "options": [
       "creditable",
       "crucial",
@@ -11677,7 +11677,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-162-182",
-    "questionText": "The accident victim received a <i>superficial</i> wound from the crash (JAMB 2005)",
+    "questionText": "The accident victim received a <i>superficial</i> wound from the crash",
     "options": [
       "a serious",
       "a painless",
@@ -11689,7 +11689,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-163-180",
-    "questionText": "The <i>common</i> practice among some media practitioners is to be sensational in their reporting (JAMB 2005)",
+    "questionText": "The <i>common</i> practice among some media practitioners is to be sensational in their reporting",
     "options": [
       "prevalent",
       "rampant",
@@ -11701,7 +11701,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-164-165",
-    "questionText": "The officer was given an <i>invidious</i> task (JAMB 2005)",
+    "questionText": "The officer was given an <i>invidious</i> task",
     "options": [
       "vivid",
       "cruel",
@@ -11713,7 +11713,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-165-185",
-    "questionText": "Obi’s dog is old but still <i>lively</i> (JAMB 2005)",
+    "questionText": "Obi’s dog is old but still <i>lively</i>",
     "options": [
       "attractive",
       "howling",
@@ -11725,7 +11725,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-166-159",
-    "questionText": "if I visited England, I might go to Manchester City  (JAMB 2005)",
+    "questionText": "if I visited England, I might go to Manchester City",
     "options": [
       "When I go to England, I could go to Manchester City",
       "Whenever I visit England, I must go to Manchester City",
@@ -11737,7 +11737,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-167-207",
-    "questionText": "A nursery rhyme is used to teach pupils how to spell the word (JAMB 2005)",
+    "questionText": "A nursery rhyme is used to teach pupils how to spell the word",
     "options": [
       "hipoppotemus",
       "hippoppotemus",
@@ -11749,7 +11749,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-168-195",
-    "questionText": "As we sat ………the silence, my eyes……..  the room (JAMB 2005)",
+    "questionText": "As we sat ………the silence, my eyes……..  the room",
     "options": [
       "under/looked",
       "over/surrounded",
@@ -11761,7 +11761,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-169-194",
-    "questionText": "I am writing to you for ……..  reasons (JAMB 2005)",
+    "questionText": "I am writing to you for ……..  reasons",
     "options": [
       "concerned",
       "several",
@@ -11773,7 +11773,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-170-184",
-    "questionText": "The manager describe Mfon as a man of vehement <i>character</i> (JAMB 2005)",
+    "questionText": "The manager describe Mfon as a man of vehement <i>character</i>",
     "options": [
       "weak an uninterested",
       "strong an insistent",
@@ -11785,7 +11785,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-171-198",
-    "questionText": "We won't leave until it ……..  Raining (JAMB 2005)",
+    "questionText": "We won't leave until it ……..  Raining",
     "options": [
       "will stop",
       "stopped",
@@ -11797,7 +11797,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-172-212",
-    "questionText": "heal<u>th</u>y     (JAMB 2005)",
+    "questionText": "heal<u>th</u>y",
     "options": [
       "father",
       "path",
@@ -11809,7 +11809,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-173-214",
-    "questionText": "jurisprudence (JAMB 2005)",
+    "questionText": "jurisprudence",
     "options": [
       "JUrisprudence",
       "juRISprudence",
@@ -11821,7 +11821,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-174-192",
-    "questionText": "Tsadu always cautions that difficult jobs should be done (JAMB 2005)",
+    "questionText": "Tsadu always cautions that difficult jobs should be done",
     "options": [
       "step from step",
       "step by step",
@@ -11833,7 +11833,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-175-216",
-    "questionText": "departmentalize (JAMB 2005)",
+    "questionText": "departmentalize",
     "options": [
       "departMENtalize",
       "dePARTmentalize",
@@ -11845,7 +11845,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-176-153",
-    "questionText": "The new Headmaster hoped that his men would pull together (JAMB 2005)",
+    "questionText": "The new Headmaster hoped that his men would pull together",
     "options": [
       "He expected that the men would cooperate with him",
       "He thought that the men would compose themselves at work",
@@ -11857,7 +11857,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-177-218",
-    "questionText": "downtrodden (JAMB 2005)",
+    "questionText": "downtrodden",
     "options": [
       "downgrading",
       "prescribing",
@@ -11869,7 +11869,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-178-179",
-    "questionText": "<i>Accountability</i> is certainly a desirable quality in a politician (JAMB 2005)",
+    "questionText": "<i>Accountability</i> is certainly a desirable quality in a politician",
     "options": [
       "respectability",
       "responsibility",
@@ -11881,7 +11881,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-179-199",
-    "questionText": "The …………   event marked the beginning of a new life for the entire cabinet (JAMB 2005)",
+    "questionText": "The …………   event marked the beginning of a new life for the entire cabinet",
     "options": [
       "historical",
       "historicity of the",
@@ -11893,7 +11893,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-180-222",
-    "questionText": "The EAGLES won the match (JAMB 2005)",
+    "questionText": "The EAGLES won the match",
     "options": [
       "Did the Eagles lose the match?",
       "Who won the match?",
@@ -11905,7 +11905,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-181-156",
-    "questionText": "The crisis ended as suddenly as it began (JAMB 2005)",
+    "questionText": "The crisis ended as suddenly as it began",
     "options": [
       "The crisis ha suddenly as it began",
       "The crisis will not end suddenly",
@@ -11917,7 +11917,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-182-188",
-    "questionText": "We <i>made a pile</i> in the business deal (JAMB 2005)",
+    "questionText": "We <i>made a pile</i> in the business deal",
     "options": [
       "lost a lot of money",
       "earned a lot of money",
@@ -11929,7 +11929,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-183-176",
-    "questionText": "Emeka’s painting was <i>so realistic</i>  that it could almost have been a photograph (JAMB 2005)",
+    "questionText": "Emeka’s painting was <i>so realistic</i>  that it could almost have been a photograph",
     "options": [
       "picture square",
       "concrete",
@@ -11941,7 +11941,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-184-203",
-    "questionText": "The Secretary-General was shocked at the number of……. (JAMB 2005)",
+    "questionText": "The Secretary-General was shocked at the number of…….",
     "options": [
       "child's soldiers",
       "childish soldiers",
@@ -11953,7 +11953,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-185-197",
-    "questionText": "The public library has stopped………. books to readers (JAMB 2005)",
+    "questionText": "The public library has stopped………. books to readers",
     "options": [
       "borrowing",
       "lending",
@@ -11965,7 +11965,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-186-225",
-    "questionText": " Until he lost the election, Agbo…………… to be the Student Union president. (JAMB 2006)",
+    "questionText": " Until he lost the election, Agbo…………… to be the Student Union president.",
     "options": [
       "had been hoping",
       "has been hoping",
@@ -11977,7 +11977,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-187-293",
-    "questionText": "In our last play, Segun acted the <i>hero</i> (JAMB 2006)",
+    "questionText": "In our last play, Segun acted the <i>hero</i>",
     "options": [
       "villain",
       "devil",
@@ -11989,7 +11989,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-188-271",
-    "questionText": "His loss suddenly became <i>redeemable</i>  (JAMB 2006)",
+    "questionText": "His loss suddenly became <i>redeemable</i>",
     "options": [
       "Incurable",
       "exclusive",
@@ -12001,7 +12001,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-189-231",
-    "questionText": "The brave hunter killed the ………… in the forest  (JAMB 2006)",
+    "questionText": "The brave hunter killed the ………… in the forest",
     "options": [
       "big spitting cobra black",
       "Black big spitting cobra",
@@ -12013,7 +12013,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-190-257",
-    "questionText": "1 owe you far less than you owe me (JAMB 2006)",
+    "questionText": "1 owe you far less than you owe me",
     "options": [
       "My debt to you is greater than yours to me",
       "Your debt is not much greater than mine",
@@ -12025,7 +12025,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-191-248",
-    "questionText": "Unfair  (JAMB 2006)",
+    "questionText": "Unfair",
     "options": [
       "insight",
       "towards",
@@ -12037,7 +12037,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-192-275",
-    "questionText": "The party men <i>reveled</i> all night when the election results were announced. (JAMB 2006)",
+    "questionText": "The party men <i>reveled</i> all night when the election results were announced.",
     "options": [
       "Celebrated",
       "mourned",
@@ -12049,7 +12049,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-193-280",
-    "questionText": "c<u>h</u>aracter (JAMB 2006)",
+    "questionText": "c<u>h</u>aracter",
     "options": [
       "unique",
       "charade",
@@ -12061,7 +12061,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-194-228",
-    "questionText": "The ……….   robber showed no mercy during the attack.  (JAMB 2006)",
+    "questionText": "The ……….   robber showed no mercy during the attack.",
     "options": [
       "loquacious",
       "senseless",
@@ -12073,7 +12073,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-195-294",
-    "questionText": "The police found a <i>conclusive</i> proof of the boy's guilt (JAMB 2006)",
+    "questionText": "The police found a <i>conclusive</i> proof of the boy's guilt",
     "options": [
       "a corroborative",
       "A doubtful",
@@ -12085,7 +12085,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-196-258",
-    "questionText": "The dispute over land acquisition has now come a head (JAMB 2006)",
+    "questionText": "The dispute over land acquisition has now come a head",
     "options": [
       "The problem has reached crisis proportions",
       "The problem has now been referred to the headquarters",
@@ -12097,7 +12097,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-197-235",
-    "questionText": "His father hardly misses the news because he goes about with his………..  Radio (JAMB 2006)",
+    "questionText": "His father hardly misses the news because he goes about with his………..  Radio",
     "options": [
       "pointable",
       "potable",
@@ -12109,7 +12109,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-198-253",
-    "questionText": "Ogiri takes after his father, he fawns upon anyone with influence. (JAMB 2006)",
+    "questionText": "Ogiri takes after his father, he fawns upon anyone with influence.",
     "options": [
       "Like his father, Ogiri likes to flatter people with influence in society",
       "Like his father, Ogiri hates influential people",
@@ -12121,7 +12121,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-199-272",
-    "questionText": "The plan has gone <i>awry</i> (JAMB 2006)",
+    "questionText": "The plan has gone <i>awry</i>",
     "options": [
       "wide",
       "wrong",
@@ -12133,7 +12133,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-200-263",
-    "questionText": "Because Jamiu is so <i>easily offended,</i> he was not considered for the post of headboy (JAMB 2006)",
+    "questionText": "Because Jamiu is so <i>easily offended,</i> he was not considered for the post of headboy",
     "options": [
       "Irritable",
       "stubborn",
@@ -12145,7 +12145,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-201-277",
-    "questionText": "h<u>ur</u>t (JAMB 2006)",
+    "questionText": "h<u>ur</u>t",
     "options": [
       "hut",
       "girl",
@@ -12157,7 +12157,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-202-226",
-    "questionText": "The old man was rushed to hospital when his blood  pressure dropped to a ……..  level (JAMB 2006)",
+    "questionText": "The old man was rushed to hospital when his blood  pressure dropped to a ……..  level",
     "options": [
       "dangerously lowly",
       "dangerous lowly",
@@ -12169,7 +12169,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-203-283",
-    "questionText": "The usually hostile crowd was captivated by the .player's <i>winsome</i> attitude (JAMB 2006)",
+    "questionText": "The usually hostile crowd was captivated by the .player's <i>winsome</i> attitude",
     "options": [
       "obnoxious",
       "friendly",
@@ -12181,7 +12181,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-204-236",
-    "questionText": "The investigation Commission has treated all the …… submitted to it by the warring factions (JAMB 2006)",
+    "questionText": "The investigation Commission has treated all the …… submitted to it by the warring factions",
     "options": [
       "protests",
       "petitions",
@@ -12193,7 +12193,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-205-274",
-    "questionText": "77. The recommended novel has a <i>convoluted</i> theme (JAMB 2006)",
+    "questionText": "77. The recommended novel has a <i>convoluted</i> theme",
     "options": [
       "a simple",
       "an attractive",
@@ -12205,7 +12205,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-206-241",
-    "questionText": "For beating ……. his course mate, Agbaji was……… from the university. (JAMB 2006)",
+    "questionText": "For beating ……. his course mate, Agbaji was……… from the university.",
     "options": [
       "up/rusticated",
       "on/expelled",
@@ -12217,7 +12217,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-207-287",
-    "questionText": "Akpan was able to <i>douse</i> the flames with the new piece of equipment (JAMB 2006)",
+    "questionText": "Akpan was able to <i>douse</i> the flames with the new piece of equipment",
     "options": [
       "reduce",
       "extinguish",
@@ -12229,7 +12229,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-208-262",
-    "questionText": "The move to expel the chairman was <i>sanctioned</i> by members of the party        (JAMB 2006)",
+    "questionText": "The move to expel the chairman was <i>sanctioned</i> by members of the party",
     "options": [
       "unleashed",
       "opposed",
@@ -12241,7 +12241,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-209-297",
-    "questionText": "The notice reads, No <i>cash</i> transactions in this hall' (JAMB 2006)",
+    "questionText": "The notice reads, No <i>cash</i> transactions in this hall'",
     "options": [
       "money",
       "gainful",
@@ -12253,7 +12253,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-210-268",
-    "questionText": "The chairman advised the participants to follow <i>convention</i> in stating their points. (JAMB 2006)",
+    "questionText": "The chairman advised the participants to follow <i>convention</i> in stating their points.",
     "options": [
       "eloquence",
       "advice",
@@ -12265,7 +12265,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-211-252",
-    "questionText": "In our college, the regulations concerning resists are a grey area (JAMB 2006)",
+    "questionText": "In our college, the regulations concerning resists are a grey area",
     "options": [
       "The regulations have just been revised",
       "The regulations have often been ignored",
@@ -12277,7 +12277,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-212-259",
-    "questionText": "He has hardly spoken when the bell rang  (JAMB 2006)",
+    "questionText": "He has hardly spoken when the bell rang",
     "options": [
       "He found it difficult to speak, and then the bell rang",
       "When the bell rang, he was still speaking",
@@ -12289,7 +12289,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-213-290",
-    "questionText": "The action was <i>premeditated</i> (JAMB 2006)",
+    "questionText": "The action was <i>premeditated</i>",
     "options": [
       "unnecessary",
       "catastrophic",
@@ -12301,7 +12301,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-214-284",
-    "questionText": "The reporter made a <i>masterly</i> analysis of the situation (JAMB 2006)",
+    "questionText": "The reporter made a <i>masterly</i> analysis of the situation",
     "options": [
       "an unskilful",
       "a mistaken",
@@ -12313,7 +12313,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-215-265",
-    "questionText": "Adamu is rather <i>meddlesome</i> in dealing with his friends (JAMB 2006)",
+    "questionText": "Adamu is rather <i>meddlesome</i> in dealing with his friends",
     "options": [
       "impertinent",
       "intimidating",
@@ -12325,7 +12325,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-216-285",
-    "questionText": "He has no reason to <i>have his heart in his mouth</i> (JAMB 2006)",
+    "questionText": "He has no reason to <i>have his heart in his mouth</i>",
     "options": [
       "think negatively",
       "feel guilty",
@@ -12337,7 +12337,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-217-295",
-    "questionText": "The point you have made is quite <i>apt</i> (JAMB 2006)",
+    "questionText": "The point you have made is quite <i>apt</i>",
     "options": [
       "illogical",
       "helpful",
@@ -12349,7 +12349,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-218-276",
-    "questionText": "He is <i>prolific</i>  writer  (JAMB 2006)",
+    "questionText": "He is <i>prolific</i>  writer",
     "options": [
       "a very productive",
       "a well-known",
@@ -12361,7 +12361,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-219-249",
-    "questionText": "Dovetail  (JAMB 2006)",
+    "questionText": "Dovetail",
     "options": [
       "proviso",
       "simplicity",
@@ -12373,7 +12373,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-220-240",
-    "questionText": "Despite all preparations, the wedding did not ….. (JAMB 2006)",
+    "questionText": "Despite all preparations, the wedding did not …..",
     "options": [
       "come along",
       "come by",
@@ -12385,7 +12385,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-221-278",
-    "questionText": "c<u>o</u>ck (JAMB 2006)",
+    "questionText": "c<u>o</u>ck",
     "options": [
       "cop",
       "cope",
@@ -12397,7 +12397,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-222-289",
-    "questionText": "<i>No sooner had</i> he arrived than it started to rain (JAMB 2006)",
+    "questionText": "<i>No sooner had</i> he arrived than it started to rain",
     "options": [
       "Long before",
       "Seldom",
@@ -12409,7 +12409,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-223-261",
-    "questionText": "The class has fallen in with the teacher's plans (JAMB 2006)",
+    "questionText": "The class has fallen in with the teacher's plans",
     "options": [
       "The class has ignored the plans",
       "The class has rejected the plans",
@@ -12421,7 +12421,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-224-366",
-    "questionText": "Emeka hardly ever holds with my view on good governance. (JAMB 2007)",
+    "questionText": "Emeka hardly ever holds with my view on good governance.",
     "options": [
       "Emeka sometimes opposes my idea of good governance.",
       "My view on what good Governance is conforms with that of Emeka.",
@@ -12433,7 +12433,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-225-299",
-    "questionText": "The striking workers have vowed not to return to work until the decision is <i>reversed.</i>  (JAMB 2007)",
+    "questionText": "The striking workers have vowed not to return to work until the decision is <i>reversed.</i>",
     "options": [
       "rescinded",
       "dismissed",
@@ -12445,7 +12445,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-226-331",
-    "questionText": "The man advised his wife to steer a <i>middle course</i> the argument between her and her employers (JAMB 2007)",
+    "questionText": "The man advised his wife to steer a <i>middle course</i> the argument between her and her employers",
     "options": [
       "be recalcitrant",
       "be unrepentant",
@@ -12457,7 +12457,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-227-320",
-    "questionText": "The man paid a large sum to <i>redeem</i> his mortgaged property  (JAMB 2007)",
+    "questionText": "The man paid a large sum to <i>redeem</i> his mortgaged property",
     "options": [
       "ransom",
       "acquire",
@@ -12469,7 +12469,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-228-357",
-    "questionText": "Making a phone call instead of paying a visit represents a …….  trend  (JAMB 2007)",
+    "questionText": "Making a phone call instead of paying a visit represents a …….  trend",
     "options": [
       "sudden new major social",
       "new social sudden major",
@@ -12481,7 +12481,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-229-361",
-    "questionText": "I………  to pursue my education. (JAMB 2007)",
+    "questionText": "I………  to pursue my education.",
     "options": [
       "did not chance",
       "did not have the opportunity",
@@ -12493,7 +12493,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-230-302",
-    "questionText": "The astute businessman neatly <i>fended</i> off questions off questions about his private life. (JAMB 2007)",
+    "questionText": "The astute businessman neatly <i>fended</i> off questions off questions about his private life.",
     "options": [
       "asked",
       "explained",
@@ -12505,7 +12505,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-231-298",
-    "questionText": " He <i>deprecated</i> the attempts made to unseat him. (JAMB 2007)",
+    "questionText": " He <i>deprecated</i> the attempts made to unseat him.",
     "options": [
       "despised",
       "challenged",
@@ -12517,7 +12517,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-232-369",
-    "questionText": "There's a door at either end of the building. (JAMB 2007)",
+    "questionText": "There's a door at either end of the building.",
     "options": [
       "The building has two ends and two doors.",
       "The building has two ends, but only one doc'",
@@ -12529,7 +12529,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-233-368",
-    "questionText": "The woman won't have lived through the night.  (JAMB 2007)",
+    "questionText": "The woman won't have lived through the night.",
     "options": [
       "It was likely that the woman died before morning",
       "The woman survived her ordeal but not without some help .",
@@ -12541,7 +12541,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-234-351",
-    "questionText": "Government should invest more in …...   training. (JAMB 2007)",
+    "questionText": "Government should invest more in …...   training.",
     "options": [
       "teacher's",
       "teacher",
@@ -12553,7 +12553,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-235-372",
-    "questionText": "The country is holding its first free elections for five years.  (JAMB 2007)",
+    "questionText": "The country is holding its first free elections for five years.",
     "options": [
       "The last time the country held free electors was five years ago.",
       "The first free elections in the country have now taken five years to conduct.",
@@ -12565,7 +12565,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-236-328",
-    "questionText": "The students were <i>undeterred</i> by the noisy lecture environment.  (JAMB 2007)",
+    "questionText": "The students were <i>undeterred</i> by the noisy lecture environment.",
     "options": [
       "frustrated",
       "encouraged",
@@ -12577,7 +12577,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-237-309",
-    "questionText": "The tax rebate was a <i>concession</i> given to the civil servants  (JAMB 2007)",
+    "questionText": "The tax rebate was a <i>concession</i> given to the civil servants",
     "options": [
       "a donation",
       "an allowance",
@@ -12589,7 +12589,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-238-322",
-    "questionText": "Is it necessary for us to go?' she asked in her <i>shrill</i> voice  (JAMB 2007)",
+    "questionText": "Is it necessary for us to go?' she asked in her <i>shrill</i> voice",
     "options": [
       "angry",
       "quiet",
@@ -12601,7 +12601,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-239-327",
-    "questionText": "The Vice-Chancellor <i>relinquished</i> power at the end of busterm  (JAMB 2007)",
+    "questionText": "The Vice-Chancellor <i>relinquished</i> power at the end of busterm",
     "options": [
       "abandoned",
       "wielded",
@@ -12613,7 +12613,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-240-315",
-    "questionText": "clo<u>ths</u>e (JAMB 2007)",
+    "questionText": "clo<u>ths</u>e",
     "options": [
       "thomas",
       "three",
@@ -12625,7 +12625,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-241-329",
-    "questionText": "For anything to do with academic work, he has a great  a <i>version</i> (JAMB 2007)",
+    "questionText": "For anything to do with academic work, he has a great  a <i>version</i>",
     "options": [
       "conversion",
       "attention",
@@ -12637,7 +12637,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-242-355",
-    "questionText": "The girl cannot speak with a clear voice; she is always ……….  (JAMB 2007)",
+    "questionText": "The girl cannot speak with a clear voice; she is always ……….",
     "options": [
       "blabbing",
       "vociferating",
@@ -12649,7 +12649,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-243-370",
-    "questionText": "We have to iron out our differences at once. (JAMB 2007)",
+    "questionText": "We have to iron out our differences at once.",
     "options": [
       "We must clear up without delay our misunderstanding",
       "We must sure that our problems are eliminated at all costs",
@@ -12661,7 +12661,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-244-358",
-    "questionText": "Our soldiers are starting to zero …………. the enemy. (JAMB 2007)",
+    "questionText": "Our soldiers are starting to zero …………. the enemy.",
     "options": [
       "at",
       "in on",
@@ -12673,7 +12673,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-245-318",
-    "questionText": "p<u>ears</u> (JAMB 2007)",
+    "questionText": "p<u>ears</u>",
     "options": [
       "dear",
       "year",
@@ -12685,7 +12685,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-246-317",
-    "questionText": "bl<u>ues</u> (JAMB 2007)",
+    "questionText": "bl<u>ues</u>",
     "options": [
       "book",
       "root",
@@ -12697,7 +12697,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-247-321",
-    "questionText": "Lami and her husband are simply <i>munificent</i> (JAMB 2007)",
+    "questionText": "Lami and her husband are simply <i>munificent</i>",
     "options": [
       "a wealthy",
       "angry",
@@ -12709,7 +12709,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-248-344",
-    "questionText": "He says he ............. find me a job, but will accommodate me. (JAMB 2007)",
+    "questionText": "He says he ............. find me a job, but will accommodate me.",
     "options": [
       "could not",
       "was notable to",
@@ -12721,7 +12721,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-249-324",
-    "questionText": "The suggestions he made were very <i>unobtrusive</i> (JAMB 2007)",
+    "questionText": "The suggestions he made were very <i>unobtrusive</i>",
     "options": [
       "forceful",
       "helpful",
@@ -12733,7 +12733,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-250-305",
-    "questionText": "The rest of the boys admire Olu's <i>verve</i> (JAMB 2007)",
+    "questionText": "The rest of the boys admire Olu's <i>verve</i>",
     "options": [
       "intelligence",
       "work",
@@ -12745,7 +12745,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-251-353",
-    "questionText": "There was …………. any traffic as he drove home. (JAMB 2007)",
+    "questionText": "There was …………. any traffic as he drove home.",
     "options": [
       "hardly",
       "normally",
@@ -12757,7 +12757,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-252-364",
-    "questionText": "My advice to Tolu was: 'Look before you leap.' (JAMB 2007)",
+    "questionText": "My advice to Tolu was: 'Look before you leap.'",
     "options": [
       "Tolu was advised to consider her opinions before reaching any decisions.",
       "Tolu was advised to consider the possible consequences before taking action.",
@@ -12769,7 +12769,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-253-319",
-    "questionText": "The refugees were received at the <i>transit</i> camp. (JAMB 2007)",
+    "questionText": "The refugees were received at the <i>transit</i> camp.",
     "options": [
       "passage",
       "permanent",
@@ -12781,7 +12781,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-254-316",
-    "questionText": "p<u>os</u>table (JAMB 2007)",
+    "questionText": "p<u>os</u>table",
     "options": [
       "paw",
       "pot",
@@ -12793,7 +12793,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-255-310",
-    "questionText": " <i>Beads</i> of sweat ran down Ngozi's armpit (JAMB 2007)",
+    "questionText": " <i>Beads</i> of sweat ran down Ngozi's armpit",
     "options": [
       "Pools",
       "Springs",
@@ -12805,7 +12805,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-256-307",
-    "questionText": "I visited Amina <i>umpteen times</i> in her college, but she never came to me (JAMB 2007)",
+    "questionText": "I visited Amina <i>umpteen times</i> in her college, but she never came to me",
     "options": [
       "often",
       "seldom",
@@ -12817,7 +12817,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-257-304",
-    "questionText": "The shortage of petrol was a <i>perennial</i> problem (JAMB 2007)",
+    "questionText": "The shortage of petrol was a <i>perennial</i> problem",
     "options": [
       "a recurring",
       "a seasonal",
@@ -12829,7 +12829,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-258-347",
-    "questionText": " If he arrived late, everyone... …….. him (JAMB 2007)",
+    "questionText": " If he arrived late, everyone... …….. him",
     "options": [
       "would have blamed",
       "will blame",
@@ -12841,7 +12841,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-259-311",
-    "questionText": "The noise across the road  <i>drowned</i> the sound of the keyboard in my room (JAMB 2007)",
+    "questionText": "The noise across the road  <i>drowned</i> the sound of the keyboard in my room",
     "options": [
       "neutralized",
       "overshadowed",
@@ -12853,7 +12853,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-260-365",
-    "questionText": "The official had allegedly been taking bribes. (JAMB 2007)",
+    "questionText": "The official had allegedly been taking bribes.",
     "options": [
       "Some people accused the official of taking bribes.",
       "The official had been taking bribes without feeling any guilt.",
@@ -12865,7 +12865,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-261-408",
-    "questionText": "The  man would not <i>withdraw</i>  what hi hid  (JAMB 2008)",
+    "questionText": "The  man would not <i>withdraw</i>  what hi hid",
     "options": [
       "take back",
       "takeout",
@@ -12877,7 +12877,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-262-433",
-    "questionText": "Sc<u>oo</u> led  (JAMB 2008)",
+    "questionText": "Sc<u>oo</u> led",
     "options": [
       "cold",
       "could",
@@ -12889,7 +12889,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-263-387",
-    "questionText": "The condition of the hostels has become <i>deplorable </i> (JAMB 2008)",
+    "questionText": "The condition of the hostels has become <i>deplorable </i>",
     "options": [
       "admirable",
       "regrettable",
@@ -12901,7 +12901,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-264-412",
-    "questionText": "The popularity of the military dictator <i>waned</i>  after war  (JAMB 2008)",
+    "questionText": "The popularity of the military dictator <i>waned</i>  after war",
     "options": [
       "increased",
       "changed",
@@ -12913,7 +12913,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-265-427",
-    "questionText": "The condition of the room was so………... so I went outside  (JAMB 2008)",
+    "questionText": "The condition of the room was so………... so I went outside",
     "options": [
       "intolerant",
       "intolerable",
@@ -12925,7 +12925,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-266-389",
-    "questionText": "There is now a <i>dearth</i>  of talent in the industry; she said  (JAMB 2008)",
+    "questionText": "There is now a <i>dearth</i>  of talent in the industry; she said",
     "options": [
       "a lack",
       "an abundance",
@@ -12937,7 +12937,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-267-385",
-    "questionText": "As a public officer, he should act with <i>scrupulous</i>  honesty at all times   (JAMB 2008)",
+    "questionText": "As a public officer, he should act with <i>scrupulous</i>  honesty at all times",
     "options": [
       "impeccable",
       "careless",
@@ -12949,7 +12949,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-268-447",
-    "questionText": "melodramatic  (JAMB 2008)",
+    "questionText": "melodramatic",
     "options": [
       "MEIodramatic",
       "meLOdramatic",
@@ -12961,7 +12961,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-269-391",
-    "questionText": "His <i>kind-hearted</i> master bought him a motorcycle (JAMB 2008)",
+    "questionText": "His <i>kind-hearted</i> master bought him a motorcycle",
     "options": [
       "stingy",
       "generous",
@@ -12973,7 +12973,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-270-404",
-    "questionText": "Scientists have <i>invented</i> ways of preserving fruits much longer    (JAMB 2008)",
+    "questionText": "Scientists have <i>invented</i> ways of preserving fruits much longer",
     "options": [
       "coined",
       "devised",
@@ -12985,7 +12985,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-271-398",
-    "questionText": "The doctor tried to <i>soothe</i> the patient before the operation   (JAMB 2008)",
+    "questionText": "The doctor tried to <i>soothe</i> the patient before the operation",
     "options": [
       "examine",
       "treat",
@@ -12997,7 +12997,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267559-272-430",
-    "questionText": "Uncle Ochai now has enough money to complete his…….. building. (JAMB 2008)",
+    "questionText": "Uncle Ochai now has enough money to complete his…….. building.",
     "options": [
       "two storey",
       "two-storeyed",
@@ -13009,7 +13009,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-273-421",
-    "questionText": "I knocked his door, but he......... (JAMB 2008)",
+    "questionText": "I knocked his door, but he.........",
     "options": [
       "has already ten",
       "left already",
@@ -13021,7 +13021,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-274-403",
-    "questionText": "Participation in the programme is <i>optional</i> (JAMB 2008)",
+    "questionText": "Participation in the programme is <i>optional</i>",
     "options": [
       "unnecessary",
       "recommended",
@@ -13033,7 +13033,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-275-405",
-    "questionText": "The attempt to count the population was <i>largely</i> successful.   (JAMB 2008)",
+    "questionText": "The attempt to count the population was <i>largely</i> successful.",
     "options": [
       "mostly",
       "completely",
@@ -13045,7 +13045,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-276-417",
-    "questionText": "My mother had........  the fire wood before it began to rain.  (JAMB 2008)",
+    "questionText": "My mother had........  the fire wood before it began to rain.",
     "options": [
       "splitting",
       "splited",
@@ -13057,7 +13057,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-277-418",
-    "questionText": "The police officer warned the... communities against taking the law……… hands (JAMB 2008)",
+    "questionText": "The police officer warned the... communities against taking the law……… hands",
     "options": [
       "feuding/into their own",
       "feudal/ to their own",
@@ -13069,7 +13069,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-278-378",
-    "questionText": "He wants the meeting to be adjourned, (JAMB 2008)",
+    "questionText": "He wants the meeting to be adjourned,",
     "options": [
       "He wants the meeting closed",
       "He wants the meeting cancelled",
@@ -13081,7 +13081,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-279-381",
-    "questionText": "In those days in this school, everyone who spoke in a (JAMB 2008)",
+    "questionText": "In those days in this school, everyone who spoke in a",
     "options": [
       "language other than English paid a fine of ten naira",
       "Everyone of us paid a fine of ten naira because we did not always speak in English",
@@ -13093,7 +13093,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-280-395",
-    "questionText": "On the first day of her examination, Amina felt very <i>confident.</i> (JAMB 2008)",
+    "questionText": "On the first day of her examination, Amina felt very <i>confident.</i>",
     "options": [
       "excited",
       "dull",
@@ -13105,7 +13105,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-281-424",
-    "questionText": "The hotel lacks the ..……. for accommodating so many guests. (JAMB 2008)",
+    "questionText": "The hotel lacks the ..……. for accommodating so many guests.",
     "options": [
       "ability",
       "capability",
@@ -13117,7 +13117,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-282-399",
-    "questionText": "The charge brought against my brother was hardly <i>tenable\\</i> (JAMB 2008)",
+    "questionText": "The charge brought against my brother was hardly <i>tenable\\</i>",
     "options": [
       "sensible",
       "defensible",
@@ -13129,7 +13129,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-283-416",
-    "questionText": "The young man has..... to sober...……  after being drunk. (JAMB 2008)",
+    "questionText": "The young man has..... to sober...……  after being drunk.",
     "options": [
       "began/up",
       "begun/in",
@@ -13141,7 +13141,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-284-377",
-    "questionText": "Ado and Abu are always together these days. They must be up to something. (JAMB 2008)",
+    "questionText": "Ado and Abu are always together these days. They must be up to something.",
     "options": [
       "They must have reconciled after their quarrel",
       "They are probably planning something bar",
@@ -13153,7 +13153,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-285-396",
-    "questionText": "My father is always very <i>frank</i> about his intentions (JAMB 2008)",
+    "questionText": "My father is always very <i>frank</i> about his intentions",
     "options": [
       "open",
       "objective",
@@ -13165,7 +13165,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-286-379",
-    "questionText": "My father is one of the vociferous few challenging the company’s appointment of the manager. (JAMB 2008)",
+    "questionText": "My father is one of the vociferous few challenging the company’s appointment of the manager.",
     "options": [
       "My father is the one who shouts with a loud voice against the appointment of the manager",
       "My father and others speak on behalf of the company against the appointment of the manager",
@@ -13177,7 +13177,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-287-434",
-    "questionText": "sh<u>ir</u> t   (JAMB 2008)",
+    "questionText": "sh<u>ir</u> t",
     "options": [
       "shut",
       "shade",
@@ -13189,7 +13189,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-288-407",
-    "questionText": "I cannot stand Simon, I find his attitude <i>offensive</i> (JAMB 2008)",
+    "questionText": "I cannot stand Simon, I find his attitude <i>offensive</i>",
     "options": [
       "unapproachable",
       "obnoxious",
@@ -13201,7 +13201,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-289-384",
-    "questionText": "The lady was  completely <i>nonplussed when her suitor</i>  rejected her gifts  (JAMB 2008)",
+    "questionText": "The lady was  completely <i>nonplussed when her suitor</i>  rejected her gifts",
     "options": [
       "unpuzzled",
       "surprised",
@@ -13213,7 +13213,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-290-446",
-    "questionText": "photography  (JAMB 2008)",
+    "questionText": "photography",
     "options": [
       "phoTOgraphy",
       "PHOtograhy",
@@ -13225,7 +13225,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-291-429",
-    "questionText": "They have had their debt written ........... by their creditors. (JAMB 2008)",
+    "questionText": "They have had their debt written ........... by their creditors.",
     "options": [
       "down",
       "on",
@@ -13237,7 +13237,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-292-415",
-    "questionText": "Last Tuesday, Ochonu asked me......... (JAMB 2008)",
+    "questionText": "Last Tuesday, Ochonu asked me.........",
     "options": [
       "had I come yesterday",
       "did you come yesterday",
@@ -13249,7 +13249,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-293-413",
-    "questionText": "The chairman addressed the…………  (JAMB 2008)",
+    "questionText": "The chairman addressed the…………",
     "options": [
       "university French teacher",
       "university of French teachers",
@@ -13261,7 +13261,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-294-376",
-    "questionText": "It was too cold for him to go out  (JAMB 2008)",
+    "questionText": "It was too cold for him to go out",
     "options": [
       "He had a bad cold, and did not go out,",
       "Although it was very cold, he still went out",
@@ -13273,7 +13273,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-295-425",
-    "questionText": "If you are not careful, you would .......... your money. (JAMB 2008)",
+    "questionText": "If you are not careful, you would .......... your money.",
     "options": [
       "toss",
       "lose",
@@ -13285,7 +13285,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-296-386",
-    "questionText": "Men from the agency went into the market in search of <i>unwholesome</i>  food items  (JAMB 2008)",
+    "questionText": "Men from the agency went into the market in search of <i>unwholesome</i>  food items",
     "options": [
       "banned",
       "imported",
@@ -13297,7 +13297,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-297-419",
-    "questionText": "Agbo could not travel as he had come...…  influenza (JAMB 2008)",
+    "questionText": "Agbo could not travel as he had come...…  influenza",
     "options": [
       "over with",
       "down with",
@@ -13309,7 +13309,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-298-481",
-    "questionText": "The Lagos bus conductor r wore his professional <i>livery</i> (JAMB 2009)",
+    "questionText": "The Lagos bus conductor r wore his professional <i>livery</i>",
     "options": [
       "badge",
       "shoe",
@@ -13321,7 +13321,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-299-466",
-    "questionText": "His ideas sounded quite palatable yet they were <i>jettisoned</i> by the group,  (JAMB 2009)",
+    "questionText": "His ideas sounded quite palatable yet they were <i>jettisoned</i> by the group,",
     "options": [
       "accepted",
       "clumped",
@@ -13333,7 +13333,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-300-448",
-    "questionText": "It was our collective idea but Ado was doing every­ thing to steal the snow   (JAMB 2009)",
+    "questionText": "It was our collective idea but Ado was doing every­ thing to steal the snow",
     "options": [
       "Ado was not part of the planning but he tried to rub us of the benefits of it.",
       "We planned the show together out Ado was trying to abort it.",
@@ -13345,7 +13345,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-301-470",
-    "questionText": "We were <i>collectively</i> responsible for keeping the machine in good shape. (JAMB 2009)",
+    "questionText": "We were <i>collectively</i> responsible for keeping the machine in good shape.",
     "options": [
       "jointly",
       "severally",
@@ -13357,7 +13357,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-302-467",
-    "questionText": "The compulsory leave made her feel <i>listless</i> (JAMB 2009)",
+    "questionText": "The compulsory leave made her feel <i>listless</i>",
     "options": [
       "restful",
       "great",
@@ -13369,7 +13369,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-303-483",
-    "questionText": "There must be something <i>sinister</i> about her late arrival (JAMB 2009)",
+    "questionText": "There must be something <i>sinister</i> about her late arrival",
     "options": [
       "reasonable",
       "joyful",
@@ -13381,7 +13381,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-304-503",
-    "questionText": "I tried to discourage him, but he persisted……… revealing the secret to his son (JAMB 2009)",
+    "questionText": "I tried to discourage him, but he persisted……… revealing the secret to his son",
     "options": [
       "for",
       "in",
@@ -13393,7 +13393,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-305-475",
-    "questionText": "He <i>commands</i> the confidence and respect of all his subordinates  (JAMB 2009)",
+    "questionText": "He <i>commands</i> the confidence and respect of all his subordinates",
     "options": [
       "requests",
       "enjoys",
@@ -13405,7 +13405,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-306-471",
-    "questionText": "His comment was not <i>printable</i> (JAMB 2009)",
+    "questionText": "His comment was not <i>printable</i>",
     "options": [
       "punishable",
       "suitable",
@@ -13417,7 +13417,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-307-452",
-    "questionText": "You could have heard the sound, if you weren't asleep. (JAMB 2009)",
+    "questionText": "You could have heard the sound, if you weren't asleep.",
     "options": [
       "You were not asleep so you heard the sound.",
       "You were asleep so you did not hear the sound.",
@@ -13429,7 +13429,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-308-487",
-    "questionText": "They hated the police and, by <i>implication,</i> me (JAMB 2009)",
+    "questionText": "They hated the police and, by <i>implication,</i> me",
     "options": [
       "extension",
       "inference",
@@ -13441,7 +13441,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-309-510",
-    "questionText": " tr<u>a</u>p (JAMB 2009)",
+    "questionText": " tr<u>a</u>p",
     "options": [
       "wonder",
       "because",
@@ -13453,7 +13453,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-310-468",
-    "questionText": "A novel is an <i>embellished</i> ' falsehood', said the teacher (JAMB 2009)",
+    "questionText": "A novel is an <i>embellished</i> ' falsehood', said the teacher",
     "options": [
       "enriched",
       "exaggerated",
@@ -13465,7 +13465,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-311-520",
-    "questionText": "The girl DANCED in the village square.    (JAMB 2009)",
+    "questionText": "The girl DANCED in the village square.",
     "options": [
       "Who danced in the village square?",
       "Is this the village square where the girl danced?",
@@ -13477,7 +13477,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-312-489",
-    "questionText": "When the cashier told him to join the queue, he considered it……. his dignity. (JAMB 2009)",
+    "questionText": "When the cashier told him to join the queue, he considered it……. his dignity.",
     "options": [
       "a drawback to",
       "an affront on",
@@ -13489,7 +13489,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-313-476",
-    "questionText": "The president has mapped out so many <i>laudable</i> projects to embark upon  (JAMB 2009)",
+    "questionText": "The president has mapped out so many <i>laudable</i> projects to embark upon",
     "options": [
       "laughable",
       "good",
@@ -13501,7 +13501,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-314-497",
-    "questionText": "They are taught to value honour….. their lives.   (JAMB 2009)",
+    "questionText": "They are taught to value honour….. their lives.",
     "options": [
       "from",
       "in",
@@ -13513,7 +13513,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-315-490",
-    "questionText": "If anyone greets you, it is only polite to return….. Greeting (JAMB 2009)",
+    "questionText": "If anyone greets you, it is only polite to return….. Greeting",
     "options": [
       "your",
       "the one's",
@@ -13525,7 +13525,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-316-492",
-    "questionText": "An acceptance of the offer would be a departure from the several rejections that…..  (JAMB 2009)",
+    "questionText": "An acceptance of the offer would be a departure from the several rejections that…..",
     "options": [
       "had taken place",
       "have taken place",
@@ -13537,7 +13537,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-317-473",
-    "questionText": "Agwube's explanation of her poor performance at the examination only <i>begged the question.</i> (JAMB 2009)",
+    "questionText": "Agwube's explanation of her poor performance at the examination only <i>begged the question.</i>",
     "options": [
       "delayed her punishment",
       "sounded quite convincing",
@@ -13549,7 +13549,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-318-515",
-    "questionText": "own (JAMB 2009)",
+    "questionText": "own",
     "options": [
       "brown",
       "frown",
@@ -13561,7 +13561,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-319-496",
-    "questionText": "If you want to succeed in life, don't be envious….. other people's achievement  (JAMB 2009)",
+    "questionText": "If you want to succeed in life, don't be envious….. other people's achievement",
     "options": [
       "of",
       "to",
@@ -13573,7 +13573,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-320-454",
-    "questionText": "Emeka was always conspicuous by his absence when it came to attending lecturers. (JAMB 2009)",
+    "questionText": "Emeka was always conspicuous by his absence when it came to attending lecturers.",
     "options": [
       "That Emeka always attended lecturer made him conspicuous at school.",
       "Emeka’s absence from lecturers was all too glaring.",
@@ -13585,7 +13585,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-321-450",
-    "questionText": "In all ramifications, Chief Adeyemi was a successful principal of the school (JAMB 2009)",
+    "questionText": "In all ramifications, Chief Adeyemi was a successful principal of the school",
     "options": [
       "He was partly a failure and partly a success",
       "Everyone admitted that he was largely successful during his tenure",
@@ -13597,7 +13597,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-322-472",
-    "questionText": "<i>Curiously,</i> he escaped unhurt  (JAMB 2009)",
+    "questionText": "<i>Curiously,</i> he escaped unhurt",
     "options": [
       "interestingly",
       "unsurprisingly",
@@ -13609,7 +13609,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-323-498",
-    "questionText": "Our plan for the trip fell............when the rich man did not give us a life….. ? (JAMB 2009)",
+    "questionText": "Our plan for the trip fell............when the rich man did not give us a life….. ?",
     "options": [
       "off/boat",
       "through/line",
@@ -13621,7 +13621,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-324-516",
-    "questionText": "ceremoniously  (JAMB 2009)",
+    "questionText": "ceremoniously",
     "options": [
       "CEremoniously",
       "ceREmoniously",
@@ -13633,7 +13633,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-325-507",
-    "questionText": "Abba became …….... about his inability to pass the examination. (JAMB 2009)",
+    "questionText": "Abba became …….... about his inability to pass the examination.",
     "options": [
       "despondent",
       "disenchanted",
@@ -13645,7 +13645,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-326-474",
-    "questionText": "We have every need to preserve some of our national monuments for <i>posterity.</i>  (JAMB 2009)",
+    "questionText": "We have every need to preserve some of our national monuments for <i>posterity.</i>",
     "options": [
       "prosperity",
       "future",
@@ -13657,7 +13657,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-327-506",
-    "questionText": "Uche has been in ……….with his pen pal  for years. (JAMB 2009)",
+    "questionText": "Uche has been in ……….with his pen pal  for years.",
     "options": [
       "exchange",
       "correspondence",
@@ -13669,7 +13669,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-328-495",
-    "questionText": "The bomb was... ……. (JAMB 2009)",
+    "questionText": "The bomb was... …….",
     "options": [
       "detonated",
       "dismantled",
@@ -13681,7 +13681,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-329-484",
-    "questionText": "The <i>unification</i> of the country has brought about great technological advancement  (JAMB 2009)",
+    "questionText": "The <i>unification</i> of the country has brought about great technological advancement",
     "options": [
       "A restoration",
       "agreement",
@@ -13693,7 +13693,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-330-461",
-    "questionText": "The <i>computerised</i> service of the new banks is heart­  warming.  (JAMB 2009)",
+    "questionText": "The <i>computerised</i> service of the new banks is heart­  warming.",
     "options": [
       "manual",
       "mechanical",
@@ -13705,7 +13705,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-331-493",
-    "questionText": " The….. part of a new book is often written by a more experienced writer than the author.  (JAMB 2009)",
+    "questionText": " The….. part of a new book is often written by a more experienced writer than the author.",
     "options": [
       "foreward",
       "foreword",
@@ -13717,7 +13717,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-332-464",
-    "questionText": "Young people have a <i>penchant</i> for fast cats  (JAMB 2009)",
+    "questionText": "Young people have a <i>penchant</i> for fast cats",
     "options": [
       "likeness",
       "passion",
@@ -13729,7 +13729,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-333-449",
-    "questionText": "As we watched, he just popped along to the shop for some bread   (JAMB 2009)",
+    "questionText": "As we watched, he just popped along to the shop for some bread",
     "options": [
       "He has walked slowly to the shop.",
       "He stole some bread from the shop but we could not stop him",
@@ -13741,7 +13741,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-334-456",
-    "questionText": "Kola visits us on occasions, and I don't like that. (JAMB 2009)",
+    "questionText": "Kola visits us on occasions, and I don't like that.",
     "options": [
       "I do not like Kola because he visits us only when an event is being celebrated.",
       "I hate the fact that Kola only visits us when something is being celebrated.",
@@ -13753,7 +13753,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-335-518",
-    "questionText": " management  (JAMB 2009)",
+    "questionText": " management",
     "options": [
       "MAnagement",
       "maNAgement",
@@ -13765,7 +13765,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-336-459",
-    "questionText": "The boy is <i>indolent</i> to do well at school? (JAMB 2009)",
+    "questionText": "The boy is <i>indolent</i> to do well at school?",
     "options": [
       "intelligent",
       "industrious",
@@ -13777,7 +13777,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-337-453",
-    "questionText": "Musa will not well because he has an itching palm. (JAMB 2009)",
+    "questionText": "Musa will not well because he has an itching palm.",
     "options": [
       "He has rashes in his palm",
       "He is always looking for something to touch",
@@ -13789,7 +13789,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-338-546",
-    "questionText": "Ada gave her husband a look that made words  <i>superfluous</i>  (JAMB 2010)",
+    "questionText": "Ada gave her husband a look that made words  <i>superfluous</i>",
     "options": [
       "redundant",
       "spurious",
@@ -13801,7 +13801,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-339-562",
-    "questionText": "Lemoti ……….. (JAMB 2010)",
+    "questionText": "Lemoti ………..",
     "options": [
       "is gifted only not",
       "is only not gifted",
@@ -13813,7 +13813,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-340-583",
-    "questionText": "ind<u>i</u>ct  (JAMB 2010)",
+    "questionText": "ind<u>i</u>ct",
     "options": [
       "bright",
       "fish",
@@ -13825,7 +13825,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-341-560",
-    "questionText": "Ugo is  <i>eligible</i>  for the post of secretary  (JAMB 2010)",
+    "questionText": "Ugo is  <i>eligible</i>  for the post of secretary",
     "options": [
       "nominated",
       "invited",
@@ -13837,7 +13837,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-342-541",
-    "questionText": "The crowd was very  <i>receptive </i>  to the speaker's suggestion  (JAMB 2010)",
+    "questionText": "The crowd was very  <i>receptive </i>  to the speaker's suggestion",
     "options": [
       "disobedient",
       "repellent",
@@ -13849,7 +13849,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-343-551",
-    "questionText": "Isa and llu  <i>ate sumptuous</i>  meals on their brother's wedding day (JAMB 2010)",
+    "questionText": "Isa and llu  <i>ate sumptuous</i>  meals on their brother's wedding day",
     "options": [
       "expensive",
       "foreign",
@@ -13861,7 +13861,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-344-544",
-    "questionText": "The report of the committee contained a  <i>plethora</i>  of details (JAMB 2010)",
+    "questionText": "The report of the committee contained a  <i>plethora</i>  of details",
     "options": [
       "shortage",
       "simplicity",
@@ -13873,7 +13873,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-345-564",
-    "questionText": "The boy told his mother (JAMB 2010)",
+    "questionText": "The boy told his mother",
     "options": [
       "that was the girl he told her about",
       "that was the girl I told you about her",
@@ -13885,7 +13885,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-346-522",
-    "questionText": "Though Mr, Iro is our new chairman, he views other members with jaundiced eye,  (JAMB 2010)",
+    "questionText": "Though Mr, Iro is our new chairman, he views other members with jaundiced eye,",
     "options": [
       "He takes a rather forceful position on dealing with his members.",
       "He takes an unfavourable position concerning his members",
@@ -13897,7 +13897,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-347-547",
-    "questionText": "A political  <i>impasse</i>  does not offer the best opportunity for merrymaking  (JAMB 2010)",
+    "questionText": "A political  <i>impasse</i>  does not offer the best opportunity for merrymaking",
     "options": [
       "manifesto",
       "party",
@@ -13909,7 +13909,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-348-572",
-    "questionText": "Long after everyone…... the hall, Obi still sat inside. (JAMB 2010)",
+    "questionText": "Long after everyone…... the hall, Obi still sat inside.",
     "options": [
       "left",
       "is leaving",
@@ -13921,7 +13921,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-349-585",
-    "questionText": "shea<u>th </u> (JAMB 2010)",
+    "questionText": "shea<u>th </u>",
     "options": [
       "bathe",
       "length",
@@ -13933,7 +13933,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-350-580",
-    "questionText": "  Based on the facts before me, I have no alternative...........to hold you responsible  (JAMB 2010)",
+    "questionText": "  Based on the facts before me, I have no alternative...........to hold you responsible",
     "options": [
       "only",
       "as",
@@ -13945,7 +13945,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-351-555",
-    "questionText": "The principal gave his speech   <i>off hand</i>  at the sports  meeting  (JAMB 2010)",
+    "questionText": "The principal gave his speech   <i>off hand</i>  at the sports  meeting",
     "options": [
       "calmly",
       "Beautifully",
@@ -13957,7 +13957,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-352-537",
-    "questionText": "Ndeni gave a  <i>flawless</i>  speech at the party  (JAMB 2010)",
+    "questionText": "Ndeni gave a  <i>flawless</i>  speech at the party",
     "options": [
       "a wonderful",
       "a careless",
@@ -13969,7 +13969,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-353-576",
-    "questionText": "Vital... is still spread ……..... word of mouth in most villages in Africa.  (JAMB 2010)",
+    "questionText": "Vital... is still spread ……..... word of mouth in most villages in Africa.",
     "options": [
       "information/from",
       "information/with",
@@ -13981,7 +13981,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-354-596",
-    "questionText": "My bag is made of LEATHER  (JAMB 2010)",
+    "questionText": "My bag is made of LEATHER",
     "options": [
       "Whose bag is made of leather?",
       "Is my bag made of polythene?",
@@ -13993,7 +13993,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-355-540",
-    "questionText": "Governing a country is not always as  <i>straightforward as</i>  people sometimes imagine. (JAMB 2010)",
+    "questionText": "Governing a country is not always as  <i>straightforward as</i>  people sometimes imagine.",
     "options": [
       "complicated",
       "troublesome",
@@ -14005,7 +14005,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-356-593",
-    "questionText": "captivity  (JAMB 2010)",
+    "questionText": "captivity",
     "options": [
       "captiviTY",
       "captiVIty",
@@ -14017,7 +14017,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-357-589",
-    "questionText": "shine  (JAMB 2010)",
+    "questionText": "shine",
     "options": [
       "clean",
       "fine",
@@ -14029,7 +14029,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-358-592",
-    "questionText": "satisfactory  (JAMB 2010)",
+    "questionText": "satisfactory",
     "options": [
       "satisfacTORY",
       "saTISfactory",
@@ -14041,7 +14041,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-359-582",
-    "questionText": "c<u>oup</u>  (JAMB 2010)",
+    "questionText": "c<u>oup</u>",
     "options": [
       "whup",
       "shoot",
@@ -14053,7 +14053,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-360-574",
-    "questionText": "The politician was sent …….. exile (JAMB 2010)",
+    "questionText": "The politician was sent …….. exile",
     "options": [
       "onto",
       "into",
@@ -14065,7 +14065,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-361-566",
-    "questionText": "His wife was badly injured in the fracas, but I think  she will pull (JAMB 2010)",
+    "questionText": "His wife was badly injured in the fracas, but I think  she will pull",
     "options": [
       "up",
       "over",
@@ -14077,7 +14077,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-362-539",
-    "questionText": "The captain says sports is being  <i>debased</i>  by commercial sponsorship  (JAMB 2010)",
+    "questionText": "The captain says sports is being  <i>debased</i>  by commercial sponsorship",
     "options": [
       "localized",
       "perverted",
@@ -14089,7 +14089,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-363-526",
-    "questionText": "The footballers moved with their tails between their legs. (JAMB 2010)",
+    "questionText": "The footballers moved with their tails between their legs.",
     "options": [
       "They moved happily because they won the match",
       "They were unhappy because they had been despised by their opponents.",
@@ -14101,7 +14101,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-364-591",
-    "questionText": "political  (JAMB 2010)",
+    "questionText": "political",
     "options": [
       "politiCAL",
       "POlitical",
@@ -14113,7 +14113,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-365-553",
-    "questionText": "The <i> panacea</i>  for a country's economic mess lies in systematic planning and hard work  (JAMB 2010)",
+    "questionText": "The <i> panacea</i>  for a country's economic mess lies in systematic planning and hard work",
     "options": [
       "cure",
       "hope",
@@ -14125,7 +14125,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-366-594",
-    "questionText": "EMEKA finished his home work yesterday  (JAMB 2010)",
+    "questionText": "EMEKA finished his home work yesterday",
     "options": [
       "Was Emeka helped to do his home work?",
       "Did Emeka do his home work yesterday?",
@@ -14137,7 +14137,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-367-559",
-    "questionText": "Her reputation is without a  <i>blemish </i>  (JAMB 2010)",
+    "questionText": "Her reputation is without a  <i>blemish </i>",
     "options": [
       "struggle",
       "problem",
@@ -14149,7 +14149,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-368-534",
-    "questionText": "The teacher said that All's essay was full of many  <i>redundant</i>  details  (JAMB 2010)",
+    "questionText": "The teacher said that All's essay was full of many  <i>redundant</i>  details",
     "options": [
       "unexplained",
       "strange",
@@ -14161,7 +14161,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-369-557",
-    "questionText": "The girl's father was  <i>astounded</i>  to see her appear from the shrine  (JAMB 2010)",
+    "questionText": "The girl's father was  <i>astounded</i>  to see her appear from the shrine",
     "options": [
       "collected",
       "overwhelmed",
@@ -14173,7 +14173,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-370-530",
-    "questionText": "As debutants in that tournament, the Super Eagles were up against their first opponents by three goals to nil (JAMB 2010)",
+    "questionText": "As debutants in that tournament, the Super Eagles were up against their first opponents by three goals to nil",
     "options": [
       "The Super Eagles were playing in the tournament for the first time, but they won their match by three goals to nothing",
       "Though the Super Eagles were rated as the weakest side in the tournament they won their first match by three goals to nil",
@@ -14185,7 +14185,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-371-581",
-    "questionText": "Many people would always find reasons to ... the law (JAMB 2010)",
+    "questionText": "Many people would always find reasons to ... the law",
     "options": [
       "arrogate",
       "debase",
@@ -14197,7 +14197,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-372-538",
-    "questionText": " Beneath Ado's  <i>guff</i>  exterior, he's really very kind-hearted (JAMB 2010)",
+    "questionText": " Beneath Ado's  <i>guff</i>  exterior, he's really very kind-hearted",
     "options": [
       "nice",
       "harsh",
@@ -14209,7 +14209,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-373-556",
-    "questionText": "Jankoli was dressed in an old  <i>assortment</i>  of clothes (JAMB 2010)",
+    "questionText": "Jankoli was dressed in an old  <i>assortment</i>  of clothes",
     "options": [
       "avalanche",
       "homogeneity",
@@ -14221,7 +14221,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-374-527",
-    "questionText": "The headmaster managed to talk his way out of having  to give a speech  (JAMB 2010)",
+    "questionText": "The headmaster managed to talk his way out of having  to give a speech",
     "options": [
       "He delivered a speech despite the difficulty",
       "He managed to give a speech out of a difficult situation",
@@ -14233,7 +14233,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-375-590",
-    "questionText": "seer  (JAMB 2010)",
+    "questionText": "seer",
     "options": [
       "snare",
       "spare",
@@ -14245,7 +14245,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-376-575",
-    "questionText": "When we looked up, we …….... the plane some miles away.  (JAMB 2010)",
+    "questionText": "When we looked up, we …….... the plane some miles away.",
     "options": [
       "site",
       "cited",
@@ -14257,7 +14257,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-377-568",
-    "questionText": "One of the women who .... in the premises.... been  ordered to quit  (JAMB 2010)",
+    "questionText": "One of the women who .... in the premises.... been  ordered to quit",
     "options": [
       "sells/have",
       "sell/has",
@@ -14269,7 +14269,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-378-950",
-    "questionText": "What you are asking me to do is a <u>herculean</u> task? (JAMB 2011)",
+    "questionText": "What you are asking me to do is a <u>herculean</u> task?",
     "options": [
       "a strenuous",
       "a demanding",
@@ -14281,7 +14281,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-379-949",
-    "questionText": "Agoshito is a <u>callow</u> youth', said the teacher? (JAMB 2011)",
+    "questionText": "Agoshito is a <u>callow</u> youth', said the teacher?",
     "options": [
       "an ignorant",
       "an experienced",
@@ -14293,7 +14293,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-380-980",
-    "questionText": "W<u>ei</u>ght? (JAMB 2011)",
+    "questionText": "W<u>ei</u>ght?",
     "options": [
       "whale",
       "white",
@@ -14305,7 +14305,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-381-936",
-    "questionText": "The stockbroker said it was an <u>astute</u> move to sell the shares then? (JAMB 2011)",
+    "questionText": "The stockbroker said it was an <u>astute</u> move to sell the shares then?",
     "options": [
       "a bad",
       "a shrewd",
@@ -14317,7 +14317,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-382-922",
-    "questionText": "The secretary said that the postponement of the meeting was due to unforeseen circumstances? (JAMB 2011)",
+    "questionText": "The secretary said that the postponement of the meeting was due to unforeseen circumstances?",
     "options": [
       "The date of the meeting was shifted as a result of unexpected reasons",
       "The meeting's date was off for strange reasons",
@@ -14329,7 +14329,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-383-990",
-    "questionText": "suggestible? (JAMB 2011)",
+    "questionText": "suggestible?",
     "options": [
       "suggeSTIble",
       "Suggestible",
@@ -14341,7 +14341,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-384-959",
-    "questionText": "When his car tyre ......... on the way, he did not know what to do. (JAMB 2011)",
+    "questionText": "When his car tyre ......... on the way, he did not know what to do.",
     "options": [
       "has burst",
       "had burst",
@@ -14353,7 +14353,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-385-982",
-    "questionText": "Men<u>t</u>ion? (JAMB 2011)",
+    "questionText": "Men<u>t</u>ion?",
     "options": [
       "that",
       "machine",
@@ -14365,7 +14365,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-386-955",
-    "questionText": "She only gives a <u>superficial</u> impression of warmth and friendliness? (JAMB 2011)",
+    "questionText": "She only gives a <u>superficial</u> impression of warmth and friendliness?",
     "options": [
       "a strong",
       "a fake",
@@ -14377,7 +14377,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-387-970",
-    "questionText": "Instead of ......., she lied? (JAMB 2011)",
+    "questionText": "Instead of ......., she lied?",
     "options": [
       "pleading",
       "her to plead",
@@ -14389,7 +14389,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-388-933",
-    "questionText": "He <u>compliments</u> me on my way of doing things? (JAMB 2011)",
+    "questionText": "He <u>compliments</u> me on my way of doing things?",
     "options": [
       "complements",
       "imitates",
@@ -14401,7 +14401,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-389-967",
-    "questionText": "There are many ways to kill a rat, so we should be..... in our approach to the task ahead of us? (JAMB 2011)",
+    "questionText": "There are many ways to kill a rat, so we should be..... in our approach to the task ahead of us?",
     "options": [
       "ecletic",
       "eclectic",
@@ -14413,7 +14413,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-390-930",
-    "questionText": "Mrs. Asio wanted her sister to stop being so <u>detached</u>? (JAMB 2011)",
+    "questionText": "Mrs. Asio wanted her sister to stop being so <u>detached</u>?",
     "options": [
       "friendly",
       "careless",
@@ -14425,7 +14425,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-391-971",
-    "questionText": "Of the three girls, Uka is the ........? (JAMB 2011)",
+    "questionText": "Of the three girls, Uka is the ........?",
     "options": [
       "so much notorious",
       "notorious",
@@ -14437,7 +14437,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-392-947",
-    "questionText": "The teacher who beat the student was treated with <u>mercy</u>? (JAMB 2011)",
+    "questionText": "The teacher who beat the student was treated with <u>mercy</u>?",
     "options": [
       "disrespect",
       "contempt",
@@ -14449,7 +14449,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-393-974",
-    "questionText": "I want to .......this chance to acquaint you the latest development? (JAMB 2011)",
+    "questionText": "I want to .......this chance to acquaint you the latest development?",
     "options": [
       "size",
       "seize",
@@ -14461,7 +14461,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-394-957",
-    "questionText": "His <u>antipathy</u> affected the growth of is business? (JAMB 2011)",
+    "questionText": "His <u>antipathy</u> affected the growth of is business?",
     "options": [
       "hatred",
       "receptiveness",
@@ -14473,7 +14473,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-395-991",
-    "questionText": "Uche LOVES Toyota cars? (JAMB 2011)",
+    "questionText": "Uche LOVES Toyota cars?",
     "options": [
       "Who loves Toyota cars?",
       "What brand of car Uche love?",
@@ -14485,7 +14485,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-396-948",
-    "questionText": "His wife hates his <u>garrulous</u> attitude? (JAMB 2011)",
+    "questionText": "His wife hates his <u>garrulous</u> attitude?",
     "options": [
       "outspoken",
       "unfriendly",
@@ -14497,7 +14497,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-397-956",
-    "questionText": "As a <u>prudent</u> businessman, Adeyi does not leave anything to chance. (JAMB 2011)",
+    "questionText": "As a <u>prudent</u> businessman, Adeyi does not leave anything to chance.",
     "options": [
       "frugal",
       "shrewd",
@@ -14509,7 +14509,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-398-940",
-    "questionText": "Fila has always been described as <u>belligerent</u>? (JAMB 2011)",
+    "questionText": "Fila has always been described as <u>belligerent</u>?",
     "options": [
       "beautiful",
       "attractive",
@@ -14521,7 +14521,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-399-978",
-    "questionText": "The school authority dismissed him for ...... but I won't tell you about it yet? (JAMB 2011)",
+    "questionText": "The school authority dismissed him for ...... but I won't tell you about it yet?",
     "options": [
       "certain reason",
       "a reason",
@@ -14533,7 +14533,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-400-992",
-    "questionText": "The POLICE arrested the suspect. (JAMB 2011)",
+    "questionText": "The POLICE arrested the suspect.",
     "options": [
       "Did the police placate the suspect?",
       "Who arrested the suspect?",
@@ -14545,7 +14545,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-401-961",
-    "questionText": "........ he switches on the light, the shadow disappears? (JAMB 2011)",
+    "questionText": "........ he switches on the light, the shadow disappears?",
     "options": [
       "Whenever",
       "Expect",
@@ -14557,7 +14557,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-402-989",
-    "questionText": "meditative? (JAMB 2011)",
+    "questionText": "meditative?",
     "options": [
       "meDItative",
       "mediTAtive",
@@ -14569,7 +14569,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-403-953",
-    "questionText": "Mrs. Akunilo looks <u>anaemic</u> today? (JAMB 2011)",
+    "questionText": "Mrs. Akunilo looks <u>anaemic</u> today?",
     "options": [
       "strange",
       "sick",
@@ -14581,7 +14581,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-404-944",
-    "questionText": "The warring communities were <u>coerced</u> into negotiating a settlement? (JAMB 2011)",
+    "questionText": "The warring communities were <u>coerced</u> into negotiating a settlement?",
     "options": [
       "driven",
       "compelled",
@@ -14593,7 +14593,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-405-965",
-    "questionText": "Unoka .... the whole house to find his missing wristwatch? (JAMB 2011)",
+    "questionText": "Unoka .... the whole house to find his missing wristwatch?",
     "options": [
       "scourged",
       "scoured",
@@ -14605,7 +14605,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-406-954",
-    "questionText": "It is <u>inconceivable</u> that the sun shone in the night? (JAMB 2011)",
+    "questionText": "It is <u>inconceivable</u> that the sun shone in the night?",
     "options": [
       "credible",
       "unthinkable",
@@ -14617,7 +14617,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-407-943",
-    "questionText": "Her problem was <u>exacerbated</u> by the loss of her father? (JAMB 2011)",
+    "questionText": "Her problem was <u>exacerbated</u> by the loss of her father?",
     "options": [
       "exaggerated",
       "solved",
@@ -14629,7 +14629,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-408-1070",
-    "questionText": "Everyone makes mistakes occasionally, nobody is......... (JAMB 2012)",
+    "questionText": "Everyone makes mistakes occasionally, nobody is.........",
     "options": [
       "incorrigible",
       "imperfect",
@@ -14641,7 +14641,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-409-1027",
-    "questionText": "He could not speak out because he had a feet of clay. (JAMB 2012)",
+    "questionText": "He could not speak out because he had a feet of clay.",
     "options": [
       "His feet was muddy",
       "He was weak and cowardly",
@@ -14653,7 +14653,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-410-1065",
-    "questionText": "One should be careful how......behaves in public, shouldn't....... (JAMB 2012)",
+    "questionText": "One should be careful how......behaves in public, shouldn't.......",
     "options": [
       "one/one",
       "he/lie",
@@ -14665,7 +14665,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-411-1073",
-    "questionText": "This professor of...........medicine has......... the mystery of bird flu. (JAMB 2012)",
+    "questionText": "This professor of...........medicine has......... the mystery of bird flu.",
     "options": [
       "vetinary/unraveled",
       "vertrinary/unravelled",
@@ -14677,7 +14677,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-412-1045",
-    "questionText": "Some men will continue to cause offences until they are given <u>a taste of their own medicine</u> (JAMB 2012)",
+    "questionText": "Some men will continue to cause offences until they are given <u>a taste of their own medicine</u>",
     "options": [
       "placated",
       "revenged on",
@@ -14689,7 +14689,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-413-1025",
-    "questionText": "He needed not to have played in the position of quarterback in volley ball. (JAMB 2012)",
+    "questionText": "He needed not to have played in the position of quarterback in volley ball.",
     "options": [
       "He participated in the game in his unusual position",
       "Nobody expected him to have participated in the game",
@@ -14701,7 +14701,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-414-1076",
-    "questionText": "The driver died in the .......... road accident (JAMB 2012)",
+    "questionText": "The driver died in the .......... road accident",
     "options": [
       "fatal",
       "brutal",
@@ -14713,7 +14713,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-415-1050",
-    "questionText": "Akin is an <u>inveterate</u> gambler (JAMB 2012)",
+    "questionText": "Akin is an <u>inveterate</u> gambler",
     "options": [
       "a selfish and self-centred",
       "an extremely unlucky but popular",
@@ -14725,7 +14725,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-416-1037",
-    "questionText": "Oche entered the principal's office in a rather <u>abrasive</u> manner. (JAMB 2012)",
+    "questionText": "Oche entered the principal's office in a rather <u>abrasive</u> manner.",
     "options": [
       "gentle",
       "rude",
@@ -14737,7 +14737,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-417-1035",
-    "questionText": "The management wants to consider her <u>reticent</u> behaviour in due course. (JAMB 2012)",
+    "questionText": "The management wants to consider her <u>reticent</u> behaviour in due course.",
     "options": [
       "disapproving",
       "disciplinarian",
@@ -14749,7 +14749,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-418-1080",
-    "questionText": "B<u>oo</u>k (JAMB 2012)",
+    "questionText": "B<u>oo</u>k",
     "options": [
       "cool",
       "cook",
@@ -14761,7 +14761,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-419-1093",
-    "questionText": "The ACCOUNTANT paid the workers' July salary in September. (JAMB 2012)",
+    "questionText": "The ACCOUNTANT paid the workers' July salary in September.",
     "options": [
       "when were the workers paid?",
       "did the cashier pay the workers' salary in September?",
@@ -14773,7 +14773,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-420-1092",
-    "questionText": "The traditional chief NARRATED the story to the children (JAMB 2012)",
+    "questionText": "The traditional chief NARRATED the story to the children",
     "options": [
       "the children heard the story from the traditional chief",
       "who narrated the story to the children?",
@@ -14785,7 +14785,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-421-1041",
-    "questionText": "The presidential system is an <u>antidote</u> to some political ailments. (JAMB 2012)",
+    "questionText": "The presidential system is an <u>antidote</u> to some political ailments.",
     "options": [
       "an answer",
       "an inquiry",
@@ -14797,7 +14797,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-422-1021",
-    "questionText": "The vice chancellor is riding the crest of the last quarter of his administration. (JAMB 2012)",
+    "questionText": "The vice chancellor is riding the crest of the last quarter of his administration.",
     "options": [
       "The vice chancellor enjoys the acknowledgment of the success of his administration",
       "the vice chancellor does not enjoy the people's criticism of his administration",
@@ -14809,7 +14809,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-423-1020",
-    "questionText": "Hardworking students must not have a finger in every pie at school. (JAMB 2012)",
+    "questionText": "Hardworking students must not have a finger in every pie at school.",
     "options": [
       "Hardworking students must not have a role to play in most activities in the school",
       "Only hardworking students must participate in all activities in the school",
@@ -14821,7 +14821,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-424-1043",
-    "questionText": "He was very much respected, though he had no <u>temporal</u> power (JAMB 2012)",
+    "questionText": "He was very much respected, though he had no <u>temporal</u> power",
     "options": [
       "spiritual",
       "mundane",
@@ -14833,7 +14833,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-425-1087",
-    "questionText": "Impossible (JAMB 2012)",
+    "questionText": "Impossible",
     "options": [
       "im<u>POS</u>sible",
       "<u>IM</u>possible",
@@ -14845,7 +14845,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-426-1033",
-    "questionText": "Bola always looks <u>sober</u> (JAMB 2012)",
+    "questionText": "Bola always looks <u>sober</u>",
     "options": [
       "excited",
       "serious",
@@ -14857,7 +14857,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-427-1055",
-    "questionText": "The student's union leader delivered his speech <u>extempore</u> (JAMB 2012)",
+    "questionText": "The student's union leader delivered his speech <u>extempore</u>",
     "options": [
       "out-of -hand",
       "off the cuff",
@@ -14869,7 +14869,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-428-1039",
-    "questionText": "His gift to the poor was always <u>infinitesimal</u> (JAMB 2012)",
+    "questionText": "His gift to the poor was always <u>infinitesimal</u>",
     "options": [
       "large",
       "small",
@@ -14881,7 +14881,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-429-1069",
-    "questionText": "She was............the verge of tears (JAMB 2012)",
+    "questionText": "She was............the verge of tears",
     "options": [
       "at",
       "on",
@@ -14893,7 +14893,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-430-1054",
-    "questionText": "Mariam looks rather <u>furtive</u> to Shehu (JAMB 2012)",
+    "questionText": "Mariam looks rather <u>furtive</u> to Shehu",
     "options": [
       "intoxicated",
       "unfriendly",
@@ -14905,7 +14905,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-431-1086",
-    "questionText": "Demarcation (JAMB 2012)",
+    "questionText": "Demarcation",
     "options": [
       "demar<u>CA</u>tion",
       "<u>DE</u>marcation",
@@ -14917,7 +14917,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-432-1038",
-    "questionText": "Otokpa is a member of the <u>ad hoc</u>committee on stock acquisition. (JAMB 2012)",
+    "questionText": "Otokpa is a member of the <u>ad hoc</u>committee on stock acquisition.",
     "options": [
       "improvised",
       "formal",
@@ -14929,7 +14929,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-433-1044",
-    "questionText": "The way the workshop was organized was rather <u>hit-and-miss</u> (JAMB 2012)",
+    "questionText": "The way the workshop was organized was rather <u>hit-and-miss</u>",
     "options": [
       "systematic",
       "hasty",
@@ -14941,7 +14941,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-434-1042",
-    "questionText": "Ola thought that her father was very <u>callous</u> (JAMB 2012)",
+    "questionText": "Ola thought that her father was very <u>callous</u>",
     "options": [
       "parlous",
       "wicked",
@@ -14953,7 +14953,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-435-1078",
-    "questionText": "...........she didn't trust him, she married him. (JAMB 2012)",
+    "questionText": "...........she didn't trust him, she married him.",
     "options": [
       "after",
       "much as",
@@ -14965,7 +14965,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-436-1026",
-    "questionText": "I wouldn't have responded to his rude talk, if l were you (JAMB 2012)",
+    "questionText": "I wouldn't have responded to his rude talk, if l were you",
     "options": [
       "the advice was taken by the respondent so he did not respond to the talk",
       "the adviser put himself in the respondent's position, so he did not respond to the talk",
@@ -14977,7 +14977,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-437-1175",
-    "questionText": "If you are confused.......anything, phone my office (JAMB 2013)",
+    "questionText": "If you are confused.......anything, phone my office",
     "options": [
       "of",
       "with",
@@ -14989,7 +14989,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-438-1133",
-    "questionText": "You need to brush up on your Spanish (JAMB 2013)",
+    "questionText": "You need to brush up on your Spanish",
     "options": [
       "you need to improve your skills",
       "you need a brush from Spain",
@@ -15001,7 +15001,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-439-1152",
-    "questionText": "Nwankwo was on the <u>verge</u> of signing a two year contract with the club (JAMB 2013)",
+    "questionText": "Nwankwo was on the <u>verge</u> of signing a two year contract with the club",
     "options": [
       "brink",
       "summit",
@@ -15013,7 +15013,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-440-1158",
-    "questionText": "The girl says she is averse.....what others admire (JAMB 2013)",
+    "questionText": "The girl says she is averse.....what others admire",
     "options": [
       "to",
       "with",
@@ -15025,7 +15025,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-441-1181",
-    "questionText": "Coma (JAMB 2013)",
+    "questionText": "Coma",
     "options": [
       "come",
       "comma",
@@ -15037,7 +15037,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-442-1142",
-    "questionText": "The accused was <u>eventually</u> convicted (JAMB 2013)",
+    "questionText": "The accused was <u>eventually</u> convicted",
     "options": [
       "consequently",
       "subsequently",
@@ -15049,7 +15049,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267560-443-1162",
-    "questionText": "The students had a .....On Independence Day. (JAMB 2013)",
+    "questionText": "The students had a .....On Independence Day.",
     "options": [
       "march pass",
       "match past",
@@ -15061,7 +15061,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-444-1154",
-    "questionText": "I am tired of your <u>eternal</u> argument (JAMB 2013)",
+    "questionText": "I am tired of your <u>eternal</u> argument",
     "options": [
       "constant",
       "useless",
@@ -15073,7 +15073,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-445-1151",
-    "questionText": "The athlete is proud to be in the <u>vanguard</u> of sports development (JAMB 2013)",
+    "questionText": "The athlete is proud to be in the <u>vanguard</u> of sports development",
     "options": [
       "leading position",
       "destructive position",
@@ -15085,7 +15085,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-446-1137",
-    "questionText": "Ramatus expressed her feelings in uncertain terms (JAMB 2013)",
+    "questionText": "Ramatus expressed her feelings in uncertain terms",
     "options": [
       "She expressed it secretly and courageously",
       "she expressed it quietly and cautiously",
@@ -15097,7 +15097,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-447-1161",
-    "questionText": "Tinu likes apples......she does not like oranges (JAMB 2013)",
+    "questionText": "Tinu likes apples......she does not like oranges",
     "options": [
       "so",
       "but",
@@ -15109,7 +15109,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-448-1159",
-    "questionText": "Our teacher defined ......in his introductory lesson (JAMB 2013)",
+    "questionText": "Our teacher defined ......in his introductory lesson",
     "options": [
       "onomatopoeia",
       "onomatopieoa",
@@ -15121,7 +15121,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-449-1177",
-    "questionText": "We should try to help..... (JAMB 2013)",
+    "questionText": "We should try to help.....",
     "options": [
       "fortunates",
       "less fortunates",
@@ -15133,7 +15133,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-450-1165",
-    "questionText": "The police described the boy as being.....hand (JAMB 2013)",
+    "questionText": "The police described the boy as being.....hand",
     "options": [
       "over at",
       "out of",
@@ -15145,7 +15145,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-451-1150",
-    "questionText": "Mohammed does his work with so much <u>ardour</u> (JAMB 2013)",
+    "questionText": "Mohammed does his work with so much <u>ardour</u>",
     "options": [
       "discouragement",
       "knowledge",
@@ -15157,7 +15157,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-452-1124",
-    "questionText": "From the novel, David thought Ifenne \nshould be involved in politics because he \nwanted him to ……… (JAMB 2013)",
+    "questionText": "From the novel, David thought Ifenne \nshould be involved in politics because he \nwanted him to ………",
     "options": [
       "make a ‘name’ for posterity",
       "rig the election for someone",
@@ -15169,7 +15169,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-453-1182",
-    "questionText": "Lo<u>se</u> (JAMB 2013)",
+    "questionText": "Lo<u>se</u>",
     "options": [
       "noise",
       "horse",
@@ -15181,7 +15181,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-454-1156",
-    "questionText": "The <u>exhibition</u> was an eye opener to all (JAMB 2013)",
+    "questionText": "The <u>exhibition</u> was an eye opener to all",
     "options": [
       "style",
       "examination",
@@ -15193,7 +15193,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-455-1118",
-    "questionText": "Obu dashed out of the school building because (JAMB 2013)",
+    "questionText": "Obu dashed out of the school building because",
     "options": [
       "His teacher wanted to flog him",
       "He came top of standard 1,",
@@ -15205,7 +15205,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-456-1130",
-    "questionText": "As the drama unfolded, Olatinuke was advised to keep her shirt on (JAMB 2013)",
+    "questionText": "As the drama unfolded, Olatinuke was advised to keep her shirt on",
     "options": [
       "she was advised to commit herself",
       "she was advised to stay calm",
@@ -15217,7 +15217,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-457-1178",
-    "questionText": "Gl<u>ac</u>ier (JAMB 2013)",
+    "questionText": "Gl<u>ac</u>ier",
     "options": [
       "feign",
       "glass",
@@ -15229,7 +15229,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-458-1157",
-    "questionText": "As a journalist, Bala has always had a <u>nose</u> for stories (JAMB 2013)",
+    "questionText": "As a journalist, Bala has always had a <u>nose</u> for stories",
     "options": [
       "an instinct",
       "a command",
@@ -15241,7 +15241,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-459-1136",
-    "questionText": "Usman needs to get his act together if he wants to pass the examination (JAMB 2013)",
+    "questionText": "Usman needs to get his act together if he wants to pass the examination",
     "options": [
       "He needs to organized himself",
       "He needs to be fast when writing the examination",
@@ -15253,7 +15253,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-460-1127",
-    "questionText": "The departure of Ibo competitors to the \nEast had favoured (JAMB 2013)",
+    "questionText": "The departure of Ibo competitors to the \nEast had favoured",
     "options": [
       "Okoh’s marriage",
       "Mama Okoh’s business",
@@ -15265,7 +15265,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-461-1172",
-    "questionText": "Usman would have won the race..... (JAMB 2013)",
+    "questionText": "Usman would have won the race.....",
     "options": [
       "only if he could run fast",
       "if he had run fast",
@@ -15277,7 +15277,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-462-1184",
-    "questionText": "Loo<u>s</u>e (JAMB 2013)",
+    "questionText": "Loo<u>s</u>e",
     "options": [
       "close",
       "rouse",
@@ -15289,7 +15289,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-463-1141",
-    "questionText": "The Novel laureate's activity in the field of science is <u>heinous</u> (JAMB 2013)",
+    "questionText": "The Novel laureate's activity in the field of science is <u>heinous</u>",
     "options": [
       "Laudable",
       "Deplorable",
@@ -15301,7 +15301,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-464-1123",
-    "questionText": "It can be inferred from the novel that Mr, \nEze was Terkura Atsen’s  (JAMB 2013)",
+    "questionText": "It can be inferred from the novel that Mr, \nEze was Terkura Atsen’s",
     "options": [
       "business partner",
       "uncle",
@@ -15313,7 +15313,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-465-1800",
-    "questionText": "Those _____ are very beautiful. (JAMB 2014)",
+    "questionText": "Those _____ are very beautiful.",
     "options": [
       "Flowers of ours.",
       "Flowers of her.",
@@ -15325,7 +15325,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-466-1764",
-    "questionText": "Kunana is like a bear in the sore head. (JAMB 2014)",
+    "questionText": "Kunana is like a bear in the sore head.",
     "options": [
       "He is a bully.",
       "He is grumpy.",
@@ -15337,7 +15337,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-467-1811",
-    "questionText": "Od<u>our</u>. (JAMB 2014)",
+    "questionText": "Od<u>our</u>.",
     "options": [
       "Floor.",
       "Flow.",
@@ -15349,7 +15349,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-468-1803",
-    "questionText": "My mother was _____ annoyed with me for coming late. (JAMB 2014)",
+    "questionText": "My mother was _____ annoyed with me for coming late.",
     "options": [
       "Just.",
       "Very.",
@@ -15361,7 +15361,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-469-1768",
-    "questionText": "The robber was hedged in by the people. (JAMB 2014)",
+    "questionText": "The robber was hedged in by the people.",
     "options": [
       "The robber was surrounded by the people.",
       "The robber was killed by the people.",
@@ -15373,7 +15373,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-470-1809",
-    "questionText": "She traced her family history _____ matrilineal. (JAMB 2014)",
+    "questionText": "She traced her family history _____ matrilineal.",
     "options": [
       "At.",
       "In.",
@@ -15385,7 +15385,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-471-1762",
-    "questionText": "Jummai's father remarked that pigs would fly before she passed. (JAMB 2014)",
+    "questionText": "Jummai's father remarked that pigs would fly before she passed.",
     "options": [
       "She would have to cheat in order to pass.",
       "It would be possible to pass only if she worked harder.",
@@ -15397,7 +15397,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-472-1766",
-    "questionText": "Adeola doesn't have to go to the farm today. (JAMB 2014)",
+    "questionText": "Adeola doesn't have to go to the farm today.",
     "options": [
       "Adeola may go to the farm today if he so wishes.",
       "Adeola ought not to have gone to the farm today.",
@@ -15409,7 +15409,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-473-1790",
-    "questionText": "The house and the senate will at noon next Wednesday, _________ to hear a special address by the president. (JAMB 2014)",
+    "questionText": "The house and the senate will at noon next Wednesday, _________ to hear a special address by the president.",
     "options": [
       "Collude.",
       "Convene.",
@@ -15421,7 +15421,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-474-1807",
-    "questionText": "The unconscious man was _____ after receiving first aid. (JAMB 2014)",
+    "questionText": "The unconscious man was _____ after receiving first aid.",
     "options": [
       "Revived.",
       "Reawakened.",
@@ -15433,7 +15433,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-475-1824",
-    "questionText": "Musa is STAYING in Enugu. (JAMB 2014)",
+    "questionText": "Musa is STAYING in Enugu.",
     "options": [
       "Was Musa staying in Enugu?",
       "Is Musa going through Enugu?",
@@ -15445,7 +15445,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-476-1773",
-    "questionText": "Musa is a gifted but <u>erratic</u> player. (JAMB 2014)",
+    "questionText": "Musa is a gifted but <u>erratic</u> player.",
     "options": [
       "Unstable.",
       "Strong.",
@@ -15457,7 +15457,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-477-1791",
-    "questionText": "At the _________ of the century, many ways of doing things were introduced. (JAMB 2014)",
+    "questionText": "At the _________ of the century, many ways of doing things were introduced.",
     "options": [
       "Sight.",
       "Turn.",
@@ -15469,7 +15469,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-478-1770",
-    "questionText": "Prolonged strike action <u>debilitated</u> the industry. (JAMB 2014)",
+    "questionText": "Prolonged strike action <u>debilitated</u> the industry.",
     "options": [
       "Stroyed.",
       "Invigorated.",
@@ -15481,7 +15481,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-479-1787",
-    "questionText": "You can <u>learn</u> a great deal just from watching other players. (JAMB 2014)",
+    "questionText": "You can <u>learn</u> a great deal just from watching other players.",
     "options": [
       "Discover.",
       "Invent.",
@@ -15493,7 +15493,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-480-1816",
-    "questionText": "Ever. (JAMB 2014)",
+    "questionText": "Ever.",
     "options": [
       "Heavier.",
       "Favour.",
@@ -15505,7 +15505,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-481-1778",
-    "questionText": "The testimony of the witness was <u>vague</u>. (JAMB 2014)",
+    "questionText": "The testimony of the witness was <u>vague</u>.",
     "options": [
       "Clear.",
       "Disturbing.",
@@ -15517,7 +15517,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-482-1806",
-    "questionText": "What is the jury's _____ the matter. (JAMB 2014)",
+    "questionText": "What is the jury's _____ the matter.",
     "options": [
       "Verdict with.",
       "Verdict on.",
@@ -15529,7 +15529,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-483-1813",
-    "questionText": "Vi<u>s</u>ion. (JAMB 2014)",
+    "questionText": "Vi<u>s</u>ion.",
     "options": [
       "Enclosure.",
       "Instruction.",
@@ -15541,7 +15541,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-484-1818",
-    "questionText": "Tax. (JAMB 2014)",
+    "questionText": "Tax.",
     "options": [
       "Ask.",
       "Box.",
@@ -15553,7 +15553,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-485-1782",
-    "questionText": "All the candidates looked <u>aghast</u> at the reading of the questions. (JAMB 2014)",
+    "questionText": "All the candidates looked <u>aghast</u> at the reading of the questions.",
     "options": [
       "Relaxed.",
       "Fulfilled.",
@@ -15565,7 +15565,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-486-1822",
-    "questionText": "My mother bought a BICYCLE yesterday. (JAMB 2014)",
+    "questionText": "My mother bought a BICYCLE yesterday.",
     "options": [
       "When did my mother buy a bicycle?",
       "What did my mother buy yesterday?",
@@ -15577,7 +15577,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-487-1794",
-    "questionText": "He went to the restaurant to enjoy the special _____. (JAMB 2014)",
+    "questionText": "He went to the restaurant to enjoy the special _____.",
     "options": [
       "Chef.",
       "Suite.",
@@ -15589,7 +15589,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-488-1771",
-    "questionText": "One of the students bought a <u>plagiarised</u> copy of the book. (JAMB 2014)",
+    "questionText": "One of the students bought a <u>plagiarised</u> copy of the book.",
     "options": [
       "An annotated.",
       "A used.",
@@ -15601,7 +15601,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-489-1805",
-    "questionText": "The clock _____ 12 o'clock two hours ago. (JAMB 2014)",
+    "questionText": "The clock _____ 12 o'clock two hours ago.",
     "options": [
       "Striking.",
       "Strikes.",
@@ -15613,7 +15613,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-490-1774",
-    "questionText": "The lamp shades were <u>translucent</u>. (JAMB 2014)",
+    "questionText": "The lamp shades were <u>translucent</u>.",
     "options": [
       "Transparent.",
       "Opaque.",
@@ -15625,7 +15625,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-491-1792",
-    "questionText": "You may have the pencil, but you can't have the ballpoint ________. (JAMB 2014)",
+    "questionText": "You may have the pencil, but you can't have the ballpoint ________.",
     "options": [
       "As well.",
       "Either.",
@@ -15637,7 +15637,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-492-1772",
-    "questionText": "The young girl was taken <u>aback</u> by her father's gift of a car. (JAMB 2014)",
+    "questionText": "The young girl was taken <u>aback</u> by her father's gift of a car.",
     "options": [
       "Nonplussed.",
       "Shocked.",
@@ -15649,7 +15649,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-493-1784",
-    "questionText": "The first round of the tournament was a  <u>doddle</u> . (JAMB 2014)",
+    "questionText": "The first round of the tournament was a  <u>doddle</u> .",
     "options": [
       "Exasperating.",
       "Easy.",
@@ -15661,7 +15661,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-494-1814",
-    "questionText": "<u>Gn</u>ash. (JAMB 2014)",
+    "questionText": "<u>Gn</u>ash.",
     "options": [
       "Ring.",
       "Forge.",
@@ -15673,7 +15673,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-495-1769",
-    "questionText": "Many workers are not happy because they live a hand-to-mouth life. (JAMB 2014)",
+    "questionText": "Many workers are not happy because they live a hand-to-mouth life.",
     "options": [
       "They work hard with their hands.",
       "They are voracious and avaricious.",
@@ -15685,7 +15685,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-496-1798",
-    "questionText": "A bike must have found the very interesting movies quite _____. (JAMB 2014)",
+    "questionText": "A bike must have found the very interesting movies quite _____.",
     "options": [
       "Perverting.",
       "Absolving.",
@@ -15697,7 +15697,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-497-1708",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat was the early morning surprise Jimi get while he was still half-asleep? (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat was the early morning surprise Jimi get while he was still half-asleep?",
     "options": [
       "Mrs Solade’s return",
       "Mr. Solade’s return",
@@ -15709,7 +15709,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-498-1702",
-    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nFret (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nFret",
     "options": [
       "freight",
       "height",
@@ -15721,7 +15721,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-499-1734",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘What is this good-for-nothing doing in my house’. Whose words were these? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘What is this good-for-nothing doing in my house’. Whose words were these?",
     "options": [
       "Jimi",
       "Mrs Solade",
@@ -15733,7 +15733,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-500-1699",
-    "questionText": "From the options, choose the word(s) that best filll the gap.\n\nMrs Godwin ---------------- in this school since 2001\n (JAMB 2015)",
+    "questionText": "From the options, choose the word(s) that best filll the gap.\n\nMrs Godwin ---------------- in this school since 2001\n",
     "options": [
       "taught",
       "was teaching",
@@ -15745,7 +15745,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-501-1723",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\n__________ had been expelled from two different schools and kicked out of the university. (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\n__________ had been expelled from two different schools and kicked out of the university.",
     "options": [
       "jolly",
       "Jimi",
@@ -15757,7 +15757,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-502-1739",
-    "questionText": "<u>Z</u>oo (JAMB 2015)",
+    "questionText": "<u>Z</u>oo",
     "options": [
       "assault",
       "assist",
@@ -15769,7 +15769,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-503-1704",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nD<u>o</u>ne (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nD<u>o</u>ne",
     "options": [
       "don",
       "sun",
@@ -15781,7 +15781,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-504-1736",
-    "questionText": "From the words lettered A to D, choose the word that has the same <b>consonant</b> sounds as the one represented by the letters underlined.\n\nGri<u>tt</u>y (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same <b>consonant</b> sounds as the one represented by the letters underlined.\n\nGri<u>tt</u>y",
     "options": [
       "asked",
       "sachet",
@@ -15793,7 +15793,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-505-1755",
-    "questionText": "Choose the option that best fills the gap.\n\nMost of his personal ---------------stolen (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nMost of his personal ---------------stolen",
     "options": [
       "effects were",
       "affects was",
@@ -15805,7 +15805,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-506-1693",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho was the teacher to whom the students called “cane”? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho was the teacher to whom the students called “cane”?",
     "options": [
       "Mr Bade",
       "Mr Okoro",
@@ -15817,7 +15817,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-507-1754",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nIn chapter two, after the national anthem and assembly prayers, who gave a brief talk welcoming everyone? (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nIn chapter two, after the national anthem and assembly prayers, who gave a brief talk welcoming everyone?",
     "options": [
       "Seyi Lawal",
       "Jimi",
@@ -15829,7 +15829,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-508-1707",
-    "questionText": "Choose the option that best fills the gap.\n\nIt has been confirmed that the election ------------- held in July next year (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nIt has been confirmed that the election ------------- held in July next year",
     "options": [
       "will be",
       "is being",
@@ -15841,7 +15841,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-509-1759",
-    "questionText": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.\n\n<u>Str</u>aight (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.\n\n<u>Str</u>aight",
     "options": [
       "struggle",
       "waste",
@@ -15853,7 +15853,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-510-1714",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWho was the best student in chemistry?  (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWho was the best student in chemistry?",
     "options": [
       "Ansa",
       "Caro",
@@ -15865,7 +15865,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-511-1740",
-    "questionText": "<u>Ch</u>alet (JAMB 2015)",
+    "questionText": "<u>Ch</u>alet",
     "options": [
       "champion",
       "chair",
@@ -15877,7 +15877,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-512-1691",
-    "questionText": "What did Wole pick up from Jimi’s Table beside Jimi’s music CD’s, chemisty and Mathematics Textbooks? (JAMB 2015)",
+    "questionText": "What did Wole pick up from Jimi’s Table beside Jimi’s music CD’s, chemisty and Mathematics Textbooks?",
     "options": [
       "a pen",
       "a watch",
@@ -15889,7 +15889,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-513-1711",
-    "questionText": "\nIf the armed robbers ------------------------ caught, they would have been lynched (JAMB 2015)",
+    "questionText": "\nIf the armed robbers ------------------------ caught, they would have been lynched",
     "options": [
       "would be",
       "have been",
@@ -15901,7 +15901,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-514-1703",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho laugh in such a way that showed only his upper teeth? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho laugh in such a way that showed only his upper teeth?",
     "options": [
       "Seyi Lawal",
       "Ansa boy",
@@ -15913,7 +15913,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-515-1756",
-    "questionText": "What prefect was Jimi? (JAMB 2015)",
+    "questionText": "What prefect was Jimi?",
     "options": [
       "food prefect",
       "assembly prefect",
@@ -15925,7 +15925,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-516-1688",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n                    ‘Sorry does anyone know you’re here? does daddy know?… who said this and to who? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n                    ‘Sorry does anyone know you’re here? does daddy know?… who said this and to who?",
     "options": [
       "Mr. Solade to Mrs.Solade",
       "Mrs. Solade to Mr. Solade",
@@ -15937,7 +15937,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-517-1722",
-    "questionText": "In each of the following questions, the main/primary stress is indicated by writing the syllable in which it occurs in capital letters. From the words lettered A to D, choose the one that has the correct stress.\n\nEDUCATION (JAMB 2015)",
+    "questionText": "In each of the following questions, the main/primary stress is indicated by writing the syllable in which it occurs in capital letters. From the words lettered A to D, choose the one that has the correct stress.\n\nEDUCATION",
     "options": [
       "E-du-ca-tion",
       "e-DU-ca-tion",
@@ -15949,7 +15949,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-518-1701",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nP<u>ower</u>\n (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nP<u>ower</u>\n",
     "options": [
       "flour",
       "higher",
@@ -15961,7 +15961,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-519-1749",
-    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nWorst (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nWorst",
     "options": [
       "burst",
       "haste",
@@ -15973,7 +15973,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-520-1719",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n“come here, you pretty child; I hear you will be going to the same school as my daughter.’ Who made this statement and to whom? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n“come here, you pretty child; I hear you will be going to the same school as my daughter.’ Who made this statement and to whom?",
     "options": [
       "Aunt Moni said this to Efua",
       "Efua to Aunt Moni",
@@ -15985,7 +15985,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-521-1695",
-    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat is the name of Efua’s Aunt? (JAMB 2015)",
+    "questionText": "This question is from the novel The Last Days at Forcados High school.\n\nWhat is the name of Efua’s Aunt?",
     "options": [
       "funmi",
       "Moni",
@@ -15997,7 +15997,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267561-522-1746",
-    "questionText": "The officer was compelled to ------------------- the suspect’s car. (JAMB 2015)",
+    "questionText": "The officer was compelled to ------------------- the suspect’s car.",
     "options": [
       "seize",
       "cease",
@@ -16009,7 +16009,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-523-1692",
-    "questionText": "Select the wrongly spelt words (JAMB 2015)",
+    "questionText": "Select the wrongly spelt words",
     "options": [
       "occurrence",
       "surprise",
@@ -16021,7 +16021,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-524-1743",
-    "questionText": "My --------------------- is for you to refuse the -------------- of the wicked (JAMB 2015)",
+    "questionText": "My --------------------- is for you to refuse the -------------- of the wicked",
     "options": [
       "advise/advice",
       "advice/advice",
@@ -16033,7 +16033,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-525-1726",
-    "questionText": "Four persons accused with currency ------------------ are being held by the securing agents\n (JAMB 2015)",
+    "questionText": "Four persons accused with currency ------------------ are being held by the securing agents\n",
     "options": [
       "traficking",
       "trafiking",
@@ -16045,7 +16045,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-526-1730",
-    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nPale (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nPale",
     "options": [
       "pail",
       "palm",
@@ -16057,7 +16057,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-527-1737",
-    "questionText": "Choose the option that best fills the gap.\n\nWhilst the thief was -------------- the passengers kept apologizing for the inconveniences he was causing them. (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nWhilst the thief was -------------- the passengers kept apologizing for the inconveniences he was causing them.",
     "options": [
       "rabbing",
       "rubbing",
@@ -16069,7 +16069,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-528-1750",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\n<u>Ow</u>l (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\n<u>Ow</u>l",
     "options": [
       "bowl",
       "tow",
@@ -16081,7 +16081,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-529-1696",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nS<u>ea</u>t (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nS<u>ea</u>t",
     "options": [
       "hide",
       "peasant",
@@ -16093,7 +16093,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-530-1717",
-    "questionText": "Choose the option that best fills the gap.\n\nThe trader complained that he ------------------ robbed (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nThe trader complained that he ------------------ robbed",
     "options": [
       "had been",
       "has been",
@@ -16105,7 +16105,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-531-1748",
-    "questionText": "Choose the option that best fills the gap.\n\nHe missed the point because he took the statement ------------ (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nHe missed the point because he took the statement ------------",
     "options": [
       "literally",
       "litaraily",
@@ -16117,7 +16117,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-532-1731",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nForcado is a nice school. They always have excellent results. I told a few people you were coming (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\nForcado is a nice school. They always have excellent results. I told a few people you were coming",
     "options": [
       "Aunty moni said this to Efua",
       "Efua said this to aunty Moni",
@@ -16129,7 +16129,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-533-1712",
-    "questionText": "Shakespearian ------------------- are generally the victims of circumstance. (JAMB 2015)",
+    "questionText": "Shakespearian ------------------- are generally the victims of circumstance.",
     "options": [
       "heros",
       "heroses",
@@ -16141,7 +16141,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-534-1738",
-    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘I could hear his voice from a distance, rowdy and full of fun as usual,’to whom were these words said to and who said it? (JAMB 2015)",
+    "questionText": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘I could hear his voice from a distance, rowdy and full of fun as usual,’to whom were these words said to and who said it?",
     "options": [
       "Ansa to Nene Ekpo",
       "Nene ekpo to Ansa",
@@ -16153,7 +16153,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-535-1735",
-    "questionText": "From the words lettered A to D, choose the word that has the same <b>vowel</b> sound as the one represented by the underlined letters or letters underlined.\n\nBr<u>ou</u>ght (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same <b>vowel</b> sound as the one represented by the underlined letters or letters underlined.\n\nBr<u>ou</u>ght",
     "options": [
       "roar",
       "plough",
@@ -16165,7 +16165,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-536-1665",
-    "questionText": "Risen (JAMB 2016)",
+    "questionText": "Risen",
     "options": [
       "prison",
       "motion",
@@ -16177,7 +16177,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-537-1669",
-    "questionText": "obligation (JAMB 2016)",
+    "questionText": "obligation",
     "options": [
       "obliGAtion",
       "OBligation",
@@ -16189,7 +16189,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-538-1628",
-    "questionText": "Mr. Rufus bore the brunt in the last promotion examination. (JAMB 2016)",
+    "questionText": "Mr. Rufus bore the brunt in the last promotion examination.",
     "options": [
       "Mr Rufus failed the examination woefully",
       "Mr Rufus excelled in the examination",
@@ -16201,7 +16201,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-539-1642",
-    "questionText": "It is <i>Iudicrous</i> to suggest that she was a government agent (JAMB 2016)",
+    "questionText": "It is <i>Iudicrous</i> to suggest that she was a government agent",
     "options": [
       "odd",
       "exciting",
@@ -16213,7 +16213,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-540-1617",
-    "questionText": "Ansa licked his lips and said furtively, look this is between you and me. Jimi would be angry if i told you but his brother is ---- well, we suspect he sometimes sells drugs and...'\n\nFrom the excerpt above, Ansa was talking to (JAMB 2016)",
+    "questionText": "Ansa licked his lips and said furtively, look this is between you and me. Jimi would be angry if i told you but his brother is ---- well, we suspect he sometimes sells drugs and...'\n\nFrom the excerpt above, Ansa was talking to",
     "options": [
       "Risikat and Nene",
       "Novi",
@@ -16225,7 +16225,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-541-1670",
-    "questionText": "disagreement (JAMB 2016)",
+    "questionText": "disagreement",
     "options": [
       "disAgreement",
       "disaGREEment",
@@ -16237,7 +16237,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-542-1647",
-    "questionText": "Our son was highly active and <i>exuberant</i> (JAMB 2016)",
+    "questionText": "Our son was highly active and <i>exuberant</i>",
     "options": [
       "subdued",
       "fulsome",
@@ -16249,7 +16249,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-543-1651",
-    "questionText": "The doctor listened to my heartbeat with a ......... (JAMB 2016)",
+    "questionText": "The doctor listened to my heartbeat with a .........",
     "options": [
       "cardiograph",
       "stethoscope",
@@ -16261,7 +16261,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-544-1666",
-    "questionText": "'terror'' (JAMB 2016)",
+    "questionText": "'terror''",
     "options": [
       "tenor",
       "warrior",
@@ -16273,7 +16273,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-545-1641",
-    "questionText": "A cup of coffee <i>invigorated</i> him (JAMB 2016)",
+    "questionText": "A cup of coffee <i>invigorated</i> him",
     "options": [
       "destroyed",
       "energized",
@@ -16285,7 +16285,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-546-1659",
-    "questionText": "'repri<u>e</u>ve'' (JAMB 2016)",
+    "questionText": "'repri<u>e</u>ve''",
     "options": [
       "rich",
       "police",
@@ -16297,7 +16297,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-547-1652",
-    "questionText": "With strong determination, Adamu was able to .... the problem (JAMB 2016)",
+    "questionText": "With strong determination, Adamu was able to .... the problem",
     "options": [
       "surmount",
       "surpass",
@@ -16309,7 +16309,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-548-1620",
-    "questionText": "Students refused to sympathize with Efua when drinks spilled on her because (JAMB 2016)",
+    "questionText": "Students refused to sympathize with Efua when drinks spilled on her because",
     "options": [
       "she would not accept their sympathy",
       "she was Jimi's only girlfriend",
@@ -16321,7 +16321,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-549-1648",
-    "questionText": "\n\nMr. Ojo has a <i>fickle</i> character. (JAMB 2016)",
+    "questionText": "\n\nMr. Ojo has a <i>fickle</i> character.",
     "options": [
       "a genuine",
       "a stable",
@@ -16333,7 +16333,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-550-1655",
-    "questionText": "......lawyers enrolled at the Nigerian Bar last year....this year. (JAMB 2016)",
+    "questionText": "......lawyers enrolled at the Nigerian Bar last year....this year.",
     "options": [
       "Very many/than",
       "Same/as",
@@ -16345,7 +16345,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-551-1649",
-    "questionText": "Bola takes......his father both in appearance and his manner (JAMB 2016)",
+    "questionText": "Bola takes......his father both in appearance and his manner",
     "options": [
       "On",
       "from",
@@ -16357,7 +16357,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-552-1671",
-    "questionText": "The car CRUSHED him. (JAMB 2016)",
+    "questionText": "The car CRUSHED him.",
     "options": [
       "Who did the car crush?",
       "Did a car crush him?",
@@ -16369,7 +16369,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-553-1619",
-    "questionText": "Mr Solade sent Jimi to Ibadan for the holidays in order to (JAMB 2016)",
+    "questionText": "Mr Solade sent Jimi to Ibadan for the holidays in order to",
     "options": [
       "save Jimi from Wole's bad influence",
       "heed Jimi's request to stay with his friends",
@@ -16381,7 +16381,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-554-1661",
-    "questionText": "'fam<u>ou</u>s'' (JAMB 2016)",
+    "questionText": "'fam<u>ou</u>s''",
     "options": [
       "soup",
       "cook",
@@ -16393,7 +16393,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-555-1632",
-    "questionText": "Olu and Ado are about to come to blows. (JAMB 2016)",
+    "questionText": "Olu and Ado are about to come to blows.",
     "options": [
       "They are about to agree with each other",
       "They are about to accept other people's opinion",
@@ -16405,7 +16405,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-556-1658",
-    "questionText": "After too much exercise, some people suffer from cramp which is caused by the ......... of the muscles (JAMB 2016)",
+    "questionText": "After too much exercise, some people suffer from cramp which is caused by the ......... of the muscles",
     "options": [
       "contraction",
       "restriction",
@@ -16417,7 +16417,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-557-1629",
-    "questionText": "My friend is well off nowadays (JAMB 2016)",
+    "questionText": "My friend is well off nowadays",
     "options": [
       "My friend is financially sound",
       "My friend is well known to people",
@@ -16429,7 +16429,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-558-1663",
-    "questionText": "<u>y</u>et''' (JAMB 2016)",
+    "questionText": "<u>y</u>et'''",
     "options": [
       "bury",
       "way",
@@ -16441,7 +16441,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-559-1631",
-    "questionText": "He suddenly found himself in the thick of the situation (JAMB 2016)",
+    "questionText": "He suddenly found himself in the thick of the situation",
     "options": [
       "He did not agree with the situation",
       "He used his experience to settle the sitution",
@@ -16453,7 +16453,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-560-1637",
-    "questionText": "The students were nosing around. (JAMB 2016)",
+    "questionText": "The students were nosing around.",
     "options": [
       "They were roaming about",
       "They were searching for information",
@@ -16465,7 +16465,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-561-1662",
-    "questionText": "'<u>ch</u>oice'' (JAMB 2016)",
+    "questionText": "'<u>ch</u>oice''",
     "options": [
       "schedule",
       "teach",
@@ -16477,7 +16477,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-562-1618",
-    "questionText": "The speculation amongst the students of Forcados High School was that Jimi was dating (JAMB 2016)",
+    "questionText": "The speculation amongst the students of Forcados High School was that Jimi was dating",
     "options": [
       "Risikat",
       "Joke",
@@ -16489,7 +16489,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-563-1624",
-    "questionText": "Seyi Lawal, the head boy of the school was described as someone who (JAMB 2016)",
+    "questionText": "Seyi Lawal, the head boy of the school was described as someone who",
     "options": [
       "loved his job",
       "hated Physics practical",
@@ -16501,7 +16501,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-564-1621",
-    "questionText": "Which of the following best describes Mr Mallum? (JAMB 2016)",
+    "questionText": "Which of the following best describes Mr Mallum?",
     "options": [
       "He was a fat, tall man with wimpish behaviour",
       "He was a tall, wiry man with good diction",
@@ -16513,7 +16513,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-565-1639",
-    "questionText": "The film was shot in <i>decrepit</i> police station. (JAMB 2016)",
+    "questionText": "The film was shot in <i>decrepit</i> police station.",
     "options": [
       "an improved",
       "a damaged",
@@ -16525,7 +16525,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-566-1614",
-    "questionText": "Efua was not in the good books of teachers at Forcados High School because (JAMB 2016)",
+    "questionText": "Efua was not in the good books of teachers at Forcados High School because",
     "options": [
       "the students of Forcados did not like her",
       "she was expelled from her previous school",
@@ -16537,7 +16537,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-567-1672",
-    "questionText": "Lamide is VERY hostile? (JAMB 2016)",
+    "questionText": "Lamide is VERY hostile?",
     "options": [
       "Is Lamide so hostile?",
       "Is Lamide friendly?",
@@ -16549,7 +16549,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-568-1612",
-    "questionText": "According to Tayo the two major problems of Nigeria were (JAMB 2017)",
+    "questionText": "According to Tayo the two major problems of Nigeria were",
     "options": [
       "tribalism and religion",
       "politics and culture",
@@ -16561,7 +16561,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-569-1605",
-    "questionText": "Choose the option opposite in meaning to the word underlined\n\nOne of the twins was as <u>daring</u> as the other was ______ (JAMB 2017)",
+    "questionText": "Choose the option opposite in meaning to the word underlined\n\nOne of the twins was as <u>daring</u> as the other was ______",
     "options": [
       "morose",
       "timid",
@@ -16573,7 +16573,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-570-1580",
-    "questionText": "From the options given, Choose the option that is opposite in meaning to the underlined word.\n\nThis house which was <u>sealed</u> off years ago has now been — (JAMB 2017)",
+    "questionText": "From the options given, Choose the option that is opposite in meaning to the underlined word.\n\nThis house which was <u>sealed</u> off years ago has now been —",
     "options": [
       "re-opened",
       "rebuilt",
@@ -16585,7 +16585,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-571-1569",
-    "questionText": "Choose the option to which the given sentence relates\n\nMy Boss has an amiable DISPOSITION (JAMB 2017)",
+    "questionText": "Choose the option to which the given sentence relates\n\nMy Boss has an amiable DISPOSITION",
     "options": [
       "Does your boss have an amiable disposition",
       "Does my boss have an unfriendly disposition",
@@ -16597,7 +16597,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-572-1567",
-    "questionText": "Choose the option that has the same consonant as the one represented by the letter(s) underlined\n\ncla<u>sh</u> (JAMB 2017)",
+    "questionText": "Choose the option that has the same consonant as the one represented by the letter(s) underlined\n\ncla<u>sh</u>",
     "options": [
       "sharp",
       "cheap",
@@ -16609,7 +16609,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-573-1572",
-    "questionText": "Choose the option opposite in meaning to the word or phrase in italics\n\nThe chairman is <i>Parsimonious</i> (JAMB 2017)",
+    "questionText": "Choose the option opposite in meaning to the word or phrase in italics\n\nThe chairman is <i>Parsimonious</i>",
     "options": [
       "Avaricious",
       "thrifty",
@@ -16621,7 +16621,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-574-1589",
-    "questionText": "choose the option opposite in meaning to the word or phrase in italics\n\nThey come here on bootless <i>errand</i> (JAMB 2017)",
+    "questionText": "choose the option opposite in meaning to the word or phrase in italics\n\nThey come here on bootless <i>errand</i>",
     "options": [
       "worthwhile",
       "vain",
@@ -16633,7 +16633,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-575-1608",
-    "questionText": "In the Novel \"Independence\" Tayo wrote a biography of ______? (JAMB 2017)",
+    "questionText": "In the Novel \"Independence\" Tayo wrote a biography of ______?",
     "options": [
       "Arthur Richardson",
       "Lord Lugard",
@@ -16645,7 +16645,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-576-1593",
-    "questionText": "Choose the best option that best completes the gap(s)\n\nGarba acquiesced______their decision (JAMB 2017)",
+    "questionText": "Choose the best option that best completes the gap(s)\n\nGarba acquiesced______their decision",
     "options": [
       "for",
       "on",
@@ -16657,7 +16657,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-577-1611",
-    "questionText": "In the novel \"Independence\" Tayo lied to Vanassa that Christine was his ______? (JAMB 2017)",
+    "questionText": "In the novel \"Independence\" Tayo lied to Vanassa that Christine was his ______?",
     "options": [
       "sister",
       "niece",
@@ -16669,7 +16669,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-578-1604",
-    "questionText": "Choose the option nearest in meaning to the word or phrase in italics\n\nThis case is within the <i>jurisdiction</i> of the council (JAMB 2017)",
+    "questionText": "Choose the option nearest in meaning to the word or phrase in italics\n\nThis case is within the <i>jurisdiction</i> of the council",
     "options": [
       "record",
       "prohibition",
@@ -16681,7 +16681,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-579-1568",
-    "questionText": "Choose the option that has the same consonant as the one represented by the letter(s) underlined\n\n<u>wh</u>o (JAMB 2017)",
+    "questionText": "Choose the option that has the same consonant as the one represented by the letter(s) underlined\n\n<u>wh</u>o",
     "options": [
       "vehicle",
       "khaki",
@@ -16693,7 +16693,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-580-1575",
-    "questionText": "choose the best option that best completes the gap(s)\n\nSnakes and ladders always______me happy these days (JAMB 2017)",
+    "questionText": "choose the best option that best completes the gap(s)\n\nSnakes and ladders always______me happy these days",
     "options": [
       "makes",
       "make",
@@ -16705,7 +16705,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-581-1587",
-    "questionText": "Choose the options that have the same consonant as the ones represented by the letter(s) underlined\n\nlei<u>s</u>ure (JAMB 2017)",
+    "questionText": "Choose the options that have the same consonant as the ones represented by the letter(s) underlined\n\nlei<u>s</u>ure",
     "options": [
       "sure",
       "ledger",
@@ -16717,7 +16717,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-582-1578",
-    "questionText": "Choose the best option that best completes the gap(s)\n\nThe delegates were given_____ (JAMB 2017)",
+    "questionText": "Choose the best option that best completes the gap(s)\n\nThe delegates were given_____",
     "options": [
       "a two hour break",
       "a two-hour break",
@@ -16729,7 +16729,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-583-1582",
-    "questionText": "From the options, choose the word opposite in meaning to the underlined word\n\nHe is quite an <u>outspoken</u> young man but his father is_____? (JAMB 2017)",
+    "questionText": "From the options, choose the word opposite in meaning to the underlined word\n\nHe is quite an <u>outspoken</u> young man but his father is_____?",
     "options": [
       "humorous",
       "sober",
@@ -16741,7 +16741,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-584-1602",
-    "questionText": "From the words lettered A to D, choose the word that has the same consonant sound(s)\n\nStrange (JAMB 2017)",
+    "questionText": "From the words lettered A to D, choose the word that has the same consonant sound(s)\n\nStrange",
     "options": [
       "vague",
       "mirage",
@@ -16753,7 +16753,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-585-1571",
-    "questionText": "Choose the interpretation that you consider most appropriate for each sentence. \n\nDespite their newness on the job, the workers were remunerated rather handsomely. This means that _________? (JAMB 2017)",
+    "questionText": "Choose the interpretation that you consider most appropriate for each sentence. \n\nDespite their newness on the job, the workers were remunerated rather handsomely. This means that _________?",
     "options": [
       "the salaries were poor",
       "those paid were handsome in appearance",
@@ -16765,7 +16765,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-586-1606",
-    "questionText": "Suleiman's reason for becoming a Muslim in the novel is because Islam brings sense of ______? (JAMB 2017)",
+    "questionText": "Suleiman's reason for becoming a Muslim in the novel is because Islam brings sense of ______?",
     "options": [
       "radicalism and aggression",
       "boldness and awareness",
@@ -16777,7 +16777,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-587-1599",
-    "questionText": "Choose the best option that best completes the gap(s)\n\nThe_____event takes place every two years (JAMB 2017)",
+    "questionText": "Choose the best option that best completes the gap(s)\n\nThe_____event takes place every two years",
     "options": [
       "bienial",
       "biannual",
@@ -16789,7 +16789,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-588-1598",
-    "questionText": "Fill in the Gap\n\nThe press will no longer be free when the new government starts to ------— newspapers (JAMB 2017)",
+    "questionText": "Fill in the Gap\n\nThe press will no longer be free when the new government starts to ------— newspapers",
     "options": [
       "censure",
       "edit",
@@ -16801,7 +16801,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-589-1588",
-    "questionText": "Choose the most appropriate stress pattern from the options. \n\nThe stressed are written in capital letters\ndepartmental (JAMB 2017)",
+    "questionText": "Choose the most appropriate stress pattern from the options. \n\nThe stressed are written in capital letters\ndepartmental",
     "options": [
       "DEpartmental",
       "dePARTmental",
@@ -16813,7 +16813,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-590-1603",
-    "questionText": "The government has decided to freeze student's grants. This means that government intends to (JAMB 2017)",
+    "questionText": "The government has decided to freeze student's grants. This means that government intends to",
     "options": [
       "reduce grants meant for students",
       "resume paying grants to students",
@@ -16825,7 +16825,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-591-1591",
-    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe painting was beautifully faked (JAMB 2017)",
+    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe painting was beautifully faked",
     "options": [
       "The painting was a good deceptive replica",
       "The painting was well-framed and displayed",
@@ -16837,7 +16837,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-592-1566",
-    "questionText": "Choose the most appropriate stress pattern from the options below\n\nConstitution (JAMB 2017)",
+    "questionText": "Choose the most appropriate stress pattern from the options below\n\nConstitution",
     "options": [
       "CON—sti—tu—tion",
       "con—STI—tu—tion",
@@ -16849,7 +16849,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-593-1609",
-    "questionText": "In the book \"Independence\" Tayo's uncle, Kayode, wanted to study Engineering in _______? (JAMB 2017)",
+    "questionText": "In the book \"Independence\" Tayo's uncle, Kayode, wanted to study Engineering in _______?",
     "options": [
       "Britain",
       "U.S.A",
@@ -16861,7 +16861,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-594-1570",
-    "questionText": "Choose the most appropriate stress pattern from the options below\n\npalatable (JAMB 2017)",
+    "questionText": "Choose the most appropriate stress pattern from the options below\n\npalatable",
     "options": [
       "PAL—a—ta—ble",
       "pal—A—ta—ble",
@@ -16873,7 +16873,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-595-1592",
-    "questionText": "Choose the best option that best completes the gap(s)\n\nThe crops the farmer planted will be ____ in three months time. (JAMB 2017)",
+    "questionText": "Choose the best option that best completes the gap(s)\n\nThe crops the farmer planted will be ____ in three months time.",
     "options": [
       "sold",
       "weeded",
@@ -16885,7 +16885,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-596-1595",
-    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nAdvising Olu to break his bad habit is like knocking your head against a brick wall (JAMB 2017)",
+    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nAdvising Olu to break his bad habit is like knocking your head against a brick wall",
     "options": [
       "It is making a fool of you",
       "It is trying the impossible",
@@ -16897,7 +16897,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-597-1574",
-    "questionText": "Choose the option nearest in meaning to the word or phrase in italics\n\nThis event was a <i>watershed</i> in the company (JAMB 2017)",
+    "questionText": "Choose the option nearest in meaning to the word or phrase in italics\n\nThis event was a <i>watershed</i> in the company",
     "options": [
       "landmark",
       "blot",
@@ -16909,7 +16909,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-598-1590",
-    "questionText": "Choose the option to which the given sentence relates\n\nAderonke STATED she had a right to her privacy (JAMB 2017)",
+    "questionText": "Choose the option to which the given sentence relates\n\nAderonke STATED she had a right to her privacy",
     "options": [
       "Did Omowunmi state she had a right to her privacy?",
       "Did Aderonke lament she had a right to her privacy?",
@@ -16921,7 +16921,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-599-1577",
-    "questionText": "Choose the option opposite in meaning to the underlined word\n\nThe delegates found it better to resort to <u>consultation</u> rather than __________ (JAMB 2017)",
+    "questionText": "Choose the option opposite in meaning to the underlined word\n\nThe delegates found it better to resort to <u>consultation</u> rather than __________",
     "options": [
       "conflict",
       "confrontation",
@@ -16933,7 +16933,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-600-1594",
-    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe letter was being written by the principal (JAMB 2017)",
+    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe letter was being written by the principal",
     "options": [
       "The letter had been written by the principal",
       "The principal was writing the letter",
@@ -16945,7 +16945,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-601-1596",
-    "questionText": "Choose the best option that best completes the gap(s)\n\n_____a good boy, he was given a prize (JAMB 2017)",
+    "questionText": "Choose the best option that best completes the gap(s)\n\n_____a good boy, he was given a prize",
     "options": [
       "To being",
       "Been",
@@ -16957,7 +16957,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-602-1584",
-    "questionText": "Choose the option opposite in meaning to the word or phrase in italics\n\nThe students received a mild <i>reproof</i> from the teacher (JAMB 2017)",
+    "questionText": "Choose the option opposite in meaning to the word or phrase in italics\n\nThe students received a mild <i>reproof</i> from the teacher",
     "options": [
       "exhortation",
       "opposition",
@@ -16969,7 +16969,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-603-1586",
-    "questionText": "When you ____ an opponent's point in a debate, you must do so politely (JAMB 2017)",
+    "questionText": "When you ____ an opponent's point in a debate, you must do so politely",
     "options": [
       "refute",
       "rebuke",
@@ -16981,7 +16981,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-604-1565",
-    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe man's Achilles' heel is women ________ (JAMB 2017)",
+    "questionText": "Select the option that best explain the information conveyed in the sentence\n\nThe man's Achilles' heel is women ________",
     "options": [
       "His weakness is women",
       "His strength is women",
@@ -16993,7 +16993,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-605-1564",
-    "questionText": "Choose the word that is most nearly opposite in the meaning to the underlined word or group of words that will fill in the sentence.\n\nAt first, we found life in the town very <u>exciting</u> but soon it became rather _______ (JAMB 2017)",
+    "questionText": "Choose the word that is most nearly opposite in the meaning to the underlined word or group of words that will fill in the sentence.\n\nAt first, we found life in the town very <u>exciting</u> but soon it became rather _______",
     "options": [
       "tiring",
       "disturbing",
@@ -17005,7 +17005,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-606-1610",
-    "questionText": "In the book \"Independence\" Wearing woolens, lamb cardigans, extra socks, gloves and Balliol scarf signified that Tayo was _______? (JAMB 2017)",
+    "questionText": "In the book \"Independence\" Wearing woolens, lamb cardigans, extra socks, gloves and Balliol scarf signified that Tayo was _______?",
     "options": [
       "Cold",
       "Going to a party",
@@ -17017,7 +17017,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-607-1601",
-    "questionText": "The first time Paul met Ngozi, her beauty caught his eye. This means that _________ (JAMB 2017)",
+    "questionText": "The first time Paul met Ngozi, her beauty caught his eye. This means that _________",
     "options": [
       "Ngozi admired Paul",
       "Paul recognized Ngozi.",
@@ -17029,7 +17029,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-608-1505",
-    "questionText": "Ayodeji is an <u>ardent</u> supporter of education for the child (JAMB 2018)",
+    "questionText": "Ayodeji is an <u>ardent</u> supporter of education for the child",
     "options": [
       "cogent",
       "a passionate",
@@ -17041,7 +17041,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-609-1551",
-    "questionText": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The coach invited me to his office having found me <i>mettlesome</i> (JAMB 2018)",
+    "questionText": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The coach invited me to his office having found me <i>mettlesome</i>",
     "options": [
       "Courageous",
       "Hardworking",
@@ -17053,7 +17053,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-610-1522",
-    "questionText": "This card <i>entitles</i> you to attend the film show (JAMB 2018)",
+    "questionText": "This card <i>entitles</i> you to attend the film show",
     "options": [
       "disqualifies",
       "discourages",
@@ -17065,7 +17065,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-611-1494",
-    "questionText": "Choose the option that best completes the gap, I'll find time for my _________ when I get _________with this difficult assignment. (JAMB 2018)",
+    "questionText": "Choose the option that best completes the gap, I'll find time for my _________ when I get _________with this difficult assignment.",
     "options": [
       "past-time/over",
       "pass-time/over",
@@ -17077,7 +17077,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-612-1527",
-    "questionText": "The sea wave continue to ____________ the cliff on the west coast constantly (JAMB 2018)",
+    "questionText": "The sea wave continue to ____________ the cliff on the west coast constantly",
     "options": [
       "impair",
       "rub",
@@ -17089,7 +17089,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-613-1540",
-    "questionText": "<u>ch</u>ateau (JAMB 2018)",
+    "questionText": "<u>ch</u>ateau",
     "options": [
       "chart",
       "church",
@@ -17101,7 +17101,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-614-1499",
-    "questionText": "Choose the option that best completes the gap.  I was seriously disappointed when the __________ between the two teams ended in a goalless draw (JAMB 2018)",
+    "questionText": "Choose the option that best completes the gap.  I was seriously disappointed when the __________ between the two teams ended in a goalless draw",
     "options": [
       "march",
       "marsh",
@@ -17113,7 +17113,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-615-1561",
-    "questionText": "select the option that best explains the information conveyed in the sentence.\n\n  The team adapted to the new tactic as clean as a whistle. (JAMB 2018)",
+    "questionText": "select the option that best explains the information conveyed in the sentence.\n\n  The team adapted to the new tactic as clean as a whistle.",
     "options": [
       "They adapted to the pattern perfectly",
       "They needed a whistle to be able to adapt to the pattern.",
@@ -17125,7 +17125,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-616-1556",
-    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  It is <i>customary</i> to find young men and women in sports. (JAMB 2018)",
+    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  It is <i>customary</i> to find young men and women in sports.",
     "options": [
       "Common",
       "Unusual",
@@ -17137,7 +17137,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-617-1547",
-    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  Everyone testifies to the <i>unique</i> taste of our flavor. (JAMB 2018)",
+    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  Everyone testifies to the <i>unique</i> taste of our flavor.",
     "options": [
       "Offensive",
       "Common",
@@ -17149,7 +17149,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-618-1544",
-    "questionText": "choose the option nearest in meaning to the underlined. Thousands of students <u>are candidates</u> for the examination but only very few pass (JAMB 2018)",
+    "questionText": "choose the option nearest in meaning to the underlined. Thousands of students <u>are candidates</u> for the examination but only very few pass",
     "options": [
       "Come in",
       "Call for",
@@ -17161,7 +17161,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-619-1521",
-    "questionText": "The <i>severity</i> of the harmattan helped me to complete my writing assignment in record time because i had no choice but to lock myself indoors (JAMB 2018)",
+    "questionText": "The <i>severity</i> of the harmattan helped me to complete my writing assignment in record time because i had no choice but to lock myself indoors",
     "options": [
       "warmth",
       "mildness",
@@ -17173,7 +17173,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-620-1534",
-    "questionText": "The shipping company advertised for ____________ accountants (JAMB 2018)",
+    "questionText": "The shipping company advertised for ____________ accountants",
     "options": [
       "two young but highly competent Nigerian",
       "young but highly competent two Nigerian",
@@ -17185,7 +17185,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-621-1497",
-    "questionText": "Choose the option that best completes the gap. Wherever the leader went people struggled to catch a __________ of him (JAMB 2018)",
+    "questionText": "Choose the option that best completes the gap. Wherever the leader went people struggled to catch a __________ of him",
     "options": [
       "glimpse",
       "look",
@@ -17197,7 +17197,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-622-1542",
-    "questionText": "choose the option opposite in meaning to the word(s) in italics. The manager commended the players for the <i>narrow</i> victory. (JAMB 2018)",
+    "questionText": "choose the option opposite in meaning to the word(s) in italics. The manager commended the players for the <i>narrow</i> victory.",
     "options": [
       "Difficult",
       "Unexpected",
@@ -17209,7 +17209,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-623-1535",
-    "questionText": "Choose the word(s) or phrase(s) which best fill(s) the gap. If it had rained, we would have had to postpone the concert. It didn't rain, so ____________ (JAMB 2018)",
+    "questionText": "Choose the word(s) or phrase(s) which best fill(s) the gap. If it had rained, we would have had to postpone the concert. It didn't rain, so ____________",
     "options": [
       "we won't have to",
       "we would have had to",
@@ -17221,7 +17221,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-624-1550",
-    "questionText": "choose the word(s) or phrase(s) which best fill(s) the gap(s).\n\nFor fear of being caught, the thief shouted and cursed the slow bank manager in a language ________much for words. (JAMB 2018)",
+    "questionText": "choose the word(s) or phrase(s) which best fill(s) the gap(s).\n\nFor fear of being caught, the thief shouted and cursed the slow bank manager in a language ________much for words.",
     "options": [
       "Way",
       "Too",
@@ -17233,7 +17233,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-625-1506",
-    "questionText": "The <u>exhibition</u> was an eye-opener to all (JAMB 2018)",
+    "questionText": "The <u>exhibition</u> was an eye-opener to all",
     "options": [
       "style",
       "examination",
@@ -17245,7 +17245,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-626-1515",
-    "questionText": "The man reasoned that there ought to be a limit to sycophancy (JAMB 2018)",
+    "questionText": "The man reasoned that there ought to be a limit to sycophancy",
     "options": [
       "there can be no favour beyond a reasonable point",
       "sycophants need not talk all the time",
@@ -17257,7 +17257,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-627-1538",
-    "questionText": "Choose the option that has a different stress pattern from the others. (JAMB 2018)",
+    "questionText": "Choose the option that has a different stress pattern from the others.",
     "options": [
       "competent",
       "represent",
@@ -17269,7 +17269,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-628-1530",
-    "questionText": "The patient is suffering from ____________ (JAMB 2018)",
+    "questionText": "The patient is suffering from ____________",
     "options": [
       "reumatism",
       "rheumantism",
@@ -17281,7 +17281,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-629-1507",
-    "questionText": "As a Journalist, Bola has always had a <u>nose</u> for stories (JAMB 2018)",
+    "questionText": "As a Journalist, Bola has always had a <u>nose</u> for stories",
     "options": [
       "an instinct",
       "a command",
@@ -17293,7 +17293,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-630-1511",
-    "questionText": "The essay topic is <u>nebulous</u> (JAMB 2018)",
+    "questionText": "The essay topic is <u>nebulous</u>",
     "options": [
       "distinct",
       "incorrect",
@@ -17305,7 +17305,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-631-1514",
-    "questionText": "Choose the option that best explains the information conveyed in the sentence. Adawo is an Imp (JAMB 2018)",
+    "questionText": "Choose the option that best explains the information conveyed in the sentence. Adawo is an Imp",
     "options": [
       "Adawo behaves queenly",
       "Adawo behaves differently",
@@ -17317,7 +17317,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-632-1552",
-    "questionText": "choose the option that best completes the gap(s).\n\nYou may now ___________ with your presentation. (JAMB 2018)",
+    "questionText": "choose the option that best completes the gap(s).\n\nYou may now ___________ with your presentation.",
     "options": [
       "Precede",
       "Preceed",
@@ -17329,7 +17329,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-633-1496",
-    "questionText": "Choose the option that best completes the gap. The chairman refused to shake __________ with the secretary (JAMB 2018)",
+    "questionText": "Choose the option that best completes the gap. The chairman refused to shake __________ with the secretary",
     "options": [
       "hand",
       "his hand",
@@ -17341,7 +17341,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-634-1563",
-    "questionText": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The police later discovered that Audu <i>feigned</i> death. (JAMB 2018)",
+    "questionText": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The police later discovered that Audu <i>feigned</i> death.",
     "options": [
       "Cheated",
       "Assumed",
@@ -17353,7 +17353,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-635-1501",
-    "questionText": "Choose the option that best completes the gap. While the worshippers closed their eyes in prayer, a thief made __________ with the collection (JAMB 2018)",
+    "questionText": "Choose the option that best completes the gap. While the worshippers closed their eyes in prayer, a thief made __________ with the collection",
     "options": [
       "away",
       "up",
@@ -17365,7 +17365,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-636-1549",
-    "questionText": "choose the option that best completes the gap(s).\n\nThe principal _________ our mobile phones. (JAMB 2018)",
+    "questionText": "choose the option that best completes the gap(s).\n\nThe principal _________ our mobile phones.",
     "options": [
       "Seized",
       "Ceased",
@@ -17377,7 +17377,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-637-1519",
-    "questionText": "Our principal took exception to the <i>ignoble</i> role the teacher played in the matter (JAMB 2018)",
+    "questionText": "Our principal took exception to the <i>ignoble</i> role the teacher played in the matter",
     "options": [
       "embarrassing",
       "honourable",
@@ -17389,7 +17389,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-638-1532",
-    "questionText": "Knowledge of figures of speech as well as of idiom and lexical items ____________ in this section (JAMB 2018)",
+    "questionText": "Knowledge of figures of speech as well as of idiom and lexical items ____________ in this section",
     "options": [
       "is tested",
       "have been tested",
@@ -17401,7 +17401,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-639-1541",
-    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) emboldened.\n\n<b>J</b>oint (JAMB 2018)",
+    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) emboldened.\n\n<b>J</b>oint",
     "options": [
       "dagger",
       "advantage",
@@ -17413,7 +17413,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-640-1531",
-    "questionText": "We saw Ifueko ____________ an egg on the wall (JAMB 2018)",
+    "questionText": "We saw Ifueko ____________ an egg on the wall",
     "options": [
       "smashed",
       "smash",
@@ -17425,7 +17425,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-641-1513",
-    "questionText": "If he were here, it could be more fun (JAMB 2018)",
+    "questionText": "If he were here, it could be more fun",
     "options": [
       "He did not show up and so the occasion lacked much fun",
       "He was being expected to supply more fun",
@@ -17437,7 +17437,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-642-1433",
-    "questionText": "In each of the questions, the word in capital letters has the emphatic stress, Choose the option to which the given sentence relates.\n\nThe cat DEVOURED the rat (JAMB 2019)",
+    "questionText": "In each of the questions, the word in capital letters has the emphatic stress, Choose the option to which the given sentence relates.\n\nThe cat DEVOURED the rat",
     "options": [
       "did the rat devour the cat",
       "what devoured the rat",
@@ -17449,7 +17449,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-643-1466",
-    "questionText": "\n\nAmerica is the Mecca of the world (JAMB 2019)",
+    "questionText": "\n\nAmerica is the Mecca of the world",
     "options": [
       "America is the commercial garden of the world",
       "America is a beautiful place in the world",
@@ -17461,7 +17461,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-644-1376",
-    "questionText": "Justice is difficult to enforce because people are unwilling to accept any loss of [sovereignty] (JAMB 2019)",
+    "questionText": "Justice is difficult to enforce because people are unwilling to accept any loss of [sovereignty]",
     "options": [
       "positing",
       "leadership",
@@ -17473,7 +17473,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-645-1463",
-    "questionText": "Either Buntu or you ........ to go (JAMB 2019)",
+    "questionText": "Either Buntu or you ........ to go",
     "options": [
       "was",
       "are",
@@ -17485,7 +17485,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-646-1399",
-    "questionText": "Aliya although is born with a silver spoon, but she has no freedom to move around meet new people unlike other persons. This signals to the… (JAMB 2019)",
+    "questionText": "Aliya although is born with a silver spoon, but she has no freedom to move around meet new people unlike other persons. This signals to the…",
     "options": [
       "criticism of strict parenting",
       "irony of life",
@@ -17497,7 +17497,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-647-1409",
-    "questionText": "Vacancies in the company will be notified by ..... (JAMB 2019)",
+    "questionText": "Vacancies in the company will be notified by .....",
     "options": [
       "Bulletin",
       "Publication",
@@ -17509,7 +17509,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-648-1405",
-    "questionText": "... is quick to anger and doesn't hide it when she is (JAMB 2019)",
+    "questionText": "... is quick to anger and doesn't hide it when she is",
     "options": [
       "Aliyu",
       "Mrs Bello",
@@ -17521,7 +17521,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-649-1471",
-    "questionText": "The [prodigious] building was razed to the carpet level yesterday (JAMB 2019)",
+    "questionText": "The [prodigious] building was razed to the carpet level yesterday",
     "options": [
       "ramshackle",
       "modern",
@@ -17533,7 +17533,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-650-1415",
-    "questionText": "Hadn't it rained, it wouldn't have been so bad (JAMB 2019)",
+    "questionText": "Hadn't it rained, it wouldn't have been so bad",
     "options": [
       "It was so bad because it didn't rain",
       "it rained and so it wasn't bad",
@@ -17545,7 +17545,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-651-1482",
-    "questionText": "Ad[j]ust (JAMB 2019)",
+    "questionText": "Ad[j]ust",
     "options": [
       "Diary",
       "judge",
@@ -17557,7 +17557,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-652-1467",
-    "questionText": "All the Nigerian footballers have itchy feet (JAMB 2019)",
+    "questionText": "All the Nigerian footballers have itchy feet",
     "options": [
       "the footballers have insured feet",
       "the footballers use their feet to steer",
@@ -17569,7 +17569,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-653-1407",
-    "questionText": "Mr Bello's best advice to Aliya on dating is that (JAMB 2019)",
+    "questionText": "Mr Bello's best advice to Aliya on dating is that",
     "options": [
       "gifting doesn't mean true affection",
       "dating can be so distracting",
@@ -17581,7 +17581,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-654-1403",
-    "questionText": "Bobo proved Mr Bello's advice on infatuation as right when he (JAMB 2019)",
+    "questionText": "Bobo proved Mr Bello's advice on infatuation as right when he",
     "options": [
       "presented a gift to Aliya",
       "flirts with other girls",
@@ -17593,7 +17593,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-655-1462",
-    "questionText": "You can have ........ of these two books (JAMB 2019)",
+    "questionText": "You can have ........ of these two books",
     "options": [
       "either",
       "none",
@@ -17605,7 +17605,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-656-1380",
-    "questionText": "This type of response is [typical] of a lazy teacher (JAMB 2019)",
+    "questionText": "This type of response is [typical] of a lazy teacher",
     "options": [
       "symptomatic",
       "characteristics",
@@ -17617,7 +17617,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-657-1425",
-    "questionText": "Ask[ed] (JAMB 2019)",
+    "questionText": "Ask[ed]",
     "options": [
       "whistle",
       "bed",
@@ -17629,7 +17629,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-658-1456",
-    "questionText": "A child's choice of career is a matter of (JAMB 2019)",
+    "questionText": "A child's choice of career is a matter of",
     "options": [
       "glamorous desire",
       "passion",
@@ -17641,7 +17641,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-659-1410",
-    "questionText": "The driver was short of petrol, so he ........ down the road with the engine switched off (JAMB 2019)",
+    "questionText": "The driver was short of petrol, so he ........ down the road with the engine switched off",
     "options": [
       "glided",
       "coasted",
@@ -17653,7 +17653,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-660-1414",
-    "questionText": "Bridget denied that she wasn't there. This means that (JAMB 2019)",
+    "questionText": "Bridget denied that she wasn't there. This means that",
     "options": [
       "She confessed that she wasn't there",
       "She owned up not to be there",
@@ -17665,7 +17665,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-661-1378",
-    "questionText": "Choose the word that has the same rhyme \n\nThyme (JAMB 2019)",
+    "questionText": "Choose the word that has the same rhyme \n\nThyme",
     "options": [
       "climb",
       "bind",
@@ -17677,7 +17677,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-662-1476",
-    "questionText": "Her findings [exploded] widely held beliefs about learning (JAMB 2019)",
+    "questionText": "Her findings [exploded] widely held beliefs about learning",
     "options": [
       "challenged",
       "debunked",
@@ -17689,7 +17689,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-663-1427",
-    "questionText": "Choose the word that has a different stress pattern (JAMB 2019)",
+    "questionText": "Choose the word that has a different stress pattern",
     "options": [
       "calender",
       "aloud",
@@ -17701,7 +17701,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-664-1461",
-    "questionText": "It is high time we ........ seeing her (JAMB 2019)",
+    "questionText": "It is high time we ........ seeing her",
     "options": [
       "stop",
       "will stop",
@@ -17713,7 +17713,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-665-1382",
-    "questionText": "Band[a]ge (JAMB 2019)",
+    "questionText": "Band[a]ge",
     "options": [
       "kite",
       "says",
@@ -17725,7 +17725,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-666-1473",
-    "questionText": "Every human being is [vulnerable] to communicable disease (JAMB 2019)",
+    "questionText": "Every human being is [vulnerable] to communicable disease",
     "options": [
       "liable",
       "lifted",
@@ -17737,7 +17737,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-667-1413",
-    "questionText": "Bolu shall be the M.C. This means that (JAMB 2019)",
+    "questionText": "Bolu shall be the M.C. This means that",
     "options": [
       "Bolu may be the M.C",
       "no one else will be the M.C",
@@ -17749,7 +17749,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-668-1458",
-    "questionText": "All in all, Aliya has … (JAMB 2019)",
+    "questionText": "All in all, Aliya has …",
     "options": [
       "the inheritance of her parents both in knowledge and assets",
       "been challenged to be exceptional in all her endeavors",
@@ -17761,7 +17761,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-669-1364",
-    "questionText": "My uncle is a <u>prosperous</u> businessman, my aunt, unfortunately, is quite ________ (JAMB 2020)",
+    "questionText": "My uncle is a <u>prosperous</u> businessman, my aunt, unfortunately, is quite ________",
     "options": [
       "unskillful",
       "domestic",
@@ -17773,7 +17773,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-670-1353",
-    "questionText": "Because of the hard times, workers live in ___________ poverty\n (JAMB 2020)",
+    "questionText": "Because of the hard times, workers live in ___________ poverty\n",
     "options": [
       "repulsive",
       "ridiculous",
@@ -17785,7 +17785,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-671-1368",
-    "questionText": "After Ade had listened to some advice, his <u>rigid</u> ideas became more ______________ (JAMB 2020)",
+    "questionText": "After Ade had listened to some advice, his <u>rigid</u> ideas became more ______________",
     "options": [
       "friendly",
       "compromising",
@@ -17797,7 +17797,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-672-1326",
-    "questionText": "KOTL means ___________ (JAMB 2020)",
+    "questionText": "KOTL means ___________",
     "options": [
       "Kiss on the lips",
       "Kiss on the lab",
@@ -17809,7 +17809,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-673-1372",
-    "questionText": "Although Chide's manners are quite <u>refined</u> , his colleagues are rather ___________ (JAMB 2020)",
+    "questionText": "Although Chide's manners are quite <u>refined</u> , his colleagues are rather ___________",
     "options": [
       "bold",
       "crude",
@@ -17821,7 +17821,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-674-1350",
-    "questionText": "Mr Cham will never tell you everything, he is very ________ (JAMB 2020)",
+    "questionText": "Mr Cham will never tell you everything, he is very ________",
     "options": [
       "secretive",
       "quiet",
@@ -17833,7 +17833,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-675-1331",
-    "questionText": "Choose the one with the different stress pattern (JAMB 2020)",
+    "questionText": "Choose the one with the different stress pattern",
     "options": [
       "physique",
       "menace",
@@ -17845,7 +17845,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-676-1345",
-    "questionText": "ll the people in the bus died in that _________  accident (JAMB 2020)",
+    "questionText": "ll the people in the bus died in that _________  accident",
     "options": [
       "serious",
       "reckless",
@@ -17857,7 +17857,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-677-1361",
-    "questionText": "he economist argued that the apparently <u>inconsequential</u> rise in the price of petrol had a _________ effect on the cost of living (JAMB 2020)",
+    "questionText": "he economist argued that the apparently <u>inconsequential</u> rise in the price of petrol had a _________ effect on the cost of living",
     "options": [
       "capricious",
       "frivolous",
@@ -17869,7 +17869,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-678-1349",
-    "questionText": "After interrogation, the police ______ the information from the suspect. (JAMB 2020)",
+    "questionText": "After interrogation, the police ______ the information from the suspect.",
     "options": [
       "exposed",
       "wrung",
@@ -17881,7 +17881,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-679-1365",
-    "questionText": "The University has a large <u>intake</u>, very few ________ take place (JAMB 2020)",
+    "questionText": "The University has a large <u>intake</u>, very few ________ take place",
     "options": [
       "turnouts",
       "rejections",
@@ -17893,7 +17893,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-680-1357",
-    "questionText": "f he <u>declines</u> the offer, it will be better for him. (JAMB 2020)",
+    "questionText": "f he <u>declines</u> the offer, it will be better for him.",
     "options": [
       "ignores",
       "denies",
@@ -17905,7 +17905,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-681-1343",
-    "questionText": "My brother graduated from university last year; he will soon_________ (JAMB 2020)",
+    "questionText": "My brother graduated from university last year; he will soon_________",
     "options": [
       "convocate",
       "convoke",
@@ -17917,7 +17917,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-682-1348",
-    "questionText": "The soldiers pledge their ________ loyalty to the new government (JAMB 2020)",
+    "questionText": "The soldiers pledge their ________ loyalty to the new government",
     "options": [
       "enduring",
       "tireless",
@@ -17929,7 +17929,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-683-1334",
-    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n\n \n\nExpenditure (JAMB 2020)",
+    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n\n \n\nExpenditure",
     "options": [
       "EX-pen-di-ture",
       "ex-PEN-di-ture",
@@ -17941,7 +17941,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-684-1335",
-    "questionText": "The man, as well as the woman ________ arrested (JAMB 2020)",
+    "questionText": "The man, as well as the woman ________ arrested",
     "options": [
       "have been",
       "has been",
@@ -17953,7 +17953,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-685-1355",
-    "questionText": "I went through his work; it was <u>gibberish</u> (JAMB 2020)",
+    "questionText": "I went through his work; it was <u>gibberish</u>",
     "options": [
       "meaningless",
       "meaningful",
@@ -17965,7 +17965,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-686-1347",
-    "questionText": "What a ________! the more you look, the less you see (JAMB 2020)",
+    "questionText": "What a ________! the more you look, the less you see",
     "options": [
       "wonder",
       "miracle",
@@ -17977,7 +17977,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-687-1339",
-    "questionText": "This class __________students and teachers (JAMB 2020)",
+    "questionText": "This class __________students and teachers",
     "options": [
       "comprise",
       "comprises",
@@ -17989,7 +17989,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-688-1371",
-    "questionText": "The pilot says that it is easier to <u>take off</u> from the airport than to ___________ on the tarmac (JAMB 2020)",
+    "questionText": "The pilot says that it is easier to <u>take off</u> from the airport than to ___________ on the tarmac",
     "options": [
       "land",
       "come down",
@@ -18001,7 +18001,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-689-1341",
-    "questionText": "The soldier _________ his gun on the wall after the armed robber______ (JAMB 2020)",
+    "questionText": "The soldier _________ his gun on the wall after the armed robber______",
     "options": [
       "hang/has been hung",
       "hung/had been hanged",
@@ -18013,7 +18013,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-690-1363",
-    "questionText": "I thought that the comments made by the Manager were quite <u>innocuous</u> but the chairman considered them __________ (JAMB 2020)",
+    "questionText": "I thought that the comments made by the Manager were quite <u>innocuous</u> but the chairman considered them __________",
     "options": [
       "polite",
       "inappropriate",
@@ -18025,7 +18025,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-691-1360",
-    "questionText": "The Major demanded an <u>unalloyed</u> and not a __________ loyalty from his soldiers (JAMB 2020)",
+    "questionText": "The Major demanded an <u>unalloyed</u> and not a __________ loyalty from his soldiers",
     "options": [
       "strict",
       "wavering",
@@ -18037,7 +18037,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-692-1358",
-    "questionText": "The appearance which the famous actor made last month was his swan song. This meant that_________ (JAMB 2020)",
+    "questionText": "The appearance which the famous actor made last month was his swan song. This meant that_________",
     "options": [
       "the actor sang beautifully during the play",
       "the play was postponed because of the actor's non-appearance",
@@ -18049,7 +18049,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-693-1373",
-    "questionText": "I am quite <u>outspoken</u> but my brother is __________ (JAMB 2020)",
+    "questionText": "I am quite <u>outspoken</u> but my brother is __________",
     "options": [
       "dumb",
       "indolent",
@@ -18061,7 +18061,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-694-1324",
-    "questionText": "_________almost fainted when he heard that some students were caught on the school's basketball court at night having sex. (JAMB 2020)",
+    "questionText": "_________almost fainted when he heard that some students were caught on the school's basketball court at night having sex.",
     "options": [
       "Mr James",
       "Aliya",
@@ -18073,7 +18073,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-695-1336",
-    "questionText": "Many a ____________ to understand me (JAMB 2020)",
+    "questionText": "Many a ____________ to understand me",
     "options": [
       "man fail",
       "man fails",
@@ -18085,7 +18085,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-696-1325",
-    "questionText": "Adoringly, Aliya was referred to as ________ (JAMB 2020)",
+    "questionText": "Adoringly, Aliya was referred to as ________",
     "options": [
       "Journalist",
       "Sex addict",
@@ -18097,7 +18097,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-697-1354",
-    "questionText": "Our chief is very intelligent but he could be <u>parochial</u> in his judgements (JAMB 2020)",
+    "questionText": "Our chief is very intelligent but he could be <u>parochial</u> in his judgements",
     "options": [
       "deep",
       "broad",
@@ -18109,7 +18109,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-698-1359",
-    "questionText": "Muiz does not let the grass grow under his feet. This means that Muiz _________ (JAMB 2020)",
+    "questionText": "Muiz does not let the grass grow under his feet. This means that Muiz _________",
     "options": [
       "does not waste time in doing things",
       "is a very wicked man",
@@ -18121,7 +18121,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-699-1362",
-    "questionText": "The exotic bird looked <u>resplendent</u>; its bright plumage contrasted with the rather _________ undergrowth (JAMB 2020)",
+    "questionText": "The exotic bird looked <u>resplendent</u>; its bright plumage contrasted with the rather _________ undergrowth",
     "options": [
       "immobile",
       "foreign",
@@ -18133,7 +18133,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-700-1328",
-    "questionText": "Mr Bello is a/an _______ by profession in the novel? (JAMB 2020)",
+    "questionText": "Mr Bello is a/an _______ by profession in the novel?",
     "options": [
       "accountant",
       "engineer",
@@ -18145,7 +18145,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-701-1223",
-    "questionText": "The governor was <u>incoherent</u> in his speech (JAMB 2021)",
+    "questionText": "The governor was <u>incoherent</u> in his speech",
     "options": [
       "uncoordinated",
       "talkative",
@@ -18157,7 +18157,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-702-1248",
-    "questionText": "<u>K</u>ing (JAMB 2021)",
+    "questionText": "<u>K</u>ing",
     "options": [
       "that",
       "think",
@@ -18169,7 +18169,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-703-1236",
-    "questionText": "choose the option with the correct spelling from the options lettered A-E (JAMB 2021)",
+    "questionText": "choose the option with the correct spelling from the options lettered A-E",
     "options": [
       "Acommodation",
       "Accomodation",
@@ -18181,7 +18181,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-704-1231",
-    "questionText": "James found the photocopied material <u>invaluable</u> while preparing for the examination  (JAMB 2021)",
+    "questionText": "James found the photocopied material <u>invaluable</u> while preparing for the examination",
     "options": [
       "Valuable",
       "worthwhile",
@@ -18193,7 +18193,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-705-1241",
-    "questionText": "The two friends made promises to _____ when they met last year (JAMB 2021)",
+    "questionText": "The two friends made promises to _____ when they met last year",
     "options": [
       "each other",
       "one another",
@@ -18205,7 +18205,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-706-1225",
-    "questionText": "One hundred and forty kilometres per hour is a <u>reasonable</u> speed limit.  (JAMB 2021)",
+    "questionText": "One hundred and forty kilometres per hour is a <u>reasonable</u> speed limit.",
     "options": [
       "acceptable",
       "unbelievable",
@@ -18217,7 +18217,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-707-1239",
-    "questionText": "Democracy (JAMB 2021)",
+    "questionText": "Democracy",
     "options": [
       "DEmocracy",
       "deMOcracy",
@@ -18229,7 +18229,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-708-1217",
-    "questionText": "He was underrated at the <u>preliminary</u> stage of the competition (JAMB 2021)",
+    "questionText": "He was underrated at the <u>preliminary</u> stage of the competition",
     "options": [
       "advance",
       "initial",
@@ -18241,7 +18241,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-709-1216",
-    "questionText": "The matter was considered a <u>private</u> concern of the chairman to handle (JAMB 2021)",
+    "questionText": "The matter was considered a <u>private</u> concern of the chairman to handle",
     "options": [
       "personal",
       "known",
@@ -18253,7 +18253,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-710-1238",
-    "questionText": "Successful (JAMB 2021)",
+    "questionText": "Successful",
     "options": [
       "SUccessful",
       "suCcessful",
@@ -18265,7 +18265,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-711-1224",
-    "questionText": "The lady has devised a means of <u>tackling</u> her current challenges. (JAMB 2021)",
+    "questionText": "The lady has devised a means of <u>tackling</u> her current challenges.",
     "options": [
       "attacking",
       "avoiding",
@@ -18277,7 +18277,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-712-1219",
-    "questionText": "Almost everyone she had worked with took advantage of her <u>meekness</u> (JAMB 2021)",
+    "questionText": "Almost everyone she had worked with took advantage of her <u>meekness</u>",
     "options": [
       "gentleness",
       "weakness",
@@ -18289,7 +18289,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-713-1230",
-    "questionText": "The lawmakers are perceived to be the <u>greediest</u> set of politicians. (JAMB 2021)",
+    "questionText": "The lawmakers are perceived to be the <u>greediest</u> set of politicians.",
     "options": [
       "selfless",
       "unwanted",
@@ -18301,7 +18301,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-714-1245",
-    "questionText": "H<u>ea</u>d (JAMB 2021)",
+    "questionText": "H<u>ea</u>d",
     "options": [
       "bead",
       "red",
@@ -18313,7 +18313,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-715-1246",
-    "questionText": "M<u>oo</u>n (JAMB 2021)",
+    "questionText": "M<u>oo</u>n",
     "options": [
       "cook",
       "loop",
@@ -18325,7 +18325,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-716-1215",
-    "questionText": "The emphasis placed on good moral conduct by the society in the past seems to have been <u>relaxed</u> (JAMB 2021)",
+    "questionText": "The emphasis placed on good moral conduct by the society in the past seems to have been <u>relaxed</u>",
     "options": [
       "avoided",
       "improved",
@@ -18337,7 +18337,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-717-1253",
-    "questionText": "He travels every WEEKEND (JAMB 2021)",
+    "questionText": "He travels every WEEKEND",
     "options": [
       "Does he sleep every weekend?",
       "Does he wash every week days?",
@@ -18349,7 +18349,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-718-1243",
-    "questionText": "Mr. Jude made the meeting _____his poor health (JAMB 2021)",
+    "questionText": "Mr. Jude made the meeting _____his poor health",
     "options": [
       "even though",
       "inspite of",
@@ -18361,7 +18361,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-719-1221",
-    "questionText": "choose the most appropriate option nearest in meaning to the word(s) underlined.\n\nHis grandfather was one of the few <u>patriotic</u> Nigerians who ever lived. (JAMB 2021)",
+    "questionText": "choose the most appropriate option nearest in meaning to the word(s) underlined.\n\nHis grandfather was one of the few <u>patriotic</u> Nigerians who ever lived.",
     "options": [
       "obedient",
       "lover of Nigeria",
@@ -18373,7 +18373,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-720-1227",
-    "questionText": "The soldiers were <u>remorseful</u> for their inhuman treatment of the civilians. (JAMB 2021)",
+    "questionText": "The soldiers were <u>remorseful</u> for their inhuman treatment of the civilians.",
     "options": [
       "boastful",
       "sad",
@@ -18385,7 +18385,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-721-1220",
-    "questionText": "Barely six months after his father's demise, he has nothing left again of his <u>patrimony</u> (JAMB 2021)",
+    "questionText": "Barely six months after his father's demise, he has nothing left again of his <u>patrimony</u>",
     "options": [
       "inheritance",
       "property",
@@ -18397,7 +18397,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-722-1232",
-    "questionText": "Mr. Akin's health has greatly <u>degenerated</u> in the last week. (JAMB 2021)",
+    "questionText": "Mr. Akin's health has greatly <u>degenerated</u> in the last week.",
     "options": [
       "improved",
       "deteriorated",
@@ -18409,7 +18409,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-723-1251",
-    "questionText": "The Parents Teachers Association promised to build a CAFETERIA.  (JAMB 2021)",
+    "questionText": "The Parents Teachers Association promised to build a CAFETERIA.",
     "options": [
       "Does the alumni association promised to build a cafeteria?",
       "Does the school authority promised to build a library?",
@@ -18421,7 +18421,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-724-1222",
-    "questionText": "Many people believed that such an action is <u>unbecoming</u> of a leader (JAMB 2021)",
+    "questionText": "Many people believed that such an action is <u>unbecoming</u> of a leader",
     "options": [
       "forthcoming",
       ". not befitting",
@@ -18433,7 +18433,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-725-1252",
-    "questionText": "He SLAPPED the teacher. (JAMB 2021)",
+    "questionText": "He SLAPPED the teacher.",
     "options": [
       "Did he greet the teacher?",
       "Did the teacher flog him?",
@@ -18445,7 +18445,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-726-1280",
-    "questionText": "Prison (JAMB 2022)",
+    "questionText": "Prison",
     "options": [
       "rising",
       "risen",
@@ -18457,7 +18457,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-727-1260",
-    "questionText": "What is Ummi Matric Number?   (JAMB 2022)",
+    "questionText": "What is Ummi Matric Number?",
     "options": [
       "UG0001",
       "UG00001",
@@ -18469,7 +18469,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-728-1262",
-    "questionText": "What is the full name of Salma? (JAMB 2022)",
+    "questionText": "What is the full name of Salma?",
     "options": [
       "Salma Mohammed",
       "Salma Johnson",
@@ -18481,7 +18481,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-729-1307",
-    "questionText": "Bankole is upset as his wife does not understand his <u>predicament</u> . (JAMB 2022)",
+    "questionText": "Bankole is upset as his wife does not understand his <u>predicament</u> .",
     "options": [
       "sadness",
       "dilemma",
@@ -18493,7 +18493,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-730-1266",
-    "questionText": "Who were the people in the car? (JAMB 2022)",
+    "questionText": "Who were the people in the car?",
     "options": [
       "Lawal and Labaran",
       "Habib and Labaran",
@@ -18505,7 +18505,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-731-1267",
-    "questionText": "How much did Habib give Tomiwa personally? (JAMB 2022)",
+    "questionText": "How much did Habib give Tomiwa personally?",
     "options": [
       "Ten thousand naira",
       "Five Thousand Naira",
@@ -18517,7 +18517,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-732-1301",
-    "questionText": "Between you and _____, he is a liar. (JAMB 2022)",
+    "questionText": "Between you and _____, he is a liar.",
     "options": [
       "all of the above",
       "me",
@@ -18529,7 +18529,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-733-1257",
-    "questionText": "Ummi's husband wanted to study law but the providence chose that he study _____ (JAMB 2022)",
+    "questionText": "Ummi's husband wanted to study law but the providence chose that he study _____",
     "options": [
       "commerce",
       "accounting",
@@ -18541,7 +18541,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-734-1285",
-    "questionText": "John's watch is made of GOLD. (JAMB 2022)",
+    "questionText": "John's watch is made of GOLD.",
     "options": [
       "Whose watch is made of gold?",
       "What is made of gold?",
@@ -18553,7 +18553,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-735-1255",
-    "questionText": "The book described Talle as a? (JAMB 2022)",
+    "questionText": "The book described Talle as a?",
     "options": [
       "The precious child",
       "The quiet one",
@@ -18565,7 +18565,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-736-1306",
-    "questionText": "It was _____ who killed the goat. (JAMB 2022)",
+    "questionText": "It was _____ who killed the goat.",
     "options": [
       "his",
       "him",
@@ -18577,7 +18577,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-737-1313",
-    "questionText": "Choose the option that has the same stress pattern as the given word.\n\nStudent (JAMB 2022)",
+    "questionText": "Choose the option that has the same stress pattern as the given word.\n\nStudent",
     "options": [
       "Refuse(N)",
       "Propose",
@@ -18589,7 +18589,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-738-1312",
-    "questionText": "Choose the word that has the same rhyme\n\nWatch (JAMB 2022)",
+    "questionText": "Choose the word that has the same rhyme\n\nWatch",
     "options": [
       "none of the above",
       "botch",
@@ -18601,7 +18601,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-739-1304",
-    "questionText": "I have always found that it is helpful to have a few wise and trusted people to ________ you can turn for information and advice. (JAMB 2022)",
+    "questionText": "I have always found that it is helpful to have a few wise and trusted people to ________ you can turn for information and advice.",
     "options": [
       "whom",
       "who",
@@ -18613,7 +18613,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-740-1269",
-    "questionText": "What was Omar's JAMB exam score? (JAMB 2022)",
+    "questionText": "What was Omar's JAMB exam score?",
     "options": [
       "230",
       "250",
@@ -18625,7 +18625,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-741-1309",
-    "questionText": "Now that the company is <u>insolvent</u> , it will shut down. (JAMB 2022)",
+    "questionText": "Now that the company is <u>insolvent</u> , it will shut down.",
     "options": [
       "overworked",
       "unstable",
@@ -18637,7 +18637,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-742-1310",
-    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nMo<u>th</u>er (JAMB 2022)",
+    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nMo<u>th</u>er",
     "options": [
       "think",
       "teacher",
@@ -18649,7 +18649,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-743-1288",
-    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nNa<u>t</u>ional\n\n\n (JAMB 2022)",
+    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nNa<u>t</u>ional\n\n\n",
     "options": [
       "sugar",
       "raise",
@@ -18661,7 +18661,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-744-1268",
-    "questionText": "How much did Tomiwa give her roommates? (JAMB 2022)",
+    "questionText": "How much did Tomiwa give her roommates?",
     "options": [
       "Five thousand naira",
       "Ten thousand Naira",
@@ -18673,7 +18673,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-745-1275",
-    "questionText": "According to the story, one of the following is true (JAMB 2022)",
+    "questionText": "According to the story, one of the following is true",
     "options": [
       "Tomiwa and Ngozi are neighbours",
       "Ada and Salma are course mates",
@@ -18685,7 +18685,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-746-1270",
-    "questionText": "What is the full meaning of the acronym EMAL (JAMB 2022)",
+    "questionText": "What is the full meaning of the acronym EMAL",
     "options": [
       "Examination Malpractice",
       "Examination misconduct",
@@ -18697,7 +18697,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-747-1281",
-    "questionText": "Crate (JAMB 2022)",
+    "questionText": "Crate",
     "options": [
       "Great",
       "Mint",
@@ -18709,7 +18709,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-748-1290",
-    "questionText": "From the options lettered A-D, choose the option that is most nearly opposite in meaning to the underlined word.\n\nTwice, he was <u>repulsed</u> with heavy losses (JAMB 2022)",
+    "questionText": "From the options lettered A-D, choose the option that is most nearly opposite in meaning to the underlined word.\n\nTwice, he was <u>repulsed</u> with heavy losses",
     "options": [
       "repelled",
       "gratified",
@@ -18721,7 +18721,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-749-1286",
-    "questionText": "She WORKS at the hospital. (JAMB 2022)",
+    "questionText": "She WORKS at the hospital.",
     "options": [
       "Who works at the hospital?",
       "Where does she work?",
@@ -18733,7 +18733,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-750-1265",
-    "questionText": " What question did Bint ask her teacher? (JAMB 2022)",
+    "questionText": " What question did Bint ask her teacher?",
     "options": [
       "How to say good morning",
       "How to say what is your name",
@@ -18745,7 +18745,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-751-1297",
-    "questionText": "Choose the option that has a different vowel sound from the others (JAMB 2022)",
+    "questionText": "Choose the option that has a different vowel sound from the others",
     "options": [
       "beach",
       "ski",
@@ -18757,7 +18757,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-752-1261",
-    "questionText": "What is full meaning of EMEC (JAMB 2022)",
+    "questionText": "What is full meaning of EMEC",
     "options": [
       "Examination Malpractice and Ethics Committee",
       "Examining Malpractice and Ethics Committee",
@@ -18769,7 +18769,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-753-1272",
-    "questionText": "\"Nothing happened, My friend didn't feel like giving you her number so she gave you mine instead\" Who is the friend? (JAMB 2022)",
+    "questionText": "\"Nothing happened, My friend didn't feel like giving you her number so she gave you mine instead\" Who is the friend?",
     "options": [
       "Salma",
       "Ada",
@@ -18781,7 +18781,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-754-1284",
-    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nWatch<u>ed</u> (JAMB 2022)",
+    "questionText": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nWatch<u>ed</u>",
     "options": [
       "lived",
       "address",
@@ -18793,7 +18793,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-755-1287",
-    "questionText": "Aderonke STATED she had a right to her privacy. (JAMB 2022)",
+    "questionText": "Aderonke STATED she had a right to her privacy.",
     "options": [
       "Did Aderonke lament she had a right to her privacy?",
       "Did Omowunmi state she had a right to her privacy?",
@@ -18805,7 +18805,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-756-1293",
-    "questionText": "Last Easter was an <u>austere</u> period. (JAMB 2022)",
+    "questionText": "Last Easter was an <u>austere</u> period.",
     "options": [
       "harsh",
       "severe",
@@ -18817,7 +18817,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-757-1291",
-    "questionText": "I only visited Chidi. This means that (JAMB 2022)",
+    "questionText": "I only visited Chidi. This means that",
     "options": [
       "None of the above",
       "I didn't do anything asides visiting Chidi",
@@ -18829,7 +18829,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-758-1300",
-    "questionText": "My account with the bank is in the red. This means that my account is (JAMB 2022)",
+    "questionText": "My account with the bank is in the red. This means that my account is",
     "options": [
       "heavy",
       "in danger",
@@ -18841,7 +18841,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-759-1282",
-    "questionText": "Phone (JAMB 2022)",
+    "questionText": "Phone",
     "options": [
       "frown",
       "grown",
@@ -18853,7 +18853,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-760-934",
-    "questionText": "The girl is angry with her friend who had <u>ensnared</u> her into this relationship? (JAMB 2011)",
+    "questionText": "The girl is angry with her friend who had <u>ensnared</u> her into this relationship?",
     "options": [
       "tricked",
       "encourage",
@@ -18865,7 +18865,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-761-1356",
-    "questionText": "Coming late to work, according to Leonard, is <u>inimical</u> to the progress of the company (JAMB 2020)",
+    "questionText": "Coming late to work, according to Leonard, is <u>inimical</u> to the progress of the company",
     "options": [
       "harmful",
       "predominat",
@@ -18877,7 +18877,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-762-1214",
-    "questionText": "He maintained that Nigerians need a leader with an <u>iron fist</u> (JAMB 2021)",
+    "questionText": "He maintained that Nigerians need a leader with an <u>iron fist</u>",
     "options": [
       "fist made of iron",
       "severe in treatment",
@@ -18889,7 +18889,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-763-367",
-    "questionText": "The next village is at least 30 kilometres away. (JAMB 2007)",
+    "questionText": "The next village is at least 30 kilometres away.",
     "options": [
       "The next village is 30 kilometres away, possibly less.",
       "The next village is approximately 30 kilometres away.",
@@ -18901,7 +18901,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-764-1758",
-    "questionText": "Choose the option that best fills the gap.\n\nThe ------------------- in an attempt to please the workers promised to provide for them an..........as soon as possible. (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nThe ------------------- in an attempt to please the workers promised to provide for them an..........as soon as possible.",
     "options": [
       "Commitee/ accommondation",
       "Comittee/ acommodation",
@@ -18913,7 +18913,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-765-1460",
-    "questionText": "Both questions are alternatives; you answer ........ one ........ the other (JAMB 2019)",
+    "questionText": "Both questions are alternatives; you answer ........ one ........ the other",
     "options": [
       "either/or",
       "neither/nor",
@@ -18925,7 +18925,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-766-264",
-    "questionText": "The witness provided a <i>monstrous</i> account of the event (JAMB 2006)",
+    "questionText": "The witness provided a <i>monstrous</i> account of the event",
     "options": [
       "supportive",
       "tragic",
@@ -18937,7 +18937,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-767-951",
-    "questionText": "Nkechi was a <u>novice</u> when she was first employed? (JAMB 2011)",
+    "questionText": "Nkechi was a <u>novice</u> when she was first employed?",
     "options": [
       "manager",
       "clerk",
@@ -18949,7 +18949,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-768-1119",
-    "questionText": "In the novel, Bright lived with Teacher because (JAMB 2013)",
+    "questionText": "In the novel, Bright lived with Teacher because",
     "options": [
       "He was Teacher's nephew",
       "His father was indebted to Teacher",
@@ -18961,7 +18961,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-769-639",
-    "questionText": "Some scientists are trying to ...... human beings in their laboratories? (JAMB 2001)",
+    "questionText": "Some scientists are trying to ...... human beings in their laboratories?",
     "options": [
       "imitate",
       "replicate",
@@ -18973,7 +18973,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-770-1153",
-    "questionText": "The lamb is a <u>feeble</u> little animal (JAMB 2013)",
+    "questionText": "The lamb is a <u>feeble</u> little animal",
     "options": [
       "loving",
       "weak",
@@ -18985,7 +18985,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-771-414",
-    "questionText": "Kanuri is a language......... (JAMB 2008)",
+    "questionText": "Kanuri is a language.........",
     "options": [
       "I can't speak it well",
       "that I cant speak it well",
@@ -18997,7 +18997,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-772-1120",
-    "questionText": "According to the novel, Obu was good at (JAMB 2013)",
+    "questionText": "According to the novel, Obu was good at",
     "options": [
       "Proverbs",
       "Cricket",
@@ -19009,7 +19009,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-773-1188",
-    "questionText": "dedication (JAMB 2013)",
+    "questionText": "dedication",
     "options": [
       "dedicaTION",
       "deDlcation",
@@ -19021,7 +19021,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-774-173",
-    "questionText": "The proprietor accuse Uche of silently<i> acquiescing</i>  to the students’ demands (JAMB 2005)",
+    "questionText": "The proprietor accuse Uche of silently<i> acquiescing</i>  to the students’ demands",
     "options": [
       "submitting to",
       "adjusting",
@@ -19033,7 +19033,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-775-748",
-    "questionText": "llesa witness the largest ..... of writers at any convention in recent times? (JAMB 2000)",
+    "questionText": "llesa witness the largest ..... of writers at any convention in recent times?",
     "options": [
       "turnaround",
       "turnover",
@@ -19045,7 +19045,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-776-742",
-    "questionText": "All the traders in the market saw thewoman buy... the \nimported suits. (JAMB 2000)",
+    "questionText": "All the traders in the market saw thewoman buy... the \nimported suits.",
     "options": [
       "up",
       "off",
@@ -19057,7 +19057,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-777-1576",
-    "questionText": "Choose the word that best completes the following sentence. \n\nI really like working in that office: I find the — very friendly (JAMB 2017)",
+    "questionText": "Choose the word that best completes the following sentence. \n\nI really like working in that office: I find the — very friendly",
     "options": [
       "condition",
       "atmosphere",
@@ -19069,7 +19069,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-778-13",
-    "questionText": " Four weeks ..................  enough for the police to  conclude   their (JAMB 2003)",
+    "questionText": " Four weeks ..................  enough for the police to  conclude   their",
     "options": [
       "were",
       "is",
@@ -19081,7 +19081,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-779-292",
-    "questionText": "The chief said he would use the power <i>inherent</i> in his office to stop the celebration (JAMB 2006)",
+    "questionText": "The chief said he would use the power <i>inherent</i> in his office to stop the celebration",
     "options": [
       "unrelated to",
       "common to",
@@ -19093,7 +19093,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-780-778",
-    "questionText": "The presence of the security men in the area will provide a <u>moment of respite</u> for the residents? (JAMB 2000)",
+    "questionText": "The presence of the security men in the area will provide a <u>moment of respite</u> for the residents?",
     "options": [
       "soothing relaxtion",
       "enduring reprieve",
@@ -19105,7 +19105,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-781-172",
-    "questionText": "Many Nigerians are <i>wary</i> of night journeys (JAMB 2005)",
+    "questionText": "Many Nigerians are <i>wary</i> of night journeys",
     "options": [
       "worried about",
       "unscarred of",
@@ -19117,7 +19117,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-782-73",
-    "questionText": "There was a <i>glut</i> of oil on the market (JAMB 2003)",
+    "questionText": "There was a <i>glut</i> of oil on the market",
     "options": [
       "an abundance of",
       "an increase in",
@@ -19129,7 +19129,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-783-851",
-    "questionText": "cou<u>gh</u>?  (JAMB 2002)",
+    "questionText": "cou<u>gh</u>?",
     "options": [
       "though",
       "thoroughly",
@@ -19141,7 +19141,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-784-845",
-    "questionText": "Didn't ......... draw your attention to the entry requirements? (JAMB 2002)",
+    "questionText": "Didn't ......... draw your attention to the entry requirements?",
     "options": [
       "anyone",
       "someone",
@@ -19153,7 +19153,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-785-946",
-    "questionText": "Jummai is <u>cruel</u> to her husband? (JAMB 2011)",
+    "questionText": "Jummai is <u>cruel</u> to her husband?",
     "options": [
       "harsh",
       "brutal",
@@ -19165,7 +19165,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-786-486",
-    "questionText": " Idris' <i>forbearance</i> endeared him to us  (JAMB 2009)",
+    "questionText": " Idris' <i>forbearance</i> endeared him to us",
     "options": [
       "hard work",
       "patience",
@@ -19177,7 +19177,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267562-787-99",
-    "questionText": "His supporters railed round him in moments of ………….. (JAMB 2004)",
+    "questionText": "His supporters railed round him in moments of …………..",
     "options": [
       "criticism",
       "Crisis",
@@ -19189,7 +19189,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-788-303",
-    "questionText": "We were warned not to indulge in <i>recriminations.</i> (JAMB 2007)",
+    "questionText": "We were warned not to indulge in <i>recriminations.</i>",
     "options": [
       "counter-charges",
       "indiscretions",
@@ -19201,7 +19201,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-789-171",
-    "questionText": "The dramatist provided as satisfactory <i>denouement</i>  to the play (JAMB 2005)",
+    "questionText": "The dramatist provided as satisfactory <i>denouement</i>  to the play",
     "options": [
       "audition",
       "climax",
@@ -19213,7 +19213,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-790-209",
-    "questionText": "g<u>uar</u>d (JAMB 2005)",
+    "questionText": "g<u>uar</u>d",
     "options": [
       "gourd",
       "guide",
@@ -19225,7 +19225,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-791-969",
-    "questionText": "Here is Mr. Odumusu who teaches English ....... in our school? (JAMB 2011)",
+    "questionText": "Here is Mr. Odumusu who teaches English ....... in our school?",
     "options": [
       "pronuntiation",
       "pronounciation",
@@ -19237,7 +19237,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-792-92",
-    "questionText": "No teacher of honour would subject his student to any form of …….. (JAMB 2004)",
+    "questionText": "No teacher of honour would subject his student to any form of ……..",
     "options": [
       "harassment",
       "Harassment",
@@ -19249,7 +19249,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-793-549",
-    "questionText": "The uniform makes the guards look  <i>absurd</i>   (JAMB 2010)",
+    "questionText": "The uniform makes the guards look  <i>absurd</i>",
     "options": [
       "dirty",
       "smart",
@@ -19261,7 +19261,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-794-227",
-    "questionText": "If he ……… for admission, I am sure he would succeed (JAMB 2006)",
+    "questionText": "If he ……… for admission, I am sure he would succeed",
     "options": [
       "will apply",
       "applied",
@@ -19273,7 +19273,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-795-1452",
-    "questionText": "In the novel, we learnt that (JAMB 2019)",
+    "questionText": "In the novel, we learnt that",
     "options": [
       "it pays to be diligent and hardworking",
       "beauty without character is nothing",
@@ -19285,7 +19285,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-796-1523",
-    "questionText": "He is loved for his <i>altruism</i> (JAMB 2018)",
+    "questionText": "He is loved for his <i>altruism</i>",
     "options": [
       "benevolence",
       "sincerity",
@@ -19297,7 +19297,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-797-794",
-    "questionText": "The permanent Secretary left his job under a <u>cloud</u>? (JAMB 2000)",
+    "questionText": "The permanent Secretary left his job under a <u>cloud</u>?",
     "options": [
       "on a cloudy day",
       "with a clear record",
@@ -19309,7 +19309,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-798-725",
-    "questionText": "Thund<u>er</u>?\n  (JAMB 2000)",
+    "questionText": "Thund<u>er</u>?\n",
     "options": [
       "prefer",
       "differ",
@@ -19321,7 +19321,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-799-1504",
-    "questionText": "The meeting was <u>cancelled</u> because of the convocation (JAMB 2018)",
+    "questionText": "The meeting was <u>cancelled</u> because of the convocation",
     "options": [
       "brought up",
       "called off",
@@ -19333,7 +19333,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-800-1668",
-    "questionText": "inoffensive (JAMB 2016)",
+    "questionText": "inoffensive",
     "options": [
       "inOFfensive",
       "inoffenSIVE",
@@ -19345,7 +19345,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-801-764",
-    "questionText": "The Governor told the chief that he was only on a <u>routine tour</u>? (JAMB 2000)",
+    "questionText": "The Governor told the chief that he was only on a <u>routine tour</u>?",
     "options": [
       "normal and regular visit",
       "unplanned encounter",
@@ -19357,7 +19357,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-802-1625",
-    "questionText": "The author uses the novel to portray some of the (JAMB 2016)",
+    "questionText": "The author uses the novel to portray some of the",
     "options": [
       "NGO's activities only",
       "environment conditions",
@@ -19369,7 +19369,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-803-1058",
-    "questionText": "We must not <u>foreclose</u> reconciliation as the purpose of his trip (JAMB 2012)",
+    "questionText": "We must not <u>foreclose</u> reconciliation as the purpose of his trip",
     "options": [
       "exclude",
       "consider",
@@ -19381,7 +19381,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-804-1176",
-    "questionText": "We have a family mutiny......our hands (JAMB 2013)",
+    "questionText": "We have a family mutiny......our hands",
     "options": [
       "on",
       "for",
@@ -19393,7 +19393,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-805-693",
-    "questionText": "While the hooligans exchanged blows, we looked <u>complacently</u>? (JAMB 2001)",
+    "questionText": "While the hooligans exchanged blows, we looked <u>complacently</u>?",
     "options": [
       "dejectedly",
       "sorrowfully",
@@ -19405,7 +19405,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-806-1374",
-    "questionText": "Okibe was rusticated for his [derogatory] remark about the principal (JAMB 2019)",
+    "questionText": "Okibe was rusticated for his [derogatory] remark about the principal",
     "options": [
       "complimentary",
       "unwarranted",
@@ -19417,7 +19417,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-807-514",
-    "questionText": "great (JAMB 2009)",
+    "questionText": "great",
     "options": [
       "creek",
       "crate",
@@ -19429,7 +19429,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-808-55",
-    "questionText": "My MOTHER served rice and fresh fish stew for dinner. (JAMB 2003)",
+    "questionText": "My MOTHER served rice and fresh fish stew for dinner.",
     "options": [
       "Did your mother serve rice and fresh fish stew for lunch?",
       "Who served rice and fresh fish stew for dinner?",
@@ -19441,7 +19441,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-809-543",
-    "questionText": "Aisha seems to feel  <i>ambivalent</i>  about her future (JAMB 2010)",
+    "questionText": "Aisha seems to feel  <i>ambivalent</i>  about her future",
     "options": [
       "decisive",
       "anxious",
@@ -19453,7 +19453,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-810-162",
-    "questionText": "The Principal was filled with <i>scorn</i>  when we gave  our reason for coming late (JAMB 2005)",
+    "questionText": "The Principal was filled with <i>scorn</i>  when we gave  our reason for coming late",
     "options": [
       "contempt",
       "sympathy",
@@ -19465,7 +19465,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-811-548",
-    "questionText": "We were all  <i>enthusiastic</i>  as we awaited the result of the election  (JAMB 2010)",
+    "questionText": "We were all  <i>enthusiastic</i>  as we awaited the result of the election",
     "options": [
       "bemused",
       "agitated",
@@ -19477,7 +19477,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-812-1079",
-    "questionText": "I wanted to know his political beliefs, so l asked him what........ (JAMB 2012)",
+    "questionText": "I wanted to know his political beliefs, so l asked him what........",
     "options": [
       "this was",
       "these are",
@@ -19489,7 +19489,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-813-499",
-    "questionText": "1 missed the match though it was shown on television on  two…….. nights.  (JAMB 2009)",
+    "questionText": "1 missed the match though it was shown on television on  two…….. nights.",
     "options": [
       "concurrent",
       "consistent",
@@ -19501,7 +19501,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-814-964",
-    "questionText": "Suara needn't come with us, .......? (JAMB 2011)",
+    "questionText": "Suara needn't come with us, .......?",
     "options": [
       "does she",
       "will she",
@@ -19513,7 +19513,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-815-1135",
-    "questionText": "I can't wait to becoming a mother', the new bride declared (JAMB 2013)",
+    "questionText": "I can't wait to becoming a mother', the new bride declared",
     "options": [
       "she is excited about motherhood",
       "She is not keen on becoming a mother",
@@ -19525,7 +19525,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-816-796",
-    "questionText": "It is surprising that this politician has now turned <u>renegade</u>? (JAMB 2000)",
+    "questionText": "It is surprising that this politician has now turned <u>renegade</u>?",
     "options": [
       "milliant",
       "corrupt",
@@ -19537,7 +19537,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-817-645",
-    "questionText": "The police came early enough to...... the bomb planted by the rioters. (JAMB 2001)",
+    "questionText": "The police came early enough to...... the bomb planted by the rioters.",
     "options": [
       "diffuse",
       "insulate",
@@ -19549,7 +19549,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-818-511",
-    "questionText": "  re<u>s</u>t (JAMB 2009)",
+    "questionText": "  re<u>s</u>t",
     "options": [
       "result",
       "show",
@@ -19561,7 +19561,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-819-1401",
-    "questionText": "The fact that Aliya wanted to be a pilot, then a musician, a songwriter, doctor and later a lawyer points to the (JAMB 2019)",
+    "questionText": "The fact that Aliya wanted to be a pilot, then a musician, a songwriter, doctor and later a lawyer points to the",
     "options": [
       "need for parents to choose a befitting career for their children",
       "reason that only passion can define one's career",
@@ -19573,7 +19573,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-820-509",
-    "questionText": " c<u>ou</u>ntry (JAMB 2009)",
+    "questionText": " c<u>ou</u>ntry",
     "options": [
       "worry",
       "courteous",
@@ -19585,7 +19585,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-821-795",
-    "questionText": "We intend to make the reception a <u>diurnal</u> event? (JAMB 2000)",
+    "questionText": "We intend to make the reception a <u>diurnal</u> event?",
     "options": [
       "a nightly",
       "a weekly",
@@ -19597,7 +19597,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-822-1673",
-    "questionText": "My house is a BUNGALOW (JAMB 2016)",
+    "questionText": "My house is a BUNGALOW",
     "options": [
       "Is my house a terrace ?",
       "was my house a bungalow?",
@@ -19609,7 +19609,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-823-314",
-    "questionText": "E<u>ngs</u>lish (JAMB 2007)",
+    "questionText": "E<u>ngs</u>lish",
     "options": [
       "end",
       "thin",
@@ -19621,7 +19621,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-824-215",
-    "questionText": "suburbanite (JAMB 2005)",
+    "questionText": "suburbanite",
     "options": [
       "SUburbanite",
       "suBURbanite",
@@ -19633,7 +19633,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-825-1783",
-    "questionText": "Joke gave Muhammad a <u>jaunty</u>  smile. (JAMB 2014)",
+    "questionText": "Joke gave Muhammad a <u>jaunty</u>  smile.",
     "options": [
       "A cheerful.",
       "A discouraging.",
@@ -19645,7 +19645,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-826-1263",
-    "questionText": "Who was the narrator of the life changer? (JAMB 2022)",
+    "questionText": "Who was the narrator of the life changer?",
     "options": [
       "Salma",
       "Ummi",
@@ -19657,7 +19657,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-827-211",
-    "questionText": "fi<u>l</u>m (JAMB 2005)",
+    "questionText": "fi<u>l</u>m",
     "options": [
       "salt",
       "walk",
@@ -19669,7 +19669,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-828-655",
-    "questionText": "<u>Ch</u>urch? (JAMB 2001)",
+    "questionText": "<u>Ch</u>urch?",
     "options": [
       "feature",
       "chauffeur",
@@ -19681,7 +19681,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-829-1709",
-    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nBreeze (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nBreeze",
     "options": [
       "stress",
       "chess",
@@ -19693,7 +19693,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-830-1483",
-    "questionText": "A[n]kle (JAMB 2019)",
+    "questionText": "A[n]kle",
     "options": [
       "Tongue",
       "New",
@@ -19705,7 +19705,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-831-1640",
-    "questionText": "Jumoke is fond of <i>carping</i> her sister (JAMB 2016)",
+    "questionText": "Jumoke is fond of <i>carping</i> her sister",
     "options": [
       "praising",
       "joking with",
@@ -19717,7 +19717,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-832-1529",
-    "questionText": "By the time the plane reaches Harare, it __________in the air for twelve hours (JAMB 2018)",
+    "questionText": "By the time the plane reaches Harare, it __________in the air for twelve hours",
     "options": [
       "has been",
       "would be",
@@ -19729,7 +19729,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-833-531",
-    "questionText": "The woman was mournful as her husband was found dead drunk   (JAMB 2010)",
+    "questionText": "The woman was mournful as her husband was found dead drunk",
     "options": [
       "She was sad because her husband was absolutely drunk",
       "She was apprehensive that her husband would drink again as soon as he recovered from the drunken stupor.",
@@ -19741,7 +19741,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-834-1030",
-    "questionText": "As an <u>idiot</u>, the boy is weak in class (JAMB 2012)",
+    "questionText": "As an <u>idiot</u>, the boy is weak in class",
     "options": [
       "a deviant",
       "an expert",
@@ -19753,7 +19753,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-835-107",
-    "questionText": "In many countries, democracy is ostensibly being practiced. (JAMB 2004)",
+    "questionText": "In many countries, democracy is ostensibly being practiced.",
     "options": [
       "democracy is indeed being practiced in many countries",
       "many countries have effective democracy.",
@@ -19765,7 +19765,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-836-1767",
-    "questionText": "My boss asked me to take my eyes off the ball. (JAMB 2014)",
+    "questionText": "My boss asked me to take my eyes off the ball.",
     "options": [
       "I should stop paying attention to what is most important.",
       "I should be focused when i am about to stay off football.",
@@ -19777,7 +19777,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-837-1653",
-    "questionText": "It is impossible to say whether ......Ola and her sister will be offered jobs by the firm. (JAMB 2016)",
+    "questionText": "It is impossible to say whether ......Ola and her sister will be offered jobs by the firm.",
     "options": [
       "both",
       "either",
@@ -19789,7 +19789,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-838-925",
-    "questionText": "Mrs. Adamu does all her work with more haste, less speed. (JAMB 2011)",
+    "questionText": "Mrs. Adamu does all her work with more haste, less speed.",
     "options": [
       "She accept whatever she does with more haste and speed",
       "She approaches whatever she does hurriedly",
@@ -19801,7 +19801,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-839-1720",
-    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nSh<u>oe</u> (JAMB 2015)",
+    "questionText": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nSh<u>oe</u>",
     "options": [
       "full",
       "food",
@@ -19813,7 +19813,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-840-670",
-    "questionText": "Some equatorial areas have a <u>sultry</u> climate? (JAMB 2001)",
+    "questionText": "Some equatorial areas have a <u>sultry</u> climate?",
     "options": [
       "a hot",
       "an inclement",
@@ -19825,7 +19825,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-841-1185",
-    "questionText": "rite (JAMB 2013)",
+    "questionText": "rite",
     "options": [
       "list",
       "wit",
@@ -19837,7 +19837,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-842-656",
-    "questionText": "Pas<u>t</u>? (JAMB 2001)",
+    "questionText": "Pas<u>t</u>?",
     "options": [
       "wrestle",
       "preached",
@@ -19849,7 +19849,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-843-577",
-    "questionText": "Western  education is one of the ... of colonial rule (JAMB 2010)",
+    "questionText": "Western  education is one of the ... of colonial rule",
     "options": [
       "legacies",
       "evidence",
@@ -19861,7 +19861,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-844-47",
-    "questionText": "The agency has sworn to deal  with all the <i>apostles</i>  of confederation  (JAMB 2003)",
+    "questionText": "The agency has sworn to deal  with all the <i>apostles</i>  of confederation",
     "options": [
       "opponents",
       "apostates",
@@ -19873,7 +19873,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-845-488",
-    "questionText": "He is really very mean. He…… not lend me the money I wanted.  (JAMB 2009)",
+    "questionText": "He is really very mean. He…… not lend me the money I wanted.",
     "options": [
       "should",
       "could",
@@ -19885,7 +19885,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-846-1690",
-    "questionText": "Who were the two people Seyi lawal and Jimi met coming out of the principal office? (JAMB 2015)",
+    "questionText": "Who were the two people Seyi lawal and Jimi met coming out of the principal office?",
     "options": [
       "Efua and her Mother",
       "Mr and Mrs Solade",
@@ -19897,7 +19897,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-847-1732",
-    "questionText": "Choose the option that best fills the gap.\n\nThey ------------------- our donation with thanks (JAMB 2015)",
+    "questionText": "Choose the option that best fills the gap.\n\nThey ------------------- our donation with thanks",
     "options": [
       "received",
       "receipt",
@@ -19909,7 +19909,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-848-1053",
-    "questionText": "Every human being is <u>vulnerable</u> to communicable diseases. (JAMB 2012)",
+    "questionText": "Every human being is <u>vulnerable</u> to communicable diseases.",
     "options": [
       "liable",
       "lifted",
@@ -19921,7 +19921,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-849-1421",
-    "questionText": "I abhor a <u>traitor</u> (JAMB 2019)",
+    "questionText": "I abhor a <u>traitor</u>",
     "options": [
       "fallacious person",
       "reveler of secrets",
@@ -19933,7 +19933,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-850-312",
-    "questionText": "Things may change soon, but at the moment our economic situation is <i>precarious.</i> (JAMB 2007)",
+    "questionText": "Things may change soon, but at the moment our economic situation is <i>precarious.</i>",
     "options": [
       "redeemable",
       "buoyant",
@@ -19945,7 +19945,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-851-1160",
-    "questionText": "The philanthropist devoted himself......the poor (JAMB 2013)",
+    "questionText": "The philanthropist devoted himself......the poor",
     "options": [
       "by helping",
       "to be helping",
@@ -19957,7 +19957,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-852-1377",
-    "questionText": "His many years of success in legal practice, .............. , didn't come out without challenges (JAMB 2019)",
+    "questionText": "His many years of success in legal practice, .............. , didn't come out without challenges",
     "options": [
       "but",
       "in spite of all",
@@ -19969,7 +19969,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-853-830",
-    "questionText": "Ali has been cured of his amnesia, he no longer suffers from ...... ? (JAMB 2002)",
+    "questionText": "Ali has been cured of his amnesia, he no longer suffers from ...... ?",
     "options": [
       "rounds of anxeity",
       "loss of memory",
@@ -19981,7 +19981,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-854-282",
-    "questionText": "gara<u>ge</u> (JAMB 2006)",
+    "questionText": "gara<u>ge</u>",
     "options": [
       "gear",
       "sure",
@@ -19993,7 +19993,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-855-941",
-    "questionText": "Laraba saw a <u>forlorn</u> little figure sitting outside the class? (JAMB 2011)",
+    "questionText": "Laraba saw a <u>forlorn</u> little figure sitting outside the class?",
     "options": [
       "wise and intelligent",
       "lonely and unhappy",
@@ -20005,7 +20005,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-856-1761",
-    "questionText": "The police are looking for the woman who farmed her children out to her neighbours. (JAMB 2014)",
+    "questionText": "The police are looking for the woman who farmed her children out to her neighbours.",
     "options": [
       "The police wanted the woman for allowing her children to destroy her neighbour's crops.",
       "The woman and her children are in the habit of working in neighbour's farms and the police are not well disposed to this.",
@@ -20017,7 +20017,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-857-119",
-    "questionText": "The flying Eagles put up a <i>plucky</i> defence against their opponents. (JAMB 2004)",
+    "questionText": "The flying Eagles put up a <i>plucky</i> defence against their opponents.",
     "options": [
       "strong",
       "weak",
@@ -20029,7 +20029,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-858-643",
-    "questionText": "The weather is probably ..... appealing for people who live in Jos ..... for foreigners? (JAMB 2001)",
+    "questionText": "The weather is probably ..... appealing for people who live in Jos ..... for foreigners?",
     "options": [
       "as / much as",
       "more / as",
@@ -20041,7 +20041,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-859-926",
-    "questionText": "She stopped her education as her uncle left her in the lurch? (JAMB 2011)",
+    "questionText": "She stopped her education as her uncle left her in the lurch?",
     "options": [
       "Her uncle deceived her",
       "Her uncle disinherited her",
@@ -20053,7 +20053,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-860-1140",
-    "questionText": "The relationship between the couple has been <u>frosty</u> (JAMB 2013)",
+    "questionText": "The relationship between the couple has been <u>frosty</u>",
     "options": [
       "Cordial",
       "Amenable",
@@ -20065,7 +20065,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-861-513",
-    "questionText": "sheer (JAMB 2009)",
+    "questionText": "sheer",
     "options": [
       "dear",
       "shirt",
@@ -20077,7 +20077,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267563-862-435",
-    "questionText": "w<u>ai</u> st  (JAMB 2008)",
+    "questionText": "w<u>ai</u> st",
     "options": [
       "fete",
       "says",
@@ -20089,7 +20089,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-863-1543",
-    "questionText": "choose the option that best completes the gap(s).\n\nI am not sure that all _____ well with John. (JAMB 2018)",
+    "questionText": "choose the option that best completes the gap(s).\n\nI am not sure that all _____ well with John.",
     "options": [
       "Were",
       "Is",
@@ -20101,7 +20101,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-864-824",
-    "questionText": "Musa has lived here for five years but he does not seem able to get over the enormously........ and elaborate rules that govern the society? (JAMB 2002)",
+    "questionText": "Musa has lived here for five years but he does not seem able to get over the enormously........ and elaborate rules that govern the society?",
     "options": [
       "adsurd",
       "bizarre",
@@ -20113,7 +20113,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-865-1727",
-    "questionText": "Each of the contestants --------------- a chance now (JAMB 2015)",
+    "questionText": "Each of the contestants --------------- a chance now",
     "options": [
       "has",
       "have",
@@ -20125,7 +20125,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-866-1545",
-    "questionText": "choose the option that best completes the gap(s). We look forward to _______ from you very soon. (JAMB 2018)",
+    "questionText": "choose the option that best completes the gap(s). We look forward to _______ from you very soon.",
     "options": [
       "Have heard",
       "Hear",
@@ -20137,7 +20137,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-867-1084",
-    "questionText": "<u>H</u>air (JAMB 2012)",
+    "questionText": "<u>H</u>air",
     "options": [
       "heir",
       "hour",
@@ -20149,7 +20149,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-868-856",
-    "questionText": "He is a <u>stringer</u> for a newspaper? (JAMB 2002)",
+    "questionText": "He is a <u>stringer</u> for a newspaper?",
     "options": [
       "a financier of",
       "an editor of",
@@ -20161,7 +20161,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-869-1271",
-    "questionText": "Who introduced the snail delicacy? (JAMB 2022)",
+    "questionText": "Who introduced the snail delicacy?",
     "options": [
       "Salma",
       "Ngozi",
@@ -20173,7 +20173,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-870-1305",
-    "questionText": "We ought to stay away ______ the robbers come back (JAMB 2022)",
+    "questionText": "We ought to stay away ______ the robbers come back",
     "options": [
       "provided",
       "should in case",
@@ -20185,7 +20185,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-871-1083",
-    "questionText": "Tan<u>g</u>erine (JAMB 2012)",
+    "questionText": "Tan<u>g</u>erine",
     "options": [
       "gear",
       "danger",
@@ -20197,7 +20197,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-872-761",
-    "questionText": "When I visited James I only gave him a congratulatory card on account of his promotion? (JAMB 2000)",
+    "questionText": "When I visited James I only gave him a congratulatory card on account of his promotion?",
     "options": [
       "The only person I visited was James and nobody else",
       "It was only James that I gave a congratulatory card to",
@@ -20209,7 +20209,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-873-1344",
-    "questionText": "You need to __________your points\n (JAMB 2020)",
+    "questionText": "You need to __________your points\n",
     "options": [
       "expanciate",
       "expaciate",
@@ -20221,7 +20221,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-874-485",
-    "questionText": " His <i>amnesia</i> has affected his career  (JAMB 2009)",
+    "questionText": " His <i>amnesia</i> has affected his career",
     "options": [
       "loss of focus",
       "loss of sight",
@@ -20233,7 +20233,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-875-169",
-    "questionText": "Manu is hard to convince because he is an <i>opinionated</i>  person (JAMB 2005)",
+    "questionText": "Manu is hard to convince because he is an <i>opinionated</i>  person",
     "options": [
       "an objective",
       "an imperative",
@@ -20245,7 +20245,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-876-1259",
-    "questionText": "What is Ummi's Occupation? (JAMB 2022)",
+    "questionText": "What is Ummi's Occupation?",
     "options": [
       "Trader",
       "Teacher",
@@ -20257,7 +20257,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-877-206",
-    "questionText": "It is African for a younger person to show……..to elders (JAMB 2005)",
+    "questionText": "It is African for a younger person to show……..to elders",
     "options": [
       "understanding",
       "indifference",
@@ -20269,7 +20269,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-878-570",
-    "questionText": "The principal said that he was pleased......... my effort. (JAMB 2010)",
+    "questionText": "The principal said that he was pleased......... my effort.",
     "options": [
       "on",
       "of",
@@ -20281,7 +20281,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-879-401",
-    "questionText": "Our teacher described Agbo's story as a <i>phantom</i> (JAMB 2008)",
+    "questionText": "Our teacher described Agbo's story as a <i>phantom</i>",
     "options": [
       "scary",
       "realistic",
@@ -20293,7 +20293,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-880-650",
-    "questionText": "The editor was not happy that the Nigerian press was hemmed ....... ? (JAMB 2001)",
+    "questionText": "The editor was not happy that the Nigerian press was hemmed ....... ?",
     "options": [
       "up",
       "over",
@@ -20305,7 +20305,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-881-157",
-    "questionText": "One thing I will not be complaining about in my new job is a lack of excitement (JAMB 2005)",
+    "questionText": "One thing I will not be complaining about in my new job is a lack of excitement",
     "options": [
       "The job is bad",
       "The job is exiting",
@@ -20317,7 +20317,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-882-641",
-    "questionText": "These villagers ....... to grow rice? (JAMB 2001)",
+    "questionText": "These villagers ....... to grow rice?",
     "options": [
       "used",
       "are used",
@@ -20329,7 +20329,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-883-1066",
-    "questionText": "...........a good leader must have two characteristics (JAMB 2012)",
+    "questionText": "...........a good leader must have two characteristics",
     "options": [
       "first and formost",
       "first and formust",
@@ -20341,7 +20341,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-884-1143",
-    "questionText": "The <u>plebs</u> can be found in every society of the world (JAMB 2013)",
+    "questionText": "The <u>plebs</u> can be found in every society of the world",
     "options": [
       "Elite",
       "Middle class",
@@ -20353,7 +20353,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-885-840",
-    "questionText": "The highly appreciative audience clapped ........ hands and showered ......... on the lecturer? (JAMB 2002)",
+    "questionText": "The highly appreciative audience clapped ........ hands and showered ......... on the lecturer?",
     "options": [
       "their /encomiums",
       "its / encomiums",
@@ -20365,7 +20365,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-886-1751",
-    "questionText": "What did papa Solade do after knowing that Wole and jimi still saw secretly? (JAMB 2015)",
+    "questionText": "What did papa Solade do after knowing that Wole and jimi still saw secretly?",
     "options": [
       "he flogged jimi",
       "he flogged wole",
@@ -20377,7 +20377,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-887-1125",
-    "questionText": "The civil war created business opportunities \nfor people like Owiocho because (JAMB 2013)",
+    "questionText": "The civil war created business opportunities \nfor people like Owiocho because",
     "options": [
       "he became the supplier of all essential commodities",
       "the Ibos were conscripted into the army",
@@ -20389,7 +20389,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-888-120",
-    "questionText": "The man who scare the girl was a bit <i>deranged</i> (JAMB 2004)",
+    "questionText": "The man who scare the girl was a bit <i>deranged</i>",
     "options": [
       "sane",
       "amorous",
@@ -20401,7 +20401,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-889-731",
-    "questionText": "QUALITY? (JAMB 2000)",
+    "questionText": "QUALITY?",
     "options": [
       "guarantee",
       "accepted",
@@ -20413,7 +20413,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-890-535",
-    "questionText": "His father surmounted the  <i>myriad</i>  of obstacles on his way  (JAMB 2010)",
+    "questionText": "His father surmounted the  <i>myriad</i>  of obstacles on his way",
     "options": [
       "most",
       "few",
@@ -20425,7 +20425,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-891-1449",
-    "questionText": "The stereotypical act in the book centres (JAMB 2019)",
+    "questionText": "The stereotypical act in the book centres",
     "options": [
       "terrorism",
       "religious intolerance",
@@ -20437,7 +20437,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-892-1706",
-    "questionText": "In three words, describe the principal ( Mr. Mallum) as described in the novel. (JAMB 2015)",
+    "questionText": "In three words, describe the principal ( Mr. Mallum) as described in the novel.",
     "options": [
       "small, wiry and spoke through his nose",
       "fat, smooth-cheeked and loved his job",
@@ -20449,7 +20449,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-893-842",
-    "questionText": "The quality of your questions which ....... always attracted attention ....... never been in doubt. (JAMB 2002)",
+    "questionText": "The quality of your questions which ....... always attracted attention ....... never been in doubt.",
     "options": [
       "have / has",
       "have / have",
@@ -20461,7 +20461,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-894-239",
-    "questionText": "Everybody is allowed to ………. his views on state matters  (JAMB 2006)",
+    "questionText": "Everybody is allowed to ………. his views on state matters",
     "options": [
       "Air",
       "hear",
@@ -20473,7 +20473,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-895-843",
-    "questionText": "He is ....... Kaduna ......... an official assignment? (JAMB 2002)",
+    "questionText": "He is ....... Kaduna ......... an official assignment?",
     "options": [
       "in / on",
       "at / in",
@@ -20485,7 +20485,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-896-1613",
-    "questionText": "At the end of term in Forcados High School. Nene was saddled with the responsibility of (JAMB 2016)",
+    "questionText": "At the end of term in Forcados High School. Nene was saddled with the responsibility of",
     "options": [
       "leading her house in the race",
       "packaging the gifts for presentation",
@@ -20497,7 +20497,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-897-243",
-    "questionText": "Genealogy  (JAMB 2006)",
+    "questionText": "Genealogy",
     "options": [
       "GeneaLOGY",
       "geneAlogy",
@@ -20509,7 +20509,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-898-1553",
-    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  Father Francis thanked God for the <i>abundance</i> of blessings his family received (JAMB 2018)",
+    "questionText": "choose the option opposite in meaning to the word(s) in italics.\n\n  Father Francis thanked God for the <i>abundance</i> of blessings his family received",
     "options": [
       "Nature",
       "Quantity",
@@ -20521,7 +20521,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-899-20",
-    "questionText": "Idakwo ran……………. miss the train (JAMB 2003)",
+    "questionText": "Idakwo ran……………. miss the train",
     "options": [
       "lest he may",
       "lest ha should",
@@ -20533,7 +20533,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-900-1597",
-    "questionText": "Choose the option nearest in meaning to the word or phrase in italics\n\nThe children received gifts from <i>doting</i> parents (JAMB 2017)",
+    "questionText": "Choose the option nearest in meaning to the word or phrase in italics\n\nThe children received gifts from <i>doting</i> parents",
     "options": [
       "nagging",
       "loving",
@@ -20545,7 +20545,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-901-1634",
-    "questionText": "These job cuts are just the thin end of the wedge (JAMB 2016)",
+    "questionText": "These job cuts are just the thin end of the wedge",
     "options": [
       "Job cuts are very rampant",
       "Job cuts are the inconclusive",
@@ -20557,7 +20557,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-902-79",
-    "questionText": "One needs to exemplify or ………. the aspect of the subject being discussed (JAMB 2004)",
+    "questionText": "One needs to exemplify or ………. the aspect of the subject being discussed",
     "options": [
       "supply",
       "declare",
@@ -20569,7 +20569,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-903-1412",
-    "questionText": "Jide couldn't have said that. This means that Jide (JAMB 2019)",
+    "questionText": "Jide couldn't have said that. This means that Jide",
     "options": [
       "ought not say that",
       "will not say that",
@@ -20581,7 +20581,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-904-279",
-    "questionText": "s<u>ay</u>s (JAMB 2006)",
+    "questionText": "s<u>ay</u>s",
     "options": [
       "fierce",
       "dam",
@@ -20593,7 +20593,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-905-1333",
-    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n\n \n\nCriticism (JAMB 2020)",
+    "questionText": "From the words lettered A to D, choose the one that has the correct stress\n\n \n\nCriticism",
     "options": [
       "cri-ti-ci-SM",
       "cri-ti-CI-sm",
@@ -20605,7 +20605,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-906-1416",
-    "questionText": "If he had spoken up, he wouldn't have been given. This means that (JAMB 2019)",
+    "questionText": "If he had spoken up, he wouldn't have been given. This means that",
     "options": [
       "he spoke up and was given",
       "he wasn't given because he spoke up",
@@ -20617,7 +20617,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-907-554",
-    "questionText": "Thousands of workers have been victims of  <i>retrenchment</i>  since the military came back to power. (JAMB 2010)",
+    "questionText": "Thousands of workers have been victims of  <i>retrenchment</i>  since the military came back to power.",
     "options": [
       "unemployment",
       "trench mentality",
@@ -20629,7 +20629,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-908-1694",
-    "questionText": "I have the ---------- of meeting him (JAMB 2015)",
+    "questionText": "I have the ---------- of meeting him",
     "options": [
       "previlege",
       "privilege",
@@ -20641,7 +20641,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-909-758",
-    "questionText": "Raffle draws like gambling often end in a ....... for me? (JAMB 2000)",
+    "questionText": "Raffle draws like gambling often end in a ....... for me?",
     "options": [
       "lost",
       "loss",
@@ -20653,7 +20653,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-910-67",
-    "questionText": "He shared his room with a person whose behaviour was quite <i>nauseating</i>  (JAMB 2003)",
+    "questionText": "He shared his room with a person whose behaviour was quite <i>nauseating</i>",
     "options": [
       "disgusting",
       "disrespectful",
@@ -20665,7 +20665,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-911-54",
-    "questionText": "The President SPOKE to the press  (JAMB 2003)",
+    "questionText": "The President SPOKE to the press",
     "options": [
       "Did the Present write to the press?",
       "Did the president speak to the press?",
@@ -20677,7 +20677,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-912-1169",
-    "questionText": "Yours is to command.....is to obey (JAMB 2013)",
+    "questionText": "Yours is to command.....is to obey",
     "options": [
       "theirs'",
       "their's",
@@ -20689,7 +20689,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-913-584",
-    "questionText": "r<u>oa</u>red  (JAMB 2010)",
+    "questionText": "r<u>oa</u>red",
     "options": [
       "towered",
       "coast",
@@ -20701,7 +20701,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-914-1786",
-    "questionText": "They accused him of <u>fomenting</u>  political unrest. (JAMB 2014)",
+    "questionText": "They accused him of <u>fomenting</u>  political unrest.",
     "options": [
       "Guiding.",
       "Inciting.",
@@ -20713,7 +20713,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-915-1557",
-    "questionText": "High mortality rate is becoming increasingly <i>predominant</i>. (JAMB 2018)",
+    "questionText": "High mortality rate is becoming increasingly <i>predominant</i>.",
     "options": [
       "Controlled",
       "Rampant",
@@ -20725,7 +20725,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-916-1812",
-    "questionText": "P<u>a</u>lm. (JAMB 2014)",
+    "questionText": "P<u>a</u>lm.",
     "options": [
       "Plait.",
       "Ranch.",
@@ -20737,7 +20737,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-917-12",
-    "questionText": "I can't stand people prying into my private life. 'Ladi said '………… agree Agbenu (JAMB 2003)",
+    "questionText": "I can't stand people prying into my private life. 'Ladi said '………… agree Agbenu",
     "options": [
       "Me too",
       "Likewise myself",
@@ -20749,7 +20749,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-918-66",
-    "questionText": "Before announcing his retirement, Ochima resolved to <i>settle an account with</i> the bank. (JAMB 2003)",
+    "questionText": "Before announcing his retirement, Ochima resolved to <i>settle an account with</i> the bank.",
     "options": [
       "get back at",
       "pay back all he owes",
@@ -20761,7 +20761,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-919-726",
-    "questionText": "T<u>ea</u>r?\n\n.  (JAMB 2000)",
+    "questionText": "T<u>ea</u>r?\n\n.",
     "options": [
       "dare",
       "care",
@@ -20773,7 +20773,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-920-266",
-    "questionText": "The commander said that the battle would be sustained, total and <i>relentless</i> (JAMB 2006)",
+    "questionText": "The commander said that the battle would be sustained, total and <i>relentless</i>",
     "options": [
       "continuous",
       "brutal",
@@ -20785,7 +20785,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-921-360",
-    "questionText": "Kola was fined; ……….. thieves were given a jail sentence. (JAMB 2007)",
+    "questionText": "Kola was fined; ……….. thieves were given a jail sentence.",
     "options": [
       "the rest of the",
       "rest",
@@ -20797,7 +20797,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-922-1559",
-    "questionText": "Select the option that best explains the information conveyed in the sentence.\n\n  Grandma told the boys a story that cheered them up. (JAMB 2018)",
+    "questionText": "Select the option that best explains the information conveyed in the sentence.\n\n  Grandma told the boys a story that cheered them up.",
     "options": [
       "The story made them cry.",
       "The story made them scared.",
@@ -20809,7 +20809,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-923-1451",
-    "questionText": "Aliya was advised to be mindless of popular perception about her… (JAMB 2019)",
+    "questionText": "Aliya was advised to be mindless of popular perception about her…",
     "options": [
       "when it comes to her self esteem",
       "when it comes to applying",
@@ -20821,7 +20821,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-924-269",
-    "questionText": "His discovery of the vaccine became a <i>quantum leap</i> in the search for a scientific cure for the illness (JAMB 2006)",
+    "questionText": "His discovery of the vaccine became a <i>quantum leap</i> in the search for a scientific cure for the illness",
     "options": [
       "victorious battle",
       "slow but steady step",
@@ -20833,7 +20833,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-925-1167",
-    "questionText": "All farmers were encouraged ......carry out fumigation on their farms (JAMB 2013)",
+    "questionText": "All farmers were encouraged ......carry out fumigation on their farms",
     "options": [
       "in",
       "with",
@@ -20845,7 +20845,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-926-163",
-    "questionText": "After fifty years, he could not find anyone who was <i>contemporary</i> with him at college (JAMB 2005)",
+    "questionText": "After fifty years, he could not find anyone who was <i>contemporary</i> with him at college",
     "options": [
       "strange to",
       "friendly with",
@@ -20857,7 +20857,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-927-1422",
-    "questionText": "Choose the word with the same vowel sound as the one in bracket\n\nCacoph[o]ny (JAMB 2019)",
+    "questionText": "Choose the word with the same vowel sound as the one in bracket\n\nCacoph[o]ny",
     "options": [
       "Sole",
       "sun",
@@ -20869,7 +20869,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-928-1546",
-    "questionText": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The French classes were always funny because we considered French a <i>strange</i> tongue. (JAMB 2018)",
+    "questionText": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The French classes were always funny because we considered French a <i>strange</i> tongue.",
     "options": [
       "Awkward",
       "Foreign",
@@ -20881,7 +20881,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-929-1351",
-    "questionText": "Many countries no longer have _______ punishment as the penalty for murder (JAMB 2020)",
+    "questionText": "Many countries no longer have _______ punishment as the penalty for murder",
     "options": [
       "mortal",
       "corporal",
@@ -20893,7 +20893,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-930-1369",
-    "questionText": "The policies of this government favour the <u>elite</u> rather than the _______________ (JAMB 2020)",
+    "questionText": "The policies of this government favour the <u>elite</u> rather than the _______________",
     "options": [
       "masses",
       "oppressed",
@@ -20905,7 +20905,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-931-1340",
-    "questionText": "Before I arrived, the choir _______ the hymn (JAMB 2020)",
+    "questionText": "Before I arrived, the choir _______ the hymn",
     "options": [
       "have sing",
       "has sing",
@@ -20917,7 +20917,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-932-1623",
-    "questionText": "Jimi and Efua, there's something fishy going on there....\nFrom the exercept above, the expression...something fishy refers to (JAMB 2016)",
+    "questionText": "Jimi and Efua, there's something fishy going on there....\nFrom the exercept above, the expression...something fishy refers to",
     "options": [
       "Nene's fear that Efua and Jimi were no longer going out",
       "Nene's fear that Jimi was not determined to jilt Efua",
@@ -20929,7 +20929,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-933-300",
-    "questionText": "The police are not happy with the growing number of <i>depraved</i> people around the politician. (JAMB 2007)",
+    "questionText": "The police are not happy with the growing number of <i>depraved</i> people around the politician.",
     "options": [
       "violent",
       "immoral",
@@ -20941,7 +20941,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-934-1273",
-    "questionText": "It might be said that there is some kind of sibling rivalry between (JAMB 2022)",
+    "questionText": "It might be said that there is some kind of sibling rivalry between",
     "options": [
       "Teemah and Bint",
       "Teemah and Omar",
@@ -20953,7 +20953,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-935-1187",
-    "questionText": "Call (JAMB 2013)",
+    "questionText": "Call",
     "options": [
       "wall",
       "quail",
@@ -20965,7 +20965,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-936-1302",
-    "questionText": "The secretary and treasurer did not do ____ job. (JAMB 2022)",
+    "questionText": "The secretary and treasurer did not do ____ job.",
     "options": [
       "their",
       "all of the above",
@@ -20977,7 +20977,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-937-1560",
-    "questionText": "choose the option that best completes the gap.\n\n  The cliff is popularly known for ___________ morning beauty. (JAMB 2018)",
+    "questionText": "choose the option that best completes the gap.\n\n  The cliff is popularly known for ___________ morning beauty.",
     "options": [
       "It",
       "It’s",
@@ -20989,7 +20989,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-938-136",
-    "questionText": "It is a <i>misnomer</i> to call three thousand naira a living wage. (JAMB 2004)",
+    "questionText": "It is a <i>misnomer</i> to call three thousand naira a living wage.",
     "options": [
       "an incontrovertible assertion",
       "an appropriate term",
@@ -21001,7 +21001,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-939-1081",
-    "questionText": "Vill<u>a</a>ge (JAMB 2012)",
+    "questionText": "Vill<u>a</a>ge",
     "options": [
       "page",
       "pig",
@@ -21013,7 +21013,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-940-2",
-    "questionText": "The reason why he was not offered admission was …………… his results could not be found. (JAMB 2003)",
+    "questionText": "The reason why he was not offered admission was …………… his results could not be found.",
     "options": [
       "that",
       "when",
@@ -21025,7 +21025,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-941-1747",
-    "questionText": "For taking part in the unsuccessful ------------------, the mutineers were court-martialed (JAMB 2015)",
+    "questionText": "For taking part in the unsuccessful ------------------, the mutineers were court-martialed",
     "options": [
       "coope",
       "copes",
@@ -21037,7 +21037,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-942-352",
-    "questionText": "The team has benefitted from the coach's ………. of experience.  (JAMB 2007)",
+    "questionText": "The team has benefitted from the coach's ………. of experience.",
     "options": [
       "minefield",
       "reservoir",
@@ -21049,7 +21049,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-943-1400",
-    "questionText": "It may be argued that Chapter Two is titled, \"The Drive\" particularly because...? (JAMB 2019)",
+    "questionText": "It may be argued that Chapter Two is titled, \"The Drive\" particularly because...?",
     "options": [
       "of the social disparity between the rich and the poor which is unlikely to end",
       "Aliya's father drove her home from the boarding house",
@@ -21061,7 +21061,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-944-646",
-    "questionText": "..... told of his impending arrival, I worked hard to make his short stay very comfortable? (JAMB 2001)",
+    "questionText": "..... told of his impending arrival, I worked hard to make his short stay very comfortable?",
     "options": [
       "Have being",
       "Have been",
@@ -21073,7 +21073,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-945-1077",
-    "questionText": "_______your parents frown _______our friendship, we shouldn't see each other anymore (JAMB 2012)",
+    "questionText": "_______your parents frown _______our friendship, we shouldn't see each other anymore",
     "options": [
       "because/over",
       "since/at",
@@ -21085,7 +21085,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-946-93",
-    "questionText": "Each producer  is able to place a price on his product by considering its………… (JAMB 2004)",
+    "questionText": "Each producer  is able to place a price on his product by considering its…………",
     "options": [
       "worth",
       "choice",
@@ -21097,7 +21097,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-947-423",
-    "questionText": "He brought a  ……… against his neighbour. (JAMB 2008)",
+    "questionText": "He brought a  ……… against his neighbour.",
     "options": [
       "complaint",
       "complains",
@@ -21109,7 +21109,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-948-1763",
-    "questionText": "The president said that he found himself between a rock and a hard place when the press said that he has resigned. (JAMB 2014)",
+    "questionText": "The president said that he found himself between a rock and a hard place when the press said that he has resigned.",
     "options": [
       "Hard places are dangerous for the president.",
       "He dreamt that he was abandoned.",
@@ -21121,7 +21121,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-949-1064",
-    "questionText": "His many years of success in legal practice,…... didn’t come without challenges.\n (JAMB 2012)",
+    "questionText": "His many years of success in legal practice,…... didn’t come without challenges.\n",
     "options": [
       "indeed",
       "but",
@@ -21133,7 +21133,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-950-81",
-    "questionText": "After so many trials, the experiment…………. (JAMB 2004)",
+    "questionText": "After so many trials, the experiment………….",
     "options": [
       "paid up",
       "paid for",
@@ -21145,7 +21145,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-951-928",
-    "questionText": "Okon's company took a hit last year? (JAMB 2011)",
+    "questionText": "Okon's company took a hit last year?",
     "options": [
       "His company improved last year",
       "His company made a huge success last year",
@@ -21157,7 +21157,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-952-118",
-    "questionText": "My father’s presentation was rather <i>causal</i> (JAMB 2004)",
+    "questionText": "My father’s presentation was rather <i>causal</i>",
     "options": [
       "formal",
       "vital",
@@ -21169,7 +21169,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-953-345",
-    "questionText": "The idle steward could not see ....... on the wall, and he lost his job. (JAMB 2007)",
+    "questionText": "The idle steward could not see ....... on the wall, and he lost his job.",
     "options": [
       "the writing",
       "what will be written",
@@ -21181,7 +21181,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-954-1082",
-    "questionText": "P<u>a</u>tch (JAMB 2012)",
+    "questionText": "P<u>a</u>tch",
     "options": [
       "starch",
       "fare",
@@ -21193,7 +21193,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-955-877",
-    "questionText": "He travelled ONLY 20 kilometres before his car stopped? (JAMB 2002)",
+    "questionText": "He travelled ONLY 20 kilometres before his car stopped?",
     "options": [
       "Did he travel only 20 kilometres after his car stopped?",
       "Did he travel exactly 20 kilometres before his car stopped?",
@@ -21205,7 +21205,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-956-286",
-    "questionText": "That little boy has become quite <i>chubby</i> (JAMB 2006)",
+    "questionText": "That little boy has become quite <i>chubby</i>",
     "options": [
       "thin",
       "intelligent",
@@ -21217,7 +21217,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-957-1638",
-    "questionText": "It is important not to let mistakes <i>blight</i>  your life (JAMB 2016)",
+    "questionText": "It is important not to let mistakes <i>blight</i>  your life",
     "options": [
       "damage",
       "impart",
@@ -21229,7 +21229,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-958-931",
-    "questionText": "Lantana <u>dwelt</u> in a ruined cottage on the hillside? (JAMB 2011)",
+    "questionText": "Lantana <u>dwelt</u> in a ruined cottage on the hillside?",
     "options": [
       "sat",
       "worked",
@@ -21241,7 +21241,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-959-202",
-    "questionText": "The man is refurbishing the flat with a view to ……. it. (JAMB 2005)",
+    "questionText": "The man is refurbishing the flat with a view to ……. it.",
     "options": [
       "sell",
       "selling",
@@ -21253,7 +21253,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-960-1094",
-    "questionText": "The cat DEVOURED the rat (JAMB 2012)",
+    "questionText": "The cat DEVOURED the rat",
     "options": [
       "did the rat devour the cat?",
       "what devoured the rat?",
@@ -21265,7 +21265,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-961-779",
-    "questionText": "It is time for all concerned to first <u>pick to pieces</u> the strike action before proffering solutions?  (JAMB 2000)",
+    "questionText": "It is time for all concerned to first <u>pick to pieces</u> the strike action before proffering solutions?",
     "options": [
       "embrace joyfully",
       "critically analyse",
@@ -21277,7 +21277,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-962-659",
-    "questionText": "The lecture seemed <u>interminable</u>? (JAMB 2001)",
+    "questionText": "The lecture seemed <u>interminable</u>?",
     "options": [
       "unending",
       "boring",
@@ -21289,7 +21289,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-963-402",
-    "questionText": "I find the way she approaches her customers quite <i>repugnant</i>  (JAMB 2008)",
+    "questionText": "I find the way she approaches her customers quite <i>repugnant</i>",
     "options": [
       "unpleasant",
       "attractive.",
@@ -21301,7 +21301,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-964-630",
-    "questionText": "Modern dancing has become rather scientific and so requires .......? (JAMB 2001)",
+    "questionText": "Modern dancing has become rather scientific and so requires .......?",
     "options": [
       "bizzarre costuming",
       "some choreographic skill",
@@ -21313,7 +21313,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-965-1654",
-    "questionText": "He decided to wait for the bus because he had.......... (JAMB 2016)",
+    "questionText": "He decided to wait for the bus because he had..........",
     "options": [
       "many luggages",
       "plenty luggages",
@@ -21325,7 +21325,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-966-349",
-    "questionText": "The rain fell for days...  (JAMB 2007)",
+    "questionText": "The rain fell for days...",
     "options": [
       "on ending",
       "at ending",
@@ -21337,7 +21337,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-967-1190",
-    "questionText": "information (JAMB 2013)",
+    "questionText": "information",
     "options": [
       "information",
       "information",
@@ -21349,7 +21349,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-968-1218",
-    "questionText": "The office assistant was dismissed for <u>pilfering</u> (JAMB 2021)",
+    "questionText": "The office assistant was dismissed for <u>pilfering</u>",
     "options": [
       "fighting",
       "incompetence",
@@ -21361,7 +21361,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-969-1170",
-    "questionText": "Local governments are authorized to pass (JAMB 2013)",
+    "questionText": "Local governments are authorized to pass",
     "options": [
       "bye laws",
       "byes-laws",
@@ -21373,7 +21373,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-970-1510",
-    "questionText": "The new ruler is <u>big-hearted</u> in his dealing with the people (JAMB 2018)",
+    "questionText": "The new ruler is <u>big-hearted</u> in his dealing with the people",
     "options": [
       "proud",
       "cruel",
@@ -21385,7 +21385,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-971-586",
-    "questionText": "<u>h</u>igh  (JAMB 2010)",
+    "questionText": "<u>h</u>igh",
     "options": [
       "what",
       "honest",
@@ -21397,7 +21397,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-972-1781",
-    "questionText": "Today's weather is <u>favourable</u> for a game of tennis. (JAMB 2014)",
+    "questionText": "Today's weather is <u>favourable</u> for a game of tennis.",
     "options": [
       "Disapproving.",
       "Impartial.",
@@ -21409,7 +21409,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-973-1454",
-    "questionText": "As it relates to sex education, Aliya's father advised that (JAMB 2019)",
+    "questionText": "As it relates to sex education, Aliya's father advised that",
     "options": [
       "she should abstain totally from sex as this is the worst sin ever in the history of human civilisation",
       "she should wisely decide before letting go of her body",
@@ -21421,7 +21421,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-974-72",
-    "questionText": "The nurse was in favour of <i>voluntary eutheanasia</i> (JAMB 2003)",
+    "questionText": "The nurse was in favour of <i>voluntary eutheanasia</i>",
     "options": [
       "a sleeping pill",
       "a major operation",
@@ -21433,7 +21433,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-975-668",
-    "questionText": "It isinconceivable that the rat devoured the cat? (JAMB 2001)",
+    "questionText": "It isinconceivable that the rat devoured the cat?",
     "options": [
       "contestable",
       "incomprehensible",
@@ -21445,7 +21445,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-976-983",
-    "questionText": "Presti<u>ge</u>? (JAMB 2011)",
+    "questionText": "Presti<u>ge</u>?",
     "options": [
       "bag",
       "badge",
@@ -21457,7 +21457,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-977-695",
-    "questionText": "The player kept on <u>gamely</u> to the end of the match? (JAMB 2001)",
+    "questionText": "The player kept on <u>gamely</u> to the end of the match?",
     "options": [
       "amateurishly",
       "skilfully",
@@ -21469,7 +21469,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-978-462",
-    "questionText": "Life has become a <i>misery</i> for many owing to the harsh economic condition in the country (JAMB 2009)",
+    "questionText": "Life has become a <i>misery</i> for many owing to the harsh economic condition in the country",
     "options": [
       "drudgery",
       "ridicule",
@@ -21481,7 +21481,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-979-374",
-    "questionText": "Thanks to that phone call, I was able to obtain the visa, (JAMB 2008)",
+    "questionText": "Thanks to that phone call, I was able to obtain the visa,",
     "options": [
       "in spite of that phone call, I obtained the vist",
       "It was because of that phone call that the visa",
@@ -21493,7 +21493,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-980-1032",
-    "questionText": "The principal was advised to be <u>flexible</u> on critical issues. (JAMB 2012)",
+    "questionText": "The principal was advised to be <u>flexible</u> on critical issues.",
     "options": [
       "livid",
       "cautious",
@@ -21505,7 +21505,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-981-536",
-    "questionText": "Her  <i>ingenuous</i>  smile drew our attention  (JAMB 2010)",
+    "questionText": "Her  <i>ingenuous</i>  smile drew our attention",
     "options": [
       "witty",
       "naive",
@@ -21517,7 +21517,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-982-323",
-    "questionText": "The police demanded a <i>factual</i> account of the accident (JAMB 2007)",
+    "questionText": "The police demanded a <i>factual</i> account of the accident",
     "options": [
       "a supportive",
       "an uncorroborated",
@@ -21529,7 +21529,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-983-3",
-    "questionText": "Course………….  writers are to reflect local colour (JAMB 2003)",
+    "questionText": "Course………….  writers are to reflect local colour",
     "options": [
       "material's",
       "materials'",
@@ -21541,7 +21541,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-984-945",
-    "questionText": "His father served as a <u>mercenary</u> in the army? (JAMB 2011)",
+    "questionText": "His father served as a <u>mercenary</u> in the army?",
     "options": [
       "preacher",
       "regular",
@@ -21553,7 +21553,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-985-186",
-    "questionText": "His <i>taciturnity</i> amaze everyone in one court during the legal tussle (JAMB 2005)",
+    "questionText": "His <i>taciturnity</i> amaze everyone in one court during the legal tussle",
     "options": [
       "obliviousness",
       "reticence",
@@ -21565,7 +21565,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-986-1088",
-    "questionText": "Imperialism\n (JAMB 2012)",
+    "questionText": "Imperialism\n",
     "options": [
       "<u>IM</u>perialism",
       "im<u>PE</u>rialism",
@@ -21577,7 +21577,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-987-766",
-    "questionText": "The principal told the teacher to stop <u>browbeating</u> the children?  (JAMB 2000)",
+    "questionText": "The principal told the teacher to stop <u>browbeating</u> the children?",
     "options": [
       "pampering",
       "bullying",
@@ -21589,7 +21589,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-988-1495",
-    "questionText": "After so many trials, the experiment __________ (JAMB 2018)",
+    "questionText": "After so many trials, the experiment __________",
     "options": [
       "paid up",
       "paid for",
@@ -21601,7 +21601,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-989-835",
-    "questionText": "These ........ must have ........ the World Bank officials? (JAMB 2002)",
+    "questionText": "These ........ must have ........ the World Bank officials?",
     "options": [
       "analyses / attract",
       "analyses / attracted",
@@ -21613,7 +21613,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-990-1650",
-    "questionText": ".........rich has its own problem (JAMB 2016)",
+    "questionText": ".........rich has its own problem",
     "options": [
       "Being",
       "Been",
@@ -21625,7 +21625,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-991-986",
-    "questionText": "Match? (JAMB 2011)",
+    "questionText": "Match?",
     "options": [
       "harsh",
       "batch",
@@ -21637,7 +21637,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-992-193",
-    "questionText": "I was often angry …… Oche since he differed…   me often (JAMB 2005)",
+    "questionText": "I was often angry …… Oche since he differed…   me often",
     "options": [
       "with/to",
       "about/with",
@@ -21649,7 +21649,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-993-445",
-    "questionText": "xenophobia    (JAMB 2008)",
+    "questionText": "xenophobia",
     "options": [
       "XEndphobia",
       "xeNOphobia",
@@ -21661,7 +21661,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-994-1174",
-    "questionText": "Our teacher defined.......as the killing of one's mother (JAMB 2013)",
+    "questionText": "Our teacher defined.......as the killing of one's mother",
     "options": [
       "materiarch",
       "patricide",
@@ -21673,7 +21673,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-995-1536",
-    "questionText": "Now, I am used ____________ bread without butter (JAMB 2018)",
+    "questionText": "Now, I am used ____________ bread without butter",
     "options": [
       "to eat",
       "in eating",
@@ -21685,7 +21685,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-996-411",
-    "questionText": "The union officials suddenly became <i>reactive</i> (JAMB 2008)",
+    "questionText": "The union officials suddenly became <i>reactive</i>",
     "options": [
       "unruly",
       "impatient",
@@ -21697,7 +21697,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-997-1247",
-    "questionText": " Cr<u>ee</u>p (JAMB 2021)",
+    "questionText": " Cr<u>ee</u>p",
     "options": [
       "beep",
       "bring",
@@ -21709,7 +21709,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-998-521",
-    "questionText": "My father READ the newspaper. (JAMB 2009)",
+    "questionText": "My father READ the newspaper.",
     "options": [
       "Did my father steal the newspaper?",
       "Who read the newspaper?",
@@ -21721,7 +21721,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-999-563",
-    "questionText": "He can recall the important dates in the nation's history; it is interesting to listen as he rattles……. (JAMB 2010)",
+    "questionText": "He can recall the important dates in the nation's history; it is interesting to listen as he rattles…….",
     "options": [
       "off",
       "over",
@@ -21733,7 +21733,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1000-123",
-    "questionText": "The noise of the fan <i>unnerved</i>  the star player. (JAMB 2004)",
+    "questionText": "The noise of the fan <i>unnerved</i>  the star player.",
     "options": [
       "refreshed",
       "confused",
@@ -21745,7 +21745,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1001-865",
-    "questionText": "The teacher's apparent nonchalant attitude was <u>misconstrued</u> by his students? (JAMB 2002)",
+    "questionText": "The teacher's apparent nonchalant attitude was <u>misconstrued</u> by his students?",
     "options": [
       "condoned",
       "misrepresented",
@@ -21757,7 +21757,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1002-1616",
-    "questionText": "Mama Shilifat had an affection for Jimi because she always gave him (JAMB 2016)",
+    "questionText": "Mama Shilifat had an affection for Jimi because she always gave him",
     "options": [
       "money to buy chewing gum",
       "advice against bad students",
@@ -21769,7 +21769,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1003-1179",
-    "questionText": "L<u>au</u>d (JAMB 2013)",
+    "questionText": "L<u>au</u>d",
     "options": [
       "lathe",
       "core",
@@ -21781,7 +21781,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1004-1171",
-    "questionText": "Umar: I have never visted the dentist\nAliyu: ......? (JAMB 2013)",
+    "questionText": "Umar: I have never visted the dentist\nAliyu: ......?",
     "options": [
       "neither myself",
       "i myself haven't",
@@ -21793,7 +21793,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1005-528",
-    "questionText": "As regards the matter, we have crossed the rubicon (JAMB 2010)",
+    "questionText": "As regards the matter, we have crossed the rubicon",
     "options": [
       "We are completely at a toss",
       "We are irrevocably committed",
@@ -21805,7 +21805,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1006-532",
-    "questionText": "I am optimistic about the Interview though It was a <i>mind- bending</i>  exercise,  (JAMB 2010)",
+    "questionText": "I am optimistic about the Interview though It was a <i>mind- bending</i>  exercise,",
     "options": [
       "an enervating",
       "a debilitating",
@@ -21817,7 +21817,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1007-831",
-    "questionText": "The operations of the bank ........ not ...... cottage and small-scale industries? (JAMB 2002)",
+    "questionText": "The operations of the bank ........ not ...... cottage and small-scale industries?",
     "options": [
       "does /covered",
       "does / cover",
@@ -21829,7 +21829,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1008-17",
-    "questionText": "Ali plays ……….violin with remarkable skill (JAMB 2003)",
+    "questionText": "Ali plays ……….violin with remarkable skill",
     "options": [
       "a",
       "the",
@@ -21841,7 +21841,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1009-561",
-    "questionText": "This is an  <i>abridged</i> version of No Longer at Ease (JAMB 2010)",
+    "questionText": "This is an  <i>abridged</i> version of No Longer at Ease",
     "options": [
       "an outdated",
       "an enlarged",
@@ -21853,7 +21853,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1010-482",
-    "questionText": "If Joy hadn't been <i>tripped up</i> halfway through the race, she would have came first   (JAMB 2009)",
+    "questionText": "If Joy hadn't been <i>tripped up</i> halfway through the race, she would have came first",
     "options": [
       "discouraged",
       "disqualified",
@@ -21865,7 +21865,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1011-1583",
-    "questionText": "From the options, choose the word nearest in meaning to the underline word\n\nBy working hard, Benjamin <u>outshone</u> his elder brother instead of being ________ (JAMB 2017)",
+    "questionText": "From the options, choose the word nearest in meaning to the underline word\n\nBy working hard, Benjamin <u>outshone</u> his elder brother instead of being ________",
     "options": [
       "overshadowed",
       "defeated",
@@ -21877,7 +21877,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1012-140",
-    "questionText": "The <i>mottled</i> skin of a person with HIV indicates an advance stage  of its development. (JAMB 2004)",
+    "questionText": "The <i>mottled</i> skin of a person with HIV indicates an advance stage  of its development.",
     "options": [
       "Brown",
       "spotted",
@@ -21889,7 +21889,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1013-155",
-    "questionText": "The men were not pawns in someone else’s political game. (JAMB 2005)",
+    "questionText": "The men were not pawns in someone else’s political game.",
     "options": [
       "The action they executed was their idea",
       "The men used someone else’s plain",
@@ -21901,7 +21901,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1014-409",
-    "questionText": "The <i>disagreement</i> between the two men became obvious during the meeting (JAMB 2008)",
+    "questionText": "The <i>disagreement</i> between the two men became obvious during the meeting",
     "options": [
       "insult",
       "confrontation",
@@ -21913,7 +21913,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1015-1475",
-    "questionText": "These policies have been [espoused] by the ruling party (JAMB 2019)",
+    "questionText": "These policies have been [espoused] by the ruling party",
     "options": [
       "condemned",
       "rejected",
@@ -21925,7 +21925,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1016-1229",
-    "questionText": "It is <u>embarrassing</u> to accept our mistakes and tender an apology. (JAMB 2021)",
+    "questionText": "It is <u>embarrassing</u> to accept our mistakes and tender an apology.",
     "options": [
       "acceptable",
       "honourable",
@@ -21937,7 +21937,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1017-994",
-    "questionText": "My eldest son, who is in Lagos, studying English. (JAMB 2011)",
+    "questionText": "My eldest son, who is in Lagos, studying English.",
     "options": [
       "only my son is in lagos studying english",
       "my only son is in lagos studying english",
@@ -21949,7 +21949,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1018-1402",
-    "questionText": "\"The Gandhi Test\" indicates how (JAMB 2019)",
+    "questionText": "\"The Gandhi Test\" indicates how",
     "options": [
       "stubborn people act without thinking of public perception",
       "one should act when it comes to choosing a career",
@@ -21961,7 +21961,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1019-1242",
-    "questionText": "The meeting was organised at _______ instance ? (JAMB 2021)",
+    "questionText": "The meeting was organised at _______ instance ?",
     "options": [
       "whom",
       "whose's",
@@ -21973,7 +21973,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1020-478",
-    "questionText": "Nobody knew the source of the <i>altercation</i> between the couple   (JAMB 2009)",
+    "questionText": "Nobody knew the source of the <i>altercation</i> between the couple",
     "options": [
       "alter ego",
       "quarrel",
@@ -21985,7 +21985,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1021-1134",
-    "questionText": "Amaka would pass for a beauty queen (JAMB 2013)",
+    "questionText": "Amaka would pass for a beauty queen",
     "options": [
       "She would be accepted by all as a beauty Queen",
       "She walked past the beauty queen",
@@ -21997,7 +21997,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1022-455",
-    "questionText": "He was injured by friend fire.  (JAMB 2009)",
+    "questionText": "He was injured by friend fire.",
     "options": [
       "He was wounded in a war by a friend of his who fired a shot mistakenly.",
       "He was injured by a gunshot that was fired by a friend.",
@@ -22009,7 +22009,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1023-390",
-    "questionText": "The students  <i>vandalized </i> their hostel curing the riot. (JAMB 2008)",
+    "questionText": "The students  <i>vandalized </i> their hostel curing the riot.",
     "options": [
       "deserted",
       "Unrepaired",
@@ -22021,7 +22021,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1024-1",
-    "questionText": " He put…………..  eggs in a basket. (JAMB 2003)",
+    "questionText": " He put…………..  eggs in a basket.",
     "options": [
       "white dozen eggs",
       "a dozen white eggs",
@@ -22033,7 +22033,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1025-382",
-    "questionText": "The officer has discussed the vexed issue of incessant power failure (JAMB 2008)",
+    "questionText": "The officer has discussed the vexed issue of incessant power failure",
     "options": [
       "In anger, the officer explained the problem of constant power failure",
       "The officer added his voice to the much discussed problem of power cut",
@@ -22045,7 +22045,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1026-1237",
-    "questionText": "Biography  (JAMB 2021)",
+    "questionText": "Biography",
     "options": [
       "bioGRAphy",
       "BIography",
@@ -22057,7 +22057,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1027-1056",
-    "questionText": "His story gave us an <u>inkling</u> of what he passed through during the strike (JAMB 2012)",
+    "questionText": "His story gave us an <u>inkling</u> of what he passed through during the strike",
     "options": [
       "a possible idea",
       "a taste",
@@ -22069,7 +22069,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1028-793",
-    "questionText": "Hypertension is a <u>debilitating</u> disease that everyone should prevent? (JAMB 2000)",
+    "questionText": "Hypertension is a <u>debilitating</u> disease that everyone should prevent?",
     "options": [
       "a mortal",
       "an enervating",
@@ -22081,7 +22081,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1029-158",
-    "questionText": "The Governor parried all the questions put to him by the journalist. (JAMB 2005)",
+    "questionText": "The Governor parried all the questions put to him by the journalist.",
     "options": [
       "The Governor answered all the questions brilliantly",
       "The Governor evaded all the questions",
@@ -22093,7 +22093,7 @@ export const englishQuestions = [
   },
   {
     "id": "english-1788729267564-1030-542",
-    "questionText": "There was a general  <i>acquiescence</i>  on the new drug law  (JAMB 2010)",
+    "questionText": "There was a general  <i>acquiescence</i>  on the new drug law",
     "options": [
       "resistance",
       "discrepancy",

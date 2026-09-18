@@ -1,7 +1,7 @@
 export const currentAffairsQuestions = [
   {
     "id": "currentaffairs-1788679874980-0-5",
-    "questionText": "Victoria is the capital city of  (JAMB 2013)",
+    "questionText": "Victoria is the capital city of",
     "options": [
       "Somalia ",
       "Morocco ",
@@ -13,7 +13,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-1-28",
-    "questionText": "Abayon, Adim and Adun are ethnic groups in   (JAMB 2013)",
+    "questionText": "Abayon, Adim and Adun are ethnic groups in",
     "options": [
       "Adamawa Stat ",
       "Rivers State ",
@@ -25,7 +25,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-2-37",
-    "questionText": "The full meaning of UEFA is  (JAMB 2013)",
+    "questionText": "The full meaning of UEFA is",
     "options": [
       "Union of European Federation Associations ",
       "United European Football Associations ",
@@ -37,7 +37,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-3-31",
-    "questionText": "Assop Falls can be found in  (JAMB 2013)",
+    "questionText": "Assop Falls can be found in",
     "options": [
       "Plateau State ",
       "Kano State ",
@@ -49,7 +49,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-4-4",
-    "questionText": "Desmond Tutu was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "questionText": "Desmond Tutu was awarded the Nobel Peace Prize in",
     "options": [
       "1983",
       "1987",
@@ -61,7 +61,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-5-16",
-    "questionText": "The full meaning of OECD is  (JAMB 2013)",
+    "questionText": "The full meaning of OECD is",
     "options": [
       "Order of the Economic Community and Development ",
       "Organization for Economic Community and Development ",
@@ -73,7 +73,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-6-13",
-    "questionText": "Nelson Mandela was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "questionText": "Nelson Mandela was awarded the Nobel Peace Prize in",
     "options": [
       "1993",
       "1994",
@@ -85,7 +85,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-7-15",
-    "questionText": "Gombe State belongs to the ____ geo-political zone in Nigeria  (JAMB 2013)",
+    "questionText": "Gombe State belongs to the ____ geo-political zone in Nigeria",
     "options": [
       "North Central ",
       "North East ",
@@ -97,7 +97,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-8-39",
-    "questionText": "Obudu Cattle Ranch is in  (JAMB 2013)",
+    "questionText": "Obudu Cattle Ranch is in",
     "options": [
       "\n \nCross River State \n",
       "Akwa Ibom State ",
@@ -109,7 +109,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-9-44",
-    "questionText": "The National Security Adviser in 2014 was (JAMB 2013)",
+    "questionText": "The National Security Adviser in 2014 was",
     "options": [
       "Col. Sambo Dasuki ",
       "Gen.  Aliyu Mohammed Gusau ",
@@ -121,7 +121,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-10-25",
-    "questionText": "The capital of Iran is   (JAMB 2013)",
+    "questionText": "The capital of Iran is",
     "options": [
       "Iranian ",
       "Dublin ",
@@ -133,7 +133,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-11-21",
-    "questionText": "Dar es Salaam is the capital of  (JAMB 2013)",
+    "questionText": "Dar es Salaam is the capital of",
     "options": [
       "Zimbabwe ",
       "Sudan ",
@@ -145,7 +145,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-12-29",
-    "questionText": "Barack Obama was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "questionText": "Barack Obama was awarded the Nobel Peace Prize in",
     "options": [
       "2003",
       "2000",
@@ -157,7 +157,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-13-41",
-    "questionText": "The Inspector-General of Police 2014 is  (JAMB 2013)",
+    "questionText": "The Inspector-General of Police 2014 is",
     "options": [
       "Mr Iyami Aganike ",
       "Alhaji Mohammed Dahiru Abubakar ",
@@ -169,7 +169,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-14-40",
-    "questionText": "Alau Dam and Alan Lake are located in   (JAMB 2013)",
+    "questionText": "Alau Dam and Alan Lake are located in",
     "options": [
       "Calabar ",
       "Okitipupa",
@@ -181,7 +181,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-15-7",
-    "questionText": "Centre of Unity is to Abuja as State of Hospitality is to  (JAMB 2013)",
+    "questionText": "Centre of Unity is to Abuja as State of Hospitality is to",
     "options": [
       "Cross River ",
       "Rivers ",
@@ -193,7 +193,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-16-17",
-    "questionText": "Paparada Square is in  (JAMB 2013)",
+    "questionText": "Paparada Square is in",
     "options": [
       "Ilorin ",
       "Lokoja ",
@@ -205,7 +205,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-17-11",
-    "questionText": "The current Secretary-General of the United Nations is from  (JAMB 2013)",
+    "questionText": "The current Secretary-General of the United Nations is from",
     "options": [
       "United Kingdom ",
       "South Africa ",
@@ -217,7 +217,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-18-6",
-    "questionText": "The Director-General of the Nigerian Institute of Advanced Legal Studies is  (JAMB 2013)",
+    "questionText": "The Director-General of the Nigerian Institute of Advanced Legal Studies is",
     "options": [
       "Prof.  Dalhatu Musdapher ",
       "Prof.  Pat Utomi ",
@@ -229,7 +229,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-19-23",
-    "questionText": "FESTAC started in  (JAMB 2013)",
+    "questionText": "FESTAC started in",
     "options": [
       "10/1/1976",
       "11/1/1977",
@@ -241,7 +241,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-20-35",
-    "questionText": "Albert Lutuli was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "questionText": "Albert Lutuli was awarded the Nobel Peace Prize in",
     "options": [
       "1947",
       "1909",
@@ -253,7 +253,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-21-26",
-    "questionText": "The Executive Secretary of the National Universities Commission is  (JAMB 2013)",
+    "questionText": "The Executive Secretary of the National Universities Commission is",
     "options": [
       "Prof.  Dibu Ojerinde ",
       "Prof.  Peter Okebukola ",
@@ -265,7 +265,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-22-18",
-    "questionText": "The former Eastern Region was proclaimed a sovereign nation, Biafra by Odumegu Ojukwu on  (JAMB 2013)",
+    "questionText": "The former Eastern Region was proclaimed a sovereign nation, Biafra by Odumegu Ojukwu on",
     "options": [
       "5/30/1967",
       "6/15/1966",
@@ -277,7 +277,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-23-3",
-    "questionText": "The following are spices except  (JAMB 2013)",
+    "questionText": "The following are spices except",
     "options": [
       "Rye ",
       "Saffron ",
@@ -289,7 +289,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-24-9",
-    "questionText": "The Governor of Anambra State 2014 is   (JAMB 2013)",
+    "questionText": "The Governor of Anambra State 2014 is",
     "options": [
       "Mr. Peter Obi ",
       "Owelle Rochas Okorocha ",
@@ -301,7 +301,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-25-2",
-    "questionText": "Mr Dele Giwa was killed through a letter bomb on  (JAMB 2013)",
+    "questionText": "Mr Dele Giwa was killed through a letter bomb on",
     "options": [
       "     October 19, 1986 ",
       "September 17, 1987",
@@ -313,7 +313,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-26-33",
-    "questionText": "Ken Saro-Wiwa and eight others were executed in  (JAMB 2013)",
+    "questionText": "Ken Saro-Wiwa and eight others were executed in",
     "options": [
       "1995",
       "1994",
@@ -325,7 +325,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-27-30",
-    "questionText": "The capital of Greece is   (JAMB 2013)",
+    "questionText": "The capital of Greece is",
     "options": [
       "Greek ",
       "Athens ",
@@ -337,7 +337,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-28-20",
-    "questionText": "The official residence of the Secretary-General of the United Nations is in  (JAMB 2013)",
+    "questionText": "The official residence of the Secretary-General of the United Nations is in",
     "options": [
       "Washington D.C.",
       "Atlanta Georgia, United States ",
@@ -349,7 +349,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-29-19",
-    "questionText": "The Kruger National Park is in  (JAMB 2013)",
+    "questionText": "The Kruger National Park is in",
     "options": [
       "Tunisia ",
       "Cameroon ",
@@ -361,7 +361,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-30-12",
-    "questionText": "The full meaning of UEFA is  (JAMB 2013)",
+    "questionText": "The full meaning of UEFA is",
     "options": [
       "Union of European Federation Associations ",
       "United European Football Associations ",
@@ -373,7 +373,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-31-27",
-    "questionText": "The United Nations Charter was formed on  (JAMB 2013)",
+    "questionText": "The United Nations Charter was formed on",
     "options": [
       "6/26/1945",
       "2/1/1946",
@@ -385,7 +385,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-32-24",
-    "questionText": "Which of these was never a Senate President in Nigeria?  (JAMB 2013)",
+    "questionText": "Which of these was never a Senate President in Nigeria?",
     "options": [
       "Chuba Okadigbo ",
       "Pius Anyim ",
@@ -397,7 +397,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-33-8",
-    "questionText": "The capital of Uruguay is  (JAMB 2013)",
+    "questionText": "The capital of Uruguay is",
     "options": [
       "Bangkok ",
       "Montevideo",
@@ -409,7 +409,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-34-32",
-    "questionText": "The Secretary-General of the United Nations between 1972 and 1981 was  (JAMB 2013)",
+    "questionText": "The Secretary-General of the United Nations between 1972 and 1981 was",
     "options": [
       "Javier Perez de Cuellar ",
       "Kofi Annan ",
@@ -421,7 +421,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-35-42",
-    "questionText": "The Minster of Health 2014 is   (JAMB 2013)",
+    "questionText": "The Minster of Health 2014 is",
     "options": [
       "Prof.  Olikoye Ransome Kuti ",
       "Mr Muhammed Katsina ",
@@ -433,7 +433,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-36-10",
-    "questionText": "____ was the Chief Justice of Nigeria between 1995 and 2006  (JAMB 2013)",
+    "questionText": "____ was the Chief Justice of Nigeria between 1995 and 2006",
     "options": [
       "Justice Idris Lagbo Kutigi ",
       "Justice Mohammad Lawal Uwais ",
@@ -445,7 +445,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-37-34",
-    "questionText": "Gombe State belongs to the ____ geo-political zone in Nigeria  (JAMB 2013)",
+    "questionText": "Gombe State belongs to the ____ geo-political zone in Nigeria",
     "options": [
       "South West ",
       "North East ",
@@ -457,7 +457,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-38-1",
-    "questionText": "The current life expectancy in Nigeria is  (JAMB 2013)",
+    "questionText": "The current life expectancy in Nigeria is",
     "options": [
       "55",
       "47",
@@ -469,7 +469,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-39-38",
-    "questionText": "Gurara Falls can be located in   (JAMB 2013)",
+    "questionText": "Gurara Falls can be located in",
     "options": [
       "Anambra State ",
       "Niger State ",
@@ -481,7 +481,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-40-22",
-    "questionText": "Shanga and Kyenga are ethnic groups in  (JAMB 2013)",
+    "questionText": "Shanga and Kyenga are ethnic groups in",
     "options": [
       "Sokoto State ",
       "Niger State ",
@@ -493,7 +493,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-41-14",
-    "questionText": "Ibeno Beach is in   (JAMB 2013)",
+    "questionText": "Ibeno Beach is in",
     "options": [
       "June 12 1993 ",
       "June 14 1993 ",
@@ -505,7 +505,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-42-36",
-    "questionText": "Ronald Reagan, the former US President, was a   (JAMB 2013)",
+    "questionText": "Ronald Reagan, the former US President, was a",
     "options": [
       "Democrat",
       "Democratic-Republican ",
@@ -517,7 +517,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788679874980-43-43",
-    "questionText": "Maseru is the capital city of   (JAMB 2013)",
+    "questionText": "Maseru is the capital city of",
     "options": [
       "Mauritius",
       "Rwanda ",
@@ -529,7 +529,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-0-29",
-    "questionText": "Barack Obama was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "questionText": "Barack Obama was awarded the Nobel Peace Prize in",
     "options": [
       "2003",
       "2000",
@@ -541,7 +541,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-1-23",
-    "questionText": "FESTAC started in  (JAMB 2013)",
+    "questionText": "FESTAC started in",
     "options": [
       "10/1/1976",
       "11/1/1977",
@@ -553,7 +553,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-2-33",
-    "questionText": "Ken Saro-Wiwa and eight others were executed in  (JAMB 2013)",
+    "questionText": "Ken Saro-Wiwa and eight others were executed in",
     "options": [
       "1995",
       "1994",
@@ -565,7 +565,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-3-32",
-    "questionText": "The Secretary-General of the United Nations between 1972 and 1981 was  (JAMB 2013)",
+    "questionText": "The Secretary-General of the United Nations between 1972 and 1981 was",
     "options": [
       "Javier Perez de Cuellar",
       "Kofi Annan",
@@ -577,7 +577,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-4-26",
-    "questionText": "The Executive Secretary of the National Universities Commission is  (JAMB 2013)",
+    "questionText": "The Executive Secretary of the National Universities Commission is",
     "options": [
       "Prof. Dibu Ojerinde",
       "Prof. Peter Okebukola",
@@ -589,7 +589,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-5-10",
-    "questionText": "____ was the Chief Justice of Nigeria between 1995 and 2006  (JAMB 2013)",
+    "questionText": "____ was the Chief Justice of Nigeria between 1995 and 2006",
     "options": [
       "Justice Idris Lagbo Kutigi",
       "Justice Mohammad Lawal Uwais",
@@ -601,7 +601,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-6-31",
-    "questionText": "Assop Falls can be found in  (JAMB 2013)",
+    "questionText": "Assop Falls can be found in",
     "options": [
       "Plateau State",
       "Kano State",
@@ -613,7 +613,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-7-34",
-    "questionText": "Gombe State belongs to the ____ geo-political zone in Nigeria  (JAMB 2013)",
+    "questionText": "Gombe State belongs to the ____ geo-political zone in Nigeria",
     "options": [
       "South West",
       "North East",
@@ -625,7 +625,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-8-43",
-    "questionText": "Maseru is the capital city of   (JAMB 2013)",
+    "questionText": "Maseru is the capital city of",
     "options": [
       "Mauritius",
       "Rwanda",
@@ -637,7 +637,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-9-24",
-    "questionText": "Which of these was never a Senate President in Nigeria?  (JAMB 2013)",
+    "questionText": "Which of these was never a Senate President in Nigeria?",
     "options": [
       "Chuba Okadigbo",
       "Pius Anyim",
@@ -649,7 +649,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-10-4",
-    "questionText": "Desmond Tutu was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "questionText": "Desmond Tutu was awarded the Nobel Peace Prize in",
     "options": [
       "1983",
       "1987",
@@ -661,7 +661,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-11-38",
-    "questionText": "Gurara Falls can be located in   (JAMB 2013)",
+    "questionText": "Gurara Falls can be located in",
     "options": [
       "Anambra State",
       "Niger State",
@@ -673,7 +673,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-12-1",
-    "questionText": "The current life expectancy in Nigeria is  (JAMB 2013)",
+    "questionText": "The current life expectancy in Nigeria is",
     "options": [
       "55",
       "47",
@@ -685,7 +685,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-13-11",
-    "questionText": "The current Secretary-General of the United Nations is from  (JAMB 2013)",
+    "questionText": "The current Secretary-General of the United Nations is from",
     "options": [
       "United Kingdom",
       "South Africa",
@@ -697,7 +697,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-14-6",
-    "questionText": "The Director-General of the Nigerian Institute of Advanced Legal Studies is  (JAMB 2013)",
+    "questionText": "The Director-General of the Nigerian Institute of Advanced Legal Studies is",
     "options": [
       "Prof. Dalhatu Musdapher",
       "Prof. Pat Utomi",
@@ -709,7 +709,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-15-42",
-    "questionText": "The Minster of Health 2014 is   (JAMB 2013)",
+    "questionText": "The Minster of Health 2014 is",
     "options": [
       "Prof. Olikoye Ransome Kuti",
       "Mr Muhammed Katsina",
@@ -721,7 +721,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-16-22",
-    "questionText": "Shanga and Kyenga are ethnic groups in  (JAMB 2013)",
+    "questionText": "Shanga and Kyenga are ethnic groups in",
     "options": [
       "Sokoto State",
       "Niger State",
@@ -733,7 +733,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-17-18",
-    "questionText": "The former Eastern Region was proclaimed a sovereign nation, Biafra by Odumegu Ojukwu on  (JAMB 2013)",
+    "questionText": "The former Eastern Region was proclaimed a sovereign nation, Biafra by Odumegu Ojukwu on",
     "options": [
       "5/30/1967",
       "6/15/1966",
@@ -745,7 +745,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-18-27",
-    "questionText": "The United Nations Charter was formed on  (JAMB 2013)",
+    "questionText": "The United Nations Charter was formed on",
     "options": [
       "6/26/1945",
       "2/1/1946",
@@ -757,7 +757,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-19-35",
-    "questionText": "Albert Lutuli was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "questionText": "Albert Lutuli was awarded the Nobel Peace Prize in",
     "options": [
       "1947",
       "1909",
@@ -769,7 +769,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-20-28",
-    "questionText": "Abayon, Adim and Adun are ethnic groups in   (JAMB 2013)",
+    "questionText": "Abayon, Adim and Adun are ethnic groups in",
     "options": [
       "Adamawa Stat",
       "Rivers State",
@@ -781,7 +781,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-21-13",
-    "questionText": "Nelson Mandela was awarded the Nobel Peace Prize in  (JAMB 2013)",
+    "questionText": "Nelson Mandela was awarded the Nobel Peace Prize in",
     "options": [
       "1993",
       "1994",
@@ -793,7 +793,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-22-41",
-    "questionText": "The Inspector-General of Police 2014 is  (JAMB 2013)",
+    "questionText": "The Inspector-General of Police 2014 is",
     "options": [
       "Mr Iyami Aganike",
       "Alhaji Mohammed Dahiru Abubakar",
@@ -805,7 +805,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-23-39",
-    "questionText": "Obudu Cattle Ranch is in  (JAMB 2013)",
+    "questionText": "Obudu Cattle Ranch is in",
     "options": [
       "Cross River State",
       "Akwa Ibom State",
@@ -817,7 +817,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-24-21",
-    "questionText": "Dar es Salaam is the capital of  (JAMB 2013)",
+    "questionText": "Dar es Salaam is the capital of",
     "options": [
       "Zimbabwe",
       "Sudan",
@@ -829,7 +829,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-25-5",
-    "questionText": "Victoria is the capital city of  (JAMB 2013)",
+    "questionText": "Victoria is the capital city of",
     "options": [
       "Somalia",
       "Morocco",
@@ -841,7 +841,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-26-8",
-    "questionText": "The capital of Uruguay is  (JAMB 2013)",
+    "questionText": "The capital of Uruguay is",
     "options": [
       "Bangkok",
       "Montevideo",
@@ -853,7 +853,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-27-36",
-    "questionText": "Ronald Reagan, the former US President, was a   (JAMB 2013)",
+    "questionText": "Ronald Reagan, the former US President, was a",
     "options": [
       "Democrat",
       "Democratic-Republican",
@@ -865,7 +865,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-28-16",
-    "questionText": "The full meaning of OECD is  (JAMB 2013)",
+    "questionText": "The full meaning of OECD is",
     "options": [
       "Order of the Economic Community and Development",
       "Organization for Economic Community and Development",
@@ -877,7 +877,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-29-17",
-    "questionText": "Paparada Square is in  (JAMB 2013)",
+    "questionText": "Paparada Square is in",
     "options": [
       "Ilorin",
       "Lokoja",
@@ -889,7 +889,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-30-7",
-    "questionText": "Centre of Unity is to Abuja as State of Hospitality is to  (JAMB 2013)",
+    "questionText": "Centre of Unity is to Abuja as State of Hospitality is to",
     "options": [
       "Cross River",
       "Rivers",
@@ -901,7 +901,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-31-14",
-    "questionText": "Ibeno Beach is in   (JAMB 2013)",
+    "questionText": "Ibeno Beach is in",
     "options": [
       "June 12 1993",
       "June 14 1993",
@@ -913,7 +913,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-32-25",
-    "questionText": "The capital of Iran is   (JAMB 2013)",
+    "questionText": "The capital of Iran is",
     "options": [
       "Iranian",
       "Dublin",
@@ -925,7 +925,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-33-19",
-    "questionText": "The Kruger National Park is in  (JAMB 2013)",
+    "questionText": "The Kruger National Park is in",
     "options": [
       "Tunisia",
       "Cameroon",
@@ -937,7 +937,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-34-9",
-    "questionText": "The Governor of Anambra State 2014 is   (JAMB 2013)",
+    "questionText": "The Governor of Anambra State 2014 is",
     "options": [
       "Mr. Peter Obi",
       "Owelle Rochas Okorocha",
@@ -949,7 +949,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-35-20",
-    "questionText": "The official residence of the Secretary-General of the United Nations is in  (JAMB 2013)",
+    "questionText": "The official residence of the Secretary-General of the United Nations is in",
     "options": [
       "Washington D.C.",
       "Atlanta Georgia, United States",
@@ -961,7 +961,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-36-3",
-    "questionText": "The following are spices except  (JAMB 2013)",
+    "questionText": "The following are spices except",
     "options": [
       "Rye",
       "Saffron",
@@ -973,7 +973,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-37-37",
-    "questionText": "The full meaning of UEFA is  (JAMB 2013)",
+    "questionText": "The full meaning of UEFA is",
     "options": [
       "Union of European Federation Associations",
       "United European Football Associations",
@@ -985,7 +985,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-38-44",
-    "questionText": "The National Security Adviser in 2014 was (JAMB 2013)",
+    "questionText": "The National Security Adviser in 2014 was",
     "options": [
       "Col. Sambo Dasuki",
       "Gen. Aliyu Mohammed Gusau",
@@ -997,7 +997,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-39-2",
-    "questionText": "Mr Dele Giwa was killed through a letter bomb on  (JAMB 2013)",
+    "questionText": "Mr Dele Giwa was killed through a letter bomb on",
     "options": [
       "October 19, 1986",
       "September 17, 1987",
@@ -1009,7 +1009,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-40-30",
-    "questionText": "The capital of Greece is   (JAMB 2013)",
+    "questionText": "The capital of Greece is",
     "options": [
       "Greek",
       "Athens",
@@ -1021,7 +1021,7 @@ export const currentAffairsQuestions = [
   },
   {
     "id": "currentaffairs-1788730006729-41-40",
-    "questionText": "Alau Dam and Alan Lake are located in   (JAMB 2013)",
+    "questionText": "Alau Dam and Alan Lake are located in",
     "options": [
       "Calabar",
       "Okitipupa",

@@ -525,6 +525,7 @@ export interface MockExamEvent {
     status: 'pending' | 'active' | 'completed';
     showResults?: boolean;
     subjects: MockExamSubject[];
+    categoriesConfig?: Record<string, string[]>;
     bannedEmails: string[];
     createdAt: any;
     createdBy: string;

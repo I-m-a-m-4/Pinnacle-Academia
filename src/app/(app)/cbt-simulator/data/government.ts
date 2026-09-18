@@ -1,7 +1,7 @@
 export const governmentQuestions = [
   {
     "id": "government-1788679699889-0-932",
-    "questionText": "The ....... is responsible for advising the president of Nigeria on the sovereignty and territorial Integrity of the country. (JAMB 2021)",
+    "questionText": "The ....... is responsible for advising the president of Nigeria on the sovereignty and territorial Integrity of the country.",
     "options": [
       "National Defence Council",
       "Council of State",
@@ -13,7 +13,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-1-1425",
-    "questionText": "Democracy is a system of government that is (JAMB 2009)",
+    "questionText": "Democracy is a system of government that is",
     "options": [
       "constituted by the will of the majority of the citizens",
       "imposed on the majority of the citizens",
@@ -25,7 +25,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-2-262",
-    "questionText": "To contest an election, a candidate must be a member of a (JAMB 2013)",
+    "questionText": "To contest an election, a candidate must be a member of a",
     "options": [
       "campaign organization.",
       "civil society organization.",
@@ -37,7 +37,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-3-463",
-    "questionText": "A political system which empowers the leader with the ultimate responsibility to execute laws is (JAMB 2012)",
+    "questionText": "A political system which empowers the leader with the ultimate responsibility to execute laws is",
     "options": [
       "parliamentarianism",
       "presidentialism",
@@ -49,7 +49,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-4-1056",
-    "questionText": "The commander of the army under the Hausa/ Fulani pre-colonial administration was (JAMB 2024)",
+    "questionText": "The commander of the army under the Hausa/ Fulani pre-colonial administration was",
     "options": [
       " waziri",
       " madawaki",
@@ -61,7 +61,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-5-60",
-    "questionText": "The government of one of the following countries operates an unwritten constitution  (JAMB 2008)",
+    "questionText": "The government of one of the following countries operates an unwritten constitution",
     "options": [
       "The United States ",
       "The Union of Soviet Socialist Republics ",
@@ -73,7 +73,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-6-484",
-    "questionText": "Two foreigners that directly aroused nationalist feelings among Nigerians are (JAMB 2012)",
+    "questionText": "Two foreigners that directly aroused nationalist feelings among Nigerians are",
     "options": [
       "Edward Blyden and Payne Jackson",
       "Casely Hayford and James Horton",
@@ -85,7 +85,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-7-904",
-    "questionText": "The simple plurality electoral system is often criticized because _________ (JAMB 2020)",
+    "questionText": "The simple plurality electoral system is often criticized because _________",
     "options": [
       "the ruling party may lose the election",
       "the winner may not poll an absolute majority",
@@ -97,7 +97,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-8-1164",
-    "questionText": "Legislative control of public corporation in Nigeria is effected through (JAMB 2002)",
+    "questionText": "Legislative control of public corporation in Nigeria is effected through",
     "options": [
       "the dissolution of their management",
       "the reorganization of their boards",
@@ -109,7 +109,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-9-625",
-    "questionText": "The independent of Nigeria was in 1945 with the coming to power in Britain of (JAMB 1988)",
+    "questionText": "The independent of Nigeria was in 1945 with the coming to power in Britain of",
     "options": [
       "Conservative party",
       "Tory party",
@@ -121,7 +121,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-10-1283",
-    "questionText": "In a presidential system of government, the president checks the legislature through (JAMB 2004)",
+    "questionText": "In a presidential system of government, the president checks the legislature through",
     "options": [
       "executive review",
       "executive order",
@@ -133,7 +133,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-11-1051",
-    "questionText": "Under the Hausa pre-colonial administration, the office of the Prime Minister is usually occupied by  (JAMB 2024)",
+    "questionText": "Under the Hausa pre-colonial administration, the office of the Prime Minister is usually occupied by",
     "options": [
       " sarki",
       " waziri",
@@ -145,7 +145,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-12-118",
-    "questionText": "Multilaterism in Nigeria’s foreign policy entails  (JAMB 2010)",
+    "questionText": "Multilaterism in Nigeria’s foreign policy entails",
     "options": [
       "Africa being the centre piece of Nigeria’s foreign policy ",
       "Non aligned posture in international affairs ",
@@ -157,7 +157,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-13-17",
-    "questionText": "Which of the following political parties did not participate in the 1979 General Elections in Nigeria?  (JAMB 2006)",
+    "questionText": "Which of the following political parties did not participate in the 1979 General Elections in Nigeria?",
     "options": [
       "Unity Party of Nigeria ",
       "National Party of Nigeria ",
@@ -169,7 +169,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-14-729",
-    "questionText": "Shortage of trained personnel is a major problem of the __ (JAMB 2017)",
+    "questionText": "Shortage of trained personnel is a major problem of the __",
     "options": [
       " Federal Government",
       " State Governments",
@@ -181,7 +181,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-15-895",
-    "questionText": "A set of internalized norms which guides political action is called ________ (JAMB 2020)",
+    "questionText": "A set of internalized norms which guides political action is called ________",
     "options": [
       "power",
       "values",
@@ -193,7 +193,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-16-795",
-    "questionText": "The decision to separate Lagos from the Western Region and make it a neutral Territory was taken at the party constitutional conference (JAMB 2018)",
+    "questionText": "The decision to separate Lagos from the Western Region and make it a neutral Territory was taken at the party constitutional conference",
     "options": [
       " 1950 general conference",
       "1953 constitutional conference",
@@ -205,7 +205,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-17-806",
-    "questionText": "A constitution is the (JAMB 2018)",
+    "questionText": "A constitution is the",
     "options": [
       "written document of traditional practices",
       "functional aspect of government activities",
@@ -217,7 +217,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-18-1165",
-    "questionText": "The Ibadan Conference of 1950 was convened to discuss the provisions of the (JAMB 2002)",
+    "questionText": "The Ibadan Conference of 1950 was convened to discuss the provisions of the",
     "options": [
       "Macpherson Constitution",
       "Clifford Constituiton",
@@ -229,7 +229,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-19-338",
-    "questionText": "The Lagos Colony and Protectorate was amalgamated with The Protectorate of Southern (JAMB 1999)",
+    "questionText": "The Lagos Colony and Protectorate was amalgamated with The Protectorate of Southern",
     "options": [
       "1886",
       "1893",
@@ -241,7 +241,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-20-1389",
-    "questionText": "The arm of government mainly responsible for the implementing of law in Nigeria is the (JAMB 2008)",
+    "questionText": "The arm of government mainly responsible for the implementing of law in Nigeria is the",
     "options": [
       "judiciary",
       "police",
@@ -253,7 +253,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-21-705",
-    "questionText": "During the 1964 Federal elections there was a total boycott of voting in (JAMB 1989)",
+    "questionText": "During the 1964 Federal elections there was a total boycott of voting in",
     "options": [
       "the Western Region",
       "Lagos",
@@ -265,7 +265,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-22-873",
-    "questionText": "Lobbying is often a strategy adopted by________ (JAMB 2019)",
+    "questionText": "Lobbying is often a strategy adopted by________",
     "options": [
       "political parties",
       "public corporations",
@@ -277,7 +277,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-23-1083",
-    "questionText": "The principle of civil service that guarantees the employment of public workers is  (JAMB 2024)",
+    "questionText": "The principle of civil service that guarantees the employment of public workers is",
     "options": [
       " neutralism",
       "anonymity",
@@ -289,7 +289,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-24-1410",
-    "questionText": "Pacification refers to a process through which some areas in Nigeria were acquired by (JAMB 2009)",
+    "questionText": "Pacification refers to a process through which some areas in Nigeria were acquired by",
     "options": [
       "military conquest",
       " gunboat diplomacy",
@@ -301,7 +301,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-25-846",
-    "questionText": "The Brussel conference in 1889/90 was based on______ (JAMB 2019)",
+    "questionText": "The Brussel conference in 1889/90 was based on______",
     "options": [
       "putting an end to slave trade",
       " the scramble for Africa",
@@ -313,7 +313,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-26-399",
-    "questionText": "The executive checks the excesses of the legislature through (JAMB 2016)",
+    "questionText": "The executive checks the excesses of the legislature through",
     "options": [
       "assent to bills",
       "the use of veto power",
@@ -325,7 +325,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-27-357",
-    "questionText": "The organ of the United Nations Organization responsible for the former colonies of defeated World War II power is the (JAMB 1999)",
+    "questionText": "The organ of the United Nations Organization responsible for the former colonies of defeated World War II power is the",
     "options": [
       "General Assembly",
       "Security Council",
@@ -337,7 +337,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-28-1313",
-    "questionText": "The head of the Nigerian judiciary is the (JAMB 2005)",
+    "questionText": "The head of the Nigerian judiciary is the",
     "options": [
       "Solicitor-Genral of the Federation",
       "President of the Court of Appeal",
@@ -349,7 +349,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-29-1275",
-    "questionText": "In a unitary system of government,power is concentrated at the center (JAMB 2004)",
+    "questionText": "In a unitary system of government,power is concentrated at the center",
     "options": [
       "with devolution",
       "without residual functions",
@@ -361,7 +361,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-30-1199",
-    "questionText": "One of the duties of the legislature is to (JAMB 2003)",
+    "questionText": "One of the duties of the legislature is to",
     "options": [
       " implement laws",
       "adjudicate disputes",
@@ -373,7 +373,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-31-619",
-    "questionText": "A Nigeria citizen can only be deprived of his citizenship if he is (JAMB 1988)",
+    "questionText": "A Nigeria citizen can only be deprived of his citizenship if he is",
     "options": [
       "condemned to death.",
       "convicted by a Court of law",
@@ -385,7 +385,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-32-1447",
-    "questionText": "Which of these rulers resisted colonial rule and was deported to Calabar? (JAMB 2015)",
+    "questionText": "Which of these rulers resisted colonial rule and was deported to Calabar?",
     "options": [
       "King Kosoko",
       " King Dosunmu",
@@ -397,7 +397,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-33-1135",
-    "questionText": "Nigeria's recognition of the Popular Movement for the Liberation of Angola to lead that country was made under (JAMB 2001)",
+    "questionText": "Nigeria's recognition of the Popular Movement for the Liberation of Angola to lead that country was made under",
     "options": [
       "General Yakubu Gowon",
       "General Murtala Mohammed",
@@ -409,7 +409,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-34-189",
-    "questionText": "A capitalist state is based on (JAMB 2013)",
+    "questionText": "A capitalist state is based on",
     "options": [
       "religion   ",
       "creating job  opportunities  ",
@@ -421,7 +421,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-35-1473",
-    "questionText": "A good example of a country with a largely unwritten constitution is (JAMB 2015)",
+    "questionText": "A good example of a country with a largely unwritten constitution is",
     "options": [
       "the United States of America",
       "The Soviet Union",
@@ -433,7 +433,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-36-187",
-    "questionText": "All but one of the following is not a symbol of political culture (JAMB 2013)",
+    "questionText": "All but one of the following is not a symbol of political culture",
     "options": [
       "A national flag",
       "The government   ",
@@ -445,7 +445,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-37-244",
-    "questionText": "In the pre-colonial Hausa/Fulani system, the appointment of an Emir in the Caliphate was approved by the (JAMB 2000)",
+    "questionText": "In the pre-colonial Hausa/Fulani system, the appointment of an Emir in the Caliphate was approved by the",
     "options": [
       "Sardauna of Sokoto and the Alkali",
       "Galadima and the Waziri",
@@ -457,7 +457,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-38-1136",
-    "questionText": "The first Nigerian Permanent Representative to the United Nations was (JAMB 2001)",
+    "questionText": "The first Nigerian Permanent Representative to the United Nations was",
     "options": [
       "Alhaji Yusuf Maitama Sule",
       "General Joseph Garba",
@@ -469,7 +469,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-39-983",
-    "questionText": "The 1976 Local Government Reforms made the Nigerian local government become (JAMB 2022)",
+    "questionText": "The 1976 Local Government Reforms made the Nigerian local government become",
     "options": [
       "autonomous",
       "the fourth tier of government",
@@ -481,7 +481,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-40-1386",
-    "questionText": "Which of the following formalized colonial penetration into Africa? (JAMB 2008)",
+    "questionText": "Which of the following formalized colonial penetration into Africa?",
     "options": [
       "Paris Treaty",
       "Treaty of Wesphalia",
@@ -493,7 +493,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-41-927",
-    "questionText": "Nigeria's withdrawal from the Edinburg Commonwealth Games in July 1986 was in protest against British… (JAMB 2021)",
+    "questionText": "Nigeria's withdrawal from the Edinburg Commonwealth Games in July 1986 was in protest against British…",
     "options": [
       "Failure to impose sanctions on South Africa",
       "Negative utterances on Nigeria",
@@ -505,7 +505,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-42-327",
-    "questionText": ".\n\nA state is said to be fascist when (JAMB 1999)",
+    "questionText": ".\n\nA state is said to be fascist when",
     "options": [
       "its leader is patriotic but the citizens are not",
       "all rights and liberties are subordinated to state interest",
@@ -517,7 +517,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-43-376",
-    "questionText": "Before Nigeria became a republic, the highest body charged with the administration of justice was the (JAMB 2016)",
+    "questionText": "Before Nigeria became a republic, the highest body charged with the administration of justice was the",
     "options": [
       "Supreme Court",
       "Court of Appeal",
@@ -529,7 +529,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-44-348",
-    "questionText": "Based on its objectives, the Organization of African Unity can primarily be classified as (JAMB 1999)",
+    "questionText": "Based on its objectives, the Organization of African Unity can primarily be classified as",
     "options": [
       "a social organization",
       "a political organization",
@@ -541,7 +541,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-45-117",
-    "questionText": "Nigeria hosted the commonwealth conference which eventually led to the independence of  (JAMB 2010)",
+    "questionText": "Nigeria hosted the commonwealth conference which eventually led to the independence of",
     "options": [
       "Mozambique ",
       "Namibia  ",
@@ -553,7 +553,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-46-159",
-    "questionText": "One of the foremost theorists of federalism was A.  (JAMB 2012)",
+    "questionText": "One of the foremost theorists of federalism was A.",
     "options": [
       "A.V Dicey  ",
       "B. K.C Wheare ",
@@ -565,7 +565,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-47-899",
-    "questionText": "The application of the rule of law may be constrained by ________ (JAMB 2020)",
+    "questionText": "The application of the rule of law may be constrained by ________",
     "options": [
       " securing the tenure of office of judges",
       " insulating judges from partisan politicss",
@@ -577,7 +577,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-48-85",
-    "questionText": "In important advantage of creating more constituents in a federal state is to  (JAMB 2009)",
+    "questionText": "In important advantage of creating more constituents in a federal state is to",
     "options": [
       "Enhance the people’s participation in government ",
       "Enable ambitions politicians gain political power ",
@@ -589,7 +589,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-49-92",
-    "questionText": "The idea of democracy started with the  (JAMB 2009)",
+    "questionText": "The idea of democracy started with the",
     "options": [
       "Romans ",
       "Pensions ",
@@ -601,7 +601,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-50-319",
-    "questionText": "The most important function of the exclusive organ of government is to (JAMB 1999)",
+    "questionText": "The most important function of the exclusive organ of government is to",
     "options": [
       "formulate policies",
       "give assent to bills",
@@ -613,7 +613,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-51-1103",
-    "questionText": "when a bill passed by the legislature is vetoed by the executive, the action underscores the principle (JAMB 2001)",
+    "questionText": "when a bill passed by the legislature is vetoed by the executive, the action underscores the principle",
     "options": [
       "probity and accountability",
       "separation of powers",
@@ -625,7 +625,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-52-217",
-    "questionText": "In which of the following systems of government are ceremonial and executive powers usually fused? (JAMB 2000)",
+    "questionText": "In which of the following systems of government are ceremonial and executive powers usually fused?",
     "options": [
       "Parliamentary",
       "Presidential",
@@ -637,7 +637,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-53-1117",
-    "questionText": "After 1945, the demand of African nationalists changed from reform to independence because (JAMB 2001)",
+    "questionText": "After 1945, the demand of African nationalists changed from reform to independence because",
     "options": [
       "colonial rule became less oppressive",
       "colonial rule was in disarray",
@@ -649,7 +649,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-54-556",
-    "questionText": "The process of taking part in political and public affairs can be termed political (JAMB 2014)",
+    "questionText": "The process of taking part in political and public affairs can be termed political",
     "options": [
       "recognition",
       "culture",
@@ -661,7 +661,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-55-1089",
-    "questionText": "Nigeria played fundamental roles in the creation of  (JAMB 2024)",
+    "questionText": "Nigeria played fundamental roles in the creation of",
     "options": [
       " ECOWAS",
       " OPEC",
@@ -673,7 +673,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-56-1251",
-    "questionText": "The leaders who spearheaded the transformation of the Organization of African Unity into the African Union are from (JAMB 2004)",
+    "questionText": "The leaders who spearheaded the transformation of the Organization of African Unity into the African Union are from",
     "options": [
       " Nigeria, Libya and Kenya",
       "Algeria, Libya and Zambia",
@@ -685,7 +685,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-57-128",
-    "questionText": "Between 1960 and 1966, Nigeria was governed under the   (JAMB 2011)",
+    "questionText": "Between 1960 and 1966, Nigeria was governed under the",
     "options": [
       "presidential system of government ",
       "Westminster system of government ",
@@ -697,7 +697,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-58-941",
-    "questionText": "________refers to the manipulation of boundaries of constituencies in order to win more seats, (JAMB 2021)",
+    "questionText": "________refers to the manipulation of boundaries of constituencies in order to win more seats,",
     "options": [
       "Delimitation",
       "Devolution",
@@ -709,7 +709,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-59-704",
-    "questionText": "The principle of anonymity of civil servants means that they are (JAMB 1989)",
+    "questionText": "The principle of anonymity of civil servants means that they are",
     "options": [
       "career officers",
       "not the servants of a particular government",
@@ -721,7 +721,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-60-162",
-    "questionText": "The Chick’s Commission in Nigeria was set up to look into   (JAMB 2012)",
+    "questionText": "The Chick’s Commission in Nigeria was set up to look into",
     "options": [
       "state’s creation  ",
       "revenue allocation  ",
@@ -733,7 +733,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-61-535",
-    "questionText": "The Revenue Mobilization, Allocation and Fiscal Commission is statutorily empowered to determine the remuneration of (JAMB 2013)",
+    "questionText": "The Revenue Mobilization, Allocation and Fiscal Commission is statutorily empowered to determine the remuneration of",
     "options": [
       "all civil servants",
       "only elected representatives",
@@ -745,7 +745,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-62-18",
-    "questionText": "Alhaji Shehu Shagari was sworn in as President of the Federal Republic of Nigeria in 1979 by  (JAMB 2006)",
+    "questionText": "Alhaji Shehu Shagari was sworn in as President of the Federal Republic of Nigeria in 1979 by",
     "options": [
       " Justice Fata Williams ",
       "Justice Adetokunbo Ademola ",
@@ -757,7 +757,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-63-1152",
-    "questionText": "The final interpretation pf the provisions of a federal constitution is vested in the (JAMB 2002)",
+    "questionText": "The final interpretation pf the provisions of a federal constitution is vested in the",
     "options": [
       " head of state",
       "council of state",
@@ -769,7 +769,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-64-1252",
-    "questionText": "A major problem of the defunct Organization of African Unity was (JAMB 2004)",
+    "questionText": "A major problem of the defunct Organization of African Unity was",
     "options": [
       "language barrier",
       "inadequate resources",
@@ -781,7 +781,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-65-1111",
-    "questionText": "The political neutrality of civil servants implies that they (JAMB 2001)",
+    "questionText": "The political neutrality of civil servants implies that they",
     "options": [
       "are not allowed to join any organisation or group",
       "have no dealings with politicians",
@@ -793,7 +793,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-66-953",
-    "questionText": "Financial allocation to local governments by the federal or the state government to supplement the cost of a project is called_____  (JAMB 2021)",
+    "questionText": "Financial allocation to local governments by the federal or the state government to supplement the cost of a project is called_____",
     "options": [
       "Revenue allocation",
       "Reimbursement",
@@ -805,7 +805,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-67-224",
-    "questionText": "The administrative head of a public corporation in Nigeria is the (JAMB 2000)",
+    "questionText": "The administrative head of a public corporation in Nigeria is the",
     "options": [
       "Managing Directors",
       "Secretary",
@@ -817,7 +817,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-68-247",
-    "questionText": "The world organization which existed before the United Nations Organization was the (JAMB 2000)",
+    "questionText": "The world organization which existed before the United Nations Organization was the",
     "options": [
       "League of Nations",
       "European Economic Community",
@@ -829,7 +829,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-69-183",
-    "questionText": "The principles that have guided Nigeria’s foreign policy since independence include the following except   (JAMB 2013)",
+    "questionText": "The principles that have guided Nigeria’s foreign policy since independence include the following except",
     "options": [
       "peaceful coexistence   ",
       "political dependence  ",
@@ -841,7 +841,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-70-375",
-    "questionText": "Citizenship refers to the (JAMB 2016)",
+    "questionText": "Citizenship refers to the",
     "options": [
       "legal status of a member of a state",
       "indigenous member of a state",
@@ -853,7 +853,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-71-945",
-    "questionText": "In the First Republic, the official opposition party was the .......... (JAMB 2021)",
+    "questionText": "In the First Republic, the official opposition party was the ..........",
     "options": [
       "National Council of Nigeria and Cameroons",
       "Northern Elements Progressive Union",
@@ -865,7 +865,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-72-597",
-    "questionText": "Nigeria is regarded as a frontline state because she (JAMB 2014)",
+    "questionText": "Nigeria is regarded as a frontline state because she",
     "options": [
       "sent policemen for peacekeeping in Namibia",
       "assisted the liberation struggle in Southern Africa",
@@ -877,7 +877,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-73-541",
-    "questionText": "Which of the following headed the committee that recommended the suitability of Abuja as a new federal city? (JAMB 2013)",
+    "questionText": "Which of the following headed the committee that recommended the suitability of Abuja as a new federal city?",
     "options": [
       "Justice Akinola Aguda.",
       "Justice Buba Ardo.",
@@ -889,7 +889,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-74-486",
-    "questionText": "In Nigeria, the agency mainly responsible for the maintenance of internal peace and security is the (JAMB 2012)",
+    "questionText": "In Nigeria, the agency mainly responsible for the maintenance of internal peace and security is the",
     "options": [
       "Army",
       "Navy",
@@ -901,7 +901,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-75-1444",
-    "questionText": "The main attributes of a state are (JAMB 2015)",
+    "questionText": "The main attributes of a state are",
     "options": [
       "government, the police and the armed forces",
       " population, territory, government and sovereignty",
@@ -913,7 +913,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-76-957",
-    "questionText": "The Security Council of the United Nations Organization has (JAMB 2022)",
+    "questionText": "The Security Council of the United Nations Organization has",
     "options": [
       " five permanent members",
       " seven permanent members",
@@ -925,7 +925,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-77-387",
-    "questionText": "The foremost British trading company on the West African coast was (JAMB 2016)",
+    "questionText": "The foremost British trading company on the West African coast was",
     "options": [
       "Royal Niger Company",
       "United African Company",
@@ -937,7 +937,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-78-1453",
-    "questionText": "The OAU was formed in (JAMB 2015)",
+    "questionText": "The OAU was formed in",
     "options": [
       "1946",
       "1956",
@@ -949,7 +949,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-79-1268",
-    "questionText": "The principle of separation of powers was made popular by (JAMB 2004)",
+    "questionText": "The principle of separation of powers was made popular by",
     "options": [
       "Thomas Hobbes",
       "John Locke",
@@ -961,7 +961,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-80-226",
-    "questionText": "Red tapism in the civil service refers to (JAMB 2000)",
+    "questionText": "Red tapism in the civil service refers to",
     "options": [
       "The use of red tapes on legal documents.",
       "Sloness of action",
@@ -973,7 +973,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-81-819",
-    "questionText": "An important aspect of an unwritten constitution is that it (JAMB 2018)",
+    "questionText": "An important aspect of an unwritten constitution is that it",
     "options": [
       " is easy to understand to everybody",
       "safeguards the monarchy",
@@ -985,7 +985,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-82-1078",
-    "questionText": "Which local government reform in Nigeria prevented traditional rulers from engaging in politics? (JAMB 2024)",
+    "questionText": "Which local government reform in Nigeria prevented traditional rulers from engaging in politics?",
     "options": [
       " The 1960 Reform",
       " The 1963 Reform",
@@ -997,7 +997,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-83-678",
-    "questionText": "Which of the following is not written into independence constitution of 1960? (JAMB 1989)",
+    "questionText": "Which of the following is not written into independence constitution of 1960?",
     "options": [
       "Fundamental human rights",
       "Exclusive powers",
@@ -1009,7 +1009,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-84-427",
-    "questionText": "Which of the following is the main function of the civil service? (JAMB 2010)",
+    "questionText": "Which of the following is the main function of the civil service?",
     "options": [
       "Supporting the party in power.",
       "Allocating resources to the federating units.",
@@ -1021,7 +1021,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-85-1045",
-    "questionText": "Delegated legislation can be regulated through (JAMB 2024)",
+    "questionText": "Delegated legislation can be regulated through",
     "options": [
       " ministerial control",
       "legislative control",
@@ -1033,7 +1033,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-86-563",
-    "questionText": "An example of a country ruled by a constitutional monarch is (JAMB 2014)",
+    "questionText": "An example of a country ruled by a constitutional monarch is",
     "options": [
       "Uganda",
       "Morocco",
@@ -1045,7 +1045,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-87-914",
-    "questionText": "The Nigeria's head of government in 1963 was _____ (JAMB 2021)",
+    "questionText": "The Nigeria's head of government in 1963 was _____",
     "options": [
       "Chief Nnamdi Azikiwe",
       "General Yakubu Gowon",
@@ -1057,7 +1057,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-88-113",
-    "questionText": "A special election organized to decide on a political issue is known as  (JAMB 2010)",
+    "questionText": "A special election organized to decide on a political issue is known as",
     "options": [
       "plebiscite ",
       "by-election  ",
@@ -1069,7 +1069,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-89-1377",
-    "questionText": "The first military coup in Nigeria toppled the government of (JAMB 2008)",
+    "questionText": "The first military coup in Nigeria toppled the government of",
     "options": [
       " General Yakubu Gowon",
       "Dr Nnamdi Azikiwe",
@@ -1081,7 +1081,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-90-1352",
-    "questionText": "An example of a state with an unwritten constitution is (JAMB 2008)",
+    "questionText": "An example of a state with an unwritten constitution is",
     "options": [
       "Canada",
       "India",
@@ -1093,7 +1093,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-91-409",
-    "questionText": "A fundamental component of political culture is (JAMB 2010)",
+    "questionText": "A fundamental component of political culture is",
     "options": [
       "community structure",
       "family values",
@@ -1105,7 +1105,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-92-287",
-    "questionText": "In Igbo assembly during the pre-colonial era, decisions were normally reached by (JAMB 2013)",
+    "questionText": "In Igbo assembly during the pre-colonial era, decisions were normally reached by",
     "options": [
       "balloting.",
       "consensus",
@@ -1117,7 +1117,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-93-40",
-    "questionText": "These are common forms of governments except  (JAMB 2007)",
+    "questionText": "These are common forms of governments except",
     "options": [
       "federal ",
       "Unitary ",
@@ -1129,7 +1129,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-94-750",
-    "questionText": "An effective means of measuring public opinion is __ (JAMB 2017)",
+    "questionText": "An effective means of measuring public opinion is __",
     "options": [
       "referendum",
       "radio interview",
@@ -1141,7 +1141,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-95-364",
-    "questionText": "A constitution of any country is basically (JAMB 2016)",
+    "questionText": "A constitution of any country is basically",
     "options": [
       "a mere piece of paper",
       "a guide to how the country should be governed",
@@ -1153,7 +1153,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-96-992",
-    "questionText": "In a federal system of government, legislative items constitutionally reserved for only the central government fall under the _________ list. (JAMB 2022)",
+    "questionText": "In a federal system of government, legislative items constitutionally reserved for only the central government fall under the _________ list.",
     "options": [
       "concurrent",
       "executive",
@@ -1165,7 +1165,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-97-539",
-    "questionText": "The highest policy making body under the Gowon Regime was the (JAMB 2013)",
+    "questionText": "The highest policy making body under the Gowon Regime was the",
     "options": [
       "Federal Executive Council",
       "Armed Forces Ruling Council",
@@ -1177,7 +1177,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-98-195",
-    "questionText": "How does the president relieve a minister of his appointment in a presidential system of government? (JAMB 2013)",
+    "questionText": "How does the president relieve a minister of his appointment in a presidential system of government?",
     "options": [
       "In consultation with the legislature",
       "In consultation with the judiciary  ",
@@ -1189,7 +1189,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-99-807",
-    "questionText": "Which of the following cannot be found in a constitution? (JAMB 2018)",
+    "questionText": "Which of the following cannot be found in a constitution?",
     "options": [
       "Fundamental Human Rights",
       "Manifestos of political parties",
@@ -1201,7 +1201,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-100-1260",
-    "questionText": "A distinguishing feature of the 1979 Constitution was the (JAMB 2004)",
+    "questionText": "A distinguishing feature of the 1979 Constitution was the",
     "options": [
       "introduction of federal structure",
       "introduction of unicameralism into Nigeria",
@@ -1213,7 +1213,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-101-892",
-    "questionText": "In the traditional Hausa-Fulani political system, political authority was vested in the ___________ (JAMB 2020)",
+    "questionText": "In the traditional Hausa-Fulani political system, political authority was vested in the ___________",
     "options": [
       "Emir",
       "Talakawa",
@@ -1225,7 +1225,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-102-875",
-    "questionText": "A government in which control of ultimate power is by a few who rule in their selfish interest is classified as _________ (JAMB 2020)",
+    "questionText": "A government in which control of ultimate power is by a few who rule in their selfish interest is classified as _________",
     "options": [
       " an oligarchy",
       "a dictatorship",
@@ -1237,7 +1237,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-103-1147",
-    "questionText": "Communism is a system which recognizes (JAMB 2002)",
+    "questionText": "Communism is a system which recognizes",
     "options": [
       "class stratification",
       "the existence of the state",
@@ -1249,7 +1249,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-104-1022",
-    "questionText": "__________ was a major factor that contributed to the rise of the Sokoto Caliphate. (JAMB 2023)",
+    "questionText": "__________ was a major factor that contributed to the rise of the Sokoto Caliphate.",
     "options": [
       "Agricultural revolution.",
       "Slave trade",
@@ -1261,7 +1261,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-105-751",
-    "questionText": "Universal Adult Suffrage permits all __ (JAMB 2017)",
+    "questionText": "Universal Adult Suffrage permits all __",
     "options": [
       "citizens to vote",
       " qualified male to vote",
@@ -1273,7 +1273,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-106-58",
-    "questionText": "Free education was introduced in west region by which of these premiers?  (JAMB 2008)",
+    "questionText": "Free education was introduced in west region by which of these premiers?",
     "options": [
       "Chief Obafemi Awolowo ",
       "Chief S.L. Akintola  ",
@@ -1285,7 +1285,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-107-822",
-    "questionText": "The creation of more states in Nigeria has_______\n (JAMB 2018)",
+    "questionText": "The creation of more states in Nigeria has_______\n",
     "options": [
       "eliminated ethnic and religious conflicts",
       "reduced the gap between the rich and poor states",
@@ -1297,7 +1297,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-108-150",
-    "questionText": "Laws made by local governments are called   (JAMB 2012)",
+    "questionText": "Laws made by local governments are called",
     "options": [
       "Acts of Parliament ",
       "Local Government Acts ",
@@ -1309,7 +1309,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-109-82",
-    "questionText": "The minorities  Commission appointed in Nigeria in 1957 recommended that  (JAMB 2009)",
+    "questionText": "The minorities  Commission appointed in Nigeria in 1957 recommended that",
     "options": [
       "More states should be create in the federation ",
       "No more states should created before independence ",
@@ -1321,7 +1321,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-110-1245",
-    "questionText": "The permanent members of the Security Council of the United Nations are (JAMB 2004)",
+    "questionText": "The permanent members of the Security Council of the United Nations are",
     "options": [
       "Germany, France, Poland, Hungary and China",
       "Britain, Japan, Australia, Germany and the United States",
@@ -1333,7 +1333,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-111-1399",
-    "questionText": "The fear of domination in the public service led to the (JAMB 2009)",
+    "questionText": "The fear of domination in the public service led to the",
     "options": [
       "adoption of population as a formula for revenue allocation",
       "establishment of the Civil Service Commission",
@@ -1345,7 +1345,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-112-6",
-    "questionText": "The British took over Nigeria through  (JAMB 2006)",
+    "questionText": "The British took over Nigeria through",
     "options": [
       "negotiation ",
       "bargaining  ",
@@ -1357,7 +1357,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-113-205",
-    "questionText": "Diplomatic immunity is a limitation to (JAMB 2000)",
+    "questionText": "Diplomatic immunity is a limitation to",
     "options": [
       "the theory of separation of powers.",
       "principles of checks and balances.",
@@ -1369,7 +1369,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-114-1467",
-    "questionText": "The dominant idea behind the establishment of the Organization of African Unity is (JAMB 2015)",
+    "questionText": "The dominant idea behind the establishment of the Organization of African Unity is",
     "options": [
       "that Africa must unite",
       "to show the world that Africa can also do what Latin American and Asian countries have done",
@@ -1381,7 +1381,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-115-233",
-    "questionText": "Nigeria’s first constitution was the (JAMB 2000)",
+    "questionText": "Nigeria’s first constitution was the",
     "options": [
       "Lyttleton Constitution",
       "Clifford Constitution",
@@ -1393,7 +1393,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-116-258",
-    "questionText": "Authority is the (JAMB 2013)",
+    "questionText": "Authority is the",
     "options": [
       "ability to compel others to do what they do not want",
       "ability to delegate power to other bodies",
@@ -1405,7 +1405,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-117-439",
-    "questionText": "One of the strong points of the multi-party system in Nigeria’s Fourth Republic is (JAMB 2010)",
+    "questionText": "One of the strong points of the multi-party system in Nigeria’s Fourth Republic is",
     "options": [
       "government interference",
       "wider political participation",
@@ -1417,7 +1417,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-118-152",
-    "questionText": "The principle of checks and balances modifies the theory of   (JAMB 2012)",
+    "questionText": "The principle of checks and balances modifies the theory of",
     "options": [
       "Rule of law ",
       "Supremacy of law  ",
@@ -1429,7 +1429,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-119-911",
-    "questionText": "The economic basis of feudalism is __________ (JAMB 2020)",
+    "questionText": "The economic basis of feudalism is __________",
     "options": [
       "agriculture",
       "capital",
@@ -1441,7 +1441,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-120-831",
-    "questionText": "The political party serves as________ (JAMB 2019)",
+    "questionText": "The political party serves as________",
     "options": [
       " A platform upon which the rights and liberties of the people can be attained",
       "The group aggregating the interest of all in the state",
@@ -1453,7 +1453,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-121-50",
-    "questionText": "Nigeria became a republic on  (JAMB 2008)",
+    "questionText": "Nigeria became a republic on",
     "options": [
       "29-May-99",
       "1-Oct-60",
@@ -1465,7 +1465,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-122-354",
-    "questionText": "One of the underlying principles of Nigerian foreign policy is (JAMB 1999)",
+    "questionText": "One of the underlying principles of Nigerian foreign policy is",
     "options": [
       "encouragement of peace-keeping operations in Africa",
       "interference in the internal activities of other countries",
@@ -1477,7 +1477,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-123-624",
-    "questionText": "The following are the key factors which influence Nigeria’s foreign relations except (JAMB 1988)",
+    "questionText": "The following are the key factors which influence Nigeria’s foreign relations except",
     "options": [
       "peaceful co-existence",
       "economic dependence.",
@@ -1489,7 +1489,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-124-935",
-    "questionText": "A major issue that distinguishes pressure groups from political parties is the … (JAMB 2021)",
+    "questionText": "A major issue that distinguishes pressure groups from political parties is the …",
     "options": [
       "Ideology",
       "Objective",
@@ -1501,7 +1501,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-125-216",
-    "questionText": "Authoritarianism is least Inherent in (JAMB 2000)",
+    "questionText": "Authoritarianism is least Inherent in",
     "options": [
       "feudalism",
       "fascism",
@@ -1513,7 +1513,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-126-444",
-    "questionText": "The General Purpose Committee of the local government is the (JAMB 2010)",
+    "questionText": "The General Purpose Committee of the local government is the",
     "options": [
       "body responsible for supervising self-help projects",
       "local government public relations unit",
@@ -1525,7 +1525,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-127-1113",
-    "questionText": "The western zone of the Sokoto caliphate was administered from (JAMB 2001)",
+    "questionText": "The western zone of the Sokoto caliphate was administered from",
     "options": [
       "kebbi",
       "Ilorin",
@@ -1537,7 +1537,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-128-1182",
-    "questionText": "The United Nations charter is an instrument that (JAMB 2002)",
+    "questionText": "The United Nations charter is an instrument that",
     "options": [
       "sets out the rights and obligations of member states",
       "provides for funding of memeber states",
@@ -1549,7 +1549,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-129-946",
-    "questionText": "The highest grade in the Civil Service is known as the ............ (JAMB 2021)",
+    "questionText": "The highest grade in the Civil Service is known as the ............",
     "options": [
       "Technical cadre",
       " Executive cadre",
@@ -1561,7 +1561,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-130-656",
-    "questionText": "It is argued that most of the new States of Africa cannot remain faithful to the doctrines of non-alignment mainly because of (JAMB 1988)",
+    "questionText": "It is argued that most of the new States of Africa cannot remain faithful to the doctrines of non-alignment mainly because of",
     "options": [
       "corruption",
       "ethnic problems",
@@ -1573,7 +1573,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-131-950",
-    "questionText": " A common feature of government is________ (JAMB 2021)",
+    "questionText": " A common feature of government is________",
     "options": [
       " The making of public policy",
       "The separation of powers",
@@ -1585,7 +1585,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-132-694",
-    "questionText": "While political parties aim at forming a government, pressure groups aim at (JAMB 1989)",
+    "questionText": "While political parties aim at forming a government, pressure groups aim at",
     "options": [
       "imposing a military rule",
       "causing social unrest",
@@ -1597,7 +1597,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-133-821",
-    "questionText": "Power refers to the__________ (JAMB 2018)",
+    "questionText": "Power refers to the__________",
     "options": [
       "ability to impose one’s will upon others",
       " duties an individual imposes on himself",
@@ -1609,7 +1609,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-134-605",
-    "questionText": "Government as the act of governing means the (JAMB 1988)",
+    "questionText": "Government as the act of governing means the",
     "options": [
       "activities of pressure groups and political parties",
       "act of vetoing a bill",
@@ -1621,7 +1621,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-135-1256",
-    "questionText": "Nigeria demonstrated her commitment to the policy of non-alignment during the regime of (JAMB 2004)",
+    "questionText": "Nigeria demonstrated her commitment to the policy of non-alignment during the regime of",
     "options": [
       "Ibrahim Babangida",
       "Muhammadu Buhari",
@@ -1633,7 +1633,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-136-344",
-    "questionText": "Decree No.34 of May 1966 is also known as the (JAMB 1999)",
+    "questionText": "Decree No.34 of May 1966 is also known as the",
     "options": [
       "State Security Decree",
       "Suspension and Modification Decree",
@@ -1645,7 +1645,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-137-94",
-    "questionText": "Which of the following NOT an acceptable means of achieving democracy?  (JAMB 2009)",
+    "questionText": "Which of the following NOT an acceptable means of achieving democracy?",
     "options": [
       "Referendums ",
       "Recall ",
@@ -1657,7 +1657,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-138-415",
-    "questionText": "Unicameralism is a feature of the legislature in (JAMB 2010)",
+    "questionText": "Unicameralism is a feature of the legislature in",
     "options": [
       "the United Kingdom",
       "the United States",
@@ -1669,7 +1669,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-139-190",
-    "questionText": "A major flaw in a liberal democracy is (JAMB 2013)",
+    "questionText": "A major flaw in a liberal democracy is",
     "options": [
       "that it promotes political instability",
       "the limitation of the freedom of expression",
@@ -1681,7 +1681,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-140-580",
-    "questionText": "Which of the following nationalists was the founder of Nigeria’s first political party? (JAMB 2014)",
+    "questionText": "Which of the following nationalists was the founder of Nigeria’s first political party?",
     "options": [
       "Abubakar Tafawa Balewa",
       "Ahmadu Bello",
@@ -1693,7 +1693,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-141-1288",
-    "questionText": "Government-owned companies operating in the economic sector are referred to as (JAMB 2004)",
+    "questionText": "Government-owned companies operating in the economic sector are referred to as",
     "options": [
       "public investments",
       "public services",
@@ -1705,7 +1705,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-142-781",
-    "questionText": "n democracies, the political participation could be restricted on the basis of (JAMB 2018)",
+    "questionText": "n democracies, the political participation could be restricted on the basis of",
     "options": [
       "religion",
       "age",
@@ -1717,7 +1717,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-143-65",
-    "questionText": "Which of the following does not describe a party system?  (JAMB 2008)",
+    "questionText": "Which of the following does not describe a party system?",
     "options": [
       "one dominant party system  ",
       "two party system",
@@ -1729,7 +1729,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-144-335",
-    "questionText": "Which of the following parties formed the opposition in the House of Representatives during Nigeria’s First Republic? (JAMB 1999)",
+    "questionText": "Which of the following parties formed the opposition in the House of Representatives during Nigeria’s First Republic?",
     "options": [
       "AG and UMBC",
       "NCNC AND NEPU",
@@ -1741,7 +1741,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-145-141",
-    "questionText": "After the defeat of Germany in World War 1, her former colonies were administered under the League of Nations as:  (JAMB 2011)",
+    "questionText": "After the defeat of Germany in World War 1, her former colonies were administered under the League of Nations as:",
     "options": [
       "occupied territories ",
       "trust territories  ",
@@ -1753,7 +1753,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-146-743",
-    "questionText": "The apex body under the military regime of Yakubu Gowon was __ (JAMB 2017)",
+    "questionText": "The apex body under the military regime of Yakubu Gowon was __",
     "options": [
       "Supreme military Council",
       "Federal Executive Council",
@@ -1765,7 +1765,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-147-681",
-    "questionText": "Bicameralism refers to (JAMB 1989)",
+    "questionText": "Bicameralism refers to",
     "options": [
       "a one chamber legislature",
       "the process of voting in the legislature",
@@ -1777,7 +1777,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-148-545",
-    "questionText": "Nigeria’s non-alignment policy in the sixties lacked real substance because of her (JAMB 2013)",
+    "questionText": "Nigeria’s non-alignment policy in the sixties lacked real substance because of her",
     "options": [
       "close ties with Britain",
       "Afrocentric policy",
@@ -1789,7 +1789,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-149-1483",
-    "questionText": "One of the principal objectives of the OPEC is to (JAMB 2015)",
+    "questionText": "One of the principal objectives of the OPEC is to",
     "options": [
       "determine oil prices in the international market",
       "harmonise the oil policies of member countries",
@@ -1801,7 +1801,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-150-355",
-    "questionText": "Before a new member is admitted to the United Nations Organization, its application must be approved by all (JAMB 1999)",
+    "questionText": "Before a new member is admitted to the United Nations Organization, its application must be approved by all",
     "options": [
       "permanent members of the Security Council",
       "members of the General Assembly",
@@ -1813,7 +1813,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-151-1234",
-    "questionText": "Nigeria's high standing in the UN General Assembly is underscored by her (JAMB 2003)",
+    "questionText": "Nigeria's high standing in the UN General Assembly is underscored by her",
     "options": [
       "military strenght",
       "successes in UN elective offices",
@@ -1825,7 +1825,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-152-1118",
-    "questionText": "When Nigeria achieved independence in 1960, the head of state was the (JAMB 2001)",
+    "questionText": "When Nigeria achieved independence in 1960, the head of state was the",
     "options": [
       "president",
       "prime minister",
@@ -1837,7 +1837,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-153-1231",
-    "questionText": "Nigeria's influence in OPEC is determined by the (JAMB 2003)",
+    "questionText": "Nigeria's influence in OPEC is determined by the",
     "options": [
       "volume of her oil revenue",
       "sizes of her refineries",
@@ -1849,7 +1849,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-154-1307",
-    "questionText": "The political party formed in 1923 by Herbert Macaulay was (JAMB 2005)",
+    "questionText": "The political party formed in 1923 by Herbert Macaulay was",
     "options": [
       "Nigerian Youth Movement",
       "National Council of Nigeria and the Cameroons",
@@ -1861,7 +1861,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-155-726",
-    "questionText": "Which of the following is a strategy of foreign policy implementation? (JAMB 2017)",
+    "questionText": "Which of the following is a strategy of foreign policy implementation?",
     "options": [
       " Cultural integration",
       " Democratic elections",
@@ -1873,7 +1873,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-156-677",
-    "questionText": "The two parties which formed the coalition government in 1959 were the (JAMB 1989)",
+    "questionText": "The two parties which formed the coalition government in 1959 were the",
     "options": [
       "NPC and the NCNC",
       "NCNC and the AG",
@@ -1885,7 +1885,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-157-657",
-    "questionText": "The first political party in Nigeria was (JAMB 1988)",
+    "questionText": "The first political party in Nigeria was",
     "options": [
       "National Council of Nigerian Citizens (N.C.N.C)",
       "Nigerian National Democratic Party (N.N.D.P)",
@@ -1897,7 +1897,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-158-1338",
-    "questionText": "Under a parliamentary system of government, the cabinet holds office at the pleasure of the (JAMB 2005)",
+    "questionText": "Under a parliamentary system of government, the cabinet holds office at the pleasure of the",
     "options": [
       "opposition",
       "electorate",
@@ -1909,7 +1909,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-159-307",
-    "questionText": "Which of the following is NOT a feature of the civil service? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a feature of the civil service?",
     "options": [
       "Anonymity",
       "Expertise",
@@ -1921,7 +1921,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-160-692",
-    "questionText": "The head of the Oyomesi in the old Oyo Empire was (JAMB 1989)",
+    "questionText": "The head of the Oyomesi in the old Oyo Empire was",
     "options": [
       "Aremo",
       "Are Onakakanfo",
@@ -1933,7 +1933,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-161-273",
-    "questionText": " (JAMB 2013)",
+    "questionText": "",
     "options": [
       "In a single member constituency the voters in that constituency have the right to",
       "declare a winner of an election in their constituency",
@@ -1945,7 +1945,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-162-664",
-    "questionText": "Government is the machinery established to manage the affairs of (JAMB 1989)",
+    "questionText": "Government is the machinery established to manage the affairs of",
     "options": [
       "rulers",
       "aliens",
@@ -1957,7 +1957,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-163-1452",
-    "questionText": "The main role of pressure groups is to (JAMB 2015)",
+    "questionText": "The main role of pressure groups is to",
     "options": [
       " influence the legislature to make decision favourable to them",
       "inject emotion and selfish debates",
@@ -1969,7 +1969,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-164-711",
-    "questionText": "With which country did Nigeria break diplomatic relations in 1963 for exploding a nuclear device in the Sahara? (JAMB 1989)",
+    "questionText": "With which country did Nigeria break diplomatic relations in 1963 for exploding a nuclear device in the Sahara?",
     "options": [
       "The Soviet Union",
       "The U.S.A",
@@ -1981,7 +1981,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-165-842",
-    "questionText": "The non-stratified society in the pre-colonial era was that of the ........ where decisions were made________ (JAMB 2019)",
+    "questionText": "The non-stratified society in the pre-colonial era was that of the ........ where decisions were made________",
     "options": [
       "Yoruba, by the Oyomesi",
       "Igbo, by consensus",
@@ -1993,7 +1993,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-166-632",
-    "questionText": "The Armed Forces Ruling Council came into existence under the (JAMB 1988)",
+    "questionText": "The Armed Forces Ruling Council came into existence under the",
     "options": [
       "Buhari Administration",
       "Gowon  Administration",
@@ -2005,7 +2005,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-167-1448",
-    "questionText": "How many states were created in Nigeria in 1967? (JAMB 2015)",
+    "questionText": "How many states were created in Nigeria in 1967?",
     "options": [
       "4",
       "12",
@@ -2017,7 +2017,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-168-810",
-    "questionText": "Nigeria's foreign policy of non-alignment was a reaction to (JAMB 2018)",
+    "questionText": "Nigeria's foreign policy of non-alignment was a reaction to",
     "options": [
       "British imperialism",
       " East-West ideological competition",
@@ -2029,7 +2029,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-169-1120",
-    "questionText": "Which of these constitutions recognized local government as a third tier of government in Nigeria? (JAMB 2001)",
+    "questionText": "Which of these constitutions recognized local government as a third tier of government in Nigeria?",
     "options": [
       "1946 Constitution.",
       "1960 Constitution.",
@@ -2041,7 +2041,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-170-609",
-    "questionText": "A flexible constitution can only be amended by (JAMB 1988)",
+    "questionText": "A flexible constitution can only be amended by",
     "options": [
       "two-third (2/3) majority vote in the legislature.",
       "referendum.",
@@ -2053,7 +2053,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-171-1431",
-    "questionText": "Which of the following is a duty of an electoral commission (JAMB 2009)",
+    "questionText": "Which of the following is a duty of an electoral commission",
     "options": [
       "Registeration of political parties",
       "Creation of political parties",
@@ -2065,7 +2065,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-172-437",
-    "questionText": "The designation of ministers as chief executives and accounting officers was recommended by a commission headed by (JAMB 2010)",
+    "questionText": "The designation of ministers as chief executives and accounting officers was recommended by a commission headed by",
     "options": [
       "Simeon Adebo",
       "S.J.Cookey",
@@ -2077,7 +2077,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-173-209",
-    "questionText": "Which of the following is the lowest class of people in the hierarchy of a feudal system? (JAMB 2000)",
+    "questionText": "Which of the following is the lowest class of people in the hierarchy of a feudal system?",
     "options": [
       "Nobles",
       "Serfs",
@@ -2089,7 +2089,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-174-712",
-    "questionText": "The first political party in Nigeria was formed after the introduction of the (JAMB 1989)",
+    "questionText": "The first political party in Nigeria was formed after the introduction of the",
     "options": [
       "Richard constitution",
       "Clifford constitution",
@@ -2101,7 +2101,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-175-518",
-    "questionText": "A constitution that is difficult to amend is (JAMB 2013)",
+    "questionText": "A constitution that is difficult to amend is",
     "options": [
       "flexible",
       "rigid",
@@ -2113,7 +2113,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-176-853",
-    "questionText": "The federal judge under the 1963 constitution could be removed by the______ (JAMB 2019)",
+    "questionText": "The federal judge under the 1963 constitution could be removed by the______",
     "options": [
       "2/3 majority of the National Assembly",
       "Federal Judicial Service Commission",
@@ -2125,7 +2125,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-177-208",
-    "questionText": "Veto power in a presidential system lies with the (JAMB 2000)",
+    "questionText": "Veto power in a presidential system lies with the",
     "options": [
       "Attorney General",
       "Chief of Army Staff",
@@ -2137,7 +2137,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-178-96",
-    "questionText": "In a democracy, sovereignty is vested in  (JAMB 2009)",
+    "questionText": "In a democracy, sovereignty is vested in",
     "options": [
       "The community ",
       "Public officials ",
@@ -2149,7 +2149,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-179-116",
-    "questionText": "Which of the these was the main organ of the defunct OAU?  (JAMB 2010)",
+    "questionText": "Which of the these was the main organ of the defunct OAU?",
     "options": [
       "The liberation committee ",
       "The Council of Ministers  ",
@@ -2161,7 +2161,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-180-121",
-    "questionText": "According to Karl Marx, the mode of production that precedes capitalism is  (JAMB 2010)",
+    "questionText": "According to Karl Marx, the mode of production that precedes capitalism is",
     "options": [
       "mercantilism ",
       "feudalism ",
@@ -2173,7 +2173,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-181-250",
-    "questionText": "The legitimacy of government is established when (JAMB 2013)",
+    "questionText": "The legitimacy of government is established when",
     "options": [
       "civil service commission reflects federal character",
       "electoral commission is well funded",
@@ -2185,7 +2185,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-182-80",
-    "questionText": "Which of these constitutions recognized local government is the third tier of government?  (JAMB 2009)",
+    "questionText": "Which of these constitutions recognized local government is the third tier of government?",
     "options": [
       "The 1946 constitution ",
       "The 1960 constitution",
@@ -2197,7 +2197,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-183-1168",
-    "questionText": "Under the 1999 Constitution of Nigeria, the power to create local governments is vested in the (JAMB 2002)",
+    "questionText": "Under the 1999 Constitution of Nigeria, the power to create local governments is vested in the",
     "options": [
       "state assembly",
       "office of the deputy governor",
@@ -2209,7 +2209,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-184-107",
-    "questionText": "Proportional representation favours a  (JAMB 2010)",
+    "questionText": "Proportional representation favours a",
     "options": [
       "multi-party system ",
       "three party system ",
@@ -2221,7 +2221,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-185-594",
-    "questionText": "Which of the following is a guiding principle of Nigeria’s foreign policy? (JAMB 2014)",
+    "questionText": "Which of the following is a guiding principle of Nigeria’s foreign policy?",
     "options": [
       "Total opposition to the Cold War",
       "Posting of only carrier diplomats as envoys",
@@ -2233,7 +2233,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-186-1184",
-    "questionText": "The group of states that conceived the idea of the United Nations Organization included (JAMB 2002)",
+    "questionText": "The group of states that conceived the idea of the United Nations Organization included",
     "options": [
       "the USSR, Italy, the UK and China",
       " Italy, the UK, France and Japan",
@@ -2245,7 +2245,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-187-1011",
-    "questionText": "Which document serves as the constitution of the United Nations? (JAMB 2023)",
+    "questionText": "Which document serves as the constitution of the United Nations?",
     "options": [
       "Universal Declaration of Human Rights",
       "Geneva conventions",
@@ -2257,7 +2257,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-188-1012",
-    "questionText": "Pressure groups primarily aim to (JAMB 2023)",
+    "questionText": "Pressure groups primarily aim to",
     "options": [
       "promote social equality and justice",
       "gain political power and control",
@@ -2269,7 +2269,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-189-1457",
-    "questionText": "In a Federal System (such as Nigeria) the Local Governments are directly responsible (JAMB 2015)",
+    "questionText": "In a Federal System (such as Nigeria) the Local Governments are directly responsible",
     "options": [
       "to the Federal or Central Government",
       " to the State Government",
@@ -2281,7 +2281,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-190-449",
-    "questionText": "Nigeria spearheaded the formation of ECOWAS during the regime of (JAMB 2010)",
+    "questionText": "Nigeria spearheaded the formation of ECOWAS during the regime of",
     "options": [
       "Murtala Muhammed",
       "Yakubu Gowon",
@@ -2293,7 +2293,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-191-857",
-    "questionText": "The Economic and Financials Crime Commission (EFCC) scope and nature of duty may not extend to_______ (JAMB 2019)",
+    "questionText": "The Economic and Financials Crime Commission (EFCC) scope and nature of duty may not extend to_______",
     "options": [
       "arresting suspects of cyber crime and online fraud",
       " arresting the giver and the taker in a corruption case",
@@ -2305,7 +2305,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-192-612",
-    "questionText": "Federal Election were held in Nigeria in (JAMB 1988)",
+    "questionText": "Federal Election were held in Nigeria in",
     "options": [
       "1946, 1951, 1954, 1979 and 1983",
       "1954, 1959, 1964, 1979 and 1983.",
@@ -2317,7 +2317,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-193-12",
-    "questionText": "The agent of political socialization generally regarded as the most important is  (JAMB 2006)",
+    "questionText": "The agent of political socialization generally regarded as the most important is",
     "options": [
       "family ",
       "peer group",
@@ -2329,7 +2329,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-194-1314",
-    "questionText": "In the First Republic,the official opposition party was the (JAMB 2005)",
+    "questionText": "In the First Republic,the official opposition party was the",
     "options": [
       "Action Group",
       "Northern People's Congress",
@@ -2341,7 +2341,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-195-758",
-    "questionText": "The concentration of power on the units is a merit of __ (JAMB 2017)",
+    "questionText": "The concentration of power on the units is a merit of __",
     "options": [
       " quasi-federal-system",
       "confederal system",
@@ -2353,7 +2353,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-196-361",
-    "questionText": "Decree 34 of 1966 was unacceptable to many Nigeria because it was (JAMB 2016)",
+    "questionText": "Decree 34 of 1966 was unacceptable to many Nigeria because it was",
     "options": [
       "seen as an instrument of impoverishment",
       "perceived to abolish the federal system",
@@ -2365,7 +2365,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-197-760",
-    "questionText": "Delegated legislation is the— (JAMB 2017)",
+    "questionText": "Delegated legislation is the—",
     "options": [
       "limitation of responsibilities to agencies",
       "transfer of responsibilities to agencies",
@@ -2377,7 +2377,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-198-669",
-    "questionText": "In the parliamentary system of government, ministers are (JAMB 1989)",
+    "questionText": "In the parliamentary system of government, ministers are",
     "options": [
       "chosen from the House as well as outside",
       "collectively responsible to parliament",
@@ -2389,7 +2389,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-199-1290",
-    "questionText": "The 1976 Local Government Reforms in Nigeria transformed the relationship between states and local governments into one of (JAMB 2004)",
+    "questionText": "The 1976 Local Government Reforms in Nigeria transformed the relationship between states and local governments into one of",
     "options": [
       "equality",
       "master and servant",
@@ -2401,7 +2401,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-200-1387",
-    "questionText": "The 1989 Nigerian Constitution provided for a (JAMB 2008)",
+    "questionText": "The 1989 Nigerian Constitution provided for a",
     "options": [
       "multi-party system",
       "zero-party system",
@@ -2413,7 +2413,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-201-314",
-    "questionText": "One of the distinctive features of democracy is that it (JAMB 1999)",
+    "questionText": "One of the distinctive features of democracy is that it",
     "options": [
       "connotes civil rule",
       "facilitates popular",
@@ -2425,7 +2425,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-202-1071",
-    "questionText": "The electoral process in a representative government does NOT include (JAMB 2024)",
+    "questionText": "The electoral process in a representative government does NOT include",
     "options": [
       "free and fair elections",
       " free press",
@@ -2437,7 +2437,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-203-428",
-    "questionText": "Who was the political head of the Old Oyo Empire? (JAMB 2010)",
+    "questionText": "Who was the political head of the Old Oyo Empire?",
     "options": [
       "Aremo.",
       "Oyomesi.",
@@ -2449,7 +2449,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-204-199",
-    "questionText": "Government as an institution of a state can best be defined as a body that (JAMB 2000)",
+    "questionText": "Government as an institution of a state can best be defined as a body that",
     "options": [
       "recruits and trains political leaders",
       "settles disputes and interprets laws for the state.",
@@ -2461,7 +2461,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-205-475",
-    "questionText": "An intra-party activity for the selection of candidates for elective positions is known as (JAMB 2012)",
+    "questionText": "An intra-party activity for the selection of candidates for elective positions is known as",
     "options": [
       "primary election",
       "general election",
@@ -2473,7 +2473,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-206-127",
-    "questionText": "The principle of federal character was first enunciated in the:  (JAMB 2011)",
+    "questionText": "The principle of federal character was first enunciated in the:",
     "options": [
       "1989 constitution ",
       "1963 constitution",
@@ -2485,7 +2485,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-207-304",
-    "questionText": "The Headquarters of Organization of Petroleum Exporting Countries (OPEC) is located in (JAMB 2013)",
+    "questionText": "The Headquarters of Organization of Petroleum Exporting Countries (OPEC) is located in",
     "options": [
       "Algiers",
       "Baghdad",
@@ -2497,7 +2497,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-208-391",
-    "questionText": "Judges in Nigeria enjoy security of tenure (JAMB 2016)",
+    "questionText": "Judges in Nigeria enjoy security of tenure",
     "options": [
       "if they are appointed by the president",
       "if they have the support of the Nigerian Bar Association",
@@ -2509,7 +2509,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-209-738",
-    "questionText": "The chief executive system is associated with __ (JAMB 2017)",
+    "questionText": "The chief executive system is associated with __",
     "options": [
       "federalism",
       "presidentialism",
@@ -2521,7 +2521,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-210-850",
-    "questionText": "In the all-Nigerian constitutional conference of 1950_______ (JAMB 2019)",
+    "questionText": "In the all-Nigerian constitutional conference of 1950_______",
     "options": [
       " all official members of the legislative council participated",
       "it was resolved that the Nigerians federation be organized on ethnic basis",
@@ -2533,7 +2533,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-211-328",
-    "questionText": "A dominant two-party system is operated in (JAMB 1999)",
+    "questionText": "A dominant two-party system is operated in",
     "options": [
       "the United Kingdom and the United States",
       "India and Pakistan",
@@ -2545,7 +2545,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-212-84",
-    "questionText": "One of these was in existence  before the outbreak of the Second World War  (JAMB 2009)",
+    "questionText": "One of these was in existence  before the outbreak of the Second World War",
     "options": [
       "The OAU  ",
       "League of Nations ",
@@ -2557,7 +2557,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-213-1309",
-    "questionText": "Under the emirate system,legislative functions were performed by the (JAMB 2005)",
+    "questionText": "Under the emirate system,legislative functions were performed by the",
     "options": [
       "Khadi",
       "Ulama",
@@ -2569,7 +2569,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699889-214-363",
-    "questionText": "A major contentious issues confronting Nigerian Federalism is (JAMB 2016)",
+    "questionText": "A major contentious issues confronting Nigerian Federalism is",
     "options": [
       "poverty",
       "education",
@@ -2581,7 +2581,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-215-285",
-    "questionText": "The following were the consequences of the Nigeria civil war EXCEPT the (JAMB 2013)",
+    "questionText": "The following were the consequences of the Nigeria civil war EXCEPT the",
     "options": [
       "creation of more states",
       "disruption of educational and economic activities",
@@ -2593,7 +2593,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-216-1232",
-    "questionText": "The activities of Nigeria in the international community are primarily influenced by (JAMB 2003)",
+    "questionText": "The activities of Nigeria in the international community are primarily influenced by",
     "options": [
       "propaganda",
       "national interest",
@@ -2605,7 +2605,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-217-638",
-    "questionText": "The psychological support a regime gets from its citizens. If they believe the regime is right and ought to be obeyed is known as (JAMB 1988)",
+    "questionText": "The psychological support a regime gets from its citizens. If they believe the regime is right and ought to be obeyed is known as",
     "options": [
       "Sovereignty",
       "power",
@@ -2617,7 +2617,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-218-1219",
-    "questionText": "One of the legacies of pre-colonial Nigeria destroyed by the British was the (JAMB 2003)",
+    "questionText": "One of the legacies of pre-colonial Nigeria destroyed by the British was the",
     "options": [
       "peace and harmony in the land",
       "indigenous cultures of the people",
@@ -2629,7 +2629,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-219-53",
-    "questionText": "What was the name of the highest ruling body during General Babangida’s rule?   (JAMB 2008)",
+    "questionText": "What was the name of the highest ruling body during General Babangida’s rule?",
     "options": [
       "The presidency  ",
       "Armed Forces Ruling Council ",
@@ -2641,7 +2641,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-220-414",
-    "questionText": "The legislative body of the United States of America is the (JAMB 2010)",
+    "questionText": "The legislative body of the United States of America is the",
     "options": [
       "Congress",
       "National Assembly",
@@ -2653,7 +2653,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-221-1145",
-    "questionText": "One major disadvantage of public opinion is that (JAMB 2002)",
+    "questionText": "One major disadvantage of public opinion is that",
     "options": [
       "the critics of government policies are always harassed",
       " a vocal minority claims to represent the majority",
@@ -2665,7 +2665,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-222-534",
-    "questionText": "Under Nigeria’s Second Republic, the Senate was under the leadership of (JAMB 2013)",
+    "questionText": "Under Nigeria’s Second Republic, the Senate was under the leadership of",
     "options": [
       "John Wash Pam",
       "J. S. Tarka",
@@ -2677,7 +2677,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-223-469",
-    "questionText": "To ensure the rights and freedom of citizens, the powers of the arms of government must be (JAMB 2012)",
+    "questionText": "To ensure the rights and freedom of citizens, the powers of the arms of government must be",
     "options": [
       "fused",
       "incorporated",
@@ -2689,7 +2689,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-224-717",
-    "questionText": "Which of the following is not a function of the Secretary-General of the United Nations Organization? (JAMB 1989)",
+    "questionText": "Which of the following is not a function of the Secretary-General of the United Nations Organization?",
     "options": [
       "Supervising the Secretariat",
       "Interpreting the treaties",
@@ -2701,7 +2701,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-225-568",
-    "questionText": "Citizenship is acquired by an alien through (JAMB 2014)",
+    "questionText": "Citizenship is acquired by an alien through",
     "options": [
       "registration",
       "birth",
@@ -2713,7 +2713,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-226-1333",
-    "questionText": "One of the foremost theorists of federalism was (JAMB 2005)",
+    "questionText": "One of the foremost theorists of federalism was",
     "options": [
       "Baron de Montesquieu",
       "Karl Marx",
@@ -2725,7 +2725,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-227-1065",
-    "questionText": "Absence of a Red-tape is a merit of  (JAMB 2024)",
+    "questionText": "Absence of a Red-tape is a merit of",
     "options": [
       " federal government structure",
       " unitary structure",
@@ -2737,7 +2737,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-228-519",
-    "questionText": "Which of the following constitutions is more suitable for centralization of political power? (JAMB 2013)",
+    "questionText": "Which of the following constitutions is more suitable for centralization of political power?",
     "options": [
       "Flexible constitution.",
       "Unwritten constitution.",
@@ -2749,7 +2749,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-229-14",
-    "questionText": "Which of the following best describes French colonial policy in Africa?  (JAMB 2006)",
+    "questionText": "Which of the following best describes French colonial policy in Africa?",
     "options": [
       "policy of association ",
       "policy of Casus Belli ",
@@ -2761,7 +2761,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-230-725",
-    "questionText": "Which of the following is a merit of aristocracy? (JAMB 2017)",
+    "questionText": "Which of the following is a merit of aristocracy?",
     "options": [
       "Leaders must have military experience",
       " The best citizen is in control of government",
@@ -2773,7 +2773,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-231-468",
-    "questionText": "The rule of law is a negation of (JAMB 2012)",
+    "questionText": "The rule of law is a negation of",
     "options": [
       "equality before the law",
       "supremacy of the law",
@@ -2785,7 +2785,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-232-1025",
-    "questionText": "A major event in Nigerian history that led to the suspension of Nigeria's constitution and the declaration of a state of emergency by the colonial authorities in 1953 was the ________. (JAMB 2023)",
+    "questionText": "A major event in Nigerian history that led to the suspension of Nigeria's constitution and the declaration of a state of emergency by the colonial authorities in 1953 was the ________.",
     "options": [
       " Aba women's riot",
       "Zikist movement",
@@ -2797,7 +2797,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-233-413",
-    "questionText": "In a parliamentary system, when the legislature passes a vote of no confidence on the executive, it means that the (JAMB 2010)",
+    "questionText": "In a parliamentary system, when the legislature passes a vote of no confidence on the executive, it means that the",
     "options": [
       "executive is required to resign",
       "legislature ceases to trust the executive",
@@ -2809,7 +2809,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-234-264",
-    "questionText": "Which of these countries is NOT a member of Economic Community of West African States (ECOWAS). (JAMB 2013)",
+    "questionText": "Which of these countries is NOT a member of Economic Community of West African States (ECOWAS).",
     "options": [
       "Cameroon",
       "Cape Verde",
@@ -2821,7 +2821,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-235-256",
-    "questionText": "In the Igbo pre-colonial administration, the council of elders was normally presided over by (JAMB 2013)",
+    "questionText": "In the Igbo pre-colonial administration, the council of elders was normally presided over by",
     "options": [
       "Eze",
       "Obi",
@@ -2833,7 +2833,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-236-270",
-    "questionText": "The Commonwealth of Nations consists of states formerly under ___colony. (JAMB 2013)",
+    "questionText": "The Commonwealth of Nations consists of states formerly under ___colony.",
     "options": [
       "Belgium",
       "British",
@@ -2845,7 +2845,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-237-48",
-    "questionText": "One of these is not a characteristic  of the state  (JAMB 2008)",
+    "questionText": "One of these is not a characteristic  of the state",
     "options": [
       "selection of political leaders ",
       "a written constitution ",
@@ -2857,7 +2857,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-238-653",
-    "questionText": "The use of forced labour was one of the features of (JAMB 1988)",
+    "questionText": "The use of forced labour was one of the features of",
     "options": [
       "British colonial policy",
       "French colonial policy",
@@ -2869,7 +2869,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-239-1020",
-    "questionText": "The National assembly is composed of how many chambers? (JAMB 2023)",
+    "questionText": "The National assembly is composed of how many chambers?",
     "options": [
       "Two",
       "Four",
@@ -2881,7 +2881,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-240-703",
-    "questionText": "Which of the following is not an objective in foreign policy? (JAMB 1989)",
+    "questionText": "Which of the following is not an objective in foreign policy?",
     "options": [
       "Prestige",
       "Large population",
@@ -2893,7 +2893,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-241-161",
-    "questionText": "The Universal Negro Improvement Association was founded by   (JAMB 2012)",
+    "questionText": "The Universal Negro Improvement Association was founded by",
     "options": [
       "Casely Hayford  ",
       "Herber Macauly  ",
@@ -2905,7 +2905,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-242-313",
-    "questionText": "In the parliamentary system of government, formal legislation can take the following forms except (JAMB 1999)",
+    "questionText": "In the parliamentary system of government, formal legislation can take the following forms except",
     "options": [
       "royal proclamations",
       "order in council",
@@ -2917,7 +2917,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-243-1304",
-    "questionText": "The atomic bomb tests carried out around the Sahara Desert made Nigeria sever relations with (JAMB 2005)",
+    "questionText": "The atomic bomb tests carried out around the Sahara Desert made Nigeria sever relations with",
     "options": [
       "The United States",
       "France",
@@ -2929,7 +2929,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-244-1085",
-    "questionText": "Which of these colonial constitutions in Nigeria endured for the longest period? (JAMB 2024)",
+    "questionText": "Which of these colonial constitutions in Nigeria endured for the longest period?",
     "options": [
       " Richard",
       " Richard",
@@ -2941,7 +2941,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-245-553",
-    "questionText": "The AU differs from the OAU in having (JAMB 2013)",
+    "questionText": "The AU differs from the OAU in having",
     "options": [
       "no assembly of Heads of State",
       "effective tools for decision enforcement.",
@@ -2953,7 +2953,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-246-89",
-    "questionText": "Africans were first elected to the legislature council in British West African  (JAMB 2009)",
+    "questionText": "Africans were first elected to the legislature council in British West African",
     "options": [
       "Ghana ",
       "Sierra Leone ",
@@ -2965,7 +2965,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-247-759",
-    "questionText": " In fascism, the leader is __ (JAMB 2017)",
+    "questionText": " In fascism, the leader is __",
     "options": [
       "supreme",
       "democratic",
@@ -2977,7 +2977,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-248-64",
-    "questionText": "In many countries, citizenship can be acquired through the following processes except  (JAMB 2008)",
+    "questionText": "In many countries, citizenship can be acquired through the following processes except",
     "options": [
       "nationalization ",
       "naturalization ",
@@ -2989,7 +2989,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-249-940",
-    "questionText": "One argument against a multi-party system is the _______ (JAMB 2021)",
+    "questionText": "One argument against a multi-party system is the _______",
     "options": [
       "Inability to attract foreign assistance",
       "High cost of conducting elections",
@@ -3001,7 +3001,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-250-510",
-    "questionText": "According to Aristotle, a form of government in which the few rule for the benefit of all is (JAMB 2013)",
+    "questionText": "According to Aristotle, a form of government in which the few rule for the benefit of all is",
     "options": [
       "polyarchy",
       "diarchy",
@@ -3013,7 +3013,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-251-1259",
-    "questionText": "A common feature of the earlier political parties in Nigeria was that they (JAMB 2004)",
+    "questionText": "A common feature of the earlier political parties in Nigeria was that they",
     "options": [
       "were formed by the government",
       "started as a social-cultural organizations",
@@ -3025,7 +3025,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-252-1393",
-    "questionText": "The political structure of Nigeria under the first military regime was (JAMB 2008)",
+    "questionText": "The political structure of Nigeria under the first military regime was",
     "options": [
       "confederal",
       " quasi-federal",
@@ -3037,7 +3037,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-253-1247",
-    "questionText": "The countries in which Nigeria participated in the ECOMOG peace-keeping operations were (JAMB 2004)",
+    "questionText": "The countries in which Nigeria participated in the ECOMOG peace-keeping operations were",
     "options": [
       "Sierra Leone and Cote d'ivoire",
       "Liberia and Sierra Leone",
@@ -3049,7 +3049,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-254-39",
-    "questionText": "Every political system performs the following basic functions except  (JAMB 2007)",
+    "questionText": "Every political system performs the following basic functions except",
     "options": [
       "rule making ",
       "rule transformation ",
@@ -3061,7 +3061,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-255-261",
-    "questionText": "The first military intervention in Nigeria politics was in (JAMB 2013)",
+    "questionText": "The first military intervention in Nigeria politics was in",
     "options": [
       "1960",
       "1962.",
@@ -3073,7 +3073,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-256-115",
-    "questionText": "In the process of implementing laws, the executive sometimes performs:  (JAMB 2010)",
+    "questionText": "In the process of implementing laws, the executive sometimes performs:",
     "options": [
       "judicial function ",
       "bureaucratic function ",
@@ -3085,7 +3085,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-257-578",
-    "questionText": "Nationalists agitation began in Nigeria with the (JAMB 2014)",
+    "questionText": "Nationalists agitation began in Nigeria with the",
     "options": [
       "Lagos protest against water rate in 1908",
       "introduction of indirect rule",
@@ -3097,7 +3097,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-258-1030",
-    "questionText": "Nigeria shares its longest border with which West African country? (JAMB 2023)",
+    "questionText": "Nigeria shares its longest border with which West African country?",
     "options": [
       "Niger",
       "Chad",
@@ -3109,7 +3109,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-259-890",
-    "questionText": "When a state is subject to no other authority, it is said to be _________ (JAMB 2020)",
+    "questionText": "When a state is subject to no other authority, it is said to be _________",
     "options": [
       "powerful",
       "legitmate",
@@ -3121,7 +3121,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-260-603",
-    "questionText": "Former colonies of Britain belong to the association known as (JAMB 2014)",
+    "questionText": "Former colonies of Britain belong to the association known as",
     "options": [
       "OECD",
       "NATO",
@@ -3133,7 +3133,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-261-28",
-    "questionText": "All but one of the following is not a symbol of political culture  (JAMB 2007)",
+    "questionText": "All but one of the following is not a symbol of political culture",
     "options": [
       "a national flag ",
       "the government ",
@@ -3145,7 +3145,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-262-1356",
-    "questionText": "Equality before the law is a component of (JAMB 2008)",
+    "questionText": "Equality before the law is a component of",
     "options": [
       "separation of powers",
       " checks and balances",
@@ -3157,7 +3157,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-263-1263",
-    "questionText": "The process of nationalism was accelerated by (JAMB 2004)",
+    "questionText": "The process of nationalism was accelerated by",
     "options": [
       "the signing of the Atlantic Charter",
       " improvement in warfare tactics",
@@ -3169,7 +3169,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-264-803",
-    "questionText": "Which of the following is the lowest in the hierarchy of feudal system? (JAMB 2018)",
+    "questionText": "Which of the following is the lowest in the hierarchy of feudal system?",
     "options": [
       "Knights",
       "Serfs",
@@ -3181,7 +3181,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-265-865",
-    "questionText": "The delineation of electoral constituencies for reasons of political advantage is termed___________ (JAMB 2019)",
+    "questionText": "The delineation of electoral constituencies for reasons of political advantage is termed___________",
     "options": [
       "dissolution",
       "prorogation",
@@ -3193,7 +3193,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-266-860",
-    "questionText": "The most representative organ of the united nations is the_______ (JAMB 2019)",
+    "questionText": "The most representative organ of the united nations is the_______",
     "options": [
       " General Assembly",
       "Security Council",
@@ -3205,7 +3205,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-267-438",
-    "questionText": "A major shortcoming of the Ombudsman is (JAMB 2010)",
+    "questionText": "A major shortcoming of the Ombudsman is",
     "options": [
       "its inability to restrain bureaucratic excesses",
       "lack of clear-cut mandate",
@@ -3217,7 +3217,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-268-110",
-    "questionText": "In the First Republic, Politics in Northern Nigeria was dominated by:  (JAMB 2010)",
+    "questionText": "In the First Republic, Politics in Northern Nigeria was dominated by:",
     "options": [
       "NEPU ",
       "UMBC ",
@@ -3229,7 +3229,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-269-1351",
-    "questionText": "Which of the following is a perverted form of democracy? (JAMB 2008)",
+    "questionText": "Which of the following is a perverted form of democracy?",
     "options": [
       "Feudalism",
       "Republicanism",
@@ -3241,7 +3241,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-270-967",
-    "questionText": "The French colonial policy aimed at changing Africans into French men was the policy of (JAMB 2022)",
+    "questionText": "The French colonial policy aimed at changing Africans into French men was the policy of",
     "options": [
       "assimilation",
       "accommodation",
@@ -3253,7 +3253,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-271-369",
-    "questionText": "The first Governor-General of Nigeria was (JAMB 2016)",
+    "questionText": "The first Governor-General of Nigeria was",
     "options": [
       "Lord Lugard",
       "Dr. Nnamdi Azikwe",
@@ -3265,7 +3265,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-272-66",
-    "questionText": "ECOMOG was set up primarily to  (JAMB 2008)",
+    "questionText": "ECOMOG was set up primarily to",
     "options": [
       "drive away the Europeans from West Africa ",
       "serve as a peace keeping force for ECOWAS ",
@@ -3277,7 +3277,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-273-165",
-    "questionText": "The principle of checks and balances empowers the judiciary to   (JAMB 2012)",
+    "questionText": "The principle of checks and balances empowers the judiciary to",
     "options": [
       "apply the law  ",
       "administer the criminal justice system  ",
@@ -3289,7 +3289,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-274-836",
-    "questionText": "Popular political participation means________ (JAMB 2019)",
+    "questionText": "Popular political participation means________",
     "options": [
       "having majority of the people partaking in politics",
       " having a good number of voters in the electoral process",
@@ -3301,7 +3301,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-275-1359",
-    "questionText": "An institution that transforms a myriad of demands into a more manageable proposal is the (JAMB 2008)",
+    "questionText": "An institution that transforms a myriad of demands into a more manageable proposal is the",
     "options": [
       "executive",
       "legislature",
@@ -3313,7 +3313,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-276-1031",
-    "questionText": "The electoral system used in Nigeria is primarily based on __________ (JAMB 2023)",
+    "questionText": "The electoral system used in Nigeria is primarily based on __________",
     "options": [
       "mixed-member proportional",
       " preferential voting",
@@ -3325,7 +3325,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-277-663",
-    "questionText": "Nigeria objected to the discussion of the civil war in the O.A. U. summit on the grounds that (JAMB 1988)",
+    "questionText": "Nigeria objected to the discussion of the civil war in the O.A. U. summit on the grounds that",
     "options": [
       "it amount to interference in its internal affairs",
       "some African countries recognized Biafra",
@@ -3337,7 +3337,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-278-1186",
-    "questionText": "The greatest criticism of the Security Council of the UNO is that it (JAMB 2002)",
+    "questionText": "The greatest criticism of the Security Council of the UNO is that it",
     "options": [
       "has no standing army",
       "is not representative enough",
@@ -3349,7 +3349,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-279-1402",
-    "questionText": "The exclusive list is reserved for legislation by the (JAMB 2009)",
+    "questionText": "The exclusive list is reserved for legislation by the",
     "options": [
       " regional government",
       "state government",
@@ -3361,7 +3361,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-280-1303",
-    "questionText": "Under the umbrella of the OAU, Nigeria mediated the dispute between (JAMB 2005)",
+    "questionText": "Under the umbrella of the OAU, Nigeria mediated the dispute between",
     "options": [
       "Tunisia and Morrocco",
       "Zimbabwe and Tanzania",
@@ -3373,7 +3373,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-281-1215",
-    "questionText": "The Arthur Richards Constitution was designed to last for (JAMB 2003)",
+    "questionText": "The Arthur Richards Constitution was designed to last for",
     "options": [
       " nine years",
       "five years",
@@ -3385,7 +3385,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-282-752",
-    "questionText": "In the pre-colonial Emirate system, the emir of Gwandu controlled the __ (JAMB 2017)",
+    "questionText": "In the pre-colonial Emirate system, the emir of Gwandu controlled the __",
     "options": [
       "Central section",
       "Southern section",
@@ -3397,7 +3397,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-283-618",
-    "questionText": "Which of the following is not relevant to communism (JAMB 1988)",
+    "questionText": "Which of the following is not relevant to communism",
     "options": [
       "Democracy",
       "Violent revolution",
@@ -3409,7 +3409,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-284-658",
-    "questionText": "To which of these countries did Nigeria send peacekeeping force? (JAMB 1988)",
+    "questionText": "To which of these countries did Nigeria send peacekeeping force?",
     "options": [
       "South Africa",
       "Angola",
@@ -3421,7 +3421,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-285-13",
-    "questionText": "A political ideology that defines a system of societal organization in which the state controls the commanding heights of the economy is called  (JAMB 2006)",
+    "questionText": "A political ideology that defines a system of societal organization in which the state controls the commanding heights of the economy is called",
     "options": [
       "Totalitarianism ",
       "Communalism ",
@@ -3433,7 +3433,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-286-820",
-    "questionText": "In 1993, Nigerian troops were on peace-keeping assignment to (JAMB 2018)",
+    "questionText": "In 1993, Nigerian troops were on peace-keeping assignment to",
     "options": [
       "Liberia and Burundi",
       "Rwanda and liberia",
@@ -3445,7 +3445,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-287-1227",
-    "questionText": "In the First Republic,politics in the Northern region was dominated by the (JAMB 2003)",
+    "questionText": "In the First Republic,politics in the Northern region was dominated by the",
     "options": [
       "NEPU",
       "UMBC",
@@ -3457,7 +3457,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-288-483",
-    "questionText": "Radical nationalism in Nigeria is generally attributed to the influence of (JAMB 2012)",
+    "questionText": "Radical nationalism in Nigeria is generally attributed to the influence of",
     "options": [
       "Aminu Kano",
       "Herbert Macaulay",
@@ -3469,7 +3469,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-289-383",
-    "questionText": "The Aro age-grade system in igboland was (JAMB 2016)",
+    "questionText": "The Aro age-grade system in igboland was",
     "options": [
       "a religious organization",
       "a political organization",
@@ -3481,7 +3481,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-290-1132",
-    "questionText": "The major factor that influenced the formulation of Nigerian foreign policy in the First Republic was (JAMB 2001)",
+    "questionText": "The major factor that influenced the formulation of Nigerian foreign policy in the First Republic was",
     "options": [
       " geographical location",
       "the colonial legacy",
@@ -3493,7 +3493,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-291-1463",
-    "questionText": "When a bill passed by legislature is vetoed by the executive, the action underscores the principle of (JAMB 2015)",
+    "questionText": "When a bill passed by legislature is vetoed by the executive, the action underscores the principle of",
     "options": [
       "collective responsibility",
       " probity and accountability",
@@ -3505,7 +3505,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-292-22",
-    "questionText": "Which of these men introduced indirect rule in Nigeria?  (JAMB 2006)",
+    "questionText": "Which of these men introduced indirect rule in Nigeria?",
     "options": [
       "Mungo Park ",
       "Dr. Nnamdi Azikiwe ",
@@ -3517,7 +3517,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-293-641",
-    "questionText": "The highest court of appeal under the Republican constitution of Nigeria was the (JAMB 1988)",
+    "questionText": "The highest court of appeal under the Republican constitution of Nigeria was the",
     "options": [
       "Federal High Court",
       "Judicial Committee of the Privy Council",
@@ -3529,7 +3529,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-294-797",
-    "questionText": "Which of the following did not generate political crisis in Nigeria? (JAMB 2018)",
+    "questionText": "Which of the following did not generate political crisis in Nigeria?",
     "options": [
       "Adoption of Abuja as the New Federal General Elections Capital",
       " Motion for self government in 1956 by Enahoro",
@@ -3541,7 +3541,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-295-360",
-    "questionText": "How many states were created in Nigeria in 1967? (JAMB 2016)",
+    "questionText": "How many states were created in Nigeria in 1967?",
     "options": [
       "4",
       "12",
@@ -3553,7 +3553,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-296-841",
-    "questionText": "A form of government organized by a council of military officers is called______ (JAMB 2019)",
+    "questionText": "A form of government organized by a council of military officers is called______",
     "options": [
       "Militocracy",
       "Stratocracy",
@@ -3565,7 +3565,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-297-718",
-    "questionText": "Capitalism often encourages (JAMB 1989)",
+    "questionText": "Capitalism often encourages",
     "options": [
       "Private ownership of the means of production",
       "Deconcentration of political and economic powers in the same hands",
@@ -3577,7 +3577,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-298-172",
-    "questionText": "Under the independence constitution of Nigeria, Dr. Nnamdi Azikwe was   (JAMB 2012)",
+    "questionText": "Under the independence constitution of Nigeria, Dr. Nnamdi Azikwe was",
     "options": [
       "Prime Minister ",
       "Governor General  ",
@@ -3589,7 +3589,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-299-1239",
-    "questionText": "The major problem of the ECOWAS is lack of (JAMB 2003)",
+    "questionText": "The major problem of the ECOWAS is lack of",
     "options": [
       "a common currency",
       "commitment by members",
@@ -3601,7 +3601,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-300-600",
-    "questionText": "The UN succeeded the (JAMB 2014)",
+    "questionText": "The UN succeeded the",
     "options": [
       "Warsaw Pact",
       "NATO",
@@ -3613,7 +3613,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-301-1121",
-    "questionText": "Under the 1963 constitution, items not listed in the exclusive and concurrent list were within the exclusive competence of the (JAMB 2001)",
+    "questionText": "Under the 1963 constitution, items not listed in the exclusive and concurrent list were within the exclusive competence of the",
     "options": [
       "Executive",
       "federal parliament",
@@ -3625,7 +3625,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-302-350",
-    "questionText": "The annual budget of the OAU is approved by the (JAMB 1999)",
+    "questionText": "The annual budget of the OAU is approved by the",
     "options": [
       "Council of Ministers",
       "Secretary General",
@@ -3637,7 +3637,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-303-474",
-    "questionText": "An electoral system in which parties are assigned seats in the parliament commensurate to the number of votes polled is (JAMB 2012)",
+    "questionText": "An electoral system in which parties are assigned seats in the parliament commensurate to the number of votes polled is",
     "options": [
       "absolute majority",
       "simple majority",
@@ -3649,7 +3649,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-304-1327",
-    "questionText": "The final stage in the process of enacting legislation is (JAMB 2005)",
+    "questionText": "The final stage in the process of enacting legislation is",
     "options": [
       "final reading",
       "assent",
@@ -3661,7 +3661,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-305-1475",
-    "questionText": "The Independent National Electoral Commission has the power to prepare and maintain the register of (JAMB 2015)",
+    "questionText": "The Independent National Electoral Commission has the power to prepare and maintain the register of",
     "options": [
       "electoral candidates",
       "voters",
@@ -3673,7 +3673,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-306-1383",
-    "questionText": "In orientation, early nationalism in Nigeria was essentially (JAMB 2008)",
+    "questionText": "In orientation, early nationalism in Nigeria was essentially",
     "options": [
       "revolutionary",
       "reformist",
@@ -3685,7 +3685,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-307-1306",
-    "questionText": "Nigeria's voting at the United Nations is guided primarily by (JAMB 2005)",
+    "questionText": "Nigeria's voting at the United Nations is guided primarily by",
     "options": [
       "her concern for Africa",
       "her national interests",
@@ -3697,7 +3697,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-308-1392",
-    "questionText": "Public corporations are established to (JAMB 2008)",
+    "questionText": "Public corporations are established to",
     "options": [
       "reduce government spending",
       " boost government revenue",
@@ -3709,7 +3709,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-309-635",
-    "questionText": "Which of the following is not a function of a party secretariat? (JAMB 1988)",
+    "questionText": "Which of the following is not a function of a party secretariat?",
     "options": [
       "Electing the leader of the party",
       "Organizing party conferences",
@@ -3721,7 +3721,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-310-1095",
-    "questionText": "The standing committee of a legislature is one (JAMB 2001)",
+    "questionText": "The standing committee of a legislature is one",
     "options": [
       "whose member stand while delibrating",
       "that has statutory responsibities",
@@ -3733,7 +3733,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-311-448",
-    "questionText": "An attribute that Nigeria shares with most non-aligned countries is (JAMB 2010)",
+    "questionText": "An attribute that Nigeria shares with most non-aligned countries is",
     "options": [
       "her large population",
       "her heterogeneous population",
@@ -3745,7 +3745,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-312-374",
-    "questionText": "The system of indirect rule failed in the former Eastern Nigeria primarily because (JAMB 2016)",
+    "questionText": "The system of indirect rule failed in the former Eastern Nigeria primarily because",
     "options": [
       "of the fragmented political structures",
       "the chief refused to cooperate with colonial officer",
@@ -3757,7 +3757,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-313-737",
-    "questionText": "Development of the Civil Service relies on __ (JAMB 2017)",
+    "questionText": "Development of the Civil Service relies on __",
     "options": [
       "impartiality",
       "anonymity",
@@ -3769,7 +3769,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-314-728",
-    "questionText": " To facilitate the effective achievement of its objectives, ECOWAS is operationally structured with ___ (JAMB 2017)",
+    "questionText": " To facilitate the effective achievement of its objectives, ECOWAS is operationally structured with ___",
     "options": [
       "councils",
       "panels",
@@ -3781,7 +3781,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-315-585",
-    "questionText": "The power of appointing the chairman of the Independent National Electoral Commission is vested in the (JAMB 2014)",
+    "questionText": "The power of appointing the chairman of the Independent National Electoral Commission is vested in the",
     "options": [
       "Judicial Council",
       "Council of State",
@@ -3793,7 +3793,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-316-310",
-    "questionText": "In a presidential system of government, ministers are (JAMB 1999)",
+    "questionText": "In a presidential system of government, ministers are",
     "options": [
       "individually responsible to the president",
       "individually responsible to the senate",
@@ -3805,7 +3805,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-317-349",
-    "questionText": "Nigeria’s role in ECOMOG is essentially informed by her (JAMB 1999)",
+    "questionText": "Nigeria’s role in ECOMOG is essentially informed by her",
     "options": [
       "desire for peace and stability",
       "chairmanship of ECOWAS.",
@@ -3817,7 +3817,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-318-1322",
-    "questionText": "The major function of civil service is (JAMB 2005)",
+    "questionText": "The major function of civil service is",
     "options": [
       "providing relevant information on government",
       " keeping records of the activities of government",
@@ -3829,7 +3829,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-319-808",
-    "questionText": "A rigid constitution is a feature of (JAMB 2018)",
+    "questionText": "A rigid constitution is a feature of",
     "options": [
       "unitary system",
       "monarchical system",
@@ -3841,7 +3841,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-320-111",
-    "questionText": "The creation of classless society is the ultimate aim of  (JAMB 2010)",
+    "questionText": "The creation of classless society is the ultimate aim of",
     "options": [
       "communism ",
       "socialism  ",
@@ -3853,7 +3853,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-321-56",
-    "questionText": "The first indigenous Governor-General of Nigeria is  (JAMB 2008)",
+    "questionText": "The first indigenous Governor-General of Nigeria is",
     "options": [
       "Donald Cameron ",
       "Sir James Robertson  ",
@@ -3865,7 +3865,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-322-1194",
-    "questionText": "In a parliamentary system, the functions of the head of state and the head of government are vested in (JAMB 2003)",
+    "questionText": "In a parliamentary system, the functions of the head of state and the head of government are vested in",
     "options": [
       "the inner cabinet",
       "an indidvidual",
@@ -3877,7 +3877,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-323-1008",
-    "questionText": "Which African country successfully resisted European imperialism and maintained its independence? (JAMB 2023)",
+    "questionText": "Which African country successfully resisted European imperialism and maintained its independence?",
     "options": [
       "Ghana",
       "Ethiopia",
@@ -3889,7 +3889,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-324-464",
-    "questionText": "A bill is a draft which is awaiting the consideration of the (JAMB 2012)",
+    "questionText": "A bill is a draft which is awaiting the consideration of the",
     "options": [
       "executive",
       "party caucus",
@@ -3901,7 +3901,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-325-452",
-    "questionText": "The head of Nigeria’s foreign mission in a Commonwealth nation is known as (JAMB 2010)",
+    "questionText": "The head of Nigeria’s foreign mission in a Commonwealth nation is known as",
     "options": [
       "ambassador",
       "charge d’affaires.",
@@ -3913,7 +3913,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-326-1328",
-    "questionText": "How does the president relieve a minister of his appointment in a presidential system of government (JAMB 2005)",
+    "questionText": "How does the president relieve a minister of his appointment in a presidential system of government",
     "options": [
       "In consultation with the legislature",
       "After serving a full tenure",
@@ -3925,7 +3925,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-327-966",
-    "questionText": "A one-party system helps to prevent (JAMB 2022)",
+    "questionText": "A one-party system helps to prevent",
     "options": [
       "quick decısion",
       "strong leadership",
@@ -3937,7 +3937,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-328-601",
-    "questionText": "The number of permanent members of the UN Security Council is (JAMB 2014)",
+    "questionText": "The number of permanent members of the UN Security Council is",
     "options": [
       "eight",
       "five",
@@ -3949,7 +3949,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-329-596",
-    "questionText": "The granting of asylum to Charles Taylor by Nigeria was to (JAMB 2014)",
+    "questionText": "The granting of asylum to Charles Taylor by Nigeria was to",
     "options": [
       "protect Nigerians in Liberia",
       "promote peace in Liberia",
@@ -3961,7 +3961,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-330-276",
-    "questionText": "An electoral officer charged with the responsibility of announcing election result at the local government level is known as (JAMB 2013)",
+    "questionText": "An electoral officer charged with the responsibility of announcing election result at the local government level is known as",
     "options": [
       "administrative secretary.",
       "chairman.",
@@ -3973,7 +3973,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-331-965",
-    "questionText": "A political system built around land ownership is called (JAMB 2022)",
+    "questionText": "A political system built around land ownership is called",
     "options": [
       "monarchy",
       "fascism",
@@ -3985,7 +3985,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-332-1207",
-    "questionText": "The citizenship of a country could be acquired through (JAMB 2003)",
+    "questionText": "The citizenship of a country could be acquired through",
     "options": [
       "parliamentary legislation",
       "birth and naturalization",
@@ -3997,7 +3997,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-333-608",
-    "questionText": "Which of the following is not the function of the government? (JAMB 1988)",
+    "questionText": "Which of the following is not the function of the government?",
     "options": [
       "Building of roads, bridges, canals, etc.",
       "Provision of education.",
@@ -4009,7 +4009,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-334-639",
-    "questionText": "The voluntary activities of members of a society in the selection of rulers is known as (JAMB 1988)",
+    "questionText": "The voluntary activities of members of a society in the selection of rulers is known as",
     "options": [
       "political participation",
       "political socialization",
@@ -4021,7 +4021,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-335-1478",
-    "questionText": "Under a presidential system of government, the legislature and the executive are (JAMB 2015)",
+    "questionText": "Under a presidential system of government, the legislature and the executive are",
     "options": [
       "elected separately to an unfixed term",
       " appointed at the same time to an unfixed term",
@@ -4033,7 +4033,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-336-1271",
-    "questionText": "A major influence on the formation of public opinion is (JAMB 2004)",
+    "questionText": "A major influence on the formation of public opinion is",
     "options": [
       "the family",
       " the mass media",
@@ -4045,7 +4045,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-337-723",
-    "questionText": "The international organization formed after the Second World War to guarantee international peace and security is the (JAMB 1989)",
+    "questionText": "The international organization formed after the Second World War to guarantee international peace and security is the",
     "options": [
       "World Bank",
       "United Nations Organization",
@@ -4057,7 +4057,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-338-689",
-    "questionText": "The primary function of a legislature is the (JAMB 1989)",
+    "questionText": "The primary function of a legislature is the",
     "options": [
       "appointment of the president",
       "making of laws",
@@ -4069,7 +4069,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-339-292",
-    "questionText": "A constitution that requires stringent procedures for amendment is termed ___ constitution. (JAMB 2013)",
+    "questionText": "A constitution that requires stringent procedures for amendment is termed ___ constitution.",
     "options": [
       "federal",
       "flexible",
@@ -4081,7 +4081,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-340-164",
-    "questionText": "The method used to determine the possible outcome of an electoral contest is  (JAMB 2012)",
+    "questionText": "The method used to determine the possible outcome of an electoral contest is",
     "options": [
       "conduct of elections into local government offices  ",
       "registration of political party  ",
@@ -4093,7 +4093,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-341-1088",
-    "questionText": "Price stability in the international oil market is the major objective of the (JAMB 2024)",
+    "questionText": "Price stability in the international oil market is the major objective of the",
     "options": [
       "UN",
       " WTO",
@@ -4105,7 +4105,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-342-466",
-    "questionText": "In a feudal system, the two major classes are the serfs and the (JAMB 2012)",
+    "questionText": "In a feudal system, the two major classes are the serfs and the",
     "options": [
       "masses",
       "vassals",
@@ -4117,7 +4117,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-343-302",
-    "questionText": "A manifesto is essential to political parties because it enables them to (JAMB 2013)",
+    "questionText": "A manifesto is essential to political parties because it enables them to",
     "options": [
       "assess the electorates",
       "gauge public opinion",
@@ -4129,7 +4129,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-344-790",
-    "questionText": "The indirect rule system succeeded in the Hausa-Fulani society because the (JAMB 2018)",
+    "questionText": "The indirect rule system succeeded in the Hausa-Fulani society because the",
     "options": [
       " A society had only one religion",
       " people received Quranic education",
@@ -4141,7 +4141,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-345-1394",
-    "questionText": "The Inspector General of Police is appointed by the executive on the advice of the (JAMB 2009)",
+    "questionText": "The Inspector General of Police is appointed by the executive on the advice of the",
     "options": [
       " Nigerian Police Council",
       "Police Service Commission",
@@ -4153,7 +4153,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-346-526",
-    "questionText": "The class that oversees the implementation of government decisions and policies is the (JAMB 2013)",
+    "questionText": "The class that oversees the implementation of government decisions and policies is the",
     "options": [
       "Administrative",
       "Executive",
@@ -4165,7 +4165,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-347-1269",
-    "questionText": "An interest group that admits members and conducts its affairs according to stated rules is described as (JAMB 2004)",
+    "questionText": "An interest group that admits members and conducts its affairs according to stated rules is described as",
     "options": [
       "organizational",
       "associational",
@@ -4177,7 +4177,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-348-611",
-    "questionText": "A rigid constitution is said to be best suited for a (JAMB 1988)",
+    "questionText": "A rigid constitution is said to be best suited for a",
     "options": [
       "Federal Government",
       "Socialist",
@@ -4189,7 +4189,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788679699890-349-416",
-    "questionText": "The upper house in most federal systems is created to (JAMB 2010)",
+    "questionText": "The upper house in most federal systems is created to",
     "options": [
       "oversee and check the lower house",
       "prevent excesses of the executive",
@@ -4201,7 +4201,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-0-45",
-    "questionText": "The amalgamation of the northern and southern protectorates and the colony of Lagos was in (JAMB 2007)",
+    "questionText": "The amalgamation of the northern and southern protectorates and the colony of Lagos was in",
     "options": [
       "1960",
       "1966",
@@ -4213,7 +4213,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-1-825",
-    "questionText": "That type of sovereignty that thrives on legitimacy is__________ (JAMB 2019)",
+    "questionText": "That type of sovereignty that thrives on legitimacy is__________",
     "options": [
       "external sovereignty",
       "vested on any form of government",
@@ -4225,7 +4225,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-2-131",
-    "questionText": "Bicameral legislature exists:  (JAMB 2011)",
+    "questionText": "Bicameral legislature exists:",
     "options": [
       "where cameramen are allowed to cover the proceedings of the legislature",
       "to prevent the concentration of power in one legislative house",
@@ -4237,7 +4237,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-3-840",
-    "questionText": "Generally, a political party with only manifestoes without fulfilment is a/an _____ (JAMB 2019)",
+    "questionText": "Generally, a political party with only manifestoes without fulfilment is a/an _____",
     "options": [
       "conservative party",
       "elitist party",
@@ -4249,7 +4249,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-4-884",
-    "questionText": "A system of government in which power derives from total control of the instruments of force is called ___________ (JAMB 2020)",
+    "questionText": "A system of government in which power derives from total control of the instruments of force is called ___________",
     "options": [
       "monarchy",
       "oligarchy",
@@ -4261,7 +4261,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-5-155",
-    "questionText": "The Legislature in Nigeria under the 1999 constitution is composed   (JAMB 2012)",
+    "questionText": "The Legislature in Nigeria under the 1999 constitution is composed",
     "options": [
       "109 senators and 360 members of the House of Representative",
       "109 senators and 350 members of the House of Representative",
@@ -4273,7 +4273,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-6-1440",
-    "questionText": "Nigeria's commitment to the liberation of Africa could best be seen in her policy towards (JAMB 2009)",
+    "questionText": "Nigeria's commitment to the liberation of Africa could best be seen in her policy towards",
     "options": [
       "Namibia and Mozambique",
       "the Congo and Zimbabwe",
@@ -4285,7 +4285,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-7-528",
-    "questionText": "Under the emirate system, the commander of the army is the (JAMB 2013)",
+    "questionText": "Under the emirate system, the commander of the army is the",
     "options": [
       "Alkali",
       "Hakimi",
@@ -4297,7 +4297,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-8-1009",
-    "questionText": "Which of the following is a feature of Nigerian Federalism? (JAMB 2023)",
+    "questionText": "Which of the following is a feature of Nigerian Federalism?",
     "options": [
       "Single-party system",
       "Centralized fiscal system",
@@ -4309,7 +4309,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-9-861",
-    "questionText": "Executive Council of the African Union makes decision by_______ (JAMB 2019)",
+    "questionText": "Executive Council of the African Union makes decision by_______",
     "options": [
       "1/3 majority vote",
       "discretion",
@@ -4321,7 +4321,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-10-1485",
-    "questionText": "The following are international organisations except (JAMB 2015)",
+    "questionText": "The following are international organisations except",
     "options": [
       "pressure group",
       "O.A.U",
@@ -4333,7 +4333,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-11-435",
-    "questionText": "One major weakness of the Independence constitution is that it (JAMB 2010)",
+    "questionText": "One major weakness of the Independence constitution is that it",
     "options": [
       "gave full powers to the Supreme Court in Nigeria",
       "gave total independence to Nigeria",
@@ -4345,7 +4345,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-12-748",
-    "questionText": "The struggle for self- government from foreign rule is known as __ (JAMB 2017)",
+    "questionText": "The struggle for self- government from foreign rule is known as __",
     "options": [
       "imperialism",
       "nationalism",
@@ -4357,7 +4357,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-13-559",
-    "questionText": "One basic feature of a monarchical form of government is that (JAMB 2014)",
+    "questionText": "One basic feature of a monarchical form of government is that",
     "options": [
       "separation of powers is absolute",
       "members of the executive are elected",
@@ -4369,7 +4369,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-14-620",
-    "questionText": "In the process of governing. OUTPUT refers to (JAMB 1988)",
+    "questionText": "In the process of governing. OUTPUT refers to",
     "options": [
       "the influence of pressure group",
       "demand of the political system",
@@ -4381,7 +4381,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-15-1074",
-    "questionText": "Dual citizenship was a feature of the  (JAMB 2024)",
+    "questionText": "Dual citizenship was a feature of the",
     "options": [
       "Portuguese colonial system",
       "German colonial system",
@@ -4393,7 +4393,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-16-1205",
-    "questionText": "Associations whose main interest is to influence public policies without having to capture power are (JAMB 2003)",
+    "questionText": "Associations whose main interest is to influence public policies without having to capture power are",
     "options": [
       "communal groups",
       "trade unions",
@@ -4405,7 +4405,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-17-1492",
-    "questionText": "The council constituted by Lord Lugard in 1914 has (JAMB 2015)",
+    "questionText": "The council constituted by Lord Lugard in 1914 has",
     "options": [
       "105 members seat",
       "50 members on seat",
@@ -4417,7 +4417,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-18-942",
-    "questionText": "The fundamental rights of citizens include the following EXCEPT....... (JAMB 2021)",
+    "questionText": "The fundamental rights of citizens include the following EXCEPT.......",
     "options": [
       "Association, property and social security",
       "Life, liberty and property",
@@ -4429,7 +4429,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-19-192",
-    "questionText": "On the basis of its structure, a political party can be classified an indirect if (JAMB 2013)",
+    "questionText": "On the basis of its structure, a political party can be classified an indirect if",
     "options": [
       "it controls government indirectly",
       "it contests elections by proxy",
@@ -4441,7 +4441,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-20-95",
-    "questionText": "The branch of government responsible for implementing laws is the  (JAMB 2009)",
+    "questionText": "The branch of government responsible for implementing laws is the",
     "options": [
       "executive",
       "Legislature",
@@ -4453,7 +4453,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-21-373",
-    "questionText": "An electoral process in which candidates are selected for elective offices by party members is (JAMB 2016)",
+    "questionText": "An electoral process in which candidates are selected for elective offices by party members is",
     "options": [
       "Primary election",
       "Electoral College",
@@ -4465,7 +4465,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-22-397",
-    "questionText": "Which of the following parties formed the opposition in the House of Representatives during Nigerian first republic? (JAMB 2016)",
+    "questionText": "Which of the following parties formed the opposition in the House of Representatives during Nigerian first republic?",
     "options": [
       "NCNC and NEPU",
       "AG and UMBC",
@@ -4477,7 +4477,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-23-1116",
-    "questionText": "A major function of the warrant chiefs was to (JAMB 2001)",
+    "questionText": "A major function of the warrant chiefs was to",
     "options": [
       "prevent tribal wars",
       "supervise native courts and markets",
@@ -4489,7 +4489,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-24-1166",
-    "questionText": "The fees collected by local governments at motor parks represents (JAMB 2002)",
+    "questionText": "The fees collected by local governments at motor parks represents",
     "options": [
       "levies",
       "fines",
@@ -4501,7 +4501,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-25-1262",
-    "questionText": "Judicial administrations in respect of National Code of Conduct lies with the (JAMB 2004)",
+    "questionText": "Judicial administrations in respect of National Code of Conduct lies with the",
     "options": [
       "Pulic Complaints Commission",
       "Judicial Service Commission",
@@ -4513,7 +4513,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-26-1390",
-    "questionText": "The British colonial rule in Nigeria brought about (JAMB 2008)",
+    "questionText": "The British colonial rule in Nigeria brought about",
     "options": [
       "stagnationin social formations",
       "the pampering of traditional rulers",
@@ -4525,7 +4525,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-27-289",
-    "questionText": "The cultural organisation which metamorphosed into \tNorthern People’s Congress (NPC) was (JAMB 2013)",
+    "questionText": "The cultural organisation which metamorphosed into \tNorthern People’s Congress (NPC) was",
     "options": [
       "Arewa Consultative Forum",
       "Borno Youth Movement",
@@ -4537,7 +4537,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-28-1178",
-    "questionText": "The abolition of the state ministries of local governments in 1989 entails that local governments (JAMB 2002)",
+    "questionText": "The abolition of the state ministries of local governments in 1989 entails that local governments",
     "options": [
       "are equal to the states",
       "have more control over their funds",
@@ -4549,7 +4549,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-29-158",
-    "questionText": "The most important aspect of political participation in a democracy is   (JAMB 2012)",
+    "questionText": "The most important aspect of political participation in a democracy is",
     "options": [
       "attending political rallies",
       "voting in elections",
@@ -4561,7 +4561,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-30-1422",
-    "questionText": "Occupational pressure groups pursue their objectives mainly by (JAMB 2009)",
+    "questionText": "Occupational pressure groups pursue their objectives mainly by",
     "options": [
       "issuing ultimatums and embarking on strikes",
       "alienating the government",
@@ -4573,7 +4573,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-31-547",
-    "questionText": "The centre-piece of Nigeria’s foreign policy covers only (JAMB 2013)",
+    "questionText": "The centre-piece of Nigeria’s foreign policy covers only",
     "options": [
       "Asia",
       "Europe",
@@ -4585,7 +4585,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-32-1360",
-    "questionText": "Government exercises political power on behalf of the (JAMB 2008)",
+    "questionText": "Government exercises political power on behalf of the",
     "options": [
       "elite",
       "citizens",
@@ -4597,7 +4597,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-33-1461",
-    "questionText": "Federalism was introduced in Nigeria under the (JAMB 2015)",
+    "questionText": "Federalism was introduced in Nigeria under the",
     "options": [
       "Lyttelton Constitution",
       "Macpherson Constitution",
@@ -4609,7 +4609,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-34-325",
-    "questionText": "The notion of equality before the law is the same as the principle of (JAMB 1999)",
+    "questionText": "The notion of equality before the law is the same as the principle of",
     "options": [
       "supremacy of the constitution",
       "rule of law",
@@ -4621,7 +4621,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-35-403",
-    "questionText": "A state with a hegemonic political party is one in which (JAMB 2016)",
+    "questionText": "A state with a hegemonic political party is one in which",
     "options": [
       "there is one dominant party",
       "there is no opposition party",
@@ -4633,7 +4633,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-36-1292",
-    "questionText": "The immediate cause of the January 15 1966 military coup in Nigeria was the (JAMB 2004)",
+    "questionText": "The immediate cause of the January 15 1966 military coup in Nigeria was the",
     "options": [
       "crisis over the population census",
       "election crisis in the Western Region",
@@ -4645,7 +4645,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-37-775",
-    "questionText": "Which of the following was the first political party in Nigeria? (JAMB 2018)",
+    "questionText": "Which of the following was the first political party in Nigeria?",
     "options": [
       "The Action Group (AG)",
       "Northern People's Congress (NPC)",
@@ -4657,7 +4657,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-38-1296",
-    "questionText": "Nigeria is rated in the Organization of Petroleum Exporting Countries as the (JAMB 2005)",
+    "questionText": "Nigeria is rated in the Organization of Petroleum Exporting Countries as the",
     "options": [
       "seventh largest oil producer",
       "sixth largest oil producer",
@@ -4669,7 +4669,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-39-1208",
-    "questionText": "Public opinion becomes politically relevant when it (JAMB 2003)",
+    "questionText": "Public opinion becomes politically relevant when it",
     "options": [
       "criticises people in power",
       "influences the decision of government",
@@ -4681,7 +4681,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-40-575",
-    "questionText": "In the Old Oyo Empire, the Ajele (JAMB 2014)",
+    "questionText": "In the Old Oyo Empire, the Ajele",
     "options": [
       "ensured good governance of the districts",
       "mobilized the army",
@@ -4693,7 +4693,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-41-1407",
-    "questionText": "In the segmented Tiv society, governance was usually confined to (JAMB 2009)",
+    "questionText": "In the segmented Tiv society, governance was usually confined to",
     "options": [
       "age grade",
       "chiefdom",
@@ -4705,7 +4705,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-42-815",
-    "questionText": "The tenure of the president of the UN Security Council is (JAMB 2018)",
+    "questionText": "The tenure of the president of the UN Security Council is",
     "options": [
       "one month",
       "six months",
@@ -4717,7 +4717,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-43-324",
-    "questionText": "The feature which best differentiates pressure group from political parties is that they do not (JAMB 1999)",
+    "questionText": "The feature which best differentiates pressure group from political parties is that they do not",
     "options": [
       "have interest in politics",
       "seek to influences public opinion",
@@ -4729,7 +4729,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-44-308",
-    "questionText": "In a federal state, power is shared (JAMB 1999)",
+    "questionText": "In a federal state, power is shared",
     "options": [
       "between the center government and the local authorities",
       "among the state of the federation",
@@ -4741,7 +4741,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-45-637",
-    "questionText": "The following factors favoured the introduction of indirect rule in Nigeria except the (JAMB 1988)",
+    "questionText": "The following factors favoured the introduction of indirect rule in Nigeria except the",
     "options": [
       "Shortage of manpower",
       "Shortage of funds",
@@ -4753,7 +4753,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-46-1273",
-    "questionText": "The highest grade in the civil service is known as the (JAMB 2004)",
+    "questionText": "The highest grade in the civil service is known as the",
     "options": [
       "administrative cadre",
       "executive cadre",
@@ -4765,7 +4765,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-47-1000",
-    "questionText": "During the cold war, Nigeria's foreign policy was characterized by (JAMB 2023)",
+    "questionText": "During the cold war, Nigeria's foreign policy was characterized by",
     "options": [
       "alignment with the United States",
       "Neutrality and non-alignment",
@@ -4777,7 +4777,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-48-1337",
-    "questionText": "An elected legislator in a presidential system can loose his seat by (JAMB 2005)",
+    "questionText": "An elected legislator in a presidential system can loose his seat by",
     "options": [
       "a vote of no confidence",
       "impeachment",
@@ -4789,7 +4789,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-49-1302",
-    "questionText": "A Security Council resolution requires the concurrence of (JAMB 2005)",
+    "questionText": "A Security Council resolution requires the concurrence of",
     "options": [
       "1 of the 5 permanent members",
       "all of the 5 permanent members",
@@ -4801,7 +4801,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-50-588",
-    "questionText": "Which of the following was done during the Gowon administration to reduce regional structural imbalance in the federation? (JAMB 2014)",
+    "questionText": "Which of the following was done during the Gowon administration to reduce regional structural imbalance in the federation?",
     "options": [
       "Appointment of ministers",
       "Creation of states",
@@ -4813,7 +4813,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-51-341",
-    "questionText": "The motion for self-government in Nigeria was proposed by Chief Anthony Enahoro in (JAMB 1999)",
+    "questionText": "The motion for self-government in Nigeria was proposed by Chief Anthony Enahoro in",
     "options": [
       "1956",
       "1953",
@@ -4825,7 +4825,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-52-1134",
-    "questionText": "South-South cooperation is a major policy plan on which Nigeria bases her relations with (JAMB 2001)",
+    "questionText": "South-South cooperation is a major policy plan on which Nigeria bases her relations with",
     "options": [
       "developed countries",
       "countries of the southern hemisphere",
@@ -4837,7 +4837,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-53-1372",
-    "questionText": "In the process of implementing laws, the executive sometimes performs (JAMB 2008)",
+    "questionText": "In the process of implementing laws, the executive sometimes performs",
     "options": [
       "judicial function",
       "bureaucratic function",
@@ -4849,7 +4849,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-54-1167",
-    "questionText": "The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy was the (JAMB 2002)",
+    "questionText": "The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy was the",
     "options": [
       "1979 Constitution",
       "1989 Constitution",
@@ -4861,7 +4861,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-55-1091",
-    "questionText": "The bipolar world was a major factor for the formation of (JAMB 2024)",
+    "questionText": "The bipolar world was a major factor for the formation of",
     "options": [
       "non-aligned movement",
       "technical aid corps",
@@ -4873,7 +4873,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-56-1298",
-    "questionText": "A major achievement of the OAU was the (JAMB 2005)",
+    "questionText": "A major achievement of the OAU was the",
     "options": [
       "eradication of poverty",
       "establishment of democracy in Africa",
@@ -4885,7 +4885,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-57-687",
-    "questionText": "Representative democracy is characterized by (JAMB 1989)",
+    "questionText": "Representative democracy is characterized by",
     "options": [
       "free election and proper register of voters",
       "unlimited expenditure of political parties",
@@ -4897,7 +4897,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-58-309",
-    "questionText": "In a federal system of government, the center is (JAMB 1999)",
+    "questionText": "In a federal system of government, the center is",
     "options": [
       "superior to the other components",
       "inferior to the other components",
@@ -4909,7 +4909,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-59-1112",
-    "questionText": "The idea of making the civil service permanent, neutral and anonymous is to (JAMB 2001)",
+    "questionText": "The idea of making the civil service permanent, neutral and anonymous is to",
     "options": [
       "enhance efficiency in administration",
       "ensure loyalty and support",
@@ -4921,7 +4921,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-60-198",
-    "questionText": "The subject matter of politics is best described  as    (JAMB 2013)",
+    "questionText": "The subject matter of politics is best described  as",
     "options": [
       "political parties",
       "political power",
@@ -4933,7 +4933,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-61-1076",
-    "questionText": "Lack of separation of power is a feature of  (JAMB 2024)",
+    "questionText": "Lack of separation of power is a feature of",
     "options": [
       "presidential system",
       "cabinet system",
@@ -4945,7 +4945,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-62-1339",
-    "questionText": "A non-monarchical state can best be described as a (JAMB 2005)",
+    "questionText": "A non-monarchical state can best be described as a",
     "options": [
       "republic",
       "confederation",
@@ -4957,7 +4957,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-63-1301",
-    "questionText": "One of the organizational weaknesses of the Organization of Petroleum Exporting Countries is its inability to (JAMB 2005)",
+    "questionText": "One of the organizational weaknesses of the Organization of Petroleum Exporting Countries is its inability to",
     "options": [
       "monitor global oil consumption",
       "assist poor countries",
@@ -4969,7 +4969,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-64-991",
-    "questionText": "The process of pressure groups trying to influence legislation is known as (JAMB 2022)",
+    "questionText": "The process of pressure groups trying to influence legislation is known as",
     "options": [
       "ultimatum",
       "dialogue",
@@ -4981,7 +4981,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-65-1342",
-    "questionText": "In the present local government structure ,traditional rulers play (JAMB 2005)",
+    "questionText": "In the present local government structure ,traditional rulers play",
     "options": [
       "an advisory role",
       "an executive role",
@@ -4993,7 +4993,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-66-1280",
-    "questionText": "Unicameral legislature is a common feature of (JAMB 2004)",
+    "questionText": "Unicameral legislature is a common feature of",
     "options": [
       "unitarism",
       "federalism",
@@ -5005,7 +5005,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-67-180",
-    "questionText": "In politics, power is all of the following except   (JAMB 2013)",
+    "questionText": "In politics, power is all of the following except",
     "options": [
       "capacity to affect the actions of others",
       "Ability to make people do things they otherwise would not do",
@@ -5017,7 +5017,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-68-1414",
-    "questionText": "Which of the following is a major threat to OPEC? (JAMB 2009)",
+    "questionText": "Which of the following is a major threat to OPEC?",
     "options": [
       "Persistence of war in the Middle East",
       "The discovery of crude oil in more countries",
@@ -5029,7 +5029,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-69-936",
-    "questionText": "When Nigeria achieved independence in 1960, the head of state was the _____ (JAMB 2021)",
+    "questionText": "When Nigeria achieved independence in 1960, the head of state was the _____",
     "options": [
       "Queen of England",
       "President",
@@ -5041,7 +5041,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-70-388",
-    "questionText": "The Zikist Movement was popular for its (JAMB 2016)",
+    "questionText": "The Zikist Movement was popular for its",
     "options": [
       "philosophy of non-violence",
       "promotion of mass literacy",
@@ -5053,7 +5053,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-71-799",
-    "questionText": "Democracy can be promoted through (JAMB 2018)",
+    "questionText": "Democracy can be promoted through",
     "options": [
       "gerrymandering",
       "slander",
@@ -5065,7 +5065,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-72-1419",
-    "questionText": "Prorogation is the bringing of a session of a parliament to an end through (JAMB 2009)",
+    "questionText": "Prorogation is the bringing of a session of a parliament to an end through",
     "options": [
       "royal proclamation",
       "final reading",
@@ -5077,7 +5077,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-73-1151",
-    "questionText": "To qualify for absorption into the administration cadre of the civil service in Nigeria, an applicant must be (JAMB 2002)",
+    "questionText": "To qualify for absorption into the administration cadre of the civil service in Nigeria, an applicant must be",
     "options": [
       "knowledgable in civil services rule",
       "a holder of a first university degree",
@@ -5089,7 +5089,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-74-814",
-    "questionText": "The second ballot is based on the principle that a successful candidate must obtain (JAMB 2018)",
+    "questionText": "The second ballot is based on the principle that a successful candidate must obtain",
     "options": [
       "absolute majority",
       "simple majority",
@@ -5101,7 +5101,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-75-1143",
-    "questionText": "Nigeria's departure from pro-west policy during the Murtala Muhammed regime was as a result of (JAMB 2001)",
+    "questionText": "Nigeria's departure from pro-west policy during the Murtala Muhammed regime was as a result of",
     "options": [
       "the economic interest of the West in Nigeria",
       "Nigeria's increased international influence",
@@ -5113,7 +5113,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-76-1115",
-    "questionText": "The method used by the British to facilitate the administration of Southern Nigeria was (JAMB 2001)",
+    "questionText": "The method used by the British to facilitate the administration of Southern Nigeria was",
     "options": [
       "persuation",
       "dialogue",
@@ -5125,7 +5125,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-77-1210",
-    "questionText": "The civil service embraces all workers in (JAMB 2003)",
+    "questionText": "The civil service embraces all workers in",
     "options": [
       "all private corporations",
       "publica and private companies",
@@ -5137,7 +5137,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-78-179",
-    "questionText": "A major function of the State Independent Electoral Commissions in Nigeria is the   (JAMB 2013)",
+    "questionText": "A major function of the State Independent Electoral Commissions in Nigeria is the",
     "options": [
       "Conduct of elections into local government offices",
       "registration of political parties",
@@ -5149,7 +5149,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-79-184",
-    "questionText": "The independence  of the judiciary can be enhanced by the following except   (JAMB 2013)",
+    "questionText": "The independence  of the judiciary can be enhanced by the following except",
     "options": [
       "when judges hold office for a fixed term",
       "when judges cannot be removed from office even when they commit crimes",
@@ -5161,7 +5161,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-80-1188",
-    "questionText": "Professor Ibrahim Gambari is the Special Assistant to the United Nations Secretary General on (JAMB 2002)",
+    "questionText": "Professor Ibrahim Gambari is the Special Assistant to the United Nations Secretary General on",
     "options": [
       "African affairs",
       "political and social matters",
@@ -5173,7 +5173,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-81-1203",
-    "questionText": "Capitalism is a system of economic organization based on (JAMB 2003)",
+    "questionText": "Capitalism is a system of economic organization based on",
     "options": [
       "a mixed economy that takes all ineterests into consideration",
       "individual ownership of the means of production",
@@ -5185,7 +5185,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-82-1426",
-    "questionText": "Collective ownership of property is associated with (JAMB 2009)",
+    "questionText": "Collective ownership of property is associated with",
     "options": [
       "feudalism",
       "communism",
@@ -5197,7 +5197,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-83-493",
-    "questionText": "Workers in the public corporations are known as (JAMB 2012)",
+    "questionText": "Workers in the public corporations are known as",
     "options": [
       "civil servants",
       "private employees",
@@ -5209,7 +5209,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-84-714",
-    "questionText": "When there is a conflict between the regional and federal laws under the concurrent legislative list, the (JAMB 1989)",
+    "questionText": "When there is a conflict between the regional and federal laws under the concurrent legislative list, the",
     "options": [
       "Federal laws would prevail",
       "Federal laws would be declared null and void",
@@ -5221,7 +5221,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-85-565",
-    "questionText": "A flexible constitution is one which is (JAMB 2014)",
+    "questionText": "A flexible constitution is one which is",
     "options": [
       "easily amended",
       "popular with the legislators",
@@ -5233,7 +5233,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-86-1441",
-    "questionText": "The set of policies on the basis of which countries interact with one another is called (JAMB 2009)",
+    "questionText": "The set of policies on the basis of which countries interact with one another is called",
     "options": [
       "constructive engagement policy",
       "socio-economic policy",
@@ -5245,7 +5245,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-87-1150",
-    "questionText": "A common feature of a multi-party system is that government is formed by (JAMB 2002)",
+    "questionText": "A common feature of a multi-party system is that government is formed by",
     "options": [
       "the major political party",
       "all the registered political parties",
@@ -5257,7 +5257,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-88-1144",
-    "questionText": "Delegated legislature becomes unavoidable when (JAMB 2002)",
+    "questionText": "Delegated legislature becomes unavoidable when",
     "options": [
       "legislators cannot reach a consensus",
       "issues under consideration are personal",
@@ -5269,7 +5269,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-89-482",
-    "questionText": "The French colonial system was underlined by the policy of (JAMB 2012)",
+    "questionText": "The French colonial system was underlined by the policy of",
     "options": [
       "assimilation",
       "paternalism",
@@ -5281,7 +5281,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-90-804",
-    "questionText": " In which of the following political systems is rule of law most enhanced? (JAMB 2018)",
+    "questionText": " In which of the following political systems is rule of law most enhanced?",
     "options": [
       "Cabinet system",
       "Feudal system",
@@ -5293,7 +5293,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-91-999",
-    "questionText": "The constitutional amendment process in Nigeria requires the approval of (JAMB 2023)",
+    "questionText": "The constitutional amendment process in Nigeria requires the approval of",
     "options": [
       "The Independent National Electoral Commission(INEC)",
       "The National Assembly",
@@ -5305,7 +5305,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-92-1369",
-    "questionText": "In the monarchical system of government, sovereignty is vested in the (JAMB 2008)",
+    "questionText": "In the monarchical system of government, sovereignty is vested in the",
     "options": [
       "people",
       "royalty",
@@ -5317,7 +5317,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-93-550",
-    "questionText": "A representative of a Commonwealth country in another member state is known as (JAMB 2013)",
+    "questionText": "A representative of a Commonwealth country in another member state is known as",
     "options": [
       "High Commissioner",
       "Consul-General",
@@ -5329,7 +5329,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-94-788",
-    "questionText": "A representative government can be established through (JAMB 2018)",
+    "questionText": "A representative government can be established through",
     "options": [
       "a general election",
       "a military coup",
@@ -5341,7 +5341,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-95-1064",
-    "questionText": "The judgement that ceded and transferred Bakassi legal title from Nigeria to Cameroon was delivered by  (JAMB 2024)",
+    "questionText": "The judgement that ceded and transferred Bakassi legal title from Nigeria to Cameroon was delivered by",
     "options": [
       "ECOWAS Court of Justice",
       "Court of Justice of the African Union",
@@ -5353,7 +5353,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-96-794",
-    "questionText": "The 1954 Constitution of Nigeria made the country a true federation because it provided for (JAMB 2018)",
+    "questionText": "The 1954 Constitution of Nigeria made the country a true federation because it provided for",
     "options": [
       "the abolition of representation of white officials",
       "the election of all members of parliament",
@@ -5365,7 +5365,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-97-921",
-    "questionText": "Under the 1999 constitution of Nigeria, the power to create local governments is vested in the ..... (JAMB 2021)",
+    "questionText": "Under the 1999 constitution of Nigeria, the power to create local governments is vested in the .....",
     "options": [
       "State Assembly",
       "National Assembly",
@@ -5377,7 +5377,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-98-496",
-    "questionText": "The first institution introduced by the military to exercise legislative power was the (JAMB 2012)",
+    "questionText": "The first institution introduced by the military to exercise legislative power was the",
     "options": [
       "Supreme Military Council",
       "Armed Forces Ruling Council",
@@ -5389,7 +5389,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-99-147",
-    "questionText": "A major flaw in liberal democracy is:  (JAMB 2011)",
+    "questionText": "A major flaw in liberal democracy is:",
     "options": [
       "the limitation of the freedom of expression",
       "its emphasis on political rights over economic rights",
@@ -5401,7 +5401,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-100-407",
-    "questionText": "Nigeria teamed up with other developing countries to assert a neutral posture under the platform of (JAMB 2016)",
+    "questionText": "Nigeria teamed up with other developing countries to assert a neutral posture under the platform of",
     "options": [
       "Nationalist Movement",
       "Pan - African Movement",
@@ -5413,7 +5413,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-101-811",
-    "questionText": " Which of the following countries had a strained relationship with Nigeria over the Angolan crisis of 1975? (JAMB 2018)",
+    "questionText": " Which of the following countries had a strained relationship with Nigeria over the Angolan crisis of 1975?",
     "options": [
       "The Soviet Union",
       "Tanzania",
@@ -5425,7 +5425,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-102-543",
-    "questionText": "A major source of revenue in the post -1976 local government in Nigeria is (JAMB 2013)",
+    "questionText": "A major source of revenue in the post -1976 local government in Nigeria is",
     "options": [
       "the joint state-local government account",
       "internally generated revenue",
@@ -5437,7 +5437,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-103-280",
-    "questionText": "In dividing a country into constituencies, it is important to (JAMB 2013)",
+    "questionText": "In dividing a country into constituencies, it is important to",
     "options": [
       "ask for permission from the traditional ruler in that area",
       "consider historical",
@@ -5449,7 +5449,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-104-168",
-    "questionText": "Globalization is all but one of these  (JAMB 2012)",
+    "questionText": "Globalization is all but one of these",
     "options": [
       "A renewed concepts in international studies",
       "Limitation to the domination of the West",
@@ -5461,7 +5461,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-105-1270",
-    "questionText": "Delegated legislation refers to the laws made by (JAMB 2004)",
+    "questionText": "Delegated legislation refers to the laws made by",
     "options": [
       "the legislature",
       "military governments",
@@ -5473,7 +5473,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-106-62",
-    "questionText": "The EFCC was established to  (JAMB 2008)",
+    "questionText": "The EFCC was established to",
     "options": [
       "Arrest and try corrupt politicians",
       "Combat economic and financial crimes in Nigeria",
@@ -5485,7 +5485,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-107-333",
-    "questionText": "The British Government revoked the Character of the Royal Niger Company and took over the administration of Nigeria in (JAMB 1999)",
+    "questionText": "The British Government revoked the Character of the Royal Niger Company and took over the administration of Nigeria in",
     "options": [
       "1861",
       "1861",
@@ -5497,7 +5497,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-108-236",
-    "questionText": "Immediately after the Nigerian Civil War, Gowon’s regime embarked on (JAMB 2000)",
+    "questionText": "Immediately after the Nigerian Civil War, Gowon’s regime embarked on",
     "options": [
       "rejuvenation, resettlement and reconstruction",
       "reconciliation, rehabilitation and reconstruction",
@@ -5509,7 +5509,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-109-219",
-    "questionText": "Which of the following is a source of a country’s constitution (JAMB 2000)",
+    "questionText": "Which of the following is a source of a country’s constitution",
     "options": [
       "Mandamus",
       "Judicial precedents",
@@ -5521,7 +5521,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-110-591",
-    "questionText": "One of the main duties of the Local Government Service Commission is to (JAMB 2014)",
+    "questionText": "One of the main duties of the Local Government Service Commission is to",
     "options": [
       "supervise and manage the personnel of local governments",
       "conduct election into Local Council",
@@ -5533,7 +5533,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-111-163",
-    "questionText": "Nigeria observed the principal of collective responsibility between   (JAMB 2012)",
+    "questionText": "Nigeria observed the principal of collective responsibility between",
     "options": [
       "1960 and 1966",
       "1979 and 1983",
@@ -5545,7 +5545,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-112-598",
-    "questionText": "The reason behind Nigeria’s suspension from the Commonwealth in 1995 was (JAMB 2014)",
+    "questionText": "The reason behind Nigeria’s suspension from the Commonwealth in 1995 was",
     "options": [
       "legal",
       "political",
@@ -5557,7 +5557,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-113-9",
-    "questionText": "A nation consist of people with  (JAMB 2006)",
+    "questionText": "A nation consist of people with",
     "options": [
       "common history",
       "common ancestry",
@@ -5569,7 +5569,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-114-1187",
-    "questionText": "Which of the following is a founding member of OPEC? (JAMB 2002)",
+    "questionText": "Which of the following is a founding member of OPEC?",
     "options": [
       "Nigeria",
       "Indonesia",
@@ -5581,7 +5581,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-115-1433",
-    "questionText": "Fascism as an ideology facilitates (JAMB 2009)",
+    "questionText": "Fascism as an ideology facilitates",
     "options": [
       "totalitarianism",
       "socialism",
@@ -5593,7 +5593,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-116-79",
-    "questionText": "An important principle of the civil service is  (JAMB 2009)",
+    "questionText": "An important principle of the civil service is",
     "options": [
       "Authoritarianism",
       "Anonymity",
@@ -5605,7 +5605,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-117-544",
-    "questionText": "The Provisional Ruling Council was the highest ruling body during the regime of (JAMB 2013)",
+    "questionText": "The Provisional Ruling Council was the highest ruling body during the regime of",
     "options": [
       "Sani Abacha",
       "Muhammadu Buhari",
@@ -5617,7 +5617,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-118-698",
-    "questionText": "The major advantage of the secret ballot is that (JAMB 1989)",
+    "questionText": "The major advantage of the secret ballot is that",
     "options": [
       "it is faster than other systems",
       "nobody can be prevented from voting",
@@ -5629,7 +5629,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-119-650",
-    "questionText": "The primary objective of all political parties is to (JAMB 1988)",
+    "questionText": "The primary objective of all political parties is to",
     "options": [
       "Promote the general interest of members of the public",
       "Eradicate corruption in public life",
@@ -5641,7 +5641,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-120-552",
-    "questionText": "The main representative body of the United Nations is the (JAMB 2013)",
+    "questionText": "The main representative body of the United Nations is the",
     "options": [
       "Secretariat",
       "Security Council",
@@ -5653,7 +5653,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-121-587",
-    "questionText": "One of the major problems of Nigerian federalism is (JAMB 2014)",
+    "questionText": "One of the major problems of Nigerian federalism is",
     "options": [
       "lack of revenue to cater for the demands of the federation",
       "inadequate manpower to fill vacancies",
@@ -5665,7 +5665,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-122-754",
-    "questionText": "A social group consisting of two or more people who interact and identify will one another is __ (JAMB 2017)",
+    "questionText": "A social group consisting of two or more people who interact and identify will one another is __",
     "options": [
       "nation",
       "society",
@@ -5677,7 +5677,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-123-436",
-    "questionText": "The first law-making body in Nigeria after amalgamation was (JAMB 2010)",
+    "questionText": "The first law-making body in Nigeria after amalgamation was",
     "options": [
       "Legislative Council",
       "National Assembly",
@@ -5689,7 +5689,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-124-63",
-    "questionText": "The four British colonial territories in West Africa were  (JAMB 2008)",
+    "questionText": "The four British colonial territories in West Africa were",
     "options": [
       "Senegal, Ghana, Sierra Leone and Nigeria",
       "Nigeria, Ghana, Sierra Leone and Gambia",
@@ -5701,7 +5701,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-125-230",
-    "questionText": "The powers allocated to the central government in a federation are contained in the (JAMB 2000)",
+    "questionText": "The powers allocated to the central government in a federation are contained in the",
     "options": [
       "central legislative list",
       "exclusive legislative list",
@@ -5713,7 +5713,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-126-1060",
-    "questionText": "Shehu Shagari won the 1979 Presidential Election under  (JAMB 2024)",
+    "questionText": "Shehu Shagari won the 1979 Presidential Election under",
     "options": [
       "UPN",
       "NPN",
@@ -5725,7 +5725,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-127-21",
-    "questionText": "The centenary anniversary of the amalgamation of Northern and Southern Nigeria will be celebrated in  (JAMB 2006)",
+    "questionText": "The centenary anniversary of the amalgamation of Northern and Southern Nigeria will be celebrated in",
     "options": [
       "2060",
       "2063",
@@ -5737,7 +5737,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-128-527",
-    "questionText": "The performance of ritual rites in the Yoruba empire is the responsibility of the (JAMB 2013)",
+    "questionText": "The performance of ritual rites in the Yoruba empire is the responsibility of the",
     "options": [
       "Oyo mesi",
       "Aare-ona kakanfo",
@@ -5749,7 +5749,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-129-1037",
-    "questionText": "Civil servants are typically protected by (JAMB 2023)",
+    "questionText": "Civil servants are typically protected by",
     "options": [
       "Military forces and security agencies",
       "Civil service commission",
@@ -5761,7 +5761,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-130-372",
-    "questionText": "In federalism system of Government currency, Armed forces and National defense is the primary function o (JAMB 2016)",
+    "questionText": "In federalism system of Government currency, Armed forces and National defense is the primary function o",
     "options": [
       "f Local government Chairman",
       "Armed Forces Ruling Council",
@@ -5773,7 +5773,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-131-41",
-    "questionText": "In a federal system  (JAMB 2007)",
+    "questionText": "In a federal system",
     "options": [
       "the centre is weak",
       "plurality is abnormal",
@@ -5785,7 +5785,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-132-867",
-    "questionText": "In most recent times, a seemingly workable solution to the Nigerian federal question is that of_______ (JAMB 2019)",
+    "questionText": "In most recent times, a seemingly workable solution to the Nigerian federal question is that of_______",
     "options": [
       "state police",
       "restructuring",
@@ -5797,7 +5797,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-133-896",
-    "questionText": "A condition for judicial independence is the appointment of judges by the __________ (JAMB 2020)",
+    "questionText": "A condition for judicial independence is the appointment of judges by the __________",
     "options": [
       "Civil Service",
       "Judicial Service Commission",
@@ -5809,7 +5809,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-134-977",
-    "questionText": "The absence of an independent judiciary is a feature of (JAMB 2022)",
+    "questionText": "The absence of an independent judiciary is a feature of",
     "options": [
       "limited monarchy",
       "capitalıst system",
@@ -5821,7 +5821,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-135-511",
-    "questionText": "Rule by the old people is known as (JAMB 2013)",
+    "questionText": "Rule by the old people is known as",
     "options": [
       "theocracy",
       "monarchy",
@@ -5833,7 +5833,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-136-753",
-    "questionText": "Both federal and state governments derive power from the __ (JAMB 2017)",
+    "questionText": "Both federal and state governments derive power from the __",
     "options": [
       "residual list",
       "concurrent list",
@@ -5845,7 +5845,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-137-109",
-    "questionText": "A state with a hegemonic party is one in which  (JAMB 2010)",
+    "questionText": "A state with a hegemonic party is one in which",
     "options": [
       "there is one dominant party",
       "there is no opposition party",
@@ -5857,7 +5857,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-138-125",
-    "questionText": "Which of the following made the earliest contact with the Nigerian society?  (JAMB 2011)",
+    "questionText": "Which of the following made the earliest contact with the Nigerian society?",
     "options": [
       "The British",
       "The Portuguese",
@@ -5869,7 +5869,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-139-271",
-    "questionText": "Which of these is a feature of Nigeria federalism? (JAMB 2013)",
+    "questionText": "Which of these is a feature of Nigeria federalism?",
     "options": [
       "Conflict of authority does not arise",
       "Minority groups are equally benefited",
@@ -5881,7 +5881,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-140-1267",
-    "questionText": "The first franchise in the history of the democratic process is (JAMB 2004)",
+    "questionText": "The first franchise in the history of the democratic process is",
     "options": [
       "property franchise",
       "universal franchise",
@@ -5893,7 +5893,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-141-666",
-    "questionText": "Which of the following is a false description of the first Nigeria Prime Minister? He (JAMB 1989)",
+    "questionText": "Which of the following is a false description of the first Nigeria Prime Minister? He",
     "options": [
       "was first among equals",
       "presided over the cabinet",
@@ -5905,7 +5905,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-142-1462",
-    "questionText": "Which of these is not the supreme organ of the OAU? (JAMB 2015)",
+    "questionText": "Which of these is not the supreme organ of the OAU?",
     "options": [
       "The Council of Ministers",
       "The Administrative Secretary General",
@@ -5917,7 +5917,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-143-1405",
-    "questionText": "The power to nominate members of the judiciary at the federal level under the 1999 Constitution is vested in the (JAMB 2009)",
+    "questionText": "The power to nominate members of the judiciary at the federal level under the 1999 Constitution is vested in the",
     "options": [
       "Federal Judicial Service Commission",
       "Supreme Court",
@@ -5929,7 +5929,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-144-218",
-    "questionText": "The programme of a political party is known as its (JAMB 2000)",
+    "questionText": "The programme of a political party is known as its",
     "options": [
       "constitution",
       "document",
@@ -5941,7 +5941,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-145-1258",
-    "questionText": "The pre-colonial Yoruba political system as a whole can best be described as a (JAMB 2004)",
+    "questionText": "The pre-colonial Yoruba political system as a whole can best be described as a",
     "options": [
       "federation of cheifdoms and localities",
       "confederation of chiefdoms and localities",
@@ -5953,7 +5953,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-146-885",
-    "questionText": "The British Government revoked the charter of the Royal Niger Company and took over the direct administration of Nigeria in _________ (JAMB 2020)",
+    "questionText": "The British Government revoked the charter of the Royal Niger Company and took over the direct administration of Nigeria in _________",
     "options": [
       "1861",
       "1900",
@@ -5965,7 +5965,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-147-1034",
-    "questionText": "Which African country experienced a violent resistance movement against British colonial rule known as the Mau Mau rebellion? (JAMB 2023)",
+    "questionText": "Which African country experienced a violent resistance movement against British colonial rule known as the Mau Mau rebellion?",
     "options": [
       "Sudan",
       "Kenya",
@@ -5977,7 +5977,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-148-485",
-    "questionText": "Members of the Senate in Nigeria’s First Republic were (JAMB 2012)",
+    "questionText": "Members of the Senate in Nigeria’s First Republic were",
     "options": [
       "elected directly by the people",
       "elected by electoral college",
@@ -5989,7 +5989,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-149-334",
-    "questionText": "The Independence constitution can be described as (JAMB 1999)",
+    "questionText": "The Independence constitution can be described as",
     "options": [
       "monarchical and presidential",
       "republican and parliamentary",
@@ -6001,7 +6001,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-150-1318",
-    "questionText": "The pre-colonial Tiv society can best be described as (JAMB 2005)",
+    "questionText": "The pre-colonial Tiv society can best be described as",
     "options": [
       "republican",
       "aristocratic",
@@ -6013,7 +6013,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001452-151-90",
-    "questionText": "One of the functions of the ministry of External Affairs is the  (JAMB 2009)",
+    "questionText": "One of the functions of the ministry of External Affairs is the",
     "options": [
       "Deportation of illegal aliens",
       "Issuance of passports",
@@ -6025,7 +6025,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-152-1324",
-    "questionText": "Citizenship acquired through marriage is referred to as (JAMB 2005)",
+    "questionText": "Citizenship acquired through marriage is referred to as",
     "options": [
       "honorary",
       "naturalization",
@@ -6037,7 +6037,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-153-1235",
-    "questionText": "Nigeria's Non-Alignment Policy is constrained by her (JAMB 2003)",
+    "questionText": "Nigeria's Non-Alignment Policy is constrained by her",
     "options": [
       "strong ties with Western powers",
       "membership of the ECOWAS",
@@ -6049,7 +6049,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-154-1159",
-    "questionText": "Centralization of power is the basic feature of (JAMB 2002)",
+    "questionText": "Centralization of power is the basic feature of",
     "options": [
       "federalism",
       "a confederation",
@@ -6061,7 +6061,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-155-97",
-    "questionText": "Universal Adult Suffrage means all  (JAMB 2009)",
+    "questionText": "Universal Adult Suffrage means all",
     "options": [
       "Adult citizens can vote",
       "citizens vote",
@@ -6073,7 +6073,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-156-1190",
-    "questionText": "Nigeria's active role in the liberation of some countries in Southern Africa earned her (JAMB 2002)",
+    "questionText": "Nigeria's active role in the liberation of some countries in Southern Africa earned her",
     "options": [
       "the chairmanship of the Eminent Persons Group",
       "membership of SADC",
@@ -6085,7 +6085,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-157-801",
-    "questionText": "Legitimacy is determined mainly by (JAMB 2018)",
+    "questionText": "Legitimacy is determined mainly by",
     "options": [
       "charisma",
       "influence",
@@ -6097,7 +6097,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-158-1162",
-    "questionText": "A major way of maintaining confidence in the electoral process is by ensuring that (JAMB 2002)",
+    "questionText": "A major way of maintaining confidence in the electoral process is by ensuring that",
     "options": [
       "electoral officers are regularly trained",
       "elections are conducted in a free and fair atmosphere",
@@ -6109,7 +6109,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-159-471",
-    "questionText": "The bringing of a session of a parliament to an end through royal proclamation is known as (JAMB 2012)",
+    "questionText": "The bringing of a session of a parliament to an end through royal proclamation is known as",
     "options": [
       "political impasse",
       "dissolution of parliament",
@@ -6121,7 +6121,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-160-770",
-    "questionText": "In the 18th century, a new wind of development blew over Europe and the development was referred to__________? (JAMB 2017)",
+    "questionText": "In the 18th century, a new wind of development blew over Europe and the development was referred to__________?",
     "options": [
       "Labour Revolution",
       "Doctrine Revolution",
@@ -6133,7 +6133,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-161-1084",
-    "questionText": "The fragmented nature of the Igbo pre-colonial political system qualified it to be described as (JAMB 2024)",
+    "questionText": "The fragmented nature of the Igbo pre-colonial political system qualified it to be described as",
     "options": [
       "centralised in nature",
       "ceremonial political arrangement",
@@ -6145,7 +6145,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-162-1276",
-    "questionText": "In a parliamentary system of government,a vote of no confidence leads to the resignation of (JAMB 2004)",
+    "questionText": "In a parliamentary system of government,a vote of no confidence leads to the resignation of",
     "options": [
       "the entire parliament",
       "the prime minister",
@@ -6157,7 +6157,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-163-972",
-    "questionText": "The highest body which performed legislative functions under Babangida Regime was (JAMB 2022)",
+    "questionText": "The highest body which performed legislative functions under Babangida Regime was",
     "options": [
       "the National Council of State",
       "the Council of Minister",
@@ -6169,7 +6169,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-164-490",
-    "questionText": "The three registered political parties at the inception of Nigeria’s Fourth Republic were (JAMB 2012)",
+    "questionText": "The three registered political parties at the inception of Nigeria’s Fourth Republic were",
     "options": [
       "PDP, DPP and PPA",
       "PDP, AD and APP",
@@ -6181,7 +6181,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-165-1363",
-    "questionText": "An advantage of delegated legislation is (JAMB 2008)",
+    "questionText": "An advantage of delegated legislation is",
     "options": [
       "supremacy",
       "convenience",
@@ -6193,7 +6193,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-166-140",
-    "questionText": "The set of policies on the basis of which countries interact with one another is called:  (JAMB 2011)",
+    "questionText": "The set of policies on the basis of which countries interact with one another is called:",
     "options": [
       "Diplomacy",
       "Foreign policy",
@@ -6205,7 +6205,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-167-153",
-    "questionText": "The European Union (EU) is an   (JAMB 2012)",
+    "questionText": "The European Union (EU) is an",
     "options": [
       "Economic organization",
       "Association of former British Colonies",
@@ -6217,7 +6217,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-168-779",
-    "questionText": " Which of the following is a legal source of political authority? (JAMB 2018)",
+    "questionText": " Which of the following is a legal source of political authority?",
     "options": [
       "Power from the gun",
       "Economic power",
@@ -6229,7 +6229,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-169-151",
-    "questionText": "The commission established to handle the electoral activities in the Second Republic of Nigeria was  (JAMB 2012)",
+    "questionText": "The commission established to handle the electoral activities in the Second Republic of Nigeria was",
     "options": [
       "National Electoral Commission",
       "National Electoral Commission of Nigeria",
@@ -6241,7 +6241,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-170-834",
-    "questionText": "A vote of no confidence means______ (JAMB 2019)",
+    "questionText": "A vote of no confidence means______",
     "options": [
       "the same as impeachment in a presidential system",
       "the ability of the head of state to dissolve the parliament when collective responsibility fails to hold",
@@ -6253,7 +6253,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-171-1344",
-    "questionText": "A member of the Commonwealth that was not colonized by Britain is (JAMB 2008)",
+    "questionText": "A member of the Commonwealth that was not colonized by Britain is",
     "options": [
       "Malaysia",
       "Uganda",
@@ -6265,7 +6265,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-172-1036",
-    "questionText": "The Ijaw people of pre-colonial Nigeria were organized into? (JAMB 2023)",
+    "questionText": "The Ijaw people of pre-colonial Nigeria were organized into?",
     "options": [
       "Grades",
       "Clans",
@@ -6277,7 +6277,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-173-980",
-    "questionText": "The ultimate goal of the nationalists was to (JAMB 2022)",
+    "questionText": "The ultimate goal of the nationalists was to",
     "options": [
       "secure political independence",
       "encourage western education",
@@ -6289,7 +6289,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-174-961",
-    "questionText": "One of the features of rule of law is that an (JAMB 2022)",
+    "questionText": "One of the features of rule of law is that an",
     "options": [
       "offender is a deterrent",
       "accused is a culprit before trial",
@@ -6301,7 +6301,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-175-67",
-    "questionText": "The principle since independence include the following except  (JAMB 2008)",
+    "questionText": "The principle since independence include the following except",
     "options": [
       "peaceful coexistence",
       "legal equality of state",
@@ -6313,7 +6313,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-176-185",
-    "questionText": "The Aba women riot in Nigeria took place in    (JAMB 2013)",
+    "questionText": "The Aba women riot in Nigeria took place in",
     "options": [
       "1960",
       "1950",
@@ -6325,7 +6325,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-177-701",
-    "questionText": "Foreign policy refers to (JAMB 1989)",
+    "questionText": "Foreign policy refers to",
     "options": [
       "a policy made by a foreign country",
       "a policy made by a country for foreigners",
@@ -6337,7 +6337,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-178-662",
-    "questionText": "The question of civil war was raised for the first time at the \tmeeting of the O.A.U in September 1967 in (JAMB 1988)",
+    "questionText": "The question of civil war was raised for the first time at the \tmeeting of the O.A.U in September 1967 in",
     "options": [
       "Kampala",
       "Addis Ababa",
@@ -6349,7 +6349,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-179-134",
-    "questionText": "A law passed by the legislature and assented to by the executive is:  (JAMB 2011)",
+    "questionText": "A law passed by the legislature and assented to by the executive is:",
     "options": [
       "an act",
       "a presidential proclamation",
@@ -6361,7 +6361,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-180-715",
-    "questionText": "Nigeria hosted the meeting of Commonwealth Heads of State in (JAMB 1989)",
+    "questionText": "Nigeria hosted the meeting of Commonwealth Heads of State in",
     "options": [
       "1965",
       "1966",
@@ -6373,7 +6373,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-181-1341",
-    "questionText": "During the Second Republic, the Great Nigerian People's Party won the governorship election in (JAMB 2005)",
+    "questionText": "During the Second Republic, the Great Nigerian People's Party won the governorship election in",
     "options": [
       "Sokoto and Bauchi States",
       "Borno and Gongola States",
@@ -6385,7 +6385,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-182-283",
-    "questionText": "Nigeria is presently divided into how many federal constituencies? (JAMB 2013)",
+    "questionText": "Nigeria is presently divided into how many federal constituencies?",
     "options": [
       "6",
       "36",
@@ -6397,7 +6397,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-183-1406",
-    "questionText": "Prior to 1976, the local government system practiced in Northern Nigeria was (JAMB 2009)",
+    "questionText": "Prior to 1976, the local government system practiced in Northern Nigeria was",
     "options": [
       "chief-and-council",
       "chief-in-council",
@@ -6409,7 +6409,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-184-87",
-    "questionText": "Public opinion is important because it  (JAMB 2009)",
+    "questionText": "Public opinion is important because it",
     "options": [
       "Tells government what action it must take",
       "Lets government know what the people want",
@@ -6421,7 +6421,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-185-802",
-    "questionText": "A.V. Dicey popularised the principle of (JAMB 2018)",
+    "questionText": "A.V. Dicey popularised the principle of",
     "options": [
       "rule of law",
       "democracy",
@@ -6433,7 +6433,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-186-78",
-    "questionText": "“Rule of law” refers to situations in which  (JAMB 2009)",
+    "questionText": "“Rule of law” refers to situations in which",
     "options": [
       "Lawyers are the rulers",
       "Laws are supreme",
@@ -6445,7 +6445,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-187-785",
-    "questionText": "Political sovereignty belongs to (JAMB 2018)",
+    "questionText": "Political sovereignty belongs to",
     "options": [
       "the people",
       "government",
@@ -6457,7 +6457,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-188-501",
-    "questionText": "ECOMOG at the initial stage of its intervention in Liberia was perceived as (JAMB 2012)",
+    "questionText": "ECOMOG at the initial stage of its intervention in Liberia was perceived as",
     "options": [
       "neutral",
       "incompetent",
@@ -6469,7 +6469,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-189-606",
-    "questionText": "Unwritten constitution means that the constitution is (JAMB 1988)",
+    "questionText": "Unwritten constitution means that the constitution is",
     "options": [
       "not written down",
       "based only on conventions.",
@@ -6481,7 +6481,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-190-1213",
-    "questionText": "The operation of the rule of law is undermined by the (JAMB 2003)",
+    "questionText": "The operation of the rule of law is undermined by the",
     "options": [
       "unfriendly attitude of pressure groups",
       "existence of administrative tribunals and special immunities",
@@ -6493,7 +6493,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-191-345",
-    "questionText": "In 1979, the Unity Party of Nigeria contested and won gubernatorial elections in (JAMB 1999)",
+    "questionText": "In 1979, the Unity Party of Nigeria contested and won gubernatorial elections in",
     "options": [
       "Lagos, Ogun, imo, Oyo and Bendel",
       "Lagos, Kwara,Oyo,Ogun, and Benue",
@@ -6505,7 +6505,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-192-870",
-    "questionText": "The term ultra vires means_________ (JAMB 2019)",
+    "questionText": "The term ultra vires means_________",
     "options": [
       "the exercise of supervisory functions by the judiciary",
       "a situation where a public authority dutifully performs its functions",
@@ -6517,7 +6517,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-193-1317",
-    "questionText": "The legislative in Nigeria under the 1999 Constitution is composed of (JAMB 2005)",
+    "questionText": "The legislative in Nigeria under the 1999 Constitution is composed of",
     "options": [
       "108 senators and 350 members of the House of Representatives",
       "109 senators and 350 members of the House of Representatives",
@@ -6529,7 +6529,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-194-675",
-    "questionText": "The organ of the UNO which can impose mandatory sanctions on any of its members is the (JAMB 1989)",
+    "questionText": "The organ of the UNO which can impose mandatory sanctions on any of its members is the",
     "options": [
       "International Court of Justice",
       "Economic and Social Council",
@@ -6541,7 +6541,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-195-417",
-    "questionText": "In which of the following systems is the power of the component units more than that of the central government? (JAMB 2010)",
+    "questionText": "In which of the following systems is the power of the component units more than that of the central government?",
     "options": [
       "Unitary.",
       "Federal.",
@@ -6553,7 +6553,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-196-225",
-    "questionText": "The appointment, promotion and discipline of civil servants are the responsibility of the (JAMB 2000)",
+    "questionText": "The appointment, promotion and discipline of civil servants are the responsibility of the",
     "options": [
       "Civil Service Union",
       "Judicial Service Commission",
@@ -6565,7 +6565,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001453-197-259",
-    "questionText": "The Economic Community of West African States (ECOWAS) was formed on (JAMB 2013)",
+    "questionText": "The Economic Community of West African States (ECOWAS) was formed on",
     "options": [
       "28th May, 1975",
       "29th May, 1976",
@@ -6577,7 +6577,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-198-542",
-    "questionText": "A public corporation is managed by (JAMB 2013)",
+    "questionText": "A public corporation is managed by",
     "options": [
       "the board of directors",
       "a minister",
@@ -6589,7 +6589,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-199-503",
-    "questionText": "One of the programmes binding members of the Commonwealth is the (JAMB 2012)",
+    "questionText": "One of the programmes binding members of the Commonwealth is the",
     "options": [
       "food and aid programme",
       "cultural programmes",
@@ -6601,7 +6601,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-200-1180",
-    "questionText": "The main legislative body in Nigeria between 1966 and 1975 was the (JAMB 2002)",
+    "questionText": "The main legislative body in Nigeria between 1966 and 1975 was the",
     "options": [
       "Supreme Military Council",
       "Armed Forces Ruling Council",
@@ -6613,7 +6613,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-201-26",
-    "questionText": "The following countries are settler colonies except   (JAMB 2007)",
+    "questionText": "The following countries are settler colonies except",
     "options": [
       "Nigeria",
       "south Africa",
@@ -6625,7 +6625,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-202-1294",
-    "questionText": "The power to exercise overall control of the executive functions of ECOWAS is vested in the (JAMB 2005)",
+    "questionText": "The power to exercise overall control of the executive functions of ECOWAS is vested in the",
     "options": [
       "Authority of Heads of State and Government",
       "Secretary-General",
@@ -6637,7 +6637,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-203-246",
-    "questionText": "One of the problems facing the Economic Community of West African States (ECOWAS) is that (JAMB 2000)",
+    "questionText": "One of the problems facing the Economic Community of West African States (ECOWAS) is that",
     "options": [
       "member states do not attend meetings regularly",
       "member states do not have a common currency",
@@ -6649,7 +6649,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-204-874",
-    "questionText": "A constitution is a legal document _________ (JAMB 2020)",
+    "questionText": "A constitution is a legal document _________",
     "options": [
       "drawn up by lawyers",
       "enacted by military decrees",
@@ -6661,7 +6661,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-205-237",
-    "questionText": "Which of the following military regimes in Nigeria played a prominent role in the liberation of colonized African states? (JAMB 2000)",
+    "questionText": "Which of the following military regimes in Nigeria played a prominent role in the liberation of colonized African states?",
     "options": [
       "Aguiyi Ironsi",
       "Murtala / Obasanjo",
@@ -6673,7 +6673,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-206-1160",
-    "questionText": "A law passed by the legislature and assented by the executive is (JAMB 2002)",
+    "questionText": "A law passed by the legislature and assented by the executive is",
     "options": [
       "an act",
       "a presidential proclamation",
@@ -6685,7 +6685,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-207-629",
-    "questionText": "In the Oyo traditional political system, the Alaafin of Oyo was elected or chosen by a group known as the (JAMB 1988)",
+    "questionText": "In the Oyo traditional political system, the Alaafin of Oyo was elected or chosen by a group known as the",
     "options": [
       "Bales",
       "Obas",
@@ -6697,7 +6697,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-208-167",
-    "questionText": "Every political system performs the following basic functions excepts   (JAMB 2012)",
+    "questionText": "Every political system performs the following basic functions excepts",
     "options": [
       "Rule making",
       "Rule transformation",
@@ -6709,7 +6709,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-209-862",
-    "questionText": "Amendment of the U. N. O. charter is the duty of the ........ (JAMB 2019)",
+    "questionText": "Amendment of the U. N. O. charter is the duty of the ........",
     "options": [
       "Security Council",
       "Secretariat",
@@ -6721,7 +6721,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-210-652",
-    "questionText": "Military Governors were members of the Supreme Military Council under the (JAMB 1988)",
+    "questionText": "Military Governors were members of the Supreme Military Council under the",
     "options": [
       "Murtala Mohammed Regime",
       "Yakubu Gowon Regime",
@@ -6733,7 +6733,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-211-1465",
-    "questionText": "The Igbo political system was based on (JAMB 2015)",
+    "questionText": "The Igbo political system was based on",
     "options": [
       "Age Grades",
       "Umunna",
@@ -6745,7 +6745,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-212-812",
-    "questionText": "The major liberation organisation which fought for Namibia's independence was (JAMB 2018)",
+    "questionText": "The major liberation organisation which fought for Namibia's independence was",
     "options": [
       "SWAPO",
       "ANC",
@@ -6757,7 +6757,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-213-424",
-    "questionText": "In theory, one major advantage of the one-party systems is that it (JAMB 2010)",
+    "questionText": "In theory, one major advantage of the one-party systems is that it",
     "options": [
       "promotes greater mass participation in government",
       "serves as an instrument of national integration",
@@ -6769,7 +6769,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-214-1173",
-    "questionText": "In Nigeria, the Council of State was first created by (JAMB 2002)",
+    "questionText": "In Nigeria, the Council of State was first created by",
     "options": [
       "General Murtala Muhammed",
       "General Olusegun Obasanjo",
@@ -6781,7 +6781,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-215-278",
-    "questionText": "Under the 1979 constitution of Nigeria, each state was allowed to elect (JAMB 2013)",
+    "questionText": "Under the 1979 constitution of Nigeria, each state was allowed to elect",
     "options": [
       "as many senators as the state could finance",
       "five senators",
@@ -6793,7 +6793,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-216-1149",
-    "questionText": "The structure of the civil service is based on (JAMB 2002)",
+    "questionText": "The structure of the civil service is based on",
     "options": [
       "lateral organisation",
       "merit system",
@@ -6805,7 +6805,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-217-1299",
-    "questionText": "An indication that Africa is still the center-peice of Nigeria's foreign policy was the creation of the (JAMB 2005)",
+    "questionText": "An indication that Africa is still the center-peice of Nigeria's foreign policy was the creation of the",
     "options": [
       "Ministry of Integration and Cooperation in Africa",
       "National Institute of Policy and Strategic Studies",
@@ -6817,7 +6817,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-218-695",
-    "questionText": "Nigeria does not maintain diplomatic relations with South Africa because of the latter’s (JAMB 1989)",
+    "questionText": "Nigeria does not maintain diplomatic relations with South Africa because of the latter’s",
     "options": [
       "industrial policy",
       "apartheid policy",
@@ -6829,7 +6829,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-219-962",
-    "questionText": "The first Legislative Councıl in Nigeria was established by (JAMB 2022)",
+    "questionText": "The first Legislative Councıl in Nigeria was established by",
     "options": [
       "Clifford Constitution",
       "Richards Constitution",
@@ -6841,7 +6841,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-220-343",
-    "questionText": "The highest ruling body under the Murtala Obasanjo regime differed remarkably from that of the Gowon (JAMB 1999)",
+    "questionText": "The highest ruling body under the Murtala Obasanjo regime differed remarkably from that of the Gowon",
     "options": [
       "administration because of the",
       "inclusion of civilians as members",
@@ -6853,7 +6853,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-221-212",
-    "questionText": "An order directing a detainee to be brought before the court is called (JAMB 2000)",
+    "questionText": "An order directing a detainee to be brought before the court is called",
     "options": [
       "habeas corpus",
       "an appearance",
@@ -6865,7 +6865,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-222-670",
-    "questionText": "Any type of restricted franchise is a violation of principle of (JAMB 1989)",
+    "questionText": "Any type of restricted franchise is a violation of principle of",
     "options": [
       "constitutionalism",
       "sovereignty",
@@ -6877,7 +6877,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-223-562",
-    "questionText": "Unitary system of government is more suitable to a country (JAMB 2014)",
+    "questionText": "Unitary system of government is more suitable to a country",
     "options": [
       "that is sparsely populated",
       "that possesses a strong and modern army",
@@ -6889,7 +6889,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-224-960",
-    "questionText": "The political rights of a citızen include the (JAMB 2022)",
+    "questionText": "The political rights of a citızen include the",
     "options": [
       "freedom of speech",
       "right to employment",
@@ -6901,7 +6901,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-225-1470",
-    "questionText": "The term, rule of law means (JAMB 2015)",
+    "questionText": "The term, rule of law means",
     "options": [
       "nobody is above the law",
       "everybody is equal before the law",
@@ -6913,7 +6913,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-226-347",
-    "questionText": "One of the main reasons for the creation of more local governments in Nigeria is to (JAMB 1999)",
+    "questionText": "One of the main reasons for the creation of more local governments in Nigeria is to",
     "options": [
       "make them more responsive to people’s needs",
       "weaken the powers of traditional authorities",
@@ -6925,7 +6925,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-227-291",
-    "questionText": "Nigeria became a member country of the Common wealth of Nations on 1st October (JAMB 2013)",
+    "questionText": "Nigeria became a member country of the Common wealth of Nations on 1st October",
     "options": [
       "1922",
       "1951",
@@ -6937,7 +6937,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-228-1044",
-    "questionText": "The party system that Nigeria operated in the aborted Third Republic is  (JAMB 2024)",
+    "questionText": "The party system that Nigeria operated in the aborted Third Republic is",
     "options": [
       "zero party system",
       "one party system",
@@ -6949,7 +6949,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-229-1004",
-    "questionText": "What is the main source of funding for public corporations in Nigeria? (JAMB 2023)",
+    "questionText": "What is the main source of funding for public corporations in Nigeria?",
     "options": [
       "Government budget allocations",
       "Foreign aid",
@@ -6961,7 +6961,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-230-1014",
-    "questionText": "Which of the following African leaders played a significant role in the formation of NEPAD? (JAMB 2023)",
+    "questionText": "Which of the following African leaders played a significant role in the formation of NEPAD?",
     "options": [
       "Julius Nyerere",
       "Nelson Mandela",
@@ -6973,7 +6973,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-231-98",
-    "questionText": "A bill that applies to the whole population and is intended to promote the general welfare is called  (JAMB 2009)",
+    "questionText": "A bill that applies to the whole population and is intended to promote the general welfare is called",
     "options": [
       "A private bill",
       "a decree",
@@ -6985,7 +6985,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-232-530",
-    "questionText": "The earliest nationalist activities in Nigeria were spearheaded by (JAMB 2013)",
+    "questionText": "The earliest nationalist activities in Nigeria were spearheaded by",
     "options": [
       "educated elites",
       "trade unions",
@@ -6997,7 +6997,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001454-233-8",
-    "questionText": "A major issue that distinguishes pressure groups from political parties is  (JAMB 2006)",
+    "questionText": "A major issue that distinguishes pressure groups from political parties is",
     "options": [
       "membership drive",
       "objective",
@@ -7009,7 +7009,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-234-450",
-    "questionText": "Nigeria was classified as a front line state for (JAMB 2010)",
+    "questionText": "Nigeria was classified as a front line state for",
     "options": [
       "spearheading the formation of African Union",
       "supporting the liberation efforts in Southern Africa",
@@ -7021,7 +7021,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-235-1434",
-    "questionText": "A prominent feature of a presidential system of government is (JAMB 2009)",
+    "questionText": "A prominent feature of a presidential system of government is",
     "options": [
       "vote of no confidence",
       "separation of powers",
@@ -7033,7 +7033,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-236-746",
-    "questionText": "Activities of pressure groups that influence governmental decisions are hampered by __ (JAMB 2017)",
+    "questionText": "Activities of pressure groups that influence governmental decisions are hampered by __",
     "options": [
       "its size",
       "its leadership",
@@ -7045,7 +7045,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-237-323",
-    "questionText": "Legislative control over delegated legislation can be performed through (JAMB 1999)",
+    "questionText": "Legislative control over delegated legislation can be performed through",
     "options": [
       "withdrawal of delegated powers by the judiciary",
       "nullification of unconstitutional legislation",
@@ -7057,7 +7057,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-238-970",
-    "questionText": "A policy formulated to guide relations with other nations is called (JAMB 2022)",
+    "questionText": "A policy formulated to guide relations with other nations is called",
     "options": [
       "international policy",
       "state policy",
@@ -7069,7 +7069,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-239-1133",
-    "questionText": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalised in the late 1970's for transacting business with (JAMB 2001)",
+    "questionText": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalised in the late 1970's for transacting business with",
     "options": [
       "France",
       "South Africa",
@@ -7081,7 +7081,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-240-336",
-    "questionText": "The first Head of Government in Independent Nigeria was (JAMB 1999)",
+    "questionText": "The first Head of Government in Independent Nigeria was",
     "options": [
       "Nnamdi Azikiwe",
       "Ahmadu Bello",
@@ -7093,7 +7093,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-241-1202",
-    "questionText": "The best form of government for a heterogeneous society is a (JAMB 2003)",
+    "questionText": "The best form of government for a heterogeneous society is a",
     "options": [
       "quasi-federal system",
       "federal system",
@@ -7105,7 +7105,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-242-1007",
-    "questionText": "What is the term for a system of government in which power is held by a small group of people? (JAMB 2023)",
+    "questionText": "What is the term for a system of government in which power is held by a small group of people?",
     "options": [
       "Oligarchy",
       "Monarchy",
@@ -7117,7 +7117,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-243-1206",
-    "questionText": "Constitutional disputes in states with written constitutions are resolved by (JAMB 2003)",
+    "questionText": "Constitutional disputes in states with written constitutions are resolved by",
     "options": [
       "ombudsman",
       "judiciary",
@@ -7129,7 +7129,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-244-912",
-    "questionText": "NEPAD was adopted during the OAU summit held in _________ (JAMB 2020)",
+    "questionText": "NEPAD was adopted during the OAU summit held in _________",
     "options": [
       "Tunis",
       "Lusaka",
@@ -7141,7 +7141,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-245-765",
-    "questionText": "The essence of ECOWAS is to________ (JAMB 2017)",
+    "questionText": "The essence of ECOWAS is to________",
     "options": [
       "bring political parties together",
       "foster interstate economic and political co-operation",
@@ -7153,7 +7153,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-246-1032",
-    "questionText": "The process of selecting candidates to represent a political party in elections is known as (JAMB 2023)",
+    "questionText": "The process of selecting candidates to represent a political party in elections is known as",
     "options": [
       "campaigning",
       "primaries",
@@ -7165,7 +7165,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-247-406",
-    "questionText": "Nigeria’s membership of the UN complements her foreign policy in the area of (JAMB 2016)",
+    "questionText": "Nigeria’s membership of the UN complements her foreign policy in the area of",
     "options": [
       "bilateral diplomacy",
       "regional diplomacy",
@@ -7177,7 +7177,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-248-393",
-    "questionText": "Which of the following is NOT a function of the Police Force in Nigeria? (JAMB 2016)",
+    "questionText": "Which of the following is NOT a function of the Police Force in Nigeria?",
     "options": [
       "Traffic control",
       "Arrest of criminals",
@@ -7189,7 +7189,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-249-368",
-    "questionText": "France introduced the policy of assimilation in her colonies primarily to (JAMB 2016)",
+    "questionText": "France introduced the policy of assimilation in her colonies primarily to",
     "options": [
       "teach them the art of leadership",
       "give them a sound education",
@@ -7201,7 +7201,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-250-540",
-    "questionText": "Nigeria became a federation of thirty-six states during the era of (JAMB 2013)",
+    "questionText": "Nigeria became a federation of thirty-six states during the era of",
     "options": [
       "Yakubu Gowon",
       "Ibrahim Babangida",
@@ -7213,7 +7213,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-251-1229",
-    "questionText": "The 1976 Reforms have been most beneficial to the (JAMB 2003)",
+    "questionText": "The 1976 Reforms have been most beneficial to the",
     "options": [
       "Nigerian police",
       "federal government",
@@ -7225,7 +7225,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-252-683",
-    "questionText": "The principle of separation of powers implies that the three main organs of government work (JAMB 1989)",
+    "questionText": "The principle of separation of powers implies that the three main organs of government work",
     "options": [
       "separately",
       "independently but co-operatively",
@@ -7237,7 +7237,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-253-849",
-    "questionText": "An important provision of the 1946 constitution was that it ........ (JAMB 2019)",
+    "questionText": "An important provision of the 1946 constitution was that it ........",
     "options": [
       "conceived federalism for Nigeria",
       "introduced federalism in Nigeria",
@@ -7249,7 +7249,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-254-766",
-    "questionText": "The head of government under the 1979 Constitution is the _____ (JAMB 2017)",
+    "questionText": "The head of government under the 1979 Constitution is the _____",
     "options": [
       "president",
       "prime minister",
@@ -7261,7 +7261,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-255-1141",
-    "questionText": "Which of the following is the function of the Council of the Ministers of the O.A.U (JAMB 2001)",
+    "questionText": "Which of the following is the function of the Council of the Ministers of the O.A.U",
     "options": [
       "Cordinating of the general policy of the organization",
       "Directing the finances of the organization",
@@ -7273,7 +7273,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-256-731",
-    "questionText": "The popularity of a political party in given democracy rests on its __ (JAMB 2017)",
+    "questionText": "The popularity of a political party in given democracy rests on its __",
     "options": [
       "constitution",
       "manifesto",
@@ -7285,7 +7285,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-257-856",
-    "questionText": "In the 4th republic, the political parties were______ (JAMB 2019)",
+    "questionText": "In the 4th republic, the political parties were______",
     "options": [
       "NAP, PDP and APGA",
       "PDP, APP, AD",
@@ -7297,7 +7297,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-258-1254",
-    "questionText": "A specialized agency of the United Nations Organization is the (JAMB 2004)",
+    "questionText": "A specialized agency of the United Nations Organization is the",
     "options": [
       "International Court of Justice",
       "Internation Olympic Committee",
@@ -7309,7 +7309,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-259-59",
-    "questionText": "What does INEC stand for?  (JAMB 2008)",
+    "questionText": "What does INEC stand for?",
     "options": [
       "Independent National Elections Committee",
       "Independent Newspapers executive Committee",
@@ -7321,7 +7321,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-260-869",
-    "questionText": "____ is noted for having said \"man by nature is a political animal\" (JAMB 2019)",
+    "questionText": "____ is noted for having said \"man by nature is a political animal\"",
     "options": [
       "Thomas Hobbes",
       "Aristotle",
@@ -7333,7 +7333,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-261-893",
-    "questionText": "Southern Nigeria was divided into Eastern and Western provinces for administrative purposes in _________ (JAMB 2020)",
+    "questionText": "Southern Nigeria was divided into Eastern and Western provinces for administrative purposes in _________",
     "options": [
       "1935",
       "1937",
@@ -7345,7 +7345,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-262-1101",
-    "questionText": "A constitution that requires a plebiscite or a referendum to be amended is (JAMB 2001)",
+    "questionText": "A constitution that requires a plebiscite or a referendum to be amended is",
     "options": [
       "rigid",
       "unwritten",
@@ -7357,7 +7357,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-263-380",
-    "questionText": "The Queen can do no wrong means (JAMB 2016)",
+    "questionText": "The Queen can do no wrong means",
     "options": [
       "the Queen is above the law",
       "the Queen acts on the advice of their ministers on matter of public policy",
@@ -7369,7 +7369,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-264-732",
-    "questionText": "A system of local council that allows for rotational leadership is known as __ (JAMB 2017)",
+    "questionText": "A system of local council that allows for rotational leadership is known as __",
     "options": [
       "single executive",
       "dual executive",
@@ -7381,7 +7381,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-265-745",
-    "questionText": "A major objective of Public Complaints Commission is __ (JAMB 2017)",
+    "questionText": "A major objective of Public Complaints Commission is __",
     "options": [
       "creating fair opportunities for all government employees",
       "training and promoting public servants",
@@ -7393,7 +7393,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-266-201",
-    "questionText": "The rule of law refers to the principle of (JAMB 2000)",
+    "questionText": "The rule of law refers to the principle of",
     "options": [
       "legality and impartiality",
       "the supreme power of rulers.",
@@ -7405,7 +7405,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-267-532",
-    "questionText": "In Nigeria’s First Republic, the Prime Minister was both the (JAMB 2013)",
+    "questionText": "In Nigeria’s First Republic, the Prime Minister was both the",
     "options": [
       "Head of government and a lawmaker",
       "Head of State and Commander-in-Chief of the armed forces",
@@ -7417,7 +7417,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-268-1376",
-    "questionText": "Multi-laterism in Nigeria's foreign policy entails her (JAMB 2008)",
+    "questionText": "Multi-laterism in Nigeria's foreign policy entails her",
     "options": [
       "stand on Africa as the center piece of her policy",
       "non-aligned posture in the international system",
@@ -7429,7 +7429,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-269-832",
-    "questionText": "A party can be said to have national outlook if________ (JAMB 2019)",
+    "questionText": "A party can be said to have national outlook if________",
     "options": [
       "it is ethnic based but has branches all over the state",
       "its membership cut across ethnic boundaries",
@@ -7441,7 +7441,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-270-672",
-    "questionText": "Which of the following is not civic obligation of a citizen? (JAMB 1989)",
+    "questionText": "Which of the following is not civic obligation of a citizen?",
     "options": [
       "Obedience to law",
       "payment of taxes",
@@ -7453,7 +7453,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-271-989",
-    "questionText": "The conference convened to discuss the provisions of the Macpherson Constitution was held in? (JAMB 2022)",
+    "questionText": "The conference convened to discuss the provisions of the Macpherson Constitution was held in?",
     "options": [
       "London",
       "Calabar",
@@ -7465,7 +7465,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-272-923",
-    "questionText": "The fees collected by local governments at motor parks represent ______ (JAMB 2021)",
+    "questionText": "The fees collected by local governments at motor parks represent ______",
     "options": [
       "Income tax",
       "User charge",
@@ -7477,7 +7477,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-273-520",
-    "questionText": "The act of transferring autonomous powers to subordinate agencies is (JAMB 2013)",
+    "questionText": "The act of transferring autonomous powers to subordinate agencies is",
     "options": [
       "devolution",
       "concentration",
@@ -7489,7 +7489,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-274-847",
-    "questionText": "According to Lewis Samuel, '________ is identified with pure conquest and unequivocal exploitation...' (JAMB 2019)",
+    "questionText": "According to Lewis Samuel, '________ is identified with pure conquest and unequivocal exploitation...'",
     "options": [
       "Neo colonialism",
       "Progressive Imperialism",
@@ -7501,7 +7501,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-275-1129",
-    "questionText": "The main source of financing local government in Nigeria is (JAMB 2001)",
+    "questionText": "The main source of financing local government in Nigeria is",
     "options": [
       "internal revenue generation",
       "statutory revenue allocation",
@@ -7513,7 +7513,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-276-401",
-    "questionText": "Citizenship of a state by descent requires that (JAMB 2016)",
+    "questionText": "Citizenship of a state by descent requires that",
     "options": [
       "one is born and bred in the state",
       "one’s mother was born in the state",
@@ -7525,7 +7525,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-277-138",
-    "questionText": "Associations whose main interest is to influence public policies without attempting to capture state power are:  (JAMB 2011)",
+    "questionText": "Associations whose main interest is to influence public policies without attempting to capture state power are:",
     "options": [
       "communal groups",
       "trade unions",
@@ -7537,7 +7537,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-278-1266",
-    "questionText": "Laws made by state governments are known as (JAMB 2004)",
+    "questionText": "Laws made by state governments are known as",
     "options": [
       "bye laws",
       "decrees",
@@ -7549,7 +7549,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-279-298",
-    "questionText": "The head of the electoral commission at the local government area is referred to as the (JAMB 2013)",
+    "questionText": "The head of the electoral commission at the local government area is referred to as the",
     "options": [
       "chairman",
       "electoral officer",
@@ -7561,7 +7561,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-280-1347",
-    "questionText": "In which of the following countries has the UN carried out peace-keeping operations? (JAMB 2008)",
+    "questionText": "In which of the following countries has the UN carried out peace-keeping operations?",
     "options": [
       "Cyprus, Singapore and South Africa",
       "Lebanon, the Congo and Mexico",
@@ -7573,7 +7573,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-281-709",
-    "questionText": "The Republican Constitution of 1963 was indigenous because it was approved by (JAMB 1989)",
+    "questionText": "The Republican Constitution of 1963 was indigenous because it was approved by",
     "options": [
       "a referendum",
       "the representatives of the people in parliament",
@@ -7585,7 +7585,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-282-170",
-    "questionText": "Globalization encompasses all the following except   (JAMB 2012)",
+    "questionText": "Globalization encompasses all the following except",
     "options": [
       "market integration",
       "internationalization of politics",
@@ -7597,7 +7597,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-283-845",
-    "questionText": "The basis of the Nigerian foreign policy thrust particularly during the Independence Constitution era was ... in nature (JAMB 2019)",
+    "questionText": "The basis of the Nigerian foreign policy thrust particularly during the Independence Constitution era was ... in nature",
     "options": [
       "afrocentric",
       "eurocentric",
@@ -7609,7 +7609,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-284-934",
-    "questionText": "Before Nigeria became a republic, the highest body charged with the administration of justice was the...... (JAMB 2021)",
+    "questionText": "Before Nigeria became a republic, the highest body charged with the administration of justice was the......",
     "options": [
       "Court of Appeal",
       "High Court",
@@ -7621,7 +7621,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-285-57",
-    "questionText": "The Action Group crisis was is in which year?  (JAMB 2008)",
+    "questionText": "The Action Group crisis was is in which year?",
     "options": [
       "1966",
       "1962",
@@ -7633,7 +7633,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-286-740",
-    "questionText": "Which of the following is the oldest Public Corporation in Nigeria? (JAMB 2017)",
+    "questionText": "Which of the following is the oldest Public Corporation in Nigeria?",
     "options": [
       "Power Distribution Company of Nigeria",
       "Nigeria Mining Corporation",
@@ -7645,7 +7645,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-287-1323",
-    "questionText": "The pressure group that resorts to unconventional methods to achieve its objectives is called (JAMB 2005)",
+    "questionText": "The pressure group that resorts to unconventional methods to achieve its objectives is called",
     "options": [
       "anomic group",
       "institutional group",
@@ -7657,7 +7657,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-288-1286",
-    "questionText": "In a democracy,sovereign authority is exercised by the (JAMB 2004)",
+    "questionText": "In a democracy,sovereign authority is exercised by the",
     "options": [
       "legislature",
       "people",
@@ -7669,7 +7669,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-289-898",
-    "questionText": "Warrant Chiefs were appointed to __________ (JAMB 2020)",
+    "questionText": "Warrant Chiefs were appointed to __________",
     "options": [
       "Prevent tribal wars",
       "supervise native courts",
@@ -7681,7 +7681,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-290-103",
-    "questionText": "During the period 1960-1966, Nigerian was governed under the  (JAMB 2010)",
+    "questionText": "During the period 1960-1966, Nigerian was governed under the",
     "options": [
       "presidential system of government",
       "Westminster system of government",
@@ -7693,7 +7693,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-291-132",
-    "questionText": "A major issue that distinguishes pressure groups from political parties is:  (JAMB 2011)",
+    "questionText": "A major issue that distinguishes pressure groups from political parties is:",
     "options": [
       "membership drive",
       "the objective",
@@ -7705,7 +7705,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-292-77",
-    "questionText": "A social system in which power is derived  from control over land is called  (JAMB 2009)",
+    "questionText": "A social system in which power is derived  from control over land is called",
     "options": [
       "Oligarchy",
       "Feudalisms",
@@ -7717,7 +7717,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-293-963",
-    "questionText": "An electoral system in which the winner must secure more than 50% of the vote is described as a/an (JAMB 2022)",
+    "questionText": "An electoral system in which the winner must secure more than 50% of the vote is described as a/an",
     "options": [
       "plurality system",
       "proportional representation",
@@ -7729,7 +7729,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-294-1214",
-    "questionText": "The type of government operated in Nigeria between October 1st 1979 to December 31st 1983 is called a (JAMB 2003)",
+    "questionText": "The type of government operated in Nigeria between October 1st 1979 to December 31st 1983 is called a",
     "options": [
       "collegial system of government",
       "presidential system of government",
@@ -7741,7 +7741,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-295-735",
-    "questionText": " Elective principle in Nigeria was first introduced by __ (JAMB 2017)",
+    "questionText": " Elective principle in Nigeria was first introduced by __",
     "options": [
       "Richards Constitution",
       "Macpherson Constitution",
@@ -7753,7 +7753,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-296-421",
-    "questionText": "A typical form of delegated legislation is (JAMB 2010)",
+    "questionText": "A typical form of delegated legislation is",
     "options": [
       "a decree",
       "a bill",
@@ -7765,7 +7765,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-297-339",
-    "questionText": "During the 1957 constitutional conference, the Willink Commission was set up to (JAMB 1999)",
+    "questionText": "During the 1957 constitutional conference, the Willink Commission was set up to",
     "options": [
       "recommend a date for independence",
       "suggest an equitable revenue allocation formula",
@@ -7777,7 +7777,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-298-320",
-    "questionText": "The process of learning the norms and values associated with a political system is referred to as political (JAMB 1999)",
+    "questionText": "The process of learning the norms and values associated with a political system is referred to as political",
     "options": [
       "socialization",
       "indoctrination",
@@ -7789,7 +7789,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-299-1197",
-    "questionText": "The unrestrained power of the state over its citizens is underlined by (JAMB 2003)",
+    "questionText": "The unrestrained power of the state over its citizens is underlined by",
     "options": [
       "sovereignty",
       "nationalism",
@@ -7801,7 +7801,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-300-643",
-    "questionText": "A popular form of proportional representation is (JAMB 1988)",
+    "questionText": "A popular form of proportional representation is",
     "options": [
       "communal representation",
       "single transferable vote",
@@ -7813,7 +7813,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-301-410",
-    "questionText": "A form of oligarchy in which gifted people are at the helm of affairs is (JAMB 2010)",
+    "questionText": "A form of oligarchy in which gifted people are at the helm of affairs is",
     "options": [
       "plutocracy",
       "theocracy",
@@ -7825,7 +7825,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-302-277",
-    "questionText": "The idea of federalism in Nigeria started with ______ constitution. (JAMB 2013)",
+    "questionText": "The idea of federalism in Nigeria started with ______ constitution.",
     "options": [
       "Clifford",
       "Independence",
@@ -7837,7 +7837,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-303-1148",
-    "questionText": "The delineation of constituencies is a major duty of the (JAMB 2002)",
+    "questionText": "The delineation of constituencies is a major duty of the",
     "options": [
       "national assembly",
       "political parties",
@@ -7849,7 +7849,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-304-1042",
-    "questionText": "Nigeria's foreign policy is guided by the principle of (JAMB 2023)",
+    "questionText": "Nigeria's foreign policy is guided by the principle of",
     "options": [
       "military dominance",
       "economic self-sufficiency",
@@ -7861,7 +7861,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-305-385",
-    "questionText": "Prior to the formation of the OAU in 1963, Nigeria Identified with the (JAMB 2016)",
+    "questionText": "Prior to the formation of the OAU in 1963, Nigeria Identified with the",
     "options": [
       "Brazzaville Group",
       "Casablanca group",
@@ -7873,7 +7873,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-306-1381",
-    "questionText": "A major shortcoming of the Lyttelton Constitution was that (JAMB 2008)",
+    "questionText": "A major shortcoming of the Lyttelton Constitution was that",
     "options": [
       "the Governor-General continued to head the government",
       "no provision was made for the office of the prime minister",
@@ -7885,7 +7885,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-307-248",
-    "questionText": "Which of the following bodies is the most representative organ of the United Nations organization (UNO)? (JAMB 2000)",
+    "questionText": "Which of the following bodies is the most representative organ of the United Nations organization (UNO)?",
     "options": [
       "The Economic and Social Council",
       "The Trusteeship Council",
@@ -7897,7 +7897,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-308-1189",
-    "questionText": "Who among the following served as Secretary General of OPEC? (JAMB 2002)",
+    "questionText": "Who among the following served as Secretary General of OPEC?",
     "options": [
       "Jibril Aminu",
       "Aret Adams",
@@ -7909,7 +7909,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-309-655",
-    "questionText": "All the following were frontline fighters for Nigeria’s Independence except (JAMB 1988)",
+    "questionText": "All the following were frontline fighters for Nigeria’s Independence except",
     "options": [
       "Obafemi Awolowo",
       "Nnamdi Azikiwe",
@@ -7921,7 +7921,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-310-215",
-    "questionText": "The system of voting on behalf of another person is known as (JAMB 2000)",
+    "questionText": "The system of voting on behalf of another person is known as",
     "options": [
       "voting by lot",
       "casting votes.",
@@ -7933,7 +7933,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-311-1137",
-    "questionText": "In 1981, Nigeria participated in an Organization of African Unity peace-keeping force to replace Libyan forces in (JAMB 2001)",
+    "questionText": "In 1981, Nigeria participated in an Organization of African Unity peace-keeping force to replace Libyan forces in",
     "options": [
       "Somalia",
       "Chad",
@@ -7945,7 +7945,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-312-491",
-    "questionText": "The Sharia legal system was first introduced in the Fourth Republic in (JAMB 2012)",
+    "questionText": "The Sharia legal system was first introduced in the Fourth Republic in",
     "options": [
       "Kano State",
       "Katsina State",
@@ -7957,7 +7957,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-313-453",
-    "questionText": "One major function of the Authority of Heads of State and Government of ECOWAS is (JAMB 2010)",
+    "questionText": "One major function of the Authority of Heads of State and Government of ECOWAS is",
     "options": [
       "appointing staff of the Secretariat",
       "appointing the Executive Secretary",
@@ -7969,7 +7969,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-314-631",
-    "questionText": "The primary purpose of the state is to (JAMB 1988)",
+    "questionText": "The primary purpose of the state is to",
     "options": [
       "establish a system of law and order",
       "train people to become good citizens",
@@ -7981,7 +7981,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-315-42",
-    "questionText": "The legislature performs the following functions except  (JAMB 2007)",
+    "questionText": "The legislature performs the following functions except",
     "options": [
       "determines the general direction of public policies",
       "investigating and monitoring the activities of the officials of government",
@@ -7993,7 +7993,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-316-169",
-    "questionText": "A major factor that differentiates International politics from domestic politics is that International politics  (JAMB 2012)",
+    "questionText": "A major factor that differentiates International politics from domestic politics is that International politics",
     "options": [
       "has no centralized institution of government",
       "cannot enforce sanctions",
@@ -8005,7 +8005,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-317-876",
-    "questionText": "The judicial organ of government is the body which _________ (JAMB 2020)",
+    "questionText": "The judicial organ of government is the body which _________",
     "options": [
       "implements the law",
       "makes the law",
@@ -8017,7 +8017,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-318-1319",
-    "questionText": "A major function of the State Independent Electoral Commission in Nigeria is the (JAMB 2005)",
+    "questionText": "A major function of the State Independent Electoral Commission in Nigeria is the",
     "options": [
       "registeration of political parties",
       "conduct of elections into local government offices",
@@ -8029,7 +8029,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-319-630",
-    "questionText": "The declaration of a state of emergency in Western Nigeria was protected by the constitution of (JAMB 1988)",
+    "questionText": "The declaration of a state of emergency in Western Nigeria was protected by the constitution of",
     "options": [
       "1954",
       "1951",
@@ -8041,7 +8041,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-320-149",
-    "questionText": "Which of the following does not described a party system?  (JAMB 2012)",
+    "questionText": "Which of the following does not described a party system?",
     "options": [
       "one dominant party system",
       "two party system",
@@ -8053,7 +8053,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-321-1059",
-    "questionText": "A naturalised citizen can lose his citizenship if found guilty of  (JAMB 2024)",
+    "questionText": "A naturalised citizen can lose his citizenship if found guilty of",
     "options": [
       "treason",
       "evading of taxes",
@@ -8065,7 +8065,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-322-1183",
-    "questionText": "The most active organ of the Economic Community of West African States is the (JAMB 2002)",
+    "questionText": "The most active organ of the Economic Community of West African States is the",
     "options": [
       "Tribunal of the Community",
       "Technical and Specialized Commission",
@@ -8077,7 +8077,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-323-1019",
-    "questionText": "In a communist system, who owns and controls the means of production? (JAMB 2023)",
+    "questionText": "In a communist system, who owns and controls the means of production?",
     "options": [
       "corporations",
       "The government",
@@ -8089,7 +8089,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-324-975",
-    "questionText": "The basic unit of every political organization in the Igbo pre-colonial era was the (JAMB 2022)",
+    "questionText": "The basic unit of every political organization in the Igbo pre-colonial era was the",
     "options": [
       "ala",
       "family",
@@ -8101,7 +8101,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-325-284",
-    "questionText": "Before an election is conducted, the country is divided into electoral districts mainly to (JAMB 2013)",
+    "questionText": "Before an election is conducted, the country is divided into electoral districts mainly to",
     "options": [
       "avoid double voting",
       "avoid secret voting",
@@ -8113,7 +8113,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-326-1114",
-    "questionText": "Some pre-colonial Nigerian societies are described as stateless because (JAMB 2001)",
+    "questionText": "Some pre-colonial Nigerian societies are described as stateless because",
     "options": [
       "they had no formal governmental institutions",
       "they had no definite political boundaries",
@@ -8125,7 +8125,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-327-200",
-    "questionText": "Political authority is the (JAMB 2000)",
+    "questionText": "Political authority is the",
     "options": [
       "legitimate right to exercise political power.",
       "ability to control political behaviour.",
@@ -8137,7 +8137,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-328-83",
-    "questionText": "The second military coup data in Nigeria took place on  (JAMB 2009)",
+    "questionText": "The second military coup data in Nigeria took place on",
     "options": [
       "15-Jan-66",
       "1-Oct-66",
@@ -8149,7 +8149,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-329-1464",
-    "questionText": "Decree 34 of 1966 was unacceptable to many Nigerians because it was (JAMB 2015)",
+    "questionText": "Decree 34 of 1966 was unacceptable to many Nigerians because it was",
     "options": [
       "seen as an instrument of impoverishment",
       "perceived to abolish the federal system",
@@ -8161,7 +8161,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-330-648",
-    "questionText": "It is the duty of a government to perform all the following functions, except (JAMB 1988)",
+    "questionText": "It is the duty of a government to perform all the following functions, except",
     "options": [
       "Preventing internal disorder",
       "Ensuring security of life and property",
@@ -8173,7 +8173,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-331-523",
-    "questionText": "A political party is different from a pressure group in its (JAMB 2013)",
+    "questionText": "A political party is different from a pressure group in its",
     "options": [
       "source of finance",
       "objective",
@@ -8185,7 +8185,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-332-136",
-    "questionText": "In a parliamentary, the term shadow cabinet is often used to refer to the:  (JAMB 2011)",
+    "questionText": "In a parliamentary, the term shadow cabinet is often used to refer to the:",
     "options": [
       "back benchers in the house",
       "deputy prime ministers and assistant ministers",
@@ -8197,7 +8197,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-333-293",
-    "questionText": "To conduct local government elections, the electoral commission divides the local government area into (JAMB 2013)",
+    "questionText": "To conduct local government elections, the electoral commission divides the local government area into",
     "options": [
       "branches",
       "constituencies",
@@ -8209,7 +8209,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-334-561",
-    "questionText": "The court that has ultimate power to interprets the constitution is the (JAMB 2014)",
+    "questionText": "The court that has ultimate power to interprets the constitution is the",
     "options": [
       "Supreme Court",
       "Magistrate Court",
@@ -8221,7 +8221,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-335-1108",
-    "questionText": "One argument against a multi-party system is thes (JAMB 2001)",
+    "questionText": "One argument against a multi-party system is thes",
     "options": [
       "encouragement of opposition and instability",
       "banning of interest groups",
@@ -8233,7 +8233,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-336-1046",
-    "questionText": "The main argument against the 1999 Constitution is that  (JAMB 2024)",
+    "questionText": "The main argument against the 1999 Constitution is that",
     "options": [
       "it was imposed by the military",
       "it was imposed by the military",
@@ -8245,7 +8245,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-337-888",
-    "questionText": "A characteristic feature of communism is __________ (JAMB 2020)",
+    "questionText": "A characteristic feature of communism is __________",
     "options": [
       "Free enterprise",
       "liberal democracy",
@@ -8257,7 +8257,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-338-75",
-    "questionText": "In a parliamentary system, who ensures that members are in the house to vote on major issues?  (JAMB 2009)",
+    "questionText": "In a parliamentary system, who ensures that members are in the house to vote on major issues?",
     "options": [
       "party leaders",
       "speaker of the house",
@@ -8269,7 +8269,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-339-1125",
-    "questionText": "The president of Nigeria is advised on the sovereignty and territorial integrity of the country by the (JAMB 2001)",
+    "questionText": "The president of Nigeria is advised on the sovereignty and territorial integrity of the country by the",
     "options": [
       "National Secrurity Council",
       "National Defense Council",
@@ -8281,7 +8281,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-340-1181",
-    "questionText": "Nigeria formally became a federation in (JAMB 2002)",
+    "questionText": "Nigeria formally became a federation in",
     "options": [
       "1960",
       "1963",
@@ -8293,7 +8293,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-341-755",
-    "questionText": "Which of the following Nigerian president initiated and facilitated the creation of NEPAD? (JAMB 2017)",
+    "questionText": "Which of the following Nigerian president initiated and facilitated the creation of NEPAD?",
     "options": [
       "Goodluck Jonathan",
       "Olusegun Obasanjo",
@@ -8305,7 +8305,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-342-708",
-    "questionText": "Which of the following is not an academic discipline in which a student of Government can specialize (JAMB 1989)",
+    "questionText": "Which of the following is not an academic discipline in which a student of Government can specialize",
     "options": [
       "Public Administration",
       "Local Government",
@@ -8317,7 +8317,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-343-998",
-    "questionText": "Who is the current chairperson of ECOWAS? (JAMB 2023)",
+    "questionText": "Who is the current chairperson of ECOWAS?",
     "options": [
       "Bola Ahmed Tinubu",
       "Alassane Ouattara",
@@ -8329,7 +8329,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-344-871",
-    "questionText": "Class stratification is a peculiar feature of___________ (JAMB 2019)",
+    "questionText": "Class stratification is a peculiar feature of___________",
     "options": [
       "capitalism",
       "communism",
@@ -8341,7 +8341,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-345-211",
-    "questionText": "Which of the following is supreme in a federal system? (JAMB 2000)",
+    "questionText": "Which of the following is supreme in a federal system?",
     "options": [
       "Judiciary",
       "legislature",
@@ -8353,7 +8353,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-346-864",
-    "questionText": "The newspaper established by Dr. Nnamdi Azikiwe to project the interest of nationalists was__________ (JAMB 2019)",
+    "questionText": "The newspaper established by Dr. Nnamdi Azikiwe to project the interest of nationalists was__________",
     "options": [
       "West African Pilot",
       "Lagos Weekly Record",
@@ -8365,7 +8365,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-347-854",
-    "questionText": "Under the 1999 constitution, the Chief Law Officer and the Supreme Court Judge respectively are the_______  (JAMB 2019)",
+    "questionText": "Under the 1999 constitution, the Chief Law Officer and the Supreme Court Judge respectively are the_______",
     "options": [
       "Chief Justice, Chief Judge",
       "Minister of Justice, Chief Judge",
@@ -8377,7 +8377,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-348-1126",
-    "questionText": "The Nigerian Youth Movement collapsed as the result of (JAMB 2001)",
+    "questionText": "The Nigerian Youth Movement collapsed as the result of",
     "options": [
       "its failure to win election",
       "shortage of funds to run its affairs",
@@ -8389,7 +8389,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-349-529",
-    "questionText": "The indirect rule system of administration was more successful in Northern Nigeria because (JAMB 2013)",
+    "questionText": "The indirect rule system of administration was more successful in Northern Nigeria because",
     "options": [
       "the people were mainly interested in being governed indirectly",
       "of the existence of an organized structure in the area",
@@ -8401,7 +8401,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-350-260",
-    "questionText": "Revenue allocation means the sharing of the (JAMB 2013)",
+    "questionText": "Revenue allocation means the sharing of the",
     "options": [
       "national cake among the people",
       "wealth of a nation among different levels of government",
@@ -8413,7 +8413,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-351-1043",
-    "questionText": "The Nigerian constitution guarantees freedom of speech under which fundamental right? (JAMB 2023)",
+    "questionText": "The Nigerian constitution guarantees freedom of speech under which fundamental right?",
     "options": [
       "Right to freedom of thought",
       "Right to privacy",
@@ -8425,7 +8425,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-352-49",
-    "questionText": "The Economic Community of West African States was established in  (JAMB 2008)",
+    "questionText": "The Economic Community of West African States was established in",
     "options": [
       "May-75",
       "May-63",
@@ -8437,7 +8437,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-353-607",
-    "questionText": "The delegation of Administrative Powers to the local units with the central supervision and control is called. (JAMB 1988)",
+    "questionText": "The delegation of Administrative Powers to the local units with the central supervision and control is called.",
     "options": [
       "devolution",
       "decentralization",
@@ -8449,7 +8449,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-354-1035",
-    "questionText": "Public corporations and parastatals are typically established by (JAMB 2023)",
+    "questionText": "Public corporations and parastatals are typically established by",
     "options": [
       "private individuals",
       "legislative acts and statutes",
@@ -8461,7 +8461,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-355-489",
-    "questionText": "A major objective of the Public Complaints Commission is (JAMB 2012)",
+    "questionText": "A major objective of the Public Complaints Commission is",
     "options": [
       "training and promotion of public servants",
       "settlement of disputes among individuals",
@@ -8473,7 +8473,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-356-1450",
-    "questionText": "A state that is ruled by an elected citizen is (JAMB 2015)",
+    "questionText": "A state that is ruled by an elected citizen is",
     "options": [
       "a republic",
       "a plutocracy",
@@ -8485,7 +8485,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-357-55",
-    "questionText": "Under which of the following conditions can a Nigerian be deprived of is or her citizenship?  (JAMB 2008)",
+    "questionText": "Under which of the following conditions can a Nigerian be deprived of is or her citizenship?",
     "options": [
       "If married to a foreign National",
       "If one holds a dual citizenship",
@@ -8497,7 +8497,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-358-1131",
-    "questionText": "The Murtala/Obasanjo regime in Nigeria increased the number of states from (JAMB 2001)",
+    "questionText": "The Murtala/Obasanjo regime in Nigeria increased the number of states from",
     "options": [
       "4 to 12",
       "12 to 19",
@@ -8509,7 +8509,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-359-1391",
-    "questionText": "Which of the following is saddled with the conduct of the general elections in Nigeria's Fourth Republic? (JAMB 2008)",
+    "questionText": "Which of the following is saddled with the conduct of the general elections in Nigeria's Fourth Republic?",
     "options": [
       "National Electoral Commission of Nigeria",
       "Independent National Elctoral Commission",
@@ -8521,7 +8521,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-360-922",
-    "questionText": "The first Nigerian constitution to provide for the Fundamental objectives and directive principles of the state policy was the _________ (JAMB 2021)",
+    "questionText": "The first Nigerian constitution to provide for the Fundamental objectives and directive principles of the state policy was the _________",
     "options": [
       "1999 Constitution",
       "1979 Constitution",
@@ -8533,7 +8533,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-361-242",
-    "questionText": "Checks and balances was a feature of pre-colonial political administration of the (JAMB 2000)",
+    "questionText": "Checks and balances was a feature of pre-colonial political administration of the",
     "options": [
       "Hausa",
       "Yoruba",
@@ -8545,7 +8545,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-362-112",
-    "questionText": "Herbert Macaulay was the first president of  (JAMB 2010)",
+    "questionText": "Herbert Macaulay was the first president of",
     "options": [
       "NCNC",
       "AG",
@@ -8557,7 +8557,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-363-1397",
-    "questionText": "In the Second Republic, the total membership of each House of Assembly was determined by the (JAMB 2009)",
+    "questionText": "In the Second Republic, the total membership of each House of Assembly was determined by the",
     "options": [
       "electoral commission",
       "political parties",
@@ -8569,7 +8569,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-364-1430",
-    "questionText": "One advantage of the unitary system over the federal system is the (JAMB 2009)",
+    "questionText": "One advantage of the unitary system over the federal system is the",
     "options": [
       "bureaucratic nature",
       "cost effectiveness",
@@ -8581,7 +8581,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-365-835",
-    "questionText": "A cabinet reshuffle takes place...... (JAMB 2019)",
+    "questionText": "A cabinet reshuffle takes place......",
     "options": [
       "only when a motion of no confidence is passed",
       "when dissolution is held",
@@ -8593,7 +8593,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-366-3",
-    "questionText": "Laws made by state   government are known as  (JAMB 2006)",
+    "questionText": "Laws made by state   government are known as",
     "options": [
       "edicts",
       "bye-law",
@@ -8605,7 +8605,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-367-1093",
-    "questionText": "Military intervention in Nigerian politics was first witnessed in  (JAMB 2024)",
+    "questionText": "Military intervention in Nigerian politics was first witnessed in",
     "options": [
       "1965",
       "1966",
@@ -8617,7 +8617,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-368-824",
-    "questionText": "In a democratic system _______ (JAMB 2019)",
+    "questionText": "In a democratic system _______",
     "options": [
       "Majority Vote",
       "Legal Sovereignty shouldn't be unquestionable",
@@ -8629,7 +8629,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-369-106",
-    "questionText": "A non-monarchial state can best be described as a  (JAMB 2010)",
+    "questionText": "A non-monarchial state can best be described as a",
     "options": [
       "republic",
       "confederation",
@@ -8641,7 +8641,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-370-130",
-    "questionText": "A major feature of the policy of deregulation in Nigeria is the:  (JAMB 2011)",
+    "questionText": "A major feature of the policy of deregulation in Nigeria is the:",
     "options": [
       "enthronement of market forces mechanism",
       "increasing dominance of the economy by the state",
@@ -8653,7 +8653,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-371-7",
-    "questionText": "Politics is an act for  (JAMB 2006)",
+    "questionText": "Politics is an act for",
     "options": [
       "man to govern himself",
       "man to create governments",
@@ -8665,7 +8665,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-372-88",
-    "questionText": "Bicameral legislature exists  (JAMB 2009)",
+    "questionText": "Bicameral legislature exists",
     "options": [
       "where two cameras are used to monitor court proceedings",
       "To prevent the concentration of power on legislative house",
@@ -8677,7 +8677,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-373-1417",
-    "questionText": "An advantage of flexible constitution is that it allows for (JAMB 2009)",
+    "questionText": "An advantage of flexible constitution is that it allows for",
     "options": [
       "political awareness",
       "constitutional stability",
@@ -8689,7 +8689,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-374-767",
-    "questionText": "The characteristics of the Civil Servants which prevent its officers from addressing the press unless directed is known as ________\n (JAMB 2017)",
+    "questionText": "The characteristics of the Civil Servants which prevent its officers from addressing the press unless directed is known as ________\n",
     "options": [
       "impartiality",
       "neutrality",
@@ -8701,7 +8701,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-375-1220",
-    "questionText": "The 1979 Constitution established the (JAMB 2003)",
+    "questionText": "The 1979 Constitution established the",
     "options": [
       "National Human Rights Commission",
       "National Population Commission",
@@ -8713,7 +8713,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-376-1427",
-    "questionText": "The agency responsible for investigating allegations of maladministration in the civil service is the (JAMB 2009)",
+    "questionText": "The agency responsible for investigating allegations of maladministration in the civil service is the",
     "options": [
       "Federal Civil Service Commission",
       "Code of Conduct Bureau",
@@ -8725,7 +8725,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-377-533",
-    "questionText": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the (JAMB 2013)",
+    "questionText": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the",
     "options": [
       "Council of State",
       "Houses of Assembly",
@@ -8737,7 +8737,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-378-100",
-    "questionText": "Under the 1963 Republican constitution the president exercise  (JAMB 2010)",
+    "questionText": "Under the 1963 Republican constitution the president exercise",
     "options": [
       "judicial powers",
       "executive powers",
@@ -8749,7 +8749,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-379-617",
-    "questionText": "A state is a special form of human association because it (JAMB 1988)",
+    "questionText": "A state is a special form of human association because it",
     "options": [
       "has a legitimate monopoly of life and death penalties over its citizens",
       "is the richest association in society.",
@@ -8761,7 +8761,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-380-595",
-    "questionText": "The Technical Aids Corps was established during the regime of (JAMB 2014)",
+    "questionText": "The Technical Aids Corps was established during the regime of",
     "options": [
       "Olusegun Obasanjo",
       "Sani Abacha",
@@ -8773,7 +8773,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-381-964",
-    "questionText": "A group of people with different natures, opinions, and goals with complicated networks of social relation (JAMB 2022)",
+    "questionText": "A group of people with different natures, opinions, and goals with complicated networks of social relation",
     "options": [
       "a union",
       "an association",
@@ -8785,7 +8785,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-382-997",
-    "questionText": "The policy of 'indigenization' was introduced under the regime of? (JAMB 2023)",
+    "questionText": "The policy of 'indigenization' was introduced under the regime of?",
     "options": [
       "General Yakubu Gowon",
       "General Olusegun Obasanjo",
@@ -8797,7 +8797,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-383-1242",
-    "questionText": "The independent African countries that signed the OAU Charter on May 25th 1963 were (JAMB 2003)",
+    "questionText": "The independent African countries that signed the OAU Charter on May 25th 1963 were",
     "options": [
       "Togo and Sierra Leone",
       "Morocco and Angola",
@@ -8809,7 +8809,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-384-558",
-    "questionText": "In a democratic political system, the political sovereign is usually the (JAMB 2014)",
+    "questionText": "In a democratic political system, the political sovereign is usually the",
     "options": [
       "constitution",
       "political parties",
@@ -8821,7 +8821,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-385-497",
-    "questionText": "The main focus of Nigeria’s foreign policy since independence centres on (JAMB 2012)",
+    "questionText": "The main focus of Nigeria’s foreign policy since independence centres on",
     "options": [
       "south-south cooperation",
       "sub-regionalism",
@@ -8833,7 +8833,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-386-939",
-    "questionText": "Some pre-colonial Nigerian societies are described as stateless because ...... (JAMB 2021)",
+    "questionText": "Some pre-colonial Nigerian societies are described as stateless because ......",
     "options": [
       "They had no formal governmental institutions",
       "They were not independent",
@@ -8845,7 +8845,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-387-1421",
-    "questionText": "Values beliefs and orientation of a political system are internalized through (JAMB 2009)",
+    "questionText": "Values beliefs and orientation of a political system are internalized through",
     "options": [
       "political culture",
       "political socialization",
@@ -8857,7 +8857,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-388-1240",
-    "questionText": "The ECOWAS Treaty was reviewed in 1991 to (JAMB 2003)",
+    "questionText": "The ECOWAS Treaty was reviewed in 1991 to",
     "options": [
       "accomodate the interest of France",
       "make it responsive to new challenges",
@@ -8869,7 +8869,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-389-971",
-    "questionText": "A major consequence of the privatization exercise in Nigeria is (JAMB 2022)",
+    "questionText": "A major consequence of the privatization exercise in Nigeria is",
     "options": [
       "the collapse of the Nigerian economy",
       "reduction in foreign exchange",
@@ -8881,7 +8881,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-390-1312",
-    "questionText": "The failure of the assimilation policy necessitated of the introduction of (JAMB 2005)",
+    "questionText": "The failure of the assimilation policy necessitated of the introduction of",
     "options": [
       "direct rule",
       "indirect rule",
@@ -8893,7 +8893,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-391-644",
-    "questionText": "A political concept that is composed of the attitudes, beliefs, emotions and values of a society is called political (JAMB 1988)",
+    "questionText": "A political concept that is composed of the attitudes, beliefs, emotions and values of a society is called political",
     "options": [
       "culture",
       "single transferable vote",
@@ -8905,7 +8905,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-392-1080",
-    "questionText": "A union of states with a common recognised authority is (JAMB 2024)",
+    "questionText": "A union of states with a common recognised authority is",
     "options": [
       "federal system",
       "unitary system",
@@ -8917,7 +8917,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-393-1272",
-    "questionText": "The law of libel limits a citizen's right to freedom of (JAMB 2004)",
+    "questionText": "The law of libel limits a citizen's right to freedom of",
     "options": [
       "movement",
       "association",
@@ -8929,7 +8929,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-394-1072",
-    "questionText": "The Aburi Accord was a popular phrase during the administration of  (JAMB 2024)",
+    "questionText": "The Aburi Accord was a popular phrase during the administration of",
     "options": [
       "Aguiyi Ironsi",
       "Murtala Muhammed",
@@ -8941,7 +8941,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-395-1358",
-    "questionText": "An example of a country that operates a bicameral legislature is (JAMB 2008)",
+    "questionText": "An example of a country that operates a bicameral legislature is",
     "options": [
       "Nigeria",
       "Sierra Leone",
@@ -8953,7 +8953,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-396-282",
-    "questionText": "The age qualification required for a Nigerian to contest as a Senator is (JAMB 2013)",
+    "questionText": "The age qualification required for a Nigerian to contest as a Senator is",
     "options": [
       "18",
       "21",
@@ -8965,7 +8965,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-397-1062",
-    "questionText": "As a non-aligned state, Nigeria attended the second meeting of the non-Aligned Movement that took place in Cairo, Egypt in  (JAMB 2024)",
+    "questionText": "As a non-aligned state, Nigeria attended the second meeting of the non-Aligned Movement that took place in Cairo, Egypt in",
     "options": [
       "1960",
       "1963",
@@ -8977,7 +8977,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-398-480",
-    "questionText": "Which of the following ensured the practice of democracy in the pre-colonial Yoruba political system? (JAMB 2012)",
+    "questionText": "Which of the following ensured the practice of democracy in the pre-colonial Yoruba political system?",
     "options": [
       "Checks and balances.",
       "Fusion of power.",
@@ -8989,7 +8989,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-399-621",
-    "questionText": "Another word for red-tapism is (JAMB 1988)",
+    "questionText": "Another word for red-tapism is",
     "options": [
       "democracy",
       "autocracy",
@@ -9001,7 +9001,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-400-1277",
-    "questionText": "In a confederation,the constituency that a member of the legislature represents is a (JAMB 2004)",
+    "questionText": "In a confederation,the constituency that a member of the legislature represents is a",
     "options": [
       "nation-state",
       "region",
@@ -9013,7 +9013,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-401-721",
-    "questionText": "Election among candidates from the same party before the final elections are called (JAMB 1989)",
+    "questionText": "Election among candidates from the same party before the final elections are called",
     "options": [
       "Primaries",
       "Running Mates",
@@ -9025,7 +9025,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-402-331",
-    "questionText": "The ideology which states that each person is the best judge of what is in his self-interest is (JAMB 1999)",
+    "questionText": "The ideology which states that each person is the best judge of what is in his self-interest is",
     "options": [
       "liberalism",
       "socialism",
@@ -9037,7 +9037,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-403-1279",
-    "questionText": "The economic basis of feudalism is (JAMB 2004)",
+    "questionText": "The economic basis of feudalism is",
     "options": [
       "trade",
       "capital",
@@ -9049,7 +9049,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-404-586",
-    "questionText": "The NCNC and the NPC facilitated the creation of the (JAMB 2014)",
+    "questionText": "The NCNC and the NPC facilitated the creation of the",
     "options": [
       "Mid-West Region",
       "Northern Region",
@@ -9061,7 +9061,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-405-290",
-    "questionText": "Before a candidate is declared winner under absolute majority system of voting, the candidate must score more than ___ of the total vote cast. (JAMB 2013)",
+    "questionText": "Before a candidate is declared winner under absolute majority system of voting, the candidate must score more than ___ of the total vote cast.",
     "options": [
       "half",
       "one - quarter",
@@ -9073,7 +9073,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-406-470",
-    "questionText": "Delegated legislation is made by bodies other than the (JAMB 2012)",
+    "questionText": "Delegated legislation is made by bodies other than the",
     "options": [
       "president",
       "governor",
@@ -9085,7 +9085,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-407-881",
-    "questionText": "A bill that applies to the whole population and is intended to promote the general welfare is called _________ (JAMB 2020)",
+    "questionText": "A bill that applies to the whole population and is intended to promote the general welfare is called _________",
     "options": [
       "a private bill",
       "a decree",
@@ -9097,7 +9097,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-408-776",
-    "questionText": "The primary function of government in a state is to ___ (JAMB 2018)",
+    "questionText": "The primary function of government in a state is to ___",
     "options": [
       "build schools and hospitals",
       "provide transport services",
@@ -9109,7 +9109,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-409-274",
-    "questionText": "Before the British colonialism in Nigeria, which of these was an instrument for dispensation of justice in !gbo land? (JAMB 2013)",
+    "questionText": "Before the British colonialism in Nigeria, which of these was an instrument for dispensation of justice in !gbo land?",
     "options": [
       "Cult",
       "Land",
@@ -9121,7 +9121,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-410-214",
-    "questionText": "All undesirable feature of capitalism is (JAMB 2000)",
+    "questionText": "All undesirable feature of capitalism is",
     "options": [
       "exploitation",
       "market economy",
@@ -9133,7 +9133,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-411-917",
-    "questionText": "Professor lbrahim Gambari was the Special Assistant to the United Nations Secretary General on____________ (JAMB 2021)",
+    "questionText": "Professor lbrahim Gambari was the Special Assistant to the United Nations Secretary General on____________",
     "options": [
       "Security matters",
       "African affairs",
@@ -9145,7 +9145,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-412-27",
-    "questionText": "Nigeria gained independence from colonial rule on  (JAMB 2007)",
+    "questionText": "Nigeria gained independence from colonial rule on",
     "options": [
       "1-Oct-60",
       "November, 1963",
@@ -9157,7 +9157,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-413-1109",
-    "questionText": "Associational interest groups are organized to (JAMB 2001)",
+    "questionText": "Associational interest groups are organized to",
     "options": [
       "further the interest of members",
       "specifically lobby the government",
@@ -9169,7 +9169,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-414-985",
-    "questionText": "Unitary system of government is best applicable to a/an (JAMB 2022)",
+    "questionText": "Unitary system of government is best applicable to a/an",
     "options": [
       "multi-party state",
       "homogeneous state",
@@ -9181,7 +9181,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-415-126",
-    "questionText": "Under the 1963 Republican Constitution, the president exercised  (JAMB 2011)",
+    "questionText": "Under the 1963 Republican Constitution, the president exercised",
     "options": [
       "Judicial powers",
       "executive powers",
@@ -9193,7 +9193,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-416-303",
-    "questionText": "The two Greek words that make up democracy are ___ and ___ , (JAMB 2013)",
+    "questionText": "The two Greek words that make up democracy are ___ and ___ ,",
     "options": [
       "arita, demo",
       "demo, aria",
@@ -9205,7 +9205,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-417-1416",
-    "questionText": "The permanent membership of the UN Security Council is (JAMB 2009)",
+    "questionText": "The permanent membership of the UN Security Council is",
     "options": [
       "ten",
       "fifteen",
@@ -9217,7 +9217,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-418-379",
-    "questionText": "Which of the following electoral bodies in Nigeria conducted elections from 1979 to 1983? (JAMB 2016)",
+    "questionText": "Which of the following electoral bodies in Nigeria conducted elections from 1979 to 1983?",
     "options": [
       "Federal Electoral Commission",
       "National Electoral Commission",
@@ -9229,7 +9229,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-419-733",
-    "questionText": "A type of constitution that is difficult to amend is described as – (JAMB 2017)",
+    "questionText": "A type of constitution that is difficult to amend is described as –",
     "options": [
       "written and flexible",
       "rigid and written",
@@ -9241,7 +9241,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-420-1423",
-    "questionText": "In a cabinet system, the legislature comprises of the (JAMB 2009)",
+    "questionText": "In a cabinet system, the legislature comprises of the",
     "options": [
       "prime minister and members of the parliament",
       "prime minister and members of the jury",
@@ -9253,7 +9253,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-421-422",
-    "questionText": "16.\tThe rights of a citizen can be withdrawn by the state if the person (JAMB 2010)",
+    "questionText": "16.\tThe rights of a citizen can be withdrawn by the state if the person",
     "options": [
       "is convicted of a serious crime",
       "leaves the country permanently",
@@ -9265,7 +9265,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-422-1054",
-    "questionText": "The Nigerian Youth Movement pursued its objectives through the use of  (JAMB 2024)",
+    "questionText": "The Nigerian Youth Movement pursued its objectives through the use of",
     "options": [
       "protest",
       "newspapers",
@@ -9277,7 +9277,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-423-1274",
-    "questionText": "The fundamental assumption on which the idea of the rule of law is based is (JAMB 2004)",
+    "questionText": "The fundamental assumption on which the idea of the rule of law is based is",
     "options": [
       "supremacy of the constitution",
       "rationality of human beings",
@@ -9289,7 +9289,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-424-1092",
-    "questionText": "The June 12 election in Nigeria was annulled by the regime of  (JAMB 2024)",
+    "questionText": "The June 12 election in Nigeria was annulled by the regime of",
     "options": [
       "Olusegun Obasanjo",
       "Ibrahim Babangida",
@@ -9301,7 +9301,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-425-506",
-    "questionText": "Power that is delegated is exercised (JAMB 2013)",
+    "questionText": "Power that is delegated is exercised",
     "options": [
       "indirectly",
       "by devolution",
@@ -9313,7 +9313,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-426-1104",
-    "questionText": "In the legislative process, a bill is a (JAMB 2001)",
+    "questionText": "In the legislative process, a bill is a",
     "options": [
       "motion accepted for debate",
       "motion rejected after debate",
@@ -9325,7 +9325,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-427-1253",
-    "questionText": "The current Executive Secretary of the ECOWAS is (JAMB 2004)",
+    "questionText": "The current Executive Secretary of the ECOWAS is",
     "options": [
       "Mohammed Ibn Chambers",
       "Lansana Kouyate",
@@ -9337,7 +9337,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-428-202",
-    "questionText": "Freedom of speech is a fundamental human right enjoyed by citizens but it may be limited if (JAMB 2000)",
+    "questionText": "Freedom of speech is a fundamental human right enjoyed by citizens but it may be limited if",
     "options": [
       "loyalty is not shown to the ruling party",
       "it exposes the wrong doings of the government",
@@ -9349,7 +9349,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-429-1105",
-    "questionText": "One of the advantages of a bicameral over a unicameral legislature is that it (JAMB 2001)",
+    "questionText": "One of the advantages of a bicameral over a unicameral legislature is that it",
     "options": [
       "is cheap to maintains",
       "promotes social equalitys",
@@ -9361,7 +9361,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-430-426",
-    "questionText": "Public opinion can be measured through (JAMB 2010)",
+    "questionText": "Public opinion can be measured through",
     "options": [
       "strike action",
       "referendum",
@@ -9373,7 +9373,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-431-671",
-    "questionText": "Which of the following is not the responsibility of the Electoral Commission in Nigeria? (JAMB 1989)",
+    "questionText": "Which of the following is not the responsibility of the Electoral Commission in Nigeria?",
     "options": [
       "Swearing in of members of the House of Assembly",
       "Counting and publication of election results",
@@ -9385,7 +9385,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-432-816",
-    "questionText": "Political authority is vested in the_________ (JAMB 2018)",
+    "questionText": "Political authority is vested in the_________",
     "options": [
       "state",
       "judiciary",
@@ -9397,7 +9397,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-433-555",
-    "questionText": "The necessary attributes of a state are (JAMB 2014)",
+    "questionText": "The necessary attributes of a state are",
     "options": [
       "resources, population, sovereignty and government",
       "sovereignty, police, army and immigration",
@@ -9409,7 +9409,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-434-43",
-    "questionText": "The independence constitution of 1960  (JAMB 2007)",
+    "questionText": "The independence constitution of 1960",
     "options": [
       "introduced bicameral legislature",
       "catered for the three regions of Nigeria",
@@ -9421,7 +9421,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-435-441",
-    "questionText": "A major contentious issue confronting Nigerian federalism is (JAMB 2010)",
+    "questionText": "A major contentious issue confronting Nigerian federalism is",
     "options": [
       "health care delivery",
       "education",
@@ -9433,7 +9433,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-436-1300",
-    "questionText": "Which of the following served as the Secretary-General of the United Nations? (JAMB 2005)",
+    "questionText": "Which of the following served as the Secretary-General of the United Nations?",
     "options": [
       "Ibrahim Gambari",
       "Ibrahim Gambari",
@@ -9445,7 +9445,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-437-724",
-    "questionText": "Which of the following is a foremost right of a citizen? (JAMB 2017)",
+    "questionText": "Which of the following is a foremost right of a citizen?",
     "options": [
       "Religious right",
       "Academic right",
@@ -9457,7 +9457,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-438-1017",
-    "questionText": "The arm of government responsible for budget approval and oversight is the (JAMB 2023)",
+    "questionText": "The arm of government responsible for budget approval and oversight is the",
     "options": [
       "judiciary",
       "executive",
@@ -9469,7 +9469,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-439-1382",
-    "questionText": "The option A-4 voting system was introduced into the political process in Nigeria during the (JAMB 2008)",
+    "questionText": "The option A-4 voting system was introduced into the political process in Nigeria during the",
     "options": [
       "Third Republic",
       "Fourth Republic",
@@ -9481,7 +9481,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-440-46",
-    "questionText": "catered for the three  regions of Nigeria  (JAMB 2007)",
+    "questionText": "catered for the three  regions of Nigeria",
     "options": [
       "a renewed concept in international studies",
       "limited to the west",
@@ -9493,7 +9493,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-441-986",
-    "questionText": "The ________ as a new policy direction introduced by the French government that was aimed at granting more autonomy to its colonies under pressure from independence movements. (JAMB 2022)",
+    "questionText": "The ________ as a new policy direction introduced by the French government that was aimed at granting more autonomy to its colonies under pressure from independence movements.",
     "options": [
       "policy of assimilation",
       "indignant policy",
@@ -9505,7 +9505,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-442-181",
-    "questionText": "Political activity at the diplomatic level is called   (JAMB 2013)",
+    "questionText": "Political activity at the diplomatic level is called",
     "options": [
       "International relations",
       "International law",
@@ -9517,7 +9517,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-443-1041",
-    "questionText": "which pre-colonial Nigerian Kingdom was known for its artistic and cultural achievement? (JAMB 2023)",
+    "questionText": "which pre-colonial Nigerian Kingdom was known for its artistic and cultural achievement?",
     "options": [
       "Nupe",
       "Igbo",
@@ -9529,7 +9529,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-444-548",
-    "questionText": "Which of the following countries pioneered the establishment of ECOWAS alongside Nigeria? (JAMB 2013)",
+    "questionText": "Which of the following countries pioneered the establishment of ECOWAS alongside Nigeria?",
     "options": [
       "Cameroun.",
       "Ghana.",
@@ -9541,7 +9541,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-445-1308",
-    "questionText": "The first federal constitution in Nigeria was the (JAMB 2005)",
+    "questionText": "The first federal constitution in Nigeria was the",
     "options": [
       "Lyttelton Constitution",
       "Independence Constitution",
@@ -9553,7 +9553,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-446-968",
-    "questionText": "A system of government in which a single person or a group who governs has unlimited power is a (JAMB 2022)",
+    "questionText": "A system of government in which a single person or a group who governs has unlimited power is a",
     "options": [
       "oligarchy",
       "republican",
@@ -9565,7 +9565,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-447-829",
-    "questionText": "Deconcentration of power means the_______ (JAMB 2019)",
+    "questionText": "Deconcentration of power means the_______",
     "options": [
       "sharing of powers among tiers of government",
       "creation of semi autonomous units to govern other parts of a state",
@@ -9577,7 +9577,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-448-193",
-    "questionText": "The study of government essentially facilitates the understanding of the (JAMB 2013)",
+    "questionText": "The study of government essentially facilitates the understanding of the",
     "options": [
       "governance of human societies",
       "functioning of the entire social formation",
@@ -9589,7 +9589,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-449-1446",
-    "questionText": "In the history of Nigeria, 1914 was the (JAMB 2015)",
+    "questionText": "In the history of Nigeria, 1914 was the",
     "options": [
       "year the British established their rule over Nigeria",
       "beginning of first world war",
@@ -9601,7 +9601,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-450-1420",
-    "questionText": "The right of all eligible citizens to vote and be voted for is referred to as (JAMB 2009)",
+    "questionText": "The right of all eligible citizens to vote and be voted for is referred to as",
     "options": [
       "gender equality",
       "political mandate",
@@ -9613,7 +9613,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-451-281",
-    "questionText": "The head of the Oyomesi in pre-colonial Yoruba traditional society was (JAMB 2013)",
+    "questionText": "The head of the Oyomesi in pre-colonial Yoruba traditional society was",
     "options": [
       "Alaafin",
       "Are - onakakanfo",
@@ -9625,7 +9625,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-452-1311",
-    "questionText": "A distinctive feature of the Richards Constitution was its provision for (JAMB 2005)",
+    "questionText": "A distinctive feature of the Richards Constitution was its provision for",
     "options": [
       "unofficial members in the Legislative Council",
       "a Legislative Council for the whole of Nigeria",
@@ -9637,7 +9637,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-453-1340",
-    "questionText": "The first successful disengagement of the military from politics in Nigeria was carried out by the government of (JAMB 2005)",
+    "questionText": "The first successful disengagement of the military from politics in Nigeria was carried out by the government of",
     "options": [
       "Abdusalami Abubakar",
       "Murtala/Obasanjo",
@@ -9649,7 +9649,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-454-93",
-    "questionText": "In the Marxist theory, those who live by selling, their labour are called  (JAMB 2009)",
+    "questionText": "In the Marxist theory, those who live by selling, their labour are called",
     "options": [
       "Bourgeoisie",
       "Proletariat",
@@ -9661,7 +9661,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-455-769",
-    "questionText": "In the year 1911, who argued most representative system deteriorates towards an Oligarchy or Patriarchy? (JAMB 2017)",
+    "questionText": "In the year 1911, who argued most representative system deteriorates towards an Oligarchy or Patriarchy?",
     "options": [
       "Robert Michels",
       "Adolf Gasser",
@@ -9673,7 +9673,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-456-1073",
-    "questionText": "The Commission that examines complaints of civil wrongs committed by government employees is  (JAMB 2024)",
+    "questionText": "The Commission that examines complaints of civil wrongs committed by government employees is",
     "options": [
       "Public Complaints Commission",
       "Civil Service Commission",
@@ -9685,7 +9685,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-457-1438",
-    "questionText": "In order to dispense justice impartially, the judiciary primarily needs (JAMB 2009)",
+    "questionText": "In order to dispense justice impartially, the judiciary primarily needs",
     "options": [
       "discipline",
       "logistics",
@@ -9697,7 +9697,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-458-1449",
-    "questionText": "A major function of Warrant Chiefs was to (JAMB 2015)",
+    "questionText": "A major function of Warrant Chiefs was to",
     "options": [
       "take charge of local administration",
       "stop ritual killings",
@@ -9709,7 +9709,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-459-220",
-    "questionText": "The acquisition of political power through hereditary means is a feature of (JAMB 2000)",
+    "questionText": "The acquisition of political power through hereditary means is a feature of",
     "options": [
       "Communalism",
       "Capitalism",
@@ -9721,7 +9721,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-460-813",
-    "questionText": "Which of these international organisations is the predecessor of the United Nations? (JAMB 2018)",
+    "questionText": "Which of these international organisations is the predecessor of the United Nations?",
     "options": [
       "The European Economic Community",
       "The organisation of American Statess",
@@ -9733,7 +9733,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-461-882",
-    "questionText": "Fascism developed in________ (JAMB 2020)",
+    "questionText": "Fascism developed in________",
     "options": [
       "France",
       "Germany",
@@ -9745,7 +9745,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-462-1016",
-    "questionText": "The current constitution of Nigeria is based on the model of which country? (JAMB 2023)",
+    "questionText": "The current constitution of Nigeria is based on the model of which country?",
     "options": [
       "Germany",
       "United States",
@@ -9757,7 +9757,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-463-787",
-    "questionText": "In a republic parliamentary system of government, the ceremonial Head of State is the (JAMB 2018)",
+    "questionText": "In a republic parliamentary system of government, the ceremonial Head of State is the",
     "options": [
       "Chief Justice",
       "Prime Minister",
@@ -9769,7 +9769,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-464-1331",
-    "questionText": "Serfs are the dominated class under (JAMB 2005)",
+    "questionText": "Serfs are the dominated class under",
     "options": [
       "capitalism",
       "socialism",
@@ -9781,7 +9781,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-465-549",
-    "questionText": "Nigeria’s role in the African Union was most prominent during the regime of (JAMB 2013)",
+    "questionText": "Nigeria’s role in the African Union was most prominent during the regime of",
     "options": [
       "President Ibrahim Babangida",
       "President Olusegun Obasanjo",
@@ -9793,7 +9793,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-466-868",
-    "questionText": "The concept of delegated legislation is often criticised for all but one of the following reasons? (JAMB 2019)",
+    "questionText": "The concept of delegated legislation is often criticised for all but one of the following reasons?",
     "options": [
       "it may lead to abuse of the powers",
       "for reasons of sheer ignorance on legislative substance and procedure",
@@ -9805,7 +9805,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-467-1010",
-    "questionText": "If the president refuses to sign a bill within a specific period, it can still become a law through (JAMB 2023)",
+    "questionText": "If the president refuses to sign a bill within a specific period, it can still become a law through",
     "options": [
       "legislative override",
       "none of the above",
@@ -9817,7 +9817,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-468-796",
-    "questionText": " The first Head of State and Head of Government in Nigeria was (JAMB 2018)",
+    "questionText": " The first Head of State and Head of Government in Nigeria was",
     "options": [
       "Lord Fredick Lugard",
       "Alhaji Abubakar Tafawa Balewa",
@@ -9829,7 +9829,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-469-99",
-    "questionText": "The Arthur Richards Constitution was designed to last  (JAMB 2010)",
+    "questionText": "The Arthur Richards Constitution was designed to last",
     "options": [
       "nine years",
       "five years",
@@ -9841,7 +9841,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-470-800",
-    "questionText": "The ability to command obedience is called (JAMB 2018)",
+    "questionText": "The ability to command obedience is called",
     "options": [
       "authority",
       "influence",
@@ -9853,7 +9853,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-471-10",
-    "questionText": "A totalitarian state is based on   (JAMB 2006)",
+    "questionText": "A totalitarian state is based on",
     "options": [
       "multi-party system",
       "total protection of civic rights",
@@ -9865,7 +9865,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-472-267",
-    "questionText": "Which of these groups of people had no right to make law under the pre-colonial Igbo political structure? (JAMB 2013)",
+    "questionText": "Which of these groups of people had no right to make law under the pre-colonial Igbo political structure?",
     "options": [
       "Age grades",
       "Council of Elders",
@@ -9877,7 +9877,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-473-1371",
-    "questionText": "A human community that is usually cohesive and homogeneous is a (JAMB 2008)",
+    "questionText": "A human community that is usually cohesive and homogeneous is a",
     "options": [
       "state",
       "kinship",
@@ -9889,7 +9889,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-474-33",
-    "questionText": "How many countries are in Africa?  (JAMB 2007)",
+    "questionText": "How many countries are in Africa?",
     "options": [
       "fifteen",
       "fifty-three",
@@ -9901,7 +9901,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-475-1096",
-    "questionText": "Where the constitution is supreme, unconstitutional acts of the executive and the legislature can be checked by the courts through (JAMB 2001)",
+    "questionText": "Where the constitution is supreme, unconstitutional acts of the executive and the legislature can be checked by the courts through",
     "options": [
       "recall",
       "judicial review",
@@ -9913,7 +9913,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-476-178",
-    "questionText": "A mechanism used in parliament to limit debate is called   (JAMB 2013)",
+    "questionText": "A mechanism used in parliament to limit debate is called",
     "options": [
       "guillotine",
       "adjournment",
@@ -9925,7 +9925,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-477-286",
-    "questionText": "The parties that formed the coalition government in 1960 were ___ and ___ (JAMB 2013)",
+    "questionText": "The parties that formed the coalition government in 1960 were ___ and ___",
     "options": [
       "AG, NCNC",
       "AG, NPC",
@@ -9937,7 +9937,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-478-29",
-    "questionText": "All but one of these is not an agency of political socialization  (JAMB 2007)",
+    "questionText": "All but one of these is not an agency of political socialization",
     "options": [
       "the constitution",
       "the family",
@@ -9949,7 +9949,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-479-1432",
-    "questionText": "A form of government in which the nobles rule for the benefit of all is (JAMB 2009)",
+    "questionText": "A form of government in which the nobles rule for the benefit of all is",
     "options": [
       "monarchy",
       "gerontocracy",
@@ -9961,7 +9961,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-480-516",
-    "questionText": "The presidential system differs from the parliamentary system of government in that (JAMB 2013)",
+    "questionText": "The presidential system differs from the parliamentary system of government in that",
     "options": [
       "the tenure of office of the president is limited",
       "the principle of collective responsibility applies",
@@ -9973,7 +9973,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-481-1488",
-    "questionText": "The act of removing an elected official by the electorate is referred to as (JAMB 2015)",
+    "questionText": "The act of removing an elected official by the electorate is referred to as",
     "options": [
       "impeachment",
       "consensus",
@@ -9985,7 +9985,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-482-1052",
-    "questionText": "Nigerian Ports Authority is an example of  (JAMB 2024)",
+    "questionText": "Nigerian Ports Authority is an example of",
     "options": [
       "Civil Service",
       "Public Service",
@@ -9997,7 +9997,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-483-702",
-    "questionText": "The constitution of the Federal Republic of Nigeria (JAMB 1989)",
+    "questionText": "The constitution of the Federal Republic of Nigeria",
     "options": [
       "promotes unity in diversity",
       "allows for the dominance of the minority ethnic groups",
@@ -10009,7 +10009,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-484-887",
-    "questionText": "The founder of the Universal Negro Improvement Association was ________ (JAMB 2020)",
+    "questionText": "The founder of the Universal Negro Improvement Association was ________",
     "options": [
       "Casey Hayford",
       "Herbert Macaulay",
@@ -10021,7 +10021,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-485-461",
-    "questionText": "One judicial function performed by the executive is (JAMB 2012)",
+    "questionText": "One judicial function performed by the executive is",
     "options": [
       "granting of amnesty",
       "implementing judicial orders",
@@ -10033,7 +10033,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-486-616",
-    "questionText": "The state is different from the government because (JAMB 1988)",
+    "questionText": "The state is different from the government because",
     "options": [
       "The state unlike the government is permanent",
       ". The government is made up of powerful people.",
@@ -10045,7 +10045,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-487-818",
-    "questionText": "In the cabinet system of government, individual responsibility of ministers means that ____________ (JAMB 2018)",
+    "questionText": "In the cabinet system of government, individual responsibility of ministers means that ____________",
     "options": [
       "only ministers can be held responsible for errors",
       "a minister must hold his subordinates responsible for his failures",
@@ -10057,7 +10057,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-488-859",
-    "questionText": "Nigeria's federalism is often considered a flaw along the standard test of the Classical federalism ideology labelled along with_______ (JAMB 2019)",
+    "questionText": "Nigeria's federalism is often considered a flaw along the standard test of the Classical federalism ideology labelled along with_______",
     "options": [
       "Abraham Lincoln",
       "K.C Wheare",
@@ -10069,7 +10069,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-489-1079",
-    "questionText": "Pressure groups are different from political parties because they (JAMB 2024)",
+    "questionText": "Pressure groups are different from political parties because they",
     "options": [
       "analyse elections",
       "articulate interests",
@@ -10081,7 +10081,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001455-490-238",
-    "questionText": "Traditional rulers appointed by the British to implement indirect rule in Eastern Nigeria were called (JAMB 2000)",
+    "questionText": "Traditional rulers appointed by the British to implement indirect rule in Eastern Nigeria were called",
     "options": [
       "palace chiefs",
       "village chiefs",
@@ -10093,7 +10093,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-491-1378",
-    "questionText": "Adjudication of conflict between the federal and regional governments in the First Republic was reserved for (JAMB 2008)",
+    "questionText": "Adjudication of conflict between the federal and regional governments in the First Republic was reserved for",
     "options": [
       "National Industrial Court",
       "Supreme Court",
@@ -10105,7 +10105,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-492-1316",
-    "questionText": "In Nigeria,promotion of judges is the responsibility of the (JAMB 2005)",
+    "questionText": "In Nigeria,promotion of judges is the responsibility of the",
     "options": [
       "Judicial Service Commission",
       "Cheif Justice of the Federation",
@@ -10117,7 +10117,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-493-207",
-    "questionText": "In which of the following party systems are all shades of opinions and interests adequately represented? (JAMB 2000)",
+    "questionText": "In which of the following party systems are all shades of opinions and interests adequately represented?",
     "options": [
       "Zero-party",
       "One-party",
@@ -10129,7 +10129,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-494-508",
-    "questionText": "A group of people who live together under a common law within a definite territory is a (JAMB 2013)",
+    "questionText": "A group of people who live together under a common law within a definite territory is a",
     "options": [
       "state",
       "community",
@@ -10141,7 +10141,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-495-757",
-    "questionText": " Which of the following is a function of the civil service commission? (JAMB 2017)",
+    "questionText": " Which of the following is a function of the civil service commission?",
     "options": [
       "Enforcement of law and order",
       "Payment of civil servants salaries",
@@ -10153,7 +10153,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-496-1246",
-    "questionText": "The one-time president of the United Nations General Assembly was (JAMB 2004)",
+    "questionText": "The one-time president of the United Nations General Assembly was",
     "options": [
       "Joseph Garba",
       "Ibrahim Gambari",
@@ -10165,7 +10165,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-497-531",
-    "questionText": "The first notable nationalist movement in West Africa was the (JAMB 2013)",
+    "questionText": "The first notable nationalist movement in West Africa was the",
     "options": [
       "National Congress of British West Africa",
       "West African Students Union",
@@ -10177,7 +10177,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-498-124",
-    "questionText": "A human community that is usually cohesive and homogeneous is  (JAMB 2011)",
+    "questionText": "A human community that is usually cohesive and homogeneous is",
     "options": [
       "state",
       "kinship",
@@ -10189,7 +10189,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-499-837",
-    "questionText": "The area from which one or more members or representatives are elected in public offices is called the electoral ........ (JAMB 2019)",
+    "questionText": "The area from which one or more members or representatives are elected in public offices is called the electoral ........",
     "options": [
       "College",
       "Constituency",
@@ -10201,7 +10201,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-500-640",
-    "questionText": "Residual powers under the Nigerian independence constitution were the powers exercised by (JAMB 1988)",
+    "questionText": "Residual powers under the Nigerian independence constitution were the powers exercised by",
     "options": [
       "the Federal Government",
       "the Regional Governments",
@@ -10213,7 +10213,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-501-1349",
-    "questionText": "A key characteristics of the civil service is (JAMB 2008)",
+    "questionText": "A key characteristics of the civil service is",
     "options": [
       "transparency",
       "patriotism",
@@ -10225,7 +10225,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-502-828",
-    "questionText": "A form of government which has its slogan to be 'ruling of the best' is__________ (JAMB 2019)",
+    "questionText": "A form of government which has its slogan to be 'ruling of the best' is__________",
     "options": [
       "democracy",
       "aristocracy",
@@ -10237,7 +10237,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-503-947",
-    "questionText": "The Native Authority System was most effective and successful in ....... (JAMB 2021)",
+    "questionText": "The Native Authority System was most effective and successful in .......",
     "options": [
       "Mid-western Nigeria",
       "Western Nigeria",
@@ -10249,7 +10249,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-504-1418",
-    "questionText": "Power refers to (JAMB 2009)",
+    "questionText": "Power refers to",
     "options": [
       "ability to impose one's will upon others",
       "legal nature of a constitution",
@@ -10261,7 +10261,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-505-1355",
-    "questionText": "Membership of a society is (JAMB 2008)",
+    "questionText": "Membership of a society is",
     "options": [
       "reserved",
       "voluntary",
@@ -10273,7 +10273,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-506-761",
-    "questionText": "Which of the following countries significantly contributed to the formation of ECOMOG? (JAMB 2017)",
+    "questionText": "Which of the following countries significantly contributed to the formation of ECOMOG?",
     "options": [
       "Ghana",
       "Gambia",
@@ -10285,7 +10285,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-507-1122",
-    "questionText": "Before Nigeria became a republic, the highest body charged with the administrator of justice was the (JAMB 2001)",
+    "questionText": "Before Nigeria became a republic, the highest body charged with the administrator of justice was the",
     "options": [
       "Privy council",
       "High court",
@@ -10297,7 +10297,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-508-902",
-    "questionText": "In the First Republic, Nigeria was very reluctant to have meaningful interaction with ________ (JAMB 2020)",
+    "questionText": "In the First Republic, Nigeria was very reluctant to have meaningful interaction with ________",
     "options": [
       "Italy",
       "the Soviet Union",
@@ -10309,7 +10309,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-509-1285",
-    "questionText": "Independence of the judiciary is pertinent because it accords the judiciary the power to (JAMB 2004)",
+    "questionText": "Independence of the judiciary is pertinent because it accords the judiciary the power to",
     "options": [
       "dismiss any judge who has breached the judicial code of conduct",
       "determine a fixed salary for judges",
@@ -10321,7 +10321,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-510-459",
-    "questionText": "Political values are acquired in any given society through (JAMB 2012)",
+    "questionText": "Political values are acquired in any given society through",
     "options": [
       "political re-orientation",
       "political campaign",
@@ -10333,7 +10333,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-511-696",
-    "questionText": "Which of the following countries does not operate a federal constitution? (JAMB 1989)",
+    "questionText": "Which of the following countries does not operate a federal constitution?",
     "options": [
       "USA",
       "Canada",
@@ -10345,7 +10345,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-512-1264",
-    "questionText": "Under the 1999 Constitution, the power to declare war is vested in the (JAMB 2004)",
+    "questionText": "Under the 1999 Constitution, the power to declare war is vested in the",
     "options": [
       "National Security Council",
       "legislature",
@@ -10357,7 +10357,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-513-722",
-    "questionText": "Which of the following countries is not a member of the Economic Community of West African States (ECOWAS)? (JAMB 1989)",
+    "questionText": "Which of the following countries is not a member of the Economic Community of West African States (ECOWAS)?",
     "options": [
       "Nigeria",
       "Cameroun",
@@ -10369,7 +10369,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-514-1130",
-    "questionText": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of (JAMB 2001)",
+    "questionText": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of",
     "options": [
       "the office of sole administrators",
       "caretaker management committees",
@@ -10381,7 +10381,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-515-492",
-    "questionText": "Quota system and federal character principles were entrenched in the 1979 Constitution to ensure (JAMB 2012)",
+    "questionText": "Quota system and federal character principles were entrenched in the 1979 Constitution to ensure",
     "options": [
       "loyalty",
       "economic empowerment",
@@ -10393,7 +10393,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-516-1086",
-    "questionText": "One of these is not an organ of the Commonwealth of Nations (JAMB 2024)",
+    "questionText": "One of these is not an organ of the Commonwealth of Nations",
     "options": [
       "Assembly of Heads of State and Government",
       "Commonwealth Secretariat",
@@ -10405,7 +10405,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-517-16",
-    "questionText": "The military coup of July 25, 1975 which toppled General Yakubu Gowon from power  took place when he was attending which important event?  (JAMB 2006)",
+    "questionText": "The military coup of July 25, 1975 which toppled General Yakubu Gowon from power  took place when he was attending which important event?",
     "options": [
       "OAU Summit in Kampala",
       "UN General Assembly in New York",
@@ -10417,7 +10417,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-518-253",
-    "questionText": "To ensure impartiality and independence of electoral commission, the body should be (JAMB 2013)",
+    "questionText": "To ensure impartiality and independence of electoral commission, the body should be",
     "options": [
       "funded by political parties",
       "headed by a justice of the Supreme Court",
@@ -10429,7 +10429,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-519-693",
-    "questionText": "The head of the Nigerian Mission to the Commonwealth of Nations is (JAMB 1989)",
+    "questionText": "The head of the Nigerian Mission to the Commonwealth of Nations is",
     "options": [
       "an Ambassador",
       "a Consular",
@@ -10441,7 +10441,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-520-1119",
-    "questionText": "The central legislature of Nigeria became bicameral in (JAMB 2001)",
+    "questionText": "The central legislature of Nigeria became bicameral in",
     "options": [
       "1960",
       "1951",
@@ -10453,7 +10453,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-521-894",
-    "questionText": "Within the United Nations, the vote power is exercised in __________ (JAMB 2020)",
+    "questionText": "Within the United Nations, the vote power is exercised in __________",
     "options": [
       "UNESCO",
       "WHO",
@@ -10465,7 +10465,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-522-315",
-    "questionText": "A hereditary system of government is (JAMB 1999)",
+    "questionText": "A hereditary system of government is",
     "options": [
       "an oligarchy",
       "a gerontocracy",
@@ -10477,7 +10477,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-523-223",
-    "questionText": "Which of the following best describes the relationship between the central and the component government in a confederation? (JAMB 2000)",
+    "questionText": "Which of the following best describes the relationship between the central and the component government in a confederation?",
     "options": [
       "The central government collects revenue for component government",
       "The central and component governments have equal powers",
@@ -10489,7 +10489,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-524-1172",
-    "questionText": "The constitution that introduced restricted franchise into Nigerian politics was the (JAMB 2002)",
+    "questionText": "The constitution that introduced restricted franchise into Nigerian politics was the",
     "options": [
       "Independence Constitution",
       "Lyttelton Constitution",
@@ -10501,7 +10501,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-525-232",
-    "questionText": "Delegated legislation has the advantage of (JAMB 2000)",
+    "questionText": "Delegated legislation has the advantage of",
     "options": [
       "enlightening the public about law making procedure",
       "saving parliamentary time",
@@ -10513,7 +10513,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-526-560",
-    "questionText": "One main advantage of bicameral legislature is that it (JAMB 2014)",
+    "questionText": "One main advantage of bicameral legislature is that it",
     "options": [
       "makes for quick deliberation during emergencies",
       "makes passage of bills easy",
@@ -10525,7 +10525,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-527-792",
-    "questionText": "Nationalism in Africa eventually led to (JAMB 2018)",
+    "questionText": "Nationalism in Africa eventually led to",
     "options": [
       "a rapid political awareness among the colonialists",
       "the alignment of the new states",
@@ -10537,7 +10537,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-528-1102",
-    "questionText": "An important function of a constitution is that it (JAMB 2001)",
+    "questionText": "An important function of a constitution is that it",
     "options": [
       "provide a framework for the study of government",
       "facilities cross-fertilization of ideas of governance",
@@ -10549,7 +10549,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-529-1472",
-    "questionText": "In the Oyo traditional political system, the Alafin of Oyo was elected or chosen by a group known as (JAMB 2015)",
+    "questionText": "In the Oyo traditional political system, the Alafin of Oyo was elected or chosen by a group known as",
     "options": [
       "Oyo Mesi",
       "Bales",
@@ -10561,7 +10561,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-530-582",
-    "questionText": "The Nigerian Independence Constitution was modified by the (JAMB 2014)",
+    "questionText": "The Nigerian Independence Constitution was modified by the",
     "options": [
       "1963 Constitution",
       "1999 Constitution",
@@ -10573,7 +10573,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-531-756",
-    "questionText": "Nigeria became a republic with the __ (JAMB 2017)",
+    "questionText": "Nigeria became a republic with the __",
     "options": [
       "1979 Constitution",
       "1989 Constitution",
@@ -10585,7 +10585,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-532-929",
-    "questionText": "____was the first Nigerian Permanent Representative to the United Nations. (JAMB 2021)",
+    "questionText": "____was the first Nigerian Permanent Representative to the United Nations.",
     "options": [
       "Chief Samuel Adebo",
       "Professor Ibrahim Gambari",
@@ -10597,7 +10597,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-533-241",
-    "questionText": "In pre-colonial Igboland, administrative meetings were presided over by the (JAMB 2000)",
+    "questionText": "In pre-colonial Igboland, administrative meetings were presided over by the",
     "options": [
       "Mazi",
       "Ogbuefi",
@@ -10609,7 +10609,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-534-70",
-    "questionText": "Which of the following is not  a feature of Nigeria’s electoral system?  (JAMB 2008)",
+    "questionText": "Which of the following is not  a feature of Nigeria’s electoral system?",
     "options": [
       "direct election",
       "proportional representation",
@@ -10621,7 +10621,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-535-1244",
-    "questionText": "Nigeria''s support for the South-South Cooperation is based on her desire to (JAMB 2004)",
+    "questionText": "Nigeria''s support for the South-South Cooperation is based on her desire to",
     "options": [
       "assert her leadership role in Africa",
       "promote her non-aligned policy",
@@ -10633,7 +10633,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-536-1364",
-    "questionText": "A system of government that promotes the rights and freedom of the citizens is called (JAMB 2008)",
+    "questionText": "A system of government that promotes the rights and freedom of the citizens is called",
     "options": [
       "oligarchy",
       "plutocracy",
@@ -10645,7 +10645,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-537-160",
-    "questionText": "The judicial organ of the United Nations is the   (JAMB 2012)",
+    "questionText": "The judicial organ of the United Nations is the",
     "options": [
       "security council",
       "European court",
@@ -10657,7 +10657,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-538-23",
-    "questionText": "Democracy was first practiced in  (JAMB 2007)",
+    "questionText": "Democracy was first practiced in",
     "options": [
       "Ghana",
       "United States of America",
@@ -10669,7 +10669,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-539-536",
-    "questionText": "The primary function of the Code of Conduct Bureau is to (JAMB 2013)",
+    "questionText": "The primary function of the Code of Conduct Bureau is to",
     "options": [
       "ensure due process by public officers",
       "ensure minimum standard of morality",
@@ -10681,7 +10681,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-540-386",
-    "questionText": "How many countries are founding members of O. P. E. C? (JAMB 2016)",
+    "questionText": "How many countries are founding members of O. P. E. C?",
     "options": [
       "13",
       "5",
@@ -10693,7 +10693,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-541-1217",
-    "questionText": "The smooth operation of the civil service in Nigeria is mostly hampered by (JAMB 2003)",
+    "questionText": "The smooth operation of the civil service in Nigeria is mostly hampered by",
     "options": [
       "inadequate training of personnel",
       "corruption and inefficiency",
@@ -10705,7 +10705,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-542-1248",
-    "questionText": "With the admission of Asian and African countries to the Commonwealth, the Queen of England became the (JAMB 2004)",
+    "questionText": "With the admission of Asian and African countries to the Commonwealth, the Queen of England became the",
     "options": [
       "patron of the Commonwealth",
       "head of state of these countries",
@@ -10717,7 +10717,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-543-627",
-    "questionText": "The membership of the Council of States in Nigeria is made up of (JAMB 1988)",
+    "questionText": "The membership of the Council of States in Nigeria is made up of",
     "options": [
       "Federal Ministers",
       "State commissioners",
@@ -10729,7 +10729,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-544-1370",
-    "questionText": "One merit of a written constitution is its (JAMB 2008)",
+    "questionText": "One merit of a written constitution is its",
     "options": [
       "legibility",
       "total flexibility",
@@ -10741,7 +10741,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-545-382",
-    "questionText": "Islam was introduced in Northern Nigeria (JAMB 2016)",
+    "questionText": "Islam was introduced in Northern Nigeria",
     "options": [
       "before the 13th century",
       "in the 17th century",
@@ -10753,7 +10753,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-546-143",
-    "questionText": "The first Nigeria leader to become chairman of the Organization of African Unity was:   (JAMB 2011)",
+    "questionText": "The first Nigeria leader to become chairman of the Organization of African Unity was:",
     "options": [
       "Tafawa Balewa",
       "Murtala Mohammed",
@@ -10765,7 +10765,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-547-574",
-    "questionText": "In the pre-colonial Hausa political system, the Madawaki performed the function of (JAMB 2014)",
+    "questionText": "In the pre-colonial Hausa political system, the Madawaki performed the function of",
     "options": [
       "Minister of Education",
       "Minister of Defense",
@@ -10777,7 +10777,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-548-145",
-    "questionText": "Fascism originated from:  (JAMB 2011)",
+    "questionText": "Fascism originated from:",
     "options": [
       "Greece",
       "Italy",
@@ -10789,7 +10789,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788725001456-549-610",
-    "questionText": "Which one of the following countries has an unwritten constitution? (JAMB 1988)",
+    "questionText": "Which one of the following countries has an unwritten constitution?",
     "options": [
       "Great Britain",
       "France",
@@ -10801,7 +10801,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-0-231",
-    "questionText": "The Nigerian federal legislature is called the (JAMB 2000)",
+    "questionText": "The Nigerian federal legislature is called the",
     "options": [
       "Senate",
       "Congress",
@@ -10813,7 +10813,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-1-204",
-    "questionText": "The extent to which the citizens regard the institutions, officials and activities of government as right and acceptable is known as (JAMB 2000)",
+    "questionText": "The extent to which the citizens regard the institutions, officials and activities of government as right and acceptable is known as",
     "options": [
       "power",
       "legitimacy",
@@ -10825,7 +10825,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-2-205",
-    "questionText": "Diplomatic immunity is a limitation to (JAMB 2000)",
+    "questionText": "Diplomatic immunity is a limitation to",
     "options": [
       "the theory of separation of powers.",
       "principles of checks and balances.",
@@ -10837,7 +10837,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-3-203",
-    "questionText": "Which of the following is an obligation of a citizen? (JAMB 2000)",
+    "questionText": "Which of the following is an obligation of a citizen?",
     "options": [
       "Attending political rallies",
       "Taking part in Independence Day celebrations",
@@ -10849,7 +10849,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-4-216",
-    "questionText": "Authoritarianism is least Inherent in (JAMB 2000)",
+    "questionText": "Authoritarianism is least Inherent in",
     "options": [
       "feudalism",
       "fascism",
@@ -10861,7 +10861,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-5-247",
-    "questionText": "The world organization which existed before the United Nations Organization was the (JAMB 2000)",
+    "questionText": "The world organization which existed before the United Nations Organization was the",
     "options": [
       "League of Nations",
       "European Economic Community",
@@ -10873,7 +10873,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-6-202",
-    "questionText": "Freedom of speech is a fundamental human right enjoyed by citizens but it may be limited if (JAMB 2000)",
+    "questionText": "Freedom of speech is a fundamental human right enjoyed by citizens but it may be limited if",
     "options": [
       "loyalty is not shown to the ruling party",
       "it exposes the wrong doings of the government",
@@ -10885,7 +10885,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-7-209",
-    "questionText": "Which of the following is the lowest class of people in the hierarchy of a feudal system? (JAMB 2000)",
+    "questionText": "Which of the following is the lowest class of people in the hierarchy of a feudal system?",
     "options": [
       "Nobles",
       "Serfs",
@@ -10897,7 +10897,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-8-206",
-    "questionText": "A federal state is always expensive to run because (JAMB 2000)",
+    "questionText": "A federal state is always expensive to run because",
     "options": [
       "every parliamentarian wants to become rich",
       "government departments are duplicated",
@@ -10909,7 +10909,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-9-236",
-    "questionText": "Immediately after the Nigerian Civil War, Gowon’s regime embarked on (JAMB 2000)",
+    "questionText": "Immediately after the Nigerian Civil War, Gowon’s regime embarked on",
     "options": [
       "rejuvenation, resettlement and reconstruction",
       "reconciliation, rehabilitation and reconstruction",
@@ -10921,7 +10921,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-10-227",
-    "questionText": "The grant of the right to vote is called (JAMB 2000)",
+    "questionText": "The grant of the right to vote is called",
     "options": [
       "enfranchisement",
       "disqualification",
@@ -10933,7 +10933,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-11-244",
-    "questionText": "In the pre-colonial Hausa/Fulani system, the appointment of an Emir in the Caliphate was approved by the (JAMB 2000)",
+    "questionText": "In the pre-colonial Hausa/Fulani system, the appointment of an Emir in the Caliphate was approved by the",
     "options": [
       "Sardauna of Sokoto and the Alkali",
       "Galadima and the Waziri",
@@ -10945,7 +10945,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-12-238",
-    "questionText": "Traditional rulers appointed by the British to implement indirect rule in Eastern Nigeria were called (JAMB 2000)",
+    "questionText": "Traditional rulers appointed by the British to implement indirect rule in Eastern Nigeria were called",
     "options": [
       "palace chiefs",
       "village chiefs",
@@ -10957,7 +10957,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-13-246",
-    "questionText": "One of the problems facing the Economic Community of West African States (ECOWAS) is that (JAMB 2000)",
+    "questionText": "One of the problems facing the Economic Community of West African States (ECOWAS) is that",
     "options": [
       "member states do not attend meetings regularly",
       "member states do not have a common currency",
@@ -10969,7 +10969,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-14-224",
-    "questionText": "The administrative head of a public corporation in Nigeria is the (JAMB 2000)",
+    "questionText": "The administrative head of a public corporation in Nigeria is the",
     "options": [
       "Managing Directors",
       "Secretary",
@@ -10981,7 +10981,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-15-199",
-    "questionText": "Government as an institution of a state can best be defined as a body that (JAMB 2000)",
+    "questionText": "Government as an institution of a state can best be defined as a body that",
     "options": [
       "recruits and trains political leaders",
       "settles disputes and interprets laws for the state.",
@@ -10993,7 +10993,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-16-239",
-    "questionText": "The bill introduced by a member of the legislature is known as (JAMB 2000)",
+    "questionText": "The bill introduced by a member of the legislature is known as",
     "options": [
       "a-private member’s bill",
       "an executive bill",
@@ -11005,7 +11005,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-17-243",
-    "questionText": "Which of the following groups had the best egalitarian traditional political system? (JAMB 2000)",
+    "questionText": "Which of the following groups had the best egalitarian traditional political system?",
     "options": [
       "Hausa/Fulani",
       "Yoruba",
@@ -11017,7 +11017,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-18-212",
-    "questionText": "An order directing a detainee to be brought before the court is called (JAMB 2000)",
+    "questionText": "An order directing a detainee to be brought before the court is called",
     "options": [
       "habeas corpus",
       "an appearance",
@@ -11029,7 +11029,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-19-232",
-    "questionText": "Delegated legislation has the advantage of (JAMB 2000)",
+    "questionText": "Delegated legislation has the advantage of",
     "options": [
       "enlightening the public about law making procedure",
       "saving parliamentary time",
@@ -11041,7 +11041,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-20-211",
-    "questionText": "Which of the following is supreme in a federal system? (JAMB 2000)",
+    "questionText": "Which of the following is supreme in a federal system?",
     "options": [
       "Judiciary",
       "legislature",
@@ -11053,7 +11053,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-21-207",
-    "questionText": "In which of the following party systems are all shades of opinions and interests adequately represented? (JAMB 2000)",
+    "questionText": "In which of the following party systems are all shades of opinions and interests adequately represented?",
     "options": [
       "Zero-party",
       "One-party",
@@ -11065,7 +11065,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-22-235",
-    "questionText": "The concept of regionalism in Nigeria was first introduced by the (JAMB 2000)",
+    "questionText": "The concept of regionalism in Nigeria was first introduced by the",
     "options": [
       "Independence Constitution",
       "Macpherson Constitution",
@@ -11077,7 +11077,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-23-221",
-    "questionText": "Which of the following factors limits the expression of public opinion? (JAMB 2000)",
+    "questionText": "Which of the following factors limits the expression of public opinion?",
     "options": [
       "The type of government in a state",
       "The establishment of private media organizations.",
@@ -11089,7 +11089,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-24-242",
-    "questionText": "Checks and balances was a feature of pre-colonial political administration of the (JAMB 2000)",
+    "questionText": "Checks and balances was a feature of pre-colonial political administration of the",
     "options": [
       "Hausa",
       "Yoruba",
@@ -11101,7 +11101,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-25-200",
-    "questionText": "Political authority is the (JAMB 2000)",
+    "questionText": "Political authority is the",
     "options": [
       "legitimate right to exercise political power.",
       "ability to control political behaviour.",
@@ -11113,7 +11113,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-26-220",
-    "questionText": "The acquisition of political power through hereditary means is a feature of (JAMB 2000)",
+    "questionText": "The acquisition of political power through hereditary means is a feature of",
     "options": [
       "Communalism",
       "Capitalism",
@@ -11125,7 +11125,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-27-201",
-    "questionText": "The rule of law refers to the principle of (JAMB 2000)",
+    "questionText": "The rule of law refers to the principle of",
     "options": [
       "legality and impartiality",
       "the supreme power of rulers.",
@@ -11137,7 +11137,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-28-237",
-    "questionText": "Which of the following military regimes in Nigeria played a prominent role in the liberation of colonized African states? (JAMB 2000)",
+    "questionText": "Which of the following military regimes in Nigeria played a prominent role in the liberation of colonized African states?",
     "options": [
       "Aguiyi Ironsi",
       "Murtala / Obasanjo",
@@ -11149,7 +11149,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-29-213",
-    "questionText": "Which of the following is a feature of an elite party? (JAMB 2000)",
+    "questionText": "Which of the following is a feature of an elite party?",
     "options": [
       "Members are recruited from the working class.",
       "The leadership is composed of aristocrats and wealthy merchants.",
@@ -11161,7 +11161,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-30-210",
-    "questionText": "Mussolini’s fascism and Hitler’s Nazism are good examples of (JAMB 2000)",
+    "questionText": "Mussolini’s fascism and Hitler’s Nazism are good examples of",
     "options": [
       "anarchy",
       "feudalism",
@@ -11173,7 +11173,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-31-230",
-    "questionText": "The powers allocated to the central government in a federation are contained in the (JAMB 2000)",
+    "questionText": "The powers allocated to the central government in a federation are contained in the",
     "options": [
       "central legislative list",
       "exclusive legislative list",
@@ -11185,7 +11185,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-32-217",
-    "questionText": "In which of the following systems of government are ceremonial and executive powers usually fused? (JAMB 2000)",
+    "questionText": "In which of the following systems of government are ceremonial and executive powers usually fused?",
     "options": [
       "Parliamentary",
       "Presidential",
@@ -11197,7 +11197,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-33-215",
-    "questionText": "The system of voting on behalf of another person is known as (JAMB 2000)",
+    "questionText": "The system of voting on behalf of another person is known as",
     "options": [
       "voting by lot",
       "casting votes.",
@@ -11209,7 +11209,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-34-229",
-    "questionText": "Which of the following factors may work against a representative system of government? (JAMB 2000)",
+    "questionText": "Which of the following factors may work against a representative system of government?",
     "options": [
       "High literacy of the electorate",
       "The introduction of universal adult suffrage",
@@ -11221,7 +11221,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-35-241",
-    "questionText": "In pre-colonial Igboland, administrative meetings were presided over by the (JAMB 2000)",
+    "questionText": "In pre-colonial Igboland, administrative meetings were presided over by the",
     "options": [
       "Mazi",
       "Ogbuefi",
@@ -11233,7 +11233,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-36-214",
-    "questionText": "All undesirable feature of capitalism is (JAMB 2000)",
+    "questionText": "All undesirable feature of capitalism is",
     "options": [
       "exploitation",
       "market economy",
@@ -11245,7 +11245,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-37-208",
-    "questionText": "Veto power in a presidential system lies with the (JAMB 2000)",
+    "questionText": "Veto power in a presidential system lies with the",
     "options": [
       "Attorney General",
       "Chief of Army Staff",
@@ -11257,7 +11257,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-38-223",
-    "questionText": "Which of the following best describes the relationship between the central and the component government in a confederation? (JAMB 2000)",
+    "questionText": "Which of the following best describes the relationship between the central and the component government in a confederation?",
     "options": [
       "The central government collects revenue for component government",
       "The central and component governments have equal powers",
@@ -11269,7 +11269,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-39-218",
-    "questionText": "The programme of a political party is known as its (JAMB 2000)",
+    "questionText": "The programme of a political party is known as its",
     "options": [
       "constitution",
       "document",
@@ -11281,7 +11281,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-40-1104",
-    "questionText": "In the legislative process, a bill is a (JAMB 2001)",
+    "questionText": "In the legislative process, a bill is a",
     "options": [
       "motion accepted for debate",
       "motion rejected after debate",
@@ -11293,7 +11293,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-41-1134",
-    "questionText": "South-South cooperation is a major policy plan on which Nigeria bases her relations with (JAMB 2001)",
+    "questionText": "South-South cooperation is a major policy plan on which Nigeria bases her relations with",
     "options": [
       "developed countries",
       "countries of the southern hemisphere",
@@ -11305,7 +11305,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-42-1101",
-    "questionText": "A constitution that requires a plebiscite or a referendum to be amended is (JAMB 2001)",
+    "questionText": "A constitution that requires a plebiscite or a referendum to be amended is",
     "options": [
       "rigid",
       "unwritten",
@@ -11317,7 +11317,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-43-1140",
-    "questionText": "The major demand of the Third World countries on the United Nations in recent times is the (JAMB 2001)",
+    "questionText": "The major demand of the Third World countries on the United Nations in recent times is the",
     "options": [
       "expansion of the permanent membership of the security Council",
       "post of the Secretary-General of the organization",
@@ -11329,7 +11329,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-44-1103",
-    "questionText": "when a bill passed by the legislature is vetoed by the executive, the action underscores the principle (JAMB 2001)",
+    "questionText": "when a bill passed by the legislature is vetoed by the executive, the action underscores the principle",
     "options": [
       "probity and accountability",
       "separation of powers",
@@ -11341,7 +11341,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-45-1124",
-    "questionText": "The Independent National Electoral Commission has the power to prepare and maintain the register of (JAMB 2001)",
+    "questionText": "The Independent National Electoral Commission has the power to prepare and maintain the register of",
     "options": [
       "Political parties",
       "Constituencies",
@@ -11353,7 +11353,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-46-1143",
-    "questionText": "Nigeria's departure from pro-west policy during the Murtala Muhammed regime was as a result of (JAMB 2001)",
+    "questionText": "Nigeria's departure from pro-west policy during the Murtala Muhammed regime was as a result of",
     "options": [
       "the economic interest of the West in Nigeria",
       "Nigeria's increased international influence",
@@ -11365,7 +11365,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-47-1115",
-    "questionText": "The method used by the British to facilitate the administration of Southern Nigeria was (JAMB 2001)",
+    "questionText": "The method used by the British to facilitate the administration of Southern Nigeria was",
     "options": [
       "persuation",
       "dialogue",
@@ -11377,7 +11377,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-48-1110",
-    "questionText": "Public opinion is a view that is (JAMB 2001)",
+    "questionText": "Public opinion is a view that is",
     "options": [
       "held by the majority",
       "active in the public realm",
@@ -11389,7 +11389,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-49-1127",
-    "questionText": "The first restructure of the Nigerian Federation took place with the (JAMB 2001)",
+    "questionText": "The first restructure of the Nigerian Federation took place with the",
     "options": [
       "creation of mid-west Region in 1963",
       "abolition of federalism in 1966",
@@ -11401,7 +11401,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-50-1096",
-    "questionText": "Where the constitution is supreme, unconstitutional acts of the executive and the legislature can be checked by the courts through (JAMB 2001)",
+    "questionText": "Where the constitution is supreme, unconstitutional acts of the executive and the legislature can be checked by the courts through",
     "options": [
       "recall",
       "judicial review",
@@ -11413,7 +11413,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-51-1118",
-    "questionText": "When Nigeria achieved independence in 1960, the head of state was the (JAMB 2001)",
+    "questionText": "When Nigeria achieved independence in 1960, the head of state was the",
     "options": [
       "president",
       "prime minister",
@@ -11425,7 +11425,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-52-1131",
-    "questionText": "The Murtala/Obasanjo regime in Nigeria increased the number of states from (JAMB 2001)",
+    "questionText": "The Murtala/Obasanjo regime in Nigeria increased the number of states from",
     "options": [
       "4 to 12",
       "12 to 19",
@@ -11437,7 +11437,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-53-1132",
-    "questionText": "The major factor that influenced the formulation of Nigerian foreign policy in the First Republic was (JAMB 2001)",
+    "questionText": "The major factor that influenced the formulation of Nigerian foreign policy in the First Republic was",
     "options": [
       "geographical location",
       "the colonial legacy",
@@ -11449,7 +11449,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-54-1126",
-    "questionText": "The Nigerian Youth Movement collapsed as the result of (JAMB 2001)",
+    "questionText": "The Nigerian Youth Movement collapsed as the result of",
     "options": [
       "its failure to win election",
       "shortage of funds to run its affairs",
@@ -11461,7 +11461,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-55-1128",
-    "questionText": "The land use decree of 1978 vested the ownership of land in Nigeria in the (JAMB 2001)",
+    "questionText": "The land use decree of 1978 vested the ownership of land in Nigeria in the",
     "options": [
       "local chiefs",
       "local governments",
@@ -11473,7 +11473,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-56-1117",
-    "questionText": "After 1945, the demand of African nationalists changed from reform to independence because (JAMB 2001)",
+    "questionText": "After 1945, the demand of African nationalists changed from reform to independence because",
     "options": [
       "colonial rule became less oppressive",
       "colonial rule was in disarray",
@@ -11485,7 +11485,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-57-1123",
-    "questionText": "The equivalent of the commissioner at the local government level is the (JAMB 2001)",
+    "questionText": "The equivalent of the commissioner at the local government level is the",
     "options": [
       "Executive chairman",
       "Secretary",
@@ -11497,7 +11497,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-58-1106",
-    "questionText": "The fundamental rights of citizens include rights to (JAMB 2001)",
+    "questionText": "The fundamental rights of citizens include rights to",
     "options": [
       "free education, employment and freedom of thought",
       "life, speech and associations",
@@ -11509,7 +11509,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-59-1114",
-    "questionText": "Some pre-colonial Nigerian societies are described as stateless because (JAMB 2001)",
+    "questionText": "Some pre-colonial Nigerian societies are described as stateless because",
     "options": [
       "they had no formal governmental institutions",
       "they had no definite political boundaries",
@@ -11521,7 +11521,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-60-1130",
-    "questionText": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of (JAMB 2001)",
+    "questionText": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of",
     "options": [
       "the office of sole administrators",
       "caretaker management committees",
@@ -11533,7 +11533,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-61-1108",
-    "questionText": "One argument against a multi-party system is thes (JAMB 2001)",
+    "questionText": "One argument against a multi-party system is thes",
     "options": [
       "encouragement of opposition and instability",
       "banning of interest groups",
@@ -11545,7 +11545,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-62-1120",
-    "questionText": "Which of these constitutions recognized local government as a third tier of government in Nigeria? (JAMB 2001)",
+    "questionText": "Which of these constitutions recognized local government as a third tier of government in Nigeria?",
     "options": [
       "1946 Constitution.",
       "1960 Constitution.",
@@ -11557,7 +11557,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-63-1119",
-    "questionText": "The central legislature of Nigeria became bicameral in (JAMB 2001)",
+    "questionText": "The central legislature of Nigeria became bicameral in",
     "options": [
       "1960",
       "1951",
@@ -11569,7 +11569,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-64-1136",
-    "questionText": "The first Nigerian Permanent Representative to the United Nations was (JAMB 2001)",
+    "questionText": "The first Nigerian Permanent Representative to the United Nations was",
     "options": [
       "Alhaji Yusuf Maitama Sule",
       "General Joseph Garba",
@@ -11581,7 +11581,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-65-1094",
-    "questionText": "Power differs from influence in that it is (JAMB 2001)",
+    "questionText": "Power differs from influence in that it is",
     "options": [
       "persuasive while influence is directive",
       "coercive while influence is harmful",
@@ -11593,7 +11593,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-66-1111",
-    "questionText": "The political neutrality of civil servants implies that they (JAMB 2001)",
+    "questionText": "The political neutrality of civil servants implies that they",
     "options": [
       "are not allowed to join any organisation or group",
       "have no dealings with politicians",
@@ -11605,7 +11605,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-67-1095",
-    "questionText": "The standing committee of a legislature is one (JAMB 2001)",
+    "questionText": "The standing committee of a legislature is one",
     "options": [
       "whose member stand while delibrating",
       "that has statutory responsibities",
@@ -11617,7 +11617,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-68-1099",
-    "questionText": "A major feature of authoritarianism is that government is (JAMB 2001)",
+    "questionText": "A major feature of authoritarianism is that government is",
     "options": [
       "consensual",
       "personalized",
@@ -11629,7 +11629,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-69-1100",
-    "questionText": "The central point of capitalism, as expounded by Karl Marx, is that (JAMB 2001)",
+    "questionText": "The central point of capitalism, as expounded by Karl Marx, is that",
     "options": [
       "capitalist profit is the surplus value obtained from workers labour",
       "workers are inherently incapable of being owners of their labour",
@@ -11641,7 +11641,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-70-1113",
-    "questionText": "The western zone of the Sokoto caliphate was administered from (JAMB 2001)",
+    "questionText": "The western zone of the Sokoto caliphate was administered from",
     "options": [
       "kebbi",
       "Ilorin",
@@ -11653,7 +11653,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-71-1138",
-    "questionText": "During the Civil War, the major power that expressed moral support for Biafra's self-determination was (JAMB 2001)",
+    "questionText": "During the Civil War, the major power that expressed moral support for Biafra's self-determination was",
     "options": [
       "France",
       "China",
@@ -11665,7 +11665,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-72-1133",
-    "questionText": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalised in the late 1970's for transacting business with (JAMB 2001)",
+    "questionText": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalised in the late 1970's for transacting business with",
     "options": [
       "France",
       "South Africa",
@@ -11677,7 +11677,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-73-1121",
-    "questionText": "Under the 1963 constitution, items not listed in the exclusive and concurrent list were within the exclusive competence of the (JAMB 2001)",
+    "questionText": "Under the 1963 constitution, items not listed in the exclusive and concurrent list were within the exclusive competence of the",
     "options": [
       "Executive",
       "federal parliament",
@@ -11689,7 +11689,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-74-1141",
-    "questionText": "Which of the following is the function of the Council of the Ministers of the O.A.U (JAMB 2001)",
+    "questionText": "Which of the following is the function of the Council of the Ministers of the O.A.U",
     "options": [
       "Cordinating of the general policy of the organization",
       "Directing the finances of the organization",
@@ -11701,7 +11701,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-75-1105",
-    "questionText": "One of the advantages of a bicameral over a unicameral legislature is that it (JAMB 2001)",
+    "questionText": "One of the advantages of a bicameral over a unicameral legislature is that it",
     "options": [
       "is cheap to maintains",
       "promotes social equalitys",
@@ -11713,7 +11713,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-76-1107",
-    "questionText": "The manipulation of boundaries of constituencies in order to win more seats is called (JAMB 2001)",
+    "questionText": "The manipulation of boundaries of constituencies in order to win more seats is called",
     "options": [
       "devolutions",
       "riggings",
@@ -11725,7 +11725,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-77-1097",
-    "questionText": "The central decision-making organ of a confederation is made up of (JAMB 2001)",
+    "questionText": "The central decision-making organ of a confederation is made up of",
     "options": [
       "technocrats appointed by the units",
       "politicians elected from the confederal constituencies",
@@ -11737,7 +11737,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-78-1098",
-    "questionText": "Which of the following is true of a parliamentary system of government? (JAMB 2001)",
+    "questionText": "Which of the following is true of a parliamentary system of government?",
     "options": [
       "clear seperation of government organs.",
       "strict operation of bicameral legislature.",
@@ -11749,7 +11749,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-79-1125",
-    "questionText": "The president of Nigeria is advised on the sovereignty and territorial integrity of the country by the (JAMB 2001)",
+    "questionText": "The president of Nigeria is advised on the sovereignty and territorial integrity of the country by the",
     "options": [
       "National Secrurity Council",
       "National Defense Council",
@@ -11761,7 +11761,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-80-1163",
-    "questionText": "The principle of checks and balances reinforces separation of powers in order to (JAMB 2002)",
+    "questionText": "The principle of checks and balances reinforces separation of powers in order to",
     "options": [
       "protect the powers of the executive",
       "make the legislature more powerful",
@@ -11773,7 +11773,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-81-1160",
-    "questionText": "A law passed by the legislature and assented by the executive is (JAMB 2002)",
+    "questionText": "A law passed by the legislature and assented by the executive is",
     "options": [
       "an act",
       "a presidential proclamation",
@@ -11785,7 +11785,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-82-1185",
-    "questionText": "The impact of the Commonwealth of Nations is felt most in the area of (JAMB 2002)",
+    "questionText": "The impact of the Commonwealth of Nations is felt most in the area of",
     "options": [
       "diplomatic cooperation",
       "economic cooperation",
@@ -11797,7 +11797,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-83-1170",
-    "questionText": "In pre-colonial Igbo society, decisions on public issues were reached mainly through (JAMB 2002)",
+    "questionText": "In pre-colonial Igbo society, decisions on public issues were reached mainly through",
     "options": [
       "the oracles",
       "consensus",
@@ -11809,7 +11809,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-84-1174",
-    "questionText": "The leading agent in the expansion of British influence in Northern Nigeria in the 1890s was the (JAMB 2002)",
+    "questionText": "The leading agent in the expansion of British influence in Northern Nigeria in the 1890s was the",
     "options": [
       "British Consul in Calabar",
       "Royal West African Frontier Force",
@@ -11821,7 +11821,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-85-1147",
-    "questionText": "Communism is a system which recognizes (JAMB 2002)",
+    "questionText": "Communism is a system which recognizes",
     "options": [
       "class stratification",
       "the existence of the state",
@@ -11833,7 +11833,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-86-1176",
-    "questionText": "The main function of the Code of Conduct Bureau is to (JAMB 2002)",
+    "questionText": "The main function of the Code of Conduct Bureau is to",
     "options": [
       "ensure accountability in government business",
       "give the judiciary more powers to discipline erring judges",
@@ -11845,7 +11845,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-87-1164",
-    "questionText": "Legislative control of public corporation in Nigeria is effected through (JAMB 2002)",
+    "questionText": "Legislative control of public corporation in Nigeria is effected through",
     "options": [
       "the dissolution of their management",
       "the reorganization of their boards",
@@ -11857,7 +11857,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-88-1155",
-    "questionText": "The application of the principle of separation of powers seems impracticable because powers is (JAMB 2002)",
+    "questionText": "The application of the principle of separation of powers seems impracticable because powers is",
     "options": [
       "delegated",
       "centralized",
@@ -11869,7 +11869,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-89-1161",
-    "questionText": "One of the features of a sovereign state is that it (JAMB 2002)",
+    "questionText": "One of the features of a sovereign state is that it",
     "options": [
       "has the capacity to defend itself from external aggression",
       "has a large number of soldiers",
@@ -11881,7 +11881,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-90-1158",
-    "questionText": "The absence of the rule of law in government will bring about (JAMB 2002)",
+    "questionText": "The absence of the rule of law in government will bring about",
     "options": [
       "human rights abuse",
       "treasonable offences",
@@ -11893,7 +11893,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-91-1145",
-    "questionText": "One major disadvantage of public opinion is that (JAMB 2002)",
+    "questionText": "One major disadvantage of public opinion is that",
     "options": [
       "the critics of government policies are always harassed",
       "a vocal minority claims to represent the majority",
@@ -11905,7 +11905,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-92-1152",
-    "questionText": "The final interpretation pf the provisions of a federal constitution is vested in the (JAMB 2002)",
+    "questionText": "The final interpretation pf the provisions of a federal constitution is vested in the",
     "options": [
       "head of state",
       "council of state",
@@ -11917,7 +11917,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-93-1153",
-    "questionText": "A major issue that distinguishes pressure groups from political parties is (JAMB 2002)",
+    "questionText": "A major issue that distinguishes pressure groups from political parties is",
     "options": [
       "membership drive",
       "the objective",
@@ -11929,7 +11929,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-94-1168",
-    "questionText": "Under the 1999 Constitution of Nigeria, the power to create local governments is vested in the (JAMB 2002)",
+    "questionText": "Under the 1999 Constitution of Nigeria, the power to create local governments is vested in the",
     "options": [
       "state assembly",
       "office of the deputy governor",
@@ -11941,7 +11941,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-95-1167",
-    "questionText": "The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy was the (JAMB 2002)",
+    "questionText": "The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy was the",
     "options": [
       "1979 Constitution",
       "1989 Constitution",
@@ -11953,7 +11953,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-96-1180",
-    "questionText": "The main legislative body in Nigeria between 1966 and 1975 was the (JAMB 2002)",
+    "questionText": "The main legislative body in Nigeria between 1966 and 1975 was the",
     "options": [
       "Supreme Military Council",
       "Armed Forces Ruling Council",
@@ -11965,7 +11965,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-97-1184",
-    "questionText": "The group of states that conceived the idea of the United Nations Organization included (JAMB 2002)",
+    "questionText": "The group of states that conceived the idea of the United Nations Organization included",
     "options": [
       "the USSR, Italy, the UK and China",
       "Italy, the UK, France and Japan",
@@ -11977,7 +11977,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-98-1191",
-    "questionText": "Which of these international finance agencies is Nigeria a member of (JAMB 2002)",
+    "questionText": "Which of these international finance agencies is Nigeria a member of",
     "options": [
       "The London Club",
       "The Infrastructural Development Fund",
@@ -11989,7 +11989,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-99-1172",
-    "questionText": "The constitution that introduced restricted franchise into Nigerian politics was the (JAMB 2002)",
+    "questionText": "The constitution that introduced restricted franchise into Nigerian politics was the",
     "options": [
       "Independence Constitution",
       "Lyttelton Constitution",
@@ -12001,7 +12001,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-100-1166",
-    "questionText": "The fees collected by local governments at motor parks represents (JAMB 2002)",
+    "questionText": "The fees collected by local governments at motor parks represents",
     "options": [
       "levies",
       "fines",
@@ -12013,7 +12013,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-101-1186",
-    "questionText": "The greatest criticism of the Security Council of the UNO is that it (JAMB 2002)",
+    "questionText": "The greatest criticism of the Security Council of the UNO is that it",
     "options": [
       "has no standing army",
       "is not representative enough",
@@ -12025,7 +12025,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461559-102-1150",
-    "questionText": "A common feature of a multi-party system is that government is formed by (JAMB 2002)",
+    "questionText": "A common feature of a multi-party system is that government is formed by",
     "options": [
       "the major political party",
       "all the registered political parties",
@@ -12037,7 +12037,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-103-1157",
-    "questionText": "Oligarchy is a form of government which (JAMB 2002)",
+    "questionText": "Oligarchy is a form of government which",
     "options": [
       "enhances the interest of the ruling few",
       "enhances the electoral chances of the majority",
@@ -12049,7 +12049,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-104-1149",
-    "questionText": "The structure of the civil service is based on (JAMB 2002)",
+    "questionText": "The structure of the civil service is based on",
     "options": [
       "lateral organisation",
       "merit system",
@@ -12061,7 +12061,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-105-1189",
-    "questionText": "Who among the following served as Secretary General of OPEC? (JAMB 2002)",
+    "questionText": "Who among the following served as Secretary General of OPEC?",
     "options": [
       "Jibril Aminu",
       "Aret Adams",
@@ -12073,7 +12073,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-106-1181",
-    "questionText": "Nigeria formally became a federation in (JAMB 2002)",
+    "questionText": "Nigeria formally became a federation in",
     "options": [
       "1960",
       "1963",
@@ -12085,7 +12085,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-107-1188",
-    "questionText": "Professor Ibrahim Gambari is the Special Assistant to the United Nations Secretary General on (JAMB 2002)",
+    "questionText": "Professor Ibrahim Gambari is the Special Assistant to the United Nations Secretary General on",
     "options": [
       "African affairs",
       "political and social matters",
@@ -12097,7 +12097,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-108-1165",
-    "questionText": "The Ibadan Conference of 1950 was convened to discuss the provisions of the (JAMB 2002)",
+    "questionText": "The Ibadan Conference of 1950 was convened to discuss the provisions of the",
     "options": [
       "Macpherson Constitution",
       "Clifford Constituiton",
@@ -12109,7 +12109,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-109-1146",
-    "questionText": "Citizenship in a modern state expresses the status of a person who possesses (JAMB 2002)",
+    "questionText": "Citizenship in a modern state expresses the status of a person who possesses",
     "options": [
       "full political rights",
       "some religious rights",
@@ -12121,7 +12121,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-110-1169",
-    "questionText": "The body set up to review the revenue allocation formula in 1980 was the (JAMB 2002)",
+    "questionText": "The body set up to review the revenue allocation formula in 1980 was the",
     "options": [
       "Udoji Commission",
       "Okigbo Commission",
@@ -12133,7 +12133,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-111-1154",
-    "questionText": "Proportional representation is a system of allocating seats in the legislature based on (JAMB 2002)",
+    "questionText": "Proportional representation is a system of allocating seats in the legislature based on",
     "options": [
       "gender participation in polities",
       "an area",
@@ -12145,7 +12145,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-112-1177",
-    "questionText": "The emirate system of administration can be likened to (JAMB 2002)",
+    "questionText": "The emirate system of administration can be likened to",
     "options": [
       "confederal system of government",
       "unitary system of government",
@@ -12157,7 +12157,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-113-1173",
-    "questionText": "In Nigeria, the Council of State was first created by (JAMB 2002)",
+    "questionText": "In Nigeria, the Council of State was first created by",
     "options": [
       "General Murtala Muhammed",
       "General Olusegun Obasanjo",
@@ -12169,7 +12169,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-114-1179",
-    "questionText": "One major factor that differentiates the presidential from the parliamentary system is (JAMB 2002)",
+    "questionText": "One major factor that differentiates the presidential from the parliamentary system is",
     "options": [
       "separation of powers",
       "judicial independence",
@@ -12181,7 +12181,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-115-1182",
-    "questionText": "The United Nations charter is an instrument that (JAMB 2002)",
+    "questionText": "The United Nations charter is an instrument that",
     "options": [
       "sets out the rights and obligations of member states",
       "provides for funding of memeber states",
@@ -12193,7 +12193,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-116-1175",
-    "questionText": "The two military coups that toppled civilian regimes in Nigeria were those of (JAMB 2002)",
+    "questionText": "The two military coups that toppled civilian regimes in Nigeria were those of",
     "options": [
       "January 1966 and December 1983",
       "July 1966 and August 1985",
@@ -12205,7 +12205,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-117-1151",
-    "questionText": "To qualify for absorption into the administration cadre of the civil service in Nigeria, an applicant must be (JAMB 2002)",
+    "questionText": "To qualify for absorption into the administration cadre of the civil service in Nigeria, an applicant must be",
     "options": [
       "knowledgable in civil services rule",
       "a holder of a first university degree",
@@ -12217,7 +12217,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-118-1178",
-    "questionText": "The abolition of the state ministries of local governments in 1989 entails that local governments (JAMB 2002)",
+    "questionText": "The abolition of the state ministries of local governments in 1989 entails that local governments",
     "options": [
       "are equal to the states",
       "have more control over their funds",
@@ -12229,7 +12229,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-119-1162",
-    "questionText": "A major way of maintaining confidence in the electoral process is by ensuring that (JAMB 2002)",
+    "questionText": "A major way of maintaining confidence in the electoral process is by ensuring that",
     "options": [
       "electoral officers are regularly trained",
       "elections are conducted in a free and fair atmosphere",
@@ -12241,7 +12241,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-120-1241",
-    "questionText": "The headquarters of the International Court of Justice is in (JAMB 2003)",
+    "questionText": "The headquarters of the International Court of Justice is in",
     "options": [
       "Washington, D.C",
       "Paris",
@@ -12253,7 +12253,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-121-1229",
-    "questionText": "The 1976 Reforms have been most beneficial to the (JAMB 2003)",
+    "questionText": "The 1976 Reforms have been most beneficial to the",
     "options": [
       "Nigerian police",
       "federal government",
@@ -12265,7 +12265,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-122-1210",
-    "questionText": "The civil service embraces all workers in (JAMB 2003)",
+    "questionText": "The civil service embraces all workers in",
     "options": [
       "all private corporations",
       "publica and private companies",
@@ -12277,7 +12277,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-123-1213",
-    "questionText": "The operation of the rule of law is undermined by the (JAMB 2003)",
+    "questionText": "The operation of the rule of law is undermined by the",
     "options": [
       "unfriendly attitude of pressure groups",
       "existence of administrative tribunals and special immunities",
@@ -12289,7 +12289,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-124-1198",
-    "questionText": "Removal by impeachment applies to the position of a (JAMB 2003)",
+    "questionText": "Removal by impeachment applies to the position of a",
     "options": [
       "president",
       "chief judge",
@@ -12301,7 +12301,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-125-1218",
-    "questionText": "The Eastern and Western regions of Nigeria achieved the status of self-government is (JAMB 2003)",
+    "questionText": "The Eastern and Western regions of Nigeria achieved the status of self-government is",
     "options": [
       "1959",
       "1957",
@@ -12313,7 +12313,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-126-1196",
-    "questionText": "A collegial executive is a government in which power is vested in a (JAMB 2003)",
+    "questionText": "A collegial executive is a government in which power is vested in a",
     "options": [
       "president",
       "monarch",
@@ -12325,7 +12325,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-127-1232",
-    "questionText": "The activities of Nigeria in the international community are primarily influenced by (JAMB 2003)",
+    "questionText": "The activities of Nigeria in the international community are primarily influenced by",
     "options": [
       "propaganda",
       "national interest",
@@ -12337,7 +12337,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-128-1237",
-    "questionText": "The majority of the OPEC members are from (JAMB 2003)",
+    "questionText": "The majority of the OPEC members are from",
     "options": [
       "Latin America",
       "The Middle East Countries",
@@ -12349,7 +12349,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-129-1223",
-    "questionText": "The Bureau for Public Enterprises is charged with the responsibility for (JAMB 2003)",
+    "questionText": "The Bureau for Public Enterprises is charged with the responsibility for",
     "options": [
       "privatization and commercialization",
       "generating revenue",
@@ -12361,7 +12361,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-130-1216",
-    "questionText": "In the Pre-colonial Igbo society,the maintenance of peace and order was,the function of the (JAMB 2003)",
+    "questionText": "In the Pre-colonial Igbo society,the maintenance of peace and order was,the function of the",
     "options": [
       "assembly of ezes",
       "clan elders",
@@ -12373,7 +12373,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-131-1202",
-    "questionText": "The best form of government for a heterogeneous society is a (JAMB 2003)",
+    "questionText": "The best form of government for a heterogeneous society is a",
     "options": [
       "quasi-federal system",
       "federal system",
@@ -12385,7 +12385,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-132-1215",
-    "questionText": "The Arthur Richards Constitution was designed to last for (JAMB 2003)",
+    "questionText": "The Arthur Richards Constitution was designed to last for",
     "options": [
       "nine years",
       "five years",
@@ -12397,7 +12397,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-133-1221",
-    "questionText": "The expenditure of public funds by the executive in Nigeria is controlled by the (JAMB 2003)",
+    "questionText": "The expenditure of public funds by the executive in Nigeria is controlled by the",
     "options": [
       "judiciary",
       "ministry of finance",
@@ -12409,7 +12409,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-134-1200",
-    "questionText": "The independence of the Judiciary can be undermined through the (JAMB 2003)",
+    "questionText": "The independence of the Judiciary can be undermined through the",
     "options": [
       "politicization of the appointment of judges",
       "appointment of the minister of justice as the Attorney-General",
@@ -12421,7 +12421,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-135-1214",
-    "questionText": "The type of government operated in Nigeria between October 1st 1979 to December 31st 1983 is called a (JAMB 2003)",
+    "questionText": "The type of government operated in Nigeria between October 1st 1979 to December 31st 1983 is called a",
     "options": [
       "collegial system of government",
       "presidential system of government",
@@ -12433,7 +12433,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-136-1199",
-    "questionText": "One of the duties of the legislature is to (JAMB 2003)",
+    "questionText": "One of the duties of the legislature is to",
     "options": [
       "implement laws",
       "adjudicate disputes",
@@ -12445,7 +12445,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-137-1227",
-    "questionText": "In the First Republic,politics in the Northern region was dominated by the (JAMB 2003)",
+    "questionText": "In the First Republic,politics in the Northern region was dominated by the",
     "options": [
       "NEPU",
       "UMBC",
@@ -12457,7 +12457,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-138-1225",
-    "questionText": "A problem of Nigeria federalism that was resolved by the supreme court between the federal government and littoral states centered on resource (JAMB 2003)",
+    "questionText": "A problem of Nigeria federalism that was resolved by the supreme court between the federal government and littoral states centered on resource",
     "options": [
       "maximization",
       "generation",
@@ -12469,7 +12469,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-139-1217",
-    "questionText": "The smooth operation of the civil service in Nigeria is mostly hampered by (JAMB 2003)",
+    "questionText": "The smooth operation of the civil service in Nigeria is mostly hampered by",
     "options": [
       "inadequate training of personnel",
       "corruption and inefficiency",
@@ -12481,7 +12481,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-140-1230",
-    "questionText": "The dispute between Nigeria and Cameroon is over (JAMB 2003)",
+    "questionText": "The dispute between Nigeria and Cameroon is over",
     "options": [
       "trade",
       "exploration rights",
@@ -12493,7 +12493,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-141-1212",
-    "questionText": "What distinguishes a political party from other social institutions is the desire to (JAMB 2003)",
+    "questionText": "What distinguishes a political party from other social institutions is the desire to",
     "options": [
       "influence the international community on local issues",
       "promote the interest of party members",
@@ -12505,7 +12505,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-142-1204",
-    "questionText": "Election as a political process is significant because it (JAMB 2003)",
+    "questionText": "Election as a political process is significant because it",
     "options": [
       "is associated with campaigns for public office",
       "facilitates the recall process",
@@ -12517,7 +12517,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-143-1220",
-    "questionText": "The 1979 Constitution established the (JAMB 2003)",
+    "questionText": "The 1979 Constitution established the",
     "options": [
       "National Human Rights Commission",
       "National Population Commission",
@@ -12529,7 +12529,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-144-1201",
-    "questionText": "A common feature of government is (JAMB 2003)",
+    "questionText": "A common feature of government is",
     "options": [
       "the separation of powers",
       "the making of public policy",
@@ -12541,7 +12541,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-145-1205",
-    "questionText": "Associations whose main interest is to influence public policies without having to capture power are (JAMB 2003)",
+    "questionText": "Associations whose main interest is to influence public policies without having to capture power are",
     "options": [
       "communal groups",
       "trade unions",
@@ -12553,7 +12553,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-146-1239",
-    "questionText": "The major problem of the ECOWAS is lack of (JAMB 2003)",
+    "questionText": "The major problem of the ECOWAS is lack of",
     "options": [
       "a common currency",
       "commitment by members",
@@ -12565,7 +12565,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-147-1240",
-    "questionText": "The ECOWAS Treaty was reviewed in 1991 to (JAMB 2003)",
+    "questionText": "The ECOWAS Treaty was reviewed in 1991 to",
     "options": [
       "accomodate the interest of France",
       "make it responsive to new challenges",
@@ -12577,7 +12577,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-148-1219",
-    "questionText": "One of the legacies of pre-colonial Nigeria destroyed by the British was the (JAMB 2003)",
+    "questionText": "One of the legacies of pre-colonial Nigeria destroyed by the British was the",
     "options": [
       "peace and harmony in the land",
       "indigenous cultures of the people",
@@ -12589,7 +12589,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-149-1194",
-    "questionText": "In a parliamentary system, the functions of the head of state and the head of government are vested in (JAMB 2003)",
+    "questionText": "In a parliamentary system, the functions of the head of state and the head of government are vested in",
     "options": [
       "the inner cabinet",
       "an indidvidual",
@@ -12601,7 +12601,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-150-1208",
-    "questionText": "Public opinion becomes politically relevant when it (JAMB 2003)",
+    "questionText": "Public opinion becomes politically relevant when it",
     "options": [
       "criticises people in power",
       "influences the decision of government",
@@ -12613,7 +12613,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-151-1242",
-    "questionText": "The independent African countries that signed the OAU Charter on May 25th 1963 were (JAMB 2003)",
+    "questionText": "The independent African countries that signed the OAU Charter on May 25th 1963 were",
     "options": [
       "Togo and Sierra Leone",
       "Morocco and Angola",
@@ -12625,7 +12625,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-152-1228",
-    "questionText": "One of the reasons advanced for the overthrow of the Gowon Regime was its failure to (JAMB 2003)",
+    "questionText": "One of the reasons advanced for the overthrow of the Gowon Regime was its failure to",
     "options": [
       "honour the promise to hand over power",
       "promote some officers by the armed forces",
@@ -12637,7 +12637,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-153-1236",
-    "questionText": "The main constraint on Nigeria-Francophone West African cooperation is (JAMB 2003)",
+    "questionText": "The main constraint on Nigeria-Francophone West African cooperation is",
     "options": [
       "cultural differences",
       "ideological differences",
@@ -12649,7 +12649,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-154-1235",
-    "questionText": "Nigeria's Non-Alignment Policy is constrained by her (JAMB 2003)",
+    "questionText": "Nigeria's Non-Alignment Policy is constrained by her",
     "options": [
       "strong ties with Western powers",
       "membership of the ECOWAS",
@@ -12661,7 +12661,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-155-1231",
-    "questionText": "Nigeria's influence in OPEC is determined by the (JAMB 2003)",
+    "questionText": "Nigeria's influence in OPEC is determined by the",
     "options": [
       "volume of her oil revenue",
       "sizes of her refineries",
@@ -12673,7 +12673,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-156-1226",
-    "questionText": "The military Head of State during the Third Republic was (JAMB 2003)",
+    "questionText": "The military Head of State during the Third Republic was",
     "options": [
       "General Olusegun Obasanjo",
       "General Ibrahim Babangida",
@@ -12685,7 +12685,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-157-1197",
-    "questionText": "The unrestrained power of the state over its citizens is underlined by (JAMB 2003)",
+    "questionText": "The unrestrained power of the state over its citizens is underlined by",
     "options": [
       "sovereignty",
       "nationalism",
@@ -12697,7 +12697,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-158-1207",
-    "questionText": "The citizenship of a country could be acquired through (JAMB 2003)",
+    "questionText": "The citizenship of a country could be acquired through",
     "options": [
       "parliamentary legislation",
       "birth and naturalization",
@@ -12709,7 +12709,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-159-1209",
-    "questionText": "Socialism is a mode of production based on (JAMB 2003)",
+    "questionText": "Socialism is a mode of production based on",
     "options": [
       "state state ownership of the means of production",
       "collective ownership of the means of production",
@@ -12721,7 +12721,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-160-1252",
-    "questionText": "A major problem of the defunct Organization of African Unity was (JAMB 2004)",
+    "questionText": "A major problem of the defunct Organization of African Unity was",
     "options": [
       "language barrier",
       "inadequate resources",
@@ -12733,7 +12733,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-161-1250",
-    "questionText": "The Lagos Treaty of May 28th 1975 led to the formation of the (JAMB 2004)",
+    "questionText": "The Lagos Treaty of May 28th 1975 led to the formation of the",
     "options": [
       "African Economic Summit",
       "Lagos Plan Of Action",
@@ -12745,7 +12745,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-162-1272",
-    "questionText": "The law of libel limits a citizen's right to freedom of (JAMB 2004)",
+    "questionText": "The law of libel limits a citizen's right to freedom of",
     "options": [
       "movement",
       "association",
@@ -12757,7 +12757,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-163-1255",
-    "questionText": "The responsibility for admitting new members to the OPEC rests with the (JAMB 2004)",
+    "questionText": "The responsibility for admitting new members to the OPEC rests with the",
     "options": [
       "Summit",
       "Secretariate",
@@ -12769,7 +12769,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-164-1285",
-    "questionText": "Independence of the judiciary is pertinent because it accords the judiciary the power to (JAMB 2004)",
+    "questionText": "Independence of the judiciary is pertinent because it accords the judiciary the power to",
     "options": [
       "dismiss any judge who has breached the judicial code of conduct",
       "determine a fixed salary for judges",
@@ -12781,7 +12781,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-165-1265",
-    "questionText": "The major motivation for British colonization of Nigeria was to (JAMB 2004)",
+    "questionText": "The major motivation for British colonization of Nigeria was to",
     "options": [
       "westernize Nigerians",
       "spread religion",
@@ -12793,7 +12793,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-166-1254",
-    "questionText": "A specialized agency of the United Nations Organization is the (JAMB 2004)",
+    "questionText": "A specialized agency of the United Nations Organization is the",
     "options": [
       "International Court of Justice",
       "Internation Olympic Committee",
@@ -12805,7 +12805,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-167-1271",
-    "questionText": "A major influence on the formation of public opinion is (JAMB 2004)",
+    "questionText": "A major influence on the formation of public opinion is",
     "options": [
       "the family",
       "the mass media",
@@ -12817,7 +12817,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-168-1264",
-    "questionText": "Under the 1999 Constitution, the power to declare war is vested in the (JAMB 2004)",
+    "questionText": "Under the 1999 Constitution, the power to declare war is vested in the",
     "options": [
       "National Security Council",
       "legislature",
@@ -12829,7 +12829,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-169-1284",
-    "questionText": "One of the sources of a constitution is (JAMB 2004)",
+    "questionText": "One of the sources of a constitution is",
     "options": [
       "common law",
       "corporate law",
@@ -12841,7 +12841,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-170-1245",
-    "questionText": "The permanent members of the Security Council of the United Nations are (JAMB 2004)",
+    "questionText": "The permanent members of the Security Council of the United Nations are",
     "options": [
       "Germany, France, Poland, Hungary and China",
       "Britain, Japan, Australia, Germany and the United States",
@@ -12853,7 +12853,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-171-1261",
-    "questionText": "The Native Authority system was most effective and successful in (JAMB 2004)",
+    "questionText": "The Native Authority system was most effective and successful in",
     "options": [
       "Eastern Nigeria",
       "Northern Nigeria",
@@ -12865,7 +12865,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-172-1260",
-    "questionText": "A distinguishing feature of the 1979 Constitution was the (JAMB 2004)",
+    "questionText": "A distinguishing feature of the 1979 Constitution was the",
     "options": [
       "introduction of federal structure",
       "introduction of unicameralism into Nigeria",
@@ -12877,7 +12877,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-173-1279",
-    "questionText": "The economic basis of feudalism is (JAMB 2004)",
+    "questionText": "The economic basis of feudalism is",
     "options": [
       "trade",
       "capital",
@@ -12889,7 +12889,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-174-1283",
-    "questionText": "In a presidential system of government, the president checks the legislature through (JAMB 2004)",
+    "questionText": "In a presidential system of government, the president checks the legislature through",
     "options": [
       "executive review",
       "executive order",
@@ -12901,7 +12901,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-175-1259",
-    "questionText": "A common feature of the earlier political parties in Nigeria was that they (JAMB 2004)",
+    "questionText": "A common feature of the earlier political parties in Nigeria was that they",
     "options": [
       "were formed by the government",
       "started as a social-cultural organizations",
@@ -12913,7 +12913,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-176-1251",
-    "questionText": "The leaders who spearheaded the transformation of the Organization of African Unity into the African Union are from (JAMB 2004)",
+    "questionText": "The leaders who spearheaded the transformation of the Organization of African Unity into the African Union are from",
     "options": [
       "Nigeria, Libya and Kenya",
       "Algeria, Libya and Zambia",
@@ -12925,7 +12925,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-177-1247",
-    "questionText": "The countries in which Nigeria participated in the ECOMOG peace-keeping operations were (JAMB 2004)",
+    "questionText": "The countries in which Nigeria participated in the ECOMOG peace-keeping operations were",
     "options": [
       "Sierra Leone and Cote d'ivoire",
       "Liberia and Sierra Leone",
@@ -12937,7 +12937,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-178-1246",
-    "questionText": "The one-time president of the United Nations General Assembly was (JAMB 2004)",
+    "questionText": "The one-time president of the United Nations General Assembly was",
     "options": [
       "Joseph Garba",
       "Ibrahim Gambari",
@@ -12949,7 +12949,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-179-1257",
-    "questionText": "The two-chambers of elected national representatives in Nigeria are called (JAMB 2004)",
+    "questionText": "The two-chambers of elected national representatives in Nigeria are called",
     "options": [
       "the National Assembly",
       "House of Assembly",
@@ -12961,7 +12961,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-180-1282",
-    "questionText": "The creation of a classless society is the ultimate aim of (JAMB 2004)",
+    "questionText": "The creation of a classless society is the ultimate aim of",
     "options": [
       "fascism",
       "socialism",
@@ -12973,7 +12973,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-181-1258",
-    "questionText": "The pre-colonial Yoruba political system as a whole can best be described as a (JAMB 2004)",
+    "questionText": "The pre-colonial Yoruba political system as a whole can best be described as a",
     "options": [
       "federation of cheifdoms and localities",
       "confederation of chiefdoms and localities",
@@ -12985,7 +12985,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-182-1262",
-    "questionText": "Judicial administrations in respect of National Code of Conduct lies with the (JAMB 2004)",
+    "questionText": "Judicial administrations in respect of National Code of Conduct lies with the",
     "options": [
       "Pulic Complaints Commission",
       "Judicial Service Commission",
@@ -12997,7 +12997,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-183-1270",
-    "questionText": "Delegated legislation refers to the laws made by (JAMB 2004)",
+    "questionText": "Delegated legislation refers to the laws made by",
     "options": [
       "the legislature",
       "military governments",
@@ -13009,7 +13009,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-184-1278",
-    "questionText": "The agent through which the state undertakes political socialization is the (JAMB 2004)",
+    "questionText": "The agent through which the state undertakes political socialization is the",
     "options": [
       "pressure group",
       "peer group",
@@ -13021,7 +13021,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-185-1286",
-    "questionText": "In a democracy,sovereign authority is exercised by the (JAMB 2004)",
+    "questionText": "In a democracy,sovereign authority is exercised by the",
     "options": [
       "legislature",
       "people",
@@ -13033,7 +13033,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-186-1267",
-    "questionText": "The first franchise in the history of the democratic process is (JAMB 2004)",
+    "questionText": "The first franchise in the history of the democratic process is",
     "options": [
       "property franchise",
       "universal franchise",
@@ -13045,7 +13045,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-187-1292",
-    "questionText": "The immediate cause of the January 15 1966 military coup in Nigeria was the (JAMB 2004)",
+    "questionText": "The immediate cause of the January 15 1966 military coup in Nigeria was the",
     "options": [
       "crisis over the population census",
       "election crisis in the Western Region",
@@ -13057,7 +13057,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-188-1275",
-    "questionText": "In a unitary system of government,power is concentrated at the center (JAMB 2004)",
+    "questionText": "In a unitary system of government,power is concentrated at the center",
     "options": [
       "with devolution",
       "without residual functions",
@@ -13069,7 +13069,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-189-1289",
-    "questionText": "The body responsible for running the personal affairs of senior local government staff in Nigeria is the (JAMB 2004)",
+    "questionText": "The body responsible for running the personal affairs of senior local government staff in Nigeria is the",
     "options": [
       "Local Government Service Commission",
       "Local Government Council",
@@ -13081,7 +13081,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-190-1280",
-    "questionText": "Unicameral legislature is a common feature of (JAMB 2004)",
+    "questionText": "Unicameral legislature is a common feature of",
     "options": [
       "unitarism",
       "federalism",
@@ -13093,7 +13093,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-191-1281",
-    "questionText": "In a constitutional monarchy,the authority to remove the head of state is exercised by the (JAMB 2004)",
+    "questionText": "In a constitutional monarchy,the authority to remove the head of state is exercised by the",
     "options": [
       "head of government",
       "cabinet",
@@ -13105,7 +13105,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-192-1266",
-    "questionText": "Laws made by state governments are known as (JAMB 2004)",
+    "questionText": "Laws made by state governments are known as",
     "options": [
       "bye laws",
       "decrees",
@@ -13117,7 +13117,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-193-1290",
-    "questionText": "The 1976 Local Government Reforms in Nigeria transformed the relationship between states and local governments into one of (JAMB 2004)",
+    "questionText": "The 1976 Local Government Reforms in Nigeria transformed the relationship between states and local governments into one of",
     "options": [
       "equality",
       "master and servant",
@@ -13129,7 +13129,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-194-1273",
-    "questionText": "The highest grade in the civil service is known as the (JAMB 2004)",
+    "questionText": "The highest grade in the civil service is known as the",
     "options": [
       "administrative cadre",
       "executive cadre",
@@ -13141,7 +13141,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-195-1291",
-    "questionText": "The difference between commercialized and privatized companies is that in the former (JAMB 2004)",
+    "questionText": "The difference between commercialized and privatized companies is that in the former",
     "options": [
       "public ownership is dominant",
       "government subsidizes costs",
@@ -13153,7 +13153,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-196-1274",
-    "questionText": "The fundamental assumption on which the idea of the rule of law is based is (JAMB 2004)",
+    "questionText": "The fundamental assumption on which the idea of the rule of law is based is",
     "options": [
       "supremacy of the constitution",
       "rationality of human beings",
@@ -13165,7 +13165,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-197-1253",
-    "questionText": "The current Executive Secretary of the ECOWAS is (JAMB 2004)",
+    "questionText": "The current Executive Secretary of the ECOWAS is",
     "options": [
       "Mohammed Ibn Chambers",
       "Lansana Kouyate",
@@ -13177,7 +13177,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-198-1248",
-    "questionText": "With the admission of Asian and African countries to the Commonwealth, the Queen of England became the (JAMB 2004)",
+    "questionText": "With the admission of Asian and African countries to the Commonwealth, the Queen of England became the",
     "options": [
       "patron of the Commonwealth",
       "head of state of these countries",
@@ -13189,7 +13189,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-199-1269",
-    "questionText": "An interest group that admits members and conducts its affairs according to stated rules is described as (JAMB 2004)",
+    "questionText": "An interest group that admits members and conducts its affairs according to stated rules is described as",
     "options": [
       "organizational",
       "associational",
@@ -13201,7 +13201,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-200-1341",
-    "questionText": "During the Second Republic, the Great Nigerian People's Party won the governorship election in (JAMB 2005)",
+    "questionText": "During the Second Republic, the Great Nigerian People's Party won the governorship election in",
     "options": [
       "Sokoto and Bauchi States",
       "Borno and Gongola States",
@@ -13213,7 +13213,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-201-1309",
-    "questionText": "Under the emirate system,legislative functions were performed by the (JAMB 2005)",
+    "questionText": "Under the emirate system,legislative functions were performed by the",
     "options": [
       "Khadi",
       "Ulama",
@@ -13225,7 +13225,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-202-1320",
-    "questionText": "The principle of checks and balances empowers the judiciary to (JAMB 2005)",
+    "questionText": "The principle of checks and balances empowers the judiciary to",
     "options": [
       "invalidate the actions of the other arms",
       "administer the criminal justice system",
@@ -13237,7 +13237,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-203-1295",
-    "questionText": "Nigeria supports the South-South cooperation as a foreign policy objective for mutual understanding among (JAMB 2005)",
+    "questionText": "Nigeria supports the South-South cooperation as a foreign policy objective for mutual understanding among",
     "options": [
       "nations south of the equator",
       "sub-saharan African countries",
@@ -13249,7 +13249,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-204-1313",
-    "questionText": "The head of the Nigerian judiciary is the (JAMB 2005)",
+    "questionText": "The head of the Nigerian judiciary is the",
     "options": [
       "Solicitor-Genral of the Federation",
       "President of the Court of Appeal",
@@ -13261,7 +13261,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-205-1340",
-    "questionText": "The first successful disengagement of the military from politics in Nigeria was carried out by the government of (JAMB 2005)",
+    "questionText": "The first successful disengagement of the military from politics in Nigeria was carried out by the government of",
     "options": [
       "Abdusalami Abubakar",
       "Murtala/Obasanjo",
@@ -13273,7 +13273,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-206-1331",
-    "questionText": "Serfs are the dominated class under (JAMB 2005)",
+    "questionText": "Serfs are the dominated class under",
     "options": [
       "capitalism",
       "socialism",
@@ -13285,7 +13285,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-207-1337",
-    "questionText": "An elected legislator in a presidential system can loose his seat by (JAMB 2005)",
+    "questionText": "An elected legislator in a presidential system can loose his seat by",
     "options": [
       "a vote of no confidence",
       "impeachment",
@@ -13297,7 +13297,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-208-1312",
-    "questionText": "The failure of the assimilation policy necessitated of the introduction of (JAMB 2005)",
+    "questionText": "The failure of the assimilation policy necessitated of the introduction of",
     "options": [
       "direct rule",
       "indirect rule",
@@ -13309,7 +13309,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-209-1308",
-    "questionText": "The first federal constitution in Nigeria was the (JAMB 2005)",
+    "questionText": "The first federal constitution in Nigeria was the",
     "options": [
       "Lyttelton Constitution",
       "Independence Constitution",
@@ -13321,7 +13321,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-210-1297",
-    "questionText": "The Nigerian-Cameroon crisis over the Bakassi Peninsula occurred owing to the interpretation of the treaty of 1913 and the (JAMB 2005)",
+    "questionText": "The Nigerian-Cameroon crisis over the Bakassi Peninsula occurred owing to the interpretation of the treaty of 1913 and the",
     "options": [
       "resolution of the OAU",
       "Maroua Accord",
@@ -13333,7 +13333,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-211-1299",
-    "questionText": "An indication that Africa is still the center-peice of Nigeria's foreign policy was the creation of the (JAMB 2005)",
+    "questionText": "An indication that Africa is still the center-peice of Nigeria's foreign policy was the creation of the",
     "options": [
       "Ministry of Integration and Cooperation in Africa",
       "National Institute of Policy and Strategic Studies",
@@ -13345,7 +13345,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-212-1315",
-    "questionText": "Under the 1999 Constitution,the appointment of ministers and ambassadors must be ratified by the (JAMB 2005)",
+    "questionText": "Under the 1999 Constitution,the appointment of ministers and ambassadors must be ratified by the",
     "options": [
       "National Council of States",
       "Presidency",
@@ -13357,7 +13357,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-213-1322",
-    "questionText": "The major function of civil service is (JAMB 2005)",
+    "questionText": "The major function of civil service is",
     "options": [
       "providing relevant information on government",
       "keeping records of the activities of government",
@@ -13369,7 +13369,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-214-1327",
-    "questionText": "The final stage in the process of enacting legislation is (JAMB 2005)",
+    "questionText": "The final stage in the process of enacting legislation is",
     "options": [
       "final reading",
       "assent",
@@ -13381,7 +13381,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-215-1311",
-    "questionText": "A distinctive feature of the Richards Constitution was its provision for (JAMB 2005)",
+    "questionText": "A distinctive feature of the Richards Constitution was its provision for",
     "options": [
       "unofficial members in the Legislative Council",
       "a Legislative Council for the whole of Nigeria",
@@ -13393,7 +13393,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-216-1316",
-    "questionText": "In Nigeria,promotion of judges is the responsibility of the (JAMB 2005)",
+    "questionText": "In Nigeria,promotion of judges is the responsibility of the",
     "options": [
       "Judicial Service Commission",
       "Cheif Justice of the Federation",
@@ -13405,7 +13405,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-217-1335",
-    "questionText": "An unwritten Constitution is (JAMB 2005)",
+    "questionText": "An unwritten Constitution is",
     "options": [
       "entirely based on case laws",
       "completely sourced from parliamentary law",
@@ -13417,7 +13417,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-218-1343",
-    "questionText": "In local government administration, Chief and Council implies that (JAMB 2005)",
+    "questionText": "In local government administration, Chief and Council implies that",
     "options": [
       "the council operates independently of the chief authority",
       "members of the local council appoints the chief to the office",
@@ -13429,7 +13429,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-219-1302",
-    "questionText": "A Security Council resolution requires the concurrence of (JAMB 2005)",
+    "questionText": "A Security Council resolution requires the concurrence of",
     "options": [
       "1 of the 5 permanent members",
       "all of the 5 permanent members",
@@ -13441,7 +13441,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-220-1296",
-    "questionText": "Nigeria is rated in the Organization of Petroleum Exporting Countries as the (JAMB 2005)",
+    "questionText": "Nigeria is rated in the Organization of Petroleum Exporting Countries as the",
     "options": [
       "seventh largest oil producer",
       "sixth largest oil producer",
@@ -13453,7 +13453,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-221-1310",
-    "questionText": "The commission established to handle the electoral activities in the Second Republic of Nigeria was (JAMB 2005)",
+    "questionText": "The commission established to handle the electoral activities in the Second Republic of Nigeria was",
     "options": [
       "FEDECO",
       "NEC",
@@ -13465,7 +13465,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-222-1323",
-    "questionText": "The pressure group that resorts to unconventional methods to achieve its objectives is called (JAMB 2005)",
+    "questionText": "The pressure group that resorts to unconventional methods to achieve its objectives is called",
     "options": [
       "anomic group",
       "institutional group",
@@ -13477,7 +13477,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-223-1328",
-    "questionText": "How does the president relieve a minister of his appointment in a presidential system of government (JAMB 2005)",
+    "questionText": "How does the president relieve a minister of his appointment in a presidential system of government",
     "options": [
       "In consultation with the legislature",
       "After serving a full tenure",
@@ -13489,7 +13489,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-224-1333",
-    "questionText": "One of the foremost theorists of federalism was (JAMB 2005)",
+    "questionText": "One of the foremost theorists of federalism was",
     "options": [
       "Baron de Montesquieu",
       "Karl Marx",
@@ -13501,7 +13501,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-225-1304",
-    "questionText": "The atomic bomb tests carried out around the Sahara Desert made Nigeria sever relations with (JAMB 2005)",
+    "questionText": "The atomic bomb tests carried out around the Sahara Desert made Nigeria sever relations with",
     "options": [
       "The United States",
       "France",
@@ -13513,7 +13513,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-226-1338",
-    "questionText": "Under a parliamentary system of government, the cabinet holds office at the pleasure of the (JAMB 2005)",
+    "questionText": "Under a parliamentary system of government, the cabinet holds office at the pleasure of the",
     "options": [
       "opposition",
       "electorate",
@@ -13525,7 +13525,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-227-1324",
-    "questionText": "Citizenship acquired through marriage is referred to as (JAMB 2005)",
+    "questionText": "Citizenship acquired through marriage is referred to as",
     "options": [
       "honorary",
       "naturalization",
@@ -13537,7 +13537,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-228-1336",
-    "questionText": "The most important aspect of political participation in a democracy is (JAMB 2005)",
+    "questionText": "The most important aspect of political participation in a democracy is",
     "options": [
       "voting in elections",
       "attending political rallies",
@@ -13549,7 +13549,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-229-1329",
-    "questionText": "The study of government essentially facilitates the understanding of the (JAMB 2005)",
+    "questionText": "The study of government essentially facilitates the understanding of the",
     "options": [
       "functioning of the entire social formation",
       "organization of the executive arm of government",
@@ -13561,7 +13561,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-230-1321",
-    "questionText": "In a first-past-the-post electoral system, a candidate is declared when he (JAMB 2005)",
+    "questionText": "In a first-past-the-post electoral system, a candidate is declared when he",
     "options": [
       "records the highest number of votes cast",
       "obtains a two-thirds majority of the votes cast",
@@ -13573,7 +13573,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-231-1314",
-    "questionText": "In the First Republic,the official opposition party was the (JAMB 2005)",
+    "questionText": "In the First Republic,the official opposition party was the",
     "options": [
       "Action Group",
       "Northern People's Congress",
@@ -13585,7 +13585,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-232-1326",
-    "questionText": "On the basis of its structure,a political party can be classified as indirect if (JAMB 2005)",
+    "questionText": "On the basis of its structure,a political party can be classified as indirect if",
     "options": [
       "its membership is acquired through other groups",
       "it contests elections by proxy",
@@ -13597,7 +13597,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-233-1307",
-    "questionText": "The political party formed in 1923 by Herbert Macaulay was (JAMB 2005)",
+    "questionText": "The political party formed in 1923 by Herbert Macaulay was",
     "options": [
       "Nigerian Youth Movement",
       "National Council of Nigeria and the Cameroons",
@@ -13609,7 +13609,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-234-1305",
-    "questionText": "A member of the Commonwealth that still recognizes the British monarch as its Head of State is (JAMB 2005)",
+    "questionText": "A member of the Commonwealth that still recognizes the British monarch as its Head of State is",
     "options": [
       "Singapore",
       "Ghana",
@@ -13621,7 +13621,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-235-1325",
-    "questionText": "The method used to determine the possible outcome of an electoral contest is (JAMB 2005)",
+    "questionText": "The method used to determine the possible outcome of an electoral contest is",
     "options": [
       "press review",
       "plebiscite",
@@ -13633,7 +13633,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-236-1318",
-    "questionText": "The pre-colonial Tiv society can best be described as (JAMB 2005)",
+    "questionText": "The pre-colonial Tiv society can best be described as",
     "options": [
       "republican",
       "aristocratic",
@@ -13645,7 +13645,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-237-1306",
-    "questionText": "Nigeria's voting at the United Nations is guided primarily by (JAMB 2005)",
+    "questionText": "Nigeria's voting at the United Nations is guided primarily by",
     "options": [
       "her concern for Africa",
       "her national interests",
@@ -13657,7 +13657,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-238-1339",
-    "questionText": "A non-monarchical state can best be described as a (JAMB 2005)",
+    "questionText": "A non-monarchical state can best be described as a",
     "options": [
       "republic",
       "confederation",
@@ -13669,7 +13669,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-239-1334",
-    "questionText": "A major flaw in a liberal democracy is (JAMB 2005)",
+    "questionText": "A major flaw in a liberal democracy is",
     "options": [
       "the limitation of the freedom of expression",
       "its emphasis on political rights over economic rights",
@@ -13681,7 +13681,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-240-13",
-    "questionText": "A political ideology that defines a system of societal organization in which the state controls the commanding heights of the economy is called  (JAMB 2006)",
+    "questionText": "A political ideology that defines a system of societal organization in which the state controls the commanding heights of the economy is called",
     "options": [
       "Totalitarianism",
       "Communalism",
@@ -13693,7 +13693,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-241-12",
-    "questionText": "The agent of political socialization generally regarded as the most important is  (JAMB 2006)",
+    "questionText": "The agent of political socialization generally regarded as the most important is",
     "options": [
       "family",
       "peer group",
@@ -13705,7 +13705,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-242-11",
-    "questionText": "A political concept that defines  the beliefs, attitudes and values of a society is called  (JAMB 2006)",
+    "questionText": "A political concept that defines  the beliefs, attitudes and values of a society is called",
     "options": [
       "political socialization",
       "political culture",
@@ -13717,7 +13717,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461560-243-3",
-    "questionText": "Laws made by state   government are known as  (JAMB 2006)",
+    "questionText": "Laws made by state   government are known as",
     "options": [
       "edicts",
       "bye-law",
@@ -13729,7 +13729,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-244-5",
-    "questionText": "In a modern democracy, the ultimate source of sovereignty is the  (JAMB 2006)",
+    "questionText": "In a modern democracy, the ultimate source of sovereignty is the",
     "options": [
       "legislature and executive",
       "judiciary",
@@ -13741,7 +13741,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-245-7",
-    "questionText": "Politics is an act for  (JAMB 2006)",
+    "questionText": "Politics is an act for",
     "options": [
       "man to govern himself",
       "man to create governments",
@@ -13753,7 +13753,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-246-10",
-    "questionText": "A totalitarian state is based on   (JAMB 2006)",
+    "questionText": "A totalitarian state is based on",
     "options": [
       "multi-party system",
       "total protection of civic rights",
@@ -13765,7 +13765,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-247-6",
-    "questionText": "The British took over Nigeria through  (JAMB 2006)",
+    "questionText": "The British took over Nigeria through",
     "options": [
       "negotiation",
       "bargaining",
@@ -13777,7 +13777,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-248-20",
-    "questionText": "Into how many local government areas in Nigeria officially delineated?  (JAMB 2006)",
+    "questionText": "Into how many local government areas in Nigeria officially delineated?",
     "options": [
       "654",
       "650",
@@ -13789,7 +13789,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-249-1",
-    "questionText": "In which of the following countries is governmental powers most fused?  (JAMB 2006)",
+    "questionText": "In which of the following countries is governmental powers most fused?",
     "options": [
       "Nigeria",
       "United States of America",
@@ -13801,7 +13801,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-250-22",
-    "questionText": "Which of these men introduced indirect rule in Nigeria?  (JAMB 2006)",
+    "questionText": "Which of these men introduced indirect rule in Nigeria?",
     "options": [
       "Mungo Park",
       "Dr. Nnamdi Azikiwe",
@@ -13813,7 +13813,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-251-21",
-    "questionText": "The centenary anniversary of the amalgamation of Northern and Southern Nigeria will be celebrated in  (JAMB 2006)",
+    "questionText": "The centenary anniversary of the amalgamation of Northern and Southern Nigeria will be celebrated in",
     "options": [
       "2060",
       "2063",
@@ -13825,7 +13825,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-252-18",
-    "questionText": "Alhaji Shehu Shagari was sworn in as President of the Federal Republic of Nigeria in 1979 by  (JAMB 2006)",
+    "questionText": "Alhaji Shehu Shagari was sworn in as President of the Federal Republic of Nigeria in 1979 by",
     "options": [
       "Justice Fata Williams",
       "Justice Adetokunbo Ademola",
@@ -13837,7 +13837,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-253-16",
-    "questionText": "The military coup of July 25, 1975 which toppled General Yakubu Gowon from power  took place when he was attending which important event?  (JAMB 2006)",
+    "questionText": "The military coup of July 25, 1975 which toppled General Yakubu Gowon from power  took place when he was attending which important event?",
     "options": [
       "OAU Summit in Kampala",
       "UN General Assembly in New York",
@@ -13849,7 +13849,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-254-17",
-    "questionText": "Which of the following political parties did not participate in the 1979 General Elections in Nigeria?  (JAMB 2006)",
+    "questionText": "Which of the following political parties did not participate in the 1979 General Elections in Nigeria?",
     "options": [
       "Unity Party of Nigeria",
       "National Party of Nigeria",
@@ -13861,7 +13861,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-255-19",
-    "questionText": "The electorate is generally  understood to refer to  (JAMB 2006)",
+    "questionText": "The electorate is generally  understood to refer to",
     "options": [
       "elected members of the National- Assembly",
       "elected members of the state house of assembly",
@@ -13873,7 +13873,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-256-2",
-    "questionText": "The benefits of separation of powers include the following except  (JAMB 2006)",
+    "questionText": "The benefits of separation of powers include the following except",
     "options": [
       "prevention of tyranny",
       "check of abuse",
@@ -13885,7 +13885,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-257-4",
-    "questionText": "In a parliamentary system of government, the function of the head of state and the head of government are vested in  (JAMB 2006)",
+    "questionText": "In a parliamentary system of government, the function of the head of state and the head of government are vested in",
     "options": [
       "the inner cabinet",
       "an individual",
@@ -13897,7 +13897,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-258-15",
-    "questionText": "What was the primary purpose of the Sir Henry Willink Commission of Inquiry?  (JAMB 2006)",
+    "questionText": "What was the primary purpose of the Sir Henry Willink Commission of Inquiry?",
     "options": [
       "to approve the independence of Nigeria",
       "to allay the fears of minorities in Nigeria",
@@ -13909,7 +13909,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-259-9",
-    "questionText": "A nation consist of people with  (JAMB 2006)",
+    "questionText": "A nation consist of people with",
     "options": [
       "common history",
       "common ancestry",
@@ -13921,7 +13921,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-260-14",
-    "questionText": "Which of the following best describes French colonial policy in Africa?  (JAMB 2006)",
+    "questionText": "Which of the following best describes French colonial policy in Africa?",
     "options": [
       "policy of association",
       "policy of Casus Belli",
@@ -13933,7 +13933,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-261-37",
-    "questionText": "A capitalist state is based on  (JAMB 2007)",
+    "questionText": "A capitalist state is based on",
     "options": [
       "religion",
       "creating job opportunities",
@@ -13945,7 +13945,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-262-32",
-    "questionText": "A Nigerian who has been the secretary of the Commonwealth of Nations Organizations is  (JAMB 2007)",
+    "questionText": "A Nigerian who has been the secretary of the Commonwealth of Nations Organizations is",
     "options": [
       "Dr. Ibrahim Gambari",
       "Professor Adebayo Adedeji",
@@ -13957,7 +13957,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-263-38",
-    "questionText": "In politics, power is all of the following except  (JAMB 2007)",
+    "questionText": "In politics, power is all of the following except",
     "options": [
       "capacity to affect the actions of others",
       "ability to make people do things they otherwise not do",
@@ -13969,7 +13969,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-264-27",
-    "questionText": "Nigeria gained independence from colonial rule on  (JAMB 2007)",
+    "questionText": "Nigeria gained independence from colonial rule on",
     "options": [
       "1-Oct-60",
       "November, 1963",
@@ -13981,7 +13981,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-265-26",
-    "questionText": "The following countries are settler colonies except   (JAMB 2007)",
+    "questionText": "The following countries are settler colonies except",
     "options": [
       "Nigeria",
       "south Africa",
@@ -13993,7 +13993,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-266-36",
-    "questionText": "In which city was the ECOWAS Treaty signed  (JAMB 2007)",
+    "questionText": "In which city was the ECOWAS Treaty signed",
     "options": [
       "Lagos",
       "Banjul",
@@ -14005,7 +14005,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-267-28",
-    "questionText": "All but one of the following is not a symbol of political culture  (JAMB 2007)",
+    "questionText": "All but one of the following is not a symbol of political culture",
     "options": [
       "a national flag",
       "the government",
@@ -14017,7 +14017,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-268-30",
-    "questionText": "All but one of these is not a tactic adopted by pressure groups in the pursuit of their objectives  (JAMB 2007)",
+    "questionText": "All but one of these is not a tactic adopted by pressure groups in the pursuit of their objectives",
     "options": [
       "propaganda",
       "lobbying",
@@ -14029,7 +14029,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-269-29",
-    "questionText": "All but one of these is not an agency of political socialization  (JAMB 2007)",
+    "questionText": "All but one of these is not an agency of political socialization",
     "options": [
       "the constitution",
       "the family",
@@ -14041,7 +14041,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-270-35",
-    "questionText": "ECOWAS Treaty was signed on  (JAMB 2007)",
+    "questionText": "ECOWAS Treaty was signed on",
     "options": [
       "28-May-74",
       "1-Oct-60",
@@ -14053,7 +14053,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-271-33",
-    "questionText": "How many countries are in Africa?  (JAMB 2007)",
+    "questionText": "How many countries are in Africa?",
     "options": [
       "fifteen",
       "fifty-three",
@@ -14065,7 +14065,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-272-40",
-    "questionText": "These are common forms of governments except  (JAMB 2007)",
+    "questionText": "These are common forms of governments except",
     "options": [
       "federal",
       "Unitary",
@@ -14077,7 +14077,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-273-43",
-    "questionText": "The independence constitution of 1960  (JAMB 2007)",
+    "questionText": "The independence constitution of 1960",
     "options": [
       "introduced bicameral legislature",
       "catered for the three regions of Nigeria",
@@ -14089,7 +14089,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-274-41",
-    "questionText": "In a federal system  (JAMB 2007)",
+    "questionText": "In a federal system",
     "options": [
       "the centre is weak",
       "plurality is abnormal",
@@ -14101,7 +14101,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-275-46",
-    "questionText": "catered for the three  regions of Nigeria  (JAMB 2007)",
+    "questionText": "catered for the three  regions of Nigeria",
     "options": [
       "a renewed concept in international studies",
       "limited to the west",
@@ -14113,7 +14113,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-276-42",
-    "questionText": "The legislature performs the following functions except  (JAMB 2007)",
+    "questionText": "The legislature performs the following functions except",
     "options": [
       "determines the general direction of public policies",
       "investigating and monitoring the activities of the officials of government",
@@ -14125,7 +14125,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-277-23",
-    "questionText": "Democracy was first practiced in  (JAMB 2007)",
+    "questionText": "Democracy was first practiced in",
     "options": [
       "Ghana",
       "United States of America",
@@ -14137,7 +14137,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-278-39",
-    "questionText": "Every political system performs the following basic functions except  (JAMB 2007)",
+    "questionText": "Every political system performs the following basic functions except",
     "options": [
       "rule making",
       "rule transformation",
@@ -14149,7 +14149,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-279-34",
-    "questionText": "Economic Community of West African States (ECOWAS) was based on the initiative of the heads of state  of these two countries  (JAMB 2007)",
+    "questionText": "Economic Community of West African States (ECOWAS) was based on the initiative of the heads of state  of these two countries",
     "options": [
       "Nigeria and Ghana",
       "Nigeria and Togo",
@@ -14161,7 +14161,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-280-24",
-    "questionText": "Which of these countries has the highest population in West Africa?  (JAMB 2007)",
+    "questionText": "Which of these countries has the highest population in West Africa?",
     "options": [
       "Mauritania",
       "Ghana",
@@ -14173,7 +14173,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-281-31",
-    "questionText": "The following are Anglophone West African countries except  (JAMB 2007)",
+    "questionText": "The following are Anglophone West African countries except",
     "options": [
       "Ghana",
       "Nigeria",
@@ -14185,7 +14185,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-282-45",
-    "questionText": "The amalgamation of the northern and southern protectorates and the colony of Lagos was in (JAMB 2007)",
+    "questionText": "The amalgamation of the northern and southern protectorates and the colony of Lagos was in",
     "options": [
       "1960",
       "1966",
@@ -14197,7 +14197,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-283-44",
-    "questionText": "Nigeria became a republic in  (JAMB 2007)",
+    "questionText": "Nigeria became a republic in",
     "options": [
       "1960",
       "1961",
@@ -14209,7 +14209,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-284-25",
-    "questionText": "This African ruler resisted colonial rule and was later exiled by the colonial  officials  (JAMB 2007)",
+    "questionText": "This African ruler resisted colonial rule and was later exiled by the colonial  officials",
     "options": [
       "Alaafin of Oyo",
       "Oba of Benin",
@@ -14221,7 +14221,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-285-66",
-    "questionText": "ECOMOG was set up primarily to  (JAMB 2008)",
+    "questionText": "ECOMOG was set up primarily to",
     "options": [
       "drive away the Europeans from West Africa",
       "serve as a peace keeping force for ECOWAS",
@@ -14233,7 +14233,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-286-1349",
-    "questionText": "A key characteristics of the civil service is (JAMB 2008)",
+    "questionText": "A key characteristics of the civil service is",
     "options": [
       "transparency",
       "patriotism",
@@ -14245,7 +14245,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-287-1345",
-    "questionText": "The Organization of Petroleum Exporting Countries came into existence at a conference held in (JAMB 2008)",
+    "questionText": "The Organization of Petroleum Exporting Countries came into existence at a conference held in",
     "options": [
       "Tripoli",
       "Caracas",
@@ -14257,7 +14257,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-288-1372",
-    "questionText": "In the process of implementing laws, the executive sometimes performs (JAMB 2008)",
+    "questionText": "In the process of implementing laws, the executive sometimes performs",
     "options": [
       "judicial function",
       "bureaucratic function",
@@ -14269,7 +14269,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-289-55",
-    "questionText": "Under which of the following conditions can a Nigerian be deprived of is or her citizenship?  (JAMB 2008)",
+    "questionText": "Under which of the following conditions can a Nigerian be deprived of is or her citizenship?",
     "options": [
       "If married to a foreign National",
       "If one holds a dual citizenship",
@@ -14281,7 +14281,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-290-1359",
-    "questionText": "An institution that transforms a myriad of demands into a more manageable proposal is the (JAMB 2008)",
+    "questionText": "An institution that transforms a myriad of demands into a more manageable proposal is the",
     "options": [
       "executive",
       "legislature",
@@ -14293,7 +14293,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-291-60",
-    "questionText": "The government of one of the following countries operates an unwritten constitution  (JAMB 2008)",
+    "questionText": "The government of one of the following countries operates an unwritten constitution",
     "options": [
       "The United States",
       "The Union of Soviet Socialist Republics",
@@ -14305,7 +14305,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-292-1370",
-    "questionText": "One merit of a written constitution is its (JAMB 2008)",
+    "questionText": "One merit of a written constitution is its",
     "options": [
       "legibility",
       "total flexibility",
@@ -14317,7 +14317,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-293-62",
-    "questionText": "The EFCC was established to  (JAMB 2008)",
+    "questionText": "The EFCC was established to",
     "options": [
       "Arrest and try corrupt politicians",
       "Combat economic and financial crimes in Nigeria",
@@ -14329,7 +14329,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-294-1376",
-    "questionText": "Multi-laterism in Nigeria's foreign policy entails her (JAMB 2008)",
+    "questionText": "Multi-laterism in Nigeria's foreign policy entails her",
     "options": [
       "stand on Africa as the center piece of her policy",
       "non-aligned posture in the international system",
@@ -14341,7 +14341,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-295-1375",
-    "questionText": "Nigeria hosted the Commonwealth conference which eventually led to the independence of (JAMB 2008)",
+    "questionText": "Nigeria hosted the Commonwealth conference which eventually led to the independence of",
     "options": [
       "Mozambique",
       "Malawi",
@@ -14353,7 +14353,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-296-1377",
-    "questionText": "The first military coup in Nigeria toppled the government of (JAMB 2008)",
+    "questionText": "The first military coup in Nigeria toppled the government of",
     "options": [
       "General Yakubu Gowon",
       "Dr Nnamdi Azikiwe",
@@ -14365,7 +14365,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-297-1384",
-    "questionText": "Which of the following in the Sokoto Caliphate performed functions similar to that of the Bashorun in Oyo Kingdom (JAMB 2008)",
+    "questionText": "Which of the following in the Sokoto Caliphate performed functions similar to that of the Bashorun in Oyo Kingdom",
     "options": [
       "Waziri",
       "Galadima",
@@ -14377,7 +14377,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-298-1367",
-    "questionText": "An attribute that makes a state to be recognized as independent is (JAMB 2008)",
+    "questionText": "An attribute that makes a state to be recognized as independent is",
     "options": [
       "government",
       "population",
@@ -14389,7 +14389,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-299-1374",
-    "questionText": "A virile foreign policy is one characterized by (JAMB 2008)",
+    "questionText": "A virile foreign policy is one characterized by",
     "options": [
       "a vibrant press,vibrant public opinion and a dynamic civil society",
       "propaganda, espionage and economic embargoes",
@@ -14401,7 +14401,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-300-67",
-    "questionText": "The principle since independence include the following except  (JAMB 2008)",
+    "questionText": "The principle since independence include the following except",
     "options": [
       "peaceful coexistence",
       "legal equality of state",
@@ -14413,7 +14413,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-301-1351",
-    "questionText": "Which of the following is a perverted form of democracy? (JAMB 2008)",
+    "questionText": "Which of the following is a perverted form of democracy?",
     "options": [
       "Feudalism",
       "Republicanism",
@@ -14425,7 +14425,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-302-1361",
-    "questionText": "A major characteristic of a confederal state is that (JAMB 2008)",
+    "questionText": "A major characteristic of a confederal state is that",
     "options": [
       "there is supremacy of the constitution",
       "the citizens often owe allegiance to the centre",
@@ -14437,7 +14437,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-303-52",
-    "questionText": "The European Union (EU) is an  (JAMB 2008)",
+    "questionText": "The European Union (EU) is an",
     "options": [
       "Economic organization",
       "Association of former British colonies",
@@ -14449,7 +14449,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-304-1383",
-    "questionText": "In orientation, early nationalism in Nigeria was essentially (JAMB 2008)",
+    "questionText": "In orientation, early nationalism in Nigeria was essentially",
     "options": [
       "revolutionary",
       "reformist",
@@ -14461,7 +14461,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-305-59",
-    "questionText": "What does INEC stand for?  (JAMB 2008)",
+    "questionText": "What does INEC stand for?",
     "options": [
       "Independent National Elections Committee",
       "Independent Newspapers executive Committee",
@@ -14473,7 +14473,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-306-1385",
-    "questionText": "Problems arising from population census in Nigeria are mainly caused by (JAMB 2008)",
+    "questionText": "Problems arising from population census in Nigeria are mainly caused by",
     "options": [
       "public opinions of the people",
       "unreliable census figures",
@@ -14485,7 +14485,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-307-1392",
-    "questionText": "Public corporations are established to (JAMB 2008)",
+    "questionText": "Public corporations are established to",
     "options": [
       "reduce government spending",
       "boost government revenue",
@@ -14497,7 +14497,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-308-1373",
-    "questionText": "Which of the following justifies the Afro-centric foreign policy of Nigeria? (JAMB 2008)",
+    "questionText": "Which of the following justifies the Afro-centric foreign policy of Nigeria?",
     "options": [
       "Her location in the West African sub-region",
       "Her colonization by a foriegn power",
@@ -14509,7 +14509,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-309-50",
-    "questionText": "Nigeria became a republic on  (JAMB 2008)",
+    "questionText": "Nigeria became a republic on",
     "options": [
       "29-May-99",
       "1-Oct-60",
@@ -14521,7 +14521,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-310-1346",
-    "questionText": "ECOWAS main achievement in recent years has been in the area of (JAMB 2008)",
+    "questionText": "ECOWAS main achievement in recent years has been in the area of",
     "options": [
       "infrastructural development",
       "cultural integration",
@@ -14533,7 +14533,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-311-1347",
-    "questionText": "In which of the following countries has the UN carried out peace-keeping operations? (JAMB 2008)",
+    "questionText": "In which of the following countries has the UN carried out peace-keeping operations?",
     "options": [
       "Cyprus, Singapore and South Africa",
       "Lebanon, the Congo and Mexico",
@@ -14545,7 +14545,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-312-72",
-    "questionText": "In the pre-colonial era, which of the following was not a feature of the emirate administration?  (JAMB 2008)",
+    "questionText": "In the pre-colonial era, which of the following was not a feature of the emirate administration?",
     "options": [
       "Madawakin",
       "Waziri",
@@ -14557,7 +14557,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-313-1363",
-    "questionText": "An advantage of delegated legislation is (JAMB 2008)",
+    "questionText": "An advantage of delegated legislation is",
     "options": [
       "supremacy",
       "convenience",
@@ -14569,7 +14569,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-314-1344",
-    "questionText": "A member of the Commonwealth that was not colonized by Britain is (JAMB 2008)",
+    "questionText": "A member of the Commonwealth that was not colonized by Britain is",
     "options": [
       "Malaysia",
       "Uganda",
@@ -14581,7 +14581,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-315-64",
-    "questionText": "In many countries, citizenship can be acquired through the following processes except  (JAMB 2008)",
+    "questionText": "In many countries, citizenship can be acquired through the following processes except",
     "options": [
       "nationalization",
       "naturalization",
@@ -14593,7 +14593,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-316-1381",
-    "questionText": "A major shortcoming of the Lyttelton Constitution was that (JAMB 2008)",
+    "questionText": "A major shortcoming of the Lyttelton Constitution was that",
     "options": [
       "the Governor-General continued to head the government",
       "no provision was made for the office of the prime minister",
@@ -14605,7 +14605,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-317-1354",
-    "questionText": "The right that enables citizens to express their electoral preferences is (JAMB 2008)",
+    "questionText": "The right that enables citizens to express their electoral preferences is",
     "options": [
       "Franchise",
       "suffrage",
@@ -14617,7 +14617,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-318-58",
-    "questionText": "Free education was introduced in west region by which of these premiers?  (JAMB 2008)",
+    "questionText": "Free education was introduced in west region by which of these premiers?",
     "options": [
       "Chief Obafemi Awolowo",
       "Chief S.L. Akintola",
@@ -14629,7 +14629,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-319-1355",
-    "questionText": "Membership of a society is (JAMB 2008)",
+    "questionText": "Membership of a society is",
     "options": [
       "reserved",
       "voluntary",
@@ -14641,7 +14641,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-320-1388",
-    "questionText": "The Nigerian federalism is a (JAMB 2008)",
+    "questionText": "The Nigerian federalism is a",
     "options": [
       "four-tier system",
       "three-tier system",
@@ -14653,7 +14653,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-321-51",
-    "questionText": "Which of the following is not one of the functions of the modern legislatures?  (JAMB 2008)",
+    "questionText": "Which of the following is not one of the functions of the modern legislatures?",
     "options": [
       "making laws",
       "collecting taxes",
@@ -14665,7 +14665,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-322-1353",
-    "questionText": "A characteristic of a fascist state is the existence of a (JAMB 2008)",
+    "questionText": "A characteristic of a fascist state is the existence of a",
     "options": [
       "zero-party system",
       "two-party system",
@@ -14677,7 +14677,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-323-1387",
-    "questionText": "The 1989 Nigerian Constitution provided for a (JAMB 2008)",
+    "questionText": "The 1989 Nigerian Constitution provided for a",
     "options": [
       "multi-party system",
       "zero-party system",
@@ -14689,7 +14689,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-324-70",
-    "questionText": "Which of the following is not  a feature of Nigeria’s electoral system?  (JAMB 2008)",
+    "questionText": "Which of the following is not  a feature of Nigeria’s electoral system?",
     "options": [
       "direct election",
       "proportional representation",
@@ -14701,7 +14701,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-325-90",
-    "questionText": "One of the functions of the ministry of External Affairs is the  (JAMB 2009)",
+    "questionText": "One of the functions of the ministry of External Affairs is the",
     "options": [
       "Deportation of illegal aliens",
       "Issuance of passports",
@@ -14713,7 +14713,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-326-1413",
-    "questionText": "Which of the following countries has withdrawn her membership of the ECOWAS (JAMB 2009)",
+    "questionText": "Which of the following countries has withdrawn her membership of the ECOWAS",
     "options": [
       "Senegal",
       "Mauritania",
@@ -14725,7 +14725,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-327-1397",
-    "questionText": "In the Second Republic, the total membership of each House of Assembly was determined by the (JAMB 2009)",
+    "questionText": "In the Second Republic, the total membership of each House of Assembly was determined by the",
     "options": [
       "electoral commission",
       "political parties",
@@ -14737,7 +14737,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-328-76",
-    "questionText": "A system in which no single person serves as the chief executive  is know as  (JAMB 2009)",
+    "questionText": "A system in which no single person serves as the chief executive  is know as",
     "options": [
       "republican",
       "Revolutionary",
@@ -14749,7 +14749,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-329-1418",
-    "questionText": "Power refers to (JAMB 2009)",
+    "questionText": "Power refers to",
     "options": [
       "ability to impose one's will upon others",
       "legal nature of a constitution",
@@ -14761,7 +14761,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-330-1441",
-    "questionText": "The set of policies on the basis of which countries interact with one another is called (JAMB 2009)",
+    "questionText": "The set of policies on the basis of which countries interact with one another is called",
     "options": [
       "constructive engagement policy",
       "socio-economic policy",
@@ -14773,7 +14773,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-331-97",
-    "questionText": "Universal Adult Suffrage means all  (JAMB 2009)",
+    "questionText": "Universal Adult Suffrage means all",
     "options": [
       "Adult citizens can vote",
       "citizens vote",
@@ -14785,7 +14785,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-332-1431",
-    "questionText": "Which of the following is a duty of an electoral commission (JAMB 2009)",
+    "questionText": "Which of the following is a duty of an electoral commission",
     "options": [
       "Registeration of political parties",
       "Creation of political parties",
@@ -14797,7 +14797,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-333-1403",
-    "questionText": "The participation of Nigerians in the Second World War created in the nationalists the awareness that the (JAMB 2009)",
+    "questionText": "The participation of Nigerians in the Second World War created in the nationalists the awareness that the",
     "options": [
       "Africans were superior",
       "Africans were more qualified to rule",
@@ -14809,7 +14809,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-334-1429",
-    "questionText": "The principle that advocates strict adherence to the fundamental laws of a country is (JAMB 2009)",
+    "questionText": "The principle that advocates strict adherence to the fundamental laws of a country is",
     "options": [
       "constitutionalism",
       "individual responsibility",
@@ -14821,7 +14821,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-335-1415",
-    "questionText": "The AU's right to intervene in a member country in crisis portrays it as (JAMB 2009)",
+    "questionText": "The AU's right to intervene in a member country in crisis portrays it as",
     "options": [
       "an international organization",
       "a regional organization",
@@ -14833,7 +14833,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-336-81",
-    "questionText": "A condition for judicial indolence is the appointment of judges by the   (JAMB 2009)",
+    "questionText": "A condition for judicial indolence is the appointment of judges by the",
     "options": [
       "civil service commission",
       "judicial service commission",
@@ -14845,7 +14845,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-337-1437",
-    "questionText": "Citizenship of a state by descent requires that (JAMB 2009)",
+    "questionText": "Citizenship of a state by descent requires that",
     "options": [
       "one is born and bred in the state",
       "one's mother was born in the state",
@@ -14857,7 +14857,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-338-87",
-    "questionText": "Public opinion is important because it  (JAMB 2009)",
+    "questionText": "Public opinion is important because it",
     "options": [
       "Tells government what action it must take",
       "Lets government know what the people want",
@@ -14869,7 +14869,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-339-1433",
-    "questionText": "Fascism as an ideology facilitates (JAMB 2009)",
+    "questionText": "Fascism as an ideology facilitates",
     "options": [
       "totalitarianism",
       "socialism",
@@ -14881,7 +14881,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-340-75",
-    "questionText": "In a parliamentary system, who ensures that members are in the house to vote on major issues?  (JAMB 2009)",
+    "questionText": "In a parliamentary system, who ensures that members are in the house to vote on major issues?",
     "options": [
       "party leaders",
       "speaker of the house",
@@ -14893,7 +14893,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-341-93",
-    "questionText": "In the Marxist theory, those who live by selling, their labour are called  (JAMB 2009)",
+    "questionText": "In the Marxist theory, those who live by selling, their labour are called",
     "options": [
       "Bourgeoisie",
       "Proletariat",
@@ -14905,7 +14905,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-342-1426",
-    "questionText": "Collective ownership of property is associated with (JAMB 2009)",
+    "questionText": "Collective ownership of property is associated with",
     "options": [
       "feudalism",
       "communism",
@@ -14917,7 +14917,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-343-1425",
-    "questionText": "Democracy is a system of government that is (JAMB 2009)",
+    "questionText": "Democracy is a system of government that is",
     "options": [
       "constituted by the will of the majority of the citizens",
       "imposed on the majority of the citizens",
@@ -14929,7 +14929,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-344-1408",
-    "questionText": "Which of the following influenced nationalist activities in Nigeria? (JAMB 2009)",
+    "questionText": "Which of the following influenced nationalist activities in Nigeria?",
     "options": [
       "Indian Congress Party",
       "Negro Diaspora Congress",
@@ -14941,7 +14941,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-345-1405",
-    "questionText": "The power to nominate members of the judiciary at the federal level under the 1999 Constitution is vested in the (JAMB 2009)",
+    "questionText": "The power to nominate members of the judiciary at the federal level under the 1999 Constitution is vested in the",
     "options": [
       "Federal Judicial Service Commission",
       "Supreme Court",
@@ -14953,7 +14953,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-346-88",
-    "questionText": "Bicameral legislature exists  (JAMB 2009)",
+    "questionText": "Bicameral legislature exists",
     "options": [
       "where two cameras are used to monitor court proceedings",
       "To prevent the concentration of power on legislative house",
@@ -14965,7 +14965,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-347-94",
-    "questionText": "Which of the following NOT an acceptable means of achieving democracy?  (JAMB 2009)",
+    "questionText": "Which of the following NOT an acceptable means of achieving democracy?",
     "options": [
       "Referendums",
       "Recall",
@@ -14977,7 +14977,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-348-1430",
-    "questionText": "One advantage of the unitary system over the federal system is the (JAMB 2009)",
+    "questionText": "One advantage of the unitary system over the federal system is the",
     "options": [
       "bureaucratic nature",
       "cost effectiveness",
@@ -14989,7 +14989,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-349-1423",
-    "questionText": "In a cabinet system, the legislature comprises of the (JAMB 2009)",
+    "questionText": "In a cabinet system, the legislature comprises of the",
     "options": [
       "prime minister and members of the parliament",
       "prime minister and members of the jury",
@@ -15001,7 +15001,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-350-1422",
-    "questionText": "Occupational pressure groups pursue their objectives mainly by (JAMB 2009)",
+    "questionText": "Occupational pressure groups pursue their objectives mainly by",
     "options": [
       "issuing ultimatums and embarking on strikes",
       "alienating the government",
@@ -15013,7 +15013,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-351-84",
-    "questionText": "One of these was in existence  before the outbreak of the Second World War  (JAMB 2009)",
+    "questionText": "One of these was in existence  before the outbreak of the Second World War",
     "options": [
       "The OAU",
       "League of Nations",
@@ -15025,7 +15025,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-352-1439",
-    "questionText": "A state with a hegemonic political party is one in which (JAMB 2009)",
+    "questionText": "A state with a hegemonic political party is one in which",
     "options": [
       "there is one dominant party",
       "there is no opposition party",
@@ -15037,7 +15037,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-353-1435",
-    "questionText": "The executive checks the excesses of the legislature through (JAMB 2009)",
+    "questionText": "The executive checks the excesses of the legislature through",
     "options": [
       "assent to bills",
       "the use of veto power",
@@ -15049,7 +15049,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-354-1400",
-    "questionText": "In the Igbo political system, the most senior member of the council of elders is the (JAMB 2009)",
+    "questionText": "In the Igbo political system, the most senior member of the council of elders is the",
     "options": [
       "Okpara",
       "Obi",
@@ -15061,7 +15061,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-355-1416",
-    "questionText": "The permanent membership of the UN Security Council is (JAMB 2009)",
+    "questionText": "The permanent membership of the UN Security Council is",
     "options": [
       "ten",
       "fifteen",
@@ -15073,7 +15073,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-356-1427",
-    "questionText": "The agency responsible for investigating allegations of maladministration in the civil service is the (JAMB 2009)",
+    "questionText": "The agency responsible for investigating allegations of maladministration in the civil service is the",
     "options": [
       "Federal Civil Service Commission",
       "Code of Conduct Bureau",
@@ -15085,7 +15085,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-357-1421",
-    "questionText": "Values beliefs and orientation of a political system are internalized through (JAMB 2009)",
+    "questionText": "Values beliefs and orientation of a political system are internalized through",
     "options": [
       "political culture",
       "political socialization",
@@ -15097,7 +15097,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-358-1419",
-    "questionText": "Prorogation is the bringing of a session of a parliament to an end through (JAMB 2009)",
+    "questionText": "Prorogation is the bringing of a session of a parliament to an end through",
     "options": [
       "royal proclamation",
       "final reading",
@@ -15109,7 +15109,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-359-1414",
-    "questionText": "Which of the following is a major threat to OPEC? (JAMB 2009)",
+    "questionText": "Which of the following is a major threat to OPEC?",
     "options": [
       "Persistence of war in the Middle East",
       "The discovery of crude oil in more countries",
@@ -15121,7 +15121,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-360-1406",
-    "questionText": "Prior to 1976, the local government system practiced in Northern Nigeria was (JAMB 2009)",
+    "questionText": "Prior to 1976, the local government system practiced in Northern Nigeria was",
     "options": [
       "chief-and-council",
       "chief-in-council",
@@ -15133,7 +15133,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-361-1428",
-    "questionText": "A political entity that possesses independence is a (JAMB 2009)",
+    "questionText": "A political entity that possesses independence is a",
     "options": [
       "community",
       "nation",
@@ -15145,7 +15145,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-362-1410",
-    "questionText": "Pacification refers to a process through which some areas in Nigeria were acquired by (JAMB 2009)",
+    "questionText": "Pacification refers to a process through which some areas in Nigeria were acquired by",
     "options": [
       "military conquest",
       "gunboat diplomacy",
@@ -15157,7 +15157,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-363-1396",
-    "questionText": "The six African members of the Nigerian Council were nominated by the (JAMB 2009)",
+    "questionText": "The six African members of the Nigerian Council were nominated by the",
     "options": [
       "Queen",
       "district officers",
@@ -15169,7 +15169,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-364-1407",
-    "questionText": "In the segmented Tiv society, governance was usually confined to (JAMB 2009)",
+    "questionText": "In the segmented Tiv society, governance was usually confined to",
     "options": [
       "age grade",
       "chiefdom",
@@ -15181,7 +15181,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-365-100",
-    "questionText": "Under the 1963 Republican constitution the president exercise  (JAMB 2010)",
+    "questionText": "Under the 1963 Republican constitution the president exercise",
     "options": [
       "judicial powers",
       "executive powers",
@@ -15193,7 +15193,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-366-444",
-    "questionText": "The General Purpose Committee of the local government is the (JAMB 2010)",
+    "questionText": "The General Purpose Committee of the local government is the",
     "options": [
       "body responsible for supervising self-help projects",
       "local government public relations unit",
@@ -15205,7 +15205,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-367-447",
-    "questionText": "Nigeria broke diplomatic relations with France in 1961 because of: (JAMB 2010)",
+    "questionText": "Nigeria broke diplomatic relations with France in 1961 because of:",
     "options": [
       "her poor relations with the francophone countries",
       "General de-Gaulle’s negative attitude towards her",
@@ -15217,7 +15217,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-368-109",
-    "questionText": "A state with a hegemonic party is one in which  (JAMB 2010)",
+    "questionText": "A state with a hegemonic party is one in which",
     "options": [
       "there is one dominant party",
       "there is no opposition party",
@@ -15229,7 +15229,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-369-428",
-    "questionText": "Who was the political head of the Old Oyo Empire? (JAMB 2010)",
+    "questionText": "Who was the political head of the Old Oyo Empire?",
     "options": [
       "Aremo.",
       "Oyomesi.",
@@ -15241,7 +15241,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-370-433",
-    "questionText": "Which of these rulers resisted colonial rule and was deported to Calabar? (JAMB 2010)",
+    "questionText": "Which of these rulers resisted colonial rule and was deported to Calabar?",
     "options": [
       "Oba Ovoramwen.",
       "King Dosunmu",
@@ -15253,7 +15253,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-371-419",
-    "questionText": "In a cabinet system of government, executive power is exercised by the (JAMB 2010)",
+    "questionText": "In a cabinet system of government, executive power is exercised by the",
     "options": [
       "president",
       "monarch",
@@ -15265,7 +15265,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-372-438",
-    "questionText": "A major shortcoming of the Ombudsman is (JAMB 2010)",
+    "questionText": "A major shortcoming of the Ombudsman is",
     "options": [
       "its inability to restrain bureaucratic excesses",
       "lack of clear-cut mandate",
@@ -15277,7 +15277,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-373-436",
-    "questionText": "The first law-making body in Nigeria after amalgamation was (JAMB 2010)",
+    "questionText": "The first law-making body in Nigeria after amalgamation was",
     "options": [
       "Legislative Council",
       "National Assembly",
@@ -15289,7 +15289,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-374-424",
-    "questionText": "In theory, one major advantage of the one-party systems is that it (JAMB 2010)",
+    "questionText": "In theory, one major advantage of the one-party systems is that it",
     "options": [
       "promotes greater mass participation in government",
       "serves as an instrument of national integration",
@@ -15301,7 +15301,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-375-413",
-    "questionText": "In a parliamentary system, when the legislature passes a vote of no confidence on the executive, it means that the (JAMB 2010)",
+    "questionText": "In a parliamentary system, when the legislature passes a vote of no confidence on the executive, it means that the",
     "options": [
       "executive is required to resign",
       "legislature ceases to trust the executive",
@@ -15313,7 +15313,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-376-110",
-    "questionText": "In the First Republic, Politics in Northern Nigeria was dominated by:  (JAMB 2010)",
+    "questionText": "In the First Republic, Politics in Northern Nigeria was dominated by:",
     "options": [
       "NEPU",
       "UMBC",
@@ -15325,7 +15325,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-377-429",
-    "questionText": "The Igbo political system was based on (JAMB 2010)",
+    "questionText": "The Igbo political system was based on",
     "options": [
       "family ties",
       "Umunna",
@@ -15337,7 +15337,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461561-378-118",
-    "questionText": "Multilaterism in Nigeria’s foreign policy entails  (JAMB 2010)",
+    "questionText": "Multilaterism in Nigeria’s foreign policy entails",
     "options": [
       "Africa being the centre piece of Nigeria’s foreign policy",
       "Non aligned posture in international affairs",
@@ -15349,7 +15349,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-379-119",
-    "questionText": "The ancient Greeks practiced:  (JAMB 2010)",
+    "questionText": "The ancient Greeks practiced:",
     "options": [
       "direct democracy",
       "representative democracy",
@@ -15361,7 +15361,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-380-416",
-    "questionText": "The upper house in most federal systems is created to (JAMB 2010)",
+    "questionText": "The upper house in most federal systems is created to",
     "options": [
       "oversee and check the lower house",
       "prevent excesses of the executive",
@@ -15373,7 +15373,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-381-415",
-    "questionText": "Unicameralism is a feature of the legislature in (JAMB 2010)",
+    "questionText": "Unicameralism is a feature of the legislature in",
     "options": [
       "the United Kingdom",
       "the United States",
@@ -15385,7 +15385,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-382-431",
-    "questionText": "France introduced the policy of assimilation in her colonies primarily to (JAMB 2010)",
+    "questionText": "France introduced the policy of assimilation in her colonies primarily to",
     "options": [
       "change their way of life",
       "give them a sound education",
@@ -15397,7 +15397,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-383-425",
-    "questionText": "A tactic employed by pressure groups to achieve their objectives is (JAMB 2010)",
+    "questionText": "A tactic employed by pressure groups to achieve their objectives is",
     "options": [
       "propaganda",
       "electioneering campaign",
@@ -15409,7 +15409,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-384-101",
-    "questionText": "The Clifford Constitution was notable for  (JAMB 2010)",
+    "questionText": "The Clifford Constitution was notable for",
     "options": [
       "amalgamating the Northern and southern provinces",
       "introducing indirect rule",
@@ -15421,7 +15421,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-385-114",
-    "questionText": "Equality before the law is a component of:  (JAMB 2010)",
+    "questionText": "Equality before the law is a component of:",
     "options": [
       "separation of powers",
       "checks and balances",
@@ -15433,7 +15433,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-386-437",
-    "questionText": "The designation of ministers as chief executives and accounting officers was recommended by a commission headed by (JAMB 2010)",
+    "questionText": "The designation of ministers as chief executives and accounting officers was recommended by a commission headed by",
     "options": [
       "Simeon Adebo",
       "S.J.Cookey",
@@ -15445,7 +15445,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-387-422",
-    "questionText": "16.\tThe rights of a citizen can be withdrawn by the state if the person (JAMB 2010)",
+    "questionText": "16.\tThe rights of a citizen can be withdrawn by the state if the person",
     "options": [
       "is convicted of a serious crime",
       "leaves the country permanently",
@@ -15457,7 +15457,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-388-414",
-    "questionText": "The legislative body of the United States of America is the (JAMB 2010)",
+    "questionText": "The legislative body of the United States of America is the",
     "options": [
       "Congress",
       "National Assembly",
@@ -15469,7 +15469,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-389-440",
-    "questionText": "In which of the following is the ceremonial and executive powers fused? (JAMB 2010)",
+    "questionText": "In which of the following is the ceremonial and executive powers fused?",
     "options": [
       "Federal system of government",
       "Parliamentary system of government",
@@ -15481,7 +15481,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-390-103",
-    "questionText": "During the period 1960-1966, Nigerian was governed under the  (JAMB 2010)",
+    "questionText": "During the period 1960-1966, Nigerian was governed under the",
     "options": [
       "presidential system of government",
       "Westminster system of government",
@@ -15493,7 +15493,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-391-122",
-    "questionText": "One of the distinctive features of a democracy is that it  (JAMB 2010)",
+    "questionText": "One of the distinctive features of a democracy is that it",
     "options": [
       "Connotes civil rule",
       "facilitates popular participation",
@@ -15505,7 +15505,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-392-113",
-    "questionText": "A special election organized to decide on a political issue is known as  (JAMB 2010)",
+    "questionText": "A special election organized to decide on a political issue is known as",
     "options": [
       "plebiscite",
       "by-election",
@@ -15517,7 +15517,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-393-454",
-    "questionText": "The tenure of non-permanent members of the Security Council is (JAMB 2010)",
+    "questionText": "The tenure of non-permanent members of the Security Council is",
     "options": [
       "4 years",
       "2 years",
@@ -15529,7 +15529,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-394-102",
-    "questionText": "In a federal constitution, legislative powers that are shared by two levels of government are referred to as  (JAMB 2010)",
+    "questionText": "In a federal constitution, legislative powers that are shared by two levels of government are referred to as",
     "options": [
       "exclusive",
       "extra-ordinary",
@@ -15541,7 +15541,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-395-420",
-    "questionText": "The principle of separation of powers is best practiced in the (JAMB 2010)",
+    "questionText": "The principle of separation of powers is best practiced in the",
     "options": [
       "monarchical system",
       "parliamentary system.",
@@ -15553,7 +15553,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-396-417",
-    "questionText": "In which of the following systems is the power of the component units more than that of the central government? (JAMB 2010)",
+    "questionText": "In which of the following systems is the power of the component units more than that of the central government?",
     "options": [
       "Unitary.",
       "Federal.",
@@ -15565,7 +15565,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-397-120",
-    "questionText": "Fascism originated from  (JAMB 2010)",
+    "questionText": "Fascism originated from",
     "options": [
       "Greece",
       "Italy",
@@ -15577,7 +15577,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-398-445",
-    "questionText": "The highest organ of the state during the Babangida Regime was the (JAMB 2010)",
+    "questionText": "The highest organ of the state during the Babangida Regime was the",
     "options": [
       "Armed Forces Ruling Council",
       "Supreme Military Council",
@@ -15589,7 +15589,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-399-453",
-    "questionText": "One major function of the Authority of Heads of State and Government of ECOWAS is (JAMB 2010)",
+    "questionText": "One major function of the Authority of Heads of State and Government of ECOWAS is",
     "options": [
       "appointing staff of the Secretariat",
       "appointing the Executive Secretary",
@@ -15601,7 +15601,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-400-446",
-    "questionText": "Decree 34 of 1966 was unacceptable to many Nigerians because it was (JAMB 2010)",
+    "questionText": "Decree 34 of 1966 was unacceptable to many Nigerians because it was",
     "options": [
       "promulgated without consultation with the people",
       "perceived to abolish the federal system",
@@ -15613,7 +15613,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-401-443",
-    "questionText": "Parastatals are established to (JAMB 2010)",
+    "questionText": "Parastatals are established to",
     "options": [
       "expand business transactions",
       "maximize government profits",
@@ -15625,7 +15625,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-402-410",
-    "questionText": "A form of oligarchy in which gifted people are at the helm of affairs is (JAMB 2010)",
+    "questionText": "A form of oligarchy in which gifted people are at the helm of affairs is",
     "options": [
       "plutocracy",
       "theocracy",
@@ -15637,7 +15637,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-403-142",
-    "questionText": "The Nigeria-Cameroon crisis over Bakaasi peninsula occurred owning to the interpretation of the Treaty of 1913 and the: (JAMB 2011)",
+    "questionText": "The Nigeria-Cameroon crisis over Bakaasi peninsula occurred owning to the interpretation of the Treaty of 1913 and the:",
     "options": [
       "resolution of the OAU",
       "Maroua Accord",
@@ -15649,7 +15649,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-404-138",
-    "questionText": "Associations whose main interest is to influence public policies without attempting to capture state power are:  (JAMB 2011)",
+    "questionText": "Associations whose main interest is to influence public policies without attempting to capture state power are:",
     "options": [
       "communal groups",
       "trade unions",
@@ -15661,7 +15661,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-405-144",
-    "questionText": "Nigeria’s non-aligned policy was criticized because of the:  (JAMB 2011)",
+    "questionText": "Nigeria’s non-aligned policy was criticized because of the:",
     "options": [
       "ECOWAS Treaty",
       "Nuclear Test Ban Treaty",
@@ -15673,7 +15673,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-406-134",
-    "questionText": "A law passed by the legislature and assented to by the executive is:  (JAMB 2011)",
+    "questionText": "A law passed by the legislature and assented to by the executive is:",
     "options": [
       "an act",
       "a presidential proclamation",
@@ -15685,7 +15685,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-407-147",
-    "questionText": "A major flaw in liberal democracy is:  (JAMB 2011)",
+    "questionText": "A major flaw in liberal democracy is:",
     "options": [
       "the limitation of the freedom of expression",
       "its emphasis on political rights over economic rights",
@@ -15697,7 +15697,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-408-127",
-    "questionText": "The principle of federal character was first enunciated in the:  (JAMB 2011)",
+    "questionText": "The principle of federal character was first enunciated in the:",
     "options": [
       "1989 constitution",
       "1963 constitution",
@@ -15709,7 +15709,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-409-130",
-    "questionText": "A major feature of the policy of deregulation in Nigeria is the:  (JAMB 2011)",
+    "questionText": "A major feature of the policy of deregulation in Nigeria is the:",
     "options": [
       "enthronement of market forces mechanism",
       "increasing dominance of the economy by the state",
@@ -15721,7 +15721,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-410-136",
-    "questionText": "In a parliamentary, the term shadow cabinet is often used to refer to the:  (JAMB 2011)",
+    "questionText": "In a parliamentary, the term shadow cabinet is often used to refer to the:",
     "options": [
       "back benchers in the house",
       "deputy prime ministers and assistant ministers",
@@ -15733,7 +15733,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-411-148",
-    "questionText": "Under military regimes in Nigeria, the branches of government that were fused are:  (JAMB 2011)",
+    "questionText": "Under military regimes in Nigeria, the branches of government that were fused are:",
     "options": [
       "executive and the legislature",
       "executive and the judiciary",
@@ -15745,7 +15745,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-412-128",
-    "questionText": "Between 1960 and 1966, Nigeria was governed under the   (JAMB 2011)",
+    "questionText": "Between 1960 and 1966, Nigeria was governed under the",
     "options": [
       "presidential system of government",
       "Westminster system of government",
@@ -15757,7 +15757,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-413-146",
-    "questionText": "Diarchy refers to the:  (JAMB 2011)",
+    "questionText": "Diarchy refers to the:",
     "options": [
       "rule by the government and the opposition parties",
       "mixture of parliamentary and presidential systems",
@@ -15769,7 +15769,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-414-141",
-    "questionText": "After the defeat of Germany in World War 1, her former colonies were administered under the League of Nations as:  (JAMB 2011)",
+    "questionText": "After the defeat of Germany in World War 1, her former colonies were administered under the League of Nations as:",
     "options": [
       "occupied territories",
       "trust territories",
@@ -15781,7 +15781,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-415-126",
-    "questionText": "Under the 1963 Republican Constitution, the president exercised  (JAMB 2011)",
+    "questionText": "Under the 1963 Republican Constitution, the president exercised",
     "options": [
       "Judicial powers",
       "executive powers",
@@ -15793,7 +15793,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-416-143",
-    "questionText": "The first Nigeria leader to become chairman of the Organization of African Unity was:   (JAMB 2011)",
+    "questionText": "The first Nigeria leader to become chairman of the Organization of African Unity was:",
     "options": [
       "Tafawa Balewa",
       "Murtala Mohammed",
@@ -15805,7 +15805,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-417-124",
-    "questionText": "A human community that is usually cohesive and homogeneous is  (JAMB 2011)",
+    "questionText": "A human community that is usually cohesive and homogeneous is",
     "options": [
       "state",
       "kinship",
@@ -15817,7 +15817,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-418-125",
-    "questionText": "Which of the following made the earliest contact with the Nigerian society?  (JAMB 2011)",
+    "questionText": "Which of the following made the earliest contact with the Nigerian society?",
     "options": [
       "The British",
       "The Portuguese",
@@ -15829,7 +15829,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-419-494",
-    "questionText": "The central objective of privatization in Nigeria is to (JAMB 2012)",
+    "questionText": "The central objective of privatization in Nigeria is to",
     "options": [
       "reduce the retrenchment of workers",
       "encourage prompt payment of salaries",
@@ -15841,7 +15841,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-420-490",
-    "questionText": "The three registered political parties at the inception of Nigeria’s Fourth Republic were (JAMB 2012)",
+    "questionText": "The three registered political parties at the inception of Nigeria’s Fourth Republic were",
     "options": [
       "PDP, DPP and PPA",
       "PDP, AD and APP",
@@ -15853,7 +15853,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-421-481",
-    "questionText": "Colonization of Africa was mainly motivated by (JAMB 2012)",
+    "questionText": "Colonization of Africa was mainly motivated by",
     "options": [
       "security considerations",
       "economic reasons",
@@ -15865,7 +15865,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-422-468",
-    "questionText": "The rule of law is a negation of (JAMB 2012)",
+    "questionText": "The rule of law is a negation of",
     "options": [
       "equality before the law",
       "supremacy of the law",
@@ -15877,7 +15877,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-423-152",
-    "questionText": "The principle of checks and balances modifies the theory of   (JAMB 2012)",
+    "questionText": "The principle of checks and balances modifies the theory of",
     "options": [
       "Rule of law",
       "Supremacy of law",
@@ -15889,7 +15889,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-424-475",
-    "questionText": "An intra-party activity for the selection of candidates for elective positions is known as (JAMB 2012)",
+    "questionText": "An intra-party activity for the selection of candidates for elective positions is known as",
     "options": [
       "primary election",
       "general election",
@@ -15901,7 +15901,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-425-460",
-    "questionText": "In a democratic government, political sovereignty is vested in the (JAMB 2012)",
+    "questionText": "In a democratic government, political sovereignty is vested in the",
     "options": [
       "legislature",
       "elite",
@@ -15913,7 +15913,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-426-157",
-    "questionText": "The ultimate authority in a State is referred to as   (JAMB 2012)",
+    "questionText": "The ultimate authority in a State is referred to as",
     "options": [
       "president",
       "sovereignty",
@@ -15925,7 +15925,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-427-501",
-    "questionText": "ECOMOG at the initial stage of its intervention in Liberia was perceived as (JAMB 2012)",
+    "questionText": "ECOMOG at the initial stage of its intervention in Liberia was perceived as",
     "options": [
       "neutral",
       "incompetent",
@@ -15937,7 +15937,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-428-170",
-    "questionText": "Globalization encompasses all the following except   (JAMB 2012)",
+    "questionText": "Globalization encompasses all the following except",
     "options": [
       "market integration",
       "internationalization of politics",
@@ -15949,7 +15949,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-429-502",
-    "questionText": "The African leader mostly credited for spearheading the formation of the African Union is (JAMB 2012)",
+    "questionText": "The African leader mostly credited for spearheading the formation of the African Union is",
     "options": [
       "Muammar Ghaddafi",
       "Abdelaziz Bouteflika",
@@ -15961,7 +15961,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-430-498",
-    "questionText": "The country that championed decolonization in Africa was (JAMB 2012)",
+    "questionText": "The country that championed decolonization in Africa was",
     "options": [
       "Nigeria",
       "South Africa",
@@ -15973,7 +15973,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-431-480",
-    "questionText": "Which of the following ensured the practice of democracy in the pre-colonial Yoruba political system? (JAMB 2012)",
+    "questionText": "Which of the following ensured the practice of democracy in the pre-colonial Yoruba political system?",
     "options": [
       "Checks and balances.",
       "Fusion of power.",
@@ -15985,7 +15985,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-432-167",
-    "questionText": "Every political system performs the following basic functions excepts   (JAMB 2012)",
+    "questionText": "Every political system performs the following basic functions excepts",
     "options": [
       "Rule making",
       "Rule transformation",
@@ -15997,7 +15997,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-433-485",
-    "questionText": "Members of the Senate in Nigeria’s First Republic were (JAMB 2012)",
+    "questionText": "Members of the Senate in Nigeria’s First Republic were",
     "options": [
       "elected directly by the people",
       "elected by electoral college",
@@ -16009,7 +16009,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-434-169",
-    "questionText": "A major factor that differentiates International politics from domestic politics is that International politics  (JAMB 2012)",
+    "questionText": "A major factor that differentiates International politics from domestic politics is that International politics",
     "options": [
       "has no centralized institution of government",
       "cannot enforce sanctions",
@@ -16021,7 +16021,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-435-465",
-    "questionText": "The private ownership of the means of production is a feature of (JAMB 2012)",
+    "questionText": "The private ownership of the means of production is a feature of",
     "options": [
       "capitalism",
       "socialism",
@@ -16033,7 +16033,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-436-463",
-    "questionText": "A political system which empowers the leader with the ultimate responsibility to execute laws is (JAMB 2012)",
+    "questionText": "A political system which empowers the leader with the ultimate responsibility to execute laws is",
     "options": [
       "parliamentarianism",
       "presidentialism",
@@ -16045,7 +16045,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-437-505",
-    "questionText": "The founding members of OPEC are (JAMB 2012)",
+    "questionText": "The founding members of OPEC are",
     "options": [
       "Algeria, Iran, Iraq, Saudi Arabia and Kuwait",
       "Nigeria, Libya, Iran, Iraq and, Saudi Arabia",
@@ -16057,7 +16057,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-438-173",
-    "questionText": "Which organ is referred to as ‘the last hope’ of the common man   (JAMB 2012)",
+    "questionText": "Which organ is referred to as ‘the last hope’ of the common man",
     "options": [
       "the parliament",
       "the judiciary",
@@ -16069,7 +16069,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-439-459",
-    "questionText": "Political values are acquired in any given society through (JAMB 2012)",
+    "questionText": "Political values are acquired in any given society through",
     "options": [
       "political re-orientation",
       "political campaign",
@@ -16081,7 +16081,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-440-488",
-    "questionText": "The major factor militating against the efficient operation of electoral commissions in Nigeria is (JAMB 2012)",
+    "questionText": "The major factor militating against the efficient operation of electoral commissions in Nigeria is",
     "options": [
       "inadequate public support",
       "population size",
@@ -16093,7 +16093,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-441-168",
-    "questionText": "Globalization is all but one of these  (JAMB 2012)",
+    "questionText": "Globalization is all but one of these",
     "options": [
       "A renewed concepts in international studies",
       "Limitation to the domination of the West",
@@ -16105,7 +16105,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-442-492",
-    "questionText": "Quota system and federal character principles were entrenched in the 1979 Constitution to ensure (JAMB 2012)",
+    "questionText": "Quota system and federal character principles were entrenched in the 1979 Constitution to ensure",
     "options": [
       "loyalty",
       "economic empowerment",
@@ -16117,7 +16117,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-443-457",
-    "questionText": "The distinctive attribute of a state is the monopoly of (JAMB 2012)",
+    "questionText": "The distinctive attribute of a state is the monopoly of",
     "options": [
       "control",
       "power",
@@ -16129,7 +16129,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-444-499",
-    "questionText": "A major drawback to the NEPAD initiative is its (JAMB 2012)",
+    "questionText": "A major drawback to the NEPAD initiative is its",
     "options": [
       "articulation by few African leaders",
       "affiliation to the African union",
@@ -16141,7 +16141,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-445-477",
-    "questionText": "Which of the following is used in gauging public opinion? (JAMB 2012)",
+    "questionText": "Which of the following is used in gauging public opinion?",
     "options": [
       "Constitution",
       ". Educational institution.",
@@ -16153,7 +16153,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-446-461",
-    "questionText": "One judicial function performed by the executive is (JAMB 2012)",
+    "questionText": "One judicial function performed by the executive is",
     "options": [
       "granting of amnesty",
       "implementing judicial orders",
@@ -16165,7 +16165,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-447-466",
-    "questionText": "In a feudal system, the two major classes are the serfs and the (JAMB 2012)",
+    "questionText": "In a feudal system, the two major classes are the serfs and the",
     "options": [
       "masses",
       "vassals",
@@ -16177,7 +16177,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-448-172",
-    "questionText": "Under the independence constitution of Nigeria, Dr. Nnamdi Azikwe was   (JAMB 2012)",
+    "questionText": "Under the independence constitution of Nigeria, Dr. Nnamdi Azikwe was",
     "options": [
       "Prime Minister",
       "Governor General",
@@ -16189,7 +16189,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-449-500",
-    "questionText": "The structure of the African Union includes (JAMB 2012)",
+    "questionText": "The structure of the African Union includes",
     "options": [
       "The Court of Justice, Pan African Congress and People’s Assembly",
       "Pan African Parliament, the Court of Justice and the Peace and Security Council",
@@ -16201,7 +16201,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-450-467",
-    "questionText": "An example of a country with a flexible constitution is (JAMB 2012)",
+    "questionText": "An example of a country with a flexible constitution is",
     "options": [
       "South Africa",
       "Britain",
@@ -16213,7 +16213,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-451-503",
-    "questionText": "One of the programmes binding members of the Commonwealth is the (JAMB 2012)",
+    "questionText": "One of the programmes binding members of the Commonwealth is the",
     "options": [
       "food and aid programme",
       "cultural programmes",
@@ -16225,7 +16225,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-452-470",
-    "questionText": "Delegated legislation is made by bodies other than the (JAMB 2012)",
+    "questionText": "Delegated legislation is made by bodies other than the",
     "options": [
       "president",
       "governor",
@@ -16237,7 +16237,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-453-484",
-    "questionText": "Two foreigners that directly aroused nationalist feelings among Nigerians are (JAMB 2012)",
+    "questionText": "Two foreigners that directly aroused nationalist feelings among Nigerians are",
     "options": [
       "Edward Blyden and Payne Jackson",
       "Casely Hayford and James Horton",
@@ -16249,7 +16249,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-454-267",
-    "questionText": "Which of these groups of people had no right to make law under the pre-colonial Igbo political structure? (JAMB 2013)",
+    "questionText": "Which of these groups of people had no right to make law under the pre-colonial Igbo political structure?",
     "options": [
       "Age grades",
       "Council of Elders",
@@ -16261,7 +16261,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-455-546",
-    "questionText": "Under the Technical Aid Corps, Nigerian experts are deployed to (JAMB 2013)",
+    "questionText": "Under the Technical Aid Corps, Nigerian experts are deployed to",
     "options": [
       "Asia, Africa and the Pacific",
       "Africa, the Pacific and the Caribbean",
@@ -16273,7 +16273,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-456-286",
-    "questionText": "The parties that formed the coalition government in 1960 were ___ and ___ (JAMB 2013)",
+    "questionText": "The parties that formed the coalition government in 1960 were ___ and ___",
     "options": [
       "AG, NCNC",
       "AG, NPC",
@@ -16285,7 +16285,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-457-251",
-    "questionText": "The United Nations Organization (UNO) was founded in (JAMB 2013)",
+    "questionText": "The United Nations Organization (UNO) was founded in",
     "options": [
       "1919",
       "1935",
@@ -16297,7 +16297,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-458-538",
-    "questionText": "Nigeria adopted a federal system of government because of (JAMB 2013)",
+    "questionText": "Nigeria adopted a federal system of government because of",
     "options": [
       "the fear of domination of minorities",
       "uneven development",
@@ -16309,7 +16309,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-459-549",
-    "questionText": "Nigeria’s role in the African Union was most prominent during the regime of (JAMB 2013)",
+    "questionText": "Nigeria’s role in the African Union was most prominent during the regime of",
     "options": [
       "President Ibrahim Babangida",
       "President Olusegun Obasanjo",
@@ -16321,7 +16321,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-460-278",
-    "questionText": "Under the 1979 constitution of Nigeria, each state was allowed to elect (JAMB 2013)",
+    "questionText": "Under the 1979 constitution of Nigeria, each state was allowed to elect",
     "options": [
       "as many senators as the state could finance",
       "five senators",
@@ -16333,7 +16333,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-461-297",
-    "questionText": "How many members of the security council of the United Nations (UN) exercise veto power? (JAMB 2013)",
+    "questionText": "How many members of the security council of the United Nations (UN) exercise veto power?",
     "options": [
       "Eight",
       "Five",
@@ -16345,7 +16345,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-462-284",
-    "questionText": "Before an election is conducted, the country is divided into electoral districts mainly to (JAMB 2013)",
+    "questionText": "Before an election is conducted, the country is divided into electoral districts mainly to",
     "options": [
       "avoid double voting",
       "avoid secret voting",
@@ -16357,7 +16357,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-463-528",
-    "questionText": "Under the emirate system, the commander of the army is the (JAMB 2013)",
+    "questionText": "Under the emirate system, the commander of the army is the",
     "options": [
       "Alkali",
       "Hakimi",
@@ -16369,7 +16369,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-464-551",
-    "questionText": "The organ of UN that promotes voluntary co­operation among member states in diverse areas is the (JAMB 2013)",
+    "questionText": "The organ of UN that promotes voluntary co­operation among member states in diverse areas is the",
     "options": [
       "Security Council",
       "International Court of Justice",
@@ -16381,7 +16381,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-465-272",
-    "questionText": "Under the 1979 Nigeria constitution, the national assembly was made up of the (JAMB 2013)",
+    "questionText": "Under the 1979 Nigeria constitution, the national assembly was made up of the",
     "options": [
       "House of Chiefs and the Senate.",
       "House of Lords and the House of Representatives.",
@@ -16393,7 +16393,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-466-537",
-    "questionText": "The party system practiced in Nigeria’s Third Republic was (JAMB 2013)",
+    "questionText": "The party system practiced in Nigeria’s Third Republic was",
     "options": [
       "multi-party",
       "two-party",
@@ -16405,7 +16405,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-467-545",
-    "questionText": "Nigeria’s non-alignment policy in the sixties lacked real substance because of her (JAMB 2013)",
+    "questionText": "Nigeria’s non-alignment policy in the sixties lacked real substance because of her",
     "options": [
       "close ties with Britain",
       "Afrocentric policy",
@@ -16417,7 +16417,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-468-512",
-    "questionText": "As an executive, the commissioner is charged with the responsibility of (JAMB 2013)",
+    "questionText": "As an executive, the commissioner is charged with the responsibility of",
     "options": [
       "making laws",
       "implementing laws",
@@ -16429,7 +16429,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-469-289",
-    "questionText": "The cultural organisation which metamorphosed into \tNorthern People’s Congress (NPC) was (JAMB 2013)",
+    "questionText": "The cultural organisation which metamorphosed into \tNorthern People’s Congress (NPC) was",
     "options": [
       "Arewa Consultative Forum",
       "Borno Youth Movement",
@@ -16441,7 +16441,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-470-541",
-    "questionText": "Which of the following headed the committee that recommended the suitability of Abuja as a new federal city? (JAMB 2013)",
+    "questionText": "Which of the following headed the committee that recommended the suitability of Abuja as a new federal city?",
     "options": [
       "Justice Akinola Aguda.",
       "Justice Buba Ardo.",
@@ -16453,7 +16453,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-471-509",
-    "questionText": "Political socialization is associated with (JAMB 2013)",
+    "questionText": "Political socialization is associated with",
     "options": [
       "free choice of party programmes",
       "military take over of civilian government",
@@ -16465,7 +16465,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-472-548",
-    "questionText": "Which of the following countries pioneered the establishment of ECOWAS alongside Nigeria? (JAMB 2013)",
+    "questionText": "Which of the following countries pioneered the establishment of ECOWAS alongside Nigeria?",
     "options": [
       "Cameroun.",
       "Ghana.",
@@ -16477,7 +16477,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-473-536",
-    "questionText": "The primary function of the Code of Conduct Bureau is to (JAMB 2013)",
+    "questionText": "The primary function of the Code of Conduct Bureau is to",
     "options": [
       "ensure due process by public officers",
       "ensure minimum standard of morality",
@@ -16489,7 +16489,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-474-520",
-    "questionText": "The act of transferring autonomous powers to subordinate agencies is (JAMB 2013)",
+    "questionText": "The act of transferring autonomous powers to subordinate agencies is",
     "options": [
       "devolution",
       "concentration",
@@ -16501,7 +16501,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-475-261",
-    "questionText": "The first military intervention in Nigeria politics was in (JAMB 2013)",
+    "questionText": "The first military intervention in Nigeria politics was in",
     "options": [
       "1960",
       "1962.",
@@ -16513,7 +16513,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-476-517",
-    "questionText": "Which of the following advocates’ equitable distribution of wealth? (JAMB 2013)",
+    "questionText": "Which of the following advocates’ equitable distribution of wealth?",
     "options": [
       "Plutocracy.",
       "Capitalism.",
@@ -16525,7 +16525,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-477-252",
-    "questionText": "Which of these best defines a state? A/An (JAMB 2013)",
+    "questionText": "Which of these best defines a state? A/An",
     "options": [
       "country made up of heterogeneous people",
       ". country with definite territory free from external control.",
@@ -16537,7 +16537,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-478-277",
-    "questionText": "The idea of federalism in Nigeria started with ______ constitution. (JAMB 2013)",
+    "questionText": "The idea of federalism in Nigeria started with ______ constitution.",
     "options": [
       "Clifford",
       "Independence",
@@ -16549,7 +16549,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-479-305",
-    "questionText": "The term, “Quorum” means the number of legislators chat (JAMB 2013)",
+    "questionText": "The term, “Quorum” means the number of legislators chat",
     "options": [
       "are absent from a day’s proceeding.",
       "assent to any particular bill",
@@ -16561,7 +16561,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-480-259",
-    "questionText": "The Economic Community of West African States (ECOWAS) was formed on (JAMB 2013)",
+    "questionText": "The Economic Community of West African States (ECOWAS) was formed on",
     "options": [
       "28th May, 1975",
       "29th May, 1976",
@@ -16573,7 +16573,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-481-265",
-    "questionText": "Who among the following was NOT an officer in the pre-colonial Yoruba society? (JAMB 2013)",
+    "questionText": "Who among the following was NOT an officer in the pre-colonial Yoruba society?",
     "options": [
       "Aremo",
       "Are-Onakakanfo",
@@ -16585,7 +16585,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-482-513",
-    "questionText": "Rule adjudication is a primary function of the (JAMB 2013)",
+    "questionText": "Rule adjudication is a primary function of the",
     "options": [
       "legislature",
       "judiciary",
@@ -16597,7 +16597,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-483-287",
-    "questionText": "In Igbo assembly during the pre-colonial era, decisions were normally reached by (JAMB 2013)",
+    "questionText": "In Igbo assembly during the pre-colonial era, decisions were normally reached by",
     "options": [
       "balloting.",
       "consensus",
@@ -16609,7 +16609,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-484-535",
-    "questionText": "The Revenue Mobilization, Allocation and Fiscal Commission is statutorily empowered to determine the remuneration of (JAMB 2013)",
+    "questionText": "The Revenue Mobilization, Allocation and Fiscal Commission is statutorily empowered to determine the remuneration of",
     "options": [
       "all civil servants",
       "only elected representatives",
@@ -16621,7 +16621,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-485-182",
-    "questionText": "Which of these is not an instrument of foreign policy (JAMB 2013)",
+    "questionText": "Which of these is not an instrument of foreign policy",
     "options": [
       "war",
       "diplomacy",
@@ -16633,7 +16633,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-486-268",
-    "questionText": "21.\tIn a parliamentary system of government a general election is usually conducted after (JAMB 2013)",
+    "questionText": "21.\tIn a parliamentary system of government a general election is usually conducted after",
     "options": [
       "dissolution of parliament.",
       "plebiscite.",
@@ -16645,7 +16645,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-487-177",
-    "questionText": "Manipulation of electoral boundaries for electoral purposes is known as   (JAMB 2013)",
+    "questionText": "Manipulation of electoral boundaries for electoral purposes is known as",
     "options": [
       "delimitation",
       "gerrymandering",
@@ -16657,7 +16657,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-488-249",
-    "questionText": "Which of the following is NOT a feature of a state? (JAMB 2013)",
+    "questionText": "Which of the following is NOT a feature of a state?",
     "options": [
       "Government",
       "Nationality",
@@ -16669,7 +16669,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-489-298",
-    "questionText": "The head of the electoral commission at the local government area is referred to as the (JAMB 2013)",
+    "questionText": "The head of the electoral commission at the local government area is referred to as the",
     "options": [
       "chairman",
       "electoral officer",
@@ -16681,7 +16681,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-490-587",
-    "questionText": "One of the major problems of Nigerian federalism is (JAMB 2014)",
+    "questionText": "One of the major problems of Nigerian federalism is",
     "options": [
       "lack of revenue to cater for the demands of the federation",
       "inadequate manpower to fill vacancies",
@@ -16693,7 +16693,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-491-573",
-    "questionText": "The body that is responsible for the appointment, discipline, promotion and dismissal of civil servants is the (JAMB 2014)",
+    "questionText": "The body that is responsible for the appointment, discipline, promotion and dismissal of civil servants is the",
     "options": [
       "Ministry of Establishment",
       "Bureau for Public Service Reforms",
@@ -16705,7 +16705,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-492-563",
-    "questionText": "An example of a country ruled by a constitutional monarch is (JAMB 2014)",
+    "questionText": "An example of a country ruled by a constitutional monarch is",
     "options": [
       "Uganda",
       "Morocco",
@@ -16717,7 +16717,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-493-578",
-    "questionText": "Nationalists agitation began in Nigeria with the (JAMB 2014)",
+    "questionText": "Nationalists agitation began in Nigeria with the",
     "options": [
       "Lagos protest against water rate in 1908",
       "introduction of indirect rule",
@@ -16729,7 +16729,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-494-579",
-    "questionText": "The emergence of nationalism was essentially the result of the ills of (JAMB 2014)",
+    "questionText": "The emergence of nationalism was essentially the result of the ills of",
     "options": [
       "independence",
       "slavery",
@@ -16741,7 +16741,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-495-560",
-    "questionText": "One main advantage of bicameral legislature is that it (JAMB 2014)",
+    "questionText": "One main advantage of bicameral legislature is that it",
     "options": [
       "makes for quick deliberation during emergencies",
       "makes passage of bills easy",
@@ -16753,7 +16753,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-496-589",
-    "questionText": "A problem of public corporations in Nigeria is (JAMB 2014)",
+    "questionText": "A problem of public corporations in Nigeria is",
     "options": [
       "choice of leadership",
       "public control",
@@ -16765,7 +16765,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-497-585",
-    "questionText": "The power of appointing the chairman of the Independent National Electoral Commission is vested in the (JAMB 2014)",
+    "questionText": "The power of appointing the chairman of the Independent National Electoral Commission is vested in the",
     "options": [
       "Judicial Council",
       "Council of State",
@@ -16777,7 +16777,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-498-555",
-    "questionText": "The necessary attributes of a state are (JAMB 2014)",
+    "questionText": "The necessary attributes of a state are",
     "options": [
       "resources, population, sovereignty and government",
       "sovereignty, police, army and immigration",
@@ -16789,7 +16789,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-499-602",
-    "questionText": "The Secretary General of the OAU holds office for a renewable period of (JAMB 2014)",
+    "questionText": "The Secretary General of the OAU holds office for a renewable period of",
     "options": [
       "six years",
       "three years",
@@ -16801,7 +16801,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-500-562",
-    "questionText": "Unitary system of government is more suitable to a country (JAMB 2014)",
+    "questionText": "Unitary system of government is more suitable to a country",
     "options": [
       "that is sparsely populated",
       "that possesses a strong and modern army",
@@ -16813,7 +16813,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-501-597",
-    "questionText": "Nigeria is regarded as a frontline state because she (JAMB 2014)",
+    "questionText": "Nigeria is regarded as a frontline state because she",
     "options": [
       "sent policemen for peacekeeping in Namibia",
       "assisted the liberation struggle in Southern Africa",
@@ -16825,7 +16825,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-502-580",
-    "questionText": "Which of the following nationalists was the founder of Nigeria’s first political party? (JAMB 2014)",
+    "questionText": "Which of the following nationalists was the founder of Nigeria’s first political party?",
     "options": [
       "Abubakar Tafawa Balewa",
       "Ahmadu Bello",
@@ -16837,7 +16837,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-503-591",
-    "questionText": "One of the main duties of the Local Government Service Commission is to (JAMB 2014)",
+    "questionText": "One of the main duties of the Local Government Service Commission is to",
     "options": [
       "supervise and manage the personnel of local governments",
       "conduct election into Local Council",
@@ -16849,7 +16849,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-504-569",
-    "questionText": "The officer responsible for announcing the result of an election is known as (JAMB 2014)",
+    "questionText": "The officer responsible for announcing the result of an election is known as",
     "options": [
       "ballot officer",
       "presiding office",
@@ -16861,7 +16861,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-505-574",
-    "questionText": "In the pre-colonial Hausa political system, the Madawaki performed the function of (JAMB 2014)",
+    "questionText": "In the pre-colonial Hausa political system, the Madawaki performed the function of",
     "options": [
       "Minister of Education",
       "Minister of Defense",
@@ -16873,7 +16873,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-506-561",
-    "questionText": "The court that has ultimate power to interprets the constitution is the (JAMB 2014)",
+    "questionText": "The court that has ultimate power to interprets the constitution is the",
     "options": [
       "Supreme Court",
       "Magistrate Court",
@@ -16885,7 +16885,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-507-575",
-    "questionText": "In the Old Oyo Empire, the Ajele (JAMB 2014)",
+    "questionText": "In the Old Oyo Empire, the Ajele",
     "options": [
       "ensured good governance of the districts",
       "mobilized the army",
@@ -16897,7 +16897,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-508-603",
-    "questionText": "Former colonies of Britain belong to the association known as (JAMB 2014)",
+    "questionText": "Former colonies of Britain belong to the association known as",
     "options": [
       "OECD",
       "NATO",
@@ -16909,7 +16909,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-509-565",
-    "questionText": "A flexible constitution is one which is (JAMB 2014)",
+    "questionText": "A flexible constitution is one which is",
     "options": [
       "easily amended",
       "popular with the legislators",
@@ -16921,7 +16921,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-510-577",
-    "questionText": "Before 1945, the component units of Nigeria were (JAMB 2014)",
+    "questionText": "Before 1945, the component units of Nigeria were",
     "options": [
       "districts",
       "provinces",
@@ -16933,7 +16933,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-511-584",
-    "questionText": "The main function of the Federal Character Commission in Nigeria is (JAMB 2014)",
+    "questionText": "The main function of the Federal Character Commission in Nigeria is",
     "options": [
       "ensuring fair representation of all states in the public service",
       "reviewing unfair administrative decisions",
@@ -16945,7 +16945,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-512-558",
-    "questionText": "In a democratic political system, the political sovereign is usually the (JAMB 2014)",
+    "questionText": "In a democratic political system, the political sovereign is usually the",
     "options": [
       "constitution",
       "political parties",
@@ -16957,7 +16957,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-513-582",
-    "questionText": "The Nigerian Independence Constitution was modified by the (JAMB 2014)",
+    "questionText": "The Nigerian Independence Constitution was modified by the",
     "options": [
       "1963 Constitution",
       "1999 Constitution",
@@ -16969,7 +16969,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-514-586",
-    "questionText": "The NCNC and the NPC facilitated the creation of the (JAMB 2014)",
+    "questionText": "The NCNC and the NPC facilitated the creation of the",
     "options": [
       "Mid-West Region",
       "Northern Region",
@@ -16981,7 +16981,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-515-599",
-    "questionText": "Commonwealth nations are represented in other member nations by (JAMB 2014)",
+    "questionText": "Commonwealth nations are represented in other member nations by",
     "options": [
       "charge d’ affaires",
       "ambassadors",
@@ -16993,7 +16993,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-516-568",
-    "questionText": "Citizenship is acquired by an alien through (JAMB 2014)",
+    "questionText": "Citizenship is acquired by an alien through",
     "options": [
       "registration",
       "birth",
@@ -17005,7 +17005,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-517-571",
-    "questionText": "The main objective of pressure groups is to (JAMB 2014)",
+    "questionText": "The main objective of pressure groups is to",
     "options": [
       "promote the interest of political parties",
       "influence legislation for the benefit of their members",
@@ -17017,7 +17017,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-518-598",
-    "questionText": "The reason behind Nigeria’s suspension from the Commonwealth in 1995 was (JAMB 2014)",
+    "questionText": "The reason behind Nigeria’s suspension from the Commonwealth in 1995 was",
     "options": [
       "legal",
       "political",
@@ -17029,7 +17029,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-519-588",
-    "questionText": "Which of the following was done during the Gowon administration to reduce regional structural imbalance in the federation? (JAMB 2014)",
+    "questionText": "Which of the following was done during the Gowon administration to reduce regional structural imbalance in the federation?",
     "options": [
       "Appointment of ministers",
       "Creation of states",
@@ -17041,7 +17041,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-520-570",
-    "questionText": "The ultimate aim of political parties is to (JAMB 2014)",
+    "questionText": "The ultimate aim of political parties is to",
     "options": [
       "implement people-oriented programmes",
       "acquire and exercise power",
@@ -17053,7 +17053,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-521-576",
-    "questionText": "The General Strike of 1945 was caused primarily by the (JAMB 2014)",
+    "questionText": "The General Strike of 1945 was caused primarily by the",
     "options": [
       "harshness in trade laws as it concerns the Africans",
       "government’s rejection of a demand for an increase of 50 percent in the cost of living allowance",
@@ -17065,7 +17065,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-522-600",
-    "questionText": "The UN succeeded the (JAMB 2014)",
+    "questionText": "The UN succeeded the",
     "options": [
       "Warsaw Pact",
       "NATO",
@@ -17077,7 +17077,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-523-556",
-    "questionText": "The process of taking part in political and public affairs can be termed political (JAMB 2014)",
+    "questionText": "The process of taking part in political and public affairs can be termed political",
     "options": [
       "recognition",
       "culture",
@@ -17089,7 +17089,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-524-564",
-    "questionText": "The development of a classless society is the goal of (JAMB 2014)",
+    "questionText": "The development of a classless society is the goal of",
     "options": [
       "conservatism",
       "feudalism",
@@ -17101,7 +17101,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-525-559",
-    "questionText": "One basic feature of a monarchical form of government is that (JAMB 2014)",
+    "questionText": "One basic feature of a monarchical form of government is that",
     "options": [
       "separation of powers is absolute",
       "members of the executive are elected",
@@ -17113,7 +17113,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-526-590",
-    "questionText": "One feature of public corporations that was weakened by privatization is (JAMB 2014)",
+    "questionText": "One feature of public corporations that was weakened by privatization is",
     "options": [
       "social control",
       "national integration",
@@ -17125,7 +17125,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-527-567",
-    "questionText": "Laws made by military governments at the state level are called (JAMB 2014)",
+    "questionText": "Laws made by military governments at the state level are called",
     "options": [
       "decrees",
       "bye-laws",
@@ -17137,7 +17137,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-528-566",
-    "questionText": "Which of the following is a feature of checks and balances? (JAMB 2014)",
+    "questionText": "Which of the following is a feature of checks and balances?",
     "options": [
       "judicial precedent",
       "Judicial immunity",
@@ -17149,7 +17149,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-529-596",
-    "questionText": "The granting of asylum to Charles Taylor by Nigeria was to (JAMB 2014)",
+    "questionText": "The granting of asylum to Charles Taylor by Nigeria was to",
     "options": [
       "protect Nigerians in Liberia",
       "promote peace in Liberia",
@@ -17161,7 +17161,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-530-1473",
-    "questionText": "A good example of a country with a largely unwritten constitution is (JAMB 2015)",
+    "questionText": "A good example of a country with a largely unwritten constitution is",
     "options": [
       "the United States of America",
       "The Soviet Union",
@@ -17173,7 +17173,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-531-1467",
-    "questionText": "The dominant idea behind the establishment of the Organization of African Unity is (JAMB 2015)",
+    "questionText": "The dominant idea behind the establishment of the Organization of African Unity is",
     "options": [
       "that Africa must unite",
       "to show the world that Africa can also do what Latin American and Asian countries have done",
@@ -17185,7 +17185,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-532-1450",
-    "questionText": "A state that is ruled by an elected citizen is (JAMB 2015)",
+    "questionText": "A state that is ruled by an elected citizen is",
     "options": [
       "a republic",
       "a plutocracy",
@@ -17197,7 +17197,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-533-1451",
-    "questionText": "The first Governor-General of Nigeria was (JAMB 2015)",
+    "questionText": "The first Governor-General of Nigeria was",
     "options": [
       "Lord Lugard",
       "Dr. Nnamdi Azikwe",
@@ -17209,7 +17209,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-534-1489",
-    "questionText": "Which of the following world powers was the first to come to Nigeria’s aid during the civil war? (JAMB 2015)",
+    "questionText": "Which of the following world powers was the first to come to Nigeria’s aid during the civil war?",
     "options": [
       "Germany",
       "USA",
@@ -17221,7 +17221,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-535-1449",
-    "questionText": "A major function of Warrant Chiefs was to (JAMB 2015)",
+    "questionText": "A major function of Warrant Chiefs was to",
     "options": [
       "take charge of local administration",
       "stop ritual killings",
@@ -17233,7 +17233,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-536-1456",
-    "questionText": "In federalism system of Government currency, Armed forces and National defense is the primary function of (JAMB 2015)",
+    "questionText": "In federalism system of Government currency, Armed forces and National defense is the primary function of",
     "options": [
       "Local government Chairman",
       "Armed Forces Ruling Council",
@@ -17245,7 +17245,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-537-1454",
-    "questionText": "The first African Secretary-General of the United Nations is (JAMB 2015)",
+    "questionText": "The first African Secretary-General of the United Nations is",
     "options": [
       "Boutrous Boutrous-Ghali",
       "Joe Garba",
@@ -17257,7 +17257,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-538-1492",
-    "questionText": "The council constituted by Lord Lugard in 1914 has (JAMB 2015)",
+    "questionText": "The council constituted by Lord Lugard in 1914 has",
     "options": [
       "105 members seat",
       "50 members on seat",
@@ -17269,7 +17269,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-539-1474",
-    "questionText": "Before Nigeria became a republic, the highest body charged with the administration of justice was the (JAMB 2015)",
+    "questionText": "Before Nigeria became a republic, the highest body charged with the administration of justice was the",
     "options": [
       "Supreme Court",
       "Court of Appeal",
@@ -17281,7 +17281,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-540-1485",
-    "questionText": "The following are international organisations except (JAMB 2015)",
+    "questionText": "The following are international organisations except",
     "options": [
       "pressure group",
       "O.A.U",
@@ -17293,7 +17293,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-541-1452",
-    "questionText": "The main role of pressure groups is to (JAMB 2015)",
+    "questionText": "The main role of pressure groups is to",
     "options": [
       "influence the legislature to make decision favourable to them",
       "inject emotion and selfish debates",
@@ -17305,7 +17305,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-542-1458",
-    "questionText": "An electoral process in which candidates are selected for elective offices by party members is (JAMB 2015)",
+    "questionText": "An electoral process in which candidates are selected for elective offices by party members is",
     "options": [
       "primary election",
       "electoral college",
@@ -17317,7 +17317,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-543-1480",
-    "questionText": "A referendum is a device to ensure that (JAMB 2015)",
+    "questionText": "A referendum is a device to ensure that",
     "options": [
       "elections are free and fair",
       "legislators vote to resolve contentious issues",
@@ -17329,7 +17329,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-544-1481",
-    "questionText": "The Mid-Western Region was created in Nigeria in (JAMB 2015)",
+    "questionText": "The Mid-Western Region was created in Nigeria in",
     "options": [
       "1961",
       "1962",
@@ -17341,7 +17341,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-545-1463",
-    "questionText": "When a bill passed by legislature is vetoed by the executive, the action underscores the principle of (JAMB 2015)",
+    "questionText": "When a bill passed by legislature is vetoed by the executive, the action underscores the principle of",
     "options": [
       "collective responsibility",
       "probity and accountability",
@@ -17353,7 +17353,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-546-1488",
-    "questionText": "The act of removing an elected official by the electorate is referred to as (JAMB 2015)",
+    "questionText": "The act of removing an elected official by the electorate is referred to as",
     "options": [
       "impeachment",
       "consensus",
@@ -17365,7 +17365,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-547-1493",
-    "questionText": "Nigeria’s withdrawal from the Edinburgh Commonwealth Games in July 1986 was in protest against British (JAMB 2015)",
+    "questionText": "Nigeria’s withdrawal from the Edinburgh Commonwealth Games in July 1986 was in protest against British",
     "options": [
       "supply of arms of Rhodesia",
       "failure to impose sanctions on South Africa",
@@ -17377,7 +17377,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-548-1472",
-    "questionText": "In the Oyo traditional political system, the Alafin of Oyo was elected or chosen by a group known as (JAMB 2015)",
+    "questionText": "In the Oyo traditional political system, the Alafin of Oyo was elected or chosen by a group known as",
     "options": [
       "Oyo Mesi",
       "Bales",
@@ -17389,7 +17389,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-549-1444",
-    "questionText": "The main attributes of a state are (JAMB 2015)",
+    "questionText": "The main attributes of a state are",
     "options": [
       "government, the police and the armed forces",
       "population, territory, government and sovereignty",
@@ -17401,7 +17401,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-550-1490",
-    "questionText": "Citizenship refers to the (JAMB 2015)",
+    "questionText": "Citizenship refers to the",
     "options": [
       "legal status of a member of a state",
       "indigenous member of a state",
@@ -17413,7 +17413,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-551-1470",
-    "questionText": "The term, rule of law means (JAMB 2015)",
+    "questionText": "The term, rule of law means",
     "options": [
       "nobody is above the law",
       "everybody is equal before the law",
@@ -17425,7 +17425,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-552-1457",
-    "questionText": "In a Federal System (such as Nigeria) the Local Governments are directly responsible (JAMB 2015)",
+    "questionText": "In a Federal System (such as Nigeria) the Local Governments are directly responsible",
     "options": [
       "to the Federal or Central Government",
       "to the State Government",
@@ -17437,7 +17437,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461563-553-1455",
-    "questionText": "The system of indirect rule failed in the former Eastern Nigeria primarily because (JAMB 2015)",
+    "questionText": "The system of indirect rule failed in the former Eastern Nigeria primarily because",
     "options": [
       "of the fragmented political structures",
       "the Chief refused to cooperate with colonial officers",
@@ -17449,7 +17449,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-554-1486",
-    "questionText": "The rights of a citizen can be withdrawn by the state if the person (JAMB 2015)",
+    "questionText": "The rights of a citizen can be withdrawn by the state if the person",
     "options": [
       "opposes the government violently",
       "leave the country permanently",
@@ -17461,7 +17461,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-555-1483",
-    "questionText": "One of the principal objectives of the OPEC is to (JAMB 2015)",
+    "questionText": "One of the principal objectives of the OPEC is to",
     "options": [
       "determine oil prices in the international market",
       "harmonise the oil policies of member countries",
@@ -17473,7 +17473,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-556-1459",
-    "questionText": "Nigeria spearheaded the formation of ECOWAS during the regime of (JAMB 2015)",
+    "questionText": "Nigeria spearheaded the formation of ECOWAS during the regime of",
     "options": [
       "Olusegun Obasanjo",
       "Yakubu Gowon",
@@ -17485,7 +17485,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-557-1469",
-    "questionText": "Nigeria’s quest for a leadership role in Africa hinges principally on her (JAMB 2015)",
+    "questionText": "Nigeria’s quest for a leadership role in Africa hinges principally on her",
     "options": [
       "military might",
       "size and population",
@@ -17497,7 +17497,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-558-1479",
-    "questionText": "Which of these constitutions recognised local government as a third tier of government in Nigeria? (JAMB 2015)",
+    "questionText": "Which of these constitutions recognised local government as a third tier of government in Nigeria?",
     "options": [
       "1960 Constitution",
       "1963 Constitution",
@@ -17509,7 +17509,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-559-1461",
-    "questionText": "Federalism was introduced in Nigeria under the (JAMB 2015)",
+    "questionText": "Federalism was introduced in Nigeria under the",
     "options": [
       "Lyttelton Constitution",
       "Macpherson Constitution",
@@ -17521,7 +17521,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-560-1468",
-    "questionText": "A typical form of delegated legislation is (JAMB 2015)",
+    "questionText": "A typical form of delegated legislation is",
     "options": [
       "an act",
       "a bill",
@@ -17533,7 +17533,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-561-1448",
-    "questionText": "How many states were created in Nigeria in 1967? (JAMB 2015)",
+    "questionText": "How many states were created in Nigeria in 1967?",
     "options": [
       "4",
       "12",
@@ -17545,7 +17545,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-562-1445",
-    "questionText": "A disadvantage of the one-party system is that it (JAMB 2015)",
+    "questionText": "A disadvantage of the one-party system is that it",
     "options": [
       "emphasizes political differences",
       "makes accountability difficult",
@@ -17557,7 +17557,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-563-1466",
-    "questionText": "One challenge associated with presidential system of Government (JAMB 2015)",
+    "questionText": "One challenge associated with presidential system of Government",
     "options": [
       "Aim of government",
       "separation of power",
@@ -17569,7 +17569,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-564-390",
-    "questionText": "Which constitution was created to legislate for the Lagos Colony and the Southern Provinces? (JAMB 2016)",
+    "questionText": "Which constitution was created to legislate for the Lagos Colony and the Southern Provinces?",
     "options": [
       "The Richard Constitution",
       "The Clifford Constitution",
@@ -17581,7 +17581,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-565-386",
-    "questionText": "How many countries are founding members of O. P. E. C? (JAMB 2016)",
+    "questionText": "How many countries are founding members of O. P. E. C?",
     "options": [
       "13",
       "5",
@@ -17593,7 +17593,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-566-402",
-    "questionText": "In order to dispense justice impartially, the judiciary primarily needs (JAMB 2016)",
+    "questionText": "In order to dispense justice impartially, the judiciary primarily needs",
     "options": [
       "discipline",
       "logistics",
@@ -17605,7 +17605,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-567-367",
-    "questionText": "Indirect Rule was first introduced into Nigeria by (JAMB 2016)",
+    "questionText": "Indirect Rule was first introduced into Nigeria by",
     "options": [
       "Dame Margery Perham",
       "Sir Donald Cameron",
@@ -17617,7 +17617,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-568-361",
-    "questionText": "Decree 34 of 1966 was unacceptable to many Nigeria because it was (JAMB 2016)",
+    "questionText": "Decree 34 of 1966 was unacceptable to many Nigeria because it was",
     "options": [
       "seen as an instrument of impoverishment",
       "perceived to abolish the federal system",
@@ -17629,7 +17629,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-569-384",
-    "questionText": "ECOWAS comprises (JAMB 2016)",
+    "questionText": "ECOWAS comprises",
     "options": [
       "16 independent states",
       "The whole Africa",
@@ -17641,7 +17641,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-570-393",
-    "questionText": "Which of the following is NOT a function of the Police Force in Nigeria? (JAMB 2016)",
+    "questionText": "Which of the following is NOT a function of the Police Force in Nigeria?",
     "options": [
       "Traffic control",
       "Arrest of criminals",
@@ -17653,7 +17653,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-571-396",
-    "questionText": "The head of state in the first republic of Nigeria was (JAMB 2016)",
+    "questionText": "The head of state in the first republic of Nigeria was",
     "options": [
       "an executive president",
       "a nominal president",
@@ -17665,7 +17665,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-572-398",
-    "questionText": "A prominent feature of a presidential system of government is (JAMB 2016)",
+    "questionText": "A prominent feature of a presidential system of government is",
     "options": [
       "dual executive",
       "vote of no confidence",
@@ -17677,7 +17677,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-573-395",
-    "questionText": "Who was appointed by the federal government of Nigeria as the administrator of western region in 1962? (JAMB 2016)",
+    "questionText": "Who was appointed by the federal government of Nigeria as the administrator of western region in 1962?",
     "options": [
       "Dr. M. A. Majekodunmi",
       "Chief Odeleye Fadahunsi",
@@ -17689,7 +17689,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-574-364",
-    "questionText": "A constitution of any country is basically (JAMB 2016)",
+    "questionText": "A constitution of any country is basically",
     "options": [
       "a mere piece of paper",
       "a guide to how the country should be governed",
@@ -17701,7 +17701,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-575-380",
-    "questionText": "The Queen can do no wrong means (JAMB 2016)",
+    "questionText": "The Queen can do no wrong means",
     "options": [
       "the Queen is above the law",
       "the Queen acts on the advice of their ministers on matter of public policy",
@@ -17713,7 +17713,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-576-394",
-    "questionText": "In Nigeria, the highest court for Muslims is the (JAMB 2016)",
+    "questionText": "In Nigeria, the highest court for Muslims is the",
     "options": [
       "Alkali Court",
       "Sharia Court of Appeal",
@@ -17725,7 +17725,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-577-366",
-    "questionText": "A good example of a country which operates a cabinet system of government is (JAMB 2016)",
+    "questionText": "A good example of a country which operates a cabinet system of government is",
     "options": [
       "France",
       "United Kingdom",
@@ -17737,7 +17737,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-578-391",
-    "questionText": "Judges in Nigeria enjoy security of tenure (JAMB 2016)",
+    "questionText": "Judges in Nigeria enjoy security of tenure",
     "options": [
       "if they are appointed by the president",
       "if they have the support of the Nigerian Bar Association",
@@ -17749,7 +17749,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-579-379",
-    "questionText": "Which of the following electoral bodies in Nigeria conducted elections from 1979 to 1983? (JAMB 2016)",
+    "questionText": "Which of the following electoral bodies in Nigeria conducted elections from 1979 to 1983?",
     "options": [
       "Federal Electoral Commission",
       "National Electoral Commission",
@@ -17761,7 +17761,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-580-383",
-    "questionText": "The Aro age-grade system in igboland was (JAMB 2016)",
+    "questionText": "The Aro age-grade system in igboland was",
     "options": [
       "a religious organization",
       "a political organization",
@@ -17773,7 +17773,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-581-397",
-    "questionText": "Which of the following parties formed the opposition in the House of Representatives during Nigerian first republic? (JAMB 2016)",
+    "questionText": "Which of the following parties formed the opposition in the House of Representatives during Nigerian first republic?",
     "options": [
       "NCNC and NEPU",
       "AG and UMBC",
@@ -17785,7 +17785,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-582-406",
-    "questionText": "Nigeria’s membership of the UN complements her foreign policy in the area of (JAMB 2016)",
+    "questionText": "Nigeria’s membership of the UN complements her foreign policy in the area of",
     "options": [
       "bilateral diplomacy",
       "regional diplomacy",
@@ -17797,7 +17797,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-583-363",
-    "questionText": "A major contentious issues confronting Nigerian Federalism is (JAMB 2016)",
+    "questionText": "A major contentious issues confronting Nigerian Federalism is",
     "options": [
       "poverty",
       "education",
@@ -17809,7 +17809,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-584-407",
-    "questionText": "Nigeria teamed up with other developing countries to assert a neutral posture under the platform of (JAMB 2016)",
+    "questionText": "Nigeria teamed up with other developing countries to assert a neutral posture under the platform of",
     "options": [
       "Nationalist Movement",
       "Pan - African Movement",
@@ -17821,7 +17821,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-585-404",
-    "questionText": "Nigeria commitment to the liberation of Africa could best be seen in her policy towards (JAMB 2016)",
+    "questionText": "Nigeria commitment to the liberation of Africa could best be seen in her policy towards",
     "options": [
       "Namibia and Mozambique",
       "the Congo and Zimbabwe",
@@ -17833,7 +17833,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-586-389",
-    "questionText": "Which of the following sets of factors contributed to the development of nationalism in Nigeria? (JAMB 2016)",
+    "questionText": "Which of the following sets of factors contributed to the development of nationalism in Nigeria?",
     "options": [
       "Racial discrimination and oppression",
       "Corruption and ethnicity",
@@ -17845,7 +17845,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-587-382",
-    "questionText": "Islam was introduced in Northern Nigeria (JAMB 2016)",
+    "questionText": "Islam was introduced in Northern Nigeria",
     "options": [
       "before the 13th century",
       "in the 17th century",
@@ -17857,7 +17857,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-588-385",
-    "questionText": "Prior to the formation of the OAU in 1963, Nigeria Identified with the (JAMB 2016)",
+    "questionText": "Prior to the formation of the OAU in 1963, Nigeria Identified with the",
     "options": [
       "Brazzaville Group",
       "Casablanca group",
@@ -17869,7 +17869,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-589-760",
-    "questionText": "Delegated legislation is the— (JAMB 2017)",
+    "questionText": "Delegated legislation is the—",
     "options": [
       "limitation of responsibilities to agencies",
       "transfer of responsibilities to agencies",
@@ -17881,7 +17881,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-590-739",
-    "questionText": "Public Corporations are mainly funded through __ (JAMB 2017)",
+    "questionText": "Public Corporations are mainly funded through __",
     "options": [
       "foreign aid",
       "shareholders fund",
@@ -17893,7 +17893,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-591-748",
-    "questionText": "The struggle for self- government from foreign rule is known as __ (JAMB 2017)",
+    "questionText": "The struggle for self- government from foreign rule is known as __",
     "options": [
       "imperialism",
       "nationalism",
@@ -17905,7 +17905,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-592-768",
-    "questionText": "The granting of internal authority to the regions came under which constitution? (JAMB 2017)",
+    "questionText": "The granting of internal authority to the regions came under which constitution?",
     "options": [
       "Littleton Constitution",
       "Richard Constitution",
@@ -17917,7 +17917,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-593-749",
-    "questionText": "Territorial defence in the Yoruba pre-colonial system was the responsibility of the __ (JAMB 2017)",
+    "questionText": "Territorial defence in the Yoruba pre-colonial system was the responsibility of the __",
     "options": [
       "Bashorun",
       "Oyomesi",
@@ -17929,7 +17929,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-594-726",
-    "questionText": "Which of the following is a strategy of foreign policy implementation? (JAMB 2017)",
+    "questionText": "Which of the following is a strategy of foreign policy implementation?",
     "options": [
       "Cultural integration",
       "Democratic elections",
@@ -17941,7 +17941,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-595-735",
-    "questionText": " Elective principle in Nigeria was first introduced by __ (JAMB 2017)",
+    "questionText": " Elective principle in Nigeria was first introduced by __",
     "options": [
       "Richards Constitution",
       "Macpherson Constitution",
@@ -17953,7 +17953,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-596-753",
-    "questionText": "Both federal and state governments derive power from the __ (JAMB 2017)",
+    "questionText": "Both federal and state governments derive power from the __",
     "options": [
       "residual list",
       "concurrent list",
@@ -17965,7 +17965,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-597-750",
-    "questionText": "An effective means of measuring public opinion is __ (JAMB 2017)",
+    "questionText": "An effective means of measuring public opinion is __",
     "options": [
       "referendum",
       "radio interview",
@@ -17977,7 +17977,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-598-755",
-    "questionText": "Which of the following Nigerian president initiated and facilitated the creation of NEPAD? (JAMB 2017)",
+    "questionText": "Which of the following Nigerian president initiated and facilitated the creation of NEPAD?",
     "options": [
       "Goodluck Jonathan",
       "Olusegun Obasanjo",
@@ -17989,7 +17989,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-599-729",
-    "questionText": "Shortage of trained personnel is a major problem of the __ (JAMB 2017)",
+    "questionText": "Shortage of trained personnel is a major problem of the __",
     "options": [
       "Federal Government",
       "State Governments",
@@ -18001,7 +18001,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-600-725",
-    "questionText": "Which of the following is a merit of aristocracy? (JAMB 2017)",
+    "questionText": "Which of the following is a merit of aristocracy?",
     "options": [
       "Leaders must have military experience",
       "The best citizen is in control of government",
@@ -18013,7 +18013,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-601-758",
-    "questionText": "The concentration of power on the units is a merit of __ (JAMB 2017)",
+    "questionText": "The concentration of power on the units is a merit of __",
     "options": [
       "quasi-federal-system",
       "confederal system",
@@ -18025,7 +18025,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-602-743",
-    "questionText": "The apex body under the military regime of Yakubu Gowon was __ (JAMB 2017)",
+    "questionText": "The apex body under the military regime of Yakubu Gowon was __",
     "options": [
       "Supreme military Council",
       "Federal Executive Council",
@@ -18037,7 +18037,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-603-731",
-    "questionText": "The popularity of a political party in given democracy rests on its __ (JAMB 2017)",
+    "questionText": "The popularity of a political party in given democracy rests on its __",
     "options": [
       "constitution",
       "manifesto",
@@ -18049,7 +18049,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-604-772",
-    "questionText": "The legal right to exercise power in a state is known as______ (JAMB 2017)",
+    "questionText": "The legal right to exercise power in a state is known as______",
     "options": [
       "Authority",
       "Sovereignity",
@@ -18061,7 +18061,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-605-770",
-    "questionText": "In the 18th century, a new wind of development blew over Europe and the development was referred to__________? (JAMB 2017)",
+    "questionText": "In the 18th century, a new wind of development blew over Europe and the development was referred to__________?",
     "options": [
       "Labour Revolution",
       "Doctrine Revolution",
@@ -18073,7 +18073,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-606-740",
-    "questionText": "Which of the following is the oldest Public Corporation in Nigeria? (JAMB 2017)",
+    "questionText": "Which of the following is the oldest Public Corporation in Nigeria?",
     "options": [
       "Power Distribution Company of Nigeria",
       "Nigeria Mining Corporation",
@@ -18085,7 +18085,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-607-747",
-    "questionText": "Which of the following is a major feature of democracy? (JAMB 2017)",
+    "questionText": "Which of the following is a major feature of democracy?",
     "options": [
       "Capacity to influence people",
       "Existence of political office holders",
@@ -18097,7 +18097,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-608-757",
-    "questionText": " Which of the following is a function of the civil service commission? (JAMB 2017)",
+    "questionText": " Which of the following is a function of the civil service commission?",
     "options": [
       "Enforcement of law and order",
       "Payment of civil servants salaries",
@@ -18109,7 +18109,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-609-751",
-    "questionText": "Universal Adult Suffrage permits all __ (JAMB 2017)",
+    "questionText": "Universal Adult Suffrage permits all __",
     "options": [
       "citizens to vote",
       "qualified male to vote",
@@ -18121,7 +18121,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-610-762",
-    "questionText": "An important element of the doctrine of separation of powers is __ (JAMB 2017)",
+    "questionText": "An important element of the doctrine of separation of powers is __",
     "options": [
       "Delegation of power",
       "Checks and Balances",
@@ -18133,7 +18133,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-611-732",
-    "questionText": "A system of local council that allows for rotational leadership is known as __ (JAMB 2017)",
+    "questionText": "A system of local council that allows for rotational leadership is known as __",
     "options": [
       "single executive",
       "dual executive",
@@ -18145,7 +18145,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-612-742",
-    "questionText": "The Ombudsman aims at ___ (JAMB 2017)",
+    "questionText": "The Ombudsman aims at ___",
     "options": [
       "offering qualitative educational services",
       "rendering alternative dispute resolution services",
@@ -18157,7 +18157,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-613-767",
-    "questionText": "The characteristics of the Civil Servants which prevent its officers from addressing the press unless directed is known as ________\n (JAMB 2017)",
+    "questionText": "The characteristics of the Civil Servants which prevent its officers from addressing the press unless directed is known as ________\n",
     "options": [
       "impartiality",
       "neutrality",
@@ -18169,7 +18169,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-614-764",
-    "questionText": "The Constitutional forms with two levels of Government is _________ (JAMB 2017)",
+    "questionText": "The Constitutional forms with two levels of Government is _________",
     "options": [
       "unitary",
       "Evolution",
@@ -18181,7 +18181,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-615-724",
-    "questionText": "Which of the following is a foremost right of a citizen? (JAMB 2017)",
+    "questionText": "Which of the following is a foremost right of a citizen?",
     "options": [
       "Religious right",
       "Academic right",
@@ -18193,7 +18193,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-616-736",
-    "questionText": "The three major political parties of the First Republic can be said to have had __ (JAMB 2017)",
+    "questionText": "The three major political parties of the First Republic can be said to have had __",
     "options": [
       "national outlook",
       "regional and ethnic undertone",
@@ -18205,7 +18205,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-617-734",
-    "questionText": "The political achievement of UN is the promotion of ___ (JAMB 2017)",
+    "questionText": "The political achievement of UN is the promotion of ___",
     "options": [
       "economic development",
       "educational development",
@@ -18217,7 +18217,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-618-763",
-    "questionText": "Nigeria's action towards the external environment is embedded in her ___ (JAMB 2017)",
+    "questionText": "Nigeria's action towards the external environment is embedded in her ___",
     "options": [
       "state policy",
       "party policy",
@@ -18229,7 +18229,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-619-733",
-    "questionText": "A type of constitution that is difficult to amend is described as – (JAMB 2017)",
+    "questionText": "A type of constitution that is difficult to amend is described as –",
     "options": [
       "written and flexible",
       "rigid and written",
@@ -18241,7 +18241,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-620-773",
-    "questionText": "Bills passed by the legislature usually requires the approval of the following except_______ (JAMB 2017)",
+    "questionText": "Bills passed by the legislature usually requires the approval of the following except_______",
     "options": [
       "Governor",
       "Member house of representative",
@@ -18253,7 +18253,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-621-738",
-    "questionText": "The chief executive system is associated with __ (JAMB 2017)",
+    "questionText": "The chief executive system is associated with __",
     "options": [
       "federalism",
       "presidentialism",
@@ -18265,7 +18265,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-622-737",
-    "questionText": "Development of the Civil Service relies on __ (JAMB 2017)",
+    "questionText": "Development of the Civil Service relies on __",
     "options": [
       "impartiality",
       "anonymity",
@@ -18277,7 +18277,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-623-771",
-    "questionText": "One major merit of the Unitary system of government is that_______? (JAMB 2017)",
+    "questionText": "One major merit of the Unitary system of government is that_______?",
     "options": [
       "is most democratic",
       "is cheaper to operate",
@@ -18289,7 +18289,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-624-744",
-    "questionText": "One of the problems of the Commonwealth of Nations is lack of __ (JAMB 2017)",
+    "questionText": "One of the problems of the Commonwealth of Nations is lack of __",
     "options": [
       "finance",
       "administrative structures",
@@ -18301,7 +18301,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-625-769",
-    "questionText": "In the year 1911, who argued most representative system deteriorates towards an Oligarchy or Patriarchy? (JAMB 2017)",
+    "questionText": "In the year 1911, who argued most representative system deteriorates towards an Oligarchy or Patriarchy?",
     "options": [
       "Robert Michels",
       "Adolf Gasser",
@@ -18313,7 +18313,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-626-741",
-    "questionText": "In 1987, Nigeria attained a federation of __ (JAMB 2017)",
+    "questionText": "In 1987, Nigeria attained a federation of __",
     "options": [
       "19 states",
       "12 states",
@@ -18325,7 +18325,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-627-759",
-    "questionText": " In fascism, the leader is __ (JAMB 2017)",
+    "questionText": " In fascism, the leader is __",
     "options": [
       "supreme",
       "democratic",
@@ -18337,7 +18337,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-628-745",
-    "questionText": "A major objective of Public Complaints Commission is __ (JAMB 2017)",
+    "questionText": "A major objective of Public Complaints Commission is __",
     "options": [
       "creating fair opportunities for all government employees",
       "training and promoting public servants",
@@ -18349,7 +18349,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-629-809",
-    "questionText": "In 1973, following an OAU resolution, Nigeria broke diplomatic relations with (JAMB 2018)",
+    "questionText": "In 1973, following an OAU resolution, Nigeria broke diplomatic relations with",
     "options": [
       "South Africa",
       "France",
@@ -18361,7 +18361,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-630-802",
-    "questionText": "A.V. Dicey popularised the principle of (JAMB 2018)",
+    "questionText": "A.V. Dicey popularised the principle of",
     "options": [
       "rule of law",
       "democracy",
@@ -18373,7 +18373,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-631-786",
-    "questionText": "An alien who has lived in Nigeria for twenty years may acquire citizenship by (JAMB 2018)",
+    "questionText": "An alien who has lived in Nigeria for twenty years may acquire citizenship by",
     "options": [
       "nationalisation",
       "naturalization",
@@ -18385,7 +18385,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-632-774",
-    "questionText": "Between 1960 and 1980, Nigeria experienced all the following systems of government except (JAMB 2018)",
+    "questionText": "Between 1960 and 1980, Nigeria experienced all the following systems of government except",
     "options": [
       "unitary",
       "federal",
@@ -18397,7 +18397,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-633-791",
-    "questionText": "The policy of Association was adopted by the. (JAMB 2018)",
+    "questionText": "The policy of Association was adopted by the.",
     "options": [
       "British to replace their policy of Indirect Rule",
       "French to replace their policy of Assimilation",
@@ -18409,7 +18409,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-634-784",
-    "questionText": "Which of the following is not an agent of political socialisation? (JAMB 2018)",
+    "questionText": "Which of the following is not an agent of political socialisation?",
     "options": [
       "Tourism",
       "Mass media",
@@ -18421,7 +18421,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-635-813",
-    "questionText": "Which of these international organisations is the predecessor of the United Nations? (JAMB 2018)",
+    "questionText": "Which of these international organisations is the predecessor of the United Nations?",
     "options": [
       "The European Economic Community",
       "The organisation of American Statess",
@@ -18433,7 +18433,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-636-822",
-    "questionText": "The creation of more states in Nigeria has_______\n (JAMB 2018)",
+    "questionText": "The creation of more states in Nigeria has_______\n",
     "options": [
       "eliminated ethnic and religious conflicts",
       "reduced the gap between the rich and poor states",
@@ -18445,7 +18445,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-637-800",
-    "questionText": "The ability to command obedience is called (JAMB 2018)",
+    "questionText": "The ability to command obedience is called",
     "options": [
       "authority",
       "influence",
@@ -18457,7 +18457,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-638-806",
-    "questionText": "A constitution is the (JAMB 2018)",
+    "questionText": "A constitution is the",
     "options": [
       "written document of traditional practices",
       "functional aspect of government activities",
@@ -18469,7 +18469,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-639-797",
-    "questionText": "Which of the following did not generate political crisis in Nigeria? (JAMB 2018)",
+    "questionText": "Which of the following did not generate political crisis in Nigeria?",
     "options": [
       "Adoption of Abuja as the New Federal General Elections Capital",
       "Motion for self government in 1956 by Enahoro",
@@ -18481,7 +18481,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-640-790",
-    "questionText": "The indirect rule system succeeded in the Hausa-Fulani society because the (JAMB 2018)",
+    "questionText": "The indirect rule system succeeded in the Hausa-Fulani society because the",
     "options": [
       "A society had only one religion",
       "people received Quranic education",
@@ -18493,7 +18493,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-641-812",
-    "questionText": "The major liberation organisation which fought for Namibia's independence was (JAMB 2018)",
+    "questionText": "The major liberation organisation which fought for Namibia's independence was",
     "options": [
       "SWAPO",
       "ANC",
@@ -18505,7 +18505,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-642-818",
-    "questionText": "In the cabinet system of government, individual responsibility of ministers means that ____________ (JAMB 2018)",
+    "questionText": "In the cabinet system of government, individual responsibility of ministers means that ____________",
     "options": [
       "only ministers can be held responsible for errors",
       "a minister must hold his subordinates responsible for his failures",
@@ -18517,7 +18517,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-643-821",
-    "questionText": "Power refers to the__________ (JAMB 2018)",
+    "questionText": "Power refers to the__________",
     "options": [
       "ability to impose one’s will upon others",
       "duties an individual imposes on himself",
@@ -18529,7 +18529,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-644-795",
-    "questionText": "The decision to separate Lagos from the Western Region and make it a neutral Territory was taken at the party constitutional conference (JAMB 2018)",
+    "questionText": "The decision to separate Lagos from the Western Region and make it a neutral Territory was taken at the party constitutional conference",
     "options": [
       "1950 general conference",
       "1953 constitutional conference",
@@ -18541,7 +18541,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-645-776",
-    "questionText": "The primary function of government in a state is to ___ (JAMB 2018)",
+    "questionText": "The primary function of government in a state is to ___",
     "options": [
       "build schools and hospitals",
       "provide transport services",
@@ -18553,7 +18553,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-646-789",
-    "questionText": "Delegated legislation is suitable for (JAMB 2018)",
+    "questionText": "Delegated legislation is suitable for",
     "options": [
       "relieving the parliament of its workload",
       "enthroning the rule of law",
@@ -18565,7 +18565,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-647-799",
-    "questionText": "Democracy can be promoted through (JAMB 2018)",
+    "questionText": "Democracy can be promoted through",
     "options": [
       "gerrymandering",
       "slander",
@@ -18577,7 +18577,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-648-805",
-    "questionText": "The concept of collective responsibility is synonymous with (JAMB 2018)",
+    "questionText": "The concept of collective responsibility is synonymous with",
     "options": [
       "presidential system of government",
       "military system of government",
@@ -18589,7 +18589,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-649-808",
-    "questionText": "A rigid constitution is a feature of (JAMB 2018)",
+    "questionText": "A rigid constitution is a feature of",
     "options": [
       "unitary system",
       "monarchical system",
@@ -18601,7 +18601,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-650-793",
-    "questionText": "One major achievement of the Richards Constitution of Nigeria was that it (JAMB 2018)",
+    "questionText": "One major achievement of the Richards Constitution of Nigeria was that it",
     "options": [
       "united the North and South under a single legislature",
       "provided for official African members of the Executive Council",
@@ -18613,7 +18613,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-651-787",
-    "questionText": "In a republic parliamentary system of government, the ceremonial Head of State is the (JAMB 2018)",
+    "questionText": "In a republic parliamentary system of government, the ceremonial Head of State is the",
     "options": [
       "Chief Justice",
       "Prime Minister",
@@ -18625,7 +18625,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-652-792",
-    "questionText": "Nationalism in Africa eventually led to (JAMB 2018)",
+    "questionText": "Nationalism in Africa eventually led to",
     "options": [
       "a rapid political awareness among the colonialists",
       "the alignment of the new states",
@@ -18637,7 +18637,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-653-810",
-    "questionText": "Nigeria's foreign policy of non-alignment was a reaction to (JAMB 2018)",
+    "questionText": "Nigeria's foreign policy of non-alignment was a reaction to",
     "options": [
       "British imperialism",
       "East-West ideological competition",
@@ -18649,7 +18649,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-654-788",
-    "questionText": "A representative government can be established through (JAMB 2018)",
+    "questionText": "A representative government can be established through",
     "options": [
       "a general election",
       "a military coup",
@@ -18661,7 +18661,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-655-798",
-    "questionText": "A system of government where political powers are inherited is called (JAMB 2018)",
+    "questionText": "A system of government where political powers are inherited is called",
     "options": [
       "monarchy",
       "diarchy",
@@ -18673,7 +18673,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-656-804",
-    "questionText": " In which of the following political systems is rule of law most enhanced? (JAMB 2018)",
+    "questionText": " In which of the following political systems is rule of law most enhanced?",
     "options": [
       "Cabinet system",
       "Feudal system",
@@ -18685,7 +18685,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-657-814",
-    "questionText": "The second ballot is based on the principle that a successful candidate must obtain (JAMB 2018)",
+    "questionText": "The second ballot is based on the principle that a successful candidate must obtain",
     "options": [
       "absolute majority",
       "simple majority",
@@ -18697,7 +18697,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-658-781",
-    "questionText": "n democracies, the political participation could be restricted on the basis of (JAMB 2018)",
+    "questionText": "n democracies, the political participation could be restricted on the basis of",
     "options": [
       "religion",
       "age",
@@ -18709,7 +18709,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-659-775",
-    "questionText": "Which of the following was the first political party in Nigeria? (JAMB 2018)",
+    "questionText": "Which of the following was the first political party in Nigeria?",
     "options": [
       "The Action Group (AG)",
       "Northern People's Congress (NPC)",
@@ -18721,7 +18721,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-660-801",
-    "questionText": "Legitimacy is determined mainly by (JAMB 2018)",
+    "questionText": "Legitimacy is determined mainly by",
     "options": [
       "charisma",
       "influence",
@@ -18733,7 +18733,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-661-816",
-    "questionText": "Political authority is vested in the_________ (JAMB 2018)",
+    "questionText": "Political authority is vested in the_________",
     "options": [
       "state",
       "judiciary",
@@ -18745,7 +18745,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-662-782",
-    "questionText": "Disenfranchisement refers to the (JAMB 2018)",
+    "questionText": "Disenfranchisement refers to the",
     "options": [
       "qualification of voters in an election",
       "Disqualification of fraudulent president aspirants",
@@ -18757,7 +18757,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-663-777",
-    "questionText": "A country is most likely to have a good government only if it has (JAMB 2018)",
+    "questionText": "A country is most likely to have a good government only if it has",
     "options": [
       "a good constitution but bad operators",
       "good operators but bad constitution",
@@ -18769,7 +18769,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-664-811",
-    "questionText": " Which of the following countries had a strained relationship with Nigeria over the Angolan crisis of 1975? (JAMB 2018)",
+    "questionText": " Which of the following countries had a strained relationship with Nigeria over the Angolan crisis of 1975?",
     "options": [
       "The Soviet Union",
       "Tanzania",
@@ -18781,7 +18781,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-665-807",
-    "questionText": "Which of the following cannot be found in a constitution? (JAMB 2018)",
+    "questionText": "Which of the following cannot be found in a constitution?",
     "options": [
       "Fundamental Human Rights",
       "Manifestos of political parties",
@@ -18793,7 +18793,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-666-778",
-    "questionText": "Which of the following is a basic principle of democracy? Rule by (JAMB 2018)",
+    "questionText": "Which of the following is a basic principle of democracy? Rule by",
     "options": [
       "the majority and the right of the minority",
       "the minority at the expense of the majority",
@@ -18805,7 +18805,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-667-820",
-    "questionText": "In 1993, Nigerian troops were on peace-keeping assignment to (JAMB 2018)",
+    "questionText": "In 1993, Nigerian troops were on peace-keeping assignment to",
     "options": [
       "Liberia and Burundi",
       "Rwanda and liberia",
@@ -18817,7 +18817,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-668-780",
-    "questionText": "Which organ of government is vested with the responsibility of initiating bills and recommending them to the legislature for consideration? (JAMB 2018)",
+    "questionText": "Which organ of government is vested with the responsibility of initiating bills and recommending them to the legislature for consideration?",
     "options": [
       "Federal House of Representatives",
       "Executive",
@@ -18829,7 +18829,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-669-831",
-    "questionText": "The political party serves as________ (JAMB 2019)",
+    "questionText": "The political party serves as________",
     "options": [
       "A platform upon which the rights and liberties of the people can be attained",
       "The group aggregating the interest of all in the state",
@@ -18841,7 +18841,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461564-670-866",
-    "questionText": "A predominant feature of the Precolonial governance system was that_________ (JAMB 2019)",
+    "questionText": "A predominant feature of the Precolonial governance system was that_________",
     "options": [
       "the British Indirect rule system penetrated it largely",
       "the governance structures were largely undefined",
@@ -18853,7 +18853,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-671-834",
-    "questionText": "A vote of no confidence means______ (JAMB 2019)",
+    "questionText": "A vote of no confidence means______",
     "options": [
       "the same as impeachment in a presidential system",
       "the ability of the head of state to dissolve the parliament when collective responsibility fails to hold",
@@ -18865,7 +18865,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-672-859",
-    "questionText": "Nigeria's federalism is often considered a flaw along the standard test of the Classical federalism ideology labelled along with_______ (JAMB 2019)",
+    "questionText": "Nigeria's federalism is often considered a flaw along the standard test of the Classical federalism ideology labelled along with_______",
     "options": [
       "Abraham Lincoln",
       "K.C Wheare",
@@ -18877,7 +18877,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-673-853",
-    "questionText": "The federal judge under the 1963 constitution could be removed by the______ (JAMB 2019)",
+    "questionText": "The federal judge under the 1963 constitution could be removed by the______",
     "options": [
       "2/3 majority of the National Assembly",
       "Federal Judicial Service Commission",
@@ -18889,7 +18889,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-674-827",
-    "questionText": "An order compelling a lower court or public corporation to perform in accordance with legitimacy is called_________ (JAMB 2019)",
+    "questionText": "An order compelling a lower court or public corporation to perform in accordance with legitimacy is called_________",
     "options": [
       "the writ of mandamus",
       "the great writ",
@@ -18901,7 +18901,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-675-858",
-    "questionText": "The Green Revolution programme was the effected manifesto of the ........ in 1979 (JAMB 2019)",
+    "questionText": "The Green Revolution programme was the effected manifesto of the ........ in 1979",
     "options": [
       "UPN",
       "NPN",
@@ -18913,7 +18913,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-676-829",
-    "questionText": "Deconcentration of power means the_______ (JAMB 2019)",
+    "questionText": "Deconcentration of power means the_______",
     "options": [
       "sharing of powers among tiers of government",
       "creation of semi autonomous units to govern other parts of a state",
@@ -18925,7 +18925,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-677-867",
-    "questionText": "In most recent times, a seemingly workable solution to the Nigerian federal question is that of_______ (JAMB 2019)",
+    "questionText": "In most recent times, a seemingly workable solution to the Nigerian federal question is that of_______",
     "options": [
       "state police",
       "restructuring",
@@ -18937,7 +18937,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-678-836",
-    "questionText": "Popular political participation means________ (JAMB 2019)",
+    "questionText": "Popular political participation means________",
     "options": [
       "having majority of the people partaking in politics",
       "having a good number of voters in the electoral process",
@@ -18949,7 +18949,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-679-871",
-    "questionText": "Class stratification is a peculiar feature of___________ (JAMB 2019)",
+    "questionText": "Class stratification is a peculiar feature of___________",
     "options": [
       "capitalism",
       "communism",
@@ -18961,7 +18961,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-680-857",
-    "questionText": "The Economic and Financials Crime Commission (EFCC) scope and nature of duty may not extend to_______ (JAMB 2019)",
+    "questionText": "The Economic and Financials Crime Commission (EFCC) scope and nature of duty may not extend to_______",
     "options": [
       "arresting suspects of cyber crime and online fraud",
       "arresting the giver and the taker in a corruption case",
@@ -18973,7 +18973,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-681-838",
-    "questionText": "Citizenship by naturalization________ (JAMB 2019)",
+    "questionText": "Citizenship by naturalization________",
     "options": [
       "is the same as citizenship by marriage and registeration",
       "refers to the process of attaining citizenship through honorary means",
@@ -18985,7 +18985,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-682-852",
-    "questionText": "The most recent target plans and agenda of the United Nations are known as the______ (JAMB 2019)",
+    "questionText": "The most recent target plans and agenda of the United Nations are known as the______",
     "options": [
       "Resolution 2020",
       "Millenium Development Goals",
@@ -18997,7 +18997,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-683-863",
-    "questionText": "The fact that the office of the Chairman is rotational in ECOWAS makes it a perfect example of a/an ........ (JAMB 2019)",
+    "questionText": "The fact that the office of the Chairman is rotational in ECOWAS makes it a perfect example of a/an ........",
     "options": [
       "Cartel",
       "Confederacy",
@@ -19009,7 +19009,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-684-826",
-    "questionText": "The right of a citizen to seek redress means the right to________ (JAMB 2019)",
+    "questionText": "The right of a citizen to seek redress means the right to________",
     "options": [
       "fair hearing",
       "free access to legal materials",
@@ -19021,7 +19021,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-685-824",
-    "questionText": "In a democratic system _______ (JAMB 2019)",
+    "questionText": "In a democratic system _______",
     "options": [
       "Majority Vote",
       "Legal Sovereignty shouldn't be unquestionable",
@@ -19033,7 +19033,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-686-845",
-    "questionText": "The basis of the Nigerian foreign policy thrust particularly during the Independence Constitution era was ... in nature (JAMB 2019)",
+    "questionText": "The basis of the Nigerian foreign policy thrust particularly during the Independence Constitution era was ... in nature",
     "options": [
       "afrocentric",
       "eurocentric",
@@ -19045,7 +19045,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-687-856",
-    "questionText": "In the 4th republic, the political parties were______ (JAMB 2019)",
+    "questionText": "In the 4th republic, the political parties were______",
     "options": [
       "NAP, PDP and APGA",
       "PDP, APP, AD",
@@ -19057,7 +19057,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-688-843",
-    "questionText": "The Hausa/Fulani Empire as a result of its heterogeneous population adopted_________ (JAMB 2019)",
+    "questionText": "The Hausa/Fulani Empire as a result of its heterogeneous population adopted_________",
     "options": [
       "A unitary system where full concentration of power prevailed",
       "A federal structure where powers were decentralized although autocratic",
@@ -19069,7 +19069,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-689-849",
-    "questionText": "An important provision of the 1946 constitution was that it ........ (JAMB 2019)",
+    "questionText": "An important provision of the 1946 constitution was that it ........",
     "options": [
       "conceived federalism for Nigeria",
       "introduced federalism in Nigeria",
@@ -19081,7 +19081,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-690-835",
-    "questionText": "A cabinet reshuffle takes place...... (JAMB 2019)",
+    "questionText": "A cabinet reshuffle takes place......",
     "options": [
       "only when a motion of no confidence is passed",
       "when dissolution is held",
@@ -19093,7 +19093,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-691-841",
-    "questionText": "A form of government organized by a council of military officers is called______ (JAMB 2019)",
+    "questionText": "A form of government organized by a council of military officers is called______",
     "options": [
       "Militocracy",
       "Stratocracy",
@@ -19105,7 +19105,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-692-825",
-    "questionText": "That type of sovereignty that thrives on legitimacy is__________ (JAMB 2019)",
+    "questionText": "That type of sovereignty that thrives on legitimacy is__________",
     "options": [
       "external sovereignty",
       "vested on any form of government",
@@ -19117,7 +19117,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-693-873",
-    "questionText": "Lobbying is often a strategy adopted by________ (JAMB 2019)",
+    "questionText": "Lobbying is often a strategy adopted by________",
     "options": [
       "political parties",
       "public corporations",
@@ -19129,7 +19129,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-694-848",
-    "questionText": "One of the major defects of the Nigerian council which necessitated its replacement was that.... (JAMB 2019)",
+    "questionText": "One of the major defects of the Nigerian council which necessitated its replacement was that....",
     "options": [
       "the meetings of the council were poorly attended",
       "the council could only make law for the southern protectorate",
@@ -19141,7 +19141,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-695-833",
-    "questionText": "Argumentation, negotiation and deliberation on the subject matter of a bill begins at the_______ (JAMB 2019)",
+    "questionText": "Argumentation, negotiation and deliberation on the subject matter of a bill begins at the_______",
     "options": [
       "third stage",
       "first reading",
@@ -19153,7 +19153,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-696-861",
-    "questionText": "Executive Council of the African Union makes decision by_______ (JAMB 2019)",
+    "questionText": "Executive Council of the African Union makes decision by_______",
     "options": [
       "1/3 majority vote",
       "discretion",
@@ -19165,7 +19165,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-697-862",
-    "questionText": "Amendment of the U. N. O. charter is the duty of the ........ (JAMB 2019)",
+    "questionText": "Amendment of the U. N. O. charter is the duty of the ........",
     "options": [
       "Security Council",
       "Secretariat",
@@ -19177,7 +19177,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-698-854",
-    "questionText": "Under the 1999 constitution, the Chief Law Officer and the Supreme Court Judge respectively are the_______  (JAMB 2019)",
+    "questionText": "Under the 1999 constitution, the Chief Law Officer and the Supreme Court Judge respectively are the_______",
     "options": [
       "Chief Justice, Chief Judge",
       "Minister of Justice, Chief Judge",
@@ -19189,7 +19189,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-699-865",
-    "questionText": "The delineation of electoral constituencies for reasons of political advantage is termed___________ (JAMB 2019)",
+    "questionText": "The delineation of electoral constituencies for reasons of political advantage is termed___________",
     "options": [
       "dissolution",
       "prorogation",
@@ -19201,7 +19201,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-700-847",
-    "questionText": "According to Lewis Samuel, '________ is identified with pure conquest and unequivocal exploitation...' (JAMB 2019)",
+    "questionText": "According to Lewis Samuel, '________ is identified with pure conquest and unequivocal exploitation...'",
     "options": [
       "Neo colonialism",
       "Progressive Imperialism",
@@ -19213,7 +19213,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-701-830",
-    "questionText": "The concept of the independence of the judiciary means that________ (JAMB 2019)",
+    "questionText": "The concept of the independence of the judiciary means that________",
     "options": [
       "The judiciary must not attempt to meddle into legislative and executive affairs",
       "The powers of the courts can not be subjected of executive re-assessment",
@@ -19225,7 +19225,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461565-702-864",
-    "questionText": "The newspaper established by Dr. Nnamdi Azikiwe to project the interest of nationalists was__________ (JAMB 2019)",
+    "questionText": "The newspaper established by Dr. Nnamdi Azikiwe to project the interest of nationalists was__________",
     "options": [
       "West African Pilot",
       "Lagos Weekly Record",
@@ -19237,7 +19237,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-703-828",
-    "questionText": "A form of government which has its slogan to be 'ruling of the best' is__________ (JAMB 2019)",
+    "questionText": "A form of government which has its slogan to be 'ruling of the best' is__________",
     "options": [
       "democracy",
       "aristocracy",
@@ -19249,7 +19249,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-704-860",
-    "questionText": "The most representative organ of the united nations is the_______ (JAMB 2019)",
+    "questionText": "The most representative organ of the united nations is the_______",
     "options": [
       "General Assembly",
       "Security Council",
@@ -19261,7 +19261,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-705-851",
-    "questionText": "Implementations of the target programmes of the government is the primary duty of the _____ a part of the _____ (JAMB 2019)",
+    "questionText": "Implementations of the target programmes of the government is the primary duty of the _____ a part of the _____",
     "options": [
       "Courts; Judiciary",
       "Public Service; Civil Service",
@@ -19273,7 +19273,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-706-842",
-    "questionText": "The non-stratified society in the pre-colonial era was that of the ........ where decisions were made________ (JAMB 2019)",
+    "questionText": "The non-stratified society in the pre-colonial era was that of the ........ where decisions were made________",
     "options": [
       "Yoruba, by the Oyomesi",
       "Igbo, by consensus",
@@ -19285,7 +19285,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-707-870",
-    "questionText": "The term ultra vires means_________ (JAMB 2019)",
+    "questionText": "The term ultra vires means_________",
     "options": [
       "the exercise of supervisory functions by the judiciary",
       "a situation where a public authority dutifully performs its functions",
@@ -19297,7 +19297,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-708-837",
-    "questionText": "The area from which one or more members or representatives are elected in public offices is called the electoral ........ (JAMB 2019)",
+    "questionText": "The area from which one or more members or representatives are elected in public offices is called the electoral ........",
     "options": [
       "College",
       "Constituency",
@@ -19309,7 +19309,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-709-881",
-    "questionText": "A bill that applies to the whole population and is intended to promote the general welfare is called _________ (JAMB 2020)",
+    "questionText": "A bill that applies to the whole population and is intended to promote the general welfare is called _________",
     "options": [
       "a private bill",
       "a decree",
@@ -19321,7 +19321,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-710-900",
-    "questionText": "The highest court in Nigeria before 1963 was the _________ (JAMB 2020)",
+    "questionText": "The highest court in Nigeria before 1963 was the _________",
     "options": [
       "Supreme Court",
       "High Court",
@@ -19333,7 +19333,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-711-876",
-    "questionText": "The judicial organ of government is the body which _________ (JAMB 2020)",
+    "questionText": "The judicial organ of government is the body which _________",
     "options": [
       "implements the law",
       "makes the law",
@@ -19345,7 +19345,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-712-891",
-    "questionText": "While pressure groups aim at influencing government decisions, the primary aim of political parties is to ______ (JAMB 2020)",
+    "questionText": "While pressure groups aim at influencing government decisions, the primary aim of political parties is to ______",
     "options": [
       "promote the welfare of their members",
       "execute particular programmes",
@@ -19357,7 +19357,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-713-888",
-    "questionText": "A characteristic feature of communism is __________ (JAMB 2020)",
+    "questionText": "A characteristic feature of communism is __________",
     "options": [
       "Free enterprise",
       "liberal democracy",
@@ -19369,7 +19369,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-714-911",
-    "questionText": "The economic basis of feudalism is __________ (JAMB 2020)",
+    "questionText": "The economic basis of feudalism is __________",
     "options": [
       "agriculture",
       "capital",
@@ -19381,7 +19381,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-715-893",
-    "questionText": "Southern Nigeria was divided into Eastern and Western provinces for administrative purposes in _________ (JAMB 2020)",
+    "questionText": "Southern Nigeria was divided into Eastern and Western provinces for administrative purposes in _________",
     "options": [
       "1935",
       "1937",
@@ -19393,7 +19393,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-716-906",
-    "questionText": "Nigeria's non-aligned policy means that she will _________ (JAMB 2020)",
+    "questionText": "Nigeria's non-aligned policy means that she will _________",
     "options": [
       "have nothing to do with the superpowers",
       "not take sides in international issues based on ideological considerations",
@@ -19405,7 +19405,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-717-884",
-    "questionText": "A system of government in which power derives from total control of the instruments of force is called ___________ (JAMB 2020)",
+    "questionText": "A system of government in which power derives from total control of the instruments of force is called ___________",
     "options": [
       "monarchy",
       "oligarchy",
@@ -19417,7 +19417,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-718-883",
-    "questionText": "The theory of separation of powers was first time clearly formulated by __________ (JAMB 2020)",
+    "questionText": "The theory of separation of powers was first time clearly formulated by __________",
     "options": [
       "Jean Bodin",
       "Jean Austin",
@@ -19429,7 +19429,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-719-909",
-    "questionText": "The delineation of constituencies is a major duty of the __________ (JAMB 2020)",
+    "questionText": "The delineation of constituencies is a major duty of the __________",
     "options": [
       "electoral commission",
       "boundary commission",
@@ -19441,7 +19441,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-720-889",
-    "questionText": "Africans were first elected to the legislative council in British West Africa in _________ (JAMB 2020)",
+    "questionText": "Africans were first elected to the legislative council in British West Africa in _________",
     "options": [
       "Ghana",
       "Sierra Leone",
@@ -19453,7 +19453,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-721-905",
-    "questionText": "Which of the following was the last to win independence from colonial rule ? (JAMB 2020)",
+    "questionText": "Which of the following was the last to win independence from colonial rule ?",
     "options": [
       "Cote d'Ivoire",
       "Algeria",
@@ -19465,7 +19465,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-722-887",
-    "questionText": "The founder of the Universal Negro Improvement Association was ________ (JAMB 2020)",
+    "questionText": "The founder of the Universal Negro Improvement Association was ________",
     "options": [
       "Casey Hayford",
       "Herbert Macaulay",
@@ -19477,7 +19477,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-723-901",
-    "questionText": "A feature unique to General Murtala Muhammed's Supreme Military Council as compared to that of General Yakubu Gowon was the _________ (JAMB 2020)",
+    "questionText": "A feature unique to General Murtala Muhammed's Supreme Military Council as compared to that of General Yakubu Gowon was the _________",
     "options": [
       "inclusion of the civilians as members",
       "exclusion of military governors from the council",
@@ -19489,7 +19489,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-724-907",
-    "questionText": "The charter of the United Nations was drawn up in ________ (JAMB 2020)",
+    "questionText": "The charter of the United Nations was drawn up in ________",
     "options": [
       "New York",
       "San Franciso",
@@ -19501,7 +19501,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-725-902",
-    "questionText": "In the First Republic, Nigeria was very reluctant to have meaningful interaction with ________ (JAMB 2020)",
+    "questionText": "In the First Republic, Nigeria was very reluctant to have meaningful interaction with ________",
     "options": [
       "Italy",
       "the Soviet Union",
@@ -19513,7 +19513,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-726-890",
-    "questionText": "When a state is subject to no other authority, it is said to be _________ (JAMB 2020)",
+    "questionText": "When a state is subject to no other authority, it is said to be _________",
     "options": [
       "powerful",
       "legitmate",
@@ -19525,7 +19525,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-727-910",
-    "questionText": "A meeting of the legislature is usually brought to an end with __________ (JAMB 2020)",
+    "questionText": "A meeting of the legislature is usually brought to an end with __________",
     "options": [
       "an adjournment",
       "a prorogation",
@@ -19537,7 +19537,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-728-880",
-    "questionText": "Which of the following is a good example of a confederal state? (JAMB 2020)",
+    "questionText": "Which of the following is a good example of a confederal state?",
     "options": [
       "Nigeria",
       "ECOWAS",
@@ -19549,7 +19549,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-729-896",
-    "questionText": "A condition for judicial independence is the appointment of judges by the __________ (JAMB 2020)",
+    "questionText": "A condition for judicial independence is the appointment of judges by the __________",
     "options": [
       "Civil Service",
       "Judicial Service Commission",
@@ -19561,7 +19561,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-730-892",
-    "questionText": "In the traditional Hausa-Fulani political system, political authority was vested in the ___________ (JAMB 2020)",
+    "questionText": "In the traditional Hausa-Fulani political system, political authority was vested in the ___________",
     "options": [
       "Emir",
       "Talakawa",
@@ -19573,7 +19573,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-731-898",
-    "questionText": "Warrant Chiefs were appointed to __________ (JAMB 2020)",
+    "questionText": "Warrant Chiefs were appointed to __________",
     "options": [
       "Prevent tribal wars",
       "supervise native courts",
@@ -19585,7 +19585,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-732-886",
-    "questionText": "The Fundamental Objectives and Directive Principles of State Policy in the 1979 constitution do not include _________ (JAMB 2020)",
+    "questionText": "The Fundamental Objectives and Directive Principles of State Policy in the 1979 constitution do not include _________",
     "options": [
       "democracy and social justice",
       "federal character and inequality",
@@ -19597,7 +19597,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-733-885",
-    "questionText": "The British Government revoked the charter of the Royal Niger Company and took over the direct administration of Nigeria in _________ (JAMB 2020)",
+    "questionText": "The British Government revoked the charter of the Royal Niger Company and took over the direct administration of Nigeria in _________",
     "options": [
       "1861",
       "1900",
@@ -19609,7 +19609,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-734-874",
-    "questionText": "A constitution is a legal document _________ (JAMB 2020)",
+    "questionText": "A constitution is a legal document _________",
     "options": [
       "drawn up by lawyers",
       "enacted by military decrees",
@@ -19621,7 +19621,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-735-903",
-    "questionText": "The Gulf War of 1990 is an indication that the U. N. O. is unable to _______ (JAMB 2020)",
+    "questionText": "The Gulf War of 1990 is an indication that the U. N. O. is unable to _______",
     "options": [
       "ensure free world trade",
       "stop colonialism",
@@ -19633,7 +19633,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-736-877",
-    "questionText": "Which of the following was not established by the 1979 Nigerian constitution? (JAMB 2020)",
+    "questionText": "Which of the following was not established by the 1979 Nigerian constitution?",
     "options": [
       "Police Service Commission",
       "National Universities Commission",
@@ -19645,7 +19645,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-737-908",
-    "questionText": "The idea of making the civil service permanent, neutral and anonymous is to _________ (JAMB 2020)",
+    "questionText": "The idea of making the civil service permanent, neutral and anonymous is to _________",
     "options": [
       "make civil servants a functional elite",
       "prevent opposition to government",
@@ -19657,7 +19657,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-738-899",
-    "questionText": "The application of the rule of law may be constrained by ________ (JAMB 2020)",
+    "questionText": "The application of the rule of law may be constrained by ________",
     "options": [
       "securing the tenure of office of judges",
       "insulating judges from partisan politicss",
@@ -19669,7 +19669,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-739-879",
-    "questionText": "In a democracy, sovereignty is in _________ (JAMB 2020)",
+    "questionText": "In a democracy, sovereignty is in _________",
     "options": [
       "the community",
       "public officials",
@@ -19681,7 +19681,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-740-878",
-    "questionText": "Rates are generally collected in Nigeria by ________ (JAMB 2020)",
+    "questionText": "Rates are generally collected in Nigeria by ________",
     "options": [
       "the State Ministry of Finance",
       "the Department of inland Revenue",
@@ -19693,7 +19693,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-741-882",
-    "questionText": "Fascism developed in________ (JAMB 2020)",
+    "questionText": "Fascism developed in________",
     "options": [
       "France",
       "Germany",
@@ -19705,7 +19705,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-742-895",
-    "questionText": "A set of internalized norms which guides political action is called ________ (JAMB 2020)",
+    "questionText": "A set of internalized norms which guides political action is called ________",
     "options": [
       "power",
       "values",
@@ -19717,7 +19717,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-743-875",
-    "questionText": "A government in which control of ultimate power is by a few who rule in their selfish interest is classified as _________ (JAMB 2020)",
+    "questionText": "A government in which control of ultimate power is by a few who rule in their selfish interest is classified as _________",
     "options": [
       "an oligarchy",
       "a dictatorship",
@@ -19729,7 +19729,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-744-894",
-    "questionText": "Within the United Nations, the vote power is exercised in __________ (JAMB 2020)",
+    "questionText": "Within the United Nations, the vote power is exercised in __________",
     "options": [
       "UNESCO",
       "WHO",
@@ -19741,7 +19741,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-745-912",
-    "questionText": "NEPAD was adopted during the OAU summit held in _________ (JAMB 2020)",
+    "questionText": "NEPAD was adopted during the OAU summit held in _________",
     "options": [
       "Tunis",
       "Lusaka",
@@ -19753,7 +19753,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-746-913",
-    "questionText": "The Premier of Western Region immediately after independence was _________ (JAMB 2020)",
+    "questionText": "The Premier of Western Region immediately after independence was _________",
     "options": [
       "Chief Obafemi Awolowo",
       "Chief Ladoke Akintola",
@@ -19765,7 +19765,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-747-904",
-    "questionText": "The simple plurality electoral system is often criticized because _________ (JAMB 2020)",
+    "questionText": "The simple plurality electoral system is often criticized because _________",
     "options": [
       "the ruling party may lose the election",
       "the winner may not poll an absolute majority",
@@ -19777,7 +19777,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-748-897",
-    "questionText": "Which of the following is not associated with local government elections? (JAMB 2020)",
+    "questionText": "Which of the following is not associated with local government elections?",
     "options": [
       "Constituency",
       "Ballot Box",
@@ -19789,7 +19789,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-749-949",
-    "questionText": "The citizenship of a country could be acquired through______ (JAMB 2021)",
+    "questionText": "The citizenship of a country could be acquired through______",
     "options": [
       "President proclamation",
       "Registration and arbitration",
@@ -19801,7 +19801,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-750-927",
-    "questionText": "Nigeria's withdrawal from the Edinburg Commonwealth Games in July 1986 was in protest against British… (JAMB 2021)",
+    "questionText": "Nigeria's withdrawal from the Edinburg Commonwealth Games in July 1986 was in protest against British…",
     "options": [
       "Failure to impose sanctions on South Africa",
       "Negative utterances on Nigeria",
@@ -19813,7 +19813,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-751-952",
-    "questionText": "The type of government operated in Nigeria between October 1st 1979 to December 3 1983 is called a __________ (JAMB 2021)",
+    "questionText": "The type of government operated in Nigeria between October 1st 1979 to December 3 1983 is called a __________",
     "options": [
       "Collegial system of government",
       "Presidential system of government",
@@ -19825,7 +19825,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-752-935",
-    "questionText": "A major issue that distinguishes pressure groups from political parties is the … (JAMB 2021)",
+    "questionText": "A major issue that distinguishes pressure groups from political parties is the …",
     "options": [
       "Ideology",
       "Objective",
@@ -19837,7 +19837,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-753-930",
-    "questionText": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalized in the late 1970s for transacting business with … (JAMB 2021)",
+    "questionText": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalized in the late 1970s for transacting business with …",
     "options": [
       "Libya",
       "South Africa",
@@ -19849,7 +19849,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-754-944",
-    "questionText": "Under the 1999 Constitution, the appointment of Ministers and Ambassadors must be ratified by the ........ (JAMB 2021)",
+    "questionText": "Under the 1999 Constitution, the appointment of Ministers and Ambassadors must be ratified by the ........",
     "options": [
       "Senate",
       "House of Representatives",
@@ -19861,7 +19861,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-755-923",
-    "questionText": "The fees collected by local governments at motor parks represent ______ (JAMB 2021)",
+    "questionText": "The fees collected by local governments at motor parks represent ______",
     "options": [
       "Income tax",
       "User charge",
@@ -19873,7 +19873,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-756-928",
-    "questionText": "During the Civil War, the major power that expressed moral support for Biafra's self- determination was ...... (JAMB 2021)",
+    "questionText": "During the Civil War, the major power that expressed moral support for Biafra's self- determination was ......",
     "options": [
       "Great Britain",
       "China",
@@ -19885,7 +19885,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-757-933",
-    "questionText": "The independent National Electoral Commission has the power to prepare and maintain the register of.____ (JAMB 2021)",
+    "questionText": "The independent National Electoral Commission has the power to prepare and maintain the register of.____",
     "options": [
       "Electoral candidates",
       "Constituencies",
@@ -19897,7 +19897,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-758-950",
-    "questionText": " A common feature of government is________ (JAMB 2021)",
+    "questionText": " A common feature of government is________",
     "options": [
       "The making of public policy",
       "The separation of powers",
@@ -19909,7 +19909,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-759-916",
-    "questionText": "Government by the wealthy is known as _________ (JAMB 2021)",
+    "questionText": "Government by the wealthy is known as _________",
     "options": [
       "Democracy",
       "Plutocracy",
@@ -19921,7 +19921,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-760-942",
-    "questionText": "The fundamental rights of citizens include the following EXCEPT....... (JAMB 2021)",
+    "questionText": "The fundamental rights of citizens include the following EXCEPT.......",
     "options": [
       "Association, property and social security",
       "Life, liberty and property",
@@ -19933,7 +19933,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-761-932",
-    "questionText": "The ....... is responsible for advising the president of Nigeria on the sovereignty and territorial Integrity of the country. (JAMB 2021)",
+    "questionText": "The ....... is responsible for advising the president of Nigeria on the sovereignty and territorial Integrity of the country.",
     "options": [
       "National Defence Council",
       "Council of State",
@@ -19945,7 +19945,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-762-924",
-    "questionText": "The lbadan Conference of 1950 was convened to discuss the provisions of the .... (JAMB 2021)",
+    "questionText": "The lbadan Conference of 1950 was convened to discuss the provisions of the ....",
     "options": [
       "Richards Constitution",
       "Macpherson Constitution",
@@ -19957,7 +19957,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-763-953",
-    "questionText": "Financial allocation to local governments by the federal or the state government to supplement the cost of a project is called_____  (JAMB 2021)",
+    "questionText": "Financial allocation to local governments by the federal or the state government to supplement the cost of a project is called_____",
     "options": [
       "Revenue allocation",
       "Reimbursement",
@@ -19969,7 +19969,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-764-917",
-    "questionText": "Professor lbrahim Gambari was the Special Assistant to the United Nations Secretary General on____________ (JAMB 2021)",
+    "questionText": "Professor lbrahim Gambari was the Special Assistant to the United Nations Secretary General on____________",
     "options": [
       "Security matters",
       "African affairs",
@@ -19981,7 +19981,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-765-926",
-    "questionText": "The Economic Community of West African States has made progress in the area of .... (JAMB 2021)",
+    "questionText": "The Economic Community of West African States has made progress in the area of ....",
     "options": [
       "Increased trade among members",
       "Providing financial aid to members",
@@ -19993,7 +19993,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-766-941",
-    "questionText": "________refers to the manipulation of boundaries of constituencies in order to win more seats, (JAMB 2021)",
+    "questionText": "________refers to the manipulation of boundaries of constituencies in order to win more seats,",
     "options": [
       "Delimitation",
       "Devolution",
@@ -20005,7 +20005,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-767-929",
-    "questionText": "____was the first Nigerian Permanent Representative to the United Nations. (JAMB 2021)",
+    "questionText": "____was the first Nigerian Permanent Representative to the United Nations.",
     "options": [
       "Chief Samuel Adebo",
       "Professor Ibrahim Gambari",
@@ -20017,7 +20017,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-768-922",
-    "questionText": "The first Nigerian constitution to provide for the Fundamental objectives and directive principles of the state policy was the _________ (JAMB 2021)",
+    "questionText": "The first Nigerian constitution to provide for the Fundamental objectives and directive principles of the state policy was the _________",
     "options": [
       "1999 Constitution",
       "1979 Constitution",
@@ -20029,7 +20029,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-769-945",
-    "questionText": "In the First Republic, the official opposition party was the .......... (JAMB 2021)",
+    "questionText": "In the First Republic, the official opposition party was the ..........",
     "options": [
       "National Council of Nigeria and Cameroons",
       "Northern Elements Progressive Union",
@@ -20041,7 +20041,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-770-915",
-    "questionText": "Who re-organised the Nigeria's four regions into twelve states in May 1967? (JAMB 2021)",
+    "questionText": "Who re-organised the Nigeria's four regions into twelve states in May 1967?",
     "options": [
       "General Yakubu Gowon",
       "Lieutenant-Colonel Ojukwu",
@@ -20053,7 +20053,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-771-951",
-    "questionText": "One of the duties of the legislature is to_______ (JAMB 2021)",
+    "questionText": "One of the duties of the legislature is to_______",
     "options": [
       "Exercise oversight",
       "Implement law",
@@ -20065,7 +20065,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-772-938",
-    "questionText": "____________was the method used by the British to facilitate the administration of Southern Nigeria. (JAMB 2021)",
+    "questionText": "____________was the method used by the British to facilitate the administration of Southern Nigeria.",
     "options": [
       "Trade association",
       "Divide and rule",
@@ -20077,7 +20077,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-773-914",
-    "questionText": "The Nigeria's head of government in 1963 was _____ (JAMB 2021)",
+    "questionText": "The Nigeria's head of government in 1963 was _____",
     "options": [
       "Chief Nnamdi Azikiwe",
       "General Yakubu Gowon",
@@ -20089,7 +20089,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-774-936",
-    "questionText": "When Nigeria achieved independence in 1960, the head of state was the _____ (JAMB 2021)",
+    "questionText": "When Nigeria achieved independence in 1960, the head of state was the _____",
     "options": [
       "Queen of England",
       "President",
@@ -20101,7 +20101,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-775-948",
-    "questionText": "The major problem of the ECOWAS is lack of _______ (JAMB 2021)",
+    "questionText": "The major problem of the ECOWAS is lack of _______",
     "options": [
       "Uniform ideology",
       "Commitment by members",
@@ -20113,7 +20113,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-776-918",
-    "questionText": "Which of the following is a founding member of OPEC? (JAMB 2021)",
+    "questionText": "Which of the following is a founding member of OPEC?",
     "options": [
       "Indonesia",
       "Algeria",
@@ -20125,7 +20125,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-777-940",
-    "questionText": "One argument against a multi-party system is the _______ (JAMB 2021)",
+    "questionText": "One argument against a multi-party system is the _______",
     "options": [
       "Inability to attract foreign assistance",
       "High cost of conducting elections",
@@ -20137,7 +20137,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-778-985",
-    "questionText": "Unitary system of government is best applicable to a/an (JAMB 2022)",
+    "questionText": "Unitary system of government is best applicable to a/an",
     "options": [
       "multi-party state",
       "homogeneous state",
@@ -20149,7 +20149,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-779-958",
-    "questionText": "The oversight function is performed by the (JAMB 2022)",
+    "questionText": "The oversight function is performed by the",
     "options": [
       "judiciary",
       "executive",
@@ -20161,7 +20161,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-780-964",
-    "questionText": "A group of people with different natures, opinions, and goals with complicated networks of social relation (JAMB 2022)",
+    "questionText": "A group of people with different natures, opinions, and goals with complicated networks of social relation",
     "options": [
       "a union",
       "an association",
@@ -20173,7 +20173,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-781-986",
-    "questionText": "The ________ as a new policy direction introduced by the French government that was aimed at granting more autonomy to its colonies under pressure from independence movements. (JAMB 2022)",
+    "questionText": "The ________ as a new policy direction introduced by the French government that was aimed at granting more autonomy to its colonies under pressure from independence movements.",
     "options": [
       "policy of assimilation",
       "indignant policy",
@@ -20185,7 +20185,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-782-979",
-    "questionText": "A constıtution that requires specific statutory procedures for amendment is said to be (JAMB 2022)",
+    "questionText": "A constıtution that requires specific statutory procedures for amendment is said to be",
     "options": [
       "uncodıfied",
       "unwritten",
@@ -20197,7 +20197,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-783-992",
-    "questionText": "In a federal system of government, legislative items constitutionally reserved for only the central government fall under the _________ list. (JAMB 2022)",
+    "questionText": "In a federal system of government, legislative items constitutionally reserved for only the central government fall under the _________ list.",
     "options": [
       "concurrent",
       "executive",
@@ -20209,7 +20209,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-784-963",
-    "questionText": "An electoral system in which the winner must secure more than 50% of the vote is described as a/an (JAMB 2022)",
+    "questionText": "An electoral system in which the winner must secure more than 50% of the vote is described as a/an",
     "options": [
       "plurality system",
       "proportional representation",
@@ -20221,7 +20221,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-785-978",
-    "questionText": "Nigeria is a major financier of which of the following? (JAMB 2022)",
+    "questionText": "Nigeria is a major financier of which of the following?",
     "options": [
       "IBRD",
       "AFDB",
@@ -20233,7 +20233,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-786-966",
-    "questionText": "A one-party system helps to prevent (JAMB 2022)",
+    "questionText": "A one-party system helps to prevent",
     "options": [
       "quick decısion",
       "strong leadership",
@@ -20245,7 +20245,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-787-980",
-    "questionText": "The ultimate goal of the nationalists was to (JAMB 2022)",
+    "questionText": "The ultimate goal of the nationalists was to",
     "options": [
       "secure political independence",
       "encourage western education",
@@ -20257,7 +20257,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-788-990",
-    "questionText": "Nigeria's bicameral legislature featuring the House of Senate and House of Representatives is similar to ? (JAMB 2022)",
+    "questionText": "Nigeria's bicameral legislature featuring the House of Senate and House of Representatives is similar to ?",
     "options": [
       "UK",
       "New Zealand",
@@ -20269,7 +20269,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-789-976",
-    "questionText": "The defence pact between Nigeria and Britain was cancelled in the year (JAMB 2022)",
+    "questionText": "The defence pact between Nigeria and Britain was cancelled in the year",
     "options": [
       "1967",
       "1960",
@@ -20281,7 +20281,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-790-972",
-    "questionText": "The highest body which performed legislative functions under Babangida Regime was (JAMB 2022)",
+    "questionText": "The highest body which performed legislative functions under Babangida Regime was",
     "options": [
       "the National Council of State",
       "the Council of Minister",
@@ -20293,7 +20293,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-791-968",
-    "questionText": "A system of government in which a single person or a group who governs has unlimited power is a (JAMB 2022)",
+    "questionText": "A system of government in which a single person or a group who governs has unlimited power is a",
     "options": [
       "oligarchy",
       "republican",
@@ -20305,7 +20305,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-792-991",
-    "questionText": "The process of pressure groups trying to influence legislation is known as (JAMB 2022)",
+    "questionText": "The process of pressure groups trying to influence legislation is known as",
     "options": [
       "ultimatum",
       "dialogue",
@@ -20317,7 +20317,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-793-967",
-    "questionText": "The French colonial policy aimed at changing Africans into French men was the policy of (JAMB 2022)",
+    "questionText": "The French colonial policy aimed at changing Africans into French men was the policy of",
     "options": [
       "assimilation",
       "accommodation",
@@ -20329,7 +20329,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-794-970",
-    "questionText": "A policy formulated to guide relations with other nations is called (JAMB 2022)",
+    "questionText": "A policy formulated to guide relations with other nations is called",
     "options": [
       "international policy",
       "state policy",
@@ -20341,7 +20341,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-795-969",
-    "questionText": "The Judicial Service Commission is vested with the power to recommend suitable persons for appointment of the _____ (JAMB 2022)",
+    "questionText": "The Judicial Service Commission is vested with the power to recommend suitable persons for appointment of the _____",
     "options": [
       "National Judicıal Council",
       "President, Federal Republic of Nigeria",
@@ -20353,7 +20353,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-796-988",
-    "questionText": "The ECOWAS Bank for Investment and Development (EBID) has its headquarters in (JAMB 2022)",
+    "questionText": "The ECOWAS Bank for Investment and Development (EBID) has its headquarters in",
     "options": [
       "Abuja",
       "Abidjans",
@@ -20365,7 +20365,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-797-987",
-    "questionText": "On 1 October 1995, Abacha announced a three-year program for return to civilian rule. Parties were allowed to form in July 1998. Which of the following parties was not registered by the Provisional Ruling Council? (JAMB 2022)",
+    "questionText": "On 1 October 1995, Abacha announced a three-year program for return to civilian rule. Parties were allowed to form in July 1998. Which of the following parties was not registered by the Provisional Ruling Council?",
     "options": [
       "Alliance for Democracy",
       "Action Congress",
@@ -20377,7 +20377,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-798-982",
-    "questionText": "The operations of a pressure group can be hindered by (JAMB 2022)",
+    "questionText": "The operations of a pressure group can be hindered by",
     "options": [
       "poor leadership",
       "general observation",
@@ -20389,7 +20389,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-799-977",
-    "questionText": "The absence of an independent judiciary is a feature of (JAMB 2022)",
+    "questionText": "The absence of an independent judiciary is a feature of",
     "options": [
       "limited monarchy",
       "capitalıst system",
@@ -20401,7 +20401,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-800-981",
-    "questionText": "A recurring principal objective of Nigerian foreign policy is (JAMB 2022)",
+    "questionText": "A recurring principal objective of Nigerian foreign policy is",
     "options": [
       "defending Nigeria's friends in Africa",
       "cementing Nigeria's foreign relations",
@@ -20413,7 +20413,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-801-957",
-    "questionText": "The Security Council of the United Nations Organization has (JAMB 2022)",
+    "questionText": "The Security Council of the United Nations Organization has",
     "options": [
       "five permanent members",
       "seven permanent members",
@@ -20425,7 +20425,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-802-973",
-    "questionText": "The aim of the International Labour Organization includes (JAMB 2022)",
+    "questionText": "The aim of the International Labour Organization includes",
     "options": [
       "assistance in time of emergencies",
       "safeguarding the rights of individuals",
@@ -20437,7 +20437,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-803-959",
-    "questionText": "Before the emergence of OAU as a regional body, Nigeria belonged to (JAMB 2022)",
+    "questionText": "Before the emergence of OAU as a regional body, Nigeria belonged to",
     "options": [
       "Casablanca group",
       "Monrovia group",
@@ -20449,7 +20449,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-804-993",
-    "questionText": "Which one of these served as secretary general of the League of nations? (JAMB 2022)",
+    "questionText": "Which one of these served as secretary general of the League of nations?",
     "options": [
       "Joseph Avenol",
       "Trygve Lie",
@@ -20461,7 +20461,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-805-960",
-    "questionText": "The political rights of a citızen include the (JAMB 2022)",
+    "questionText": "The political rights of a citızen include the",
     "options": [
       "freedom of speech",
       "right to employment",
@@ -20473,7 +20473,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-806-974",
-    "questionText": "One of these is a major problem of the Nigerian civil service (JAMB 2022)",
+    "questionText": "One of these is a major problem of the Nigerian civil service",
     "options": [
       "inadequate personnel",
       "political influence",
@@ -20485,7 +20485,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-807-961",
-    "questionText": "One of the features of rule of law is that an (JAMB 2022)",
+    "questionText": "One of the features of rule of law is that an",
     "options": [
       "offender is a deterrent",
       "accused is a culprit before trial",
@@ -20497,7 +20497,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-808-965",
-    "questionText": "A political system built around land ownership is called (JAMB 2022)",
+    "questionText": "A political system built around land ownership is called",
     "options": [
       "monarchy",
       "fascism",
@@ -20509,7 +20509,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-809-956",
-    "questionText": "One of the constitutional requirements for the registration of political parties in Nigeria is ______ (JAMB 2022)",
+    "questionText": "One of the constitutional requirements for the registration of political parties in Nigeria is ______",
     "options": [
       "provision for review of party manifesto",
       "ofices in at least 12 statess",
@@ -20521,7 +20521,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-810-954",
-    "questionText": "The highest authority in the Yoruba pre-colonial era was the _____ (JAMB 2022)",
+    "questionText": "The highest authority in the Yoruba pre-colonial era was the _____",
     "options": [
       "Ogboni",
       "Oba",
@@ -20533,7 +20533,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-811-983",
-    "questionText": "The 1976 Local Government Reforms made the Nigerian local government become (JAMB 2022)",
+    "questionText": "The 1976 Local Government Reforms made the Nigerian local government become",
     "options": [
       "autonomous",
       "the fourth tier of government",
@@ -20545,7 +20545,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-812-955",
-    "questionText": "The philosophy behind Nigerian federalism is   (JAMB 2022)",
+    "questionText": "The philosophy behind Nigerian federalism is",
     "options": [
       "unity in diversity",
       "sectional development",
@@ -20557,7 +20557,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-813-971",
-    "questionText": "A major consequence of the privatization exercise in Nigeria is (JAMB 2022)",
+    "questionText": "A major consequence of the privatization exercise in Nigeria is",
     "options": [
       "the collapse of the Nigerian economy",
       "reduction in foreign exchange",
@@ -20569,7 +20569,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-814-984",
-    "questionText": "Which of these is not a major characteristic of the rule of law? (JAMB 2022)",
+    "questionText": "Which of these is not a major characteristic of the rule of law?",
     "options": [
       "Judicial independence",
       "Separation of powers",
@@ -20581,7 +20581,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-815-975",
-    "questionText": "The basic unit of every political organization in the Igbo pre-colonial era was the (JAMB 2022)",
+    "questionText": "The basic unit of every political organization in the Igbo pre-colonial era was the",
     "options": [
       "ala",
       "family",
@@ -20593,7 +20593,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-816-989",
-    "questionText": "The conference convened to discuss the provisions of the Macpherson Constitution was held in? (JAMB 2022)",
+    "questionText": "The conference convened to discuss the provisions of the Macpherson Constitution was held in?",
     "options": [
       "London",
       "Calabar",
@@ -20605,7 +20605,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-817-962",
-    "questionText": "The first Legislative Councıl in Nigeria was established by (JAMB 2022)",
+    "questionText": "The first Legislative Councıl in Nigeria was established by",
     "options": [
       "Clifford Constitution",
       "Richards Constitution",
@@ -20617,7 +20617,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-818-1036",
-    "questionText": "The Ijaw people of pre-colonial Nigeria were organized into? (JAMB 2023)",
+    "questionText": "The Ijaw people of pre-colonial Nigeria were organized into?",
     "options": [
       "Grades",
       "Clans",
@@ -20629,7 +20629,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-819-1023",
-    "questionText": "Which political party was known for its socialist ideology and populist policies in the 1980s? (JAMB 2023)",
+    "questionText": "Which political party was known for its socialist ideology and populist policies in the 1980s?",
     "options": [
       "People's Redemption party",
       "All Nigeria's People's Party",
@@ -20641,7 +20641,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-820-1039",
-    "questionText": "What is the primary source of revenue for the local government in Nigeria? (JAMB 2023)",
+    "questionText": "What is the primary source of revenue for the local government in Nigeria?",
     "options": [
       "taxes",
       "grants from foreign countries",
@@ -20653,7 +20653,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-821-1007",
-    "questionText": "What is the term for a system of government in which power is held by a small group of people? (JAMB 2023)",
+    "questionText": "What is the term for a system of government in which power is held by a small group of people?",
     "options": [
       "Oligarchy",
       "Monarchy",
@@ -20665,7 +20665,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-822-1011",
-    "questionText": "Which document serves as the constitution of the United Nations? (JAMB 2023)",
+    "questionText": "Which document serves as the constitution of the United Nations?",
     "options": [
       "Universal Declaration of Human Rights",
       "Geneva conventions",
@@ -20677,7 +20677,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-823-1014",
-    "questionText": "Which of the following African leaders played a significant role in the formation of NEPAD? (JAMB 2023)",
+    "questionText": "Which of the following African leaders played a significant role in the formation of NEPAD?",
     "options": [
       "Julius Nyerere",
       "Nelson Mandela",
@@ -20689,7 +20689,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-824-1003",
-    "questionText": "In a parliamentary system of government, the executive branch is (JAMB 2023)",
+    "questionText": "In a parliamentary system of government, the executive branch is",
     "options": [
       "under the control of the judiciary",
       "combined with the legislative branch",
@@ -20701,7 +20701,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-825-996",
-    "questionText": "In a parliamentary system of government, the head of government is typically ___________. (JAMB 2023)",
+    "questionText": "In a parliamentary system of government, the head of government is typically ___________.",
     "options": [
       "elected directly by the people",
       "the leader of the majority party in the legislature",
@@ -20713,7 +20713,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-826-1022",
-    "questionText": "__________ was a major factor that contributed to the rise of the Sokoto Caliphate. (JAMB 2023)",
+    "questionText": "__________ was a major factor that contributed to the rise of the Sokoto Caliphate.",
     "options": [
       "Agricultural revolution.",
       "Slave trade",
@@ -20725,7 +20725,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-827-1028",
-    "questionText": "The civil service in Nigeria operates under the principle of (JAMB 2023)",
+    "questionText": "The civil service in Nigeria operates under the principle of",
     "options": [
       "autonomy",
       "separation of powers",
@@ -20737,7 +20737,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-828-1020",
-    "questionText": "The National assembly is composed of how many chambers? (JAMB 2023)",
+    "questionText": "The National assembly is composed of how many chambers?",
     "options": [
       "Two",
       "Four",
@@ -20749,7 +20749,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-829-1001",
-    "questionText": "Which of the following documents granted Nigeria its independence? (JAMB 2023)",
+    "questionText": "Which of the following documents granted Nigeria its independence?",
     "options": [
       "The Lancaster House Agreement",
       "The Atlantic Charter",
@@ -20761,7 +20761,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-830-1006",
-    "questionText": "Which of the following is a function of the Public Complaints Commission? (JAMB 2023)",
+    "questionText": "Which of the following is a function of the Public Complaints Commission?",
     "options": [
       "Managing public transportation",
       "Enforcing criminal laws",
@@ -20773,7 +20773,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-831-997",
-    "questionText": "The policy of 'indigenization' was introduced under the regime of? (JAMB 2023)",
+    "questionText": "The policy of 'indigenization' was introduced under the regime of?",
     "options": [
       "General Yakubu Gowon",
       "General Olusegun Obasanjo",
@@ -20785,7 +20785,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-832-1010",
-    "questionText": "If the president refuses to sign a bill within a specific period, it can still become a law through (JAMB 2023)",
+    "questionText": "If the president refuses to sign a bill within a specific period, it can still become a law through",
     "options": [
       "legislative override",
       "none of the above",
@@ -20797,7 +20797,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-833-1018",
-    "questionText": "A key principle of the socialist system of government is the ___________. (JAMB 2023)",
+    "questionText": "A key principle of the socialist system of government is the ___________.",
     "options": [
       "minimal government intervention in the economy",
       "private ownership of the means of production",
@@ -20809,7 +20809,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-834-994",
-    "questionText": "Which of the following is a fundamental principle of democratic governance? (JAMB 2023)",
+    "questionText": "Which of the following is a fundamental principle of democratic governance?",
     "options": [
       "Centralized decision-making",
       "Censorship of the media",
@@ -20821,7 +20821,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-835-1005",
-    "questionText": "Which of the following is a limitation of pressure groups? (JAMB 2023)",
+    "questionText": "Which of the following is a limitation of pressure groups?",
     "options": [
       "They only represent the interests of the wealthy.",
       "They have no influence on the government policies",
@@ -20833,7 +20833,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-836-1000",
-    "questionText": "During the cold war, Nigeria's foreign policy was characterized by (JAMB 2023)",
+    "questionText": "During the cold war, Nigeria's foreign policy was characterized by",
     "options": [
       "alignment with the United States",
       "Neutrality and non-alignment",
@@ -20845,7 +20845,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-837-1038",
-    "questionText": "The judiciary checks the other arms of government through (JAMB 2023)",
+    "questionText": "The judiciary checks the other arms of government through",
     "options": [
       "Judicial recall",
       "Judicial precedence",
@@ -20857,7 +20857,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-838-1027",
-    "questionText": "Which of the following is the basic unit of a local government in Nigeria? (JAMB 2023)",
+    "questionText": "Which of the following is the basic unit of a local government in Nigeria?",
     "options": [
       "State assembly",
       "Ward",
@@ -20869,7 +20869,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-839-1040",
-    "questionText": "Jus Sanguinis is a principle that grants citizenship based on (JAMB 2023)",
+    "questionText": "Jus Sanguinis is a principle that grants citizenship based on",
     "options": [
       "parental citizenship",
       "place of birth",
@@ -20881,7 +20881,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-840-1019",
-    "questionText": "In a communist system, who owns and controls the means of production? (JAMB 2023)",
+    "questionText": "In a communist system, who owns and controls the means of production?",
     "options": [
       "corporations",
       "The government",
@@ -20893,7 +20893,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461567-841-1032",
-    "questionText": "The process of selecting candidates to represent a political party in elections is known as (JAMB 2023)",
+    "questionText": "The process of selecting candidates to represent a political party in elections is known as",
     "options": [
       "campaigning",
       "primaries",
@@ -20905,7 +20905,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-842-999",
-    "questionText": "The constitutional amendment process in Nigeria requires the approval of (JAMB 2023)",
+    "questionText": "The constitutional amendment process in Nigeria requires the approval of",
     "options": [
       "The Independent National Electoral Commission(INEC)",
       "The National Assembly",
@@ -20917,7 +20917,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-843-1026",
-    "questionText": "Which of the following countries operate a direct democracy? (JAMB 2023)",
+    "questionText": "Which of the following countries operate a direct democracy?",
     "options": [
       "Russia",
       "United Kingdom",
@@ -20929,7 +20929,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-844-1037",
-    "questionText": "Civil servants are typically protected by (JAMB 2023)",
+    "questionText": "Civil servants are typically protected by",
     "options": [
       "Military forces and security agencies",
       "Civil service commission",
@@ -20941,7 +20941,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-845-1021",
-    "questionText": "Which of the following was a significant trade commodity in the pre-colonial Kingdom of Benin? (JAMB 2023)",
+    "questionText": "Which of the following was a significant trade commodity in the pre-colonial Kingdom of Benin?",
     "options": [
       "Ivory",
       "Gold",
@@ -20953,7 +20953,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-846-1041",
-    "questionText": "which pre-colonial Nigerian Kingdom was known for its artistic and cultural achievement? (JAMB 2023)",
+    "questionText": "which pre-colonial Nigerian Kingdom was known for its artistic and cultural achievement?",
     "options": [
       "Nupe",
       "Igbo",
@@ -20965,7 +20965,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-847-1017",
-    "questionText": "The arm of government responsible for budget approval and oversight is the (JAMB 2023)",
+    "questionText": "The arm of government responsible for budget approval and oversight is the",
     "options": [
       "judiciary",
       "executive",
@@ -20977,7 +20977,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-848-998",
-    "questionText": "Who is the current chairperson of ECOWAS? (JAMB 2023)",
+    "questionText": "Who is the current chairperson of ECOWAS?",
     "options": [
       "Bola Ahmed Tinubu",
       "Alassane Ouattara",
@@ -20989,7 +20989,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-849-1015",
-    "questionText": "Nigeria is a founding member of which regional organization? (JAMB 2023)",
+    "questionText": "Nigeria is a founding member of which regional organization?",
     "options": [
       "ECOWAS",
       "Non-aligned Movement",
@@ -21001,7 +21001,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-850-1031",
-    "questionText": "The electoral system used in Nigeria is primarily based on __________ (JAMB 2023)",
+    "questionText": "The electoral system used in Nigeria is primarily based on __________",
     "options": [
       "mixed-member proportional",
       "preferential voting",
@@ -21013,7 +21013,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-851-1029",
-    "questionText": "The Commonwealth of Nations was initially known as (JAMB 2023)",
+    "questionText": "The Commonwealth of Nations was initially known as",
     "options": [
       "British Commonwealth",
       "Imperial Commonwealth",
@@ -21025,7 +21025,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-852-1042",
-    "questionText": "Nigeria's foreign policy is guided by the principle of (JAMB 2023)",
+    "questionText": "Nigeria's foreign policy is guided by the principle of",
     "options": [
       "military dominance",
       "economic self-sufficiency",
@@ -21037,7 +21037,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-853-1004",
-    "questionText": "What is the main source of funding for public corporations in Nigeria? (JAMB 2023)",
+    "questionText": "What is the main source of funding for public corporations in Nigeria?",
     "options": [
       "Government budget allocations",
       "Foreign aid",
@@ -21049,7 +21049,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-854-1034",
-    "questionText": "Which African country experienced a violent resistance movement against British colonial rule known as the Mau Mau rebellion? (JAMB 2023)",
+    "questionText": "Which African country experienced a violent resistance movement against British colonial rule known as the Mau Mau rebellion?",
     "options": [
       "Sudan",
       "Kenya",
@@ -21061,7 +21061,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-855-995",
-    "questionText": "Which of the following is not a source of public opinion? (JAMB 2023)",
+    "questionText": "Which of the following is not a source of public opinion?",
     "options": [
       "Opinion polls",
       "Academic Journals",
@@ -21073,7 +21073,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-856-1043",
-    "questionText": "The Nigerian constitution guarantees freedom of speech under which fundamental right? (JAMB 2023)",
+    "questionText": "The Nigerian constitution guarantees freedom of speech under which fundamental right?",
     "options": [
       "Right to freedom of thought",
       "Right to privacy",
@@ -21085,7 +21085,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-857-1024",
-    "questionText": "In a parliamentary system, the head of government is usually the (JAMB 2023)",
+    "questionText": "In a parliamentary system, the head of government is usually the",
     "options": [
       "Chief Justice",
       "King or Queen",
@@ -21097,7 +21097,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-858-543",
-    "questionText": "A major source of revenue in the post -1976 local government in Nigeria is (JAMB 2013)",
+    "questionText": "A major source of revenue in the post -1976 local government in Nigeria is",
     "options": [
       "the joint state-local government account",
       "internally generated revenue",
@@ -21109,7 +21109,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-859-641",
-    "questionText": "The highest court of appeal under the Republican constitution of Nigeria was the (JAMB 1988)",
+    "questionText": "The highest court of appeal under the Republican constitution of Nigeria was the",
     "options": [
       "Federal High Court",
       "Judicial Committee of the Privy Council",
@@ -21121,7 +21121,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-860-478",
-    "questionText": "A permanent structure that facilitates continuity and guarantees orderly conduct in governance is (JAMB 2012)",
+    "questionText": "A permanent structure that facilitates continuity and guarantees orderly conduct in governance is",
     "options": [
       "bureaucracy",
       "public corporation",
@@ -21133,7 +21133,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-861-240",
-    "questionText": "In the federation of Nigeria, states are equally represented in the (JAMB 2000)",
+    "questionText": "In the federation of Nigeria, states are equally represented in the",
     "options": [
       "Senate",
       "House of Representatives",
@@ -21145,7 +21145,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-862-1393",
-    "questionText": "The political structure of Nigeria under the first military regime was (JAMB 2008)",
+    "questionText": "The political structure of Nigeria under the first military regime was",
     "options": [
       "confederal",
       "quasi-federal",
@@ -21157,7 +21157,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-863-1478",
-    "questionText": "Under a presidential system of government, the legislature and the executive are (JAMB 2015)",
+    "questionText": "Under a presidential system of government, the legislature and the executive are",
     "options": [
       "elected separately to an unfixed term",
       "appointed at the same time to an unfixed term",
@@ -21169,7 +21169,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-864-1012",
-    "questionText": "Pressure groups primarily aim to (JAMB 2023)",
+    "questionText": "Pressure groups primarily aim to",
     "options": [
       "promote social equality and justice",
       "gain political power and control",
@@ -21181,7 +21181,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-865-1411",
-    "questionText": "Counter-trade was introduced by the government led by (JAMB 2009)",
+    "questionText": "Counter-trade was introduced by the government led by",
     "options": [
       "Abdusalami Abubakar",
       "Olusegun Obasanjo",
@@ -21193,7 +21193,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-866-341",
-    "questionText": "The motion for self-government in Nigeria was proposed by Chief Anthony Enahoro in (JAMB 1999)",
+    "questionText": "The motion for self-government in Nigeria was proposed by Chief Anthony Enahoro in",
     "options": [
       "1956",
       "1953",
@@ -21205,7 +21205,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-867-342",
-    "questionText": "The legislative functions of the government of Benin Kingdom were performed by the (JAMB 1999)",
+    "questionText": "The legislative functions of the government of Benin Kingdom were performed by the",
     "options": [
       "Esama",
       "Ndichie",
@@ -21217,7 +21217,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-868-456",
-    "questionText": "The approval of treaties and agreements of the Economic Community of West African States is the responsibility of the (JAMB 2010)",
+    "questionText": "The approval of treaties and agreements of the Economic Community of West African States is the responsibility of the",
     "options": [
       "Council of Ministers",
       "ECOWAS Tribunal",
@@ -21229,7 +21229,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-869-627",
-    "questionText": "The membership of the Council of States in Nigeria is made up of (JAMB 1988)",
+    "questionText": "The membership of the Council of States in Nigeria is made up of",
     "options": [
       "Federal Ministers",
       "State commissioners",
@@ -21241,7 +21241,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-870-678",
-    "questionText": "Which of the following is not written into independence constitution of 1960? (JAMB 1989)",
+    "questionText": "Which of the following is not written into independence constitution of 1960?",
     "options": [
       "Fundamental human rights",
       "Exclusive powers",
@@ -21253,7 +21253,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-871-282",
-    "questionText": "The age qualification required for a Nigerian to contest as a Senator is (JAMB 2013)",
+    "questionText": "The age qualification required for a Nigerian to contest as a Senator is",
     "options": [
       "18",
       "21",
@@ -21265,7 +21265,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-872-1080",
-    "questionText": "A union of states with a common recognised authority is (JAMB 2024)",
+    "questionText": "A union of states with a common recognised authority is",
     "options": [
       "federal system",
       "unitary system",
@@ -21277,7 +21277,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-873-1319",
-    "questionText": "A major function of the State Independent Electoral Commission in Nigeria is the (JAMB 2005)",
+    "questionText": "A major function of the State Independent Electoral Commission in Nigeria is the",
     "options": [
       "registeration of political parties",
       "conduct of elections into local government offices",
@@ -21289,7 +21289,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-874-510",
-    "questionText": "According to Aristotle, a form of government in which the few rule for the benefit of all is (JAMB 2013)",
+    "questionText": "According to Aristotle, a form of government in which the few rule for the benefit of all is",
     "options": [
       "polyarchy",
       "diarchy",
@@ -21301,7 +21301,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-875-1148",
-    "questionText": "The delineation of constituencies is a major duty of the (JAMB 2002)",
+    "questionText": "The delineation of constituencies is a major duty of the",
     "options": [
       "national assembly",
       "political parties",
@@ -21313,7 +21313,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-876-1144",
-    "questionText": "Delegated legislature becomes unavoidable when (JAMB 2002)",
+    "questionText": "Delegated legislature becomes unavoidable when",
     "options": [
       "legislators cannot reach a consensus",
       "issues under consideration are personal",
@@ -21325,7 +21325,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-877-310",
-    "questionText": "In a presidential system of government, ministers are (JAMB 1999)",
+    "questionText": "In a presidential system of government, ministers are",
     "options": [
       "individually responsible to the president",
       "individually responsible to the senate",
@@ -21337,7 +21337,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-878-89",
-    "questionText": "Africans were first elected to the legislature council in British West African  (JAMB 2009)",
+    "questionText": "Africans were first elected to the legislature council in British West African",
     "options": [
       "Ghana",
       "Sierra Leone",
@@ -21349,7 +21349,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-879-1049",
-    "questionText": "The productivity of public corporations is believed to be enhanced when there is  (JAMB 2024)",
+    "questionText": "The productivity of public corporations is believed to be enhanced when there is",
     "options": [
       "increase in employment rate",
       "redeployment of staff",
@@ -21361,7 +21361,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-880-387",
-    "questionText": "The foremost British trading company on the West African coast was (JAMB 2016)",
+    "questionText": "The foremost British trading company on the West African coast was",
     "options": [
       "Royal Niger Company",
       "United African Company",
@@ -21373,7 +21373,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-881-196",
-    "questionText": "An elected legislator in a presidential system can lose his seat through   (JAMB 2013)",
+    "questionText": "An elected legislator in a presidential system can lose his seat through",
     "options": [
       "recall",
       "cross-carpeting",
@@ -21385,7 +21385,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-882-1073",
-    "questionText": "The Commission that examines complaints of civil wrongs committed by government employees is  (JAMB 2024)",
+    "questionText": "The Commission that examines complaints of civil wrongs committed by government employees is",
     "options": [
       "Public Complaints Commission",
       "Civil Service Commission",
@@ -21397,7 +21397,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-883-646",
-    "questionText": "The Economic community of West Africa state (E.C.O.W.A.S) is (JAMB 1988)",
+    "questionText": "The Economic community of West Africa state (E.C.O.W.A.S) is",
     "options": [
       "an economic association",
       "a political association",
@@ -21409,7 +21409,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-884-332",
-    "questionText": "The Code of Conduct Bureau was established essentiality to (JAMB 1999)",
+    "questionText": "The Code of Conduct Bureau was established essentiality to",
     "options": [
       "ensure the independence of the public service",
       "enhance probity and accountability in public service",
@@ -21421,7 +21421,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-885-1300",
-    "questionText": "Which of the following served as the Secretary-General of the United Nations? (JAMB 2005)",
+    "questionText": "Which of the following served as the Secretary-General of the United Nations?",
     "options": [
       "Ibrahim Gambari",
       "Ibrahim Gambari",
@@ -21433,7 +21433,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-886-710",
-    "questionText": "Local government reforms were carried out by the Federal Military Government in (JAMB 1989)",
+    "questionText": "Local government reforms were carried out by the Federal Military Government in",
     "options": [
       "1966",
       "1967",
@@ -21445,7 +21445,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-887-264",
-    "questionText": "Which of these countries is NOT a member of Economic Community of West African States (ECOWAS). (JAMB 2013)",
+    "questionText": "Which of these countries is NOT a member of Economic Community of West African States (ECOWAS).",
     "options": [
       "Cameroon",
       "Cape Verde",
@@ -21457,7 +21457,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-888-1076",
-    "questionText": "Lack of separation of power is a feature of  (JAMB 2024)",
+    "questionText": "Lack of separation of power is a feature of",
     "options": [
       "presidential system",
       "cabinet system",
@@ -21469,7 +21469,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-889-508",
-    "questionText": "A group of people who live together under a common law within a definite territory is a (JAMB 2013)",
+    "questionText": "A group of people who live together under a common law within a definite territory is a",
     "options": [
       "state",
       "community",
@@ -21481,7 +21481,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-890-82",
-    "questionText": "The minorities  Commission appointed in Nigeria in 1957 recommended that  (JAMB 2009)",
+    "questionText": "The minorities  Commission appointed in Nigeria in 1957 recommended that",
     "options": [
       "More states should be create in the federation",
       "No more states should created before independence",
@@ -21493,7 +21493,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-891-458",
-    "questionText": "State as a political entity refers to (JAMB 2012)",
+    "questionText": "State as a political entity refers to",
     "options": [
       "an organized group within a definite territory",
       "an association of men in a given society",
@@ -21505,7 +21505,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-892-1044",
-    "questionText": "The party system that Nigeria operated in the aborted Third Republic is  (JAMB 2024)",
+    "questionText": "The party system that Nigeria operated in the aborted Third Republic is",
     "options": [
       "zero party system",
       "one party system",
@@ -21517,7 +21517,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-893-276",
-    "questionText": "An electoral officer charged with the responsibility of announcing election result at the local government level is known as (JAMB 2013)",
+    "questionText": "An electoral officer charged with the responsibility of announcing election result at the local government level is known as",
     "options": [
       "administrative secretary.",
       "chairman.",
@@ -21529,7 +21529,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-894-846",
-    "questionText": "The Brussel conference in 1889/90 was based on______ (JAMB 2019)",
+    "questionText": "The Brussel conference in 1889/90 was based on______",
     "options": [
       "putting an end to slave trade",
       "the scramble for Africa",
@@ -21541,7 +21541,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-895-615",
-    "questionText": "The United Nations Organization [UNO] has its headquarters in (JAMB 1988)",
+    "questionText": "The United Nations Organization [UNO] has its headquarters in",
     "options": [
       "Britain",
       "USSR",
@@ -21553,7 +21553,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-896-150",
-    "questionText": "Laws made by local governments are called   (JAMB 2012)",
+    "questionText": "Laws made by local governments are called",
     "options": [
       "Acts of Parliament",
       "Local Government Acts",
@@ -21565,7 +21565,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-897-378",
-    "questionText": "Which of these is not the supreme organ of the OAU? (JAMB 2016)",
+    "questionText": "Which of these is not the supreme organ of the OAU?",
     "options": [
       "the council of Ministers",
       "The Administrative Secretary General",
@@ -21577,7 +21577,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-898-1390",
-    "questionText": "The British colonial rule in Nigeria brought about (JAMB 2008)",
+    "questionText": "The British colonial rule in Nigeria brought about",
     "options": [
       "stagnationin social formations",
       "the pampering of traditional rulers",
@@ -21589,7 +21589,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-899-1093",
-    "questionText": "Military intervention in Nigerian politics was first witnessed in  (JAMB 2024)",
+    "questionText": "Military intervention in Nigerian politics was first witnessed in",
     "options": [
       "1965",
       "1966",
@@ -21601,7 +21601,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-900-451",
-    "questionText": "The prominent role Nigeria played in the UN in the 70’s earned her. (JAMB 2010)",
+    "questionText": "The prominent role Nigeria played in the UN in the 70’s earned her.",
     "options": [
       "permanent representation at the UN",
       "membership of the Security Council",
@@ -21613,7 +21613,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-901-705",
-    "questionText": "During the 1964 Federal elections there was a total boycott of voting in (JAMB 1989)",
+    "questionText": "During the 1964 Federal elections there was a total boycott of voting in",
     "options": [
       "the Western Region",
       "Lagos",
@@ -21625,7 +21625,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-902-61",
-    "questionText": "The Oldest written constitution is  (JAMB 2008)",
+    "questionText": "The Oldest written constitution is",
     "options": [
       "American constitution",
       "British Constitution",
@@ -21637,7 +21637,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-903-99",
-    "questionText": "The Arthur Richards Constitution was designed to last  (JAMB 2010)",
+    "questionText": "The Arthur Richards Constitution was designed to last",
     "options": [
       "nine years",
       "five years",
@@ -21649,7 +21649,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-904-1195",
-    "questionText": "Government by the wealthy is known as (JAMB 2003)",
+    "questionText": "Government by the wealthy is known as",
     "options": [
       "plutocracy",
       "oligarchy",
@@ -21661,7 +21661,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-905-1398",
-    "questionText": "Privatization and commercialization programmes in Nigeria have (JAMB 2009)",
+    "questionText": "Privatization and commercialization programmes in Nigeria have",
     "options": [
       "increased public utilities",
       "de-emphasized government ownership",
@@ -21673,7 +21673,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-906-1046",
-    "questionText": "The main argument against the 1999 Constitution is that  (JAMB 2024)",
+    "questionText": "The main argument against the 1999 Constitution is that",
     "options": [
       "it was imposed by the military",
       "it was imposed by the military",
@@ -21685,7 +21685,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-907-69",
-    "questionText": "The independence of the judiciary can be enhance by the following except  (JAMB 2008)",
+    "questionText": "The independence of the judiciary can be enhance by the following except",
     "options": [
       "when judges hold office for a fixed term",
       "when judges cannot be removed from offence even whey they commit crimes",
@@ -21697,7 +21697,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-908-1112",
-    "questionText": "The idea of making the civil service permanent, neutral and anonymous is to (JAMB 2001)",
+    "questionText": "The idea of making the civil service permanent, neutral and anonymous is to",
     "options": [
       "enhance efficiency in administration",
       "ensure loyalty and support",
@@ -21709,7 +21709,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-909-613",
-    "questionText": "The two components of sovereignty are (JAMB 1988)",
+    "questionText": "The two components of sovereignty are",
     "options": [
       "the rule of law and fundamental human rights.",
       "political power and political authority",
@@ -21721,7 +21721,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-910-48",
-    "questionText": "One of these is not a characteristic  of the state  (JAMB 2008)",
+    "questionText": "One of these is not a characteristic  of the state",
     "options": [
       "selection of political leaders",
       "a written constitution",
@@ -21733,7 +21733,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-911-1330",
-    "questionText": "In the Judicial administration, the term \" bench\" refers to the (JAMB 2005)",
+    "questionText": "In the Judicial administration, the term \" bench\" refers to the",
     "options": [
       "registrars",
       "judges",
@@ -21745,7 +21745,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-912-1211",
-    "questionText": "A meeting of the legislature is usually brought to an end with (JAMB 2003)",
+    "questionText": "A meeting of the legislature is usually brought to an end with",
     "options": [
       "a dissolution",
       "an adjournment",
@@ -21757,7 +21757,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-913-1159",
-    "questionText": "Centralization of power is the basic feature of (JAMB 2002)",
+    "questionText": "Centralization of power is the basic feature of",
     "options": [
       "federalism",
       "a confederation",
@@ -21769,7 +21769,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-914-637",
-    "questionText": "The following factors favoured the introduction of indirect rule in Nigeria except the (JAMB 1988)",
+    "questionText": "The following factors favoured the introduction of indirect rule in Nigeria except the",
     "options": [
       "Shortage of manpower",
       "Shortage of funds",
@@ -21781,7 +21781,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-915-328",
-    "questionText": "A dominant two-party system is operated in (JAMB 1999)",
+    "questionText": "A dominant two-party system is operated in",
     "options": [
       "the United Kingdom and the United States",
       "India and Pakistan",
@@ -21793,7 +21793,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-916-345",
-    "questionText": "In 1979, the Unity Party of Nigeria contested and won gubernatorial elections in (JAMB 1999)",
+    "questionText": "In 1979, the Unity Party of Nigeria contested and won gubernatorial elections in",
     "options": [
       "Lagos, Ogun, imo, Oyo and Bendel",
       "Lagos, Kwara,Oyo,Ogun, and Benue",
@@ -21805,7 +21805,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-917-351",
-    "questionText": "The major strategy used by OPEC to influence oil price is by (JAMB 1999)",
+    "questionText": "The major strategy used by OPEC to influence oil price is by",
     "options": [
       "allocating production quotas to members",
       "influencing buyers at the international market to buyer at high prices",
@@ -21817,7 +21817,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-918-308",
-    "questionText": "In a federal state, power is shared (JAMB 1999)",
+    "questionText": "In a federal state, power is shared",
     "options": [
       "between the center government and the local authorities",
       "among the state of the federation",
@@ -21829,7 +21829,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-919-325",
-    "questionText": "The notion of equality before the law is the same as the principle of (JAMB 1999)",
+    "questionText": "The notion of equality before the law is the same as the principle of",
     "options": [
       "supremacy of the constitution",
       "rule of law",
@@ -21841,7 +21841,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-920-337",
-    "questionText": "A feature common to the 1963, 1979 and 1989 constitutions of Nigeria was that they provided for a (JAMB 1999)",
+    "questionText": "A feature common to the 1963, 1979 and 1989 constitutions of Nigeria was that they provided for a",
     "options": [
       "republican system",
       "prime minister",
@@ -21853,7 +21853,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-921-340",
-    "questionText": "The duty of an Alkali under the Hausa-Fulan political system is to (JAMB 1999)",
+    "questionText": "The duty of an Alkali under the Hausa-Fulan political system is to",
     "options": [
       "adjudicate under Islamic laws",
       "make Islamic laws",
@@ -21865,7 +21865,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-922-314",
-    "questionText": "One of the distinctive features of democracy is that it (JAMB 1999)",
+    "questionText": "One of the distinctive features of democracy is that it",
     "options": [
       "connotes civil rule",
       "facilitates popular",
@@ -21877,7 +21877,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-923-326",
-    "questionText": "A constitution is classified as unwritten when it (JAMB 1999)",
+    "questionText": "A constitution is classified as unwritten when it",
     "options": [
       "does not emanate from the legislature",
       "provides for separation of powers",
@@ -21889,7 +21889,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-924-312",
-    "questionText": "A government controlled by a few people for their own interests is said to be (JAMB 1999)",
+    "questionText": "A government controlled by a few people for their own interests is said to be",
     "options": [
       "an autocracy",
       "a tyranny",
@@ -21901,7 +21901,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-925-331",
-    "questionText": "The ideology which states that each person is the best judge of what is in his self-interest is (JAMB 1999)",
+    "questionText": "The ideology which states that each person is the best judge of what is in his self-interest is",
     "options": [
       "liberalism",
       "socialism",
@@ -21913,7 +21913,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-926-349",
-    "questionText": "Nigeria’s role in ECOMOG is essentially informed by her (JAMB 1999)",
+    "questionText": "Nigeria’s role in ECOMOG is essentially informed by her",
     "options": [
       "desire for peace and stability",
       "chairmanship of ECOWAS.",
@@ -21925,7 +21925,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-927-347",
-    "questionText": "One of the main reasons for the creation of more local governments in Nigeria is to (JAMB 1999)",
+    "questionText": "One of the main reasons for the creation of more local governments in Nigeria is to",
     "options": [
       "make them more responsive to people’s needs",
       "weaken the powers of traditional authorities",
@@ -21937,7 +21937,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-928-330",
-    "questionText": "Naturalization is a process of acquiring citizenship by (JAMB 1999)",
+    "questionText": "Naturalization is a process of acquiring citizenship by",
     "options": [
       "persons of dual nationality",
       "foreign visitors to a country",
@@ -21949,7 +21949,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-929-319",
-    "questionText": "The most important function of the exclusive organ of government is to (JAMB 1999)",
+    "questionText": "The most important function of the exclusive organ of government is to",
     "options": [
       "formulate policies",
       "give assent to bills",
@@ -21961,7 +21961,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-930-313",
-    "questionText": "In the parliamentary system of government, formal legislation can take the following forms except (JAMB 1999)",
+    "questionText": "In the parliamentary system of government, formal legislation can take the following forms except",
     "options": [
       "royal proclamations",
       "order in council",
@@ -21973,7 +21973,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-931-338",
-    "questionText": "The Lagos Colony and Protectorate was amalgamated with The Protectorate of Southern (JAMB 1999)",
+    "questionText": "The Lagos Colony and Protectorate was amalgamated with The Protectorate of Southern",
     "options": [
       "1886",
       "1893",
@@ -21985,7 +21985,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-932-355",
-    "questionText": "Before a new member is admitted to the United Nations Organization, its application must be approved by all (JAMB 1999)",
+    "questionText": "Before a new member is admitted to the United Nations Organization, its application must be approved by all",
     "options": [
       "permanent members of the Security Council",
       "members of the General Assembly",
@@ -21997,7 +21997,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-933-336",
-    "questionText": "The first Head of Government in Independent Nigeria was (JAMB 1999)",
+    "questionText": "The first Head of Government in Independent Nigeria was",
     "options": [
       "Nnamdi Azikiwe",
       "Ahmadu Bello",
@@ -22009,7 +22009,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-934-309",
-    "questionText": "In a federal system of government, the center is (JAMB 1999)",
+    "questionText": "In a federal system of government, the center is",
     "options": [
       "superior to the other components",
       "inferior to the other components",
@@ -22021,7 +22021,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-935-324",
-    "questionText": "The feature which best differentiates pressure group from political parties is that they do not (JAMB 1999)",
+    "questionText": "The feature which best differentiates pressure group from political parties is that they do not",
     "options": [
       "have interest in politics",
       "seek to influences public opinion",
@@ -22033,7 +22033,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-936-334",
-    "questionText": "The Independence constitution can be described as (JAMB 1999)",
+    "questionText": "The Independence constitution can be described as",
     "options": [
       "monarchical and presidential",
       "republican and parliamentary",
@@ -22045,7 +22045,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-937-357",
-    "questionText": "The organ of the United Nations Organization responsible for the former colonies of defeated World War II power is the (JAMB 1999)",
+    "questionText": "The organ of the United Nations Organization responsible for the former colonies of defeated World War II power is the",
     "options": [
       "General Assembly",
       "Security Council",
@@ -22057,7 +22057,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-938-339",
-    "questionText": "During the 1957 constitutional conference, the Willink Commission was set up to (JAMB 1999)",
+    "questionText": "During the 1957 constitutional conference, the Willink Commission was set up to",
     "options": [
       "recommend a date for independence",
       "suggest an equitable revenue allocation formula",
@@ -22069,7 +22069,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-939-311",
-    "questionText": "The principle of collectively responsibility implies that (JAMB 1999)",
+    "questionText": "The principle of collectively responsibility implies that",
     "options": [
       "individual views cannot be expressed",
       "decisions taken are defended in spite of individual opinions",
@@ -22081,7 +22081,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-940-353",
-    "questionText": "Nigeria’s non-aligned policy means that she will (JAMB 1999)",
+    "questionText": "Nigeria’s non-aligned policy means that she will",
     "options": [
       "have nothing to do with the super-powers",
       "not take sides in international issues based on ideological considerations",
@@ -22093,7 +22093,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-941-327",
-    "questionText": ".\n\nA state is said to be fascist when (JAMB 1999)",
+    "questionText": ".\n\nA state is said to be fascist when",
     "options": [
       "its leader is patriotic but the citizens are not",
       "all rights and liberties are subordinated to state interest",
@@ -22105,7 +22105,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-942-356",
-    "questionText": "Which of the following international organizations was in existence before the outbreak of the Second World War? (JAMB 1999)",
+    "questionText": "Which of the following international organizations was in existence before the outbreak of the Second World War?",
     "options": [
       "The OAU",
       "The League of Nations",
@@ -22117,7 +22117,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-943-352",
-    "questionText": "Nigeria’s was suspended from the Commonwealth because of her (JAMB 1999)",
+    "questionText": "Nigeria’s was suspended from the Commonwealth because of her",
     "options": [
       "tacit approval of military dictatorship",
       "negative position towards other nations",
@@ -22129,7 +22129,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-944-322",
-    "questionText": "One instrument for safeguarding the rights of citizens is (JAMB 1999)",
+    "questionText": "One instrument for safeguarding the rights of citizens is",
     "options": [
       "judicial interpretation",
       "presidential pardon",
@@ -22141,7 +22141,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-945-323",
-    "questionText": "Legislative control over delegated legislation can be performed through (JAMB 1999)",
+    "questionText": "Legislative control over delegated legislation can be performed through",
     "options": [
       "withdrawal of delegated powers by the judiciary",
       "nullification of unconstitutional legislation",
@@ -22153,7 +22153,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-946-346",
-    "questionText": "Rate are usually collected in Nigeria by (JAMB 1999)",
+    "questionText": "Rate are usually collected in Nigeria by",
     "options": [
       "ministries of commerce in the states",
       "local government councils",
@@ -22165,7 +22165,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-947-315",
-    "questionText": "A hereditary system of government is (JAMB 1999)",
+    "questionText": "A hereditary system of government is",
     "options": [
       "an oligarchy",
       "a gerontocracy",
@@ -22177,7 +22177,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-948-329",
-    "questionText": "Indirect legislation can be achieved by (JAMB 1999)",
+    "questionText": "Indirect legislation can be achieved by",
     "options": [
       "judicial interpretation and precedent",
       "passing a private member’s bill",
@@ -22189,7 +22189,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-949-333",
-    "questionText": "The British Government revoked the Character of the Royal Niger Company and took over the administration of Nigeria in (JAMB 1999)",
+    "questionText": "The British Government revoked the Character of the Royal Niger Company and took over the administration of Nigeria in",
     "options": [
       "1861",
       "1861",
@@ -22201,7 +22201,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-950-343",
-    "questionText": "The highest ruling body under the Murtala Obasanjo regime differed remarkably from that of the Gowon (JAMB 1999)",
+    "questionText": "The highest ruling body under the Murtala Obasanjo regime differed remarkably from that of the Gowon",
     "options": [
       "administration because of the",
       "inclusion of civilians as members",
@@ -22213,7 +22213,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-951-320",
-    "questionText": "The process of learning the norms and values associated with a political system is referred to as political (JAMB 1999)",
+    "questionText": "The process of learning the norms and values associated with a political system is referred to as political",
     "options": [
       "socialization",
       "indoctrination",
@@ -22225,7 +22225,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-952-149",
-    "questionText": "Which of the following does not described a party system?  (JAMB 2012)",
+    "questionText": "Which of the following does not described a party system?",
     "options": [
       "one dominant party system",
       "two party system",
@@ -22237,7 +22237,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-953-162",
-    "questionText": "The Chick’s Commission in Nigeria was set up to look into   (JAMB 2012)",
+    "questionText": "The Chick’s Commission in Nigeria was set up to look into",
     "options": [
       "state’s creation",
       "revenue allocation",
@@ -22249,7 +22249,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-954-106",
-    "questionText": "A non-monarchial state can best be described as a  (JAMB 2010)",
+    "questionText": "A non-monarchial state can best be described as a",
     "options": [
       "republic",
       "confederation",
@@ -22261,7 +22261,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-955-192",
-    "questionText": "On the basis of its structure, a political party can be classified an indirect if (JAMB 2013)",
+    "questionText": "On the basis of its structure, a political party can be classified an indirect if",
     "options": [
       "it controls government indirectly",
       "it contests elections by proxy",
@@ -22273,7 +22273,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-956-73",
-    "questionText": "Federalism was introduced in Nigeria by the  (JAMB 2008)",
+    "questionText": "Federalism was introduced in Nigeria by the",
     "options": [
       "Lyttleton Constitution",
       "Clifford constitution",
@@ -22285,7 +22285,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-957-155",
-    "questionText": "The Legislature in Nigeria under the 1999 constitution is composed   (JAMB 2012)",
+    "questionText": "The Legislature in Nigeria under the 1999 constitution is composed",
     "options": [
       "109 senators and 360 members of the House of Representative",
       "109 senators and 350 members of the House of Representative",
@@ -22297,7 +22297,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-958-197",
-    "questionText": "Which of the following modern principles of democracy is found in the Yoruba traditional political system   (JAMB 2013)",
+    "questionText": "Which of the following modern principles of democracy is found in the Yoruba traditional political system",
     "options": [
       "checks and balances",
       "the constitution",
@@ -22309,7 +22309,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-959-92",
-    "questionText": "The idea of democracy started with the  (JAMB 2009)",
+    "questionText": "The idea of democracy started with the",
     "options": [
       "Romans",
       "Pensions",
@@ -22321,7 +22321,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-960-74",
-    "questionText": "Traditional rulers were restricted to ceremonial rules by the local  government  reforms of  (JAMB 2009)",
+    "questionText": "Traditional rulers were restricted to ceremonial rules by the local  government  reforms of",
     "options": [
       "1966",
       "1976",
@@ -22333,7 +22333,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-961-54",
-    "questionText": "One of the following is not a specialized agency to the United Nations Organization  (JAMB 2008)",
+    "questionText": "One of the following is not a specialized agency to the United Nations Organization",
     "options": [
       "security council",
       "International Labour Organization",
@@ -22345,7 +22345,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-962-77",
-    "questionText": "A social system in which power is derived  from control over land is called  (JAMB 2009)",
+    "questionText": "A social system in which power is derived  from control over land is called",
     "options": [
       "Oligarchy",
       "Feudalisms",
@@ -22357,7 +22357,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-963-181",
-    "questionText": "Political activity at the diplomatic level is called   (JAMB 2013)",
+    "questionText": "Political activity at the diplomatic level is called",
     "options": [
       "International relations",
       "International law",
@@ -22369,7 +22369,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-964-184",
-    "questionText": "The independence  of the judiciary can be enhanced by the following except   (JAMB 2013)",
+    "questionText": "The independence  of the judiciary can be enhanced by the following except",
     "options": [
       "when judges hold office for a fixed term",
       "when judges cannot be removed from office even when they commit crimes",
@@ -22381,7 +22381,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-965-159",
-    "questionText": "One of the foremost theorists of federalism was A.  (JAMB 2012)",
+    "questionText": "One of the foremost theorists of federalism was A.",
     "options": [
       "A.V Dicey",
       "B. K.C Wheare",
@@ -22393,7 +22393,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-966-68",
-    "questionText": "The body charged with the trial of persons accused of crimes  against humanity is  (JAMB 2008)",
+    "questionText": "The body charged with the trial of persons accused of crimes  against humanity is",
     "options": [
       "criminal Court of Justice",
       "International Criminal Court",
@@ -22405,7 +22405,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-967-49",
-    "questionText": "The Economic Community of West African States was established in  (JAMB 2008)",
+    "questionText": "The Economic Community of West African States was established in",
     "options": [
       "May-75",
       "May-63",
@@ -22417,7 +22417,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-968-53",
-    "questionText": "What was the name of the highest ruling body during General Babangida’s rule?   (JAMB 2008)",
+    "questionText": "What was the name of the highest ruling body during General Babangida’s rule?",
     "options": [
       "The presidency",
       "Armed Forces Ruling Council",
@@ -22429,7 +22429,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-969-86",
-    "questionText": "Under the Presidential system  (JAMB 2009)",
+    "questionText": "Under the Presidential system",
     "options": [
       "The party with the majority of seat forms the executive",
       "there is the principles of collective responsibility",
@@ -22441,7 +22441,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-970-179",
-    "questionText": "A major function of the State Independent Electoral Commissions in Nigeria is the   (JAMB 2013)",
+    "questionText": "A major function of the State Independent Electoral Commissions in Nigeria is the",
     "options": [
       "Conduct of elections into local government offices",
       "registration of political parties",
@@ -22453,7 +22453,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-971-91",
-    "questionText": "The leader of the northern people’s congress was  (JAMB 2009)",
+    "questionText": "The leader of the northern people’s congress was",
     "options": [
       "Yakubu Maitama Sule",
       "Abubakar Tafawa Balewa",
@@ -22465,7 +22465,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-972-194",
-    "questionText": "In judicial administration, the term ‘the bench’ refers to the   (JAMB 2013)",
+    "questionText": "In judicial administration, the term ‘the bench’ refers to the",
     "options": [
       "lawyers",
       "litigants",
@@ -22477,7 +22477,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-973-57",
-    "questionText": "The Action Group crisis was is in which year?  (JAMB 2008)",
+    "questionText": "The Action Group crisis was is in which year?",
     "options": [
       "1966",
       "1962",
@@ -22489,7 +22489,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-974-80",
-    "questionText": "Which of these constitutions recognized local government is the third tier of government?  (JAMB 2009)",
+    "questionText": "Which of these constitutions recognized local government is the third tier of government?",
     "options": [
       "The 1946 constitution",
       "The 1960 constitution",
@@ -22501,7 +22501,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-975-95",
-    "questionText": "The branch of government responsible for implementing laws is the  (JAMB 2009)",
+    "questionText": "The branch of government responsible for implementing laws is the",
     "options": [
       "executive",
       "Legislature",
@@ -22513,7 +22513,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-976-163",
-    "questionText": "Nigeria observed the principal of collective responsibility between   (JAMB 2012)",
+    "questionText": "Nigeria observed the principal of collective responsibility between",
     "options": [
       "1960 and 1966",
       "1979 and 1983",
@@ -22525,7 +22525,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-977-121",
-    "questionText": "According to Karl Marx, the mode of production that precedes capitalism is  (JAMB 2010)",
+    "questionText": "According to Karl Marx, the mode of production that precedes capitalism is",
     "options": [
       "mercantilism",
       "feudalism",
@@ -22537,7 +22537,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-978-161",
-    "questionText": "The Universal Negro Improvement Association was founded by   (JAMB 2012)",
+    "questionText": "The Universal Negro Improvement Association was founded by",
     "options": [
       "Casely Hayford",
       "Herber Macauly",
@@ -22549,7 +22549,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-979-154",
-    "questionText": "In Nigeria, promotion of judges is the responsibility of the  (JAMB 2012)",
+    "questionText": "In Nigeria, promotion of judges is the responsibility of the",
     "options": [
       "Chief Justice of the Federation",
       "Judicial Service Commission",
@@ -22561,7 +22561,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-980-96",
-    "questionText": "In a democracy, sovereignty is vested in  (JAMB 2009)",
+    "questionText": "In a democracy, sovereignty is vested in",
     "options": [
       "The community",
       "Public officials",
@@ -22573,7 +22573,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-981-116",
-    "questionText": "Which of the these was the main organ of the defunct OAU?  (JAMB 2010)",
+    "questionText": "Which of the these was the main organ of the defunct OAU?",
     "options": [
       "The liberation committee",
       "The Council of Ministers",
@@ -22585,7 +22585,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-982-98",
-    "questionText": "A bill that applies to the whole population and is intended to promote the general welfare is called  (JAMB 2009)",
+    "questionText": "A bill that applies to the whole population and is intended to promote the general welfare is called",
     "options": [
       "A private bill",
       "a decree",
@@ -22597,7 +22597,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-983-111",
-    "questionText": "The creation of classless society is the ultimate aim of  (JAMB 2010)",
+    "questionText": "The creation of classless society is the ultimate aim of",
     "options": [
       "communism",
       "socialism",
@@ -22609,7 +22609,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-984-78",
-    "questionText": "“Rule of law” refers to situations in which  (JAMB 2009)",
+    "questionText": "“Rule of law” refers to situations in which",
     "options": [
       "Lawyers are the rulers",
       "Laws are supreme",
@@ -22621,7 +22621,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-985-1193",
-    "questionText": "An attribute that Nigeria shares with most non-aligned countries is (JAMB 2002)",
+    "questionText": "An attribute that Nigeria shares with most non-aligned countries is",
     "options": [
       "her large population",
       "the state of her economy",
@@ -22633,7 +22633,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-986-581",
-    "questionText": "The division of powers between the federal and regional governments into exclusive, concurrent and residual lists was done by the (JAMB 2014)",
+    "questionText": "The division of powers between the federal and regional governments into exclusive, concurrent and residual lists was done by the",
     "options": [
       "1999 Constitution",
       "Independence Constitution",
@@ -22645,7 +22645,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-987-1071",
-    "questionText": "The electoral process in a representative government does NOT include (JAMB 2024)",
+    "questionText": "The electoral process in a representative government does NOT include",
     "options": [
       "free and fair elections",
       "free press",
@@ -22657,7 +22657,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-988-185",
-    "questionText": "The Aba women riot in Nigeria took place in    (JAMB 2013)",
+    "questionText": "The Aba women riot in Nigeria took place in",
     "options": [
       "1960",
       "1950",
@@ -22669,7 +22669,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-989-796",
-    "questionText": " The first Head of State and Head of Government in Nigeria was (JAMB 2018)",
+    "questionText": " The first Head of State and Head of Government in Nigeria was",
     "options": [
       "Lord Fredick Lugard",
       "Alhaji Abubakar Tafawa Balewa",
@@ -22681,7 +22681,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-990-1446",
-    "questionText": "In the history of Nigeria, 1914 was the (JAMB 2015)",
+    "questionText": "In the history of Nigeria, 1914 was the",
     "options": [
       "year the British established their rule over Nigeria",
       "beginning of first world war",
@@ -22693,7 +22693,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-991-1065",
-    "questionText": "Absence of a Red-tape is a merit of  (JAMB 2024)",
+    "questionText": "Absence of a Red-tape is a merit of",
     "options": [
       "federal government structure",
       "unitary structure",
@@ -22705,7 +22705,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-992-219",
-    "questionText": "Which of the following is a source of a country’s constitution (JAMB 2000)",
+    "questionText": "Which of the following is a source of a country’s constitution",
     "options": [
       "Mandamus",
       "Judicial precedents",
@@ -22717,7 +22717,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-993-1379",
-    "questionText": "The officer in charge of the administration of the palace in the Yoruba political structure is the (JAMB 2008)",
+    "questionText": "The officer in charge of the administration of the palace in the Yoruba political structure is the",
     "options": [
       "baale",
       "oluwo",
@@ -22729,7 +22729,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-994-85",
-    "questionText": "In important advantage of creating more constituents in a federal state is to  (JAMB 2009)",
+    "questionText": "In important advantage of creating more constituents in a federal state is to",
     "options": [
       "Enhance the people’s participation in government",
       "Enable ambitions politicians gain political power",
@@ -22741,7 +22741,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-995-514",
-    "questionText": "The judiciary controls the executive in federal states through (JAMB 2013)",
+    "questionText": "The judiciary controls the executive in federal states through",
     "options": [
       "motions",
       "delegated legislation",
@@ -22753,7 +22753,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-996-1062",
-    "questionText": "As a non-aligned state, Nigeria attended the second meeting of the non-Aligned Movement that took place in Cairo, Egypt in  (JAMB 2024)",
+    "questionText": "As a non-aligned state, Nigeria attended the second meeting of the non-Aligned Movement that took place in Cairo, Egypt in",
     "options": [
       "1960",
       "1963",
@@ -22765,7 +22765,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-997-1109",
-    "questionText": "Associational interest groups are organized to (JAMB 2001)",
+    "questionText": "Associational interest groups are organized to",
     "options": [
       "further the interest of members",
       "specifically lobby the government",
@@ -22777,7 +22777,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-998-592",
-    "questionText": "The option A4 model was used in the conduct of the (JAMB 2014)",
+    "questionText": "The option A4 model was used in the conduct of the",
     "options": [
       "2007 elections",
       "1983 elections",
@@ -22789,7 +22789,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-999-270",
-    "questionText": "The Commonwealth of Nations consists of states formerly under ___colony. (JAMB 2013)",
+    "questionText": "The Commonwealth of Nations consists of states formerly under ___colony.",
     "options": [
       "Belgium",
       "British",
@@ -22801,7 +22801,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1000-766",
-    "questionText": "The head of government under the 1979 Constitution is the _____ (JAMB 2017)",
+    "questionText": "The head of government under the 1979 Constitution is the _____",
     "options": [
       "president",
       "prime minister",
@@ -22813,7 +22813,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1001-714",
-    "questionText": "When there is a conflict between the regional and federal laws under the concurrent legislative list, the (JAMB 1989)",
+    "questionText": "When there is a conflict between the regional and federal laws under the concurrent legislative list, the",
     "options": [
       "Federal laws would prevail",
       "Federal laws would be declared null and void",
@@ -22825,7 +22825,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1002-427",
-    "questionText": "Which of the following is the main function of the civil service? (JAMB 2010)",
+    "questionText": "Which of the following is the main function of the civil service?",
     "options": [
       "Supporting the party in power.",
       "Allocating resources to the federating units.",
@@ -22837,7 +22837,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1003-1276",
-    "questionText": "In a parliamentary system of government,a vote of no confidence leads to the resignation of (JAMB 2004)",
+    "questionText": "In a parliamentary system of government,a vote of no confidence leads to the resignation of",
     "options": [
       "the entire parliament",
       "the prime minister",
@@ -22849,7 +22849,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1004-245",
-    "questionText": "The French policy of Assimilation in West Africa was a form of (JAMB 2000)",
+    "questionText": "The French policy of Assimilation in West Africa was a form of",
     "options": [
       "indirect rule",
       "direct rule",
@@ -22861,7 +22861,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1005-761",
-    "questionText": "Which of the following countries significantly contributed to the formation of ECOMOG? (JAMB 2017)",
+    "questionText": "Which of the following countries significantly contributed to the formation of ECOMOG?",
     "options": [
       "Ghana",
       "Gambia",
@@ -22873,7 +22873,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1006-1077",
-    "questionText": "An economic system that encourages state ownership and control of the means of production is (JAMB 2024)",
+    "questionText": "An economic system that encourages state ownership and control of the means of production is",
     "options": [
       "socialism",
       "communism",
@@ -22885,7 +22885,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1007-306",
-    "questionText": "The process of sensitizing the electorate on the need to vote on the election day and also observe the rules and regulations of election is referred to as (JAMB 2013)",
+    "questionText": "The process of sensitizing the electorate on the need to vote on the election day and also observe the rules and regulations of election is referred to as",
     "options": [
       "campaign",
       "free and fair election",
@@ -22897,7 +22897,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1008-677",
-    "questionText": "The two parties which formed the coalition government in 1959 were the (JAMB 1989)",
+    "questionText": "The two parties which formed the coalition government in 1959 were the",
     "options": [
       "NPC and the NCNC",
       "NCNC and the AG",
@@ -22909,7 +22909,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1009-640",
-    "questionText": "Residual powers under the Nigerian independence constitution were the powers exercised by (JAMB 1988)",
+    "questionText": "Residual powers under the Nigerian independence constitution were the powers exercised by",
     "options": [
       "the Federal Government",
       "the Regional Governments",
@@ -22921,7 +22921,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1010-521",
-    "questionText": "Which of the following types of citizenship cannot be withdrawn? (JAMB 2013)",
+    "questionText": "Which of the following types of citizenship cannot be withdrawn?",
     "options": [
       "Citizenship by naturalization.",
       "Citizenship by conquest.",
@@ -22933,7 +22933,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1011-321",
-    "questionText": "Which of the following best describes the role of the civil service? (JAMB 1999)",
+    "questionText": "Which of the following best describes the role of the civil service?",
     "options": [
       "Promoting the interest of civil servants",
       "Advising government and implementing its policies",
@@ -22945,7 +22945,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1012-1382",
-    "questionText": "The option A-4 voting system was introduced into the political process in Nigeria during the (JAMB 2008)",
+    "questionText": "The option A-4 voting system was introduced into the political process in Nigeria during the",
     "options": [
       "Third Republic",
       "Fourth Republic",
@@ -22957,7 +22957,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1013-697",
-    "questionText": "Socialism developed as a protest against the evils of (JAMB 1989)",
+    "questionText": "Socialism developed as a protest against the evils of",
     "options": [
       "monarchy",
       "oligarchy",
@@ -22969,7 +22969,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1014-1394",
-    "questionText": "The Inspector General of Police is appointed by the executive on the advice of the (JAMB 2009)",
+    "questionText": "The Inspector General of Police is appointed by the executive on the advice of the",
     "options": [
       "Nigerian Police Council",
       "Police Service Commission",
@@ -22981,7 +22981,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1015-455",
-    "questionText": "The Secretary-General of the United Nations is appointed by the (JAMB 2010)",
+    "questionText": "The Secretary-General of the United Nations is appointed by the",
     "options": [
       "Permanent members of the Security Council on the recommendation of the General Assembly",
       "General Assembly on the recommendation of the Security Council",
@@ -22993,7 +22993,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1016-684",
-    "questionText": "The emergency powers conferred on the Federal Government under the independence constitution was first exercised in the (JAMB 1989)",
+    "questionText": "The emergency powers conferred on the Federal Government under the independence constitution was first exercised in the",
     "options": [
       "Western Region",
       "Mid-Western Region",
@@ -23005,7 +23005,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1017-303",
-    "questionText": "The two Greek words that make up democracy are ___ and ___ , (JAMB 2013)",
+    "questionText": "The two Greek words that make up democracy are ___ and ___ ,",
     "options": [
       "arita, demo",
       "demo, aria",
@@ -23017,7 +23017,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1018-688",
-    "questionText": "The ratification of the appointment and dismissal of an Emir in the pre-colonial Fulani Empire was done by the (JAMB 1989)",
+    "questionText": "The ratification of the appointment and dismissal of an Emir in the pre-colonial Fulani Empire was done by the",
     "options": [
       "Empire of Lafiagi and the Etsu of pategi",
       "Emirs of Kano and Katsina",
@@ -23029,7 +23029,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1019-426",
-    "questionText": "Public opinion can be measured through (JAMB 2010)",
+    "questionText": "Public opinion can be measured through",
     "options": [
       "strike action",
       "referendum",
@@ -23041,7 +23041,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1020-631",
-    "questionText": "The primary purpose of the state is to (JAMB 1988)",
+    "questionText": "The primary purpose of the state is to",
     "options": [
       "establish a system of law and order",
       "train people to become good citizens",
@@ -23053,7 +23053,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1021-1085",
-    "questionText": "Which of these colonial constitutions in Nigeria endured for the longest period? (JAMB 2024)",
+    "questionText": "Which of these colonial constitutions in Nigeria endured for the longest period?",
     "options": [
       "Richard",
       "Richard",
@@ -23065,7 +23065,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1022-198",
-    "questionText": "The subject matter of politics is best described  as    (JAMB 2013)",
+    "questionText": "The subject matter of politics is best described  as",
     "options": [
       "political parties",
       "political power",
@@ -23077,7 +23077,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1023-594",
-    "questionText": "Which of the following is a guiding principle of Nigeria’s foreign policy? (JAMB 2014)",
+    "questionText": "Which of the following is a guiding principle of Nigeria’s foreign policy?",
     "options": [
       "Total opposition to the Cold War",
       "Posting of only carrier diplomats as envoys",
@@ -23089,7 +23089,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1024-472",
-    "questionText": "The right of citizens to participate in the affairs of government of their country is called (JAMB 2012)",
+    "questionText": "The right of citizens to participate in the affairs of government of their country is called",
     "options": [
       "economic right",
       "civil right",
@@ -23101,7 +23101,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461568-1025-233",
-    "questionText": "Nigeria’s first constitution was the (JAMB 2000)",
+    "questionText": "Nigeria’s first constitution was the",
     "options": [
       "Lyttleton Constitution",
       "Clifford Constitution",
@@ -23113,7 +23113,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1026-1082",
-    "questionText": "Aggregate view of individuals in a society is referred to as (JAMB 2024)",
+    "questionText": "Aggregate view of individuals in a society is referred to as",
     "options": [
       "Public outcry",
       "people's voice",
@@ -23125,7 +23125,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1027-471",
-    "questionText": "The bringing of a session of a parliament to an end through royal proclamation is known as (JAMB 2012)",
+    "questionText": "The bringing of a session of a parliament to an end through royal proclamation is known as",
     "options": [
       "political impasse",
       "dissolution of parliament",
@@ -23137,7 +23137,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1028-263",
-    "questionText": "Military rule is an example of ______ authority. (JAMB 2013)",
+    "questionText": "Military rule is an example of ______ authority.",
     "options": [
       "charismatic",
       "coercive",
@@ -23149,7 +23149,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1029-679",
-    "questionText": "The process of depriving persons of the right of voting is known as (JAMB 1989)",
+    "questionText": "The process of depriving persons of the right of voting is known as",
     "options": [
       "enfranchisement",
       "disqualification",
@@ -23161,7 +23161,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1030-869",
-    "questionText": "____ is noted for having said \"man by nature is a political animal\" (JAMB 2019)",
+    "questionText": "____ is noted for having said \"man by nature is a political animal\"",
     "options": [
       "Thomas Hobbes",
       "Aristotle",
@@ -23173,7 +23173,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1031-765",
-    "questionText": "The essence of ECOWAS is to________ (JAMB 2017)",
+    "questionText": "The essence of ECOWAS is to________",
     "options": [
       "bring political parties together",
       "foster interstate economic and political co-operation",
@@ -23185,7 +23185,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1032-489",
-    "questionText": "A major objective of the Public Complaints Commission is (JAMB 2012)",
+    "questionText": "A major objective of the Public Complaints Commission is",
     "options": [
       "training and promotion of public servants",
       "settlement of disputes among individuals",
@@ -23197,7 +23197,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1033-702",
-    "questionText": "The constitution of the Federal Republic of Nigeria (JAMB 1989)",
+    "questionText": "The constitution of the Federal Republic of Nigeria",
     "options": [
       "promotes unity in diversity",
       "allows for the dominance of the minority ethnic groups",
@@ -23209,7 +23209,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1034-698",
-    "questionText": "The major advantage of the secret ballot is that (JAMB 1989)",
+    "questionText": "The major advantage of the secret ballot is that",
     "options": [
       "it is faster than other systems",
       "nobody can be prevented from voting",
@@ -23221,7 +23221,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1035-47",
-    "questionText": "The French colonial policy of Assimilation  was intended to  (JAMB 2008)",
+    "questionText": "The French colonial policy of Assimilation  was intended to",
     "options": [
       "to transfer technology to Africa",
       "to make Frenchmen out of African",
@@ -23233,7 +23233,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1036-1135",
-    "questionText": "Nigeria's recognition of the Popular Movement for the Liberation of Angola to lead that country was made under (JAMB 2001)",
+    "questionText": "Nigeria's recognition of the Popular Movement for the Liberation of Angola to lead that country was made under",
     "options": [
       "General Yakubu Gowon",
       "General Murtala Mohammed",
@@ -23245,7 +23245,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1037-1362",
-    "questionText": "The citizenship of a country can be acquired by an alien through (JAMB 2008)",
+    "questionText": "The citizenship of a country can be acquired by an alien through",
     "options": [
       "habitation",
       "assimilation",
@@ -23257,7 +23257,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1038-722",
-    "questionText": "Which of the following countries is not a member of the Economic Community of West African States (ECOWAS)? (JAMB 1989)",
+    "questionText": "Which of the following countries is not a member of the Economic Community of West African States (ECOWAS)?",
     "options": [
       "Nigeria",
       "Cameroun",
@@ -23269,7 +23269,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1039-439",
-    "questionText": "One of the strong points of the multi-party system in Nigeria’s Fourth Republic is (JAMB 2010)",
+    "questionText": "One of the strong points of the multi-party system in Nigeria’s Fourth Republic is",
     "options": [
       "government interference",
       "wider political participation",
@@ -23281,7 +23281,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1040-1052",
-    "questionText": "Nigerian Ports Authority is an example of  (JAMB 2024)",
+    "questionText": "Nigerian Ports Authority is an example of",
     "options": [
       "Civil Service",
       "Public Service",
@@ -23293,7 +23293,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1041-504",
-    "questionText": "As part of the reforms in the UN, two slots were proposed in the Security Council for (JAMB 2012)",
+    "questionText": "As part of the reforms in the UN, two slots were proposed in the Security Council for",
     "options": [
       "Asia",
       "Africa",
@@ -23305,7 +23305,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1042-628",
-    "questionText": "The common wealth is (JAMB 1988)",
+    "questionText": "The common wealth is",
     "options": [
       "an economic organization",
       "made up of all independent ex-colonies of Britain",
@@ -23317,7 +23317,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1043-1084",
-    "questionText": "The fragmented nature of the Igbo pre-colonial political system qualified it to be described as (JAMB 2024)",
+    "questionText": "The fragmented nature of the Igbo pre-colonial political system qualified it to be described as",
     "options": [
       "centralised in nature",
       "ceremonial political arrangement",
@@ -23329,7 +23329,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1044-746",
-    "questionText": "Activities of pressure groups that influence governmental decisions are hampered by __ (JAMB 2017)",
+    "questionText": "Activities of pressure groups that influence governmental decisions are hampered by __",
     "options": [
       "its size",
       "its leadership",
@@ -23341,7 +23341,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1045-708",
-    "questionText": "Which of the following is not an academic discipline in which a student of Government can specialize (JAMB 1989)",
+    "questionText": "Which of the following is not an academic discipline in which a student of Government can specialize",
     "options": [
       "Public Administration",
       "Local Government",
@@ -23353,7 +23353,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1046-1293",
-    "questionText": "The relationship between the tiers of government in Nigeria can be described as one of (JAMB 2004)",
+    "questionText": "The relationship between the tiers of government in Nigeria can be described as one of",
     "options": [
       "coordinate and independent jurisdiction",
       "voluntary surbodination",
@@ -23365,7 +23365,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1047-107",
-    "questionText": "Proportional representation favours a  (JAMB 2010)",
+    "questionText": "Proportional representation favours a",
     "options": [
       "multi-party system",
       "three party system",
@@ -23377,7 +23377,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1048-694",
-    "questionText": "While political parties aim at forming a government, pressure groups aim at (JAMB 1989)",
+    "questionText": "While political parties aim at forming a government, pressure groups aim at",
     "options": [
       "imposing a military rule",
       "causing social unrest",
@@ -23389,7 +23389,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1049-634",
-    "questionText": "The creation of the office of the Prime Minister in Nigeria was accomplished in (JAMB 1988)",
+    "questionText": "The creation of the office of the Prime Minister in Nigeria was accomplished in",
     "options": [
       "1951",
       "1954",
@@ -23401,7 +23401,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1050-527",
-    "questionText": "The performance of ritual rites in the Yoruba empire is the responsibility of the (JAMB 2013)",
+    "questionText": "The performance of ritual rites in the Yoruba empire is the responsibility of the",
     "options": [
       "Oyo mesi",
       "Aare-ona kakanfo",
@@ -23413,7 +23413,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1051-1369",
-    "questionText": "In the monarchical system of government, sovereignty is vested in the (JAMB 2008)",
+    "questionText": "In the monarchical system of government, sovereignty is vested in the",
     "options": [
       "people",
       "royalty",
@@ -23425,7 +23425,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1052-1013",
-    "questionText": "n which system of government is the executive and legislature fused? (JAMB 2023)",
+    "questionText": "n which system of government is the executive and legislature fused?",
     "options": [
       "Cabinet",
       "Presidential",
@@ -23437,7 +23437,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1053-279",
-    "questionText": "In the pre-colonial Hause/Fulani society, the political head was called (JAMB 2013)",
+    "questionText": "In the pre-colonial Hause/Fulani society, the political head was called",
     "options": [
       "Alkali",
       "Galadima",
@@ -23449,7 +23449,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1054-644",
-    "questionText": "A political concept that is composed of the attitudes, beliefs, emotions and values of a society is called political (JAMB 1988)",
+    "questionText": "A political concept that is composed of the attitudes, beliefs, emotions and values of a society is called political",
     "options": [
       "culture",
       "single transferable vote",
@@ -23461,7 +23461,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1055-1206",
-    "questionText": "Constitutional disputes in states with written constitutions are resolved by (JAMB 2003)",
+    "questionText": "Constitutional disputes in states with written constitutions are resolved by",
     "options": [
       "ombudsman",
       "judiciary",
@@ -23473,7 +23473,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1056-550",
-    "questionText": "A representative of a Commonwealth country in another member state is known as (JAMB 2013)",
+    "questionText": "A representative of a Commonwealth country in another member state is known as",
     "options": [
       "High Commissioner",
       "Consul-General",
@@ -23485,7 +23485,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1057-632",
-    "questionText": "The Armed Forces Ruling Council came into existence under the (JAMB 1988)",
+    "questionText": "The Armed Forces Ruling Council came into existence under the",
     "options": [
       "Buhari Administration",
       "Gowon Administration",
@@ -23497,7 +23497,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1058-317",
-    "questionText": "Bicameral legislature are a common feature of (JAMB 1999)",
+    "questionText": "Bicameral legislature are a common feature of",
     "options": [
       "monarchical systems",
       "confederal systems",
@@ -23509,7 +23509,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1059-554",
-    "questionText": "OPEC has strong influence with the (JAMB 2013)",
+    "questionText": "OPEC has strong influence with the",
     "options": [
       "IMF",
       "EU",
@@ -23521,7 +23521,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1060-721",
-    "questionText": "Election among candidates from the same party before the final elections are called (JAMB 1989)",
+    "questionText": "Election among candidates from the same party before the final elections are called",
     "options": [
       "Primaries",
       "Running Mates",
@@ -23533,7 +23533,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1061-633",
-    "questionText": "Which of the following is not a specialized agency of the United Nations Organization? (JAMB 1988)",
+    "questionText": "Which of the following is not a specialized agency of the United Nations Organization?",
     "options": [
       "World Health Organization",
       "The Food and Agriculture Organization",
@@ -23545,7 +23545,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1062-699",
-    "questionText": "One of the first action of military governments when they take over power in Nigeria is to (JAMB 1989)",
+    "questionText": "One of the first action of military governments when they take over power in Nigeria is to",
     "options": [
       "detain all the politicians",
       "appoint new ministers and commissioners",
@@ -23557,7 +23557,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1063-692",
-    "questionText": "The head of the Oyomesi in the old Oyo Empire was (JAMB 1989)",
+    "questionText": "The head of the Oyomesi in the old Oyo Empire was",
     "options": [
       "Aremo",
       "Are Onakakanfo",
@@ -23569,7 +23569,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1064-1087",
-    "questionText": "The organs of ECOWAS do NOT include the (JAMB 2024)",
+    "questionText": "The organs of ECOWAS do NOT include the",
     "options": [
       "Accra",
       "Abuja",
@@ -23581,7 +23581,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1065-643",
-    "questionText": "A popular form of proportional representation is (JAMB 1988)",
+    "questionText": "A popular form of proportional representation is",
     "options": [
       "communal representation",
       "single transferable vote",
@@ -23593,7 +23593,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1066-604",
-    "questionText": "Government refers to all the following, except (JAMB 1988)",
+    "questionText": "Government refers to all the following, except",
     "options": [
       "an institution of the state",
       "the process of ruling a political community",
@@ -23605,7 +23605,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1067-301",
-    "questionText": "The first ever civilian - to - civilian transition was recorded in Nigeria in (JAMB 2013)",
+    "questionText": "The first ever civilian - to - civilian transition was recorded in Nigeria in",
     "options": [
       "1966",
       "1979",
@@ -23617,7 +23617,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1068-294",
-    "questionText": "Agents of political socialization include the following EXCEPT (JAMB 2013)",
+    "questionText": "Agents of political socialization include the following EXCEPT",
     "options": [
       "educational institutions",
       "political godfathers",
@@ -23629,7 +23629,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1069-720",
-    "questionText": "Citizens who are legally qualified to vote form (JAMB 1989)",
+    "questionText": "Citizens who are legally qualified to vote form",
     "options": [
       "Political parties",
       "A Trade Union Congress",
@@ -23641,7 +23641,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1070-260",
-    "questionText": "Revenue allocation means the sharing of the (JAMB 2013)",
+    "questionText": "Revenue allocation means the sharing of the",
     "options": [
       "national cake among the people",
       "wealth of a nation among different levels of government",
@@ -23653,7 +23653,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1071-1365",
-    "questionText": "In the presidential system of government , the leader is basically the head of state and (JAMB 2008)",
+    "questionText": "In the presidential system of government , the leader is basically the head of state and",
     "options": [
       "government",
       "the police",
@@ -23665,7 +23665,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461569-1072-228",
-    "questionText": "The system which allows private individuals and companies to own and control the means of production is known as (JAMB 2000)",
+    "questionText": "The system which allows private individuals and companies to own and control the means of production is known as",
     "options": [
       "socialism",
       "fascism",
@@ -23677,7 +23677,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1073-783",
-    "questionText": "The limitation of the right to life can be found (JAMB 2018)",
+    "questionText": "The limitation of the right to life can be found",
     "options": [
       "among the people",
       "in the case of a convicted person",
@@ -23689,7 +23689,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1074-408",
-    "questionText": "Nation-state is synonymous with (JAMB 2010)",
+    "questionText": "Nation-state is synonymous with",
     "options": [
       "liberation",
       "sovereignty",
@@ -23701,7 +23701,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1075-704",
-    "questionText": "The principle of anonymity of civil servants means that they are (JAMB 1989)",
+    "questionText": "The principle of anonymity of civil servants means that they are",
     "options": [
       "career officers",
       "not the servants of a particular government",
@@ -23713,7 +23713,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1076-469",
-    "questionText": "To ensure the rights and freedom of citizens, the powers of the arms of government must be (JAMB 2012)",
+    "questionText": "To ensure the rights and freedom of citizens, the powers of the arms of government must be",
     "options": [
       "fused",
       "incorporated",
@@ -23725,7 +23725,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1077-1057",
-    "questionText": "The rationale behind the adoption of a federal system of government in Nigeria is to  (JAMB 2024)",
+    "questionText": "The rationale behind the adoption of a federal system of government in Nigeria is to",
     "options": [
       "promote the autonomy of states",
       "establish a powerful central government",
@@ -23737,7 +23737,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1078-487",
-    "questionText": "The National Assembly in Nigeria is primarily responsible for (JAMB 2012)",
+    "questionText": "The National Assembly in Nigeria is primarily responsible for",
     "options": [
       "executing laws",
       "interpreting laws",
@@ -23749,7 +23749,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1079-553",
-    "questionText": "The AU differs from the OAU in having (JAMB 2013)",
+    "questionText": "The AU differs from the OAU in having",
     "options": [
       "no assembly of Heads of State",
       "effective tools for decision enforcement.",
@@ -23761,7 +23761,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1080-266",
-    "questionText": "The 1957 commission of enquiry which investigated the problems of ethnic domination in Nigeria was chaired by (JAMB 2013)",
+    "questionText": "The 1957 commission of enquiry which investigated the problems of ethnic domination in Nigeria was chaired by",
     "options": [
       "Arthur Richard.",
       "Frederick Lugard.",
@@ -23773,7 +23773,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1081-1224",
-    "questionText": "Financial allocations to local governments by the federal or the state government to supplement the cost of a project is called (JAMB 2003)",
+    "questionText": "Financial allocations to local governments by the federal or the state government to supplement the cost of a project is called",
     "options": [
       "revenue allocation",
       "reimbursement",
@@ -23785,7 +23785,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1082-1436",
-    "questionText": "The consciousness of a common identity of a people is called (JAMB 2009)",
+    "questionText": "The consciousness of a common identity of a people is called",
     "options": [
       "nationalism",
       "integration",
@@ -23797,7 +23797,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1083-435",
-    "questionText": "One major weakness of the Independence constitution is that it (JAMB 2010)",
+    "questionText": "One major weakness of the Independence constitution is that it",
     "options": [
       "gave full powers to the Supreme Court in Nigeria",
       "gave total independence to Nigeria",
@@ -23809,7 +23809,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1084-1054",
-    "questionText": "The Nigerian Youth Movement pursued its objectives through the use of  (JAMB 2024)",
+    "questionText": "The Nigerian Youth Movement pursued its objectives through the use of",
     "options": [
       "protest",
       "newspapers",
@@ -23821,7 +23821,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1085-507",
-    "questionText": "De jure sovereignty is acquired through (JAMB 2013)",
+    "questionText": "De jure sovereignty is acquired through",
     "options": [
       "force",
       "law",
@@ -23833,7 +23833,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1086-717",
-    "questionText": "Which of the following is not a function of the Secretary-General of the United Nations Organization? (JAMB 1989)",
+    "questionText": "Which of the following is not a function of the Secretary-General of the United Nations Organization?",
     "options": [
       "Supervising the Secretariat",
       "Interpreting the treaties",
@@ -23845,7 +23845,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1087-178",
-    "questionText": "A mechanism used in parliament to limit debate is called   (JAMB 2013)",
+    "questionText": "A mechanism used in parliament to limit debate is called",
     "options": [
       "guillotine",
       "adjournment",
@@ -23857,7 +23857,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1088-1348",
-    "questionText": "Which of the following was the main organ of the defunct OAU? (JAMB 2008)",
+    "questionText": "Which of the following was the main organ of the defunct OAU?",
     "options": [
       "The Liberation Committee",
       "The Council of Ministers",
@@ -23869,7 +23869,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1089-1137",
-    "questionText": "In 1981, Nigeria participated in an Organization of African Unity peace-keeping force to replace Libyan forces in (JAMB 2001)",
+    "questionText": "In 1981, Nigeria participated in an Organization of African Unity peace-keeping force to replace Libyan forces in",
     "options": [
       "Somalia",
       "Chad",
@@ -23881,7 +23881,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1090-630",
-    "questionText": "The declaration of a state of emergency in Western Nigeria was protected by the constitution of (JAMB 1988)",
+    "questionText": "The declaration of a state of emergency in Western Nigeria was protected by the constitution of",
     "options": [
       "1954",
       "1951",
@@ -23893,7 +23893,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1091-1058",
-    "questionText": "Lawyers recruited into the civil service belong to the  (JAMB 2024)",
+    "questionText": "Lawyers recruited into the civil service belong to the",
     "options": [
       "professional class",
       "administrative class",
@@ -23905,7 +23905,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1092-665",
-    "questionText": "The judicial organ of government is the body which (JAMB 1989)",
+    "questionText": "The judicial organ of government is the body which",
     "options": [
       "implements the law",
       "makes the law",
@@ -23917,7 +23917,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1093-552",
-    "questionText": "The main representative body of the United Nations is the (JAMB 2013)",
+    "questionText": "The main representative body of the United Nations is the",
     "options": [
       "Secretariat",
       "Security Council",
@@ -23929,7 +23929,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1094-274",
-    "questionText": "Before the British colonialism in Nigeria, which of these was an instrument for dispensation of justice in !gbo land? (JAMB 2013)",
+    "questionText": "Before the British colonialism in Nigeria, which of these was an instrument for dispensation of justice in !gbo land?",
     "options": [
       "Cult",
       "Land",
@@ -23941,7 +23941,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1095-713",
-    "questionText": "Which of the following did not formally recognize Biafra’ as an independent state? (JAMB 1989)",
+    "questionText": "Which of the following did not formally recognize Biafra’ as an independent state?",
     "options": [
       "Sierra Leone",
       "Tanzania",
@@ -23953,7 +23953,7 @@ export const governmentQuestions = [
   },
   {
     "id": "government-1788729461570-1096-666",
-    "questionText": "Which of the following is a false description of the first Nigeria Prime Minister? He (JAMB 1989)",
+    "questionText": "Which of the following is a false description of the first Nigeria Prime Minister? He",
     "options": [
       "was first among equals",
       "presided over the cabinet",

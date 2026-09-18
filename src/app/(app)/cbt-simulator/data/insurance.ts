@@ -37,7 +37,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-3-332",
-    "questionText": "One of the benefits payable under personal accident insurance policy is (JAMB 2015)",
+    "questionText": "One of the benefits payable under personal accident insurance policy is",
     "options": [
       "retirement benefit",
       "surrender benefit",
@@ -61,7 +61,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-5-5",
-    "questionText": "The  type  of  cover  that  is  designed  against  loss  of earnings following loss caused by fire and special perils is (JAMB 2014)",
+    "questionText": "The  type  of  cover  that  is  designed  against  loss  of earnings following loss caused by fire and special perils is",
     "options": [
       "product guarantee insurance",
       "materials damage cover",
@@ -121,7 +121,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-10-318",
-    "questionText": "The policy that covers  an  insured  employee  against injury  sustained  in  the  course  of  employment  is (JAMB 2015)",
+    "questionText": "The policy that covers  an  insured  employee  against injury  sustained  in  the  course  of  employment  is",
     "options": [
       "professional indemnity",
       "product liability",
@@ -157,7 +157,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-13-342",
-    "questionText": "Cover note  in  motor  insurance is issued for a period not exceeding (JAMB 2015)",
+    "questionText": "Cover note  in  motor  insurance is issued for a period not exceeding",
     "options": [
       "30 days",
       "60 days",
@@ -169,7 +169,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-14-43",
-    "questionText": "To which of the following parties does the principle of utmost good faith apply in a contract of insurance? (JAMB 2014)",
+    "questionText": "To which of the following parties does the principle of utmost good faith apply in a contract of insurance?",
     "options": [
       "The proposer only",
       "The insurer only",
@@ -289,7 +289,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-24-40",
-    "questionText": "The owner of a life assurance policy who enters into an agreement to sell the ownership of the policy and beneficiary rights upon the death of the insured is called (JAMB 2014)",
+    "questionText": "The owner of a life assurance policy who enters into an agreement to sell the ownership of the policy and beneficiary rights upon the death of the insured is called",
     "options": [
       "an underwriter",
       "a aviator",
@@ -361,7 +361,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-30-304",
-    "questionText": "In which of the following classes of insurance is no <em>claim discount</em> applicable? (JAMB 2015)",
+    "questionText": "In which of the following classes of insurance is no <em>claim discount</em> applicable?",
     "options": [
       "Money insurance",
       "Marine insurance",
@@ -373,7 +373,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-31-2",
-    "questionText": "One of the objectives of buying a term assurance policy is to (JAMB 2014)",
+    "questionText": "One of the objectives of buying a term assurance policy is to",
     "options": [
       "protect  dependants  in  case  of  death  of  the  life assured",
       "reduce financial burden of the life assured",
@@ -385,7 +385,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-32-321",
-    "questionText": "A policy taken for full protection against fire and other risks such as flood, tempest, riot and civil commotion is (JAMB 2015)",
+    "questionText": "A policy taken for full protection against fire and other risks such as flood, tempest, riot and civil commotion is",
     "options": [
       "consequential loss",
       "fire and all risks policy",
@@ -409,7 +409,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-34-312",
-    "questionText": "In a life assurance contract, when does  the  principle of insurable interest arise? (JAMB 2015)",
+    "questionText": "In a life assurance contract, when does  the  principle of insurable interest arise?",
     "options": [
       "At the beginning of the contract",
       "At the time of claim",
@@ -433,7 +433,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-36-308",
-    "questionText": "A type of re - insurance  where  the re - insurer has  the option  to  accept  or  reject  any  risk  presented  for re-insurance is (JAMB 2015)",
+    "questionText": "A type of re - insurance  where  the re - insurer has  the option  to  accept  or  reject  any  risk  presented  for re-insurance is",
     "options": [
       "stop loss",
       "facultative",
@@ -457,7 +457,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-38-28",
-    "questionText": "Family income option in a life policy provides that (JAMB 2014)",
+    "questionText": "Family income option in a life policy provides that",
     "options": [
       "the beneficiary will be paid for life",
       "the beneficiary receives the policy sum",
@@ -481,7 +481,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-40-331",
-    "questionText": "A motorist travelling from Ghana to Nigeria would be required to obtain one of the following types of motor insurance cover (JAMB 2015)",
+    "questionText": "A motorist travelling from Ghana to Nigeria would be required to obtain one of the following types of motor insurance cover",
     "options": [
       "green card",
       "brown card",
@@ -553,7 +553,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-46-22",
-    "questionText": "One of the information contained in a motor insurance cover note is the (JAMB 2014)",
+    "questionText": "One of the information contained in a motor insurance cover note is the",
     "options": [
       "behaviour of the insured",
       "occupation of the insured",
@@ -589,7 +589,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856451-49-310",
-    "questionText": "One of the features of term assurance is (JAMB 2015)",
+    "questionText": "One of the features of term assurance is",
     "options": [
       "investment",
       "profit",
@@ -625,7 +625,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-52-11",
-    "questionText": "Which of the following is not a feature of insurable interest? (JAMB 2014)",
+    "questionText": "Which of the following is not a feature of insurable interest?",
     "options": [
       "Loss suffered",
       "subject matter",
@@ -649,7 +649,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-54-12",
-    "questionText": "A prospective insured in an engineering insurance may be advised to purchase one of the following classes of insurance (JAMB 2014)",
+    "questionText": "A prospective insured in an engineering insurance may be advised to purchase one of the following classes of insurance",
     "options": [
       "fire cover",
       "boiler cover",
@@ -673,7 +673,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-56-15",
-    "questionText": "Which of the following is not a benefit covered under a personal accident policy? (JAMB 2014)",
+    "questionText": "Which of the following is not a benefit covered under a personal accident policy?",
     "options": [
       "Death",
       "Temporary disablement",
@@ -721,7 +721,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-60-47",
-    "questionText": "Which of the following is a risk covered in endowment assurance? (JAMB 2014)",
+    "questionText": "Which of the following is a risk covered in endowment assurance?",
     "options": [
       "Permanent disability",
       "Bodily injury",
@@ -757,7 +757,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-63-328",
-    "questionText": "The cover that is taken at the option of the motor vehicle owner is (JAMB 2015)",
+    "questionText": "The cover that is taken at the option of the motor vehicle owner is",
     "options": [
       "a comprehensive cover",
       "an act only cover",
@@ -793,7 +793,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-66-319",
-    "questionText": "What is  the  maximum  liability which the insurer can pay on a particular loss? (JAMB 2015)",
+    "questionText": "What is  the  maximum  liability which the insurer can pay on a particular loss?",
     "options": [
       "Average",
       "Sum insured",
@@ -829,7 +829,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-69-42",
-    "questionText": "A voucher signed by the insured before collecting his claim is (JAMB 2014)",
+    "questionText": "A voucher signed by the insured before collecting his claim is",
     "options": [
       "money collect receipt",
       "discharge voucher",
@@ -889,7 +889,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-74-340",
-    "questionText": "The  difference  between  theft  and burglary insurance lies in evidence of (JAMB 2015)",
+    "questionText": "The  difference  between  theft  and burglary insurance lies in evidence of",
     "options": [
       "pilfering  of insured items",
       "removal of insured items by tricks",
@@ -901,7 +901,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-75-344",
-    "questionText": "Life  assurance  contract is useful to a policyholder in the area of (JAMB 2015)",
+    "questionText": "Life  assurance  contract is useful to a policyholder in the area of",
     "options": [
       "production",
       "protection",
@@ -949,7 +949,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-79-322",
-    "questionText": "The  person  that   transfers  risks  to  the  insurance company is called (JAMB 2015)",
+    "questionText": "The  person  that   transfers  risks  to  the  insurance company is called",
     "options": [
       "a broker",
       "an insured",
@@ -973,7 +973,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-81-336",
-    "questionText": "The meaning of with <em>profit policy</em>  in life assurance is that the sum assured is paid (JAMB 2015)",
+    "questionText": "The meaning of with <em>profit policy</em>  in life assurance is that the sum assured is paid",
     "options": [
       "without profit",
       "with profit",
@@ -985,7 +985,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-82-17",
-    "questionText": "How much premium will the insurer charge? (JAMB 2014)",
+    "questionText": "How much premium will the insurer charge?",
     "options": [
       "N= 3,750",
       "N= 13,750",
@@ -1045,7 +1045,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-87-32",
-    "questionText": "A contract sold  by  insurance companies that  pay  a monthly or  quarterly income  benefit for the  life  of a person is (JAMB 2014)",
+    "questionText": "A contract sold  by  insurance companies that  pay  a monthly or  quarterly income  benefit for the  life  of a person is",
     "options": [
       "endowment",
       "annuity",
@@ -1081,7 +1081,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-90-34",
-    "questionText": "Renewal notice is  used by  insurers  to  remind the insured of the (JAMB 2014)",
+    "questionText": "Renewal notice is  used by  insurers  to  remind the insured of the",
     "options": [
       "reduction of cover",
       "continuation of cover",
@@ -1117,7 +1117,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-93-307",
-    "questionText": "A fire insurance policy guaranteed by the insured to be in place for a stated period with a particular insurer is granted a _____________ (JAMB 2015)",
+    "questionText": "A fire insurance policy guaranteed by the insured to be in place for a stated period with a particular insurer is granted a _____________",
     "options": [
       "no claim discount",
       "fleet discount",
@@ -1129,7 +1129,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-94-346",
-    "questionText": "The saving element in a permanent life assurance policy which represent the policyholder’s interest in the policy is (JAMB 2015)",
+    "questionText": "The saving element in a permanent life assurance policy which represent the policyholder’s interest in the policy is",
     "options": [
       "surrender value",
       "cash value",
@@ -1189,7 +1189,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-99-37",
-    "questionText": "Which  of the following activities is  not a  function of the  Chartered  Insurance  Institute  of  Nigeria? (JAMB 2014)",
+    "questionText": "Which  of the following activities is  not a  function of the  Chartered  Insurance  Institute  of  Nigeria?",
     "options": [
       "Setting a standard for members",
       "Promoting Professional growth",
@@ -1273,7 +1273,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-106-20",
-    "questionText": "A residential building built beside a petrol filling station is described as a (JAMB 2014)",
+    "questionText": "A residential building built beside a petrol filling station is described as a",
     "options": [
       "risk",
       "hazard",
@@ -1285,7 +1285,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-107-349",
-    "questionText": "Which of the following factors limits indemnity? (JAMB 2015)",
+    "questionText": "Which of the following factors limits indemnity?",
     "options": [
       "Cession",
       "Re - insurance",
@@ -1357,7 +1357,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-113-301",
-    "questionText": "Insurance against risk is possible because of the law of (JAMB 2015)",
+    "questionText": "Insurance against risk is possible because of the law of",
     "options": [
       "large numbers",
       "few numbers",
@@ -1429,7 +1429,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-119-316",
-    "questionText": "Educational endowment policy is designed to protect the interest of (JAMB 2015)",
+    "questionText": "Educational endowment policy is designed to protect the interest of",
     "options": [
       "father",
       "mother",
@@ -1441,7 +1441,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-120-13",
-    "questionText": "The class of non-life insurance policy where cover note is issued is (JAMB 2014)",
+    "questionText": "The class of non-life insurance policy where cover note is issued is",
     "options": [
       "fire insurance",
       "burglary insurance",
@@ -1465,7 +1465,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-122-25",
-    "questionText": "A method of providing indemnity in the event of loss is (JAMB 2014)",
+    "questionText": "A method of providing indemnity in the event of loss is",
     "options": [
       "cash payment",
       "professional advice",
@@ -1489,7 +1489,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-124-323",
-    "questionText": "A clause in marine insurance policy prohibiting the insured from giving up a damaged property is (JAMB 2015)",
+    "questionText": "A clause in marine insurance policy prohibiting the insured from giving up a damaged property is",
     "options": [
       "deductible",
       "abandonment",
@@ -1549,7 +1549,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-129-306",
-    "questionText": "Which of the following is the function of a loss adjuster? (JAMB 2015)",
+    "questionText": "Which of the following is the function of a loss adjuster?",
     "options": [
       "Ensures payment of adequate compensation",
       "Advises the insurer on claim",
@@ -1681,7 +1681,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-140-27",
-    "questionText": "One of the information contained in a renewal notice is the (JAMB 2014)",
+    "questionText": "One of the information contained in a renewal notice is the",
     "options": [
       "previous losses",
       "location of the risk",
@@ -1705,7 +1705,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-142-311",
-    "questionText": "Which  of  the  following  statements  is  true  about property insurance? (JAMB 2015)",
+    "questionText": "Which  of  the  following  statements  is  true  about property insurance?",
     "options": [
       "The probability that the event may occur",
       "The probability that the event will not occur",
@@ -1825,7 +1825,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-152-19",
-    "questionText": "A policy that combines cover for many perils as a single policy  to  suit  the  insurance  needs of  an insured is (JAMB 2014)",
+    "questionText": "A policy that combines cover for many perils as a single policy  to  suit  the  insurance  needs of  an insured is",
     "options": [
       "accident policy",
       "protection policy",
@@ -1837,7 +1837,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-153-49",
-    "questionText": "Which of  the  following  risks  are  covered  under engineering insurance? (JAMB 2014)",
+    "questionText": "Which of  the  following  risks  are  covered  under engineering insurance?",
     "options": [
       "Material damage and liability cover",
       "Boiler and special perils cover",
@@ -1909,7 +1909,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-159-334",
-    "questionText": "The process of  assessing  risks  in  insurance  and classifying them according to their degree of insurability so  that  the  appropriate  rate  may  be  assigned  is (JAMB 2015)",
+    "questionText": "The process of  assessing  risks  in  insurance  and classifying them according to their degree of insurability so  that  the  appropriate  rate  may  be  assigned  is",
     "options": [
       "inspecting",
       "underwriting",
@@ -1945,7 +1945,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-162-325",
-    "questionText": "A fire insurance policy valued at N= 250,000 is issued at the rate of 0.2%. How much would the premium be, if the policy is granted with 5% long - term agreement discount? (JAMB 2015)",
+    "questionText": "A fire insurance policy valued at N= 250,000 is issued at the rate of 0.2%. How much would the premium be, if the policy is granted with 5% long - term agreement discount?",
     "options": [
       "N= 475",
       "N= 500",
@@ -1957,7 +1957,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-163-50",
-    "questionText": "Which of the following is not a function of an insurance broker? (JAMB 2014)",
+    "questionText": "Which of the following is not a function of an insurance broker?",
     "options": [
       "Assisting clients in paying premium",
       "Maintaining proper records of claims",
@@ -1981,7 +1981,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-165-30",
-    "questionText": "Which of the following policies is a peril covered under a standard fire policy? (JAMB 2014)",
+    "questionText": "Which of the following policies is a peril covered under a standard fire policy?",
     "options": [
       "Lightning",
       "Storm",
@@ -2017,7 +2017,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-168-337",
-    "questionText": "The  document issued by  the  insurer when there is a change in the particulars of a risk insured is (JAMB 2015)",
+    "questionText": "The  document issued by  the  insurer when there is a change in the particulars of a risk insured is",
     "options": [
       "endorsement",
       "certificate",
@@ -2053,7 +2053,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-171-8",
-    "questionText": "The evidence of the insurance contract is (JAMB 2014)",
+    "questionText": "The evidence of the insurance contract is",
     "options": [
       "proposal form",
       "policy",
@@ -2125,7 +2125,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-177-333",
-    "questionText": "A  trade  group for insurance  companies in  Nigeria is called (JAMB 2015)",
+    "questionText": "A  trade  group for insurance  companies in  Nigeria is called",
     "options": [
       "Chartered Insurance Institute of Nigeria",
       "National Insurance Commission",
@@ -2161,7 +2161,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-180-10",
-    "questionText": "Which of the following is a contract of benefit? (JAMB 2014)",
+    "questionText": "Which of the following is a contract of benefit?",
     "options": [
       "Personal accident insurance",
       "Business interruption insurance",
@@ -2269,7 +2269,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-189-24",
-    "questionText": "Ade insured his property for N= 350,000.00. The property is subject to average condition. He suffered a loss amounting to N= 30,000.00 with the value of the property at the time of loss to be N= 370,000.00. How much will the insurer pay? (JAMB 2014)",
+    "questionText": "Ade insured his property for N= 350,000.00. The property is subject to average condition. He suffered a loss amounting to N= 30,000.00 with the value of the property at the time of loss to be N= 370,000.00. How much will the insurer pay?",
     "options": [
       "N= 14,583.33",
       "N= 28,378.38",
@@ -2293,7 +2293,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-191-338",
-    "questionText": "The amount charged when a ship overstays at the port under a marine contract is (JAMB 2015)",
+    "questionText": "The amount charged when a ship overstays at the port under a marine contract is",
     "options": [
       "penalty",
       "fine",
@@ -2329,7 +2329,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-194-7",
-    "questionText": "In  classification  of  risks, what is the name given to a risk  where  the  causes  of  events are linked to factors \tthat are due to the society we live in? (JAMB 2014)",
+    "questionText": "In  classification  of  risks, what is the name given to a risk  where  the  causes  of  events are linked to factors \tthat are due to the society we live in?",
     "options": [
       "Dynamic risk",
       "Particular risk",
@@ -2353,7 +2353,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-196-23",
-    "questionText": "In property insurance, which of the following is not a direct loss? (JAMB 2014)",
+    "questionText": "In property insurance, which of the following is not a direct loss?",
     "options": [
       "Reinstating the property destroyed",
       "Replacing the property destroyed",
@@ -2365,7 +2365,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-197-33",
-    "questionText": "George effected two personal accident policies. The first policy provides N= 25,000.00 cover for loss of limb. The second policy provides N= 30,000.00 cover for loss of limb. What is the total amount that  George  will receive in the event of a valid loss of limb claim? (JAMB 2014)",
+    "questionText": "George effected two personal accident policies. The first policy provides N= 25,000.00 cover for loss of limb. The second policy provides N= 30,000.00 cover for loss of limb. What is the total amount that  George  will receive in the event of a valid loss of limb claim?",
     "options": [
       "N= 5,000.00",
       "N= 25,000.00",
@@ -2473,7 +2473,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-206-345",
-    "questionText": "Which  of  the  following  functions  is  related  to  life assurance contract? Benefits are (JAMB 2015)",
+    "questionText": "Which  of  the  following  functions  is  related  to  life assurance contract? Benefits are",
     "options": [
       "determined  on  the  happening  of  insured  event",
       "determined by the indemnity doctrine",
@@ -2545,7 +2545,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-212-339",
-    "questionText": "Which of the following documents forms the basis of a contract in insurance business? (JAMB 2015)",
+    "questionText": "Which of the following documents forms the basis of a contract in insurance business?",
     "options": [
       "Policy document",
       "Proposal form",
@@ -2557,7 +2557,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-213-39",
-    "questionText": "The payment made when the insured is  not  entitled to claim under a policy is (JAMB 2014)",
+    "questionText": "The payment made when the insured is  not  entitled to claim under a policy is",
     "options": [
       "voluntary excess",
       "ex-gratia",
@@ -2641,7 +2641,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-220-3",
-    "questionText": "An assurance policy taken by experts to cover possible negligence arising from their duties is (JAMB 2014)",
+    "questionText": "An assurance policy taken by experts to cover possible negligence arising from their duties is",
     "options": [
       "consequential loss",
       "professional indemnity",
@@ -2677,7 +2677,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-223-315",
-    "questionText": "Which  of  the  following  would  not  give  cause  for subrogation right? (JAMB 2015)",
+    "questionText": "Which  of  the  following  would  not  give  cause  for subrogation right?",
     "options": [
       "Benefit",
       "Contract",
@@ -2689,7 +2689,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-224-314",
-    "questionText": "In which of the following policies is <em>certificate of insurance</em>  used? (JAMB 2015)",
+    "questionText": "In which of the following policies is <em>certificate of insurance</em>  used?",
     "options": [
       "Burglary insurance",
       "Product liability insurance",
@@ -2713,7 +2713,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-226-327",
-    "questionText": "Which of the following is not a function of an insurance underwriter? (JAMB 2015)",
+    "questionText": "Which of the following is not a function of an insurance underwriter?",
     "options": [
       "Determining rates and coverage for the risk",
       "Deciding whether to take the risk",
@@ -2737,7 +2737,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-228-329",
-    "questionText": "The  sum  insured  for  a  risk  is  N= 150,000  and  was accepted  for  fire  insurance at a rate of  0.25%. How much will the insured pay as a premium? (JAMB 2015)",
+    "questionText": "The  sum  insured  for  a  risk  is  N= 150,000  and  was accepted  for  fire  insurance at a rate of  0.25%. How much will the insured pay as a premium?",
     "options": [
       "N= 125",
       "N= 375",
@@ -2785,7 +2785,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-232-16",
-    "questionText": "In the preparation of food for eat - in - customers, the cooks made a mistake in using excess quantity of an \tingredient. A customer ate and  suffered  poisoning. \tWhich policy of the operator would pick this liability? (JAMB 2014)",
+    "questionText": "In the preparation of food for eat - in - customers, the cooks made a mistake in using excess quantity of an \tingredient. A customer ate and  suffered  poisoning. \tWhich policy of the operator would pick this liability?",
     "options": [
       "Public liability",
       "Personal liability",
@@ -2833,7 +2833,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-236-313",
-    "questionText": "Which class of life assurance would a young couple who desires to start a new business in five years time purchase? (JAMB 2015)",
+    "questionText": "Which class of life assurance would a young couple who desires to start a new business in five years time purchase?",
     "options": [
       "Whole life policy",
       "Limited whole life policy",
@@ -2845,7 +2845,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-237-330",
-    "questionText": "The amount payable to an insured in the event of fire damage of household items is the (JAMB 2015)",
+    "questionText": "The amount payable to an insured in the event of fire damage of household items is the",
     "options": [
       "cost of repair",
       "actual cash value",
@@ -2881,7 +2881,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-240-26",
-    "questionText": "An insurer who buys reinsurance cover is insured as (JAMB 2014)",
+    "questionText": "An insurer who buys reinsurance cover is insured as",
     "options": [
       "retrocession",
       "retrocedant",
@@ -2929,7 +2929,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-244-350",
-    "questionText": "A  temporary  insurance  document  providing  coverage until a permanent policy is issued is (JAMB 2015)",
+    "questionText": "A  temporary  insurance  document  providing  coverage until a permanent policy is issued is",
     "options": [
       "proposal form",
       "cover note",
@@ -2941,7 +2941,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-245-341",
-    "questionText": "The right of choice of option for method of indemnity is exercised by the (JAMB 2015)",
+    "questionText": "The right of choice of option for method of indemnity is exercised by the",
     "options": [
       "insured",
       "insurance broker",
@@ -2977,7 +2977,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788679856452-248-320",
-    "questionText": "A policy taken to cover several shipments for a sum assured is (JAMB 2015)",
+    "questionText": "A policy taken to cover several shipments for a sum assured is",
     "options": [
       "floating policy",
       "valued policy",
@@ -3145,7 +3145,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-13-45",
-    "questionText": "The consideration paid for insurance contract is (JAMB 2014)",
+    "questionText": "The consideration paid for insurance contract is",
     "options": [
       "money",
       "commission",
@@ -3169,7 +3169,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-15-348",
-    "questionText": "The principle of maritime law which makes owners of a ship and cargo share in a loss incurred voluntarily is (JAMB 2015)",
+    "questionText": "The principle of maritime law which makes owners of a ship and cargo share in a loss incurred voluntarily is",
     "options": [
       "special average",
       "general average",
@@ -3193,7 +3193,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-17-46",
-    "questionText": "The alternative to seeking for surrender value in a life assurance contract is (JAMB 2014)",
+    "questionText": "The alternative to seeking for surrender value in a life assurance contract is",
     "options": [
       "automatic non - forfeiture",
       "revival condition",
@@ -3265,7 +3265,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-23-9",
-    "questionText": "The right of the insurer to step in place of the insured for the purpose of recovering damages is called (JAMB 2014)",
+    "questionText": "The right of the insurer to step in place of the insured for the purpose of recovering damages is called",
     "options": [
       "representation",
       "indemnity",
@@ -3409,7 +3409,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-35-14",
-    "questionText": "Abandonment is mostly applicable to (JAMB 2014)",
+    "questionText": "Abandonment is mostly applicable to",
     "options": [
       "marine insurance",
       "motor insurance",
@@ -3493,7 +3493,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-42-21",
-    "questionText": "The document that sets out the list of items covered in insurance is a (JAMB 2014)",
+    "questionText": "The document that sets out the list of items covered in insurance is a",
     "options": [
       "manifest",
       "bill of lading",
@@ -3673,7 +3673,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-57-38",
-    "questionText": "Effective supervision and licensing of insurance firms in Nigeria is the function of (JAMB 2014)",
+    "questionText": "Effective supervision and licensing of insurance firms in Nigeria is the function of",
     "options": [
       "National Insurance Commission",
       "Institute of Loss Adjusters of Nigeria",
@@ -3865,7 +3865,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-73-29",
-    "questionText": "A provision in a policy that exempts an insurer from liability if the loss is less than a certain amount is (JAMB 2014)",
+    "questionText": "A provision in a policy that exempts an insurer from liability if the loss is less than a certain amount is",
     "options": [
       "excess",
       "transfer",
@@ -4033,7 +4033,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-87-305",
-    "questionText": "The payment by an insurer to the insured in the event of loss is (JAMB 2015)",
+    "questionText": "The payment by an insurer to the insured in the event of loss is",
     "options": [
       "claim",
       "premium",
@@ -4093,7 +4093,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291640-92-44",
-    "questionText": "Insurers A and B cover a risk at the ratio of 2:5 for the sum insured of N= 1,800. How much would insurer  A get from the risk? (JAMB 2014)",
+    "questionText": "Insurers A and B cover a risk at the ratio of 2:5 for the sum insured of N= 1,800. How much would insurer  A get from the risk?",
     "options": [
       "N= 1,285.00",
       "N= 771.00",
@@ -4273,7 +4273,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-107-48",
-    "questionText": "A <em>revival clause</em> in a life policy will allow an insured to revive a policy that lapsed on account of nonpayment of premium, provided the insured (JAMB 2014)",
+    "questionText": "A <em>revival clause</em> in a life policy will allow an insured to revive a policy that lapsed on account of nonpayment of premium, provided the insured",
     "options": [
       "can prove he is sick at the time",
       "cannot fall sick after the policy",
@@ -4285,7 +4285,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-108-335",
-    "questionText": "Who  among  the  following  is  an  employer  of  loss adjuster? (JAMB 2015)",
+    "questionText": "Who  among  the  following  is  an  employer  of  loss adjuster?",
     "options": [
       "Insurer",
       "Broker",
@@ -4369,7 +4369,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-115-303",
-    "questionText": "Which of the following is a component of premium in insurance? (JAMB 2015)",
+    "questionText": "Which of the following is a component of premium in insurance?",
     "options": [
       "Margin",
       "Reserve",
@@ -4393,7 +4393,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-117-302",
-    "questionText": "Which  of  the  following  is  not  a  component  of  an insurance policy? (JAMB 2015)",
+    "questionText": "Which  of  the  following  is  not  a  component  of  an insurance policy?",
     "options": [
       "Signature clause",
       "Particular clause",
@@ -4477,7 +4477,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-124-35",
-    "questionText": "Risk Net Insurance Brokers Limited placed a business with an insurance company, in return the broker will be entitled to (JAMB 2014)",
+    "questionText": "Risk Net Insurance Brokers Limited placed a business with an insurance company, in return the broker will be entitled to",
     "options": [
       "fees",
       "commission",
@@ -4501,7 +4501,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-126-36",
-    "questionText": "The professional service required for effective claims administration by insurers would be provided by (JAMB 2014)",
+    "questionText": "The professional service required for effective claims administration by insurers would be provided by",
     "options": [
       "loss assessors",
       "risk managers",
@@ -4729,7 +4729,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-145-347",
-    "questionText": "Which of the following is a duty of an insured in an insurance contract? (JAMB 2015)",
+    "questionText": "Which of the following is a duty of an insured in an insurance contract?",
     "options": [
       "Concealment of facts",
       "Exposure of facts",
@@ -4981,7 +4981,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-166-4",
-    "questionText": "The class of insurance that  covers  legal  liability to a third party for bodily injury and property damage caused by goods supplied is (JAMB 2014)",
+    "questionText": "The class of insurance that  covers  legal  liability to a third party for bodily injury and property damage caused by goods supplied is",
     "options": [
       "employer’s liability",
       "public liability",
@@ -5101,7 +5101,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-176-309",
-    "questionText": "A new Nissan car valued at N= 350,000 was used to replace a Peugeot car with a sum insured N= 250.000 in private policy. The Peugeot car enjoys a 25% no claim discount. If the rate of premium is 11% and the no claim discount is transferred to the  new vehicle, what  would be the premium for the new Nissan car? (JAMB 2015)",
+    "questionText": "A new Nissan car valued at N= 350,000 was used to replace a Peugeot car with a sum insured N= 250.000 in private policy. The Peugeot car enjoys a 25% no claim discount. If the rate of premium is 11% and the no claim discount is transferred to the  new vehicle, what  would be the premium for the new Nissan car?",
     "options": [
       "N= 20,625",
       "N= 27,500",
@@ -5365,7 +5365,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-198-343",
-    "questionText": "Which of the following activities is not involved in claims management? (JAMB 2015)",
+    "questionText": "Which of the following activities is not involved in claims management?",
     "options": [
       "Proof of loss",
       "Particulars of loss",
@@ -5533,7 +5533,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-212-324",
-    "questionText": "Insurance is described as a risk (JAMB 2015)",
+    "questionText": "Insurance is described as a risk",
     "options": [
       "avoidance mechanism",
       "regulating mechanism",
@@ -5629,7 +5629,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-220-41",
-    "questionText": "A small fixed sum retained by the insured in the form of a claim is (JAMB 2014)",
+    "questionText": "A small fixed sum retained by the insured in the form of a claim is",
     "options": [
       "slip",
       "severity",
@@ -5749,7 +5749,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-230-326",
-    "questionText": "What is the full meaning of “NCRIB” in the insurance industry? (JAMB 2015)",
+    "questionText": "What is the full meaning of “NCRIB” in the insurance industry?",
     "options": [
       "National Council of Registered Insurance Brokers",
       "Nigerian Council of Registered Insurance Brokers",
@@ -5761,7 +5761,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-231-1",
-    "questionText": "Which of the following policies will prevent loss of home if the wage earner dies? (JAMB 2014)",
+    "questionText": "Which of the following policies will prevent loss of home if the wage earner dies?",
     "options": [
       "Term assurance",
       "Endowment assurance",
@@ -5821,7 +5821,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-236-31",
-    "questionText": "A type of reinsurance where cession and acceptance is obligatory is (JAMB 2014)",
+    "questionText": "A type of reinsurance where cession and acceptance is obligatory is",
     "options": [
       "treaty",
       "captive",
@@ -5881,7 +5881,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788725291641-241-317",
-    "questionText": "A clause in an insurance policy that makes a claim jointly payable to the policyholder and the third party is (JAMB 2015)",
+    "questionText": "A clause in an insurance policy that makes a claim jointly payable to the policyholder and the third party is",
     "options": [
       "claim clause",
       "mortgagee clause",
@@ -6037,7 +6037,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823901-3-319",
-    "questionText": "What is  the  maximum  liability which the insurer can pay on a particular loss? (JAMB 2015)",
+    "questionText": "What is  the  maximum  liability which the insurer can pay on a particular loss?",
     "options": [
       "Average",
       "Sum insured",
@@ -6049,7 +6049,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823901-4-330",
-    "questionText": "The amount payable to an insured in the event of fire damage of household items is the (JAMB 2015)",
+    "questionText": "The amount payable to an insured in the event of fire damage of household items is the",
     "options": [
       "cost of repair",
       "actual cash value",
@@ -6085,7 +6085,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823901-7-39",
-    "questionText": "The payment made when the insured is  not  entitled to claim under a policy is (JAMB 2014)",
+    "questionText": "The payment made when the insured is  not  entitled to claim under a policy is",
     "options": [
       "voluntary excess",
       "ex-gratia",
@@ -6109,7 +6109,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-9-321",
-    "questionText": "A policy taken for full protection against fire and other risks such as flood, tempest, riot and civil commotion is (JAMB 2015)",
+    "questionText": "A policy taken for full protection against fire and other risks such as flood, tempest, riot and civil commotion is",
     "options": [
       "consequential loss",
       "fire and all risks policy",
@@ -6121,7 +6121,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-10-342",
-    "questionText": "Cover note  in  motor  insurance is issued for a period not exceeding (JAMB 2015)",
+    "questionText": "Cover note  in  motor  insurance is issued for a period not exceeding",
     "options": [
       "30 days",
       "60 days",
@@ -6277,7 +6277,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-23-44",
-    "questionText": "Insurers A and B cover a risk at the ratio of 2:5 for the sum insured of N= 1,800. How much would insurer  A get from the risk? (JAMB 2014)",
+    "questionText": "Insurers A and B cover a risk at the ratio of 2:5 for the sum insured of N= 1,800. How much would insurer  A get from the risk?",
     "options": [
       "N= 1,285.00",
       "N= 771.00",
@@ -6289,7 +6289,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-24-318",
-    "questionText": "The policy that covers  an  insured  employee  against injury  sustained  in  the  course  of  employment  is (JAMB 2015)",
+    "questionText": "The policy that covers  an  insured  employee  against injury  sustained  in  the  course  of  employment  is",
     "options": [
       "professional indemnity",
       "product liability",
@@ -6385,7 +6385,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-32-10",
-    "questionText": "Which of the following is a contract of benefit? (JAMB 2014)",
+    "questionText": "Which of the following is a contract of benefit?",
     "options": [
       "Personal accident insurance",
       "Business interruption insurance",
@@ -6505,7 +6505,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-42-343",
-    "questionText": "Which of the following activities is not involved in claims management? (JAMB 2015)",
+    "questionText": "Which of the following activities is not involved in claims management?",
     "options": [
       "Proof of loss",
       "Particulars of loss",
@@ -6529,7 +6529,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-44-37",
-    "questionText": "Which  of the following activities is  not a  function of the  Chartered  Insurance  Institute  of  Nigeria? (JAMB 2014)",
+    "questionText": "Which  of the following activities is  not a  function of the  Chartered  Insurance  Institute  of  Nigeria?",
     "options": [
       "Setting a standard for members",
       "Promoting Professional growth",
@@ -6541,7 +6541,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-45-309",
-    "questionText": "A new Nissan car valued at N= 350,000 was used to replace a Peugeot car with a sum insured N= 250.000 in private policy. The Peugeot car enjoys a 25% no claim discount. If the rate of premium is 11% and the no claim discount is transferred to the  new vehicle, what  would be the premium for the new Nissan car? (JAMB 2015)",
+    "questionText": "A new Nissan car valued at N= 350,000 was used to replace a Peugeot car with a sum insured N= 250.000 in private policy. The Peugeot car enjoys a 25% no claim discount. If the rate of premium is 11% and the no claim discount is transferred to the  new vehicle, what  would be the premium for the new Nissan car?",
     "options": [
       "N= 20,625",
       "N= 27,500",
@@ -6625,7 +6625,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-52-304",
-    "questionText": "In which of the following classes of insurance is no <em>claim discount</em> applicable? (JAMB 2015)",
+    "questionText": "In which of the following classes of insurance is no <em>claim discount</em> applicable?",
     "options": [
       "Money insurance",
       "Marine insurance",
@@ -6721,7 +6721,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-60-338",
-    "questionText": "The amount charged when a ship overstays at the port under a marine contract is (JAMB 2015)",
+    "questionText": "The amount charged when a ship overstays at the port under a marine contract is",
     "options": [
       "penalty",
       "fine",
@@ -6781,7 +6781,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-65-329",
-    "questionText": "The  sum  insured  for  a  risk  is  N= 150,000  and  was accepted  for  fire  insurance at a rate of  0.25%. How much will the insured pay as a premium? (JAMB 2015)",
+    "questionText": "The  sum  insured  for  a  risk  is  N= 150,000  and  was accepted  for  fire  insurance at a rate of  0.25%. How much will the insured pay as a premium?",
     "options": [
       "N= 125",
       "N= 375",
@@ -6793,7 +6793,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-66-341",
-    "questionText": "The right of choice of option for method of indemnity is exercised by the (JAMB 2015)",
+    "questionText": "The right of choice of option for method of indemnity is exercised by the",
     "options": [
       "insured",
       "insurance broker",
@@ -6817,7 +6817,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-68-348",
-    "questionText": "The principle of maritime law which makes owners of a ship and cargo share in a loss incurred voluntarily is (JAMB 2015)",
+    "questionText": "The principle of maritime law which makes owners of a ship and cargo share in a loss incurred voluntarily is",
     "options": [
       "special average",
       "general average",
@@ -6841,7 +6841,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-70-349",
-    "questionText": "Which of the following factors limits indemnity? (JAMB 2015)",
+    "questionText": "Which of the following factors limits indemnity?",
     "options": [
       "Cession",
       "Re - insurance",
@@ -6925,7 +6925,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-77-14",
-    "questionText": "Abandonment is mostly applicable to (JAMB 2014)",
+    "questionText": "Abandonment is mostly applicable to",
     "options": [
       "marine insurance",
       "motor insurance",
@@ -6985,7 +6985,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-82-18",
-    "questionText": "How  much  premium  will  the  insurer  return  to  the insured? (JAMB 2014)",
+    "questionText": "How  much  premium  will  the  insurer  return  to  the insured?",
     "options": [
       "N= 3,750",
       "N= 13,750",
@@ -7045,7 +7045,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-87-334",
-    "questionText": "The process of  assessing  risks  in  insurance  and classifying them according to their degree of insurability so  that  the  appropriate  rate  may  be  assigned  is (JAMB 2015)",
+    "questionText": "The process of  assessing  risks  in  insurance  and classifying them according to their degree of insurability so  that  the  appropriate  rate  may  be  assigned  is",
     "options": [
       "inspecting",
       "underwriting",
@@ -7069,7 +7069,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-89-35",
-    "questionText": "Risk Net Insurance Brokers Limited placed a business with an insurance company, in return the broker will be entitled to (JAMB 2014)",
+    "questionText": "Risk Net Insurance Brokers Limited placed a business with an insurance company, in return the broker will be entitled to",
     "options": [
       "fees",
       "commission",
@@ -7093,7 +7093,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-91-314",
-    "questionText": "In which of the following policies is <em>certificate of insurance</em>  used? (JAMB 2015)",
+    "questionText": "In which of the following policies is <em>certificate of insurance</em>  used?",
     "options": [
       "Burglary insurance",
       "Product liability insurance",
@@ -7129,7 +7129,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-94-307",
-    "questionText": "A fire insurance policy guaranteed by the insured to be in place for a stated period with a particular insurer is granted a _____________ (JAMB 2015)",
+    "questionText": "A fire insurance policy guaranteed by the insured to be in place for a stated period with a particular insurer is granted a _____________",
     "options": [
       "no claim discount",
       "fleet discount",
@@ -7141,7 +7141,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-95-335",
-    "questionText": "Who  among  the  following  is  an  employer  of  loss adjuster? (JAMB 2015)",
+    "questionText": "Who  among  the  following  is  an  employer  of  loss adjuster?",
     "options": [
       "Insurer",
       "Broker",
@@ -7153,7 +7153,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-96-25",
-    "questionText": "A method of providing indemnity in the event of loss is (JAMB 2014)",
+    "questionText": "A method of providing indemnity in the event of loss is",
     "options": [
       "cash payment",
       "professional advice",
@@ -7177,7 +7177,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-98-12",
-    "questionText": "A prospective insured in an engineering insurance may be advised to purchase one of the following classes of insurance (JAMB 2014)",
+    "questionText": "A prospective insured in an engineering insurance may be advised to purchase one of the following classes of insurance",
     "options": [
       "fire cover",
       "boiler cover",
@@ -7189,7 +7189,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-99-31",
-    "questionText": "A type of reinsurance where cession and acceptance is obligatory is (JAMB 2014)",
+    "questionText": "A type of reinsurance where cession and acceptance is obligatory is",
     "options": [
       "treaty",
       "captive",
@@ -7249,7 +7249,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-104-34",
-    "questionText": "Renewal notice is  used by  insurers  to  remind the insured of the (JAMB 2014)",
+    "questionText": "Renewal notice is  used by  insurers  to  remind the insured of the",
     "options": [
       "reduction of cover",
       "continuation of cover",
@@ -7297,7 +7297,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-108-5",
-    "questionText": "The  type  of  cover  that  is  designed  against  loss  of earnings following loss caused by fire and special perils is (JAMB 2014)",
+    "questionText": "The  type  of  cover  that  is  designed  against  loss  of earnings following loss caused by fire and special perils is",
     "options": [
       "product guarantee insurance",
       "materials damage cover",
@@ -7465,7 +7465,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-122-20",
-    "questionText": "A residential building built beside a petrol filling station is described as a (JAMB 2014)",
+    "questionText": "A residential building built beside a petrol filling station is described as a",
     "options": [
       "risk",
       "hazard",
@@ -7489,7 +7489,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-124-4",
-    "questionText": "The class of insurance that  covers  legal  liability to a third party for bodily injury and property damage caused by goods supplied is (JAMB 2014)",
+    "questionText": "The class of insurance that  covers  legal  liability to a third party for bodily injury and property damage caused by goods supplied is",
     "options": [
       "employer’s liability",
       "public liability",
@@ -7537,7 +7537,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-128-316",
-    "questionText": "Educational endowment policy is designed to protect the interest of (JAMB 2015)",
+    "questionText": "Educational endowment policy is designed to protect the interest of",
     "options": [
       "father",
       "mother",
@@ -7561,7 +7561,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-130-28",
-    "questionText": "Family income option in a life policy provides that (JAMB 2014)",
+    "questionText": "Family income option in a life policy provides that",
     "options": [
       "the beneficiary will be paid for life",
       "the beneficiary receives the policy sum",
@@ -7597,7 +7597,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-133-303",
-    "questionText": "Which of the following is a component of premium in insurance? (JAMB 2015)",
+    "questionText": "Which of the following is a component of premium in insurance?",
     "options": [
       "Margin",
       "Reserve",
@@ -7645,7 +7645,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-137-46",
-    "questionText": "The alternative to seeking for surrender value in a life assurance contract is (JAMB 2014)",
+    "questionText": "The alternative to seeking for surrender value in a life assurance contract is",
     "options": [
       "automatic non - forfeiture",
       "revival condition",
@@ -7657,7 +7657,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-138-311",
-    "questionText": "Which  of  the  following  statements  is  true  about property insurance? (JAMB 2015)",
+    "questionText": "Which  of  the  following  statements  is  true  about property insurance?",
     "options": [
       "The probability that the event may occur",
       "The probability that the event will not occur",
@@ -7681,7 +7681,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-140-49",
-    "questionText": "Which of  the  following  risks  are  covered  under engineering insurance? (JAMB 2014)",
+    "questionText": "Which of  the  following  risks  are  covered  under engineering insurance?",
     "options": [
       "Material damage and liability cover",
       "Boiler and special perils cover",
@@ -7777,7 +7777,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-148-41",
-    "questionText": "A small fixed sum retained by the insured in the form of a claim is (JAMB 2014)",
+    "questionText": "A small fixed sum retained by the insured in the form of a claim is",
     "options": [
       "slip",
       "severity",
@@ -7849,7 +7849,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-154-27",
-    "questionText": "One of the information contained in a renewal notice is the (JAMB 2014)",
+    "questionText": "One of the information contained in a renewal notice is the",
     "options": [
       "previous losses",
       "location of the risk",
@@ -7861,7 +7861,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-155-32",
-    "questionText": "A contract sold  by  insurance companies that  pay  a monthly or  quarterly income  benefit for the  life  of a person is (JAMB 2014)",
+    "questionText": "A contract sold  by  insurance companies that  pay  a monthly or  quarterly income  benefit for the  life  of a person is",
     "options": [
       "endowment",
       "annuity",
@@ -7897,7 +7897,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-158-308",
-    "questionText": "A type of re - insurance  where  the re - insurer has  the option  to  accept  or  reject  any  risk  presented  for re-insurance is (JAMB 2015)",
+    "questionText": "A type of re - insurance  where  the re - insurer has  the option  to  accept  or  reject  any  risk  presented  for re-insurance is",
     "options": [
       "stop loss",
       "facultative",
@@ -7909,7 +7909,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-159-345",
-    "questionText": "Which  of  the  following  functions  is  related  to  life assurance contract? Benefits are (JAMB 2015)",
+    "questionText": "Which  of  the  following  functions  is  related  to  life assurance contract? Benefits are",
     "options": [
       "determined on the happening of insured event",
       "determined by the indemnity doctrine",
@@ -7933,7 +7933,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-161-301",
-    "questionText": "Insurance against risk is possible because of the law of (JAMB 2015)",
+    "questionText": "Insurance against risk is possible because of the law of",
     "options": [
       "large numbers",
       "few numbers",
@@ -7957,7 +7957,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-163-9",
-    "questionText": "The right of the insurer to step in place of the insured for the purpose of recovering damages is called (JAMB 2014)",
+    "questionText": "The right of the insurer to step in place of the insured for the purpose of recovering damages is called",
     "options": [
       "representation",
       "indemnity",
@@ -7981,7 +7981,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-165-320",
-    "questionText": "A policy taken to cover several shipments for a sum assured is (JAMB 2015)",
+    "questionText": "A policy taken to cover several shipments for a sum assured is",
     "options": [
       "floating policy",
       "valued policy",
@@ -8029,7 +8029,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-169-332",
-    "questionText": "One of the benefits payable under personal accident insurance policy is (JAMB 2015)",
+    "questionText": "One of the benefits payable under personal accident insurance policy is",
     "options": [
       "retirement benefit",
       "surrender benefit",
@@ -8053,7 +8053,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-171-38",
-    "questionText": "Effective supervision and licensing of insurance firms in Nigeria is the function of (JAMB 2014)",
+    "questionText": "Effective supervision and licensing of insurance firms in Nigeria is the function of",
     "options": [
       "National Insurance Commission",
       "Institute of Loss Adjusters of Nigeria",
@@ -8113,7 +8113,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-176-43",
-    "questionText": "To which of the following parties does the principle of utmost good faith apply in a contract of insurance? (JAMB 2014)",
+    "questionText": "To which of the following parties does the principle of utmost good faith apply in a contract of insurance?",
     "options": [
       "The proposer only",
       "The insurer only",
@@ -8125,7 +8125,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-177-336",
-    "questionText": "The meaning of with <em>profit policy</em>  in life assurance is that the sum assured is paid (JAMB 2015)",
+    "questionText": "The meaning of with <em>profit policy</em>  in life assurance is that the sum assured is paid",
     "options": [
       "without profit",
       "with profit",
@@ -8221,7 +8221,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-185-323",
-    "questionText": "A clause in marine insurance policy prohibiting the insured from giving up a damaged property is (JAMB 2015)",
+    "questionText": "A clause in marine insurance policy prohibiting the insured from giving up a damaged property is",
     "options": [
       "deductible",
       "abandonment",
@@ -8305,7 +8305,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-192-36",
-    "questionText": "The professional service required for effective claims administration by insurers would be provided by (JAMB 2014)",
+    "questionText": "The professional service required for effective claims administration by insurers would be provided by",
     "options": [
       "loss assessors",
       "risk managers",
@@ -8317,7 +8317,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823902-193-331",
-    "questionText": "A motorist travelling from Ghana to Nigeria would be required to obtain one of the following types of motor insurance cover (JAMB 2015)",
+    "questionText": "A motorist travelling from Ghana to Nigeria would be required to obtain one of the following types of motor insurance cover",
     "options": [
       "green card",
       "brown card",
@@ -8341,7 +8341,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-195-19",
-    "questionText": "A policy that combines cover for many perils as a single policy  to  suit  the  insurance  needs of  an insured is (JAMB 2014)",
+    "questionText": "A policy that combines cover for many perils as a single policy  to  suit  the  insurance  needs of  an insured is",
     "options": [
       "accident policy",
       "protection policy",
@@ -8365,7 +8365,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-197-315",
-    "questionText": "Which  of  the  following  would  not  give  cause  for subrogation right? (JAMB 2015)",
+    "questionText": "Which  of  the  following  would  not  give  cause  for subrogation right?",
     "options": [
       "Benefit",
       "Contract",
@@ -8425,7 +8425,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-202-324",
-    "questionText": "Insurance is described as a risk (JAMB 2015)",
+    "questionText": "Insurance is described as a risk",
     "options": [
       "avoidance mechanism",
       "regulating mechanism",
@@ -8437,7 +8437,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-203-24",
-    "questionText": "Ade insured his property for N= 350,000.00. The property is subject to average condition. He suffered a loss amounting to N= 30,000.00 with the value of the property at the time of loss to be N= 370,000.00. How much will the insurer pay? (JAMB 2014)",
+    "questionText": "Ade insured his property for N= 350,000.00. The property is subject to average condition. He suffered a loss amounting to N= 30,000.00 with the value of the property at the time of loss to be N= 370,000.00. How much will the insurer pay?",
     "options": [
       "N= 14,583.33",
       "N= 28,378.38",
@@ -8497,7 +8497,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-208-6",
-    "questionText": "Which  of  the  following  risks  is  covered  by  insurance policy? (JAMB 2014)",
+    "questionText": "Which  of  the  following  risks  is  covered  by  insurance policy?",
     "options": [
       "An investment loss on the stock market",
       "Dishonesty of an employee leading to fraud",
@@ -8509,7 +8509,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-209-305",
-    "questionText": "The payment by an insurer to the insured in the event of loss is (JAMB 2015)",
+    "questionText": "The payment by an insurer to the insured in the event of loss is",
     "options": [
       "claim",
       "premium",
@@ -8569,7 +8569,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-214-306",
-    "questionText": "Which of the following is the function of a loss adjuster? (JAMB 2015)",
+    "questionText": "Which of the following is the function of a loss adjuster?",
     "options": [
       "Ensures payment of adequate compensation",
       "Advises the insurer on claim",
@@ -8629,7 +8629,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-219-325",
-    "questionText": "A fire insurance policy valued at N= 250,000 is issued at the rate of 0.2%. How much would the premium be, if the policy is granted with 5% long - term agreement discount? (JAMB 2015)",
+    "questionText": "A fire insurance policy valued at N= 250,000 is issued at the rate of 0.2%. How much would the premium be, if the policy is granted with 5% long - term agreement discount?",
     "options": [
       "N= 475",
       "N= 500",
@@ -8653,7 +8653,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-221-313",
-    "questionText": "Which class of life assurance would a young couple who desires to start a new business in five years time purchase? (JAMB 2015)",
+    "questionText": "Which class of life assurance would a young couple who desires to start a new business in five years time purchase?",
     "options": [
       "Whole life policy",
       "Limited whole life policy",
@@ -8665,7 +8665,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-222-50",
-    "questionText": "Which of the following is not a function of an insurance broker? (JAMB 2014)",
+    "questionText": "Which of the following is not a function of an insurance broker?",
     "options": [
       "Assisting clients in paying premium",
       "Maintaining proper records of claims",
@@ -8689,7 +8689,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-224-339",
-    "questionText": "Which of the following documents forms the basis of a contract in insurance business? (JAMB 2015)",
+    "questionText": "Which of the following documents forms the basis of a contract in insurance business?",
     "options": [
       "Policy document",
       "Proposal form",
@@ -8713,7 +8713,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-226-23",
-    "questionText": "In property insurance, which of the following is not a direct loss? (JAMB 2014)",
+    "questionText": "In property insurance, which of the following is not a direct loss?",
     "options": [
       "Reinstating the property destroyed",
       "Replacing the property destroyed",
@@ -8749,7 +8749,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-229-312",
-    "questionText": "In a life assurance contract, when does  the  principle of insurable interest arise? (JAMB 2015)",
+    "questionText": "In a life assurance contract, when does  the  principle of insurable interest arise?",
     "options": [
       "At the beginning of the contract",
       "At the time of claim",
@@ -8773,7 +8773,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-231-30",
-    "questionText": "Which of the following policies is a peril covered under a standard fire policy? (JAMB 2014)",
+    "questionText": "Which of the following policies is a peril covered under a standard fire policy?",
     "options": [
       "Lightning",
       "Storm",
@@ -8785,7 +8785,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-232-347",
-    "questionText": "Which of the following is a duty of an insured in an insurance contract? (JAMB 2015)",
+    "questionText": "Which of the following is a duty of an insured in an insurance contract?",
     "options": [
       "Concealment of facts",
       "Exposure of facts",
@@ -8833,7 +8833,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-236-17",
-    "questionText": "How much premium will the insurer charge? (JAMB 2014)",
+    "questionText": "How much premium will the insurer charge?",
     "options": [
       "N= 3,750",
       "N= 13,750",
@@ -8881,7 +8881,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-240-322",
-    "questionText": "The  person  that   transfers  risks  to  the  insurance company is called (JAMB 2015)",
+    "questionText": "The  person  that   transfers  risks  to  the  insurance company is called",
     "options": [
       "a broker",
       "an insured",
@@ -8917,7 +8917,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-243-33",
-    "questionText": "George effected two personal accident policies. The first policy provides N= 25,000.00 cover for loss of limb. The second policy provides N= 30,000.00 cover for loss of limb. What is the total amount that  George  will receive in the event of a valid loss of limb claim? (JAMB 2014)",
+    "questionText": "George effected two personal accident policies. The first policy provides N= 25,000.00 cover for loss of limb. The second policy provides N= 30,000.00 cover for loss of limb. What is the total amount that  George  will receive in the event of a valid loss of limb claim?",
     "options": [
       "N= 5,000.00",
       "N= 25,000.00",
@@ -8929,7 +8929,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-244-21",
-    "questionText": "The document that sets out the list of items covered in insurance is a (JAMB 2014)",
+    "questionText": "The document that sets out the list of items covered in insurance is a",
     "options": [
       "manifest",
       "bill of lading",
@@ -8941,7 +8941,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-245-337",
-    "questionText": "The  document issued by  the  insurer when there is a change in the particulars of a risk insured is (JAMB 2015)",
+    "questionText": "The  document issued by  the  insurer when there is a change in the particulars of a risk insured is",
     "options": [
       "endorsement",
       "certificate",
@@ -8953,7 +8953,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-246-8",
-    "questionText": "The evidence of the insurance contract is (JAMB 2014)",
+    "questionText": "The evidence of the insurance contract is",
     "options": [
       "proposal form",
       "policy",
@@ -8977,7 +8977,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-248-15",
-    "questionText": "Which of the following is not a benefit covered under a personal accident policy? (JAMB 2014)",
+    "questionText": "Which of the following is not a benefit covered under a personal accident policy?",
     "options": [
       "Death",
       "Temporary disablement",
@@ -9025,7 +9025,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-252-328",
-    "questionText": "The cover that is taken at the option of the motor vehicle owner is (JAMB 2015)",
+    "questionText": "The cover that is taken at the option of the motor vehicle owner is",
     "options": [
       "a comprehensive cover",
       "an act only cover",
@@ -9073,7 +9073,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-256-350",
-    "questionText": "A  temporary  insurance  document  providing  coverage until a permanent policy is issued is (JAMB 2015)",
+    "questionText": "A  temporary  insurance  document  providing  coverage until a permanent policy is issued is",
     "options": [
       "proposal form",
       "cover note",
@@ -9109,7 +9109,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-259-16",
-    "questionText": "In the preparation of food for eat - in - customers, the cooks made a mistake in using excess quantity of an \tingredient. A customer ate and  suffered  poisoning. \tWhich policy of the operator would pick this liability? (JAMB 2014)",
+    "questionText": "In the preparation of food for eat - in - customers, the cooks made a mistake in using excess quantity of an \tingredient. A customer ate and  suffered  poisoning. \tWhich policy of the operator would pick this liability?",
     "options": [
       "Public liability",
       "Personal liability",
@@ -9145,7 +9145,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-262-7",
-    "questionText": "In  classification  of  risks, what is the name given to a risk  where  the  causes  of  events are linked to factors \tthat are due to the society we live in? (JAMB 2014)",
+    "questionText": "In  classification  of  risks, what is the name given to a risk  where  the  causes  of  events are linked to factors \tthat are due to the society we live in?",
     "options": [
       "Dynamic risk",
       "Particular risk",
@@ -9181,7 +9181,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-265-42",
-    "questionText": "A voucher signed by the insured before collecting his claim is (JAMB 2014)",
+    "questionText": "A voucher signed by the insured before collecting his claim is",
     "options": [
       "money collect receipt",
       "discharge voucher",
@@ -9193,7 +9193,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-266-302",
-    "questionText": "Which  of  the  following  is  not  a  component  of  an insurance policy? (JAMB 2015)",
+    "questionText": "Which  of  the  following  is  not  a  component  of  an insurance policy?",
     "options": [
       "Signature clause",
       "Particular clause",
@@ -9253,7 +9253,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-271-1",
-    "questionText": "Which of the following policies will prevent loss of home if the wage earner dies? (JAMB 2014)",
+    "questionText": "Which of the following policies will prevent loss of home if the wage earner dies?",
     "options": [
       "Term assurance",
       "Endowment assurance",
@@ -9265,7 +9265,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-272-26",
-    "questionText": "An insurer who buys reinsurance cover is insured as (JAMB 2014)",
+    "questionText": "An insurer who buys reinsurance cover is insured as",
     "options": [
       "retrocession",
       "retrocedant",
@@ -9277,7 +9277,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-273-11",
-    "questionText": "Which of the following is not a feature of insurable interest? (JAMB 2014)",
+    "questionText": "Which of the following is not a feature of insurable interest?",
     "options": [
       "Loss suffered",
       "subject matter",
@@ -9289,7 +9289,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-274-2",
-    "questionText": "One of the objectives of buying a term assurance policy is to (JAMB 2014)",
+    "questionText": "One of the objectives of buying a term assurance policy is to",
     "options": [
       "protect dependants in case of death of the life assured",
       "reduce financial burden of the life assured",
@@ -9301,7 +9301,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-275-22",
-    "questionText": "One of the information contained in a motor insurance cover note is the (JAMB 2014)",
+    "questionText": "One of the information contained in a motor insurance cover note is the",
     "options": [
       "behaviour of the insured",
       "occupation of the insured",
@@ -9313,7 +9313,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-276-29",
-    "questionText": "A provision in a policy that exempts an insurer from liability if the loss is less than a certain amount is (JAMB 2014)",
+    "questionText": "A provision in a policy that exempts an insurer from liability if the loss is less than a certain amount is",
     "options": [
       "excess",
       "transfer",
@@ -9325,7 +9325,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-277-45",
-    "questionText": "The consideration paid for insurance contract is (JAMB 2014)",
+    "questionText": "The consideration paid for insurance contract is",
     "options": [
       "money",
       "commission",
@@ -9337,7 +9337,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-278-3",
-    "questionText": "An assurance policy taken by experts to cover possible negligence arising from their duties is (JAMB 2014)",
+    "questionText": "An assurance policy taken by experts to cover possible negligence arising from their duties is",
     "options": [
       "consequential loss",
       "professional indemnity",
@@ -9349,7 +9349,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-279-13",
-    "questionText": "The class of non-life insurance policy where cover note is issued is (JAMB 2014)",
+    "questionText": "The class of non-life insurance policy where cover note is issued is",
     "options": [
       "fire insurance",
       "burglary insurance",
@@ -9361,7 +9361,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-280-326",
-    "questionText": "What is the full meaning of “NCRIB” in the insurance industry? (JAMB 2015)",
+    "questionText": "What is the full meaning of “NCRIB” in the insurance industry?",
     "options": [
       "National Council of Registered Insurance Brokers",
       "Nigerian Council of Registered Insurance Brokers",
@@ -9373,7 +9373,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-281-327",
-    "questionText": "Which of the following is not a function of an insurance underwriter? (JAMB 2015)",
+    "questionText": "Which of the following is not a function of an insurance underwriter?",
     "options": [
       "Determining rates and coverage for the risk",
       "Deciding whether to take the risk",
@@ -9385,7 +9385,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-282-333",
-    "questionText": "A  trade  group for insurance  companies in  Nigeria is called (JAMB 2015)",
+    "questionText": "A  trade  group for insurance  companies in  Nigeria is called",
     "options": [
       "Chartered Insurance Institute of Nigeria",
       "National Insurance Commission",
@@ -9397,7 +9397,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-283-346",
-    "questionText": "The saving element in a permanent life assurance policy which represent the policyholder’s interest in the policy is (JAMB 2015)",
+    "questionText": "The saving element in a permanent life assurance policy which represent the policyholder’s interest in the policy is",
     "options": [
       "surrender value",
       "cash value",
@@ -9409,7 +9409,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-284-340",
-    "questionText": "The  difference  between  theft  and burglary insurance lies in evidence of (JAMB 2015)",
+    "questionText": "The  difference  between  theft  and burglary insurance lies in evidence of",
     "options": [
       "pilfering of insured items",
       "removal of insured items by tricks",
@@ -9421,7 +9421,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-285-310",
-    "questionText": "One of the features of term assurance is (JAMB 2015)",
+    "questionText": "One of the features of term assurance is",
     "options": [
       "investment",
       "profit",
@@ -9553,7 +9553,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-296-47",
-    "questionText": "Which of the following is a risk covered in endowment assurance? (JAMB 2014)",
+    "questionText": "Which of the following is a risk covered in endowment assurance?",
     "options": [
       "Permanent disability",
       "Bodily injury",
@@ -9745,7 +9745,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-312-48",
-    "questionText": "A <em>revival clause</em> in a life policy will allow an insured to revive a policy that lapsed on account of nonpayment of premium, provided the insured (JAMB 2014)",
+    "questionText": "A <em>revival clause</em> in a life policy will allow an insured to revive a policy that lapsed on account of nonpayment of premium, provided the insured",
     "options": [
       "can prove he is sick at the time",
       "cannot fall sick after the policy",
@@ -9757,7 +9757,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-313-317",
-    "questionText": "A clause in an insurance policy that makes a claim jointly payable to the policyholder and the third party is (JAMB 2015)",
+    "questionText": "A clause in an insurance policy that makes a claim jointly payable to the policyholder and the third party is",
     "options": [
       "claim clause",
       "mortgagee clause",
@@ -9829,7 +9829,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-319-344",
-    "questionText": "Life  assurance  contract is useful to a policyholder in the area of (JAMB 2015)",
+    "questionText": "Life  assurance  contract is useful to a policyholder in the area of",
     "options": [
       "production",
       "protection",
@@ -9937,7 +9937,7 @@ export const insuranceQuestions = [
   },
   {
     "id": "insurance-1788729823903-328-40",
-    "questionText": "The owner of a life assurance policy who enters into an agreement to sell the ownership of the policy and beneficiary rights upon the death of the insured is called (JAMB 2014)",
+    "questionText": "The owner of a life assurance policy who enters into an agreement to sell the ownership of the policy and beneficiary rights upon the death of the insured is called",
     "options": [
       "an underwriter",
       "a aviator",

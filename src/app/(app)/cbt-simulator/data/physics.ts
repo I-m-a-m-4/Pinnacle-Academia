@@ -1,7 +1,7 @@
 export const physicsQuestions = [
   {
     "id": "physics-1788673833485-0-969",
-    "questionText": "A block of aluminum is heated electrically by a 30W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is (JAMB 2011)",
+    "questionText": "A block of aluminum is heated electrically by a 30W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is",
     "options": [
       "900 JK⁻¹",
       "90 JK⁻¹",
@@ -13,7 +13,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-1-164",
-    "questionText": "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT? (JAMB 2015)",
+    "questionText": "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT?",
     "options": [
       "4:01",
       "1:04",
@@ -25,7 +25,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-2-845",
-    "questionText": "Find the effective resistance in the diagram above (JAMB 2008)",
+    "questionText": "Find the effective resistance in the diagram above",
     "options": [
       "6 Ω",
       "12 Ω",
@@ -37,7 +37,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-3-1084",
-    "questionText": "A car accelerates uniformly from rest at 3 m s⁻². Its velocity after traveling a distance of 24 m is (JAMB 2014)",
+    "questionText": "A car accelerates uniformly from rest at 3 m s⁻². Its velocity after traveling a distance of 24 m is",
     "options": [
       "12 m s⁻¹",
       "144 m s⁻¹",
@@ -49,7 +49,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-4-245",
-    "questionText": "Calculate the height of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high (JAMB 2017)",
+    "questionText": "Calculate the height of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high",
     "options": [
       "10 cm",
       "16 cm",
@@ -61,7 +61,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-5-651",
-    "questionText": "The sharpness of the boundary of the shadow of an object is determined by the (JAMB 2005)",
+    "questionText": "The sharpness of the boundary of the shadow of an object is determined by the",
     "options": [
       "intensity of light striking the object",
       "rays of light passing through the object",
@@ -73,7 +73,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-6-193",
-    "questionText": "The heat required to raise a mass of a substance through 1K is known as (JAMB 2016)",
+    "questionText": "The heat required to raise a mass of a substance through 1K is known as",
     "options": [
       "Specific heat capacity",
       "Specific latent heat of vaporization",
@@ -85,7 +85,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-7-446",
-    "questionText": "When the temperature of a liquid increases, its surface tension (JAMB 2021)",
+    "questionText": "When the temperature of a liquid increases, its surface tension",
     "options": [
       "decreases",
       "increases",
@@ -97,7 +97,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-8-306",
-    "questionText": "In the diagram shown, which of the simple pendulum will resonate with P when set into oscillation? (JAMB 2018)",
+    "questionText": "In the diagram shown, which of the simple pendulum will resonate with P when set into oscillation?",
     "options": [
       "U",
       "T",
@@ -109,7 +109,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-9-841",
-    "questionText": "The efficiency of the pulley system shown above is 80%. Find the effort E required to lift the load of 1200N (JAMB 2008)",
+    "questionText": "The efficiency of the pulley system shown above is 80%. Find the effort E required to lift the load of 1200N",
     "options": [
       "275N",
       "325N",
@@ -121,7 +121,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-10-528",
-    "questionText": "Which of the following is/are not true about the heat capacity of a substance? (i) It is an intensive property (ii) Its S.I unit is jK⁻¹ (iii) It is an extensive property (iv) Its S.I unit is jkg⁻¹ (JAMB 2023)",
+    "questionText": "Which of the following is/are not true about the heat capacity of a substance? (i) It is an intensive property (ii) Its S.I unit is jK⁻¹ (iii) It is an extensive property (iv) Its S.I unit is jkg⁻¹",
     "options": [
       "(i) and (iii) only",
       "(i), (ii) and (iv) only",
@@ -133,7 +133,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-11-511",
-    "questionText": "Rainbow formation is as a result of the combination of which of the following phenomena?\n(i) Reflection\n(ii) Dispersion\n(iii) Total internal reflection\n(iv) Refraction (JAMB 2023)",
+    "questionText": "Rainbow formation is as a result of the combination of which of the following phenomena?\n(i) Reflection\n(ii) Dispersion\n(iii) Total internal reflection\n(iv) Refraction",
     "options": [
       "(ii) and (iv) only",
       "(i), (iii) and (iv) only",
@@ -145,7 +145,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-12-744",
-    "questionText": "An engine of a car of power 80 kW moves on a rough road with a velocity of 32 m/s. The force required to bring it to rest is? (JAMB 2006)",
+    "questionText": "An engine of a car of power 80 kW moves on a rough road with a velocity of 32 m/s. The force required to bring it to rest is?",
     "options": [
       "2.56 × 10⁶ N",
       "2.50 × 10⁶ N",
@@ -157,7 +157,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-13-531",
-    "questionText": "A block of mass 0.5 kg is suspended at the 40 cm mark of a light metre rule AB that is pivoted at point E, the 90 cm mark, and is kept at equilibrium by a string attached at point D, the 60 cm mark, as shown in the figure above. Find the tension T in the string. [Take g = 10ms⁻²] (JAMB 2023)",
+    "questionText": "A block of mass 0.5 kg is suspended at the 40 cm mark of a light metre rule AB that is pivoted at point E, the 90 cm mark, and is kept at equilibrium by a string attached at point D, the 60 cm mark, as shown in the figure above. Find the tension T in the string. [Take g = 10ms⁻²]",
     "options": [
       "16.67N",
       "15.67N",
@@ -169,7 +169,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-14-93",
-    "questionText": "the velocity of a 500 kg car moving long a straight  road, changes from 12 m/s to 20 m/s in 5 sec. calculate the average force moving the car.  (JAMB 2011)",
+    "questionText": "the velocity of a 500 kg car moving long a straight  road, changes from 12 m/s to 20 m/s in 5 sec. calculate the average force moving the car.",
     "options": [
       "2000N  ",
       "1600N  ",
@@ -181,7 +181,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-15-505",
-    "questionText": "Calculate the absolute pressure at the bottom of a lake at a depth of 32.8 m. Assume the density of the water is 1 × 10³ kgm⁻³ and the air above is at a pressure of 101.3 kPa. [Take g = 9.8 ms⁻²] (JAMB 2023)",
+    "questionText": "Calculate the absolute pressure at the bottom of a lake at a depth of 32.8 m. Assume the density of the water is 1 × 10³ kgm⁻³ and the air above is at a pressure of 101.3 kPa. [Take g = 9.8 ms⁻²]",
     "options": [
       " 422.7 kPa",
       " 220.14 kPa",
@@ -193,7 +193,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-16-633",
-    "questionText": "A ray of light makes an angle of 35o with a plane mirror. What is the angle of reflection? (JAMB 2004)",
+    "questionText": "A ray of light makes an angle of 35o with a plane mirror. What is the angle of reflection?",
     "options": [
       "35°",
       "55°",
@@ -205,7 +205,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-17-696",
-    "questionText": "An elastic material has a length of 36 cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is (JAMB 2005)",
+    "questionText": "An elastic material has a length of 36 cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is",
     "options": [
       " 12 cm",
       "20 cm",
@@ -217,7 +217,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-18-100",
-    "questionText": "An airplane increases its speed 36 km/h to 360 km/h in 20.0 s. How far does it travel while accelerating.   (JAMB 2011)",
+    "questionText": "An airplane increases its speed 36 km/h to 360 km/h in 20.0 s. How far does it travel while accelerating.",
     "options": [
       "4.4 km     ",
       "1.1 km  ",
@@ -229,7 +229,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-19-639",
-    "questionText": "The phase difference between waves P and q in the diagram above is (JAMB 2004)",
+    "questionText": "The phase difference between waves P and q in the diagram above is",
     "options": [
       "2π",
       "π",
@@ -241,7 +241,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-20-1059",
-    "questionText": "A wave that travels through stretched strings is known as (JAMB 2013)",
+    "questionText": "A wave that travels through stretched strings is known as",
     "options": [
       "electromagnetic wave",
       " micro wave",
@@ -253,7 +253,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-21-836",
-    "questionText": "The dimension of electromotive force are? (JAMB 2008)",
+    "questionText": "The dimension of electromotive force are?",
     "options": [
       "ML²T⁻³I⁻¹",
       "ML²T⁻³I⁻²",
@@ -265,7 +265,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-22-988",
-    "questionText": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis? (JAMB 2011)",
+    "questionText": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis?",
     "options": [
       "X is the anode and very high current is used",
       "X is the anode and Y is the cathode",
@@ -277,7 +277,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-23-456",
-    "questionText": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a? (JAMB 2021)",
+    "questionText": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a?",
     "options": [
       " concave mirror of focal length 5cm",
       "concave mirror of focal length 10cm",
@@ -289,7 +289,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-24-66",
-    "questionText": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of  (JAMB 2009)",
+    "questionText": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of",
     "options": [
       "2:01",
       "1:02",
@@ -301,7 +301,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-25-844",
-    "questionText": "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed? (JAMB 2008)",
+    "questionText": "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?",
     "options": [
       "10 cm",
       "15 cm",
@@ -313,7 +313,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-26-640",
-    "questionText": "The change in volume when 450kg of ice is completely melted is [density of ice = 900 kgm⁻³, density of water = 1000 kgm⁻³] (JAMB 2004)",
+    "questionText": "The change in volume when 450kg of ice is completely melted is [density of ice = 900 kgm⁻³, density of water = 1000 kgm⁻³]",
     "options": [
       "0.50m³",
       "0.45m³",
@@ -325,7 +325,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-27-305",
-    "questionText": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material? (JAMB 2018)",
+    "questionText": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
     "options": [
       "20 years",
       "10 years",
@@ -337,7 +337,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-28-1050",
-    "questionText": "What volume of alcohol will have same mass as 4.2 m³ of petrol? Density of alcohol = 8.4 × 10² kgm⁻³, density of petrol = 7.2 × 10² kgm⁻³ (JAMB 2013)",
+    "questionText": "What volume of alcohol will have same mass as 4.2 m³ of petrol? Density of alcohol = 8.4 × 10² kgm⁻³, density of petrol = 7.2 × 10² kgm⁻³",
     "options": [
       " 0.8 m³",
       "1.4 m³",
@@ -349,7 +349,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-29-569",
-    "questionText": "The dimension of young's modulus, E is given by (JAMB 2024)",
+    "questionText": "The dimension of young's modulus, E is given by",
     "options": [
       "MLT⁻¹",
       "MT⁻²",
@@ -361,7 +361,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-30-1111",
-    "questionText": "PHCN measures its electrical energy in (JAMB 2014)",
+    "questionText": "PHCN measures its electrical energy in",
     "options": [
       "W",
       " KWh",
@@ -373,7 +373,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-31-554",
-    "questionText": "Find the value of a capacitor with voltage 5V and 30C. (JAMB 2024)",
+    "questionText": "Find the value of a capacitor with voltage 5V and 30C.",
     "options": [
       "7f",
       " 6f",
@@ -385,7 +385,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-32-271",
-    "questionText": "From the diagram above, calculate the total current in the circuit (JAMB 2017)",
+    "questionText": "From the diagram above, calculate the total current in the circuit",
     "options": [
       "5.0A",
       "3.7A",
@@ -397,7 +397,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-33-225",
-    "questionText": "In the diagram above, the direction of the force between N and S in the magnetic field is (JAMB 2016)",
+    "questionText": "In the diagram above, the direction of the force between N and S in the magnetic field is",
     "options": [
       " MP",
       "SN",
@@ -409,7 +409,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-34-1008",
-    "questionText": "A block and tackle is used to raise a load of 250N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J? (JAMB 2012)",
+    "questionText": "A block and tackle is used to raise a load of 250N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J?",
     "options": [
       "62.50%",
       "73.30%",
@@ -421,7 +421,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-35-657",
-    "questionText": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by (JAMB 2005)",
+    "questionText": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by",
     "options": [
       "180°",
       "90°",
@@ -433,7 +433,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-36-282",
-    "questionText": "Natural radioactivity consists of the emission of (JAMB 2018)",
+    "questionText": "Natural radioactivity consists of the emission of",
     "options": [
       "α- particles and β-rays",
       "α- particles and X-rays",
@@ -445,7 +445,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-37-857",
-    "questionText": "I. Density of the liquid.\nII. Acceleration due to gravity.\nIII. Type of container of the liquid.\nIV. The constituents of the liquid.\n\n\nWhich of the above conditions will NOT affect the pressure of fluid? (JAMB 2009)",
+    "questionText": "I. Density of the liquid.\nII. Acceleration due to gravity.\nIII. Type of container of the liquid.\nIV. The constituents of the liquid.\n\n\nWhich of the above conditions will NOT affect the pressure of fluid?",
     "options": [
       " I and III only",
       "II and III only",
@@ -457,7 +457,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-38-916",
-    "questionText": "Which of the following has no effect on radiation? (JAMB 2010)",
+    "questionText": "Which of the following has no effect on radiation?",
     "options": [
       "nature of surface",
       "density",
@@ -469,7 +469,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-39-1045",
-    "questionText": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5 ms⁻². [g = 10 ms⁻²] (JAMB 2013)",
+    "questionText": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5 ms⁻². [g = 10 ms⁻²]",
     "options": [
       " 686 N",
       "595 N",
@@ -481,7 +481,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-40-821",
-    "questionText": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole? (JAMB 2008)",
+    "questionText": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
     "options": [
       " 3.0 cm",
       "8.0 cm",
@@ -493,7 +493,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-41-180",
-    "questionText": "Myopic defects in the human eye can be corrected through the use of a (JAMB 2016)",
+    "questionText": "Myopic defects in the human eye can be corrected through the use of a",
     "options": [
       " Concave Mirror",
       "Concave lens",
@@ -505,7 +505,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-42-1091",
-    "questionText": "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4. (JAMB 2014)",
+    "questionText": "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4.",
     "options": [
       " 343.32N",
       "233.33N",
@@ -517,7 +517,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-43-23",
-    "questionText": "A box of mass 40kg is being dragged  along by the rope inclined at 60o to the horizontal. The frictional force between the box and the floor is 100N and the tension on the rope is 300N. How much work is done in dragging the box through a distance of 4m?  (JAMB 2007)",
+    "questionText": "A box of mass 40kg is being dragged  along by the rope inclined at 60o to the horizontal. The frictional force between the box and the floor is 100N and the tension on the rope is 300N. How much work is done in dragging the box through a distance of 4m?",
     "options": [
       "680J ",
       "200J ",
@@ -529,7 +529,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-44-590",
-    "questionText": "Which of the following is the best as shaving mirror? (JAMB 2024)",
+    "questionText": "Which of the following is the best as shaving mirror?",
     "options": [
       "Concave mirror",
       "Convex mirror",
@@ -541,7 +541,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-45-933",
-    "questionText": "Which of the following is a pure semiconductor? (JAMB 2010)",
+    "questionText": "Which of the following is a pure semiconductor?",
     "options": [
       "carbon",
       "silicon",
@@ -553,7 +553,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-46-767",
-    "questionText": "A glass plate 0.9cm thick has a refractive index of 1.50. How long does it take for a pulse of light to pass through the plate? [c = 3.0 × 10⁸ ms⁻¹] (JAMB 2007)",
+    "questionText": "A glass plate 0.9cm thick has a refractive index of 1.50. How long does it take for a pulse of light to pass through the plate? [c = 3.0 × 10⁸ ms⁻¹]",
     "options": [
       "4.5 × 10⁻¹¹ s",
       "4.5 × 10⁻¹⁰ s",
@@ -565,7 +565,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-47-252",
-    "questionText": "A radio station broadcasts at a frequency of 600KHz. If the speed of light in air is 3 × 10⁸ ms⁻¹. Calculate the wavelength of the radio wave (JAMB 2017)",
+    "questionText": "A radio station broadcasts at a frequency of 600KHz. If the speed of light in air is 3 × 10⁸ ms⁻¹. Calculate the wavelength of the radio wave",
     "options": [
       "2.20 × 10³m",
       "5.0 × 10²m",
@@ -577,7 +577,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-48-1103",
-    "questionText": "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification. (JAMB 2014)",
+    "questionText": "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification.",
     "options": [
       "2.5 × 10²",
       "2.5 × 10⁻²",
@@ -589,7 +589,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-49-390",
-    "questionText": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called? (JAMB 2020)",
+    "questionText": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called?",
     "options": [
       "doppler effect",
       "resonance",
@@ -601,7 +601,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-50-676",
-    "questionText": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is? (JAMB 2005)",
+    "questionText": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is?",
     "options": [
       "9 A",
       "8 A",
@@ -613,7 +613,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-51-350",
-    "questionText": "When the downward current flows in a straight vertical conductor, the direction of its magnetic field at a point due north of the wire is? (JAMB 2019)",
+    "questionText": "When the downward current flows in a straight vertical conductor, the direction of its magnetic field at a point due north of the wire is?",
     "options": [
       "Upward",
       "North",
@@ -625,7 +625,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-52-783",
-    "questionText": "The instantaneous value of the induced e.m.f as a function of time is ε = ε₀ sin ωt where ε₀ is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is (JAMB 2007)",
+    "questionText": "The instantaneous value of the induced e.m.f as a function of time is ε = ε₀ sin ωt where ε₀ is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is",
     "options": [
       "0.00",
       "ε₀/4",
@@ -637,7 +637,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-53-386",
-    "questionText": "In the study of Physics, temperature and heat are often confused with each other. Which of the following statements correctly defines these two elements? (JAMB 2020)",
+    "questionText": "In the study of Physics, temperature and heat are often confused with each other. Which of the following statements correctly defines these two elements?",
     "options": [
       "Temperature is a measure of the average kinetic energy of the molecules of a substance",
       "Heat is a measure of the total kinetic energy of the molecules in a system",
@@ -649,7 +649,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-54-611",
-    "questionText": "The energy stored in an inductor of inductance 5mH when a current of 6A flows through it is (JAMB 2004)",
+    "questionText": "The energy stored in an inductor of inductance 5mH when a current of 6A flows through it is",
     "options": [
       "9.0 × 10⁻³ J",
       "9.0 × 10⁻² J",
@@ -661,7 +661,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-55-903",
-    "questionText": "The surfaces of conveyor belts are made rough so as to? (JAMB 2010)",
+    "questionText": "The surfaces of conveyor belts are made rough so as to?",
     "options": [
       " protect them while carrying loads",
       "prevent the loads from slipping",
@@ -673,7 +673,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-56-142",
-    "questionText": "In which of the following device is the expansion of solid not required?\n\nI. Simple pendulum\nII. Fire alarms\nIII. Thermostat\nIV. Bimetallic thermometer (JAMB 2015)",
+    "questionText": "In which of the following device is the expansion of solid not required?\n\nI. Simple pendulum\nII. Fire alarms\nIII. Thermostat\nIV. Bimetallic thermometer",
     "options": [
       "III only",
       " II & III only",
@@ -685,7 +685,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-57-687",
-    "questionText": "\nIn the circuit diagram of a transistor above, the terminal P, Q and R represent (JAMB 2005)",
+    "questionText": "\nIn the circuit diagram of a transistor above, the terminal P, Q and R represent",
     "options": [
       "EMITTER, BASE and COLLECTOR",
       "COLLECTOR, EMITTER and BASE",
@@ -697,7 +697,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-58-524",
-    "questionText": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum (JAMB 2023)",
+    "questionText": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum",
     "options": [
       " 5.23 m",
       "6.42 m",
@@ -709,7 +709,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-59-963",
-    "questionText": "Which of the following types of waves needs a medium for propagation? (JAMB 2011)",
+    "questionText": "Which of the following types of waves needs a medium for propagation?",
     "options": [
       "sound waves",
       " light waves",
@@ -721,7 +721,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-60-761",
-    "questionText": "I. Mass\nII. Density\nIII. Temperature\nIV. Nature of substance\n\n\nwhich of the above affect diffusion? (JAMB 2007)",
+    "questionText": "I. Mass\nII. Density\nIII. Temperature\nIV. Nature of substance\n\n\nwhich of the above affect diffusion?",
     "options": [
       " I and II only",
       "I,II and IV only",
@@ -733,7 +733,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-61-1155",
-    "questionText": "If an object sinks in water, it means that (JAMB 2025)",
+    "questionText": "If an object sinks in water, it means that",
     "options": [
       "Its density is greater than that of water",
       ". upthrust equals its weight",
@@ -745,7 +745,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-62-745",
-    "questionText": "A progressive wave equation is represented by y = a sin(150πt - (π/4)x). If the phase difference of the wave is 45°, the value of x in the equation is? (JAMB 2006)",
+    "questionText": "A progressive wave equation is represented by y = a sin(150πt - (π/4)x). If the phase difference of the wave is 45°, the value of x in the equation is?",
     "options": [
       "3 cm",
       "4 cm",
@@ -757,7 +757,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-63-447",
-    "questionText": "A gas at a volume of V₀ in a container at pressure P₀ is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant? (JAMB 2021)",
+    "questionText": "A gas at a volume of V₀ in a container at pressure P₀ is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant?",
     "options": [
       "P₀/5",
       "4P₀/5",
@@ -769,7 +769,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-64-1073",
-    "questionText": "An electric device is rated 2000W, 250V. Calculate the maximum current it can take (JAMB 2013)",
+    "questionText": "An electric device is rated 2000W, 250V. Calculate the maximum current it can take",
     "options": [
       "9A",
       "8A",
@@ -781,7 +781,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-65-1061",
-    "questionText": "What is the velocity of sound at 100 °C if the velocity of sound at 0 °C is 340 m s⁻¹? (JAMB 2013)",
+    "questionText": "What is the velocity of sound at 100 °C if the velocity of sound at 0 °C is 340 m s⁻¹?",
     "options": [
       " 497 m s⁻¹",
       "440 m s⁻¹",
@@ -793,7 +793,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-66-474",
-    "questionText": "A tuning fork having a frequency of 312 Hz emits a wave which has a wavelength of 1.10 m. Calculate the velocity of sound. (JAMB 2022)",
+    "questionText": "A tuning fork having a frequency of 312 Hz emits a wave which has a wavelength of 1.10 m. Calculate the velocity of sound.",
     "options": [
       "312.0 ms⁻¹",
       "110.0 ms⁻¹",
@@ -805,7 +805,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-67-143",
-    "questionText": "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy? (JAMB 2015)",
+    "questionText": "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy?",
     "options": [
       "Mechanical energy",
       "Stationary energy",
@@ -817,7 +817,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-68-664",
-    "questionText": "A transformer is rated 240v. If the primary coil is 4000 turns and the secondary voltage 12v, determine the number of turns in the secondary coil. (JAMB 2005)",
+    "questionText": "A transformer is rated 240v. If the primary coil is 4000 turns and the secondary voltage 12v, determine the number of turns in the secondary coil.",
     "options": [
       "200",
       "100",
@@ -829,7 +829,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-69-812",
-    "questionText": "The thermometric properties of a thermocouple is the change in? (JAMB 2008)",
+    "questionText": "The thermometric properties of a thermocouple is the change in?",
     "options": [
       " equivalent resistance",
       "electromotive force",
@@ -841,7 +841,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-70-48",
-    "questionText": "The resistance of a wire depends on  (JAMB 2009)",
+    "questionText": "The resistance of a wire depends on",
     "options": [
       "the length of the wire ",
       "the diameter of the wire ",
@@ -853,7 +853,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-71-40",
-    "questionText": "Under constant tension and constant mass per unit length, the note produced by a plucked string is 500Hz when the length of the string is 0.90m, at what length is the frequency 150Hz? (JAMB 2007)",
+    "questionText": "Under constant tension and constant mass per unit length, the note produced by a plucked string is 500Hz when the length of the string is 0.90m, at what length is the frequency 150Hz?",
     "options": [
       "6m ",
       "3m ",
@@ -865,7 +865,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-72-382",
-    "questionText": "\nA machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms⁻¹. The recoil speed of the machine gun is (JAMB 2020)",
+    "questionText": "\nA machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms⁻¹. The recoil speed of the machine gun is",
     "options": [
       "0.5 ms⁻¹",
       "1.5 ms⁻¹",
@@ -877,7 +877,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-73-401",
-    "questionText": "A hydrometer is an instrument for measuring the  (JAMB 2020)",
+    "questionText": "A hydrometer is an instrument for measuring the",
     "options": [
       "a depth of water of water in a vessel",
       " relative density of a liquid by the method of flotation",
@@ -889,7 +889,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-74-363",
-    "questionText": "The earth's gravitational field intensity at its surface is about (G = 6.7 × 10⁻¹¹ Nm²/kg², mass of the earth is 6 × 10²⁴ kg, radius of the earth is 6.4 × 10⁶ m, g on the earth = 9.8 m/s²) (JAMB 2019)",
+    "questionText": "The earth's gravitational field intensity at its surface is about (G = 6.7 × 10⁻¹¹ Nm²/kg², mass of the earth is 6 × 10²⁴ kg, radius of the earth is 6.4 × 10⁶ m, g on the earth = 9.8 m/s²)",
     "options": [
       "6.7 N/kg",
       " 7.9 N/kg",
@@ -901,7 +901,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-75-550",
-    "questionText": "The stress experienced by a wire of diameter yπm loaded by a weight y²N is (JAMB 2024)",
+    "questionText": "The stress experienced by a wire of diameter yπm loaded by a weight y²N is",
     "options": [
       "πNm⁻²",
       "2πNm⁻²",
@@ -913,7 +913,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-76-686",
-    "questionText": "In the figure above, the work done by the force of 100N inclined at an angle of 60° to the object dragged horizontally to a distance of 8m is (JAMB 2005)",
+    "questionText": "In the figure above, the work done by the force of 100N inclined at an angle of 60° to the object dragged horizontally to a distance of 8m is",
     "options": [
       "800J",
       "600J",
@@ -925,7 +925,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-77-804",
-    "questionText": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s? (JAMB 2008)",
+    "questionText": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?",
     "options": [
       "0.01 Hz",
       "0.04 Hz",
@@ -937,7 +937,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-78-580",
-    "questionText": "The thermometer whose thermometric property is change in volume with temperature is  (JAMB 2024)",
+    "questionText": "The thermometer whose thermometric property is change in volume with temperature is",
     "options": [
       "Resistance thermometer",
       "Thermocouple",
@@ -949,7 +949,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-79-1020",
-    "questionText": "The equation of a wave traveling in a horizontal direction is expressed as y = 15 sin 2π/5 (60t - x). What is its wavelength? (JAMB 2012)",
+    "questionText": "The equation of a wave traveling in a horizontal direction is expressed as y = 15 sin 2π/5 (60t - x). What is its wavelength?",
     "options": [
       "60 m",
       "15 m",
@@ -961,7 +961,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-80-637",
-    "questionText": "The refractive index of the medium M in the diagram above is (JAMB 2004)",
+    "questionText": "The refractive index of the medium M in the diagram above is",
     "options": [
       "1/√3",
       "2√3",
@@ -973,7 +973,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-81-779",
-    "questionText": "The ratio of the coefficient of linear expansion of two metals ∝₁/∝₂ is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, e₁/e₂ is 1:2, the ratio of the original lengths l₁/l₂ is (JAMB 2007)",
+    "questionText": "The ratio of the coefficient of linear expansion of two metals ∝₁/∝₂ is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, e₁/e₂ is 1:2, the ratio of the original lengths l₁/l₂ is",
     "options": [
       " 8/3",
       "3/2",
@@ -985,7 +985,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-82-477",
-    "questionText": "According to kinetic molecular model in gases, (JAMB 2022)",
+    "questionText": "According to kinetic molecular model in gases,",
     "options": [
       "the particles are closely packed together; they occupy minimum space are usually arranged in a regular pattern",
       "the particles vibrate about fixed positions and are held together by the strong intermolecular bonds between them",
@@ -997,7 +997,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-83-517",
-    "questionText": "A 200 kg load is raised using a 110 m long lever as shown in the diagram above. The load is 10m from the pivot P. If the efficiency of the lever is 80%, find the effort E required to lift the load. [Take g = 10ms⁻²] (JAMB 2023)",
+    "questionText": "A 200 kg load is raised using a 110 m long lever as shown in the diagram above. The load is 10m from the pivot P. If the efficiency of the lever is 80%, find the effort E required to lift the load. [Take g = 10ms⁻²]",
     "options": [
       " 250 N",
       "300 N",
@@ -1009,7 +1009,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-84-413",
-    "questionText": "\nIn an experiment in which molten naphthalene is allowed to cool, the cooling curve in the figure was obtained. The temperature 80°C is known as the (JAMB 2020)",
+    "questionText": "\nIn an experiment in which molten naphthalene is allowed to cool, the cooling curve in the figure was obtained. The temperature 80°C is known as the",
     "options": [
       "Cooling temperature",
       "Boiling point",
@@ -1021,7 +1021,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-85-107",
-    "questionText": "Dry air of column length 10 cm is trapped by a pellet of mercury of length 15 cm, with the open end uppermost. When the capillary is inverted the length of the air column increased to 25 cm while that of mercury remained constant. Calculate the atmospheric pressure (in cm of Hg.)   (JAMB 2011)",
+    "questionText": "Dry air of column length 10 cm is trapped by a pellet of mercury of length 15 cm, with the open end uppermost. When the capillary is inverted the length of the air column increased to 25 cm while that of mercury remained constant. Calculate the atmospheric pressure (in cm of Hg.)",
     "options": [
       "35 cm Hg  ",
       "15 cm Hg  ",
@@ -1033,7 +1033,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-86-679",
-    "questionText": "The electric field intensity in a place where a charge of 10⁻¹⁰ C experiences a force of 0.4 N is? (JAMB 2005)",
+    "questionText": "The electric field intensity in a place where a charge of 10⁻¹⁰ C experiences a force of 0.4 N is?",
     "options": [
       "4.0 × 10⁷ N C⁻¹",
       "8.0 × 10⁹ N C⁻¹",
@@ -1045,7 +1045,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-87-207",
-    "questionText": "The relative density of a liquid is the ratio of the (JAMB 2016)",
+    "questionText": "The relative density of a liquid is the ratio of the",
     "options": [
       " Mass of water to the mass of an equal volume of liquid",
       "Upthrust in the liquid to the upthrust in water",
@@ -1057,7 +1057,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-88-1141",
-    "questionText": "Which of the following has the least thermal conductivity? (JAMB 2025)",
+    "questionText": "Which of the following has the least thermal conductivity?",
     "options": [
       "air",
       "ash",
@@ -1069,7 +1069,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-89-734",
-    "questionText": "A submarine is observed to rise from a real depth of 80 m to 60 m in water. Calculate the change in apparent depth.\n[Refractive index of water = 4/3] (JAMB 2006)",
+    "questionText": "A submarine is observed to rise from a real depth of 80 m to 60 m in water. Calculate the change in apparent depth.\n[Refractive index of water = 4/3]",
     "options": [
       "45 m",
       " 80 m",
@@ -1081,7 +1081,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-90-1145",
-    "questionText": "The volume of a fixed mass of gas at 0 °C is 200 m³. What is its volume at 273 °C at constant pressure? (JAMB 2025)",
+    "questionText": "The volume of a fixed mass of gas at 0 °C is 200 m³. What is its volume at 273 °C at constant pressure?",
     "options": [
       "100 m³",
       "400 m³",
@@ -1093,7 +1093,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-91-441",
-    "questionText": "A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms⁻¹ from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is? (Take g = 10ms⁻²) (JAMB 2021)",
+    "questionText": "A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms⁻¹ from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is? (Take g = 10ms⁻²)",
     "options": [
       "5J",
       "10J",
@@ -1105,7 +1105,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-92-75",
-    "questionText": "An automobile is traveling at 60km/hr. calculate the angular velocity of the 0.35m radius wheels.  (JAMB 2010)",
+    "questionText": "An automobile is traveling at 60km/hr. calculate the angular velocity of the 0.35m radius wheels.",
     "options": [
       "16.67rad/s ",
       "47.6 rad/s ",
@@ -1117,7 +1117,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-93-1074",
-    "questionText": "When a charge moves through an electric circuit in the direction of an electric force, it (JAMB 2013)",
+    "questionText": "When a charge moves through an electric circuit in the direction of an electric force, it",
     "options": [
       " gains both potential and kinetic energy",
       " gains potential energy and lose kinetic energy",
@@ -1129,7 +1129,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-94-78",
-    "questionText": "Highly polished silvery  surfaces are:  (JAMB 2010)",
+    "questionText": "Highly polished silvery  surfaces are:",
     "options": [
       "poor absorbers but good emitter of radiation ",
       "good absorbers and good emitters of radiation ",
@@ -1141,7 +1141,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-95-435",
-    "questionText": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material? (JAMB 2021)",
+    "questionText": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
     "options": [
       "24 years",
       "20 years",
@@ -1153,7 +1153,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-96-809",
-    "questionText": "In the hare's apparatus, water rises to a height of 26.5 cm in one limb. if a liquid rises to a height of 20.4 cm in the other limb, what is the relative density of the liquid? (JAMB 2008)",
+    "questionText": "In the hare's apparatus, water rises to a height of 26.5 cm in one limb. if a liquid rises to a height of 20.4 cm in the other limb, what is the relative density of the liquid?",
     "options": [
       "0.8",
       "1.1",
@@ -1165,7 +1165,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-97-313",
-    "questionText": "Musical instruments playing the same note can be distinguished from one another owing to the difference in their (JAMB 2018)",
+    "questionText": "Musical instruments playing the same note can be distinguished from one another owing to the difference in their",
     "options": [
       "quality",
       "pitch",
@@ -1177,7 +1177,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-98-659",
-    "questionText": "A proton moving with a speed of 1.0 × 10⁶ ms⁻¹ through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 × 10⁻¹⁴ N. The angle between the proton's velocity and the field is [1.6 × 10⁻¹⁹ C] (JAMB 2005)",
+    "questionText": "A proton moving with a speed of 1.0 × 10⁶ ms⁻¹ through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 × 10⁻¹⁴ N. The angle between the proton's velocity and the field is [1.6 × 10⁻¹⁹ C]",
     "options": [
       "60°",
       "90°",
@@ -1189,7 +1189,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-99-578",
-    "questionText": "A mass of gas at 40mmHg is heated from 298k to 348k at constant volume. Cal the pressure exerted by the gas. (JAMB 2024)",
+    "questionText": "A mass of gas at 40mmHg is heated from 298k to 348k at constant volume. Cal the pressure exerted by the gas.",
     "options": [
       " 50.21mmHg",
       "46.71mmHg",
@@ -1201,7 +1201,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-100-775",
-    "questionText": "From the diagram above, the bob of the pendulum has the fastest speed at (JAMB 2007)",
+    "questionText": "From the diagram above, the bob of the pendulum has the fastest speed at",
     "options": [
       "X",
       "Y",
@@ -1213,7 +1213,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-101-439",
-    "questionText": "A particle of mass 10⁻² kg is fixed to the tip of a fan blade which rotates with angular velocity of 100 rad s⁻¹. If the radius of the blade is 0.2m, the centripetal force is? (JAMB 2021)",
+    "questionText": "A particle of mass 10⁻² kg is fixed to the tip of a fan blade which rotates with angular velocity of 100 rad s⁻¹. If the radius of the blade is 0.2m, the centripetal force is?",
     "options": [
       "2N",
       "20N",
@@ -1225,7 +1225,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-102-316",
-    "questionText": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity? (JAMB 2018)",
+    "questionText": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity?",
     "options": [
       "8 rads⁻¹",
       "4 rads⁻¹",
@@ -1237,7 +1237,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-103-598",
-    "questionText": "The property by which a material returns to its original shape after the removal of force is called  (JAMB 2024)",
+    "questionText": "The property by which a material returns to its original shape after the removal of force is called",
     "options": [
       "Elasticity",
       "Ductility",
@@ -1249,7 +1249,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-104-411",
-    "questionText": "A 2kg block is pulled along a horizontal frictionless surface by a constant horizontal force of 10N. If the block starts from rest, what is its velocity after 5 seconds?\n (JAMB 2020)",
+    "questionText": "A 2kg block is pulled along a horizontal frictionless surface by a constant horizontal force of 10N. If the block starts from rest, what is its velocity after 5 seconds?\n",
     "options": [
       "5 m/s",
       " 10 m/s",
@@ -1261,7 +1261,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-105-432",
-    "questionText": "Calculate the heat energy required to vaporize 50g of water initially at 80°C if the specific heat capacity of water is 4.2 Jg⁻¹K⁻¹ (specific latent heat of vaporization of water is 2260 Jg⁻¹) (JAMB 2021)",
+    "questionText": "Calculate the heat energy required to vaporize 50g of water initially at 80°C if the specific heat capacity of water is 4.2 Jg⁻¹K⁻¹ (specific latent heat of vaporization of water is 2260 Jg⁻¹)",
     "options": [
       "530,000 J",
       "23,200 J",
@@ -1273,7 +1273,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-106-888",
-    "questionText": "A body of mass 12 kg traveling at 4.2 m s⁻¹ collides with a second body of mass 18 kg at rest. Calculate their common velocity if the two bodies coalesce after collision? (JAMB 2009)",
+    "questionText": "A body of mass 12 kg traveling at 4.2 m s⁻¹ collides with a second body of mass 18 kg at rest. Calculate their common velocity if the two bodies coalesce after collision?",
     "options": [
       "1.5 m s⁻¹",
       "1.4 m s⁻¹",
@@ -1285,7 +1285,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-107-1131",
-    "questionText": "The diagram above shows a magnetic field due to a (JAMB 2025)",
+    "questionText": "The diagram above shows a magnetic field due to a",
     "options": [
       "solenoid",
       "circular coil",
@@ -1297,7 +1297,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-108-1116",
-    "questionText": "Which gas produces a red coloured light in a discharge tube? (JAMB 2014)",
+    "questionText": "Which gas produces a red coloured light in a discharge tube?",
     "options": [
       "Mercury",
       "Argon",
@@ -1309,7 +1309,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-109-772",
-    "questionText": "The bond that forms a semiconductor is? (JAMB 2007)",
+    "questionText": "The bond that forms a semiconductor is?",
     "options": [
       "covalent",
       "electrovalent",
@@ -1321,7 +1321,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-110-726",
-    "questionText": "The battery connection that permits current to flow across a p-n junction is called? (JAMB 2006)",
+    "questionText": "The battery connection that permits current to flow across a p-n junction is called?",
     "options": [
       "reverse baised",
       "forward baised",
@@ -1333,7 +1333,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-111-961",
-    "questionText": "I. Density of the liquid.\nII. Depth below the surface of the liquid.\nIII. Surface area of the liquid.\nIn which of the statement above will pressure be dependent? (JAMB 2011)",
+    "questionText": "I. Density of the liquid.\nII. Depth below the surface of the liquid.\nIII. Surface area of the liquid.\nIn which of the statement above will pressure be dependent?",
     "options": [
       " I and II only.",
       " II and III only.",
@@ -1345,7 +1345,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-112-127",
-    "questionText": "Two 2µF capacitors are connected in parallel. The combination is connected in series with a 6µF capacitor. What is the equivalent capacitor for the combination? (JAMB 2012)",
+    "questionText": "Two 2µF capacitors are connected in parallel. The combination is connected in series with a 6µF capacitor. What is the equivalent capacitor for the combination?",
     "options": [
       "10.0µF  ",
       "8.0µF  ",
@@ -1357,7 +1357,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-113-254",
-    "questionText": "Determine the focal length of a thin converging lens if the power is 5.0 dioptres (JAMB 2017)",
+    "questionText": "Determine the focal length of a thin converging lens if the power is 5.0 dioptres",
     "options": [
       " 0.1 m",
       " 0.2 m",
@@ -1369,7 +1369,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-114-416",
-    "questionText": "In which of the following diagrams is the length of the tube equal to one wavelength?  (JAMB 2020)",
+    "questionText": "In which of the following diagrams is the length of the tube equal to one wavelength?",
     "options": [
       "a",
       "b",
@@ -1381,7 +1381,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-115-858",
-    "questionText": "If a load of mass 10 N stretched a cord by 1.2 cm, what is the total work done? (JAMB 2009)",
+    "questionText": "If a load of mass 10 N stretched a cord by 1.2 cm, what is the total work done?",
     "options": [
       "6.0 × 10⁻² J",
       "7.6 × 10⁻² J",
@@ -1393,7 +1393,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-116-695",
-    "questionText": "If two inductors of inductances 3H and 6H are arranged in series, the total inductance is (JAMB 2005)",
+    "questionText": "If two inductors of inductances 3H and 6H are arranged in series, the total inductance is",
     "options": [
       " 9.0H",
       "18.0H",
@@ -1405,7 +1405,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-117-315",
-    "questionText": "In homes, electrical appliances and lamps are connected in parallel because (JAMB 2018)",
+    "questionText": "In homes, electrical appliances and lamps are connected in parallel because",
     "options": [
       "Each appliance receives the full mains voltage and can be switched on/off independently",
       " less voltage will be used",
@@ -1417,7 +1417,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-118-737",
-    "questionText": "A person can focus objects when they lie beyond 75 cm from his eyes. The focal length of the lens required to reduce his least distance of distinct vision to 25 cm is? (JAMB 2006)",
+    "questionText": "A person can focus objects when they lie beyond 75 cm from his eyes. The focal length of the lens required to reduce his least distance of distinct vision to 25 cm is?",
     "options": [
       " 37.50 cm",
       "75.00 cm",
@@ -1429,7 +1429,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-119-661",
-    "questionText": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is (JAMB 2005)",
+    "questionText": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is",
     "options": [
       " V",
       "III",
@@ -1441,7 +1441,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-120-188",
-    "questionText": "The instrument used to view stars is the (JAMB 2016)",
+    "questionText": "The instrument used to view stars is the",
     "options": [
       "Prism binoculars",
       "Telescope",
@@ -1453,7 +1453,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-121-459",
-    "questionText": "A 2H inductor has negligible resistance and is connected to a 50/π Hz A.C supply. The reactance of the inductor is? (JAMB 2021)",
+    "questionText": "A 2H inductor has negligible resistance and is connected to a 50/π Hz A.C supply. The reactance of the inductor is?",
     "options": [
       "200Ω",
       "50Ω",
@@ -1465,7 +1465,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-122-337",
-    "questionText": "Lamps in domestic lightings are usually in (JAMB 2019)",
+    "questionText": "Lamps in domestic lightings are usually in",
     "options": [
       "series",
       "divergent",
@@ -1477,7 +1477,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-123-373",
-    "questionText": "A man on a bench will exert the greatest pressure on the bench when he (JAMB 2019)",
+    "questionText": "A man on a bench will exert the greatest pressure on the bench when he",
     "options": [
       "lies flat on his back",
       " lies flat on his belly",
@@ -1489,7 +1489,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-124-332",
-    "questionText": "When blue and green colours of light are mixed, the resultant colour is (JAMB 2019)",
+    "questionText": "When blue and green colours of light are mixed, the resultant colour is",
     "options": [
       "cyan",
       "magenta",
@@ -1501,7 +1501,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-125-338",
-    "questionText": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce temperature increase because (JAMB 2019)",
+    "questionText": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce temperature increase because",
     "options": [
       " all the heat is used to break the bonds holding the molecules of the solid together",
       "the heat capacity has become very large as the substance melts",
@@ -1513,7 +1513,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-126-591",
-    "questionText": "A refrigerator uses 150W. If it is kept on for 336 hours non-stop, what is the energy consumed in KWh? (JAMB 2024)",
+    "questionText": "A refrigerator uses 150W. If it is kept on for 336 hours non-stop, what is the energy consumed in KWh?",
     "options": [
       "60.20KWh",
       "50.40KWh",
@@ -1525,7 +1525,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-127-1118",
-    "questionText": "When ²¹⁰₈₂Pb decays to ²⁰⁶₈₀Pb, it emits (JAMB 2014)",
+    "questionText": "When ²¹⁰₈₂Pb decays to ²⁰⁶₈₀Pb, it emits",
     "options": [
       "two alpha and two beta particles",
       "an alpha particle",
@@ -1537,7 +1537,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-128-267",
-    "questionText": "When two mirrors are placed at an angle of 90º to each other, how many images will be formed when an object is placed in front of the mirrors (JAMB 2017)",
+    "questionText": "When two mirrors are placed at an angle of 90º to each other, how many images will be formed when an object is placed in front of the mirrors",
     "options": [
       "5",
       "4",
@@ -1549,7 +1549,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-129-101",
-    "questionText": "An object is said to be in simple harmonic motion (SHM) if   (JAMB 2011)",
+    "questionText": "An object is said to be in simple harmonic motion (SHM) if",
     "options": [
       "the acceleration is directly proportional to the displacement and is directed towards the equilibrium position of the object. ",
       "the acceleration is inversely proportional to the displacement and directed toward the equilibrium position  of the object  ",
@@ -1561,7 +1561,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-130-38",
-    "questionText": "The silver wall of a vacuum flask prevents heat loss due to  (JAMB 2007)",
+    "questionText": "The silver wall of a vacuum flask prevents heat loss due to",
     "options": [
       "conduction ",
       "Convection ",
@@ -1573,7 +1573,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-131-515",
-    "questionText": "A wire of radius 0.2 mm is extended by 0.5% of its length when supported by a load of 1.5 kg. Determine the Young's modulus for the material of the wire. [Take g = 10 ms⁻²] (JAMB 2023)",
+    "questionText": "A wire of radius 0.2 mm is extended by 0.5% of its length when supported by a load of 1.5 kg. Determine the Young's modulus for the material of the wire. [Take g = 10 ms⁻²]",
     "options": [
       "2.4×10¹⁰ (Nm⁻²)",
       "1.5×10¹⁰ (Nm⁻²)",
@@ -1585,7 +1585,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-132-861",
-    "questionText": "At 4°C, the volume of a fixed mass of water is? (JAMB 2009)",
+    "questionText": "At 4°C, the volume of a fixed mass of water is?",
     "options": [
       "constant",
       "minimum",
@@ -1597,7 +1597,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-133-566",
-    "questionText": "A wheelbarrow inclined at 60º to the horizontal is pushed with a force of 150N. What is the horizontal component of the applied force (JAMB 2024)",
+    "questionText": "A wheelbarrow inclined at 60º to the horizontal is pushed with a force of 150N. What is the horizontal component of the applied force",
     "options": [
       "130N",
       "75N",
@@ -1609,7 +1609,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-134-62",
-    "questionText": "The force with which an object is attracted to the earth is called  (JAMB 2009)",
+    "questionText": "The force with which an object is attracted to the earth is called",
     "options": [
       "acceleration ",
       "mass ",
@@ -1621,7 +1621,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-135-733",
-    "questionText": "An object placed 10cm from a concave mirror of focal length 5cm would have its image (JAMB 2006)",
+    "questionText": "An object placed 10cm from a concave mirror of focal length 5cm would have its image",
     "options": [
       "at the centre of convature",
       "at the radius of curvature",
@@ -1633,7 +1633,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-136-1077",
-    "questionText": "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours? (JAMB 2013)",
+    "questionText": "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?",
     "options": [
       " 2.4g",
       "3.2g",
@@ -1645,7 +1645,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-137-5",
-    "questionText": "Which of the following statements is not true?  (JAMB 2006)",
+    "questionText": "Which of the following statements is not true?",
     "options": [
       "as the slope of an incline plane increases, the velocity ratio decreases, ",
       "the efficiency of an incline plane decreases as the slope increases ",
@@ -1657,7 +1657,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-138-1113",
-    "questionText": "The magnitude of the angle of dip at the equator is (JAMB 2014)",
+    "questionText": "The magnitude of the angle of dip at the equator is",
     "options": [
       "360°",
       "0°",
@@ -1669,7 +1669,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-139-600",
-    "questionText": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the (JAMB 2004)",
+    "questionText": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
     "options": [
       "armature coil should be made of silver",
       " commutator should be replaced with slip ring",
@@ -1681,7 +1681,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-140-987",
-    "questionText": "If the threshold frequency for tungsten is 1.3 × 10¹⁵ Hz, what is its work function? [h = 6.6 × 10⁻³⁴ Js] (JAMB 2011)",
+    "questionText": "If the threshold frequency for tungsten is 1.3 × 10¹⁵ Hz, what is its work function? [h = 6.6 × 10⁻³⁴ Js]",
     "options": [
       "8.58 × 10⁻¹⁹ J",
       "8.50 × 10⁻¹⁵ J",
@@ -1693,7 +1693,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-141-589",
-    "questionText": "In voltage measurement, the potentiometer is preferred to voltmeter because it (JAMB 2024)",
+    "questionText": "In voltage measurement, the potentiometer is preferred to voltmeter because it",
     "options": [
       "has a wider range",
       "consumes negligible current",
@@ -1705,7 +1705,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-142-138",
-    "questionText": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver drives a new truck on a sunny day. Which of the following explains his observation? (JAMB 2015)",
+    "questionText": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver drives a new truck on a sunny day. Which of the following explains his observation?",
     "options": [
       "He saw a flying objects",
       "He must be thinking of water and food",
@@ -1717,7 +1717,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-143-1037",
-    "questionText": "Which of the following CANNOT be deflected by both electric and magnetic fields? (JAMB 2012)",
+    "questionText": "Which of the following CANNOT be deflected by both electric and magnetic fields?",
     "options": [
       " Gamma rays",
       "Alpha particles",
@@ -1729,7 +1729,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-144-242",
-    "questionText": "Which of the following instruments helps to maintain the correct humidity and temperature of a building? (JAMB 2017)",
+    "questionText": "Which of the following instruments helps to maintain the correct humidity and temperature of a building?",
     "options": [
       "A compressor",
       "A refrigerator",
@@ -1741,7 +1741,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-145-283",
-    "questionText": "Which of the following is true of an electrical charge? (JAMB 2018)",
+    "questionText": "Which of the following is true of an electrical charge?",
     "options": [
       "Positive charge means deficit electrons",
       "Negative charge means excess of electrons",
@@ -1753,7 +1753,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-146-149",
-    "questionText": "The external parts of an object can be measure accurately through the use of which scientific instrument? (JAMB 2015)",
+    "questionText": "The external parts of an object can be measure accurately through the use of which scientific instrument?",
     "options": [
       "Micrometer screw gauge",
       " Vernier Caliper",
@@ -1765,7 +1765,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-147-428",
-    "questionText": "Which of the following instruments may be used to measure relative humidity? (JAMB 2021)",
+    "questionText": "Which of the following instruments may be used to measure relative humidity?",
     "options": [
       "Hydrometer",
       "Manometer",
@@ -1777,7 +1777,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-148-339",
-    "questionText": "In a slide wire bridge, the balance is obtained at a point 25cm from one end of wire 1m long. The resistance to be tested is connected to that end and a standard resistance of 3.6Ω\n is connected to the other end of the wire. Determine the value of the unknown resistance (JAMB 2019)",
+    "questionText": "In a slide wire bridge, the balance is obtained at a point 25cm from one end of wire 1m long. The resistance to be tested is connected to that end and a standard resistance of 3.6Ω\n is connected to the other end of the wire. Determine the value of the unknown resistance",
     "options": [
       "3.2Ω",
       "1.4Ω",
@@ -1789,7 +1789,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-149-894",
-    "questionText": "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible (JAMB 2009)",
+    "questionText": "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible",
     "options": [
       "12 V",
       "8 V",
@@ -1801,7 +1801,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-150-277",
-    "questionText": "Which of the following is true of an electrical charge? (JAMB 2017)",
+    "questionText": "Which of the following is true of an electrical charge?",
     "options": [
       "Positive charge means deficit electrons",
       "Negative charge means excess of electrons",
@@ -1813,7 +1813,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788673833485-151-1114",
-    "questionText": "When an atom undergoes a beta decay, the atomic number of the nucleus (JAMB 2014)",
+    "questionText": "When an atom undergoes a beta decay, the atomic number of the nucleus",
     "options": [
       "Remains unchanged",
       "Decreases by one",
@@ -1825,7 +1825,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-0-811",
-    "questionText": "An empty density bottle weighs 2 N. if it weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is? (JAMB 2008)",
+    "questionText": "An empty density bottle weighs 2 N. if it weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is?",
     "options": [
       "1/3",
       "2/3",
@@ -1837,7 +1837,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-1-247",
-    "questionText": "When the r.m.s value of a source of electricity supply is given as 240v, it means that the peak value of the supply is (JAMB 2017)",
+    "questionText": "When the r.m.s value of a source of electricity supply is given as 240v, it means that the peak value of the supply is",
     "options": [
       "240v",
       "340v",
@@ -1849,7 +1849,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-2-234",
-    "questionText": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²] (JAMB 2017)",
+    "questionText": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²]",
     "options": [
       "0.8N",
       "2.5N",
@@ -1861,7 +1861,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-3-962",
-    "questionText": "Which of the following could be effectively used to reduce friction? (JAMB 2011)",
+    "questionText": "Which of the following could be effectively used to reduce friction?",
     "options": [
       "kerosene",
       "grease",
@@ -1873,7 +1873,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-4-481",
-    "questionText": "The potential energy in an elastic string of force constant k, which has an extension X is? (JAMB 2022)",
+    "questionText": "The potential energy in an elastic string of force constant k, which has an extension X is?",
     "options": [
       "kX",
       "KX²",
@@ -1885,7 +1885,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-5-299",
-    "questionText": "Which of the following has the lowest internal resistance when new? (JAMB 2018)",
+    "questionText": "Which of the following has the lowest internal resistance when new?",
     "options": [
       "Leclanche cell",
       "Daniell cell",
@@ -1897,7 +1897,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-6-503",
-    "questionText": "A missile is launched with a speed of 75 ms-1 at an angle of 22° above the surface of a warship. Find the horizontal range achieved by the missile. Ignore the effects of air resistance.\n\n[Take g = 10 ms⁻²] (JAMB 2023)",
+    "questionText": "A missile is launched with a speed of 75 ms-1 at an angle of 22° above the surface of a warship. Find the horizontal range achieved by the missile. Ignore the effects of air resistance.\n\n[Take g = 10 ms⁻²]",
     "options": [
       "195",
       "271 m",
@@ -1909,7 +1909,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-7-544",
-    "questionText": "The working of the beam balance is based on the principle of (JAMB 2023)",
+    "questionText": "The working of the beam balance is based on the principle of",
     "options": [
       "moments",
       "conservation of energy",
@@ -1921,7 +1921,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-8-51",
-    "questionText": "A devise that converts sound energy into electrical energy is  (JAMB 2009)",
+    "questionText": "A devise that converts sound energy into electrical energy is",
     "options": [
       "the horn of a motor car",
       "An AC generator",
@@ -1933,7 +1933,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-9-122",
-    "questionText": "A 25N force pulls a 2.0kg body up a 300 inclined plane. If force is parallel to the plane and the body moves up the plane at constant velocity. Calculate the magnitude of the frictional force between the body and the plane. [g =10m/s2] (JAMB 2012)",
+    "questionText": "A 25N force pulls a 2.0kg body up a 300 inclined plane. If force is parallel to the plane and the body moves up the plane at constant velocity. Calculate the magnitude of the frictional force between the body and the plane. [g =10m/s2]",
     "options": [
       "25N",
       "10N",
@@ -1945,7 +1945,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-10-436",
-    "questionText": "A certain radioactive source emits radiation that was found to be deflected by both magnetic and electric fields. The radiation is? (JAMB 2021)",
+    "questionText": "A certain radioactive source emits radiation that was found to be deflected by both magnetic and electric fields. The radiation is?",
     "options": [
       "beta rays",
       "gamma rays",
@@ -1957,7 +1957,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-11-530",
-    "questionText": "A step-down transformer is used on a 2.2 kV line to deliver 110 V. How many turns are on the primary windings if the secondary has 25 turns? (JAMB 2023)",
+    "questionText": "A step-down transformer is used on a 2.2 kV line to deliver 110 V. How many turns are on the primary windings if the secondary has 25 turns?",
     "options": [
       "20",
       "250",
@@ -1969,7 +1969,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-12-1108",
-    "questionText": "What charge is stored in a 0.1 F capacitor when a 10 V supply is connected across it? (JAMB 2014)",
+    "questionText": "What charge is stored in a 0.1 F capacitor when a 10 V supply is connected across it?",
     "options": [
       "1 C",
       "5 C",
@@ -1981,7 +1981,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-13-953",
-    "questionText": "An object of mass 2 kg moves with a velocity of 10 ms⁻¹ round a circle of radius 4 m. Calculate the centripetal force on the object (JAMB 2011)",
+    "questionText": "An object of mass 2 kg moves with a velocity of 10 ms⁻¹ round a circle of radius 4 m. Calculate the centripetal force on the object",
     "options": [
       "25 N",
       "100 N",
@@ -1993,7 +1993,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-14-825",
-    "questionText": "In the microscope, the eyepiece lens merely acts as? (JAMB 2008)",
+    "questionText": "In the microscope, the eyepiece lens merely acts as?",
     "options": [
       "an inverter",
       "a refiner",
@@ -2005,7 +2005,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-15-644",
-    "questionText": "Metal rods of length 20m each are laid end to end to form a bridge at 25°C. What gap will be provided between consecutive rails for the bridge to withstand 75°C? [Linear expansivity of the material = 2.0 × 10⁻⁵K⁻¹] (JAMB 2004)",
+    "questionText": "Metal rods of length 20m each are laid end to end to form a bridge at 25°C. What gap will be provided between consecutive rails for the bridge to withstand 75°C? [Linear expansivity of the material = 2.0 × 10⁻⁵K⁻¹]",
     "options": [
       "0.20m",
       "0.22m",
@@ -2017,7 +2017,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-16-769",
-    "questionText": "The production of pure spectrum could easily be achieved using a? (JAMB 2007)",
+    "questionText": "The production of pure spectrum could easily be achieved using a?",
     "options": [
       "glass prism with a pin",
       "triangular prism with two convex lens",
@@ -2029,7 +2029,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-17-426",
-    "questionText": "A given mass of gas has a pressure of 80 Nm⁻² at a temperature of 47°C. If the temperature is reduced to 27°C with volume remaining constant, the new pressure is? (JAMB 2021)",
+    "questionText": "A given mass of gas has a pressure of 80 Nm⁻² at a temperature of 47°C. If the temperature is reduced to 27°C with volume remaining constant, the new pressure is?",
     "options": [
       "46.0 Nm⁻²",
       "75.0 Nm⁻²",
@@ -2041,7 +2041,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-18-357",
-    "questionText": "The limiting frictional force between two surfaces depends on\nI. the cohesive force of the material\nII. the nature of the surfaces in contact\nIII. the relative velocity between the surfaces (JAMB 2019)",
+    "questionText": "The limiting frictional force between two surfaces depends on\nI. the cohesive force of the material\nII. the nature of the surfaces in contact\nIII. the relative velocity between the surfaces",
     "options": [
       "I only",
       "II only",
@@ -2053,7 +2053,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-19-433",
-    "questionText": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductors are 30V and 40V respectively. What is the voltage across the capacitor? (JAMB 2021)",
+    "questionText": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductors are 30V and 40V respectively. What is the voltage across the capacitor?",
     "options": [
       "30V",
       "40V",
@@ -2065,7 +2065,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-20-264",
-    "questionText": "The instrument to measure the relative density of liquid is (JAMB 2017)",
+    "questionText": "The instrument to measure the relative density of liquid is",
     "options": [
       "thermometer",
       "hydrometer",
@@ -2077,7 +2077,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-21-414",
-    "questionText": "In the figure, the value of R is (JAMB 2020)",
+    "questionText": "In the figure, the value of R is",
     "options": [
       "3Ω",
       "6Ω",
@@ -2089,7 +2089,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-22-608",
-    "questionText": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X_L and X_C respectively are related as (JAMB 2004)",
+    "questionText": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X_L and X_C respectively are related as",
     "options": [
       "X_L = X_C",
       "X_L = ½X_C",
@@ -2101,7 +2101,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-23-537",
-    "questionText": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of 40° with the normal. Calculate the angle of refraction in the glass. [Refractive index of water = 1.33, Refractive index of glass = 1.5] (JAMB 2023)",
+    "questionText": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of 40° with the normal. Calculate the angle of refraction in the glass. [Refractive index of water = 1.33, Refractive index of glass = 1.5]",
     "options": [
       "29.36°",
       "25.37°",
@@ -2113,7 +2113,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-24-627",
-    "questionText": "As the pressure of a fluid increases, its viscosity (JAMB 2004)",
+    "questionText": "As the pressure of a fluid increases, its viscosity",
     "options": [
       "decreases",
       "increases",
@@ -2125,7 +2125,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-25-472",
-    "questionText": "The secondary pigments consist of? (JAMB 2022)",
+    "questionText": "The secondary pigments consist of?",
     "options": [
       "blue, green, and violet",
       "yellow, green, and magenta",
@@ -2137,7 +2137,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-26-389",
-    "questionText": "Natural radioactivity consists of emission? (JAMB 2020)",
+    "questionText": "Natural radioactivity consists of emission?",
     "options": [
       "α -particles and β -rays",
       "α -particles and X-rays",
@@ -2149,7 +2149,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-27-1092",
-    "questionText": "A wheel and an axle is used to raise a load whose weight is 800N when an effort of 250N is applied. If the radii of the wheel and axle are 800mm and 200mm respectively, the efficiency of the machine is (JAMB 2014)",
+    "questionText": "A wheel and an axle is used to raise a load whose weight is 800N when an effort of 250N is applied. If the radii of the wheel and axle are 800mm and 200mm respectively, the efficiency of the machine is",
     "options": [
       "90%",
       "80%",
@@ -2161,7 +2161,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-28-592",
-    "questionText": "What is the inductive reactance of a coil of 7H when connected to a 50Hz a.c circuit? (JAMB 2024)",
+    "questionText": "What is the inductive reactance of a coil of 7H when connected to a 50Hz a.c circuit?",
     "options": [
       "2200Ω",
       "2000Ω",
@@ -2173,7 +2173,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-29-29",
-    "questionText": "A rectangular metal block of volume 10-6m3 at 273K is heated to 573K, if the coefficient of linear expansion is 1.2 x 10-5K-1, the percentage change of its volume is  (JAMB 2007)",
+    "questionText": "A rectangular metal block of volume 10-6m3 at 273K is heated to 573K, if the coefficient of linear expansion is 1.2 x 10-5K-1, the percentage change of its volume is",
     "options": [
       "1.50%",
       "1.10%",
@@ -2185,7 +2185,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-30-467",
-    "questionText": "The relationship between the coefficient of linear expansion α and volumetric expansion (γ) is----------------- (JAMB 2022)",
+    "questionText": "The relationship between the coefficient of linear expansion α and volumetric expansion (γ) is-----------------",
     "options": [
       "γ = α⁻³",
       "γ = α",
@@ -2197,7 +2197,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-31-540",
-    "questionText": "The diagram above illustrates the penetrating power of some types of radiation. X, Y and Z are likely\n (JAMB 2023)",
+    "questionText": "The diagram above illustrates the penetrating power of some types of radiation. X, Y and Z are likely\n",
     "options": [
       "X = α-particle; Y = γ-ray; Z = β-particle",
       "X = α-particle; Y = β-particle; Z = γ-ray",
@@ -2209,7 +2209,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-32-508",
-    "questionText": "The half life of a radioactive material is 12 days. Calculate the decay constant. (JAMB 2023)",
+    "questionText": "The half life of a radioactive material is 12 days. Calculate the decay constant.",
     "options": [
       "0.8663 day⁻¹",
       "0.04331 day⁻¹",
@@ -2221,7 +2221,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-33-279",
-    "questionText": "A car accelerates uniformly from rest to a velocity of 30 m/s in 6 seconds. Calculate the acceleration of the car. (JAMB 2017)",
+    "questionText": "A car accelerates uniformly from rest to a velocity of 30 m/s in 6 seconds. Calculate the acceleration of the car.",
     "options": [
       "3 m/s²",
       "5 m/s²",
@@ -2233,7 +2233,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-34-141",
-    "questionText": "A vector quantity can only be completely described when ……… and …………are mentioned. (JAMB 2015)",
+    "questionText": "A vector quantity can only be completely described when ……… and …………are mentioned.",
     "options": [
       "Magnitude and motion",
       "Magnitude and direction",
@@ -2245,7 +2245,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-35-921",
-    "questionText": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is? (JAMB 2010)",
+    "questionText": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is?",
     "options": [
       "2 cm",
       "3 cm",
@@ -2257,7 +2257,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-36-1042",
-    "questionText": "The pair of physical quantities that are scalar only are ? (JAMB 2013)",
+    "questionText": "The pair of physical quantities that are scalar only are ?",
     "options": [
       "volume and area",
       ". moment and momentum",
@@ -2269,7 +2269,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-37-409",
-    "questionText": "\nHeat is supplied uniformly at the rate of 100W to 1.0 × 10⁻² kg of a liquid for 20 seconds. If the temperature of the liquid rises by 5°C, then the specific heat capacity of the liquid is (JAMB 2020)",
+    "questionText": "\nHeat is supplied uniformly at the rate of 100W to 1.0 × 10⁻² kg of a liquid for 20 seconds. If the temperature of the liquid rises by 5°C, then the specific heat capacity of the liquid is",
     "options": [
       "2.0 × 10² Jkg⁻¹K⁻¹",
       "2.0 × 10² Jkg⁻¹",
@@ -2281,7 +2281,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-38-3",
-    "questionText": "A nail is pulled from a wall with a string tied to the nail. If the string is inclined at an angle of 30oC to the wall and the tension in the string is 50N, the effective force used in pulling the nail is:  (JAMB 2006)",
+    "questionText": "A nail is pulled from a wall with a string tied to the nail. If the string is inclined at an angle of 30oC to the wall and the tension in the string is 50N, the effective force used in pulling the nail is:",
     "options": [
       "25N",
       "25√3 N",
@@ -2293,7 +2293,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-39-1038",
-    "questionText": "A piece of radioactive material contains 1000 atoms. If its half‑life is 20 seconds, the time taken for 125 atoms to remain is (JAMB 2012)",
+    "questionText": "A piece of radioactive material contains 1000 atoms. If its half‑life is 20 seconds, the time taken for 125 atoms to remain is",
     "options": [
       "20 seconds",
       "40 seconds",
@@ -2305,7 +2305,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-40-560",
-    "questionText": "A light ray passing from air into water at an angle of 30º from the normal in air would  (JAMB 2024)",
+    "questionText": "A light ray passing from air into water at an angle of 30º from the normal in air would",
     "options": [
       "make an angle greater than 300 in water surface",
       "be completely absorbed by the water surface",
@@ -2317,7 +2317,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-41-1095",
-    "questionText": "What is the equivalent of 20 K in Celsius scale? (JAMB 2014)",
+    "questionText": "What is the equivalent of 20 K in Celsius scale?",
     "options": [
       "–253 °C",
       "–293 °C",
@@ -2329,7 +2329,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-42-1060",
-    "questionText": "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their (JAMB 2013)",
+    "questionText": "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their",
     "options": [
       "frequency",
       "amplitude",
@@ -2341,7 +2341,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-43-457",
-    "questionText": "The velocities of light in air and glass are 3.0 × 10⁸ ms⁻¹ and 2.0 × 10⁸ ms⁻¹ respectively. If the angle of refraction is 30°, the sine of the angle of incidence is? (JAMB 2021)",
+    "questionText": "The velocities of light in air and glass are 3.0 × 10⁸ ms⁻¹ and 2.0 × 10⁸ ms⁻¹ respectively. If the angle of refraction is 30°, the sine of the angle of incidence is?",
     "options": [
       "0.33",
       "0.5",
@@ -2353,7 +2353,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-44-538",
-    "questionText": "An open-tube mercury manometer is used to measure the pressure in a gas tank. When the atmospheric pressure is 101,325 Pa, what is the absolute pressure in Pa in the tank if the height of the mercury in the open tube is 25 cm higher. density of mercury = 13600kg/m³, g=9.8m/s² (JAMB 2023)",
+    "questionText": "An open-tube mercury manometer is used to measure the pressure in a gas tank. When the atmospheric pressure is 101,325 Pa, what is the absolute pressure in Pa in the tank if the height of the mercury in the open tube is 25 cm higher. density of mercury = 13600kg/m³, g=9.8m/s²",
     "options": [
       "108,986 Pa",
       "165,238 Pa",
@@ -2365,7 +2365,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-45-166",
-    "questionText": "A structural engineer stood on a top of a building releasing a light and heavy object to the ground which of the following statement is true?(Neglect Air Resistance) (JAMB 2015)",
+    "questionText": "A structural engineer stood on a top of a building releasing a light and heavy object to the ground which of the following statement is true?(Neglect Air Resistance)",
     "options": [
       "Both the light and heavy subject reach the ground at the same time",
       "The light object get to the ground first before the heavy object",
@@ -2377,7 +2377,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-46-296",
-    "questionText": "In the diagram given the hanging mass m2 is adjusted until m1 is on the verge of sliding. The coefficient of static (JAMB 2018)",
+    "questionText": "In the diagram given the hanging mass m2 is adjusted until m1 is on the verge of sliding. The coefficient of static",
     "options": [
       "m₁/m₂",
       "m₁g/m₂",
@@ -2389,7 +2389,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-47-545",
-    "questionText": "Which of the following is a type of incandescent light source? (JAMB 2023)",
+    "questionText": "Which of the following is a type of incandescent light source?",
     "options": [
       "Fluorescent lamp",
       "LED lamp",
@@ -2401,7 +2401,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-48-660",
-    "questionText": "When impurities are added to semi-conductors, the conductivity of the semi-conductor (JAMB 2005)",
+    "questionText": "When impurities are added to semi-conductors, the conductivity of the semi-conductor",
     "options": [
       "increases then decreases",
       "increases",
@@ -2413,7 +2413,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-49-609",
-    "questionText": "\nThe binding energy of helium ⁴₂He is\n[atomic mass of proton = 1.00783U, atomic mass of neutron = 1.00867U] (JAMB 2004)",
+    "questionText": "\nThe binding energy of helium ⁴₂He is\n[atomic mass of proton = 1.00783U, atomic mass of neutron = 1.00867U]",
     "options": [
       "4.033U",
       "2.017U",
@@ -2425,7 +2425,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-50-751",
-    "questionText": "A gramophone record takes 5s to reach its constant angular velocity of 4π rads⁻¹ from rest. Find its constant angular acceleration. (JAMB 2007)",
+    "questionText": "A gramophone record takes 5s to reach its constant angular velocity of 4π rads⁻¹ from rest. Find its constant angular acceleration.",
     "options": [
       "0.4π rads⁻²",
       "0.8π rads⁻²",
@@ -2437,7 +2437,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-51-147",
-    "questionText": "Electrons were discovered by (JAMB 2015)",
+    "questionText": "Electrons were discovered by",
     "options": [
       "James Chadwick B.",
       "J.J Thompson",
@@ -2449,7 +2449,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-52-828",
-    "questionText": "An electric generator has e.m.f. of 240 V and an internal resistance of 1Ω if the current supplied by the generator is 20A when the terminal voltage is 220 V, find the ratio of the power supplied to the power dissipated? (JAMB 2008)",
+    "questionText": "An electric generator has e.m.f. of 240 V and an internal resistance of 1Ω if the current supplied by the generator is 20A when the terminal voltage is 220 V, find the ratio of the power supplied to the power dissipated?",
     "options": [
       "11:01",
       "1:11",
@@ -2461,7 +2461,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-53-371",
-    "questionText": "A mixture of blue and red pigment when illuminated by white light will appear (JAMB 2019)",
+    "questionText": "A mixture of blue and red pigment when illuminated by white light will appear",
     "options": [
       "green",
       "orange",
@@ -2473,7 +2473,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-54-995",
-    "questionText": "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys (JAMB 2011)",
+    "questionText": "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys",
     "options": [
       "Graham's Law",
       "Boyle's Law",
@@ -2485,7 +2485,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-55-431",
-    "questionText": "Which of the following is not a vector quantity? (JAMB 2021)",
+    "questionText": "Which of the following is not a vector quantity?",
     "options": [
       "momentum",
       "force",
@@ -2497,7 +2497,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-56-220",
-    "questionText": "Boiling occurs when the vapour pressure of a liquid is (JAMB 2016)",
+    "questionText": "Boiling occurs when the vapour pressure of a liquid is",
     "options": [
       "At the evaporation point",
       "Less than the atmospheric pressure",
@@ -2509,7 +2509,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-57-256",
-    "questionText": "How can energy loss be minimized through Eddy-current? (JAMB 2017)",
+    "questionText": "How can energy loss be minimized through Eddy-current?",
     "options": [
       "By using high resistance wire",
       "By using insulated soft iron wires",
@@ -2521,7 +2521,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-58-866",
-    "questionText": "A man standing 2 m from a charcoal fire is warmed mainly by? (JAMB 2009)",
+    "questionText": "A man standing 2 m from a charcoal fire is warmed mainly by?",
     "options": [
       "convection",
       "radiation",
@@ -2533,7 +2533,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-59-1000",
-    "questionText": "In order to remove the error of parallax when taking measurements with a metre rule, the eye should be focused (JAMB 2012)",
+    "questionText": "In order to remove the error of parallax when taking measurements with a metre rule, the eye should be focused",
     "options": [
       "slantingly towards the right on the markings",
       "slantingly towards the left on the markings",
@@ -2545,7 +2545,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-60-924",
-    "questionText": "Dispersion occurs when white light passes through a glass prism because of the? (JAMB 2010)",
+    "questionText": "Dispersion occurs when white light passes through a glass prism because of the?",
     "options": [
       "different hidden colours in the glass",
       "different speeds of the colour in the glass",
@@ -2557,7 +2557,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-61-159",
-    "questionText": "What type of electromagnetic radiation can be used to take photographs in the haze? (JAMB 2015)",
+    "questionText": "What type of electromagnetic radiation can be used to take photographs in the haze?",
     "options": [
       "Radio waves",
       "infrared rays",
@@ -2569,7 +2569,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-62-301",
-    "questionText": "One of the features of the fission process is that (JAMB 2018)",
+    "questionText": "One of the features of the fission process is that",
     "options": [
       "it leads to chain reaction",
       "its products are not radioactive",
@@ -2581,7 +2581,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-63-222",
-    "questionText": "In the diagram above, which of the following velocity-time graphs shows uniform acceleration of a body from rest? (JAMB 2016)",
+    "questionText": "In the diagram above, which of the following velocity-time graphs shows uniform acceleration of a body from rest?",
     "options": [
       "C",
       "D",
@@ -2593,7 +2593,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-64-227",
-    "questionText": "The frequency of beats produced when two tunning forks of frequencies 258Hz and 270Hz are sounded close to each other (JAMB 2016)",
+    "questionText": "The frequency of beats produced when two tunning forks of frequencies 258Hz and 270Hz are sounded close to each other",
     "options": [
       ". 6Hz",
       "264Hz",
@@ -2605,7 +2605,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-65-261",
-    "questionText": "Which of the following is a semiconductor (JAMB 2017)",
+    "questionText": "Which of the following is a semiconductor",
     "options": [
       "copper",
       "silicon",
@@ -2617,7 +2617,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-66-880",
-    "questionText": "If the decay constant of a radioactive substance is 0.231 s⁻¹, the half-life is? (JAMB 2009)",
+    "questionText": "If the decay constant of a radioactive substance is 0.231 s⁻¹, the half-life is?",
     "options": [
       "3.00 s",
       "0.12 s",
@@ -2629,7 +2629,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-67-873",
-    "questionText": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in (JAMB 2009)",
+    "questionText": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in",
     "options": [
       "x is same as in y",
       "x and y is same as in vacuum",
@@ -2641,7 +2641,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-68-162",
-    "questionText": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s) (JAMB 2015)",
+    "questionText": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s)",
     "options": [
       "2sec",
       "3sec",
@@ -2653,7 +2653,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-69-552",
-    "questionText": "The mechanical advantage of the machine shown above  (JAMB 2024)",
+    "questionText": "The mechanical advantage of the machine shown above",
     "options": [
       "7.5",
       "15.5",
@@ -2665,7 +2665,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-70-239",
-    "questionText": "Which of the following statements is NOT correct? (JAMB 2017)",
+    "questionText": "Which of the following statements is NOT correct?",
     "options": [
       "Molecules of a liquid are stationary",
       "Brownian motion is an evidence of particle nature of matter",
@@ -2677,7 +2677,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-71-169",
-    "questionText": "The symbol  ₋₁⁰X used to represent which of the particles? (JAMB 2015)",
+    "questionText": "The symbol  ₋₁⁰X used to represent which of the particles?",
     "options": [
       "Proton",
       "Neutron",
@@ -2689,7 +2689,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-72-359",
-    "questionText": "The statement 'Heat lost by the hot body equals that gained by the cold one' is assumed when determining specific that heat capacity by the method of mixtures. Which of the following validates the assumption?\nI. Lagging the Calorimeter\nII. Ensuring that only S.I units are used\nIII. Weighing the calorimeter, the lid and the stirrer. (JAMB 2019)",
+    "questionText": "The statement 'Heat lost by the hot body equals that gained by the cold one' is assumed when determining specific that heat capacity by the method of mixtures. Which of the following validates the assumption?\nI. Lagging the Calorimeter\nII. Ensuring that only S.I units are used\nIII. Weighing the calorimeter, the lid and the stirrer.",
     "options": [
       "I only",
       "I & II only",
@@ -2701,7 +2701,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-73-494",
-    "questionText": "A train of mass 1600 kg attains a speed of 25 ms⁻¹ in 20 seconds. The power developed in the engine is? (JAMB 2022)",
+    "questionText": "A train of mass 1600 kg attains a speed of 25 ms⁻¹ in 20 seconds. The power developed in the engine is?",
     "options": [
       "2.5 KW",
       "80 KW",
@@ -2713,7 +2713,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-74-795",
-    "questionText": "Two long parallel wires X and Y carry currents 3A and 5A each. If the force experienced by unit length is 5 × 10⁻⁵N, the force per unit length experienced by wire Y is (JAMB 2007)",
+    "questionText": "Two long parallel wires X and Y carry currents 3A and 5A each. If the force experienced by unit length is 5 × 10⁻⁵N, the force per unit length experienced by wire Y is",
     "options": [
       "3 × 10⁻⁵ N/m",
       "3 × 10⁻⁶ N/m",
@@ -2725,7 +2725,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-75-31",
-    "questionText": "A 500kg car was initially at rest travelled with an acceleration of 5ms-2, what is its kinetic energy after 4s  (JAMB 2007)",
+    "questionText": "A 500kg car was initially at rest travelled with an acceleration of 5ms-2, what is its kinetic energy after 4s",
     "options": [
       "2.5 x 103J",
       "105J",
@@ -2737,7 +2737,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-76-77",
-    "questionText": "  A gas at constant pressure of 4.0 x 105 Pa is cooled so that its volume decreases from 1.6m3 to 1.2m3. What work is performed by the gas?  (JAMB 2010)",
+    "questionText": "  A gas at constant pressure of 4.0 x 105 Pa is cooled so that its volume decreases from 1.6m3 to 1.2m3. What work is performed by the gas?",
     "options": [
       "6.4 x 105 J",
       "3.2 x 105 J",
@@ -2749,7 +2749,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-77-94",
-    "questionText": "When a 2kg body is at a height 5m above the floor, its velocity  is 4m/s. What is its total energy  at this height? (acceleration due to gravity = 10m/s2)   (JAMB 2011)",
+    "questionText": "When a 2kg body is at a height 5m above the floor, its velocity  is 4m/s. What is its total energy  at this height? (acceleration due to gravity = 10m/s2)",
     "options": [
       "80J",
       "00J",
@@ -2761,7 +2761,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-78-1156",
-    "questionText": "A well-lagged thin metal rod of length 0.2 m has a temperature gradient of 416 K m⁻¹. If one end is at 233 °C, what is the temperature at the other end? (JAMB 2025)",
+    "questionText": "A well-lagged thin metal rod of length 0.2 m has a temperature gradient of 416 K m⁻¹. If one end is at 233 °C, what is the temperature at the other end?",
     "options": [
       "141.20 °C",
       "257.48 °C",
@@ -2773,7 +2773,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-79-198",
-    "questionText": "A saturated vapour pressure of a liquid increases when the (JAMB 2016)",
+    "questionText": "A saturated vapour pressure of a liquid increases when the",
     "options": [
       "Temperature of a liquid increases",
       "Volume of the liquid increases",
@@ -2785,7 +2785,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-80-1049",
-    "questionText": "Calculate the work done when a force of 20N stretches a spring by 50mm. (JAMB 2013)",
+    "questionText": "Calculate the work done when a force of 20N stretches a spring by 50mm.",
     "options": [
       "0.5J",
       "1.5J",
@@ -2797,7 +2797,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898317-81-541",
-    "questionText": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00°C, how long does it take the sound to reach the ground? [velocity of sound at 0°C = 331 ms⁻¹] (JAMB 2023)",
+    "questionText": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00°C, how long does it take the sound to reach the ground? [velocity of sound at 0°C = 331 ms⁻¹]",
     "options": [
       "0.94s",
       "0.96s",
@@ -2809,7 +2809,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-82-951",
-    "questionText": "Two balls X and Y weighing 5 g and 50 kg respectively were thrown up vertically at the same time with a velocity of 100 ms⁻¹. How will their positions be one second later? (JAMB 2011)",
+    "questionText": "Two balls X and Y weighing 5 g and 50 kg respectively were thrown up vertically at the same time with a velocity of 100 ms⁻¹. How will their positions be one second later?",
     "options": [
       "X and Y will be 500 m from each other",
       "Y will be 500 m ahead of X",
@@ -2821,7 +2821,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-83-168",
-    "questionText": "The optical instrument which is suitable for viewing a nearby objects is ………..? (JAMB 2015)",
+    "questionText": "The optical instrument which is suitable for viewing a nearby objects is ………..?",
     "options": [
       "Telescope",
       "sextant",
@@ -2833,7 +2833,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-84-742",
-    "questionText": "In a gas experiment, if the volume of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is (JAMB 2006)",
+    "questionText": "In a gas experiment, if the volume of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is",
     "options": [
       "force",
       "temperature",
@@ -2845,7 +2845,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-85-1129",
-    "questionText": "Some of the features of the human eye that greatly help to refract light entering the eyes are (JAMB 2025)",
+    "questionText": "Some of the features of the human eye that greatly help to refract light entering the eyes are",
     "options": [
       "cornea and lens",
       "cornea and aqueous humor",
@@ -2857,7 +2857,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-86-577",
-    "questionText": "The energy of light of frequency 2.0 x 10¹⁵Hz is (h = 6.63 x 10⁻³⁴Js) (JAMB 2024)",
+    "questionText": "The energy of light of frequency 2.0 x 10¹⁵Hz is (h = 6.63 x 10⁻³⁴Js)",
     "options": [
       ". 3.33 x 10⁻¹⁸J",
       "1.33 x 10⁻¹⁸J",
@@ -2869,7 +2869,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-87-268",
-    "questionText": "If silicon is doped with phosphorus, what type of semiconductor material will be formed? (JAMB 2017)",
+    "questionText": "If silicon is doped with phosphorus, what type of semiconductor material will be formed?",
     "options": [
       "Zener material",
       "P-n junction",
@@ -2881,7 +2881,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-88-584",
-    "questionText": "The process of adding impurities to a semiconductor material to increase its conductivity is  (JAMB 2024)",
+    "questionText": "The process of adding impurities to a semiconductor material to increase its conductivity is",
     "options": [
       "Rectification",
       "Emission",
@@ -2893,7 +2893,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-89-906",
-    "questionText": "In a hydraulic press, the pump piston exerts a pressure of 100 pa on the liquid. what force is exerted in the second piston of cross sectional area 3 m2? (JAMB 2010)",
+    "questionText": "In a hydraulic press, the pump piston exerts a pressure of 100 pa on the liquid. what force is exerted in the second piston of cross sectional area 3 m2?",
     "options": [
       "300 N",
       "200 N",
@@ -2905,7 +2905,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-90-1124",
-    "questionText": "The graphical representation of the pressure law is always a straight line passing through the origin, only if the temperature scale is (JAMB 2025)",
+    "questionText": "The graphical representation of the pressure law is always a straight line passing through the origin, only if the temperature scale is",
     "options": [
       "Rankine",
       "Celsius",
@@ -2917,7 +2917,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-91-739",
-    "questionText": "The diagram above represents the stress-strain graph for a typical metal rod. What does the X represent? (JAMB 2006)",
+    "questionText": "The diagram above represents the stress-strain graph for a typical metal rod. What does the X represent?",
     "options": [
       "Breaking point",
       "Yield point",
@@ -2929,7 +2929,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-92-121",
-    "questionText": "Which of the following quantities is equal to the area under a velocity-time graph? (JAMB 2012)",
+    "questionText": "Which of the following quantities is equal to the area under a velocity-time graph?",
     "options": [
       "Acceleration",
       "Distance travelled",
@@ -2941,7 +2941,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-93-81",
-    "questionText": "The superposition of two or more waves to produce a maximum or zero effect at a point is known as:  (JAMB 2010)",
+    "questionText": "The superposition of two or more waves to produce a maximum or zero effect at a point is known as:",
     "options": [
       "reflection",
       "refraction",
@@ -2953,7 +2953,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-94-605",
-    "questionText": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30° deflection. The sensitivity of the instrument is (JAMB 2004)",
+    "questionText": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30° deflection. The sensitivity of the instrument is",
     "options": [
       "33.00",
       "0.1",
@@ -2965,7 +2965,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-95-813",
-    "questionText": "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock? (JAMB 2008)",
+    "questionText": "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock?",
     "options": [
       "the clock gians time",
       "the accuracy of the clock is not affected",
@@ -2977,7 +2977,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-96-495",
-    "questionText": "The main factor which affects the speed of sound wave is the? (JAMB 2022)",
+    "questionText": "The main factor which affects the speed of sound wave is the?",
     "options": [
       "properties of the medium",
       "amplitude of the sound wave",
@@ -2989,7 +2989,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-97-407",
-    "questionText": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 10cm³ at 0°C, what will be its volume at 100°C? (JAMB 2020)",
+    "questionText": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 10cm³ at 0°C, what will be its volume at 100°C?",
     "options": [
       "10.06 cm³",
       "10.04 cm³",
@@ -3001,7 +3001,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-98-798",
-    "questionText": "A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days? (JAMB 2007)",
+    "questionText": "A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days?",
     "options": [
       "1/32",
       "1/16",
@@ -3013,7 +3013,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-99-440",
-    "questionText": "A lead bullet of mass 0.05kg is fired with a velocity of 200ms⁻¹ into a block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is? (JAMB 2021)",
+    "questionText": "A lead bullet of mass 0.05kg is fired with a velocity of 200ms⁻¹ into a block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is?",
     "options": [
       "50J",
       "100J",
@@ -3025,7 +3025,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-100-991",
-    "questionText": "The correct expression for the potential at a point distance r from a charge q in an electric field is? (JAMB 2011)",
+    "questionText": "The correct expression for the potential at a point distance r from a charge q in an electric field is?",
     "options": [
       "q²/(4πε₀r²)",
       "q²/(4πε₀r)",
@@ -3037,7 +3037,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-101-304",
-    "questionText": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30V and 40V respectively. What is the voltage across the capacitor? (JAMB 2018)",
+    "questionText": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30V and 40V respectively. What is the voltage across the capacitor?",
     "options": [
       "30V",
       "70V",
@@ -3049,7 +3049,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-102-870",
-    "questionText": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance? (JAMB 2009)",
+    "questionText": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
     "options": [
       "10 cm in front of the mirror.",
       "5 cm in front of the mirror",
@@ -3061,7 +3061,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-103-215",
-    "questionText": "Which of the following statements about wave motion is correct? (JAMB 2016)",
+    "questionText": "Which of the following statements about wave motion is correct?",
     "options": [
       "Electromagnetic waves are transverse",
       "Transverse waves do not require a medium for propagation",
@@ -3073,7 +3073,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-104-36",
-    "questionText": "The speed of light in air is 3 x 108ms-1. If the refractive index of light from air to water is 4/3, calculate the speed of light in water  (JAMB 2007)",
+    "questionText": "The speed of light in air is 3 x 108ms-1. If the refractive index of light from air to water is 4/3, calculate the speed of light in water",
     "options": [
       "2.25 x 108ms-2",
       "2.25ms-1",
@@ -3085,7 +3085,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-105-404",
-    "questionText": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms -1, how much closer is the ship to the cliff? (JAMB 2020)",
+    "questionText": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms -1, how much closer is the ship to the cliff?",
     "options": [
       "10m",
       "350m",
@@ -3097,7 +3097,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-106-1076",
-    "questionText": "Induced emfs are best explained using (JAMB 2013)",
+    "questionText": "Induced emfs are best explained using",
     "options": [
       "Ohm's law",
       "Faraday's law",
@@ -3109,7 +3109,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-107-1051",
-    "questionText": "Calculate the length which corresponds to a temperature of 20°C if the ice and steam points of an ungraduated thermometer are 400 mm apart (JAMB 2013)",
+    "questionText": "Calculate the length which corresponds to a temperature of 20°C if the ice and steam points of an ungraduated thermometer are 400 mm apart",
     "options": [
       "20 mm",
       "30 mm",
@@ -3121,7 +3121,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-108-377",
-    "questionText": "Three resistors with resistance 200Ω, 500Ω and 1kΩ are connected in series. A 6v battery is connected to either end of the combination. Calculate the potential difference between the ends of 200Ω resistance. (JAMB 2019)",
+    "questionText": "Three resistors with resistance 200Ω, 500Ω and 1kΩ are connected in series. A 6v battery is connected to either end of the combination. Calculate the potential difference between the ends of 200Ω resistance.",
     "options": [
       "0.71V",
       "0.7V",
@@ -3133,7 +3133,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-109-59",
-    "questionText": "Which of the following instruments has a pure tone?  (JAMB 2009)",
+    "questionText": "Which of the following instruments has a pure tone?",
     "options": [
       "guitar",
       "Vibrating String",
@@ -3145,7 +3145,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-110-292",
-    "questionText": "The electrochemical equivalent of silver is 0.0012g/C. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5mins, the current must be? (JAMB 2018)",
+    "questionText": "The electrochemical equivalent of silver is 0.0012g/C. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5mins, the current must be?",
     "options": [
       "6000A",
       "100A",
@@ -3157,7 +3157,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-111-205",
-    "questionText": "Which of the following waves is both transverse and mechanical? (JAMB 2016)",
+    "questionText": "Which of the following waves is both transverse and mechanical?",
     "options": [
       "Water waves",
       "Radio waves",
@@ -3169,7 +3169,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-112-223",
-    "questionText": "In the diagram above, the neutral point is at (JAMB 2016)",
+    "questionText": "In the diagram above, the neutral point is at",
     "options": [
       "R",
       "X",
@@ -3181,7 +3181,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-113-834",
-    "questionText": "When a pure semiconductor is heated, its resistance? (JAMB 2008)",
+    "questionText": "When a pure semiconductor is heated, its resistance?",
     "options": [
       "increases",
       "decreases",
@@ -3193,7 +3193,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-114-366",
-    "questionText": "A force of 6N acts horizontally on a stationary mass of 2kg for 4s. The kinetic energy gained by the mass is _________ (JAMB 2019)",
+    "questionText": "A force of 6N acts horizontally on a stationary mass of 2kg for 4s. The kinetic energy gained by the mass is _________",
     "options": [
       "366j",
       "240j",
@@ -3205,7 +3205,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-115-311",
-    "questionText": "The differences observed in solids, liquids and gases may be accounted for by (JAMB 2018)",
+    "questionText": "The differences observed in solids, liquids and gases may be accounted for by",
     "options": [
       "their relative masses",
       "their melting points",
@@ -3217,7 +3217,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-116-1016",
-    "questionText": "Calculate the temperature change when 500 J of heat is supplied to 100 g of water.\n[specific heat capacity of water = 4200 J kg⁻¹ K⁻¹] (JAMB 2012)",
+    "questionText": "Calculate the temperature change when 500 J of heat is supplied to 100 g of water.\n[specific heat capacity of water = 4200 J kg⁻¹ K⁻¹]",
     "options": [
       "12.1 °C",
       "2.1 °C",
@@ -3229,7 +3229,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-117-298",
-    "questionText": "In the diagram given if the atmospheric pressure is 760mm, the pressure in the chamber G Is (JAMB 2018)",
+    "questionText": "In the diagram given if the atmospheric pressure is 760mm, the pressure in the chamber G Is",
     "options": [
       "660mm",
       "830mm",
@@ -3241,7 +3241,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-118-574",
-    "questionText": "Which of the following is not a part of model rocket? (JAMB 2024)",
+    "questionText": "Which of the following is not a part of model rocket?",
     "options": [
       "The body tube",
       "The nose cones",
@@ -3253,7 +3253,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-119-945",
-    "questionText": "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives? (JAMB 2010)",
+    "questionText": "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives?",
     "options": [
       "the energy released",
       "the electrochemical equivalent",
@@ -3265,7 +3265,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-120-1136",
-    "questionText": "The gravitational pull between two bodies is 20N. Find the gravitational pull when their distance of separation is doubled. (JAMB 2025)",
+    "questionText": "The gravitational pull between two bodies is 20N. Find the gravitational pull when their distance of separation is doubled.",
     "options": [
       "10N",
       "5N",
@@ -3277,7 +3277,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-121-374",
-    "questionText": "Gases conduct electricity under (JAMB 2019)",
+    "questionText": "Gases conduct electricity under",
     "options": [
       "high pressure & high voltage",
       "low pressure & low voltage",
@@ -3289,7 +3289,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-122-181",
-    "questionText": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will (JAMB 2016)",
+    "questionText": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will",
     "options": [
       "Be a straight line",
       "Curve inwards",
@@ -3301,7 +3301,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-123-1096",
-    "questionText": "The equation PᵃVᵇTᶜ = constant reduces to Charles' Law if (JAMB 2014)",
+    "questionText": "The equation PᵃVᵇTᶜ = constant reduces to Charles' Law if",
     "options": [
       "a=1, b=1, c=0",
       "a=1, b=0, c=-1",
@@ -3313,7 +3313,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-124-1125",
-    "questionText": "According to the kinetic theory of gases, the pressure exerted by a gas on the walls equals.  (JAMB 2025)",
+    "questionText": "According to the kinetic theory of gases, the pressure exerted by a gas on the walls equals.",
     "options": [
       "Momentum imparted to the walls per unit area.",
       "Change in momentum per unit volume.",
@@ -3325,7 +3325,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-125-1062",
-    "questionText": "If a sonometer has a fundamental frequency of 450HZ, what is the frequency of the fifth overtone? (JAMB 2013)",
+    "questionText": "If a sonometer has a fundamental frequency of 450HZ, what is the frequency of the fifth overtone?",
     "options": [
       "2700Hz",
       "456Hz",
@@ -3337,7 +3337,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-126-146",
-    "questionText": "Primary colours of light are (JAMB 2015)",
+    "questionText": "Primary colours of light are",
     "options": [
       "Red, blue and green",
       "Cyan, magneta and yellow",
@@ -3349,7 +3349,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-127-965",
-    "questionText": "A perfect emitter or absorber of radiant energy is a? (JAMB 2011)",
+    "questionText": "A perfect emitter or absorber of radiant energy is a?",
     "options": [
       "conductor",
       "black body",
@@ -3361,7 +3361,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-128-438",
-    "questionText": "Two bodies have masses in the ratio 3:1. They experience forces which impart to them, acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced (JAMB 2021)",
+    "questionText": "Two bodies have masses in the ratio 3:1. They experience forces which impart to them, acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced",
     "options": [
       "1:04",
       "2:01",
@@ -3373,7 +3373,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-129-810",
-    "questionText": "When cold water is poured on a can containing hot water, the can collapses because the? (JAMB 2008)",
+    "questionText": "When cold water is poured on a can containing hot water, the can collapses because the?",
     "options": [
       "steam condeses and occupies the partial vacuum in the can",
       "external air pressure counter balances the pressure within the can",
@@ -3385,7 +3385,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-130-1097",
-    "questionText": "The quantity of heat needed to raise the temperature of a body by 1K is the body's (JAMB 2014)",
+    "questionText": "The quantity of heat needed to raise the temperature of a body by 1K is the body's",
     "options": [
       "Heat capacity",
       "Internal energy",
@@ -3397,7 +3397,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-131-1132",
-    "questionText": "\nI. The colour of light depends on its frequency\nII. When white light is dispersed by a triangular prism, yellow is deviated more than green\nIII. Rainbows are formed when rains fall heavily\nWhich of the above statements is/are correct about dispersion and colours? (JAMB 2025)",
+    "questionText": "\nI. The colour of light depends on its frequency\nII. When white light is dispersed by a triangular prism, yellow is deviated more than green\nIII. Rainbows are formed when rains fall heavily\nWhich of the above statements is/are correct about dispersion and colours?",
     "options": [
       "I and III only",
       "I only",
@@ -3409,7 +3409,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-132-405",
-    "questionText": "Which of the following statements about defects of vision is/are CORRECT? \n\nI. For a long sighted person, close objects appear blurred\n\nII. For a short sighted person, distant objects appear blurred \n\nIII. Short sight is corrected by using a pair of converging lenses  (JAMB 2020)",
+    "questionText": "Which of the following statements about defects of vision is/are CORRECT? \n\nI. For a long sighted person, close objects appear blurred\n\nII. For a short sighted person, distant objects appear blurred \n\nIII. Short sight is corrected by using a pair of converging lenses",
     "options": [
       "I only",
       "II only",
@@ -3421,7 +3421,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-133-35",
-    "questionText": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell (JAMB 2007)",
+    "questionText": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell",
     "options": [
       "3.5V",
       "2.5V",
@@ -3433,7 +3433,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-134-856",
-    "questionText": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal, its velocity ratio will be? (JAMB 2009)",
+    "questionText": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal, its velocity ratio will be?",
     "options": [
       "3.0",
       "3.1",
@@ -3445,7 +3445,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-135-144",
-    "questionText": "Calculate the gravitation force of attraction between two planets of 10²⁴ kg and 10²⁷kg separated by a distance of 10²⁰\nmeters (JAMB 2015)",
+    "questionText": "Calculate the gravitation force of attraction between two planets of 10²⁴ kg and 10²⁷kg separated by a distance of 10²⁰\nmeters",
     "options": [
       "6.67N",
       "6.56N",
@@ -3457,7 +3457,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-136-1017",
-    "questionText": "Which of the following is NOT a factor that can increase the rate of evaporation of water in a lake? (JAMB 2012)",
+    "questionText": "Which of the following is NOT a factor that can increase the rate of evaporation of water in a lake?",
     "options": [
       "increase in the pressure of the atmosphere",
       "rise in temperature",
@@ -3469,7 +3469,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-137-647",
-    "questionText": "Calculate the angle of minimum deviation for a ray which is refracted through an equiangular prism of refractive index 1.4 (JAMB 2004)",
+    "questionText": "Calculate the angle of minimum deviation for a ray which is refracted through an equiangular prism of refractive index 1.4",
     "options": [
       "60°",
       "29°",
@@ -3481,7 +3481,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-138-129",
-    "questionText": "To convert an a.c generator to d.c generator, one needs to  (JAMB 2012)",
+    "questionText": "To convert an a.c generator to d.c generator, one needs to",
     "options": [
       "Remove the brush touching the slip rings",
       "Laminate the armature",
@@ -3493,7 +3493,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-139-724",
-    "questionText": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 eV. Calculate the frequency of the photon. [e = 1.6 × 10⁻¹⁹C; h = 6.6 × 10⁻³⁴Js] (JAMB 2006)",
+    "questionText": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 eV. Calculate the frequency of the photon. [e = 1.6 × 10⁻¹⁹C; h = 6.6 × 10⁻³⁴Js]",
     "options": [
       "1.3 × 10⁻¹⁵ Hz",
       "3.1 × 10⁵² Hz",
@@ -3505,7 +3505,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-140-891",
-    "questionText": "The wave phenomenon demonstrated in the diagram above is? (JAMB 2009)",
+    "questionText": "The wave phenomenon demonstrated in the diagram above is?",
     "options": [
       "reflection",
       "deflection",
@@ -3517,7 +3517,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-141-460",
-    "questionText": "Which of these is a derived unit? (JAMB 2022)",
+    "questionText": "Which of these is a derived unit?",
     "options": [
       "Kilogram",
       "Metre",
@@ -3529,7 +3529,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-142-518",
-    "questionText": "An air bubble of radius 4.5 cm initially at a depth of 12 m below the water surface rises to the surface. If the atmospheric pressure is equal to 10.34 m of water, the radius of the bubble just before it reaches the water surface is (JAMB 2023)",
+    "questionText": "An air bubble of radius 4.5 cm initially at a depth of 12 m below the water surface rises to the surface. If the atmospheric pressure is equal to 10.34 m of water, the radius of the bubble just before it reaches the water surface is",
     "options": [
       "6.43 cm",
       "8.24 cm",
@@ -3541,7 +3541,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-143-67",
-    "questionText": "Which of the following phenomena cannot be explained by the molecular theory of matter?  (JAMB 2010)",
+    "questionText": "Which of the following phenomena cannot be explained by the molecular theory of matter?",
     "options": [
       "evaporation",
       "expansion",
@@ -3553,7 +3553,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-144-975",
-    "questionText": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant? (JAMB 2011)",
+    "questionText": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant?",
     "options": [
       "0.3",
       "6.0",
@@ -3565,7 +3565,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-145-44",
-    "questionText": "If two masses 40g and 60g respectively, are attached firmly to end of a light metre rule, what is the centre of gravity of the system?  (JAMB 2009)",
+    "questionText": "If two masses 40g and 60g respectively, are attached firmly to end of a light metre rule, what is the centre of gravity of the system?",
     "options": [
       "at the mid point of the metre rule",
       "40cm from the lighter mass",
@@ -3577,7 +3577,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-146-150",
-    "questionText": "Convert 45°C to kelvin (JAMB 2015)",
+    "questionText": "Convert 45°C to kelvin",
     "options": [
       "318K",
       "250K",
@@ -3589,7 +3589,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-147-163",
-    "questionText": "If the velocity ratio of a machine is 5. What is its ratio of x and y? (JAMB 2015)",
+    "questionText": "If the velocity ratio of a machine is 5. What is its ratio of x and y?",
     "options": [
       "2:05",
       "1:05",
@@ -3601,7 +3601,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-148-859",
-    "questionText": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is? (JAMB 2009)",
+    "questionText": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is?",
     "options": [
       "1400 kg m⁻³",
       "1250 kg m⁻³",
@@ -3613,7 +3613,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-149-331",
-    "questionText": "If a body moves with a constant speed and at the same time undergoes an acceleration, its motion is said to be (JAMB 2019)",
+    "questionText": "If a body moves with a constant speed and at the same time undergoes an acceleration, its motion is said to be",
     "options": [
       "oscillation",
       "circular",
@@ -3625,7 +3625,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-150-940",
-    "questionText": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow. (JAMB 2010)",
+    "questionText": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow.",
     "options": [
       "5 A",
       "4 A",
@@ -3637,7 +3637,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-151-736",
-    "questionText": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is? (JAMB 2006)",
+    "questionText": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is?",
     "options": [
       "33 cm",
       "44 cm",
@@ -3649,7 +3649,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-152-199",
-    "questionText": "What force has to be exerted on a mass 60kg to give it an acceleration of 10ms-2 vertically upwards?\n[g = 10ms-2 (JAMB 2016)",
+    "questionText": "What force has to be exerted on a mass 60kg to give it an acceleration of 10ms-2 vertically upwards?\n[g = 10ms-2",
     "options": [
       "300N",
       "600N",
@@ -3661,7 +3661,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-153-274",
-    "questionText": "The velocity ratio of an inclined plane where angle of inclination in θ is (JAMB 2017)",
+    "questionText": "The velocity ratio of an inclined plane where angle of inclination in θ is",
     "options": [
       "Sinθ",
       "Cosθ",
@@ -3673,7 +3673,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-154-270",
-    "questionText": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh? (JAMB 2017)",
+    "questionText": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh?",
     "options": [
       "N80.00",
       "N45.36",
@@ -3685,7 +3685,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-155-622",
-    "questionText": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is (JAMB 2004)",
+    "questionText": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is",
     "options": [
       "144J",
       "162J",
@@ -3697,7 +3697,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-156-130",
-    "questionText": "If the volume of a gas is recorded as 76cm³ at a temperature of 27°C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P? (JAMB 2015)",
+    "questionText": "If the volume of a gas is recorded as 76cm³ at a temperature of 27°C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P?",
     "options": [
       "36.2cm³",
       "25.7cm³",
@@ -3709,7 +3709,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-157-355",
-    "questionText": "A thermocouple thermometer is connected to a millivoltmeter which can read up to 10mV. When one junction is in ice at 0°C and the other is in steam at 100°C, the millivoltmeter reads 4mV. What is the maximum temperature which this arrangement can measure? (JAMB 2019)",
+    "questionText": "A thermocouple thermometer is connected to a millivoltmeter which can read up to 10mV. When one junction is in ice at 0°C and the other is in steam at 100°C, the millivoltmeter reads 4mV. What is the maximum temperature which this arrangement can measure?",
     "options": [
       "100°C",
       "248°C",
@@ -3721,7 +3721,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-158-917",
-    "questionText": "The wavelength of a wave traveling with a velocity of 420 ms⁻¹ is 42 m. What is its period? (JAMB 2010)",
+    "questionText": "The wavelength of a wave traveling with a velocity of 420 ms⁻¹ is 42 m. What is its period?",
     "options": [
       "1.2 s",
       "1.0 s",
@@ -3733,7 +3733,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-159-1138",
-    "questionText": "For a gas, which pair of variables is inversely proportional to each other (provided other conditions are constant), where P = pressure, T = temperature, V = volume, and n = number of molecules? (JAMB 2025)",
+    "questionText": "For a gas, which pair of variables is inversely proportional to each other (provided other conditions are constant), where P = pressure, T = temperature, V = volume, and n = number of molecules?",
     "options": [
       "P, T",
       "P, V",
@@ -3745,7 +3745,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-160-434",
-    "questionText": "If the frequency of an emitted x-ray is 1.6 × 10¹⁶ Hz, the accelerating potential is?\n[e = 1.6 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ Js] (JAMB 2021)",
+    "questionText": "If the frequency of an emitted x-ray is 1.6 × 10¹⁶ Hz, the accelerating potential is?\n[e = 1.6 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ Js]",
     "options": [
       "6630.0V",
       "663.0V",
@@ -3757,7 +3757,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-161-792",
-    "questionText": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is (JAMB 2007)",
+    "questionText": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is",
     "options": [
       "2.55 × 10⁵ Ωm",
       "2.55 × 10³ Ωm",
@@ -3769,7 +3769,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-162-490",
-    "questionText": "The amount of energy required to change a kilogram of ice block into water without a change in temperature is? (JAMB 2022)",
+    "questionText": "The amount of energy required to change a kilogram of ice block into water without a change in temperature is?",
     "options": [
       "specific latent heat of fusion of ice",
       "specific heat capacity of ice",
@@ -3781,7 +3781,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-163-931",
-    "questionText": "The ground state energy for the hydrogen atom is 5.44 × 10⁻¹⁹ J. If an electron drops from zero energy to the ground state, calculate the frequency of the emitted radiation. [h = 6.6 × 10⁻³⁴ Js] (JAMB 2010)",
+    "questionText": "The ground state energy for the hydrogen atom is 5.44 × 10⁻¹⁹ J. If an electron drops from zero energy to the ground state, calculate the frequency of the emitted radiation. [h = 6.6 × 10⁻³⁴ Js]",
     "options": [
       "8.24 × 10¹⁴ Hz",
       "3.59 × 10⁻⁵³ Hz",
@@ -3793,7 +3793,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-164-95",
-    "questionText": "The density of sea water is 1030kg/m3. What is the pressure at a depth of  80 m below sea surface? Atmospheric pressure is 1.013 x 105 pa and acceleration  due to gravity is 10 m/s2   (JAMB 2011)",
+    "questionText": "The density of sea water is 1030kg/m3. What is the pressure at a depth of  80 m below sea surface? Atmospheric pressure is 1.013 x 105 pa and acceleration  due to gravity is 10 m/s2",
     "options": [
       "9.25 x 105 pa",
       "8.24 105 pa",
@@ -3805,7 +3805,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-165-410",
-    "questionText": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is P₁ while the pressure on H is P₂. If the atmospheric pressure is equivalent to 10m of water, then the value of P₂/P₁ is? (JAMB 2020)",
+    "questionText": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is P₁ while the pressure on H is P₂. If the atmospheric pressure is equivalent to 10m of water, then the value of P₂/P₁ is?",
     "options": [
       "0.5",
       "0.6",
@@ -3817,7 +3817,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-166-718",
-    "questionText": "The motion of smoke particles from a chimney is typical of? (JAMB 2006)",
+    "questionText": "The motion of smoke particles from a chimney is typical of?",
     "options": [
       "random motion",
       "circular motion",
@@ -3829,7 +3829,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-167-929",
-    "questionText": "In alternating current circuit at resonance, the angle of lead or lag is? (JAMB 2010)",
+    "questionText": "In alternating current circuit at resonance, the angle of lead or lag is?",
     "options": [
       "π°",
       "(π)/2°",
@@ -3841,7 +3841,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-168-567",
-    "questionText": "In a solar panel, solar beam is concentrated by using  (JAMB 2024)",
+    "questionText": "In a solar panel, solar beam is concentrated by using",
     "options": [
       "Concave mirror",
       "Convex mirror",
@@ -3853,7 +3853,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-169-753",
-    "questionText": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them? [G = 6.67 × 10⁻¹¹ Nm² Kg⁻²] (JAMB 2007)",
+    "questionText": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them? [G = 6.67 × 10⁻¹¹ Nm² Kg⁻²]",
     "options": [
       "3.50 × 10⁻¹⁰ N",
       "3.71 × 10⁻⁸ N",
@@ -3865,7 +3865,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-170-970",
-    "questionText": "Steam burn is more severe than that of boiling water because (JAMB 2011)",
+    "questionText": "Steam burn is more severe than that of boiling water because",
     "options": [
       "steam burn is independent of relative humidity",
       "steam possesses greater heat energy per unit mass",
@@ -3877,7 +3877,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-171-451",
-    "questionText": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss (specific heat capacity of copper = 400 Jkg⁻¹K⁻¹, latent heat of fusion of ice = 3.3 × 10⁵ Jkg⁻¹) (JAMB 2021)",
+    "questionText": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss (specific heat capacity of copper = 400 Jkg⁻¹K⁻¹, latent heat of fusion of ice = 3.3 × 10⁵ Jkg⁻¹)",
     "options": [
       "8/33 kg",
       "3.380 kg",
@@ -3889,7 +3889,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-172-190",
-    "questionText": "A wire of length 10m is cooled from 50oC to 10oC. Calculate the decrease in the length of the wire. [c = 3 x 10-5K-1] (JAMB 2016)",
+    "questionText": "A wire of length 10m is cooled from 50oC to 10oC. Calculate the decrease in the length of the wire. [c = 3 x 10-5K-1]",
     "options": [
       "1.8 x 10⁻⁴ m",
       "1.5 x 10⁻⁴ m",
@@ -3901,7 +3901,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-173-1065",
-    "questionText": "Total internal reflection will not occur when light travels from (JAMB 2013)",
+    "questionText": "Total internal reflection will not occur when light travels from",
     "options": [
       "water to air",
       "water into glass",
@@ -3913,7 +3913,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-174-136",
-    "questionText": "Body floats in fluid when its ………………… (JAMB 2015)",
+    "questionText": "Body floats in fluid when its …………………",
     "options": [
       "Displaces its own volume of the liquid (fluid)",
       "Displaces its own weight of the fluid",
@@ -3925,7 +3925,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-175-771",
-    "questionText": "The energy E of a photon and its wavelength are related by Eλ = X. The numerical value of X is? [h = 6.63 × 10⁻³⁴ Js, c = 3 × 10⁸ ms⁻¹] (JAMB 2007)",
+    "questionText": "The energy E of a photon and its wavelength are related by Eλ = X. The numerical value of X is? [h = 6.63 × 10⁻³⁴ Js, c = 3 × 10⁸ ms⁻¹]",
     "options": [
       "6.6 × 10⁻²⁸",
       "1.99 × 10⁻²⁷",
@@ -3937,7 +3937,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-176-532",
-    "questionText": "A 35 kΩ is connected in series with a resistance of 40 kΩ. What resistance R must be connected in parallel with the combination so that the equivalent resistance is equal to 25 kΩ? (JAMB 2023)",
+    "questionText": "A 35 kΩ is connected in series with a resistance of 40 kΩ. What resistance R must be connected in parallel with the combination so that the equivalent resistance is equal to 25 kΩ?",
     "options": [
       "40 kΩ",
       "37.5 kΩ",
@@ -3949,7 +3949,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-177-54",
-    "questionText": "The height at which the atmosphere ceases to exist is about 80km, if the atmosphere pressure on the ground level is 760mmHg, the pressure at height of 20km above the ground is  (JAMB 2009)",
+    "questionText": "The height at which the atmosphere ceases to exist is about 80km, if the atmosphere pressure on the ground level is 760mmHg, the pressure at height of 20km above the ground is",
     "options": [
       "380mmHg",
       "570mmHg",
@@ -3961,7 +3961,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-178-624",
-    "questionText": "I. Jet propelled aircraft\nII. Rocket propulsion\nIII. The recoil of a gun\nIV. A person walking\nWhich of the above is based on Newton's third law of motion (JAMB 2004)",
+    "questionText": "I. Jet propelled aircraft\nII. Rocket propulsion\nIII. The recoil of a gun\nIV. A person walking\nWhich of the above is based on Newton's third law of motion",
     "options": [
       "I and II only",
       "I, II, III, and IV only",
@@ -3973,7 +3973,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-179-430",
-    "questionText": "A boy standing some distance from the foot of a tall cliff claps his hands and hears an echo 0.5s later. If the speed of sound is 340ms⁻¹, how far is he from the cliff? (JAMB 2021)",
+    "questionText": "A boy standing some distance from the foot of a tall cliff claps his hands and hears an echo 0.5s later. If the speed of sound is 340ms⁻¹, how far is he from the cliff?",
     "options": [
       "680m",
       "170m",
@@ -3985,7 +3985,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-180-253",
-    "questionText": "Which of the following is a scalar quantity? (JAMB 2017)",
+    "questionText": "Which of the following is a scalar quantity?",
     "options": [
       "Tension",
       "Weight",
@@ -3997,7 +3997,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-181-740",
-    "questionText": "In the diagram above, the pressure of the gas is (JAMB 2006)",
+    "questionText": "In the diagram above, the pressure of the gas is",
     "options": [
       "86 cm of mercury",
       "66 cm of mercury",
@@ -4009,7 +4009,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-182-681",
-    "questionText": "The resistance of a piece of wire of length 20 m and cross‑sectional area 8 × 10⁻⁶ m² is?\n[Resistivity of the wire = 4 × 10⁻⁷ Ω·m] (JAMB 2005)",
+    "questionText": "The resistance of a piece of wire of length 20 m and cross‑sectional area 8 × 10⁻⁶ m² is?\n[Resistivity of the wire = 4 × 10⁻⁷ Ω·m]",
     "options": [
       "5.0 Ω",
       "0.5 Ω",
@@ -4021,7 +4021,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-183-910",
-    "questionText": "The density of a certain oil on frying becomes 0.4 kgm⁻³ with the volume of 20m³. What will be its initial volume when its initial density is 0.8 kgm⁻³ assuming no loss of oil due to spillage? (JAMB 2010)",
+    "questionText": "The density of a certain oil on frying becomes 0.4 kgm⁻³ with the volume of 20m³. What will be its initial volume when its initial density is 0.8 kgm⁻³ assuming no loss of oil due to spillage?",
     "options": [
       "12 m³",
       "10 m³",
@@ -4033,7 +4033,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-184-1105",
-    "questionText": "In a compound microscope, the objective and the eye piece focal lengths are (JAMB 2014)",
+    "questionText": "In a compound microscope, the objective and the eye piece focal lengths are",
     "options": [
       "At infinity",
       "Long",
@@ -4045,7 +4045,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-185-698",
-    "questionText": "The amount of energy released when 0.5 kg of uranium is burnt completely is [c = 3 × 10⁸ m/s] (JAMB 2005)",
+    "questionText": "The amount of energy released when 0.5 kg of uranium is burnt completely is [c = 3 × 10⁸ m/s]",
     "options": [
       "1.5 × 10⁸ J",
       "4.5 × 10⁸ J",
@@ -4057,7 +4057,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-186-1094",
-    "questionText": "The small droplets of water that form on the grass in the early hours of the morning is (JAMB 2014)",
+    "questionText": "The small droplets of water that form on the grass in the early hours of the morning is",
     "options": [
       "Fog",
       "Haul",
@@ -4069,7 +4069,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-187-765",
-    "questionText": "The phenomenon of light bending round an obstacle is? (JAMB 2007)",
+    "questionText": "The phenomenon of light bending round an obstacle is?",
     "options": [
       "diffraction",
       "refraction",
@@ -4081,7 +4081,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-188-120",
-    "questionText": "A car accelerates at 5.0m/s2 for 6s, the travels at the speed attained for 20s, and comes to rest after another 4.0s. Calculate the average velocity of the car during the motion. (JAMB 2012)",
+    "questionText": "A car accelerates at 5.0m/s2 for 6s, the travels at the speed attained for 20s, and comes to rest after another 4.0s. Calculate the average velocity of the car during the motion.",
     "options": [
       "25.0m/s",
       "20.0m/s",
@@ -4093,7 +4093,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-189-613",
-    "questionText": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is (JAMB 2004)",
+    "questionText": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is",
     "options": [
       "9.6J",
       "2.4J",
@@ -4105,7 +4105,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-190-172",
-    "questionText": "Which of the following will increase the boiling point of water?\n\nI. Taking it to a high altitude\nII. Dissolving a salt into it\nIII. Heating it in a sealed flask\nIV. Increasing the rate of heat supply (JAMB 2015)",
+    "questionText": "Which of the following will increase the boiling point of water?\n\nI. Taking it to a high altitude\nII. Dissolving a salt into it\nIII. Heating it in a sealed flask\nIV. Increasing the rate of heat supply",
     "options": [
       "I only",
       "III & IV only",
@@ -4117,7 +4117,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-191-914",
-    "questionText": "A vapor is said to be saturated when? (JAMB 2010)",
+    "questionText": "A vapor is said to be saturated when?",
     "options": [
       "a dynamic equilibrium exists between liquid molecules and the vapour molecules",
       "a dynamic equilibrium exists such that more molecules return to the liquid than are leaving it",
@@ -4129,7 +4129,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-192-346",
-    "questionText": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected? (JAMB 2019)",
+    "questionText": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected?",
     "options": [
       "180°",
       "90°",
@@ -4141,7 +4141,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-193-1090",
-    "questionText": "The energy in the nucleus of atoms produce heat which can be used to generate (JAMB 2014)",
+    "questionText": "The energy in the nucleus of atoms produce heat which can be used to generate",
     "options": [
       "Kinetic energy",
       "Mechanical energy",
@@ -4153,7 +4153,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-194-572",
-    "questionText": "288KJ is conducted across two opposite faces of a 3m cube of temperature gradient 90°Cm⁻¹ in 7200s. Calculate the thermal conductivity. (JAMB 2024)",
+    "questionText": "288KJ is conducted across two opposite faces of a 3m cube of temperature gradient 90°Cm⁻¹ in 7200s. Calculate the thermal conductivity.",
     "options": [
       "4.9 x 10⁻²Wm⁻¹k⁻¹",
       "5.0 x 10⁻²Wm⁻¹k⁻¹",
@@ -4165,7 +4165,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-195-723",
-    "questionText": "Which of the statements about machines are true?\nI. Work done by load is always less than the work done by effort.\nII. All machines are made of levers, pulleys, screws and gear wheels.\nIII. A fishing rod is a machine.\nIV. Effort is always larger than load. (JAMB 2006)",
+    "questionText": "Which of the statements about machines are true?\nI. Work done by load is always less than the work done by effort.\nII. All machines are made of levers, pulleys, screws and gear wheels.\nIII. A fishing rod is a machine.\nIV. Effort is always larger than load.",
     "options": [
       "II and III",
       "III and IV",
@@ -4177,7 +4177,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-196-493",
-    "questionText": "What quantity of heat is required to convert 20 g of ice at 0 ºC to water at the same temperature? (Specific latent heat of ice = 336 Jg⁻¹) (JAMB 2022)",
+    "questionText": "What quantity of heat is required to convert 20 g of ice at 0 ºC to water at the same temperature? (Specific latent heat of ice = 336 Jg⁻¹)",
     "options": [
       "7.06 × 10³ J",
       "5.38 × 10³ J",
@@ -4189,7 +4189,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-197-776",
-    "questionText": "In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod? (JAMB 2007)",
+    "questionText": "In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod?",
     "options": [
       "40N",
       "80N",
@@ -4201,7 +4201,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-198-452",
-    "questionText": "The equation of a wave traveling along the positive x-direction is given by: y = 0.25 × 10⁻³ sin(500t - 0.025x). Determine the angular velocity of the wave motion. (JAMB 2021)",
+    "questionText": "The equation of a wave traveling along the positive x-direction is given by: y = 0.25 × 10⁻³ sin(500t - 0.025x). Determine the angular velocity of the wave motion.",
     "options": [
       "0.25 × 10⁻³ rad s⁻¹",
       "0.25 × 10⁻¹ rad s⁻¹",
@@ -4213,7 +4213,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-199-83",
-    "questionText": "Which of the following statements are correct of nuclear fission? During the process \nI. energy is released \nII. More neutrons are released than those that cause fission \nIII. Small nuclei merge into large nuclei \nIV. There is a loss on mass\n (JAMB 2010)",
+    "questionText": "Which of the following statements are correct of nuclear fission? During the process \nI. energy is released \nII. More neutrons are released than those that cause fission \nIII. Small nuclei merge into large nuclei \nIV. There is a loss on mass\n",
     "options": [
       "II and I only",
       "III",
@@ -4225,7 +4225,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-200-1128",
-    "questionText": "The thermometric property of mercury is best on the change in (JAMB 2025)",
+    "questionText": "The thermometric property of mercury is best on the change in",
     "options": [
       "density with temperature",
       "volume with temperature",
@@ -4237,7 +4237,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-201-475",
-    "questionText": "When the plate area of a capacitor increases? (JAMB 2022)",
+    "questionText": "When the plate area of a capacitor increases?",
     "options": [
       "the voltage can withstand increase",
       "the capacitance decreases",
@@ -4249,7 +4249,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-202-607",
-    "questionText": "In a reverse biased junction diode, current flows in by (JAMB 2004)",
+    "questionText": "In a reverse biased junction diode, current flows in by",
     "options": [
       "positive holes alone",
       "majority carriers",
@@ -4261,7 +4261,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-203-30",
-    "questionText": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when the temperature reads 60oc?  (JAMB 2007)",
+    "questionText": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when the temperature reads 60oc?",
     "options": [
       "136.omm",
       "33.3mm",
@@ -4273,7 +4273,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-204-309",
-    "questionText": "Electrical appliances in homes are normally earthed so that (JAMB 2018)",
+    "questionText": "Electrical appliances in homes are normally earthed so that",
     "options": [
       "a person touching the appliances is safe from electric shock",
       "Both the a.c. and d.c. sources can be used",
@@ -4285,7 +4285,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-205-703",
-    "questionText": "The thermometric property of a constant volume thermometer is? (JAMB 2006)",
+    "questionText": "The thermometric property of a constant volume thermometer is?",
     "options": [
       "change in volume",
       "differential expanssion",
@@ -4297,7 +4297,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898318-206-543",
-    "questionText": "The branch of physics that deals with the motion of objects and the forces acting on them is called: (JAMB 2023)",
+    "questionText": "The branch of physics that deals with the motion of objects and the forces acting on them is called:",
     "options": [
       "Electromagnetism",
       "Thermodynamics",
@@ -4309,7 +4309,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-207-486",
-    "questionText": "Which component of fiber-optic connector has a provision of entry for the fibre along with the fixation to connector housing? (JAMB 2022)",
+    "questionText": "Which component of fiber-optic connector has a provision of entry for the fibre along with the fixation to connector housing?",
     "options": [
       "coupling device",
       "cable",
@@ -4321,7 +4321,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-208-582",
-    "questionText": "If a body in linear motion changes from point P to Q, the motion is  (JAMB 2024)",
+    "questionText": "If a body in linear motion changes from point P to Q, the motion is",
     "options": [
       "Translational",
       "Rotational",
@@ -4333,7 +4333,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-209-132",
-    "questionText": "The direction of the path taken by light is called (JAMB 2015)",
+    "questionText": "The direction of the path taken by light is called",
     "options": [
       "Locus",
       "Lines",
@@ -4345,7 +4345,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-210-846",
-    "questionText": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is (JAMB 2008)",
+    "questionText": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is",
     "options": [
       "0.35mH",
       "3.50mH",
@@ -4357,7 +4357,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-211-949",
-    "questionText": "A wire of length 2.0 m and cross-sectional area 2.0 × 10⁻⁶ m² is stretched by 1.0 mm when a load of 100 N is applied. Calculate the Young's modulus of the material. (JAMB 2010)",
+    "questionText": "A wire of length 2.0 m and cross-sectional area 2.0 × 10⁻⁶ m² is stretched by 1.0 mm when a load of 100 N is applied. Calculate the Young's modulus of the material.",
     "options": [
       "1.0 × 10¹¹ Nm⁻²",
       "2.0 × 10¹¹ Nm⁻²",
@@ -4369,7 +4369,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-212-925",
-    "questionText": "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will? (JAMB 2010)",
+    "questionText": "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will?",
     "options": [
       "be induced",
       "converge",
@@ -4381,7 +4381,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-213-697",
-    "questionText": "In the photoelectric effect, which of the following graphs correctly represents the graph of stopping potential V₀ against frequency(f), of incident light? (JAMB 2005)",
+    "questionText": "In the photoelectric effect, which of the following graphs correctly represents the graph of stopping potential V₀ against frequency(f), of incident light?",
     "options": [
       "A",
       "B",
@@ -4393,7 +4393,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-214-492",
-    "questionText": "The graph of pressure (P) against the reciprocal of the volume (I/V) in Boyles's law is a? (JAMB 2022)",
+    "questionText": "The graph of pressure (P) against the reciprocal of the volume (I/V) in Boyles's law is a?",
     "options": [
       "hyperbola",
       "parabola",
@@ -4405,7 +4405,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-215-8",
-    "questionText": " A quantity of ice –10oc is heated until temperature of heating vessel is 90oc. Which of the following constant is NOT required to determine the quantity of heat supplied to the vessel?  (JAMB 2006)",
+    "questionText": " A quantity of ice –10oc is heated until temperature of heating vessel is 90oc. Which of the following constant is NOT required to determine the quantity of heat supplied to the vessel?",
     "options": [
       "Specific latent heat of vaporization",
       "specific heat capacity of ice",
@@ -4417,7 +4417,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-216-648",
-    "questionText": "A cell whose internal resistance is 0.5Ω delivers a current of 4A to an external resistor,The loss voltage of the cell is (JAMB 2004)",
+    "questionText": "A cell whose internal resistance is 0.5Ω delivers a current of 4A to an external resistor,The loss voltage of the cell is",
     "options": [
       "1.250V",
       "2.000V",
@@ -4429,7 +4429,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-217-347",
-    "questionText": "The pin-hole camera produces a less sharply defined image when the (JAMB 2019)",
+    "questionText": "The pin-hole camera produces a less sharply defined image when the",
     "options": [
       "pin-hole is larger",
       "illumination is less",
@@ -4441,7 +4441,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-218-548",
-    "questionText": "Which of the following is NOT a limitation of experimental measurements? (JAMB 2023)",
+    "questionText": "Which of the following is NOT a limitation of experimental measurements?",
     "options": [
       "Systematic error",
       "Instrument resolution",
@@ -4453,7 +4453,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-219-1014",
-    "questionText": "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their length is 3:4 respectively, the ratio of the increase in lengths of P to Q is (JAMB 2012)",
+    "questionText": "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their length is 3:4 respectively, the ratio of the increase in lengths of P to Q is",
     "options": [
       "1:2",
       "2:1",
@@ -4465,7 +4465,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-220-280",
-    "questionText": "A man walks 1km due east and then 1 km due north His displacement? (JAMB 2018)",
+    "questionText": "A man walks 1km due east and then 1 km due north His displacement?",
     "options": [
       "√2 km N 45°E",
       "1 km N 30°E",
@@ -4477,7 +4477,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-221-50",
-    "questionText": "When a yellow card is observed through a blue glass, the card would appear as  (JAMB 2009)",
+    "questionText": "When a yellow card is observed through a blue glass, the card would appear as",
     "options": [
       "black",
       "green",
@@ -4489,7 +4489,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-222-930",
-    "questionText": "In a discharge tube, most of the gas is pumped out so that electricity is conducted at? (JAMB 2010)",
+    "questionText": "In a discharge tube, most of the gas is pumped out so that electricity is conducted at?",
     "options": [
       "low voltage",
       "steady voltage",
@@ -4501,7 +4501,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-223-1106",
-    "questionText": "When a telescope is in normal use, the final image is at (JAMB 2014)",
+    "questionText": "When a telescope is in normal use, the final image is at",
     "options": [
       "Infinity",
       "The focus",
@@ -4513,7 +4513,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-224-230",
-    "questionText": "Which is the incorrect formula for a body accelerating uniformly? (JAMB 2017)",
+    "questionText": "Which is the incorrect formula for a body accelerating uniformly?",
     "options": [
       "a = (v² − u²)/2",
       "v² = u² + 2as",
@@ -4525,7 +4525,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-225-458",
-    "questionText": "An astronomical telescope is said to be in normal adjustment when the? (JAMB 2021)",
+    "questionText": "An astronomical telescope is said to be in normal adjustment when the?",
     "options": [
       "eye is accommodated",
       "focal length of an object lens is longer than that of eye piece",
@@ -4537,7 +4537,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-226-86",
-    "questionText": "Which of the following is not true about the properties of x-rays?  (JAMB 2010)",
+    "questionText": "Which of the following is not true about the properties of x-rays?",
     "options": [
       "they are not deflected by magnetic or electric field",
       "they ionized a gas making it a conductor",
@@ -4549,7 +4549,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-227-722",
-    "questionText": "The correct unit of energy density is? (JAMB 2006)",
+    "questionText": "The correct unit of energy density is?",
     "options": [
       "kg m³ s⁻²",
       "kg m² s⁻²",
@@ -4561,7 +4561,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-228-564",
-    "questionText": "\nIf the S.V.P of water vapour was 13.5mmHg at 33ºC and 7.3mmHg at 7ºC. Find the percentage relative humidity of the air on a day when average air temperature was 33ºC and dew point was 7ºC. (JAMB 2024)",
+    "questionText": "\nIf the S.V.P of water vapour was 13.5mmHg at 33ºC and 7.3mmHg at 7ºC. Find the percentage relative humidity of the air on a day when average air temperature was 33ºC and dew point was 7ºC.",
     "options": [
       "55%",
       "60%",
@@ -4573,7 +4573,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-229-729",
-    "questionText": "The theory of electronic conduction in solids, which satisfactorily explains the properties of conductors, insulators and semi-conductor, is? (JAMB 2006)",
+    "questionText": "The theory of electronic conduction in solids, which satisfactorily explains the properties of conductors, insulators and semi-conductor, is?",
     "options": [
       "string theory",
       "particle theory",
@@ -4585,7 +4585,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-230-108",
-    "questionText": "Which of the following is not true about a chemical cell?    (JAMB 2011)",
+    "questionText": "Which of the following is not true about a chemical cell?",
     "options": [
       "in primary cells the process through which current is generated is irreversible",
       "secondary cells can be recharged after they run down by passing a current into the cell in the reverse direction",
@@ -4597,7 +4597,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-231-60",
-    "questionText": "Four lenses are being considered for use as a microscope object. Which of the following focal length is most suitable  (JAMB 2009)",
+    "questionText": "Four lenses are being considered for use as a microscope object. Which of the following focal length is most suitable",
     "options": [
       "-5mm",
       "+5mm",
@@ -4609,7 +4609,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-232-37",
-    "questionText": "It is known that an atomic nucleus comprises of positive charged protons. Which of the following also exist in the nucleus?  (JAMB 2007)",
+    "questionText": "It is known that an atomic nucleus comprises of positive charged protons. Which of the following also exist in the nucleus?",
     "options": [
       "a beta particle",
       "an Alpha particle",
@@ -4621,7 +4621,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-233-171",
-    "questionText": "The strength of an electromagnet increases with (JAMB 2015)",
+    "questionText": "The strength of an electromagnet increases with",
     "options": [
       "Increases in the number of turn of the coil",
       "Decreases in current with the coil",
@@ -4633,7 +4633,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-234-829",
-    "questionText": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is? (JAMB 2008)",
+    "questionText": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?",
     "options": [
       "0.96 kWh",
       "1.92 kWh",
@@ -4645,7 +4645,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-235-369",
-    "questionText": "The lead-acid accumulator consists of (JAMB 2019)",
+    "questionText": "The lead-acid accumulator consists of",
     "options": [
       "lead as the positive electrode",
       "lead acid as the negative electrode",
@@ -4657,7 +4657,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-236-1127",
-    "questionText": "The emf of a cell is the potential difference across its terminals when it is in (JAMB 2025)",
+    "questionText": "The emf of a cell is the potential difference across its terminals when it is in",
     "options": [
       "series connection",
       "closed circuit",
@@ -4669,7 +4669,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-237-10",
-    "questionText": "  A convex lens of focal length 10.0cm is used to form a real image which is half the size of the object. How far from the object is the image?  (JAMB 2006)",
+    "questionText": "  A convex lens of focal length 10.0cm is used to form a real image which is half the size of the object. How far from the object is the image?",
     "options": [
       "45cm",
       "30cm",
@@ -4681,7 +4681,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-238-694",
-    "questionText": "A force of 200N acts between two objects at a certain distance apart. The value of the force when the distance is halved is (JAMB 2005)",
+    "questionText": "A force of 200N acts between two objects at a certain distance apart. The value of the force when the distance is halved is",
     "options": [
       "400N",
       "200N",
@@ -4693,7 +4693,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-239-997",
-    "questionText": "In an A.C circuit, the ratio of r.m.s value to peak value of current is (JAMB 2011)",
+    "questionText": "In an A.C circuit, the ratio of r.m.s value to peak value of current is",
     "options": [
       "2",
       "1/2",
@@ -4705,7 +4705,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-240-625",
-    "questionText": "In a hydraulic press, a force of 40N is applied on the effort piston of area 0.4m². If the force exerted on the load piston is 400N, the area of the large piston is (JAMB 2004)",
+    "questionText": "In a hydraulic press, a force of 40N is applied on the effort piston of area 0.4m². If the force exerted on the load piston is 400N, the area of the large piston is",
     "options": [
       "4m²",
       "8m²",
@@ -4717,7 +4717,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-241-463",
-    "questionText": "An object 40 cm high is 30cm from the pin hole camera. If the height of the image formed is 20 cm. What is the distance of the image from the pin height? (JAMB 2022)",
+    "questionText": "An object 40 cm high is 30cm from the pin hole camera. If the height of the image formed is 20 cm. What is the distance of the image from the pin height?",
     "options": [
       "15 cm",
       "70 cm",
@@ -4729,7 +4729,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-242-852",
-    "questionText": "A bullet fired vertically upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0 s. Calculate its initial velocity. [g = 10 m s⁻²] (JAMB 2009)",
+    "questionText": "A bullet fired vertically upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0 s. Calculate its initial velocity. [g = 10 m s⁻²]",
     "options": [
       "10 m s⁻¹",
       "8 m s⁻¹",
@@ -4741,7 +4741,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-243-9",
-    "questionText": "The scent from a jar of perfume open move through the air molecules by  (JAMB 2006)",
+    "questionText": "The scent from a jar of perfume open move through the air molecules by",
     "options": [
       "evaporation",
       "osmosis",
@@ -4753,7 +4753,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-244-1083",
-    "questionText": "Which type of motion do the wheels of a moving car undergo? (JAMB 2014)",
+    "questionText": "Which type of motion do the wheels of a moving car undergo?",
     "options": [
       "Vibratory and translational motion",
       "Random and translational motion",
@@ -4765,7 +4765,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-245-720",
-    "questionText": "If the radius of the Earth is 6.4 × 10⁶ m, the escape velocity of a satellite from the Earth is?\n[g = 10 m s⁻²] (JAMB 2006)",
+    "questionText": "If the radius of the Earth is 6.4 × 10⁶ m, the escape velocity of a satellite from the Earth is?\n[g = 10 m s⁻²]",
     "options": [
       "1.13 × 10⁴ m s⁻¹",
       "9.00 × 10³ m s⁻¹",
@@ -4777,7 +4777,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-246-273",
-    "questionText": "Which of the following is not a mechanical wave? (JAMB 2017)",
+    "questionText": "Which of the following is not a mechanical wave?",
     "options": [
       "wave in closed pipe",
       "radio waves",
@@ -4789,7 +4789,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-247-923",
-    "questionText": "Which of the following is used for the correction of short sightedness? (JAMB 2010)",
+    "questionText": "Which of the following is used for the correction of short sightedness?",
     "options": [
       "convex lens",
       "concave lens",
@@ -4801,7 +4801,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-248-731",
-    "questionText": "A certain manufacturer wishes to make an n-type semiconductor. Which materials would he select for doping? (JAMB 2006)",
+    "questionText": "A certain manufacturer wishes to make an n-type semiconductor. Which materials would he select for doping?",
     "options": [
       "boron and antimony",
       "boron and sodium",
@@ -4813,7 +4813,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-249-102",
-    "questionText": "A wheel and axle is used to raise a weight of 600n with an effort of 300n. if the radii of the wheel and axle are 50 cm and 10 cm respectively, what is the efficiency of the system       (JAMB 2011)",
+    "questionText": "A wheel and axle is used to raise a weight of 600n with an effort of 300n. if the radii of the wheel and axle are 50 cm and 10 cm respectively, what is the efficiency of the system",
     "options": [
       "40%",
       "50%",
@@ -4825,7 +4825,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-250-68",
-    "questionText": "The most likely measurement of length of an object using a venier caliper is:  (JAMB 2010)",
+    "questionText": "The most likely measurement of length of an object using a venier caliper is:",
     "options": [
       "3.0cm",
       "3.3cm",
@@ -4837,7 +4837,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-251-427",
-    "questionText": "\n0.5kg of water at 10°C is completely converted to ice at 0°C by extracting 88000J of heat from it. If the specific heat capacity of water is 4200 Jkg⁻¹°C⁻¹, calculate the specific latent heat of fusion of ice. (JAMB 2021)",
+    "questionText": "\n0.5kg of water at 10°C is completely converted to ice at 0°C by extracting 88000J of heat from it. If the specific heat capacity of water is 4200 Jkg⁻¹°C⁻¹, calculate the specific latent heat of fusion of ice.",
     "options": [
       "9.0 kJkg⁻¹",
       "84.0 kJkg⁻¹",
@@ -4849,7 +4849,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-252-4",
-    "questionText": "If M and R are the mass and radius of the earth respectively and G is the universal gravitational constant, the earth’s gravitational potential at an altitude H above the ground level is:  (JAMB 2006)",
+    "questionText": "If M and R are the mass and radius of the earth respectively and G is the universal gravitational constant, the earth’s gravitational potential at an altitude H above the ground level is:",
     "options": [
       "A.-GM/H",
       "–GM/(R+H)",
@@ -4861,7 +4861,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-253-15",
-    "questionText": "A coil of copper wire of N turns is kept rotating between the poles of a magnet  such that the magnetic flux linking the coil changes continuously. Which of the  following statements is TRUE?  (JAMB 2006)",
+    "questionText": "A coil of copper wire of N turns is kept rotating between the poles of a magnet  such that the magnetic flux linking the coil changes continuously. Which of the  following statements is TRUE?",
     "options": [
       "An e.m.f is induced in the coil such that when the change of flux is positive the e.m.f is positive, and when the change of flux is negative the e.m.f is negative.",
       "An e.m.f is induced in the coil whose magnitude is inversely proportional to both the number of turns in the coil and the rate of change of magnetic flux",
@@ -4873,7 +4873,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-254-643",
-    "questionText": "A 50W electric heater is used to heat a metal block of mass 5kg. If in 10 minutes a temperature rise of 12°C is achieved, the specific heat capacity of the metal is (JAMB 2004)",
+    "questionText": "A 50W electric heater is used to heat a metal block of mass 5kg. If in 10 minutes a temperature rise of 12°C is achieved, the specific heat capacity of the metal is",
     "options": [
       "400 J kg⁻¹K⁻¹",
       "500 J kg⁻¹K⁻¹",
@@ -4885,7 +4885,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-255-165",
-    "questionText": "For a best result using temperature to achieve an accurate measurement, it is best to use (JAMB 2015)",
+    "questionText": "For a best result using temperature to achieve an accurate measurement, it is best to use",
     "options": [
       "Mercury thermometer",
       "gas thermometer",
@@ -4897,7 +4897,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-256-393",
-    "questionText": "Tha mass of a proton is approximately equal to that of  (JAMB 2020)",
+    "questionText": "Tha mass of a proton is approximately equal to that of",
     "options": [
       "an α -particle",
       "a β -Particle",
@@ -4909,7 +4909,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-257-1122",
-    "questionText": "A man moves 6.0 m East and then 10.0 m N30°E. How far is he from his starting point? (JAMB 2025)",
+    "questionText": "A man moves 6.0 m East and then 10.0 m N30°E. How far is he from his starting point?",
     "options": [
       "15.0 m",
       "17.0 m",
@@ -4921,7 +4921,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-258-388",
-    "questionText": "Which of the following statements on the use of X-rays is incorrect? X-rays are used (JAMB 2020)",
+    "questionText": "Which of the following statements on the use of X-rays is incorrect? X-rays are used",
     "options": [
       "In a hospital to obtain photographs of tissues and bones in the body",
       "For the treatment of malignant growths like cancer cells",
@@ -4933,7 +4933,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-259-927",
-    "questionText": "A galvanometer with full-scale deflection of 10 mA is to be converted to a voltmeter with full-scale deflection of 5v.  if a series resistance of 498Ω is used for the conversion, the resistance of the galvanometer is ? (JAMB 2010)",
+    "questionText": "A galvanometer with full-scale deflection of 10 mA is to be converted to a voltmeter with full-scale deflection of 5v.  if a series resistance of 498Ω is used for the conversion, the resistance of the galvanometer is ?",
     "options": [
       "1Ω",
       "2Ω",
@@ -4945,7 +4945,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-260-1143",
-    "questionText": "Charge carriers in doped semiconductors are (JAMB 2025)",
+    "questionText": "Charge carriers in doped semiconductors are",
     "options": [
       "electrons and protons",
       "electrons and neutrons",
@@ -4957,7 +4957,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-261-336",
-    "questionText": "A train has an initial velocity of 44 m/s and an acceleration of -4 m/s². Calculate its velocity after 10 seconds. (JAMB 2019)",
+    "questionText": "A train has an initial velocity of 44 m/s and an acceleration of -4 m/s². Calculate its velocity after 10 seconds.",
     "options": [
       "10 m/s",
       "6 m/s",
@@ -4969,7 +4969,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-262-1153",
-    "questionText": "A wooden block of relative density 0.4 floats in a liquid of density 1600 kg m⁻³. What fraction of its volume is immersed? (JAMB 2025)",
+    "questionText": "A wooden block of relative density 0.4 floats in a liquid of density 1600 kg m⁻³. What fraction of its volume is immersed?",
     "options": [
       "0.15",
       "0.1",
@@ -4981,7 +4981,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-263-303",
-    "questionText": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 m/s into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is (JAMB 2018)",
+    "questionText": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 m/s into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is",
     "options": [
       "100J",
       "150J",
@@ -4993,7 +4993,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-264-158",
-    "questionText": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change (JAMB 2015)",
+    "questionText": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
     "options": [
       "N – W when suspended freely",
       "N–S when suspended freely",
@@ -5005,7 +5005,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-265-864",
-    "questionText": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil the water is?\n[Specific latent heat of vaporization of water = 2.3 × 10⁶ J kg⁻¹] (JAMB 2009)",
+    "questionText": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil the water is?\n[Specific latent heat of vaporization of water = 2.3 × 10⁶ J kg⁻¹]",
     "options": [
       "1.15 × 10⁴ s",
       "1.15 × 10³ s",
@@ -5017,7 +5017,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-266-875",
-    "questionText": "Which of the following is a secondary colour (JAMB 2009)",
+    "questionText": "Which of the following is a secondary colour",
     "options": [
       "blue",
       "orange",
@@ -5029,7 +5029,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-267-513",
-    "questionText": "Which process is responsible for production of energy in stars? (JAMB 2023)",
+    "questionText": "Which process is responsible for production of energy in stars?",
     "options": [
       "Nuclear reaction",
       "Nuclear fission",
@@ -5041,7 +5041,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-268-773",
-    "questionText": "Silicon doped with aluminum and germanium doped with arsenic become? (JAMB 2007)",
+    "questionText": "Silicon doped with aluminum and germanium doped with arsenic become?",
     "options": [
       "p- and n- types respectively",
       "n- en p- type respectively",
@@ -5053,7 +5053,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-269-365",
-    "questionText": "According to kinetic molecular model, in gases (JAMB 2019)",
+    "questionText": "According to kinetic molecular model, in gases",
     "options": [
       "The particles are closely packed together, they occupy minimum space & are usually arranged in a regular pattern",
       "The particles occur in clusters with molecules slightly farther apart",
@@ -5065,7 +5065,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-270-191",
-    "questionText": "When an athlete perspires after running, he loses heat through (JAMB 2016)",
+    "questionText": "When an athlete perspires after running, he loses heat through",
     "options": [
       "Evaporation",
       "Conduction",
@@ -5077,7 +5077,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-271-799",
-    "questionText": "A photon of wavelength 6.0 × 10⁻⁷ m behaves like a particle of a certain mass. The value of that mass is [h = 6.63 × 10⁻³⁴ Js, c = 3.0 × 10⁸ ms⁻¹] (JAMB 2007)",
+    "questionText": "A photon of wavelength 6.0 × 10⁻⁷ m behaves like a particle of a certain mass. The value of that mass is [h = 6.63 × 10⁻³⁴ Js, c = 3.0 × 10⁸ ms⁻¹]",
     "options": [
       "3.7 × 10⁻³⁶ kg",
       "2.2 × 10⁻³⁵ kg",
@@ -5089,7 +5089,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-272-978",
-    "questionText": "Which of the following is a property of steel? (JAMB 2011)",
+    "questionText": "Which of the following is a property of steel?",
     "options": [
       "it cannot retain its magnetism longer than iron",
       "it can be used for making temporary magnets",
@@ -5101,7 +5101,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-273-1130",
-    "questionText": "When both the object and its image move together in the same direction relative to the observer, then there is (JAMB 2025)",
+    "questionText": "When both the object and its image move together in the same direction relative to the observer, then there is",
     "options": [
       "no parallax error",
       "blurred image",
@@ -5113,7 +5113,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-274-249",
-    "questionText": "The net capacitance in the circuit above is (JAMB 2017)",
+    "questionText": "The net capacitance in the circuit above is",
     "options": [
       "80µF",
       "6.0µF",
@@ -5125,7 +5125,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-275-565",
-    "questionText": "Electrolysis can be investigated using  (JAMB 2024)",
+    "questionText": "Electrolysis can be investigated using",
     "options": [
       "Voltmeter",
       "Ammeter",
@@ -5137,7 +5137,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-276-669",
-    "questionText": "A body of mass 36 kg falls through a viscous liquid which offers a drag force of 260 N on the body. The upthrust on the body at terminal velocity is?\n[g = 10 m s⁻²] (JAMB 2005)",
+    "questionText": "A body of mass 36 kg falls through a viscous liquid which offers a drag force of 260 N on the body. The upthrust on the body at terminal velocity is?\n[g = 10 m s⁻²]",
     "options": [
       "100 N",
       "620 N",
@@ -5149,7 +5149,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-277-937",
-    "questionText": "Two metals P and Q of length l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q? (JAMB 2010)",
+    "questionText": "Two metals P and Q of length l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q?",
     "options": [
       "7:5",
       "5:7",
@@ -5161,7 +5161,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-278-959",
-    "questionText": "I. High thermal capacity\nII. High sensitivity\nIII. Easy readability\nIV. Accuracy over a wide range of temperature\nFrom the statement above, the qualities of a good thermometer are (JAMB 2011)",
+    "questionText": "I. High thermal capacity\nII. High sensitivity\nIII. Easy readability\nIV. Accuracy over a wide range of temperature\nFrom the statement above, the qualities of a good thermometer are",
     "options": [
       "I and II",
       "I, II, III and IV",
@@ -5173,7 +5173,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-279-263",
-    "questionText": "It is known that a neutron exists in a light atomic nucleus\nWhich of the following also exists in the nucleus? (JAMB 2017)",
+    "questionText": "It is known that a neutron exists in a light atomic nucleus\nWhich of the following also exists in the nucleus?",
     "options": [
       "An electron",
       "A β - particle",
@@ -5185,7 +5185,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-280-312",
-    "questionText": "Convex mirrors are used as driving mirrors because images formed are (JAMB 2018)",
+    "questionText": "Convex mirrors are used as driving mirrors because images formed are",
     "options": [
       "erect, Virtual and diminished",
       "erect, real and diminished",
@@ -5197,7 +5197,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-281-692",
-    "questionText": "If the distance between two point charges is increased by a factor of four, the magnitude of the electrostatic force between them will be (JAMB 2005)",
+    "questionText": "If the distance between two point charges is increased by a factor of four, the magnitude of the electrostatic force between them will be",
     "options": [
       "1/4 of its former value",
       "1/16 of its former value",
@@ -5209,7 +5209,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-282-616",
-    "questionText": "Electrical appliances at home are normally earthed so that? (JAMB 2004)",
+    "questionText": "Electrical appliances at home are normally earthed so that?",
     "options": [
       "the appliances are maintained at a lower p.d than the earth",
       "both the a.c and d.c sources can be used",
@@ -5221,7 +5221,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-283-596",
-    "questionText": "The degree of precision of a vernier caliper is  (JAMB 2024)",
+    "questionText": "The degree of precision of a vernier caliper is",
     "options": [
       "0.005 cm",
       "0.01 cm",
@@ -5233,7 +5233,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-284-325",
-    "questionText": "A 20kg mass is to be pulled up a slope inclined at 30° to the horizontal. If efficiency of the plane is 75%, the force required to pull the load up the plane is [g = 10ms⁻²] (JAMB 2018)",
+    "questionText": "A 20kg mass is to be pulled up a slope inclined at 30° to the horizontal. If efficiency of the plane is 75%, the force required to pull the load up the plane is [g = 10ms⁻²]",
     "options": [
       "87N",
       "73.5N",
@@ -5245,7 +5245,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-285-186",
-    "questionText": "An object is placed 15cm in front of a plane mirror. If the mirror is moved further 5cm away from the object and the image is (JAMB 2016)",
+    "questionText": "An object is placed 15cm in front of a plane mirror. If the mirror is moved further 5cm away from the object and the image is",
     "options": [
       "80cm",
       "40cm",
@@ -5257,7 +5257,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-286-599",
-    "questionText": "The energy in a moving car is an example of (JAMB 2024)",
+    "questionText": "The energy in a moving car is an example of",
     "options": [
       "Mechanical energy",
       "Electrical energy",
@@ -5269,7 +5269,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-287-568",
-    "questionText": "A rectifier is a device that changes  (JAMB 2024)",
+    "questionText": "A rectifier is a device that changes",
     "options": [
       "D.C to D.C",
       "D.C to A.C",
@@ -5281,7 +5281,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-288-784",
-    "questionText": "During the nuclear reaction described by\n²³⁵₉₂W → ²³⁵₉₃X → ²³¹₉₁Y\nthe particles emitted are respectively (JAMB 2007)",
+    "questionText": "During the nuclear reaction described by\n²³⁵₉₂W → ²³⁵₉₃X → ²³¹₉₁Y\nthe particles emitted are respectively",
     "options": [
       "α and α",
       "α and β",
@@ -5293,7 +5293,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-289-348",
-    "questionText": "A straight wire 15cm long, carrying a current of 6.0A is in a uniform field of 0.40T. What is the force on the wire when it is at right angle to the field (JAMB 2019)",
+    "questionText": "A straight wire 15cm long, carrying a current of 6.0A is in a uniform field of 0.40T. What is the force on the wire when it is at right angle to the field",
     "options": [
       "0.46N",
       "0.35N",
@@ -5305,7 +5305,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-290-28",
-    "questionText": "A 5kg block is released from rest on a smooth plane inclined at an angle of 30o to the horizontal. What is the acceleration down the plane?  [ g = 10ms-2] (JAMB 2007)",
+    "questionText": "A 5kg block is released from rest on a smooth plane inclined at an angle of 30o to the horizontal. What is the acceleration down the plane?  [ g = 10ms-2]",
     "options": [
       "5.0 ms-2",
       "8.7 ms-2",
@@ -5317,7 +5317,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-291-224",
-    "questionText": "From the diagram above, the measuring accuracy of the micrometer screw gauge is (JAMB 2016)",
+    "questionText": "From the diagram above, the measuring accuracy of the micrometer screw gauge is",
     "options": [
       "4.78mm",
       "4.16mm",
@@ -5329,7 +5329,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-292-869",
-    "questionText": "I. Moon.\nII. Sun.\nIII.street light.\nIV. stars.\n\n\nWhich of these are natural sources of light? (JAMB 2009)",
+    "questionText": "I. Moon.\nII. Sun.\nIII.street light.\nIV. stars.\n\n\nWhich of these are natural sources of light?",
     "options": [
       "II, III, and IV only",
       "I, II and III only",
@@ -5341,7 +5341,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-293-464",
-    "questionText": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when? (JAMB 2022)",
+    "questionText": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
     "options": [
       "the magnet is moved towards the stationary solenoid",
       "there is no relative motion",
@@ -5353,7 +5353,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-294-1066",
-    "questionText": "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively. Calculate the angular magnification of the microscope (JAMB 2013)",
+    "questionText": "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively. Calculate the angular magnification of the microscope",
     "options": [
       "2",
       "3",
@@ -5365,7 +5365,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-295-11",
-    "questionText": "An object of height 3.00cm is placed 10cm from a biconvex lens of 15cm, the image of the object is  (JAMB 2006)",
+    "questionText": "An object of height 3.00cm is placed 10cm from a biconvex lens of 15cm, the image of the object is",
     "options": [
       "real and 3.00cm tall",
       "virtual and 3.00cm tall",
@@ -5377,7 +5377,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-296-977",
-    "questionText": "The eclipse of the sun occurs when the (JAMB 2011)",
+    "questionText": "The eclipse of the sun occurs when the",
     "options": [
       "moon is between the sun and the earth",
       "earth is between the sun and the moon",
@@ -5389,7 +5389,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-297-173",
-    "questionText": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core (JAMB 2015)",
+    "questionText": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core",
     "options": [
       "I & II only",
       "II only",
@@ -5401,7 +5401,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-298-712",
-    "questionText": "If the capacitance of a capacitor is C = (εA)/d, which of the following parameters is varied when a variable capacitor is used for tuning radio sets? (JAMB 2006)",
+    "questionText": "If the capacitance of a capacitor is C = (εA)/d, which of the following parameters is varied when a variable capacitor is used for tuning radio sets?",
     "options": [
       "constant (ε) and area",
       "area and distance",
@@ -5413,7 +5413,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-299-950",
-    "questionText": "A man standing on a lift that is descending does not feel any weight because (JAMB 2011)",
+    "questionText": "A man standing on a lift that is descending does not feel any weight because",
     "options": [
       "the inside of the lift is air tight",
       "the lift is in vacuum",
@@ -5425,7 +5425,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-300-655",
-    "questionText": "In an ideal wheel an axle system, R stand for the radius of the wheel and r is the radius of the axle. the mechanical advantage is (JAMB 2005)",
+    "questionText": "In an ideal wheel an axle system, R stand for the radius of the wheel and r is the radius of the axle. the mechanical advantage is",
     "options": [
       "(R/r)²",
       "r/R",
@@ -5437,7 +5437,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-301-1032",
-    "questionText": "The fuse in an electric device is always connected to the (JAMB 2012)",
+    "questionText": "The fuse in an electric device is always connected to the",
     "options": [
       "neutral side of an electric supply",
       "earth side of an electric supply",
@@ -5449,7 +5449,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-302-307",
-    "questionText": "The time rate of loss of heat by a body is proportional to the (JAMB 2018)",
+    "questionText": "The time rate of loss of heat by a body is proportional to the",
     "options": [
       "temperature of its surroundings",
       "temperature of the body",
@@ -5461,7 +5461,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-303-258",
-    "questionText": "A constant force of 5N acts for 5 seconds on a mass of 5kg initially at rest. Calculate the final momentum (JAMB 2017)",
+    "questionText": "A constant force of 5N acts for 5 seconds on a mass of 5kg initially at rest. Calculate the final momentum",
     "options": [
       "125 kgms⁻¹",
       "25 kgms⁻¹",
@@ -5473,7 +5473,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-304-73",
-    "questionText": "A boat is passing under a bridge. The deck of the boat is 15m below the bridge. A small package is to be dropped from the bridge onto the deck of the boat is 25m from just below the drop point. What speed is necessary to have the package land in the boat? (g= 9.8ms-2) (JAMB 2010)",
+    "questionText": "A boat is passing under a bridge. The deck of the boat is 15m below the bridge. A small package is to be dropped from the bridge onto the deck of the boat is 25m from just below the drop point. What speed is necessary to have the package land in the boat? (g= 9.8ms-2)",
     "options": [
       "17m/s",
       "14m/s",
@@ -5485,7 +5485,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-305-328",
-    "questionText": "The energy needed to move a unit positive charge around a complete electric circuit is called the (JAMB 2018)",
+    "questionText": "The energy needed to move a unit positive charge around a complete electric circuit is called the",
     "options": [
       "electromotive force",
       "electric potential difference",
@@ -5497,7 +5497,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-306-672",
-    "questionText": "The process whereby a liquid turns spontaneously into vapour is called? (JAMB 2005)",
+    "questionText": "The process whereby a liquid turns spontaneously into vapour is called?",
     "options": [
       "regelation",
       "sublimation",
@@ -5509,7 +5509,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-307-71",
-    "questionText": "  A long-jumper leaves the ground at an angle of 20o above the horizontal and at speed of 11m/s. How far does it jumps in the horizontal direction?  (JAMB 2010)",
+    "questionText": "  A long-jumper leaves the ground at an angle of 20o above the horizontal and at speed of 11m/s. How far does it jumps in the horizontal direction?",
     "options": [
       "0.384m",
       "7.94m",
@@ -5521,7 +5521,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-308-131",
-    "questionText": "Boyle’s law may be Written as (JAMB 2015)",
+    "questionText": "Boyle’s law may be Written as",
     "options": [
       "P1V1= P2V2",
       "V1 = V2 ÷ T1T2",
@@ -5533,7 +5533,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-309-342",
-    "questionText": "Which of the following equations is the correct definition of the reactance of an indicator L? (JAMB 2019)",
+    "questionText": "Which of the following equations is the correct definition of the reactance of an indicator L?",
     "options": [
       "Reactance = (Amplitude of voltage) ÷ (Amplitude of current)",
       "Reactance = (Amplitude of voltage) × (Amplitude of current)",
@@ -5545,7 +5545,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-310-397",
-    "questionText": "When a sound wave passes from air into water its  (JAMB 2020)",
+    "questionText": "When a sound wave passes from air into water its",
     "options": [
       "speed and frequency increases but its wavelength remains the same",
       "speed and wavelength increases but its frequency remains the same",
@@ -5557,7 +5557,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-311-689",
-    "questionText": "Two liquids L₁ and L₂ are contained in a U-tube. The height and the density of L₁ are 8 cm and 10³ kgm⁻³ respectively. If the density of L₂ is 800 kgm⁻³, its height measured from the same level is (JAMB 2005)",
+    "questionText": "Two liquids L₁ and L₂ are contained in a U-tube. The height and the density of L₁ are 8 cm and 10³ kgm⁻³ respectively. If the density of L₂ is 800 kgm⁻³, its height measured from the same level is",
     "options": [
       "8 cm",
       "10 cm",
@@ -5569,7 +5569,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-312-241",
-    "questionText": "Three 3ω resistance are connected in parallel what is the equivalent resistance? (JAMB 2017)",
+    "questionText": "Three 3ω resistance are connected in parallel what is the equivalent resistance?",
     "options": [
       "1ω",
       "9ω",
@@ -5581,7 +5581,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-313-52",
-    "questionText": "Radio waves have the velocity of 3 x 108ms-1. If a radio station sends out a broadcast on a frequency 800kHz, what is the wavelength of the broadcast?  (JAMB 2009)",
+    "questionText": "Radio waves have the velocity of 3 x 108ms-1. If a radio station sends out a broadcast on a frequency 800kHz, what is the wavelength of the broadcast?",
     "options": [
       "375.0m",
       "267.0m",
@@ -5593,7 +5593,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-314-892",
-    "questionText": "\nThe diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is? (JAMB 2009)",
+    "questionText": "\nThe diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is?",
     "options": [
       "20 Nm⁻¹",
       "40 Nm⁻¹",
@@ -5605,7 +5605,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-315-34",
-    "questionText": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment?  (JAMB 2007)",
+    "questionText": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment?",
     "options": [
       "76cm",
       "75cm",
@@ -5617,7 +5617,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-316-1068",
-    "questionText": "Calculate the force acting on an electron of charge 1.5 × 10⁻¹⁹ C placed in an electric field of intensity 10⁵ V m⁻¹ (JAMB 2013)",
+    "questionText": "Calculate the force acting on an electron of charge 1.5 × 10⁻¹⁹ C placed in an electric field of intensity 10⁵ V m⁻¹",
     "options": [
       "1.5 × 10⁻¹¹ N",
       "1.5 × 10⁻¹² N",
@@ -5629,7 +5629,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-317-392",
-    "questionText": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh? (JAMB 2020)",
+    "questionText": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh?",
     "options": [
       "N0.65",
       "N0.39",
@@ -5641,7 +5641,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-318-976",
-    "questionText": "A certain far - sighted person cannot see object that are closer to the eye than 50 cm clearly. Determine the power of the converging lens which will enable him to see at 25 cm (JAMB 2011)",
+    "questionText": "A certain far - sighted person cannot see object that are closer to the eye than 50 cm clearly. Determine the power of the converging lens which will enable him to see at 25 cm",
     "options": [
       ". 0.06 D",
       "2.0 D",
@@ -5653,7 +5653,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-319-1104",
-    "questionText": "The focal length of a concave mirror is 2.0cm. If an object is placed 8.0cm from it, the image is at (JAMB 2014)",
+    "questionText": "The focal length of a concave mirror is 2.0cm. If an object is placed 8.0cm from it, the image is at",
     "options": [
       "2.7 m",
       "2.0 m",
@@ -5665,7 +5665,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-320-918",
-    "questionText": "The sound of an electricity bell dies down slowly when air is slowly pumped out from a bottle because (JAMB 2010)",
+    "questionText": "The sound of an electricity bell dies down slowly when air is slowly pumped out from a bottle because",
     "options": [
       "the wavelength of sound becomes greater in the bottle",
       "sound cannot pass through the bottle",
@@ -5677,7 +5677,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-321-200",
-    "questionText": "A metre rule is pivoted at its mid-point with a vertical force of 10N hanging from the distance 30cm from the mid-point. At what distance must a 15N force hang to balance the ruler horizontally? (JAMB 2016)",
+    "questionText": "A metre rule is pivoted at its mid-point with a vertical force of 10N hanging from the distance 30cm from the mid-point. At what distance must a 15N force hang to balance the ruler horizontally?",
     "options": [
       "30cm",
       "10cm",
@@ -5689,7 +5689,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-322-179",
-    "questionText": "The dimension of universal gravitational constant is……….? (JAMB 2015)",
+    "questionText": "The dimension of universal gravitational constant is……….?",
     "options": [
       "M⁻¹L³T⁻²",
       "ML³T²",
@@ -5701,7 +5701,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-323-803",
-    "questionText": "I. All the three forces must be concurrent.\nII. The upward force is equal to the downward force.\nIII. The algebraic sum of the moment about any point must be zero.\n\nwhich of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium? (JAMB 2008)",
+    "questionText": "I. All the three forces must be concurrent.\nII. The upward force is equal to the downward force.\nIII. The algebraic sum of the moment about any point must be zero.\n\nwhich of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium?",
     "options": [
       "I and II only",
       "I and III only",
@@ -5713,7 +5713,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-324-134",
-    "questionText": "A stroboscope can be used to make the wave appear ………….. (JAMB 2015)",
+    "questionText": "A stroboscope can be used to make the wave appear …………..",
     "options": [
       "Stationary",
       "In motion",
@@ -5725,7 +5725,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-325-1012",
-    "questionText": "A balloon whose volume is 300 m³ is filled with hydrogen. If the density of air is 1.3 kg m⁻³, find the upthrust on the balloon. [g = 10 m s⁻²] (JAMB 2012)",
+    "questionText": "A balloon whose volume is 300 m³ is filled with hydrogen. If the density of air is 1.3 kg m⁻³, find the upthrust on the balloon. [g = 10 m s⁻²]",
     "options": [
       "3000 N",
       "3800 N",
@@ -5737,7 +5737,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-326-445",
-    "questionText": "A solid weighs 10.00N in air, 6N when fully immersed in water, and 7.0N when fully immersed in a liquid X. Calculate the relative density of the liquid X. (JAMB 2021)",
+    "questionText": "A solid weighs 10.00N in air, 6N when fully immersed in water, and 7.0N when fully immersed in a liquid X. Calculate the relative density of the liquid X.",
     "options": [
       "5/3",
       "4/3",
@@ -5749,7 +5749,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-327-455",
-    "questionText": "A man stands 4m in front of a plane mirror. If the mirror is moved 1m towards the man, the distance between him and his new image is? (JAMB 2021)",
+    "questionText": "A man stands 4m in front of a plane mirror. If the mirror is moved 1m towards the man, the distance between him and his new image is?",
     "options": [
       "3m",
       "5m",
@@ -5761,7 +5761,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-328-848",
-    "questionText": "\n¹⁴₇N + ⁴₂He → ¹⁷₈O + X\nIn the equation above, the particle X is? (JAMB 2008)",
+    "questionText": "\n¹⁴₇N + ⁴₂He → ¹⁷₈O + X\nIn the equation above, the particle X is?",
     "options": [
       "A proton",
       "A neutron",
@@ -5773,7 +5773,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-329-721",
-    "questionText": "The component of vector X along the direction of vector Y is zero when (JAMB 2006)",
+    "questionText": "The component of vector X along the direction of vector Y is zero when",
     "options": [
       "X and Y are in opposite directions to each other",
       "X is at an angle of 45° to Y",
@@ -5785,7 +5785,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-330-526",
-    "questionText": "A travelling wave of amplitude 0.80 m has a frequency of 16 Hz and a wave speed of 20 ms⁻¹. Calculate the wave number of the wave. (JAMB 2023)",
+    "questionText": "A travelling wave of amplitude 0.80 m has a frequency of 16 Hz and a wave speed of 20 ms⁻¹. Calculate the wave number of the wave.",
     "options": [
       "3",
       "4",
@@ -5797,7 +5797,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-331-897",
-    "questionText": "which of the diagrams above shows the position at which a small ball-bearing is in neutral equilibrium? (JAMB 2009)",
+    "questionText": "which of the diagrams above shows the position at which a small ball-bearing is in neutral equilibrium?",
     "options": [
       "A",
       "B",
@@ -5809,7 +5809,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898319-332-539",
-    "questionText": "The sensitivity of a thermometer is (JAMB 2023)",
+    "questionText": "The sensitivity of a thermometer is",
     "options": [
       "All of the above",
       "how quickly a temperature change can be detected",
@@ -5821,7 +5821,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-333-210",
-    "questionText": "Vapour is said to be saturated on top of an enclosed liquid if _________ (JAMB 2016)",
+    "questionText": "Vapour is said to be saturated on top of an enclosed liquid if _________",
     "options": [
       "The rate of condensation is greater than that of vapourization",
       "The rate of condensation is equal to that of vapourization",
@@ -5833,7 +5833,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-334-759",
-    "questionText": "2 kg of water is heated with a heating coil which draws 3.5 A from a 200 V mains for 2 minutes. What is the increase in temperature of the water? [specific heat capacity of water = 4200 Jkg⁻¹K⁻¹] (JAMB 2007)",
+    "questionText": "2 kg of water is heated with a heating coil which draws 3.5 A from a 200 V mains for 2 minutes. What is the increase in temperature of the water? [specific heat capacity of water = 4200 Jkg⁻¹K⁻¹]",
     "options": [
       "30°",
       "25°",
@@ -5845,7 +5845,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-335-269",
-    "questionText": "Calculate the angle of minimum deviation of a 60° prism of refractive index 1.5 [sin⁻¹(0.75) = 49°] (JAMB 2017)",
+    "questionText": "Calculate the angle of minimum deviation of a 60° prism of refractive index 1.5 [sin⁻¹(0.75) = 49°]",
     "options": [
       "38°",
       "19.47°",
@@ -5857,7 +5857,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-336-27",
-    "questionText": "What is the acceleration due to gravity ‘g’ on the moon, if ‘g’ is   10ms-2 on the earth? (JAMB 2007)",
+    "questionText": "What is the acceleration due to gravity ‘g’ on the moon, if ‘g’ is   10ms-2 on the earth?",
     "options": [
       "0.74ms-2",
       "0.1ms-2",
@@ -5869,7 +5869,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-337-448",
-    "questionText": "A piece of substance of specific heat capacity 450 Jkg⁻¹K⁻¹ falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms⁻²] (JAMB 2021)",
+    "questionText": "A piece of substance of specific heat capacity 450 Jkg⁻¹K⁻¹ falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms⁻²]",
     "options": [
       "2/9°C",
       "4/9°C",
@@ -5881,7 +5881,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-338-1123",
-    "questionText": "The density of water is 1 g/cm³ while that of ice is 0.9 g/cm³. Calculate the change in volume when 90 g of ice is completely melted. (JAMB 2025)",
+    "questionText": "The density of water is 1 g/cm³ while that of ice is 0.9 g/cm³. Calculate the change in volume when 90 g of ice is completely melted.",
     "options": [
       "9 cm³",
       "90 cm³",
@@ -5893,7 +5893,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-339-396",
-    "questionText": "One of the following readings represents the measurement of the length of a metal rod using vernier callipers. Taking the reading accuracy into consideration, the most likely one is  (JAMB 2020)",
+    "questionText": "One of the following readings represents the measurement of the length of a metal rod using vernier callipers. Taking the reading accuracy into consideration, the most likely one is",
     "options": [
       "5.16cm",
       "5.165cm",
@@ -5905,7 +5905,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-340-881",
-    "questionText": "A piece of radioactive material contains 10²⁰ atoms. If the half‑life of the material is 20 seconds, the number of disintegrations in the first second is? (JAMB 2009)",
+    "questionText": "A piece of radioactive material contains 10²⁰ atoms. If the half‑life of the material is 20 seconds, the number of disintegrations in the first second is?",
     "options": [
       "3.47 × 10¹⁸",
       "6.93 × 10²⁰",
@@ -5917,7 +5917,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-341-952",
-    "questionText": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object? (JAMB 2011)",
+    "questionText": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object?",
     "options": [
       "90 m",
       "30 m",
@@ -5929,7 +5929,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-342-1029",
-    "questionText": "The use of lenses is Not applicable in the (JAMB 2012)",
+    "questionText": "The use of lenses is Not applicable in the",
     "options": [
       "projector",
       "human eye",
@@ -5941,7 +5941,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-343-229",
-    "questionText": "Calculate the inductance of a coil of resistance 30Ω connected to a 100V a.c source if the coil draws an r.m.s current of 2A (JAMB 2016)",
+    "questionText": "Calculate the inductance of a coil of resistance 30Ω connected to a 100V a.c source if the coil draws an r.m.s current of 2A",
     "options": [
       "0.13 H",
       "2.50H",
@@ -5953,7 +5953,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-344-1030",
-    "questionText": "Disperson of white light is the ability of white light to (JAMB 2012)",
+    "questionText": "Disperson of white light is the ability of white light to",
     "options": [
       "penetrate air, water and glass",
       "move in a straight line",
@@ -5965,7 +5965,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-345-964",
-    "questionText": "Which of the following electromagnetic waves has the highest frequency? (JAMB 2011)",
+    "questionText": "Which of the following electromagnetic waves has the highest frequency?",
     "options": [
       "utra - violet rays",
       "radio waves",
@@ -5977,7 +5977,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-346-13",
-    "questionText": "Light wave and ripples of water are similar because both (JAMB 2006)",
+    "questionText": "Light wave and ripples of water are similar because both",
     "options": [
       "are longitudinal waves",
       "have the same velocity",
@@ -5989,7 +5989,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-347-863",
-    "questionText": "If the pressure of the vapor on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed? (JAMB 2009)",
+    "questionText": "If the pressure of the vapor on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed?",
     "options": [
       "room temperature",
       "boiling point",
@@ -6001,7 +6001,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-348-999",
-    "questionText": "A wire of length 5.0 m and cross-sectional area 2.0 × 10⁻⁶ m² has a resistance of 0.5Ω. Calculate the resistivity of the material. (JAMB 2011)",
+    "questionText": "A wire of length 5.0 m and cross-sectional area 2.0 × 10⁻⁶ m² has a resistance of 0.5Ω. Calculate the resistivity of the material.",
     "options": [
       "1.0 × 10⁻⁷ Ωm",
       "2.0 × 10⁻⁷ Ωm",
@@ -6013,7 +6013,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-349-797",
-    "questionText": "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value (JAMB 2007)",
+    "questionText": "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value",
     "options": [
       "100Ω",
       "200Ω",
@@ -6025,7 +6025,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-350-559",
-    "questionText": "Pilots uses aneroid barometer to know the height above sea level because  (JAMB 2024)",
+    "questionText": "Pilots uses aneroid barometer to know the height above sea level because",
     "options": [
       "Very accurate",
       "Small and convenient",
@@ -6037,7 +6037,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-351-1003",
-    "questionText": "A car starts from rest and moves with a uniform acceleration of 30ms⁻² for 20s. Calculate the distance covered at the end of the motion (JAMB 2012)",
+    "questionText": "A car starts from rest and moves with a uniform acceleration of 30ms⁻² for 20s. Calculate the distance covered at the end of the motion",
     "options": [
       "6km",
       "12km",
@@ -6049,7 +6049,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-352-774",
-    "questionText": "The figure above shows 4 forces 3N, 10N, 3√3N and 6N acting on a particle P. The resultant of the four forces is (JAMB 2007)",
+    "questionText": "The figure above shows 4 forces 3N, 10N, 3√3N and 6N acting on a particle P. The resultant of the four forces is",
     "options": [
       "5N",
       "5√3N",
@@ -6061,7 +6061,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-353-113",
-    "questionText": "Two plane mirrors are inclined at angle 45 to another. A ray of light has incident angle of 20 at the surface of the first mirror. The reflected ray is then incident on the second mirror. Calculate the angle of reflection at the second mirror  (JAMB 2012)",
+    "questionText": "Two plane mirrors are inclined at angle 45 to another. A ray of light has incident angle of 20 at the surface of the first mirror. The reflected ray is then incident on the second mirror. Calculate the angle of reflection at the second mirror",
     "options": [
       "65",
       "45",
@@ -6073,7 +6073,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-354-114",
-    "questionText": "When the length of the string of a simple pendulum is L its period is 0.5π second is 0.5π seconds. The period when the length is increased to 4L will be  (JAMB 2012)",
+    "questionText": "When the length of the string of a simple pendulum is L its period is 0.5π second is 0.5π seconds. The period when the length is increased to 4L will be",
     "options": [
       "0.5π seconds",
       "π seconds",
@@ -6085,7 +6085,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-355-394",
-    "questionText": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is  (JAMB 2020)",
+    "questionText": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is",
     "options": [
       "5 volts",
       "10 volts",
@@ -6097,7 +6097,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-356-796",
-    "questionText": "Lenz's law is a law of conservation of (JAMB 2007)",
+    "questionText": "Lenz's law is a law of conservation of",
     "options": [
       "electric charge",
       "electric current",
@@ -6109,7 +6109,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-357-290",
-    "questionText": "What type of reaction is represented by the following scheme?\n²¹X + ²¹Y → ³²Z + ¹⁰n + energy (JAMB 2018)",
+    "questionText": "What type of reaction is represented by the following scheme?\n²¹X + ²¹Y → ³²Z + ¹⁰n + energy",
     "options": [
       "Fusion reaction",
       "Fission reaction",
@@ -6121,7 +6121,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-358-1005",
-    "questionText": "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the (JAMB 2012)",
+    "questionText": "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the",
     "options": [
       "acceleration is directly proportional to the displacement",
       "motion is directed away from the equilibrium point",
@@ -6133,7 +6133,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-359-112",
-    "questionText": "Sound waves were sent out from a source and after being reflected from  an obstacle were received by a sensor placed beside the source. If the waves were received 10 seconds after they were sent out, calculate  the distance between the  source and the obstacle (speed of sound = 330 m/s)  (JAMB 2011)",
+    "questionText": "Sound waves were sent out from a source and after being reflected from  an obstacle were received by a sensor placed beside the source. If the waves were received 10 seconds after they were sent out, calculate  the distance between the  source and the obstacle (speed of sound = 330 m/s)",
     "options": [
       "990m",
       "660m",
@@ -6145,7 +6145,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-360-715",
-    "questionText": "During electrolysis, 2.0 g of a metal is deposited using a current of 0.5 A in 3 hours. The mass of the same metal which can be deposited using a current of 1.5 A in 1 hour is? (JAMB 2006)",
+    "questionText": "During electrolysis, 2.0 g of a metal is deposited using a current of 0.5 A in 3 hours. The mass of the same metal which can be deposited using a current of 1.5 A in 1 hour is?",
     "options": [
       "1.0 g",
       "0.5 g",
@@ -6157,7 +6157,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-361-145",
-    "questionText": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance 4.7m away from him in his room. At what distance is the image found from Abioye's eye? (JAMB 2015)",
+    "questionText": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance 4.7m away from him in his room. At what distance is the image found from Abioye's eye?",
     "options": [
       "9.4m",
       "7.5m",
@@ -6169,7 +6169,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-362-1088",
-    "questionText": "What happens when three coplanar non-parallel forces are in equilibrium? (JAMB 2014)",
+    "questionText": "What happens when three coplanar non-parallel forces are in equilibrium?",
     "options": [
       "Their lines of action are parallel.",
       "They are represented in magnitude only",
@@ -6181,7 +6181,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-363-868",
-    "questionText": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their? (JAMB 2009)",
+    "questionText": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their?",
     "options": [
       "quality",
       "pitch",
@@ -6193,7 +6193,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-364-354",
-    "questionText": "A vibrator causes water ripples to travel across the surface of a tank. The wave travels 50cm in 2s and the distance between successive crests is 5cm. Calculate the frequency of the vibrator (JAMB 2019)",
+    "questionText": "A vibrator causes water ripples to travel across the surface of a tank. The wave travels 50cm in 2s and the distance between successive crests is 5cm. Calculate the frequency of the vibrator",
     "options": [
       "5Hz",
       "6Hz",
@@ -6205,7 +6205,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-365-177",
-    "questionText": "What is the S.I unit of relative density? (JAMB 2015)",
+    "questionText": "What is the S.I unit of relative density?",
     "options": [
       "kg m-2",
       "kg m2",
@@ -6217,7 +6217,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-366-849",
-    "questionText": "A ray of light traveling from air into glass is incident at an angle of 60° to the normal. If the refractive index of the glass is 1.5, calculate the angle of refraction in the glass. (JAMB 2008)",
+    "questionText": "A ray of light traveling from air into glass is incident at an angle of 60° to the normal. If the refractive index of the glass is 1.5, calculate the angle of refraction in the glass.",
     "options": [
       "30.7°",
       "35.3°",
@@ -6229,7 +6229,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-367-323",
-    "questionText": "The force between the molecules of a liquid in contact with that of a solid is? (JAMB 2018)",
+    "questionText": "The force between the molecules of a liquid in contact with that of a solid is?",
     "options": [
       "Adhesive",
       "Cohesive",
@@ -6241,7 +6241,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-368-876",
-    "questionText": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will? (JAMB 2009)",
+    "questionText": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will?",
     "options": [
       "close up",
       "become positively charged",
@@ -6253,7 +6253,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-369-449",
-    "questionText": "I. A liquid boils when its saturated vapor pressure is equal to the external pressure\nII. Dissolved substances in pure water lead to an increase in the boiling point.\nIII. When the external pressure is increased, the boiling point increases.\nIV. Dissolved substances in pure water decreases the boiling point \n\nWhich of the above combinations are peculiarities of the boiling point of a liquid? (JAMB 2021)",
+    "questionText": "I. A liquid boils when its saturated vapor pressure is equal to the external pressure\nII. Dissolved substances in pure water lead to an increase in the boiling point.\nIII. When the external pressure is increased, the boiling point increases.\nIV. Dissolved substances in pure water decreases the boiling point \n\nWhich of the above combinations are peculiarities of the boiling point of a liquid?",
     "options": [
       "I, II and III only",
       "I, II, III, and IV",
@@ -6265,7 +6265,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-370-379",
-    "questionText": "In semi-conductor, the carriers of current at room temperature are (JAMB 2019)",
+    "questionText": "In semi-conductor, the carriers of current at room temperature are",
     "options": [
       "electrons only",
       "electrons and holes",
@@ -6277,7 +6277,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-371-626",
-    "questionText": "A 100kg box is pushed along a road with force of 500N. If the box moves with a uniform velocity, the coefficient of friction between the box and the road is (JAMB 2004)",
+    "questionText": "A 100kg box is pushed along a road with force of 500N. If the box moves with a uniform velocity, the coefficient of friction between the box and the road is",
     "options": [
       "0.4",
       "1",
@@ -6289,7 +6289,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-372-805",
-    "questionText": "If a body of mass 5kg is thrown vertically upwards with velocity u, at what height will the potential energy equal to the kinetic energy? (JAMB 2008)",
+    "questionText": "If a body of mass 5kg is thrown vertically upwards with velocity u, at what height will the potential energy equal to the kinetic energy?",
     "options": [
       "h = u²/g",
       "h = u²/4g",
@@ -6301,7 +6301,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-373-1112",
-    "questionText": "What is the best method of demagnetizing a steel bar magnet? (JAMB 2014)",
+    "questionText": "What is the best method of demagnetizing a steel bar magnet?",
     "options": [
       "Hammering",
       "Heating it",
@@ -6313,7 +6313,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-374-603",
-    "questionText": "For semi conductor to have negative temperature coefficient of resistance implies that (JAMB 2004)",
+    "questionText": "For semi conductor to have negative temperature coefficient of resistance implies that",
     "options": [
       "their resistance decrease with temperature",
       "The resistance increase with temperature",
@@ -6325,7 +6325,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-375-182",
-    "questionText": "What happens to a water pool on a day when the humidity of the air is very low? (JAMB 2016)",
+    "questionText": "What happens to a water pool on a day when the humidity of the air is very low?",
     "options": [
       "Temperature decreases",
       "Slow evaporation",
@@ -6337,7 +6337,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-376-928",
-    "questionText": "Two inductors of inductance 5 mll and 15 mll are connected in series and a current of 5A flows through them. the total energy stored in the inductor is? (JAMB 2010)",
+    "questionText": "Two inductors of inductance 5 mll and 15 mll are connected in series and a current of 5A flows through them. the total energy stored in the inductor is?",
     "options": [
       "500.0J",
       "250.0J",
@@ -6349,7 +6349,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-377-437",
-    "questionText": "The inner diameter of a test tube can be measured accurately using a? (JAMB 2021)",
+    "questionText": "The inner diameter of a test tube can be measured accurately using a?",
     "options": [
       "micrometer screw gauge",
       "pair of dividers",
@@ -6361,7 +6361,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-378-423",
-    "questionText": "A ball of mass 0.5kg moving at 10ms⁻¹ collides with another ball of equal mass at rest. If the two balls move off together after the impact, calculate their common velocity. (JAMB 2021)",
+    "questionText": "A ball of mass 0.5kg moving at 10ms⁻¹ collides with another ball of equal mass at rest. If the two balls move off together after the impact, calculate their common velocity.",
     "options": [
       "0.2 ms⁻¹",
       "0.5 ms⁻¹",
@@ -6373,7 +6373,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-379-981",
-    "questionText": "Under which of the following conditions do gases conduct electricity? (JAMB 2011)",
+    "questionText": "Under which of the following conditions do gases conduct electricity?",
     "options": [
       "Low presssure and low p.d",
       "ow pressure and high p.d",
@@ -6385,7 +6385,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-380-24",
-    "questionText": "A body is projected from the earth’s surface with the hope of letting it escape from the earth gravitational field. What is the minimum escape velocity?  [Earth’s radius = 6.4 x 103km, g = 10 ms-2] (JAMB 2007)",
+    "questionText": "A body is projected from the earth’s surface with the hope of letting it escape from the earth gravitational field. What is the minimum escape velocity?  [Earth’s radius = 6.4 x 103km, g = 10 ms-2]",
     "options": [
       "11.3kms-1",
       "13.3kms-1",
@@ -6397,7 +6397,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-381-204",
-    "questionText": " radioactive isotope has a decay constant of 10⁻⁶ s⁻¹. Calculate its half-life. (JAMB 2016)",
+    "questionText": " radioactive isotope has a decay constant of 10⁻⁶ s⁻¹. Calculate its half-life.",
     "options": [
       "5.93 × 10⁶ s",
       "6.93 × 10⁵ s",
@@ -6409,7 +6409,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-382-791",
-    "questionText": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600µc across the field is (JAMB 2007)",
+    "questionText": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600µc across the field is",
     "options": [
       "0.8j",
       "1.8j",
@@ -6421,7 +6421,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-383-595",
-    "questionText": "If the rate of evaporation is y, and the rate of condensation is x, then, a vapour is saturated when (JAMB 2024)",
+    "questionText": "If the rate of evaporation is y, and the rate of condensation is x, then, a vapour is saturated when",
     "options": [
       "x > y",
       "x < y",
@@ -6433,7 +6433,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-384-201",
-    "questionText": "A projectile is fired from the ground level with a velocity of 300ms-1 at an angle of a 30o to the horizontal.\nCalculate the time taken to reach the maximum height?\n[g = 10ms-2] (JAMB 2016)",
+    "questionText": "A projectile is fired from the ground level with a velocity of 300ms-1 at an angle of a 30o to the horizontal.\nCalculate the time taken to reach the maximum height?\n[g = 10ms-2]",
     "options": [
       "30s",
       "20s",
@@ -6445,7 +6445,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-385-1010",
-    "questionText": "An object of volume 1 m³ and mass 2 kg is totally immersed in a liquid of density 1 kgm⁻³. Calculate its apparent weight. (JAMB 2012)",
+    "questionText": "An object of volume 1 m³ and mass 2 kg is totally immersed in a liquid of density 1 kgm⁻³. Calculate its apparent weight.",
     "options": [
       "20 N",
       "10 N",
@@ -6457,7 +6457,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-386-546",
-    "questionText": "From the diagram above, if the potential differences across the resistor, capacitor, and inductor are 30V, 120V, and 60V, respectively, the effective potential difference is (JAMB 2023)",
+    "questionText": "From the diagram above, if the potential differences across the resistor, capacitor, and inductor are 30V, 120V, and 60V, respectively, the effective potential difference is",
     "options": [
       "81",
       "67",
@@ -6469,7 +6469,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-387-1148",
-    "questionText": "How long will it take to heat 4 kg of water from 30 °C to 65 °C using an electric kettle taking 5 A from a 240 V supply?\n(Specific heat capacity of water = 4200 J kg⁻¹ K⁻¹) (JAMB 2025)",
+    "questionText": "How long will it take to heat 4 kg of water from 30 °C to 65 °C using an electric kettle taking 5 A from a 240 V supply?\n(Specific heat capacity of water = 4200 J kg⁻¹ K⁻¹)",
     "options": [
       "160 s",
       "245 s",
@@ -6481,7 +6481,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-388-226",
-    "questionText": "Which of the following statements is Not true about atoms? (JAMB 2016)",
+    "questionText": "Which of the following statements is Not true about atoms?",
     "options": [
       "Atom of different elements have different atomic weights",
       "The mass of an atom is concentrated in the nucleus",
@@ -6493,7 +6493,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-389-786",
-    "questionText": "118.8 cm² surface of the copper cathode of a voltameter is to be coated with 10⁻⁶ m thick copper of density 9 × 10³ kg m⁻³. How long will the process run with 10 A constant current?\n[3.3 × 10⁻⁷ kg C⁻¹] (JAMB 2007)",
+    "questionText": "118.8 cm² surface of the copper cathode of a voltameter is to be coated with 10⁻⁶ m thick copper of density 9 × 10³ kg m⁻³. How long will the process run with 10 A constant current?\n[3.3 × 10⁻⁷ kg C⁻¹]",
     "options": [
       "0.54 min",
       "10.8 min",
@@ -6505,7 +6505,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-390-678",
-    "questionText": "A car battery rated 45 A H is charged with a charger whose rating is 2.5A.How long will it take to charge the battery full? (JAMB 2005)",
+    "questionText": "A car battery rated 45 A H is charged with a charger whose rating is 2.5A.How long will it take to charge the battery full?",
     "options": [
       "10 hrs",
       "18 hrs",
@@ -6517,7 +6517,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-391-20",
-    "questionText": "Calculate the length of a displaced pendulum bob that passes its lowest point twice every second. [g=10ms-1]  (JAMB 2007)",
+    "questionText": "Calculate the length of a displaced pendulum bob that passes its lowest point twice every second. [g=10ms-1]",
     "options": [
       ".100m",
       "0.253m",
@@ -6529,7 +6529,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-392-512",
-    "questionText": "\nThe surface temperature of a swimming pool on a warm day is 25ºC and the temperature at the bottom is 15ºC. If the swimming pool has a surface area of 620 m² and a depth of 1.5m. Find the rate at which energy is transferred by conduction from the surface to the bottom of the swimming pool. [Thermal conductivity of water (k) = 0.6071 Wm⁻¹K⁻¹] (JAMB 2023)",
+    "questionText": "\nThe surface temperature of a swimming pool on a warm day is 25ºC and the temperature at the bottom is 15ºC. If the swimming pool has a surface area of 620 m² and a depth of 1.5m. Find the rate at which energy is transferred by conduction from the surface to the bottom of the swimming pool. [Thermal conductivity of water (k) = 0.6071 Wm⁻¹K⁻¹]",
     "options": [
       "2.5 kW",
       "250 kW",
@@ -6541,7 +6541,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898321-393-466",
-    "questionText": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration. (JAMB 2022)",
+    "questionText": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
     "options": [
       "3.20 ms⁻²",
       "0.25 ms⁻²",
@@ -6553,7 +6553,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-394-1109",
-    "questionText": "The maximum power transfer occur in a cell when the external resistance is (JAMB 2014)",
+    "questionText": "The maximum power transfer occur in a cell when the external resistance is",
     "options": [
       "Twice the internal resistance of the cell",
       "The same as the internal resistance of the cell",
@@ -6565,7 +6565,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-395-424",
-    "questionText": "The motion of a body is simple harmonic if the? (JAMB 2021)",
+    "questionText": "The motion of a body is simple harmonic if the?",
     "options": [
       "acceleration is always directed towards a fixed point",
       "path of motion is a straight line",
@@ -6577,7 +6577,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-396-955",
-    "questionText": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will (JAMB 2011)",
+    "questionText": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will",
     "options": [
       "remain at the same level irrespective of whether the liquid wet the glass or not",
       "fall below the liquid level if the liquid wets the glass",
@@ -6589,7 +6589,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-397-674",
-    "questionText": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because? (JAMB 2005)",
+    "questionText": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because?",
     "options": [
       "of the even expansion of glass",
       "glass is a crystal",
@@ -6601,7 +6601,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-398-293",
-    "questionText": "Shadows and eclipses result from the (JAMB 2018)",
+    "questionText": "Shadows and eclipses result from the",
     "options": [
       "refraction of light",
       "reflection of light",
@@ -6613,7 +6613,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-399-781",
-    "questionText": "Three cells each of e.m.f 1.5 V and internal resistance 2.5 Ω are connected as shown in the diagram above. Find the net e.m.f and the internal resistance. (JAMB 2007)",
+    "questionText": "Three cells each of e.m.f 1.5 V and internal resistance 2.5 Ω are connected as shown in the diagram above. Find the net e.m.f and the internal resistance.",
     "options": [
       "1.5 V, 7.50 Ω",
       "1.5 V, 0.83 Ω",
@@ -6625,7 +6625,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-400-157",
-    "questionText": "Quantities of heat Q can be measured using a container called (JAMB 2015)",
+    "questionText": "Quantities of heat Q can be measured using a container called",
     "options": [
       "Thermometer",
       "Measuring cylinder",
@@ -6637,7 +6637,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-401-469",
-    "questionText": "A cell whose internal resistance is 0.55Ω\n delivers a current of 4 A to an external resistor. The lost voltage of the cell is? (JAMB 2022)",
+    "questionText": "A cell whose internal resistance is 0.55Ω\n delivers a current of 4 A to an external resistor. The lost voltage of the cell is?",
     "options": [
       "4.00 V",
       "2.20 V",
@@ -6649,7 +6649,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-402-43",
-    "questionText": "Which of these is not a fundamental S.I unit  (JAMB 2009)",
+    "questionText": "Which of these is not a fundamental S.I unit",
     "options": [
       "Ampere",
       "Kelvin",
@@ -6661,7 +6661,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-403-1139",
-    "questionText": "A boy uses a single string pulley system to lift a mass of 20 kg moving with a velocity of 5 m s⁻¹. What is the power developed by the boy if g = 10 m s⁻²? (JAMB 2025)",
+    "questionText": "A boy uses a single string pulley system to lift a mass of 20 kg moving with a velocity of 5 m s⁻¹. What is the power developed by the boy if g = 10 m s⁻²?",
     "options": [
       "100 W",
       "1000 W",
@@ -6673,7 +6673,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-404-632",
-    "questionText": "What happens to the rays in a parallel beam of light? (JAMB 2004)",
+    "questionText": "What happens to the rays in a parallel beam of light?",
     "options": [
       "They diverge as they travel",
       "they intersect",
@@ -6685,7 +6685,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-405-898",
-    "questionText": "The process of energy production in the sun is? (JAMB 2009)",
+    "questionText": "The process of energy production in the sun is?",
     "options": [
       "Nuclear fission",
       "Nuclear fusion",
@@ -6697,7 +6697,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-406-943",
-    "questionText": "In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is? (JAMB 2010)",
+    "questionText": "In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is?",
     "options": [
       "₦1,920.00",
       "₦192.00",
@@ -6709,7 +6709,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-407-385",
-    "questionText": "Which of the following statements about radioactivity is true?\n\n(i) Alpha particle is positively charged\n\n(ii) Beta particle is negatively charged\n\n(iii) Gamma ray is neutral\n\n(iv) Beta particle has the  same mass as helium atom\n\n(v) Gamma ray is charged.  (JAMB 2020)",
+    "questionText": "Which of the following statements about radioactivity is true?\n\n(i) Alpha particle is positively charged\n\n(ii) Beta particle is negatively charged\n\n(iii) Gamma ray is neutral\n\n(iv) Beta particle has the  same mass as helium atom\n\n(v) Gamma ray is charged.",
     "options": [
       "i, ii, iii, iv only",
       "i, ii, iii only",
@@ -6721,7 +6721,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-408-612",
-    "questionText": "Which of the following is an electrolyte? (JAMB 2004)",
+    "questionText": "Which of the following is an electrolyte?",
     "options": [
       "Paraffin",
       "Sugar solution",
@@ -6733,7 +6733,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-409-710",
-    "questionText": "The main purpose of the transformer in an a.c radio set is to? (JAMB 2006)",
+    "questionText": "The main purpose of the transformer in an a.c radio set is to?",
     "options": [
       "increase power to the radio",
       "step up the voltage",
@@ -6745,7 +6745,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-410-838",
-    "questionText": "A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled? (JAMB 2008)",
+    "questionText": "A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled?",
     "options": [
       "4.0 ms-1",
       "6.6 m s⁻¹",
@@ -6757,7 +6757,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-411-153",
-    "questionText": "The compressed regions and the space-out regions in longitude wave are refers to as (JAMB 2015)",
+    "questionText": "The compressed regions and the space-out regions in longitude wave are refers to as",
     "options": [
       "Compression and Rarefaction",
       "Comparison and Explosion",
@@ -6769,7 +6769,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-412-453",
-    "questionText": "If a sound wave goes from a cold air region to a hot air region, its wavelength will? (JAMB 2021)",
+    "questionText": "If a sound wave goes from a cold air region to a hot air region, its wavelength will?",
     "options": [
       "increase",
       "decrease",
@@ -6781,7 +6781,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-413-1036",
-    "questionText": "The process of detecting a pin mistakenly swallowed by a child is X-ray (JAMB 2012)",
+    "questionText": "The process of detecting a pin mistakenly swallowed by a child is X-ray",
     "options": [
       "Diagnosis",
       "Therapy",
@@ -6793,7 +6793,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-414-1019",
-    "questionText": "I. It is a rapid, constant and irregular motion of tiny particles.\nII. It gives evidence that tiny particles of matter called molecules exist.\nIII. It takes place only in gases.\nIV. It gives evidence that molecules are in a constant state of random motion.\nWhich of the combinations above is correct about Brownian motion? (JAMB 2012)",
+    "questionText": "I. It is a rapid, constant and irregular motion of tiny particles.\nII. It gives evidence that tiny particles of matter called molecules exist.\nIII. It takes place only in gases.\nIV. It gives evidence that molecules are in a constant state of random motion.\nWhich of the combinations above is correct about Brownian motion?",
     "options": [
       "I, II and III only",
       "II, III and IV only",
@@ -6805,7 +6805,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-415-429",
-    "questionText": "A source of sound produces waves in air of wavelength 1.65m. If the speed of sound in air is 330ms⁻¹, the period of vibration in air is? (JAMB 2021)",
+    "questionText": "A source of sound produces waves in air of wavelength 1.65m. If the speed of sound in air is 330ms⁻¹, the period of vibration in air is?",
     "options": [
       "200 s",
       "0.005 s",
@@ -6817,7 +6817,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-416-1023",
-    "questionText": "Where can a man place his face to get an enlarged image when using a concave mirror to shave? (JAMB 2012)",
+    "questionText": "Where can a man place his face to get an enlarged image when using a concave mirror to shave?",
     "options": [
       "Between the centre of curvature and the principal focus",
       "At the principal focus",
@@ -6829,7 +6829,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-417-341",
-    "questionText": "Which of the following is/are the limitations to the Rutherford's atomic models?\n\nI. It is applicable when energy is radiated as electrons are revolving\n\nII. It is applicable when energy is radiated in a continuous mode\n\nIII. It is applicable to an atom with only one electron in the other shell (JAMB 2019)",
+    "questionText": "Which of the following is/are the limitations to the Rutherford's atomic models?\n\nI. It is applicable when energy is radiated as electrons are revolving\n\nII. It is applicable when energy is radiated in a continuous mode\n\nIII. It is applicable to an atom with only one electron in the other shell",
     "options": [
       "I only",
       "II only",
@@ -6841,7 +6841,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-418-286",
-    "questionText": "Which of the following best describes the energy changes which take place when a steam engine drives a generator which lights a lamp? (JAMB 2018)",
+    "questionText": "Which of the following best describes the energy changes which take place when a steam engine drives a generator which lights a lamp?",
     "options": [
       "heat ----> Light----> Sound ----> Kinetic",
       "Kinetic ----> Light ----> Heat ----> Electricity",
@@ -6853,7 +6853,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-419-727",
-    "questionText": "One of the properties of gamma rays is that they are? (JAMB 2006)",
+    "questionText": "One of the properties of gamma rays is that they are?",
     "options": [
       "neutral",
       "massive",
@@ -6865,7 +6865,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-420-777",
-    "questionText": "A boy drags a bag of rice along a smooth horizontal floor with a force of 2 N applied at an angle of 60° to the floor. The work done after a distance of 3 m is? (JAMB 2007)",
+    "questionText": "A boy drags a bag of rice along a smooth horizontal floor with a force of 2 N applied at an angle of 60° to the floor. The work done after a distance of 3 m is?",
     "options": [
       "3 J",
       "4 J",
@@ -6877,7 +6877,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-421-1027",
-    "questionText": "A glass block of thickness 10cm is placed on an object. If an observer views the object vertically, the displacement of the object is (JAMB 2012)",
+    "questionText": "A glass block of thickness 10cm is placed on an object. If an observer views the object vertically, the displacement of the object is",
     "options": [
       "3.33cm",
       "5.00 cm",
@@ -6889,7 +6889,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-422-521",
-    "questionText": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects? (JAMB 2023)",
+    "questionText": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects?",
     "options": [
       "Pyrometer thermometer",
       "Platinum resistance thermometer",
@@ -6901,7 +6901,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-423-510",
-    "questionText": "Name the type of equilibrium for each position of the ball (JAMB 2023)",
+    "questionText": "Name the type of equilibrium for each position of the ball",
     "options": [
       "A - unstable, B - neutral, C - stable",
       "A - stable, B - neutral, C - unstable",
@@ -6913,7 +6913,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-424-814",
-    "questionText": "A sealed flask contains 600cm³ of air at 27°C and is heated to 35°C at constant pressure. The new volume is? (JAMB 2008)",
+    "questionText": "A sealed flask contains 600cm³ of air at 27°C and is heated to 35°C at constant pressure. The new volume is?",
     "options": [
       "508 cm³",
       "516 cm³",
@@ -6925,7 +6925,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-425-21",
-    "questionText": "When a ball rolls on a  smooth level ground, the motion of its centre is  (JAMB 2007)",
+    "questionText": "When a ball rolls on a  smooth level ground, the motion of its centre is",
     "options": [
       "translational",
       "Random",
@@ -6937,7 +6937,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-426-851",
-    "questionText": "What is the acceleration between two points on a velocity-time graph which has coordinates (10 s, 15 m s⁻¹) and (20 s, 35 m s⁻¹)? (JAMB 2009)",
+    "questionText": "What is the acceleration between two points on a velocity-time graph which has coordinates (10 s, 15 m s⁻¹) and (20 s, 35 m s⁻¹)?",
     "options": [
       "1.7 m s⁻²",
       "3.50 m s⁻²",
@@ -6949,7 +6949,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-427-170",
-    "questionText": "A radioactive source emits X–rays of very short wavelength (10⁻¹³ m ). What is the frequency of these rays? (JAMB 2015)",
+    "questionText": "A radioactive source emits X–rays of very short wavelength (10⁻¹³ m ). What is the frequency of these rays?",
     "options": [
       "2 × 10¹⁸ Hz",
       "3 × 10¹⁹ Hz",
@@ -6961,7 +6961,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-428-618",
-    "questionText": "The difference between X-rays and gamma rays is that (JAMB 2004)",
+    "questionText": "The difference between X-rays and gamma rays is that",
     "options": [
       "x-rays are more penetrating than gamma rays",
       "x-rays are electromagnetic radiations while gamma rays are negatively charged radiation",
@@ -6973,7 +6973,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-429-691",
-    "questionText": "The figure above shows three capacitors, 2μF, 3μF and 6μF connected in series. If the p.d across the system is 12V, the p.d across the 6μF capacitor is (JAMB 2005)",
+    "questionText": "The figure above shows three capacitors, 2μF, 3μF and 6μF connected in series. If the p.d across the system is 12V, the p.d across the 6μF capacitor is",
     "options": [
       "4V",
       "12V",
@@ -6985,7 +6985,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-430-491",
-    "questionText": "Which expression gives magnetic flux? (JAMB 2022)",
+    "questionText": "Which expression gives magnetic flux?",
     "options": [
       "qVB sinθ",
       "μ₀I/2πr",
@@ -6997,7 +6997,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-431-295",
-    "questionText": "Which of the following statements are TRUE of isotopes?\nI. Isotopes of an element have the same chemical properties because they have the same number of electrons\nII. Isotopes of elements are normally separated using physical properties\nIII. Isotopes of an element have the same number of protons in their nuclei (JAMB 2018)",
+    "questionText": "Which of the following statements are TRUE of isotopes?\nI. Isotopes of an element have the same chemical properties because they have the same number of electrons\nII. Isotopes of elements are normally separated using physical properties\nIII. Isotopes of an element have the same number of protons in their nuclei",
     "options": [
       "I and II only",
       "I and III only",
@@ -7009,7 +7009,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-432-571",
-    "questionText": "If a sheet of an insulating material is inserted between the plates of an air capacitor, the capacitance will (JAMB 2024)",
+    "questionText": "If a sheet of an insulating material is inserted between the plates of an air capacitor, the capacitance will",
     "options": [
       "become zero",
       "decrease",
@@ -7021,7 +7021,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-433-989",
-    "questionText": "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is (JAMB 2011)",
+    "questionText": "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is",
     "options": [
       "14.0 N",
       "10.0 N",
@@ -7033,7 +7033,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-434-907",
-    "questionText": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and? (JAMB 2010)",
+    "questionText": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and?",
     "options": [
       "a density bottle",
       "an eureka can",
@@ -7045,7 +7045,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-435-470",
-    "questionText": "Which of the following liquid is a poor conductor of electricity? (JAMB 2022)",
+    "questionText": "Which of the following liquid is a poor conductor of electricity?",
     "options": [
       "Distilled water",
       "Tap water",
@@ -7057,7 +7057,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-436-482",
-    "questionText": "A reservoir is filled with liquid of density 2000 kgm⁻³. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm⁻² (g = 10 ms⁻²) (JAMB 2022)",
+    "questionText": "A reservoir is filled with liquid of density 2000 kgm⁻³. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm⁻² (g = 10 ms⁻²)",
     "options": [
       "0.262 m",
       "0.664 m",
@@ -7069,7 +7069,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-437-967",
-    "questionText": "A cannon is fired from town X, after how long is the sound heard at a town Y 4.95 km away? [velocity of sound in the air = 330 ms⁻¹] (JAMB 2011)",
+    "questionText": "A cannon is fired from town X, after how long is the sound heard at a town Y 4.95 km away? [velocity of sound in the air = 330 ms⁻¹]",
     "options": [
       "30 s",
       "10 s",
@@ -7081,7 +7081,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-438-793",
-    "questionText": "A 40kW electric cable was used to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is (JAMB 2007)",
+    "questionText": "A 40kW electric cable was used to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is",
     "options": [
       "4.0 × 10² W",
       "5.0 × 10² W",
@@ -7093,7 +7093,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-439-255",
-    "questionText": "A string of length 5cm is extended by 0.04m when a load of 0.8kg is suspended at the end. How far will it extend if a force of 16N is applied? [g = 10ms⁻²] (JAMB 2017)",
+    "questionText": "A string of length 5cm is extended by 0.04m when a load of 0.8kg is suspended at the end. How far will it extend if a force of 16N is applied? [g = 10ms⁻²]",
     "options": [
       "0.04m",
       "0.12m",
@@ -7105,7 +7105,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-440-905",
-    "questionText": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire (JAMB 2010)",
+    "questionText": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire",
     "options": [
       "0.75 J",
       "7.50 J",
@@ -7117,7 +7117,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-441-479",
-    "questionText": "For a pear-shaped conductor shown above, the concentration of charge on the outside is highest at? (JAMB 2022)",
+    "questionText": "For a pear-shaped conductor shown above, the concentration of charge on the outside is highest at?",
     "options": [
       "X",
       "Z",
@@ -7129,7 +7129,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-442-998",
-    "questionText": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is (JAMB 2011)",
+    "questionText": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
     "options": [
       "1:3",
       "2:9",
@@ -7141,7 +7141,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-443-12",
-    "questionText": "The most suitable type of mirror used for the construction of search light is the:  (JAMB 2006)",
+    "questionText": "The most suitable type of mirror used for the construction of search light is the:",
     "options": [
       "concave mirror",
       "Convex mirror",
@@ -7153,7 +7153,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-444-594",
-    "questionText": "In electrolysis, when same quantity of electricity is passed through different electrolytes, mass of substances deposited is proportional to  (JAMB 2024)",
+    "questionText": "In electrolysis, when same quantity of electricity is passed through different electrolytes, mass of substances deposited is proportional to",
     "options": [
       "Molecular weight",
       "Chemical equivalent",
@@ -7165,7 +7165,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-445-367",
-    "questionText": "The momentum of a car moving at a constant speed in a circular track (JAMB 2019)",
+    "questionText": "The momentum of a car moving at a constant speed in a circular track",
     "options": [
       "can be both positive and negative",
       "can be zero depending on its position in the track",
@@ -7177,7 +7177,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-446-884",
-    "questionText": "When a pentavalent impurity is added to a pure semiconductor, it becomes? (JAMB 2009)",
+    "questionText": "When a pentavalent impurity is added to a pure semiconductor, it becomes?",
     "options": [
       "a p-type semiconductor",
       "an n-type semiconductor",
@@ -7189,7 +7189,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-447-26",
-    "questionText": "The energy contained in wire when it is extended by 0.02m by a force 500N is  (JAMB 2007)",
+    "questionText": "The energy contained in wire when it is extended by 0.02m by a force 500N is",
     "options": [
       "104J",
       "103J",
@@ -7201,7 +7201,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-448-211",
-    "questionText": "A pool of water appears to be 1.00m deep when viewed vertically from above. What is the actual depth of the pool?\n[Refractive index of water = 1.33] (JAMB 2016)",
+    "questionText": "A pool of water appears to be 1.00m deep when viewed vertically from above. What is the actual depth of the pool?\n[Refractive index of water = 1.33]",
     "options": [
       "13.300m",
       "0.750m",
@@ -7213,7 +7213,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-449-619",
-    "questionText": "To protect a material from the influnce of an external magnetic field, the materials should be kept (JAMB 2004)",
+    "questionText": "To protect a material from the influnce of an external magnetic field, the materials should be kept",
     "options": [
       "square steel ring",
       "triangular zinc ring",
@@ -7225,7 +7225,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-450-758",
-    "questionText": "I. Use a liquid with a high melting point.\nII. use a liquid of high volume expansivity.\nIII. use a capillary tube of large diameter.\n\nwhich of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced? (JAMB 2007)",
+    "questionText": "I. Use a liquid with a high melting point.\nII. use a liquid of high volume expansivity.\nIII. use a capillary tube of large diameter.\n\nwhich of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced?",
     "options": [
       "I only",
       "II. Only",
@@ -7237,7 +7237,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-451-281",
-    "questionText": "The density of 400cm³ of palm oil was 0.9gcm⁻³ before frying. If the density of the oil was 0.6gcm⁻³ after frying, assuming no loss of oil due to spilling, its new volume was? (JAMB 2018)",
+    "questionText": "The density of 400cm³ of palm oil was 0.9gcm⁻³ before frying. If the density of the oil was 0.6gcm⁻³ after frying, assuming no loss of oil due to spilling, its new volume was?",
     "options": [
       "1360cm³",
       "600cm³",
@@ -7249,7 +7249,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-452-835",
-    "questionText": "I. for current amplification.\n\nII. for voltage stabilization.\n\nIII. for power amplification.\n\nIV. as a switch.\n\nwhich of the above are the uses of transistor? (JAMB 2008)",
+    "questionText": "I. for current amplification.\n\nII. for voltage stabilization.\n\nIII. for power amplification.\n\nIV. as a switch.\n\nwhich of the above are the uses of transistor?",
     "options": [
       "I, II, III and IV",
       "I, III and IV only",
@@ -7261,7 +7261,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-453-527",
-    "questionText": "The near point of a patient's eye is 50.0 cm. What power (in diopters) must a corrective lens have to enable the eye to see clearly an object 25.0 cm away? (JAMB 2023)",
+    "questionText": "The near point of a patient's eye is 50.0 cm. What power (in diopters) must a corrective lens have to enable the eye to see clearly an object 25.0 cm away?",
     "options": [
       "2 diopters",
       "2.5 diopters",
@@ -7273,7 +7273,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-454-251",
-    "questionText": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms⁻², the power expended is (JAMB 2017)",
+    "questionText": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms⁻², the power expended is",
     "options": [
       "100W",
       "200W",
@@ -7285,7 +7285,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-455-235",
-    "questionText": "Under what conditions are cathode rays produced in a discharge tube? (JAMB 2017)",
+    "questionText": "Under what conditions are cathode rays produced in a discharge tube?",
     "options": [
       "High pressure and low voltage",
       "High pressure and high voltage",
@@ -7297,7 +7297,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-456-579",
-    "questionText": "The distance between two successive crests of a water wave is 0.25m. If a particle on the surface of the water makes four complete vertical oscillations in one second. Calculate the speed of the wave. (JAMB 2024)",
+    "questionText": "The distance between two successive crests of a water wave is 0.25m. If a particle on the surface of the water makes four complete vertical oscillations in one second. Calculate the speed of the wave.",
     "options": [
       "4ms⁻¹",
       "3ms⁻¹",
@@ -7309,7 +7309,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-457-872",
-    "questionText": "If the refractive index of crown glass is 1.51, its critical angle is? (JAMB 2009)",
+    "questionText": "If the refractive index of crown glass is 1.51, its critical angle is?",
     "options": [
       "48.6°",
       "22.5°",
@@ -7321,7 +7321,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-458-666",
-    "questionText": "which of the following materials is a conductor? (JAMB 2005)",
+    "questionText": "which of the following materials is a conductor?",
     "options": [
       "Glass",
       "Wax",
@@ -7333,7 +7333,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-459-561",
-    "questionText": "A solid cube of aluminum is 1.5cm on each edge. The density of aluminum is 2700kgm⁻³. Find the mass of the cube. (JAMB 2024)",
+    "questionText": "A solid cube of aluminum is 1.5cm on each edge. The density of aluminum is 2700kgm⁻³. Find the mass of the cube.",
     "options": [
       "7.5g",
       "9.1g",
@@ -7345,7 +7345,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-460-912",
-    "questionText": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts? (JAMB 2010)",
+    "questionText": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts?",
     "options": [
       "the level of water goes up",
       "the water in the glass outflows",
@@ -7357,7 +7357,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-461-748",
-    "questionText": "Use the figures above to answer the question below\n\nWhich of the following diagrams represents correctly an n-p-n transistor? (JAMB 2006)",
+    "questionText": "Use the figures above to answer the question below\n\nWhich of the following diagrams represents correctly an n-p-n transistor?",
     "options": [
       "A",
       "B",
@@ -7369,7 +7369,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-462-865",
-    "questionText": "It is observed that water will wet a clean glass because the? (JAMB 2009)",
+    "questionText": "It is observed that water will wet a clean glass because the?",
     "options": [
       "cohesion of water to glass is stronger than the cohesion of water molecules",
       "adhesion of water molecules is weaker than the cohesion of water to glass",
@@ -7381,7 +7381,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-463-104",
-    "questionText": " A particle is in equilibrium under the action of three forces. One force is 40N towards the west and another is 30N towards the south. What is the third force acting on the body?    (JAMB 2011)",
+    "questionText": " A particle is in equilibrium under the action of three forces. One force is 40N towards the west and another is 30N towards the south. What is the third force acting on the body?",
     "options": [
       "40N, N530E",
       "50N, N370E",
@@ -7393,7 +7393,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-464-631",
-    "questionText": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car? (JAMB 2004)",
+    "questionText": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car?",
     "options": [
       "Parabolic mirrors",
       "Plane mirrors",
@@ -7405,7 +7405,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-465-501",
-    "questionText": "Which of the following statements regarding the application of electrical conduction via gases is/are correct?\nElectrical conduction in gas is applied in:\n(i) The identification of gases\n(ii) Lighting/fluorescent tubes\n(iii) Neon signs/Advertising industry\n(iv) Cathode ray oscilloscope/T.V. tubes (JAMB 2023)",
+    "questionText": "Which of the following statements regarding the application of electrical conduction via gases is/are correct?\nElectrical conduction in gas is applied in:\n(i) The identification of gases\n(ii) Lighting/fluorescent tubes\n(iii) Neon signs/Advertising industry\n(iv) Cathode ray oscilloscope/T.V. tubes",
     "options": [
       "(i), (iii) and (iv) only",
       "(i), (ii), (iii) and (iv)",
@@ -7417,7 +7417,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-466-879",
-    "questionText": "Cancerous cells can be destroyed by? (JAMB 2009)",
+    "questionText": "Cancerous cells can be destroyed by?",
     "options": [
       "ultraviolet rays",
       "alpha particules",
@@ -7429,7 +7429,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-467-1157",
-    "questionText": "The movement of particles in liquids and gases is referred to as (JAMB 2025)",
+    "questionText": "The movement of particles in liquids and gases is referred to as",
     "options": [
       "Translational motion",
       "Isobaric process",
@@ -7441,7 +7441,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-468-1101",
-    "questionText": "The distance between two successive crests of a wave is 15 cm and the velocity 300 m s⁻¹. Calculate the frequency. (JAMB 2014)",
+    "questionText": "The distance between two successive crests of a wave is 15 cm and the velocity 300 m s⁻¹. Calculate the frequency.",
     "options": [
       "2.0 × 10² Hz",
       "4.5 × 10³ Hz",
@@ -7453,7 +7453,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-469-756",
-    "questionText": "A piece of iron weighs 250 N in air and 200 N in a liquid of density 1000 kgm⁻³. The volume of the iron is? (JAMB 2007)",
+    "questionText": "A piece of iron weighs 250 N in air and 200 N in a liquid of density 1000 kgm⁻³. The volume of the iron is?",
     "options": [
       "5.0 × 10⁻³ m³",
       "4.5 × 10⁻³ m³",
@@ -7465,7 +7465,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-470-867",
-    "questionText": "Metal cables are used as telephone wires because? (JAMB 2009)",
+    "questionText": "Metal cables are used as telephone wires because?",
     "options": [
       "they are cheap",
       "they are sourced locally",
@@ -7477,7 +7477,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-471-957",
-    "questionText": "A metal of volume 40 cm³ is heated from 30°C to 90°C, the increase in volume is [Linear expansivity of the metal = 2.0 × 10⁻⁵ K⁻¹] (JAMB 2011)",
+    "questionText": "A metal of volume 40 cm³ is heated from 30°C to 90°C, the increase in volume is [Linear expansivity of the metal = 2.0 × 10⁻⁵ K⁻¹]",
     "options": [
       "0.12 cm³",
       "4.00 cm³",
@@ -7489,7 +7489,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-472-683",
-    "questionText": "\nThe value of F in the figure above when in equilibrium is (JAMB 2005)",
+    "questionText": "\nThe value of F in the figure above when in equilibrium is",
     "options": [
       "10N",
       "12N",
@@ -7501,7 +7501,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-473-65",
-    "questionText": "A man of mass 50kg ascends a flight of stair 5m high in 5 seconds. If acceleration due to gravity is 10ms-2 the power expanded is  (JAMB 2009)",
+    "questionText": "A man of mass 50kg ascends a flight of stair 5m high in 5 seconds. If acceleration due to gravity is 10ms-2 the power expanded is",
     "options": [
       "100W",
       "300W",
@@ -7513,7 +7513,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-474-395",
-    "questionText": "A solid weighs 4.8g in air, 2.8g in water and 3.2g in Kerosine. The ratio of density of the solid to that of the kerosine is  (JAMB 2020)",
+    "questionText": "A solid weighs 4.8g in air, 2.8g in water and 3.2g in Kerosine. The ratio of density of the solid to that of the kerosine is",
     "options": [
       "2",
       "3/2",
@@ -7525,7 +7525,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-475-87",
-    "questionText": "A transformer is connected to a 240 V supply. The primary coil has 40 turns, and the secondary is found to be 960V. What is the ratio of the number of turns of the primary coil to the number of turns of the secondary coil?  (JAMB 2010)",
+    "questionText": "A transformer is connected to a 240 V supply. The primary coil has 40 turns, and the secondary is found to be 960V. What is the ratio of the number of turns of the primary coil to the number of turns of the secondary coil?",
     "options": [
       "4:01",
       "1:04",
@@ -7537,7 +7537,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-476-361",
-    "questionText": "The conductivity of gases at low pressure can be termed as\nI. hot cathode emission\nII. thermo ionic emission\nIII. cold cathode emission\nIV. Field emission (JAMB 2019)",
+    "questionText": "The conductivity of gases at low pressure can be termed as\nI. hot cathode emission\nII. thermo ionic emission\nIII. cold cathode emission\nIV. Field emission",
     "options": [
       "I & II",
       "II & III",
@@ -7549,7 +7549,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-477-1025",
-    "questionText": "The magnification of an object 2cm tall when placed 10cm in front of a plane mirror is (JAMB 2012)",
+    "questionText": "The magnification of an object 2cm tall when placed 10cm in front of a plane mirror is",
     "options": [
       "6.0",
       "1.0",
@@ -7561,7 +7561,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-478-462",
-    "questionText": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is? (JAMB 2022)",
+    "questionText": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is?",
     "options": [
       "0.1 cm⁻¹",
       "10 cm⁻¹",
@@ -7573,7 +7573,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-479-908",
-    "questionText": "A hydrometer is an instrument used in measuring? (JAMB 2010)",
+    "questionText": "A hydrometer is an instrument used in measuring?",
     "options": [
       "vapour pressure of a fluid",
       "density of liquid",
@@ -7585,7 +7585,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-480-889",
-    "questionText": "The terminal velocity of a ball-bearing falling through a viscous fluid is reached when the? (JAMB 2009)",
+    "questionText": "The terminal velocity of a ball-bearing falling through a viscous fluid is reached when the?",
     "options": [
       "upthrust is equal to the weight of the ball",
       "ball accelerate uniformly",
@@ -7597,7 +7597,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-481-610",
-    "questionText": "Flourescent tubes produces light by the (JAMB 2004)",
+    "questionText": "Flourescent tubes produces light by the",
     "options": [
       "excitation of gas molecules",
       "conduction of solar energy",
@@ -7609,7 +7609,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-482-855",
-    "questionText": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction. [g = 10 m s⁻²] (JAMB 2009)",
+    "questionText": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction. [g = 10 m s⁻²]",
     "options": [
       "0.8",
       "0.4",
@@ -7621,7 +7621,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-483-958",
-    "questionText": "A copper wire was subjected to a tensile stress of 7.7 × 10⁷ Nm⁻². Calculate the strain of the wire. [Young's modulus = 1.1 × 10¹¹ Nm⁻²] (JAMB 2011)",
+    "questionText": "A copper wire was subjected to a tensile stress of 7.7 × 10⁷ Nm⁻². Calculate the strain of the wire. [Young's modulus = 1.1 × 10¹¹ Nm⁻²]",
     "options": [
       "2.0 × 10⁻⁵",
       "7.0 × 10⁻³",
@@ -7633,7 +7633,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-484-1099",
-    "questionText": "The temperature at which the water vapour present in the air is just sufficient to saturate air is (JAMB 2014)",
+    "questionText": "The temperature at which the water vapour present in the air is just sufficient to saturate air is",
     "options": [
       "Boiling point",
       "Ice point",
@@ -7645,7 +7645,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-485-421",
-    "questionText": "A man will exert the greatest pressure when he? (JAMB 2021)",
+    "questionText": "A man will exert the greatest pressure when he?",
     "options": [
       "lies flat on his back",
       "lies on his belly",
@@ -7657,7 +7657,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-486-320",
-    "questionText": "A pulley system has three pulleys in the fixed block and two in the movable block and if the pulley has an efficiency of 72%, the mechanical advantage of the system is? (JAMB 2018)",
+    "questionText": "A pulley system has three pulleys in the fixed block and two in the movable block and if the pulley has an efficiency of 72%, the mechanical advantage of the system is?",
     "options": [
       "36",
       "7.2",
@@ -7669,7 +7669,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-487-854",
-    "questionText": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended? [g = 10 m s⁻²] (JAMB 2009)",
+    "questionText": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended? [g = 10 m s⁻²]",
     "options": [
       "11.50 kW",
       "12.60 kW",
@@ -7681,7 +7681,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-488-212",
-    "questionText": "Shadows and eclipse result from the (JAMB 2016)",
+    "questionText": "Shadows and eclipse result from the",
     "options": [
       "Reflection of light",
       "Rectilinear propagation of light",
@@ -7693,7 +7693,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-489-716",
-    "questionText": "When a certain a.c supply is connected to a lamp, it lights with the same brightness as it does with a 12 V d.c battery. Then r.m.s value of the a.c supply is? (JAMB 2006)",
+    "questionText": "When a certain a.c supply is connected to a lamp, it lights with the same brightness as it does with a 12 V d.c battery. Then r.m.s value of the a.c supply is?",
     "options": [
       "12.0 V",
       "3.5 V",
@@ -7705,7 +7705,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-490-547",
-    "questionText": "When light of a certain frequency is incident on a metal surface, no photoelectrons are emitted. If the frequency of the light is increased, what happens to the stopping potential? (JAMB 2023)",
+    "questionText": "When light of a certain frequency is incident on a metal surface, no photoelectrons are emitted. If the frequency of the light is increased, what happens to the stopping potential?",
     "options": [
       "The stopping potential does not change.",
       "The stopping potential decreases.",
@@ -7717,7 +7717,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-491-688",
-    "questionText": "²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ⁹⁰₃₆Kr + 2X\nIn the reaction above, X is (JAMB 2005)",
+    "questionText": "²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ⁹⁰₃₆Kr + 2X\nIn the reaction above, X is",
     "options": [
       "electron",
       "proton",
@@ -7729,7 +7729,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-492-384",
-    "questionText": "In what range of temperature is the expansion of water anomalous? (JAMB 2020)",
+    "questionText": "In what range of temperature is the expansion of water anomalous?",
     "options": [
       "+208°C to +212°C",
       "-80°C to -76°C",
@@ -7741,7 +7741,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-493-22",
-    "questionText": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v.  (JAMB 2007)",
+    "questionText": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v.",
     "options": [
       "mv2/p",
       "mv2/2p",
@@ -7753,7 +7753,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-494-735",
-    "questionText": "Non-luminous object can be seen because they (JAMB 2006)",
+    "questionText": "Non-luminous object can be seen because they",
     "options": [
       "reflect light",
       "are near",
@@ -7765,7 +7765,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-495-14",
-    "questionText": "Three 4Ω resistors were connected in series by Tola, while Ade connected the  (JAMB 2006)",
+    "questionText": "Three 4Ω resistors were connected in series by Tola, while Ade connected the",
     "options": [
       "1:02",
       "1:09",
@@ -7777,7 +7777,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-496-321",
-    "questionText": "When an atom loses or gain a charge it becomes (JAMB 2018)",
+    "questionText": "When an atom loses or gain a charge it becomes",
     "options": [
       "An electron",
       "An ion",
@@ -7789,7 +7789,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-497-202",
-    "questionText": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is (JAMB 2016)",
+    "questionText": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is",
     "options": [
       "40s",
       "10s",
@@ -7801,7 +7801,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-498-76",
-    "questionText": "An air bubble at the bottom of a lake has a volume of 20cm3, pressure of 4.9Pa, and temperature 4oc the bubble rises to the surface where the temperature is 20oc and the pressure 1.0Pa. Find the volume as the bubble reaches the surface. (take 1 atm = 1.0 x 105 N/m2)  (JAMB 2010)",
+    "questionText": "An air bubble at the bottom of a lake has a volume of 20cm3, pressure of 4.9Pa, and temperature 4oc the bubble rises to the surface where the temperature is 20oc and the pressure 1.0Pa. Find the volume as the bubble reaches the surface. (take 1 atm = 1.0 x 105 N/m2)",
     "options": [
       "124cm3",
       "319cm3",
@@ -7813,7 +7813,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-499-635",
-    "questionText": "The pitch of a sound note depends on (JAMB 2004)",
+    "questionText": "The pitch of a sound note depends on",
     "options": [
       "timbre",
       "frequency",
@@ -7825,7 +7825,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-500-915",
-    "questionText": "The pressure of one mole of an ideal gas of volume 10⁻² m³ at a temperature of 27°C is [molar gas constant = 8.3 J mol⁻¹ K⁻¹] (JAMB 2010)",
+    "questionText": "The pressure of one mole of an ideal gas of volume 10⁻² m³ at a temperature of 27°C is [molar gas constant = 8.3 J mol⁻¹ K⁻¹]",
     "options": [
       "2.49 × 10⁴ Nm⁻²",
       "2.24 × 10⁴ Nm⁻²",
@@ -7837,7 +7837,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-501-877",
-    "questionText": "An electric lamp marked 240 V, 60 W is left to operate for an hour. How much energy is generated by the filament? (JAMB 2009)",
+    "questionText": "An electric lamp marked 240 V, 60 W is left to operate for an hour. How much energy is generated by the filament?",
     "options": [
       "3.86 × 10⁵ J",
       "3.56 × 10⁵ J",
@@ -7849,7 +7849,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-502-551",
-    "questionText": "Under which conditions is work done (JAMB 2024)",
+    "questionText": "Under which conditions is work done",
     "options": [
       "A man supports a heavy load on his head with hands.",
       "A woman holds a pot of water",
@@ -7861,7 +7861,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-503-992",
-    "questionText": "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance? (JAMB 2011)",
+    "questionText": "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?",
     "options": [
       "10 cm",
       "25 cm",
@@ -7873,7 +7873,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-504-522",
-    "questionText": "A 400 N box is being pushed across a level floor at a constant speed by a force P of 100 N at an angle of 30.0° to the horizontal, as shown in the the diagram below. What is the coefficient of kinetic friction between the box and the floor? (JAMB 2023)",
+    "questionText": "A 400 N box is being pushed across a level floor at a constant speed by a force P of 100 N at an angle of 30.0° to the horizontal, as shown in the the diagram below. What is the coefficient of kinetic friction between the box and the floor?",
     "options": [
       "0.19",
       "0.24",
@@ -7885,7 +7885,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-505-823",
-    "questionText": "Convex mirror are used as driving mirrors because images formed are? (JAMB 2008)",
+    "questionText": "Convex mirror are used as driving mirrors because images formed are?",
     "options": [
       "erect, virtual and diminished",
       "erect, real and diminished",
@@ -7897,7 +7897,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-506-19",
-    "questionText": "What is the dimension of pressure?  (JAMB 2007)",
+    "questionText": "What is the dimension of pressure?",
     "options": [
       "ML-1T-2",
       "MLT-2",
@@ -7909,7 +7909,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-507-260",
-    "questionText": "Which of the following is correct about an electric cell? (JAMB 2017)",
+    "questionText": "Which of the following is correct about an electric cell?",
     "options": [
       "Primary cell produces a large current for a long time",
       "Secondary cell has a very high internal resistance",
@@ -7921,7 +7921,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-508-850",
-    "questionText": "I. Diameter of a small ball bearing.\nII. Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV. Length of a piece of wire.\n\n\nWhich of the above can be measured using a micrometer screw gauge? (JAMB 2009)",
+    "questionText": "I. Diameter of a small ball bearing.\nII. Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV. Length of a piece of wire.\n\n\nWhich of the above can be measured using a micrometer screw gauge?",
     "options": [
       "I, II and IV only",
       "I and II only",
@@ -7933,7 +7933,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-509-353",
-    "questionText": "A supply of 400V is connected across capacitors of 3μf and 6μf in series. Calculate the charge (JAMB 2019)",
+    "questionText": "A supply of 400V is connected across capacitors of 3μf and 6μf in series. Calculate the charge",
     "options": [
       "8 × 10⁻⁴C",
       "4 × 10⁻²C",
@@ -7945,7 +7945,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-510-738",
-    "questionText": "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1Ω, its resistivity is? (JAMB 2006)",
+    "questionText": "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1Ω, its resistivity is?",
     "options": [
       "2.55 × 10⁵ Ω m",
       "2.55 × 10² Ω m",
@@ -7957,7 +7957,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-511-705",
-    "questionText": "The thermos flask is designed to? (JAMB 2006)",
+    "questionText": "The thermos flask is designed to?",
     "options": [
       "prevent heat loss or gain by conduction, convection and radiation",
       "store hot tea or water",
@@ -7969,7 +7969,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-512-909",
-    "questionText": "One special advantage of alcohol over mercury as a thermometric liquid is its? (JAMB 2010)",
+    "questionText": "One special advantage of alcohol over mercury as a thermometric liquid is its?",
     "options": [
       "low density",
       "low freezing point",
@@ -7981,7 +7981,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-513-1126",
-    "questionText": "Which of the following is not true about a wave in a plucked string? (JAMB 2025)",
+    "questionText": "Which of the following is not true about a wave in a plucked string?",
     "options": [
       "It is mechanical",
       "It has a crest",
@@ -7993,7 +7993,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-514-1055",
-    "questionText": "Steam from boiling water causes more damage on the skin than does boiling water because (JAMB 2013)",
+    "questionText": "Steam from boiling water causes more damage on the skin than does boiling water because",
     "options": [
       "water has a high specific heat",
       "steam has latent heat of vaporization",
@@ -8005,7 +8005,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-515-217",
-    "questionText": "A manometer is an instrument used for measuring (JAMB 2016)",
+    "questionText": "A manometer is an instrument used for measuring",
     "options": [
       "Relative density of liquid",
       "Pressure in liquids and gases",
@@ -8017,7 +8017,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-516-558",
-    "questionText": "When a charged ebonite rod is brought near a charged glass rod, there will be  (JAMB 2024)",
+    "questionText": "When a charged ebonite rod is brought near a charged glass rod, there will be",
     "options": [
       "attraction",
       "repulsion",
@@ -8029,7 +8029,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-517-380",
-    "questionText": "A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is due to? (JAMB 2020)",
+    "questionText": "A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is due to?",
     "options": [
       "convection",
       "osmosis",
@@ -8041,7 +8041,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-518-684",
-    "questionText": "In the figure above, the coefficient of static friction is 0.5. If the tension in the string is T, the acceleration of the system in motion is (JAMB 2005)",
+    "questionText": "In the figure above, the coefficient of static friction is 0.5. If the tension in the string is T, the acceleration of the system in motion is",
     "options": [
       "5 ms⁻²",
       "15 ms⁻²",
@@ -8053,7 +8053,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-519-154",
-    "questionText": "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Mᵃ Lᵇ Tᶜ? (JAMB 2015)",
+    "questionText": "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Mᵃ Lᵇ Tᶜ?",
     "options": [
       "1, – 2, 1",
       "1, 2, – 2",
@@ -8065,7 +8065,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-520-1041",
-    "questionText": "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle of 30° with the resultant, find its magnitude. (JAMB 2013)",
+    "questionText": "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle of 30° with the resultant, find its magnitude.",
     "options": [
       "100.0 N",
       "57.7 N",
@@ -8077,7 +8077,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-521-322",
-    "questionText": "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is? (JAMB 2018)",
+    "questionText": "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is?",
     "options": [
       "0kgm",
       "2kgm/s",
@@ -8089,7 +8089,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-522-1058",
-    "questionText": "The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is (JAMB 2013)",
+    "questionText": "The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is",
     "options": [
       "covection",
       "conduction",
@@ -8101,7 +8101,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-523-787",
-    "questionText": "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane? (JAMB 2007)",
+    "questionText": "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?",
     "options": [
       "50N",
       "100N",
@@ -8113,7 +8113,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-524-820",
-    "questionText": "I. Total internal reflection of light.\nII. Conservation of light energy.\nIII. Relative motion of the earth, sun and moon.\nIV. Rectilinear propagation of light.\n\n\nwhich of the above is a phenomenon of total solar eclipse? (JAMB 2008)",
+    "questionText": "I. Total internal reflection of light.\nII. Conservation of light energy.\nIII. Relative motion of the earth, sun and moon.\nIV. Rectilinear propagation of light.\n\n\nwhich of the above is a phenomenon of total solar eclipse?",
     "options": [
       "I and IV only",
       "II and IV only",
@@ -8125,7 +8125,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-525-266",
-    "questionText": "The action of blotting paper on ink is due to (JAMB 2017)",
+    "questionText": "The action of blotting paper on ink is due to",
     "options": [
       "diffusion",
       "osmosis",
@@ -8137,7 +8137,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-526-534",
-    "questionText": "An object is placed 35 cm away from a convex mirror with a focal length of magnitude 15 cm. What is the location of the image? (JAMB 2023)",
+    "questionText": "An object is placed 35 cm away from a convex mirror with a focal length of magnitude 15 cm. What is the location of the image?",
     "options": [
       "26.25 cm behind the mirror",
       "10.5 cm behind the mirror",
@@ -8149,7 +8149,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-527-485",
-    "questionText": "In the formation of sea breeze, wind blows from? (JAMB 2022)",
+    "questionText": "In the formation of sea breeze, wind blows from?",
     "options": [
       "sky to land",
       "sea to sky",
@@ -8161,7 +8161,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-528-621",
-    "questionText": "If the angle between two vectors P and Q is 0°, the vectors are said to (JAMB 2004)",
+    "questionText": "If the angle between two vectors P and Q is 0°, the vectors are said to",
     "options": [
       "intersect at the angle 45°",
       "intersect at the angle 60°",
@@ -8173,7 +8173,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-529-1018",
-    "questionText": "The quantity of heat energy required to melt completely 1 kg of ice at –30 °C is\n[latent heat of fusion = 3.5 × 10⁵ J kg⁻¹, specific heat capacity of ice = 2.1 × 10³ J kg⁻¹ K⁻¹] (JAMB 2012)",
+    "questionText": "The quantity of heat energy required to melt completely 1 kg of ice at –30 °C is\n[latent heat of fusion = 3.5 × 10⁵ J kg⁻¹, specific heat capacity of ice = 2.1 × 10³ J kg⁻¹ K⁻¹]",
     "options": [
       "4.13 × 10⁶ J",
       "4.13 × 10⁵ J",
@@ -8185,7 +8185,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-530-1040",
-    "questionText": "When a brick is taken from the earth's surface to the moon, its mass (JAMB 2013)",
+    "questionText": "When a brick is taken from the earth's surface to the moon, its mass",
     "options": [
       "remains constant",
       "reduces",
@@ -8197,7 +8197,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-531-6",
-    "questionText": "The ice and steam point of a thermometer are 20mm and 100mm respectively: A temperature of 75oC correspond to Ymm on the thermometer. What is Y?  (JAMB 2006)",
+    "questionText": "The ice and steam point of a thermometer are 20mm and 100mm respectively: A temperature of 75oC correspond to Ymm on the thermometer. What is Y?",
     "options": [
       "100mm",
       "70mm",
@@ -8209,7 +8209,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898322-532-476",
-    "questionText": "A magnet relay is a device used for? (JAMB 2022)",
+    "questionText": "A magnet relay is a device used for?",
     "options": [
       "reading the magnitude of magnetic flux",
       "controlling another circuit carrying larger current",
@@ -8221,7 +8221,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-533-1140",
-    "questionText": "Without considering the containing vessel, what mass of boiled water can raise the temperature of 8 kg of water from 25 °C to 60 °C when mixed in a heat‑proof container? (JAMB 2025)",
+    "questionText": "Without considering the containing vessel, what mass of boiled water can raise the temperature of 8 kg of water from 25 °C to 60 °C when mixed in a heat‑proof container?",
     "options": [
       "10 kg",
       "7 kg",
@@ -8233,7 +8233,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-534-1039",
-    "questionText": "The p-n junction diodes can act as rectifiers because they (JAMB 2012)",
+    "questionText": "The p-n junction diodes can act as rectifiers because they",
     "options": [
       "conduct current when forward-biased",
       "conduct current when reverse-biased",
@@ -8245,7 +8245,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-535-1031",
-    "questionText": "A newly charged 12V accumulator can easily start a car whereas eight new dry cells in series with a effective e.m.f. of 12V cannot start the same car because (JAMB 2012)",
+    "questionText": "A newly charged 12V accumulator can easily start a car whereas eight new dry cells in series with a effective e.m.f. of 12V cannot start the same car because",
     "options": [
       "The current capacity is high",
       "The current capacity is low",
@@ -8257,7 +8257,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-536-1107",
-    "questionText": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf (JAMB 2014)",
+    "questionText": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf",
     "options": [
       "Remains the same",
       "Collapses",
@@ -8269,7 +8269,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-537-383",
-    "questionText": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of? (JAMB 2020)",
+    "questionText": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of?",
     "options": [
       "4",
       "π²",
@@ -8281,7 +8281,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-538-243",
-    "questionText": "An element and its isotope only differ in the number of (JAMB 2017)",
+    "questionText": "An element and its isotope only differ in the number of",
     "options": [
       "protons",
       "electrons",
@@ -8293,7 +8293,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-539-344",
-    "questionText": "When the temperature of a liquid is increased, its surface tension? (JAMB 2019)",
+    "questionText": "When the temperature of a liquid is increased, its surface tension?",
     "options": [
       "increases",
       "decreases",
@@ -8305,7 +8305,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-540-707",
-    "questionText": "A drop of petrol makes a finger colder than a drop of water would because? (JAMB 2006)",
+    "questionText": "A drop of petrol makes a finger colder than a drop of water would because?",
     "options": [
       "petrol takes its latent heat of veporization from the finger",
       "petrol takes its latent heat of fusion from the finger",
@@ -8317,7 +8317,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-541-620",
-    "questionText": "In the diagram above, the ratio of he electric power dissipated in the 6Ω and the 3Ω resistor respectively is (JAMB 2004)",
+    "questionText": "In the diagram above, the ratio of he electric power dissipated in the 6Ω and the 3Ω resistor respectively is",
     "options": [
       "2:1",
       "2:2",
@@ -8329,7 +8329,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-542-1158",
-    "questionText": "What mass of silver is deposited during electrolysis when a current of 0.8 A flows for 25 minutes? (JAMB 2025)",
+    "questionText": "What mass of silver is deposited during electrolysis when a current of 0.8 A flows for 25 minutes?",
     "options": [
       "0.22 g",
       "1.86 g",
@@ -8341,7 +8341,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-543-701",
-    "questionText": "At low humidity in an environment, the human skin is usually? (JAMB 2006)",
+    "questionText": "At low humidity in an environment, the human skin is usually?",
     "options": [
       "damp and rough",
       "damp and smooth",
@@ -8353,7 +8353,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-544-507",
-    "questionText": "A lorry accelerates uniformly in a straight line with acceleration of 4ms⁻² and covers a distance of 250 m in a time interval of 10 s. How far will it travel in the next 10 s? (JAMB 2023)",
+    "questionText": "A lorry accelerates uniformly in a straight line with acceleration of 4ms⁻² and covers a distance of 250 m in a time interval of 10 s. How far will it travel in the next 10 s?",
     "options": [
       "650 m",
       "900 m",
@@ -8365,7 +8365,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-545-408",
-    "questionText": "The lower and upper fixed points marked on a Mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm above the lower fixed point in a room. What is the temperature of the room in degrees Celsius?  (JAMB 2020)",
+    "questionText": "The lower and upper fixed points marked on a Mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm above the lower fixed point in a room. What is the temperature of the room in degrees Celsius?",
     "options": [
       "55.3°C",
       "23.3°C",
@@ -8377,7 +8377,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-546-278",
-    "questionText": "Which of the following is not true of an electrical charge? (JAMB 2017)",
+    "questionText": "Which of the following is not true of an electrical charge?",
     "options": [
       "Negative charge means deficit electrons",
       "Negative charge means excess of electrons",
@@ -8389,7 +8389,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-547-97",
-    "questionText": "A sample of radioactive substance, whose half-life is 16 days, registers 32 decays per second. How long will it take for the rate of decay to reduce to 2 decays per second?  (JAMB 2011)",
+    "questionText": "A sample of radioactive substance, whose half-life is 16 days, registers 32 decays per second. How long will it take for the rate of decay to reduce to 2 decays per second?",
     "options": [
       "80 days",
       "64 days",
@@ -8401,7 +8401,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-548-514",
-    "questionText": "How much net work is required to accelerate a 1200 kg car from 10ms⁻¹ to 15ms⁻¹ (JAMB 2023)",
+    "questionText": "How much net work is required to accelerate a 1200 kg car from 10ms⁻¹ to 15ms⁻¹",
     "options": [
       "1.95×10⁵ J",
       "1.35×10⁴ J",
@@ -8413,7 +8413,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-549-677",
-    "questionText": "The north pole of a magnet can never be separated from the south pole because of the property knowledge as? (JAMB 2005)",
+    "questionText": "The north pole of a magnet can never be separated from the south pole because of the property knowledge as?",
     "options": [
       "magnetic octopole",
       "magnetic monopole",
@@ -8425,7 +8425,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-550-349",
-    "questionText": "The pitch of a screw jack is 0.45cm and the arm is 60cm long. If the efficiency of the Jack is 75/π %, calculate the mechanical advantage. (JAMB 2019)",
+    "questionText": "The pitch of a screw jack is 0.45cm and the arm is 60cm long. If the efficiency of the Jack is 75/π %, calculate the mechanical advantage.",
     "options": [
       "400",
       "300",
@@ -8437,7 +8437,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-551-1142",
-    "questionText": "5400 kJ of heat energy was lost when some amount of steam condensed to water for drinking purposes at 15 °C. What is the quantity of water collected?\n[L = 2.26 × 10⁶ J kg⁻¹, c_w = 4200 J kg⁻¹ K⁻¹] (JAMB 2025)",
+    "questionText": "5400 kJ of heat energy was lost when some amount of steam condensed to water for drinking purposes at 15 °C. What is the quantity of water collected?\n[L = 2.26 × 10⁶ J kg⁻¹, c_w = 4200 J kg⁻¹ K⁻¹]",
     "options": [
       "0.95 kg",
       "8.24 kg",
@@ -8449,7 +8449,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-552-231",
-    "questionText": "Which of the following is not an electromagnetic radiation? (JAMB 2017)",
+    "questionText": "Which of the following is not an electromagnetic radiation?",
     "options": [
       "x - ray",
       "Radio waves",
@@ -8461,7 +8461,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-553-1133",
-    "questionText": "A force of 18 N pulls a 40 kg mass on a horizontal floor at 0.3 m s⁻². Find the coefficient of friction. (JAMB 2025)",
+    "questionText": "A force of 18 N pulls a 40 kg mass on a horizontal floor at 0.3 m s⁻². Find the coefficient of friction.",
     "options": [
       "0.003",
       "0.015",
@@ -8473,7 +8473,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-554-802",
-    "questionText": "If a wheel 1.2 m in diameter rotates at one revolution per second, calculate the velocity of the wheel. (JAMB 2008)",
+    "questionText": "If a wheel 1.2 m in diameter rotates at one revolution per second, calculate the velocity of the wheel.",
     "options": [
       "3.6 ms⁻¹",
       "3.77 ms⁻¹",
@@ -8485,7 +8485,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-555-398",
-    "questionText": "A convex mirror is used as a driving mirror because \n\nI. its image is erect     \n\nII. It has a large field of view\n\nIII. It has a long focal length \n\nIdentify the CORRECT statement(s)  (JAMB 2020)",
+    "questionText": "A convex mirror is used as a driving mirror because \n\nI. its image is erect     \n\nII. It has a large field of view\n\nIII. It has a long focal length \n\nIdentify the CORRECT statement(s)",
     "options": [
       "I and III only",
       "I and II only",
@@ -8497,7 +8497,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-556-1069",
-    "questionText": "Capacitors are used in the induction coil to (JAMB 2013)",
+    "questionText": "Capacitors are used in the induction coil to",
     "options": [
       "control circuits",
       "prevent distortion of electric fields",
@@ -8509,7 +8509,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-557-942",
-    "questionText": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit? (JAMB 2010)",
+    "questionText": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?",
     "options": [
       "14 A",
       "12 A",
@@ -8521,7 +8521,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-558-874",
-    "questionText": "The ability of the human eye to focus object on the retina is referred to as the power of? (JAMB 2009)",
+    "questionText": "The ability of the human eye to focus object on the retina is referred to as the power of?",
     "options": [
       "interference",
       "diffraction",
@@ -8533,7 +8533,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-559-673",
-    "questionText": "Which combination of the above is evident of the molecular nature of matter?\nI. Melting\nII. Boiling\nIII. Refraction\nIV. Conduction (JAMB 2005)",
+    "questionText": "Which combination of the above is evident of the molecular nature of matter?\nI. Melting\nII. Boiling\nIII. Refraction\nIV. Conduction",
     "options": [
       "II, III and IV only",
       "I, II and IV only",
@@ -8545,7 +8545,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-560-450",
-    "questionText": "The temperature gradient across a copper rod of thickness 0.02m, maintained at two temperature junctions of 20°C and 80°C respectively is? (JAMB 2021)",
+    "questionText": "The temperature gradient across a copper rod of thickness 0.02m, maintained at two temperature junctions of 20°C and 80°C respectively is?",
     "options": [
       "3.0 × 10² Km⁻¹",
       "3.0 × 10³ Km⁻¹",
@@ -8557,7 +8557,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-561-832",
-    "questionText": "Caesium has a work function of 3 x 10⁻¹⁹ J. The maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 10¹⁴ Hz is? [h = 6.6 x 10⁻³⁴ Js] (JAMB 2008)",
+    "questionText": "Caesium has a work function of 3 x 10⁻¹⁹ J. The maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 10¹⁴ Hz is? [h = 6.6 x 10⁻³⁴ Js]",
     "options": [
       "1.42 x 10⁻¹⁹ J",
       "3.00 x 10⁻¹⁹ J",
@@ -8569,7 +8569,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-562-895",
-    "questionText": "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80V, 110V, 40V respectively, the effective potential difference is? (JAMB 2009)",
+    "questionText": "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80V, 110V, 40V respectively, the effective potential difference is?",
     "options": [
       "116.3 V",
       "50.0 V",
@@ -8581,7 +8581,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-563-41",
-    "questionText": "Two bodies P and Q are projected on the same horizontal plane, with the same initial speed but at different angles of 30o and 60o respectively to the horizontal. Neglecting air resistance, what is the ratio of range of P to that of Q?  (JAMB 2007)",
+    "questionText": "Two bodies P and Q are projected on the same horizontal plane, with the same initial speed but at different angles of 30o and 60o respectively to the horizontal. Neglecting air resistance, what is the ratio of range of P to that of Q?",
     "options": [
       "1:01",
       "1:√3",
@@ -8593,7 +8593,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-564-934",
-    "questionText": "The diagram above shows a velocity - time graph. The statement that is true about this motion is that the car? (JAMB 2010)",
+    "questionText": "The diagram above shows a velocity - time graph. The statement that is true about this motion is that the car?",
     "options": [
       "has no acceleration between point F and G",
       "decelerates between F and H",
@@ -8605,7 +8605,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-565-1033",
-    "questionText": "A particle carrying a charge of 1.0 × 10⁻⁸ C enters a magnetic field at 3.0 × 10⁻² ms⁻¹ at right angles to the field. If the force on this particle is 1.8 × 10⁻⁸ N, what is the magnitude of the field? (JAMB 2012)",
+    "questionText": "A particle carrying a charge of 1.0 × 10⁻⁸ C enters a magnetic field at 3.0 × 10⁻² ms⁻¹ at right angles to the field. If the force on this particle is 1.8 × 10⁻⁸ N, what is the magnitude of the field?",
     "options": [
       "6.0 × 10⁻¹ T",
       "6.0 × 10¹ T",
@@ -8617,7 +8617,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-566-817",
-    "questionText": "In a good thermos flask, heat loss is reduced through the following features EXCEPT? (JAMB 2008)",
+    "questionText": "In a good thermos flask, heat loss is reduced through the following features EXCEPT?",
     "options": [
       "the lens surface",
       "the insulating cork",
@@ -8629,7 +8629,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-567-743",
-    "questionText": "A shooter wants to fire a bullet in such a way that its horizontal range is equal to three times its maximum height. At the what angle should he fire the bullet to achieve this? (JAMB 2006)",
+    "questionText": "A shooter wants to fire a bullet in such a way that its horizontal range is equal to three times its maximum height. At the what angle should he fire the bullet to achieve this?",
     "options": [
       "68°",
       "53°",
@@ -8641,7 +8641,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-568-1",
-    "questionText": "A 70kg man ascends a flight of stairs of height 4m in 7s. The power expended by the man is; (JAMB 2006)",
+    "questionText": "A 70kg man ascends a flight of stairs of height 4m in 7s. The power expended by the man is;",
     "options": [
       "40W",
       "100W",
@@ -8653,7 +8653,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-569-901",
-    "questionText": "A stone and a feather are dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct? (JAMB 2010)",
+    "questionText": "A stone and a feather are dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct?",
     "options": [
       "the feather will be blown away by the wind while stone will drop steadily",
       "the stone and the feather will both reach the ground at the same time",
@@ -8665,7 +8665,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-570-702",
-    "questionText": "If the relative density of gold is 19.2, the volume of 2.4kg of gold is? (JAMB 2006)",
+    "questionText": "If the relative density of gold is 19.2, the volume of 2.4kg of gold is?",
     "options": [
       "8.00 × 10⁻³ m³",
       "1.25 × 10⁻⁴ m³",
@@ -8677,7 +8677,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-571-221",
-    "questionText": "If the magnification of a virtual image formed by an object 10cm from a convex less is 3, then the focal length of the lens is (JAMB 2016)",
+    "questionText": "If the magnification of a virtual image formed by an object 10cm from a convex less is 3, then the focal length of the lens is",
     "options": [
       "10cm",
       "20cm",
@@ -8689,7 +8689,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-572-175",
-    "questionText": "Neutron were discovered by (JAMB 2015)",
+    "questionText": "Neutron were discovered by",
     "options": [
       "J.J. Thompson",
       "James Chadwick",
@@ -8701,7 +8701,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-573-1043",
-    "questionText": "A simple pendulum of length 0.4m has a period of 2s. What is the period of a similar pendulum of length 0.8m at the same place? (JAMB 2013)",
+    "questionText": "A simple pendulum of length 0.4m has a period of 2s. What is the period of a similar pendulum of length 0.8m at the same place?",
     "options": [
       "8 s",
       "4 s",
@@ -8713,7 +8713,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-574-345",
-    "questionText": "The distance between an object and its real image in a convex lens is 40cm. If the magnification of the image is 3, calculate the focal length of the lens\n (JAMB 2019)",
+    "questionText": "The distance between an object and its real image in a convex lens is 40cm. If the magnification of the image is 3, calculate the focal length of the lens\n",
     "options": [
       "6.5 cm",
       "7.5 cm",
@@ -8725,7 +8725,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-575-871",
-    "questionText": "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror (JAMB 2009)",
+    "questionText": "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror",
     "options": [
       "4.0 cm",
       "3.0 cm",
@@ -8737,7 +8737,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-576-1120",
-    "questionText": "Which of these colours in the visible spectrum has the longest wavelength? (JAMB 2025)",
+    "questionText": "Which of these colours in the visible spectrum has the longest wavelength?",
     "options": [
       "Red",
       "Blue",
@@ -8749,7 +8749,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-577-757",
-    "questionText": "A clinical thermometer is different from other mercury in glass thermometers owing to (JAMB 2007)",
+    "questionText": "A clinical thermometer is different from other mercury in glass thermometers owing to",
     "options": [
       "the constriction on its stem",
       "the grade of mercury used in it",
@@ -8761,7 +8761,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-578-232",
-    "questionText": "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm. (JAMB 2017)",
+    "questionText": "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm.",
     "options": [
       "18.57 NC⁻¹",
       "53.06 NC⁻¹",
@@ -8773,7 +8773,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788724898323-579-47",
-    "questionText": "If the force on a charge of 0.2 Coulomb in an electric field is 4N, then electric intensity of the field is  (JAMB 2009)",
+    "questionText": "If the force on a charge of 0.2 Coulomb in an electric field is 4N, then electric intensity of the field is",
     "options": [
       "0.8",
       "0.8N/C",
@@ -8785,7 +8785,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-0-775",
-    "questionText": "From the diagram above, the bob of the pendulum has the fastest speed at (JAMB 2007)",
+    "questionText": "From the diagram above, the bob of the pendulum has the fastest speed at",
     "options": [
       "X",
       "Y",
@@ -8797,7 +8797,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-1-550",
-    "questionText": "The stress experienced by a wire of diameter yπm loaded by a weight y²N is (JAMB 2024)",
+    "questionText": "The stress experienced by a wire of diameter yπm loaded by a weight y²N is",
     "options": [
       "πNm⁻²",
       "2πNm⁻²",
@@ -8809,7 +8809,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-2-554",
-    "questionText": "Find the value of a capacitor with voltage 5V and 30C. (JAMB 2024)",
+    "questionText": "Find the value of a capacitor with voltage 5V and 30C.",
     "options": [
       "7f",
       "6f",
@@ -8821,7 +8821,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-3-776",
-    "questionText": "In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod? (JAMB 2007)",
+    "questionText": "In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod?",
     "options": [
       "40N",
       "80N",
@@ -8833,7 +8833,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-4-265",
-    "questionText": "What is the speed of a body vibrating at 50 cyclic per second (JAMB 2017)",
+    "questionText": "What is the speed of a body vibrating at 50 cyclic per second",
     "options": [
       "100πrads⁻¹",
       "200πrads⁻¹",
@@ -8845,7 +8845,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-5-428",
-    "questionText": "Which of the following instruments may be used to measure relative humidity? (JAMB 2021)",
+    "questionText": "Which of the following instruments may be used to measure relative humidity?",
     "options": [
       "Hydrometer",
       "Manometer",
@@ -8857,7 +8857,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-6-277",
-    "questionText": "Which of the following is true of an electrical charge? (JAMB 2017)",
+    "questionText": "Which of the following is true of an electrical charge?",
     "options": [
       "Positive charge means deficit electrons",
       "Negative charge means excess of electrons",
@@ -8869,7 +8869,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-7-397",
-    "questionText": "When a sound wave passes from air into water its  (JAMB 2020)",
+    "questionText": "When a sound wave passes from air into water its",
     "options": [
       "speed and frequency increases but its wavelength remains the same",
       "speed and wavelength increases but its frequency remains the same",
@@ -8881,7 +8881,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-8-788",
-    "questionText": "A string of length 4m is extended by 0.02 m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N? (JAMB 2007)",
+    "questionText": "A string of length 4m is extended by 0.02 m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?",
     "options": [
       "4.05 m",
       "4.08 m",
@@ -8893,7 +8893,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-9-335",
-    "questionText": "The value of T in the figure above is (JAMB 2019)",
+    "questionText": "The value of T in the figure above is",
     "options": [
       "30N",
       "10.0N",
@@ -8905,7 +8905,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-10-941",
-    "questionText": "The diagram above shows a balanced metre bridge, the value of x is (JAMB 2010)",
+    "questionText": "The diagram above shows a balanced metre bridge, the value of x is",
     "options": [
       "75.0 cm",
       "66.7 cm",
@@ -8917,7 +8917,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-11-643",
-    "questionText": "A 50W electric heater is used to heat a metal block of mass 5kg. If in 10 minutes a temperature rise of 12°C is achieved, the specific heat capacity of the metal is (JAMB 2004)",
+    "questionText": "A 50W electric heater is used to heat a metal block of mass 5kg. If in 10 minutes a temperature rise of 12°C is achieved, the specific heat capacity of the metal is",
     "options": [
       "400 J kg⁻¹K⁻¹",
       "500 J kg⁻¹K⁻¹",
@@ -8929,7 +8929,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-12-23",
-    "questionText": "A box of mass 40kg is being dragged  along by the rope inclined at 60o to the horizontal. The frictional force between the box and the floor is 100N and the tension on the rope is 300N. How much work is done in dragging the box through a distance of 4m?  (JAMB 2007)",
+    "questionText": "A box of mass 40kg is being dragged  along by the rope inclined at 60o to the horizontal. The frictional force between the box and the floor is 100N and the tension on the rope is 300N. How much work is done in dragging the box through a distance of 4m?",
     "options": [
       "680J",
       "200J",
@@ -8941,7 +8941,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-13-563",
-    "questionText": "5 X 10⁻³kg of liquid at its boiling point is evaporated in 20s by the heat generated by a resistor of 2Ω when a current of 10A is used. The specific latent heat of vaporization of the liquid is (JAMB 2024)",
+    "questionText": "5 X 10⁻³kg of liquid at its boiling point is evaporated in 20s by the heat generated by a resistor of 2Ω when a current of 10A is used. The specific latent heat of vaporization of the liquid is",
     "options": [
       "8.0 x 10⁴Jkg⁻¹",
       "8.0 x 10⁵Jkg⁻¹",
@@ -8953,7 +8953,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-14-854",
-    "questionText": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended? [g = 10 m s⁻²] (JAMB 2009)",
+    "questionText": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended? [g = 10 m s⁻²]",
     "options": [
       "11.50 kW",
       "12.60 kW",
@@ -8965,7 +8965,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-15-777",
-    "questionText": "A boy drags a bag of rice along a smooth horizontal floor with a force of 2 N applied at an angle of 60° to the floor. The work done after a distance of 3 m is? (JAMB 2007)",
+    "questionText": "A boy drags a bag of rice along a smooth horizontal floor with a force of 2 N applied at an angle of 60° to the floor. The work done after a distance of 3 m is?",
     "options": [
       "3 J",
       "4 J",
@@ -8977,7 +8977,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-16-445",
-    "questionText": "A solid weighs 10.00N in air, 6N when fully immersed in water, and 7.0N when fully immersed in a liquid X. Calculate the relative density of the liquid X. (JAMB 2021)",
+    "questionText": "A solid weighs 10.00N in air, 6N when fully immersed in water, and 7.0N when fully immersed in a liquid X. Calculate the relative density of the liquid X.",
     "options": [
       "5/3",
       "4/3",
@@ -8989,7 +8989,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-17-96",
-    "questionText": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)   (JAMB 2011)",
+    "questionText": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)",
     "options": [
       "142.90C",
       "63.60C",
@@ -9001,7 +9001,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-18-704",
-    "questionText": "An immersion heater rated 2.0 A, 240 V is used to boil water from temperature 52 °C to 100 °C. The mass of the water is 2.5 kg. Determine the time taken to boil the water.\nSpecific heat capacity of water = 4.2 × 10³ J kg⁻¹ K⁻¹ (JAMB 2006)",
+    "questionText": "An immersion heater rated 2.0 A, 240 V is used to boil water from temperature 52 °C to 100 °C. The mass of the water is 2.5 kg. Determine the time taken to boil the water.\nSpecific heat capacity of water = 4.2 × 10³ J kg⁻¹ K⁻¹",
     "options": [
       "1.05 × 10³ s",
       "1.05 × 10⁵ s",
@@ -9013,7 +9013,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141048-19-549",
-    "questionText": "Which of the following liquids has the highest surface tension? (JAMB 2023)",
+    "questionText": "Which of the following liquids has the highest surface tension?",
     "options": [
       "Soapy water",
       "Water",
@@ -9025,7 +9025,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-20-154",
-    "questionText": "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Mᵃ Lᵇ Tᶜ? (JAMB 2015)",
+    "questionText": "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Mᵃ Lᵇ Tᶜ?",
     "options": [
       "1, – 2, 1",
       "1, 2, – 2",
@@ -9037,7 +9037,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-21-242",
-    "questionText": "Which of the following instruments helps to maintain the correct humidity and temperature of a building? (JAMB 2017)",
+    "questionText": "Which of the following instruments helps to maintain the correct humidity and temperature of a building?",
     "options": [
       "A compressor",
       "A refrigerator",
@@ -9049,7 +9049,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-22-843",
-    "questionText": "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction? (JAMB 2008)",
+    "questionText": "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction?",
     "options": [
       "parallel to OX",
       "parallel to OY",
@@ -9061,7 +9061,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-23-936",
-    "questionText": "A bob of weight 0.1 N hangs from a massless string of length 50 cm. A variable horizontal force which increases from zero is applied to pull the bob until the string makes an angle of 60° with the vertical. The work done is? (JAMB 2010)",
+    "questionText": "A bob of weight 0.1 N hangs from a massless string of length 50 cm. A variable horizontal force which increases from zero is applied to pull the bob until the string makes an angle of 60° with the vertical. The work done is?",
     "options": [
       ". 0.500 J",
       "0.250 J",
@@ -9073,7 +9073,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-24-615",
-    "questionText": "If 16mA of current flows through a conductor in one second, the number of electrons transported per second is [1 electronic charge = 1.6 × 10⁻¹⁹C] (JAMB 2004)",
+    "questionText": "If 16mA of current flows through a conductor in one second, the number of electrons transported per second is [1 electronic charge = 1.6 × 10⁻¹⁹C]",
     "options": [
       "1.00 × 10²⁰",
       "2.56 × 10⁻¹⁸",
@@ -9085,7 +9085,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-25-894",
-    "questionText": "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible (JAMB 2009)",
+    "questionText": "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible",
     "options": [
       "12 V",
       "8 V",
@@ -9097,7 +9097,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-26-906",
-    "questionText": "In a hydraulic press, the pump piston exerts a pressure of 100 pa on the liquid. what force is exerted in the second piston of cross sectional area 3 m2? (JAMB 2010)",
+    "questionText": "In a hydraulic press, the pump piston exerts a pressure of 100 pa on the liquid. what force is exerted in the second piston of cross sectional area 3 m2?",
     "options": [
       "300 N",
       "200 N",
@@ -9109,7 +9109,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-27-338",
-    "questionText": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce temperature increase because (JAMB 2019)",
+    "questionText": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce temperature increase because",
     "options": [
       "all the heat is used to break the bonds holding the molecules of the solid together",
       "the heat capacity has become very large as the substance melts",
@@ -9121,7 +9121,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-28-1051",
-    "questionText": "Calculate the length which corresponds to a temperature of 20°C if the ice and steam points of an ungraduated thermometer are 400 mm apart (JAMB 2013)",
+    "questionText": "Calculate the length which corresponds to a temperature of 20°C if the ice and steam points of an ungraduated thermometer are 400 mm apart",
     "options": [
       "20 mm",
       "30 mm",
@@ -9133,7 +9133,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-29-834",
-    "questionText": "When a pure semiconductor is heated, its resistance? (JAMB 2008)",
+    "questionText": "When a pure semiconductor is heated, its resistance?",
     "options": [
       "increases",
       "decreases",
@@ -9145,7 +9145,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-30-1118",
-    "questionText": "When ²¹⁰₈₂Pb decays to ²⁰⁶₈₀Pb, it emits (JAMB 2014)",
+    "questionText": "When ²¹⁰₈₂Pb decays to ²⁰⁶₈₀Pb, it emits",
     "options": [
       "two alpha and two beta particles",
       "an alpha particle",
@@ -9157,7 +9157,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-31-832",
-    "questionText": "Caesium has a work function of 3 x 10⁻¹⁹ J. The maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 10¹⁴ Hz is? [h = 6.6 x 10⁻³⁴ Js] (JAMB 2008)",
+    "questionText": "Caesium has a work function of 3 x 10⁻¹⁹ J. The maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 10¹⁴ Hz is? [h = 6.6 x 10⁻³⁴ Js]",
     "options": [
       "1.42 x 10⁻¹⁹ J",
       "3.00 x 10⁻¹⁹ J",
@@ -9169,7 +9169,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-32-821",
-    "questionText": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole? (JAMB 2008)",
+    "questionText": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
     "options": [
       "3.0 cm",
       "8.0 cm",
@@ -9181,7 +9181,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-33-1077",
-    "questionText": "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours? (JAMB 2013)",
+    "questionText": "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?",
     "options": [
       "2.4g",
       "3.2g",
@@ -9193,7 +9193,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-34-800",
-    "questionText": "I. Force (N)\nII. Torque (Nm)\nIII. Current (A)\nIV. Power (W)\nWhich of the above are the correct S.I. units of the quantities indicated? (JAMB 2008)",
+    "questionText": "I. Force (N)\nII. Torque (Nm)\nIII. Current (A)\nIV. Power (W)\nWhich of the above are the correct S.I. units of the quantities indicated?",
     "options": [
       "I and II only",
       "I and III only",
@@ -9205,7 +9205,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-35-1121",
-    "questionText": "The power of a lens in diopters is  (JAMB 2025)",
+    "questionText": "The power of a lens in diopters is",
     "options": [
       "3f",
       "1/f",
@@ -9217,7 +9217,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-36-117",
-    "questionText": "A ship sinks to the bottom of a 250m deep lake. The atmospheric pressure over the lake is 1.03 x 105 Pa. Taking the density of water in the lake to be 1000 kg/m3, calculate the pressure exerted on the boat. [acceleration due to gravity = 10 m/s2]  (JAMB 2012)",
+    "questionText": "A ship sinks to the bottom of a 250m deep lake. The atmospheric pressure over the lake is 1.03 x 105 Pa. Taking the density of water in the lake to be 1000 kg/m3, calculate the pressure exerted on the boat. [acceleration due to gravity = 10 m/s2]",
     "options": [
       "2.60 x 106Pa",
       "2.50 x 106Pa",
@@ -9229,7 +9229,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-37-1049",
-    "questionText": "Calculate the work done when a force of 20N stretches a spring by 50mm. (JAMB 2013)",
+    "questionText": "Calculate the work done when a force of 20N stretches a spring by 50mm.",
     "options": [
       "0.5J",
       "1.5J",
@@ -9241,7 +9241,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-38-91",
-    "questionText": "In the force of gravity on an object of mass m, the gravitational field strength, g, is given by the following equation.  (JAMB 2010)",
+    "questionText": "In the force of gravity on an object of mass m, the gravitational field strength, g, is given by the following equation.",
     "options": [
       "g = √MF",
       "g = MF",
@@ -9253,7 +9253,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-39-813",
-    "questionText": "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock? (JAMB 2008)",
+    "questionText": "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock?",
     "options": [
       "the clock gians time",
       "the accuracy of the clock is not affected",
@@ -9265,7 +9265,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-40-355",
-    "questionText": "A thermocouple thermometer is connected to a millivoltmeter which can read up to 10mV. When one junction is in ice at 0°C and the other is in steam at 100°C, the millivoltmeter reads 4mV. What is the maximum temperature which this arrangement can measure? (JAMB 2019)",
+    "questionText": "A thermocouple thermometer is connected to a millivoltmeter which can read up to 10mV. When one junction is in ice at 0°C and the other is in steam at 100°C, the millivoltmeter reads 4mV. What is the maximum temperature which this arrangement can measure?",
     "options": [
       "100°C",
       "248°C",
@@ -9277,7 +9277,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-41-1032",
-    "questionText": "The fuse in an electric device is always connected to the (JAMB 2012)",
+    "questionText": "The fuse in an electric device is always connected to the",
     "options": [
       "neutral side of an electric supply",
       "earth side of an electric supply",
@@ -9289,7 +9289,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-42-216",
-    "questionText": "A satellite revolving around the earth is kept on its orbit by? (JAMB 2016)",
+    "questionText": "A satellite revolving around the earth is kept on its orbit by?",
     "options": [
       "Centripetal forces only",
       "Centripetal and frictional forces",
@@ -9301,7 +9301,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-43-815",
-    "questionText": "A block of aluminum is heated electrically by a 25W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is? (JAMB 2008)",
+    "questionText": "A block of aluminum is heated electrically by a 25W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is?",
     "options": [
       "850 JK⁻¹",
       "750 JK⁻¹",
@@ -9313,7 +9313,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-44-758",
-    "questionText": "I. Use a liquid with a high melting point.\nII. use a liquid of high volume expansivity.\nIII. use a capillary tube of large diameter.\n\nwhich of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced? (JAMB 2007)",
+    "questionText": "I. Use a liquid with a high melting point.\nII. use a liquid of high volume expansivity.\nIII. use a capillary tube of large diameter.\n\nwhich of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced?",
     "options": [
       "I only",
       "II. Only",
@@ -9325,7 +9325,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-45-233",
-    "questionText": "Why do soldiers march disorderly while crossing a bridge? (JAMB 2017)",
+    "questionText": "Why do soldiers march disorderly while crossing a bridge?",
     "options": [
       "To prevent resonance on the bridge",
       "To set the bridge into resonance",
@@ -9337,7 +9337,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-46-440",
-    "questionText": "A lead bullet of mass 0.05kg is fired with a velocity of 200ms⁻¹ into a block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is? (JAMB 2021)",
+    "questionText": "A lead bullet of mass 0.05kg is fired with a velocity of 200ms⁻¹ into a block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is?",
     "options": [
       "50J",
       "100J",
@@ -9349,7 +9349,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-47-571",
-    "questionText": "If a sheet of an insulating material is inserted between the plates of an air capacitor, the capacitance will (JAMB 2024)",
+    "questionText": "If a sheet of an insulating material is inserted between the plates of an air capacitor, the capacitance will",
     "options": [
       "become zero",
       "decrease",
@@ -9361,7 +9361,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-48-1135",
-    "questionText": "A hydraulic press consists of two cylinders of cross-sectional radius r₁ and r₂. If a force of 200 N applied to the smaller piston (r₁) causes a force of 3200 N to be transmitted onto the larger piston (r₂). The ratio r₁ : r₂ is? (JAMB 2025)",
+    "questionText": "A hydraulic press consists of two cylinders of cross-sectional radius r₁ and r₂. If a force of 200 N applied to the smaller piston (r₁) causes a force of 3200 N to be transmitted onto the larger piston (r₂). The ratio r₁ : r₂ is?",
     "options": [
       "1 : 4",
       "1 : 2",
@@ -9373,7 +9373,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-49-822",
-    "questionText": "An object of heights 5 cm is placed at 20 cm from a concave mirror of focal length 10 cm. the image height is? (JAMB 2008)",
+    "questionText": "An object of heights 5 cm is placed at 20 cm from a concave mirror of focal length 10 cm. the image height is?",
     "options": [
       "20 cm",
       "15 cm",
@@ -9385,7 +9385,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-50-808",
-    "questionText": "A spring of force constant 500 Nm⁻¹ is compressed such that its length shortens by 5cm. The energy stored in the spring is? (JAMB 2008)",
+    "questionText": "A spring of force constant 500 Nm⁻¹ is compressed such that its length shortens by 5cm. The energy stored in the spring is?",
     "options": [
       "0.625 J",
       "6.250 J",
@@ -9397,7 +9397,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-51-147",
-    "questionText": "Electrons were discovered by (JAMB 2015)",
+    "questionText": "Electrons were discovered by",
     "options": [
       "James Chadwick B.",
       "J.J Thompson",
@@ -9409,7 +9409,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-52-742",
-    "questionText": "In a gas experiment, if the volume of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is (JAMB 2006)",
+    "questionText": "In a gas experiment, if the volume of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is",
     "options": [
       "force",
       "temperature",
@@ -9421,7 +9421,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-53-192",
-    "questionText": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the (JAMB 2016)",
+    "questionText": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the",
     "options": [
       "Pressure of the liquid",
       "Temperature in the enclosure",
@@ -9433,7 +9433,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-54-92",
-    "questionText": " A body of mass m slides down an inclined plane with a constant velocity. If the angle of the incline is Ø, the coefficient of kinetic friction between the body and the plane is   (JAMB 2011)",
+    "questionText": " A body of mass m slides down an inclined plane with a constant velocity. If the angle of the incline is Ø, the coefficient of kinetic friction between the body and the plane is",
     "options": [
       "cot Ø",
       "cos Ø",
@@ -9445,7 +9445,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-55-600",
-    "questionText": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the (JAMB 2004)",
+    "questionText": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
     "options": [
       "armature coil should be made of silver",
       "commutator should be replaced with slip ring",
@@ -9457,7 +9457,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-56-385",
-    "questionText": "Which of the following statements about radioactivity is true?\n\n(i) Alpha particle is positively charged\n\n(ii) Beta particle is negatively charged\n\n(iii) Gamma ray is neutral\n\n(iv) Beta particle has the  same mass as helium atom\n\n(v) Gamma ray is charged.  (JAMB 2020)",
+    "questionText": "Which of the following statements about radioactivity is true?\n\n(i) Alpha particle is positively charged\n\n(ii) Beta particle is negatively charged\n\n(iii) Gamma ray is neutral\n\n(iv) Beta particle has the  same mass as helium atom\n\n(v) Gamma ray is charged.",
     "options": [
       "i, ii, iii, iv only",
       "i, ii, iii only",
@@ -9469,7 +9469,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-57-494",
-    "questionText": "A train of mass 1600 kg attains a speed of 25 ms⁻¹ in 20 seconds. The power developed in the engine is? (JAMB 2022)",
+    "questionText": "A train of mass 1600 kg attains a speed of 25 ms⁻¹ in 20 seconds. The power developed in the engine is?",
     "options": [
       "2.5 KW",
       "80 KW",
@@ -9481,7 +9481,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-58-159",
-    "questionText": "What type of electromagnetic radiation can be used to take photographs in the haze? (JAMB 2015)",
+    "questionText": "What type of electromagnetic radiation can be used to take photographs in the haze?",
     "options": [
       "Radio waves",
       "infrared rays",
@@ -9493,7 +9493,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-59-613",
-    "questionText": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is (JAMB 2004)",
+    "questionText": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is",
     "options": [
       "9.6J",
       "2.4J",
@@ -9505,7 +9505,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-60-179",
-    "questionText": "The dimension of universal gravitational constant is……….? (JAMB 2015)",
+    "questionText": "The dimension of universal gravitational constant is……….?",
     "options": [
       "M⁻¹L³T⁻²",
       "ML³T²",
@@ -9517,7 +9517,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-61-729",
-    "questionText": "The theory of electronic conduction in solids, which satisfactorily explains the properties of conductors, insulators and semi-conductor, is? (JAMB 2006)",
+    "questionText": "The theory of electronic conduction in solids, which satisfactorily explains the properties of conductors, insulators and semi-conductor, is?",
     "options": [
       "string theory",
       "particle theory",
@@ -9529,7 +9529,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-62-463",
-    "questionText": "An object 40 cm high is 30cm from the pin hole camera. If the height of the image formed is 20 cm. What is the distance of the image from the pin height? (JAMB 2022)",
+    "questionText": "An object 40 cm high is 30cm from the pin hole camera. If the height of the image formed is 20 cm. What is the distance of the image from the pin height?",
     "options": [
       "15 cm",
       "70 cm",
@@ -9541,7 +9541,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-63-1122",
-    "questionText": "A man moves 6.0 m East and then 10.0 m N30°E. How far is he from his starting point? (JAMB 2025)",
+    "questionText": "A man moves 6.0 m East and then 10.0 m N30°E. How far is he from his starting point?",
     "options": [
       "15.0 m",
       "17.0 m",
@@ -9553,7 +9553,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-64-1082",
-    "questionText": "I. Electrical potential\nII. Torque\nIII. Kinetic Energy\nIV. Momentum\n\n\nWhich of the quantities listed are vectors? (JAMB 2014)",
+    "questionText": "I. Electrical potential\nII. Torque\nIII. Kinetic Energy\nIV. Momentum\n\n\nWhich of the quantities listed are vectors?",
     "options": [
       "II and IV",
       "I and II",
@@ -9565,7 +9565,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-65-883",
-    "questionText": "Which of the following can conduct electricity owing to the presence of free mobile electrons? (JAMB 2009)",
+    "questionText": "Which of the following can conduct electricity owing to the presence of free mobile electrons?",
     "options": [
       "germanium",
       "silicon",
@@ -9577,7 +9577,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-66-595",
-    "questionText": "If the rate of evaporation is y, and the rate of condensation is x, then, a vapour is saturated when (JAMB 2024)",
+    "questionText": "If the rate of evaporation is y, and the rate of condensation is x, then, a vapour is saturated when",
     "options": [
       "x > y",
       "x < y",
@@ -9589,7 +9589,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-67-1014",
-    "questionText": "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their length is 3:4 respectively, the ratio of the increase in lengths of P to Q is (JAMB 2012)",
+    "questionText": "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their length is 3:4 respectively, the ratio of the increase in lengths of P to Q is",
     "options": [
       "1:2",
       "2:1",
@@ -9601,7 +9601,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-68-1059",
-    "questionText": "A wave that travels through stretched strings is known as (JAMB 2013)",
+    "questionText": "A wave that travels through stretched strings is known as",
     "options": [
       "electromagnetic wave",
       "micro wave",
@@ -9613,7 +9613,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-69-590",
-    "questionText": "Which of the following is the best as shaving mirror? (JAMB 2024)",
+    "questionText": "Which of the following is the best as shaving mirror?",
     "options": [
       "Concave mirror",
       "Convex mirror",
@@ -9625,7 +9625,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-70-1127",
-    "questionText": "The emf of a cell is the potential difference across its terminals when it is in (JAMB 2025)",
+    "questionText": "The emf of a cell is the potential difference across its terminals when it is in",
     "options": [
       "series connection",
       "closed circuit",
@@ -9637,7 +9637,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-71-255",
-    "questionText": "A string of length 5cm is extended by 0.04m when a load of 0.8kg is suspended at the end. How far will it extend if a force of 16N is applied? [g = 10ms⁻²] (JAMB 2017)",
+    "questionText": "A string of length 5cm is extended by 0.04m when a load of 0.8kg is suspended at the end. How far will it extend if a force of 16N is applied? [g = 10ms⁻²]",
     "options": [
       "0.04m",
       "0.12m",
@@ -9649,7 +9649,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-72-104",
-    "questionText": " A particle is in equilibrium under the action of three forces. One force is 40N towards the west and another is 30N towards the south. What is the third force acting on the body?    (JAMB 2011)",
+    "questionText": " A particle is in equilibrium under the action of three forces. One force is 40N towards the west and another is 30N towards the south. What is the third force acting on the body?",
     "options": [
       "40N, N530E",
       "50N, N370E",
@@ -9661,7 +9661,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-73-279",
-    "questionText": "A car accelerates uniformly from rest to a velocity of 30 m/s in 6 seconds. Calculate the acceleration of the car. (JAMB 2017)",
+    "questionText": "A car accelerates uniformly from rest to a velocity of 30 m/s in 6 seconds. Calculate the acceleration of the car.",
     "options": [
       "3 m/s²",
       "5 m/s²",
@@ -9673,7 +9673,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-74-61",
-    "questionText": "The product PV where P is pressure and V is a volume has the same unit as  (JAMB 2009)",
+    "questionText": "The product PV where P is pressure and V is a volume has the same unit as",
     "options": [
       "force",
       "power",
@@ -9685,7 +9685,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-75-541",
-    "questionText": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00°C, how long does it take the sound to reach the ground? [velocity of sound at 0°C = 331 ms⁻¹] (JAMB 2023)",
+    "questionText": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00°C, how long does it take the sound to reach the ground? [velocity of sound at 0°C = 331 ms⁻¹]",
     "options": [
       "0.94s",
       "0.96s",
@@ -9697,7 +9697,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-76-866",
-    "questionText": "A man standing 2 m from a charcoal fire is warmed mainly by? (JAMB 2009)",
+    "questionText": "A man standing 2 m from a charcoal fire is warmed mainly by?",
     "options": [
       "convection",
       "radiation",
@@ -9709,7 +9709,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-77-227",
-    "questionText": "The frequency of beats produced when two tunning forks of frequencies 258Hz and 270Hz are sounded close to each other (JAMB 2016)",
+    "questionText": "The frequency of beats produced when two tunning forks of frequencies 258Hz and 270Hz are sounded close to each other",
     "options": [
       ". 6Hz",
       "264Hz",
@@ -9721,7 +9721,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-78-957",
-    "questionText": "A metal of volume 40 cm³ is heated from 30°C to 90°C, the increase in volume is [Linear expansivity of the metal = 2.0 × 10⁻⁵ K⁻¹] (JAMB 2011)",
+    "questionText": "A metal of volume 40 cm³ is heated from 30°C to 90°C, the increase in volume is [Linear expansivity of the metal = 2.0 × 10⁻⁵ K⁻¹]",
     "options": [
       "0.12 cm³",
       "4.00 cm³",
@@ -9733,7 +9733,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-79-467",
-    "questionText": "The relationship between the coefficient of linear expansion α and volumetric expansion (γ) is----------------- (JAMB 2022)",
+    "questionText": "The relationship between the coefficient of linear expansion α and volumetric expansion (γ) is-----------------",
     "options": [
       "γ = α⁻³",
       "γ = α",
@@ -9745,7 +9745,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-80-469",
-    "questionText": "A cell whose internal resistance is 0.55Ω\n delivers a current of 4 A to an external resistor. The lost voltage of the cell is? (JAMB 2022)",
+    "questionText": "A cell whose internal resistance is 0.55Ω\n delivers a current of 4 A to an external resistor. The lost voltage of the cell is?",
     "options": [
       "4.00 V",
       "2.20 V",
@@ -9757,7 +9757,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-81-258",
-    "questionText": "A constant force of 5N acts for 5 seconds on a mass of 5kg initially at rest. Calculate the final momentum (JAMB 2017)",
+    "questionText": "A constant force of 5N acts for 5 seconds on a mass of 5kg initially at rest. Calculate the final momentum",
     "options": [
       "125 kgms⁻¹",
       "25 kgms⁻¹",
@@ -9769,7 +9769,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-82-576",
-    "questionText": "How much joules of heat are given out when a piece of iron, of mass 60g and specific heat capacity 460JKg⁻¹K⁻¹, cools from 75ºC to 35ºC (JAMB 2024)",
+    "questionText": "How much joules of heat are given out when a piece of iron, of mass 60g and specific heat capacity 460JKg⁻¹K⁻¹, cools from 75ºC to 35ºC",
     "options": [
       "1000J",
       "1050J",
@@ -9781,7 +9781,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-83-526",
-    "questionText": "A travelling wave of amplitude 0.80 m has a frequency of 16 Hz and a wave speed of 20 ms⁻¹. Calculate the wave number of the wave. (JAMB 2023)",
+    "questionText": "A travelling wave of amplitude 0.80 m has a frequency of 16 Hz and a wave speed of 20 ms⁻¹. Calculate the wave number of the wave.",
     "options": [
       "3",
       "4",
@@ -9793,7 +9793,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-84-326",
-    "questionText": "The tendency of a body to remain at rest when a force is applied to it is called. (JAMB 2018)",
+    "questionText": "The tendency of a body to remain at rest when a force is applied to it is called.",
     "options": [
       "Impulse",
       "Momentum",
@@ -9805,7 +9805,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-85-691",
-    "questionText": "The figure above shows three capacitors, 2μF, 3μF and 6μF connected in series. If the p.d across the system is 12V, the p.d across the 6μF capacitor is (JAMB 2005)",
+    "questionText": "The figure above shows three capacitors, 2μF, 3μF and 6μF connected in series. If the p.d across the system is 12V, the p.d across the 6μF capacitor is",
     "options": [
       "4V",
       "12V",
@@ -9817,7 +9817,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-86-732",
-    "questionText": "A p-n junction diode is used as? (JAMB 2006)",
+    "questionText": "A p-n junction diode is used as?",
     "options": [
       "a rectifier in a d.c circuit",
       "an amplifier in d.c circuit",
@@ -9829,7 +9829,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-87-314",
-    "questionText": "In the diagram shown, If the south-poles of two magnets stroke a steel bar, the polarities at T and V will respectively be (JAMB 2018)",
+    "questionText": "In the diagram shown, If the south-poles of two magnets stroke a steel bar, the polarities at T and V will respectively be",
     "options": [
       "north and south",
       "south and south",
@@ -9841,7 +9841,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-88-1129",
-    "questionText": "Some of the features of the human eye that greatly help to refract light entering the eyes are (JAMB 2025)",
+    "questionText": "Some of the features of the human eye that greatly help to refract light entering the eyes are",
     "options": [
       "cornea and lens",
       "cornea and aqueous humor",
@@ -9853,7 +9853,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-89-1132",
-    "questionText": "\nI. The colour of light depends on its frequency\nII. When white light is dispersed by a triangular prism, yellow is deviated more than green\nIII. Rainbows are formed when rains fall heavily\nWhich of the above statements is/are correct about dispersion and colours? (JAMB 2025)",
+    "questionText": "\nI. The colour of light depends on its frequency\nII. When white light is dispersed by a triangular prism, yellow is deviated more than green\nIII. Rainbows are formed when rains fall heavily\nWhich of the above statements is/are correct about dispersion and colours?",
     "options": [
       "I and III only",
       "I only",
@@ -9865,7 +9865,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-90-1006",
-    "questionText": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity? (JAMB 2012)",
+    "questionText": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity?",
     "options": [
       "8 rads⁻¹",
       "4 rads⁻¹",
@@ -9877,7 +9877,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-91-903",
-    "questionText": "The surfaces of conveyor belts are made rough so as to? (JAMB 2010)",
+    "questionText": "The surfaces of conveyor belts are made rough so as to?",
     "options": [
       "protect them while carrying loads",
       "prevent the loads from slipping",
@@ -9889,7 +9889,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-92-37",
-    "questionText": "It is known that an atomic nucleus comprises of positive charged protons. Which of the following also exist in the nucleus?  (JAMB 2007)",
+    "questionText": "It is known that an atomic nucleus comprises of positive charged protons. Which of the following also exist in the nucleus?",
     "options": [
       "a beta particle",
       "an Alpha particle",
@@ -9901,7 +9901,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-93-599",
-    "questionText": "The energy in a moving car is an example of (JAMB 2024)",
+    "questionText": "The energy in a moving car is an example of",
     "options": [
       "Mechanical energy",
       "Electrical energy",
@@ -9913,7 +9913,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-94-58",
-    "questionText": "The resistance of a 5m uniform wire of cross sectional area of 0.2 x 106m2 is 0.45. What is the resistivity of the material of the wire  (JAMB 2009)",
+    "questionText": "The resistance of a 5m uniform wire of cross sectional area of 0.2 x 106m2 is 0.45. What is the resistivity of the material of the wire",
     "options": [
       "1.10 x 105 ohms",
       "4.25 x106Ωm",
@@ -9925,7 +9925,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-95-375",
-    "questionText": "Neutrons were discovered by (JAMB 2019)",
+    "questionText": "Neutrons were discovered by",
     "options": [
       "Faraday",
       "Dalton",
@@ -9937,7 +9937,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-96-328",
-    "questionText": "The energy needed to move a unit positive charge around a complete electric circuit is called the (JAMB 2018)",
+    "questionText": "The energy needed to move a unit positive charge around a complete electric circuit is called the",
     "options": [
       "electromotive force",
       "electric potential difference",
@@ -9949,7 +9949,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-97-16",
-    "questionText": "The principle of operation of an induction coil is based on  (JAMB 2006)",
+    "questionText": "The principle of operation of an induction coil is based on",
     "options": [
       "Ohm’s law",
       "Ampere’s Law",
@@ -9961,7 +9961,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-98-336",
-    "questionText": "A train has an initial velocity of 44 m/s and an acceleration of -4 m/s². Calculate its velocity after 10 seconds. (JAMB 2019)",
+    "questionText": "A train has an initial velocity of 44 m/s and an acceleration of -4 m/s². Calculate its velocity after 10 seconds.",
     "options": [
       "10 m/s",
       "6 m/s",
@@ -9973,7 +9973,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-99-98",
-    "questionText": "When white light passes through a triangular prism, the emerging rays of light arranged in order of decreasing angle of deviation are  (JAMB 2011)",
+    "questionText": "When white light passes through a triangular prism, the emerging rays of light arranged in order of decreasing angle of deviation are",
     "options": [
       "red, orange, yellow, green",
       "blue, green, orange, yellow",
@@ -9985,7 +9985,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-100-859",
-    "questionText": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is? (JAMB 2009)",
+    "questionText": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is?",
     "options": [
       "1400 kg m⁻³",
       "1250 kg m⁻³",
@@ -9997,7 +9997,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-101-20",
-    "questionText": "Calculate the length of a displaced pendulum bob that passes its lowest point twice every second. [g=10ms-1]  (JAMB 2007)",
+    "questionText": "Calculate the length of a displaced pendulum bob that passes its lowest point twice every second. [g=10ms-1]",
     "options": [
       ".100m",
       "0.253m",
@@ -10009,7 +10009,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-102-138",
-    "questionText": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver drives a new truck on a sunny day. Which of the following explains his observation? (JAMB 2015)",
+    "questionText": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver drives a new truck on a sunny day. Which of the following explains his observation?",
     "options": [
       "He saw a flying objects",
       "He must be thinking of water and food",
@@ -10021,7 +10021,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-103-508",
-    "questionText": "The half life of a radioactive material is 12 days. Calculate the decay constant. (JAMB 2023)",
+    "questionText": "The half life of a radioactive material is 12 days. Calculate the decay constant.",
     "options": [
       "0.8663 day⁻¹",
       "0.04331 day⁻¹",
@@ -10033,7 +10033,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-104-1120",
-    "questionText": "Which of these colours in the visible spectrum has the longest wavelength? (JAMB 2025)",
+    "questionText": "Which of these colours in the visible spectrum has the longest wavelength?",
     "options": [
       "Red",
       "Blue",
@@ -10045,7 +10045,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-105-232",
-    "questionText": "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm. (JAMB 2017)",
+    "questionText": "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm.",
     "options": [
       "18.57 NC⁻¹",
       "53.06 NC⁻¹",
@@ -10057,7 +10057,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-106-1019",
-    "questionText": "I. It is a rapid, constant and irregular motion of tiny particles.\nII. It gives evidence that tiny particles of matter called molecules exist.\nIII. It takes place only in gases.\nIV. It gives evidence that molecules are in a constant state of random motion.\nWhich of the combinations above is correct about Brownian motion? (JAMB 2012)",
+    "questionText": "I. It is a rapid, constant and irregular motion of tiny particles.\nII. It gives evidence that tiny particles of matter called molecules exist.\nIII. It takes place only in gases.\nIV. It gives evidence that molecules are in a constant state of random motion.\nWhich of the combinations above is correct about Brownian motion?",
     "options": [
       "I, II and III only",
       "II, III and IV only",
@@ -10069,7 +10069,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-107-293",
-    "questionText": "Shadows and eclipses result from the (JAMB 2018)",
+    "questionText": "Shadows and eclipses result from the",
     "options": [
       "refraction of light",
       "reflection of light",
@@ -10081,7 +10081,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-108-504",
-    "questionText": "On a particular hot day, the temperature is 40°C and the partial pressure of water vapor in the air is 38.8 mmHg. What is the relative humidity? (JAMB 2023)",
+    "questionText": "On a particular hot day, the temperature is 40°C and the partial pressure of water vapor in the air is 38.8 mmHg. What is the relative humidity?",
     "options": [
       "70",
       "62",
@@ -10093,7 +10093,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-109-1015",
-    "questionText": "2000 cm³ of a gas is collected at 27°C and 700 mmHg. What is the volume of the gas at standard temperature and pressure? (JAMB 2012)",
+    "questionText": "2000 cm³ of a gas is collected at 27°C and 700 mmHg. What is the volume of the gas at standard temperature and pressure?",
     "options": [
       "1896.5 cm³",
       "1767.3 cm³",
@@ -10105,7 +10105,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-110-307",
-    "questionText": "The time rate of loss of heat by a body is proportional to the (JAMB 2018)",
+    "questionText": "The time rate of loss of heat by a body is proportional to the",
     "options": [
       "temperature of its surroundings",
       "temperature of the body",
@@ -10117,7 +10117,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-111-86",
-    "questionText": "Which of the following is not true about the properties of x-rays?  (JAMB 2010)",
+    "questionText": "Which of the following is not true about the properties of x-rays?",
     "options": [
       "they are not deflected by magnetic or electric field",
       "they ionized a gas making it a conductor",
@@ -10129,7 +10129,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-112-263",
-    "questionText": "It is known that a neutron exists in a light atomic nucleus\nWhich of the following also exists in the nucleus? (JAMB 2017)",
+    "questionText": "It is known that a neutron exists in a light atomic nucleus\nWhich of the following also exists in the nucleus?",
     "options": [
       "An electron",
       "A β - particle",
@@ -10141,7 +10141,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141049-113-517",
-    "questionText": "A 200 kg load is raised using a 110 m long lever as shown in the diagram above. The load is 10m from the pivot P. If the efficiency of the lever is 80%, find the effort E required to lift the load. [Take g = 10ms⁻²] (JAMB 2023)",
+    "questionText": "A 200 kg load is raised using a 110 m long lever as shown in the diagram above. The load is 10m from the pivot P. If the efficiency of the lever is 80%, find the effort E required to lift the load. [Take g = 10ms⁻²]",
     "options": [
       "250 N",
       "300 N",
@@ -10153,7 +10153,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-114-585",
-    "questionText": "A load of 300N is to be lifted by a machine with a velocity ratio of 2 and an efficiency of 60%. What effort will be applied to lift the load?\n (JAMB 2024)",
+    "questionText": "A load of 300N is to be lifted by a machine with a velocity ratio of 2 and an efficiency of 60%. What effort will be applied to lift the load?\n",
     "options": [
       "100N",
       "150N",
@@ -10165,7 +10165,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-115-312",
-    "questionText": "Convex mirrors are used as driving mirrors because images formed are (JAMB 2018)",
+    "questionText": "Convex mirrors are used as driving mirrors because images formed are",
     "options": [
       "erect, Virtual and diminished",
       "erect, real and diminished",
@@ -10177,7 +10177,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-116-323",
-    "questionText": "The force between the molecules of a liquid in contact with that of a solid is? (JAMB 2018)",
+    "questionText": "The force between the molecules of a liquid in contact with that of a solid is?",
     "options": [
       "Adhesive",
       "Cohesive",
@@ -10189,7 +10189,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-117-416",
-    "questionText": "In which of the following diagrams is the length of the tube equal to one wavelength?  (JAMB 2020)",
+    "questionText": "In which of the following diagrams is the length of the tube equal to one wavelength?",
     "options": [
       "a",
       "b",
@@ -10201,7 +10201,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-118-608",
-    "questionText": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X_L and X_C respectively are related as (JAMB 2004)",
+    "questionText": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X_L and X_C respectively are related as",
     "options": [
       "X_L = X_C",
       "X_L = ½X_C",
@@ -10213,7 +10213,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-119-1097",
-    "questionText": "The quantity of heat needed to raise the temperature of a body by 1K is the body's (JAMB 2014)",
+    "questionText": "The quantity of heat needed to raise the temperature of a body by 1K is the body's",
     "options": [
       "Heat capacity",
       "Internal energy",
@@ -10225,7 +10225,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-120-75",
-    "questionText": "An automobile is traveling at 60km/hr. calculate the angular velocity of the 0.35m radius wheels.  (JAMB 2010)",
+    "questionText": "An automobile is traveling at 60km/hr. calculate the angular velocity of the 0.35m radius wheels.",
     "options": [
       "16.67rad/s",
       "47.6 rad/s",
@@ -10237,7 +10237,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-121-1115",
-    "questionText": "Calculate the mass of the copper deposited during electrolysis when a current of 4 A passes through a copper salt for 2 hours. [Ece of Copper, z = 3.3 × 10⁻⁷ kg C⁻¹] (JAMB 2014)",
+    "questionText": "Calculate the mass of the copper deposited during electrolysis when a current of 4 A passes through a copper salt for 2 hours. [Ece of Copper, z = 3.3 × 10⁻⁷ kg C⁻¹]",
     "options": [
       "2.9 × 10⁵ kg",
       "9.5 × 10⁻⁷ kg",
@@ -10249,7 +10249,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-122-1154",
-    "questionText": "Lining the walls of an auditorium with perforated materials reduces (JAMB 2025)",
+    "questionText": "Lining the walls of an auditorium with perforated materials reduces",
     "options": [
       "reverberation",
       "diffraction",
@@ -10261,7 +10261,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-123-361",
-    "questionText": "The conductivity of gases at low pressure can be termed as\nI. hot cathode emission\nII. thermo ionic emission\nIII. cold cathode emission\nIV. Field emission (JAMB 2019)",
+    "questionText": "The conductivity of gases at low pressure can be termed as\nI. hot cathode emission\nII. thermo ionic emission\nIII. cold cathode emission\nIV. Field emission",
     "options": [
       "I & II",
       "II & III",
@@ -10273,7 +10273,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-124-1084",
-    "questionText": "A car accelerates uniformly from rest at 3 m s⁻². Its velocity after traveling a distance of 24 m is (JAMB 2014)",
+    "questionText": "A car accelerates uniformly from rest at 3 m s⁻². Its velocity after traveling a distance of 24 m is",
     "options": [
       "12 m s⁻¹",
       "144 m s⁻¹",
@@ -10285,7 +10285,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-125-54",
-    "questionText": "The height at which the atmosphere ceases to exist is about 80km, if the atmosphere pressure on the ground level is 760mmHg, the pressure at height of 20km above the ground is  (JAMB 2009)",
+    "questionText": "The height at which the atmosphere ceases to exist is about 80km, if the atmosphere pressure on the ground level is 760mmHg, the pressure at height of 20km above the ground is",
     "options": [
       "380mmHg",
       "570mmHg",
@@ -10297,7 +10297,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-126-451",
-    "questionText": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss (specific heat capacity of copper = 400 Jkg⁻¹K⁻¹, latent heat of fusion of ice = 3.3 × 10⁵ Jkg⁻¹) (JAMB 2021)",
+    "questionText": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss (specific heat capacity of copper = 400 Jkg⁻¹K⁻¹, latent heat of fusion of ice = 3.3 × 10⁵ Jkg⁻¹)",
     "options": [
       "8/33 kg",
       "3.380 kg",
@@ -10309,7 +10309,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-127-239",
-    "questionText": "Which of the following statements is NOT correct? (JAMB 2017)",
+    "questionText": "Which of the following statements is NOT correct?",
     "options": [
       "Molecules of a liquid are stationary",
       "Brownian motion is an evidence of particle nature of matter",
@@ -10321,7 +10321,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-128-234",
-    "questionText": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²] (JAMB 2017)",
+    "questionText": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²]",
     "options": [
       "0.8N",
       "2.5N",
@@ -10333,7 +10333,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-129-773",
-    "questionText": "Silicon doped with aluminum and germanium doped with arsenic become? (JAMB 2007)",
+    "questionText": "Silicon doped with aluminum and germanium doped with arsenic become?",
     "options": [
       "p- and n- types respectively",
       "n- en p- type respectively",
@@ -10345,7 +10345,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-130-213",
-    "questionText": "Which of the following is obtained when a magenta is mixed with green colour? (JAMB 2016)",
+    "questionText": "Which of the following is obtained when a magenta is mixed with green colour?",
     "options": [
       "Yellow",
       "Blue",
@@ -10357,7 +10357,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-131-654",
-    "questionText": "The pair of physical quantities consisting of vectors only are (JAMB 2005)",
+    "questionText": "The pair of physical quantities consisting of vectors only are",
     "options": [
       "momentum and power",
       "velocity and distance",
@@ -10369,7 +10369,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-132-819",
-    "questionText": "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the? (JAMB 2008)",
+    "questionText": "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the?",
     "options": [
       "wavelength",
       "harmonics",
@@ -10381,7 +10381,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-133-330",
-    "questionText": "The limiting frictional force between two surface depends on\n\nI. the gaseous reaction between the surfaces\n\nII. the nature of the surfaces in contact\n\nIII. the relative velocity between the surfaces (JAMB 2019)",
+    "questionText": "The limiting frictional force between two surface depends on\n\nI. the gaseous reaction between the surfaces\n\nII. the nature of the surfaces in contact\n\nIII. the relative velocity between the surfaces",
     "options": [
       "I only",
       "I & II only",
@@ -10393,7 +10393,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-134-64",
-    "questionText": "A train has an initial velocity of 44m/s and an acceleration of -4m/s2 what is its velocity after 10seconds?  (JAMB 2009)",
+    "questionText": "A train has an initial velocity of 44m/s and an acceleration of -4m/s2 what is its velocity after 10seconds?",
     "options": [
       "2m/s",
       "4m/s",
@@ -10405,7 +10405,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-135-794",
-    "questionText": "The instrument that measures both ac and dc is called (JAMB 2007)",
+    "questionText": "The instrument that measures both ac and dc is called",
     "options": [
       "A current balance",
       "a moving coil ammenter",
@@ -10417,7 +10417,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-136-1027",
-    "questionText": "A glass block of thickness 10cm is placed on an object. If an observer views the object vertically, the displacement of the object is (JAMB 2012)",
+    "questionText": "A glass block of thickness 10cm is placed on an object. If an observer views the object vertically, the displacement of the object is",
     "options": [
       "3.33cm",
       "5.00 cm",
@@ -10429,7 +10429,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-137-683",
-    "questionText": "\nThe value of F in the figure above when in equilibrium is (JAMB 2005)",
+    "questionText": "\nThe value of F in the figure above when in equilibrium is",
     "options": [
       "10N",
       "12N",
@@ -10441,7 +10441,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-138-354",
-    "questionText": "A vibrator causes water ripples to travel across the surface of a tank. The wave travels 50cm in 2s and the distance between successive crests is 5cm. Calculate the frequency of the vibrator (JAMB 2019)",
+    "questionText": "A vibrator causes water ripples to travel across the surface of a tank. The wave travels 50cm in 2s and the distance between successive crests is 5cm. Calculate the frequency of the vibrator",
     "options": [
       "5Hz",
       "6Hz",
@@ -10453,7 +10453,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-139-950",
-    "questionText": "A man standing on a lift that is descending does not feel any weight because (JAMB 2011)",
+    "questionText": "A man standing on a lift that is descending does not feel any weight because",
     "options": [
       "the inside of the lift is air tight",
       "the lift is in vacuum",
@@ -10465,7 +10465,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-140-8",
-    "questionText": " A quantity of ice –10oc is heated until temperature of heating vessel is 90oc. Which of the following constant is NOT required to determine the quantity of heat supplied to the vessel?  (JAMB 2006)",
+    "questionText": " A quantity of ice –10oc is heated until temperature of heating vessel is 90oc. Which of the following constant is NOT required to determine the quantity of heat supplied to the vessel?",
     "options": [
       "Specific latent heat of vaporization",
       "specific heat capacity of ice",
@@ -10477,7 +10477,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-141-855",
-    "questionText": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction. [g = 10 m s⁻²] (JAMB 2009)",
+    "questionText": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction. [g = 10 m s⁻²]",
     "options": [
       "0.8",
       "0.4",
@@ -10489,7 +10489,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-142-450",
-    "questionText": "The temperature gradient across a copper rod of thickness 0.02m, maintained at two temperature junctions of 20°C and 80°C respectively is? (JAMB 2021)",
+    "questionText": "The temperature gradient across a copper rod of thickness 0.02m, maintained at two temperature junctions of 20°C and 80°C respectively is?",
     "options": [
       "3.0 × 10² Km⁻¹",
       "3.0 × 10³ Km⁻¹",
@@ -10501,7 +10501,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-143-931",
-    "questionText": "The ground state energy for the hydrogen atom is 5.44 × 10⁻¹⁹ J. If an electron drops from zero energy to the ground state, calculate the frequency of the emitted radiation. [h = 6.6 × 10⁻³⁴ Js] (JAMB 2010)",
+    "questionText": "The ground state energy for the hydrogen atom is 5.44 × 10⁻¹⁹ J. If an electron drops from zero energy to the ground state, calculate the frequency of the emitted radiation. [h = 6.6 × 10⁻³⁴ Js]",
     "options": [
       "8.24 × 10¹⁴ Hz",
       "3.59 × 10⁻⁵³ Hz",
@@ -10513,7 +10513,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-144-434",
-    "questionText": "If the frequency of an emitted x-ray is 1.6 × 10¹⁶ Hz, the accelerating potential is?\n[e = 1.6 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ Js] (JAMB 2021)",
+    "questionText": "If the frequency of an emitted x-ray is 1.6 × 10¹⁶ Hz, the accelerating potential is?\n[e = 1.6 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ Js]",
     "options": [
       "6630.0V",
       "663.0V",
@@ -10525,7 +10525,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-145-923",
-    "questionText": "Which of the following is used for the correction of short sightedness? (JAMB 2010)",
+    "questionText": "Which of the following is used for the correction of short sightedness?",
     "options": [
       "convex lens",
       "concave lens",
@@ -10537,7 +10537,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-146-705",
-    "questionText": "The thermos flask is designed to? (JAMB 2006)",
+    "questionText": "The thermos flask is designed to?",
     "options": [
       "prevent heat loss or gain by conduction, convection and radiation",
       "store hot tea or water",
@@ -10549,7 +10549,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-147-505",
-    "questionText": "Calculate the absolute pressure at the bottom of a lake at a depth of 32.8 m. Assume the density of the water is 1 × 10³ kgm⁻³ and the air above is at a pressure of 101.3 kPa. [Take g = 9.8 ms⁻²] (JAMB 2023)",
+    "questionText": "Calculate the absolute pressure at the bottom of a lake at a depth of 32.8 m. Assume the density of the water is 1 × 10³ kgm⁻³ and the air above is at a pressure of 101.3 kPa. [Take g = 9.8 ms⁻²]",
     "options": [
       "422.7 kPa",
       "220.14 kPa",
@@ -10561,7 +10561,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-148-14",
-    "questionText": "Three 4Ω resistors were connected in series by Tola, while Ade connected the  (JAMB 2006)",
+    "questionText": "Three 4Ω resistors were connected in series by Tola, while Ade connected the",
     "options": [
       "1:02",
       "1:09",
@@ -10573,7 +10573,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-149-868",
-    "questionText": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their? (JAMB 2009)",
+    "questionText": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their?",
     "options": [
       "quality",
       "pitch",
@@ -10585,7 +10585,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-150-747",
-    "questionText": "Use the diagram above to answer the question below.\n\nWhich of the following diagrams represents the magnetic field of two isolated unlike poles (JAMB 2006)",
+    "questionText": "Use the diagram above to answer the question below.\n\nWhich of the following diagrams represents the magnetic field of two isolated unlike poles",
     "options": [
       "A",
       "B",
@@ -10597,7 +10597,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-151-249",
-    "questionText": "The net capacitance in the circuit above is (JAMB 2017)",
+    "questionText": "The net capacitance in the circuit above is",
     "options": [
       "80µF",
       "6.0µF",
@@ -10609,7 +10609,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-152-646",
-    "questionText": "A man exerts a pressure of 2.8 × 10³ Nm⁻² on the ground and has 4 × 10⁻² m² of his feet in contact with the ground. The weight of the man is (JAMB 2004)",
+    "questionText": "A man exerts a pressure of 2.8 × 10³ Nm⁻² on the ground and has 4 × 10⁻² m² of his feet in contact with the ground. The weight of the man is",
     "options": [
       "102N",
       "70N",
@@ -10621,7 +10621,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-153-606",
-    "questionText": "The particle and wave nature of matter are demonstrated in the equation (JAMB 2004)",
+    "questionText": "The particle and wave nature of matter are demonstrated in the equation",
     "options": [
       "λ = hc/E",
       "λ = h/P",
@@ -10633,7 +10633,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-154-619",
-    "questionText": "To protect a material from the influnce of an external magnetic field, the materials should be kept (JAMB 2004)",
+    "questionText": "To protect a material from the influnce of an external magnetic field, the materials should be kept",
     "options": [
       "square steel ring",
       "triangular zinc ring",
@@ -10645,7 +10645,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-155-620",
-    "questionText": "In the diagram above, the ratio of he electric power dissipated in the 6Ω and the 3Ω resistor respectively is (JAMB 2004)",
+    "questionText": "In the diagram above, the ratio of he electric power dissipated in the 6Ω and the 3Ω resistor respectively is",
     "options": [
       "2:1",
       "2:2",
@@ -10657,7 +10657,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-156-621",
-    "questionText": "If the angle between two vectors P and Q is 0°, the vectors are said to (JAMB 2004)",
+    "questionText": "If the angle between two vectors P and Q is 0°, the vectors are said to",
     "options": [
       "intersect at the angle 45°",
       "intersect at the angle 60°",
@@ -10669,7 +10669,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-157-625",
-    "questionText": "In a hydraulic press, a force of 40N is applied on the effort piston of area 0.4m². If the force exerted on the load piston is 400N, the area of the large piston is (JAMB 2004)",
+    "questionText": "In a hydraulic press, a force of 40N is applied on the effort piston of area 0.4m². If the force exerted on the load piston is 400N, the area of the large piston is",
     "options": [
       "4m²",
       "8m²",
@@ -10681,7 +10681,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-158-610",
-    "questionText": "Flourescent tubes produces light by the (JAMB 2004)",
+    "questionText": "Flourescent tubes produces light by the",
     "options": [
       "excitation of gas molecules",
       "conduction of solar energy",
@@ -10693,7 +10693,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-159-604",
-    "questionText": "X rays can be used in the study of crystal structure because they (JAMB 2004)",
+    "questionText": "X rays can be used in the study of crystal structure because they",
     "options": [
       "have a very long-reaching wavelength",
       "have extremely short wavelength",
@@ -10705,7 +10705,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-160-647",
-    "questionText": "Calculate the angle of minimum deviation for a ray which is refracted through an equiangular prism of refractive index 1.4 (JAMB 2004)",
+    "questionText": "Calculate the angle of minimum deviation for a ray which is refracted through an equiangular prism of refractive index 1.4",
     "options": [
       "60°",
       "29°",
@@ -10717,7 +10717,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-161-628",
-    "questionText": "The diagram above shows forces 4N, 6N, 10N and 8N which act at a point O in the directions indicated. The net horizontal force is (JAMB 2004)",
+    "questionText": "The diagram above shows forces 4N, 6N, 10N and 8N which act at a point O in the directions indicated. The net horizontal force is",
     "options": [
       "13N",
       "17N",
@@ -10729,7 +10729,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-162-607",
-    "questionText": "In a reverse biased junction diode, current flows in by (JAMB 2004)",
+    "questionText": "In a reverse biased junction diode, current flows in by",
     "options": [
       "positive holes alone",
       "majority carriers",
@@ -10741,7 +10741,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-163-601",
-    "questionText": "A radioisotope has a decay constant of 10⁻⁷ s⁻¹. The average life of the radioisotope is (JAMB 2004)",
+    "questionText": "A radioisotope has a decay constant of 10⁻⁷ s⁻¹. The average life of the radioisotope is",
     "options": [
       "1.00 × 10⁷ s",
       "6.93 × 10⁶ s",
@@ -10753,7 +10753,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-164-640",
-    "questionText": "The change in volume when 450kg of ice is completely melted is [density of ice = 900 kgm⁻³, density of water = 1000 kgm⁻³] (JAMB 2004)",
+    "questionText": "The change in volume when 450kg of ice is completely melted is [density of ice = 900 kgm⁻³, density of water = 1000 kgm⁻³]",
     "options": [
       "0.50m³",
       "0.45m³",
@@ -10765,7 +10765,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-165-630",
-    "questionText": "In which of the following material media will sound travel fastest? (JAMB 2004)",
+    "questionText": "In which of the following material media will sound travel fastest?",
     "options": [
       "oil",
       "metal",
@@ -10777,7 +10777,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-166-645",
-    "questionText": "Transverse waves can be distinguished from longitudinal waves using the characteristic of (JAMB 2004)",
+    "questionText": "Transverse waves can be distinguished from longitudinal waves using the characteristic of",
     "options": [
       "diffraction",
       "refraction",
@@ -10789,7 +10789,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-167-605",
-    "questionText": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30° deflection. The sensitivity of the instrument is (JAMB 2004)",
+    "questionText": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30° deflection. The sensitivity of the instrument is",
     "options": [
       "33.00",
       "0.1",
@@ -10801,7 +10801,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-168-617",
-    "questionText": "Given three capacitors 0.3μF, 0.5μF and 0.2μF, the joint capacitance when arranged to give minimum capacitance is (JAMB 2004)",
+    "questionText": "Given three capacitors 0.3μF, 0.5μF and 0.2μF, the joint capacitance when arranged to give minimum capacitance is",
     "options": [
       "0.1μF",
       "0.3μF",
@@ -10813,7 +10813,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-169-634",
-    "questionText": "A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision infinity (JAMB 2004)",
+    "questionText": "A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision infinity",
     "options": [
       "Convex lens",
       "Binoculars",
@@ -10825,7 +10825,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-170-614",
-    "questionText": "The instrument used for securing a large number of similar charges by induction is called (JAMB 2004)",
+    "questionText": "The instrument used for securing a large number of similar charges by induction is called",
     "options": [
       "electrophorus",
       "capacitor",
@@ -10837,7 +10837,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-171-626",
-    "questionText": "A 100kg box is pushed along a road with force of 500N. If the box moves with a uniform velocity, the coefficient of friction between the box and the road is (JAMB 2004)",
+    "questionText": "A 100kg box is pushed along a road with force of 500N. If the box moves with a uniform velocity, the coefficient of friction between the box and the road is",
     "options": [
       "0.4",
       "1",
@@ -10849,7 +10849,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-172-618",
-    "questionText": "The difference between X-rays and gamma rays is that (JAMB 2004)",
+    "questionText": "The difference between X-rays and gamma rays is that",
     "options": [
       "x-rays are more penetrating than gamma rays",
       "x-rays are electromagnetic radiations while gamma rays are negatively charged radiation",
@@ -10861,7 +10861,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-173-616",
-    "questionText": "Electrical appliances at home are normally earthed so that? (JAMB 2004)",
+    "questionText": "Electrical appliances at home are normally earthed so that?",
     "options": [
       "the appliances are maintained at a lower p.d than the earth",
       "both the a.c and d.c sources can be used",
@@ -10873,7 +10873,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-174-622",
-    "questionText": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is (JAMB 2004)",
+    "questionText": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is",
     "options": [
       "144J",
       "162J",
@@ -10885,7 +10885,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-175-612",
-    "questionText": "Which of the following is an electrolyte? (JAMB 2004)",
+    "questionText": "Which of the following is an electrolyte?",
     "options": [
       "Paraffin",
       "Sugar solution",
@@ -10897,7 +10897,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-176-609",
-    "questionText": "\nThe binding energy of helium ⁴₂He is\n[atomic mass of proton = 1.00783U, atomic mass of neutron = 1.00867U] (JAMB 2004)",
+    "questionText": "\nThe binding energy of helium ⁴₂He is\n[atomic mass of proton = 1.00783U, atomic mass of neutron = 1.00867U]",
     "options": [
       "4.033U",
       "2.017U",
@@ -10909,7 +10909,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-177-627",
-    "questionText": "As the pressure of a fluid increases, its viscosity (JAMB 2004)",
+    "questionText": "As the pressure of a fluid increases, its viscosity",
     "options": [
       "decreases",
       "increases",
@@ -10921,7 +10921,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-178-624",
-    "questionText": "I. Jet propelled aircraft\nII. Rocket propulsion\nIII. The recoil of a gun\nIV. A person walking\nWhich of the above is based on Newton's third law of motion (JAMB 2004)",
+    "questionText": "I. Jet propelled aircraft\nII. Rocket propulsion\nIII. The recoil of a gun\nIV. A person walking\nWhich of the above is based on Newton's third law of motion",
     "options": [
       "I and II only",
       "I, II, III, and IV only",
@@ -10933,7 +10933,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-179-641",
-    "questionText": "Tea pots are often silver-coated to prevent heat loss by (JAMB 2004)",
+    "questionText": "Tea pots are often silver-coated to prevent heat loss by",
     "options": [
       "conduction only",
       "convention only",
@@ -10945,7 +10945,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-180-636",
-    "questionText": "If u is the object distance and v the image distance, which of the following expressions gives the linear magnification produced by a convex lens of focal length f? (JAMB 2004)",
+    "questionText": "If u is the object distance and v the image distance, which of the following expressions gives the linear magnification produced by a convex lens of focal length f?",
     "options": [
       "u/f - f",
       "u/v + f",
@@ -10957,7 +10957,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-181-603",
-    "questionText": "For semi conductor to have negative temperature coefficient of resistance implies that (JAMB 2004)",
+    "questionText": "For semi conductor to have negative temperature coefficient of resistance implies that",
     "options": [
       "their resistance decrease with temperature",
       "The resistance increase with temperature",
@@ -10969,7 +10969,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-182-629",
-    "questionText": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80 times that on the moon. The ratio of the mass of the moon to that of the earth is (JAMB 2004)",
+    "questionText": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80 times that on the moon. The ratio of the mass of the moon to that of the earth is",
     "options": [
       "1:80",
       "1:320",
@@ -10981,7 +10981,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-183-611",
-    "questionText": "The energy stored in an inductor of inductance 5mH when a current of 6A flows through it is (JAMB 2004)",
+    "questionText": "The energy stored in an inductor of inductance 5mH when a current of 6A flows through it is",
     "options": [
       "9.0 × 10⁻³ J",
       "9.0 × 10⁻² J",
@@ -10993,7 +10993,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-184-638",
-    "questionText": "When left in a freezer, a bottle full of water cracks on freezing into ice because of the (JAMB 2004)",
+    "questionText": "When left in a freezer, a bottle full of water cracks on freezing into ice because of the",
     "options": [
       "increase in the volume of water",
       "contraction of the bottle",
@@ -11005,7 +11005,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-185-639",
-    "questionText": "The phase difference between waves P and q in the diagram above is (JAMB 2004)",
+    "questionText": "The phase difference between waves P and q in the diagram above is",
     "options": [
       "2π",
       "π",
@@ -11017,7 +11017,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-186-642",
-    "questionText": "I. Wavelength\nII. Medium of propagation\nIII. Wave velocity\nIV. Frequency\nV. Energy\n\nWhich of the above are used for characterizing waves? (JAMB 2004)",
+    "questionText": "I. Wavelength\nII. Medium of propagation\nIII. Wave velocity\nIV. Frequency\nV. Energy\n\nWhich of the above are used for characterizing waves?",
     "options": [
       "I, II and V",
       "I, III and IV",
@@ -11029,7 +11029,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-187-631",
-    "questionText": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car? (JAMB 2004)",
+    "questionText": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car?",
     "options": [
       "Parabolic mirrors",
       "Plane mirrors",
@@ -11041,7 +11041,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-188-623",
-    "questionText": "A machine whose efficiency is 60% has a velocity ratio of 5. If a force of 500N is applied to lift a load P, what is the magnitude of P? (JAMB 2004)",
+    "questionText": "A machine whose efficiency is 60% has a velocity ratio of 5. If a force of 500N is applied to lift a load P, what is the magnitude of P?",
     "options": [
       "1500N",
       "500N",
@@ -11053,7 +11053,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-189-675",
-    "questionText": "Satellite communication network makes use of? (JAMB 2005)",
+    "questionText": "Satellite communication network makes use of?",
     "options": [
       "visible light",
       "sound wave",
@@ -11065,7 +11065,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-190-650",
-    "questionText": "Marching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to (JAMB 2005)",
+    "questionText": "Marching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to",
     "options": [
       "oscillation",
       "resonance",
@@ -11077,7 +11077,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-191-674",
-    "questionText": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because? (JAMB 2005)",
+    "questionText": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because?",
     "options": [
       "of the even expansion of glass",
       "glass is a crystal",
@@ -11089,7 +11089,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-192-669",
-    "questionText": "A body of mass 36 kg falls through a viscous liquid which offers a drag force of 260 N on the body. The upthrust on the body at terminal velocity is?\n[g = 10 m s⁻²] (JAMB 2005)",
+    "questionText": "A body of mass 36 kg falls through a viscous liquid which offers a drag force of 260 N on the body. The upthrust on the body at terminal velocity is?\n[g = 10 m s⁻²]",
     "options": [
       "100 N",
       "620 N",
@@ -11101,7 +11101,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-193-670",
-    "questionText": "The process whereby the molecules of different substances move randomly is called? (JAMB 2005)",
+    "questionText": "The process whereby the molecules of different substances move randomly is called?",
     "options": [
       "capillarity",
       "surface tension",
@@ -11113,7 +11113,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-194-665",
-    "questionText": "The current in a reverse-biased junction is due to? (JAMB 2005)",
+    "questionText": "The current in a reverse-biased junction is due to?",
     "options": [
       "minority carriers",
       "electrons",
@@ -11125,7 +11125,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-195-682",
-    "questionText": "The figure above shows a plot of angles of deviation through a glass prism when light is incident at θ degrees on the prism. The incident angle that produces the minimum deviation is (JAMB 2005)",
+    "questionText": "The figure above shows a plot of angles of deviation through a glass prism when light is incident at θ degrees on the prism. The incident angle that produces the minimum deviation is",
     "options": [
       "20°",
       "18°",
@@ -11137,7 +11137,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-196-684",
-    "questionText": "In the figure above, the coefficient of static friction is 0.5. If the tension in the string is T, the acceleration of the system in motion is (JAMB 2005)",
+    "questionText": "In the figure above, the coefficient of static friction is 0.5. If the tension in the string is T, the acceleration of the system in motion is",
     "options": [
       "5 ms⁻²",
       "15 ms⁻²",
@@ -11149,7 +11149,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-197-689",
-    "questionText": "Two liquids L₁ and L₂ are contained in a U-tube. The height and the density of L₁ are 8 cm and 10³ kgm⁻³ respectively. If the density of L₂ is 800 kgm⁻³, its height measured from the same level is (JAMB 2005)",
+    "questionText": "Two liquids L₁ and L₂ are contained in a U-tube. The height and the density of L₁ are 8 cm and 10³ kgm⁻³ respectively. If the density of L₂ is 800 kgm⁻³, its height measured from the same level is",
     "options": [
       "8 cm",
       "10 cm",
@@ -11161,7 +11161,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-198-688",
-    "questionText": "²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ⁹⁰₃₆Kr + 2X\nIn the reaction above, X is (JAMB 2005)",
+    "questionText": "²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ⁹⁰₃₆Kr + 2X\nIn the reaction above, X is",
     "options": [
       "electron",
       "proton",
@@ -11173,7 +11173,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-199-694",
-    "questionText": "A force of 200N acts between two objects at a certain distance apart. The value of the force when the distance is halved is (JAMB 2005)",
+    "questionText": "A force of 200N acts between two objects at a certain distance apart. The value of the force when the distance is halved is",
     "options": [
       "400N",
       "200N",
@@ -11185,7 +11185,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-200-680",
-    "questionText": "Two charged particles are projected into a region where there is a magnetic field perpendicular to their velocities. If the charges are deflected in opposite directions, which of the following statements is true of the charge? (JAMB 2005)",
+    "questionText": "Two charged particles are projected into a region where there is a magnetic field perpendicular to their velocities. If the charges are deflected in opposite directions, which of the following statements is true of the charge?",
     "options": [
       "the charge must be of opposite sign",
       "positive charges are more in number",
@@ -11197,7 +11197,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-201-671",
-    "questionText": "The quantities of a good thermometer include?\nI. Reproducibility\nII. Sensibility (sensitivity)\nIII. High thermal capacity\nIV. High accuracy (JAMB 2005)",
+    "questionText": "The quantities of a good thermometer include?\nI. Reproducibility\nII. Sensibility (sensitivity)\nIII. High thermal capacity\nIV. High accuracy",
     "options": [
       "I, II and IV only",
       "I, III and IV only",
@@ -11209,7 +11209,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-202-695",
-    "questionText": "If two inductors of inductances 3H and 6H are arranged in series, the total inductance is (JAMB 2005)",
+    "questionText": "If two inductors of inductances 3H and 6H are arranged in series, the total inductance is",
     "options": [
       "9.0H",
       "18.0H",
@@ -11221,7 +11221,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-203-666",
-    "questionText": "which of the following materials is a conductor? (JAMB 2005)",
+    "questionText": "which of the following materials is a conductor?",
     "options": [
       "Glass",
       "Wax",
@@ -11233,7 +11233,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-204-687",
-    "questionText": "\nIn the circuit diagram of a transistor above, the terminal P, Q and R represent (JAMB 2005)",
+    "questionText": "\nIn the circuit diagram of a transistor above, the terminal P, Q and R represent",
     "options": [
       "EMITTER, BASE and COLLECTOR",
       "COLLECTOR, EMITTER and BASE",
@@ -11245,7 +11245,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-205-652",
-    "questionText": "A thin converging lens has a power of 4.0 diopters determined its focal length. (JAMB 2005)",
+    "questionText": "A thin converging lens has a power of 4.0 diopters determined its focal length.",
     "options": [
       "2.50m",
       "0.03m",
@@ -11257,7 +11257,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-206-678",
-    "questionText": "A car battery rated 45 A H is charged with a charger whose rating is 2.5A.How long will it take to charge the battery full? (JAMB 2005)",
+    "questionText": "A car battery rated 45 A H is charged with a charger whose rating is 2.5A.How long will it take to charge the battery full?",
     "options": [
       "10 hrs",
       "18 hrs",
@@ -11269,7 +11269,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-207-698",
-    "questionText": "The amount of energy released when 0.5 kg of uranium is burnt completely is [c = 3 × 10⁸ m/s] (JAMB 2005)",
+    "questionText": "The amount of energy released when 0.5 kg of uranium is burnt completely is [c = 3 × 10⁸ m/s]",
     "options": [
       "1.5 × 10⁸ J",
       "4.5 × 10⁸ J",
@@ -11281,7 +11281,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-208-657",
-    "questionText": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by (JAMB 2005)",
+    "questionText": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by",
     "options": [
       "180°",
       "90°",
@@ -11293,7 +11293,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-209-690",
-    "questionText": "10⁶J of heat is required to boil off completely 2kg of a certain liquid. Neglecting heat lost to the surroundings, the latent heat of vaporization of the liquid is (JAMB 2005)",
+    "questionText": "10⁶J of heat is required to boil off completely 2kg of a certain liquid. Neglecting heat lost to the surroundings, the latent heat of vaporization of the liquid is",
     "options": [
       "2.0 × 10⁶J kg⁻¹",
       "5.0 × 10⁶J kg⁻¹",
@@ -11305,7 +11305,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141050-210-699",
-    "questionText": "A motorcyclist traveling at 30 m/s starts to apply his brakes when he is 50 m from the traffic light that had just turned red. If he reached the traffic light, his deceleration is (JAMB 2005)",
+    "questionText": "A motorcyclist traveling at 30 m/s starts to apply his brakes when he is 50 m from the traffic light that had just turned red. If he reached the traffic light, his deceleration is",
     "options": [
       "18 m/s²",
       "10 m/s²",
@@ -11317,7 +11317,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-211-685",
-    "questionText": "If the system above is in equilibrium, the tension in the string Q is (JAMB 2005)",
+    "questionText": "If the system above is in equilibrium, the tension in the string Q is",
     "options": [
       "11N",
       "9N",
@@ -11329,7 +11329,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-212-697",
-    "questionText": "In the photoelectric effect, which of the following graphs correctly represents the graph of stopping potential V₀ against frequency(f), of incident light? (JAMB 2005)",
+    "questionText": "In the photoelectric effect, which of the following graphs correctly represents the graph of stopping potential V₀ against frequency(f), of incident light?",
     "options": [
       "A",
       "B",
@@ -11341,7 +11341,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-213-655",
-    "questionText": "In an ideal wheel an axle system, R stand for the radius of the wheel and r is the radius of the axle. the mechanical advantage is (JAMB 2005)",
+    "questionText": "In an ideal wheel an axle system, R stand for the radius of the wheel and r is the radius of the axle. the mechanical advantage is",
     "options": [
       "(R/r)²",
       "r/R",
@@ -11353,7 +11353,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-214-662",
-    "questionText": "The charge carriers in gasses are (JAMB 2005)",
+    "questionText": "The charge carriers in gasses are",
     "options": [
       "ions only",
       "electrons and ions",
@@ -11365,7 +11365,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-215-660",
-    "questionText": "When impurities are added to semi-conductors, the conductivity of the semi-conductor (JAMB 2005)",
+    "questionText": "When impurities are added to semi-conductors, the conductivity of the semi-conductor",
     "options": [
       "increases then decreases",
       "increases",
@@ -11377,7 +11377,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-216-658",
-    "questionText": "The time it will take a certain radioactive material with a half-life of 50 days to reduce to 1/32 of its original number is (JAMB 2005)",
+    "questionText": "The time it will take a certain radioactive material with a half-life of 50 days to reduce to 1/32 of its original number is",
     "options": [
       "250 days",
       "150 days",
@@ -11389,7 +11389,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-217-681",
-    "questionText": "The resistance of a piece of wire of length 20 m and cross‑sectional area 8 × 10⁻⁶ m² is?\n[Resistivity of the wire = 4 × 10⁻⁷ Ω·m] (JAMB 2005)",
+    "questionText": "The resistance of a piece of wire of length 20 m and cross‑sectional area 8 × 10⁻⁶ m² is?\n[Resistivity of the wire = 4 × 10⁻⁷ Ω·m]",
     "options": [
       "5.0 Ω",
       "0.5 Ω",
@@ -11401,7 +11401,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-218-661",
-    "questionText": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is (JAMB 2005)",
+    "questionText": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is",
     "options": [
       "V",
       "III",
@@ -11413,7 +11413,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-219-659",
-    "questionText": "A proton moving with a speed of 1.0 × 10⁶ ms⁻¹ through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 × 10⁻¹⁴ N. The angle between the proton's velocity and the field is [1.6 × 10⁻¹⁹ C] (JAMB 2005)",
+    "questionText": "A proton moving with a speed of 1.0 × 10⁶ ms⁻¹ through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 × 10⁻¹⁴ N. The angle between the proton's velocity and the field is [1.6 × 10⁻¹⁹ C]",
     "options": [
       "60°",
       "90°",
@@ -11425,7 +11425,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-220-677",
-    "questionText": "The north pole of a magnet can never be separated from the south pole because of the property knowledge as? (JAMB 2005)",
+    "questionText": "The north pole of a magnet can never be separated from the south pole because of the property knowledge as?",
     "options": [
       "magnetic octopole",
       "magnetic monopole",
@@ -11437,7 +11437,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-221-696",
-    "questionText": "An elastic material has a length of 36 cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is (JAMB 2005)",
+    "questionText": "An elastic material has a length of 36 cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is",
     "options": [
       "12 cm",
       "20 cm",
@@ -11449,7 +11449,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-222-663",
-    "questionText": "The ray which causes gas molecules to glow is known as (JAMB 2005)",
+    "questionText": "The ray which causes gas molecules to glow is known as",
     "options": [
       "cathode ray",
       "anode ray",
@@ -11461,7 +11461,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-223-686",
-    "questionText": "In the figure above, the work done by the force of 100N inclined at an angle of 60° to the object dragged horizontally to a distance of 8m is (JAMB 2005)",
+    "questionText": "In the figure above, the work done by the force of 100N inclined at an angle of 60° to the object dragged horizontally to a distance of 8m is",
     "options": [
       "800J",
       "600J",
@@ -11473,7 +11473,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-224-673",
-    "questionText": "Which combination of the above is evident of the molecular nature of matter?\nI. Melting\nII. Boiling\nIII. Refraction\nIV. Conduction (JAMB 2005)",
+    "questionText": "Which combination of the above is evident of the molecular nature of matter?\nI. Melting\nII. Boiling\nIII. Refraction\nIV. Conduction",
     "options": [
       "II, III and IV only",
       "I, II and IV only",
@@ -11485,7 +11485,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-225-656",
-    "questionText": "An object is projected from a height of 80 m above the ground with a velocity of 40ms⁻¹ at an angle of 30° to the horizontal. The time of flight [g ≈ 10m/s²] (JAMB 2005)",
+    "questionText": "An object is projected from a height of 80 m above the ground with a velocity of 40ms⁻¹ at an angle of 30° to the horizontal. The time of flight [g ≈ 10m/s²]",
     "options": [
       "8 s",
       "6.5 s",
@@ -11497,7 +11497,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-226-668",
-    "questionText": "A 3 m³ volume of liquid W of density 200 kg m⁻³ is mixed with another liquid L of volume 7 m³ and density 150 kg m⁻³. The density of the mixture is? (JAMB 2005)",
+    "questionText": "A 3 m³ volume of liquid W of density 200 kg m⁻³ is mixed with another liquid L of volume 7 m³ and density 150 kg m⁻³. The density of the mixture is?",
     "options": [
       "165 kg m⁻³",
       "100 kg m⁻³",
@@ -11509,7 +11509,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-227-6",
-    "questionText": "The ice and steam point of a thermometer are 20mm and 100mm respectively: A temperature of 75oC correspond to Ymm on the thermometer. What is Y?  (JAMB 2006)",
+    "questionText": "The ice and steam point of a thermometer are 20mm and 100mm respectively: A temperature of 75oC correspond to Ymm on the thermometer. What is Y?",
     "options": [
       "100mm",
       "70mm",
@@ -11521,7 +11521,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-228-711",
-    "questionText": "An electric heater with a p.d of 240 V connected across its terminals has a total resistance of 960Ω. find the power rating of the heater. (JAMB 2006)",
+    "questionText": "An electric heater with a p.d of 240 V connected across its terminals has a total resistance of 960Ω. find the power rating of the heater.",
     "options": [
       "0.25 W",
       "4.00 W",
@@ -11533,7 +11533,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-229-706",
-    "questionText": "what is likely to happen if the glass of a thermometer expands more upon heating than the liquid inside? (JAMB 2006)",
+    "questionText": "what is likely to happen if the glass of a thermometer expands more upon heating than the liquid inside?",
     "options": [
       "the glass will break",
       "the glass will shrink",
@@ -11545,7 +11545,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141051-230-733",
-    "questionText": "An object placed 10cm from a concave mirror of focal length 5cm would have its image (JAMB 2006)",
+    "questionText": "An object placed 10cm from a concave mirror of focal length 5cm would have its image",
     "options": [
       "at the centre of convature",
       "at the radius of curvature",
@@ -11557,7 +11557,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-231-735",
-    "questionText": "Non-luminous object can be seen because they (JAMB 2006)",
+    "questionText": "Non-luminous object can be seen because they",
     "options": [
       "reflect light",
       "are near",
@@ -11569,7 +11569,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-232-720",
-    "questionText": "If the radius of the Earth is 6.4 × 10⁶ m, the escape velocity of a satellite from the Earth is?\n[g = 10 m s⁻²] (JAMB 2006)",
+    "questionText": "If the radius of the Earth is 6.4 × 10⁶ m, the escape velocity of a satellite from the Earth is?\n[g = 10 m s⁻²]",
     "options": [
       "1.13 × 10⁴ m s⁻¹",
       "9.00 × 10³ m s⁻¹",
@@ -11581,7 +11581,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-233-2",
-    "questionText": "A body accelerates uniformly from rest at 6ms-2 for 8 seconds and then decelerates uniformly to rest in the next 5 seconds. The magnitude of the deceleration is:  (JAMB 2006)",
+    "questionText": "A body accelerates uniformly from rest at 6ms-2 for 8 seconds and then decelerates uniformly to rest in the next 5 seconds. The magnitude of the deceleration is:",
     "options": [
       "9.6ms-2",
       "48 ms-2",
@@ -11593,7 +11593,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-234-714",
-    "questionText": "The electrolyte in the Nickei-iron (Nife) accumulator is (JAMB 2006)",
+    "questionText": "The electrolyte in the Nickei-iron (Nife) accumulator is",
     "options": [
       "potassium hydroxide solution",
       "dilute tetraoxosulphate(VI)acid",
@@ -11605,7 +11605,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-235-707",
-    "questionText": "A drop of petrol makes a finger colder than a drop of water would because? (JAMB 2006)",
+    "questionText": "A drop of petrol makes a finger colder than a drop of water would because?",
     "options": [
       "petrol takes its latent heat of veporization from the finger",
       "petrol takes its latent heat of fusion from the finger",
@@ -11617,7 +11617,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-236-702",
-    "questionText": "If the relative density of gold is 19.2, the volume of 2.4kg of gold is? (JAMB 2006)",
+    "questionText": "If the relative density of gold is 19.2, the volume of 2.4kg of gold is?",
     "options": [
       "8.00 × 10⁻³ m³",
       "1.25 × 10⁻⁴ m³",
@@ -11629,7 +11629,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-237-719",
-    "questionText": "In an experiment to determine terminal velocity, as the pressure increases, the viscosity off a liquid (JAMB 2006)",
+    "questionText": "In an experiment to determine terminal velocity, as the pressure increases, the viscosity off a liquid",
     "options": [
       "increases",
       "decreases",
@@ -11641,7 +11641,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-238-9",
-    "questionText": "The scent from a jar of perfume open move through the air molecules by  (JAMB 2006)",
+    "questionText": "The scent from a jar of perfume open move through the air molecules by",
     "options": [
       "evaporation",
       "osmosis",
@@ -11653,7 +11653,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-239-749",
-    "questionText": "When the base current of a common-emitter transistor is kept at zero, it operates in the  (JAMB 2006)",
+    "questionText": "When the base current of a common-emitter transistor is kept at zero, it operates in the",
     "options": [
       "active-on region",
       "breakdown region",
@@ -11665,7 +11665,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-240-745",
-    "questionText": "A progressive wave equation is represented by y = a sin(150πt - (π/4)x). If the phase difference of the wave is 45°, the value of x in the equation is? (JAMB 2006)",
+    "questionText": "A progressive wave equation is represented by y = a sin(150πt - (π/4)x). If the phase difference of the wave is 45°, the value of x in the equation is?",
     "options": [
       "3 cm",
       "4 cm",
@@ -11677,7 +11677,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-241-725",
-    "questionText": "The process through which free electrons leave the surface of hot metal is known as? (JAMB 2006)",
+    "questionText": "The process through which free electrons leave the surface of hot metal is known as?",
     "options": [
       "photon emission",
       "photo emission",
@@ -11689,7 +11689,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-242-746",
-    "questionText": "The frequency of the wave in the diagram above is (JAMB 2006)",
+    "questionText": "The frequency of the wave in the diagram above is",
     "options": [
       "0.17 Hz",
       "0.25 Hz",
@@ -11701,7 +11701,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-243-708",
-    "questionText": "A cell of internal resistance r is connected to an external resistor R. The condition for maximum power transfer is? (JAMB 2006)",
+    "questionText": "A cell of internal resistance r is connected to an external resistor R. The condition for maximum power transfer is?",
     "options": [
       "R < r",
       "R = r",
@@ -11713,7 +11713,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-244-715",
-    "questionText": "During electrolysis, 2.0 g of a metal is deposited using a current of 0.5 A in 3 hours. The mass of the same metal which can be deposited using a current of 1.5 A in 1 hour is? (JAMB 2006)",
+    "questionText": "During electrolysis, 2.0 g of a metal is deposited using a current of 0.5 A in 3 hours. The mass of the same metal which can be deposited using a current of 1.5 A in 1 hour is?",
     "options": [
       "1.0 g",
       "0.5 g",
@@ -11725,7 +11725,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-245-17",
-    "questionText": "Which of the following radiations cannot be deflected by an electric field or  (JAMB 2006)",
+    "questionText": "Which of the following radiations cannot be deflected by an electric field or",
     "options": [
       "(i) and (ii) only",
       "(ii) only",
@@ -11737,7 +11737,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-246-748",
-    "questionText": "Use the figures above to answer the question below\n\nWhich of the following diagrams represents correctly an n-p-n transistor? (JAMB 2006)",
+    "questionText": "Use the figures above to answer the question below\n\nWhich of the following diagrams represents correctly an n-p-n transistor?",
     "options": [
       "A",
       "B",
@@ -11749,7 +11749,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-247-709",
-    "questionText": "The production and type of charge of a body can only be accounted for by the? (JAMB 2006)",
+    "questionText": "The production and type of charge of a body can only be accounted for by the?",
     "options": [
       "deficiency or surplus of electrons",
       "equibrium in protons and neutrons",
@@ -11761,7 +11761,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-248-738",
-    "questionText": "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1Ω, its resistivity is? (JAMB 2006)",
+    "questionText": "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1Ω, its resistivity is?",
     "options": [
       "2.55 × 10⁵ Ω m",
       "2.55 × 10² Ω m",
@@ -11773,7 +11773,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-249-700",
-    "questionText": "A uniform solid cube material 10cm on each side of mass 700g is submerged in water. which of the following best described the behavior of the cube water? (JAMB 2006)",
+    "questionText": "A uniform solid cube material 10cm on each side of mass 700g is submerged in water. which of the following best described the behavior of the cube water?",
     "options": [
       "the cube will melt after a period of time",
       "the cube will float",
@@ -11785,7 +11785,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-250-3",
-    "questionText": "A nail is pulled from a wall with a string tied to the nail. If the string is inclined at an angle of 30oC to the wall and the tension in the string is 50N, the effective force used in pulling the nail is:  (JAMB 2006)",
+    "questionText": "A nail is pulled from a wall with a string tied to the nail. If the string is inclined at an angle of 30oC to the wall and the tension in the string is 50N, the effective force used in pulling the nail is:",
     "options": [
       "25N",
       "25√3 N",
@@ -11797,7 +11797,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-251-7",
-    "questionText": "  An electric kettle with negligible heat capacity is rated at 2000W, if 2.0kg of water is put in it, how long will it take temperature of water to rise from 20oC to 100oC? (specific heat capacity of water = 4200J/Kg-1K-1)  (JAMB 2006)",
+    "questionText": "  An electric kettle with negligible heat capacity is rated at 2000W, if 2.0kg of water is put in it, how long will it take temperature of water to rise from 20oC to 100oC? (specific heat capacity of water = 4200J/Kg-1K-1)",
     "options": [
       "336s",
       "240s",
@@ -11809,7 +11809,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-252-734",
-    "questionText": "A submarine is observed to rise from a real depth of 80 m to 60 m in water. Calculate the change in apparent depth.\n[Refractive index of water = 4/3] (JAMB 2006)",
+    "questionText": "A submarine is observed to rise from a real depth of 80 m to 60 m in water. Calculate the change in apparent depth.\n[Refractive index of water = 4/3]",
     "options": [
       "45 m",
       "80 m",
@@ -11821,7 +11821,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-253-740",
-    "questionText": "In the diagram above, the pressure of the gas is (JAMB 2006)",
+    "questionText": "In the diagram above, the pressure of the gas is",
     "options": [
       "86 cm of mercury",
       "66 cm of mercury",
@@ -11833,7 +11833,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-254-741",
-    "questionText": "A mirror of weight 75N is hung by a cord from a hook on the wall. If the cord makes an angle of 30o with horizontal, the tension in the cord is (JAMB 2006)",
+    "questionText": "A mirror of weight 75N is hung by a cord from a hook on the wall. If the cord makes an angle of 30o with horizontal, the tension in the cord is",
     "options": [
       "100N",
       "1500N",
@@ -11845,7 +11845,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-255-743",
-    "questionText": "A shooter wants to fire a bullet in such a way that its horizontal range is equal to three times its maximum height. At the what angle should he fire the bullet to achieve this? (JAMB 2006)",
+    "questionText": "A shooter wants to fire a bullet in such a way that its horizontal range is equal to three times its maximum height. At the what angle should he fire the bullet to achieve this?",
     "options": [
       "68°",
       "53°",
@@ -11857,7 +11857,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-256-716",
-    "questionText": "When a certain a.c supply is connected to a lamp, it lights with the same brightness as it does with a 12 V d.c battery. Then r.m.s value of the a.c supply is? (JAMB 2006)",
+    "questionText": "When a certain a.c supply is connected to a lamp, it lights with the same brightness as it does with a 12 V d.c battery. Then r.m.s value of the a.c supply is?",
     "options": [
       "12.0 V",
       "3.5 V",
@@ -11869,7 +11869,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-257-730",
-    "questionText": "I. The number of neutrons released exceeds the number that caused the fission.\nII. There is loss of mass.\nIII. Energy is produced.\nIV. Smaller nuclei merge to form larger nuclei.\nWhich of the statements above are correct about nuclear fission? (JAMB 2006)",
+    "questionText": "I. The number of neutrons released exceeds the number that caused the fission.\nII. There is loss of mass.\nIII. Energy is produced.\nIV. Smaller nuclei merge to form larger nuclei.\nWhich of the statements above are correct about nuclear fission?",
     "options": [
       "II, III and IV only",
       "I, II and IV only",
@@ -11881,7 +11881,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-258-723",
-    "questionText": "Which of the statements about machines are true?\nI. Work done by load is always less than the work done by effort.\nII. All machines are made of levers, pulleys, screws and gear wheels.\nIII. A fishing rod is a machine.\nIV. Effort is always larger than load. (JAMB 2006)",
+    "questionText": "Which of the statements about machines are true?\nI. Work done by load is always less than the work done by effort.\nII. All machines are made of levers, pulleys, screws and gear wheels.\nIII. A fishing rod is a machine.\nIV. Effort is always larger than load.",
     "options": [
       "II and III",
       "III and IV",
@@ -11893,7 +11893,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-259-15",
-    "questionText": "A coil of copper wire of N turns is kept rotating between the poles of a magnet  such that the magnetic flux linking the coil changes continuously. Which of the  following statements is TRUE?  (JAMB 2006)",
+    "questionText": "A coil of copper wire of N turns is kept rotating between the poles of a magnet  such that the magnetic flux linking the coil changes continuously. Which of the  following statements is TRUE?",
     "options": [
       "An e.m.f is induced in the coil such that when the change of flux is positive the e.m.f is positive, and when the change of flux is negative the e.m.f is negative.",
       "An e.m.f is induced in the coil whose magnitude is inversely proportional to both the number of turns in the coil and the rate of change of magnetic flux",
@@ -11905,7 +11905,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-260-728",
-    "questionText": "A radioactive element has a half life of 4 days. The fraction that has decayed in 16 days is? (JAMB 2006)",
+    "questionText": "A radioactive element has a half life of 4 days. The fraction that has decayed in 16 days is?",
     "options": [
       "15/16",
       "1/16",
@@ -11917,7 +11917,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-261-12",
-    "questionText": "The most suitable type of mirror used for the construction of search light is the:  (JAMB 2006)",
+    "questionText": "The most suitable type of mirror used for the construction of search light is the:",
     "options": [
       "concave mirror",
       "Convex mirror",
@@ -11929,7 +11929,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-262-795",
-    "questionText": "Two long parallel wires X and Y carry currents 3A and 5A each. If the force experienced by unit length is 5 × 10⁻⁵N, the force per unit length experienced by wire Y is (JAMB 2007)",
+    "questionText": "Two long parallel wires X and Y carry currents 3A and 5A each. If the force experienced by unit length is 5 × 10⁻⁵N, the force per unit length experienced by wire Y is",
     "options": [
       "3 × 10⁻⁵ N/m",
       "3 × 10⁻⁶ N/m",
@@ -11941,7 +11941,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-263-750",
-    "questionText": "The unit of moment of a couple can be expressed in? (JAMB 2007)",
+    "questionText": "The unit of moment of a couple can be expressed in?",
     "options": [
       "N m⁻¹",
       "N m⁻²",
@@ -11953,7 +11953,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-264-778",
-    "questionText": "A blacksmith heated a metal whose cubic expansivity is 6.3 × 10⁻⁶ K⁻¹. The area expansivity is (JAMB 2007)",
+    "questionText": "A blacksmith heated a metal whose cubic expansivity is 6.3 × 10⁻⁶ K⁻¹. The area expansivity is",
     "options": [
       "2.0 × 10⁻⁶ K⁻¹",
       "2.1 × 10⁻⁶ K⁻¹",
@@ -11965,7 +11965,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-265-28",
-    "questionText": "A 5kg block is released from rest on a smooth plane inclined at an angle of 30o to the horizontal. What is the acceleration down the plane?  [ g = 10ms-2] (JAMB 2007)",
+    "questionText": "A 5kg block is released from rest on a smooth plane inclined at an angle of 30o to the horizontal. What is the acceleration down the plane?  [ g = 10ms-2]",
     "options": [
       "5.0 ms-2",
       "8.7 ms-2",
@@ -11977,7 +11977,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-266-786",
-    "questionText": "118.8 cm² surface of the copper cathode of a voltameter is to be coated with 10⁻⁶ m thick copper of density 9 × 10³ kg m⁻³. How long will the process run with 10 A constant current?\n[3.3 × 10⁻⁷ kg C⁻¹] (JAMB 2007)",
+    "questionText": "118.8 cm² surface of the copper cathode of a voltameter is to be coated with 10⁻⁶ m thick copper of density 9 × 10³ kg m⁻³. How long will the process run with 10 A constant current?\n[3.3 × 10⁻⁷ kg C⁻¹]",
     "options": [
       "0.54 min",
       "10.8 min",
@@ -11989,7 +11989,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-267-796",
-    "questionText": "Lenz's law is a law of conservation of (JAMB 2007)",
+    "questionText": "Lenz's law is a law of conservation of",
     "options": [
       "electric charge",
       "electric current",
@@ -12001,7 +12001,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-268-781",
-    "questionText": "Three cells each of e.m.f 1.5 V and internal resistance 2.5 Ω are connected as shown in the diagram above. Find the net e.m.f and the internal resistance. (JAMB 2007)",
+    "questionText": "Three cells each of e.m.f 1.5 V and internal resistance 2.5 Ω are connected as shown in the diagram above. Find the net e.m.f and the internal resistance.",
     "options": [
       "1.5 V, 7.50 Ω",
       "1.5 V, 0.83 Ω",
@@ -12013,7 +12013,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-269-35",
-    "questionText": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell (JAMB 2007)",
+    "questionText": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell",
     "options": [
       "3.5V",
       "2.5V",
@@ -12025,7 +12025,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-270-32",
-    "questionText": "The temperature at which the water vapour in the air saturates the air and begins to condense is (JAMB 2007)",
+    "questionText": "The temperature at which the water vapour in the air saturates the air and begins to condense is",
     "options": [
       "melting point",
       "triple point",
@@ -12037,7 +12037,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-271-762",
-    "questionText": "The blade of a hoe feel colder to touch in the morning than the wooden handle because the (JAMB 2007)",
+    "questionText": "The blade of a hoe feel colder to touch in the morning than the wooden handle because the",
     "options": [
       "handle is a better conductor of heat than blade",
       "handle contains stored energy in form of heat",
@@ -12049,7 +12049,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-272-751",
-    "questionText": "A gramophone record takes 5s to reach its constant angular velocity of 4π rads⁻¹ from rest. Find its constant angular acceleration. (JAMB 2007)",
+    "questionText": "A gramophone record takes 5s to reach its constant angular velocity of 4π rads⁻¹ from rest. Find its constant angular acceleration.",
     "options": [
       "0.4π rads⁻²",
       "0.8π rads⁻²",
@@ -12061,7 +12061,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-273-780",
-    "questionText": "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is (JAMB 2007)",
+    "questionText": "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is",
     "options": [
       "1600N",
       "400N",
@@ -12073,7 +12073,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-274-753",
-    "questionText": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them? [G = 6.67 × 10⁻¹¹ Nm² Kg⁻²] (JAMB 2007)",
+    "questionText": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them? [G = 6.67 × 10⁻¹¹ Nm² Kg⁻²]",
     "options": [
       "3.50 × 10⁻¹⁰ N",
       "3.71 × 10⁻⁸ N",
@@ -12085,7 +12085,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-275-774",
-    "questionText": "The figure above shows 4 forces 3N, 10N, 3√3N and 6N acting on a particle P. The resultant of the four forces is (JAMB 2007)",
+    "questionText": "The figure above shows 4 forces 3N, 10N, 3√3N and 6N acting on a particle P. The resultant of the four forces is",
     "options": [
       "5N",
       "5√3N",
@@ -12097,7 +12097,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-276-757",
-    "questionText": "A clinical thermometer is different from other mercury in glass thermometers owing to (JAMB 2007)",
+    "questionText": "A clinical thermometer is different from other mercury in glass thermometers owing to",
     "options": [
       "the constriction on its stem",
       "the grade of mercury used in it",
@@ -12109,7 +12109,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-277-791",
-    "questionText": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600µc across the field is (JAMB 2007)",
+    "questionText": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600µc across the field is",
     "options": [
       "0.8j",
       "1.8j",
@@ -12121,7 +12121,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-278-799",
-    "questionText": "A photon of wavelength 6.0 × 10⁻⁷ m behaves like a particle of a certain mass. The value of that mass is [h = 6.63 × 10⁻³⁴ Js, c = 3.0 × 10⁸ ms⁻¹] (JAMB 2007)",
+    "questionText": "A photon of wavelength 6.0 × 10⁻⁷ m behaves like a particle of a certain mass. The value of that mass is [h = 6.63 × 10⁻³⁴ Js, c = 3.0 × 10⁸ ms⁻¹]",
     "options": [
       "3.7 × 10⁻³⁶ kg",
       "2.2 × 10⁻³⁵ kg",
@@ -12133,7 +12133,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-279-31",
-    "questionText": "A 500kg car was initially at rest travelled with an acceleration of 5ms-2, what is its kinetic energy after 4s  (JAMB 2007)",
+    "questionText": "A 500kg car was initially at rest travelled with an acceleration of 5ms-2, what is its kinetic energy after 4s",
     "options": [
       "2.5 x 103J",
       "105J",
@@ -12145,7 +12145,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-280-783",
-    "questionText": "The instantaneous value of the induced e.m.f as a function of time is ε = ε₀ sin ωt where ε₀ is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is (JAMB 2007)",
+    "questionText": "The instantaneous value of the induced e.m.f as a function of time is ε = ε₀ sin ωt where ε₀ is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is",
     "options": [
       "0.00",
       "ε₀/4",
@@ -12157,7 +12157,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-281-770",
-    "questionText": "A charge 50 µC has electric field strength of 360 NC⁻¹ at a certain point. The electric field strength due to another charge 120 µC kept at the same distance apart and in the same medium is? (JAMB 2007)",
+    "questionText": "A charge 50 µC has electric field strength of 360 NC⁻¹ at a certain point. The electric field strength due to another charge 120 µC kept at the same distance apart and in the same medium is?",
     "options": [
       "864 NC⁻¹",
       "150 NC⁻¹",
@@ -12169,7 +12169,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-282-24",
-    "questionText": "A body is projected from the earth’s surface with the hope of letting it escape from the earth gravitational field. What is the minimum escape velocity?  [Earth’s radius = 6.4 x 103km, g = 10 ms-2] (JAMB 2007)",
+    "questionText": "A body is projected from the earth’s surface with the hope of letting it escape from the earth gravitational field. What is the minimum escape velocity?  [Earth’s radius = 6.4 x 103km, g = 10 ms-2]",
     "options": [
       "11.3kms-1",
       "13.3kms-1",
@@ -12181,7 +12181,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-283-22",
-    "questionText": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v.  (JAMB 2007)",
+    "questionText": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v.",
     "options": [
       "mv2/p",
       "mv2/2p",
@@ -12193,7 +12193,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-284-792",
-    "questionText": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is (JAMB 2007)",
+    "questionText": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is",
     "options": [
       "2.55 × 10⁵ Ωm",
       "2.55 × 10³ Ωm",
@@ -12205,7 +12205,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-285-797",
-    "questionText": "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value (JAMB 2007)",
+    "questionText": "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value",
     "options": [
       "100Ω",
       "200Ω",
@@ -12217,7 +12217,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-286-38",
-    "questionText": "The silver wall of a vacuum flask prevents heat loss due to  (JAMB 2007)",
+    "questionText": "The silver wall of a vacuum flask prevents heat loss due to",
     "options": [
       "conduction",
       "Convection",
@@ -12229,7 +12229,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-287-779",
-    "questionText": "The ratio of the coefficient of linear expansion of two metals ∝₁/∝₂ is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, e₁/e₂ is 1:2, the ratio of the original lengths l₁/l₂ is (JAMB 2007)",
+    "questionText": "The ratio of the coefficient of linear expansion of two metals ∝₁/∝₂ is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, e₁/e₂ is 1:2, the ratio of the original lengths l₁/l₂ is",
     "options": [
       "8/3",
       "3/2",
@@ -12241,7 +12241,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-288-26",
-    "questionText": "The energy contained in wire when it is extended by 0.02m by a force 500N is  (JAMB 2007)",
+    "questionText": "The energy contained in wire when it is extended by 0.02m by a force 500N is",
     "options": [
       "104J",
       "103J",
@@ -12253,7 +12253,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-289-768",
-    "questionText": "When an object is placed between the principal focus and the optical center of a convex lens, it could be used as a? (JAMB 2007)",
+    "questionText": "When an object is placed between the principal focus and the optical center of a convex lens, it could be used as a?",
     "options": [
       "Simple microscope",
       "refecting lens",
@@ -12265,7 +12265,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-290-29",
-    "questionText": "A rectangular metal block of volume 10-6m3 at 273K is heated to 573K, if the coefficient of linear expansion is 1.2 x 10-5K-1, the percentage change of its volume is  (JAMB 2007)",
+    "questionText": "A rectangular metal block of volume 10-6m3 at 273K is heated to 573K, if the coefficient of linear expansion is 1.2 x 10-5K-1, the percentage change of its volume is",
     "options": [
       "1.50%",
       "1.10%",
@@ -12277,7 +12277,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-291-763",
-    "questionText": "I. They should be identical\nII. They should originate from the same source.\nIII. They should be coherent.\nIV. They should be monochromatic.\n\n\nfrom the statements above, the conditions for two waves to interfere are? (JAMB 2007)",
+    "questionText": "I. They should be identical\nII. They should originate from the same source.\nIII. They should be coherent.\nIV. They should be monochromatic.\n\n\nfrom the statements above, the conditions for two waves to interfere are?",
     "options": [
       "I ,II and III only",
       "I, III and IV only",
@@ -12289,7 +12289,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-292-40",
-    "questionText": "Under constant tension and constant mass per unit length, the note produced by a plucked string is 500Hz when the length of the string is 0.90m, at what length is the frequency 150Hz? (JAMB 2007)",
+    "questionText": "Under constant tension and constant mass per unit length, the note produced by a plucked string is 500Hz when the length of the string is 0.90m, at what length is the frequency 150Hz?",
     "options": [
       "6m",
       "3m",
@@ -12301,7 +12301,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-293-784",
-    "questionText": "During the nuclear reaction described by\n²³⁵₉₂W → ²³⁵₉₃X → ²³¹₉₁Y\nthe particles emitted are respectively (JAMB 2007)",
+    "questionText": "During the nuclear reaction described by\n²³⁵₉₂W → ²³⁵₉₃X → ²³¹₉₁Y\nthe particles emitted are respectively",
     "options": [
       "α and α",
       "α and β",
@@ -12313,7 +12313,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-294-39",
-    "questionText": "The electromagnetic waves that are sensitive to temperature changes are (JAMB 2007)",
+    "questionText": "The electromagnetic waves that are sensitive to temperature changes are",
     "options": [
       "ultra-violet rays",
       "Gamma rays",
@@ -12325,7 +12325,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-295-827",
-    "questionText": "A short chain is sometimes attached to the back of a petrol tanker to? (JAMB 2008)",
+    "questionText": "A short chain is sometimes attached to the back of a petrol tanker to?",
     "options": [
       "generate more friction",
       "ensure the balancing of the tanker",
@@ -12337,7 +12337,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-296-847",
-    "questionText": "If electrons are accelerated from rest through a potential difference of 10kV, what is the wavelength of the associated electron? [m = 9.1 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C, h = 6.6 × 10⁻³⁴ Js] (JAMB 2008)",
+    "questionText": "If electrons are accelerated from rest through a potential difference of 10kV, what is the wavelength of the associated electron? [m = 9.1 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C, h = 6.6 × 10⁻³⁴ Js]",
     "options": [
       "1.22 × 10⁻¹¹ m",
       "3.87 × 10⁻¹⁰ m",
@@ -12349,7 +12349,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-297-824",
-    "questionText": "An object placed at the bottom of a well full of clear water appears closer to the surface due to? (JAMB 2008)",
+    "questionText": "An object placed at the bottom of a well full of clear water appears closer to the surface due to?",
     "options": [
       "diffraction",
       "reflection",
@@ -12361,7 +12361,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-298-844",
-    "questionText": "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed? (JAMB 2008)",
+    "questionText": "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?",
     "options": [
       "10 cm",
       "15 cm",
@@ -12373,7 +12373,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-299-842",
-    "questionText": "The diagram above is the heating curve for a solid, QR is the? (JAMB 2008)",
+    "questionText": "The diagram above is the heating curve for a solid, QR is the?",
     "options": [
       "melting region",
       "boiling region",
@@ -12385,7 +12385,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-300-833",
-    "questionText": "zener diode is used for? (JAMB 2008)",
+    "questionText": "zener diode is used for?",
     "options": [
       "current amplification",
       "power amplification",
@@ -12397,7 +12397,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-301-836",
-    "questionText": "The dimension of electromotive force are? (JAMB 2008)",
+    "questionText": "The dimension of electromotive force are?",
     "options": [
       "ML²T⁻³I⁻¹",
       "ML²T⁻³I⁻²",
@@ -12409,7 +12409,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-302-846",
-    "questionText": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is (JAMB 2008)",
+    "questionText": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is",
     "options": [
       "0.35mH",
       "3.50mH",
@@ -12421,7 +12421,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-303-841",
-    "questionText": "The efficiency of the pulley system shown above is 80%. Find the effort E required to lift the load of 1200N (JAMB 2008)",
+    "questionText": "The efficiency of the pulley system shown above is 80%. Find the effort E required to lift the load of 1200N",
     "options": [
       "275N",
       "325N",
@@ -12433,7 +12433,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-304-816",
-    "questionText": "If the partial pressure of water vapour at 27°C is 18 mm Hg and the saturated vapour pressure of the atmosphere at the same temperature is 24 mm Hg, the relative humidity at this temperature is? (JAMB 2008)",
+    "questionText": "If the partial pressure of water vapour at 27°C is 18 mm Hg and the saturated vapour pressure of the atmosphere at the same temperature is 24 mm Hg, the relative humidity at this temperature is?",
     "options": [
       "25%",
       "33%",
@@ -12445,7 +12445,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-305-849",
-    "questionText": "A ray of light traveling from air into glass is incident at an angle of 60° to the normal. If the refractive index of the glass is 1.5, calculate the angle of refraction in the glass. (JAMB 2008)",
+    "questionText": "A ray of light traveling from air into glass is incident at an angle of 60° to the normal. If the refractive index of the glass is 1.5, calculate the angle of refraction in the glass.",
     "options": [
       "30.7°",
       "35.3°",
@@ -12457,7 +12457,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-306-811",
-    "questionText": "An empty density bottle weighs 2 N. if it weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is? (JAMB 2008)",
+    "questionText": "An empty density bottle weighs 2 N. if it weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is?",
     "options": [
       "1/3",
       "2/3",
@@ -12469,7 +12469,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-307-814",
-    "questionText": "A sealed flask contains 600cm³ of air at 27°C and is heated to 35°C at constant pressure. The new volume is? (JAMB 2008)",
+    "questionText": "A sealed flask contains 600cm³ of air at 27°C and is heated to 35°C at constant pressure. The new volume is?",
     "options": [
       "508 cm³",
       "516 cm³",
@@ -12481,7 +12481,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-308-809",
-    "questionText": "In the hare's apparatus, water rises to a height of 26.5 cm in one limb. if a liquid rises to a height of 20.4 cm in the other limb, what is the relative density of the liquid? (JAMB 2008)",
+    "questionText": "In the hare's apparatus, water rises to a height of 26.5 cm in one limb. if a liquid rises to a height of 20.4 cm in the other limb, what is the relative density of the liquid?",
     "options": [
       "0.8",
       "1.1",
@@ -12493,7 +12493,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-309-823",
-    "questionText": "Convex mirror are used as driving mirrors because images formed are? (JAMB 2008)",
+    "questionText": "Convex mirror are used as driving mirrors because images formed are?",
     "options": [
       "erect, virtual and diminished",
       "erect, real and diminished",
@@ -12505,7 +12505,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-310-837",
-    "questionText": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces? (JAMB 2008)",
+    "questionText": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces?",
     "options": [
       "0°",
       "45°",
@@ -12517,7 +12517,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-311-840",
-    "questionText": "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by? (JAMB 2008)",
+    "questionText": "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by?",
     "options": [
       "moving Q nearer to O",
       "moving P nearer to O",
@@ -12529,7 +12529,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-312-838",
-    "questionText": "A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled? (JAMB 2008)",
+    "questionText": "A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled?",
     "options": [
       "4.0 ms-1",
       "6.6 m s⁻¹",
@@ -12541,7 +12541,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-313-830",
-    "questionText": "The d.c generator has essentially the same components as the a.c generator except the presence of? (JAMB 2008)",
+    "questionText": "The d.c generator has essentially the same components as the a.c generator except the presence of?",
     "options": [
       "slip-ring",
       "carbon brushes",
@@ -12553,7 +12553,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-314-848",
-    "questionText": "\n¹⁴₇N + ⁴₂He → ¹⁷₈O + X\nIn the equation above, the particle X is? (JAMB 2008)",
+    "questionText": "\n¹⁴₇N + ⁴₂He → ¹⁷₈O + X\nIn the equation above, the particle X is?",
     "options": [
       "A proton",
       "A neutron",
@@ -12565,7 +12565,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-315-802",
-    "questionText": "If a wheel 1.2 m in diameter rotates at one revolution per second, calculate the velocity of the wheel. (JAMB 2008)",
+    "questionText": "If a wheel 1.2 m in diameter rotates at one revolution per second, calculate the velocity of the wheel.",
     "options": [
       "3.6 ms⁻¹",
       "3.77 ms⁻¹",
@@ -12577,7 +12577,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-316-829",
-    "questionText": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is? (JAMB 2008)",
+    "questionText": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?",
     "options": [
       "0.96 kWh",
       "1.92 kWh",
@@ -12589,7 +12589,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-317-812",
-    "questionText": "The thermometric properties of a thermocouple is the change in? (JAMB 2008)",
+    "questionText": "The thermometric properties of a thermocouple is the change in?",
     "options": [
       "equivalent resistance",
       "electromotive force",
@@ -12601,7 +12601,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-318-805",
-    "questionText": "If a body of mass 5kg is thrown vertically upwards with velocity u, at what height will the potential energy equal to the kinetic energy? (JAMB 2008)",
+    "questionText": "If a body of mass 5kg is thrown vertically upwards with velocity u, at what height will the potential energy equal to the kinetic energy?",
     "options": [
       "h = u²/g",
       "h = u²/4g",
@@ -12613,7 +12613,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-319-803",
-    "questionText": "I. All the three forces must be concurrent.\nII. The upward force is equal to the downward force.\nIII. The algebraic sum of the moment about any point must be zero.\n\nwhich of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium? (JAMB 2008)",
+    "questionText": "I. All the three forces must be concurrent.\nII. The upward force is equal to the downward force.\nIII. The algebraic sum of the moment about any point must be zero.\n\nwhich of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium?",
     "options": [
       "I and II only",
       "I and III only",
@@ -12625,7 +12625,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-320-806",
-    "questionText": "Counting of currency notes with moist fingers is based on the principles of? (JAMB 2008)",
+    "questionText": "Counting of currency notes with moist fingers is based on the principles of?",
     "options": [
       "Diffusion",
       "Cohesion",
@@ -12637,7 +12637,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-321-810",
-    "questionText": "When cold water is poured on a can containing hot water, the can collapses because the? (JAMB 2008)",
+    "questionText": "When cold water is poured on a can containing hot water, the can collapses because the?",
     "options": [
       "steam condeses and occupies the partial vacuum in the can",
       "external air pressure counter balances the pressure within the can",
@@ -12649,7 +12649,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-322-845",
-    "questionText": "Find the effective resistance in the diagram above (JAMB 2008)",
+    "questionText": "Find the effective resistance in the diagram above",
     "options": [
       "6 Ω",
       "12 Ω",
@@ -12661,7 +12661,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-323-804",
-    "questionText": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s? (JAMB 2008)",
+    "questionText": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?",
     "options": [
       "0.01 Hz",
       "0.04 Hz",
@@ -12673,7 +12673,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-324-828",
-    "questionText": "An electric generator has e.m.f. of 240 V and an internal resistance of 1Ω if the current supplied by the generator is 20A when the terminal voltage is 220 V, find the ratio of the power supplied to the power dissipated? (JAMB 2008)",
+    "questionText": "An electric generator has e.m.f. of 240 V and an internal resistance of 1Ω if the current supplied by the generator is 20A when the terminal voltage is 220 V, find the ratio of the power supplied to the power dissipated?",
     "options": [
       "11:01",
       "1:11",
@@ -12685,7 +12685,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-325-831",
-    "questionText": "A step-down transformer has a power output of 50 W and efficiency of 80%. if the mains supply voltage is 200 v, calculate the primary current of the transformer. (JAMB 2008)",
+    "questionText": "A step-down transformer has a power output of 50 W and efficiency of 80%. if the mains supply voltage is 200 v, calculate the primary current of the transformer.",
     "options": [
       "0.31 A",
       "3.20 A",
@@ -12697,7 +12697,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-326-807",
-    "questionText": "A motorcycle of mass 100kg moves round in a circle of radius 10m with a velocity of 5 ms⁻¹. Find the coefficient of friction between the road and the tyres. (JAMB 2008)",
+    "questionText": "A motorcycle of mass 100kg moves round in a circle of radius 10m with a velocity of 5 ms⁻¹. Find the coefficient of friction between the road and the tyres.",
     "options": [
       "25",
       "2.5",
@@ -12709,7 +12709,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-327-856",
-    "questionText": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal, its velocity ratio will be? (JAMB 2009)",
+    "questionText": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal, its velocity ratio will be?",
     "options": [
       "3.0",
       "3.1",
@@ -12721,7 +12721,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-328-880",
-    "questionText": "If the decay constant of a radioactive substance is 0.231 s⁻¹, the half-life is? (JAMB 2009)",
+    "questionText": "If the decay constant of a radioactive substance is 0.231 s⁻¹, the half-life is?",
     "options": [
       "3.00 s",
       "0.12 s",
@@ -12733,7 +12733,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-329-891",
-    "questionText": "The wave phenomenon demonstrated in the diagram above is? (JAMB 2009)",
+    "questionText": "The wave phenomenon demonstrated in the diagram above is?",
     "options": [
       "reflection",
       "deflection",
@@ -12745,7 +12745,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-330-46",
-    "questionText": "A machine has a velocity ratio of 5, if it requires a 50kg weight to overcome 200kg weight, the efficiency is?  (JAMB 2009)",
+    "questionText": "A machine has a velocity ratio of 5, if it requires a 50kg weight to overcome 200kg weight, the efficiency is?",
     "options": [
       "4%",
       "5%",
@@ -12757,7 +12757,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-331-850",
-    "questionText": "I. Diameter of a small ball bearing.\nII. Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV. Length of a piece of wire.\n\n\nWhich of the above can be measured using a micrometer screw gauge? (JAMB 2009)",
+    "questionText": "I. Diameter of a small ball bearing.\nII. Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV. Length of a piece of wire.\n\n\nWhich of the above can be measured using a micrometer screw gauge?",
     "options": [
       "I, II and IV only",
       "I and II only",
@@ -12769,7 +12769,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-332-853",
-    "questionText": "I. The motion of the tyres of a moving car.\nII. The motion of a loaded test tube oscillated\nvertically.\nIII. The beating of the heart.\nIV. A stone tied to a string and whirled round.\nV. The motion of the pistons in a gasoline engine.\n\n\nWhich of the motions above is simple harmonic? (JAMB 2009)",
+    "questionText": "I. The motion of the tyres of a moving car.\nII. The motion of a loaded test tube oscillated\nvertically.\nIII. The beating of the heart.\nIV. A stone tied to a string and whirled round.\nV. The motion of the pistons in a gasoline engine.\n\n\nWhich of the motions above is simple harmonic?",
     "options": [
       "III, IV and V only",
       "II, III and V only",
@@ -12781,7 +12781,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-333-57",
-    "questionText": "A house hold refrigerator is rated 200 watts. If electricity cost 5k per Kwh, what is the cost of operating it for 20 days  (JAMB 2009)",
+    "questionText": "A house hold refrigerator is rated 200 watts. If electricity cost 5k per Kwh, what is the cost of operating it for 20 days",
     "options": [
       "N4.80",
       "N48.00",
@@ -12793,7 +12793,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-334-899",
-    "questionText": "A stone is dropped from the top of a tower 80m high. Calculate the time it takes to reach the ground. [g = 10 ms⁻²] (JAMB 2009)",
+    "questionText": "A stone is dropped from the top of a tower 80m high. Calculate the time it takes to reach the ground. [g = 10 ms⁻²]",
     "options": [
       "2 s",
       "4 s",
@@ -12805,7 +12805,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-335-48",
-    "questionText": "The resistance of a wire depends on  (JAMB 2009)",
+    "questionText": "The resistance of a wire depends on",
     "options": [
       "the length of the wire",
       "the diameter of the wire",
@@ -12817,7 +12817,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-336-874",
-    "questionText": "The ability of the human eye to focus object on the retina is referred to as the power of? (JAMB 2009)",
+    "questionText": "The ability of the human eye to focus object on the retina is referred to as the power of?",
     "options": [
       "interference",
       "diffraction",
@@ -12829,7 +12829,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-337-43",
-    "questionText": "Which of these is not a fundamental S.I unit  (JAMB 2009)",
+    "questionText": "Which of these is not a fundamental S.I unit",
     "options": [
       "Ampere",
       "Kelvin",
@@ -12841,7 +12841,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-338-873",
-    "questionText": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in (JAMB 2009)",
+    "questionText": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in",
     "options": [
       "x is same as in y",
       "x and y is same as in vacuum",
@@ -12853,7 +12853,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-339-890",
-    "questionText": "The pressure of two moles of an ideal gas at a temperature of 27 °C and volume 10⁻² m³ is?\n[R = 8.313 J mol⁻¹ K⁻¹] (JAMB 2009)",
+    "questionText": "The pressure of two moles of an ideal gas at a temperature of 27 °C and volume 10⁻² m³ is?\n[R = 8.313 J mol⁻¹ K⁻¹]",
     "options": [
       "4.99 × 10⁵ N m⁻²",
       "9.80 × 10³ N m⁻²",
@@ -12865,7 +12865,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-340-63",
-    "questionText": "The refractive index of a liquid is 1.5, if the velocity of light in a vacuum is 3.0 x 108ms-1, the velocity of light in the liquid is  (JAMB 2009)",
+    "questionText": "The refractive index of a liquid is 1.5, if the velocity of light in a vacuum is 3.0 x 108ms-1, the velocity of light in the liquid is",
     "options": [
       "1.5 x 108ms-2",
       "2.0 x 108ms-1",
@@ -12877,7 +12877,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-341-879",
-    "questionText": "Cancerous cells can be destroyed by? (JAMB 2009)",
+    "questionText": "Cancerous cells can be destroyed by?",
     "options": [
       "ultraviolet rays",
       "alpha particules",
@@ -12889,7 +12889,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-342-865",
-    "questionText": "It is observed that water will wet a clean glass because the? (JAMB 2009)",
+    "questionText": "It is observed that water will wet a clean glass because the?",
     "options": [
       "cohesion of water to glass is stronger than the cohesion of water molecules",
       "adhesion of water molecules is weaker than the cohesion of water to glass",
@@ -12901,7 +12901,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-343-877",
-    "questionText": "An electric lamp marked 240 V, 60 W is left to operate for an hour. How much energy is generated by the filament? (JAMB 2009)",
+    "questionText": "An electric lamp marked 240 V, 60 W is left to operate for an hour. How much energy is generated by the filament?",
     "options": [
       "3.86 × 10⁵ J",
       "3.56 × 10⁵ J",
@@ -12913,7 +12913,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-344-870",
-    "questionText": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance? (JAMB 2009)",
+    "questionText": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
     "options": [
       "10 cm in front of the mirror.",
       "5 cm in front of the mirror",
@@ -12925,7 +12925,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-345-876",
-    "questionText": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will? (JAMB 2009)",
+    "questionText": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will?",
     "options": [
       "close up",
       "become positively charged",
@@ -12937,7 +12937,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-346-897",
-    "questionText": "which of the diagrams above shows the position at which a small ball-bearing is in neutral equilibrium? (JAMB 2009)",
+    "questionText": "which of the diagrams above shows the position at which a small ball-bearing is in neutral equilibrium?",
     "options": [
       "A",
       "B",
@@ -12949,7 +12949,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-347-861",
-    "questionText": "At 4°C, the volume of a fixed mass of water is? (JAMB 2009)",
+    "questionText": "At 4°C, the volume of a fixed mass of water is?",
     "options": [
       "constant",
       "minimum",
@@ -12961,7 +12961,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-348-851",
-    "questionText": "What is the acceleration between two points on a velocity-time graph which has coordinates (10 s, 15 m s⁻¹) and (20 s, 35 m s⁻¹)? (JAMB 2009)",
+    "questionText": "What is the acceleration between two points on a velocity-time graph which has coordinates (10 s, 15 m s⁻¹) and (20 s, 35 m s⁻¹)?",
     "options": [
       "1.7 m s⁻²",
       "3.50 m s⁻²",
@@ -12973,7 +12973,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-349-881",
-    "questionText": "A piece of radioactive material contains 10²⁰ atoms. If the half‑life of the material is 20 seconds, the number of disintegrations in the first second is? (JAMB 2009)",
+    "questionText": "A piece of radioactive material contains 10²⁰ atoms. If the half‑life of the material is 20 seconds, the number of disintegrations in the first second is?",
     "options": [
       "3.47 × 10¹⁸",
       "6.93 × 10²⁰",
@@ -12985,7 +12985,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-350-889",
-    "questionText": "The terminal velocity of a ball-bearing falling through a viscous fluid is reached when the? (JAMB 2009)",
+    "questionText": "The terminal velocity of a ball-bearing falling through a viscous fluid is reached when the?",
     "options": [
       "upthrust is equal to the weight of the ball",
       "ball accelerate uniformly",
@@ -12997,7 +12997,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-351-49",
-    "questionText": "Which of these is not contained in a dry cell?  (JAMB 2009)",
+    "questionText": "Which of these is not contained in a dry cell?",
     "options": [
       "carbon rod",
       "paste of magnesium dioxide",
@@ -13009,7 +13009,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-352-66",
-    "questionText": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of  (JAMB 2009)",
+    "questionText": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of",
     "options": [
       "2:01",
       "1:02",
@@ -13021,7 +13021,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-353-50",
-    "questionText": "When a yellow card is observed through a blue glass, the card would appear as  (JAMB 2009)",
+    "questionText": "When a yellow card is observed through a blue glass, the card would appear as",
     "options": [
       "black",
       "green",
@@ -13033,7 +13033,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-354-875",
-    "questionText": "Which of the following is a secondary colour (JAMB 2009)",
+    "questionText": "Which of the following is a secondary colour",
     "options": [
       "blue",
       "orange",
@@ -13045,7 +13045,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-355-860",
-    "questionText": "The thermometer whose reading is indicated by a change in color of its thermometric property is the? (JAMB 2009)",
+    "questionText": "The thermometer whose reading is indicated by a change in color of its thermometric property is the?",
     "options": [
       "bi-metalic strip thermometer",
       "thermocouple",
@@ -13057,7 +13057,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-356-878",
-    "questionText": "A band of 500 rectangular loops of wire of area 20 cm by 20 cm, encloses a region of magnetic field which charges from 1.0T to 0.4T within 5 seconds, calculate the induced e.m.f. (JAMB 2009)",
+    "questionText": "A band of 500 rectangular loops of wire of area 20 cm by 20 cm, encloses a region of magnetic field which charges from 1.0T to 0.4T within 5 seconds, calculate the induced e.m.f.",
     "options": [
       "5.60 v",
       "24.00 v",
@@ -13069,7 +13069,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-357-852",
-    "questionText": "A bullet fired vertically upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0 s. Calculate its initial velocity. [g = 10 m s⁻²] (JAMB 2009)",
+    "questionText": "A bullet fired vertically upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0 s. Calculate its initial velocity. [g = 10 m s⁻²]",
     "options": [
       "10 m s⁻¹",
       "8 m s⁻¹",
@@ -13081,7 +13081,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-358-56",
-    "questionText": "Which of the following  is common to evaporation and boiling, they  (JAMB 2009)",
+    "questionText": "Which of the following  is common to evaporation and boiling, they",
     "options": [
       "take place at any temperature",
       "are surface phenomena",
@@ -13093,7 +13093,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-359-863",
-    "questionText": "If the pressure of the vapor on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed? (JAMB 2009)",
+    "questionText": "If the pressure of the vapor on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed?",
     "options": [
       "room temperature",
       "boiling point",
@@ -13105,7 +13105,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-360-62",
-    "questionText": "The force with which an object is attracted to the earth is called  (JAMB 2009)",
+    "questionText": "The force with which an object is attracted to the earth is called",
     "options": [
       "acceleration",
       "mass",
@@ -13117,7 +13117,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-361-858",
-    "questionText": "If a load of mass 10 N stretched a cord by 1.2 cm, what is the total work done? (JAMB 2009)",
+    "questionText": "If a load of mass 10 N stretched a cord by 1.2 cm, what is the total work done?",
     "options": [
       "6.0 × 10⁻² J",
       "7.6 × 10⁻² J",
@@ -13129,7 +13129,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-362-909",
-    "questionText": "One special advantage of alcohol over mercury as a thermometric liquid is its? (JAMB 2010)",
+    "questionText": "One special advantage of alcohol over mercury as a thermometric liquid is its?",
     "options": [
       "low density",
       "low freezing point",
@@ -13141,7 +13141,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-363-73",
-    "questionText": "A boat is passing under a bridge. The deck of the boat is 15m below the bridge. A small package is to be dropped from the bridge onto the deck of the boat is 25m from just below the drop point. What speed is necessary to have the package land in the boat? (g= 9.8ms-2) (JAMB 2010)",
+    "questionText": "A boat is passing under a bridge. The deck of the boat is 15m below the bridge. A small package is to be dropped from the bridge onto the deck of the boat is 25m from just below the drop point. What speed is necessary to have the package land in the boat? (g= 9.8ms-2)",
     "options": [
       "17m/s",
       "14m/s",
@@ -13153,7 +13153,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-364-71",
-    "questionText": "  A long-jumper leaves the ground at an angle of 20o above the horizontal and at speed of 11m/s. How far does it jumps in the horizontal direction?  (JAMB 2010)",
+    "questionText": "  A long-jumper leaves the ground at an angle of 20o above the horizontal and at speed of 11m/s. How far does it jumps in the horizontal direction?",
     "options": [
       "0.384m",
       "7.94m",
@@ -13165,7 +13165,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-365-907",
-    "questionText": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and? (JAMB 2010)",
+    "questionText": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and?",
     "options": [
       "a density bottle",
       "an eureka can",
@@ -13177,7 +13177,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-366-87",
-    "questionText": "A transformer is connected to a 240 V supply. The primary coil has 40 turns, and the secondary is found to be 960V. What is the ratio of the number of turns of the primary coil to the number of turns of the secondary coil?  (JAMB 2010)",
+    "questionText": "A transformer is connected to a 240 V supply. The primary coil has 40 turns, and the secondary is found to be 960V. What is the ratio of the number of turns of the primary coil to the number of turns of the secondary coil?",
     "options": [
       "4:01",
       "1:04",
@@ -13189,7 +13189,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-367-905",
-    "questionText": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire (JAMB 2010)",
+    "questionText": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire",
     "options": [
       "0.75 J",
       "7.50 J",
@@ -13201,7 +13201,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-368-920",
-    "questionText": "In comparing the camera and the human eye, the film of the camera function as the? (JAMB 2010)",
+    "questionText": "In comparing the camera and the human eye, the film of the camera function as the?",
     "options": [
       "retina",
       "iris",
@@ -13213,7 +13213,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-369-918",
-    "questionText": "The sound of an electricity bell dies down slowly when air is slowly pumped out from a bottle because (JAMB 2010)",
+    "questionText": "The sound of an electricity bell dies down slowly when air is slowly pumped out from a bottle because",
     "options": [
       "the wavelength of sound becomes greater in the bottle",
       "sound cannot pass through the bottle",
@@ -13225,7 +13225,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-370-67",
-    "questionText": "Which of the following phenomena cannot be explained by the molecular theory of matter?  (JAMB 2010)",
+    "questionText": "Which of the following phenomena cannot be explained by the molecular theory of matter?",
     "options": [
       "evaporation",
       "expansion",
@@ -13237,7 +13237,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-371-88",
-    "questionText": "Which of the following is not true about an object that is projected upwards at angle θ?  (JAMB 2010)",
+    "questionText": "Which of the following is not true about an object that is projected upwards at angle θ?",
     "options": [
       "the velocity is maximum at the maximum height",
       "the acceleration along the horizontal direction is zero",
@@ -13249,7 +13249,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-372-79",
-    "questionText": "A 0.040kg string 0.80m long is stretched and vibrated in a fundamental mode with a frequency of 40Hz. What is the speed (of propagation) of the wave and tension in the string?  (JAMB 2010)",
+    "questionText": "A 0.040kg string 0.80m long is stretched and vibrated in a fundamental mode with a frequency of 40Hz. What is the speed (of propagation) of the wave and tension in the string?",
     "options": [
       "64m/s",
       "340m/s",
@@ -13261,7 +13261,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-373-938",
-    "questionText": "The velocity of sound in air at 16°C is 340 m s⁻¹. What will it be when the pressure is doubled and its temperature raised to 127°C? (JAMB 2010)",
+    "questionText": "The velocity of sound in air at 16°C is 340 m s⁻¹. What will it be when the pressure is doubled and its temperature raised to 127°C?",
     "options": [
       "400 m s⁻¹",
       "4,000 m s⁻¹",
@@ -13273,7 +13273,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-374-901",
-    "questionText": "A stone and a feather are dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct? (JAMB 2010)",
+    "questionText": "A stone and a feather are dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct?",
     "options": [
       "the feather will be blown away by the wind while stone will drop steadily",
       "the stone and the feather will both reach the ground at the same time",
@@ -13285,7 +13285,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-375-902",
-    "questionText": "A car moves with an initial velocity of 25 ms⁻¹ and reaches a velocity of 45 ms⁻¹ in 10s. What is the acceleration of the car? (JAMB 2010)",
+    "questionText": "A car moves with an initial velocity of 25 ms⁻¹ and reaches a velocity of 45 ms⁻¹ in 10s. What is the acceleration of the car?",
     "options": [
       "2 ms⁻²",
       "5 ms⁻²",
@@ -13297,7 +13297,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-376-930",
-    "questionText": "In a discharge tube, most of the gas is pumped out so that electricity is conducted at? (JAMB 2010)",
+    "questionText": "In a discharge tube, most of the gas is pumped out so that electricity is conducted at?",
     "options": [
       "low voltage",
       "steady voltage",
@@ -13309,7 +13309,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-377-72",
-    "questionText": "A mass of 0.5kg is attached to one end of a helical spring and produces an extension of 2.5cm. The mass now set into vertically oscillation of amplitude 10mm. The period of oscillation is: (g = 10m/s2)  (JAMB 2010)",
+    "questionText": "A mass of 0.5kg is attached to one end of a helical spring and produces an extension of 2.5cm. The mass now set into vertically oscillation of amplitude 10mm. The period of oscillation is: (g = 10m/s2)",
     "options": [
       "0.33s",
       "100s",
@@ -13321,7 +13321,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-378-926",
-    "questionText": "Power supply is transmitted at a very high voltage and low current in order to? (JAMB 2010)",
+    "questionText": "Power supply is transmitted at a very high voltage and low current in order to?",
     "options": [
       ". make pass through the trasformers",
       "ncrease the power supply",
@@ -13333,7 +13333,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-379-948",
-    "questionText": "The radioisotope ²³⁵₉₂U decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element? (JAMB 2010)",
+    "questionText": "The radioisotope ²³⁵₉₂U decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?",
     "options": [
       "215 and 88",
       "91 and 227",
@@ -13345,7 +13345,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-380-939",
-    "questionText": "Three capacitors of capacitance 2 μF, 4 μF and 8 μF are connected in parallel and a P.D of 6 V is maintained across each capacitor. The total energy stored is? (JAMB 2010)",
+    "questionText": "Three capacitors of capacitance 2 μF, 4 μF and 8 μF are connected in parallel and a P.D of 6 V is maintained across each capacitor. The total energy stored is?",
     "options": [
       "2.52 × 10⁻⁶ J",
       "6.90 × 10⁻⁶ J",
@@ -13357,7 +13357,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-381-949",
-    "questionText": "A wire of length 2.0 m and cross-sectional area 2.0 × 10⁻⁶ m² is stretched by 1.0 mm when a load of 100 N is applied. Calculate the Young's modulus of the material. (JAMB 2010)",
+    "questionText": "A wire of length 2.0 m and cross-sectional area 2.0 × 10⁻⁶ m² is stretched by 1.0 mm when a load of 100 N is applied. Calculate the Young's modulus of the material.",
     "options": [
       "1.0 × 10¹¹ Nm⁻²",
       "2.0 × 10¹¹ Nm⁻²",
@@ -13369,7 +13369,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-382-922",
-    "questionText": "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is? (JAMB 2010)",
+    "questionText": "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is?",
     "options": [
       "2.50 cm",
       "6.67 cm",
@@ -13381,7 +13381,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-383-914",
-    "questionText": "A vapor is said to be saturated when? (JAMB 2010)",
+    "questionText": "A vapor is said to be saturated when?",
     "options": [
       "a dynamic equilibrium exists between liquid molecules and the vapour molecules",
       "a dynamic equilibrium exists such that more molecules return to the liquid than are leaving it",
@@ -13393,7 +13393,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-384-69",
-    "questionText": "If 21g of alcohol of density 0.7gcm-3 is mixed with 10g of water, what would be the density of the resulting mixture?  (JAMB 2010)",
+    "questionText": "If 21g of alcohol of density 0.7gcm-3 is mixed with 10g of water, what would be the density of the resulting mixture?",
     "options": [
       "780gcm-3",
       "0.78gcm-3",
@@ -13405,7 +13405,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-385-76",
-    "questionText": "An air bubble at the bottom of a lake has a volume of 20cm3, pressure of 4.9Pa, and temperature 4oc the bubble rises to the surface where the temperature is 20oc and the pressure 1.0Pa. Find the volume as the bubble reaches the surface. (take 1 atm = 1.0 x 105 N/m2)  (JAMB 2010)",
+    "questionText": "An air bubble at the bottom of a lake has a volume of 20cm3, pressure of 4.9Pa, and temperature 4oc the bubble rises to the surface where the temperature is 20oc and the pressure 1.0Pa. Find the volume as the bubble reaches the surface. (take 1 atm = 1.0 x 105 N/m2)",
     "options": [
       "124cm3",
       "319cm3",
@@ -13417,7 +13417,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-386-82",
-    "questionText": "The acceleration due to gravity  (JAMB 2010)",
+    "questionText": "The acceleration due to gravity",
     "options": [
       "increases with increasing altitude",
       "decreases with increasing altitude",
@@ -13429,7 +13429,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-387-74",
-    "questionText": "A 0.60kg rubber stopper is whirled in a horizontal circle of 0.80m radius at a rate of 3.0 revolutions per second. What is the tension in the string?  (JAMB 2010)",
+    "questionText": "A 0.60kg rubber stopper is whirled in a horizontal circle of 0.80m radius at a rate of 3.0 revolutions per second. What is the tension in the string?",
     "options": [
       "14N",
       "80N",
@@ -13441,7 +13441,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141052-388-908",
-    "questionText": "A hydrometer is an instrument used in measuring? (JAMB 2010)",
+    "questionText": "A hydrometer is an instrument used in measuring?",
     "options": [
       "vapour pressure of a fluid",
       "density of liquid",
@@ -13453,7 +13453,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-389-89",
-    "questionText": "When three coplanar non-parallel forces are in equilibrium i. they can be represented in magnitude and direction by the three sides of a triangle taken in order ii. The lines of action meet at a point iii. The magnitude of any one force equals the magnitude of the other two forces iv. Any one force is the equivalent of the other two. Which of the following statements above are correct?  (JAMB 2010)",
+    "questionText": "When three coplanar non-parallel forces are in equilibrium i. they can be represented in magnitude and direction by the three sides of a triangle taken in order ii. The lines of action meet at a point iii. The magnitude of any one force equals the magnitude of the other two forces iv. Any one force is the equivalent of the other two. Which of the following statements above are correct?",
     "options": [
       "i and iii only",
       "i and ii only",
@@ -13465,7 +13465,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-390-80",
-    "questionText": "What is the total power output of a source with intensity 0.050 W/m2 at a distance of 3.0m from the source?  (JAMB 2010)",
+    "questionText": "What is the total power output of a source with intensity 0.050 W/m2 at a distance of 3.0m from the source?",
     "options": [
       "112W",
       "5.6W",
@@ -13477,7 +13477,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-391-904",
-    "questionText": "A machine of velocity ratio 6 requires an effort of 400 N to raise a load of 800 N through 1 m. Find the efficiency of the machine (JAMB 2010)",
+    "questionText": "A machine of velocity ratio 6 requires an effort of 400 N to raise a load of 800 N through 1 m. Find the efficiency of the machine",
     "options": [
       "55. 6 %",
       "50.00%",
@@ -13489,7 +13489,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-392-944",
-    "questionText": "n the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be (JAMB 2010)",
+    "questionText": "n the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be",
     "options": [
       "south and north",
       "north and south",
@@ -13501,7 +13501,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-393-925",
-    "questionText": "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will? (JAMB 2010)",
+    "questionText": "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will?",
     "options": [
       "be induced",
       "converge",
@@ -13513,7 +13513,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-394-942",
-    "questionText": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit? (JAMB 2010)",
+    "questionText": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?",
     "options": [
       "14 A",
       "12 A",
@@ -13525,7 +13525,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-395-934",
-    "questionText": "The diagram above shows a velocity - time graph. The statement that is true about this motion is that the car? (JAMB 2010)",
+    "questionText": "The diagram above shows a velocity - time graph. The statement that is true about this motion is that the car?",
     "options": [
       "has no acceleration between point F and G",
       "decelerates between F and H",
@@ -13537,7 +13537,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-396-970",
-    "questionText": "Steam burn is more severe than that of boiling water because (JAMB 2011)",
+    "questionText": "Steam burn is more severe than that of boiling water because",
     "options": [
       "steam burn is independent of relative humidity",
       "steam possesses greater heat energy per unit mass",
@@ -13549,7 +13549,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-397-974",
-    "questionText": "When a red rose flower is observed in blue light, what colour does the observer see? (JAMB 2011)",
+    "questionText": "When a red rose flower is observed in blue light, what colour does the observer see?",
     "options": [
       "Red",
       "Blue",
@@ -13561,7 +13561,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-398-997",
-    "questionText": "In an A.C circuit, the ratio of r.m.s value to peak value of current is (JAMB 2011)",
+    "questionText": "In an A.C circuit, the ratio of r.m.s value to peak value of current is",
     "options": [
       "2",
       "1/2",
@@ -13573,7 +13573,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-399-989",
-    "questionText": "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is (JAMB 2011)",
+    "questionText": "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is",
     "options": [
       "14.0 N",
       "10.0 N",
@@ -13585,7 +13585,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-400-110",
-    "questionText": "A p-n junction can act as   (JAMB 2011)",
+    "questionText": "A p-n junction can act as",
     "options": [
       "an amplifier",
       "a rectifier",
@@ -13597,7 +13597,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-401-101",
-    "questionText": "An object is said to be in simple harmonic motion (SHM) if   (JAMB 2011)",
+    "questionText": "An object is said to be in simple harmonic motion (SHM) if",
     "options": [
       "the acceleration is directly proportional to the displacement and is directed towards the equilibrium position of the object.",
       "the acceleration is inversely proportional to the displacement and directed toward the equilibrium position of the object",
@@ -13609,7 +13609,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-402-985",
-    "questionText": "A radioactive isotope has a decay constant of 10⁻⁵ s⁻¹. Calculate half-life (JAMB 2011)",
+    "questionText": "A radioactive isotope has a decay constant of 10⁻⁵ s⁻¹. Calculate half-life",
     "options": [
       "6.93 × 10⁻⁵ s",
       "6.93 × 10⁵ s",
@@ -13621,7 +13621,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-403-956",
-    "questionText": "An object weighs 22 kg in water and 30kg in air. What is the upthrust exerted by the liquid on the object? [g = 10 ms⁻²] (JAMB 2011)",
+    "questionText": "An object weighs 22 kg in water and 30kg in air. What is the upthrust exerted by the liquid on the object? [g = 10 ms⁻²]",
     "options": [
       "50 N",
       "520 N",
@@ -13633,7 +13633,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-404-102",
-    "questionText": "A wheel and axle is used to raise a weight of 600n with an effort of 300n. if the radii of the wheel and axle are 50 cm and 10 cm respectively, what is the efficiency of the system       (JAMB 2011)",
+    "questionText": "A wheel and axle is used to raise a weight of 600n with an effort of 300n. if the radii of the wheel and axle are 50 cm and 10 cm respectively, what is the efficiency of the system",
     "options": [
       "40%",
       "50%",
@@ -13645,7 +13645,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-405-964",
-    "questionText": "Which of the following electromagnetic waves has the highest frequency? (JAMB 2011)",
+    "questionText": "Which of the following electromagnetic waves has the highest frequency?",
     "options": [
       "utra - violet rays",
       "radio waves",
@@ -13657,7 +13657,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-406-93",
-    "questionText": "the velocity of a 500 kg car moving long a straight  road, changes from 12 m/s to 20 m/s in 5 sec. calculate the average force moving the car.  (JAMB 2011)",
+    "questionText": "the velocity of a 500 kg car moving long a straight  road, changes from 12 m/s to 20 m/s in 5 sec. calculate the average force moving the car.",
     "options": [
       "2000N",
       "1600N",
@@ -13669,7 +13669,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-407-973",
-    "questionText": "When the human eye loses its power of accomodation, the defect is known as (JAMB 2011)",
+    "questionText": "When the human eye loses its power of accomodation, the defect is known as",
     "options": [
       "short sightedness",
       "presbyopia",
@@ -13681,7 +13681,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-408-992",
-    "questionText": "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance? (JAMB 2011)",
+    "questionText": "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?",
     "options": [
       "10 cm",
       "25 cm",
@@ -13693,7 +13693,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-409-995",
-    "questionText": "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys (JAMB 2011)",
+    "questionText": "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys",
     "options": [
       "Graham's Law",
       "Boyle's Law",
@@ -13705,7 +13705,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-410-103",
-    "questionText": "The  term “Viscosity” is used to describe   (JAMB 2011)",
+    "questionText": "The  term “Viscosity” is used to describe",
     "options": [
       "surface tension in fluids",
       "friction in fluids",
@@ -13717,7 +13717,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-411-112",
-    "questionText": "Sound waves were sent out from a source and after being reflected from  an obstacle were received by a sensor placed beside the source. If the waves were received 10 seconds after they were sent out, calculate  the distance between the  source and the obstacle (speed of sound = 330 m/s)  (JAMB 2011)",
+    "questionText": "Sound waves were sent out from a source and after being reflected from  an obstacle were received by a sensor placed beside the source. If the waves were received 10 seconds after they were sent out, calculate  the distance between the  source and the obstacle (speed of sound = 330 m/s)",
     "options": [
       "990m",
       "660m",
@@ -13729,7 +13729,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-412-977",
-    "questionText": "The eclipse of the sun occurs when the (JAMB 2011)",
+    "questionText": "The eclipse of the sun occurs when the",
     "options": [
       "moon is between the sun and the earth",
       "earth is between the sun and the moon",
@@ -13741,7 +13741,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-413-962",
-    "questionText": "Which of the following could be effectively used to reduce friction? (JAMB 2011)",
+    "questionText": "Which of the following could be effectively used to reduce friction?",
     "options": [
       "kerosene",
       "grease",
@@ -13753,7 +13753,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-414-111",
-    "questionText": "  Calcium has a work function of 19 eV with a wavelength of 150 nm. Calculate the maximum energy of a photo electron emitted. (1 eV = 16.1 x 10-19J, h = 6.6 x 10-34Js)             (JAMB 2011)",
+    "questionText": "  Calcium has a work function of 19 eV with a wavelength of 150 nm. Calculate the maximum energy of a photo electron emitted. (1 eV = 16.1 x 10-19J, h = 6.6 x 10-34Js)",
     "options": [
       "6.35 Ev",
       "8.25 cV",
@@ -13765,7 +13765,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-415-95",
-    "questionText": "The density of sea water is 1030kg/m3. What is the pressure at a depth of  80 m below sea surface? Atmospheric pressure is 1.013 x 105 pa and acceleration  due to gravity is 10 m/s2   (JAMB 2011)",
+    "questionText": "The density of sea water is 1030kg/m3. What is the pressure at a depth of  80 m below sea surface? Atmospheric pressure is 1.013 x 105 pa and acceleration  due to gravity is 10 m/s2",
     "options": [
       "9.25 x 105 pa",
       "8.24 105 pa",
@@ -13777,7 +13777,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-416-971",
-    "questionText": "I. Change of state\nII. Diffusion\nIII. Radiation\nIV. Osmosis\nWhich of the processes above can be explained using the kinetic theory? (JAMB 2011)",
+    "questionText": "I. Change of state\nII. Diffusion\nIII. Radiation\nIV. Osmosis\nWhich of the processes above can be explained using the kinetic theory?",
     "options": [
       "I, II, III and IV",
       "I, II and III",
@@ -13789,7 +13789,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-417-109",
-    "questionText": "A cigarette lighter in a car is a resistor that, when activated, is connected across the 12 – V battery. If the lighter dissipates 33 W of power, find the current it delivers  to the lighter.   (JAMB 2011)",
+    "questionText": "A cigarette lighter in a car is a resistor that, when activated, is connected across the 12 – V battery. If the lighter dissipates 33 W of power, find the current it delivers  to the lighter.",
     "options": [
       "9.90 Ω",
       "6.60 Ω",
@@ -13801,7 +13801,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-418-998",
-    "questionText": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is (JAMB 2011)",
+    "questionText": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
     "options": [
       "1:3",
       "2:9",
@@ -13813,7 +13813,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-419-979",
-    "questionText": "In measuring high frequency a.c, the instrument used is the (JAMB 2011)",
+    "questionText": "In measuring high frequency a.c, the instrument used is the",
     "options": [
       "d.c ammeter",
       "moving coil ammeter",
@@ -13825,7 +13825,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-420-107",
-    "questionText": "Dry air of column length 10 cm is trapped by a pellet of mercury of length 15 cm, with the open end uppermost. When the capillary is inverted the length of the air column increased to 25 cm while that of mercury remained constant. Calculate the atmospheric pressure (in cm of Hg.)   (JAMB 2011)",
+    "questionText": "Dry air of column length 10 cm is trapped by a pellet of mercury of length 15 cm, with the open end uppermost. When the capillary is inverted the length of the air column increased to 25 cm while that of mercury remained constant. Calculate the atmospheric pressure (in cm of Hg.)",
     "options": [
       "35 cm Hg",
       "15 cm Hg",
@@ -13837,7 +13837,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-421-988",
-    "questionText": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis? (JAMB 2011)",
+    "questionText": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis?",
     "options": [
       "X is the anode and very high current is used",
       "X is the anode and Y is the cathode",
@@ -13849,7 +13849,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-422-980",
-    "questionText": "\nIf the charge of electricity is K per kWh is N4, what is the cost of operating an electrical appliance rated 250V, 2A for six hours? (JAMB 2011)",
+    "questionText": "\nIf the charge of electricity is K per kWh is N4, what is the cost of operating an electrical appliance rated 250V, 2A for six hours?",
     "options": [
       "N28",
       "N12",
@@ -13861,7 +13861,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-423-967",
-    "questionText": "A cannon is fired from town X, after how long is the sound heard at a town Y 4.95 km away? [velocity of sound in the air = 330 ms⁻¹] (JAMB 2011)",
+    "questionText": "A cannon is fired from town X, after how long is the sound heard at a town Y 4.95 km away? [velocity of sound in the air = 330 ms⁻¹]",
     "options": [
       "30 s",
       "10 s",
@@ -13873,7 +13873,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-424-993",
-    "questionText": "A length of wire has a frequency of 225 Hz when stretched by a force of 225 N. If the force increased to 324 N, what is the new frequency of vibration? (JAMB 2011)",
+    "questionText": "A length of wire has a frequency of 225 Hz when stretched by a force of 225 N. If the force increased to 324 N, what is the new frequency of vibration?",
     "options": [
       "270 Hz",
       "512 Hz",
@@ -13885,7 +13885,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-425-953",
-    "questionText": "An object of mass 2 kg moves with a velocity of 10 ms⁻¹ round a circle of radius 4 m. Calculate the centripetal force on the object (JAMB 2011)",
+    "questionText": "An object of mass 2 kg moves with a velocity of 10 ms⁻¹ round a circle of radius 4 m. Calculate the centripetal force on the object",
     "options": [
       "25 N",
       "100 N",
@@ -13897,7 +13897,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-426-984",
-    "questionText": "The bond between silicon and germanium is (JAMB 2011)",
+    "questionText": "The bond between silicon and germanium is",
     "options": [
       "covalent",
       "ionic",
@@ -13909,7 +13909,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-427-982",
-    "questionText": "Two inductors of inductance 4 II and 8 II are arrange in series and a current of 10 A is passed through them. What is the energy stored in them? (JAMB 2011)",
+    "questionText": "Two inductors of inductance 4 II and 8 II are arrange in series and a current of 10 A is passed through them. What is the energy stored in them?",
     "options": [
       "600 J",
       "50 J",
@@ -13921,7 +13921,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-428-97",
-    "questionText": "A sample of radioactive substance, whose half-life is 16 days, registers 32 decays per second. How long will it take for the rate of decay to reduce to 2 decays per second?  (JAMB 2011)",
+    "questionText": "A sample of radioactive substance, whose half-life is 16 days, registers 32 decays per second. How long will it take for the rate of decay to reduce to 2 decays per second?",
     "options": [
       "80 days",
       "64 days",
@@ -13933,7 +13933,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-429-975",
-    "questionText": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant? (JAMB 2011)",
+    "questionText": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant?",
     "options": [
       "0.3",
       "6.0",
@@ -13945,7 +13945,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-430-955",
-    "questionText": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will (JAMB 2011)",
+    "questionText": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will",
     "options": [
       "remain at the same level irrespective of whether the liquid wet the glass or not",
       "fall below the liquid level if the liquid wets the glass",
@@ -13957,7 +13957,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-431-963",
-    "questionText": "Which of the following types of waves needs a medium for propagation? (JAMB 2011)",
+    "questionText": "Which of the following types of waves needs a medium for propagation?",
     "options": [
       "sound waves",
       "light waves",
@@ -13969,7 +13969,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-432-961",
-    "questionText": "I. Density of the liquid.\nII. Depth below the surface of the liquid.\nIII. Surface area of the liquid.\nIn which of the statement above will pressure be dependent? (JAMB 2011)",
+    "questionText": "I. Density of the liquid.\nII. Depth below the surface of the liquid.\nIII. Surface area of the liquid.\nIn which of the statement above will pressure be dependent?",
     "options": [
       "I and II only.",
       "II and III only.",
@@ -13981,7 +13981,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-433-954",
-    "questionText": "A carpenter on top of a roof of 20.0m high dropped a hammer of mass 1.5 kg and it fell directly to the ground. The kinetic energy of the hammer just before hitting the ground is? [g = 10 ms⁻²] (JAMB 2011)",
+    "questionText": "A carpenter on top of a roof of 20.0m high dropped a hammer of mass 1.5 kg and it fell directly to the ground. The kinetic energy of the hammer just before hitting the ground is? [g = 10 ms⁻²]",
     "options": [
       "600 J",
       "150 J",
@@ -13993,7 +13993,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-434-1035",
-    "questionText": "A conductor of length 1 m moves with a velocity of 50 m s⁻¹ at an angle of 30° to the direction of a uniform magnetic field of flux density 1.5 Wb m⁻². What is the e.m.f induced in the conductor? (JAMB 2012)",
+    "questionText": "A conductor of length 1 m moves with a velocity of 50 m s⁻¹ at an angle of 30° to the direction of a uniform magnetic field of flux density 1.5 Wb m⁻². What is the e.m.f induced in the conductor?",
     "options": [
       "37.5 V",
       "50.5 V",
@@ -14005,7 +14005,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-435-1029",
-    "questionText": "The use of lenses is Not applicable in the (JAMB 2012)",
+    "questionText": "The use of lenses is Not applicable in the",
     "options": [
       "projector",
       "human eye",
@@ -14017,7 +14017,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-436-1012",
-    "questionText": "A balloon whose volume is 300 m³ is filled with hydrogen. If the density of air is 1.3 kg m⁻³, find the upthrust on the balloon. [g = 10 m s⁻²] (JAMB 2012)",
+    "questionText": "A balloon whose volume is 300 m³ is filled with hydrogen. If the density of air is 1.3 kg m⁻³, find the upthrust on the balloon. [g = 10 m s⁻²]",
     "options": [
       "3000 N",
       "3800 N",
@@ -14029,7 +14029,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-437-1033",
-    "questionText": "A particle carrying a charge of 1.0 × 10⁻⁸ C enters a magnetic field at 3.0 × 10⁻² ms⁻¹ at right angles to the field. If the force on this particle is 1.8 × 10⁻⁸ N, what is the magnitude of the field? (JAMB 2012)",
+    "questionText": "A particle carrying a charge of 1.0 × 10⁻⁸ C enters a magnetic field at 3.0 × 10⁻² ms⁻¹ at right angles to the field. If the force on this particle is 1.8 × 10⁻⁸ N, what is the magnitude of the field?",
     "options": [
       "6.0 × 10⁻¹ T",
       "6.0 × 10¹ T",
@@ -14041,7 +14041,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-438-1039",
-    "questionText": "The p-n junction diodes can act as rectifiers because they (JAMB 2012)",
+    "questionText": "The p-n junction diodes can act as rectifiers because they",
     "options": [
       "conduct current when forward-biased",
       "conduct current when reverse-biased",
@@ -14053,7 +14053,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-439-124",
-    "questionText": "A coin is at the bottom of a bucket filled with a liquid whose refractive index is 1.35. The coin appears to be 12.0cm below the surface of the liquid. Calculate the depth of the liquid. (JAMB 2012)",
+    "questionText": "A coin is at the bottom of a bucket filled with a liquid whose refractive index is 1.35. The coin appears to be 12.0cm below the surface of the liquid. Calculate the depth of the liquid.",
     "options": [
       "16.2cm",
       "13.4cm",
@@ -14065,7 +14065,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-440-122",
-    "questionText": "A 25N force pulls a 2.0kg body up a 300 inclined plane. If force is parallel to the plane and the body moves up the plane at constant velocity. Calculate the magnitude of the frictional force between the body and the plane. [g =10m/s2] (JAMB 2012)",
+    "questionText": "A 25N force pulls a 2.0kg body up a 300 inclined plane. If force is parallel to the plane and the body moves up the plane at constant velocity. Calculate the magnitude of the frictional force between the body and the plane. [g =10m/s2]",
     "options": [
       "25N",
       "10N",
@@ -14077,7 +14077,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-441-118",
-    "questionText": "Three knives made of steel, plastic and flat wood respectively are placed on the table for an equal amount of time. The steel knife feels coldest to touched because (JAMB 2012)",
+    "questionText": "Three knives made of steel, plastic and flat wood respectively are placed on the table for an equal amount of time. The steel knife feels coldest to touched because",
     "options": [
       "The steel knife has the lowest temperature",
       "The plastic and wooden knives have absorbed more heat from the environment than the steel knife.",
@@ -14089,7 +14089,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-442-1030",
-    "questionText": "Disperson of white light is the ability of white light to (JAMB 2012)",
+    "questionText": "Disperson of white light is the ability of white light to",
     "options": [
       "penetrate air, water and glass",
       "move in a straight line",
@@ -14101,7 +14101,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-443-1021",
-    "questionText": "Which of the following factors will affect the velocity of sound? (JAMB 2012)",
+    "questionText": "Which of the following factors will affect the velocity of sound?",
     "options": [
       "An increase in the pitch of the sound",
       "An increase in the loudness of the sound",
@@ -14113,7 +14113,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-444-1023",
-    "questionText": "Where can a man place his face to get an enlarged image when using a concave mirror to shave? (JAMB 2012)",
+    "questionText": "Where can a man place his face to get an enlarged image when using a concave mirror to shave?",
     "options": [
       "Between the centre of curvature and the principal focus",
       "At the principal focus",
@@ -14125,7 +14125,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-445-1004",
-    "questionText": "A rocket is fired from the earth's surface to a distant planet. By Newton's law of universal gravitation, the force F will (JAMB 2012)",
+    "questionText": "A rocket is fired from the earth's surface to a distant planet. By Newton's law of universal gravitation, the force F will",
     "options": [
       "increase as r reduces",
       "increase as G varies",
@@ -14137,7 +14137,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-446-1020",
-    "questionText": "The equation of a wave traveling in a horizontal direction is expressed as y = 15 sin 2π/5 (60t - x). What is its wavelength? (JAMB 2012)",
+    "questionText": "The equation of a wave traveling in a horizontal direction is expressed as y = 15 sin 2π/5 (60t - x). What is its wavelength?",
     "options": [
       "60 m",
       "15 m",
@@ -14149,7 +14149,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-447-1007",
-    "questionText": "An object of mass 20kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of static friction is? [g = 10ms⁻²] (JAMB 2012)",
+    "questionText": "An object of mass 20kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of static friction is? [g = 10ms⁻²]",
     "options": [
       "0.2",
       ". 0.3",
@@ -14161,7 +14161,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-448-1034",
-    "questionText": "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is (JAMB 2012)",
+    "questionText": "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is",
     "options": [
       "5.0A",
       "7.1A",
@@ -14173,7 +14173,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-449-1000",
-    "questionText": "In order to remove the error of parallax when taking measurements with a metre rule, the eye should be focused (JAMB 2012)",
+    "questionText": "In order to remove the error of parallax when taking measurements with a metre rule, the eye should be focused",
     "options": [
       "slantingly towards the right on the markings",
       "slantingly towards the left on the markings",
@@ -14185,7 +14185,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-450-1011",
-    "questionText": "The pressure at any point in a liquid at rest depends only on the (JAMB 2012)",
+    "questionText": "The pressure at any point in a liquid at rest depends only on the",
     "options": [
       "Depth and the density",
       "Mass and the volume",
@@ -14197,7 +14197,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-451-121",
-    "questionText": "Which of the following quantities is equal to the area under a velocity-time graph? (JAMB 2012)",
+    "questionText": "Which of the following quantities is equal to the area under a velocity-time graph?",
     "options": [
       "Acceleration",
       "Distance travelled",
@@ -14209,7 +14209,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-452-127",
-    "questionText": "Two 2µF capacitors are connected in parallel. The combination is connected in series with a 6µF capacitor. What is the equivalent capacitor for the combination? (JAMB 2012)",
+    "questionText": "Two 2µF capacitors are connected in parallel. The combination is connected in series with a 6µF capacitor. What is the equivalent capacitor for the combination?",
     "options": [
       "10.0µF",
       "8.0µF",
@@ -14221,7 +14221,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-453-1028",
-    "questionText": "I. Rays of light travel from a less dense medium to a denser medium.\nII. The angle of incidence is greater than critical angle.\nIII. Rays of light travel from a denser medium to a less dense medium.\n\nWhich of the statements above are conditions for total internal reflection to occur? (JAMB 2012)",
+    "questionText": "I. Rays of light travel from a less dense medium to a denser medium.\nII. The angle of incidence is greater than critical angle.\nIII. Rays of light travel from a denser medium to a less dense medium.\n\nWhich of the statements above are conditions for total internal reflection to occur?",
     "options": [
       "I and II only",
       "I and III only",
@@ -14233,7 +14233,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-454-128",
-    "questionText": "Five 100-Watt bulbs are put on for 45days during which the home-owner is on vacation. If 1kW-hour of electricity cost N7.50, how much does it cost the home-owner?  (JAMB 2012)",
+    "questionText": "Five 100-Watt bulbs are put on for 45days during which the home-owner is on vacation. If 1kW-hour of electricity cost N7.50, how much does it cost the home-owner?",
     "options": [
       "N168.75",
       "N90.0",
@@ -14245,7 +14245,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-455-1022",
-    "questionText": "The characteristic of a vibration that determines its intensity is the (JAMB 2012)",
+    "questionText": "The characteristic of a vibration that determines its intensity is the",
     "options": [
       "Frequency",
       "Overtone",
@@ -14257,7 +14257,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-456-1036",
-    "questionText": "The process of detecting a pin mistakenly swallowed by a child is X-ray (JAMB 2012)",
+    "questionText": "The process of detecting a pin mistakenly swallowed by a child is X-ray",
     "options": [
       "Diagnosis",
       "Therapy",
@@ -14269,7 +14269,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-457-1018",
-    "questionText": "The quantity of heat energy required to melt completely 1 kg of ice at –30 °C is\n[latent heat of fusion = 3.5 × 10⁵ J kg⁻¹, specific heat capacity of ice = 2.1 × 10³ J kg⁻¹ K⁻¹] (JAMB 2012)",
+    "questionText": "The quantity of heat energy required to melt completely 1 kg of ice at –30 °C is\n[latent heat of fusion = 3.5 × 10⁵ J kg⁻¹, specific heat capacity of ice = 2.1 × 10³ J kg⁻¹ K⁻¹]",
     "options": [
       "4.13 × 10⁶ J",
       "4.13 × 10⁵ J",
@@ -14281,7 +14281,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-458-125",
-    "questionText": "A 3.0cm object is placed 12.0cm in front of bi-convex lens of focal length 8.0cm. Calculate the height of the image of the object.   (JAMB 2012)",
+    "questionText": "A 3.0cm object is placed 12.0cm in front of bi-convex lens of focal length 8.0cm. Calculate the height of the image of the object.",
     "options": [
       "3.0cm",
       "6.0cm",
@@ -14293,7 +14293,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-459-1013",
-    "questionText": "Clinical thermometers are examples of (JAMB 2012)",
+    "questionText": "Clinical thermometers are examples of",
     "options": [
       "pressure gas thermometer",
       "resistance thermometer",
@@ -14305,7 +14305,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-460-114",
-    "questionText": "When the length of the string of a simple pendulum is L its period is 0.5π second is 0.5π seconds. The period when the length is increased to 4L will be  (JAMB 2012)",
+    "questionText": "When the length of the string of a simple pendulum is L its period is 0.5π second is 0.5π seconds. The period when the length is increased to 4L will be",
     "options": [
       "0.5π seconds",
       "π seconds",
@@ -14317,7 +14317,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-461-1038",
-    "questionText": "A piece of radioactive material contains 1000 atoms. If its half‑life is 20 seconds, the time taken for 125 atoms to remain is (JAMB 2012)",
+    "questionText": "A piece of radioactive material contains 1000 atoms. If its half‑life is 20 seconds, the time taken for 125 atoms to remain is",
     "options": [
       "20 seconds",
       "40 seconds",
@@ -14329,7 +14329,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-462-120",
-    "questionText": "A car accelerates at 5.0m/s2 for 6s, the travels at the speed attained for 20s, and comes to rest after another 4.0s. Calculate the average velocity of the car during the motion. (JAMB 2012)",
+    "questionText": "A car accelerates at 5.0m/s2 for 6s, the travels at the speed attained for 20s, and comes to rest after another 4.0s. Calculate the average velocity of the car during the motion.",
     "options": [
       "25.0m/s",
       "20.0m/s",
@@ -14341,7 +14341,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-463-1003",
-    "questionText": "A car starts from rest and moves with a uniform acceleration of 30ms⁻² for 20s. Calculate the distance covered at the end of the motion (JAMB 2012)",
+    "questionText": "A car starts from rest and moves with a uniform acceleration of 30ms⁻² for 20s. Calculate the distance covered at the end of the motion",
     "options": [
       "6km",
       "12km",
@@ -14353,7 +14353,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-464-1017",
-    "questionText": "Which of the following is NOT a factor that can increase the rate of evaporation of water in a lake? (JAMB 2012)",
+    "questionText": "Which of the following is NOT a factor that can increase the rate of evaporation of water in a lake?",
     "options": [
       "increase in the pressure of the atmosphere",
       "rise in temperature",
@@ -14365,7 +14365,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-465-1026",
-    "questionText": "After reflection from the concave mirror, rays of light from the sun converges (JAMB 2012)",
+    "questionText": "After reflection from the concave mirror, rays of light from the sun converges",
     "options": [
       "at the radius of curvature",
       "at the focus",
@@ -14377,7 +14377,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-466-1005",
-    "questionText": "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the (JAMB 2012)",
+    "questionText": "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the",
     "options": [
       "acceleration is directly proportional to the displacement",
       "motion is directed away from the equilibrium point",
@@ -14389,7 +14389,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-467-1009",
-    "questionText": "If a load of 1 kg stretches a cord by 1.2 cm, what is the force constant of the cord? {g = 10 m s⁻²} (JAMB 2012)",
+    "questionText": "If a load of 1 kg stretches a cord by 1.2 cm, what is the force constant of the cord? {g = 10 m s⁻²}",
     "options": [
       "866 N m⁻¹",
       "833 N m⁻¹",
@@ -14401,7 +14401,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-468-1054",
-    "questionText": "Two liquids X and Y having the same mass are supplied with the same quantity of heat. If the temperature rise in X is twice that of Y, the ratio of specific heat capacity of X to that of Y is (JAMB 2013)",
+    "questionText": "Two liquids X and Y having the same mass are supplied with the same quantity of heat. If the temperature rise in X is twice that of Y, the ratio of specific heat capacity of X to that of Y is",
     "options": [
       "2:1",
       "1:2",
@@ -14413,7 +14413,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-469-1069",
-    "questionText": "Capacitors are used in the induction coil to (JAMB 2013)",
+    "questionText": "Capacitors are used in the induction coil to",
     "options": [
       "control circuits",
       "prevent distortion of electric fields",
@@ -14425,7 +14425,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-470-1072",
-    "questionText": "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N? (JAMB 2013)",
+    "questionText": "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?",
     "options": [
       "N90",
       "N50",
@@ -14437,7 +14437,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-471-1073",
-    "questionText": "An electric device is rated 2000W, 250V. Calculate the maximum current it can take (JAMB 2013)",
+    "questionText": "An electric device is rated 2000W, 250V. Calculate the maximum current it can take",
     "options": [
       "9A",
       "8A",
@@ -14449,7 +14449,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-472-1040",
-    "questionText": "When a brick is taken from the earth's surface to the moon, its mass (JAMB 2013)",
+    "questionText": "When a brick is taken from the earth's surface to the moon, its mass",
     "options": [
       "remains constant",
       "reduces",
@@ -14461,7 +14461,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-473-1055",
-    "questionText": "Steam from boiling water causes more damage on the skin than does boiling water because (JAMB 2013)",
+    "questionText": "Steam from boiling water causes more damage on the skin than does boiling water because",
     "options": [
       "water has a high specific heat",
       "steam has latent heat of vaporization",
@@ -14473,7 +14473,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-474-1068",
-    "questionText": "Calculate the force acting on an electron of charge 1.5 × 10⁻¹⁹ C placed in an electric field of intensity 10⁵ V m⁻¹ (JAMB 2013)",
+    "questionText": "Calculate the force acting on an electron of charge 1.5 × 10⁻¹⁹ C placed in an electric field of intensity 10⁵ V m⁻¹",
     "options": [
       "1.5 × 10⁻¹¹ N",
       "1.5 × 10⁻¹² N",
@@ -14485,7 +14485,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-475-1058",
-    "questionText": "The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is (JAMB 2013)",
+    "questionText": "The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is",
     "options": [
       "covection",
       "conduction",
@@ -14497,7 +14497,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-476-1060",
-    "questionText": "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their (JAMB 2013)",
+    "questionText": "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their",
     "options": [
       "frequency",
       "amplitude",
@@ -14509,7 +14509,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-477-1074",
-    "questionText": "When a charge moves through an electric circuit in the direction of an electric force, it (JAMB 2013)",
+    "questionText": "When a charge moves through an electric circuit in the direction of an electric force, it",
     "options": [
       "gains both potential and kinetic energy",
       "gains potential energy and lose kinetic energy",
@@ -14521,7 +14521,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-478-1078",
-    "questionText": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV (JAMB 2013)",
+    "questionText": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV",
     "options": [
       "-9.20eV",
       "-8.20eV",
@@ -14533,7 +14533,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-479-1043",
-    "questionText": "A simple pendulum of length 0.4m has a period of 2s. What is the period of a similar pendulum of length 0.8m at the same place? (JAMB 2013)",
+    "questionText": "A simple pendulum of length 0.4m has a period of 2s. What is the period of a similar pendulum of length 0.8m at the same place?",
     "options": [
       "8 s",
       "4 s",
@@ -14545,7 +14545,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-480-1042",
-    "questionText": "The pair of physical quantities that are scalar only are ? (JAMB 2013)",
+    "questionText": "The pair of physical quantities that are scalar only are ?",
     "options": [
       "volume and area",
       ". moment and momentum",
@@ -14557,7 +14557,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-481-1071",
-    "questionText": "Which of the following obeys ohms laws? (JAMB 2013)",
+    "questionText": "Which of the following obeys ohms laws?",
     "options": [
       "electroytes",
       "metals",
@@ -14569,7 +14569,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-482-1062",
-    "questionText": "If a sonometer has a fundamental frequency of 450HZ, what is the frequency of the fifth overtone? (JAMB 2013)",
+    "questionText": "If a sonometer has a fundamental frequency of 450HZ, what is the frequency of the fifth overtone?",
     "options": [
       "2700Hz",
       "456Hz",
@@ -14581,7 +14581,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-483-1066",
-    "questionText": "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively. Calculate the angular magnification of the microscope (JAMB 2013)",
+    "questionText": "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively. Calculate the angular magnification of the microscope",
     "options": [
       "2",
       "3",
@@ -14593,7 +14593,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-484-1063",
-    "questionText": "A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen? (JAMB 2013)",
+    "questionText": "A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen?",
     "options": [
       "0.05m",
       "0.15m",
@@ -14605,7 +14605,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-485-1065",
-    "questionText": "Total internal reflection will not occur when light travels from (JAMB 2013)",
+    "questionText": "Total internal reflection will not occur when light travels from",
     "options": [
       "water to air",
       "water into glass",
@@ -14617,7 +14617,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-486-1041",
-    "questionText": "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle of 30° with the resultant, find its magnitude. (JAMB 2013)",
+    "questionText": "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle of 30° with the resultant, find its magnitude.",
     "options": [
       "100.0 N",
       "57.7 N",
@@ -14629,7 +14629,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-487-1056",
-    "questionText": "What will happen to the boiling point of pure water when it is heated in a place 30m below sea level? (JAMB 2013)",
+    "questionText": "What will happen to the boiling point of pure water when it is heated in a place 30m below sea level?",
     "options": [
       "It will be more than 100 °C",
       "It will be less than 100 °C",
@@ -14641,7 +14641,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-488-1057",
-    "questionText": "The rise or fall of a liquid in a narrow tube is because of the (JAMB 2013)",
+    "questionText": "The rise or fall of a liquid in a narrow tube is because of the",
     "options": [
       "viscosity of the liquid",
       "surface tension of the liquid",
@@ -14653,7 +14653,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-489-1045",
-    "questionText": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5 ms⁻². [g = 10 ms⁻²] (JAMB 2013)",
+    "questionText": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5 ms⁻². [g = 10 ms⁻²]",
     "options": [
       "686 N",
       "595 N",
@@ -14665,7 +14665,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-490-1052",
-    "questionText": "A wire of length 100.0m at 30°C has linear expansivity of 2 × 10⁻⁵ K⁻¹. Calculate the length of the wire at a temperature of -10°C (JAMB 2013)",
+    "questionText": "A wire of length 100.0m at 30°C has linear expansivity of 2 × 10⁻⁵ K⁻¹. Calculate the length of the wire at a temperature of -10°C",
     "options": [
       ". 100.08 m",
       "100.04 m",
@@ -14677,7 +14677,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-491-1061",
-    "questionText": "What is the velocity of sound at 100 °C if the velocity of sound at 0 °C is 340 m s⁻¹? (JAMB 2013)",
+    "questionText": "What is the velocity of sound at 100 °C if the velocity of sound at 0 °C is 340 m s⁻¹?",
     "options": [
       "497 m s⁻¹",
       "440 m s⁻¹",
@@ -14689,7 +14689,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-492-1070",
-    "questionText": "A cell of emf 1.5V is connected in series with a 1Ω resistor and a current of 0.3A flows through the resistor. Find the internal resistance of the cell (JAMB 2013)",
+    "questionText": "A cell of emf 1.5V is connected in series with a 1Ω resistor and a current of 0.3A flows through the resistor. Find the internal resistance of the cell",
     "options": [
       "4.0Ω",
       "3.0Ω",
@@ -14701,7 +14701,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-493-1046",
-    "questionText": "A piece of cork floats in a liquid. What fraction of its volume will be immersed in the liquid? [Density of the cork = 0.25 × 10³ kgm⁻³, Density of the liquid = 1.25 × 10³ kgm⁻³] (JAMB 2013)",
+    "questionText": "A piece of cork floats in a liquid. What fraction of its volume will be immersed in the liquid? [Density of the cork = 0.25 × 10³ kgm⁻³, Density of the liquid = 1.25 × 10³ kgm⁻³]",
     "options": [
       "0.8",
       "0.5",
@@ -14713,7 +14713,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-494-1048",
-    "questionText": "\nIf a pump is capable of lifting 5000kg of water through a vertical height of 60m in 15 min, the power of the pump is (JAMB 2013)",
+    "questionText": "\nIf a pump is capable of lifting 5000kg of water through a vertical height of 60m in 15 min, the power of the pump is",
     "options": [
       "2.5 × 10⁵ Js⁻¹",
       "2.5 × 10⁴ Js⁻¹",
@@ -14725,7 +14725,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-495-1044",
-    "questionText": "A train with an initial velocity of 20 ms⁻¹ is subjected to a uniform deceleration of 2 ms⁻². The time required to bring the train to a complete halt is? (JAMB 2013)",
+    "questionText": "A train with an initial velocity of 20 ms⁻¹ is subjected to a uniform deceleration of 2 ms⁻². The time required to bring the train to a complete halt is?",
     "options": [
       "5 s",
       "10 s",
@@ -14737,7 +14737,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-496-1047",
-    "questionText": "An object is moving with a velocity of 5 ms⁻¹. At what height must a similar body be situated to have a potential energy equal in value with kinetic energy of the moving body? (JAMB 2013)",
+    "questionText": "An object is moving with a velocity of 5 ms⁻¹. At what height must a similar body be situated to have a potential energy equal in value with kinetic energy of the moving body?",
     "options": [
       "25.0 m",
       "20.0 m",
@@ -14749,7 +14749,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-497-1050",
-    "questionText": "What volume of alcohol will have same mass as 4.2 m³ of petrol? Density of alcohol = 8.4 × 10² kgm⁻³, density of petrol = 7.2 × 10² kgm⁻³ (JAMB 2013)",
+    "questionText": "What volume of alcohol will have same mass as 4.2 m³ of petrol? Density of alcohol = 8.4 × 10² kgm⁻³, density of petrol = 7.2 × 10² kgm⁻³",
     "options": [
       "0.8 m³",
       "1.4 m³",
@@ -14761,7 +14761,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-498-1076",
-    "questionText": "Induced emfs are best explained using (JAMB 2013)",
+    "questionText": "Induced emfs are best explained using",
     "options": [
       "Ohm's law",
       "Faraday's law",
@@ -14773,7 +14773,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-499-1067",
-    "questionText": "The angle of deviation of light of various colours passing through a triangular prism increases in the order (JAMB 2013)",
+    "questionText": "The angle of deviation of light of various colours passing through a triangular prism increases in the order",
     "options": [
       "red → green → blue",
       "green → violet → blue",
@@ -14785,7 +14785,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-500-1075",
-    "questionText": "To convert a galvanometer to a voltmeter, a (JAMB 2013)",
+    "questionText": "To convert a galvanometer to a voltmeter, a",
     "options": [
       "high resistance is connected to it in series",
       "high resistance is connected to it in parallel",
@@ -14797,7 +14797,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-501-1079",
-    "questionText": "In photo-emission, the number of photo-electrons ejected per second depends on the? (JAMB 2013)",
+    "questionText": "In photo-emission, the number of photo-electrons ejected per second depends on the?",
     "options": [
       "frequency of the beam",
       "work function of the metal",
@@ -14809,7 +14809,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-502-1053",
-    "questionText": "A gas at a pressure of 10⁵ Nm⁻² expands from 0.6 m³ to 1.2 m³ at constant temperature, the work done is (JAMB 2013)",
+    "questionText": "A gas at a pressure of 10⁵ Nm⁻² expands from 0.6 m³ to 1.2 m³ at constant temperature, the work done is",
     "options": [
       "7.0 × 10⁶ J",
       "6.0 × 10⁶ J",
@@ -14821,7 +14821,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-503-1064",
-    "questionText": "A ray of light passing through the centre of curvature of a concave mirror is reflected by the mirror at? (JAMB 2013)",
+    "questionText": "A ray of light passing through the centre of curvature of a concave mirror is reflected by the mirror at?",
     "options": [
       "0°",
       "45°",
@@ -14833,7 +14833,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-504-1117",
-    "questionText": "Which of the following is NOT a Fundamental S.I unit? (JAMB 2014)",
+    "questionText": "Which of the following is NOT a Fundamental S.I unit?",
     "options": [
       "Metre",
       "Ampere",
@@ -14845,7 +14845,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-505-1090",
-    "questionText": "The energy in the nucleus of atoms produce heat which can be used to generate (JAMB 2014)",
+    "questionText": "The energy in the nucleus of atoms produce heat which can be used to generate",
     "options": [
       "Kinetic energy",
       "Mechanical energy",
@@ -14857,7 +14857,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-506-1109",
-    "questionText": "The maximum power transfer occur in a cell when the external resistance is (JAMB 2014)",
+    "questionText": "The maximum power transfer occur in a cell when the external resistance is",
     "options": [
       "Twice the internal resistance of the cell",
       "The same as the internal resistance of the cell",
@@ -14869,7 +14869,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-507-1087",
-    "questionText": "One of the conditions necessary for an object to be in equilibrium when acted upon by a number of parallel forces is that the vector sum of the forces is (JAMB 2014)",
+    "questionText": "One of the conditions necessary for an object to be in equilibrium when acted upon by a number of parallel forces is that the vector sum of the forces is",
     "options": [
       "Average",
       "Zero",
@@ -14881,7 +14881,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-508-1092",
-    "questionText": "A wheel and an axle is used to raise a load whose weight is 800N when an effort of 250N is applied. If the radii of the wheel and axle are 800mm and 200mm respectively, the efficiency of the machine is (JAMB 2014)",
+    "questionText": "A wheel and an axle is used to raise a load whose weight is 800N when an effort of 250N is applied. If the radii of the wheel and axle are 800mm and 200mm respectively, the efficiency of the machine is",
     "options": [
       "90%",
       "80%",
@@ -14893,7 +14893,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-509-1100",
-    "questionText": "Heat transfer by convection in a liquid is due to the (JAMB 2014)",
+    "questionText": "Heat transfer by convection in a liquid is due to the",
     "options": [
       "Latent heat of vaporization of the liquid",
       "Increased vibration of the molecules of the liquid about theit mean position",
@@ -14905,7 +14905,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-510-1089",
-    "questionText": "An object of mass 20kg is released from a height of 10m above the ground level. The kinetic energy of the object just before it hits the ground is (JAMB 2014)",
+    "questionText": "An object of mass 20kg is released from a height of 10m above the ground level. The kinetic energy of the object just before it hits the ground is",
     "options": [
       "200J",
       "4000J",
@@ -14917,7 +14917,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-511-1098",
-    "questionText": "The melting point of a substance is equivalent to its (JAMB 2014)",
+    "questionText": "The melting point of a substance is equivalent to its",
     "options": [
       "Vapour Pressure",
       "Solidification Temperature",
@@ -14929,7 +14929,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-512-1114",
-    "questionText": "When an atom undergoes a beta decay, the atomic number of the nucleus (JAMB 2014)",
+    "questionText": "When an atom undergoes a beta decay, the atomic number of the nucleus",
     "options": [
       "Remains unchanged",
       "Decreases by one",
@@ -14941,7 +14941,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-513-1080",
-    "questionText": "What is the least possible error encountered when taking measurement with a meter rule? (JAMB 2014)",
+    "questionText": "What is the least possible error encountered when taking measurement with a meter rule?",
     "options": [
       "0.1mm",
       "1.0mm",
@@ -14953,7 +14953,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-514-1104",
-    "questionText": "The focal length of a concave mirror is 2.0cm. If an object is placed 8.0cm from it, the image is at (JAMB 2014)",
+    "questionText": "The focal length of a concave mirror is 2.0cm. If an object is placed 8.0cm from it, the image is at",
     "options": [
       "2.7 m",
       "2.0 m",
@@ -14965,7 +14965,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-515-1105",
-    "questionText": "In a compound microscope, the objective and the eye piece focal lengths are (JAMB 2014)",
+    "questionText": "In a compound microscope, the objective and the eye piece focal lengths are",
     "options": [
       "At infinity",
       "Long",
@@ -14977,7 +14977,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-516-1103",
-    "questionText": "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification. (JAMB 2014)",
+    "questionText": "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification.",
     "options": [
       "2.5 × 10²",
       "2.5 × 10⁻²",
@@ -14989,7 +14989,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-517-1112",
-    "questionText": "What is the best method of demagnetizing a steel bar magnet? (JAMB 2014)",
+    "questionText": "What is the best method of demagnetizing a steel bar magnet?",
     "options": [
       "Hammering",
       "Heating it",
@@ -15001,7 +15001,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-518-1096",
-    "questionText": "The equation PᵃVᵇTᶜ = constant reduces to Charles' Law if (JAMB 2014)",
+    "questionText": "The equation PᵃVᵇTᶜ = constant reduces to Charles' Law if",
     "options": [
       "a=1, b=1, c=0",
       "a=1, b=0, c=-1",
@@ -15013,7 +15013,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-519-1116",
-    "questionText": "Which gas produces a red coloured light in a discharge tube? (JAMB 2014)",
+    "questionText": "Which gas produces a red coloured light in a discharge tube?",
     "options": [
       "Mercury",
       "Argon",
@@ -15025,7 +15025,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-520-1083",
-    "questionText": "Which type of motion do the wheels of a moving car undergo? (JAMB 2014)",
+    "questionText": "Which type of motion do the wheels of a moving car undergo?",
     "options": [
       "Vibratory and translational motion",
       "Random and translational motion",
@@ -15037,7 +15037,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-521-1102",
-    "questionText": "A boy receives the echo of his clap reflected by a nearby hill 0.8 s later. How far is he from the hill? [speed of sound in air = 340 m s⁻¹] (JAMB 2014)",
+    "questionText": "A boy receives the echo of his clap reflected by a nearby hill 0.8 s later. How far is he from the hill? [speed of sound in air = 340 m s⁻¹]",
     "options": [
       "528 m",
       "66 m",
@@ -15049,7 +15049,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-522-1110",
-    "questionText": "A circuit has a resistance of 200Ω. The resistance of the circuit can be reduced to 120Ω when (JAMB 2014)",
+    "questionText": "A circuit has a resistance of 200Ω. The resistance of the circuit can be reduced to 120Ω when",
     "options": [
       "A 300 Ω resistor is connected to it in parallel",
       "An 80 Ω resistor is connected to it in series",
@@ -15061,7 +15061,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-523-1085",
-    "questionText": "Calculate the escape velocity of a satellite launched from the earth's surface if the radius of the earth is 6.4x106m (JAMB 2014)",
+    "questionText": "Calculate the escape velocity of a satellite launched from the earth's surface if the radius of the earth is 6.4x106m",
     "options": [
       "25.3 km s⁻¹",
       "4.2 km s⁻¹",
@@ -15073,7 +15073,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-524-1113",
-    "questionText": "The magnitude of the angle of dip at the equator is (JAMB 2014)",
+    "questionText": "The magnitude of the angle of dip at the equator is",
     "options": [
       "360°",
       "0°",
@@ -15085,7 +15085,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-525-1101",
-    "questionText": "The distance between two successive crests of a wave is 15 cm and the velocity 300 m s⁻¹. Calculate the frequency. (JAMB 2014)",
+    "questionText": "The distance between two successive crests of a wave is 15 cm and the velocity 300 m s⁻¹. Calculate the frequency.",
     "options": [
       "2.0 × 10² Hz",
       "4.5 × 10³ Hz",
@@ -15097,7 +15097,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-526-1107",
-    "questionText": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf (JAMB 2014)",
+    "questionText": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf",
     "options": [
       "Remains the same",
       "Collapses",
@@ -15109,7 +15109,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-527-1086",
-    "questionText": "An object of weight 8kg on earth is taken to a planet where acceleration due to gravity is one-third of its value on earth. The weight of the object on the planet is (JAMB 2014)",
+    "questionText": "An object of weight 8kg on earth is taken to a planet where acceleration due to gravity is one-third of its value on earth. The weight of the object on the planet is",
     "options": [
       "48N",
       "12N",
@@ -15121,7 +15121,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-528-1095",
-    "questionText": "What is the equivalent of 20 K in Celsius scale? (JAMB 2014)",
+    "questionText": "What is the equivalent of 20 K in Celsius scale?",
     "options": [
       "–253 °C",
       "–293 °C",
@@ -15133,7 +15133,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-529-1093",
-    "questionText": "A force of 500 N is applied to a steel wire of cross‑sectional area 0.2 m². The tensile stress is (JAMB 2014)",
+    "questionText": "A force of 500 N is applied to a steel wire of cross‑sectional area 0.2 m². The tensile stress is",
     "options": [
       "2.5 × 10⁴ N m⁻²",
       "1.0 × 10² N m⁻²",
@@ -15145,7 +15145,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-530-1091",
-    "questionText": "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4. (JAMB 2014)",
+    "questionText": "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4.",
     "options": [
       "343.32N",
       "233.33N",
@@ -15157,7 +15157,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-531-1094",
-    "questionText": "The small droplets of water that form on the grass in the early hours of the morning is (JAMB 2014)",
+    "questionText": "The small droplets of water that form on the grass in the early hours of the morning is",
     "options": [
       "Fog",
       "Haul",
@@ -15169,7 +15169,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-532-1111",
-    "questionText": "PHCN measures its electrical energy in (JAMB 2014)",
+    "questionText": "PHCN measures its electrical energy in",
     "options": [
       "W",
       "KWh",
@@ -15181,7 +15181,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-533-1088",
-    "questionText": "What happens when three coplanar non-parallel forces are in equilibrium? (JAMB 2014)",
+    "questionText": "What happens when three coplanar non-parallel forces are in equilibrium?",
     "options": [
       "Their lines of action are parallel.",
       "They are represented in magnitude only",
@@ -15193,7 +15193,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-534-1108",
-    "questionText": "What charge is stored in a 0.1 F capacitor when a 10 V supply is connected across it? (JAMB 2014)",
+    "questionText": "What charge is stored in a 0.1 F capacitor when a 10 V supply is connected across it?",
     "options": [
       "1 C",
       "5 C",
@@ -15205,7 +15205,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-535-1099",
-    "questionText": "The temperature at which the water vapour present in the air is just sufficient to saturate air is (JAMB 2014)",
+    "questionText": "The temperature at which the water vapour present in the air is just sufficient to saturate air is",
     "options": [
       "Boiling point",
       "Ice point",
@@ -15217,7 +15217,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-536-1119",
-    "questionText": "What type of reaction is represented by the equation\n²₁X + ²₁X → ³₂Y + ¹₀n + Energy (JAMB 2014)",
+    "questionText": "What type of reaction is represented by the equation\n²₁X + ²₁X → ³₂Y + ¹₀n + Energy",
     "options": [
       "Ionization",
       "Fusion",
@@ -15229,7 +15229,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-537-1081",
-    "questionText": "A quantity which requires magnitude and direction to be specified is (JAMB 2014)",
+    "questionText": "A quantity which requires magnitude and direction to be specified is",
     "options": [
       "Temperature",
       "Distance",
@@ -15241,7 +15241,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-538-1106",
-    "questionText": "When a telescope is in normal use, the final image is at (JAMB 2014)",
+    "questionText": "When a telescope is in normal use, the final image is at",
     "options": [
       "Infinity",
       "The focus",
@@ -15253,7 +15253,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-539-165",
-    "questionText": "For a best result using temperature to achieve an accurate measurement, it is best to use (JAMB 2015)",
+    "questionText": "For a best result using temperature to achieve an accurate measurement, it is best to use",
     "options": [
       "Mercury thermometer",
       "gas thermometer",
@@ -15265,7 +15265,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-540-161",
-    "questionText": "A zinc has a heat capacity of 40 J/K, what is the mass of the zinc, given that the specific heat of zinc is 380 J/kg k (JAMB 2015)",
+    "questionText": "A zinc has a heat capacity of 40 J/K, what is the mass of the zinc, given that the specific heat of zinc is 380 J/kg k",
     "options": [
       "0.11kg",
       "0.12kg",
@@ -15277,7 +15277,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-541-164",
-    "questionText": "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT? (JAMB 2015)",
+    "questionText": "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT?",
     "options": [
       "4:01",
       "1:04",
@@ -15289,7 +15289,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-542-144",
-    "questionText": "Calculate the gravitation force of attraction between two planets of 10²⁴ kg and 10²⁷kg separated by a distance of 10²⁰\nmeters (JAMB 2015)",
+    "questionText": "Calculate the gravitation force of attraction between two planets of 10²⁴ kg and 10²⁷kg separated by a distance of 10²⁰\nmeters",
     "options": [
       "6.67N",
       "6.56N",
@@ -15301,7 +15301,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-543-153",
-    "questionText": "The compressed regions and the space-out regions in longitude wave are refers to as (JAMB 2015)",
+    "questionText": "The compressed regions and the space-out regions in longitude wave are refers to as",
     "options": [
       "Compression and Rarefaction",
       "Comparison and Explosion",
@@ -15313,7 +15313,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-544-148",
-    "questionText": "What is the relationship mechanical advantage (MA) velocity Ratio (V.R) and efficiency with percentage? (JAMB 2015)",
+    "questionText": "What is the relationship mechanical advantage (MA) velocity Ratio (V.R) and efficiency with percentage?",
     "options": [
       "e = M.A/V.R × 100 %",
       "M.A = E.V.R",
@@ -15325,7 +15325,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-545-152",
-    "questionText": "Radio waves belong to the class of wave whose velocity is about (JAMB 2015)",
+    "questionText": "Radio waves belong to the class of wave whose velocity is about",
     "options": [
       "34m/s",
       "3 × 10⁶ m/s",
@@ -15337,7 +15337,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-546-175",
-    "questionText": "Neutron were discovered by (JAMB 2015)",
+    "questionText": "Neutron were discovered by",
     "options": [
       "J.J. Thompson",
       "James Chadwick",
@@ -15349,7 +15349,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-547-136",
-    "questionText": "Body floats in fluid when its ………………… (JAMB 2015)",
+    "questionText": "Body floats in fluid when its …………………",
     "options": [
       "Displaces its own volume of the liquid (fluid)",
       "Displaces its own weight of the fluid",
@@ -15361,7 +15361,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-548-177",
-    "questionText": "What is the S.I unit of relative density? (JAMB 2015)",
+    "questionText": "What is the S.I unit of relative density?",
     "options": [
       "kg m-2",
       "kg m2",
@@ -15373,7 +15373,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-549-160",
-    "questionText": "f a mango fruit dropped at a height of 50 meters. How long does it reach the ground? (take g = 10m/s2) (JAMB 2015)",
+    "questionText": "f a mango fruit dropped at a height of 50 meters. How long does it reach the ground? (take g = 10m/s2)",
     "options": [
       "2 sec",
       "3 sec",
@@ -15385,7 +15385,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-550-167",
-    "questionText": "If an object whose mass is 3kg moves in a circular path of a radius 0.7m, records a speed at 2m/s. What is the result of the angular velocity? (JAMB 2015)",
+    "questionText": "If an object whose mass is 3kg moves in a circular path of a radius 0.7m, records a speed at 2m/s. What is the result of the angular velocity?",
     "options": [
       "4 rads⁻¹",
       "1rads–1⁻¹",
@@ -15397,7 +15397,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-551-158",
-    "questionText": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change (JAMB 2015)",
+    "questionText": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
     "options": [
       "N – W when suspended freely",
       "N–S when suspended freely",
@@ -15409,7 +15409,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-552-146",
-    "questionText": "Primary colours of light are (JAMB 2015)",
+    "questionText": "Primary colours of light are",
     "options": [
       "Red, blue and green",
       "Cyan, magneta and yellow",
@@ -15421,7 +15421,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-553-140",
-    "questionText": "The resultant force of a couple is ………? (JAMB 2015)",
+    "questionText": "The resultant force of a couple is ………?",
     "options": [
       "Infinity",
       "Zero",
@@ -15433,7 +15433,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-554-149",
-    "questionText": "The external parts of an object can be measure accurately through the use of which scientific instrument? (JAMB 2015)",
+    "questionText": "The external parts of an object can be measure accurately through the use of which scientific instrument?",
     "options": [
       "Micrometer screw gauge",
       "Vernier Caliper",
@@ -15445,7 +15445,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-555-174",
-    "questionText": "The two liquids which are often used in thermometer on experiment basic is known as (JAMB 2015)",
+    "questionText": "The two liquids which are often used in thermometer on experiment basic is known as",
     "options": [
       "Mercury only",
       "Alcohol and Water",
@@ -15457,7 +15457,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141053-556-139",
-    "questionText": "Which of the following is not luminous object? (JAMB 2015)",
+    "questionText": "Which of the following is not luminous object?",
     "options": [
       "The sun",
       "The moon",
@@ -15469,7 +15469,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-557-150",
-    "questionText": "Convert 45°C to kelvin (JAMB 2015)",
+    "questionText": "Convert 45°C to kelvin",
     "options": [
       "318K",
       "250K",
@@ -15481,7 +15481,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-558-133",
-    "questionText": "What is the inductance (L) of an inductor whose reactance is 1Ω at 50/ π hertz (H)? (JAMB 2015)",
+    "questionText": "What is the inductance (L) of an inductor whose reactance is 1Ω at 50/ π hertz (H)?",
     "options": [
       "100 H",
       "0.01H",
@@ -15493,7 +15493,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-559-137",
-    "questionText": "The general gas law can be written as (JAMB 2015)",
+    "questionText": "The general gas law can be written as",
     "options": [
       "PV ÷ T = a constant",
       "PV = a constant",
@@ -15505,7 +15505,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-560-132",
-    "questionText": "The direction of the path taken by light is called (JAMB 2015)",
+    "questionText": "The direction of the path taken by light is called",
     "options": [
       "Locus",
       "Lines",
@@ -15517,7 +15517,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-561-155",
-    "questionText": "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as (JAMB 2015)",
+    "questionText": "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as",
     "options": [
       "Electromagnetic devices",
       "Magnetic relay device",
@@ -15529,7 +15529,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-562-171",
-    "questionText": "The strength of an electromagnet increases with (JAMB 2015)",
+    "questionText": "The strength of an electromagnet increases with",
     "options": [
       "Increases in the number of turn of the coil",
       "Decreases in current with the coil",
@@ -15541,7 +15541,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-563-135",
-    "questionText": "In an elastic collision\n\nI. Energy is conserved\nII. Energy is decreased\nIII. Energy is increased\nIV. Linear momentum conserved (JAMB 2015)",
+    "questionText": "In an elastic collision\n\nI. Energy is conserved\nII. Energy is decreased\nIII. Energy is increased\nIV. Linear momentum conserved",
     "options": [
       "I only",
       "I and IV only",
@@ -15553,7 +15553,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-564-170",
-    "questionText": "A radioactive source emits X–rays of very short wavelength (10⁻¹³ m ). What is the frequency of these rays? (JAMB 2015)",
+    "questionText": "A radioactive source emits X–rays of very short wavelength (10⁻¹³ m ). What is the frequency of these rays?",
     "options": [
       "2 × 10¹⁸ Hz",
       "3 × 10¹⁹ Hz",
@@ -15565,7 +15565,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-565-142",
-    "questionText": "In which of the following device is the expansion of solid not required?\n\nI. Simple pendulum\nII. Fire alarms\nIII. Thermostat\nIV. Bimetallic thermometer (JAMB 2015)",
+    "questionText": "In which of the following device is the expansion of solid not required?\n\nI. Simple pendulum\nII. Fire alarms\nIII. Thermostat\nIV. Bimetallic thermometer",
     "options": [
       "III only",
       "II & III only",
@@ -15577,7 +15577,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-566-141",
-    "questionText": "A vector quantity can only be completely described when ……… and …………are mentioned. (JAMB 2015)",
+    "questionText": "A vector quantity can only be completely described when ……… and …………are mentioned.",
     "options": [
       "Magnitude and motion",
       "Magnitude and direction",
@@ -15589,7 +15589,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-567-173",
-    "questionText": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core (JAMB 2015)",
+    "questionText": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core",
     "options": [
       "I & II only",
       "II only",
@@ -15601,7 +15601,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-568-131",
-    "questionText": "Boyle’s law may be Written as (JAMB 2015)",
+    "questionText": "Boyle’s law may be Written as",
     "options": [
       "P1V1= P2V2",
       "V1 = V2 ÷ T1T2",
@@ -15613,7 +15613,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-569-162",
-    "questionText": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s) (JAMB 2015)",
+    "questionText": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s)",
     "options": [
       "2sec",
       "3sec",
@@ -15625,7 +15625,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-570-156",
-    "questionText": "Heat transfer in the surrounding without a material medium is possible through?   (JAMB 2015)",
+    "questionText": "Heat transfer in the surrounding without a material medium is possible through?",
     "options": [
       "Conduction",
       "Convection",
@@ -15637,7 +15637,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-571-169",
-    "questionText": "The symbol  ₋₁⁰X used to represent which of the particles? (JAMB 2015)",
+    "questionText": "The symbol  ₋₁⁰X used to represent which of the particles?",
     "options": [
       "Proton",
       "Neutron",
@@ -15649,7 +15649,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-572-145",
-    "questionText": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance 4.7m away from him in his room. At what distance is the image found from Abioye's eye? (JAMB 2015)",
+    "questionText": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance 4.7m away from him in his room. At what distance is the image found from Abioye's eye?",
     "options": [
       "9.4m",
       "7.5m",
@@ -15661,7 +15661,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-573-134",
-    "questionText": "A stroboscope can be used to make the wave appear ………….. (JAMB 2015)",
+    "questionText": "A stroboscope can be used to make the wave appear …………..",
     "options": [
       "Stationary",
       "In motion",
@@ -15673,7 +15673,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-574-223",
-    "questionText": "In the diagram above, the neutral point is at (JAMB 2016)",
+    "questionText": "In the diagram above, the neutral point is at",
     "options": [
       "R",
       "X",
@@ -15685,7 +15685,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-575-220",
-    "questionText": "Boiling occurs when the vapour pressure of a liquid is (JAMB 2016)",
+    "questionText": "Boiling occurs when the vapour pressure of a liquid is",
     "options": [
       "At the evaporation point",
       "Less than the atmospheric pressure",
@@ -15697,7 +15697,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-576-208",
-    "questionText": "What will happen to the pressure of a gas if its temperature is reduced to -273°C? (JAMB 2016)",
+    "questionText": "What will happen to the pressure of a gas if its temperature is reduced to -273°C?",
     "options": [
       "It will decrease",
       "it will drop to zero",
@@ -15709,7 +15709,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-577-186",
-    "questionText": "An object is placed 15cm in front of a plane mirror. If the mirror is moved further 5cm away from the object and the image is (JAMB 2016)",
+    "questionText": "An object is placed 15cm in front of a plane mirror. If the mirror is moved further 5cm away from the object and the image is",
     "options": [
       "80cm",
       "40cm",
@@ -15721,7 +15721,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-578-217",
-    "questionText": "A manometer is an instrument used for measuring (JAMB 2016)",
+    "questionText": "A manometer is an instrument used for measuring",
     "options": [
       "Relative density of liquid",
       "Pressure in liquids and gases",
@@ -15733,7 +15733,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-579-198",
-    "questionText": "A saturated vapour pressure of a liquid increases when the (JAMB 2016)",
+    "questionText": "A saturated vapour pressure of a liquid increases when the",
     "options": [
       "Temperature of a liquid increases",
       "Volume of the liquid increases",
@@ -15745,7 +15745,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-580-194",
-    "questionText": "A boy in a barber's shop sits between two parallel mirrors. The number of images observed by him will be (JAMB 2016)",
+    "questionText": "A boy in a barber's shop sits between two parallel mirrors. The number of images observed by him will be",
     "options": [
       "Infinite",
       "Ten",
@@ -15757,7 +15757,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-581-211",
-    "questionText": "A pool of water appears to be 1.00m deep when viewed vertically from above. What is the actual depth of the pool?\n[Refractive index of water = 1.33] (JAMB 2016)",
+    "questionText": "A pool of water appears to be 1.00m deep when viewed vertically from above. What is the actual depth of the pool?\n[Refractive index of water = 1.33]",
     "options": [
       "13.300m",
       "0.750m",
@@ -15769,7 +15769,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-582-200",
-    "questionText": "A metre rule is pivoted at its mid-point with a vertical force of 10N hanging from the distance 30cm from the mid-point. At what distance must a 15N force hang to balance the ruler horizontally? (JAMB 2016)",
+    "questionText": "A metre rule is pivoted at its mid-point with a vertical force of 10N hanging from the distance 30cm from the mid-point. At what distance must a 15N force hang to balance the ruler horizontally?",
     "options": [
       "30cm",
       "10cm",
@@ -15781,7 +15781,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-583-210",
-    "questionText": "Vapour is said to be saturated on top of an enclosed liquid if _________ (JAMB 2016)",
+    "questionText": "Vapour is said to be saturated on top of an enclosed liquid if _________",
     "options": [
       "The rate of condensation is greater than that of vapourization",
       "The rate of condensation is equal to that of vapourization",
@@ -15793,7 +15793,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-584-225",
-    "questionText": "In the diagram above, the direction of the force between N and S in the magnetic field is (JAMB 2016)",
+    "questionText": "In the diagram above, the direction of the force between N and S in the magnetic field is",
     "options": [
       "MP",
       "SN",
@@ -15805,7 +15805,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-585-218",
-    "questionText": "A body which weighs 50N in air displaces 3.7kg of water when partially immersed in water. Calculate the upthrust on the body? (JAMB 2016)",
+    "questionText": "A body which weighs 50N in air displaces 3.7kg of water when partially immersed in water. Calculate the upthrust on the body?",
     "options": [
       "8.7N",
       "37.0N",
@@ -15817,7 +15817,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-586-201",
-    "questionText": "A projectile is fired from the ground level with a velocity of 300ms-1 at an angle of a 30o to the horizontal.\nCalculate the time taken to reach the maximum height?\n[g = 10ms-2] (JAMB 2016)",
+    "questionText": "A projectile is fired from the ground level with a velocity of 300ms-1 at an angle of a 30o to the horizontal.\nCalculate the time taken to reach the maximum height?\n[g = 10ms-2]",
     "options": [
       "30s",
       "20s",
@@ -15829,7 +15829,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-587-206",
-    "questionText": "Calculate the temperature of 6 moles of an ideal gas at a pressure of 7.6 × 10⁶ Nm⁻² with a volume of 10⁻³ m³. [R = 8.3 J mol⁻¹ K⁻¹] (JAMB 2016)",
+    "questionText": "Calculate the temperature of 6 moles of an ideal gas at a pressure of 7.6 × 10⁶ Nm⁻² with a volume of 10⁻³ m³. [R = 8.3 J mol⁻¹ K⁻¹]",
     "options": [
       "201°C",
       "126°C",
@@ -15841,7 +15841,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-588-185",
-    "questionText": "If the distance between the object and the pinhole of a pinhole camera is reduced by half the size of the image of the object (JAMB 2016)",
+    "questionText": "If the distance between the object and the pinhole of a pinhole camera is reduced by half the size of the image of the object",
     "options": [
       "Is quadrupled",
       "Is halved",
@@ -15853,7 +15853,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-589-224",
-    "questionText": "From the diagram above, the measuring accuracy of the micrometer screw gauge is (JAMB 2016)",
+    "questionText": "From the diagram above, the measuring accuracy of the micrometer screw gauge is",
     "options": [
       "4.78mm",
       "4.16mm",
@@ -15865,7 +15865,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-590-183",
-    "questionText": "A satellite moves in a circular orbit of radius 4R round the earth. The acceleration of the satellite in terms of g is (JAMB 2016)",
+    "questionText": "A satellite moves in a circular orbit of radius 4R round the earth. The acceleration of the satellite in terms of g is",
     "options": [
       "g/16",
       "g/4",
@@ -15877,7 +15877,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-591-190",
-    "questionText": "A wire of length 10m is cooled from 50oC to 10oC. Calculate the decrease in the length of the wire. [c = 3 x 10-5K-1] (JAMB 2016)",
+    "questionText": "A wire of length 10m is cooled from 50oC to 10oC. Calculate the decrease in the length of the wire. [c = 3 x 10-5K-1]",
     "options": [
       "1.8 x 10⁻⁴ m",
       "1.5 x 10⁻⁴ m",
@@ -15889,7 +15889,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-592-209",
-    "questionText": "Which of the following does Not use magnetic effect of current to function? (JAMB 2016)",
+    "questionText": "Which of the following does Not use magnetic effect of current to function?",
     "options": [
       "Lead acid accumulator",
       "An electric bell",
@@ -15901,7 +15901,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-593-222",
-    "questionText": "In the diagram above, which of the following velocity-time graphs shows uniform acceleration of a body from rest? (JAMB 2016)",
+    "questionText": "In the diagram above, which of the following velocity-time graphs shows uniform acceleration of a body from rest?",
     "options": [
       "C",
       "D",
@@ -15913,7 +15913,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-594-229",
-    "questionText": "Calculate the inductance of a coil of resistance 30Ω connected to a 100V a.c source if the coil draws an r.m.s current of 2A (JAMB 2016)",
+    "questionText": "Calculate the inductance of a coil of resistance 30Ω connected to a 100V a.c source if the coil draws an r.m.s current of 2A",
     "options": [
       "0.13 H",
       "2.50H",
@@ -15925,7 +15925,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-595-204",
-    "questionText": " radioactive isotope has a decay constant of 10⁻⁶ s⁻¹. Calculate its half-life. (JAMB 2016)",
+    "questionText": " radioactive isotope has a decay constant of 10⁻⁶ s⁻¹. Calculate its half-life.",
     "options": [
       "5.93 × 10⁶ s",
       "6.93 × 10⁵ s",
@@ -15937,7 +15937,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-596-191",
-    "questionText": "When an athlete perspires after running, he loses heat through (JAMB 2016)",
+    "questionText": "When an athlete perspires after running, he loses heat through",
     "options": [
       "Evaporation",
       "Conduction",
@@ -15949,7 +15949,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-597-212",
-    "questionText": "Shadows and eclipse result from the (JAMB 2016)",
+    "questionText": "Shadows and eclipse result from the",
     "options": [
       "Reflection of light",
       "Rectilinear propagation of light",
@@ -15961,7 +15961,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-598-189",
-    "questionText": "What is the angular magnification of a telescope having objective and eyepiece lenses of a focal lengths 30cm and 3cm respectively? (JAMB 2016)",
+    "questionText": "What is the angular magnification of a telescope having objective and eyepiece lenses of a focal lengths 30cm and 3cm respectively?",
     "options": [
       "60",
       "10",
@@ -15973,7 +15973,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-599-193",
-    "questionText": "The heat required to raise a mass of a substance through 1K is known as (JAMB 2016)",
+    "questionText": "The heat required to raise a mass of a substance through 1K is known as",
     "options": [
       "Specific heat capacity",
       "Specific latent heat of vaporization",
@@ -15985,7 +15985,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-600-207",
-    "questionText": "The relative density of a liquid is the ratio of the (JAMB 2016)",
+    "questionText": "The relative density of a liquid is the ratio of the",
     "options": [
       "Mass of water to the mass of an equal volume of liquid",
       "Upthrust in the liquid to the upthrust in water",
@@ -15997,7 +15997,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-601-226",
-    "questionText": "Which of the following statements is Not true about atoms? (JAMB 2016)",
+    "questionText": "Which of the following statements is Not true about atoms?",
     "options": [
       "Atom of different elements have different atomic weights",
       "The mass of an atom is concentrated in the nucleus",
@@ -16009,7 +16009,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-602-184",
-    "questionText": "I. Chemical II. Sound III. Electricity\n\nWhich of the above forms of energy can directly be converted to light energy? (JAMB 2016)",
+    "questionText": "I. Chemical II. Sound III. Electricity\n\nWhich of the above forms of energy can directly be converted to light energy?",
     "options": [
       "I and II only",
       "II and III only",
@@ -16021,7 +16021,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-603-228",
-    "questionText": "An electron in a hydrogen atom makes a transition from the ground level to the third level. If the energy at the ground level, calculate the energy at the third level. [h = 6.6 × 10⁻³⁴ Js; f = 10¹⁵ Hz] (JAMB 2016)",
+    "questionText": "An electron in a hydrogen atom makes a transition from the ground level to the third level. If the energy at the ground level, calculate the energy at the third level. [h = 6.6 × 10⁻³⁴ Js; f = 10¹⁵ Hz]",
     "options": [
       "1.41 eV",
       "1.71 eV",
@@ -16033,7 +16033,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-604-221",
-    "questionText": "If the magnification of a virtual image formed by an object 10cm from a convex less is 3, then the focal length of the lens is (JAMB 2016)",
+    "questionText": "If the magnification of a virtual image formed by an object 10cm from a convex less is 3, then the focal length of the lens is",
     "options": [
       "10cm",
       "20cm",
@@ -16045,7 +16045,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-605-180",
-    "questionText": "Myopic defects in the human eye can be corrected through the use of a (JAMB 2016)",
+    "questionText": "Myopic defects in the human eye can be corrected through the use of a",
     "options": [
       "Concave Mirror",
       "Concave lens",
@@ -16057,7 +16057,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-606-197",
-    "questionText": "A dynamo primarily converts (JAMB 2016)",
+    "questionText": "A dynamo primarily converts",
     "options": [
       "Mechanical energy into electrical energy",
       "Electrical energy into kinetic energy",
@@ -16069,7 +16069,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-607-187",
-    "questionText": "Which of the following statements is correct about a machine? (JAMB 2016)",
+    "questionText": "Which of the following statements is correct about a machine?",
     "options": [
       "Efficiency of a machine is always greater than I",
       "Efficiency decreases with an increase in friction",
@@ -16081,7 +16081,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-608-205",
-    "questionText": "Which of the following waves is both transverse and mechanical? (JAMB 2016)",
+    "questionText": "Which of the following waves is both transverse and mechanical?",
     "options": [
       "Water waves",
       "Radio waves",
@@ -16093,7 +16093,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-609-182",
-    "questionText": "What happens to a water pool on a day when the humidity of the air is very low? (JAMB 2016)",
+    "questionText": "What happens to a water pool on a day when the humidity of the air is very low?",
     "options": [
       "Temperature decreases",
       "Slow evaporation",
@@ -16105,7 +16105,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-610-181",
-    "questionText": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will (JAMB 2016)",
+    "questionText": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will",
     "options": [
       "Be a straight line",
       "Curve inwards",
@@ -16117,7 +16117,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-611-262",
-    "questionText": "Which of the following surfaces will absorb radiant heat energy? (JAMB 2017)",
+    "questionText": "Which of the following surfaces will absorb radiant heat energy?",
     "options": [
       "white",
       "red",
@@ -16129,7 +16129,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-612-274",
-    "questionText": "The velocity ratio of an inclined plane where angle of inclination in θ is (JAMB 2017)",
+    "questionText": "The velocity ratio of an inclined plane where angle of inclination in θ is",
     "options": [
       "Sinθ",
       "Cosθ",
@@ -16141,7 +16141,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-613-245",
-    "questionText": "Calculate the height of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high (JAMB 2017)",
+    "questionText": "Calculate the height of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high",
     "options": [
       "10 cm",
       "16 cm",
@@ -16153,7 +16153,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-614-259",
-    "questionText": "I. Refraction II. Interference III. Diffraction Which of the above properties are common to all waves? (JAMB 2017)",
+    "questionText": "I. Refraction II. Interference III. Diffraction Which of the above properties are common to all waves?",
     "options": [
       "II and III only",
       "I, II and III",
@@ -16165,7 +16165,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-615-270",
-    "questionText": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh? (JAMB 2017)",
+    "questionText": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh?",
     "options": [
       "N80.00",
       "N45.36",
@@ -16177,7 +16177,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-616-271",
-    "questionText": "From the diagram above, calculate the total current in the circuit (JAMB 2017)",
+    "questionText": "From the diagram above, calculate the total current in the circuit",
     "options": [
       "5.0A",
       "3.7A",
@@ -16189,7 +16189,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-617-260",
-    "questionText": "Which of the following is correct about an electric cell? (JAMB 2017)",
+    "questionText": "Which of the following is correct about an electric cell?",
     "options": [
       "Primary cell produces a large current for a long time",
       "Secondary cell has a very high internal resistance",
@@ -16201,7 +16201,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-618-244",
-    "questionText": "The S.I unit of moment of a force is (JAMB 2017)",
+    "questionText": "The S.I unit of moment of a force is",
     "options": [
       "kgm",
       "Nm",
@@ -16213,7 +16213,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-619-273",
-    "questionText": "Which of the following is not a mechanical wave? (JAMB 2017)",
+    "questionText": "Which of the following is not a mechanical wave?",
     "options": [
       "wave in closed pipe",
       "radio waves",
@@ -16225,7 +16225,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-620-257",
-    "questionText": "From the diagram above, calculate the energy stored in the capacitor (JAMB 2017)",
+    "questionText": "From the diagram above, calculate the energy stored in the capacitor",
     "options": [
       "4.0 × 10⁻²J",
       "4.0 × 10⁻⁴J",
@@ -16237,7 +16237,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-621-247",
-    "questionText": "When the r.m.s value of a source of electricity supply is given as 240v, it means that the peak value of the supply is (JAMB 2017)",
+    "questionText": "When the r.m.s value of a source of electricity supply is given as 240v, it means that the peak value of the supply is",
     "options": [
       "240v",
       "340v",
@@ -16249,7 +16249,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-622-251",
-    "questionText": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms⁻², the power expended is (JAMB 2017)",
+    "questionText": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms⁻², the power expended is",
     "options": [
       "100W",
       "200W",
@@ -16261,7 +16261,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-623-272",
-    "questionText": "Calculate the time taken for a mango fruit that falls from a tree 20m to the ground [g = 10 ms⁻²] (JAMB 2017)",
+    "questionText": "Calculate the time taken for a mango fruit that falls from a tree 20m to the ground [g = 10 ms⁻²]",
     "options": [
       "10s",
       "5s",
@@ -16273,7 +16273,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-624-268",
-    "questionText": "If silicon is doped with phosphorus, what type of semiconductor material will be formed? (JAMB 2017)",
+    "questionText": "If silicon is doped with phosphorus, what type of semiconductor material will be formed?",
     "options": [
       "Zener material",
       "P-n junction",
@@ -16285,7 +16285,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-625-240",
-    "questionText": "A block and tackle pulley arrangement has 6 pulleys in which an effort of 50N supports a load of 200N, calculate the efficiency of the machine (JAMB 2017)",
+    "questionText": "A block and tackle pulley arrangement has 6 pulleys in which an effort of 50N supports a load of 200N, calculate the efficiency of the machine",
     "options": [
       "80.00%",
       "76.60%",
@@ -16297,7 +16297,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-626-238",
-    "questionText": "A cell of internal resistance 2Ω supplies current to a 6Ω resistor. The efficiency of the cell is (JAMB 2017)",
+    "questionText": "A cell of internal resistance 2Ω supplies current to a 6Ω resistor. The efficiency of the cell is",
     "options": [
       "12.00%",
       "25.00%",
@@ -16309,7 +16309,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-627-276",
-    "questionText": "Which of the following representations is correct for an atom X with 28 electrons and 30 neutrons? (JAMB 2017)",
+    "questionText": "Which of the following representations is correct for an atom X with 28 electrons and 30 neutrons?",
     "options": [
       "⁵⁸₂₈X",
       "³⁰₂₈X",
@@ -16321,7 +16321,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-628-235",
-    "questionText": "Under what conditions are cathode rays produced in a discharge tube? (JAMB 2017)",
+    "questionText": "Under what conditions are cathode rays produced in a discharge tube?",
     "options": [
       "High pressure and low voltage",
       "High pressure and high voltage",
@@ -16333,7 +16333,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-629-278",
-    "questionText": "Which of the following is not true of an electrical charge? (JAMB 2017)",
+    "questionText": "Which of the following is not true of an electrical charge?",
     "options": [
       "Negative charge means deficit electrons",
       "Negative charge means excess of electrons",
@@ -16345,7 +16345,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-630-261",
-    "questionText": "Which of the following is a semiconductor (JAMB 2017)",
+    "questionText": "Which of the following is a semiconductor",
     "options": [
       "copper",
       "silicon",
@@ -16357,7 +16357,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-631-253",
-    "questionText": "Which of the following is a scalar quantity? (JAMB 2017)",
+    "questionText": "Which of the following is a scalar quantity?",
     "options": [
       "Tension",
       "Weight",
@@ -16369,7 +16369,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141054-632-266",
-    "questionText": "The action of blotting paper on ink is due to (JAMB 2017)",
+    "questionText": "The action of blotting paper on ink is due to",
     "options": [
       "diffusion",
       "osmosis",
@@ -16381,7 +16381,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-633-267",
-    "questionText": "When two mirrors are placed at an angle of 90º to each other, how many images will be formed when an object is placed in front of the mirrors (JAMB 2017)",
+    "questionText": "When two mirrors are placed at an angle of 90º to each other, how many images will be formed when an object is placed in front of the mirrors",
     "options": [
       "5",
       "4",
@@ -16393,7 +16393,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-634-236",
-    "questionText": "Under which of the following conditions is workdone (JAMB 2017)",
+    "questionText": "Under which of the following conditions is workdone",
     "options": [
       "A man supports a heavy food above his head with his hands",
       "A boy climbs onto a table",
@@ -16405,7 +16405,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-635-231",
-    "questionText": "Which of the following is not an electromagnetic radiation? (JAMB 2017)",
+    "questionText": "Which of the following is not an electromagnetic radiation?",
     "options": [
       "x - ray",
       "Radio waves",
@@ -16417,7 +16417,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-636-275",
-    "questionText": "The volume of a fixed mass of gas is 10cm3 when its pressure is 400cmHg. Determine the volume of the gas when its pressure is 200cmHg. (JAMB 2017)",
+    "questionText": "The volume of a fixed mass of gas is 10cm3 when its pressure is 400cmHg. Determine the volume of the gas when its pressure is 200cmHg.",
     "options": [
       "30cm³",
       "40cm³",
@@ -16429,7 +16429,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-637-248",
-    "questionText": "Which of the following operations can be used to convert an alternative current dynamo into a direct current dynamo (JAMB 2017)",
+    "questionText": "Which of the following operations can be used to convert an alternative current dynamo into a direct current dynamo",
     "options": [
       "number of turns in the coil is increased",
       "strength of the field magnet is increased",
@@ -16441,7 +16441,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-638-269",
-    "questionText": "Calculate the angle of minimum deviation of a 60° prism of refractive index 1.5 [sin⁻¹(0.75) = 49°] (JAMB 2017)",
+    "questionText": "Calculate the angle of minimum deviation of a 60° prism of refractive index 1.5 [sin⁻¹(0.75) = 49°]",
     "options": [
       "38°",
       "19.47°",
@@ -16453,7 +16453,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-639-237",
-    "questionText": "Calculate the specific latent heat of vaporization of steam if 1.13 × 10⁶ J of heat energy is required to convert 15kg of steam to water. (JAMB 2017)",
+    "questionText": "Calculate the specific latent heat of vaporization of steam if 1.13 × 10⁶ J of heat energy is required to convert 15kg of steam to water.",
     "options": [
       "7.53 × 10⁵ Jkg⁻¹",
       "7.53 × 10⁻² Jkg⁻¹",
@@ -16465,7 +16465,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-640-300",
-    "questionText": "The pitch of an acoustic device can be increased by (JAMB 2018)",
+    "questionText": "The pitch of an acoustic device can be increased by",
     "options": [
       "decreasing the loudness",
       "increasing the intensity",
@@ -16477,7 +16477,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-641-324",
-    "questionText": "A body of mass 100g moving with a velocity of 10ms⁻¹ collides with a wall. If after collision it moves with a velocity of 2.0ms⁻¹ in the opposite direction, calculate the change in momentum. (JAMB 2018)",
+    "questionText": "A body of mass 100g moving with a velocity of 10ms⁻¹ collides with a wall. If after collision it moves with a velocity of 2.0ms⁻¹ in the opposite direction, calculate the change in momentum.",
     "options": [
       "0.8 Ns",
       "1.2 Ns",
@@ -16489,7 +16489,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-642-289",
-    "questionText": "The diagram shown represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40, then the value of W is? (JAMB 2018)",
+    "questionText": "The diagram shown represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40, then the value of W is?",
     "options": [
       "28",
       "48.0N",
@@ -16501,7 +16501,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-643-315",
-    "questionText": "In homes, electrical appliances and lamps are connected in parallel because (JAMB 2018)",
+    "questionText": "In homes, electrical appliances and lamps are connected in parallel because",
     "options": [
       "Each appliance receives the full mains voltage and can be switched on/off independently",
       "less voltage will be used",
@@ -16513,7 +16513,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-644-311",
-    "questionText": "The differences observed in solids, liquids and gases may be accounted for by (JAMB 2018)",
+    "questionText": "The differences observed in solids, liquids and gases may be accounted for by",
     "options": [
       "their relative masses",
       "their melting points",
@@ -16525,7 +16525,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-645-319",
-    "questionText": "The inner diameter of a small test tube can be measured accurately using a (JAMB 2018)",
+    "questionText": "The inner diameter of a small test tube can be measured accurately using a",
     "options": [
       "Micrometres screw gauge",
       "Pair of dividers",
@@ -16537,7 +16537,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-646-321",
-    "questionText": "When an atom loses or gain a charge it becomes (JAMB 2018)",
+    "questionText": "When an atom loses or gain a charge it becomes",
     "options": [
       "An electron",
       "An ion",
@@ -16549,7 +16549,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-647-322",
-    "questionText": "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is? (JAMB 2018)",
+    "questionText": "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is?",
     "options": [
       "0kgm",
       "2kgm/s",
@@ -16561,7 +16561,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-648-310",
-    "questionText": "The process whereby a liquid turns spontaneously into vapour is called (JAMB 2018)",
+    "questionText": "The process whereby a liquid turns spontaneously into vapour is called",
     "options": [
       "regelation",
       "evaporation",
@@ -16573,7 +16573,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-649-292",
-    "questionText": "The electrochemical equivalent of silver is 0.0012g/C. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5mins, the current must be? (JAMB 2018)",
+    "questionText": "The electrochemical equivalent of silver is 0.0012g/C. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5mins, the current must be?",
     "options": [
       "6000A",
       "100A",
@@ -16585,7 +16585,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-650-305",
-    "questionText": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material? (JAMB 2018)",
+    "questionText": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
     "options": [
       "20 years",
       "10 years",
@@ -16597,7 +16597,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-651-304",
-    "questionText": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30V and 40V respectively. What is the voltage across the capacitor? (JAMB 2018)",
+    "questionText": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30V and 40V respectively. What is the voltage across the capacitor?",
     "options": [
       "30V",
       "70V",
@@ -16609,7 +16609,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-652-329",
-    "questionText": "A force of 5N acts at a point Y on a rod XYZ as shown in this diagram. If XYZ is 2m, what is the moment of the force about point X? (JAMB 2018)",
+    "questionText": "A force of 5N acts at a point Y on a rod XYZ as shown in this diagram. If XYZ is 2m, what is the moment of the force about point X?",
     "options": [
       "0 Nm",
       "3 Nm",
@@ -16621,7 +16621,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-653-308",
-    "questionText": "A positively charged rod X is brought near an uncharged metal sphere Y and is then touched by a finger with X still in place. When the finger is removed, the result is that Y has (JAMB 2018)",
+    "questionText": "A positively charged rod X is brought near an uncharged metal sphere Y and is then touched by a finger with X still in place. When the finger is removed, the result is that Y has",
     "options": [
       "no charge and a zero potential",
       "no charge and a zero potential",
@@ -16633,7 +16633,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-654-313",
-    "questionText": "Musical instruments playing the same note can be distinguished from one another owing to the difference in their (JAMB 2018)",
+    "questionText": "Musical instruments playing the same note can be distinguished from one another owing to the difference in their",
     "options": [
       "quality",
       "pitch",
@@ -16645,7 +16645,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-655-299",
-    "questionText": "Which of the following has the lowest internal resistance when new? (JAMB 2018)",
+    "questionText": "Which of the following has the lowest internal resistance when new?",
     "options": [
       "Leclanche cell",
       "Daniell cell",
@@ -16657,7 +16657,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-656-286",
-    "questionText": "Which of the following best describes the energy changes which take place when a steam engine drives a generator which lights a lamp? (JAMB 2018)",
+    "questionText": "Which of the following best describes the energy changes which take place when a steam engine drives a generator which lights a lamp?",
     "options": [
       "heat ----> Light----> Sound ----> Kinetic",
       "Kinetic ----> Light ----> Heat ----> Electricity",
@@ -16669,7 +16669,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-657-296",
-    "questionText": "In the diagram given the hanging mass m2 is adjusted until m1 is on the verge of sliding. The coefficient of static (JAMB 2018)",
+    "questionText": "In the diagram given the hanging mass m2 is adjusted until m1 is on the verge of sliding. The coefficient of static",
     "options": [
       "m₁/m₂",
       "m₁g/m₂",
@@ -16681,7 +16681,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-658-281",
-    "questionText": "The density of 400cm³ of palm oil was 0.9gcm⁻³ before frying. If the density of the oil was 0.6gcm⁻³ after frying, assuming no loss of oil due to spilling, its new volume was? (JAMB 2018)",
+    "questionText": "The density of 400cm³ of palm oil was 0.9gcm⁻³ before frying. If the density of the oil was 0.6gcm⁻³ after frying, assuming no loss of oil due to spilling, its new volume was?",
     "options": [
       "1360cm³",
       "600cm³",
@@ -16693,7 +16693,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-659-306",
-    "questionText": "In the diagram shown, which of the simple pendulum will resonate with P when set into oscillation? (JAMB 2018)",
+    "questionText": "In the diagram shown, which of the simple pendulum will resonate with P when set into oscillation?",
     "options": [
       "U",
       "T",
@@ -16705,7 +16705,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-660-284",
-    "questionText": "Which of the following does NOT describe the Image formed by a plane minor? (JAMB 2018)",
+    "questionText": "Which of the following does NOT describe the Image formed by a plane minor?",
     "options": [
       "Erect",
       "Laterally inverted",
@@ -16717,7 +16717,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-661-317",
-    "questionText": "What effort will a machine of efficiency 90% apply to a load of 180N if its efforts arm is twice as long as its load arm? (JAMB 2018)",
+    "questionText": "What effort will a machine of efficiency 90% apply to a load of 180N if its efforts arm is twice as long as its load arm?",
     "options": [
       "100N",
       "90N",
@@ -16729,7 +16729,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-662-288",
-    "questionText": "A narrow beam of white light can be split up into different Colours by a glass prism. The correct explanation is that (JAMB 2018)",
+    "questionText": "A narrow beam of white light can be split up into different Colours by a glass prism. The correct explanation is that",
     "options": [
       "white light Is an electromagnetic wave",
       "the prism has all the colours of the white light",
@@ -16741,7 +16741,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-663-301",
-    "questionText": "One of the features of the fission process is that (JAMB 2018)",
+    "questionText": "One of the features of the fission process is that",
     "options": [
       "it leads to chain reaction",
       "its products are not radioactive",
@@ -16753,7 +16753,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-664-280",
-    "questionText": "A man walks 1km due east and then 1 km due north His displacement? (JAMB 2018)",
+    "questionText": "A man walks 1km due east and then 1 km due north His displacement?",
     "options": [
       "√2 km N 45°E",
       "1 km N 30°E",
@@ -16765,7 +16765,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-665-290",
-    "questionText": "What type of reaction is represented by the following scheme?\n²¹X + ²¹Y → ³²Z + ¹⁰n + energy (JAMB 2018)",
+    "questionText": "What type of reaction is represented by the following scheme?\n²¹X + ²¹Y → ³²Z + ¹⁰n + energy",
     "options": [
       "Fusion reaction",
       "Fission reaction",
@@ -16777,7 +16777,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-666-287",
-    "questionText": "Cathode rays are (JAMB 2018)",
+    "questionText": "Cathode rays are",
     "options": [
       "High-energy electromagnetic waves",
       "protons",
@@ -16789,7 +16789,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-667-285",
-    "questionText": "What is the resultant resistance of the circuit in the image shown? (JAMB 2018)",
+    "questionText": "What is the resultant resistance of the circuit in the image shown?",
     "options": [
       "8Ω",
       "11Ω",
@@ -16801,7 +16801,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-668-325",
-    "questionText": "A 20kg mass is to be pulled up a slope inclined at 30° to the horizontal. If efficiency of the plane is 75%, the force required to pull the load up the plane is [g = 10ms⁻²] (JAMB 2018)",
+    "questionText": "A 20kg mass is to be pulled up a slope inclined at 30° to the horizontal. If efficiency of the plane is 75%, the force required to pull the load up the plane is [g = 10ms⁻²]",
     "options": [
       "87N",
       "73.5N",
@@ -16813,7 +16813,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-669-309",
-    "questionText": "Electrical appliances in homes are normally earthed so that (JAMB 2018)",
+    "questionText": "Electrical appliances in homes are normally earthed so that",
     "options": [
       "a person touching the appliances is safe from electric shock",
       "Both the a.c. and d.c. sources can be used",
@@ -16825,7 +16825,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-670-294",
-    "questionText": "Which of the following obeys Ohm's law? (JAMB 2018)",
+    "questionText": "Which of the following obeys Ohm's law?",
     "options": [
       "all metals",
       "diode only",
@@ -16837,7 +16837,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-671-291",
-    "questionText": "The amount of heat needed to raise the temperature of 10kg of Copper by 1K is its (JAMB 2018)",
+    "questionText": "The amount of heat needed to raise the temperature of 10kg of Copper by 1K is its",
     "options": [
       "specific heat capacity",
       "latent heat",
@@ -16849,7 +16849,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-672-303",
-    "questionText": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 m/s into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is (JAMB 2018)",
+    "questionText": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 m/s into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is",
     "options": [
       "100J",
       "150J",
@@ -16861,7 +16861,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-673-298",
-    "questionText": "In the diagram given if the atmospheric pressure is 760mm, the pressure in the chamber G Is (JAMB 2018)",
+    "questionText": "In the diagram given if the atmospheric pressure is 760mm, the pressure in the chamber G Is",
     "options": [
       "660mm",
       "830mm",
@@ -16873,7 +16873,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-674-344",
-    "questionText": "When the temperature of a liquid is increased, its surface tension? (JAMB 2019)",
+    "questionText": "When the temperature of a liquid is increased, its surface tension?",
     "options": [
       "increases",
       "decreases",
@@ -16885,7 +16885,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-675-352",
-    "questionText": "The diagram above represents the stress-strain graph of a loaded wire. Which of these statements is correct? (JAMB 2019)",
+    "questionText": "The diagram above represents the stress-strain graph of a loaded wire. Which of these statements is correct?",
     "options": [
       "At J, the wire becomes plastic",
       "J is the yield point",
@@ -16897,7 +16897,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-676-343",
-    "questionText": "Ripple in a power supply unit is caused by (JAMB 2019)",
+    "questionText": "Ripple in a power supply unit is caused by",
     "options": [
       "using an alternating current source",
       "forward voltage drop",
@@ -16909,7 +16909,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-677-369",
-    "questionText": "The lead-acid accumulator consists of (JAMB 2019)",
+    "questionText": "The lead-acid accumulator consists of",
     "options": [
       "lead as the positive electrode",
       "lead acid as the negative electrode",
@@ -16921,7 +16921,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-678-362",
-    "questionText": "Which of the following media allow the transmission of sound waves through them?\nI. air\nII. liquid\nIII. Solids (JAMB 2019)",
+    "questionText": "Which of the following media allow the transmission of sound waves through them?\nI. air\nII. liquid\nIII. Solids",
     "options": [
       "I & II only",
       "I & III only",
@@ -16933,7 +16933,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-679-341",
-    "questionText": "Which of the following is/are the limitations to the Rutherford's atomic models?\n\nI. It is applicable when energy is radiated as electrons are revolving\n\nII. It is applicable when energy is radiated in a continuous mode\n\nIII. It is applicable to an atom with only one electron in the other shell (JAMB 2019)",
+    "questionText": "Which of the following is/are the limitations to the Rutherford's atomic models?\n\nI. It is applicable when energy is radiated as electrons are revolving\n\nII. It is applicable when energy is radiated in a continuous mode\n\nIII. It is applicable to an atom with only one electron in the other shell",
     "options": [
       "I only",
       "II only",
@@ -16945,7 +16945,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-680-353",
-    "questionText": "A supply of 400V is connected across capacitors of 3μf and 6μf in series. Calculate the charge (JAMB 2019)",
+    "questionText": "A supply of 400V is connected across capacitors of 3μf and 6μf in series. Calculate the charge",
     "options": [
       "8 × 10⁻⁴C",
       "4 × 10⁻²C",
@@ -16957,7 +16957,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-681-360",
-    "questionText": "In the molecular explanation of conduction, heat is transferred by the (JAMB 2019)",
+    "questionText": "In the molecular explanation of conduction, heat is transferred by the",
     "options": [
       "Free electrons",
       "Free atoms",
@@ -16969,7 +16969,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-682-358",
-    "questionText": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because (JAMB 2019)",
+    "questionText": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because",
     "options": [
       "the heat energy is quickly conducted away",
       "the heat capacity has become very large as the substance melts",
@@ -16981,7 +16981,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-683-373",
-    "questionText": "A man on a bench will exert the greatest pressure on the bench when he (JAMB 2019)",
+    "questionText": "A man on a bench will exert the greatest pressure on the bench when he",
     "options": [
       "lies flat on his back",
       "lies flat on his belly",
@@ -16993,7 +16993,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-684-346",
-    "questionText": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected? (JAMB 2019)",
+    "questionText": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected?",
     "options": [
       "180°",
       "90°",
@@ -17005,7 +17005,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-685-347",
-    "questionText": "The pin-hole camera produces a less sharply defined image when the (JAMB 2019)",
+    "questionText": "The pin-hole camera produces a less sharply defined image when the",
     "options": [
       "pin-hole is larger",
       "illumination is less",
@@ -17017,7 +17017,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-686-349",
-    "questionText": "The pitch of a screw jack is 0.45cm and the arm is 60cm long. If the efficiency of the Jack is 75/π %, calculate the mechanical advantage. (JAMB 2019)",
+    "questionText": "The pitch of a screw jack is 0.45cm and the arm is 60cm long. If the efficiency of the Jack is 75/π %, calculate the mechanical advantage.",
     "options": [
       "400",
       "300",
@@ -17029,7 +17029,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-687-364",
-    "questionText": "The following are parts of the eye\nI. Retina\nII. Pupil\nIII. Iris\nThe correct equivalent in the camera in the same order are (JAMB 2019)",
+    "questionText": "The following are parts of the eye\nI. Retina\nII. Pupil\nIII. Iris\nThe correct equivalent in the camera in the same order are",
     "options": [
       "Diaphragm, Aperture, film",
       "Aperture, Diaphragm, Film",
@@ -17041,7 +17041,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-688-332",
-    "questionText": "When blue and green colours of light are mixed, the resultant colour is (JAMB 2019)",
+    "questionText": "When blue and green colours of light are mixed, the resultant colour is",
     "options": [
       "cyan",
       "magenta",
@@ -17053,7 +17053,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-689-337",
-    "questionText": "Lamps in domestic lightings are usually in (JAMB 2019)",
+    "questionText": "Lamps in domestic lightings are usually in",
     "options": [
       "series",
       "divergent",
@@ -17065,7 +17065,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-690-334",
-    "questionText": "According to kinetic molecular model, in gases (JAMB 2019)",
+    "questionText": "According to kinetic molecular model, in gases",
     "options": [
       "The molecule are very fast apart & occupy all the space made available",
       "The particles occur in clusters with molecules slightly farther apart",
@@ -17077,7 +17077,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-691-339",
-    "questionText": "In a slide wire bridge, the balance is obtained at a point 25cm from one end of wire 1m long. The resistance to be tested is connected to that end and a standard resistance of 3.6Ω\n is connected to the other end of the wire. Determine the value of the unknown resistance (JAMB 2019)",
+    "questionText": "In a slide wire bridge, the balance is obtained at a point 25cm from one end of wire 1m long. The resistance to be tested is connected to that end and a standard resistance of 3.6Ω\n is connected to the other end of the wire. Determine the value of the unknown resistance",
     "options": [
       "3.2Ω",
       "1.4Ω",
@@ -17089,7 +17089,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-692-357",
-    "questionText": "The limiting frictional force between two surfaces depends on\nI. the cohesive force of the material\nII. the nature of the surfaces in contact\nIII. the relative velocity between the surfaces (JAMB 2019)",
+    "questionText": "The limiting frictional force between two surfaces depends on\nI. the cohesive force of the material\nII. the nature of the surfaces in contact\nIII. the relative velocity between the surfaces",
     "options": [
       "I only",
       "II only",
@@ -17101,7 +17101,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-693-371",
-    "questionText": "A mixture of blue and red pigment when illuminated by white light will appear (JAMB 2019)",
+    "questionText": "A mixture of blue and red pigment when illuminated by white light will appear",
     "options": [
       "green",
       "orange",
@@ -17113,7 +17113,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-694-342",
-    "questionText": "Which of the following equations is the correct definition of the reactance of an indicator L? (JAMB 2019)",
+    "questionText": "Which of the following equations is the correct definition of the reactance of an indicator L?",
     "options": [
       "Reactance = (Amplitude of voltage) ÷ (Amplitude of current)",
       "Reactance = (Amplitude of voltage) × (Amplitude of current)",
@@ -17125,7 +17125,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-695-367",
-    "questionText": "The momentum of a car moving at a constant speed in a circular track (JAMB 2019)",
+    "questionText": "The momentum of a car moving at a constant speed in a circular track",
     "options": [
       "can be both positive and negative",
       "can be zero depending on its position in the track",
@@ -17137,7 +17137,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-696-359",
-    "questionText": "The statement 'Heat lost by the hot body equals that gained by the cold one' is assumed when determining specific that heat capacity by the method of mixtures. Which of the following validates the assumption?\nI. Lagging the Calorimeter\nII. Ensuring that only S.I units are used\nIII. Weighing the calorimeter, the lid and the stirrer. (JAMB 2019)",
+    "questionText": "The statement 'Heat lost by the hot body equals that gained by the cold one' is assumed when determining specific that heat capacity by the method of mixtures. Which of the following validates the assumption?\nI. Lagging the Calorimeter\nII. Ensuring that only S.I units are used\nIII. Weighing the calorimeter, the lid and the stirrer.",
     "options": [
       "I only",
       "I & II only",
@@ -17149,7 +17149,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-697-378",
-    "questionText": "An a.c of 1A at a frequency of 800 cycles per second flows through a coil, the inductance of which is 2.5mH and the resistance of which is 5Ω. What is the power absorbed in the Coil?\n (JAMB 2019)",
+    "questionText": "An a.c of 1A at a frequency of 800 cycles per second flows through a coil, the inductance of which is 2.5mH and the resistance of which is 5Ω. What is the power absorbed in the Coil?\n",
     "options": [
       "5W",
       "6W",
@@ -17161,7 +17161,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-698-370",
-    "questionText": "When water is boiling, it (JAMB 2019)",
+    "questionText": "When water is boiling, it",
     "options": [
       "gets hotter",
       "increase is mass",
@@ -17173,7 +17173,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-699-348",
-    "questionText": "A straight wire 15cm long, carrying a current of 6.0A is in a uniform field of 0.40T. What is the force on the wire when it is at right angle to the field (JAMB 2019)",
+    "questionText": "A straight wire 15cm long, carrying a current of 6.0A is in a uniform field of 0.40T. What is the force on the wire when it is at right angle to the field",
     "options": [
       "0.46N",
       "0.35N",
@@ -17185,7 +17185,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-700-351",
-    "questionText": "Aluminium is sometimes used as the leaf of an electroscope because it (JAMB 2019)",
+    "questionText": "Aluminium is sometimes used as the leaf of an electroscope because it",
     "options": [
       "is a light material",
       "is a good conductor",
@@ -17197,7 +17197,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-701-366",
-    "questionText": "A force of 6N acts horizontally on a stationary mass of 2kg for 4s. The kinetic energy gained by the mass is _________ (JAMB 2019)",
+    "questionText": "A force of 6N acts horizontally on a stationary mass of 2kg for 4s. The kinetic energy gained by the mass is _________",
     "options": [
       "366j",
       "240j",
@@ -17209,7 +17209,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-702-345",
-    "questionText": "The distance between an object and its real image in a convex lens is 40cm. If the magnification of the image is 3, calculate the focal length of the lens\n (JAMB 2019)",
+    "questionText": "The distance between an object and its real image in a convex lens is 40cm. If the magnification of the image is 3, calculate the focal length of the lens\n",
     "options": [
       "6.5 cm",
       "7.5 cm",
@@ -17221,7 +17221,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-703-377",
-    "questionText": "Three resistors with resistance 200Ω, 500Ω and 1kΩ are connected in series. A 6v battery is connected to either end of the combination. Calculate the potential difference between the ends of 200Ω resistance. (JAMB 2019)",
+    "questionText": "Three resistors with resistance 200Ω, 500Ω and 1kΩ are connected in series. A 6v battery is connected to either end of the combination. Calculate the potential difference between the ends of 200Ω resistance.",
     "options": [
       "0.71V",
       "0.7V",
@@ -17233,7 +17233,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-704-350",
-    "questionText": "When the downward current flows in a straight vertical conductor, the direction of its magnetic field at a point due north of the wire is? (JAMB 2019)",
+    "questionText": "When the downward current flows in a straight vertical conductor, the direction of its magnetic field at a point due north of the wire is?",
     "options": [
       "Upward",
       "North",
@@ -17245,7 +17245,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-705-333",
-    "questionText": "A metal rod has a length of 100cm at 200°C. At what temperature will its length be 99.4cm, if the linear expansivity of the material of the rod is 2 × 10⁻⁵ °C⁻¹? (JAMB 2019)",
+    "questionText": "A metal rod has a length of 100cm at 200°C. At what temperature will its length be 99.4cm, if the linear expansivity of the material of the rod is 2 × 10⁻⁵ °C⁻¹?",
     "options": [
       "200°C",
       "300°C",
@@ -17257,7 +17257,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-706-331",
-    "questionText": "If a body moves with a constant speed and at the same time undergoes an acceleration, its motion is said to be (JAMB 2019)",
+    "questionText": "If a body moves with a constant speed and at the same time undergoes an acceleration, its motion is said to be",
     "options": [
       "oscillation",
       "circular",
@@ -17269,7 +17269,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-707-399",
-    "questionText": "Two mirrors of the same length are arranges as show in the diagram. A ray of light NO strikes the system at O and emerges along PQ. The emergent ray has been deviated through  (JAMB 2020)",
+    "questionText": "Two mirrors of the same length are arranges as show in the diagram. A ray of light NO strikes the system at O and emerges along PQ. The emergent ray has been deviated through",
     "options": [
       "220°",
       "200°",
@@ -17281,7 +17281,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-708-401",
-    "questionText": "A hydrometer is an instrument for measuring the  (JAMB 2020)",
+    "questionText": "A hydrometer is an instrument for measuring the",
     "options": [
       "a depth of water of water in a vessel",
       "relative density of a liquid by the method of flotation",
@@ -17293,7 +17293,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-709-409",
-    "questionText": "\nHeat is supplied uniformly at the rate of 100W to 1.0 × 10⁻² kg of a liquid for 20 seconds. If the temperature of the liquid rises by 5°C, then the specific heat capacity of the liquid is (JAMB 2020)",
+    "questionText": "\nHeat is supplied uniformly at the rate of 100W to 1.0 × 10⁻² kg of a liquid for 20 seconds. If the temperature of the liquid rises by 5°C, then the specific heat capacity of the liquid is",
     "options": [
       "2.0 × 10² Jkg⁻¹K⁻¹",
       "2.0 × 10² Jkg⁻¹",
@@ -17305,7 +17305,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-710-383",
-    "questionText": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of? (JAMB 2020)",
+    "questionText": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of?",
     "options": [
       "4",
       "π²",
@@ -17317,7 +17317,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-711-405",
-    "questionText": "Which of the following statements about defects of vision is/are CORRECT? \n\nI. For a long sighted person, close objects appear blurred\n\nII. For a short sighted person, distant objects appear blurred \n\nIII. Short sight is corrected by using a pair of converging lenses  (JAMB 2020)",
+    "questionText": "Which of the following statements about defects of vision is/are CORRECT? \n\nI. For a long sighted person, close objects appear blurred\n\nII. For a short sighted person, distant objects appear blurred \n\nIII. Short sight is corrected by using a pair of converging lenses",
     "options": [
       "I only",
       "II only",
@@ -17329,7 +17329,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-712-391",
-    "questionText": "Which of the following can be described as high tension transmission?  (JAMB 2020)",
+    "questionText": "Which of the following can be described as high tension transmission?",
     "options": [
       "High resistance and low voltage",
       "Low current and high voltage",
@@ -17341,7 +17341,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-713-412",
-    "questionText": "The figure above represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40%, then the value of W is (JAMB 2020)",
+    "questionText": "The figure above represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40%, then the value of W is",
     "options": [
       "28.0N",
       "48.0N",
@@ -17353,7 +17353,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-714-417",
-    "questionText": "Which of the following pairs is part of the electromagnetic spectrum? \n\nI. Radio waves\n\nII. sound waves\n\nIII. Gamma rays\n\nIV. water waves (JAMB 2020)",
+    "questionText": "Which of the following pairs is part of the electromagnetic spectrum? \n\nI. Radio waves\n\nII. sound waves\n\nIII. Gamma rays\n\nIV. water waves",
     "options": [
       "I and II",
       "III and IV",
@@ -17365,7 +17365,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-715-403",
-    "questionText": "The refractive index of a liquid is 1.5. If the velocity of light in vacuum is 3.0 × 10⁸ ms⁻¹, the velocity of light in the liquid is (JAMB 2020)",
+    "questionText": "The refractive index of a liquid is 1.5. If the velocity of light in vacuum is 3.0 × 10⁸ ms⁻¹, the velocity of light in the liquid is",
     "options": [
       "1.5 × 10⁸ ms⁻¹",
       "2.0 × 10⁸ ms⁻¹",
@@ -17377,7 +17377,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-716-380",
-    "questionText": "A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is due to? (JAMB 2020)",
+    "questionText": "A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is due to?",
     "options": [
       "convection",
       "osmosis",
@@ -17389,7 +17389,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-717-381",
-    "questionText": "The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is (JAMB 2020)",
+    "questionText": "The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is",
     "options": [
       "mv²/r",
       "mr²/v",
@@ -17401,7 +17401,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-718-388",
-    "questionText": "Which of the following statements on the use of X-rays is incorrect? X-rays are used (JAMB 2020)",
+    "questionText": "Which of the following statements on the use of X-rays is incorrect? X-rays are used",
     "options": [
       "In a hospital to obtain photographs of tissues and bones in the body",
       "For the treatment of malignant growths like cancer cells",
@@ -17413,7 +17413,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-719-390",
-    "questionText": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called? (JAMB 2020)",
+    "questionText": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called?",
     "options": [
       "doppler effect",
       "resonance",
@@ -17425,7 +17425,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-720-394",
-    "questionText": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is  (JAMB 2020)",
+    "questionText": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is",
     "options": [
       "5 volts",
       "10 volts",
@@ -17437,7 +17437,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-721-400",
-    "questionText": "A magnetic needle is suspended first at the earth's north magnetic pole and then at a point on the magnetic equator. The respective angles between the needle and the horizontal are (JAMB 2020)",
+    "questionText": "A magnetic needle is suspended first at the earth's north magnetic pole and then at a point on the magnetic equator. The respective angles between the needle and the horizontal are",
     "options": [
       "0° and 0°",
       "60° and 60°",
@@ -17449,7 +17449,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-722-389",
-    "questionText": "Natural radioactivity consists of emission? (JAMB 2020)",
+    "questionText": "Natural radioactivity consists of emission?",
     "options": [
       "α -particles and β -rays",
       "α -particles and X-rays",
@@ -17461,7 +17461,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-723-411",
-    "questionText": "A 2kg block is pulled along a horizontal frictionless surface by a constant horizontal force of 10N. If the block starts from rest, what is its velocity after 5 seconds?\n (JAMB 2020)",
+    "questionText": "A 2kg block is pulled along a horizontal frictionless surface by a constant horizontal force of 10N. If the block starts from rest, what is its velocity after 5 seconds?\n",
     "options": [
       "5 m/s",
       "10 m/s",
@@ -17473,7 +17473,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-724-395",
-    "questionText": "A solid weighs 4.8g in air, 2.8g in water and 3.2g in Kerosine. The ratio of density of the solid to that of the kerosine is  (JAMB 2020)",
+    "questionText": "A solid weighs 4.8g in air, 2.8g in water and 3.2g in Kerosine. The ratio of density of the solid to that of the kerosine is",
     "options": [
       "2",
       "3/2",
@@ -17485,7 +17485,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-725-407",
-    "questionText": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 10cm³ at 0°C, what will be its volume at 100°C? (JAMB 2020)",
+    "questionText": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 10cm³ at 0°C, what will be its volume at 100°C?",
     "options": [
       "10.06 cm³",
       "10.04 cm³",
@@ -17497,7 +17497,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-726-414",
-    "questionText": "In the figure, the value of R is (JAMB 2020)",
+    "questionText": "In the figure, the value of R is",
     "options": [
       "3Ω",
       "6Ω",
@@ -17509,7 +17509,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-727-408",
-    "questionText": "The lower and upper fixed points marked on a Mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm above the lower fixed point in a room. What is the temperature of the room in degrees Celsius?  (JAMB 2020)",
+    "questionText": "The lower and upper fixed points marked on a Mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm above the lower fixed point in a room. What is the temperature of the room in degrees Celsius?",
     "options": [
       "55.3°C",
       "23.3°C",
@@ -17521,7 +17521,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-728-396",
-    "questionText": "One of the following readings represents the measurement of the length of a metal rod using vernier callipers. Taking the reading accuracy into consideration, the most likely one is  (JAMB 2020)",
+    "questionText": "One of the following readings represents the measurement of the length of a metal rod using vernier callipers. Taking the reading accuracy into consideration, the most likely one is",
     "options": [
       "5.16cm",
       "5.165cm",
@@ -17533,7 +17533,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-729-398",
-    "questionText": "A convex mirror is used as a driving mirror because \n\nI. its image is erect     \n\nII. It has a large field of view\n\nIII. It has a long focal length \n\nIdentify the CORRECT statement(s)  (JAMB 2020)",
+    "questionText": "A convex mirror is used as a driving mirror because \n\nI. its image is erect     \n\nII. It has a large field of view\n\nIII. It has a long focal length \n\nIdentify the CORRECT statement(s)",
     "options": [
       "I and III only",
       "I and II only",
@@ -17545,7 +17545,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-730-404",
-    "questionText": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms -1, how much closer is the ship to the cliff? (JAMB 2020)",
+    "questionText": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms -1, how much closer is the ship to the cliff?",
     "options": [
       "10m",
       "350m",
@@ -17557,7 +17557,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-731-382",
-    "questionText": "\nA machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms⁻¹. The recoil speed of the machine gun is (JAMB 2020)",
+    "questionText": "\nA machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms⁻¹. The recoil speed of the machine gun is",
     "options": [
       "0.5 ms⁻¹",
       "1.5 ms⁻¹",
@@ -17569,7 +17569,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-732-415",
-    "questionText": "Which of the following instruments in the image consumes the highest current? (JAMB 2020)",
+    "questionText": "Which of the following instruments in the image consumes the highest current?",
     "options": [
       "I",
       "II only",
@@ -17581,7 +17581,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-733-384",
-    "questionText": "In what range of temperature is the expansion of water anomalous? (JAMB 2020)",
+    "questionText": "In what range of temperature is the expansion of water anomalous?",
     "options": [
       "+208°C to +212°C",
       "-80°C to -76°C",
@@ -17593,7 +17593,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-734-413",
-    "questionText": "\nIn an experiment in which molten naphthalene is allowed to cool, the cooling curve in the figure was obtained. The temperature 80°C is known as the (JAMB 2020)",
+    "questionText": "\nIn an experiment in which molten naphthalene is allowed to cool, the cooling curve in the figure was obtained. The temperature 80°C is known as the",
     "options": [
       "Cooling temperature",
       "Boiling point",
@@ -17605,7 +17605,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141056-735-387",
-    "questionText": "The effect of closing the key K in the circuit shown in the figure above would be to? (JAMB 2020)",
+    "questionText": "The effect of closing the key K in the circuit shown in the figure above would be to?",
     "options": [
       "increase the current by 0.4A",
       "reduce the current by 0.4A",
@@ -17617,7 +17617,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-736-386",
-    "questionText": "In the study of Physics, temperature and heat are often confused with each other. Which of the following statements correctly defines these two elements? (JAMB 2020)",
+    "questionText": "In the study of Physics, temperature and heat are often confused with each other. Which of the following statements correctly defines these two elements?",
     "options": [
       "Temperature is a measure of the average kinetic energy of the molecules of a substance",
       "Heat is a measure of the total kinetic energy of the molecules in a system",
@@ -17629,7 +17629,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-737-410",
-    "questionText": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is P₁ while the pressure on H is P₂. If the atmospheric pressure is equivalent to 10m of water, then the value of P₂/P₁ is? (JAMB 2020)",
+    "questionText": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is P₁ while the pressure on H is P₂. If the atmospheric pressure is equivalent to 10m of water, then the value of P₂/P₁ is?",
     "options": [
       "0.5",
       "0.6",
@@ -17641,7 +17641,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-738-402",
-    "questionText": "Consider the three forces acting at O and in equilibrium as shown in the figure. Which of the following equations is/are CORRECT?\nI. P₁ cos θ₁ = P₂ cos θ₂\nII. P₃ = P₁ cos θ₁ + P₂ cos θ₂\nIII. P₁ sin θ₁ = P₂ sin θ₂ (JAMB 2020)",
+    "questionText": "Consider the three forces acting at O and in equilibrium as shown in the figure. Which of the following equations is/are CORRECT?\nI. P₁ cos θ₁ = P₂ cos θ₂\nII. P₃ = P₁ cos θ₁ + P₂ cos θ₂\nIII. P₁ sin θ₁ = P₂ sin θ₂",
     "options": [
       "I only",
       "II only",
@@ -17653,7 +17653,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-739-392",
-    "questionText": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh? (JAMB 2020)",
+    "questionText": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh?",
     "options": [
       "N0.65",
       "N0.39",
@@ -17665,7 +17665,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-740-419",
-    "questionText": "A substance has half of 3 min. After 6 min, the count rate was observed to be 400. What was its count rate at zero time?  (JAMB 2020)",
+    "questionText": "A substance has half of 3 min. After 6 min, the count rate was observed to be 400. What was its count rate at zero time?",
     "options": [
       "1600",
       "1200",
@@ -17677,7 +17677,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-741-406",
-    "questionText": "Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media?\n\nI. Light is passing from optical denser medium to optically less dense medium\n\nII. Light is passing from optically less dense medium to optically denser medium\n\nIII. Angle of incidence is greater than a certain critical value\n\nIV. Angle of incidence is lesser  than a certain critical value (JAMB 2020)",
+    "questionText": "Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media?\n\nI. Light is passing from optical denser medium to optically less dense medium\n\nII. Light is passing from optically less dense medium to optically denser medium\n\nIII. Angle of incidence is greater than a certain critical value\n\nIV. Angle of incidence is lesser  than a certain critical value",
     "options": [
       "I and II only",
       "II only III only",
@@ -17689,7 +17689,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-742-393",
-    "questionText": "Tha mass of a proton is approximately equal to that of  (JAMB 2020)",
+    "questionText": "Tha mass of a proton is approximately equal to that of",
     "options": [
       "an α -particle",
       "a β -Particle",
@@ -17701,7 +17701,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-743-452",
-    "questionText": "The equation of a wave traveling along the positive x-direction is given by: y = 0.25 × 10⁻³ sin(500t - 0.025x). Determine the angular velocity of the wave motion. (JAMB 2021)",
+    "questionText": "The equation of a wave traveling along the positive x-direction is given by: y = 0.25 × 10⁻³ sin(500t - 0.025x). Determine the angular velocity of the wave motion.",
     "options": [
       "0.25 × 10⁻³ rad s⁻¹",
       "0.25 × 10⁻¹ rad s⁻¹",
@@ -17713,7 +17713,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-744-455",
-    "questionText": "A man stands 4m in front of a plane mirror. If the mirror is moved 1m towards the man, the distance between him and his new image is? (JAMB 2021)",
+    "questionText": "A man stands 4m in front of a plane mirror. If the mirror is moved 1m towards the man, the distance between him and his new image is?",
     "options": [
       "3m",
       "5m",
@@ -17725,7 +17725,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-745-457",
-    "questionText": "The velocities of light in air and glass are 3.0 × 10⁸ ms⁻¹ and 2.0 × 10⁸ ms⁻¹ respectively. If the angle of refraction is 30°, the sine of the angle of incidence is? (JAMB 2021)",
+    "questionText": "The velocities of light in air and glass are 3.0 × 10⁸ ms⁻¹ and 2.0 × 10⁸ ms⁻¹ respectively. If the angle of refraction is 30°, the sine of the angle of incidence is?",
     "options": [
       "0.33",
       "0.5",
@@ -17737,7 +17737,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-746-438",
-    "questionText": "Two bodies have masses in the ratio 3:1. They experience forces which impart to them, acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced (JAMB 2021)",
+    "questionText": "Two bodies have masses in the ratio 3:1. They experience forces which impart to them, acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced",
     "options": [
       "1:04",
       "2:01",
@@ -17749,7 +17749,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-747-453",
-    "questionText": "If a sound wave goes from a cold air region to a hot air region, its wavelength will? (JAMB 2021)",
+    "questionText": "If a sound wave goes from a cold air region to a hot air region, its wavelength will?",
     "options": [
       "increase",
       "decrease",
@@ -17761,7 +17761,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-748-444",
-    "questionText": "If the stress on a wire is 10⁷ Nm⁻² and the wire is stretched from its original length of 10.00m to 10.05m. The Young's modulus of the wire is? (JAMB 2021)",
+    "questionText": "If the stress on a wire is 10⁷ Nm⁻² and the wire is stretched from its original length of 10.00m to 10.05m. The Young's modulus of the wire is?",
     "options": [
       "5.0 × 10⁻⁴ Nm⁻²",
       "5.0 × 10⁻⁵ Nm⁻²",
@@ -17773,7 +17773,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-749-423",
-    "questionText": "A ball of mass 0.5kg moving at 10ms⁻¹ collides with another ball of equal mass at rest. If the two balls move off together after the impact, calculate their common velocity. (JAMB 2021)",
+    "questionText": "A ball of mass 0.5kg moving at 10ms⁻¹ collides with another ball of equal mass at rest. If the two balls move off together after the impact, calculate their common velocity.",
     "options": [
       "0.2 ms⁻¹",
       "0.5 ms⁻¹",
@@ -17785,7 +17785,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-750-448",
-    "questionText": "A piece of substance of specific heat capacity 450 Jkg⁻¹K⁻¹ falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms⁻²] (JAMB 2021)",
+    "questionText": "A piece of substance of specific heat capacity 450 Jkg⁻¹K⁻¹ falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms⁻²]",
     "options": [
       "2/9°C",
       "4/9°C",
@@ -17797,7 +17797,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-751-436",
-    "questionText": "A certain radioactive source emits radiation that was found to be deflected by both magnetic and electric fields. The radiation is? (JAMB 2021)",
+    "questionText": "A certain radioactive source emits radiation that was found to be deflected by both magnetic and electric fields. The radiation is?",
     "options": [
       "beta rays",
       "gamma rays",
@@ -17809,7 +17809,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-752-425",
-    "questionText": "Which of the following is not correct about the molecules of a substance in a gaseous state. They? (JAMB 2021)",
+    "questionText": "Which of the following is not correct about the molecules of a substance in a gaseous state. They?",
     "options": [
       "are in a constant state of motion",
       "have different speeds",
@@ -17821,7 +17821,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-753-446",
-    "questionText": "When the temperature of a liquid increases, its surface tension (JAMB 2021)",
+    "questionText": "When the temperature of a liquid increases, its surface tension",
     "options": [
       "decreases",
       "increases",
@@ -17833,7 +17833,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-754-424",
-    "questionText": "The motion of a body is simple harmonic if the? (JAMB 2021)",
+    "questionText": "The motion of a body is simple harmonic if the?",
     "options": [
       "acceleration is always directed towards a fixed point",
       "path of motion is a straight line",
@@ -17845,7 +17845,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-755-420",
-    "questionText": "The slope of the straight line displacement-time graph indicates?\n (JAMB 2021)",
+    "questionText": "The slope of the straight line displacement-time graph indicates?\n",
     "options": [
       "distance traveled",
       "uniform velocity",
@@ -17857,7 +17857,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-756-427",
-    "questionText": "\n0.5kg of water at 10°C is completely converted to ice at 0°C by extracting 88000J of heat from it. If the specific heat capacity of water is 4200 Jkg⁻¹°C⁻¹, calculate the specific latent heat of fusion of ice. (JAMB 2021)",
+    "questionText": "\n0.5kg of water at 10°C is completely converted to ice at 0°C by extracting 88000J of heat from it. If the specific heat capacity of water is 4200 Jkg⁻¹°C⁻¹, calculate the specific latent heat of fusion of ice.",
     "options": [
       "9.0 kJkg⁻¹",
       "84.0 kJkg⁻¹",
@@ -17869,7 +17869,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-757-421",
-    "questionText": "A man will exert the greatest pressure when he? (JAMB 2021)",
+    "questionText": "A man will exert the greatest pressure when he?",
     "options": [
       "lies flat on his back",
       "lies on his belly",
@@ -17881,7 +17881,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-758-433",
-    "questionText": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductors are 30V and 40V respectively. What is the voltage across the capacitor? (JAMB 2021)",
+    "questionText": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductors are 30V and 40V respectively. What is the voltage across the capacitor?",
     "options": [
       "30V",
       "40V",
@@ -17893,7 +17893,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-759-454",
-    "questionText": "The lowest note emitted by a stretched string has a frequency of 40Hz. How many overtones are there between 40Hz and 180Hz? (JAMB 2021)",
+    "questionText": "The lowest note emitted by a stretched string has a frequency of 40Hz. How many overtones are there between 40Hz and 180Hz?",
     "options": [
       "4",
       "3",
@@ -17905,7 +17905,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-760-431",
-    "questionText": "Which of the following is not a vector quantity? (JAMB 2021)",
+    "questionText": "Which of the following is not a vector quantity?",
     "options": [
       "momentum",
       "force",
@@ -17917,7 +17917,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-761-447",
-    "questionText": "A gas at a volume of V₀ in a container at pressure P₀ is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant? (JAMB 2021)",
+    "questionText": "A gas at a volume of V₀ in a container at pressure P₀ is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant?",
     "options": [
       "P₀/5",
       "4P₀/5",
@@ -17929,7 +17929,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-762-441",
-    "questionText": "A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms⁻¹ from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is? (Take g = 10ms⁻²) (JAMB 2021)",
+    "questionText": "A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms⁻¹ from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is? (Take g = 10ms⁻²)",
     "options": [
       "5J",
       "10J",
@@ -17941,7 +17941,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-763-426",
-    "questionText": "A given mass of gas has a pressure of 80 Nm⁻² at a temperature of 47°C. If the temperature is reduced to 27°C with volume remaining constant, the new pressure is? (JAMB 2021)",
+    "questionText": "A given mass of gas has a pressure of 80 Nm⁻² at a temperature of 47°C. If the temperature is reduced to 27°C with volume remaining constant, the new pressure is?",
     "options": [
       "46.0 Nm⁻²",
       "75.0 Nm⁻²",
@@ -17953,7 +17953,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-764-443",
-    "questionText": "When the breaks in a car are applied, the frictional force on the tyres is? (JAMB 2021)",
+    "questionText": "When the breaks in a car are applied, the frictional force on the tyres is?",
     "options": [
       "a disadvantage because it is in the direction of the motion of the car",
       "a disadvantage because it is in the opposite direction of the motion of the car",
@@ -17965,7 +17965,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-765-437",
-    "questionText": "The inner diameter of a test tube can be measured accurately using a? (JAMB 2021)",
+    "questionText": "The inner diameter of a test tube can be measured accurately using a?",
     "options": [
       "micrometer screw gauge",
       "pair of dividers",
@@ -17977,7 +17977,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-766-439",
-    "questionText": "A particle of mass 10⁻² kg is fixed to the tip of a fan blade which rotates with angular velocity of 100 rad s⁻¹. If the radius of the blade is 0.2m, the centripetal force is? (JAMB 2021)",
+    "questionText": "A particle of mass 10⁻² kg is fixed to the tip of a fan blade which rotates with angular velocity of 100 rad s⁻¹. If the radius of the blade is 0.2m, the centripetal force is?",
     "options": [
       "2N",
       "20N",
@@ -17989,7 +17989,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-767-449",
-    "questionText": "I. A liquid boils when its saturated vapor pressure is equal to the external pressure\nII. Dissolved substances in pure water lead to an increase in the boiling point.\nIII. When the external pressure is increased, the boiling point increases.\nIV. Dissolved substances in pure water decreases the boiling point \n\nWhich of the above combinations are peculiarities of the boiling point of a liquid? (JAMB 2021)",
+    "questionText": "I. A liquid boils when its saturated vapor pressure is equal to the external pressure\nII. Dissolved substances in pure water lead to an increase in the boiling point.\nIII. When the external pressure is increased, the boiling point increases.\nIV. Dissolved substances in pure water decreases the boiling point \n\nWhich of the above combinations are peculiarities of the boiling point of a liquid?",
     "options": [
       "I, II and III only",
       "I, II, III, and IV",
@@ -18001,7 +18001,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-768-432",
-    "questionText": "Calculate the heat energy required to vaporize 50g of water initially at 80°C if the specific heat capacity of water is 4.2 Jg⁻¹K⁻¹ (specific latent heat of vaporization of water is 2260 Jg⁻¹) (JAMB 2021)",
+    "questionText": "Calculate the heat energy required to vaporize 50g of water initially at 80°C if the specific heat capacity of water is 4.2 Jg⁻¹K⁻¹ (specific latent heat of vaporization of water is 2260 Jg⁻¹)",
     "options": [
       "530,000 J",
       "23,200 J",
@@ -18013,7 +18013,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-769-442",
-    "questionText": "A car of mass 800kg attains a speed of 25m/s in 20secs. The power developed in the engine is? (JAMB 2021)",
+    "questionText": "A car of mass 800kg attains a speed of 25m/s in 20secs. The power developed in the engine is?",
     "options": [
       "1.25 × 10⁴W",
       "2.50 × 10⁴W",
@@ -18025,7 +18025,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-770-458",
-    "questionText": "An astronomical telescope is said to be in normal adjustment when the? (JAMB 2021)",
+    "questionText": "An astronomical telescope is said to be in normal adjustment when the?",
     "options": [
       "eye is accommodated",
       "focal length of an object lens is longer than that of eye piece",
@@ -18037,7 +18037,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-771-456",
-    "questionText": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a? (JAMB 2021)",
+    "questionText": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a?",
     "options": [
       "concave mirror of focal length 5cm",
       "concave mirror of focal length 10cm",
@@ -18049,7 +18049,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-772-430",
-    "questionText": "A boy standing some distance from the foot of a tall cliff claps his hands and hears an echo 0.5s later. If the speed of sound is 340ms⁻¹, how far is he from the cliff? (JAMB 2021)",
+    "questionText": "A boy standing some distance from the foot of a tall cliff claps his hands and hears an echo 0.5s later. If the speed of sound is 340ms⁻¹, how far is he from the cliff?",
     "options": [
       "680m",
       "170m",
@@ -18061,7 +18061,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-773-422",
-    "questionText": "Which of the units of the following physical quantities are derived?\n\nI. Area\nII. Thrust\nIII. Pressure\nIV. Mass (JAMB 2021)",
+    "questionText": "Which of the units of the following physical quantities are derived?\n\nI. Area\nII. Thrust\nIII. Pressure\nIV. Mass",
     "options": [
       "I, II, III and IV",
       "I, II, and III only",
@@ -18073,7 +18073,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-774-459",
-    "questionText": "A 2H inductor has negligible resistance and is connected to a 50/π Hz A.C supply. The reactance of the inductor is? (JAMB 2021)",
+    "questionText": "A 2H inductor has negligible resistance and is connected to a 50/π Hz A.C supply. The reactance of the inductor is?",
     "options": [
       "200Ω",
       "50Ω",
@@ -18085,7 +18085,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-775-429",
-    "questionText": "A source of sound produces waves in air of wavelength 1.65m. If the speed of sound in air is 330ms⁻¹, the period of vibration in air is? (JAMB 2021)",
+    "questionText": "A source of sound produces waves in air of wavelength 1.65m. If the speed of sound in air is 330ms⁻¹, the period of vibration in air is?",
     "options": [
       "200 s",
       "0.005 s",
@@ -18097,7 +18097,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-776-468",
-    "questionText": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell? (JAMB 2022)",
+    "questionText": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
     "options": [
       "formation of hydrogen bubbles on the electrode",
       "increase in the resistance of the cell",
@@ -18109,7 +18109,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-777-480",
-    "questionText": "The vapour pressure? (JAMB 2022)",
+    "questionText": "The vapour pressure?",
     "options": [
       "increases non-linearly with measuring temperature",
       ". increases linearly with increasing temperature",
@@ -18121,7 +18121,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-778-475",
-    "questionText": "When the plate area of a capacitor increases? (JAMB 2022)",
+    "questionText": "When the plate area of a capacitor increases?",
     "options": [
       "the voltage can withstand increase",
       "the capacitance decreases",
@@ -18133,7 +18133,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-779-471",
-    "questionText": "An isotope has an initial activity of 120 Bq. 6 days later its activity is 15 Bq. The half-life is?  (JAMB 2022)",
+    "questionText": "An isotope has an initial activity of 120 Bq. 6 days later its activity is 15 Bq. The half-life is?",
     "options": [
       "3 days",
       "2 days",
@@ -18145,7 +18145,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-780-493",
-    "questionText": "What quantity of heat is required to convert 20 g of ice at 0 ºC to water at the same temperature? (Specific latent heat of ice = 336 Jg⁻¹) (JAMB 2022)",
+    "questionText": "What quantity of heat is required to convert 20 g of ice at 0 ºC to water at the same temperature? (Specific latent heat of ice = 336 Jg⁻¹)",
     "options": [
       "7.06 × 10³ J",
       "5.38 × 10³ J",
@@ -18157,7 +18157,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-781-499",
-    "questionText": "If an object just begins to slide on a surface inclined at 30º to the horizontal, the coefficient of friction is? (JAMB 2022)",
+    "questionText": "If an object just begins to slide on a surface inclined at 30º to the horizontal, the coefficient of friction is?",
     "options": [
       "√3",
       "√3/2",
@@ -18169,7 +18169,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-782-461",
-    "questionText": "A bar magnet is divided into two pieces, which of the following statement is correct? (JAMB 2022)",
+    "questionText": "A bar magnet is divided into two pieces, which of the following statement is correct?",
     "options": [
       "two new magnets are created",
       "the magnetic field of each separate piece becomes stronger",
@@ -18181,7 +18181,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-783-497",
-    "questionText": "One of the following is a scalar quantity? (JAMB 2022)",
+    "questionText": "One of the following is a scalar quantity?",
     "options": [
       "weight",
       "momentum",
@@ -18193,7 +18193,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-784-465",
-    "questionText": "Tyres are treaded to? (JAMB 2022)",
+    "questionText": "Tyres are treaded to?",
     "options": [
       "increase weight of tyres",
       "increase friction",
@@ -18205,7 +18205,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-785-464",
-    "questionText": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when? (JAMB 2022)",
+    "questionText": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
     "options": [
       "the magnet is moved towards the stationary solenoid",
       "there is no relative motion",
@@ -18217,7 +18217,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-786-483",
-    "questionText": "Water is not a good thermometric liquid because it? (JAMB 2022)",
+    "questionText": "Water is not a good thermometric liquid because it?",
     "options": [
       "expands unevenly between 0 ºC and 4 ºC",
       "maintains fixed density",
@@ -18229,7 +18229,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-787-491",
-    "questionText": "Which expression gives magnetic flux? (JAMB 2022)",
+    "questionText": "Which expression gives magnetic flux?",
     "options": [
       "qVB sinθ",
       "μ₀I/2πr",
@@ -18241,7 +18241,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-788-484",
-    "questionText": "Which of these is a second-class lever? (JAMB 2022)",
+    "questionText": "Which of these is a second-class lever?",
     "options": [
       "sugar tongs",
       "claw hammer",
@@ -18253,7 +18253,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-789-470",
-    "questionText": "Which of the following liquid is a poor conductor of electricity? (JAMB 2022)",
+    "questionText": "Which of the following liquid is a poor conductor of electricity?",
     "options": [
       "Distilled water",
       "Tap water",
@@ -18265,7 +18265,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-790-474",
-    "questionText": "A tuning fork having a frequency of 312 Hz emits a wave which has a wavelength of 1.10 m. Calculate the velocity of sound. (JAMB 2022)",
+    "questionText": "A tuning fork having a frequency of 312 Hz emits a wave which has a wavelength of 1.10 m. Calculate the velocity of sound.",
     "options": [
       "312.0 ms⁻¹",
       "110.0 ms⁻¹",
@@ -18277,7 +18277,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-791-462",
-    "questionText": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is? (JAMB 2022)",
+    "questionText": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is?",
     "options": [
       "0.1 cm⁻¹",
       "10 cm⁻¹",
@@ -18289,7 +18289,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-792-466",
-    "questionText": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration. (JAMB 2022)",
+    "questionText": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
     "options": [
       "3.20 ms⁻²",
       "0.25 ms⁻²",
@@ -18301,7 +18301,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-793-492",
-    "questionText": "The graph of pressure (P) against the reciprocal of the volume (I/V) in Boyles's law is a? (JAMB 2022)",
+    "questionText": "The graph of pressure (P) against the reciprocal of the volume (I/V) in Boyles's law is a?",
     "options": [
       "hyperbola",
       "parabola",
@@ -18313,7 +18313,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-794-496",
-    "questionText": "A semiconductor is formed by? (JAMB 2022)",
+    "questionText": "A semiconductor is formed by?",
     "options": [
       "co-ordinate bonds",
       "electrovalent bonds",
@@ -18325,7 +18325,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-795-476",
-    "questionText": "A magnet relay is a device used for? (JAMB 2022)",
+    "questionText": "A magnet relay is a device used for?",
     "options": [
       "reading the magnitude of magnetic flux",
       "controlling another circuit carrying larger current",
@@ -18337,7 +18337,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-796-498",
-    "questionText": "The mercury column in the barometer at notational  atmospheric pressure has a height of? (JAMB 2022)",
+    "questionText": "The mercury column in the barometer at notational  atmospheric pressure has a height of?",
     "options": [
       "0.76 cm at see level",
       "760 cm at sea level",
@@ -18349,7 +18349,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-797-481",
-    "questionText": "The potential energy in an elastic string of force constant k, which has an extension X is? (JAMB 2022)",
+    "questionText": "The potential energy in an elastic string of force constant k, which has an extension X is?",
     "options": [
       "kX",
       "KX²",
@@ -18361,7 +18361,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-798-487",
-    "questionText": "In order to view the sun, the most suitable instrument to use is? (JAMB 2022)",
+    "questionText": "In order to view the sun, the most suitable instrument to use is?",
     "options": [
       "helioscope",
       "telescope",
@@ -18373,7 +18373,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-799-482",
-    "questionText": "A reservoir is filled with liquid of density 2000 kgm⁻³. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm⁻² (g = 10 ms⁻²) (JAMB 2022)",
+    "questionText": "A reservoir is filled with liquid of density 2000 kgm⁻³. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm⁻² (g = 10 ms⁻²)",
     "options": [
       "0.262 m",
       "0.664 m",
@@ -18385,7 +18385,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-800-490",
-    "questionText": "The amount of energy required to change a kilogram of ice block into water without a change in temperature is? (JAMB 2022)",
+    "questionText": "The amount of energy required to change a kilogram of ice block into water without a change in temperature is?",
     "options": [
       "specific latent heat of fusion of ice",
       "specific heat capacity of ice",
@@ -18397,7 +18397,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-801-472",
-    "questionText": "The secondary pigments consist of? (JAMB 2022)",
+    "questionText": "The secondary pigments consist of?",
     "options": [
       "blue, green, and violet",
       "yellow, green, and magenta",
@@ -18409,7 +18409,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-802-489",
-    "questionText": "The gravitational pull on the moon is 1/6 that of the earth. If a body weighs 6.0 N on the moon, what will be the weight on the earth? (JAMB 2022)",
+    "questionText": "The gravitational pull on the moon is 1/6 that of the earth. If a body weighs 6.0 N on the moon, what will be the weight on the earth?",
     "options": [
       "6.0 N",
       "5.0 N",
@@ -18421,7 +18421,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-803-485",
-    "questionText": "In the formation of sea breeze, wind blows from? (JAMB 2022)",
+    "questionText": "In the formation of sea breeze, wind blows from?",
     "options": [
       "sky to land",
       "sea to sky",
@@ -18433,7 +18433,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-804-460",
-    "questionText": "Which of these is a derived unit? (JAMB 2022)",
+    "questionText": "Which of these is a derived unit?",
     "options": [
       "Kilogram",
       "Metre",
@@ -18445,7 +18445,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-805-478",
-    "questionText": "A current of 0.5 A flows through a resistor when connected to a 40 V battery. How much energy is dispatched in 2 minutes? (JAMB 2022)",
+    "questionText": "A current of 0.5 A flows through a resistor when connected to a 40 V battery. How much energy is dispatched in 2 minutes?",
     "options": [
       "2400 J",
       "9600 J",
@@ -18457,7 +18457,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-806-473",
-    "questionText": "A person standing waist-deep in a swimming pool appears to have short legs because of light? (JAMB 2022)",
+    "questionText": "A person standing waist-deep in a swimming pool appears to have short legs because of light?",
     "options": [
       "diffraction",
       "refraction",
@@ -18469,7 +18469,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-807-488",
-    "questionText": "The eclipse of the moon occurs when? (JAMB 2022)",
+    "questionText": "The eclipse of the moon occurs when?",
     "options": [
       "the moon reflects the rays from the sun to the earth",
       "the moon comes exactly between the earth and the sun",
@@ -18481,7 +18481,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-808-479",
-    "questionText": "For a pear-shaped conductor shown above, the concentration of charge on the outside is highest at? (JAMB 2022)",
+    "questionText": "For a pear-shaped conductor shown above, the concentration of charge on the outside is highest at?",
     "options": [
       "X",
       "Z",
@@ -18493,7 +18493,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-809-486",
-    "questionText": "Which component of fiber-optic connector has a provision of entry for the fibre along with the fixation to connector housing? (JAMB 2022)",
+    "questionText": "Which component of fiber-optic connector has a provision of entry for the fibre along with the fixation to connector housing?",
     "options": [
       "coupling device",
       "cable",
@@ -18505,7 +18505,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-810-495",
-    "questionText": "The main factor which affects the speed of sound wave is the? (JAMB 2022)",
+    "questionText": "The main factor which affects the speed of sound wave is the?",
     "options": [
       "properties of the medium",
       "amplitude of the sound wave",
@@ -18517,7 +18517,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-811-515",
-    "questionText": "A wire of radius 0.2 mm is extended by 0.5% of its length when supported by a load of 1.5 kg. Determine the Young's modulus for the material of the wire. [Take g = 10 ms⁻²] (JAMB 2023)",
+    "questionText": "A wire of radius 0.2 mm is extended by 0.5% of its length when supported by a load of 1.5 kg. Determine the Young's modulus for the material of the wire. [Take g = 10 ms⁻²]",
     "options": [
       "2.4×10¹⁰ (Nm⁻²)",
       "1.5×10¹⁰ (Nm⁻²)",
@@ -18529,7 +18529,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-812-514",
-    "questionText": "How much net work is required to accelerate a 1200 kg car from 10ms⁻¹ to 15ms⁻¹ (JAMB 2023)",
+    "questionText": "How much net work is required to accelerate a 1200 kg car from 10ms⁻¹ to 15ms⁻¹",
     "options": [
       "1.95×10⁵ J",
       "1.35×10⁴ J",
@@ -18541,7 +18541,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-813-548",
-    "questionText": "Which of the following is NOT a limitation of experimental measurements? (JAMB 2023)",
+    "questionText": "Which of the following is NOT a limitation of experimental measurements?",
     "options": [
       "Systematic error",
       "Instrument resolution",
@@ -18553,7 +18553,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-814-518",
-    "questionText": "An air bubble of radius 4.5 cm initially at a depth of 12 m below the water surface rises to the surface. If the atmospheric pressure is equal to 10.34 m of water, the radius of the bubble just before it reaches the water surface is (JAMB 2023)",
+    "questionText": "An air bubble of radius 4.5 cm initially at a depth of 12 m below the water surface rises to the surface. If the atmospheric pressure is equal to 10.34 m of water, the radius of the bubble just before it reaches the water surface is",
     "options": [
       "6.43 cm",
       "8.24 cm",
@@ -18565,7 +18565,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-815-513",
-    "questionText": "Which process is responsible for production of energy in stars? (JAMB 2023)",
+    "questionText": "Which process is responsible for production of energy in stars?",
     "options": [
       "Nuclear reaction",
       "Nuclear fission",
@@ -18577,7 +18577,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-816-520",
-    "questionText": "What is the amount of heat required to raise the temperature of a 0.02 kg of ice cube from −10°C to 10°C ? [specific latent heat of fusion of ice = 3.34 x 10⁵ Jkg⁻¹, Specific heat capacity of water = 4200 Jkg⁻¹ k⁻¹, Specific heat capacity of ice = 2100 Jkg⁻¹ k⁻¹] (JAMB 2023)",
+    "questionText": "What is the amount of heat required to raise the temperature of a 0.02 kg of ice cube from −10°C to 10°C ? [specific latent heat of fusion of ice = 3.34 x 10⁵ Jkg⁻¹, Specific heat capacity of water = 4200 Jkg⁻¹ k⁻¹, Specific heat capacity of ice = 2100 Jkg⁻¹ k⁻¹]",
     "options": [
       "6680 J",
       "1680 J",
@@ -18589,7 +18589,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-817-501",
-    "questionText": "Which of the following statements regarding the application of electrical conduction via gases is/are correct?\nElectrical conduction in gas is applied in:\n(i) The identification of gases\n(ii) Lighting/fluorescent tubes\n(iii) Neon signs/Advertising industry\n(iv) Cathode ray oscilloscope/T.V. tubes (JAMB 2023)",
+    "questionText": "Which of the following statements regarding the application of electrical conduction via gases is/are correct?\nElectrical conduction in gas is applied in:\n(i) The identification of gases\n(ii) Lighting/fluorescent tubes\n(iii) Neon signs/Advertising industry\n(iv) Cathode ray oscilloscope/T.V. tubes",
     "options": [
       "(i), (iii) and (iv) only",
       "(i), (ii), (iii) and (iv)",
@@ -18601,7 +18601,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-818-536",
-    "questionText": "How much work is done against the gravitational force on a 3.0 kg object when it is carried from the ground floor to the roof of a building, a vertical climb of 240 m? (JAMB 2023)",
+    "questionText": "How much work is done against the gravitational force on a 3.0 kg object when it is carried from the ground floor to the roof of a building, a vertical climb of 240 m?",
     "options": [
       "7.2 kJ",
       "4.6 kJ",
@@ -18613,7 +18613,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-819-512",
-    "questionText": "\nThe surface temperature of a swimming pool on a warm day is 25ºC and the temperature at the bottom is 15ºC. If the swimming pool has a surface area of 620 m² and a depth of 1.5m. Find the rate at which energy is transferred by conduction from the surface to the bottom of the swimming pool. [Thermal conductivity of water (k) = 0.6071 Wm⁻¹K⁻¹] (JAMB 2023)",
+    "questionText": "\nThe surface temperature of a swimming pool on a warm day is 25ºC and the temperature at the bottom is 15ºC. If the swimming pool has a surface area of 620 m² and a depth of 1.5m. Find the rate at which energy is transferred by conduction from the surface to the bottom of the swimming pool. [Thermal conductivity of water (k) = 0.6071 Wm⁻¹K⁻¹]",
     "options": [
       "2.5 kW",
       "250 kW",
@@ -18625,7 +18625,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-820-544",
-    "questionText": "The working of the beam balance is based on the principle of (JAMB 2023)",
+    "questionText": "The working of the beam balance is based on the principle of",
     "options": [
       "moments",
       "conservation of energy",
@@ -18637,7 +18637,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-821-522",
-    "questionText": "A 400 N box is being pushed across a level floor at a constant speed by a force P of 100 N at an angle of 30.0° to the horizontal, as shown in the the diagram below. What is the coefficient of kinetic friction between the box and the floor? (JAMB 2023)",
+    "questionText": "A 400 N box is being pushed across a level floor at a constant speed by a force P of 100 N at an angle of 30.0° to the horizontal, as shown in the the diagram below. What is the coefficient of kinetic friction between the box and the floor?",
     "options": [
       "0.19",
       "0.24",
@@ -18649,7 +18649,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-822-539",
-    "questionText": "The sensitivity of a thermometer is (JAMB 2023)",
+    "questionText": "The sensitivity of a thermometer is",
     "options": [
       "All of the above",
       "how quickly a temperature change can be detected",
@@ -18661,7 +18661,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-823-538",
-    "questionText": "An open-tube mercury manometer is used to measure the pressure in a gas tank. When the atmospheric pressure is 101,325 Pa, what is the absolute pressure in Pa in the tank if the height of the mercury in the open tube is 25 cm higher. density of mercury = 13600kg/m³, g=9.8m/s² (JAMB 2023)",
+    "questionText": "An open-tube mercury manometer is used to measure the pressure in a gas tank. When the atmospheric pressure is 101,325 Pa, what is the absolute pressure in Pa in the tank if the height of the mercury in the open tube is 25 cm higher. density of mercury = 13600kg/m³, g=9.8m/s²",
     "options": [
       "108,986 Pa",
       "165,238 Pa",
@@ -18673,7 +18673,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-824-540",
-    "questionText": "The diagram above illustrates the penetrating power of some types of radiation. X, Y and Z are likely\n (JAMB 2023)",
+    "questionText": "The diagram above illustrates the penetrating power of some types of radiation. X, Y and Z are likely\n",
     "options": [
       "X = α-particle; Y = γ-ray; Z = β-particle",
       "X = α-particle; Y = β-particle; Z = γ-ray",
@@ -18685,7 +18685,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-825-546",
-    "questionText": "From the diagram above, if the potential differences across the resistor, capacitor, and inductor are 30V, 120V, and 60V, respectively, the effective potential difference is (JAMB 2023)",
+    "questionText": "From the diagram above, if the potential differences across the resistor, capacitor, and inductor are 30V, 120V, and 60V, respectively, the effective potential difference is",
     "options": [
       "81",
       "67",
@@ -18697,7 +18697,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-826-531",
-    "questionText": "A block of mass 0.5 kg is suspended at the 40 cm mark of a light metre rule AB that is pivoted at point E, the 90 cm mark, and is kept at equilibrium by a string attached at point D, the 60 cm mark, as shown in the figure above. Find the tension T in the string. [Take g = 10ms⁻²] (JAMB 2023)",
+    "questionText": "A block of mass 0.5 kg is suspended at the 40 cm mark of a light metre rule AB that is pivoted at point E, the 90 cm mark, and is kept at equilibrium by a string attached at point D, the 60 cm mark, as shown in the figure above. Find the tension T in the string. [Take g = 10ms⁻²]",
     "options": [
       "16.67N",
       "15.67N",
@@ -18709,7 +18709,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-827-532",
-    "questionText": "A 35 kΩ is connected in series with a resistance of 40 kΩ. What resistance R must be connected in parallel with the combination so that the equivalent resistance is equal to 25 kΩ? (JAMB 2023)",
+    "questionText": "A 35 kΩ is connected in series with a resistance of 40 kΩ. What resistance R must be connected in parallel with the combination so that the equivalent resistance is equal to 25 kΩ?",
     "options": [
       "40 kΩ",
       "37.5 kΩ",
@@ -18721,7 +18721,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-828-506",
-    "questionText": "The terminals of a battery of emf 24.0 V and internal resistance of 1.0 Ω is connected to an external resistor 5.0 Ω. Find the terminal p.d. (JAMB 2023)",
+    "questionText": "The terminals of a battery of emf 24.0 V and internal resistance of 1.0 Ω is connected to an external resistor 5.0 Ω. Find the terminal p.d.",
     "options": [
       "18.0V",
       "12.0V",
@@ -18733,7 +18733,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-829-507",
-    "questionText": "A lorry accelerates uniformly in a straight line with acceleration of 4ms⁻² and covers a distance of 250 m in a time interval of 10 s. How far will it travel in the next 10 s? (JAMB 2023)",
+    "questionText": "A lorry accelerates uniformly in a straight line with acceleration of 4ms⁻² and covers a distance of 250 m in a time interval of 10 s. How far will it travel in the next 10 s?",
     "options": [
       "650 m",
       "900 m",
@@ -18745,7 +18745,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-830-523",
-    "questionText": "\nLight of wavelength 589 nm in vacuum passes through a piece of fused quartz of index of refraction n = 1.458. What is the frequency of the light in fused quartz? [Speed of light c = 3.00×10⁸ms⁻¹] (JAMB 2023)",
+    "questionText": "\nLight of wavelength 589 nm in vacuum passes through a piece of fused quartz of index of refraction n = 1.458. What is the frequency of the light in fused quartz? [Speed of light c = 3.00×10⁸ms⁻¹]",
     "options": [
       "5.09×10¹⁵Hz",
       "5.09×10¹⁴ Hz",
@@ -18757,7 +18757,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-831-525",
-    "questionText": "Three forces with magnitudes 16 N, 12 N and 21 N are shown in the diagram below. Determine the magnitude of their resultant force and angle with the x-axis (JAMB 2023)",
+    "questionText": "Three forces with magnitudes 16 N, 12 N and 21 N are shown in the diagram below. Determine the magnitude of their resultant force and angle with the x-axis",
     "options": [
       "7.63N,61°",
       "8.71N,61°",
@@ -18769,7 +18769,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-832-521",
-    "questionText": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects? (JAMB 2023)",
+    "questionText": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects?",
     "options": [
       "Pyrometer thermometer",
       "Platinum resistance thermometer",
@@ -18781,7 +18781,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-833-511",
-    "questionText": "Rainbow formation is as a result of the combination of which of the following phenomena?\n(i) Reflection\n(ii) Dispersion\n(iii) Total internal reflection\n(iv) Refraction (JAMB 2023)",
+    "questionText": "Rainbow formation is as a result of the combination of which of the following phenomena?\n(i) Reflection\n(ii) Dispersion\n(iii) Total internal reflection\n(iv) Refraction",
     "options": [
       "(ii) and (iv) only",
       "(i), (iii) and (iv) only",
@@ -18793,7 +18793,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-834-509",
-    "questionText": "The number of holes in an intrinsic semiconductor (JAMB 2023)",
+    "questionText": "The number of holes in an intrinsic semiconductor",
     "options": [
       "s not equal to the number of free electrons",
       "is greater than the number of free electrons",
@@ -18805,7 +18805,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-835-547",
-    "questionText": "When light of a certain frequency is incident on a metal surface, no photoelectrons are emitted. If the frequency of the light is increased, what happens to the stopping potential? (JAMB 2023)",
+    "questionText": "When light of a certain frequency is incident on a metal surface, no photoelectrons are emitted. If the frequency of the light is increased, what happens to the stopping potential?",
     "options": [
       "The stopping potential does not change.",
       "The stopping potential decreases.",
@@ -18817,7 +18817,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-836-529",
-    "questionText": "The pinhole camera works on (JAMB 2023)",
+    "questionText": "The pinhole camera works on",
     "options": [
       "the principle of the reversibility of light",
       "the principle of the rectilinear propagation of light",
@@ -18829,7 +18829,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-837-543",
-    "questionText": "The branch of physics that deals with the motion of objects and the forces acting on them is called: (JAMB 2023)",
+    "questionText": "The branch of physics that deals with the motion of objects and the forces acting on them is called:",
     "options": [
       "Electromagnetism",
       "Thermodynamics",
@@ -18841,7 +18841,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-838-519",
-    "questionText": "A parallel plate capacitor separated by an air gap is made of 0.8m² tin plates and 20 mm apart. It is connected to 120 V battery. What is the charge on each plate? Take εo = 8.85×10⁻¹²Fm⁻¹ (JAMB 2023)",
+    "questionText": "A parallel plate capacitor separated by an air gap is made of 0.8m² tin plates and 20 mm apart. It is connected to 120 V battery. What is the charge on each plate? Take εo = 8.85×10⁻¹²Fm⁻¹",
     "options": [
       "3.54nC",
       "42.5nC",
@@ -18853,7 +18853,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-839-528",
-    "questionText": "Which of the following is/are not true about the heat capacity of a substance? (i) It is an intensive property (ii) Its S.I unit is jK⁻¹ (iii) It is an extensive property (iv) Its S.I unit is jkg⁻¹ (JAMB 2023)",
+    "questionText": "Which of the following is/are not true about the heat capacity of a substance? (i) It is an intensive property (ii) Its S.I unit is jK⁻¹ (iii) It is an extensive property (iv) Its S.I unit is jkg⁻¹",
     "options": [
       "(i) and (iii) only",
       "(i), (ii) and (iv) only",
@@ -18865,7 +18865,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-840-537",
-    "questionText": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of 40° with the normal. Calculate the angle of refraction in the glass. [Refractive index of water = 1.33, Refractive index of glass = 1.5] (JAMB 2023)",
+    "questionText": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of 40° with the normal. Calculate the angle of refraction in the glass. [Refractive index of water = 1.33, Refractive index of glass = 1.5]",
     "options": [
       "29.36°",
       "25.37°",
@@ -18877,7 +18877,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-841-524",
-    "questionText": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum (JAMB 2023)",
+    "questionText": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum",
     "options": [
       "5.23 m",
       "6.42 m",
@@ -18889,7 +18889,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-842-533",
-    "questionText": "A piano wire 50 cm long has a total mass of 10 g and its stretched with a tension of 800 N. Find the frequency of the wire when it sounds its third overtone note. (JAMB 2023)",
+    "questionText": "A piano wire 50 cm long has a total mass of 10 g and its stretched with a tension of 800 N. Find the frequency of the wire when it sounds its third overtone note.",
     "options": [
       "800 Hz",
       "600 Hz",
@@ -18901,7 +18901,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-843-502",
-    "questionText": "Find the tension in the two cords shown in the figure above. Neglect the mass of the cords, and assume that the angle is 38° and the mass m is 220 kg\n[Take g = 9.8 ms⁻²] (JAMB 2023)",
+    "questionText": "Find the tension in the two cords shown in the figure above. Neglect the mass of the cords, and assume that the angle is 38° and the mass m is 220 kg\n[Take g = 9.8 ms⁻²]",
     "options": [
       "T₁ = 2864 N, T₂= 3612 N",
       "T₁= 3612 N, T₂ = 2864 N",
@@ -18913,7 +18913,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-844-503",
-    "questionText": "A missile is launched with a speed of 75 ms-1 at an angle of 22° above the surface of a warship. Find the horizontal range achieved by the missile. Ignore the effects of air resistance.\n\n[Take g = 10 ms⁻²] (JAMB 2023)",
+    "questionText": "A missile is launched with a speed of 75 ms-1 at an angle of 22° above the surface of a warship. Find the horizontal range achieved by the missile. Ignore the effects of air resistance.\n\n[Take g = 10 ms⁻²]",
     "options": [
       "195",
       "271 m",
@@ -18925,7 +18925,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-845-530",
-    "questionText": "A step-down transformer is used on a 2.2 kV line to deliver 110 V. How many turns are on the primary windings if the secondary has 25 turns? (JAMB 2023)",
+    "questionText": "A step-down transformer is used on a 2.2 kV line to deliver 110 V. How many turns are on the primary windings if the secondary has 25 turns?",
     "options": [
       "20",
       "250",
@@ -18937,7 +18937,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-846-1128",
-    "questionText": "The thermometric property of mercury is best on the change in (JAMB 2025)",
+    "questionText": "The thermometric property of mercury is best on the change in",
     "options": [
       "density with temperature",
       "volume with temperature",
@@ -18949,7 +18949,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-847-648",
-    "questionText": "A cell whose internal resistance is 0.5Ω delivers a current of 4A to an external resistor,The loss voltage of the cell is (JAMB 2004)",
+    "questionText": "A cell whose internal resistance is 0.5Ω delivers a current of 4A to an external resistor,The loss voltage of the cell is",
     "options": [
       "1.250V",
       "2.000V",
@@ -18961,7 +18961,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-848-51",
-    "questionText": "A devise that converts sound energy into electrical energy is  (JAMB 2009)",
+    "questionText": "A devise that converts sound energy into electrical energy is",
     "options": [
       "the horn of a motor car",
       "An AC generator",
@@ -18973,7 +18973,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-849-295",
-    "questionText": "Which of the following statements are TRUE of isotopes?\nI. Isotopes of an element have the same chemical properties because they have the same number of electrons\nII. Isotopes of elements are normally separated using physical properties\nIII. Isotopes of an element have the same number of protons in their nuclei (JAMB 2018)",
+    "questionText": "Which of the following statements are TRUE of isotopes?\nI. Isotopes of an element have the same chemical properties because they have the same number of electrons\nII. Isotopes of elements are normally separated using physical properties\nIII. Isotopes of an element have the same number of protons in their nuclei",
     "options": [
       "I and II only",
       "I and III only",
@@ -18985,7 +18985,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-850-591",
-    "questionText": "A refrigerator uses 150W. If it is kept on for 336 hours non-stop, what is the energy consumed in KWh? (JAMB 2024)",
+    "questionText": "A refrigerator uses 150W. If it is kept on for 336 hours non-stop, what is the energy consumed in KWh?",
     "options": [
       "60.20KWh",
       "50.40KWh",
@@ -18997,7 +18997,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-851-676",
-    "questionText": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is? (JAMB 2005)",
+    "questionText": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is?",
     "options": [
       "9 A",
       "8 A",
@@ -19009,7 +19009,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-852-937",
-    "questionText": "Two metals P and Q of length l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q? (JAMB 2010)",
+    "questionText": "Two metals P and Q of length l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q?",
     "options": [
       "7:5",
       "5:7",
@@ -19021,7 +19021,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-853-867",
-    "questionText": "Metal cables are used as telephone wires because? (JAMB 2009)",
+    "questionText": "Metal cables are used as telephone wires because?",
     "options": [
       "they are cheap",
       "they are sourced locally",
@@ -19033,7 +19033,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-854-564",
-    "questionText": "\nIf the S.V.P of water vapour was 13.5mmHg at 33ºC and 7.3mmHg at 7ºC. Find the percentage relative humidity of the air on a day when average air temperature was 33ºC and dew point was 7ºC. (JAMB 2024)",
+    "questionText": "\nIf the S.V.P of water vapour was 13.5mmHg at 33ºC and 7.3mmHg at 7ºC. Find the percentage relative humidity of the air on a day when average air temperature was 33ºC and dew point was 7ºC.",
     "options": [
       "55%",
       "60%",
@@ -19045,7 +19045,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-855-13",
-    "questionText": "Light wave and ripples of water are similar because both (JAMB 2006)",
+    "questionText": "Light wave and ripples of water are similar because both",
     "options": [
       "are longitudinal waves",
       "have the same velocity",
@@ -19057,7 +19057,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-856-871",
-    "questionText": "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror (JAMB 2009)",
+    "questionText": "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror",
     "options": [
       "4.0 cm",
       "3.0 cm",
@@ -19069,7 +19069,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-857-1",
-    "questionText": "A 70kg man ascends a flight of stairs of height 4m in 7s. The power expended by the man is; (JAMB 2006)",
+    "questionText": "A 70kg man ascends a flight of stairs of height 4m in 7s. The power expended by the man is;",
     "options": [
       "40W",
       "100W",
@@ -19081,7 +19081,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-858-724",
-    "questionText": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 eV. Calculate the frequency of the photon. [e = 1.6 × 10⁻¹⁹C; h = 6.6 × 10⁻³⁴Js] (JAMB 2006)",
+    "questionText": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 eV. Calculate the frequency of the photon. [e = 1.6 × 10⁻¹⁹C; h = 6.6 × 10⁻³⁴Js]",
     "options": [
       "1.3 × 10⁻¹⁵ Hz",
       "3.1 × 10⁵² Hz",
@@ -19093,7 +19093,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-859-199",
-    "questionText": "What force has to be exerted on a mass 60kg to give it an acceleration of 10ms-2 vertically upwards?\n[g = 10ms-2 (JAMB 2016)",
+    "questionText": "What force has to be exerted on a mass 60kg to give it an acceleration of 10ms-2 vertically upwards?\n[g = 10ms-2",
     "options": [
       "300N",
       "600N",
@@ -19105,7 +19105,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-860-969",
-    "questionText": "A block of aluminum is heated electrically by a 30W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is (JAMB 2011)",
+    "questionText": "A block of aluminum is heated electrically by a 30W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is",
     "options": [
       "900 JK⁻¹",
       "90 JK⁻¹",
@@ -19117,7 +19117,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-861-761",
-    "questionText": "I. Mass\nII. Density\nIII. Temperature\nIV. Nature of substance\n\n\nwhich of the above affect diffusion? (JAMB 2007)",
+    "questionText": "I. Mass\nII. Density\nIII. Temperature\nIV. Nature of substance\n\n\nwhich of the above affect diffusion?",
     "options": [
       "I and II only",
       "I,II and IV only",
@@ -19129,7 +19129,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-862-77",
-    "questionText": "  A gas at constant pressure of 4.0 x 105 Pa is cooled so that its volume decreases from 1.6m3 to 1.2m3. What work is performed by the gas?  (JAMB 2010)",
+    "questionText": "  A gas at constant pressure of 4.0 x 105 Pa is cooled so that its volume decreases from 1.6m3 to 1.2m3. What work is performed by the gas?",
     "options": [
       "6.4 x 105 J",
       "3.2 x 105 J",
@@ -19141,7 +19141,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-863-243",
-    "questionText": "An element and its isotope only differ in the number of (JAMB 2017)",
+    "questionText": "An element and its isotope only differ in the number of",
     "options": [
       "protons",
       "electrons",
@@ -19153,7 +19153,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-864-896",
-    "questionText": "A progressive wave is represented by y = 10sin(1000πt - πx/34). Two layers of the wave separated by 153cm have a phase difference of? (JAMB 2009)",
+    "questionText": "A progressive wave is represented by y = 10sin(1000πt - πx/34). Two layers of the wave separated by 153cm have a phase difference of?",
     "options": [
       "270°",
       "45°",
@@ -19165,7 +19165,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-865-1152",
-    "questionText": "A machine has an efficiency of 80%. If the input work is 200J, the output work is? (JAMB 2025)",
+    "questionText": "A machine has an efficiency of 80%. If the input work is 200J, the output work is?",
     "options": [
       "250J",
       "160J",
@@ -19177,7 +19177,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-866-772",
-    "questionText": "The bond that forms a semiconductor is? (JAMB 2007)",
+    "questionText": "The bond that forms a semiconductor is?",
     "options": [
       "covalent",
       "electrovalent",
@@ -19189,7 +19189,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-867-913",
-    "questionText": "The small droplet of water that forms on the grass in the early hours of the morning is (JAMB 2010)",
+    "questionText": "The small droplet of water that forms on the grass in the early hours of the morning is",
     "options": [
       "hail",
       "dew",
@@ -19201,7 +19201,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-868-637",
-    "questionText": "The refractive index of the medium M in the diagram above is (JAMB 2004)",
+    "questionText": "The refractive index of the medium M in the diagram above is",
     "options": [
       "1/√3",
       "2√3",
@@ -19213,7 +19213,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-869-556",
-    "questionText": "The friction due to air mass can be reduced by  (JAMB 2024)",
+    "questionText": "The friction due to air mass can be reduced by",
     "options": [
       "streaming",
       "lubricating",
@@ -19225,7 +19225,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-870-1157",
-    "questionText": "The movement of particles in liquids and gases is referred to as (JAMB 2025)",
+    "questionText": "The movement of particles in liquids and gases is referred to as",
     "options": [
       "Translational motion",
       "Isobaric process",
@@ -19237,7 +19237,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-871-1123",
-    "questionText": "The density of water is 1 g/cm³ while that of ice is 0.9 g/cm³. Calculate the change in volume when 90 g of ice is completely melted. (JAMB 2025)",
+    "questionText": "The density of water is 1 g/cm³ while that of ice is 0.9 g/cm³. Calculate the change in volume when 90 g of ice is completely melted.",
     "options": [
       "9 cm³",
       "90 cm³",
@@ -19249,7 +19249,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-872-884",
-    "questionText": "When a pentavalent impurity is added to a pure semiconductor, it becomes? (JAMB 2009)",
+    "questionText": "When a pentavalent impurity is added to a pure semiconductor, it becomes?",
     "options": [
       "a p-type semiconductor",
       "an n-type semiconductor",
@@ -19261,7 +19261,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-873-793",
-    "questionText": "A 40kW electric cable was used to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is (JAMB 2007)",
+    "questionText": "A 40kW electric cable was used to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is",
     "options": [
       "4.0 × 10² W",
       "5.0 × 10² W",
@@ -19273,7 +19273,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-874-766",
-    "questionText": "The instrument used by designers to obtain different color pattern is called? (JAMB 2007)",
+    "questionText": "The instrument used by designers to obtain different color pattern is called?",
     "options": [
       "periscope",
       "sextant",
@@ -19285,7 +19285,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-875-33",
-    "questionText": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four  (JAMB 2007)",
+    "questionText": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four",
     "options": [
       "2",
       "4",
@@ -19297,7 +19297,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-876-935",
-    "questionText": "The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium? (JAMB 2010)",
+    "questionText": "The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?",
     "options": [
       "III, IV and VIII",
       "II, V and VIII",
@@ -19309,7 +19309,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-877-752",
-    "questionText": "A car of mass 1500 kg goes round a circular curve of radius 50m at a speed of 40 ms⁻¹. The magnitude of the centripetal force on the car is? (JAMB 2007)",
+    "questionText": "A car of mass 1500 kg goes round a circular curve of radius 50m at a speed of 40 ms⁻¹. The magnitude of the centripetal force on the car is?",
     "options": [
       "4.8 × 10⁴ N",
       "4.8 × 10³ N",
@@ -19321,7 +19321,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-878-771",
-    "questionText": "The energy E of a photon and its wavelength are related by Eλ = X. The numerical value of X is? [h = 6.63 × 10⁻³⁴ Js, c = 3 × 10⁸ ms⁻¹] (JAMB 2007)",
+    "questionText": "The energy E of a photon and its wavelength are related by Eλ = X. The numerical value of X is? [h = 6.63 × 10⁻³⁴ Js, c = 3 × 10⁸ ms⁻¹]",
     "options": [
       "6.6 × 10⁻²⁸",
       "1.99 × 10⁻²⁷",
@@ -19333,7 +19333,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-879-1010",
-    "questionText": "An object of volume 1 m³ and mass 2 kg is totally immersed in a liquid of density 1 kgm⁻³. Calculate its apparent weight. (JAMB 2012)",
+    "questionText": "An object of volume 1 m³ and mass 2 kg is totally immersed in a liquid of density 1 kgm⁻³. Calculate its apparent weight.",
     "options": [
       "20 N",
       "10 N",
@@ -19345,7 +19345,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-880-202",
-    "questionText": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is (JAMB 2016)",
+    "questionText": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is",
     "options": [
       "40s",
       "10s",
@@ -19357,7 +19357,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-881-1156",
-    "questionText": "A well-lagged thin metal rod of length 0.2 m has a temperature gradient of 416 K m⁻¹. If one end is at 233 °C, what is the temperature at the other end? (JAMB 2025)",
+    "questionText": "A well-lagged thin metal rod of length 0.2 m has a temperature gradient of 416 K m⁻¹. If one end is at 233 °C, what is the temperature at the other end?",
     "options": [
       "141.20 °C",
       "257.48 °C",
@@ -19369,7 +19369,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-882-1147",
-    "questionText": "Calculate the decay constant of a radioactive isotope of half‑life 138.5 s. (JAMB 2025)",
+    "questionText": "Calculate the decay constant of a radioactive isotope of half‑life 138.5 s.",
     "options": [
       "5.0 × 10⁻³ s⁻¹",
       "5.1 × 10⁻³ s⁻¹",
@@ -19381,7 +19381,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-883-143",
-    "questionText": "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy? (JAMB 2015)",
+    "questionText": "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy?",
     "options": [
       "Mechanical energy",
       "Stationary energy",
@@ -19393,7 +19393,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-884-561",
-    "questionText": "A solid cube of aluminum is 1.5cm on each edge. The density of aluminum is 2700kgm⁻³. Find the mass of the cube. (JAMB 2024)",
+    "questionText": "A solid cube of aluminum is 1.5cm on each edge. The density of aluminum is 2700kgm⁻³. Find the mass of the cube.",
     "options": [
       "7.5g",
       "9.1g",
@@ -19405,7 +19405,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-885-1159",
-    "questionText": "The thermal capacity of a body depends on one of the following  (JAMB 2025)",
+    "questionText": "The thermal capacity of a body depends on one of the following",
     "options": [
       "Quantity of heat",
       "Temperature and mass",
@@ -19417,7 +19417,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-886-219",
-    "questionText": "The impulse of a force is deduced from Newton's second law as (JAMB 2016)",
+    "questionText": "The impulse of a force is deduced from Newton's second law as",
     "options": [
       "F = ma",
       "F = m(v−u)/t",
@@ -19429,7 +19429,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-887-10",
-    "questionText": "  A convex lens of focal length 10.0cm is used to form a real image which is half the size of the object. How far from the object is the image?  (JAMB 2006)",
+    "questionText": "  A convex lens of focal length 10.0cm is used to form a real image which is half the size of the object. How far from the object is the image?",
     "options": [
       "45cm",
       "30cm",
@@ -19441,7 +19441,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-888-679",
-    "questionText": "The electric field intensity in a place where a charge of 10⁻¹⁰ C experiences a force of 0.4 N is? (JAMB 2005)",
+    "questionText": "The electric field intensity in a place where a charge of 10⁻¹⁰ C experiences a force of 0.4 N is?",
     "options": [
       "4.0 × 10⁷ N C⁻¹",
       "8.0 × 10⁹ N C⁻¹",
@@ -19453,7 +19453,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-889-736",
-    "questionText": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is? (JAMB 2006)",
+    "questionText": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is?",
     "options": [
       "33 cm",
       "44 cm",
@@ -19465,7 +19465,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-890-106",
-    "questionText": "Which of the following is not a thermometer?   (JAMB 2011)",
+    "questionText": "Which of the following is not a thermometer?",
     "options": [
       "thermocouple",
       "pyrometer",
@@ -19477,7 +19477,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-891-241",
-    "questionText": "Three 3ω resistance are connected in parallel what is the equivalent resistance? (JAMB 2017)",
+    "questionText": "Three 3ω resistance are connected in parallel what is the equivalent resistance?",
     "options": [
       "1ω",
       "9ω",
@@ -19489,7 +19489,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-892-596",
-    "questionText": "The degree of precision of a vernier caliper is  (JAMB 2024)",
+    "questionText": "The degree of precision of a vernier caliper is",
     "options": [
       "0.005 cm",
       "0.01 cm",
@@ -19501,7 +19501,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-893-644",
-    "questionText": "Metal rods of length 20m each are laid end to end to form a bridge at 25°C. What gap will be provided between consecutive rails for the bridge to withstand 75°C? [Linear expansivity of the material = 2.0 × 10⁻⁵K⁻¹] (JAMB 2004)",
+    "questionText": "Metal rods of length 20m each are laid end to end to form a bridge at 25°C. What gap will be provided between consecutive rails for the bridge to withstand 75°C? [Linear expansivity of the material = 2.0 × 10⁻⁵K⁻¹]",
     "options": [
       "0.20m",
       "0.22m",
@@ -19513,7 +19513,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-894-933",
-    "questionText": "Which of the following is a pure semiconductor? (JAMB 2010)",
+    "questionText": "Which of the following is a pure semiconductor?",
     "options": [
       "carbon",
       "silicon",
@@ -19525,7 +19525,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-895-42",
-    "questionText": "A capacity of 2.0 x 10-11F and an inductor are joined in series. The value of the inductance that will give the circuit a resonant frequency of 200KHz is  (JAMB 2007)",
+    "questionText": "A capacity of 2.0 x 10-11F and an inductor are joined in series. The value of the inductance that will give the circuit a resonant frequency of 200KHz is",
     "options": [
       "1/16H",
       "1/8H",
@@ -19537,7 +19537,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-896-52",
-    "questionText": "Radio waves have the velocity of 3 x 108ms-1. If a radio station sends out a broadcast on a frequency 800kHz, what is the wavelength of the broadcast?  (JAMB 2009)",
+    "questionText": "Radio waves have the velocity of 3 x 108ms-1. If a radio station sends out a broadcast on a frequency 800kHz, what is the wavelength of the broadcast?",
     "options": [
       "375.0m",
       "267.0m",
@@ -19549,7 +19549,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-897-60",
-    "questionText": "Four lenses are being considered for use as a microscope object. Which of the following focal length is most suitable  (JAMB 2009)",
+    "questionText": "Four lenses are being considered for use as a microscope object. Which of the following focal length is most suitable",
     "options": [
       "-5mm",
       "+5mm",
@@ -19561,7 +19561,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-898-27",
-    "questionText": "What is the acceleration due to gravity ‘g’ on the moon, if ‘g’ is   10ms-2 on the earth? (JAMB 2007)",
+    "questionText": "What is the acceleration due to gravity ‘g’ on the moon, if ‘g’ is   10ms-2 on the earth?",
     "options": [
       "0.74ms-2",
       "0.1ms-2",
@@ -19573,7 +19573,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-899-30",
-    "questionText": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when the temperature reads 60oc?  (JAMB 2007)",
+    "questionText": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when the temperature reads 60oc?",
     "options": [
       "136.omm",
       "33.3mm",
@@ -19585,7 +19585,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-900-41",
-    "questionText": "Two bodies P and Q are projected on the same horizontal plane, with the same initial speed but at different angles of 30o and 60o respectively to the horizontal. Neglecting air resistance, what is the ratio of range of P to that of Q?  (JAMB 2007)",
+    "questionText": "Two bodies P and Q are projected on the same horizontal plane, with the same initial speed but at different angles of 30o and 60o respectively to the horizontal. Neglecting air resistance, what is the ratio of range of P to that of Q?",
     "options": [
       "1:01",
       "1:√3",
@@ -19597,7 +19597,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-901-99",
-    "questionText": " The electric field between two parallel plates is E.  A particle of mass m and carrying charge q is released at a point half the distance between the plates. The velocity  of the particle t  seconds after its release is   (JAMB 2011)",
+    "questionText": " The electric field between two parallel plates is E.  A particle of mass m and carrying charge q is released at a point half the distance between the plates. The velocity  of the particle t  seconds after its release is",
     "options": [
       "qEt/m",
       "qEt2",
@@ -19609,7 +19609,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-902-70",
-    "questionText": " For  a particle having an x co-ordinate that varies in time according to the express ion x = 4t -2t2 The instantaneous velocity for of the particle at t = 2.5s is: (JAMB 2010)",
+    "questionText": " For  a particle having an x co-ordinate that varies in time according to the express ion x = 4t -2t2 The instantaneous velocity for of the particle at t = 2.5s is:",
     "options": [
       "12m/s",
       "6m/s",
@@ -19621,7 +19621,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-903-45",
-    "questionText": "To find the dept of the sea, a ship send out a second waves and an echo after one second. If the velocity of sound in water is 1500m/s, what is the depth of the sea  (JAMB 2009)",
+    "questionText": "To find the dept of the sea, a ship send out a second waves and an echo after one second. If the velocity of sound in water is 1500m/s, what is the depth of the sea",
     "options": [
       "0.75km",
       "1.50km",
@@ -19633,7 +19633,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-904-55",
-    "questionText": "A simple pendulum 0.6 long has a period of 1.55, what is the period of a similar pendulum 0.4 long in the same direction  (JAMB 2009)",
+    "questionText": "A simple pendulum 0.6 long has a period of 1.55, what is the period of a similar pendulum 0.4 long in the same direction",
     "options": [
       "1.4 √1/3s",
       "1.5 √1/3s",
@@ -19645,7 +19645,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-905-34",
-    "questionText": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment?  (JAMB 2007)",
+    "questionText": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment?",
     "options": [
       "76cm",
       "75cm",
@@ -19657,7 +19657,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-906-85",
-    "questionText": "Which of the following about electrolysis is false?  (JAMB 2010)",
+    "questionText": "Which of the following about electrolysis is false?",
     "options": [
       "liquid that conduct electricity and are split up chemically by the current are electrolyzed",
       "the current into the electrolyte by the anode",
@@ -19669,7 +19669,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-907-65",
-    "questionText": "A man of mass 50kg ascends a flight of stair 5m high in 5 seconds. If acceleration due to gravity is 10ms-2 the power expanded is  (JAMB 2009)",
+    "questionText": "A man of mass 50kg ascends a flight of stair 5m high in 5 seconds. If acceleration due to gravity is 10ms-2 the power expanded is",
     "options": [
       "100W",
       "300W",
@@ -19681,7 +19681,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-908-68",
-    "questionText": "The most likely measurement of length of an object using a venier caliper is:  (JAMB 2010)",
+    "questionText": "The most likely measurement of length of an object using a venier caliper is:",
     "options": [
       "3.0cm",
       "3.3cm",
@@ -19693,7 +19693,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141057-909-53",
-    "questionText": "The mode of heat transfer which does not require material medium is (JAMB 2009)",
+    "questionText": "The mode of heat transfer which does not require material medium is",
     "options": [
       "conduction",
       "radiation",
@@ -19705,7 +19705,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-910-78",
-    "questionText": "Highly polished silvery  surfaces are:  (JAMB 2010)",
+    "questionText": "Highly polished silvery  surfaces are:",
     "options": [
       "poor absorbers but good emitter of radiation",
       "good absorbers and good emitters of radiation",
@@ -19717,7 +19717,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-911-18",
-    "questionText": "The half-life of a radioactive element is 9 days. What fraction of atoms has decayed in 36 days?  (JAMB 2006)",
+    "questionText": "The half-life of a radioactive element is 9 days. What fraction of atoms has decayed in 36 days?",
     "options": [
       "16-Jan",
       "¼",
@@ -19729,7 +19729,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-912-108",
-    "questionText": "Which of the following is not true about a chemical cell?    (JAMB 2011)",
+    "questionText": "Which of the following is not true about a chemical cell?",
     "options": [
       "in primary cells the process through which current is generated is irreversible",
       "secondary cells can be recharged after they run down by passing a current into the cell in the reverse direction",
@@ -19741,7 +19741,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-913-25",
-    "questionText": "A uniform rod PQ of mass 2kg and length of 1m is pivoted at the end P, if a load of 14N is placed at the centre, find the force that should be applied vertically upwards at Q to maintain the rod in equilibrium  (JAMB 2007)",
+    "questionText": "A uniform rod PQ of mass 2kg and length of 1m is pivoted at the end P, if a load of 14N is placed at the centre, find the force that should be applied vertically upwards at Q to maintain the rod in equilibrium",
     "options": [
       "7N",
       "28N",
@@ -19753,7 +19753,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-914-90",
-    "questionText": "Which of the following statements is not true about a body performing simple harmonic motion?  (JAMB 2010)",
+    "questionText": "Which of the following statements is not true about a body performing simple harmonic motion?",
     "options": [
       "the linear speed is the product of the angular speed and the radius or amplitude",
       "the linear acceleration is the product of the square of the angular speed and the displacement",
@@ -19765,7 +19765,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-915-119",
-    "questionText": "Which of the following quantities is a scalar quantity? (JAMB 2012)",
+    "questionText": "Which of the following quantities is a scalar quantity?",
     "options": [
       "Electric field",
       "Coulomb force",
@@ -19777,7 +19777,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-916-129",
-    "questionText": "To convert an a.c generator to d.c generator, one needs to  (JAMB 2012)",
+    "questionText": "To convert an a.c generator to d.c generator, one needs to",
     "options": [
       "Remove the brush touching the slip rings",
       "Laminate the armature",
@@ -19789,7 +19789,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-917-5",
-    "questionText": "Which of the following statements is not true?  (JAMB 2006)",
+    "questionText": "Which of the following statements is not true?",
     "options": [
       "as the slope of an incline plane increases, the velocity ratio decreases,",
       "the efficiency of an incline plane decreases as the slope increases",
@@ -19801,7 +19801,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-918-59",
-    "questionText": "Which of the following instruments has a pure tone?  (JAMB 2009)",
+    "questionText": "Which of the following instruments has a pure tone?",
     "options": [
       "guitar",
       "Vibrating String",
@@ -19813,7 +19813,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-919-94",
-    "questionText": "When a 2kg body is at a height 5m above the floor, its velocity  is 4m/s. What is its total energy  at this height? (acceleration due to gravity = 10m/s2)   (JAMB 2011)",
+    "questionText": "When a 2kg body is at a height 5m above the floor, its velocity  is 4m/s. What is its total energy  at this height? (acceleration due to gravity = 10m/s2)",
     "options": [
       "80J",
       "00J",
@@ -19825,7 +19825,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-920-123",
-    "questionText": "The process by which solid change directly to vapour is called  (JAMB 2012)",
+    "questionText": "The process by which solid change directly to vapour is called",
     "options": [
       "Evaporation",
       "Fusion",
@@ -19837,7 +19837,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-921-100",
-    "questionText": "An airplane increases its speed 36 km/h to 360 km/h in 20.0 s. How far does it travel while accelerating.   (JAMB 2011)",
+    "questionText": "An airplane increases its speed 36 km/h to 360 km/h in 20.0 s. How far does it travel while accelerating.",
     "options": [
       "4.4 km",
       "1.1 km",
@@ -19849,7 +19849,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-922-36",
-    "questionText": "The speed of light in air is 3 x 108ms-1. If the refractive index of light from air to water is 4/3, calculate the speed of light in water  (JAMB 2007)",
+    "questionText": "The speed of light in air is 3 x 108ms-1. If the refractive index of light from air to water is 4/3, calculate the speed of light in water",
     "options": [
       "2.25 x 108ms-2",
       "2.25ms-1",
@@ -19861,7 +19861,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-923-81",
-    "questionText": "The superposition of two or more waves to produce a maximum or zero effect at a point is known as:  (JAMB 2010)",
+    "questionText": "The superposition of two or more waves to produce a maximum or zero effect at a point is known as:",
     "options": [
       "reflection",
       "refraction",
@@ -19873,7 +19873,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-924-83",
-    "questionText": "Which of the following statements are correct of nuclear fission? During the process \nI. energy is released \nII. More neutrons are released than those that cause fission \nIII. Small nuclei merge into large nuclei \nIV. There is a loss on mass\n (JAMB 2010)",
+    "questionText": "Which of the following statements are correct of nuclear fission? During the process \nI. energy is released \nII. More neutrons are released than those that cause fission \nIII. Small nuclei merge into large nuclei \nIV. There is a loss on mass\n",
     "options": [
       "II and I only",
       "III",
@@ -19885,7 +19885,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-925-47",
-    "questionText": "If the force on a charge of 0.2 Coulomb in an electric field is 4N, then electric intensity of the field is  (JAMB 2009)",
+    "questionText": "If the force on a charge of 0.2 Coulomb in an electric field is 4N, then electric intensity of the field is",
     "options": [
       "0.8",
       "0.8N/C",
@@ -19897,7 +19897,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-926-116",
-    "questionText": "rectangular block measures 40cm x 25cm and made of material of density 7800kg/m3. Calculate the pressure the block exerts on the floor when it stands on the smallest of its surfaces  (JAMB 2012)",
+    "questionText": "rectangular block measures 40cm x 25cm and made of material of density 7800kg/m3. Calculate the pressure the block exerts on the floor when it stands on the smallest of its surfaces",
     "options": [
       "3.12 x 103N/m2",
       "3.90 x 103N/m2",
@@ -19909,7 +19909,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-927-11",
-    "questionText": "An object of height 3.00cm is placed 10cm from a biconvex lens of 15cm, the image of the object is  (JAMB 2006)",
+    "questionText": "An object of height 3.00cm is placed 10cm from a biconvex lens of 15cm, the image of the object is",
     "options": [
       "real and 3.00cm tall",
       "virtual and 3.00cm tall",
@@ -19921,7 +19921,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-928-19",
-    "questionText": "What is the dimension of pressure?  (JAMB 2007)",
+    "questionText": "What is the dimension of pressure?",
     "options": [
       "ML-1T-2",
       "MLT-2",
@@ -19933,7 +19933,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-929-21",
-    "questionText": "When a ball rolls on a  smooth level ground, the motion of its centre is  (JAMB 2007)",
+    "questionText": "When a ball rolls on a  smooth level ground, the motion of its centre is",
     "options": [
       "translational",
       "Random",
@@ -19945,7 +19945,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-930-958",
-    "questionText": "A copper wire was subjected to a tensile stress of 7.7 × 10⁷ Nm⁻². Calculate the strain of the wire. [Young's modulus = 1.1 × 10¹¹ Nm⁻²] (JAMB 2011)",
+    "questionText": "A copper wire was subjected to a tensile stress of 7.7 × 10⁷ Nm⁻². Calculate the strain of the wire. [Young's modulus = 1.1 × 10¹¹ Nm⁻²]",
     "options": [
       "2.0 × 10⁻⁵",
       "7.0 × 10⁻³",
@@ -19957,7 +19957,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-931-825",
-    "questionText": "In the microscope, the eyepiece lens merely acts as? (JAMB 2008)",
+    "questionText": "In the microscope, the eyepiece lens merely acts as?",
     "options": [
       "an inverter",
       "a refiner",
@@ -19969,7 +19969,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-932-195",
-    "questionText": "Semiconductor is a class of solid whose conductivity increases with an increase in (JAMB 2016)",
+    "questionText": "Semiconductor is a class of solid whose conductivity increases with an increase in",
     "options": [
       "Pressure",
       "Temperature",
@@ -19981,7 +19981,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-933-798",
-    "questionText": "A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days? (JAMB 2007)",
+    "questionText": "A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days?",
     "options": [
       "1/32",
       "1/16",
@@ -19993,7 +19993,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-934-978",
-    "questionText": "Which of the following is a property of steel? (JAMB 2011)",
+    "questionText": "Which of the following is a property of steel?",
     "options": [
       "it cannot retain its magnetism longer than iron",
       "it can be used for making temporary magnets",
@@ -20005,7 +20005,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-935-572",
-    "questionText": "288KJ is conducted across two opposite faces of a 3m cube of temperature gradient 90°Cm⁻¹ in 7200s. Calculate the thermal conductivity. (JAMB 2024)",
+    "questionText": "288KJ is conducted across two opposite faces of a 3m cube of temperature gradient 90°Cm⁻¹ in 7200s. Calculate the thermal conductivity.",
     "options": [
       "4.9 x 10⁻²Wm⁻¹k⁻¹",
       "5.0 x 10⁻²Wm⁻¹k⁻¹",
@@ -20017,7 +20017,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-936-581",
-    "questionText": "In a series resonant circuit, the current flowing in the circuit is  (JAMB 2024)",
+    "questionText": "In a series resonant circuit, the current flowing in the circuit is",
     "options": [
       "maximum",
       "minimum",
@@ -20029,7 +20029,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-937-888",
-    "questionText": "A body of mass 12 kg traveling at 4.2 m s⁻¹ collides with a second body of mass 18 kg at rest. Calculate their common velocity if the two bodies coalesce after collision? (JAMB 2009)",
+    "questionText": "A body of mass 12 kg traveling at 4.2 m s⁻¹ collides with a second body of mass 18 kg at rest. Calculate their common velocity if the two bodies coalesce after collision?",
     "options": [
       "1.5 m s⁻¹",
       "1.4 m s⁻¹",
@@ -20041,7 +20041,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-938-713",
-    "questionText": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current (JAMB 2006)",
+    "questionText": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current",
     "options": [
       "leads the voltage by 90°",
       "lags behind the voltage by 90°",
@@ -20053,7 +20053,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-939-4",
-    "questionText": "If M and R are the mass and radius of the earth respectively and G is the universal gravitational constant, the earth’s gravitational potential at an altitude H above the ground level is:  (JAMB 2006)",
+    "questionText": "If M and R are the mass and radius of the earth respectively and G is the universal gravitational constant, the earth’s gravitational potential at an altitude H above the ground level is:",
     "options": [
       "A.-GM/H",
       "–GM/(R+H)",
@@ -20065,7 +20065,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-940-1131",
-    "questionText": "The diagram above shows a magnetic field due to a (JAMB 2025)",
+    "questionText": "The diagram above shows a magnetic field due to a",
     "options": [
       "solenoid",
       "circular coil",
@@ -20077,7 +20077,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-941-1037",
-    "questionText": "Which of the following CANNOT be deflected by both electric and magnetic fields? (JAMB 2012)",
+    "questionText": "Which of the following CANNOT be deflected by both electric and magnetic fields?",
     "options": [
       "Gamma rays",
       "Alpha particles",
@@ -20089,7 +20089,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-942-756",
-    "questionText": "A piece of iron weighs 250 N in air and 200 N in a liquid of density 1000 kgm⁻³. The volume of the iron is? (JAMB 2007)",
+    "questionText": "A piece of iron weighs 250 N in air and 200 N in a liquid of density 1000 kgm⁻³. The volume of the iron is?",
     "options": [
       "5.0 × 10⁻³ m³",
       "4.5 × 10⁻³ m³",
@@ -20101,7 +20101,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-943-991",
-    "questionText": "The correct expression for the potential at a point distance r from a charge q in an electric field is? (JAMB 2011)",
+    "questionText": "The correct expression for the potential at a point distance r from a charge q in an electric field is?",
     "options": [
       "q²/(4πε₀r²)",
       "q²/(4πε₀r)",
@@ -20113,7 +20113,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-944-912",
-    "questionText": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts? (JAMB 2010)",
+    "questionText": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts?",
     "options": [
       "the level of water goes up",
       "the water in the glass outflows",
@@ -20125,7 +20125,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-945-130",
-    "questionText": "If the volume of a gas is recorded as 76cm³ at a temperature of 27°C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P? (JAMB 2015)",
+    "questionText": "If the volume of a gas is recorded as 76cm³ at a temperature of 27°C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P?",
     "options": [
       "36.2cm³",
       "25.7cm³",
@@ -20137,7 +20137,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-946-297",
-    "questionText": "Which of the following may be used to explain a mirage?\nI. Layers of air near the road surface have varying refractive indices in hot weather\nII. Road surfaces sometimes becomes invisible in hot weather\nIII. Light from the sky can be refracted upwards after coming close to the road surface. (JAMB 2018)",
+    "questionText": "Which of the following may be used to explain a mirage?\nI. Layers of air near the road surface have varying refractive indices in hot weather\nII. Road surfaces sometimes becomes invisible in hot weather\nIII. Light from the sky can be refracted upwards after coming close to the road surface.",
     "options": [
       "I and III only",
       "II and III only",
@@ -20149,7 +20149,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-947-994",
-    "questionText": "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is (JAMB 2011)",
+    "questionText": "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is",
     "options": [
       "14.4 A",
       "1.0 A",
@@ -20161,7 +20161,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-948-915",
-    "questionText": "The pressure of one mole of an ideal gas of volume 10⁻² m³ at a temperature of 27°C is [molar gas constant = 8.3 J mol⁻¹ K⁻¹] (JAMB 2010)",
+    "questionText": "The pressure of one mole of an ideal gas of volume 10⁻² m³ at a temperature of 27°C is [molar gas constant = 8.3 J mol⁻¹ K⁻¹]",
     "options": [
       "2.49 × 10⁴ Nm⁻²",
       "2.24 × 10⁴ Nm⁻²",
@@ -20173,7 +20173,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-949-168",
-    "questionText": "The optical instrument which is suitable for viewing a nearby objects is ………..? (JAMB 2015)",
+    "questionText": "The optical instrument which is suitable for viewing a nearby objects is ………..?",
     "options": [
       "Telescope",
       "sextant",
@@ -20185,7 +20185,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-950-759",
-    "questionText": "2 kg of water is heated with a heating coil which draws 3.5 A from a 200 V mains for 2 minutes. What is the increase in temperature of the water? [specific heat capacity of water = 4200 Jkg⁻¹K⁻¹] (JAMB 2007)",
+    "questionText": "2 kg of water is heated with a heating coil which draws 3.5 A from a 200 V mains for 2 minutes. What is the increase in temperature of the water? [specific heat capacity of water = 4200 Jkg⁻¹K⁻¹]",
     "options": [
       "30°",
       "25°",
@@ -20197,7 +20197,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-951-151",
-    "questionText": "A member of the crew of a SPACESHIP experiences weightlessness in a space when they (JAMB 2015)",
+    "questionText": "A member of the crew of a SPACESHIP experiences weightlessness in a space when they",
     "options": [
       "Fall freely from the earth’s gravitational field",
       "Is walking on the planet",
@@ -20209,7 +20209,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-952-592",
-    "questionText": "What is the inductive reactance of a coil of 7H when connected to a 50Hz a.c circuit? (JAMB 2024)",
+    "questionText": "What is the inductive reactance of a coil of 7H when connected to a 50Hz a.c circuit?",
     "options": [
       "2200Ω",
       "2000Ω",
@@ -20221,7 +20221,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-953-374",
-    "questionText": "Gases conduct electricity under (JAMB 2019)",
+    "questionText": "Gases conduct electricity under",
     "options": [
       "high pressure & high voltage",
       "low pressure & low voltage",
@@ -20233,7 +20233,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-954-790",
-    "questionText": "The difference observed in solids, liquids and gases can be accounted for by (JAMB 2007)",
+    "questionText": "The difference observed in solids, liquids and gases can be accounted for by",
     "options": [
       "The different molecules in each of them",
       "The spaces and forces acting between the molecules",
@@ -20245,7 +20245,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-955-864",
-    "questionText": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil the water is?\n[Specific latent heat of vaporization of water = 2.3 × 10⁶ J kg⁻¹] (JAMB 2009)",
+    "questionText": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil the water is?\n[Specific latent heat of vaporization of water = 2.3 × 10⁶ J kg⁻¹]",
     "options": [
       "1.15 × 10⁴ s",
       "1.15 × 10³ s",
@@ -20257,7 +20257,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-956-919",
-    "questionText": "During a thunderstorm, the sound is heard over a long time. this phenomenon is referred to as? (JAMB 2010)",
+    "questionText": "During a thunderstorm, the sound is heard over a long time. this phenomenon is referred to as?",
     "options": [
       "diffraction of sound",
       "refraction of sound",
@@ -20269,7 +20269,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-957-302",
-    "questionText": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 15.00cm³ at 0°C, what is the volume at 100°C? (JAMB 2018)",
+    "questionText": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 15.00cm³ at 0°C, what is the volume at 100°C?",
     "options": [
       "16.03cm³",
       "15.09cm³",
@@ -20281,7 +20281,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-958-593",
-    "questionText": "If a charge ion goes through a combined electric field E and magnetic field B, the resultant emergent velocity of the ion is  (JAMB 2024)",
+    "questionText": "If a charge ion goes through a combined electric field E and magnetic field B, the resultant emergent velocity of the ion is",
     "options": [
       "E/B",
       "EB",
@@ -20293,7 +20293,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-959-588",
-    "questionText": "A cell of internal resistance of 2Ω supplies current through a resistor, X. If the efficiency of the cell is 75%, find the value of X. (JAMB 2024)",
+    "questionText": "A cell of internal resistance of 2Ω supplies current through a resistor, X. If the efficiency of the cell is 75%, find the value of X.",
     "options": [
       "2Ω",
       "4Ω",
@@ -20305,7 +20305,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-960-789",
-    "questionText": "Which of the following gas laws is equivalent to the work done? (JAMB 2007)",
+    "questionText": "Which of the following gas laws is equivalent to the work done?",
     "options": [
       "Boyle' law",
       "Charles law",
@@ -20317,7 +20317,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-961-966",
-    "questionText": "The ground is always cold at night because the (JAMB 2011)",
+    "questionText": "The ground is always cold at night because the",
     "options": [
       "atmosphere absorbs the sun's energy at night",
       "earth radiates heat to the atmosphere at night",
@@ -20329,7 +20329,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-962-250",
-    "questionText": "The instrument used to measure the pressure of a gas is (JAMB 2017)",
+    "questionText": "The instrument used to measure the pressure of a gas is",
     "options": [
       "barometer",
       "thermometer",
@@ -20341,7 +20341,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-963-584",
-    "questionText": "The process of adding impurities to a semiconductor material to increase its conductivity is  (JAMB 2024)",
+    "questionText": "The process of adding impurities to a semiconductor material to increase its conductivity is",
     "options": [
       "Rectification",
       "Emission",
@@ -20353,7 +20353,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-964-633",
-    "questionText": "A ray of light makes an angle of 35o with a plane mirror. What is the angle of reflection? (JAMB 2004)",
+    "questionText": "A ray of light makes an angle of 35o with a plane mirror. What is the angle of reflection?",
     "options": [
       "35°",
       "55°",
@@ -20365,7 +20365,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-965-570",
-    "questionText": "The moon's acceleration due to gravity is 1/6 of the earth's value. The weight of a bowling ball on the moon would be (JAMB 2024)",
+    "questionText": "The moon's acceleration due to gravity is 1/6 of the earth's value. The weight of a bowling ball on the moon would be",
     "options": [
       "6 times its weight on the earth",
       "1/6 of its weight on the earth",
@@ -20377,7 +20377,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-966-1134",
-    "questionText": "A 500W electric oven plugged into a 220 V source will consume an electric current of (JAMB 2025)",
+    "questionText": "A 500W electric oven plugged into a 220 V source will consume an electric current of",
     "options": [
       "4.88A",
       "2.27A",
@@ -20389,7 +20389,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-967-898",
-    "questionText": "The process of energy production in the sun is? (JAMB 2009)",
+    "questionText": "The process of energy production in the sun is?",
     "options": [
       "Nuclear fission",
       "Nuclear fusion",
@@ -20401,7 +20401,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-968-1142",
-    "questionText": "5400 kJ of heat energy was lost when some amount of steam condensed to water for drinking purposes at 15 °C. What is the quantity of water collected?\n[L = 2.26 × 10⁶ J kg⁻¹, c_w = 4200 J kg⁻¹ K⁻¹] (JAMB 2025)",
+    "questionText": "5400 kJ of heat energy was lost when some amount of steam condensed to water for drinking purposes at 15 °C. What is the quantity of water collected?\n[L = 2.26 × 10⁶ J kg⁻¹, c_w = 4200 J kg⁻¹ K⁻¹]",
     "options": [
       "0.95 kg",
       "8.24 kg",
@@ -20413,7 +20413,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-969-818",
-    "questionText": "Given the progressive wave equation y = 5 sin(2000πt - 0.4x), calculate wavelength (JAMB 2008)",
+    "questionText": "Given the progressive wave equation y = 5 sin(2000πt - 0.4x), calculate wavelength",
     "options": [
       "12.4 m",
       "15.7 m",
@@ -20425,7 +20425,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-970-256",
-    "questionText": "How can energy loss be minimized through Eddy-current? (JAMB 2017)",
+    "questionText": "How can energy loss be minimized through Eddy-current?",
     "options": [
       "By using high resistance wire",
       "By using insulated soft iron wires",
@@ -20437,7 +20437,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-971-940",
-    "questionText": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow. (JAMB 2010)",
+    "questionText": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow.",
     "options": [
       "5 A",
       "4 A",
@@ -20449,7 +20449,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-972-1143",
-    "questionText": "Charge carriers in doped semiconductors are (JAMB 2025)",
+    "questionText": "Charge carriers in doped semiconductors are",
     "options": [
       "electrons and protons",
       "electrons and neutrons",
@@ -20461,7 +20461,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-973-710",
-    "questionText": "The main purpose of the transformer in an a.c radio set is to? (JAMB 2006)",
+    "questionText": "The main purpose of the transformer in an a.c radio set is to?",
     "options": [
       "increase power to the radio",
       "step up the voltage",
@@ -20473,7 +20473,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-974-574",
-    "questionText": "Which of the following is not a part of model rocket? (JAMB 2024)",
+    "questionText": "Which of the following is not a part of model rocket?",
     "options": [
       "The body tube",
       "The nose cones",
@@ -20485,7 +20485,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-975-1133",
-    "questionText": "A force of 18 N pulls a 40 kg mass on a horizontal floor at 0.3 m s⁻². Find the coefficient of friction. (JAMB 2025)",
+    "questionText": "A force of 18 N pulls a 40 kg mass on a horizontal floor at 0.3 m s⁻². Find the coefficient of friction.",
     "options": [
       "0.003",
       "0.015",
@@ -20497,7 +20497,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-976-558",
-    "questionText": "When a charged ebonite rod is brought near a charged glass rod, there will be  (JAMB 2024)",
+    "questionText": "When a charged ebonite rod is brought near a charged glass rod, there will be",
     "options": [
       "attraction",
       "repulsion",
@@ -20509,7 +20509,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-977-1008",
-    "questionText": "A block and tackle is used to raise a load of 250N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J? (JAMB 2012)",
+    "questionText": "A block and tackle is used to raise a load of 250N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J?",
     "options": [
       "62.50%",
       "73.30%",
@@ -20521,7 +20521,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-978-586",
-    "questionText": "The average translational kinetic energy of gas molecules depends on  (JAMB 2024)",
+    "questionText": "The average translational kinetic energy of gas molecules depends on",
     "options": [
       "Temperature only",
       "Number of moles and temperature",
@@ -20533,7 +20533,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-979-911",
-    "questionText": "Heat is radiated by hot objects in the form? (JAMB 2010)",
+    "questionText": "Heat is radiated by hot objects in the form?",
     "options": [
       "x-rays",
       "light energy",
@@ -20545,7 +20545,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-980-1141",
-    "questionText": "Which of the following has the least thermal conductivity? (JAMB 2025)",
+    "questionText": "Which of the following has the least thermal conductivity?",
     "options": [
       "air",
       "ash",
@@ -20557,7 +20557,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-981-701",
-    "questionText": "At low humidity in an environment, the human skin is usually? (JAMB 2006)",
+    "questionText": "At low humidity in an environment, the human skin is usually?",
     "options": [
       "damp and rough",
       "damp and smooth",
@@ -20569,7 +20569,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-982-952",
-    "questionText": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object? (JAMB 2011)",
+    "questionText": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object?",
     "options": [
       "90 m",
       "30 m",
@@ -20581,7 +20581,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-983-946",
-    "questionText": "The process whereby a substance changes from a solid to liquid when heat is applied, is called? (JAMB 2010)",
+    "questionText": "The process whereby a substance changes from a solid to liquid when heat is applied, is called?",
     "options": [
       "Evaporation",
       "Vaporization",
@@ -20593,7 +20593,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-984-188",
-    "questionText": "The instrument used to view stars is the (JAMB 2016)",
+    "questionText": "The instrument used to view stars is the",
     "options": [
       "Prism binoculars",
       "Telescope",
@@ -20605,7 +20605,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-985-932",
-    "questionText": "Transistors are used for the? (JAMB 2010)",
+    "questionText": "Transistors are used for the?",
     "options": [
       "rectification of signals",
       "conversion of a.c to d.c",
@@ -20617,7 +20617,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-986-1155",
-    "questionText": "If an object sinks in water, it means that (JAMB 2025)",
+    "questionText": "If an object sinks in water, it means that",
     "options": [
       "Its density is greater than that of water",
       ". upthrust equals its weight",
@@ -20629,7 +20629,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-987-929",
-    "questionText": "In alternating current circuit at resonance, the angle of lead or lag is? (JAMB 2010)",
+    "questionText": "In alternating current circuit at resonance, the angle of lead or lag is?",
     "options": [
       "π°",
       "(π)/2°",
@@ -20641,7 +20641,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-988-203",
-    "questionText": "Which of the following electromagnetic waves has the shortest wavelength? (JAMB 2016)",
+    "questionText": "Which of the following electromagnetic waves has the shortest wavelength?",
     "options": [
       "Visible Light",
       "Ultraviolet rays",
@@ -20653,7 +20653,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-989-900",
-    "questionText": "Two cars moving in the same direction have speeds of 100 kmh⁻¹ and 130 kmh⁻¹. What is the velocity of the faster car as measured by an observer in the slower car? (JAMB 2010)",
+    "questionText": "Two cars moving in the same direction have speeds of 100 kmh⁻¹ and 130 kmh⁻¹. What is the velocity of the faster car as measured by an observer in the slower car?",
     "options": [
       "30 kmh⁻¹",
       "130 kmh⁻¹",
@@ -20665,7 +20665,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-990-327",
-    "questionText": "An object is placed 20cm from a concave mirror of0 focal length 10cm. The linear magnification of the image produced is? (JAMB 2018)",
+    "questionText": "An object is placed 20cm from a concave mirror of0 focal length 10cm. The linear magnification of the image produced is?",
     "options": [
       "0",
       "2-Jan",
@@ -20677,7 +20677,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-991-1124",
-    "questionText": "The graphical representation of the pressure law is always a straight line passing through the origin, only if the temperature scale is (JAMB 2025)",
+    "questionText": "The graphical representation of the pressure law is always a straight line passing through the origin, only if the temperature scale is",
     "options": [
       "Rankine",
       "Celsius",
@@ -20689,7 +20689,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-992-166",
-    "questionText": "A structural engineer stood on a top of a building releasing a light and heavy object to the ground which of the following statement is true?(Neglect Air Resistance) (JAMB 2015)",
+    "questionText": "A structural engineer stood on a top of a building releasing a light and heavy object to the ground which of the following statement is true?(Neglect Air Resistance)",
     "options": [
       "Both the light and heavy subject reach the ground at the same time",
       "The light object get to the ground first before the heavy object",
@@ -20701,7 +20701,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-993-578",
-    "questionText": "A mass of gas at 40mmHg is heated from 298k to 348k at constant volume. Cal the pressure exerted by the gas. (JAMB 2024)",
+    "questionText": "A mass of gas at 40mmHg is heated from 298k to 348k at constant volume. Cal the pressure exerted by the gas.",
     "options": [
       "50.21mmHg",
       "46.71mmHg",
@@ -20713,7 +20713,7 @@ export const physicsQuestions = [
   },
   {
     "id": "physics-1788729141058-994-835",
-    "questionText": "I. for current amplification.\n\nII. for voltage stabilization.\n\nIII. for power amplification.\n\nIV. as a switch.\n\nwhich of the above are the uses of transistor? (JAMB 2008)",
+    "questionText": "I. for current amplification.\n\nII. for voltage stabilization.\n\nIII. for power amplification.\n\nIV. as a switch.\n\nwhich of the above are the uses of transistor?",
     "options": [
       "I, II, III and IV",
       "I, III and IV only",

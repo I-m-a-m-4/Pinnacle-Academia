@@ -1,7 +1,7 @@
 export const chemistryQuestions = [
   {
     "id": "chemistry-1788673840153-0-174",
-    "questionText": "To obtain pure carbon(II) oxide from its mixture with carbon (IV)oxide, the mixture should be (JAMB 2005)",
+    "questionText": "To obtain pure carbon(II) oxide from its mixture with carbon (IV)oxide, the mixture should be",
     "options": [
       "Bubbled through concentrated Tetraoxosulphate(VI) acid",
       "Bubbled through sodium hydroxide",
@@ -13,7 +13,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-1-725",
-    "questionText": "The empirical formula of an organic liquid hydrocarbon is XY. If the relative molar masses of X and Y are 72 and 6 respectively, its vapour density is likely to be (JAMB 2024)",
+    "questionText": "The empirical formula of an organic liquid hydrocarbon is XY. If the relative molar masses of X and Y are 72 and 6 respectively, its vapour density is likely to be",
     "options": [
       "33",
       "66",
@@ -25,7 +25,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-2-72",
-    "questionText": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate(VI) is (JAMB 2002)",
+    "questionText": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate(VI) is",
     "options": [
       "Ethanol",
       "Methanol",
@@ -37,7 +37,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-3-186",
-    "questionText": "Treatment of cancer   II. Detection of leakages in water mains   III. Detection of the ages of ancient tools    Which combination of the above refers to the uses of radioactive isotopes? (JAMB 2005)",
+    "questionText": "Treatment of cancer   II. Detection of leakages in water mains   III. Detection of the ages of ancient tools    Which combination of the above refers to the uses of radioactive isotopes?",
     "options": [
       "I, II and III",
       "I, II, III and IV",
@@ -49,7 +49,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-4-145",
-    "questionText": "In the electrolysis of brine, the anode is (JAMB 2004)",
+    "questionText": "In the electrolysis of brine, the anode is",
     "options": [
       "Platinum",
       "Copper",
@@ -61,7 +61,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-5-748",
-    "questionText": "How much of 5g of a radioactive element whose half life is 50 days remains after 200 days? (JAMB 2024)",
+    "questionText": "How much of 5g of a radioactive element whose half life is 50 days remains after 200 days?",
     "options": [
       "2.50 g",
       "1.25 g",
@@ -73,7 +73,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-6-766",
-    "questionText": "Nitrogen, a component of air is used for (JAMB 2025)",
+    "questionText": "Nitrogen, a component of air is used for",
     "options": [
       "production of cooling agent",
       "production of margarine",
@@ -85,7 +85,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-7-768",
-    "questionText": "The sublimation of solid to gas involves (JAMB 2025)",
+    "questionText": "The sublimation of solid to gas involves",
     "options": [
       "energy absorption",
       "vapourization",
@@ -97,7 +97,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-8-365",
-    "questionText": "The colour of litmus in an alkaline medium is (JAMB 2016)",
+    "questionText": "The colour of litmus in an alkaline medium is",
     "options": [
       "Red",
       "Yellow",
@@ -109,7 +109,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-9-426",
-    "questionText": "The shape of ammonia molecules is (JAMB 2017)",
+    "questionText": "The shape of ammonia molecules is",
     "options": [
       "trigonal pyramidal",
       "octahedral",
@@ -121,7 +121,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-10-772",
-    "questionText": "Water drops are spherical in shape because of (JAMB 2025)",
+    "questionText": "Water drops are spherical in shape because of",
     "options": [
       "polarity",
       "viscosity",
@@ -133,7 +133,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-11-289",
-    "questionText": "Which of the following is used as a rocket fuel (JAMB 2010)",
+    "questionText": "Which of the following is used as a rocket fuel",
     "options": [
       "CH3COOH",
       "H2SO4",
@@ -145,7 +145,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-12-733",
-    "questionText": "The quantity of electricity required to deposit 180g of Ag from a molten silver trioxonitrate(V) is [Ag = 108] (JAMB 2024)",
+    "questionText": "The quantity of electricity required to deposit 180g of Ag from a molten silver trioxonitrate(V) is [Ag = 108]",
     "options": [
       "1.08F",
       "3.30F",
@@ -157,7 +157,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-13-189",
-    "questionText": "The shape of the hydrocarbon compound CH4 is (JAMB 2005)",
+    "questionText": "The shape of the hydrocarbon compound CH4 is",
     "options": [
       "Square planar",
       "Tetrahedral",
@@ -169,7 +169,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-14-115",
-    "questionText": "The leachate of a certain plant ash is used in local soap making because it contains (JAMB 2003)",
+    "questionText": "The leachate of a certain plant ash is used in local soap making because it contains",
     "options": [
       "Sodium chloride and potassium hydroxide",
       "Sodium hydroxide",
@@ -181,7 +181,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-15-594",
-    "questionText": "To obtain pure carbon(ii)oxide from its mixture with carbon(iv)oxide, the mixture should be? (JAMB 2020)",
+    "questionText": "To obtain pure carbon(ii)oxide from its mixture with carbon(iv)oxide, the mixture should be?",
     "options": [
       "Passed over heated copper(ii)oxide",
       "Bubbled through water",
@@ -193,7 +193,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-16-459",
-    "questionText": "What is the pH of 0.001 mol dm⁻³ solution of sodium hydroxide? (JAMB 2018)",
+    "questionText": "What is the pH of 0.001 mol dm⁻³ solution of sodium hydroxide?",
     "options": [
       "1400%",
       "1300%",
@@ -205,7 +205,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-17-652",
-    "questionText": "A coloured gas that is known to be poisonous and can readily damage the mucous lining of the lungs is? (JAMB 2022)",
+    "questionText": "A coloured gas that is known to be poisonous and can readily damage the mucous lining of the lungs is?",
     "options": [
       "hydrogen sulphide",
       "carbon(ii)oxide",
@@ -217,7 +217,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-18-169",
-    "questionText": "The gas that can be dried using concentrated Tetraoxosulphate (VI) acid is (JAMB 2005)",
+    "questionText": "The gas that can be dried using concentrated Tetraoxosulphate (VI) acid is",
     "options": [
       "Ammonia",
       "Hydrogen bromide",
@@ -229,7 +229,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-19-567",
-    "questionText": "If the quantity of oxygen occupying 2.76L container at a pressure of 0.825 atm and 300K is reduced by one-half, what is the pressure exerted by the remaining gas? (JAMB 2020)",
+    "questionText": "If the quantity of oxygen occupying 2.76L container at a pressure of 0.825 atm and 300K is reduced by one-half, what is the pressure exerted by the remaining gas?",
     "options": [
       "1.650atm",
       "0.825atm",
@@ -241,7 +241,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-20-8",
-    "questionText": "An element X with relative atomic mass 16.2 contains two isotopes      X  with relative abundance of 90% and      X with relative abundance of 10%. The value of m is (JAMB 2001)",
+    "questionText": "An element X with relative atomic mass 16.2 contains two isotopes      X  with relative abundance of 90% and      X with relative abundance of 10%. The value of m is",
     "options": [
       "16",
       "18",
@@ -253,7 +253,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-21-319",
-    "questionText": "Flow of current in electrolytes is due to the movement of (JAMB 2015)",
+    "questionText": "Flow of current in electrolytes is due to the movement of",
     "options": [
       "electrons",
       " Holes and electron",
@@ -265,7 +265,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-22-371",
-    "questionText": "The compound produced when sodium peroxide is heated with excess sodium is (JAMB 2016)",
+    "questionText": "The compound produced when sodium peroxide is heated with excess sodium is",
     "options": [
       "Na₂CO₃",
       "Na₂O",
@@ -277,7 +277,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-23-577",
-    "questionText": "Deliquescent substances are also? (JAMB 2020)",
+    "questionText": "Deliquescent substances are also?",
     "options": [
       "efflorescent",
       "anhydrous",
@@ -289,7 +289,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-24-45",
-    "questionText": "Which of the following gases contains the least number of atoms at s.t.p (JAMB 2002)",
+    "questionText": "Which of the following gases contains the least number of atoms at s.t.p",
     "options": [
       "4 moles of chlorine",
       "3 moles of ozone",
@@ -301,7 +301,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-25-48",
-    "questionText": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from (JAMB 2002)",
+    "questionText": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from",
     "options": [
       "699C – 700C",
       "820C – 840C",
@@ -313,7 +313,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-26-3",
-    "questionText": "A particle that contains 9 protons, 10 neutrons and 10electrons is a (JAMB 2001)",
+    "questionText": "A particle that contains 9 protons, 10 neutrons and 10electrons is a",
     "options": [
       "Neghative ion",
       "Positive ion",
@@ -325,7 +325,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-27-42",
-    "questionText": "Which of the following metals burns brick with a brick-red (JAMB 2001)",
+    "questionText": "Which of the following metals burns brick with a brick-red",
     "options": [
       "Pb",
       "Ca",
@@ -337,7 +337,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840153-28-763",
-    "questionText": "The acid used in making baking soda and soft drink is (JAMB 2025)",
+    "questionText": "The acid used in making baking soda and soft drink is",
     "options": [
       "tartaric acid",
       "fatty acid",
@@ -349,7 +349,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-29-476",
-    "questionText": "In the preparation of oxygen by heating KClO₃ in the presence of MnO₂, only moderate heat is needed because the catalyst acts by (JAMB 2018)",
+    "questionText": "In the preparation of oxygen by heating KClO₃ in the presence of MnO₂, only moderate heat is needed because the catalyst acts by",
     "options": [
       "lowering the pressure of the reaction",
       "increasing the surface area of the reaction",
@@ -361,7 +361,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-30-97",
-    "questionText": "Which of the following will change when a catalyst is added to a chemical reaction (JAMB 2003)",
+    "questionText": "Which of the following will change when a catalyst is added to a chemical reaction",
     "options": [
       "The activation energy",
       "The potential energy of the reactants",
@@ -373,7 +373,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-31-102",
-    "questionText": "When sugar is dissolved in tea, the reaction is always accompanied by (JAMB 2003)",
+    "questionText": "When sugar is dissolved in tea, the reaction is always accompanied by",
     "options": [
       "Positive entropy change",
       "Negative entropy change",
@@ -385,7 +385,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-32-380",
-    "questionText": "The metal whose ore can be concentrated by passing it through a magnetic separator is (JAMB 2016)",
+    "questionText": "The metal whose ore can be concentrated by passing it through a magnetic separator is",
     "options": [
       "Zn",
       "Sn",
@@ -397,7 +397,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-33-208",
-    "questionText": "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes. The ion that will be discharged at the cathode is (JAMB 2005)",
+    "questionText": "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes. The ion that will be discharged at the cathode is",
     "options": [
       "OH-",
       "Cl-",
@@ -409,7 +409,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-34-5",
-    "questionText": "An oxide X02 has a vapour density of 32. What is the atomic mass of X [O = 16] (JAMB 2001)",
+    "questionText": "An oxide X02 has a vapour density of 32. What is the atomic mass of X [O = 16]",
     "options": [
       "32",
       "20",
@@ -421,7 +421,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-35-83",
-    "questionText": " I.  H = 1s1\nII. O = 1s22s22p4\nIII. N = 1s22s22p3\nIV. Zn = 1s22s22p63s23p64s23d10\nFrom the above, which of the following pairs is likely to be paramagnetic?\n (JAMB 2003)",
+    "questionText": " I.  H = 1s1\nII. O = 1s22s22p4\nIII. N = 1s22s22p3\nIV. Zn = 1s22s22p63s23p64s23d10\nFrom the above, which of the following pairs is likely to be paramagnetic?\n",
     "options": [
       "I and II",
       "I and  III",
@@ -433,7 +433,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-36-496",
-    "questionText": "In the laboratory preparation of oxygen, the gas cannot be collected by downward displacement of air because (JAMB 2018)",
+    "questionText": "In the laboratory preparation of oxygen, the gas cannot be collected by downward displacement of air because",
     "options": [
       "the density of oxygen is greater than that of air",
       "the density of air is nearly the same as that of oxygen",
@@ -445,7 +445,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-37-742",
-    "questionText": "In the graph above, y represents  (JAMB 2024)",
+    "questionText": "In the graph above, y represents",
     "options": [
       "endothermic reaction",
       "activation energy",
@@ -457,7 +457,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-38-691",
-    "questionText": "Stainless steel is an alloy made up of? (JAMB 2023)",
+    "questionText": "Stainless steel is an alloy made up of?",
     "options": [
       "Iron and zinc",
       "Copper and tin",
@@ -469,7 +469,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-39-342",
-    "questionText": "The elements that belong to the third period of periodic table are (JAMB 2015)",
+    "questionText": "The elements that belong to the third period of periodic table are",
     "options": [
       "Li, Be, Al and D",
       "Na, P, O and Cl",
@@ -481,7 +481,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-40-418",
-    "questionText": "An isomer of C₅H₁₂ is (JAMB 2017)",
+    "questionText": "An isomer of C₅H₁₂ is",
     "options": [
       "2-ethyl butane",
       "butane",
@@ -493,7 +493,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-41-158",
-    "questionText": "Transition metals posses variable oxidation states because they have (JAMB 2004)",
+    "questionText": "Transition metals posses variable oxidation states because they have",
     "options": [
       "Electrons in the d orbitals",
       "Electrons in the s orbitals",
@@ -505,7 +505,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-42-68",
-    "questionText": "A rock sample was added to cold dilute HNMO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The rock sample contains (JAMB 2002)",
+    "questionText": "A rock sample was added to cold dilute HNMO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The rock sample contains",
     "options": [
       "NO3-",
       "Cl-",
@@ -517,7 +517,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-43-745",
-    "questionText": "CuO(s) + H₂(g) ⇌ Cu(s) + H₂O(g). In the equation above, the effect of increased pressure on the equilibrium position is that (JAMB 2024)",
+    "questionText": "CuO(s) + H₂(g) ⇌ Cu(s) + H₂O(g). In the equation above, the effect of increased pressure on the equilibrium position is that",
     "options": [
       "the equilibrium is shifted to the left",
       "the equilibrium is shifted to the right",
@@ -529,7 +529,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-44-782",
-    "questionText": "The major product when 2-methylpropene reacts with HCl is (JAMB 2025)",
+    "questionText": "The major product when 2-methylpropene reacts with HCl is",
     "options": [
       "2-chloro-2-methylpropane",
       "1-chloro-2-methylpropane",
@@ -541,7 +541,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-45-374",
-    "questionText": "Cast iron is used in making (JAMB 2016)",
+    "questionText": "Cast iron is used in making",
     "options": [
       "Chains and agricultural implements",
       "Iron sheets and retort stand",
@@ -553,7 +553,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-46-560",
-    "questionText": "The best treatment for a student who accidentally poured conc tetraoxosulphate(vi) on his skin in the laboratory is to wash his skin with? (JAMB 2020)",
+    "questionText": "The best treatment for a student who accidentally poured conc tetraoxosulphate(vi) on his skin in the laboratory is to wash his skin with?",
     "options": [
       "cool running water",
       "sodium hydroxide solution",
@@ -565,7 +565,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-47-512",
-    "questionText": "A synthetic rubber is NOT obtained from the polymerization of? (JAMB 2019)",
+    "questionText": "A synthetic rubber is NOT obtained from the polymerization of?",
     "options": [
       "neoprene",
       "isoprene",
@@ -577,7 +577,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-48-450",
-    "questionText": "The furring of kettles is caused by the presence in water of (JAMB 2017)",
+    "questionText": "The furring of kettles is caused by the presence in water of",
     "options": [
       "calcium hydrogentrioxocarbonate (IV)",
       "calcium trioxocarbonate (IV)",
@@ -589,7 +589,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-49-599",
-    "questionText": "What is the chemical name for the compound CuCO₃? (JAMB 2021)",
+    "questionText": "What is the chemical name for the compound CuCO₃?",
     "options": [
       "Copper (iii) carbonate",
       "Copper (ii) carbonate",
@@ -601,7 +601,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-50-720",
-    "questionText": "When Calcium ethynide is decomposed by water, the gas produced is (JAMB 2024)",
+    "questionText": "When Calcium ethynide is decomposed by water, the gas produced is",
     "options": [
       "CO",
       "H₂",
@@ -613,7 +613,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-51-306",
-    "questionText": "Which of these require crystallization most? (JAMB 2015)",
+    "questionText": "Which of these require crystallization most?",
     "options": [
       "Drug making",
       "Cement making",
@@ -625,7 +625,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-52-793",
-    "questionText": "CH₃C≡CCH(CH₃)₂. The IUPAC nomenclature of the compound above is (JAMB 2025)",
+    "questionText": "CH₃C≡CCH(CH₃)₂. The IUPAC nomenclature of the compound above is",
     "options": [
       "3-ethyl but-2-yne",
       "4-methylpent-2-yne",
@@ -637,7 +637,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-53-582",
-    "questionText": "Which of the following types of bonding does not involve the formation of new substances? (JAMB 2020)",
+    "questionText": "Which of the following types of bonding does not involve the formation of new substances?",
     "options": [
       "Metallic",
       "Covalent",
@@ -649,7 +649,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-54-621",
-    "questionText": "The nucleus of an atom consists of? (JAMB 2021)",
+    "questionText": "The nucleus of an atom consists of?",
     "options": [
       "Electrons and neutrons",
       "Electrons and protons",
@@ -661,7 +661,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-55-399",
-    "questionText": "In the diagram above, X is the (JAMB 2016)",
+    "questionText": "In the diagram above, X is the",
     "options": [
       "Enthalpy",
       "Activated complex",
@@ -673,7 +673,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-56-433",
-    "questionText": "Cu₂S(g) + O₂(g) → 2Cu + SO₂(g). What is the change in the oxidation number of copper in the reaction? (JAMB 2017)",
+    "questionText": "Cu₂S(g) + O₂(g) → 2Cu + SO₂(g). What is the change in the oxidation number of copper in the reaction?",
     "options": [
       "0 to +2",
       "0 to +1",
@@ -685,7 +685,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-57-261",
-    "questionText": "Which of the following is an example of a mixture (JAMB 2010)",
+    "questionText": "Which of the following is an example of a mixture",
     "options": [
       "Blood",
       "Sand",
@@ -697,7 +697,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-58-537",
-    "questionText": "The molecular shape and bond angle of water are respectively (JAMB 2019)",
+    "questionText": "The molecular shape and bond angle of water are respectively",
     "options": [
       "linear, 180°",
       "bent, 109.5°",
@@ -709,7 +709,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-59-327",
-    "questionText": "A fixed mass of gas occupies 92 cm³ at 3°C. What will be its volume at 18°C if the pressure remains constant? (JAMB 2015)",
+    "questionText": "A fixed mass of gas occupies 92 cm³ at 3°C. What will be its volume at 18°C if the pressure remains constant?",
     "options": [
       "15.3 cm³",
       "87.3 cm³",
@@ -721,7 +721,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-60-398",
-    "questionText": "The compound H-C(H₂)-C(H)(OH)-C(H₂)-C(HCl)(Cl) shown above — the functional groups present in the compound are (JAMB 2016)",
+    "questionText": "The compound H-C(H₂)-C(H)(OH)-C(H₂)-C(HCl)(Cl) shown above — the functional groups present in the compound are",
     "options": [
       "Alkene and halo-group",
       "Hydroxyl and chloro-group",
@@ -733,7 +733,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-61-634",
-    "questionText": "The process by which salt and water react in a limited way to form an acid or a base is? (JAMB 2021)",
+    "questionText": "The process by which salt and water react in a limited way to form an acid or a base is?",
     "options": [
       "Neutral process",
       "Basic acidic process",
@@ -745,7 +745,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-62-767",
-    "questionText": "2Na + Cl₂ → 2NaCl. In the reaction above, the species that undergoes reduction is (JAMB 2025)",
+    "questionText": "2Na + Cl₂ → 2NaCl. In the reaction above, the species that undergoes reduction is",
     "options": [
       "Na",
       "NaCl",
@@ -757,7 +757,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-63-456",
-    "questionText": "According to Charles' law, the volume of a gas becomes zero at (JAMB 2018)",
+    "questionText": "According to Charles' law, the volume of a gas becomes zero at",
     "options": [
       "0°C",
       "-100°C",
@@ -769,7 +769,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-64-625",
-    "questionText": "A chemical process in which there is a gain of electrons is known as? (JAMB 2021)",
+    "questionText": "A chemical process in which there is a gain of electrons is known as?",
     "options": [
       "Sublimation",
       "Reduction",
@@ -781,7 +781,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-65-363",
-    "questionText": "The industrial preparation of hydrogen gas from water gas is referred to as (JAMB 2016)",
+    "questionText": "The industrial preparation of hydrogen gas from water gas is referred to as",
     "options": [
       "Bosch process",
       "Contact process",
@@ -793,7 +793,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-66-64",
-    "questionText": "A gas X diffuses twice as fast as gas Y under the same conditions. If the relative molecular mass of X is 28. Calculate the relative molecular mass of Y (JAMB 2002)",
+    "questionText": "A gas X diffuses twice as fast as gas Y under the same conditions. If the relative molecular mass of X is 28. Calculate the relative molecular mass of Y",
     "options": [
       "120",
       "14",
@@ -805,7 +805,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-67-297",
-    "questionText": "Benzene reacts with hydrogen in the presence of nickel catalyst at 1800C to give (JAMB 2010)",
+    "questionText": "Benzene reacts with hydrogen in the presence of nickel catalyst at 1800C to give",
     "options": [
       "Toluene",
       "Cyclopentane",
@@ -817,7 +817,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-68-387",
-    "questionText": "The arrangement of particles in crystal lattices can be studied using (JAMB 2016)",
+    "questionText": "The arrangement of particles in crystal lattices can be studied using",
     "options": [
       "X-rays",
       "β-rays",
@@ -829,7 +829,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-69-775",
-    "questionText": "Which of the following pairs of elements will exhibit diagonal relationship? (JAMB 2025)",
+    "questionText": "Which of the following pairs of elements will exhibit diagonal relationship?",
     "options": [
       "Be and Si",
       "Na and Be",
@@ -841,7 +841,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-70-400",
-    "questionText": "The diagram represents (JAMB 2016)",
+    "questionText": "The diagram represents",
     "options": [
       "A spontaneous reaction",
       "An exothermic reaction",
@@ -853,7 +853,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-71-40",
-    "questionText": "A burning candle produces water and (JAMB 2001)",
+    "questionText": "A burning candle produces water and",
     "options": [
       "Carbon(II)oxide",
       "Carbon(IV) oxide",
@@ -865,7 +865,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-72-384",
-    "questionText": "Ethanol is soluble in water due to the presence of a (JAMB 2016)",
+    "questionText": "Ethanol is soluble in water due to the presence of a",
     "options": [
       "Carbonyl group",
       "Hydroxyl group",
@@ -877,7 +877,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-73-347",
-    "questionText": "The furring of kettles is caused by the presence of what compound in water? (JAMB 2015)",
+    "questionText": "The furring of kettles is caused by the presence of what compound in water?",
     "options": [
       "calcium tetraoxosulphate (IV)",
       "calcium hydrogentrioxocarbonate (IV)",
@@ -889,7 +889,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-74-667",
-    "questionText": "Wrought iron is obtained by heating cast iron in a furnace with? (JAMB 2022)",
+    "questionText": "Wrought iron is obtained by heating cast iron in a furnace with?",
     "options": [
       "magnetite",
       "haematite",
@@ -901,7 +901,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-75-527",
-    "questionText": "Consider the reaction A(s) + 2B(g) → 2C(aq) + D(g). What will be the effect of a decrease in pressure on the reaction? (JAMB 2019)",
+    "questionText": "Consider the reaction A(s) + 2B(g) → 2C(aq) + D(g). What will be the effect of a decrease in pressure on the reaction?",
     "options": [
       "the equilibrium will shift",
       "rate of forward reaction will increase",
@@ -913,7 +913,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-76-784",
-    "questionText": "Carbohydrates can generally be represented by the general formula Cₓ(H₂O)ᵧ. For fructose the value of x is (JAMB 2025)",
+    "questionText": "Carbohydrates can generally be represented by the general formula Cₓ(H₂O)ᵧ. For fructose the value of x is",
     "options": [
       "3",
       "12",
@@ -925,7 +925,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-77-139",
-    "questionText": "Calcium Tetraoxosulphate(VI) dissolves in water only sparingly to form a (JAMB 2004)",
+    "questionText": "Calcium Tetraoxosulphate(VI) dissolves in water only sparingly to form a",
     "options": [
       "Solution",
       "Suspension",
@@ -937,7 +937,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-78-472",
-    "questionText": "If 1 litre of 2.2 M sulphuric acid is poured into a bucket containing 10 litres of water and the resulting solution mixed thoroughly, the resulting sulphuric acid concentration will be (JAMB 2018)",
+    "questionText": "If 1 litre of 2.2 M sulphuric acid is poured into a bucket containing 10 litres of water and the resulting solution mixed thoroughly, the resulting sulphuric acid concentration will be",
     "options": [
       "2.2 M",
       "1.1 M",
@@ -949,7 +949,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-79-31",
-    "questionText": "The general formula for the alkanals is (JAMB 2001)",
+    "questionText": "The general formula for the alkanals is",
     "options": [
       "ROH",
       "R2CO",
@@ -961,7 +961,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-80-120",
-    "questionText": "The process by which atoms are rearranged into different molecular structures in the petroleum refining process is referred to as (JAMB 2003)",
+    "questionText": "The process by which atoms are rearranged into different molecular structures in the petroleum refining process is referred to as",
     "options": [
       "Catalytic cracking",
       "Hydrocracking",
@@ -973,7 +973,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-81-481",
-    "questionText": "What volume of oxygen will remain after reacting 8 cm³ of hydrogen gas with 20 cm³ of oxygen gas? (JAMB 2018)",
+    "questionText": "What volume of oxygen will remain after reacting 8 cm³ of hydrogen gas with 20 cm³ of oxygen gas?",
     "options": [
       "10 cm³",
       "12 cm³",
@@ -985,7 +985,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-82-479",
-    "questionText": "Suitable reagents for the laboratory preparation of nitrogen are (JAMB 2018)",
+    "questionText": "Suitable reagents for the laboratory preparation of nitrogen are",
     "options": [
       "sodium dioxonitrate (III) and ammonium chloride",
       "sodium trioxonitrate (V) and ammonium chloride",
@@ -997,7 +997,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-83-656",
-    "questionText": "An organic compound contains 69% carbon, 15.3% hydrogen and 30.7% oxygen. Calculate the empirical formula [C=12, H=1, O=16] (JAMB 2022)",
+    "questionText": "An organic compound contains 69% carbon, 15.3% hydrogen and 30.7% oxygen. Calculate the empirical formula [C=12, H=1, O=16]",
     "options": [
       "C₄H₁₂O",
       "C₃H₉O",
@@ -1009,7 +1009,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-84-282",
-    "questionText": "Iron can be protected from corrosion by coating the surface with (JAMB 2010)",
+    "questionText": "Iron can be protected from corrosion by coating the surface with",
     "options": [
       "Silver",
       "Copper",
@@ -1021,7 +1021,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-85-434",
-    "questionText": "In the diagram, X is (JAMB 2017)",
+    "questionText": "In the diagram, X is",
     "options": [
       "SO₃",
       "SO₂",
@@ -1033,7 +1033,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-86-311",
-    "questionText": "The acid in electrolysis of water is dilute (JAMB 2015)",
+    "questionText": "The acid in electrolysis of water is dilute",
     "options": [
       "HNO₃",
       "CH₃COOH",
@@ -1045,7 +1045,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-87-617",
-    "questionText": "The most abundant rare gas in the atmosphere is? (JAMB 2021)",
+    "questionText": "The most abundant rare gas in the atmosphere is?",
     "options": [
       "He",
       "Ne",
@@ -1057,7 +1057,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-88-781",
-    "questionText": "Alkenes are represented with the general molecular formula (JAMB 2025)",
+    "questionText": "Alkenes are represented with the general molecular formula",
     "options": [
       "CₙH₂ₙ",
       "CₙH₂ₙ₋₂",
@@ -1069,7 +1069,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-89-490",
-    "questionText": "(I) 3CuO(s) + 2NH₃(g) → 3Cu(s) + 3H₂O(l) + N₂(g)\n(II) 2NH₃(g) + 3Cl₂(g) → 6HCl(g) + N₂(g)\n(III) 4NH₃(g) + 3O₂(g) → 6H₂O(l) + N₂(g)\nThe reactions represented by the equations above demonstrate the (JAMB 2018)",
+    "questionText": "(I) 3CuO(s) + 2NH₃(g) → 3Cu(s) + 3H₂O(l) + N₂(g)\n(II) 2NH₃(g) + 3Cl₂(g) → 6HCl(g) + N₂(g)\n(III) 4NH₃(g) + 3O₂(g) → 6H₂O(l) + N₂(g)\nThe reactions represented by the equations above demonstrate the",
     "options": [
       "basic properties of ammonia",
       "acidic properties of ammonia",
@@ -1081,7 +1081,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-90-666",
-    "questionText": "Electrons enter into orbitals in order of increasing energy as exemplified by? (JAMB 2022)",
+    "questionText": "Electrons enter into orbitals in order of increasing energy as exemplified by?",
     "options": [
       "1S²2S²2PX²2py²2pz⁰3s⁰",
       "1S²2S²2PX²2py¹2pz¹3s⁰",
@@ -1093,7 +1093,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-91-194",
-    "questionText": "How many hydrogen atoms does a single ring cycloalkane have less than the corresponding open- chain alkane (JAMB 2005)",
+    "questionText": "How many hydrogen atoms does a single ring cycloalkane have less than the corresponding open- chain alkane",
     "options": [
       "Three",
       "One",
@@ -1105,7 +1105,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-92-317",
-    "questionText": "An elements used in production of matches is (JAMB 2015)",
+    "questionText": "An elements used in production of matches is",
     "options": [
       "nitrogen",
       "aluminum",
@@ -1117,7 +1117,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-93-429",
-    "questionText": "Calculate the amount in moles of silver deposited when 9650 C of electricity is passed through a solution of silver salt [F = 96500 C mol⁻¹] (JAMB 2017)",
+    "questionText": "Calculate the amount in moles of silver deposited when 9650 C of electricity is passed through a solution of silver salt [F = 96500 C mol⁻¹]",
     "options": [
       "0.05",
       "10.8",
@@ -1129,7 +1129,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-94-651",
-    "questionText": "An organic functional group which can likely decolourise ammoniacal silver nitrate is? (JAMB 2022)",
+    "questionText": "An organic functional group which can likely decolourise ammoniacal silver nitrate is?",
     "options": [
       "alkene",
       "alkane",
@@ -1141,7 +1141,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-95-199",
-    "questionText": "The enzyme responsible for converting sucrose into two simple isomeric sugars is (JAMB 2005)",
+    "questionText": "The enzyme responsible for converting sucrose into two simple isomeric sugars is",
     "options": [
       "Invertase",
       "Amylase",
@@ -1153,7 +1153,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-96-276",
-    "questionText": "The acid that is used to remove rust is (JAMB 2010)",
+    "questionText": "The acid that is used to remove rust is",
     "options": [
       "Hydrochloric",
       "Trioxonitrate (V)",
@@ -1165,7 +1165,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-97-80",
-    "questionText": "Neutral atoms of neon with atomic number 10 have the same number of electrons as (JAMB 2003)",
+    "questionText": "Neutral atoms of neon with atomic number 10 have the same number of electrons as",
     "options": [
       "O2+",
       "Ca2+",
@@ -1177,7 +1177,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-98-7",
-    "questionText": "Four elements W, X, Y, and Z have atomic numbers 2, 6, 16 and 20 respectively. Which of these elements is a metal (JAMB 2001)",
+    "questionText": "Four elements W, X, Y, and Z have atomic numbers 2, 6, 16 and 20 respectively. Which of these elements is a metal",
     "options": [
       "X",
       "W",
@@ -1189,7 +1189,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-99-789",
-    "questionText": "The gas that is commonly used to demonstrate the fountain experiment is (JAMB 2025)",
+    "questionText": "The gas that is commonly used to demonstrate the fountain experiment is",
     "options": [
       "hydrogen chloride",
       "hydrogen sulphide",
@@ -1201,7 +1201,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-100-668",
-    "questionText": "In the extraction of iron, hot air is introduced into the blast furnace through? (JAMB 2022)",
+    "questionText": "In the extraction of iron, hot air is introduced into the blast furnace through?",
     "options": [
       "valves",
       "open-hearths",
@@ -1213,7 +1213,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-101-343",
-    "questionText": "When sugar is dissolved in tea, the reaction is accomplished by? (JAMB 2015)",
+    "questionText": "When sugar is dissolved in tea, the reaction is accomplished by?",
     "options": [
       "positive change",
       "negative entropy change",
@@ -1225,7 +1225,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-102-340",
-    "questionText": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula [H = 1, C = 12, O = 16] (JAMB 2015)",
+    "questionText": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula [H = 1, C = 12, O = 16]",
     "options": [
       "CH₂O",
       "C₃H₆O₃",
@@ -1237,7 +1237,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-103-678",
-    "questionText": "What is the sum of the oxidation numbers in a neutral compound? (JAMB 2023)",
+    "questionText": "What is the sum of the oxidation numbers in a neutral compound?",
     "options": [
       "2",
       "-1",
@@ -1249,7 +1249,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-104-411",
-    "questionText": "The acid anhydride that will produce weak acid in water is (JAMB 2017)",
+    "questionText": "The acid anhydride that will produce weak acid in water is",
     "options": [
       "SO₃",
       "NO₂",
@@ -1261,7 +1261,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-105-692",
-    "questionText": "What is the state of matter in which particles are widely spaced and move freely with high kinetic energy? (JAMB 2023)",
+    "questionText": "What is the state of matter in which particles are widely spaced and move freely with high kinetic energy?",
     "options": [
       "Liquid",
       "Solid",
@@ -1273,7 +1273,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-106-757",
-    "questionText": "In the table above, the two compounds that will combine in the presence of an acid catalyst to form compound V are (JAMB 2025)",
+    "questionText": "In the table above, the two compounds that will combine in the presence of an acid catalyst to form compound V are",
     "options": [
       "I and IV",
       "III and IV",
@@ -1285,7 +1285,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-107-462",
-    "questionText": "To what temperature must a gas at 273 K be heated in order to double both its volume and pressure? (JAMB 2018)",
+    "questionText": "To what temperature must a gas at 273 K be heated in order to double both its volume and pressure?",
     "options": [
       "298 K",
       "546 K",
@@ -1297,7 +1297,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-108-505",
-    "questionText": "A secondary alkanol can be oxidized to give an? (JAMB 2019)",
+    "questionText": "A secondary alkanol can be oxidized to give an?",
     "options": [
       "alkanone",
       "alkyne",
@@ -1309,7 +1309,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-109-483",
-    "questionText": "The IUPAC name for the compound (CH₃)₂CH-CH₂-CH₃ shown in the structural diagram is (JAMB 2018)",
+    "questionText": "The IUPAC name for the compound (CH₃)₂CH-CH₂-CH₃ shown in the structural diagram is",
     "options": [
       "1-methyl pentane",
       "3-methylbutane",
@@ -1321,7 +1321,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-110-104",
-    "questionText": "Chlorine gas is prepared in the laboratory by (JAMB 2003)",
+    "questionText": "Chlorine gas is prepared in the laboratory by",
     "options": [
       "Adding concentrated hydrochloric acid to solid manganese (IV) oxide",
       "Adding concentrated tetraoxosulphate (VI) acid to solid sodium chloride",
@@ -1333,7 +1333,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-111-290",
-    "questionText": "A constituent common to moist air, it gradually rusts. This is due to the formation of (JAMB 2010)",
+    "questionText": "A constituent common to moist air, it gradually rusts. This is due to the formation of",
     "options": [
       "Silver",
       "Copper",
@@ -1345,7 +1345,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-112-377",
-    "questionText": "Alkanols have the general molecular formula (JAMB 2016)",
+    "questionText": "Alkanols have the general molecular formula",
     "options": [
       "CₙH₂ₙ₋₂",
       "CₙH₂ₙ₊₁CHO",
@@ -1357,7 +1357,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-113-703",
-    "questionText": "What is the chemical formula of rust, which is formed on the surface of iron in the presence of oxygen and moisture? (JAMB 2023)",
+    "questionText": "What is the chemical formula of rust, which is formed on the surface of iron in the presence of oxygen and moisture?",
     "options": [
       "Fe₃O₄",
       "FeO",
@@ -1369,7 +1369,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-114-350",
-    "questionText": "PCl₅(g) = PCl₃(g) + Cl₂(g). In the reaction above, a decrease in pressure will (JAMB 2015)",
+    "questionText": "PCl₅(g) = PCl₃(g) + Cl₂(g). In the reaction above, a decrease in pressure will",
     "options": [
       "Decelerate the reaction",
       "Increase yield of PCl₃",
@@ -1381,7 +1381,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-115-736",
-    "questionText": "The pH of a 0.001 mol dm⁻³ of H₂SO₄ is [Log₁₀2 = 0.3] (JAMB 2024)",
+    "questionText": "The pH of a 0.001 mol dm⁻³ of H₂SO₄ is [Log₁₀2 = 0.3]",
     "options": [
       "2.7",
       "3",
@@ -1393,7 +1393,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-116-20",
-    "questionText": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises (JAMB 2001)",
+    "questionText": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises",
     "options": [
       "The bonds in the reacting molecules are more readily broken",
       "The molecules collisions become more violent",
@@ -1405,7 +1405,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-117-101",
-    "questionText": " CO(g) + H2O(g) ⇌  CO2(g)  +  H2(g)\nFrom the reaction above, calculate the standard heat change if the standard enthalpies of formation of CO2 (g), H2O (g) and CO (g) in kJ mol-1 are -394, -242 and -110 respectively.\n (JAMB 2003)",
+    "questionText": " CO(g) + H2O(g) ⇌  CO2(g)  +  H2(g)\nFrom the reaction above, calculate the standard heat change if the standard enthalpies of formation of CO2 (g), H2O (g) and CO (g) in kJ mol-1 are -394, -242 and -110 respectively.\n",
     "options": [
       "-262 kJ  mol-1",
       "-42kJ mol-1",
@@ -1417,7 +1417,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-118-436",
-    "questionText": "Calculate the mass of copper deposited when a current of 0.5 ampere was passed through a solution of copper (II) chloride for 45 minutes in an electrolytic cell. [Cu = 64, F = 96500 C mol⁻¹] (JAMB 2017)",
+    "questionText": "Calculate the mass of copper deposited when a current of 0.5 ampere was passed through a solution of copper (II) chloride for 45 minutes in an electrolytic cell. [Cu = 64, F = 96500 C mol⁻¹]",
     "options": [
       "0.300 g",
       "0.250 g",
@@ -1429,7 +1429,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-119-383",
-    "questionText": "Diamond cannot be used (JAMB 2016)",
+    "questionText": "Diamond cannot be used",
     "options": [
       "In making bicycle chains",
       "As abrasives",
@@ -1441,7 +1441,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-120-622",
-    "questionText": "A solution contains 20g of solute in 180g of solvent. If the solvent is water, what is the concentration of the solution in terms of mass by mass percentage? (JAMB 2021)",
+    "questionText": "A solution contains 20g of solute in 180g of solvent. If the solvent is water, what is the concentration of the solution in terms of mass by mass percentage?",
     "options": [
       "11%",
       "22.20%",
@@ -1453,7 +1453,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-121-88",
-    "questionText": "Which of the following ions is acidic (JAMB 2003)",
+    "questionText": "Which of the following ions is acidic",
     "options": [
       "K+",
       "NO-3",
@@ -1465,7 +1465,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-122-205",
-    "questionText": "When water boilers are used for a long period of time, the solid substances left behind as scale are (JAMB 2005)",
+    "questionText": "When water boilers are used for a long period of time, the solid substances left behind as scale are",
     "options": [
       "Magnesium trioxosilicate (IV) and calcium Tetraoxosulphate(VI)",
       "Magnesium trioxosilicate(IV) and rust",
@@ -1477,7 +1477,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-123-29",
-    "questionText": "NH3(g)  +  HCI(g)  → NH4CI(s) The entropy change in the system is (JAMB 2001)",
+    "questionText": "NH3(g)  +  HCI(g)  → NH4CI(s) The entropy change in the system is",
     "options": [
       "Negative",
       "Indeterminate",
@@ -1489,7 +1489,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-124-719",
-    "questionText": "In the extraction of Aluminium, the silica impurity is removed by (JAMB 2024)",
+    "questionText": "In the extraction of Aluminium, the silica impurity is removed by",
     "options": [
       "electrolysis",
       "filtration",
@@ -1501,7 +1501,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-125-270",
-    "questionText": "A noble gas with a high power of fog penetration used in aerodrome beacons is (JAMB 2010)",
+    "questionText": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
     "options": [
       "Argon",
       "Helium",
@@ -1513,7 +1513,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-126-557",
-    "questionText": "Duralumin consists of aluminum, copper and? (JAMB 2020)",
+    "questionText": "Duralumin consists of aluminum, copper and?",
     "options": [
       "Zinc and Gold",
       "Lead and Manganese",
@@ -1525,7 +1525,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-127-390",
-    "questionText": "An example of a solid emulsion is (JAMB 2016)",
+    "questionText": "An example of a solid emulsion is",
     "options": [
       "Butter",
       "Hair cream",
@@ -1537,7 +1537,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-128-655",
-    "questionText": "Crude petroleum is converted to useful products by the process of? (JAMB 2022)",
+    "questionText": "Crude petroleum is converted to useful products by the process of?",
     "options": [
       "fractional crystallization",
       "fractional distillation",
@@ -1549,7 +1549,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-129-357",
-    "questionText": "The enzyme used in the hydrolysis of starch to dextrin and maltose is (JAMB 2016)",
+    "questionText": "The enzyme used in the hydrolysis of starch to dextrin and maltose is",
     "options": [
       "Zymase",
       "Sucrase",
@@ -1561,7 +1561,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-130-252",
-    "questionText": "Carbon exists naturally in the combined state as (JAMB 2006)",
+    "questionText": "Carbon exists naturally in the combined state as",
     "options": [
       "Diamond",
       "Coal",
@@ -1573,7 +1573,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-131-75",
-    "questionText": "What volume of oxygen is produced from the decomposition of 2 moles of KClO3 at s.t.p   [Molar volume of a gas at s.t.p = 22.4 dm3] (JAMB 2003)",
+    "questionText": "What volume of oxygen is produced from the decomposition of 2 moles of KClO3 at s.t.p   [Molar volume of a gas at s.t.p = 22.4 dm3]",
     "options": [
       "22.4 dm3",
       "33.6 dm3",
@@ -1585,7 +1585,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-132-123",
-    "questionText": "When a solid substance disappears completely as a gas on heating, the substance is said to have under gone (JAMB 2004)",
+    "questionText": "When a solid substance disappears completely as a gas on heating, the substance is said to have under gone",
     "options": [
       "Evaporation",
       "Distillation",
@@ -1597,7 +1597,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-133-266",
-    "questionText": "How many unpaired electron(s) are there in the nitrogen  sub - levels (JAMB 2010)",
+    "questionText": "How many unpaired electron(s) are there in the nitrogen  sub - levels",
     "options": [
       "2",
       "1",
@@ -1609,7 +1609,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-134-36",
-    "questionText": "When chlorine is passed into water and the resulting solution exposed to sunlight, the product formed are (JAMB 2001)",
+    "questionText": "When chlorine is passed into water and the resulting solution exposed to sunlight, the product formed are",
     "options": [
       "Chlorine gas and hydrogen",
       "Oxygen and oxochlorate(l) acid",
@@ -1621,7 +1621,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-135-783",
-    "questionText": "In the laboratory preparation of Chlorine, the gas is passed through a wash bottle of water to (JAMB 2025)",
+    "questionText": "In the laboratory preparation of Chlorine, the gas is passed through a wash bottle of water to",
     "options": [
       "dilute it",
       "absorb HCl gas",
@@ -1633,7 +1633,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-136-701",
-    "questionText": "Which organic compound is responsible for the characteristic aroma of fruits? (JAMB 2023)",
+    "questionText": "Which organic compound is responsible for the characteristic aroma of fruits?",
     "options": [
       "Alkane",
       "Alkyne",
@@ -1645,7 +1645,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-137-67",
-    "questionText": "Ordinary glass is manufactured from silica, Ca CO3 and (JAMB 2002)",
+    "questionText": "Ordinary glass is manufactured from silica, Ca CO3 and",
     "options": [
       "K2CO3",
       "NaHCO3",
@@ -1657,7 +1657,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-138-410",
-    "questionText": "Temporary hard water is formed when rain water containing dissolved carbon (IV) oxide flows over deposits of (JAMB 2017)",
+    "questionText": "Temporary hard water is formed when rain water containing dissolved carbon (IV) oxide flows over deposits of",
     "options": [
       "CaCO₃",
       "Na₂CO₃",
@@ -1669,7 +1669,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-139-9",
-    "questionText": "Which of the following statements is correct about the average kinetic energy of the molecules of a gas (JAMB 2001)",
+    "questionText": "Which of the following statements is correct about the average kinetic energy of the molecules of a gas",
     "options": [
       "It inctreasaes with increase in pressure",
       "It increases at constant pressure",
@@ -1681,7 +1681,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-140-391",
-    "questionText": "An isotope has an atomic number of 15 and a mass number of 31. The number of protons it contains is (JAMB 2016)",
+    "questionText": "An isotope has an atomic number of 15 and a mass number of 31. The number of protons it contains is",
     "options": [
       "16",
       "15",
@@ -1693,7 +1693,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-141-541",
-    "questionText": "Which of the following pollutants will lead to the depletion of ozone layer? (JAMB 2019)",
+    "questionText": "Which of the following pollutants will lead to the depletion of ozone layer?",
     "options": [
       "chlorofluorocarbon",
       "carbon (ii) oxide",
@@ -1705,7 +1705,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-142-649",
-    "questionText": "N₂O₄ ⇌ 2NO₂ (Δ = -ve). From the reaction above, which of these conditions would produce the highest equilibrium yield for N₂O₄? (JAMB 2022)",
+    "questionText": "N₂O₄ ⇌ 2NO₂ (Δ = -ve). From the reaction above, which of these conditions would produce the highest equilibrium yield for N₂O₄?",
     "options": [
       "Low temperature and high pressure",
       "Low temperature and low pressure",
@@ -1717,7 +1717,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-143-424",
-    "questionText": "When ΔH is negative, a reaction is said to be (JAMB 2017)",
+    "questionText": "When ΔH is negative, a reaction is said to be",
     "options": [
       "endothermic",
       "exothermic",
@@ -1729,7 +1729,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-144-46",
-    "questionText": "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formular of the compound (JAMB 2002)",
+    "questionText": "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formular of the compound",
     "options": [
       "KCLO3",
       "KCLO4",
@@ -1741,7 +1741,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-145-645",
-    "questionText": "On the basis of the electrochemical series, which of these ions will show the greater tendency to be discharged at the cathode in an electrolytic cell? (JAMB 2022)",
+    "questionText": "On the basis of the electrochemical series, which of these ions will show the greater tendency to be discharged at the cathode in an electrolytic cell?",
     "options": [
       "Cu²⁺",
       "Sn²⁺",
@@ -1753,7 +1753,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-146-355",
-    "questionText": "In an electrochemical cell, polarization is caused by (JAMB 2016)",
+    "questionText": "In an electrochemical cell, polarization is caused by",
     "options": [
       "Oxygen",
       "Hydrogen",
@@ -1765,7 +1765,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-147-593",
-    "questionText": "The most important element on the earth's crust is? (JAMB 2020)",
+    "questionText": "The most important element on the earth's crust is?",
     "options": [
       "Nitrogen",
       "Hydrogen",
@@ -1777,7 +1777,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-148-134",
-    "questionText": "Which of the following mixtures of gases is likely to burn in flame (JAMB 2004)",
+    "questionText": "Which of the following mixtures of gases is likely to burn in flame",
     "options": [
       "Neon and hydrogen",
       "Nitrogen and helium",
@@ -1789,7 +1789,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-149-531",
-    "questionText": "The heat of formation of ethene, C₂H₄ is 50 kJ mol⁻¹ and that of ethane, C₂H₆ is -82 kJ mol⁻¹. Calculate the heat evolved in the process: C₂H₄ + H₂ → C₂H₆ (JAMB 2019)",
+    "questionText": "The heat of formation of ethene, C₂H₄ is 50 kJ mol⁻¹ and that of ethane, C₂H₆ is -82 kJ mol⁻¹. Calculate the heat evolved in the process: C₂H₄ + H₂ → C₂H₆",
     "options": [
       "-122 kJ",
       "-132 kJ",
@@ -1801,7 +1801,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-150-43",
-    "questionText": "Which of the followinig respresents hybridization in ethyne? (JAMB 2001)",
+    "questionText": "Which of the followinig respresents hybridization in ethyne?",
     "options": [
       "Sp2",
       "Sp2d",
@@ -1813,7 +1813,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-151-758",
-    "questionText": "An example of an alkaline gas is (JAMB 2025)",
+    "questionText": "An example of an alkaline gas is",
     "options": [
       "HCl",
       "N₂",
@@ -1825,7 +1825,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-152-585",
-    "questionText": "The chlorinated alkane often used industrially to remove grease is? (JAMB 2020)",
+    "questionText": "The chlorinated alkane often used industrially to remove grease is?",
     "options": [
       "Tetrachloromethane",
       "Chloromethane",
@@ -1837,7 +1837,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788673840154-153-110",
-    "questionText": "Chlorine gas turns a damp starch-iodide paper (JAMB 2003)",
+    "questionText": "Chlorine gas turns a damp starch-iodide paper",
     "options": [
       "Pink",
       "Colourless",
@@ -1849,7 +1849,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-0-721",
-    "questionText": "The constituent of petroleum fraction used in surfacing road is (JAMB 2024)",
+    "questionText": "The constituent of petroleum fraction used in surfacing road is",
     "options": [
       "petrol",
       "diesel",
@@ -1861,7 +1861,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-1-146",
-    "questionText": "The mass of silver deposited when a current of 10A is passed through a solution of silver salt for 4830s is    [Ag = 108, F = 96500 Cmol-1] (JAMB 2004)",
+    "questionText": "The mass of silver deposited when a current of 10A is passed through a solution of silver salt for 4830s is    [Ag = 108, F = 96500 Cmol-1]",
     "options": [
       "108.0g",
       "54.0g",
@@ -1873,7 +1873,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-2-443",
-    "questionText": "The gas that can be collected by downward displacement of air is (JAMB 2017)",
+    "questionText": "The gas that can be collected by downward displacement of air is",
     "options": [
       "chlorine",
       "sulphur (IV) oxide",
@@ -1885,7 +1885,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-3-143",
-    "questionText": "ZnO(s) + CO (g) → Zn(s) + CO2 (g).  (JAMB 2004)",
+    "questionText": "ZnO(s) + CO (g) → Zn(s) + CO2 (g).",
     "options": [
       "Decomposed",
       "Displaced",
@@ -1897,7 +1897,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-4-112",
-    "questionText": "Ethene reacts with hydrogen bromide to give (JAMB 2003)",
+    "questionText": "Ethene reacts with hydrogen bromide to give",
     "options": [
       "CH2Br2",
       "CH3CH2Br",
@@ -1909,7 +1909,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-5-773",
-    "questionText": "In the electrolysis of brine using neutral electrodes, which ion is discharged at the anode? (JAMB 2025)",
+    "questionText": "In the electrolysis of brine using neutral electrodes, which ion is discharged at the anode?",
     "options": [
       "2H⁺",
       "Na⁺",
@@ -1921,7 +1921,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-6-61",
-    "questionText": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in a vessel with a total pressure of 0.7 atmosphere. What is the partial pressure of oxygen in the mixture (JAMB 2002)",
+    "questionText": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in a vessel with a total pressure of 0.7 atmosphere. What is the partial pressure of oxygen in the mixture",
     "options": [
       "0.55 atmosphere",
       "0.44 atmosphere",
@@ -1933,7 +1933,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-7-437",
-    "questionText": "The IUPAC nomenclature of the structure shown (CH₂=C(CH₃)-CH₂-CH₃) is (JAMB 2017)",
+    "questionText": "The IUPAC nomenclature of the structure shown (CH₂=C(CH₃)-CH₂-CH₃) is",
     "options": [
       "3-methylbut-3-ene",
       "2-methylbut-1-ene",
@@ -1945,7 +1945,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-8-312",
-    "questionText": "A small quantity of solid ammonium chloride (NH₄Cl) is heated gently in a test tube. The solid gradually disappears producing two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone (JAMB 2015)",
+    "questionText": "A small quantity of solid ammonium chloride (NH₄Cl) is heated gently in a test tube. The solid gradually disappears producing two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone",
     "options": [
       "Distillation",
       "Sublimation",
@@ -1957,7 +1957,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-9-681",
-    "questionText": "What is the name of the process by which ammonia is produced on an industrial scale? (JAMB 2023)",
+    "questionText": "What is the name of the process by which ammonia is produced on an industrial scale?",
     "options": [
       "Nitrogenation",
       "Ammoniation",
@@ -1969,7 +1969,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-10-509",
-    "questionText": "2-methylprop-1-ene is an isomer of? (JAMB 2019)",
+    "questionText": "2-methylprop-1-ene is an isomer of?",
     "options": [
       "3-methyl but-1-ene",
       "2-methyl but-1-ene",
@@ -1981,7 +1981,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-11-130",
-    "questionText": "An electron can be added to a halogen atom to form a halide ion with (JAMB 2004)",
+    "questionText": "An electron can be added to a halogen atom to form a halide ion with",
     "options": [
       "2 valence electrons",
       "3 valence electrons",
@@ -1993,7 +1993,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-12-314",
-    "questionText": "Atomicity of ozone is (JAMB 2015)",
+    "questionText": "Atomicity of ozone is",
     "options": [
       "1",
       "2",
@@ -2005,7 +2005,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-13-753",
-    "questionText": "Water gas obtained from the gasification of coke is made up of (JAMB 2024)",
+    "questionText": "Water gas obtained from the gasification of coke is made up of",
     "options": [
       "Nitrogen and Carbon(II) oxide",
       "Nitrogen and Hydrogen",
@@ -2017,7 +2017,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-14-409",
-    "questionText": "The tincture of iodine means iodine dissolved in (JAMB 2017)",
+    "questionText": "The tincture of iodine means iodine dissolved in",
     "options": [
       "ethanol",
       "bromine chloride",
@@ -2029,7 +2029,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932267-15-522",
-    "questionText": "Elements X and Y have electronic configurations 1s²2s²2p⁴ and 1s²2s²2p⁶3s²3p¹ respectively. When they combine, the formula of the compound formed is (JAMB 2019)",
+    "questionText": "Elements X and Y have electronic configurations 1s²2s²2p⁴ and 1s²2s²2p⁶3s²3p¹ respectively. When they combine, the formula of the compound formed is",
     "options": [
       "XY",
       "X₂Y",
@@ -2041,7 +2041,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-16-760",
-    "questionText": "The property of metal that makes it suitable as a catalyst is (JAMB 2025)",
+    "questionText": "The property of metal that makes it suitable as a catalyst is",
     "options": [
       "filled f-orbital",
       "partially filled d-orbitals",
@@ -2053,7 +2053,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-17-13",
-    "questionText": "What is the decrease in volume of air when pyrogallol is shaken with 30.00cm3 of air (JAMB 2001)",
+    "questionText": "What is the decrease in volume of air when pyrogallol is shaken with 30.00cm3 of air",
     "options": [
       "15.00cm3",
       "6.00cm3",
@@ -2065,7 +2065,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-18-717",
-    "questionText": "The constituents of Alnico are Aluminium, Nickel and (JAMB 2024)",
+    "questionText": "The constituents of Alnico are Aluminium, Nickel and",
     "options": [
       "Mg",
       "Co",
@@ -2077,7 +2077,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-19-523",
-    "questionText": "By what amount must the temperature of 200 cm³ of nitrogen at 27°C be increased to double the pressure if the final volume is 150 cm³? (Assume ideality) (JAMB 2019)",
+    "questionText": "By what amount must the temperature of 200 cm³ of nitrogen at 27°C be increased to double the pressure if the final volume is 150 cm³? (Assume ideality)",
     "options": [
       "150°C",
       "177°C",
@@ -2089,7 +2089,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-20-415",
-    "questionText": "For a general equation of the nature xP + yQ → mR + nS, the expression for the equilibrium constant is (JAMB 2017)",
+    "questionText": "For a general equation of the nature xP + yQ → mR + nS, the expression for the equilibrium constant is",
     "options": [
       "k[P]ˣ[Q]ʸ",
       "[P]ˣ[Q]ʸ / [R]ᵐ[S]ⁿ",
@@ -2101,7 +2101,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-21-746",
-    "questionText": "What method is suitable for the separation of gases present in air? (JAMB 2024)",
+    "questionText": "What method is suitable for the separation of gases present in air?",
     "options": [
       "Catalytic cracking of liquid air",
       "Fractional distillation of liquid air",
@@ -2113,7 +2113,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-22-166",
-    "questionText": "The reaction above is (JAMB 2004)",
+    "questionText": "The reaction above is",
     "options": [
       "Carboxylation",
       "Decarboxylation",
@@ -2125,7 +2125,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-23-660",
-    "questionText": "The reactions below represent neutralization reactions. In which of them is the value of ΔH highest? A. CH₃CH₂COOH + KOH → CH₃CH₂COOK + H₂O  B. NH₄OH + HCl → NH₄Cl + H₂O  C. NaOH + HCl → NaCl + H₂O  D. CH₃COOH + NaOH → CH₃COONa + H₂O (JAMB 2022)",
+    "questionText": "The reactions below represent neutralization reactions. In which of them is the value of ΔH highest? A. CH₃CH₂COOH + KOH → CH₃CH₂COOK + H₂O  B. NH₄OH + HCl → NH₄Cl + H₂O  C. NaOH + HCl → NaCl + H₂O  D. CH₃COOH + NaOH → CH₃COONa + H₂O",
     "options": [
       "CH₃CH₂COOH + KOH → CH₃CH₂COOK + H₂O",
       "NH₄OH + HCl → NH₄Cl + H₂O",
@@ -2137,7 +2137,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-24-715",
-    "questionText": "At a given temperature and pressure, a gas X diffuses twice as fast as gas Y. It follows that (JAMB 2024)",
+    "questionText": "At a given temperature and pressure, a gas X diffuses twice as fast as gas Y. It follows that",
     "options": [
       "Gas Y is two times as heavy as Gas X",
       "Gas Y is four times as heavy as Gas X",
@@ -2149,7 +2149,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-25-118",
-    "questionText": "Ethanol reacts with excess acidified K2Cr2O7 to produce (JAMB 2003)",
+    "questionText": "Ethanol reacts with excess acidified K2Cr2O7 to produce",
     "options": [
       "Ethanoic acid",
       "Ethanol",
@@ -2161,7 +2161,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-26-711",
-    "questionText": "What is the common name for ethanoic acid? (JAMB 2023)",
+    "questionText": "What is the common name for ethanoic acid?",
     "options": [
       "Acetic acid",
       "Butyric acid",
@@ -2173,7 +2173,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-27-352",
-    "questionText": "Electronic configuration of element 13 in the subsidiary energy level is (JAMB 2015)",
+    "questionText": "Electronic configuration of element 13 in the subsidiary energy level is",
     "options": [
       "1s²2s²2p⁶3s²3p¹",
       "1s²2s²2p⁴3p¹3s¹",
@@ -2185,7 +2185,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-28-154",
-    "questionText": " sulphur (IV) oxide bleaches by (JAMB 2004)",
+    "questionText": " sulphur (IV) oxide bleaches by",
     "options": [
       "Reduction",
       "Oxidation",
@@ -2197,7 +2197,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-29-563",
-    "questionText": "What process would coal undergo to give coal gas, coal tar, ammoniacal liquor and coke? (JAMB 2020)",
+    "questionText": "What process would coal undergo to give coal gas, coal tar, ammoniacal liquor and coke?",
     "options": [
       "Steam distillation",
       "Destructive distillation",
@@ -2209,7 +2209,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-30-466",
-    "questionText": "The consecutive members of an alkane homologous series differ by (JAMB 2018)",
+    "questionText": "The consecutive members of an alkane homologous series differ by",
     "options": [
       "CH",
       "CH₂",
@@ -2221,7 +2221,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-31-511",
-    "questionText": "The IUPAC name of the compound CF₃CHBrCl is (JAMB 2019)",
+    "questionText": "The IUPAC name of the compound CF₃CHBrCl is",
     "options": [
       "2-chloro-2-bromo-1,1,1-trifluoroethane",
       "2-bromo-2-chloro-1,1,1-trifluoroethane",
@@ -2233,7 +2233,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-32-458",
-    "questionText": "The sulphide which is insoluble in dilute hydrochloric acid is (JAMB 2018)",
+    "questionText": "The sulphide which is insoluble in dilute hydrochloric acid is",
     "options": [
       "FeS",
       "CuS",
@@ -2245,7 +2245,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-33-631",
-    "questionText": "In the troposphere, the two types of pollutants are? (JAMB 2021)",
+    "questionText": "In the troposphere, the two types of pollutants are?",
     "options": [
       "Gaseous and particulate pollutants",
       "Carbon and metallic pollutants",
@@ -2257,7 +2257,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-34-520",
-    "questionText": "SO₃ is not directly dissolved in water in the industrial preparation of H₂SO₄ by the contact process because (JAMB 2019)",
+    "questionText": "SO₃ is not directly dissolved in water in the industrial preparation of H₂SO₄ by the contact process because",
     "options": [
       "SO₃ is an acidic gas",
       "acid is usually added to water and not water to acid",
@@ -2269,7 +2269,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-35-672",
-    "questionText": "What volume (dm³) of water will be added to 10dm³ of 2.0 mol/dm³ HCl acid solution to give a final solution of 0.5 mol/dm³? (JAMB 2022)",
+    "questionText": "What volume (dm³) of water will be added to 10dm³ of 2.0 mol/dm³ HCl acid solution to give a final solution of 0.5 mol/dm³?",
     "options": [
       "30",
       "40",
@@ -2281,7 +2281,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-36-303",
-    "questionText": " Two hydrocarbons X and Y were treated with bromine water. Decolorized the solution and Y did not. Which class of compound does Y belong (JAMB 2010)",
+    "questionText": " Two hydrocarbons X and Y were treated with bromine water. Decolorized the solution and Y did not. Which class of compound does Y belong",
     "options": [
       "Alkynes",
       "Alkenes",
@@ -2293,7 +2293,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-37-16",
-    "questionText": "Phosphorous is stored under water to precvent it from (JAMB 2001)",
+    "questionText": "Phosphorous is stored under water to precvent it from",
     "options": [
       "Dehydrating",
       "Becoming inert",
@@ -2305,7 +2305,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-38-135",
-    "questionText": "Hardness of water is caused by the presence of the ions of (JAMB 2004)",
+    "questionText": "Hardness of water is caused by the presence of the ions of",
     "options": [
       "Magnesium and silver",
       "Calcium and magnesium",
@@ -2317,7 +2317,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-39-583",
-    "questionText": "An organic compound that does not undergo a reaction with both hydrogen cyanide and hydroxylamine can be? (JAMB 2020)",
+    "questionText": "An organic compound that does not undergo a reaction with both hydrogen cyanide and hydroxylamine can be?",
     "options": [
       "Alkene",
       "Alkanal",
@@ -2329,7 +2329,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-40-428",
-    "questionText": "Tin is unaffected by air at ordinary temperature due to its (JAMB 2017)",
+    "questionText": "Tin is unaffected by air at ordinary temperature due to its",
     "options": [
       "Low melting point",
       "Weak electropositive character",
@@ -2341,7 +2341,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-41-587",
-    "questionText": "Proteins in acid solution undergo? (JAMB 2020)",
+    "questionText": "Proteins in acid solution undergo?",
     "options": [
       "Substitution",
       "Fermentation",
@@ -2353,7 +2353,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-42-393",
-    "questionText": "The gas that is used for the treatment of cancer is (JAMB 2016)",
+    "questionText": "The gas that is used for the treatment of cancer is",
     "options": [
       "Neon",
       "Radon",
@@ -2365,7 +2365,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-43-553",
-    "questionText": "Which important nitrogen-containing compound is produced in Haber's process? (JAMB 2019)",
+    "questionText": "Which important nitrogen-containing compound is produced in Haber's process?",
     "options": [
       "NH₃",
       "NO₂",
@@ -2377,7 +2377,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-44-163",
-    "questionText": "A characteristic of the alkane family is (JAMB 2004)",
+    "questionText": "A characteristic of the alkane family is",
     "options": [
       "Addition reaction",
       "Elimination reaction",
@@ -2389,7 +2389,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-45-221",
-    "questionText": "Forms a layer of oxide on the metal   If the heat of combustion of hydrogen is -285.8kJ. what is the heat of formation of water (JAMB 2006)",
+    "questionText": "Forms a layer of oxide on the metal   If the heat of combustion of hydrogen is -285.8kJ. what is the heat of formation of water",
     "options": [
       "-285.8Kj",
       "-571.6kJ",
@@ -2401,7 +2401,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-46-170",
-    "questionText": "The property used in the industrial preparation of nitrogen and oxygen from air is (JAMB 2005)",
+    "questionText": "The property used in the industrial preparation of nitrogen and oxygen from air is",
     "options": [
       "Rate of diffusion",
       "Solubility",
@@ -2413,7 +2413,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-47-364",
-    "questionText": "The relative atomic mass of a naturally occurring lithium consisting of 90% ⁷₃Li and 10% ⁶₃Li is (JAMB 2016)",
+    "questionText": "The relative atomic mass of a naturally occurring lithium consisting of 90% ⁷₃Li and 10% ⁶₃Li is",
     "options": [
       "6.2",
       "6.8",
@@ -2425,7 +2425,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-48-618",
-    "questionText": "The heat required to raise the temperature of a body by 1K is called? (JAMB 2021)",
+    "questionText": "The heat required to raise the temperature of a body by 1K is called?",
     "options": [
       "Specific heat",
       "Thermal capacity",
@@ -2437,7 +2437,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-49-455",
-    "questionText": "A given amount of gas occupies 10.0 dm³ at 4 atm and 273°C. The number of moles of the gas present is? [Molar volume of gas at s.t.p = 22.4 dm³] (JAMB 2018)",
+    "questionText": "A given amount of gas occupies 10.0 dm³ at 4 atm and 273°C. The number of moles of the gas present is? [Molar volume of gas at s.t.p = 22.4 dm³]",
     "options": [
       "0.89 mol",
       "1.90 mol",
@@ -2449,7 +2449,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-50-259",
-    "questionText": "The ion that will give a white precipitate with aqueous NaOH and soluble in excess of the base is (JAMB 2006)",
+    "questionText": "The ion that will give a white precipitate with aqueous NaOH and soluble in excess of the base is",
     "options": [
       "Zn2+",
       "Mg2+",
@@ -2461,7 +2461,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-51-648",
-    "questionText": "An organic compound with fishy smell is likely to have a general formula? (JAMB 2022)",
+    "questionText": "An organic compound with fishy smell is likely to have a general formula?",
     "options": [
       "RCONHR¹",
       "RCONH₂",
@@ -2473,7 +2473,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-52-600",
-    "questionText": "A breath test used by traffic police to check drunken driving uses? (JAMB 2021)",
+    "questionText": "A breath test used by traffic police to check drunken driving uses?",
     "options": [
       "Tumeric on filter paper",
       "Silica gel coated with saliva nitrate",
@@ -2485,7 +2485,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-53-87",
-    "questionText": "A consequence of global warming is (JAMB 2003)",
+    "questionText": "A consequence of global warming is",
     "options": [
       "Air pollution",
       "Water pollution",
@@ -2497,7 +2497,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-54-575",
-    "questionText": "A few drops of conc HCl are added to about 10cm³ of a solution of pH 3.4. The pH of the resulting mixture is? (JAMB 2020)",
+    "questionText": "A few drops of conc HCl are added to about 10cm³ of a solution of pH 3.4. The pH of the resulting mixture is?",
     "options": [
       "less than 3.4",
       "greater than 3.4",
@@ -2509,7 +2509,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-55-200",
-    "questionText": "Natural water collected from rivers and ponds contains oxygen, carbon(IV) oxide and (JAMB 2005)",
+    "questionText": "Natural water collected from rivers and ponds contains oxygen, carbon(IV) oxide and",
     "options": [
       "Chlorine",
       "Hydrogen",
@@ -2521,7 +2521,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-56-497",
-    "questionText": "2KClO₃(s) → 2KCl(s) + 3O₂(g). The importance of the catalyst in the reaction above is that (JAMB 2018)",
+    "questionText": "2KClO₃(s) → 2KCl(s) + 3O₂(g). The importance of the catalyst in the reaction above is that",
     "options": [
       "heating may not be required before the reaction takes place",
       "the reaction is controllable even at a high temperature",
@@ -2533,7 +2533,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-57-739",
-    "questionText": "For a chemical reaction to be spontaneous, ΔG must be (JAMB 2024)",
+    "questionText": "For a chemical reaction to be spontaneous, ΔG must be",
     "options": [
       "positive",
       "negative",
@@ -2545,7 +2545,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-58-473",
-    "questionText": "In the experiment shown (solid ammonium chloride heated at 350°C, with porous asbestos plug and damp neutral litmus paper at the far end), the litmus paper will initially (JAMB 2018)",
+    "questionText": "In the experiment shown (solid ammonium chloride heated at 350°C, with porous asbestos plug and damp neutral litmus paper at the far end), the litmus paper will initially",
     "options": [
       "be bleached",
       "turn green",
@@ -2557,7 +2557,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-59-49",
-    "questionText": "The chromatographic separation of ink is based on the ability of the components to (JAMB 2002)",
+    "questionText": "The chromatographic separation of ink is based on the ability of the components to",
     "options": [
       "React with each other",
       "React with the solvent",
@@ -2569,7 +2569,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-60-22",
-    "questionText": "Ethanoic acid is (JAMB 2001)",
+    "questionText": "Ethanoic acid is",
     "options": [
       "Tribasic",
       "Unionizeable",
@@ -2581,7 +2581,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-61-177",
-    "questionText": "The ores that can be concentrated by flotation are (JAMB 2005)",
+    "questionText": "The ores that can be concentrated by flotation are",
     "options": [
       "Nitride ores",
       "Chloride ores",
@@ -2593,7 +2593,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-62-216",
-    "questionText": "H2(g)  +  Br2(g) →  2BHr(g)  The reaction above is carried out at 250C. If Δ H is kJ mol-1 and   Δ S is -106J mol-1K-1 the reaction will (JAMB 2006)",
+    "questionText": "H2(g)  +  Br2(g) →  2BHr(g)  The reaction above is carried out at 250C. If Δ H is kJ mol-1 and   Δ S is -106J mol-1K-1 the reaction will",
     "options": [
       "Proceed spontaneously at lower temperatures",
       "Not proceed spontaneously at the given temperature",
@@ -2605,7 +2605,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-63-489",
-    "questionText": "mE + nF → pG + qH. In the equation shown, the equilibrium constant is given by (JAMB 2018)",
+    "questionText": "mE + nF → pG + qH. In the equation shown, the equilibrium constant is given by",
     "options": [
       "[E]ᵐ[F]ⁿ / [G]ᵖ[H]ᵍ",
       "[E][F] / [G][H]",
@@ -2617,7 +2617,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-64-28",
-    "questionText": "In which of the following reactions has the oxidation number of nitrogen increased (JAMB 2001)",
+    "questionText": "In which of the following reactions has the oxidation number of nitrogen increased",
     "options": [
       "2NO(g) + Br2(l) → 2NOBr(l)",
       "2NO2(g) + O2(g) → 2NO2(g)",
@@ -2629,7 +2629,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-65-628",
-    "questionText": "The process or act of extracting a metal from its ore and refining it is called? (JAMB 2021)",
+    "questionText": "The process or act of extracting a metal from its ore and refining it is called?",
     "options": [
       "Extraction",
       "Metal mining",
@@ -2641,7 +2641,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-66-545",
-    "questionText": "Which of the following is a physical change? (JAMB 2019)",
+    "questionText": "Which of the following is a physical change?",
     "options": [
       "Exposing white phosphorus to air",
       "Burning kerosene",
@@ -2653,7 +2653,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-67-86",
-    "questionText": "The weakest attractive force that can be observed between two molecules is (JAMB 2003)",
+    "questionText": "The weakest attractive force that can be observed between two molecules is",
     "options": [
       "Ionic",
       "Covalent",
@@ -2665,7 +2665,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-68-549",
-    "questionText": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180. Find the molecular formula. [H = 1, C = 12, O = 16] (JAMB 2019)",
+    "questionText": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180. Find the molecular formula. [H = 1, C = 12, O = 16]",
     "options": [
       "C₃H₆O₃",
       "C₆H₆O₃",
@@ -2677,7 +2677,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-69-751",
-    "questionText": "The heaviest isotope of hydrogen is (JAMB 2024)",
+    "questionText": "The heaviest isotope of hydrogen is",
     "options": [
       "Deuterium",
       "Protium",
@@ -2689,7 +2689,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-70-439",
-    "questionText": "The densities of two gases, X and Y are 0.5 g dm⁻³ and 2.0 g dm⁻³ respectively. What is the rate of diffusion of X relative to Y? (JAMB 2017)",
+    "questionText": "The densities of two gases, X and Y are 0.5 g dm⁻³ and 2.0 g dm⁻³ respectively. What is the rate of diffusion of X relative to Y?",
     "options": [
       "0.1",
       "0.5",
@@ -2701,7 +2701,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-71-680",
-    "questionText": "What is eutrophication? (JAMB 2023)",
+    "questionText": "What is eutrophication?",
     "options": [
       "The release of harmful chemicals into water bodies",
       "The excessive growth of algae due to nutrient enrichment",
@@ -2713,7 +2713,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-72-528",
-    "questionText": "For the general equation of the nature xP + yQ ⇌ mR + nS, the expression for the equilibrium constant is (JAMB 2019)",
+    "questionText": "For the general equation of the nature xP + yQ ⇌ mR + nS, the expression for the equilibrium constant is",
     "options": [
       "k[P]ˣ[Q]ʸ",
       "m[R][S] / x[P]y[Q]",
@@ -2725,7 +2725,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-73-321",
-    "questionText": "The above orbital diagram shown the electronic configuration of (JAMB 2015)",
+    "questionText": "The above orbital diagram shown the electronic configuration of",
     "options": [
       "chlorine",
       "nitrogen",
@@ -2737,7 +2737,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-74-457",
-    "questionText": "A substance that is used as a ripening agent for fruits is (JAMB 2018)",
+    "questionText": "A substance that is used as a ripening agent for fruits is",
     "options": [
       "ethene",
       "propane",
@@ -2749,7 +2749,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-75-99",
-    "questionText": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant (JAMB 2003)",
+    "questionText": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant",
     "options": [
       "2SO3(g) ⇌ 2SO2(g) + O2(g)",
       "2CO2(g) ⇌ 2CO(g) + O2(g)",
@@ -2761,7 +2761,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-76-578",
-    "questionText": "Helium is used in observation balloons because it is? (JAMB 2020)",
+    "questionText": "Helium is used in observation balloons because it is?",
     "options": [
       "Light and combustible",
       "light and non-combustible",
@@ -2773,7 +2773,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-77-769",
-    "questionText": "The products of the thermal decomposition of ammonium trioxonitrate(v) are (JAMB 2025)",
+    "questionText": "The products of the thermal decomposition of ammonium trioxonitrate(v) are",
     "options": [
       "N₂O and H₂O",
       "NO₂ and H₂O",
@@ -2785,7 +2785,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-78-224",
-    "questionText": "5SO2(g)  +  2KMnO4(aq)  +  2H2O(l)  ⇌   K2SO4(aq)  +  2MnSO4(aq)  +   2H2HSO4(aq)   In the reaction above, the products give a (JAMB 2006)",
+    "questionText": "5SO2(g)  +  2KMnO4(aq)  +  2H2O(l)  ⇌   K2SO4(aq)  +  2MnSO4(aq)  +   2H2HSO4(aq)   In the reaction above, the products give a",
     "options": [
       "Colourless solution",
       "Purple precipitate",
@@ -2797,7 +2797,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-79-722",
-    "questionText": "During the fractional distillation of crude oil, the fraction that distils at 200–250°C is (JAMB 2024)",
+    "questionText": "During the fractional distillation of crude oil, the fraction that distils at 200–250°C is",
     "options": [
       "bitumen",
       "diesel",
@@ -2809,7 +2809,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-80-95",
-    "questionText": "If an equilibrium reaction has   H>0, the reaction will proceed favourably in the forward direction at (JAMB 2003)",
+    "questionText": "If an equilibrium reaction has   H>0, the reaction will proceed favourably in the forward direction at",
     "options": [
       "High temperature",
       "Any temperature",
@@ -2821,7 +2821,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-81-47",
-    "questionText": "The formula CH2O for ethanoic acid is regarded as its (JAMB 2002)",
+    "questionText": "The formula CH2O for ethanoic acid is regarded as its",
     "options": [
       "General formula",
       "Structural formula",
@@ -2833,7 +2833,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-82-262",
-    "questionText": "Calculate the percentage by mass of nitrogen in calcium trioxonitrate (V)   {Ca = 40, N = 14, O = 16} (JAMB 2010)",
+    "questionText": "Calculate the percentage by mass of nitrogen in calcium trioxonitrate (V)   {Ca = 40, N = 14, O = 16}",
     "options": [
       "13.10%",
       "17.10%",
@@ -2845,7 +2845,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-83-794",
-    "questionText": "In the laboratory preparation of oxygen using potassium trioxochlorate(V), tetraoxomanganate(VII) is usually not recommended in modern laboratory because (JAMB 2025)",
+    "questionText": "In the laboratory preparation of oxygen using potassium trioxochlorate(V), tetraoxomanganate(VII) is usually not recommended in modern laboratory because",
     "options": [
       "it forms explosive mixture with carbonaceous materials",
       "it is explosive",
@@ -2857,7 +2857,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-84-263",
-    "questionText": "The droplets of water observed around a bottle of milk taken out of though refrigerator is due to the fact that the (JAMB 2010)",
+    "questionText": "The droplets of water observed around a bottle of milk taken out of though refrigerator is due to the fact that the",
     "options": [
       "Temperature of the milk drops as it loses heat into the surroundings",
       "Saturated vapour pressure of the milk is equal to the atmospheric pressure",
@@ -2869,7 +2869,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-85-269",
-    "questionText": "Elements in the same periodic table have the same (JAMB 2010)",
+    "questionText": "Elements in the same periodic table have the same",
     "options": [
       "Atomic number",
       "Chemical properties",
@@ -2881,7 +2881,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-86-779",
-    "questionText": "Iron produced directly from a blast furnace is (JAMB 2025)",
+    "questionText": "Iron produced directly from a blast furnace is",
     "options": [
       "wrought iron",
       "cast iron",
@@ -2893,7 +2893,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-87-700",
-    "questionText": "Which of the following factors does NOT affect the rate of a chemical reaction? (JAMB 2023)",
+    "questionText": "Which of the following factors does NOT affect the rate of a chemical reaction?",
     "options": [
       "Concentration of reactants",
       "Presence of a catalyst",
@@ -2905,7 +2905,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932268-88-412",
-    "questionText": "The process that occurs when two equivalent forms of a compound are in equilibrium is (JAMB 2017)",
+    "questionText": "The process that occurs when two equivalent forms of a compound are in equilibrium is",
     "options": [
       "Isotopy",
       "Resonance",
@@ -2917,7 +2917,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-89-251",
-    "questionText": "The raw material used for the smelting of iron ore in a furnace is (JAMB 2006)",
+    "questionText": "The raw material used for the smelting of iron ore in a furnace is",
     "options": [
       "Zn(NO3)2",
       "CaSO4",
@@ -2929,7 +2929,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-90-685",
-    "questionText": "What is the chemical structure of soap and detergent molecules? (JAMB 2023)",
+    "questionText": "What is the chemical structure of soap and detergent molecules?",
     "options": [
       "Hydrophilic head and hydrophobic tail",
       "Hydrophilic head and hydrophilic tail",
@@ -2941,7 +2941,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-91-108",
-    "questionText": "The salt that will form a precipitate soluble in excess ammonia solution is (JAMB 2003)",
+    "questionText": "The salt that will form a precipitate soluble in excess ammonia solution is",
     "options": [
       "Ca(NO3)2",
       "Cu(NO3)2",
@@ -2953,7 +2953,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-92-646",
-    "questionText": "Addition of charcoal to the filter bed of sand during water treatment for township supply is to? (JAMB 2022)",
+    "questionText": "Addition of charcoal to the filter bed of sand during water treatment for township supply is to?",
     "options": [
       "prevent goiter",
       "prevent tooth decay",
@@ -2965,7 +2965,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-93-690",
-    "questionText": "A gas occupies a volume of 1.5 liters at a pressure of 2 atmospheres. If the pressure is increased to 4 atmospheres while the temperature remains constant, what will be the new volume of the gas? (JAMB 2023)",
+    "questionText": "A gas occupies a volume of 1.5 liters at a pressure of 2 atmospheres. If the pressure is increased to 4 atmospheres while the temperature remains constant, what will be the new volume of the gas?",
     "options": [
       "6 liters",
       "1.5 liters",
@@ -2977,7 +2977,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-94-683",
-    "questionText": "Which of the following is an example of an endothermic reaction? (JAMB 2023)",
+    "questionText": "Which of the following is an example of an endothermic reaction?",
     "options": [
       "Combustion of propane (C₃H₈) to produce carbon dioxide (CO₂) and water (H₂O).",
       "Burning of methane (CH₄) in the presence of oxygen",
@@ -2989,7 +2989,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-95-227",
-    "questionText": "The order in which a mixture of sand ammonium chloride and sodium chloride can be separated is (JAMB 2006)",
+    "questionText": "The order in which a mixture of sand ammonium chloride and sodium chloride can be separated is",
     "options": [
       "Sublimation dissolution filtration evaporation",
       "Dissolution dryness filtration evaporation",
@@ -3001,7 +3001,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-96-597",
-    "questionText": "The scientist who stated that matter can be converted into energy is? (JAMB 2021)",
+    "questionText": "The scientist who stated that matter can be converted into energy is?",
     "options": [
       "Boyle",
       "Lavoiser",
@@ -3013,7 +3013,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-97-124",
-    "questionText": "A chemical reaction is always associated with (JAMB 2004)",
+    "questionText": "A chemical reaction is always associated with",
     "options": [
       "An increase in the composition of one of the substances",
       "A change in the volume of the reactants",
@@ -3025,7 +3025,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-98-222",
-    "questionText": "In the electrolysis of CuSO4(aq) using platinum electrodes, the reaction at the anode is (JAMB 2006)",
+    "questionText": "In the electrolysis of CuSO4(aq) using platinum electrodes, the reaction at the anode is",
     "options": [
       "4H+ + 4e- → 2H2",
       "2OH + 2OH- → 2H2O + O2",
@@ -3037,7 +3037,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-99-215",
-    "questionText": "Which of the following ions requires the largest quantity of electricity for discharge at an electrode (JAMB 2005)",
+    "questionText": "Which of the following ions requires the largest quantity of electricity for discharge at an electrode",
     "options": [
       "2.5 moles of Cu2+",
       "4.0 moles of CI-",
@@ -3049,7 +3049,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-100-611",
-    "questionText": "Soaps clean surfaces on the principle based on? (JAMB 2021)",
+    "questionText": "Soaps clean surfaces on the principle based on?",
     "options": [
       "Viscosity",
       "Floatation",
@@ -3061,7 +3061,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-101-641",
-    "questionText": "The sulphide that is commonly used in coating electric fluorescent tubes is? (JAMB 2022)",
+    "questionText": "The sulphide that is commonly used in coating electric fluorescent tubes is?",
     "options": [
       "iron(ii)sulphide",
       "tin(ii)sulphide",
@@ -3073,7 +3073,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-102-510",
-    "questionText": "Hydrocarbons which will react with Tollen's reagent conform to the general formula (JAMB 2019)",
+    "questionText": "Hydrocarbons which will react with Tollen's reagent conform to the general formula",
     "options": [
       "CₙH₂ₙ",
       "CₙH₂ₙ₊₂",
@@ -3085,7 +3085,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-103-313",
-    "questionText": "When salt loses its water of crystallization to the atmosphere on exposure, the process is said to be (JAMB 2015)",
+    "questionText": "When salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
     "options": [
       "efflorescence",
       "déliquescence",
@@ -3097,7 +3097,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-104-421",
-    "questionText": "Incomplete oxidation of ethanol yields (JAMB 2017)",
+    "questionText": "Incomplete oxidation of ethanol yields",
     "options": [
       "CH₃COOH",
       "CH₃COCH₃",
@@ -3109,7 +3109,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-105-503",
-    "questionText": "The constituent common to duralumin and alnico is (JAMB 2018)",
+    "questionText": "The constituent common to duralumin and alnico is",
     "options": [
       "Co",
       "Mn",
@@ -3121,7 +3121,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-106-731",
-    "questionText": "If the solubility of KNO₃ at 30°C is 3.10 mol/dm³, a solution containing 303g/dm³ KNO₃ is likely to be (JAMB 2024)",
+    "questionText": "If the solubility of KNO₃ at 30°C is 3.10 mol/dm³, a solution containing 303g/dm³ KNO₃ is likely to be",
     "options": [
       "saturated",
       "unsaturated",
@@ -3133,7 +3133,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-107-103",
-    "questionText": "Which of the following is an electrolyte (JAMB 2003)",
+    "questionText": "Which of the following is an electrolyte",
     "options": [
       "Alcohol",
       "Sodium acetate solution",
@@ -3145,7 +3145,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-108-603",
-    "questionText": "Which of the following are chemical changes? I. cooking of food  II. digestion of food  III. freezing of water  IV. water is heated up (JAMB 2021)",
+    "questionText": "Which of the following are chemical changes? I. cooking of food  II. digestion of food  III. freezing of water  IV. water is heated up",
     "options": [
       "I and II",
       "I, II, and III",
@@ -3157,7 +3157,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-109-4",
-    "questionText": "Cancerous growths are cured by exposure to (JAMB 2001)",
+    "questionText": "Cancerous growths are cured by exposure to",
     "options": [
       "ɣ-rays",
       "β – rays",
@@ -3169,7 +3169,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-110-702",
-    "questionText": "What is the molar mass of water (H₂O)? (JAMB 2023)",
+    "questionText": "What is the molar mass of water (H₂O)?",
     "options": [
       "18 g/mol",
       "22 g/mol",
@@ -3181,7 +3181,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-111-716",
-    "questionText": "The number of molecules of helium gas contained in 11.5g of the gas is (JAMB 2024)",
+    "questionText": "The number of molecules of helium gas contained in 11.5g of the gas is",
     "options": [
       "1.73 × 10²³",
       "1.73 × 10²²",
@@ -3193,7 +3193,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-112-231",
-    "questionText": "A particle that contain s 11protons, 12 neutrons and 10 electrons is probably a (JAMB 2006)",
+    "questionText": "A particle that contain s 11protons, 12 neutrons and 10 electrons is probably a",
     "options": [
       "Metallic ion",
       "Non-metallic ion",
@@ -3205,7 +3205,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-113-268",
-    "questionText": "The maximum number of electrons in the L shell of an atom is (JAMB 2010)",
+    "questionText": "The maximum number of electrons in the L shell of an atom is",
     "options": [
       "8",
       "18",
@@ -3217,7 +3217,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-114-286",
-    "questionText": "In the preparation of oxygen by heating KCIO3 in the presence of MnC2, only moderate hear is needed because the catalyst acts by (JAMB 2010)",
+    "questionText": "In the preparation of oxygen by heating KCIO3 in the presence of MnC2, only moderate hear is needed because the catalyst acts by",
     "options": [
       "Increasing the surface area of the reactant",
       "Increasing the rate of the reaction",
@@ -3229,7 +3229,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-115-299",
-    "questionText": "The final products of the reaction between methane and chloride in the presence of ultraviolet light are hydrogen chloride and (JAMB 2010)",
+    "questionText": "The final products of the reaction between methane and chloride in the presence of ultraviolet light are hydrogen chloride and",
     "options": [
       "Dichloromethane",
       "Tetrachloromethane",
@@ -3241,7 +3241,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-116-315",
-    "questionText": "Which of the noble gases has the greatest ionization energy (JAMB 2015)",
+    "questionText": "Which of the noble gases has the greatest ionization energy",
     "options": [
       "He",
       "Xe",
@@ -3253,7 +3253,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-117-182",
-    "questionText": "The pressure of 100cm3 of oxygen at 350C is 750mmHg. What will be the volume of the gas if the pressure is reduced to 100mmHg  without changing the temperature (JAMB 2005)",
+    "questionText": "The pressure of 100cm3 of oxygen at 350C is 750mmHg. What will be the volume of the gas if the pressure is reduced to 100mmHg  without changing the temperature",
     "options": [
       "850cm3",
       "750cm3",
@@ -3265,7 +3265,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-118-743",
-    "questionText": "The ions responsible for permanent hardness in water are sulphates of (JAMB 2024)",
+    "questionText": "The ions responsible for permanent hardness in water are sulphates of",
     "options": [
       "Fe³⁺ and Mg²⁺",
       "Ca²⁺ and Mg²⁺",
@@ -3277,7 +3277,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-119-281",
-    "questionText": "The IUPAC nomencalatyre of the compound LiAIH4 is (JAMB 2010)",
+    "questionText": "The IUPAC nomencalatyre of the compound LiAIH4 is",
     "options": [
       "Aluminium tetrahydrido lithium",
       "Tetrahydrido lithium aluminate (III)",
@@ -3289,7 +3289,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-120-619",
-    "questionText": "The nucleus of a hydrogen atom consists of a? (JAMB 2021)",
+    "questionText": "The nucleus of a hydrogen atom consists of a?",
     "options": [
       "1 proton only",
       "1 proton, 2 neutrons",
@@ -3301,7 +3301,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-121-12",
-    "questionText": "Pure solvents are obtained by (JAMB 2001)",
+    "questionText": "Pure solvents are obtained by",
     "options": [
       "Distillation",
       "Condensation",
@@ -3313,7 +3313,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-122-417",
-    "questionText": "The oxidation number of iodine in KIO₃ is (JAMB 2017)",
+    "questionText": "The oxidation number of iodine in KIO₃ is",
     "options": [
       "7",
       "3",
@@ -3325,7 +3325,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-123-288",
-    "questionText": "To a solution of an unknown compound, a little dilute Tetraoxosulphate (IV) acid was added with some freshly prepared (II) Tetraoxosulphate (VI) Solution. The brown ring observed after the addition of a stream of concentrated  Tetraoxosulphate (VI) acid confirmed the presence of (JAMB 2010)",
+    "questionText": "To a solution of an unknown compound, a little dilute Tetraoxosulphate (IV) acid was added with some freshly prepared (II) Tetraoxosulphate (VI) Solution. The brown ring observed after the addition of a stream of concentrated  Tetraoxosulphate (VI) acid confirmed the presence of",
     "options": [
       "CI",
       "SO",
@@ -3337,7 +3337,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-124-239",
-    "questionText": "One mole of a hydrocarbon contains 36g of carbon and its vapour density is 20. The structure of the hydrocarbon is (JAMB 2006)",
+    "questionText": "One mole of a hydrocarbon contains 36g of carbon and its vapour density is 20. The structure of the hydrocarbon is",
     "options": [
       "CH3CH2CH3",
       "CH3CH = CH2",
@@ -3349,7 +3349,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-125-407",
-    "questionText": "The shape of the S-orbital is (JAMB 2017)",
+    "questionText": "The shape of the S-orbital is",
     "options": [
       "elliptical",
       "spiral",
@@ -3361,7 +3361,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-126-438",
-    "questionText": "The reddish-brown rust on iron roofing sheets consists of (JAMB 2017)",
+    "questionText": "The reddish-brown rust on iron roofing sheets consists of",
     "options": [
       "Fe³⁺(H₂O)₆",
       "FeO·H₂O",
@@ -3373,7 +3373,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-127-144",
-    "questionText": "Which of the following acts as both a reducing and an oxidizing agent (JAMB 2004)",
+    "questionText": "Which of the following acts as both a reducing and an oxidizing agent",
     "options": [
       "H2",
       "SO2",
@@ -3385,7 +3385,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-128-304",
-    "questionText": "The compound that is used as an anaesthetic is (JAMB 2010)",
+    "questionText": "The compound that is used as an anaesthetic is",
     "options": [
       "CHCI3",
       "CH2C2",
@@ -3397,7 +3397,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-129-58",
-    "questionText": "The solubility of a salt of molar mass 101g at 200C is 0.34mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is (JAMB 2002)",
+    "questionText": "The solubility of a salt of molar mass 101g at 200C is 0.34mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is",
     "options": [
       "Unsaturated",
       "A suspension",
@@ -3409,7 +3409,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-130-601",
-    "questionText": "Which one of the following is not a mixture? (JAMB 2021)",
+    "questionText": "Which one of the following is not a mixture?",
     "options": [
       "Air",
       "Mercury",
@@ -3421,7 +3421,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-131-351",
-    "questionText": "Which of the following gives a precipitation when treated with NaOH solution? (JAMB 2015)",
+    "questionText": "Which of the following gives a precipitation when treated with NaOH solution?",
     "options": [
       "AlCl₃",
       "NH₄Cl",
@@ -3433,7 +3433,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-132-502",
-    "questionText": "The reaction between an organic acid and an alcohol in the presence of an acid catalyst is known as (JAMB 2018)",
+    "questionText": "The reaction between an organic acid and an alcohol in the presence of an acid catalyst is known as",
     "options": [
       "saponification",
       "dehydration",
@@ -3445,7 +3445,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-133-761",
-    "questionText": "When ΔH is positive and small, and ΔS is positive and large, the reaction will be (JAMB 2025)",
+    "questionText": "When ΔH is positive and small, and ΔS is positive and large, the reaction will be",
     "options": [
       "Non-spontaneous",
       "favour forward reaction only",
@@ -3457,7 +3457,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-134-214",
-    "questionText": "2H2 + O2  → 2H2O  ΔH = -571Kj  In equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen? (JAMB 2005)",
+    "questionText": "2H2 + O2  → 2H2O  ΔH = -571Kj  In equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?",
     "options": [
       "-1713kJ",
       "+1142kJ",
@@ -3469,7 +3469,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-135-320",
-    "questionText": "A suitable reagent for distinguish between ethanoic and ethanol is (JAMB 2015)",
+    "questionText": "A suitable reagent for distinguish between ethanoic and ethanol is",
     "options": [
       "bromine water",
       "Fehling’s solution",
@@ -3481,7 +3481,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-136-588",
-    "questionText": "The general formula for the Alkanals is? (JAMB 2020)",
+    "questionText": "The general formula for the Alkanals is?",
     "options": [
       "R₂CO",
       "RCHO",
@@ -3493,7 +3493,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-137-233",
-    "questionText": "A difference between chemical and physical change is that in a chemical change (JAMB 2006)",
+    "questionText": "A difference between chemical and physical change is that in a chemical change",
     "options": [
       "Heat is supplied",
       "A new substance is formed",
@@ -3505,7 +3505,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-138-18",
-    "questionText": "P(g) + O(g)    ⇌ 3R(s)  +  S(g)   ΔH is negative which of the following will increase the yield of R (JAMB 2001)",
+    "questionText": "P(g) + O(g)    ⇌ 3R(s)  +  S(g)   ΔH is negative which of the following will increase the yield of R",
     "options": [
       "Using a larger closed vessel",
       "Increasing the temperature",
@@ -3517,7 +3517,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-139-790",
-    "questionText": "Which of the following statements is false about hard water? (JAMB 2025)",
+    "questionText": "Which of the following statements is false about hard water?",
     "options": [
       "Helps animals to build strong teeth",
       "Cannot be supplied in pipes made of lead",
@@ -3529,7 +3529,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-140-607",
-    "questionText": "A sample of any of the following substances disappears after some time when exposed to air like camphor, naphthalene, or dry ice. This phenomenon is called? (JAMB 2021)",
+    "questionText": "A sample of any of the following substances disappears after some time when exposed to air like camphor, naphthalene, or dry ice. This phenomenon is called?",
     "options": [
       "Sublimation",
       "Evaporation",
@@ -3541,7 +3541,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-141-738",
-    "questionText": "The chemical formula for potassiumhexacyanoferrate(II) is (JAMB 2024)",
+    "questionText": "The chemical formula for potassiumhexacyanoferrate(II) is",
     "options": [
       "[Fe(CN)₆]⁴⁻",
       "K₃Fe(CN)₆",
@@ -3553,7 +3553,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-142-542",
-    "questionText": "Which of the following describes the chemical property of acids? (JAMB 2019)",
+    "questionText": "Which of the following describes the chemical property of acids?",
     "options": [
       "None of the above",
       "Acid + XCO₃ → Salt + H₂O + NH₃",
@@ -3565,7 +3565,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-143-51",
-    "questionText": "Which of the following solutions containing only hydroxyl ions will liberate hydrogen gas when reacted with magnesium metal (JAMB 2002)",
+    "questionText": "Which of the following solutions containing only hydroxyl ions will liberate hydrogen gas when reacted with magnesium metal",
     "options": [
       "1.0 x 10-2 mol dm-3",
       "1.0 x 10-4 mol dm -3",
@@ -3577,7 +3577,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-144-687",
-    "questionText": "Which trace gas in the atmosphere plays a significant role in the greenhouse effect? (JAMB 2023)",
+    "questionText": "Which trace gas in the atmosphere plays a significant role in the greenhouse effect?",
     "options": [
       "Oxygen",
       "Argon",
@@ -3589,7 +3589,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-145-293",
-    "questionText": "Stainless steel is used for making (JAMB 2010)",
+    "questionText": "Stainless steel is used for making",
     "options": [
       "Tools",
       "Coins and medals",
@@ -3601,7 +3601,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-146-296",
-    "questionText": "Which of the following organic compounds is very soluble in water (JAMB 2010)",
+    "questionText": "Which of the following organic compounds is very soluble in water",
     "options": [
       "C2H2",
       "C2H4",
@@ -3613,7 +3613,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-147-707",
-    "questionText": "Which of the following is a primary constituent of crude oil? (JAMB 2023)",
+    "questionText": "Which of the following is a primary constituent of crude oil?",
     "options": [
       "Pentane",
       "Ethanol",
@@ -3625,7 +3625,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-148-697",
-    "questionText": "Which of the following alkanes has a straight-chain structure? (JAMB 2023)",
+    "questionText": "Which of the following alkanes has a straight-chain structure?",
     "options": [
       "Cyclopentane (C₅H₁₀)",
       "Isobutane (C₄H₁₀)",
@@ -3637,7 +3637,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-149-107",
-    "questionText": "Which of the following statements is true of sulphur (IV) oxide (JAMB 2003)",
+    "questionText": "Which of the following statements is true of sulphur (IV) oxide",
     "options": [
       "It forms Tetraoxosulphate (VI) acid with water",
       "It is an odourless gas",
@@ -3649,7 +3649,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-150-515",
-    "questionText": "Which of the following metals is the most essential in the regulation of blood volume, blood pressure and osmotic equilibrium? (JAMB 2019)",
+    "questionText": "Which of the following metals is the most essential in the regulation of blood volume, blood pressure and osmotic equilibrium?",
     "options": [
       "Zinc",
       "Manganese",
@@ -3661,7 +3661,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-151-271",
-    "questionText": "Permanent hardness of water can be removed by (JAMB 2010)",
+    "questionText": "Permanent hardness of water can be removed by",
     "options": [
       "Adding slaked lime",
       "Adding caustic soda",
@@ -3673,7 +3673,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-152-331",
-    "questionText": "Rare gases are stable because they (JAMB 2015)",
+    "questionText": "Rare gases are stable because they",
     "options": [
       "are monoatomic",
       "form ions easily",
@@ -3685,7 +3685,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-153-190",
-    "questionText": "Which of these properties gives a solid its definite shape (JAMB 2005)",
+    "questionText": "Which of these properties gives a solid its definite shape",
     "options": [
       "Weak intermolecular attraction",
       "High boiling point",
@@ -3697,7 +3697,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-154-650",
-    "questionText": "Zn + 2HCl → ZnCl₂ + H₂. What happens to zinc in the above reaction? (JAMB 2022)",
+    "questionText": "Zn + 2HCl → ZnCl₂ + H₂. What happens to zinc in the above reaction?",
     "options": [
       "oxidized",
       "a reactant",
@@ -3709,7 +3709,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-155-787",
-    "questionText": "Which of the following has the highest boiling point? (JAMB 2025)",
+    "questionText": "Which of the following has the highest boiling point?",
     "options": [
       "CH₃CH₂OH",
       "CH₃CH₂CH₂Cl",
@@ -3721,7 +3721,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-156-60",
-    "questionText": "which of the following chlorides would exhibit the least ionic character (JAMB 2002)",
+    "questionText": "which of the following chlorides would exhibit the least ionic character",
     "options": [
       "AlCl3",
       "CaCl2",
@@ -3733,7 +3733,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-157-498",
-    "questionText": "Which of the following is used to power steam engines? (JAMB 2018)",
+    "questionText": "Which of the following is used to power steam engines?",
     "options": [
       "lubricating oil",
       "coal",
@@ -3745,7 +3745,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-158-370",
-    "questionText": "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is (JAMB 2016)",
+    "questionText": "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is",
     "options": [
       "Phosphorus-32",
       "Cobalt-60",
@@ -3757,7 +3757,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-159-356",
-    "questionText": "The condition required for corrosion to take place is the presence of (JAMB 2016)",
+    "questionText": "The condition required for corrosion to take place is the presence of",
     "options": [
       "Oxygen and Carbon (IV) oxide",
       "Water and Oxygen",
@@ -3769,7 +3769,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-160-14",
-    "questionText": "Environmental pollution is worsened by the release from automobile exhausts of (JAMB 2001)",
+    "questionText": "Environmental pollution is worsened by the release from automobile exhausts of",
     "options": [
       "Water vapour",
       "Steam",
@@ -3781,7 +3781,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-161-475",
-    "questionText": "Which of the following pairs of substances will react further with oxygen to form a higher oxide? (JAMB 2018)",
+    "questionText": "Which of the following pairs of substances will react further with oxygen to form a higher oxide?",
     "options": [
       "CO₂ and H₂O",
       "NO and H₂O",
@@ -3793,7 +3793,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-162-451",
-    "questionText": "Water for town supply is chlorinated to make it free from (JAMB 2017)",
+    "questionText": "Water for town supply is chlorinated to make it free from",
     "options": [
       "bad colour",
       "bacteria",
@@ -3805,7 +3805,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-163-689",
-    "questionText": "What is Faraday's constant? (JAMB 2023)",
+    "questionText": "What is Faraday's constant?",
     "options": [
       "6.022 × 10²³ mol⁻¹",
       "3.00 × 10⁸ m/s",
@@ -3817,7 +3817,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-164-73",
-    "questionText": "The gas that gives brown colouration in brown ring test (JAMB 2002)",
+    "questionText": "The gas that gives brown colouration in brown ring test",
     "options": [
       "Co2",
       "NO2",
@@ -3829,7 +3829,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-165-235",
-    "questionText": "The idea of planetary electrons was that of (JAMB 2006)",
+    "questionText": "The idea of planetary electrons was that of",
     "options": [
       "Bohr",
       "Thompson",
@@ -3841,7 +3841,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-166-76",
-    "questionText": "Which of the following is a physical change (JAMB 2003)",
+    "questionText": "Which of the following is a physical change",
     "options": [
       "Burning kerosene",
       "Freezing ice-cream",
@@ -3853,7 +3853,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-167-140",
-    "questionText": "Which of these compounds is a normal salt (JAMB 2004)",
+    "questionText": "Which of these compounds is a normal salt",
     "options": [
       "NaHS",
       "NaSO4",
@@ -3865,7 +3865,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-168-126",
-    "questionText": "What volume of gas is evolved at s.t.p. if 2g of calcium trioxocarbonate(IV) is added to a solution of hydrochloric acid    [Ca = 40, C = 12, O = 16, CI = 35.5, H = 1, Molar volume of a gas at s.t.p = 22.4dm3] (JAMB 2004)",
+    "questionText": "What volume of gas is evolved at s.t.p. if 2g of calcium trioxocarbonate(IV) is added to a solution of hydrochloric acid    [Ca = 40, C = 12, O = 16, CI = 35.5, H = 1, Molar volume of a gas at s.t.p = 22.4dm3]",
     "options": [
       "112cm3",
       "224cm3",
@@ -3877,7 +3877,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-169-41",
-    "questionText": "The gas that can best be collected by downward displacement of air is (JAMB 2001)",
+    "questionText": "The gas that can best be collected by downward displacement of air is",
     "options": [
       "Chlorine",
       "Sulphur(IV)oxide",
@@ -3889,7 +3889,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-170-699",
-    "questionText": "When an acidic solution is diluted, what happens to its pH? (JAMB 2023)",
+    "questionText": "When an acidic solution is diluted, what happens to its pH?",
     "options": [
       "It depends on the specific acid",
       "It decreases",
@@ -3901,7 +3901,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-171-480",
-    "questionText": "The number of electrons in the valence shell of an element of atomic number 14 is (JAMB 2018)",
+    "questionText": "The number of electrons in the valence shell of an element of atomic number 14 is",
     "options": [
       "1",
       "2",
@@ -3913,7 +3913,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-172-341",
-    "questionText": "An oxidation state of Cr in K₂Cr₂O₇ (JAMB 2015)",
+    "questionText": "An oxidation state of Cr in K₂Cr₂O₇",
     "options": [
       "7",
       "6",
@@ -3925,7 +3925,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-173-420",
-    "questionText": "A sample of orange juice is found to have a pH of 3.80. What is the concentration of the hydroxide ion in the juice? (JAMB 2017)",
+    "questionText": "A sample of orange juice is found to have a pH of 3.80. What is the concentration of the hydroxide ion in the juice?",
     "options": [
       "1.6 × 10⁻⁴",
       "6.3 × 10⁻¹¹",
@@ -3937,7 +3937,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-174-274",
-    "questionText": "Coffee stains can best be removed by (JAMB 2010)",
+    "questionText": "Coffee stains can best be removed by",
     "options": [
       "Turpentine",
       "A solution of borax in water",
@@ -3949,7 +3949,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-175-243",
-    "questionText": "When a crystal was added to the clear solution of its salt, the crystal did not dissolve and the solution remained unchanged. This showed that the solution was (JAMB 2006)",
+    "questionText": "When a crystal was added to the clear solution of its salt, the crystal did not dissolve and the solution remained unchanged. This showed that the solution was",
     "options": [
       "Supersaturated",
       "Unsaturated",
@@ -3961,7 +3961,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-176-469",
-    "questionText": "On which of the following is the solubility of a gaseous substance dependent?\nI. Nature of solvent\nII. Nature of solute\nIII. Temperature\nIV. Pressure (JAMB 2018)",
+    "questionText": "On which of the following is the solubility of a gaseous substance dependent?\nI. Nature of solvent\nII. Nature of solute\nIII. Temperature\nIV. Pressure",
     "options": [
       "I, II, III and IV",
       "I and II only",
@@ -3973,7 +3973,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-177-24",
-    "questionText": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1] (JAMB 2001)",
+    "questionText": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1]",
     "options": [
       "Increasing the temperature of the system",
       "Increasing the pressure of the system",
@@ -3985,7 +3985,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-178-478",
-    "questionText": "A quantity of electricity liberates 3.6 g of silver from its salt. What mass of aluminium will be liberated from its salt by the same quantity of electricity? [Al = 27, Ag = 108] (JAMB 2018)",
+    "questionText": "A quantity of electricity liberates 3.6 g of silver from its salt. What mass of aluminium will be liberated from its salt by the same quantity of electricity? [Al = 27, Ag = 108]",
     "options": [
       "2.7 g",
       "1.2 g",
@@ -3997,7 +3997,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-179-301",
-    "questionText": "One of the major uses of Alkanes is (JAMB 2010)",
+    "questionText": "One of the major uses of Alkanes is",
     "options": [
       "In the hydrogenation of oils",
       "In the textile industries",
@@ -4009,7 +4009,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-180-590",
-    "questionText": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone? (JAMB 2020)",
+    "questionText": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone?",
     "options": [
       "Sublimation",
       "Crystallization",
@@ -4021,7 +4021,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-181-538",
-    "questionText": "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂\nThe indicator most suitable for this reaction should have a pH equal to (JAMB 2019)",
+    "questionText": "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂\nThe indicator most suitable for this reaction should have a pH equal to",
     "options": [
       "5",
       "7",
@@ -4033,7 +4033,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-182-467",
-    "questionText": "A correct electrochemical series can be obtained from Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging (JAMB 2018)",
+    "questionText": "A correct electrochemical series can be obtained from Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging",
     "options": [
       "Al and Mg",
       "Zn and Fe",
@@ -4045,7 +4045,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-183-620",
-    "questionText": "The metal used to recover copper from a solution of copper sulphate is? (JAMB 2021)",
+    "questionText": "The metal used to recover copper from a solution of copper sulphate is?",
     "options": [
       "Na",
       "Ag",
@@ -4057,7 +4057,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-184-248",
-    "questionText": "An emulsion may be produced by shaking a detergent solution with (JAMB 2006)",
+    "questionText": "An emulsion may be produced by shaking a detergent solution with",
     "options": [
       "Palm wine",
       "Palm oil",
@@ -4069,7 +4069,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-185-440",
-    "questionText": "The carbon atoms in ethane are (JAMB 2017)",
+    "questionText": "The carbon atoms in ethane are",
     "options": [
       "sp² hybridized",
       "sp³ hybridized",
@@ -4081,7 +4081,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-186-333",
-    "questionText": "Which of these radioactive elements is commonly used as a nuclear fuel? (JAMB 2015)",
+    "questionText": "Which of these radioactive elements is commonly used as a nuclear fuel?",
     "options": [
       "uranium",
       "palladium",
@@ -4093,7 +4093,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-187-56",
-    "questionText": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be (JAMB 2002)",
+    "questionText": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
     "options": [
       "Deliquescence",
       "Effervescence",
@@ -4105,7 +4105,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-188-608",
-    "questionText": "The maximum number of electrons in the N shell is? (JAMB 2021)",
+    "questionText": "The maximum number of electrons in the N shell is?",
     "options": [
       "2",
       "8",
@@ -4117,7 +4117,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-189-566",
-    "questionText": "Which of the following substances is a mixture? (JAMB 2020)",
+    "questionText": "Which of the following substances is a mixture?",
     "options": [
       "Granulated sugar",
       "Seawater",
@@ -4129,7 +4129,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-190-211",
-    "questionText": "What is the correct IUPAC name for NO2 (JAMB 2005)",
+    "questionText": "What is the correct IUPAC name for NO2",
     "options": [
       "Dioxonitrate(III) ion",
       "Dioxonitrate(IV) ION",
@@ -4141,7 +4141,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-191-460",
-    "questionText": "The type of bonding in [Cu(NH₃)₄]²⁺ is (JAMB 2018)",
+    "questionText": "The type of bonding in [Cu(NH₃)₄]²⁺ is",
     "options": [
       "coordinate",
       "electrovalent",
@@ -4153,7 +4153,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-192-744",
-    "questionText": "One of the following is not a water pollutant? (JAMB 2024)",
+    "questionText": "One of the following is not a water pollutant?",
     "options": [
       "Inorganic fertilizers",
       "Warm water affluent",
@@ -4165,7 +4165,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-193-633",
-    "questionText": "The fourteen elements (atomic number 90-103) after actinium are called? (JAMB 2021)",
+    "questionText": "The fourteen elements (atomic number 90-103) after actinium are called?",
     "options": [
       "Actinoids",
       "Nucleotides",
@@ -4177,7 +4177,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-194-322",
-    "questionText": "Which of the following metals burns with brick red (JAMB 2015)",
+    "questionText": "Which of the following metals burns with brick red",
     "options": [
       "Pb",
       "Ca",
@@ -4189,7 +4189,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-195-98",
-    "questionText": "If Y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct (JAMB 2003)",
+    "questionText": "If Y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct",
     "options": [
       "Y increases in oxidation number",
       "Y becomes reduced",
@@ -4201,7 +4201,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-196-550",
-    "questionText": "The IUPAC nomenclature of the compound H₃C - CH(CH₃) - CH(CH₃) - CH₂ - CH₃ (JAMB 2019)",
+    "questionText": "The IUPAC nomenclature of the compound H₃C - CH(CH₃) - CH(CH₃) - CH₂ - CH₃",
     "options": [
       "3,4-dimethylhexane",
       "2,3-dimethyl pentane",
@@ -4213,7 +4213,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-197-714",
-    "questionText": "Which of the following is a common property of non-metals? (JAMB 2023)",
+    "questionText": "Which of the following is a common property of non-metals?",
     "options": [
       "Exist as solids at room temperature",
       "Tend to gain electrons in chemical reactions",
@@ -4225,7 +4225,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-198-609",
-    "questionText": "Neutrons were discovered by? (JAMB 2021)",
+    "questionText": "Neutrons were discovered by?",
     "options": [
       "James Chadwick",
       "Ernest Rutherford",
@@ -4237,7 +4237,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-199-445",
-    "questionText": "A particle that contains 9 protons, 10 neutrons and 10 electrons is (JAMB 2017)",
+    "questionText": "A particle that contains 9 protons, 10 neutrons and 10 electrons is",
     "options": [
       "positive ion",
       "neutral atom of a metal",
@@ -4249,7 +4249,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-200-223",
-    "questionText": "IN which of the following is the oxidation number of sulphur equal to -2 (JAMB 2006)",
+    "questionText": "IN which of the following is the oxidation number of sulphur equal to -2",
     "options": [
       "H2S",
       "SO3",
@@ -4261,7 +4261,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-201-178",
-    "questionText": "The most suitable metal that can be used as a lightening  conductor is (JAMB 2005)",
+    "questionText": "The most suitable metal that can be used as a lightening  conductor is",
     "options": [
       "Aluminium",
       "Iron",
@@ -4273,7 +4273,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-202-726",
-    "questionText": "Biuret test is a chemical test used for detecting the presence of (JAMB 2024)",
+    "questionText": "Biuret test is a chemical test used for detecting the presence of",
     "options": [
       "carbohydrates",
       "proteins",
@@ -4285,7 +4285,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-203-25",
-    "questionText": "3CU(s)  +  8HNO3(aq) →  3Cu(NO3)2(aq)  +  4H2O(I)  +  2NO(g)  In the equation above, copper is (JAMB 2001)",
+    "questionText": "3CU(s)  +  8HNO3(aq) →  3Cu(NO3)2(aq)  +  4H2O(I)  +  2NO(g)  In the equation above, copper is",
     "options": [
       "An electron acceptor",
       "A base",
@@ -4297,7 +4297,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-204-533",
-    "questionText": "Which of the following does NOT support the fact that air is a mixture? (JAMB 2019)",
+    "questionText": "Which of the following does NOT support the fact that air is a mixture?",
     "options": [
       "the constituents of air are in a fixed proportion by mass",
       "it cannot be represented with a chemical formula",
@@ -4309,7 +4309,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-205-53",
-    "questionText": "The property which makes alcohol soluble in water is the (JAMB 2002)",
+    "questionText": "The property which makes alcohol soluble in water is the",
     "options": [
       "Hydrogen bonding",
       "Covalent nature",
@@ -4321,7 +4321,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-206-334",
-    "questionText": "All these are electromagnetic waves except (JAMB 2015)",
+    "questionText": "All these are electromagnetic waves except",
     "options": [
       "White light",
       "Photon",
@@ -4333,7 +4333,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-207-654",
-    "questionText": "An organic compound which decolourises bromine water is likely to be? (JAMB 2022)",
+    "questionText": "An organic compound which decolourises bromine water is likely to be?",
     "options": [
       "C₃H₈",
       "C₂H₆",
@@ -4345,7 +4345,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-208-50",
-    "questionText": "Steam changes the colour of anhydrous cobalt(II) chloride from (JAMB 2002)",
+    "questionText": "Steam changes the colour of anhydrous cobalt(II) chloride from",
     "options": [
       "White to red",
       "Blue to white",
@@ -4357,7 +4357,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-209-530",
-    "questionText": "If acidified potassium dichromate (VI) (K₂Cr₂O₇) acts as oxidizing agent, the colour changes from (JAMB 2019)",
+    "questionText": "If acidified potassium dichromate (VI) (K₂Cr₂O₇) acts as oxidizing agent, the colour changes from",
     "options": [
       "yellow to green",
       "orange to green",
@@ -4369,7 +4369,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-210-558",
-    "questionText": "An example of a polysaccharide is? (JAMB 2020)",
+    "questionText": "An example of a polysaccharide is?",
     "options": [
       "Dextrose",
       "Mannose",
@@ -4381,7 +4381,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-211-181",
-    "questionText": "The most abundant element on the earth’s crust is (JAMB 2005)",
+    "questionText": "The most abundant element on the earth’s crust is",
     "options": [
       "Oxygen",
       "Fluorine",
@@ -4393,7 +4393,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-212-770",
-    "questionText": "2X + 2HCl → 2XCl + H₂. In the equation above, X is (JAMB 2025)",
+    "questionText": "2X + 2HCl → 2XCl + H₂. In the equation above, X is",
     "options": [
       "K",
       "Mg",
@@ -4405,7 +4405,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932269-213-136",
-    "questionText": "Pollution of underground water by metal ions is very likely in a soil that has high (JAMB 2004)",
+    "questionText": "Pollution of underground water by metal ions is very likely in a soil that has high",
     "options": [
       "Acidity",
       "Alkalinity",
@@ -4417,7 +4417,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-214-84",
-    "questionText": "A gas exerts pressure on its container because (JAMB 2003)",
+    "questionText": "A gas exerts pressure on its container because",
     "options": [
       "Some of its molecules are moving faster than others",
       "Of the collision of the molecules with each other",
@@ -4429,7 +4429,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-215-70",
-    "questionText": "The most important use of hydrogen is in the (JAMB 2002)",
+    "questionText": "The most important use of hydrogen is in the",
     "options": [
       "Hydrogenation of oils",
       "Manufacture of methyl alcohol",
@@ -4441,7 +4441,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-216-148",
-    "questionText": "Which of the following hydrogen halides has the highest entropy value (JAMB 2004)",
+    "questionText": "Which of the following hydrogen halides has the highest entropy value",
     "options": [
       "HF",
       "HCl",
@@ -4453,7 +4453,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-217-318",
-    "questionText": "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays (JAMB 2015)",
+    "questionText": "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays",
     "options": [
       "are positively charged",
       "are negatively charged",
@@ -4465,7 +4465,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-218-676",
-    "questionText": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium? (JAMB 2023)",
+    "questionText": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium?",
     "options": [
       "Argon",
       "Krypton",
@@ -4477,7 +4477,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-219-555",
-    "questionText": "The electronic configuration of an element is 1S² 2S² 2P⁶ 3S² 3P³. How many unpaired electrons are there in the element? (JAMB 2020)",
+    "questionText": "The electronic configuration of an element is 1S² 2S² 2P⁶ 3S² 3P³. How many unpaired electrons are there in the element?",
     "options": [
       "5",
       "4",
@@ -4489,7 +4489,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-220-448",
-    "questionText": "If 100 cm³ of oxygen passes through a porous plug in 50 seconds, the time taken for the same volume of hydrogen to pass through the same porous plug is? [O = 16, H = 1] (JAMB 2017)",
+    "questionText": "If 100 cm³ of oxygen passes through a porous plug in 50 seconds, the time taken for the same volume of hydrogen to pass through the same porous plug is? [O = 16, H = 1]",
     "options": [
       "10.0 s",
       "12.5 s",
@@ -4501,7 +4501,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-221-308",
-    "questionText": "In the industrial production of H₂ from water gas, the CO₂ produced along with the H₂ is removed by (JAMB 2015)",
+    "questionText": "In the industrial production of H₂ from water gas, the CO₂ produced along with the H₂ is removed by",
     "options": [
       "Washing under pressure",
       "Drying over phosphorus (V) oxide",
@@ -4513,7 +4513,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-222-272",
-    "questionText": "Substances employed as drying agents are usually (JAMB 2010)",
+    "questionText": "Substances employed as drying agents are usually",
     "options": [
       "Hygroscopic",
       "Efflorescent",
@@ -4525,7 +4525,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-223-37",
-    "questionText": "Proteins in acid solution undergo (JAMB 2001)",
+    "questionText": "Proteins in acid solution undergo",
     "options": [
       "Polymerization",
       "Substitution",
@@ -4537,7 +4537,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-224-695",
-    "questionText": "What is the trend for ionization energy across a period in the periodic table? (JAMB 2023)",
+    "questionText": "What is the trend for ionization energy across a period in the periodic table?",
     "options": [
       "Increases from left to right.",
       "Remains constant",
@@ -4549,7 +4549,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-225-156",
-    "questionText": "Aluminium hydroxide is used in the dyeing industry as a (JAMB 2004)",
+    "questionText": "Aluminium hydroxide is used in the dyeing industry as a",
     "options": [
       "Salt",
       "Dye",
@@ -4561,7 +4561,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-226-62",
-    "questionText": "The processes which return carbon(IV) oxide to the atmosphere include (JAMB 2002)",
+    "questionText": "The processes which return carbon(IV) oxide to the atmosphere include",
     "options": [
       "Photosynthesis, decay and respiration",
       "Photosynthesis, respiration and transpiration",
@@ -4573,7 +4573,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-227-204",
-    "questionText": "The air around smelting industries is likely to contain (JAMB 2005)",
+    "questionText": "The air around smelting industries is likely to contain",
     "options": [
       "CO2, SO3 and H2",
       "SO2N2 and CO2",
@@ -4585,7 +4585,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-228-336",
-    "questionText": "The number of isomers formed by C₆H₁₄ is (JAMB 2015)",
+    "questionText": "The number of isomers formed by C₆H₁₄ is",
     "options": [
       "4",
       "5",
@@ -4597,7 +4597,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-229-734",
-    "questionText": "What would be the order of the electrolytic cell in an industry intending the production of silver plated spoons? (JAMB 2024)",
+    "questionText": "What would be the order of the electrolytic cell in an industry intending the production of silver plated spoons?",
     "options": [
       "Cathode is the spoon; anode is a silver rod; electrolyte is a soluble silver salt",
       "Cathode is a silver rod; anode is the spoon; electrolyte is a soluble silver salt",
@@ -4609,7 +4609,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-230-283",
-    "questionText": "What quantity of aluminum is deposited when a current of 10A is passed through a solution of an aluminum salt for 1930s  {AI = 27, F = 96500 C mol-} (JAMB 2010)",
+    "questionText": "What quantity of aluminum is deposited when a current of 10A is passed through a solution of an aluminum salt for 1930s  {AI = 27, F = 96500 C mol-}",
     "options": [
       "1.8g",
       "5.4g",
@@ -4621,7 +4621,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-231-94",
-    "questionText": "A charge in the temperature of a saturated solution disturbs the equilibrium between the (JAMB 2003)",
+    "questionText": "A charge in the temperature of a saturated solution disturbs the equilibrium between the",
     "options": [
       "Dissolved solute and the solvent",
       "Solvent and the undissolved solute",
@@ -4633,7 +4633,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-232-379",
-    "questionText": "Which of the following statements is correct about the periodic table? (JAMB 2016)",
+    "questionText": "Which of the following statements is correct about the periodic table?",
     "options": [
       "Elements in the same group have the same number of electron shells",
       "The non-metallic properties of the elements tend to decrease across each period",
@@ -4645,7 +4645,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-233-328",
-    "questionText": "Which of the following ions requires the largest quantity of electricity for discharge at an electrode? (JAMB 2015)",
+    "questionText": "Which of the following ions requires the largest quantity of electricity for discharge at an electrode?",
     "options": [
       "2.0 mole of Q³⁺",
       "2.5 mole of R²⁺",
@@ -4657,7 +4657,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-234-762",
-    "questionText": "Calculate the pH of 0.001 M KOH solution. (JAMB 2025)",
+    "questionText": "Calculate the pH of 0.001 M KOH solution.",
     "options": [
       "11",
       "14",
@@ -4669,7 +4669,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-235-74",
-    "questionText": "The boiling of fat and aqueous caustic soda is referred as (JAMB 2002)",
+    "questionText": "The boiling of fat and aqueous caustic soda is referred as",
     "options": [
       "Saponification",
       "Esterification",
@@ -4681,7 +4681,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-236-30",
-    "questionText": "Fermentation is the (JAMB 2001)",
+    "questionText": "Fermentation is the",
     "options": [
       "Breaking down of carbohydrate to glucose",
       "Conversion of sugar to alcohol in the presence of yeast",
@@ -4693,7 +4693,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-237-184",
-    "questionText": "A heterogeneous mixture can be defined as any mixture (JAMB 2005)",
+    "questionText": "A heterogeneous mixture can be defined as any mixture",
     "options": [
       "Whose composition is uniform",
       "Whose composition is not uniform",
@@ -4705,7 +4705,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-238-397",
-    "questionText": "n monosaccharide ⇌ (P/Q) polysaccharide + n water. In the process above, P and Q respectively represent (JAMB 2016)",
+    "questionText": "n monosaccharide ⇌ (P/Q) polysaccharide + n water. In the process above, P and Q respectively represent",
     "options": [
       "Condensation and hydrolysis",
       "Fermentation and condensation",
@@ -4717,7 +4717,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-239-19",
-    "questionText": "A metal M displaces zinc from zinc chloride solution. This shows that (JAMB 2001)",
+    "questionText": "A metal M displaces zinc from zinc chloride solution. This shows that",
     "options": [
       "M is more electronegative than zinc",
       "Zinc is above hydrogen in the series",
@@ -4729,7 +4729,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-240-521",
-    "questionText": "Which of the following statements does NOT show Rutherford's account of Nuclear Theory? An atom contains a region (JAMB 2019)",
+    "questionText": "Which of the following statements does NOT show Rutherford's account of Nuclear Theory? An atom contains a region",
     "options": [
       "which contains protons and neutrons",
       "which is positively charged",
@@ -4741,7 +4741,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-241-71",
-    "questionText": "Which of the following gives a precipitate when treated with NaOH solution (JAMB 2002)",
+    "questionText": "Which of the following gives a precipitate when treated with NaOH solution",
     "options": [
       "Na2CO3",
       "CH3COONa",
@@ -4753,7 +4753,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-242-15",
-    "questionText": "The chemiocal used for coagulation in water purification is (JAMB 2001)",
+    "questionText": "The chemiocal used for coagulation in water purification is",
     "options": [
       "Aluminum tetraoxosulphate(VI)",
       "Copper tetratoxosulphate (VI)",
@@ -4765,7 +4765,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-243-778",
-    "questionText": "What accounts for the low melting and boiling points of covalent molecules? (JAMB 2025)",
+    "questionText": "What accounts for the low melting and boiling points of covalent molecules?",
     "options": [
       "They have weak intermolecular forces",
       "They have definite shapes",
@@ -4777,7 +4777,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-244-173",
-    "questionText": "Which of the following alloys contain iron (JAMB 2005)",
+    "questionText": "Which of the following alloys contain iron",
     "options": [
       "Steel and permalloy",
       "Duralumlin and steel",
@@ -4789,7 +4789,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-245-366",
-    "questionText": "The compounds CH₃CH₂CHO and CH₃COCH₃ can be distinguished from each other using (JAMB 2016)",
+    "questionText": "The compounds CH₃CH₂CHO and CH₃COCH₃ can be distinguished from each other using",
     "options": [
       "Dilute ammonia",
       "Benedict's solution",
@@ -4801,7 +4801,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-246-17",
-    "questionText": "In which of the following reactuions does reduction take place (JAMB 2001)",
+    "questionText": "In which of the following reactuions does reduction take place",
     "options": [
       "Fe2+ - e- Fe3+",
       "2O2- → O2 + 4e-",
@@ -4813,7 +4813,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-247-686",
-    "questionText": "What is the solubility product constant (Ksp) used for? (JAMB 2023)",
+    "questionText": "What is the solubility product constant (Ksp) used for?",
     "options": [
       "To measure the total mass of a solute that can dissolve in a solvent",
       "To determine the concentration of a solute in a saturated solution",
@@ -4825,7 +4825,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-248-111",
-    "questionText": "The modern process of manufacturing steel from iron is by (JAMB 2003)",
+    "questionText": "The modern process of manufacturing steel from iron is by",
     "options": [
       "Treatment with acids",
       "Oxidation",
@@ -4837,7 +4837,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-249-547",
-    "questionText": "Sulphur exists in six forms in the solid state. This property is known as (JAMB 2019)",
+    "questionText": "Sulphur exists in six forms in the solid state. This property is known as",
     "options": [
       "Isomerism",
       "Allotropy",
@@ -4849,7 +4849,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-250-155",
-    "questionText": "Carbon is tetravalent because (JAMB 2004)",
+    "questionText": "Carbon is tetravalent because",
     "options": [
       "The electrons in both the 2s and 2p orbitals are equivalent",
       "The electrons in all the orbitals of carbon are equivalent",
@@ -4861,7 +4861,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-251-191",
-    "questionText": "The component of an atom that contributes least to its mass is the (JAMB 2005)",
+    "questionText": "The component of an atom that contributes least to its mass is the",
     "options": [
       "Nucleus",
       "Neutron",
@@ -4873,7 +4873,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-252-149",
-    "questionText": " N2O4(g)    ⇌  2NO2(g) (JAMB 2004)",
+    "questionText": " N2O4(g)    ⇌  2NO2(g)",
     "options": [
       "A constant volume",
       "An increase in pressure",
@@ -4885,7 +4885,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-253-153",
-    "questionText": "Which steam is passed over red-hot carbon, the substances produced are (JAMB 2004)",
+    "questionText": "Which steam is passed over red-hot carbon, the substances produced are",
     "options": [
       "Hydrogen and trioxocarbonate(IV) acid",
       "Hydrogen, oxygen and carbon(IV) oxide",
@@ -4897,7 +4897,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-254-133",
-    "questionText": "Chlorine consisting of two isotopes of mass numbers 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotope of mass number 37. (JAMB 2004)",
+    "questionText": "Chlorine consisting of two isotopes of mass numbers 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotope of mass number 37.",
     "options": [
       "20",
       "25",
@@ -4909,7 +4909,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-255-23",
-    "questionText": "C(s) + 2S (g)  → CS2 (g)      Δ H = +89kJ mol-1. The chemical equation above implies that (JAMB 2001)",
+    "questionText": "C(s) + 2S (g)  → CS2 (g)      Δ H = +89kJ mol-1. The chemical equation above implies that",
     "options": [
       "Each of carbon and sulphur has 89kJ of energy",
       "Both carbon and sulphur contribute 89kJ of energy",
@@ -4921,7 +4921,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-256-69",
-    "questionText": "Hydrogen is readily released when dilute hydrochloric acid reacts with (JAMB 2002)",
+    "questionText": "Hydrogen is readily released when dilute hydrochloric acid reacts with",
     "options": [
       "Au",
       "Cu",
@@ -4933,7 +4933,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-257-92",
-    "questionText": "Farmlands affected by crude –oil spillage can be decontaminated by (JAMB 2003)",
+    "questionText": "Farmlands affected by crude –oil spillage can be decontaminated by",
     "options": [
       "Adding acidic solutions",
       "Using aerobic bacteria",
@@ -4945,7 +4945,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-258-229",
-    "questionText": "[Molar volume of a gas at s.t.p + 22.4dm3} Nuclear fission involves the splitting of a heavy element into two nuclei of (JAMB 2006)",
+    "questionText": "[Molar volume of a gas at s.t.p + 22.4dm3} Nuclear fission involves the splitting of a heavy element into two nuclei of",
     "options": [
       "Equal masses with a release of energy",
       "Nearly equal masses with a release of energy and radiation",
@@ -4957,7 +4957,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-259-349",
-    "questionText": "According to the kinetic theory, an absence in temperature causes the kinetic energy of particles to (JAMB 2015)",
+    "questionText": "According to the kinetic theory, an absence in temperature causes the kinetic energy of particles to",
     "options": [
       "decrease",
       "increase",
@@ -4969,7 +4969,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-260-376",
-    "questionText": "The products formed when primary alkanols are oxidized using acidified potassium tetraoxomanganate (VII) are what? (JAMB 2016)",
+    "questionText": "The products formed when primary alkanols are oxidized using acidified potassium tetraoxomanganate (VII) are what?",
     "options": [
       "CH₃CH₂CHO and H₂O",
       "CH₃CHO and CO₂",
@@ -4981,7 +4981,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-261-367",
-    "questionText": "Which of the following statements is true about 2-methylpropane and butane? (JAMB 2016)",
+    "questionText": "Which of the following statements is true about 2-methylpropane and butane?",
     "options": [
       "They have different number of carbon atoms",
       "They are members of same homologous series",
@@ -4993,7 +4993,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-262-209",
-    "questionText": "Phenolphthalein in acidic solution is (JAMB 2005)",
+    "questionText": "Phenolphthalein in acidic solution is",
     "options": [
       "Colourless",
       "Yellow",
@@ -5005,7 +5005,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-263-449",
-    "questionText": "Due to the high reactivity of sodium, it is usually stored under (JAMB 2017)",
+    "questionText": "Due to the high reactivity of sodium, it is usually stored under",
     "options": [
       "water",
       "mercury",
@@ -5017,7 +5017,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-264-176",
-    "questionText": "Metalloids are also referred to as (JAMB 2005)",
+    "questionText": "Metalloids are also referred to as",
     "options": [
       "Metals",
       "Semi-metals",
@@ -5029,7 +5029,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-265-359",
-    "questionText": "The monomer of nylon is (JAMB 2016)",
+    "questionText": "The monomer of nylon is",
     "options": [
       "Hydroxybenzene",
       "Hexanedioic acid",
@@ -5041,7 +5041,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-266-627",
-    "questionText": "A binary compound of oxygen with another element is referred to as? (JAMB 2021)",
+    "questionText": "A binary compound of oxygen with another element is referred to as?",
     "options": [
       "Oxide",
       "Element",
@@ -5053,7 +5053,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-267-180",
-    "questionText": "When pure aluminum metal is heated to red hot in the presence of nitrogen gas, the compound formed is (JAMB 2005)",
+    "questionText": "When pure aluminum metal is heated to red hot in the presence of nitrogen gas, the compound formed is",
     "options": [
       "AI2N",
       "AIN",
@@ -5065,7 +5065,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-268-732",
-    "questionText": "127g of sodium chloride was dissolved in 1.0dm³ of distilled water at 25°C. Determine the solubility in moldm⁻³ of sodium chloride at that temperature. [Na = 23, Cl = 35.5] (JAMB 2024)",
+    "questionText": "127g of sodium chloride was dissolved in 1.0dm³ of distilled water at 25°C. Determine the solubility in moldm⁻³ of sodium chloride at that temperature. [Na = 23, Cl = 35.5]",
     "options": [
       "1",
       "2",
@@ -5077,7 +5077,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-269-212",
-    "questionText": "What will happen if an aluminum spoon is used to stir a solution of iron (II) trioxonitrate(V) (JAMB 2005)",
+    "questionText": "What will happen if an aluminum spoon is used to stir a solution of iron (II) trioxonitrate(V)",
     "options": [
       "The spoon will be reduced while the iron(II) ions will be oxidized",
       "The spoon will be oxidized while the iron (II) ions will be reduced to the metal",
@@ -5089,7 +5089,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-270-513",
-    "questionText": "Burning magnesium ribbon in air removes which of the following: (i) oxygen (ii) nitrogen (iii) argon and (iv) carbon (IV) oxide? (JAMB 2019)",
+    "questionText": "Burning magnesium ribbon in air removes which of the following: (i) oxygen (ii) nitrogen (iii) argon and (iv) carbon (IV) oxide?",
     "options": [
       "i and iv only",
       "i, ii, iii and iv only",
@@ -5101,7 +5101,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-271-485",
-    "questionText": "What is the concentration of a solution containing 2 g of NaOH in 100 cm³ of solution? [Na = 23, O = 16, H = 1] (JAMB 2018)",
+    "questionText": "What is the concentration of a solution containing 2 g of NaOH in 100 cm³ of solution? [Na = 23, O = 16, H = 1]",
     "options": [
       "0.40 mol dm⁻³",
       "0.50 mol dm⁻³",
@@ -5113,7 +5113,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-272-788",
-    "questionText": "From the graph, it can be inferred that (JAMB 2025)",
+    "questionText": "From the graph, it can be inferred that",
     "options": [
       "the solubility of X and Y is the same at all temperatures",
       "the solubility of X, Y and Z is temperature dependent",
@@ -5125,7 +5125,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-273-704",
-    "questionText": "How many pi (π) bonds are there in an alkene with six carbon atoms? (JAMB 2023)",
+    "questionText": "How many pi (π) bonds are there in an alkene with six carbon atoms?",
     "options": [
       "1",
       "6",
@@ -5137,7 +5137,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-274-615",
-    "questionText": "220g of carbon dioxide contains how many moles? (JAMB 2021)",
+    "questionText": "220g of carbon dioxide contains how many moles?",
     "options": [
       "5",
       "6",
@@ -5149,7 +5149,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-275-10",
-    "questionText": "The pollution from petroleum spillage in rivers and lakes can best be dispersed by (JAMB 2001)",
+    "questionText": "The pollution from petroleum spillage in rivers and lakes can best be dispersed by",
     "options": [
       "Pouring detergents",
       "Passing of ships through the area",
@@ -5161,7 +5161,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-276-100",
-    "questionText": "In the electrolysis of a concentrated solution of sodium chloride using inert electrodes, which of the following ions are discharged at the cathode and anode respectively (JAMB 2003)",
+    "questionText": "In the electrolysis of a concentrated solution of sodium chloride using inert electrodes, which of the following ions are discharged at the cathode and anode respectively",
     "options": [
       "Na+ and Cl-",
       "Na+ and OH-",
@@ -5173,7 +5173,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-277-673",
-    "questionText": "The table shows the compositions of the atmosphere of planet X: CO₂ = 4%, N₂ = 72%, O₂ = 24%. Which of these gases are present in higher percentages on earth? (JAMB 2022)",
+    "questionText": "The table shows the compositions of the atmosphere of planet X: CO₂ = 4%, N₂ = 72%, O₂ = 24%. Which of these gases are present in higher percentages on earth?",
     "options": [
       "CO₂ and O₂",
       "N₂ and CO₂",
@@ -5185,7 +5185,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-278-688",
-    "questionText": "Which of the following methods can be used to remove temporary hardness from water? (JAMB 2023)",
+    "questionText": "Which of the following methods can be used to remove temporary hardness from water?",
     "options": [
       "Boiling",
       "Filtration",
@@ -5197,7 +5197,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-279-705",
-    "questionText": "What is the principal ore of iron, from which iron is extracted? (JAMB 2023)",
+    "questionText": "What is the principal ore of iron, from which iron is extracted?",
     "options": [
       "Calcite",
       "Bauxite",
@@ -5209,7 +5209,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-280-663",
-    "questionText": "When heat is absorbed during a chemical reaction, the reaction is said to be? (JAMB 2022)",
+    "questionText": "When heat is absorbed during a chemical reaction, the reaction is said to be?",
     "options": [
       "thermodynamic",
       "exothermic",
@@ -5221,7 +5221,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-281-694",
-    "questionText": "Balance the following redox reaction: Fe₂O₃ + CO → Fe + CO₂ (JAMB 2023)",
+    "questionText": "Balance the following redox reaction: Fe₂O₃ + CO → Fe + CO₂",
     "options": [
       "Fe₂O₃ + CO → 2Fe + 2CO₂",
       "2Fe₂O₃ + 3CO → 4Fe + 3CO₂",
@@ -5233,7 +5233,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-282-786",
-    "questionText": "A metal that can be found in the free state in nature is (JAMB 2025)",
+    "questionText": "A metal that can be found in the free state in nature is",
     "options": [
       "silver",
       "Zinc",
@@ -5245,7 +5245,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-283-491",
-    "questionText": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is (JAMB 2018)",
+    "questionText": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is",
     "options": [
       "Na₂SO₄",
       "Na₂SO₃",
@@ -5257,7 +5257,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-284-749",
-    "questionText": "The group VIII elements are the inert gases because they (JAMB 2024)",
+    "questionText": "The group VIII elements are the inert gases because they",
     "options": [
       "have lone pair of electrons on their valence shells",
       "all have completely filled valence shells",
@@ -5269,7 +5269,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-285-653",
-    "questionText": "In order to electroplate a spoon with silver, the arrangement of the electrolytic cell is? (JAMB 2022)",
+    "questionText": "In order to electroplate a spoon with silver, the arrangement of the electrolytic cell is?",
     "options": [
       "the anode is a silver rod and the cathode is the spoon",
       "the anode is the spoon and the cathode is a silver rod",
@@ -5281,7 +5281,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-286-605",
-    "questionText": "The gas which causes global warming is? (JAMB 2021)",
+    "questionText": "The gas which causes global warming is?",
     "options": [
       "O₂",
       "CO₂",
@@ -5293,7 +5293,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-287-592",
-    "questionText": "Aluminium hydroxide is used in the dyeing industry as a? (JAMB 2020)",
+    "questionText": "Aluminium hydroxide is used in the dyeing industry as a?",
     "options": [
       "Dye",
       "Dispersant",
@@ -5305,7 +5305,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-288-33",
-    "questionText": "During the vulcanization of rubber, sulphur is added to (JAMB 2001)",
+    "questionText": "During the vulcanization of rubber, sulphur is added to",
     "options": [
       "Break down rubber polymer",
       "Lengthen the chain of rubber",
@@ -5317,7 +5317,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-289-230",
-    "questionText": "2C2H2(g)  +  5O2(g)     4CO2(g)  +  2H2O(g) In the reaction, the mass of carbon (IV) oxide produced on burning 78g of ethyne is [C = 12, O = 16, H = 1] (JAMB 2006)",
+    "questionText": "2C2H2(g)  +  5O2(g)     4CO2(g)  +  2H2O(g) In the reaction, the mass of carbon (IV) oxide produced on burning 78g of ethyne is [C = 12, O = 16, H = 1]",
     "options": [
       "39",
       "352g",
@@ -5329,7 +5329,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-290-535",
-    "questionText": "At 27°C, 58.5g of sodium chloride is present in 250cm³ of a solution. The solubility of sodium chloride at this temperature is? (molar mass of sodium chloride = 111.0gmol⁻¹) (JAMB 2019)",
+    "questionText": "At 27°C, 58.5g of sodium chloride is present in 250cm³ of a solution. The solubility of sodium chloride at this temperature is? (molar mass of sodium chloride = 111.0gmol⁻¹)",
     "options": [
       "2.0 moldm⁻³",
       "0.25 moldm⁻³",
@@ -5341,7 +5341,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-291-128",
-    "questionText": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they (JAMB 2004)",
+    "questionText": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they",
     "options": [
       "Have no definite shape",
       "Have little force attraction between them",
@@ -5353,7 +5353,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-292-246",
-    "questionText": "Which of the following results in the fall of acid rain (JAMB 2006)",
+    "questionText": "Which of the following results in the fall of acid rain",
     "options": [
       "Gaseous hydrocarbons",
       "Oxide of lead",
@@ -5365,7 +5365,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-293-452",
-    "questionText": "Ca(OH)₂(s) + 2NH₄Cl(s) → CaCl₂(s) + 2H₂O(l) + X. In the reaction above, X is (JAMB 2017)",
+    "questionText": "Ca(OH)₂(s) + 2NH₄Cl(s) → CaCl₂(s) + 2H₂O(l) + X. In the reaction above, X is",
     "options": [
       "NO₂",
       "NH₃",
@@ -5377,7 +5377,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-294-105",
-    "questionText": "Metals of the first transition series have special proper ties which are different from those of groups I and II elements because they have partially filled (JAMB 2003)",
+    "questionText": "Metals of the first transition series have special proper ties which are different from those of groups I and II elements because they have partially filled",
     "options": [
       "s orbitals",
       "p orbitals",
@@ -5389,7 +5389,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-295-517",
-    "questionText": "When chlorine water is exposed to bright sunlight, the following products are formed (JAMB 2019)",
+    "questionText": "When chlorine water is exposed to bright sunlight, the following products are formed",
     "options": [
       "HCl(aq) and Cl₂",
       "HOCl(aq) and Cl₂",
@@ -5401,7 +5401,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-296-556",
-    "questionText": "Which of the following can be obtained by fractional distillation? (JAMB 2020)",
+    "questionText": "Which of the following can be obtained by fractional distillation?",
     "options": [
       "Nitrogen from liquid air",
       "Sodium Chloride from sea water",
@@ -5413,7 +5413,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-297-250",
-    "questionText": "Dynamic equilibrium describes a situation where (JAMB 2006)",
+    "questionText": "Dynamic equilibrium describes a situation where",
     "options": [
       "A reaction gives back the reactants",
       "Reactants are converted to products",
@@ -5425,7 +5425,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-298-564",
-    "questionText": "Liquid black soap is made by boiling palm oil with liquid extract of ash. The function of the ash is to provide the? (JAMB 2020)",
+    "questionText": "Liquid black soap is made by boiling palm oil with liquid extract of ash. The function of the ash is to provide the?",
     "options": [
       "Acid",
       "Ester of alkanoic acid",
@@ -5437,7 +5437,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-299-446",
-    "questionText": "Ethene is prepared industrially by (JAMB 2017)",
+    "questionText": "Ethene is prepared industrially by",
     "options": [
       "Reforming",
       "Polymerization",
@@ -5449,7 +5449,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-300-402",
-    "questionText": "From the diagram above, an ideal gas can be represented by (JAMB 2016)",
+    "questionText": "From the diagram above, an ideal gas can be represented by",
     "options": [
       "K",
       "M",
@@ -5461,7 +5461,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-301-162",
-    "questionText": "An isomer of C5H12 is (JAMB 2004)",
+    "questionText": "An isomer of C5H12 is",
     "options": [
       "Butane",
       "2-methylbutane",
@@ -5473,7 +5473,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-302-548",
-    "questionText": "In the reaction: M + N → P, ΔH = +Q kJ. Which of the following would increase the concentration of the product? (JAMB 2019)",
+    "questionText": "In the reaction: M + N → P, ΔH = +Q kJ. Which of the following would increase the concentration of the product?",
     "options": [
       "Adding a suitable catalyst",
       "Increasing the concentration of P",
@@ -5485,7 +5485,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-303-132",
-    "questionText": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its (JAMB 2004)",
+    "questionText": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its",
     "options": [
       "Electrovalency",
       "Electron affinity",
@@ -5497,7 +5497,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-304-6",
-    "questionText": "Milikan’s contribution to the development of atomic theory is the determination of (JAMB 2001)",
+    "questionText": "Milikan’s contribution to the development of atomic theory is the determination of",
     "options": [
       "Charge on electron",
       "Positive rays",
@@ -5509,7 +5509,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-305-693",
-    "questionText": "Identify the reducing agent in the following reaction: Zn + CuSO₄ → ZnSO₄ + Cu (JAMB 2023)",
+    "questionText": "Identify the reducing agent in the following reaction: Zn + CuSO₄ → ZnSO₄ + Cu",
     "options": [
       "Cu",
       "Zn",
@@ -5521,7 +5521,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-306-755",
-    "questionText": "The molecule with the highest number of lone pair of electrons is (JAMB 2025)",
+    "questionText": "The molecule with the highest number of lone pair of electrons is",
     "options": [
       "H₂O",
       "NH₃",
@@ -5533,7 +5533,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-307-167",
-    "questionText": " Alkanol + Alkanoic acid ⇌  Ester + water.\nThe reverse reaction of the equation above is known as\n (JAMB 2004)",
+    "questionText": " Alkanol + Alkanoic acid ⇌  Ester + water.\nThe reverse reaction of the equation above is known as\n",
     "options": [
       "Hydrolysis",
       "Saponification",
@@ -5545,7 +5545,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-308-264",
-    "questionText": "The volume of a gas is Vcm3 at P mm Hg. What is the new volume of the gas if the pressure is reduced to half at constant temperature (JAMB 2010)",
+    "questionText": "The volume of a gas is Vcm3 at P mm Hg. What is the new volume of the gas if the pressure is reduced to half at constant temperature",
     "options": [
       "2 V cm3",
       "V 2cm3",
@@ -5557,7 +5557,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-309-96",
-    "questionText": "The commonest feature of the reactions at the anode is that (JAMB 2003)",
+    "questionText": "The commonest feature of the reactions at the anode is that",
     "options": [
       "Electrons are consumed",
       "Oxidation is involved",
@@ -5569,7 +5569,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-310-604",
-    "questionText": "The atomic weight of nitrogen is? (JAMB 2021)",
+    "questionText": "The atomic weight of nitrogen is?",
     "options": [
       "10",
       "12",
@@ -5581,7 +5581,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-311-151",
-    "questionText": "The allotrope of carbon used in the decolourization of sugar is (JAMB 2004)",
+    "questionText": "The allotrope of carbon used in the decolourization of sugar is",
     "options": [
       "Graphite",
       "Soot",
@@ -5593,7 +5593,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-312-591",
-    "questionText": "An electron can be added to a halogen atom to form a halide ion with? (JAMB 2020)",
+    "questionText": "An electron can be added to a halogen atom to form a halide ion with?",
     "options": [
       "8 valence electrons",
       "7 valence electrons",
@@ -5605,7 +5605,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-313-307",
-    "questionText": "Iron is often galvanized in order to (JAMB 2015)",
+    "questionText": "Iron is often galvanized in order to",
     "options": [
       "Make it more malleable",
       "Remove the impurities unit",
@@ -5617,7 +5617,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-314-752",
-    "questionText": "When Sulphur(IV)oxide is passed into solution of acidified tetraoxomanganate(VII), the colour changes from (JAMB 2024)",
+    "questionText": "When Sulphur(IV)oxide is passed into solution of acidified tetraoxomanganate(VII), the colour changes from",
     "options": [
       "blue to green",
       "pink to yellow",
@@ -5629,7 +5629,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-315-195",
-    "questionText": "The decolourization of the purple colour of a tetraoxomanganate (VII) ion is a test for (JAMB 2005)",
+    "questionText": "The decolourization of the purple colour of a tetraoxomanganate (VII) ion is a test for",
     "options": [
       "Alkanals",
       "Alkanes",
@@ -5641,7 +5641,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-316-562",
-    "questionText": "What are the possible oxidation numbers of an element if its atomic number is 17? (JAMB 2020)",
+    "questionText": "What are the possible oxidation numbers of an element if its atomic number is 17?",
     "options": [
       "-1 and 7",
       "-1 and 6",
@@ -5653,7 +5653,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-317-44",
-    "questionText": "When sodium reacts with water, the resulting solution is (JAMB 2001)",
+    "questionText": "When sodium reacts with water, the resulting solution is",
     "options": [
       "weakly acdic",
       "neutral",
@@ -5665,7 +5665,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-318-632",
-    "questionText": "The molar enthalpy change accompanying the removal of an electron from a gas phase atom or ion in its ground state is called? (JAMB 2021)",
+    "questionText": "The molar enthalpy change accompanying the removal of an electron from a gas phase atom or ion in its ground state is called?",
     "options": [
       "Electron gain enthalpy",
       "Ionization enthalpy",
@@ -5677,7 +5677,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-319-504",
-    "questionText": "The solubility of solids that dissolve in a given solvent with the liberation of heat will (JAMB 2018)",
+    "questionText": "The solubility of solids that dissolve in a given solvent with the liberation of heat will",
     "options": [
       "increase with an increase in temperature",
       "decrease with an increase in temperature",
@@ -5689,7 +5689,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-320-729",
-    "questionText": "How many isomers has the organic compound represented by the formula C₃H₈O? (JAMB 2024)",
+    "questionText": "How many isomers has the organic compound represented by the formula C₃H₈O?",
     "options": [
       "2",
       "3",
@@ -5701,7 +5701,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932270-321-709",
-    "questionText": "What is the empirical formula of a compound containing 40.00% carbon, 6.67% hydrogen, and 53.33% oxygen by mass? (JAMB 2023)",
+    "questionText": "What is the empirical formula of a compound containing 40.00% carbon, 6.67% hydrogen, and 53.33% oxygen by mass?",
     "options": [
       "C₄H₈O₄",
       "CH₂O",
@@ -5713,7 +5713,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-322-388",
-    "questionText": "In the extraction of iron, the waste gas from the furnace is a mixture of (JAMB 2016)",
+    "questionText": "In the extraction of iron, the waste gas from the furnace is a mixture of",
     "options": [
       "PH₃, CO and CO₂",
       "CO and C",
@@ -5725,7 +5725,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-323-207",
-    "questionText": "In which of the following reactions can the oxidation number of nitrogen be said to have increased (JAMB 2005)",
+    "questionText": "In which of the following reactions can the oxidation number of nitrogen be said to have increased",
     "options": [
       "FeSO4(aq) + NO(g) → Fe(NO)SO4(S)",
       "2NO(g) + O2(g) → 2NO2(g)",
@@ -5737,7 +5737,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-324-586",
-    "questionText": "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen? (JAMB 2020)",
+    "questionText": "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen?",
     "options": [
       "8.0g",
       "16.0g",
@@ -5749,7 +5749,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-325-495",
-    "questionText": "When air which contains oxygen, nitrogen, carbon dioxide, water vapour and the rare gases is passed through alkaline pyrogallol and then over quicklime, the only gases left are (JAMB 2018)",
+    "questionText": "When air which contains oxygen, nitrogen, carbon dioxide, water vapour and the rare gases is passed through alkaline pyrogallol and then over quicklime, the only gases left are",
     "options": [
       "nitrogen and carbon dioxide",
       "the rare gases",
@@ -5761,7 +5761,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-326-623",
-    "questionText": "The only metal that is anti-bacterial is? (JAMB 2021)",
+    "questionText": "The only metal that is anti-bacterial is?",
     "options": [
       "Iron",
       "Sodium",
@@ -5773,7 +5773,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-327-572",
-    "questionText": "The volume occupied by 1.58g of a gas at S.T.P is 500cm³. What is the relative molecular mass of the gas? [G.M.V at S.T.P = 22.4dm³] (JAMB 2020)",
+    "questionText": "The volume occupied by 1.58g of a gas at S.T.P is 500cm³. What is the relative molecular mass of the gas? [G.M.V at S.T.P = 22.4dm³]",
     "options": [
       "28",
       "32",
@@ -5785,7 +5785,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-328-358",
-    "questionText": "In the laboratory preparation of chlorine from concentrated hydrochloric acid in the presence of potassium tetraoxomanganate (VII), the product is dried by passing it through (JAMB 2016)",
+    "questionText": "In the laboratory preparation of chlorine from concentrated hydrochloric acid in the presence of potassium tetraoxomanganate (VII), the product is dried by passing it through",
     "options": [
       "Concentrated tetraoxosulphate (VI) acid",
       "Anhydrous calcium chloride",
@@ -5797,7 +5797,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-329-354",
-    "questionText": "In countries where the temperature fall below 273 K, salt is always spilled on the road in order to (JAMB 2015)",
+    "questionText": "In countries where the temperature fall below 273 K, salt is always spilled on the road in order to",
     "options": [
       "increase the boiling point",
       "increase the density of the ice",
@@ -5809,7 +5809,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-330-471",
-    "questionText": "The periodic classification is an arrangement of the elements in order of their (JAMB 2018)",
+    "questionText": "The periodic classification is an arrangement of the elements in order of their",
     "options": [
       "atomic weights",
       "isotopic weights",
@@ -5821,7 +5821,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-331-193",
-    "questionText": "Equal moles of ethyne and hydrogen iodide react to give (JAMB 2005)",
+    "questionText": "Equal moles of ethyne and hydrogen iodide react to give",
     "options": [
       "CH2 = CH2",
       "CH2 = CHI",
@@ -5833,7 +5833,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-332-581",
-    "questionText": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution? (JAMB 2020)",
+    "questionText": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?",
     "options": [
       "24,125 C",
       "48,250 C",
@@ -5845,7 +5845,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-333-292",
-    "questionText": "A compound gives an orange red colour to a non luminous flame. This compound is likely to contain (JAMB 2010)",
+    "questionText": "A compound gives an orange red colour to a non luminous flame. This compound is likely to contain",
     "options": [
       "Ca2+",
       "Fe3+",
@@ -5857,7 +5857,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-334-11",
-    "questionText": "Deliquenscent substances are used for (JAMB 2001)",
+    "questionText": "Deliquenscent substances are used for",
     "options": [
       "Cooling",
       "Wetting",
@@ -5869,7 +5869,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-335-518",
-    "questionText": "Which process(es) is/are involved in the turning of starch iodide paper blue-black by chlorine gas? (JAMB 2019)",
+    "questionText": "Which process(es) is/are involved in the turning of starch iodide paper blue-black by chlorine gas?",
     "options": [
       "chlorine attacks the starch to give the blue-black colour",
       "chlorine attacks the iodide ion to give the blue-black colour",
@@ -5881,7 +5881,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-336-386",
-    "questionText": "The drying agent suitable for drying ammonia is (JAMB 2016)",
+    "questionText": "The drying agent suitable for drying ammonia is",
     "options": [
       "Calcium Chloride",
       "Calcium Oxide",
@@ -5893,7 +5893,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-337-106",
-    "questionText": "Hydrogen can be displaced form a hot alkaline solution by (JAMB 2003)",
+    "questionText": "Hydrogen can be displaced form a hot alkaline solution by",
     "options": [
       "Fe",
       "Cu",
@@ -5905,7 +5905,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-338-584",
-    "questionText": "The substance often used for vulcanization of rubber is? (JAMB 2020)",
+    "questionText": "The substance often used for vulcanization of rubber is?",
     "options": [
       "Chlorine",
       "Hydrogen peroxide",
@@ -5917,7 +5917,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-339-403",
-    "questionText": "CH₄(g) + Cl₂(g) → CH₂Cl(s) + HCl(g). The major factor that influences the rate of the reaction above is (JAMB 2016)",
+    "questionText": "CH₄(g) + Cl₂(g) → CH₂Cl(s) + HCl(g). The major factor that influences the rate of the reaction above is",
     "options": [
       "Concentration",
       "Catalyst",
@@ -5929,7 +5929,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-340-125",
-    "questionText": "If a solution contains 4.8g of Tetraoxosulphate (VI) acid. Calculate the amount of copper(II) oxide that will react with it  [CU = 64, O = 16, S = 32, H = 1] (JAMB 2004)",
+    "questionText": "If a solution contains 4.8g of Tetraoxosulphate (VI) acid. Calculate the amount of copper(II) oxide that will react with it  [CU = 64, O = 16, S = 32, H = 1]",
     "options": [
       "0.8g",
       "4.0g",
@@ -5941,7 +5941,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-341-682",
-    "questionText": "Who proposed the planetary model of the atom with electrons orbiting the nucleus? (JAMB 2023)",
+    "questionText": "Who proposed the planetary model of the atom with electrons orbiting the nucleus?",
     "options": [
       "Erwin Schrödinger",
       "Ernest Rutherford",
@@ -5953,7 +5953,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-342-677",
-    "questionText": "Which of the following reactions would be expected to have the highest entropy change? (JAMB 2023)",
+    "questionText": "Which of the following reactions would be expected to have the highest entropy change?",
     "options": [
       "Liquid → Gas",
       "Solid → Liquid",
@@ -5965,7 +5965,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-343-665",
-    "questionText": "H⁺ + OH⁻ → H₂O. The equation above illustrates? (JAMB 2022)",
+    "questionText": "H⁺ + OH⁻ → H₂O. The equation above illustrates?",
     "options": [
       "precipitation",
       "hydration",
@@ -5977,7 +5977,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-344-658",
-    "questionText": "In which of the following will hydrogen form an ionic compound? (JAMB 2022)",
+    "questionText": "In which of the following will hydrogen form an ionic compound?",
     "options": [
       "HCl",
       "NaH",
@@ -5989,7 +5989,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-345-661",
-    "questionText": "The pollutant usually present in a city which generates its electricity from coal? (JAMB 2022)",
+    "questionText": "The pollutant usually present in a city which generates its electricity from coal?",
     "options": [
       "fog",
       "carbon(ii)oxide",
@@ -6001,7 +6001,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-346-325",
-    "questionText": "Tartaric acid is used industrially to (JAMB 2015)",
+    "questionText": "Tartaric acid is used industrially to",
     "options": [
       "make baking powder",
       "make fruit juice",
@@ -6013,7 +6013,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-347-561",
-    "questionText": "Which of the gas laws does this graph illustrate? (JAMB 2020)",
+    "questionText": "Which of the gas laws does this graph illustrate?",
     "options": [
       "Boyle",
       "Charles",
@@ -6025,7 +6025,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-348-175",
-    "questionText": "N2(g)  +  3H2(g)  ⇌   2NH2(g)   Δ H = - 90kJ  In the equation above, the yield of ammonia can be decreased by (JAMB 2005)",
+    "questionText": "N2(g)  +  3H2(g)  ⇌   2NH2(g)   Δ H = - 90kJ  In the equation above, the yield of ammonia can be decreased by",
     "options": [
       "Adding a catalyst",
       "Removing ammonia",
@@ -6037,7 +6037,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-349-198",
-    "questionText": "Which of the following are structural isomers (JAMB 2005)",
+    "questionText": "Which of the following are structural isomers",
     "options": [
       "Propanoic acid and propan-1, 2-diol",
       "Ethanoic acid and propanoic acid",
@@ -6049,7 +6049,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-350-93",
-    "questionText": "When 10g of sodium hydroxide is dissolved in 1000cm3 of water, the solution formed is approximately   [Na = 23, H = 1, O = 16] (JAMB 2003)",
+    "questionText": "When 10g of sodium hydroxide is dissolved in 1000cm3 of water, the solution formed is approximately   [Na = 23, H = 1, O = 16]",
     "options": [
       "0.01 mol dm-3",
       "0.10 mol dm-3",
@@ -6061,7 +6061,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-351-791",
-    "questionText": "The empirical mass of C₆H₁₂O₆ is [H = 1, C = 12, O = 16] (JAMB 2025)",
+    "questionText": "The empirical mass of C₆H₁₂O₆ is [H = 1, C = 12, O = 16]",
     "options": [
       "90",
       "180",
@@ -6073,7 +6073,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-352-201",
-    "questionText": "Kerosene is commonly used to remove the red colour stain of palm oil from clothes because it (JAMB 2005)",
+    "questionText": "Kerosene is commonly used to remove the red colour stain of palm oil from clothes because it",
     "options": [
       "Helps to spread the oil over a larger surface area",
       "Makes the oil evaporate easily by dissolving it",
@@ -6085,7 +6085,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-353-91",
-    "questionText": "What mass of K2CrO4 is required to prepare 250cm3 of 0.020 mol dm-3 solution   [K2CrO4 = 194.2g mol-1] (JAMB 2003)",
+    "questionText": "What mass of K2CrO4 is required to prepare 250cm3 of 0.020 mol dm-3 solution   [K2CrO4 = 194.2g mol-1]",
     "options": [
       "0.97g",
       "9.70g",
@@ -6097,7 +6097,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-354-368",
-    "questionText": "The process that requires the use of hard water in its operation is (JAMB 2016)",
+    "questionText": "The process that requires the use of hard water in its operation is",
     "options": [
       "Tanning",
       "Bottling",
@@ -6109,7 +6109,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-355-121",
-    "questionText": "Which of the following is found in cotton (JAMB 2003)",
+    "questionText": "Which of the following is found in cotton",
     "options": [
       "Starch",
       "Cellulose",
@@ -6121,7 +6121,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-356-568",
-    "questionText": "Four elements P, Q, R and S have atomic numbers of 4, 10, 12 and 14 respectively. Which of these elements is a noble gas? (JAMB 2020)",
+    "questionText": "Four elements P, Q, R and S have atomic numbers of 4, 10, 12 and 14 respectively. Which of these elements is a noble gas?",
     "options": [
       "P",
       "Q",
@@ -6133,7 +6133,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-357-499",
-    "questionText": "In the reaction between sodium hydroxide and sulphuric acid solutions, what volume of 0.5 mol dm⁻³ sodium hydroxide would exactly neutralise 10 cm³ of 1.25 mol dm⁻³ sulphuric acid? (JAMB 2018)",
+    "questionText": "In the reaction between sodium hydroxide and sulphuric acid solutions, what volume of 0.5 mol dm⁻³ sodium hydroxide would exactly neutralise 10 cm³ of 1.25 mol dm⁻³ sulphuric acid?",
     "options": [
       "5 cm³",
       "10 cm³",
@@ -6145,7 +6145,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-358-442",
-    "questionText": "An oxide XO₂ has a vapour density of 32. What is the atomic mass of X? (JAMB 2017)",
+    "questionText": "An oxide XO₂ has a vapour density of 32. What is the atomic mass of X?",
     "options": [
       "20",
       "32",
@@ -6157,7 +6157,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-359-57",
-    "questionText": "Three drops of a 1.0 mol dm-3 solution of Na OH are added to 20cm3 of a solution of pH8.4. the pH of the resulting solution will be (JAMB 2002)",
+    "questionText": "Three drops of a 1.0 mol dm-3 solution of Na OH are added to 20cm3 of a solution of pH8.4. the pH of the resulting solution will be",
     "options": [
       "Greater than 8.4",
       "Unaltered",
@@ -6169,7 +6169,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-360-260",
-    "questionText": "Which of he following pairs of substances will react further with oxygen to form a higher oxide (JAMB 2006)",
+    "questionText": "Which of he following pairs of substances will react further with oxygen to form a higher oxide",
     "options": [
       "SO2 and NO",
       "CO2 and H2O",
@@ -6181,7 +6181,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-361-540",
-    "questionText": "Which two gases can be used for the demonstration of the fountain experiment? (JAMB 2019)",
+    "questionText": "Which two gases can be used for the demonstration of the fountain experiment?",
     "options": [
       "SO₄ and NH₃",
       "SO₃ and NH₃",
@@ -6193,7 +6193,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-362-137",
-    "questionText": "A carcinogenic substance is (JAMB 2004)",
+    "questionText": "A carcinogenic substance is",
     "options": [
       "Asbestos dust",
       "Sawdust",
@@ -6205,7 +6205,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-363-602",
-    "questionText": "Which of the following is a non-metal that remains liquid at room temperature? (JAMB 2021)",
+    "questionText": "Which of the following is a non-metal that remains liquid at room temperature?",
     "options": [
       "Chlorine",
       "Phosphorus",
@@ -6217,7 +6217,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-364-345",
-    "questionText": "Detergents are manufactured with straight hydrocarbon chains, is to make them (JAMB 2015)",
+    "questionText": "Detergents are manufactured with straight hydrocarbon chains, is to make them",
     "options": [
       "soluble",
       "biodegradable",
@@ -6229,7 +6229,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-365-275",
-    "questionText": "Carbon (II) oxide is considered dangerous if inhaled mainly because it (JAMB 2010)",
+    "questionText": "Carbon (II) oxide is considered dangerous if inhaled mainly because it",
     "options": [
       "Competes with oxygen in the blood",
       "Competes with carbon (IV) oxide in the blood",
@@ -6241,7 +6241,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-366-273",
-    "questionText": "Calculate the solubility in mol dm -3 of 40g of Cu So4 dissolved in 100g of water at 1200C  {Cu = 64, S = 32, 0 = 16} (JAMB 2010)",
+    "questionText": "Calculate the solubility in mol dm -3 of 40g of Cu So4 dissolved in 100g of water at 1200C  {Cu = 64, S = 32, 0 = 16}",
     "options": [
       "2.5",
       "0.4",
@@ -6253,7 +6253,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-367-461",
-    "questionText": "Which of the following is an example of a chemical change? (JAMB 2018)",
+    "questionText": "Which of the following is an example of a chemical change?",
     "options": [
       "dissolution of salt in water",
       "rusting of iron",
@@ -6265,7 +6265,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-368-644",
-    "questionText": "A chemical widely used as a fertilizer is? (JAMB 2022)",
+    "questionText": "A chemical widely used as a fertilizer is?",
     "options": [
       "galena",
       "bauxite",
@@ -6277,7 +6277,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-369-430",
-    "questionText": "The reaction of halogens with alkanes in the presence of sunlight is an example of (JAMB 2017)",
+    "questionText": "The reaction of halogens with alkanes in the presence of sunlight is an example of",
     "options": [
       "oxidation reaction",
       "addition reaction",
@@ -6289,7 +6289,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-370-165",
-    "questionText": "Vulcanization involves the removal of (JAMB 2004)",
+    "questionText": "Vulcanization involves the removal of",
     "options": [
       "A monomer",
       "The single bond",
@@ -6301,7 +6301,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-371-423",
-    "questionText": "The ideal gas laws and equations are true for all gases at (JAMB 2017)",
+    "questionText": "The ideal gas laws and equations are true for all gases at",
     "options": [
       "low pressures and lower temperatures",
       "low temperatures and high pressures",
@@ -6313,7 +6313,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-372-640",
-    "questionText": "How many neutrons are present in an atom with mass number and atomic number 37 and 17 respectively? (JAMB 2022)",
+    "questionText": "How many neutrons are present in an atom with mass number and atomic number 37 and 17 respectively?",
     "options": [
       "18",
       "20",
@@ -6325,7 +6325,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-373-444",
-    "questionText": "In the laboratory preparation of trioxonitrate (V) acid, the nitrogen (IV) oxide formed as a by-product is removed by (JAMB 2017)",
+    "questionText": "In the laboratory preparation of trioxonitrate (V) acid, the nitrogen (IV) oxide formed as a by-product is removed by",
     "options": [
       "further heating",
       "adding concentrated H₂SO₄",
@@ -6337,7 +6337,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-374-267",
-    "questionText": "The stability of the noble gases is due to the fact that they (JAMB 2010)",
+    "questionText": "The stability of the noble gases is due to the fact that they",
     "options": [
       "Have duplet or octet electron configurations",
       "Belong to group zero of the periodic table",
@@ -6349,7 +6349,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-375-298",
-    "questionText": "Which of the following is used to hasten the ripening of fruit (JAMB 2010)",
+    "questionText": "Which of the following is used to hasten the ripening of fruit",
     "options": [
       "Ethanol",
       "Ethyne",
@@ -6361,7 +6361,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-376-203",
-    "questionText": "The solubility curve shows the variation of solute concentration with (JAMB 2005)",
+    "questionText": "The solubility curve shows the variation of solute concentration with",
     "options": [
       "Volume",
       "Vapour density",
@@ -6373,7 +6373,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-377-302",
-    "questionText": "The haloalkanes used in the dry cleaning industries are (JAMB 2010)",
+    "questionText": "The haloalkanes used in the dry cleaning industries are",
     "options": [
       "Chloroethane and dichloroethene",
       "trichloroethene and tetrachloroethene",
@@ -6385,7 +6385,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-378-218",
-    "questionText": "The ion that can be used as an oxidizing agent is (JAMB 2006)",
+    "questionText": "The ion that can be used as an oxidizing agent is",
     "options": [
       "Fe3+",
       "F-",
@@ -6397,7 +6397,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-379-228",
-    "questionText": "The volume of 2.5 moles of oxygen at s.t.p is (JAMB 2006)",
+    "questionText": "The volume of 2.5 moles of oxygen at s.t.p is",
     "options": [
       "56.0dm3",
       "84.0dm3",
@@ -6409,7 +6409,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-380-543",
-    "questionText": "Which of the following pairs cannot be represented with a chemical formula? (JAMB 2019)",
+    "questionText": "Which of the following pairs cannot be represented with a chemical formula?",
     "options": [
       "air and bronze",
       "bronze and sodium chloride",
@@ -6421,7 +6421,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-381-2",
-    "questionText": "What mass of water is produced when 8.0g of hydriogen reacts with excess oxygen [H = 1, O = 16] (JAMB 2001)",
+    "questionText": "What mass of water is produced when 8.0g of hydriogen reacts with excess oxygen [H = 1, O = 16]",
     "options": [
       "36.0g",
       "8.0g",
@@ -6433,7 +6433,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-382-171",
-    "questionText": "A dense white fume is formed when ammonia gas reacts with (JAMB 2005)",
+    "questionText": "A dense white fume is formed when ammonia gas reacts with",
     "options": [
       "H2(g)",
       "O2(g)",
@@ -6445,7 +6445,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-383-196",
-    "questionText": "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate(IV) solution is used to remove (JAMB 2005)",
+    "questionText": "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate(IV) solution is used to remove",
     "options": [
       "Water",
       "Acidic impurities",
@@ -6457,7 +6457,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-384-630",
-    "questionText": "One of the following is not a physical property of monosaccharides? (JAMB 2021)",
+    "questionText": "One of the following is not a physical property of monosaccharides?",
     "options": [
       "Monosaccharides get charred when heated",
       "Monosaccharides are water-soluble, sweet substances",
@@ -6469,7 +6469,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-385-127",
-    "questionText": "According to Charles  law, the volume of a gas becomes zero at (JAMB 2004)",
+    "questionText": "According to Charles  law, the volume of a gas becomes zero at",
     "options": [
       "00C",
       "-1000C",
@@ -6481,7 +6481,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-386-626",
-    "questionText": "The reactions involving simultaneous oxidation and reduction are called? (JAMB 2021)",
+    "questionText": "The reactions involving simultaneous oxidation and reduction are called?",
     "options": [
       "Automatic reactions",
       "Alternate reactions",
@@ -6493,7 +6493,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-387-580",
-    "questionText": "A gaseous metallic chloride MCl consists of 20.22% of M by mass. The formula of the chloride is? [M = 27, Cl = 35.5] (JAMB 2020)",
+    "questionText": "A gaseous metallic chloride MCl consists of 20.22% of M by mass. The formula of the chloride is? [M = 27, Cl = 35.5]",
     "options": [
       "MCl",
       "MCl₂",
@@ -6505,7 +6505,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-388-326",
-    "questionText": "P₁V₁ = P₂V₂ supports? (JAMB 2015)",
+    "questionText": "P₁V₁ = P₂V₂ supports?",
     "options": [
       "Charles's law",
       "Boyle's law",
@@ -6517,7 +6517,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-389-569",
-    "questionText": "The products of the thermal decomposition of ammonium trioxonitrate(v) are? (JAMB 2020)",
+    "questionText": "The products of the thermal decomposition of ammonium trioxonitrate(v) are?",
     "options": [
       "Nitrogen (I) Oxide and Water",
       "Ammonia and Oxide",
@@ -6529,7 +6529,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-390-506",
-    "questionText": "Which of the following will give a precipitate with an aqueous solution of copper (I) chloride? (JAMB 2019)",
+    "questionText": "Which of the following will give a precipitate with an aqueous solution of copper (I) chloride?",
     "options": [
       "But-2-ene",
       "But-1-ene",
@@ -6541,7 +6541,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-391-664",
-    "questionText": "Which of the following best represents a solid-gas mixture? (JAMB 2022)",
+    "questionText": "Which of the following best represents a solid-gas mixture?",
     "options": [
       "milk",
       "kerosene",
@@ -6553,7 +6553,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-392-89",
-    "questionText": "The structural component that makes detergent dissolve more quickly in water than soap is (JAMB 2003)",
+    "questionText": "The structural component that makes detergent dissolve more quickly in water than soap is",
     "options": [
       "–SO3 –Na+",
       "–COO-Na+",
@@ -6565,7 +6565,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-393-202",
-    "questionText": "25cm3 of a mixture of noble gases was obtained from air after the removal of other constituents. What was the original volume of air (JAMB 2005)",
+    "questionText": "25cm3 of a mixture of noble gases was obtained from air after the removal of other constituents. What was the original volume of air",
     "options": [
       "125cm3",
       "1250cm3",
@@ -6577,7 +6577,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-394-629",
-    "questionText": "The compounds made up of only carbon and hydrogen are called? (JAMB 2021)",
+    "questionText": "The compounds made up of only carbon and hydrogen are called?",
     "options": [
       "Carbon compounds",
       "Hydrocarbons",
@@ -6589,7 +6589,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-395-147",
-    "questionText": " 2CO(g)  +  O2(g) →  2CO2(g)\nGiven that   Δ H [CO] is 110.4kJ mol-1 and Δ H [CO2] is -393.0kJ mol-1, the energy change for the reaction above is\n (JAMB 2004)",
+    "questionText": " 2CO(g)  +  O2(g) →  2CO2(g)\nGiven that   Δ H [CO] is 110.4kJ mol-1 and Δ H [CO2] is -393.0kJ mol-1, the energy change for the reaction above is\n",
     "options": [
       "-503.7kJ",
       "-282.6kJ",
@@ -6601,7 +6601,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-396-675",
-    "questionText": "What happens to the position of equilibrium, if a reversible exothermic reaction is subjected to a decrease in temperature? (JAMB 2023)",
+    "questionText": "What happens to the position of equilibrium, if a reversible exothermic reaction is subjected to a decrease in temperature?",
     "options": [
       "The position of equilibrium shifts to the left",
       "The position of equilibrium shifts to the right.",
@@ -6613,7 +6613,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-397-152",
-    "questionText": "Which of the following gases can be collected by the method of downward delivery (JAMB 2004)",
+    "questionText": "Which of the following gases can be collected by the method of downward delivery",
     "options": [
       "Chlorine",
       "Oxygen",
@@ -6625,7 +6625,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-398-554",
-    "questionText": "Elements in the periodic table are arranged in the order of their (JAMB 2019)",
+    "questionText": "Elements in the periodic table are arranged in the order of their",
     "options": [
       "atomic numbers",
       "metallic character",
@@ -6637,7 +6637,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-399-294",
-    "questionText": "The residual solids from the fractional distillation of petroleum are used as (JAMB 2010)",
+    "questionText": "The residual solids from the fractional distillation of petroleum are used as",
     "options": [
       "Raw materials for the cracking process",
       "Fuel for driving tractors",
@@ -6649,7 +6649,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-400-210",
-    "questionText": "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time. It eventually produces a solution of (JAMB 2005)",
+    "questionText": "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time. It eventually produces a solution of",
     "options": [
       "Na2SO4",
       "NaHSO4",
@@ -6661,7 +6661,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-401-404",
-    "questionText": "N₂O₄(aq) ⇌ 2NO₂(g), ΔH = +ve. In the reaction above, an increase in temperature will (JAMB 2016)",
+    "questionText": "N₂O₄(aq) ⇌ 2NO₂(g), ΔH = +ve. In the reaction above, an increase in temperature will",
     "options": [
       "Increase the reactant production",
       "Increase the value of the equilibrium constant",
@@ -6673,7 +6673,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-402-240",
-    "questionText": "CH3-CH2-C = CH  The hybridization in the compound above is (JAMB 2006)",
+    "questionText": "CH3-CH2-C = CH  The hybridization in the compound above is",
     "options": [
       "Sp3 and sp",
       "Sp3 and sp2",
@@ -6685,7 +6685,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-403-217",
-    "questionText": "Na2CO3(aq)  +  2HCI(aq)  → 2NaCI(aq)  +  H2O(l)  +  CO2(g)    How many moles of sodium trioxocarbonate (IV) are there in a 25cm3 solution which required 10cm3 of 0.05 mol dm-3 hydrochloric acid solution to neutralize it? (JAMB 2006)",
+    "questionText": "Na2CO3(aq)  +  2HCI(aq)  → 2NaCI(aq)  +  H2O(l)  +  CO2(g)    How many moles of sodium trioxocarbonate (IV) are there in a 25cm3 solution which required 10cm3 of 0.05 mol dm-3 hydrochloric acid solution to neutralize it?",
     "options": [
       "0.100mloe",
       "0.001mole",
@@ -6697,7 +6697,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-404-65",
-    "questionText": "A fixed mass of gas has a  volume of 92cm3 at 30C. What will be be its volume at 180C if the pressure remains constant (JAMB 2002)",
+    "questionText": "A fixed mass of gas has a  volume of 92cm3 at 30C. What will be be its volume at 180C if the pressure remains constant",
     "options": [
       "15.3cm3",
       "87.3cm3",
@@ -6709,7 +6709,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-405-463",
-    "questionText": "According to the Kinetic Theory, an increase in temperature causes the kinetic energy of particles to (JAMB 2018)",
+    "questionText": "According to the Kinetic Theory, an increase in temperature causes the kinetic energy of particles to",
     "options": [
       "decrease",
       "increase",
@@ -6721,7 +6721,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-406-159",
-    "questionText": "Sodium metal is always kept under oil because it (JAMB 2004)",
+    "questionText": "Sodium metal is always kept under oil because it",
     "options": [
       "Readily reacts with water",
       "Is reduced by atmospheric nitrogen",
@@ -6733,7 +6733,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-407-179",
-    "questionText": "NH4CI(g) ⇌   NH3(g)  +  HCI(g)   The reaction above can only attain equilibrium if (JAMB 2005)",
+    "questionText": "NH4CI(g) ⇌   NH3(g)  +  HCI(g)   The reaction above can only attain equilibrium if",
     "options": [
       "It is in a closed system",
       "It is in an open system",
@@ -6745,7 +6745,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-408-724",
-    "questionText": "An organic compound contains 53.1% Carbon, 6.2% Hydrogen, 12.4% Nitrogen, and 28.3% Oxygen by mass. What is the molecular formula of the compound if its vapour density is 56.5? [C=12, H=1, N=14, O=16] (JAMB 2024)",
+    "questionText": "An organic compound contains 53.1% Carbon, 6.2% Hydrogen, 12.4% Nitrogen, and 28.3% Oxygen by mass. What is the molecular formula of the compound if its vapour density is 56.5? [C=12, H=1, N=14, O=16]",
     "options": [
       "C₅H₇NO₂",
       "C₅H₆NO₂",
@@ -6757,7 +6757,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-409-610",
-    "questionText": "Which of the following is a form of calcium carbonate? I. limestone  II. marble  III. chalk  IV. egg-shells (JAMB 2021)",
+    "questionText": "Which of the following is a form of calcium carbonate? I. limestone  II. marble  III. chalk  IV. egg-shells",
     "options": [
       "I only",
       "I, II and IV",
@@ -6769,7 +6769,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-410-740",
-    "questionText": "How many moles of CO₂ are produced when ethanol is burnt with 6g of oxygen? (JAMB 2024)",
+    "questionText": "How many moles of CO₂ are produced when ethanol is burnt with 6g of oxygen?",
     "options": [
       "0.125",
       "0.250",
@@ -6781,7 +6781,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-411-66",
-    "questionText": "The postulate of Dalton’s atomic theory which still holds is that (JAMB 2002)",
+    "questionText": "The postulate of Dalton’s atomic theory which still holds is that",
     "options": [
       "Particles of different elements combine in a simple whole number ratio",
       "Atoms can neither be created nor destroyed",
@@ -6793,7 +6793,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-412-516",
-    "questionText": "Which of the following alkaline earth metals react more spontaneously with water? (JAMB 2019)",
+    "questionText": "Which of the following alkaline earth metals react more spontaneously with water?",
     "options": [
       "Calcium",
       "Beryllium",
@@ -6805,7 +6805,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-413-596",
-    "questionText": "The enzyme that converts glucose to ethyl alcohol is? (JAMB 2021)",
+    "questionText": "The enzyme that converts glucose to ethyl alcohol is?",
     "options": [
       "Maltase",
       "Zymase",
@@ -6817,7 +6817,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-414-277",
-    "questionText": "Calculate the volume of 0.5 mol dm-3 H2SO4 that is neutralized by 25cm3 of 0.1 mol dm-3 NaOH (JAMB 2010)",
+    "questionText": "Calculate the volume of 0.5 mol dm-3 H2SO4 that is neutralized by 25cm3 of 0.1 mol dm-3 NaOH",
     "options": [
       "2.5cm3",
       "0.4cm3",
@@ -6829,7 +6829,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-415-662",
-    "questionText": "The dehydration of CH₃CH₂CH₂CH₂OH will give? (JAMB 2022)",
+    "questionText": "The dehydration of CH₃CH₂CH₂CH₂OH will give?",
     "options": [
       "HC≡CCH₂CH₃",
       "CH₂=CCH₂CH₃",
@@ -6841,7 +6841,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-416-598",
-    "questionText": "What is the IUPAC name for the following compound? HC≡CCH₃ (JAMB 2021)",
+    "questionText": "What is the IUPAC name for the following compound? HC≡CCH₃",
     "options": [
       "Acetylene",
       "Methyl acetylene",
@@ -6853,7 +6853,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-417-465",
-    "questionText": "Which of the following gases may not be dried with concentrated sulphuric acid? (JAMB 2018)",
+    "questionText": "Which of the following gases may not be dried with concentrated sulphuric acid?",
     "options": [
       "HCl(g)",
       "NH₃",
@@ -6865,7 +6865,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-418-38",
-    "questionText": "A characteristic reaction of the compounds with the general formula CnH2n is (JAMB 2001)",
+    "questionText": "A characteristic reaction of the compounds with the general formula CnH2n is",
     "options": [
       "Esterification",
       "Polymerization",
@@ -6877,7 +6877,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-419-595",
-    "questionText": "Give the common name for the following compound (CH₃)₂ CH CH₂ -Br (JAMB 2021)",
+    "questionText": "Give the common name for the following compound (CH₃)₂ CH CH₂ -Br",
     "options": [
       "Isobutyl bromide",
       "Methyl bromide",
@@ -6889,7 +6889,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-420-464",
-    "questionText": "An element used in the production of matches is (JAMB 2018)",
+    "questionText": "An element used in the production of matches is",
     "options": [
       "nitrogen",
       "aluminium",
@@ -6901,7 +6901,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-421-422",
-    "questionText": "The salt formed from a weak acid and a strong base hydrolyzes in water to form (JAMB 2017)",
+    "questionText": "The salt formed from a weak acid and a strong base hydrolyzes in water to form",
     "options": [
       "A saturated solution",
       "an acidic solution",
@@ -6913,7 +6913,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932271-422-642",
-    "questionText": "An organic compound which liberates carbon(iv)oxide from trioxocarbonate(iv) solution is likely to be? (JAMB 2022)",
+    "questionText": "An organic compound which liberates carbon(iv)oxide from trioxocarbonate(iv) solution is likely to be?",
     "options": [
       "C₂H₅OH",
       "C₃H₄",
@@ -6925,7 +6925,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-423-157",
-    "questionText": "Alloys are best prepared by (JAMB 2004)",
+    "questionText": "Alloys are best prepared by",
     "options": [
       "Electroplating",
       "Arc-welding",
@@ -6937,7 +6937,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-424-401",
-    "questionText": "The curve depicts titration between (JAMB 2016)",
+    "questionText": "The curve depicts titration between",
     "options": [
       "Strong acid and strong base",
       "Strong acid and weak base",
@@ -6949,7 +6949,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-425-713",
-    "questionText": "What is the mass percentage of carbon (C) in methane (CH₄)? (The molar mass of carbon is approximately 12 g/mol.) (JAMB 2023)",
+    "questionText": "What is the mass percentage of carbon (C) in methane (CH₄)? (The molar mass of carbon is approximately 12 g/mol.)",
     "options": [
       "25%",
       "12%",
@@ -6961,7 +6961,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-426-486",
-    "questionText": "How many atoms are present in 6.0 g of magnesium? [Mg = 24, Nₐ = 6.02 × 10²³ mol⁻¹] (JAMB 2018)",
+    "questionText": "How many atoms are present in 6.0 g of magnesium? [Mg = 24, Nₐ = 6.02 × 10²³ mol⁻¹]",
     "options": [
       "1.20 × 10²²",
       "2.4 × 10²²",
@@ -6973,7 +6973,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-427-242",
-    "questionText": "The gas obtained as a product of anaerobic action ob organic matter buried in the earth is (JAMB 2006)",
+    "questionText": "The gas obtained as a product of anaerobic action ob organic matter buried in the earth is",
     "options": [
       "Nitrogen(IV) oxide",
       "Carbon(IV) oxide",
@@ -6985,7 +6985,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-428-635",
-    "questionText": "The sub-atomic particles located in the nucleus of an atom are? (JAMB 2022)",
+    "questionText": "The sub-atomic particles located in the nucleus of an atom are?",
     "options": [
       "neutron and proton",
       "proton and electron",
@@ -6997,7 +6997,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-429-27",
-    "questionText": "As the concentration of an electrolyte reduces, the conductivity (JAMB 2001)",
+    "questionText": "As the concentration of an electrolyte reduces, the conductivity",
     "options": [
       "Reduces to zero",
       "Decreases",
@@ -7009,7 +7009,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-430-488",
-    "questionText": "Beryllium and Aluminium have similar properties because they (JAMB 2018)",
+    "questionText": "Beryllium and Aluminium have similar properties because they",
     "options": [
       "are both metals",
       "belong to the same group",
@@ -7021,7 +7021,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-431-372",
-    "questionText": "The pollutant that contributes to the depletion of the ozone layer is (JAMB 2016)",
+    "questionText": "The pollutant that contributes to the depletion of the ozone layer is",
     "options": [
       "CFCs",
       "NO₂",
@@ -7033,7 +7033,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-432-612",
-    "questionText": "The reactivity of fluorine is due to? (JAMB 2021)",
+    "questionText": "The reactivity of fluorine is due to?",
     "options": [
       "Its high electronegativity",
       "Small size of fluorine atom",
@@ -7045,7 +7045,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-433-280",
-    "questionText": "6AgNO3(aq)  +  PH3(g) +    3H2O(l)      →    6Ag(s)+   H3PO3(aq)   +    6HNO3(aq)  In the reaction above, the reducing agent is (JAMB 2010)",
+    "questionText": "6AgNO3(aq)  +  PH3(g) +    3H2O(l)      →    6Ag(s)+   H3PO3(aq)   +    6HNO3(aq)  In the reaction above, the reducing agent is",
     "options": [
       "H2O(l)",
       "PH3(g)",
@@ -7057,7 +7057,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-434-493",
-    "questionText": "Which of the following are mixtures?\nI. Petroleum\nII. Rubber latex\nIII. Vulcanizer's solution\nIV. Carbon sulphide (JAMB 2018)",
+    "questionText": "Which of the following are mixtures?\nI. Petroleum\nII. Rubber latex\nIII. Vulcanizer's solution\nIV. Carbon sulphide",
     "options": [
       "I, II and III",
       "I, II and IV",
@@ -7069,7 +7069,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-435-32",
-    "questionText": "The main impurity in iron ore during the extraction of iron is (JAMB 2001)",
+    "questionText": "The main impurity in iron ore during the extraction of iron is",
     "options": [
       "Silicon (IV) oxide",
       "Carbon(IV) oxide",
@@ -7081,7 +7081,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-436-539",
-    "questionText": "A radioactive nucleus has a half-life of 20 years, starting with 100,000 particles, how many particles will be left exactly at the end of 40 years (JAMB 2019)",
+    "questionText": "A radioactive nucleus has a half-life of 20 years, starting with 100,000 particles, how many particles will be left exactly at the end of 40 years",
     "options": [
       "75,000 particles",
       "35,000 particles",
@@ -7093,7 +7093,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-437-544",
-    "questionText": "Consider the equation below:\nCr₂O₇²⁻ + 6Fe²⁺ + 14H⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O\nThe oxidation number of chromium changes from (JAMB 2019)",
+    "questionText": "Consider the equation below:\nCr₂O₇²⁻ + 6Fe²⁺ + 14H⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O\nThe oxidation number of chromium changes from",
     "options": [
       "+5 to +3",
       "+6 to +3",
@@ -7105,7 +7105,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-438-441",
-    "questionText": "According to Charles's law, the volume of a gas becomes zero at (JAMB 2017)",
+    "questionText": "According to Charles's law, the volume of a gas becomes zero at",
     "options": [
       "-100°C",
       "-273°C",
@@ -7117,7 +7117,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-439-759",
-    "questionText": "The dusty and sand particles present in the air is an example of (JAMB 2025)",
+    "questionText": "The dusty and sand particles present in the air is an example of",
     "options": [
       "a suspension",
       "a dispersion",
@@ -7129,7 +7129,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-440-324",
-    "questionText": "A liquid that will dissolve fat is (JAMB 2015)",
+    "questionText": "A liquid that will dissolve fat is",
     "options": [
       "hydrochloric acid",
       "calcium hydrochloride",
@@ -7141,7 +7141,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-441-329",
-    "questionText": "Hydrogen can be displaced from a hot alkaline solution by (JAMB 2015)",
+    "questionText": "Hydrogen can be displaced from a hot alkaline solution by",
     "options": [
       "Fe",
       "Cu",
@@ -7153,7 +7153,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-442-373",
-    "questionText": "Which of the following properties is not peculiar to matter? (JAMB 2016)",
+    "questionText": "Which of the following properties is not peculiar to matter?",
     "options": [
       "Kinetic energy of particles increases from solid to gas",
       "Random motion of particles increases from gas to solid",
@@ -7165,7 +7165,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-443-213",
-    "questionText": "Which of the following equimolar solutions will have the highest pH (JAMB 2005)",
+    "questionText": "Which of the following equimolar solutions will have the highest pH",
     "options": [
       "NH4OH",
       "CH3COONa",
@@ -7177,7 +7177,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-444-305",
-    "questionText": "The filter in the cigarette reduce the nicotine construct by (JAMB 2015)",
+    "questionText": "The filter in the cigarette reduce the nicotine construct by",
     "options": [
       "burning",
       "adsorption",
@@ -7189,7 +7189,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-445-492",
-    "questionText": "The refreshing and characteristic taste of soda water and other soft drinks is as a result of the presence of (JAMB 2018)",
+    "questionText": "The refreshing and characteristic taste of soda water and other soft drinks is as a result of the presence of",
     "options": [
       "carbon (IV) oxide",
       "carbon (II) oxide",
@@ -7201,7 +7201,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-446-514",
-    "questionText": "Which of the following is the best starting material for the preparation of oxygen by heating trioxonitrate (V) with? (JAMB 2019)",
+    "questionText": "Which of the following is the best starting material for the preparation of oxygen by heating trioxonitrate (V) with?",
     "options": [
       "Pb",
       "Zn",
@@ -7213,7 +7213,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-447-405",
-    "questionText": "The general formula of alkanones is (JAMB 2017)",
+    "questionText": "The general formula of alkanones is",
     "options": [
       "RCHO",
       "RCOR'",
@@ -7225,7 +7225,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-448-337",
-    "questionText": "The basic particles from which matter could be made up of are as follow, except? (JAMB 2015)",
+    "questionText": "The basic particles from which matter could be made up of are as follow, except?",
     "options": [
       "Salt",
       "Atom",
@@ -7237,7 +7237,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-449-728",
-    "questionText": "The number of geometrical isomers of butene are (JAMB 2024)",
+    "questionText": "The number of geometrical isomers of butene are",
     "options": [
       "2",
       "3",
@@ -7249,7 +7249,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-450-659",
-    "questionText": "If the volume of a given mass of a gas at 0°C is 29.5cm³. What will be the volume of the gas at 15°C, given that the pressure remains constant? (JAMB 2022)",
+    "questionText": "If the volume of a given mass of a gas at 0°C is 29.5cm³. What will be the volume of the gas at 15°C, given that the pressure remains constant?",
     "options": [
       "31.6",
       "62.2",
@@ -7261,7 +7261,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-451-413",
-    "questionText": "In the laboratory preparation of ethyl ethanoate, the water present in the mixture is removed using (JAMB 2017)",
+    "questionText": "In the laboratory preparation of ethyl ethanoate, the water present in the mixture is removed using",
     "options": [
       "Anhydrous CaCl₂",
       "Concentrated NaCO₃",
@@ -7273,7 +7273,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-452-525",
-    "questionText": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called (JAMB 2019)",
+    "questionText": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called",
     "options": [
       "electrovalent bond",
       "compound bond",
@@ -7285,7 +7285,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-453-552",
-    "questionText": "What mass of magnesium would be obtained by passing a current of 2 amperes for 2 hours 30 mins, through molten magnesium chloride? [1 faraday = 96500C, Mg = 24] (JAMB 2019)",
+    "questionText": "What mass of magnesium would be obtained by passing a current of 2 amperes for 2 hours 30 mins, through molten magnesium chloride? [1 faraday = 96500C, Mg = 24]",
     "options": [
       "1.12g",
       "4.48g",
@@ -7297,7 +7297,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-454-236",
-    "questionText": "If 30cm3 of a gas at 500C is warmed to 800C at a fixed pressure. The fractional increase in volume is (JAMB 2006)",
+    "questionText": "If 30cm3 of a gas at 500C is warmed to 800C at a fixed pressure. The fractional increase in volume is",
     "options": [
       "0.91",
       "0.009",
@@ -7309,7 +7309,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-455-344",
-    "questionText": "NH₃(g) + HCl(s) → NH₄Cl(s). The entropy change in the system above is (JAMB 2015)",
+    "questionText": "NH₃(g) + HCl(s) → NH₄Cl(s). The entropy change in the system above is",
     "options": [
       "positive",
       "zero",
@@ -7321,7 +7321,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-456-81",
-    "questionText": "The noble gases owe their inactivity to (JAMB 2003)",
+    "questionText": "The noble gases owe their inactivity to",
     "options": [
       "Octet configuration",
       "Cyclic shape",
@@ -7333,7 +7333,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-457-188",
-    "questionText": "How many moles of limestone will be required to produce 5.6g of CaO (JAMB 2005)",
+    "questionText": "How many moles of limestone will be required to produce 5.6g of CaO",
     "options": [
       "0.20 mol",
       "1, 12mol",
@@ -7345,7 +7345,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-458-362",
-    "questionText": "The ability of carbon to form long chains is referred to as (JAMB 2016)",
+    "questionText": "The ability of carbon to form long chains is referred to as",
     "options": [
       "Alkylation",
       "Acylation",
@@ -7357,7 +7357,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-459-109",
-    "questionText": "The metal that liberates hydrogen from cold water in bubbles only is (JAMB 2003)",
+    "questionText": "The metal that liberates hydrogen from cold water in bubbles only is",
     "options": [
       "Na",
       "K",
@@ -7369,7 +7369,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-460-257",
-    "questionText": "Group IA metals are not found free in nature because they (JAMB 2006)",
+    "questionText": "Group IA metals are not found free in nature because they",
     "options": [
       "Have high melting and boiling points",
       "Conduct heat and electricity",
@@ -7381,7 +7381,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-461-323",
-    "questionText": "In the production of soap, concentrated sodium chloride solution is added to (JAMB 2015)",
+    "questionText": "In the production of soap, concentrated sodium chloride solution is added to",
     "options": [
       "increase the solubility of soap",
       "decrease the solubility of the soap",
@@ -7393,7 +7393,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-462-382",
-    "questionText": "What volume of 0.5 M H₂SO₄ will exactly neutralize 20 cm³ of 0.1 M NaOH solution? (JAMB 2016)",
+    "questionText": "What volume of 0.5 M H₂SO₄ will exactly neutralize 20 cm³ of 0.1 M NaOH solution?",
     "options": [
       "2.0 cm³",
       "5.0 cm³",
@@ -7405,7 +7405,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-463-477",
-    "questionText": "Methanoic acid mixes with water in all proportions and has about the same boiling point as water. Which of the following methods would you adopt to obtain pure water from a mixture of sand, water and methanoic acid? (JAMB 2018)",
+    "questionText": "Methanoic acid mixes with water in all proportions and has about the same boiling point as water. Which of the following methods would you adopt to obtain pure water from a mixture of sand, water and methanoic acid?",
     "options": [
       "Extractive distillation",
       "Filtration followed by distillation",
@@ -7417,7 +7417,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788724932272-464-291",
-    "questionText": "When iron is exposed to moist air, it gradually rusts. This is due to the formation of (JAMB 2010)",
+    "questionText": "When iron is exposed to moist air, it gradually rusts. This is due to the formation of",
     "options": [
       "Anahydrous iron (III) oxide",
       "Anhydrous iron (II) oxide",
@@ -7429,7 +7429,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079889-0-467",
-    "questionText": "A correct electrochemical series can be obtained from Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging (JAMB 2018)",
+    "questionText": "A correct electrochemical series can be obtained from Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging",
     "options": [
       "Al and Mg",
       "Zn and Fe",
@@ -7441,7 +7441,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079889-1-313",
-    "questionText": "When salt loses its water of crystallization to the atmosphere on exposure, the process is said to be (JAMB 2015)",
+    "questionText": "When salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
     "options": [
       "efflorescence",
       "déliquescence",
@@ -7453,7 +7453,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079889-2-765",
-    "questionText": "The compound CH₃CH(NH₂)CH₂CH₂CH₃ is an example of a (JAMB 2025)",
+    "questionText": "The compound CH₃CH(NH₂)CH₂CH₂CH₃ is an example of a",
     "options": [
       "primary amine",
       "tertiary amine",
@@ -7465,7 +7465,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-3-80",
-    "questionText": "Neutral atoms of neon with atomic number 10 have the same number of electrons as (JAMB 2003)",
+    "questionText": "Neutral atoms of neon with atomic number 10 have the same number of electrons as",
     "options": [
       "O2+",
       "Ca2+",
@@ -7477,7 +7477,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-4-382",
-    "questionText": "What volume of 0.5 M H₂SO₄ will exactly neutralize 20 cm³ of 0.1 M NaOH solution? (JAMB 2016)",
+    "questionText": "What volume of 0.5 M H₂SO₄ will exactly neutralize 20 cm³ of 0.1 M NaOH solution?",
     "options": [
       "2.0 cm³",
       "5.0 cm³",
@@ -7489,7 +7489,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-5-473",
-    "questionText": "In the experiment shown (solid ammonium chloride heated at 350°C, with porous asbestos plug and damp neutral litmus paper at the far end), the litmus paper will initially (JAMB 2018)",
+    "questionText": "In the experiment shown (solid ammonium chloride heated at 350°C, with porous asbestos plug and damp neutral litmus paper at the far end), the litmus paper will initially",
     "options": [
       "be bleached",
       "turn green",
@@ -7501,7 +7501,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-6-735",
-    "questionText": "The table shows formulae of some ions (Cations: Al³⁺, Ca²⁺, Cu²⁺, Fe³⁺, K⁺; Anions: Br⁻, CO₃²⁻, NO₃⁻, S²⁻, SO₄²⁻). In which of these compounds is the formula not correct? (JAMB 2024)",
+    "questionText": "The table shows formulae of some ions (Cations: Al³⁺, Ca²⁺, Cu²⁺, Fe³⁺, K⁺; Anions: Br⁻, CO₃²⁻, NO₃⁻, S²⁻, SO₄²⁻). In which of these compounds is the formula not correct?",
     "options": [
       "Aluminiumtetraoxosulphate(VI), Al₂(SO₄)₃",
       "Calciumtrioxonitrate(V), Ca(NO₃)₂",
@@ -7513,7 +7513,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-7-70",
-    "questionText": "The most important use of hydrogen is in the (JAMB 2002)",
+    "questionText": "The most important use of hydrogen is in the",
     "options": [
       "Hydrogenation of oils",
       "Manufacture of methyl alcohol",
@@ -7525,7 +7525,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-8-698",
-    "questionText": "What is the product of the electrolysis of aqueous sodium chloride (NaCl) using inert electrodes? (JAMB 2023)",
+    "questionText": "What is the product of the electrolysis of aqueous sodium chloride (NaCl) using inert electrodes?",
     "options": [
       "Hydrogen gas at the cathode and chlorine gas at the anode",
       "Hydrogen gas at the cathode and oxygen gas at the anode",
@@ -7537,7 +7537,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-9-401",
-    "questionText": "The curve depicts titration between (JAMB 2016)",
+    "questionText": "The curve depicts titration between",
     "options": [
       "Strong acid and strong base",
       "Strong acid and weak base",
@@ -7549,7 +7549,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-10-619",
-    "questionText": "The nucleus of a hydrogen atom consists of a? (JAMB 2021)",
+    "questionText": "The nucleus of a hydrogen atom consists of a?",
     "options": [
       "1 proton only",
       "1 proton, 2 neutrons",
@@ -7561,7 +7561,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-11-383",
-    "questionText": "Diamond cannot be used (JAMB 2016)",
+    "questionText": "Diamond cannot be used",
     "options": [
       "In making bicycle chains",
       "As abrasives",
@@ -7573,7 +7573,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-12-418",
-    "questionText": "An isomer of C₅H₁₂ is (JAMB 2017)",
+    "questionText": "An isomer of C₅H₁₂ is",
     "options": [
       "2-ethyl butane",
       "butane",
@@ -7585,7 +7585,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-13-269",
-    "questionText": "Elements in the same periodic table have the same (JAMB 2010)",
+    "questionText": "Elements in the same periodic table have the same",
     "options": [
       "Atomic number",
       "Chemical properties",
@@ -7597,7 +7597,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-14-642",
-    "questionText": "An organic compound which liberates carbon(iv)oxide from trioxocarbonate(iv) solution is likely to be? (JAMB 2022)",
+    "questionText": "An organic compound which liberates carbon(iv)oxide from trioxocarbonate(iv) solution is likely to be?",
     "options": [
       "C₂H₅OH",
       "C₃H₄",
@@ -7609,7 +7609,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-15-119",
-    "questionText": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula  [H = 1, C = 12, O = 16] (JAMB 2003)",
+    "questionText": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula  [H = 1, C = 12, O = 16]",
     "options": [
       "CH2O",
       "C3H6O3",
@@ -7621,7 +7621,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-16-304",
-    "questionText": "The compound that is used as an anaesthetic is (JAMB 2010)",
+    "questionText": "The compound that is used as an anaesthetic is",
     "options": [
       "CHCI3",
       "CH2C2",
@@ -7633,7 +7633,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-17-244",
-    "questionText": "The produce of the combustion of candle wax are (JAMB 2006)",
+    "questionText": "The produce of the combustion of candle wax are",
     "options": [
       "Carbon(IV) oxide and water",
       "Oxygen and water",
@@ -7645,7 +7645,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-18-342",
-    "questionText": "The elements that belong to the third period of periodic table are (JAMB 2015)",
+    "questionText": "The elements that belong to the third period of periodic table are",
     "options": [
       "Li, Be, Al and D",
       "Na, P, O and Cl",
@@ -7657,7 +7657,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-19-224",
-    "questionText": "5SO2(g)  +  2KMnO4(aq)  +  2H2O(l)  ⇌   K2SO4(aq)  +  2MnSO4(aq)  +   2H2HSO4(aq)   In the reaction above, the products give a (JAMB 2006)",
+    "questionText": "5SO2(g)  +  2KMnO4(aq)  +  2H2O(l)  ⇌   K2SO4(aq)  +  2MnSO4(aq)  +   2H2HSO4(aq)   In the reaction above, the products give a",
     "options": [
       "Colourless solution",
       "Purple precipitate",
@@ -7669,7 +7669,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-20-43",
-    "questionText": "Which of the followinig respresents hybridization in ethyne? (JAMB 2001)",
+    "questionText": "Which of the followinig respresents hybridization in ethyne?",
     "options": [
       "Sp2",
       "Sp2d",
@@ -7681,7 +7681,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-21-455",
-    "questionText": "A given amount of gas occupies 10.0 dm³ at 4 atm and 273°C. The number of moles of the gas present is? [Molar volume of gas at s.t.p = 22.4 dm³] (JAMB 2018)",
+    "questionText": "A given amount of gas occupies 10.0 dm³ at 4 atm and 273°C. The number of moles of the gas present is? [Molar volume of gas at s.t.p = 22.4 dm³]",
     "options": [
       "0.89 mol",
       "1.90 mol",
@@ -7693,7 +7693,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-22-662",
-    "questionText": "The dehydration of CH₃CH₂CH₂CH₂OH will give? (JAMB 2022)",
+    "questionText": "The dehydration of CH₃CH₂CH₂CH₂OH will give?",
     "options": [
       "HC≡CCH₂CH₃",
       "CH₂=CCH₂CH₃",
@@ -7705,7 +7705,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-23-748",
-    "questionText": "How much of 5g of a radioactive element whose half life is 50 days remains after 200 days? (JAMB 2024)",
+    "questionText": "How much of 5g of a radioactive element whose half life is 50 days remains after 200 days?",
     "options": [
       "2.50 g",
       "1.25 g",
@@ -7717,7 +7717,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-24-128",
-    "questionText": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they (JAMB 2004)",
+    "questionText": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they",
     "options": [
       "Have no definite shape",
       "Have little force attraction between them",
@@ -7729,7 +7729,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-25-656",
-    "questionText": "An organic compound contains 69% carbon, 15.3% hydrogen and 30.7% oxygen. Calculate the empirical formula [C=12, H=1, O=16] (JAMB 2022)",
+    "questionText": "An organic compound contains 69% carbon, 15.3% hydrogen and 30.7% oxygen. Calculate the empirical formula [C=12, H=1, O=16]",
     "options": [
       "C₄H₁₂O",
       "C₃H₉O",
@@ -7741,7 +7741,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-26-705",
-    "questionText": "What is the principal ore of iron, from which iron is extracted? (JAMB 2023)",
+    "questionText": "What is the principal ore of iron, from which iron is extracted?",
     "options": [
       "Calcite",
       "Bauxite",
@@ -7753,7 +7753,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-27-307",
-    "questionText": "Iron is often galvanized in order to (JAMB 2015)",
+    "questionText": "Iron is often galvanized in order to",
     "options": [
       "Make it more malleable",
       "Remove the impurities unit",
@@ -7765,7 +7765,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-28-334",
-    "questionText": "All these are electromagnetic waves except (JAMB 2015)",
+    "questionText": "All these are electromagnetic waves except",
     "options": [
       "White light",
       "Photon",
@@ -7777,7 +7777,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-29-398",
-    "questionText": "The compound H-C(H₂)-C(H)(OH)-C(H₂)-C(HCl)(Cl) shown above — the functional groups present in the compound are (JAMB 2016)",
+    "questionText": "The compound H-C(H₂)-C(H)(OH)-C(H₂)-C(HCl)(Cl) shown above — the functional groups present in the compound are",
     "options": [
       "Alkene and halo-group",
       "Hydroxyl and chloro-group",
@@ -7789,7 +7789,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-30-323",
-    "questionText": "In the production of soap, concentrated sodium chloride solution is added to (JAMB 2015)",
+    "questionText": "In the production of soap, concentrated sodium chloride solution is added to",
     "options": [
       "increase the solubility of soap",
       "decrease the solubility of the soap",
@@ -7801,7 +7801,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-31-3",
-    "questionText": "A particle that contains 9 protons, 10 neutrons and 10electrons is a (JAMB 2001)",
+    "questionText": "A particle that contains 9 protons, 10 neutrons and 10electrons is a",
     "options": [
       "Neghative ion",
       "Positive ion",
@@ -7813,7 +7813,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-32-167",
-    "questionText": " Alkanol + Alkanoic acid ⇌  Ester + water.\nThe reverse reaction of the equation above is known as\n (JAMB 2004)",
+    "questionText": " Alkanol + Alkanoic acid ⇌  Ester + water.\nThe reverse reaction of the equation above is known as\n",
     "options": [
       "Hydrolysis",
       "Saponification",
@@ -7825,7 +7825,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-33-213",
-    "questionText": "Which of the following equimolar solutions will have the highest pH (JAMB 2005)",
+    "questionText": "Which of the following equimolar solutions will have the highest pH",
     "options": [
       "NH4OH",
       "CH3COONa",
@@ -7837,7 +7837,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-34-391",
-    "questionText": "An isotope has an atomic number of 15 and a mass number of 31. The number of protons it contains is (JAMB 2016)",
+    "questionText": "An isotope has an atomic number of 15 and a mass number of 31. The number of protons it contains is",
     "options": [
       "16",
       "15",
@@ -7849,7 +7849,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-35-113",
-    "questionText": "Carbohydrates are compounds containing carbon, hydrogen and oxygen in the ratio (JAMB 2003)",
+    "questionText": "Carbohydrates are compounds containing carbon, hydrogen and oxygen in the ratio",
     "options": [
       "3:01:01",
       "2:01:01",
@@ -7861,7 +7861,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-36-272",
-    "questionText": "Substances employed as drying agents are usually (JAMB 2010)",
+    "questionText": "Substances employed as drying agents are usually",
     "options": [
       "Hygroscopic",
       "Efflorescent",
@@ -7873,7 +7873,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-37-174",
-    "questionText": "To obtain pure carbon(II) oxide from its mixture with carbon (IV)oxide, the mixture should be (JAMB 2005)",
+    "questionText": "To obtain pure carbon(II) oxide from its mixture with carbon (IV)oxide, the mixture should be",
     "options": [
       "Bubbled through concentrated Tetraoxosulphate(VI) acid",
       "Bubbled through sodium hydroxide",
@@ -7885,7 +7885,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-38-129",
-    "questionText": "A given volume of methane diffuses in 20s. how long will it take the same volume of sulphur(IV) oxide to diffuse under the same conditions    [C = 12, H = 1, S = 32, O = 16] (JAMB 2004)",
+    "questionText": "A given volume of methane diffuses in 20s. how long will it take the same volume of sulphur(IV) oxide to diffuse under the same conditions    [C = 12, H = 1, S = 32, O = 16]",
     "options": [
       "5s",
       "20s",
@@ -7897,7 +7897,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-39-293",
-    "questionText": "Stainless steel is used for making (JAMB 2010)",
+    "questionText": "Stainless steel is used for making",
     "options": [
       "Tools",
       "Coins and medals",
@@ -7909,7 +7909,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-40-2",
-    "questionText": "What mass of water is produced when 8.0g of hydriogen reacts with excess oxygen [H = 1, O = 16] (JAMB 2001)",
+    "questionText": "What mass of water is produced when 8.0g of hydriogen reacts with excess oxygen [H = 1, O = 16]",
     "options": [
       "36.0g",
       "8.0g",
@@ -7921,7 +7921,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-41-21",
-    "questionText": "What current in amperes will deposit 2.7g of aluminium in 2 hours [Al = 27, f = 96500 C mol-1] (JAMB 2001)",
+    "questionText": "What current in amperes will deposit 2.7g of aluminium in 2 hours [Al = 27, f = 96500 C mol-1]",
     "options": [
       "32",
       "8",
@@ -7933,7 +7933,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-42-39",
-    "questionText": "The pair of organic compounds that are isomers is (JAMB 2001)",
+    "questionText": "The pair of organic compounds that are isomers is",
     "options": [
       "Benzene and methylbenzene",
       "Trichloromethane and Tetrachloromethane",
@@ -7945,7 +7945,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-43-31",
-    "questionText": "The general formula for the alkanals is (JAMB 2001)",
+    "questionText": "The general formula for the alkanals is",
     "options": [
       "ROH",
       "R2CO",
@@ -7957,7 +7957,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-44-28",
-    "questionText": "In which of the following reactions has the oxidation number of nitrogen increased (JAMB 2001)",
+    "questionText": "In which of the following reactions has the oxidation number of nitrogen increased",
     "options": [
       "2NO(g) + Br2(l) → 2NOBr(l)",
       "2NO2(g) + O2(g) → 2NO2(g)",
@@ -7969,7 +7969,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-45-19",
-    "questionText": "A metal M displaces zinc from zinc chloride solution. This shows that (JAMB 2001)",
+    "questionText": "A metal M displaces zinc from zinc chloride solution. This shows that",
     "options": [
       "M is more electronegative than zinc",
       "Zinc is above hydrogen in the series",
@@ -7981,7 +7981,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-46-5",
-    "questionText": "An oxide X02 has a vapour density of 32. What is the atomic mass of X [O = 16] (JAMB 2001)",
+    "questionText": "An oxide X02 has a vapour density of 32. What is the atomic mass of X [O = 16]",
     "options": [
       "32",
       "20",
@@ -7993,7 +7993,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-47-38",
-    "questionText": "A characteristic reaction of the compounds with the general formula CnH2n is (JAMB 2001)",
+    "questionText": "A characteristic reaction of the compounds with the general formula CnH2n is",
     "options": [
       "Esterification",
       "Polymerization",
@@ -8005,7 +8005,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-48-12",
-    "questionText": "Pure solvents are obtained by (JAMB 2001)",
+    "questionText": "Pure solvents are obtained by",
     "options": [
       "Distillation",
       "Condensation",
@@ -8017,7 +8017,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-49-29",
-    "questionText": "NH3(g)  +  HCI(g)  → NH4CI(s) The entropy change in the system is (JAMB 2001)",
+    "questionText": "NH3(g)  +  HCI(g)  → NH4CI(s) The entropy change in the system is",
     "options": [
       "Negative",
       "Indeterminate",
@@ -8029,7 +8029,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-50-24",
-    "questionText": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1] (JAMB 2001)",
+    "questionText": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1]",
     "options": [
       "Increasing the temperature of the system",
       "Increasing the pressure of the system",
@@ -8041,7 +8041,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-51-17",
-    "questionText": "In which of the following reactuions does reduction take place (JAMB 2001)",
+    "questionText": "In which of the following reactuions does reduction take place",
     "options": [
       "Fe2+ - e- Fe3+",
       "2O2- → O2 + 4e-",
@@ -8053,7 +8053,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-52-34",
-    "questionText": "Catalytic hydrogenation of benzene produces (JAMB 2001)",
+    "questionText": "Catalytic hydrogenation of benzene produces",
     "options": [
       "Oil",
       "Cyclohexane",
@@ -8065,7 +8065,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-53-37",
-    "questionText": "Proteins in acid solution undergo (JAMB 2001)",
+    "questionText": "Proteins in acid solution undergo",
     "options": [
       "Polymerization",
       "Substitution",
@@ -8077,7 +8077,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-54-16",
-    "questionText": "Phosphorous is stored under water to precvent it from (JAMB 2001)",
+    "questionText": "Phosphorous is stored under water to precvent it from",
     "options": [
       "Dehydrating",
       "Becoming inert",
@@ -8089,7 +8089,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-55-41",
-    "questionText": "The gas that can best be collected by downward displacement of air is (JAMB 2001)",
+    "questionText": "The gas that can best be collected by downward displacement of air is",
     "options": [
       "Chlorine",
       "Sulphur(IV)oxide",
@@ -8101,7 +8101,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-56-6",
-    "questionText": "Milikan’s contribution to the development of atomic theory is the determination of (JAMB 2001)",
+    "questionText": "Milikan’s contribution to the development of atomic theory is the determination of",
     "options": [
       "Charge on electron",
       "Positive rays",
@@ -8113,7 +8113,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-57-18",
-    "questionText": "P(g) + O(g)    ⇌ 3R(s)  +  S(g)   ΔH is negative which of the following will increase the yield of R (JAMB 2001)",
+    "questionText": "P(g) + O(g)    ⇌ 3R(s)  +  S(g)   ΔH is negative which of the following will increase the yield of R",
     "options": [
       "Using a larger closed vessel",
       "Increasing the temperature",
@@ -8125,7 +8125,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-58-7",
-    "questionText": "Four elements W, X, Y, and Z have atomic numbers 2, 6, 16 and 20 respectively. Which of these elements is a metal (JAMB 2001)",
+    "questionText": "Four elements W, X, Y, and Z have atomic numbers 2, 6, 16 and 20 respectively. Which of these elements is a metal",
     "options": [
       "X",
       "W",
@@ -8137,7 +8137,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-59-36",
-    "questionText": "When chlorine is passed into water and the resulting solution exposed to sunlight, the product formed are (JAMB 2001)",
+    "questionText": "When chlorine is passed into water and the resulting solution exposed to sunlight, the product formed are",
     "options": [
       "Chlorine gas and hydrogen",
       "Oxygen and oxochlorate(l) acid",
@@ -8149,7 +8149,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-60-23",
-    "questionText": "C(s) + 2S (g)  → CS2 (g)      Δ H = +89kJ mol-1. The chemical equation above implies that (JAMB 2001)",
+    "questionText": "C(s) + 2S (g)  → CS2 (g)      Δ H = +89kJ mol-1. The chemical equation above implies that",
     "options": [
       "Each of carbon and sulphur has 89kJ of energy",
       "Both carbon and sulphur contribute 89kJ of energy",
@@ -8161,7 +8161,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-61-20",
-    "questionText": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises (JAMB 2001)",
+    "questionText": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises",
     "options": [
       "The bonds in the reacting molecules are more readily broken",
       "The molecules collisions become more violent",
@@ -8173,7 +8173,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-62-44",
-    "questionText": "When sodium reacts with water, the resulting solution is (JAMB 2001)",
+    "questionText": "When sodium reacts with water, the resulting solution is",
     "options": [
       "weakly acdic",
       "neutral",
@@ -8185,7 +8185,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-63-9",
-    "questionText": "Which of the following statements is correct about the average kinetic energy of the molecules of a gas (JAMB 2001)",
+    "questionText": "Which of the following statements is correct about the average kinetic energy of the molecules of a gas",
     "options": [
       "It inctreasaes with increase in pressure",
       "It increases at constant pressure",
@@ -8197,7 +8197,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-64-32",
-    "questionText": "The main impurity in iron ore during the extraction of iron is (JAMB 2001)",
+    "questionText": "The main impurity in iron ore during the extraction of iron is",
     "options": [
       "Silicon (IV) oxide",
       "Carbon(IV) oxide",
@@ -8209,7 +8209,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-65-33",
-    "questionText": "During the vulcanization of rubber, sulphur is added to (JAMB 2001)",
+    "questionText": "During the vulcanization of rubber, sulphur is added to",
     "options": [
       "Break down rubber polymer",
       "Lengthen the chain of rubber",
@@ -8221,7 +8221,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-66-35",
-    "questionText": "A trihydric alkanol is (JAMB 2001)",
+    "questionText": "A trihydric alkanol is",
     "options": [
       "glycerol",
       "phenol",
@@ -8233,7 +8233,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-67-1",
-    "questionText": "25cm3 of a gas X contains Zmolecules at 150C and 75mmHg. How many molecules will 25cmm3 of another gas Y contain at the same temperature and pressure (JAMB 2001)",
+    "questionText": "25cm3 of a gas X contains Zmolecules at 150C and 75mmHg. How many molecules will 25cmm3 of another gas Y contain at the same temperature and pressure",
     "options": [
       "2Y",
       "2Z",
@@ -8245,7 +8245,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-68-40",
-    "questionText": "A burning candle produces water and (JAMB 2001)",
+    "questionText": "A burning candle produces water and",
     "options": [
       "Carbon(II)oxide",
       "Carbon(IV) oxide",
@@ -8257,7 +8257,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-69-22",
-    "questionText": "Ethanoic acid is (JAMB 2001)",
+    "questionText": "Ethanoic acid is",
     "options": [
       "Tribasic",
       "Unionizeable",
@@ -8269,7 +8269,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-70-42",
-    "questionText": "Which of the following metals burns brick with a brick-red (JAMB 2001)",
+    "questionText": "Which of the following metals burns brick with a brick-red",
     "options": [
       "Pb",
       "Ca",
@@ -8281,7 +8281,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-71-27",
-    "questionText": "As the concentration of an electrolyte reduces, the conductivity (JAMB 2001)",
+    "questionText": "As the concentration of an electrolyte reduces, the conductivity",
     "options": [
       "Reduces to zero",
       "Decreases",
@@ -8293,7 +8293,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-72-11",
-    "questionText": "Deliquenscent substances are used for (JAMB 2001)",
+    "questionText": "Deliquenscent substances are used for",
     "options": [
       "Cooling",
       "Wetting",
@@ -8305,7 +8305,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-73-4",
-    "questionText": "Cancerous growths are cured by exposure to (JAMB 2001)",
+    "questionText": "Cancerous growths are cured by exposure to",
     "options": [
       "ɣ-rays",
       "β – rays",
@@ -8317,7 +8317,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-74-15",
-    "questionText": "The chemiocal used for coagulation in water purification is (JAMB 2001)",
+    "questionText": "The chemiocal used for coagulation in water purification is",
     "options": [
       "Aluminum tetraoxosulphate(VI)",
       "Copper tetratoxosulphate (VI)",
@@ -8329,7 +8329,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-75-10",
-    "questionText": "The pollution from petroleum spillage in rivers and lakes can best be dispersed by (JAMB 2001)",
+    "questionText": "The pollution from petroleum spillage in rivers and lakes can best be dispersed by",
     "options": [
       "Pouring detergents",
       "Passing of ships through the area",
@@ -8341,7 +8341,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-76-26",
-    "questionText": "When ΔH is negative, a reaction is said to be (JAMB 2001)",
+    "questionText": "When ΔH is negative, a reaction is said to be",
     "options": [
       "Ionic",
       "Reversible",
@@ -8353,7 +8353,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-77-14",
-    "questionText": "Environmental pollution is worsened by the release from automobile exhausts of (JAMB 2001)",
+    "questionText": "Environmental pollution is worsened by the release from automobile exhausts of",
     "options": [
       "Water vapour",
       "Steam",
@@ -8365,7 +8365,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-78-13",
-    "questionText": "What is the decrease in volume of air when pyrogallol is shaken with 30.00cm3 of air (JAMB 2001)",
+    "questionText": "What is the decrease in volume of air when pyrogallol is shaken with 30.00cm3 of air",
     "options": [
       "15.00cm3",
       "6.00cm3",
@@ -8377,7 +8377,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-79-47",
-    "questionText": "The formula CH2O for ethanoic acid is regarded as its (JAMB 2002)",
+    "questionText": "The formula CH2O for ethanoic acid is regarded as its",
     "options": [
       "General formula",
       "Structural formula",
@@ -8389,7 +8389,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-80-62",
-    "questionText": "The processes which return carbon(IV) oxide to the atmosphere include (JAMB 2002)",
+    "questionText": "The processes which return carbon(IV) oxide to the atmosphere include",
     "options": [
       "Photosynthesis, decay and respiration",
       "Photosynthesis, respiration and transpiration",
@@ -8401,7 +8401,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-81-45",
-    "questionText": "Which of the following gases contains the least number of atoms at s.t.p (JAMB 2002)",
+    "questionText": "Which of the following gases contains the least number of atoms at s.t.p",
     "options": [
       "4 moles of chlorine",
       "3 moles of ozone",
@@ -8413,7 +8413,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-82-53",
-    "questionText": "The property which makes alcohol soluble in water is the (JAMB 2002)",
+    "questionText": "The property which makes alcohol soluble in water is the",
     "options": [
       "Hydrogen bonding",
       "Covalent nature",
@@ -8425,7 +8425,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-83-54",
-    "questionText": "The furring of kettles is caused by the presence in water of (JAMB 2002)",
+    "questionText": "The furring of kettles is caused by the presence in water of",
     "options": [
       "Calcium trioxocarbonate(IV)",
       "Calcium tetraoxosulphate(VI)",
@@ -8437,7 +8437,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-84-49",
-    "questionText": "The chromatographic separation of ink is based on the ability of the components to (JAMB 2002)",
+    "questionText": "The chromatographic separation of ink is based on the ability of the components to",
     "options": [
       "React with each other",
       "React with the solvent",
@@ -8449,7 +8449,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-85-74",
-    "questionText": "The boiling of fat and aqueous caustic soda is referred as (JAMB 2002)",
+    "questionText": "The boiling of fat and aqueous caustic soda is referred as",
     "options": [
       "Saponification",
       "Esterification",
@@ -8461,7 +8461,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-86-48",
-    "questionText": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from (JAMB 2002)",
+    "questionText": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from",
     "options": [
       "699C – 700C",
       "820C – 840C",
@@ -8473,7 +8473,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-87-65",
-    "questionText": "A fixed mass of gas has a  volume of 92cm3 at 30C. What will be be its volume at 180C if the pressure remains constant (JAMB 2002)",
+    "questionText": "A fixed mass of gas has a  volume of 92cm3 at 30C. What will be be its volume at 180C if the pressure remains constant",
     "options": [
       "15.3cm3",
       "87.3cm3",
@@ -8485,7 +8485,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-88-66",
-    "questionText": "The postulate of Dalton’s atomic theory which still holds is that (JAMB 2002)",
+    "questionText": "The postulate of Dalton’s atomic theory which still holds is that",
     "options": [
       "Particles of different elements combine in a simple whole number ratio",
       "Atoms can neither be created nor destroyed",
@@ -8497,7 +8497,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-89-71",
-    "questionText": "Which of the following gives a precipitate when treated with NaOH solution (JAMB 2002)",
+    "questionText": "Which of the following gives a precipitate when treated with NaOH solution",
     "options": [
       "Na2CO3",
       "CH3COONa",
@@ -8509,7 +8509,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-90-61",
-    "questionText": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in a vessel with a total pressure of 0.7 atmosphere. What is the partial pressure of oxygen in the mixture (JAMB 2002)",
+    "questionText": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in a vessel with a total pressure of 0.7 atmosphere. What is the partial pressure of oxygen in the mixture",
     "options": [
       "0.55 atmosphere",
       "0.44 atmosphere",
@@ -8521,7 +8521,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-91-50",
-    "questionText": "Steam changes the colour of anhydrous cobalt(II) chloride from (JAMB 2002)",
+    "questionText": "Steam changes the colour of anhydrous cobalt(II) chloride from",
     "options": [
       "White to red",
       "Blue to white",
@@ -8533,7 +8533,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-92-57",
-    "questionText": "Three drops of a 1.0 mol dm-3 solution of Na OH are added to 20cm3 of a solution of pH8.4. the pH of the resulting solution will be (JAMB 2002)",
+    "questionText": "Three drops of a 1.0 mol dm-3 solution of Na OH are added to 20cm3 of a solution of pH8.4. the pH of the resulting solution will be",
     "options": [
       "Greater than 8.4",
       "Unaltered",
@@ -8545,7 +8545,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-93-56",
-    "questionText": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be (JAMB 2002)",
+    "questionText": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
     "options": [
       "Deliquescence",
       "Effervescence",
@@ -8557,7 +8557,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-94-69",
-    "questionText": "Hydrogen is readily released when dilute hydrochloric acid reacts with (JAMB 2002)",
+    "questionText": "Hydrogen is readily released when dilute hydrochloric acid reacts with",
     "options": [
       "Au",
       "Cu",
@@ -8569,7 +8569,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-95-46",
-    "questionText": "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formular of the compound (JAMB 2002)",
+    "questionText": "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formular of the compound",
     "options": [
       "KCLO3",
       "KCLO4",
@@ -8581,7 +8581,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-96-68",
-    "questionText": "A rock sample was added to cold dilute HNMO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The rock sample contains (JAMB 2002)",
+    "questionText": "A rock sample was added to cold dilute HNMO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The rock sample contains",
     "options": [
       "NO3-",
       "Cl-",
@@ -8593,7 +8593,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-97-73",
-    "questionText": "The gas that gives brown colouration in brown ring test (JAMB 2002)",
+    "questionText": "The gas that gives brown colouration in brown ring test",
     "options": [
       "Co2",
       "NO2",
@@ -8605,7 +8605,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-98-64",
-    "questionText": "A gas X diffuses twice as fast as gas Y under the same conditions. If the relative molecular mass of X is 28. Calculate the relative molecular mass of Y (JAMB 2002)",
+    "questionText": "A gas X diffuses twice as fast as gas Y under the same conditions. If the relative molecular mass of X is 28. Calculate the relative molecular mass of Y",
     "options": [
       "120",
       "14",
@@ -8617,7 +8617,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-99-52",
-    "questionText": "The substance least considered as a source of environmental pollution is (JAMB 2002)",
+    "questionText": "The substance least considered as a source of environmental pollution is",
     "options": [
       "Silicate minerals",
       "Uranium",
@@ -8629,7 +8629,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-100-72",
-    "questionText": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate(VI) is (JAMB 2002)",
+    "questionText": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate(VI) is",
     "options": [
       "Ethanol",
       "Methanol",
@@ -8641,7 +8641,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-101-63",
-    "questionText": "Which of the following statements is true of a proton. (JAMB 2002)",
+    "questionText": "Which of the following statements is true of a proton.",
     "options": [
       "The total mass of the protons in a particular nucleus always half the nuclear mass",
       "The mass of a proton is 1840 times the mass of an electron",
@@ -8653,7 +8653,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-102-60",
-    "questionText": "which of the following chlorides would exhibit the least ionic character (JAMB 2002)",
+    "questionText": "which of the following chlorides would exhibit the least ionic character",
     "options": [
       "AlCl3",
       "CaCl2",
@@ -8665,7 +8665,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-103-55",
-    "questionText": "Tetraoxosulphate(VI) acid burns the skin by (JAMB 2002)",
+    "questionText": "Tetraoxosulphate(VI) acid burns the skin by",
     "options": [
       "Heating",
       "Hydration",
@@ -8677,7 +8677,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-104-51",
-    "questionText": "Which of the following solutions containing only hydroxyl ions will liberate hydrogen gas when reacted with magnesium metal (JAMB 2002)",
+    "questionText": "Which of the following solutions containing only hydroxyl ions will liberate hydrogen gas when reacted with magnesium metal",
     "options": [
       "1.0 x 10-2 mol dm-3",
       "1.0 x 10-4 mol dm -3",
@@ -8689,7 +8689,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-105-58",
-    "questionText": "The solubility of a salt of molar mass 101g at 200C is 0.34mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is (JAMB 2002)",
+    "questionText": "The solubility of a salt of molar mass 101g at 200C is 0.34mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is",
     "options": [
       "Unsaturated",
       "A suspension",
@@ -8701,7 +8701,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-106-59",
-    "questionText": "25cm3 of a 0.2mol dm-3 solution of Na2CO3 requires 20cm3 of  solution of HCl for neutralization. The concentration of the solution is (JAMB 2002)",
+    "questionText": "25cm3 of a 0.2mol dm-3 solution of Na2CO3 requires 20cm3 of  solution of HCl for neutralization. The concentration of the solution is",
     "options": [
       "0.6 mol dm-3",
       "0.5 mol dm-3",
@@ -8713,7 +8713,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-107-67",
-    "questionText": "Ordinary glass is manufactured from silica, Ca CO3 and (JAMB 2002)",
+    "questionText": "Ordinary glass is manufactured from silica, Ca CO3 and",
     "options": [
       "K2CO3",
       "NaHCO3",
@@ -8725,7 +8725,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-108-111",
-    "questionText": "The modern process of manufacturing steel from iron is by (JAMB 2003)",
+    "questionText": "The modern process of manufacturing steel from iron is by",
     "options": [
       "Treatment with acids",
       "Oxidation",
@@ -8737,7 +8737,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-109-96",
-    "questionText": "The commonest feature of the reactions at the anode is that (JAMB 2003)",
+    "questionText": "The commonest feature of the reactions at the anode is that",
     "options": [
       "Electrons are consumed",
       "Oxidation is involved",
@@ -8749,7 +8749,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-110-91",
-    "questionText": "What mass of K2CrO4 is required to prepare 250cm3 of 0.020 mol dm-3 solution   [K2CrO4 = 194.2g mol-1] (JAMB 2003)",
+    "questionText": "What mass of K2CrO4 is required to prepare 250cm3 of 0.020 mol dm-3 solution   [K2CrO4 = 194.2g mol-1]",
     "options": [
       "0.97g",
       "9.70g",
@@ -8761,7 +8761,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-111-75",
-    "questionText": "What volume of oxygen is produced from the decomposition of 2 moles of KClO3 at s.t.p   [Molar volume of a gas at s.t.p = 22.4 dm3] (JAMB 2003)",
+    "questionText": "What volume of oxygen is produced from the decomposition of 2 moles of KClO3 at s.t.p   [Molar volume of a gas at s.t.p = 22.4 dm3]",
     "options": [
       "22.4 dm3",
       "33.6 dm3",
@@ -8773,7 +8773,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-112-112",
-    "questionText": "Ethene reacts with hydrogen bromide to give (JAMB 2003)",
+    "questionText": "Ethene reacts with hydrogen bromide to give",
     "options": [
       "CH2Br2",
       "CH3CH2Br",
@@ -8785,7 +8785,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-113-106",
-    "questionText": "Hydrogen can be displaced form a hot alkaline solution by (JAMB 2003)",
+    "questionText": "Hydrogen can be displaced form a hot alkaline solution by",
     "options": [
       "Fe",
       "Cu",
@@ -8797,7 +8797,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-114-79",
-    "questionText": "3Cu  +  pHNO3  → 3Cu(NO3)2  +  4H2O  + xNO   In the equation above, the values of p and x respectively are (JAMB 2003)",
+    "questionText": "3Cu  +  pHNO3  → 3Cu(NO3)2  +  4H2O  + xNO   In the equation above, the values of p and x respectively are",
     "options": [
       "1 and 3",
       "2 and 3",
@@ -8809,7 +8809,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-115-121",
-    "questionText": "Which of the following is found in cotton (JAMB 2003)",
+    "questionText": "Which of the following is found in cotton",
     "options": [
       "Starch",
       "Cellulose",
@@ -8821,7 +8821,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-116-85",
-    "questionText": "When cathode rays are detected onto the electrode of an electrometer, the instrument becomes (JAMB 2003)",
+    "questionText": "When cathode rays are detected onto the electrode of an electrometer, the instrument becomes",
     "options": [
       "Negatively charged",
       "Positively charged",
@@ -8833,7 +8833,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-117-100",
-    "questionText": "In the electrolysis of a concentrated solution of sodium chloride using inert electrodes, which of the following ions are discharged at the cathode and anode respectively (JAMB 2003)",
+    "questionText": "In the electrolysis of a concentrated solution of sodium chloride using inert electrodes, which of the following ions are discharged at the cathode and anode respectively",
     "options": [
       "Na+ and Cl-",
       "Na+ and OH-",
@@ -8845,7 +8845,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-118-105",
-    "questionText": "Metals of the first transition series have special proper ties which are different from those of groups I and II elements because they have partially filled (JAMB 2003)",
+    "questionText": "Metals of the first transition series have special proper ties which are different from those of groups I and II elements because they have partially filled",
     "options": [
       "s orbitals",
       "p orbitals",
@@ -8857,7 +8857,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-119-76",
-    "questionText": "Which of the following is a physical change (JAMB 2003)",
+    "questionText": "Which of the following is a physical change",
     "options": [
       "Burning kerosene",
       "Freezing ice-cream",
@@ -8869,7 +8869,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-120-116",
-    "questionText": "The formula for ethyl butanoate is (JAMB 2003)",
+    "questionText": "The formula for ethyl butanoate is",
     "options": [
       "C3H7COOC2H5",
       "C2H5COOC3H7",
@@ -8881,7 +8881,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-121-92",
-    "questionText": "Farmlands affected by crude –oil spillage can be decontaminated by (JAMB 2003)",
+    "questionText": "Farmlands affected by crude –oil spillage can be decontaminated by",
     "options": [
       "Adding acidic solutions",
       "Using aerobic bacteria",
@@ -8893,7 +8893,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-122-86",
-    "questionText": "The weakest attractive force that can be observed between two molecules is (JAMB 2003)",
+    "questionText": "The weakest attractive force that can be observed between two molecules is",
     "options": [
       "Ionic",
       "Covalent",
@@ -8905,7 +8905,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-123-118",
-    "questionText": "Ethanol reacts with excess acidified K2Cr2O7 to produce (JAMB 2003)",
+    "questionText": "Ethanol reacts with excess acidified K2Cr2O7 to produce",
     "options": [
       "Ethanoic acid",
       "Ethanol",
@@ -8917,7 +8917,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-124-94",
-    "questionText": "A charge in the temperature of a saturated solution disturbs the equilibrium between the (JAMB 2003)",
+    "questionText": "A charge in the temperature of a saturated solution disturbs the equilibrium between the",
     "options": [
       "Dissolved solute and the solvent",
       "Solvent and the undissolved solute",
@@ -8929,7 +8929,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-125-115",
-    "questionText": "The leachate of a certain plant ash is used in local soap making because it contains (JAMB 2003)",
+    "questionText": "The leachate of a certain plant ash is used in local soap making because it contains",
     "options": [
       "Sodium chloride and potassium hydroxide",
       "Sodium hydroxide",
@@ -8941,7 +8941,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-126-122",
-    "questionText": "the principal constituent of natural gas is methane (JAMB 2003)",
+    "questionText": "the principal constituent of natural gas is methane",
     "options": [
       "ethane",
       "propane",
@@ -8953,7 +8953,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-127-95",
-    "questionText": "If an equilibrium reaction has   H>0, the reaction will proceed favourably in the forward direction at (JAMB 2003)",
+    "questionText": "If an equilibrium reaction has   H>0, the reaction will proceed favourably in the forward direction at",
     "options": [
       "High temperature",
       "Any temperature",
@@ -8965,7 +8965,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-128-83",
-    "questionText": " I.  H = 1s1\nII. O = 1s22s22p4\nIII. N = 1s22s22p3\nIV. Zn = 1s22s22p63s23p64s23d10\nFrom the above, which of the following pairs is likely to be paramagnetic?\n (JAMB 2003)",
+    "questionText": " I.  H = 1s1\nII. O = 1s22s22p4\nIII. N = 1s22s22p3\nIV. Zn = 1s22s22p63s23p64s23d10\nFrom the above, which of the following pairs is likely to be paramagnetic?\n",
     "options": [
       "I and II",
       "I and III",
@@ -8977,7 +8977,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-129-104",
-    "questionText": "Chlorine gas is prepared in the laboratory by (JAMB 2003)",
+    "questionText": "Chlorine gas is prepared in the laboratory by",
     "options": [
       "Adding concentrated hydrochloric acid to solid manganese (IV) oxide",
       "Adding concentrated tetraoxosulphate (VI) acid to solid sodium chloride",
@@ -8989,7 +8989,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-130-84",
-    "questionText": "A gas exerts pressure on its container because (JAMB 2003)",
+    "questionText": "A gas exerts pressure on its container because",
     "options": [
       "Some of its molecules are moving faster than others",
       "Of the collision of the molecules with each other",
@@ -9001,7 +9001,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-131-98",
-    "questionText": "If Y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct (JAMB 2003)",
+    "questionText": "If Y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct",
     "options": [
       "Y increases in oxidation number",
       "Y becomes reduced",
@@ -9013,7 +9013,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-132-99",
-    "questionText": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant (JAMB 2003)",
+    "questionText": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant",
     "options": [
       "2SO3(g) ⇌ 2SO2(g) + O2(g)",
       "2CO2(g) ⇌ 2CO(g) + O2(g)",
@@ -9025,7 +9025,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-133-87",
-    "questionText": "A consequence of global warming is (JAMB 2003)",
+    "questionText": "A consequence of global warming is",
     "options": [
       "Air pollution",
       "Water pollution",
@@ -9037,7 +9037,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-134-110",
-    "questionText": "Chlorine gas turns a damp starch-iodide paper (JAMB 2003)",
+    "questionText": "Chlorine gas turns a damp starch-iodide paper",
     "options": [
       "Pink",
       "Colourless",
@@ -9049,7 +9049,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-135-108",
-    "questionText": "The salt that will form a precipitate soluble in excess ammonia solution is (JAMB 2003)",
+    "questionText": "The salt that will form a precipitate soluble in excess ammonia solution is",
     "options": [
       "Ca(NO3)2",
       "Cu(NO3)2",
@@ -9061,7 +9061,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-136-81",
-    "questionText": "The noble gases owe their inactivity to (JAMB 2003)",
+    "questionText": "The noble gases owe their inactivity to",
     "options": [
       "Octet configuration",
       "Cyclic shape",
@@ -9073,7 +9073,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-137-114",
-    "questionText": "How many isomers does pentane have (JAMB 2003)",
+    "questionText": "How many isomers does pentane have",
     "options": [
       "6",
       "5",
@@ -9085,7 +9085,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-138-90",
-    "questionText": "A liquid that will dissolve fast is (JAMB 2003)",
+    "questionText": "A liquid that will dissolve fast is",
     "options": [
       "Hydrochloric acid",
       "Calcium hydroxide",
@@ -9097,7 +9097,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-139-82",
-    "questionText": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to (JAMB 2003)",
+    "questionText": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
     "options": [
       "Decrease",
       "Increase",
@@ -9109,7 +9109,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-140-109",
-    "questionText": "The metal that liberates hydrogen from cold water in bubbles only is (JAMB 2003)",
+    "questionText": "The metal that liberates hydrogen from cold water in bubbles only is",
     "options": [
       "Na",
       "K",
@@ -9121,7 +9121,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-141-78",
-    "questionText": "The filter in a cigarette reduces the nicotine content by (JAMB 2003)",
+    "questionText": "The filter in a cigarette reduces the nicotine content by",
     "options": [
       "Burning",
       "Adsorption",
@@ -9133,7 +9133,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-142-88",
-    "questionText": "Which of the following ions is acidic (JAMB 2003)",
+    "questionText": "Which of the following ions is acidic",
     "options": [
       "K+",
       "NO-3",
@@ -9145,7 +9145,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-143-97",
-    "questionText": "Which of the following will change when a catalyst is added to a chemical reaction (JAMB 2003)",
+    "questionText": "Which of the following will change when a catalyst is added to a chemical reaction",
     "options": [
       "The activation energy",
       "The potential energy of the reactants",
@@ -9157,7 +9157,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-144-101",
-    "questionText": " CO(g) + H2O(g) ⇌  CO2(g)  +  H2(g)\nFrom the reaction above, calculate the standard heat change if the standard enthalpies of formation of CO2 (g), H2O (g) and CO (g) in kJ mol-1 are -394, -242 and -110 respectively.\n (JAMB 2003)",
+    "questionText": " CO(g) + H2O(g) ⇌  CO2(g)  +  H2(g)\nFrom the reaction above, calculate the standard heat change if the standard enthalpies of formation of CO2 (g), H2O (g) and CO (g) in kJ mol-1 are -394, -242 and -110 respectively.\n",
     "options": [
       "-262 kJ mol-1",
       "-42kJ mol-1",
@@ -9169,7 +9169,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-145-117",
-    "questionText": "The type of reaction that is peculiar to benzene is (JAMB 2003)",
+    "questionText": "The type of reaction that is peculiar to benzene is",
     "options": [
       "Addition",
       "Hydrolysis",
@@ -9181,7 +9181,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-146-133",
-    "questionText": "Chlorine consisting of two isotopes of mass numbers 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotope of mass number 37. (JAMB 2004)",
+    "questionText": "Chlorine consisting of two isotopes of mass numbers 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotope of mass number 37.",
     "options": [
       "20",
       "25",
@@ -9193,7 +9193,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-147-139",
-    "questionText": "Calcium Tetraoxosulphate(VI) dissolves in water only sparingly to form a (JAMB 2004)",
+    "questionText": "Calcium Tetraoxosulphate(VI) dissolves in water only sparingly to form a",
     "options": [
       "Solution",
       "Suspension",
@@ -9205,7 +9205,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-148-127",
-    "questionText": "According to Charles  law, the volume of a gas becomes zero at (JAMB 2004)",
+    "questionText": "According to Charles  law, the volume of a gas becomes zero at",
     "options": [
       "00C",
       "-1000C",
@@ -9217,7 +9217,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-149-126",
-    "questionText": "What volume of gas is evolved at s.t.p. if 2g of calcium trioxocarbonate(IV) is added to a solution of hydrochloric acid    [Ca = 40, C = 12, O = 16, CI = 35.5, H = 1, Molar volume of a gas at s.t.p = 22.4dm3] (JAMB 2004)",
+    "questionText": "What volume of gas is evolved at s.t.p. if 2g of calcium trioxocarbonate(IV) is added to a solution of hydrochloric acid    [Ca = 40, C = 12, O = 16, CI = 35.5, H = 1, Molar volume of a gas at s.t.p = 22.4dm3]",
     "options": [
       "112cm3",
       "224cm3",
@@ -9229,7 +9229,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-150-159",
-    "questionText": "Sodium metal is always kept under oil because it (JAMB 2004)",
+    "questionText": "Sodium metal is always kept under oil because it",
     "options": [
       "Readily reacts with water",
       "Is reduced by atmospheric nitrogen",
@@ -9241,7 +9241,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-151-155",
-    "questionText": "Carbon is tetravalent because (JAMB 2004)",
+    "questionText": "Carbon is tetravalent because",
     "options": [
       "The electrons in both the 2s and 2p orbitals are equivalent",
       "The electrons in all the orbitals of carbon are equivalent",
@@ -9253,7 +9253,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-152-144",
-    "questionText": "Which of the following acts as both a reducing and an oxidizing agent (JAMB 2004)",
+    "questionText": "Which of the following acts as both a reducing and an oxidizing agent",
     "options": [
       "H2",
       "SO2",
@@ -9265,7 +9265,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-153-164",
-    "questionText": "Which of these reagents can confirm the presence of a triple bond (JAMB 2004)",
+    "questionText": "Which of these reagents can confirm the presence of a triple bond",
     "options": [
       "Bromine water",
       "Acidified KMnO4",
@@ -9277,7 +9277,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-154-160",
-    "questionText": "Oxyacetylene flame is used for iron-welding because it (JAMB 2004)",
+    "questionText": "Oxyacetylene flame is used for iron-welding because it",
     "options": [
       "makes the iron metal solidity very quickly",
       "Combines with oxygen to give a pop sound",
@@ -9289,7 +9289,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-155-147",
-    "questionText": " 2CO(g)  +  O2(g) →  2CO2(g)\nGiven that   Δ H [CO] is 110.4kJ mol-1 and Δ H [CO2] is -393.0kJ mol-1, the energy change for the reaction above is\n (JAMB 2004)",
+    "questionText": " 2CO(g)  +  O2(g) →  2CO2(g)\nGiven that   Δ H [CO] is 110.4kJ mol-1 and Δ H [CO2] is -393.0kJ mol-1, the energy change for the reaction above is\n",
     "options": [
       "-503.7kJ",
       "-282.6kJ",
@@ -9301,7 +9301,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-156-151",
-    "questionText": "The allotrope of carbon used in the decolourization of sugar is (JAMB 2004)",
+    "questionText": "The allotrope of carbon used in the decolourization of sugar is",
     "options": [
       "Graphite",
       "Soot",
@@ -9313,7 +9313,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-157-162",
-    "questionText": "An isomer of C5H12 is (JAMB 2004)",
+    "questionText": "An isomer of C5H12 is",
     "options": [
       "Butane",
       "2-methylbutane",
@@ -9325,7 +9325,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-158-136",
-    "questionText": "Pollution of underground water by metal ions is very likely in a soil that has high (JAMB 2004)",
+    "questionText": "Pollution of underground water by metal ions is very likely in a soil that has high",
     "options": [
       "Acidity",
       "Alkalinity",
@@ -9337,7 +9337,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-159-137",
-    "questionText": "A carcinogenic substance is (JAMB 2004)",
+    "questionText": "A carcinogenic substance is",
     "options": [
       "Asbestos dust",
       "Sawdust",
@@ -9349,7 +9349,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-160-130",
-    "questionText": "An electron can be added to a halogen atom to form a halide ion with (JAMB 2004)",
+    "questionText": "An electron can be added to a halogen atom to form a halide ion with",
     "options": [
       "2 valence electrons",
       "3 valence electrons",
@@ -9361,7 +9361,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-161-148",
-    "questionText": "Which of the following hydrogen halides has the highest entropy value (JAMB 2004)",
+    "questionText": "Which of the following hydrogen halides has the highest entropy value",
     "options": [
       "HF",
       "HCl",
@@ -9373,7 +9373,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-162-140",
-    "questionText": "Which of these compounds is a normal salt (JAMB 2004)",
+    "questionText": "Which of these compounds is a normal salt",
     "options": [
       "NaHS",
       "NaSO4",
@@ -9385,7 +9385,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-163-153",
-    "questionText": "Which steam is passed over red-hot carbon, the substances produced are (JAMB 2004)",
+    "questionText": "Which steam is passed over red-hot carbon, the substances produced are",
     "options": [
       "Hydrogen and trioxocarbonate(IV) acid",
       "Hydrogen, oxygen and carbon(IV) oxide",
@@ -9397,7 +9397,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079890-164-135",
-    "questionText": "Hardness of water is caused by the presence of the ions of (JAMB 2004)",
+    "questionText": "Hardness of water is caused by the presence of the ions of",
     "options": [
       "Magnesium and silver",
       "Calcium and magnesium",
@@ -9409,7 +9409,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-165-125",
-    "questionText": "If a solution contains 4.8g of Tetraoxosulphate (VI) acid. Calculate the amount of copper(II) oxide that will react with it  [CU = 64, O = 16, S = 32, H = 1] (JAMB 2004)",
+    "questionText": "If a solution contains 4.8g of Tetraoxosulphate (VI) acid. Calculate the amount of copper(II) oxide that will react with it  [CU = 64, O = 16, S = 32, H = 1]",
     "options": [
       "0.8g",
       "4.0g",
@@ -9421,7 +9421,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-166-143",
-    "questionText": "ZnO(s) + CO (g) → Zn(s) + CO2 (g).  (JAMB 2004)",
+    "questionText": "ZnO(s) + CO (g) → Zn(s) + CO2 (g).",
     "options": [
       "Decomposed",
       "Displaced",
@@ -9433,7 +9433,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-167-152",
-    "questionText": "Which of the following gases can be collected by the method of downward delivery (JAMB 2004)",
+    "questionText": "Which of the following gases can be collected by the method of downward delivery",
     "options": [
       "Chlorine",
       "Oxygen",
@@ -9445,7 +9445,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-168-166",
-    "questionText": "The reaction above is (JAMB 2004)",
+    "questionText": "The reaction above is",
     "options": [
       "Carboxylation",
       "Decarboxylation",
@@ -9457,7 +9457,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-169-145",
-    "questionText": "In the electrolysis of brine, the anode is (JAMB 2004)",
+    "questionText": "In the electrolysis of brine, the anode is",
     "options": [
       "Platinum",
       "Copper",
@@ -9469,7 +9469,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-170-131",
-    "questionText": "The shape of the s-orbital is (JAMB 2004)",
+    "questionText": "The shape of the s-orbital is",
     "options": [
       "Spherical",
       "Elliptical",
@@ -9481,7 +9481,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-171-123",
-    "questionText": "When a solid substance disappears completely as a gas on heating, the substance is said to have under gone (JAMB 2004)",
+    "questionText": "When a solid substance disappears completely as a gas on heating, the substance is said to have under gone",
     "options": [
       "Evaporation",
       "Distillation",
@@ -9493,7 +9493,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-172-161",
-    "questionText": "The alkyl group can be represented by the general formula (JAMB 2004)",
+    "questionText": "The alkyl group can be represented by the general formula",
     "options": [
       "CnH2n+1",
       "CnH2n",
@@ -9505,7 +9505,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-173-138",
-    "questionText": "The solubility in mol dm-3 of 20g of CuSO4 dissolved in 100g of water at 1800C is  [Cu = 64, S = 32, O = 16] (JAMB 2004)",
+    "questionText": "The solubility in mol dm-3 of 20g of CuSO4 dissolved in 100g of water at 1800C is  [Cu = 64, S = 32, O = 16]",
     "options": [
       "0.13",
       "0.25",
@@ -9517,7 +9517,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-174-163",
-    "questionText": "A characteristic of the alkane family is (JAMB 2004)",
+    "questionText": "A characteristic of the alkane family is",
     "options": [
       "Addition reaction",
       "Elimination reaction",
@@ -9529,7 +9529,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-175-150",
-    "questionText": "Which of the following shows little or no net reaction when the volume of the system is decreased (JAMB 2004)",
+    "questionText": "Which of the following shows little or no net reaction when the volume of the system is decreased",
     "options": [
       "H2(g) + l2(g) ⇌ 2Hl(g)",
       "2NO2(g) ⇌ N2O4(g)",
@@ -9541,7 +9541,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-176-154",
-    "questionText": " sulphur (IV) oxide bleaches by (JAMB 2004)",
+    "questionText": " sulphur (IV) oxide bleaches by",
     "options": [
       "Reduction",
       "Oxidation",
@@ -9553,7 +9553,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-177-156",
-    "questionText": "Aluminium hydroxide is used in the dyeing industry as a (JAMB 2004)",
+    "questionText": "Aluminium hydroxide is used in the dyeing industry as a",
     "options": [
       "Salt",
       "Dye",
@@ -9565,7 +9565,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-178-132",
-    "questionText": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its (JAMB 2004)",
+    "questionText": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its",
     "options": [
       "Electrovalency",
       "Electron affinity",
@@ -9577,7 +9577,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-179-158",
-    "questionText": "Transition metals posses variable oxidation states because they have (JAMB 2004)",
+    "questionText": "Transition metals posses variable oxidation states because they have",
     "options": [
       "Electrons in the d orbitals",
       "Electrons in the s orbitals",
@@ -9589,7 +9589,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-180-141",
-    "questionText": "What volume of 0.5mol dm-3 H2SO4 will exactly neutralize 20cm3 of 0.1 mol dm-3 NaOH solution (JAMB 2004)",
+    "questionText": "What volume of 0.5mol dm-3 H2SO4 will exactly neutralize 20cm3 of 0.1 mol dm-3 NaOH solution",
     "options": [
       "2.0cm3",
       "5.0cm3",
@@ -9601,7 +9601,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-181-134",
-    "questionText": "Which of the following mixtures of gases is likely to burn in flame (JAMB 2004)",
+    "questionText": "Which of the following mixtures of gases is likely to burn in flame",
     "options": [
       "Neon and hydrogen",
       "Nitrogen and helium",
@@ -9613,7 +9613,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-182-191",
-    "questionText": "The component of an atom that contributes least to its mass is the (JAMB 2005)",
+    "questionText": "The component of an atom that contributes least to its mass is the",
     "options": [
       "Nucleus",
       "Neutron",
@@ -9625,7 +9625,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-183-170",
-    "questionText": "The property used in the industrial preparation of nitrogen and oxygen from air is (JAMB 2005)",
+    "questionText": "The property used in the industrial preparation of nitrogen and oxygen from air is",
     "options": [
       "Rate of diffusion",
       "Solubility",
@@ -9637,7 +9637,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-184-171",
-    "questionText": "A dense white fume is formed when ammonia gas reacts with (JAMB 2005)",
+    "questionText": "A dense white fume is formed when ammonia gas reacts with",
     "options": [
       "H2(g)",
       "O2(g)",
@@ -9649,7 +9649,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-185-172",
-    "questionText": "In a flame test for calcium, the flame appears (JAMB 2005)",
+    "questionText": "In a flame test for calcium, the flame appears",
     "options": [
       "Blue when viewed through a blue glass",
       "Green when viewed through a blue glass",
@@ -9661,7 +9661,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-186-209",
-    "questionText": "Phenolphthalein in acidic solution is (JAMB 2005)",
+    "questionText": "Phenolphthalein in acidic solution is",
     "options": [
       "Colourless",
       "Yellow",
@@ -9673,7 +9673,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-187-205",
-    "questionText": "When water boilers are used for a long period of time, the solid substances left behind as scale are (JAMB 2005)",
+    "questionText": "When water boilers are used for a long period of time, the solid substances left behind as scale are",
     "options": [
       "Magnesium trioxosilicate (IV) and calcium Tetraoxosulphate(VI)",
       "Magnesium trioxosilicate(IV) and rust",
@@ -9685,7 +9685,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-188-181",
-    "questionText": "The most abundant element on the earth’s crust is (JAMB 2005)",
+    "questionText": "The most abundant element on the earth’s crust is",
     "options": [
       "Oxygen",
       "Fluorine",
@@ -9697,7 +9697,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-189-207",
-    "questionText": "In which of the following reactions can the oxidation number of nitrogen be said to have increased (JAMB 2005)",
+    "questionText": "In which of the following reactions can the oxidation number of nitrogen be said to have increased",
     "options": [
       "FeSO4(aq) + NO(g) → Fe(NO)SO4(S)",
       "2NO(g) + O2(g) → 2NO2(g)",
@@ -9709,7 +9709,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-190-185",
-    "questionText": "The density of a certain gas is 1.98g dm-3 at s.t.p. What is the molecular mass of the gas   [Molar volume of a gas at s.t.p = 22.4dm-3] (JAMB 2005)",
+    "questionText": "The density of a certain gas is 1.98g dm-3 at s.t.p. What is the molecular mass of the gas   [Molar volume of a gas at s.t.p = 22.4dm-3]",
     "options": [
       "26.0g",
       "31.0g",
@@ -9721,7 +9721,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-191-175",
-    "questionText": "N2(g)  +  3H2(g)  ⇌   2NH2(g)   Δ H = - 90kJ  In the equation above, the yield of ammonia can be decreased by (JAMB 2005)",
+    "questionText": "N2(g)  +  3H2(g)  ⇌   2NH2(g)   Δ H = - 90kJ  In the equation above, the yield of ammonia can be decreased by",
     "options": [
       "Adding a catalyst",
       "Removing ammonia",
@@ -9733,7 +9733,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-192-173",
-    "questionText": "Which of the following alloys contain iron (JAMB 2005)",
+    "questionText": "Which of the following alloys contain iron",
     "options": [
       "Steel and permalloy",
       "Duralumlin and steel",
@@ -9745,7 +9745,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-193-204",
-    "questionText": "The air around smelting industries is likely to contain (JAMB 2005)",
+    "questionText": "The air around smelting industries is likely to contain",
     "options": [
       "CO2, SO3 and H2",
       "SO2N2 and CO2",
@@ -9757,7 +9757,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-194-186",
-    "questionText": "Treatment of cancer   II. Detection of leakages in water mains   III. Detection of the ages of ancient tools    Which combination of the above refers to the uses of radioactive isotopes? (JAMB 2005)",
+    "questionText": "Treatment of cancer   II. Detection of leakages in water mains   III. Detection of the ages of ancient tools    Which combination of the above refers to the uses of radioactive isotopes?",
     "options": [
       "I, II and III",
       "I, II, III and IV",
@@ -9769,7 +9769,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-195-201",
-    "questionText": "Kerosene is commonly used to remove the red colour stain of palm oil from clothes because it (JAMB 2005)",
+    "questionText": "Kerosene is commonly used to remove the red colour stain of palm oil from clothes because it",
     "options": [
       "Helps to spread the oil over a larger surface area",
       "Makes the oil evaporate easily by dissolving it",
@@ -9781,7 +9781,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-196-169",
-    "questionText": "The gas that can be dried using concentrated Tetraoxosulphate (VI) acid is (JAMB 2005)",
+    "questionText": "The gas that can be dried using concentrated Tetraoxosulphate (VI) acid is",
     "options": [
       "Ammonia",
       "Hydrogen bromide",
@@ -9793,7 +9793,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-197-199",
-    "questionText": "The enzyme responsible for converting sucrose into two simple isomeric sugars is (JAMB 2005)",
+    "questionText": "The enzyme responsible for converting sucrose into two simple isomeric sugars is",
     "options": [
       "Invertase",
       "Amylase",
@@ -9805,7 +9805,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-198-179",
-    "questionText": "NH4CI(g) ⇌   NH3(g)  +  HCI(g)   The reaction above can only attain equilibrium if (JAMB 2005)",
+    "questionText": "NH4CI(g) ⇌   NH3(g)  +  HCI(g)   The reaction above can only attain equilibrium if",
     "options": [
       "It is in a closed system",
       "It is in an open system",
@@ -9817,7 +9817,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-199-189",
-    "questionText": "The shape of the hydrocarbon compound CH4 is (JAMB 2005)",
+    "questionText": "The shape of the hydrocarbon compound CH4 is",
     "options": [
       "Square planar",
       "Tetrahedral",
@@ -9829,7 +9829,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-200-190",
-    "questionText": "Which of these properties gives a solid its definite shape (JAMB 2005)",
+    "questionText": "Which of these properties gives a solid its definite shape",
     "options": [
       "Weak intermolecular attraction",
       "High boiling point",
@@ -9841,7 +9841,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-201-214",
-    "questionText": "2H2 + O2  → 2H2O  ΔH = -571Kj  In equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen? (JAMB 2005)",
+    "questionText": "2H2 + O2  → 2H2O  ΔH = -571Kj  In equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?",
     "options": [
       "-1713kJ",
       "+1142kJ",
@@ -9853,7 +9853,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-202-178",
-    "questionText": "The most suitable metal that can be used as a lightening  conductor is (JAMB 2005)",
+    "questionText": "The most suitable metal that can be used as a lightening  conductor is",
     "options": [
       "Aluminium",
       "Iron",
@@ -9865,7 +9865,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-203-192",
-    "questionText": "Sugar is separated from its impurities by (JAMB 2005)",
+    "questionText": "Sugar is separated from its impurities by",
     "options": [
       "Distillation",
       "Evaporation",
@@ -9877,7 +9877,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-204-197",
-    "questionText": "A substance that is used as a ripening agent for fruits is (JAMB 2005)",
+    "questionText": "A substance that is used as a ripening agent for fruits is",
     "options": [
       "Propene",
       "Methane",
@@ -9889,7 +9889,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-205-202",
-    "questionText": "25cm3 of a mixture of noble gases was obtained from air after the removal of other constituents. What was the original volume of air (JAMB 2005)",
+    "questionText": "25cm3 of a mixture of noble gases was obtained from air after the removal of other constituents. What was the original volume of air",
     "options": [
       "125cm3",
       "1250cm3",
@@ -9901,7 +9901,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-206-215",
-    "questionText": "Which of the following ions requires the largest quantity of electricity for discharge at an electrode (JAMB 2005)",
+    "questionText": "Which of the following ions requires the largest quantity of electricity for discharge at an electrode",
     "options": [
       "2.5 moles of Cu2+",
       "4.0 moles of CI-",
@@ -9913,7 +9913,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-207-182",
-    "questionText": "The pressure of 100cm3 of oxygen at 350C is 750mmHg. What will be the volume of the gas if the pressure is reduced to 100mmHg  without changing the temperature (JAMB 2005)",
+    "questionText": "The pressure of 100cm3 of oxygen at 350C is 750mmHg. What will be the volume of the gas if the pressure is reduced to 100mmHg  without changing the temperature",
     "options": [
       "850cm3",
       "750cm3",
@@ -9925,7 +9925,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-208-210",
-    "questionText": "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time. It eventually produces a solution of (JAMB 2005)",
+    "questionText": "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time. It eventually produces a solution of",
     "options": [
       "Na2SO4",
       "NaHSO4",
@@ -9937,7 +9937,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-209-184",
-    "questionText": "A heterogeneous mixture can be defined as any mixture (JAMB 2005)",
+    "questionText": "A heterogeneous mixture can be defined as any mixture",
     "options": [
       "Whose composition is uniform",
       "Whose composition is not uniform",
@@ -9949,7 +9949,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-210-180",
-    "questionText": "When pure aluminum metal is heated to red hot in the presence of nitrogen gas, the compound formed is (JAMB 2005)",
+    "questionText": "When pure aluminum metal is heated to red hot in the presence of nitrogen gas, the compound formed is",
     "options": [
       "AI2N",
       "AIN",
@@ -9961,7 +9961,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-211-176",
-    "questionText": "Metalloids are also referred to as (JAMB 2005)",
+    "questionText": "Metalloids are also referred to as",
     "options": [
       "Metals",
       "Semi-metals",
@@ -9973,7 +9973,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-212-183",
-    "questionText": "What is the valence shell electron configuration of the element with atomic number 17 (JAMB 2005)",
+    "questionText": "What is the valence shell electron configuration of the element with atomic number 17",
     "options": [
       "1s22s22p63s23p5",
       "1s22s22p63s23p4",
@@ -9985,7 +9985,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-213-206",
-    "questionText": "The gas that is the most dangerous pollutant to humans is (JAMB 2005)",
+    "questionText": "The gas that is the most dangerous pollutant to humans is",
     "options": [
       "Carbon(IV) oxide",
       "Nitrogen (II)oxide",
@@ -9997,7 +9997,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-214-193",
-    "questionText": "Equal moles of ethyne and hydrogen iodide react to give (JAMB 2005)",
+    "questionText": "Equal moles of ethyne and hydrogen iodide react to give",
     "options": [
       "CH2 = CH2",
       "CH2 = CHI",
@@ -10009,7 +10009,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-215-200",
-    "questionText": "Natural water collected from rivers and ponds contains oxygen, carbon(IV) oxide and (JAMB 2005)",
+    "questionText": "Natural water collected from rivers and ponds contains oxygen, carbon(IV) oxide and",
     "options": [
       "Chlorine",
       "Hydrogen",
@@ -10021,7 +10021,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-216-177",
-    "questionText": "The ores that can be concentrated by flotation are (JAMB 2005)",
+    "questionText": "The ores that can be concentrated by flotation are",
     "options": [
       "Nitride ores",
       "Chloride ores",
@@ -10033,7 +10033,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-217-187",
-    "questionText": "An element will readily form an electrovalent compound if its electron configuration is (JAMB 2005)",
+    "questionText": "An element will readily form an electrovalent compound if its electron configuration is",
     "options": [
       "2,8,8",
       "2,,8,4",
@@ -10045,7 +10045,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-218-195",
-    "questionText": "The decolourization of the purple colour of a tetraoxomanganate (VII) ion is a test for (JAMB 2005)",
+    "questionText": "The decolourization of the purple colour of a tetraoxomanganate (VII) ion is a test for",
     "options": [
       "Alkanals",
       "Alkanes",
@@ -10057,7 +10057,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-219-203",
-    "questionText": "The solubility curve shows the variation of solute concentration with (JAMB 2005)",
+    "questionText": "The solubility curve shows the variation of solute concentration with",
     "options": [
       "Volume",
       "Vapour density",
@@ -10069,7 +10069,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-220-227",
-    "questionText": "The order in which a mixture of sand ammonium chloride and sodium chloride can be separated is (JAMB 2006)",
+    "questionText": "The order in which a mixture of sand ammonium chloride and sodium chloride can be separated is",
     "options": [
       "Sublimation dissolution filtration evaporation",
       "Dissolution dryness filtration evaporation",
@@ -10081,7 +10081,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-221-252",
-    "questionText": "Carbon exists naturally in the combined state as (JAMB 2006)",
+    "questionText": "Carbon exists naturally in the combined state as",
     "options": [
       "Diamond",
       "Coal",
@@ -10093,7 +10093,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-222-223",
-    "questionText": "IN which of the following is the oxidation number of sulphur equal to -2 (JAMB 2006)",
+    "questionText": "IN which of the following is the oxidation number of sulphur equal to -2",
     "options": [
       "H2S",
       "SO3",
@@ -10105,7 +10105,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-223-255",
-    "questionText": "In the industrial production of H2 from natural gas, the CO2 produced along with the H2 is removed by (JAMB 2006)",
+    "questionText": "In the industrial production of H2 from natural gas, the CO2 produced along with the H2 is removed by",
     "options": [
       "Passing the mixture into lime water",
       "Washing under pressure",
@@ -10117,7 +10117,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-224-247",
-    "questionText": "Water has the ability to dissolve almost all substances because its molecule has a structure with (JAMB 2006)",
+    "questionText": "Water has the ability to dissolve almost all substances because its molecule has a structure with",
     "options": [
       "One positive end and one neutral end",
       "Two positive ends",
@@ -10129,7 +10129,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-225-219",
-    "questionText": "Zinc and carbon rods are used as anode and cathode respectively in a (JAMB 2006)",
+    "questionText": "Zinc and carbon rods are used as anode and cathode respectively in a",
     "options": [
       "Voltaic cell",
       "Lead accumulator",
@@ -10141,7 +10141,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-226-246",
-    "questionText": "Which of the following results in the fall of acid rain (JAMB 2006)",
+    "questionText": "Which of the following results in the fall of acid rain",
     "options": [
       "Gaseous hydrocarbons",
       "Oxide of lead",
@@ -10153,7 +10153,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-227-259",
-    "questionText": "The ion that will give a white precipitate with aqueous NaOH and soluble in excess of the base is (JAMB 2006)",
+    "questionText": "The ion that will give a white precipitate with aqueous NaOH and soluble in excess of the base is",
     "options": [
       "Zn2+",
       "Mg2+",
@@ -10165,7 +10165,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-228-239",
-    "questionText": "One mole of a hydrocarbon contains 36g of carbon and its vapour density is 20. The structure of the hydrocarbon is (JAMB 2006)",
+    "questionText": "One mole of a hydrocarbon contains 36g of carbon and its vapour density is 20. The structure of the hydrocarbon is",
     "options": [
       "CH3CH2CH3",
       "CH3CH = CH2",
@@ -10177,7 +10177,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-229-238",
-    "questionText": "An example of aliphatic unsaturated hydrocarbon is (JAMB 2006)",
+    "questionText": "An example of aliphatic unsaturated hydrocarbon is",
     "options": [
       "Butanol",
       "Propene",
@@ -10189,7 +10189,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-230-248",
-    "questionText": "An emulsion may be produced by shaking a detergent solution with (JAMB 2006)",
+    "questionText": "An emulsion may be produced by shaking a detergent solution with",
     "options": [
       "Palm wine",
       "Palm oil",
@@ -10201,7 +10201,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-231-250",
-    "questionText": "Dynamic equilibrium describes a situation where (JAMB 2006)",
+    "questionText": "Dynamic equilibrium describes a situation where",
     "options": [
       "A reaction gives back the reactants",
       "Reactants are converted to products",
@@ -10213,7 +10213,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-232-231",
-    "questionText": "A particle that contain s 11protons, 12 neutrons and 10 electrons is probably a (JAMB 2006)",
+    "questionText": "A particle that contain s 11protons, 12 neutrons and 10 electrons is probably a",
     "options": [
       "Metallic ion",
       "Non-metallic ion",
@@ -10225,7 +10225,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-233-240",
-    "questionText": "CH3-CH2-C = CH  The hybridization in the compound above is (JAMB 2006)",
+    "questionText": "CH3-CH2-C = CH  The hybridization in the compound above is",
     "options": [
       "Sp3 and sp",
       "Sp3 and sp2",
@@ -10237,7 +10237,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-234-218",
-    "questionText": "The ion that can be used as an oxidizing agent is (JAMB 2006)",
+    "questionText": "The ion that can be used as an oxidizing agent is",
     "options": [
       "Fe3+",
       "F-",
@@ -10249,7 +10249,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-235-226",
-    "questionText": "What is the mola. Mass of a substance, if 0.4 mole of the substance has a mass of 25.0g (JAMB 2006)",
+    "questionText": "What is the mola. Mass of a substance, if 0.4 mole of the substance has a mass of 25.0g",
     "options": [
       "6.3g",
       "40.0g",
@@ -10261,7 +10261,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-236-228",
-    "questionText": "The volume of 2.5 moles of oxygen at s.t.p is (JAMB 2006)",
+    "questionText": "The volume of 2.5 moles of oxygen at s.t.p is",
     "options": [
       "56.0dm3",
       "84.0dm3",
@@ -10273,7 +10273,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-237-217",
-    "questionText": "Na2CO3(aq)  +  2HCI(aq)  → 2NaCI(aq)  +  H2O(l)  +  CO2(g)    How many moles of sodium trioxocarbonate (IV) are there in a 25cm3 solution which required 10cm3 of 0.05 mol dm-3 hydrochloric acid solution to neutralize it? (JAMB 2006)",
+    "questionText": "Na2CO3(aq)  +  2HCI(aq)  → 2NaCI(aq)  +  H2O(l)  +  CO2(g)    How many moles of sodium trioxocarbonate (IV) are there in a 25cm3 solution which required 10cm3 of 0.05 mol dm-3 hydrochloric acid solution to neutralize it?",
     "options": [
       "0.100mloe",
       "0.001mole",
@@ -10285,7 +10285,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-238-251",
-    "questionText": "The raw material used for the smelting of iron ore in a furnace is (JAMB 2006)",
+    "questionText": "The raw material used for the smelting of iron ore in a furnace is",
     "options": [
       "Zn(NO3)2",
       "CaSO4",
@@ -10297,7 +10297,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-239-243",
-    "questionText": "When a crystal was added to the clear solution of its salt, the crystal did not dissolve and the solution remained unchanged. This showed that the solution was (JAMB 2006)",
+    "questionText": "When a crystal was added to the clear solution of its salt, the crystal did not dissolve and the solution remained unchanged. This showed that the solution was",
     "options": [
       "Supersaturated",
       "Unsaturated",
@@ -10309,7 +10309,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-240-253",
-    "questionText": "The sulphide which is insoluble in dilute hydrochloric acid is (JAMB 2006)",
+    "questionText": "The sulphide which is insoluble in dilute hydrochloric acid is",
     "options": [
       "CuS",
       "Na2S",
@@ -10321,7 +10321,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-241-233",
-    "questionText": "A difference between chemical and physical change is that in a chemical change (JAMB 2006)",
+    "questionText": "A difference between chemical and physical change is that in a chemical change",
     "options": [
       "Heat is supplied",
       "A new substance is formed",
@@ -10333,7 +10333,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-242-232",
-    "questionText": "The element with the electron configuration 1s22s22p3 is (JAMB 2006)",
+    "questionText": "The element with the electron configuration 1s22s22p3 is",
     "options": [
       "Oxygen",
       "Chlorine",
@@ -10345,7 +10345,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-243-242",
-    "questionText": "The gas obtained as a product of anaerobic action ob organic matter buried in the earth is (JAMB 2006)",
+    "questionText": "The gas obtained as a product of anaerobic action ob organic matter buried in the earth is",
     "options": [
       "Nitrogen(IV) oxide",
       "Carbon(IV) oxide",
@@ -10357,7 +10357,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-244-229",
-    "questionText": "[Molar volume of a gas at s.t.p + 22.4dm3} Nuclear fission involves the splitting of a heavy element into two nuclei of (JAMB 2006)",
+    "questionText": "[Molar volume of a gas at s.t.p + 22.4dm3} Nuclear fission involves the splitting of a heavy element into two nuclei of",
     "options": [
       "Equal masses with a release of energy",
       "Nearly equal masses with a release of energy and radiation",
@@ -10369,7 +10369,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-245-257",
-    "questionText": "Group IA metals are not found free in nature because they (JAMB 2006)",
+    "questionText": "Group IA metals are not found free in nature because they",
     "options": [
       "Have high melting and boiling points",
       "Conduct heat and electricity",
@@ -10381,7 +10381,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-246-221",
-    "questionText": "Forms a layer of oxide on the metal   If the heat of combustion of hydrogen is -285.8kJ. what is the heat of formation of water (JAMB 2006)",
+    "questionText": "Forms a layer of oxide on the metal   If the heat of combustion of hydrogen is -285.8kJ. what is the heat of formation of water",
     "options": [
       "-285.8Kj",
       "-571.6kJ",
@@ -10393,7 +10393,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-247-230",
-    "questionText": "2C2H2(g)  +  5O2(g)     4CO2(g)  +  2H2O(g) In the reaction, the mass of carbon (IV) oxide produced on burning 78g of ethyne is [C = 12, O = 16, H = 1] (JAMB 2006)",
+    "questionText": "2C2H2(g)  +  5O2(g)     4CO2(g)  +  2H2O(g) In the reaction, the mass of carbon (IV) oxide produced on burning 78g of ethyne is [C = 12, O = 16, H = 1]",
     "options": [
       "39",
       "352g",
@@ -10405,7 +10405,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-248-249",
-    "questionText": "One heating may be produced by shaking a detergent solution with (JAMB 2006)",
+    "questionText": "One heating may be produced by shaking a detergent solution with",
     "options": [
       "Cu(NO3)2",
       "AgNO3",
@@ -10417,7 +10417,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-249-256",
-    "questionText": "Which of the following typically represents a photochemical reaction (JAMB 2006)",
+    "questionText": "Which of the following typically represents a photochemical reaction",
     "options": [
       "Conversion of dinitrogen (IV) oxide to nitrogen(IV) oxide",
       "Conversion of silver halides to grey metallic silver",
@@ -10429,7 +10429,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-250-237",
-    "questionText": "Which of the following has an isomer (JAMB 2006)",
+    "questionText": "Which of the following has an isomer",
     "options": [
       "C4H10",
       "C6H6",
@@ -10441,7 +10441,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-251-241",
-    "questionText": "Nigerian crude oil is described as light crude because of its (JAMB 2006)",
+    "questionText": "Nigerian crude oil is described as light crude because of its",
     "options": [
       "Low aliphatic hydrocarbon content",
       "Low sulphur content",
@@ -10453,7 +10453,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-252-235",
-    "questionText": "The idea of planetary electrons was that of (JAMB 2006)",
+    "questionText": "The idea of planetary electrons was that of",
     "options": [
       "Bohr",
       "Thompson",
@@ -10465,7 +10465,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-253-254",
-    "questionText": "The efficiency of a solid catalyst to increase reaction rates depends on its (JAMB 2006)",
+    "questionText": "The efficiency of a solid catalyst to increase reaction rates depends on its",
     "options": [
       "Concentration",
       "Solubility",
@@ -10477,7 +10477,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-254-222",
-    "questionText": "In the electrolysis of CuSO4(aq) using platinum electrodes, the reaction at the anode is (JAMB 2006)",
+    "questionText": "In the electrolysis of CuSO4(aq) using platinum electrodes, the reaction at the anode is",
     "options": [
       "4H+ + 4e- → 2H2",
       "2OH + 2OH- → 2H2O + O2",
@@ -10489,7 +10489,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-255-234",
-    "questionText": "A degree in atomic size and an increase in knuckler charge across a period lead to (JAMB 2006)",
+    "questionText": "A degree in atomic size and an increase in knuckler charge across a period lead to",
     "options": [
       "A decrease in covalency in bond formation",
       "An increase in chemical reactivity",
@@ -10501,7 +10501,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-256-225",
-    "questionText": "The solution that will conduct the highest amount of electricity is (JAMB 2006)",
+    "questionText": "The solution that will conduct the highest amount of electricity is",
     "options": [
       "2.0 moldm-3 of ethanoic acid",
       "0.5 mol dm-3 of ethanoic acid",
@@ -10513,7 +10513,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-257-216",
-    "questionText": "H2(g)  +  Br2(g) →  2BHr(g)  The reaction above is carried out at 250C. If Δ H is kJ mol-1 and   Δ S is -106J mol-1K-1 the reaction will (JAMB 2006)",
+    "questionText": "H2(g)  +  Br2(g) →  2BHr(g)  The reaction above is carried out at 250C. If Δ H is kJ mol-1 and   Δ S is -106J mol-1K-1 the reaction will",
     "options": [
       "Proceed spontaneously at lower temperatures",
       "Not proceed spontaneously at the given temperature",
@@ -10525,7 +10525,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-258-265",
-    "questionText": "Moving from left to right across a period, the general rise in the first ionization energy can be attributed to the (JAMB 2010)",
+    "questionText": "Moving from left to right across a period, the general rise in the first ionization energy can be attributed to the",
     "options": [
       "Increase in nuclear charge",
       "Decrease in screening effect",
@@ -10537,7 +10537,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-259-461",
-    "questionText": "Which of the following is an example of a chemical change? (JAMB 2018)",
+    "questionText": "Which of the following is an example of a chemical change?",
     "options": [
       "dissolution of salt in water",
       "rusting of iron",
@@ -10549,7 +10549,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-260-791",
-    "questionText": "The empirical mass of C₆H₁₂O₆ is [H = 1, C = 12, O = 16] (JAMB 2025)",
+    "questionText": "The empirical mass of C₆H₁₂O₆ is [H = 1, C = 12, O = 16]",
     "options": [
       "90",
       "180",
@@ -10561,7 +10561,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-261-436",
-    "questionText": "Calculate the mass of copper deposited when a current of 0.5 ampere was passed through a solution of copper (II) chloride for 45 minutes in an electrolytic cell. [Cu = 64, F = 96500 C mol⁻¹] (JAMB 2017)",
+    "questionText": "Calculate the mass of copper deposited when a current of 0.5 ampere was passed through a solution of copper (II) chloride for 45 minutes in an electrolytic cell. [Cu = 64, F = 96500 C mol⁻¹]",
     "options": [
       "0.300 g",
       "0.250 g",
@@ -10573,7 +10573,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-262-481",
-    "questionText": "What volume of oxygen will remain after reacting 8 cm³ of hydrogen gas with 20 cm³ of oxygen gas? (JAMB 2018)",
+    "questionText": "What volume of oxygen will remain after reacting 8 cm³ of hydrogen gas with 20 cm³ of oxygen gas?",
     "options": [
       "10 cm³",
       "12 cm³",
@@ -10585,7 +10585,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-263-482",
-    "questionText": "If one of the following oxides is heated with hydrogen or carbon using a Bunsen burner, it is not reduced to the metal. Which one is it? (JAMB 2018)",
+    "questionText": "If one of the following oxides is heated with hydrogen or carbon using a Bunsen burner, it is not reduced to the metal. Which one is it?",
     "options": [
       "Lead oxide",
       "Magnesium oxide",
@@ -10597,7 +10597,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-264-480",
-    "questionText": "The number of electrons in the valence shell of an element of atomic number 14 is (JAMB 2018)",
+    "questionText": "The number of electrons in the valence shell of an element of atomic number 14 is",
     "options": [
       "1",
       "2",
@@ -10609,7 +10609,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-265-245",
-    "questionText": "When 5.0cm3 of a saturated solution of sugar of molar mass 342g at 400C was evaporated to dryness, 34.2g of dry solid was obtained. The solubility of sugar at 400C is (JAMB 2006)",
+    "questionText": "When 5.0cm3 of a saturated solution of sugar of molar mass 342g at 400C was evaporated to dryness, 34.2g of dry solid was obtained. The solubility of sugar at 400C is",
     "options": [
       "7.0 mol dm-3",
       "3.5 mol dm-3",
@@ -10621,7 +10621,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-266-308",
-    "questionText": "In the industrial production of H₂ from water gas, the CO₂ produced along with the H₂ is removed by (JAMB 2015)",
+    "questionText": "In the industrial production of H₂ from water gas, the CO₂ produced along with the H₂ is removed by",
     "options": [
       "Washing under pressure",
       "Drying over phosphorus (V) oxide",
@@ -10633,7 +10633,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-267-599",
-    "questionText": "What is the chemical name for the compound CuCO₃? (JAMB 2021)",
+    "questionText": "What is the chemical name for the compound CuCO₃?",
     "options": [
       "Copper (iii) carbonate",
       "Copper (ii) carbonate",
@@ -10645,7 +10645,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-268-353",
-    "questionText": "Alloys are best prepared by (JAMB 2015)",
+    "questionText": "Alloys are best prepared by",
     "options": [
       "electroplating",
       "Arc-welding",
@@ -10657,7 +10657,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-269-373",
-    "questionText": "Which of the following properties is not peculiar to matter? (JAMB 2016)",
+    "questionText": "Which of the following properties is not peculiar to matter?",
     "options": [
       "Kinetic energy of particles increases from solid to gas",
       "Random motion of particles increases from gas to solid",
@@ -10669,7 +10669,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-270-603",
-    "questionText": "Which of the following are chemical changes? I. cooking of food  II. digestion of food  III. freezing of water  IV. water is heated up (JAMB 2021)",
+    "questionText": "Which of the following are chemical changes? I. cooking of food  II. digestion of food  III. freezing of water  IV. water is heated up",
     "options": [
       "I and II",
       "I, II, and III",
@@ -10681,7 +10681,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-271-494",
-    "questionText": "A balanced chemical equation obeys the law of (JAMB 2018)",
+    "questionText": "A balanced chemical equation obeys the law of",
     "options": [
       "conservation of mass",
       "definite proportions",
@@ -10693,7 +10693,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-272-483",
-    "questionText": "The IUPAC name for the compound (CH₃)₂CH-CH₂-CH₃ shown in the structural diagram is (JAMB 2018)",
+    "questionText": "The IUPAC name for the compound (CH₃)₂CH-CH₂-CH₃ shown in the structural diagram is",
     "options": [
       "1-methyl pentane",
       "3-methylbutane",
@@ -10705,7 +10705,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-273-537",
-    "questionText": "The molecular shape and bond angle of water are respectively (JAMB 2019)",
+    "questionText": "The molecular shape and bond angle of water are respectively",
     "options": [
       "linear, 180°",
       "bent, 109.5°",
@@ -10717,7 +10717,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-274-732",
-    "questionText": "127g of sodium chloride was dissolved in 1.0dm³ of distilled water at 25°C. Determine the solubility in moldm⁻³ of sodium chloride at that temperature. [Na = 23, Cl = 35.5] (JAMB 2024)",
+    "questionText": "127g of sodium chloride was dissolved in 1.0dm³ of distilled water at 25°C. Determine the solubility in moldm⁻³ of sodium chloride at that temperature. [Na = 23, Cl = 35.5]",
     "options": [
       "1",
       "2",
@@ -10729,7 +10729,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-275-426",
-    "questionText": "The shape of ammonia molecules is (JAMB 2017)",
+    "questionText": "The shape of ammonia molecules is",
     "options": [
       "trigonal pyramidal",
       "octahedral",
@@ -10741,7 +10741,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-276-505",
-    "questionText": "A secondary alkanol can be oxidized to give an? (JAMB 2019)",
+    "questionText": "A secondary alkanol can be oxidized to give an?",
     "options": [
       "alkanone",
       "alkyne",
@@ -10753,7 +10753,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-277-787",
-    "questionText": "Which of the following has the highest boiling point? (JAMB 2025)",
+    "questionText": "Which of the following has the highest boiling point?",
     "options": [
       "CH₃CH₂OH",
       "CH₃CH₂CH₂Cl",
@@ -10765,7 +10765,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-278-266",
-    "questionText": "How many unpaired electron(s) are there in the nitrogen  sub - levels (JAMB 2010)",
+    "questionText": "How many unpaired electron(s) are there in the nitrogen  sub - levels",
     "options": [
       "2",
       "1",
@@ -10777,7 +10777,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-279-535",
-    "questionText": "At 27°C, 58.5g of sodium chloride is present in 250cm³ of a solution. The solubility of sodium chloride at this temperature is? (molar mass of sodium chloride = 111.0gmol⁻¹) (JAMB 2019)",
+    "questionText": "At 27°C, 58.5g of sodium chloride is present in 250cm³ of a solution. The solubility of sodium chloride at this temperature is? (molar mass of sodium chloride = 111.0gmol⁻¹)",
     "options": [
       "2.0 moldm⁻³",
       "0.25 moldm⁻³",
@@ -10789,7 +10789,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-280-582",
-    "questionText": "Which of the following types of bonding does not involve the formation of new substances? (JAMB 2020)",
+    "questionText": "Which of the following types of bonding does not involve the formation of new substances?",
     "options": [
       "Metallic",
       "Covalent",
@@ -10801,7 +10801,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-281-419",
-    "questionText": "When few drops of concentrated trioxonitrate (V) acid is added to an unknown sample and warmed, an intense yellow colouration is observed. The likely functional group present in the sample is (JAMB 2017)",
+    "questionText": "When few drops of concentrated trioxonitrate (V) acid is added to an unknown sample and warmed, an intense yellow colouration is observed. The likely functional group present in the sample is",
     "options": [
       "NH₂RCHCOOH",
       "CHO",
@@ -10813,7 +10813,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-282-236",
-    "questionText": "If 30cm3 of a gas at 500C is warmed to 800C at a fixed pressure. The fractional increase in volume is (JAMB 2006)",
+    "questionText": "If 30cm3 of a gas at 500C is warmed to 800C at a fixed pressure. The fractional increase in volume is",
     "options": [
       "0.91",
       "0.009",
@@ -10825,7 +10825,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-283-389",
-    "questionText": "In a neutralization reaction involving HCl and NaOH using litmus as indicator, the colour at the end point is (JAMB 2016)",
+    "questionText": "In a neutralization reaction involving HCl and NaOH using litmus as indicator, the colour at the end point is",
     "options": [
       "Blue",
       "Red",
@@ -10837,7 +10837,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-284-337",
-    "questionText": "The basic particles from which matter could be made up of are as follow, except? (JAMB 2015)",
+    "questionText": "The basic particles from which matter could be made up of are as follow, except?",
     "options": [
       "Salt",
       "Atom",
@@ -10849,7 +10849,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-285-571",
-    "questionText": "The number of molecules of Carbon(iv)Oxide produced when 10.0g of CaCO₃ is treated with 0.2dm³ of 1 Mole of HCl in the equation CaCO₃ + 2HCl ⇒ CaCl₂ + H₂O + CO₂ is? (JAMB 2020)",
+    "questionText": "The number of molecules of Carbon(iv)Oxide produced when 10.0g of CaCO₃ is treated with 0.2dm³ of 1 Mole of HCl in the equation CaCO₃ + 2HCl ⇒ CaCl₂ + H₂O + CO₂ is?",
     "options": [
       "1.00 × 10²³",
       "6.02 × 10²³",
@@ -10861,7 +10861,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-286-311",
-    "questionText": "The acid in electrolysis of water is dilute (JAMB 2015)",
+    "questionText": "The acid in electrolysis of water is dilute",
     "options": [
       "HNO₃",
       "CH₃COOH",
@@ -10873,7 +10873,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-287-410",
-    "questionText": "Temporary hard water is formed when rain water containing dissolved carbon (IV) oxide flows over deposits of (JAMB 2017)",
+    "questionText": "Temporary hard water is formed when rain water containing dissolved carbon (IV) oxide flows over deposits of",
     "options": [
       "CaCO₃",
       "Na₂CO₃",
@@ -10885,7 +10885,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-288-690",
-    "questionText": "A gas occupies a volume of 1.5 liters at a pressure of 2 atmospheres. If the pressure is increased to 4 atmospheres while the temperature remains constant, what will be the new volume of the gas? (JAMB 2023)",
+    "questionText": "A gas occupies a volume of 1.5 liters at a pressure of 2 atmospheres. If the pressure is increased to 4 atmospheres while the temperature remains constant, what will be the new volume of the gas?",
     "options": [
       "6 liters",
       "1.5 liters",
@@ -10897,7 +10897,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-289-692",
-    "questionText": "What is the state of matter in which particles are widely spaced and move freely with high kinetic energy? (JAMB 2023)",
+    "questionText": "What is the state of matter in which particles are widely spaced and move freely with high kinetic energy?",
     "options": [
       "Liquid",
       "Solid",
@@ -10909,7 +10909,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-290-317",
-    "questionText": "An elements used in production of matches is (JAMB 2015)",
+    "questionText": "An elements used in production of matches is",
     "options": [
       "nitrogen",
       "aluminum",
@@ -10921,7 +10921,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-291-611",
-    "questionText": "Soaps clean surfaces on the principle based on? (JAMB 2021)",
+    "questionText": "Soaps clean surfaces on the principle based on?",
     "options": [
       "Viscosity",
       "Floatation",
@@ -10933,7 +10933,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-292-707",
-    "questionText": "Which of the following is a primary constituent of crude oil? (JAMB 2023)",
+    "questionText": "Which of the following is a primary constituent of crude oil?",
     "options": [
       "Pentane",
       "Ethanol",
@@ -10945,7 +10945,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-293-533",
-    "questionText": "Which of the following does NOT support the fact that air is a mixture? (JAMB 2019)",
+    "questionText": "Which of the following does NOT support the fact that air is a mixture?",
     "options": [
       "the constituents of air are in a fixed proportion by mass",
       "it cannot be represented with a chemical formula",
@@ -10957,7 +10957,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-294-773",
-    "questionText": "In the electrolysis of brine using neutral electrodes, which ion is discharged at the anode? (JAMB 2025)",
+    "questionText": "In the electrolysis of brine using neutral electrodes, which ion is discharged at the anode?",
     "options": [
       "2H⁺",
       "Na⁺",
@@ -10969,7 +10969,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-295-782",
-    "questionText": "The major product when 2-methylpropene reacts with HCl is (JAMB 2025)",
+    "questionText": "The major product when 2-methylpropene reacts with HCl is",
     "options": [
       "2-chloro-2-methylpropane",
       "1-chloro-2-methylpropane",
@@ -10981,7 +10981,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-296-683",
-    "questionText": "Which of the following is an example of an endothermic reaction? (JAMB 2023)",
+    "questionText": "Which of the following is an example of an endothermic reaction?",
     "options": [
       "Combustion of propane (C₃H₈) to produce carbon dioxide (CO₂) and water (H₂O).",
       "Burning of methane (CH₄) in the presence of oxygen",
@@ -10993,7 +10993,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-297-298",
-    "questionText": "Which of the following is used to hasten the ripening of fruit (JAMB 2010)",
+    "questionText": "Which of the following is used to hasten the ripening of fruit",
     "options": [
       "Ethanol",
       "Ethyne",
@@ -11005,7 +11005,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-298-730",
-    "questionText": "When a few drops of Millon's reagent is added to egg-white solution in a test tube, the white precipitate changes to (JAMB 2024)",
+    "questionText": "When a few drops of Millon's reagent is added to egg-white solution in a test tube, the white precipitate changes to",
     "options": [
       "orange",
       "brick red",
@@ -11017,7 +11017,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-299-312",
-    "questionText": "A small quantity of solid ammonium chloride (NH₄Cl) is heated gently in a test tube. The solid gradually disappears producing two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone (JAMB 2015)",
+    "questionText": "A small quantity of solid ammonium chloride (NH₄Cl) is heated gently in a test tube. The solid gradually disappears producing two gases. Later, a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone",
     "options": [
       "Distillation",
       "Sublimation",
@@ -11029,7 +11029,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-300-396",
-    "questionText": "The compound CH₃-C(H)(OH)-COOH shown above exhibits (JAMB 2016)",
+    "questionText": "The compound CH₃-C(H)(OH)-COOH shown above exhibits",
     "options": [
       "Geometric isomerism",
       "Positional isomerism",
@@ -11041,7 +11041,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-301-568",
-    "questionText": "Four elements P, Q, R and S have atomic numbers of 4, 10, 12 and 14 respectively. Which of these elements is a noble gas? (JAMB 2020)",
+    "questionText": "Four elements P, Q, R and S have atomic numbers of 4, 10, 12 and 14 respectively. Which of these elements is a noble gas?",
     "options": [
       "P",
       "Q",
@@ -11053,7 +11053,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-302-790",
-    "questionText": "Which of the following statements is false about hard water? (JAMB 2025)",
+    "questionText": "Which of the following statements is false about hard water?",
     "options": [
       "Helps animals to build strong teeth",
       "Cannot be supplied in pipes made of lead",
@@ -11065,7 +11065,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-303-544",
-    "questionText": "Consider the equation below:\nCr₂O₇²⁻ + 6Fe²⁺ + 14H⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O\nThe oxidation number of chromium changes from (JAMB 2019)",
+    "questionText": "Consider the equation below:\nCr₂O₇²⁻ + 6Fe²⁺ + 14H⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O\nThe oxidation number of chromium changes from",
     "options": [
       "+5 to +3",
       "+6 to +3",
@@ -11077,7 +11077,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-304-462",
-    "questionText": "To what temperature must a gas at 273 K be heated in order to double both its volume and pressure? (JAMB 2018)",
+    "questionText": "To what temperature must a gas at 273 K be heated in order to double both its volume and pressure?",
     "options": [
       "298 K",
       "546 K",
@@ -11089,7 +11089,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-305-541",
-    "questionText": "Which of the following pollutants will lead to the depletion of ozone layer? (JAMB 2019)",
+    "questionText": "Which of the following pollutants will lead to the depletion of ozone layer?",
     "options": [
       "chlorofluorocarbon",
       "carbon (ii) oxide",
@@ -11101,7 +11101,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-306-640",
-    "questionText": "How many neutrons are present in an atom with mass number and atomic number 37 and 17 respectively? (JAMB 2022)",
+    "questionText": "How many neutrons are present in an atom with mass number and atomic number 37 and 17 respectively?",
     "options": [
       "18",
       "20",
@@ -11113,7 +11113,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-307-581",
-    "questionText": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution? (JAMB 2020)",
+    "questionText": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?",
     "options": [
       "24,125 C",
       "48,250 C",
@@ -11125,7 +11125,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-308-719",
-    "questionText": "In the extraction of Aluminium, the silica impurity is removed by (JAMB 2024)",
+    "questionText": "In the extraction of Aluminium, the silica impurity is removed by",
     "options": [
       "electrolysis",
       "filtration",
@@ -11137,7 +11137,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-309-405",
-    "questionText": "The general formula of alkanones is (JAMB 2017)",
+    "questionText": "The general formula of alkanones is",
     "options": [
       "RCHO",
       "RCOR'",
@@ -11149,7 +11149,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-310-678",
-    "questionText": "What is the sum of the oxidation numbers in a neutral compound? (JAMB 2023)",
+    "questionText": "What is the sum of the oxidation numbers in a neutral compound?",
     "options": [
       "2",
       "-1",
@@ -11161,7 +11161,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-311-744",
-    "questionText": "One of the following is not a water pollutant? (JAMB 2024)",
+    "questionText": "One of the following is not a water pollutant?",
     "options": [
       "Inorganic fertilizers",
       "Warm water affluent",
@@ -11173,7 +11173,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-312-497",
-    "questionText": "2KClO₃(s) → 2KCl(s) + 3O₂(g). The importance of the catalyst in the reaction above is that (JAMB 2018)",
+    "questionText": "2KClO₃(s) → 2KCl(s) + 3O₂(g). The importance of the catalyst in the reaction above is that",
     "options": [
       "heating may not be required before the reaction takes place",
       "the reaction is controllable even at a high temperature",
@@ -11185,7 +11185,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-313-385",
-    "questionText": "The number of electronic shells contained in an atom with electron configuration 1s²2s²2p⁶3s²3p⁶4s² is (JAMB 2016)",
+    "questionText": "The number of electronic shells contained in an atom with electron configuration 1s²2s²2p⁶3s²3p⁶4s² is",
     "options": [
       "3",
       "2",
@@ -11197,7 +11197,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-314-452",
-    "questionText": "Ca(OH)₂(s) + 2NH₄Cl(s) → CaCl₂(s) + 2H₂O(l) + X. In the reaction above, X is (JAMB 2017)",
+    "questionText": "Ca(OH)₂(s) + 2NH₄Cl(s) → CaCl₂(s) + 2H₂O(l) + X. In the reaction above, X is",
     "options": [
       "NO₂",
       "NH₃",
@@ -11209,7 +11209,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-315-525",
-    "questionText": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called (JAMB 2019)",
+    "questionText": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called",
     "options": [
       "electrovalent bond",
       "compound bond",
@@ -11221,7 +11221,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-316-379",
-    "questionText": "Which of the following statements is correct about the periodic table? (JAMB 2016)",
+    "questionText": "Which of the following statements is correct about the periodic table?",
     "options": [
       "Elements in the same group have the same number of electron shells",
       "The non-metallic properties of the elements tend to decrease across each period",
@@ -11233,7 +11233,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-317-321",
-    "questionText": "The above orbital diagram shown the electronic configuration of (JAMB 2015)",
+    "questionText": "The above orbital diagram shown the electronic configuration of",
     "options": [
       "chlorine",
       "nitrogen",
@@ -11245,7 +11245,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-318-528",
-    "questionText": "For the general equation of the nature xP + yQ ⇌ mR + nS, the expression for the equilibrium constant is (JAMB 2019)",
+    "questionText": "For the general equation of the nature xP + yQ ⇌ mR + nS, the expression for the equilibrium constant is",
     "options": [
       "k[P]ˣ[Q]ʸ",
       "m[R][S] / x[P]y[Q]",
@@ -11257,7 +11257,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-319-670",
-    "questionText": "2-methylprop-1-ene is a structural isomer of? (JAMB 2022)",
+    "questionText": "2-methylprop-1-ene is a structural isomer of?",
     "options": [
       "But-1-yne",
       "2-methyl But-1-ene",
@@ -11269,7 +11269,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-320-590",
-    "questionText": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone? (JAMB 2020)",
+    "questionText": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone?",
     "options": [
       "Sublimation",
       "Crystallization",
@@ -11281,7 +11281,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-321-277",
-    "questionText": "Calculate the volume of 0.5 mol dm-3 H2SO4 that is neutralized by 25cm3 of 0.1 mol dm-3 NaOH (JAMB 2010)",
+    "questionText": "Calculate the volume of 0.5 mol dm-3 H2SO4 that is neutralized by 25cm3 of 0.1 mol dm-3 NaOH",
     "options": [
       "2.5cm3",
       "0.4cm3",
@@ -11293,7 +11293,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-322-274",
-    "questionText": "Coffee stains can best be removed by (JAMB 2010)",
+    "questionText": "Coffee stains can best be removed by",
     "options": [
       "Turpentine",
       "A solution of borax in water",
@@ -11305,7 +11305,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-323-270",
-    "questionText": "A noble gas with a high power of fog penetration used in aerodrome beacons is (JAMB 2010)",
+    "questionText": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
     "options": [
       "Argon",
       "Helium",
@@ -11317,7 +11317,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-324-300",
-    "questionText": "The correct order of increasing boiling points of the following  compounds C3H7OH, C7H16 and C4H10 is (JAMB 2010)",
+    "questionText": "The correct order of increasing boiling points of the following  compounds C3H7OH, C7H16 and C4H10 is",
     "options": [
       "C4H10 → C7H16 → C3H7OH",
       "C7H16 → C3H7OH → C4H16",
@@ -11329,7 +11329,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-325-299",
-    "questionText": "The final products of the reaction between methane and chloride in the presence of ultraviolet light are hydrogen chloride and (JAMB 2010)",
+    "questionText": "The final products of the reaction between methane and chloride in the presence of ultraviolet light are hydrogen chloride and",
     "options": [
       "Dichloromethane",
       "Tetrachloromethane",
@@ -11341,7 +11341,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-326-284",
-    "questionText": "In which of the following is the entropy change positive (JAMB 2010)",
+    "questionText": "In which of the following is the entropy change positive",
     "options": [
       "Reaction between an acid and a base",
       "Addition of concentrated acid to water",
@@ -11353,7 +11353,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-327-291",
-    "questionText": "When iron is exposed to moist air, it gradually rusts. This is due to the formation of (JAMB 2010)",
+    "questionText": "When iron is exposed to moist air, it gradually rusts. This is due to the formation of",
     "options": [
       "Anahydrous iron (III) oxide",
       "Anhydrous iron (II) oxide",
@@ -11365,7 +11365,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-328-285",
-    "questionText": "If a reaction is exothermic and thee is a great disorder, it means that (JAMB 2010)",
+    "questionText": "If a reaction is exothermic and thee is a great disorder, it means that",
     "options": [
       "The reaction is in a state of equilibrium",
       "There will be a large increase in free energy",
@@ -11377,7 +11377,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-329-261",
-    "questionText": "Which of the following is an example of a mixture (JAMB 2010)",
+    "questionText": "Which of the following is an example of a mixture",
     "options": [
       "Blood",
       "Sand",
@@ -11389,7 +11389,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-330-297",
-    "questionText": "Benzene reacts with hydrogen in the presence of nickel catalyst at 1800C to give (JAMB 2010)",
+    "questionText": "Benzene reacts with hydrogen in the presence of nickel catalyst at 1800C to give",
     "options": [
       "Toluene",
       "Cyclopentane",
@@ -11401,7 +11401,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-331-303",
-    "questionText": " Two hydrocarbons X and Y were treated with bromine water. Decolorized the solution and Y did not. Which class of compound does Y belong (JAMB 2010)",
+    "questionText": " Two hydrocarbons X and Y were treated with bromine water. Decolorized the solution and Y did not. Which class of compound does Y belong",
     "options": [
       "Alkynes",
       "Alkenes",
@@ -11413,7 +11413,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-332-264",
-    "questionText": "The volume of a gas is Vcm3 at P mm Hg. What is the new volume of the gas if the pressure is reduced to half at constant temperature (JAMB 2010)",
+    "questionText": "The volume of a gas is Vcm3 at P mm Hg. What is the new volume of the gas if the pressure is reduced to half at constant temperature",
     "options": [
       "2 V cm3",
       "V 2cm3",
@@ -11425,7 +11425,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-333-262",
-    "questionText": "Calculate the percentage by mass of nitrogen in calcium trioxonitrate (V)   {Ca = 40, N = 14, O = 16} (JAMB 2010)",
+    "questionText": "Calculate the percentage by mass of nitrogen in calcium trioxonitrate (V)   {Ca = 40, N = 14, O = 16}",
     "options": [
       "13.10%",
       "17.10%",
@@ -11437,7 +11437,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-334-278",
-    "questionText": "The colour of methyl orange in alkaline medium is (JAMB 2010)",
+    "questionText": "The colour of methyl orange in alkaline medium is",
     "options": [
       "Pink",
       "Orange",
@@ -11449,7 +11449,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-335-288",
-    "questionText": "To a solution of an unknown compound, a little dilute Tetraoxosulphate (IV) acid was added with some freshly prepared (II) Tetraoxosulphate (VI) Solution. The brown ring observed after the addition of a stream of concentrated  Tetraoxosulphate (VI) acid confirmed the presence of (JAMB 2010)",
+    "questionText": "To a solution of an unknown compound, a little dilute Tetraoxosulphate (IV) acid was added with some freshly prepared (II) Tetraoxosulphate (VI) Solution. The brown ring observed after the addition of a stream of concentrated  Tetraoxosulphate (VI) acid confirmed the presence of",
     "options": [
       "CI",
       "SO",
@@ -11461,7 +11461,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-336-287",
-    "questionText": "2H2(g) +    O2(g)  ⇌ 2H2O(g)    ΔH   =  - ve  What happens to the equilibrium constant of the reaction above if the temperature is increased? (JAMB 2010)",
+    "questionText": "2H2(g) +    O2(g)  ⇌ 2H2O(g)    ΔH   =  - ve  What happens to the equilibrium constant of the reaction above if the temperature is increased?",
     "options": [
       "It becomes zero",
       "It decreases",
@@ -11473,7 +11473,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-337-283",
-    "questionText": "What quantity of aluminum is deposited when a current of 10A is passed through a solution of an aluminum salt for 1930s  {AI = 27, F = 96500 C mol-} (JAMB 2010)",
+    "questionText": "What quantity of aluminum is deposited when a current of 10A is passed through a solution of an aluminum salt for 1930s  {AI = 27, F = 96500 C mol-}",
     "options": [
       "1.8g",
       "5.4g",
@@ -11485,7 +11485,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-338-268",
-    "questionText": "The maximum number of electrons in the L shell of an atom is (JAMB 2010)",
+    "questionText": "The maximum number of electrons in the L shell of an atom is",
     "options": [
       "8",
       "18",
@@ -11497,7 +11497,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-339-292",
-    "questionText": "A compound gives an orange red colour to a non luminous flame. This compound is likely to contain (JAMB 2010)",
+    "questionText": "A compound gives an orange red colour to a non luminous flame. This compound is likely to contain",
     "options": [
       "Ca2+",
       "Fe3+",
@@ -11509,7 +11509,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-340-281",
-    "questionText": "The IUPAC nomencalatyre of the compound LiAIH4 is (JAMB 2010)",
+    "questionText": "The IUPAC nomencalatyre of the compound LiAIH4 is",
     "options": [
       "Aluminium tetrahydrido lithium",
       "Tetrahydrido lithium aluminate (III)",
@@ -11521,7 +11521,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-341-275",
-    "questionText": "Carbon (II) oxide is considered dangerous if inhaled mainly because it (JAMB 2010)",
+    "questionText": "Carbon (II) oxide is considered dangerous if inhaled mainly because it",
     "options": [
       "Competes with oxygen in the blood",
       "Competes with carbon (IV) oxide in the blood",
@@ -11533,7 +11533,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-342-295",
-    "questionText": "Which of the following is used as fuel in miners’ lamp (JAMB 2010)",
+    "questionText": "Which of the following is used as fuel in miners’ lamp",
     "options": [
       "Ethyne",
       "Ethane",
@@ -11545,7 +11545,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-343-276",
-    "questionText": "The acid that is used to remove rust is (JAMB 2010)",
+    "questionText": "The acid that is used to remove rust is",
     "options": [
       "Hydrochloric",
       "Trioxonitrate (V)",
@@ -11557,7 +11557,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-344-282",
-    "questionText": "Iron can be protected from corrosion by coating the surface with (JAMB 2010)",
+    "questionText": "Iron can be protected from corrosion by coating the surface with",
     "options": [
       "Silver",
       "Copper",
@@ -11569,7 +11569,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-345-289",
-    "questionText": "Which of the following is used as a rocket fuel (JAMB 2010)",
+    "questionText": "Which of the following is used as a rocket fuel",
     "options": [
       "CH3COOH",
       "H2SO4",
@@ -11581,7 +11581,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-346-294",
-    "questionText": "The residual solids from the fractional distillation of petroleum are used as (JAMB 2010)",
+    "questionText": "The residual solids from the fractional distillation of petroleum are used as",
     "options": [
       "Raw materials for the cracking process",
       "Fuel for driving tractors",
@@ -11593,7 +11593,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-347-280",
-    "questionText": "6AgNO3(aq)  +  PH3(g) +    3H2O(l)      →    6Ag(s)+   H3PO3(aq)   +    6HNO3(aq)  In the reaction above, the reducing agent is (JAMB 2010)",
+    "questionText": "6AgNO3(aq)  +  PH3(g) +    3H2O(l)      →    6Ag(s)+   H3PO3(aq)   +    6HNO3(aq)  In the reaction above, the reducing agent is",
     "options": [
       "H2O(l)",
       "PH3(g)",
@@ -11605,7 +11605,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-348-267",
-    "questionText": "The stability of the noble gases is due to the fact that they (JAMB 2010)",
+    "questionText": "The stability of the noble gases is due to the fact that they",
     "options": [
       "Have duplet or octet electron configurations",
       "Belong to group zero of the periodic table",
@@ -11617,7 +11617,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079891-349-296",
-    "questionText": "Which of the following organic compounds is very soluble in water (JAMB 2010)",
+    "questionText": "Which of the following organic compounds is very soluble in water",
     "options": [
       "C2H2",
       "C2H4",
@@ -11629,7 +11629,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-350-286",
-    "questionText": "In the preparation of oxygen by heating KCIO3 in the presence of MnC2, only moderate hear is needed because the catalyst acts by (JAMB 2010)",
+    "questionText": "In the preparation of oxygen by heating KCIO3 in the presence of MnC2, only moderate hear is needed because the catalyst acts by",
     "options": [
       "Increasing the surface area of the reactant",
       "Increasing the rate of the reaction",
@@ -11641,7 +11641,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-351-263",
-    "questionText": "The droplets of water observed around a bottle of milk taken out of though refrigerator is due to the fact that the (JAMB 2010)",
+    "questionText": "The droplets of water observed around a bottle of milk taken out of though refrigerator is due to the fact that the",
     "options": [
       "Temperature of the milk drops as it loses heat into the surroundings",
       "Saturated vapour pressure of the milk is equal to the atmospheric pressure",
@@ -11653,7 +11653,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-352-271",
-    "questionText": "Permanent hardness of water can be removed by (JAMB 2010)",
+    "questionText": "Permanent hardness of water can be removed by",
     "options": [
       "Adding slaked lime",
       "Adding caustic soda",
@@ -11665,7 +11665,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-353-302",
-    "questionText": "The haloalkanes used in the dry cleaning industries are (JAMB 2010)",
+    "questionText": "The haloalkanes used in the dry cleaning industries are",
     "options": [
       "Chloroethane and dichloroethene",
       "trichloroethene and tetrachloroethene",
@@ -11677,7 +11677,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-354-188",
-    "questionText": "How many moles of limestone will be required to produce 5.6g of CaO (JAMB 2005)",
+    "questionText": "How many moles of limestone will be required to produce 5.6g of CaO",
     "options": [
       "0.20 mol",
       "1, 12mol",
@@ -11689,7 +11689,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-355-77",
-    "questionText": "What is the percentage by mass of oxygen in Al2(SO4)3.2H2O (JAMB 2003)",
+    "questionText": "What is the percentage by mass of oxygen in Al2(SO4)3.2H2O",
     "options": [
       "14.29%",
       "25.39%",
@@ -11701,7 +11701,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-356-420",
-    "questionText": "A sample of orange juice is found to have a pH of 3.80. What is the concentration of the hydroxide ion in the juice? (JAMB 2017)",
+    "questionText": "A sample of orange juice is found to have a pH of 3.80. What is the concentration of the hydroxide ion in the juice?",
     "options": [
       "1.6 × 10⁻⁴",
       "6.3 × 10⁻¹¹",
@@ -11713,7 +11713,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-357-542",
-    "questionText": "Which of the following describes the chemical property of acids? (JAMB 2019)",
+    "questionText": "Which of the following describes the chemical property of acids?",
     "options": [
       "None of the above",
       "Acid + XCO₃ → Salt + H₂O + NH₃",
@@ -11725,7 +11725,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-358-509",
-    "questionText": "2-methylprop-1-ene is an isomer of? (JAMB 2019)",
+    "questionText": "2-methylprop-1-ene is an isomer of?",
     "options": [
       "3-methyl but-1-ene",
       "2-methyl but-1-ene",
@@ -11737,7 +11737,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-359-573",
-    "questionText": "Which of the following gases will rekindle a brightly glowing splint? (JAMB 2020)",
+    "questionText": "Which of the following gases will rekindle a brightly glowing splint?",
     "options": [
       "NO₂",
       "NO",
@@ -11749,7 +11749,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-360-520",
-    "questionText": "SO₃ is not directly dissolved in water in the industrial preparation of H₂SO₄ by the contact process because (JAMB 2019)",
+    "questionText": "SO₃ is not directly dissolved in water in the industrial preparation of H₂SO₄ by the contact process because",
     "options": [
       "SO₃ is an acidic gas",
       "acid is usually added to water and not water to acid",
@@ -11761,7 +11761,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-361-421",
-    "questionText": "Incomplete oxidation of ethanol yields (JAMB 2017)",
+    "questionText": "Incomplete oxidation of ethanol yields",
     "options": [
       "CH₃COOH",
       "CH₃COCH₃",
@@ -11773,7 +11773,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-362-516",
-    "questionText": "Which of the following alkaline earth metals react more spontaneously with water? (JAMB 2019)",
+    "questionText": "Which of the following alkaline earth metals react more spontaneously with water?",
     "options": [
       "Calcium",
       "Beryllium",
@@ -11785,7 +11785,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-363-671",
-    "questionText": "Alkanes are used mainly? (JAMB 2022)",
+    "questionText": "Alkanes are used mainly?",
     "options": [
       "in the textile industry",
       "in the hydrogenation of oils",
@@ -11797,7 +11797,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-364-498",
-    "questionText": "Which of the following is used to power steam engines? (JAMB 2018)",
+    "questionText": "Which of the following is used to power steam engines?",
     "options": [
       "lubricating oil",
       "coal",
@@ -11809,7 +11809,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-365-381",
-    "questionText": "An example of an acidic oxide is (JAMB 2016)",
+    "questionText": "An example of an acidic oxide is",
     "options": [
       "NO",
       "CO",
@@ -11821,7 +11821,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-366-338",
-    "questionText": "The energy value of petrol can be determined by (JAMB 2015)",
+    "questionText": "The energy value of petrol can be determined by",
     "options": [
       "Bomb calorimeter",
       "Catalytic cracker",
@@ -11833,7 +11833,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-367-679",
-    "questionText": "According to the kinetic theory of gases, the pressure exerted by a gas is due to? (JAMB 2023)",
+    "questionText": "According to the kinetic theory of gases, the pressure exerted by a gas is due to?",
     "options": [
       "The vibrations of gas particles.",
       "The weight of the gas particles",
@@ -11845,7 +11845,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-368-711",
-    "questionText": "What is the common name for ethanoic acid? (JAMB 2023)",
+    "questionText": "What is the common name for ethanoic acid?",
     "options": [
       "Acetic acid",
       "Butyric acid",
@@ -11857,7 +11857,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-369-600",
-    "questionText": "A breath test used by traffic police to check drunken driving uses? (JAMB 2021)",
+    "questionText": "A breath test used by traffic police to check drunken driving uses?",
     "options": [
       "Tumeric on filter paper",
       "Silica gel coated with saliva nitrate",
@@ -11869,7 +11869,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-370-654",
-    "questionText": "An organic compound which decolourises bromine water is likely to be? (JAMB 2022)",
+    "questionText": "An organic compound which decolourises bromine water is likely to be?",
     "options": [
       "C₃H₈",
       "C₂H₆",
@@ -11881,7 +11881,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-371-734",
-    "questionText": "What would be the order of the electrolytic cell in an industry intending the production of silver plated spoons? (JAMB 2024)",
+    "questionText": "What would be the order of the electrolytic cell in an industry intending the production of silver plated spoons?",
     "options": [
       "Cathode is the spoon; anode is a silver rod; electrolyte is a soluble silver salt",
       "Cathode is a silver rod; anode is the spoon; electrolyte is a soluble silver salt",
@@ -11893,7 +11893,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-372-491",
-    "questionText": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is (JAMB 2018)",
+    "questionText": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is",
     "options": [
       "Na₂SO₄",
       "Na₂SO₃",
@@ -11905,7 +11905,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-373-584",
-    "questionText": "The substance often used for vulcanization of rubber is? (JAMB 2020)",
+    "questionText": "The substance often used for vulcanization of rubber is?",
     "options": [
       "Chlorine",
       "Hydrogen peroxide",
@@ -11917,7 +11917,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-374-371",
-    "questionText": "The compound produced when sodium peroxide is heated with excess sodium is (JAMB 2016)",
+    "questionText": "The compound produced when sodium peroxide is heated with excess sodium is",
     "options": [
       "Na₂CO₃",
       "Na₂O",
@@ -11929,7 +11929,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-375-781",
-    "questionText": "Alkenes are represented with the general molecular formula (JAMB 2025)",
+    "questionText": "Alkenes are represented with the general molecular formula",
     "options": [
       "CₙH₂ₙ",
       "CₙH₂ₙ₋₂",
@@ -11941,7 +11941,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-376-793",
-    "questionText": "CH₃C≡CCH(CH₃)₂. The IUPAC nomenclature of the compound above is (JAMB 2025)",
+    "questionText": "CH₃C≡CCH(CH₃)₂. The IUPAC nomenclature of the compound above is",
     "options": [
       "3-ethyl but-2-yne",
       "4-methylpent-2-yne",
@@ -11953,7 +11953,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-377-558",
-    "questionText": "An example of a polysaccharide is? (JAMB 2020)",
+    "questionText": "An example of a polysaccharide is?",
     "options": [
       "Dextrose",
       "Mannose",
@@ -11965,7 +11965,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-378-501",
-    "questionText": "Diamond is a bad conductor of electricity because its bonding electrons are used in (JAMB 2018)",
+    "questionText": "Diamond is a bad conductor of electricity because its bonding electrons are used in",
     "options": [
       "crystal lattice formation",
       "covalent bond formation",
@@ -11977,7 +11977,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-379-372",
-    "questionText": "The pollutant that contributes to the depletion of the ozone layer is (JAMB 2016)",
+    "questionText": "The pollutant that contributes to the depletion of the ozone layer is",
     "options": [
       "CFCs",
       "NO₂",
@@ -11989,7 +11989,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-380-752",
-    "questionText": "When Sulphur(IV)oxide is passed into solution of acidified tetraoxomanganate(VII), the colour changes from (JAMB 2024)",
+    "questionText": "When Sulphur(IV)oxide is passed into solution of acidified tetraoxomanganate(VII), the colour changes from",
     "options": [
       "blue to green",
       "pink to yellow",
@@ -12001,7 +12001,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-381-388",
-    "questionText": "In the extraction of iron, the waste gas from the furnace is a mixture of (JAMB 2016)",
+    "questionText": "In the extraction of iron, the waste gas from the furnace is a mixture of",
     "options": [
       "PH₃, CO and CO₂",
       "CO and C",
@@ -12013,7 +12013,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-382-367",
-    "questionText": "Which of the following statements is true about 2-methylpropane and butane? (JAMB 2016)",
+    "questionText": "Which of the following statements is true about 2-methylpropane and butane?",
     "options": [
       "They have different number of carbon atoms",
       "They are members of same homologous series",
@@ -12025,7 +12025,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-383-764",
-    "questionText": "NH₃(g) + HCl(g) → NH₄Cl(g). In the reaction above, increase in pressure will (JAMB 2025)",
+    "questionText": "NH₃(g) + HCl(g) → NH₄Cl(g). In the reaction above, increase in pressure will",
     "options": [
       "lower the equilibrium constant",
       "favour the product",
@@ -12037,7 +12037,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079892-384-634",
-    "questionText": "The process by which salt and water react in a limited way to form an acid or a base is? (JAMB 2021)",
+    "questionText": "The process by which salt and water react in a limited way to form an acid or a base is?",
     "options": [
       "Neutral process",
       "Basic acidic process",
@@ -12049,7 +12049,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079893-385-778",
-    "questionText": "What accounts for the low melting and boiling points of covalent molecules? (JAMB 2025)",
+    "questionText": "What accounts for the low melting and boiling points of covalent molecules?",
     "options": [
       "They have weak intermolecular forces",
       "They have definite shapes",
@@ -12061,7 +12061,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-386-626",
-    "questionText": "The reactions involving simultaneous oxidation and reduction are called? (JAMB 2021)",
+    "questionText": "The reactions involving simultaneous oxidation and reduction are called?",
     "options": [
       "Automatic reactions",
       "Alternate reactions",
@@ -12073,7 +12073,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-387-601",
-    "questionText": "Which one of the following is not a mixture? (JAMB 2021)",
+    "questionText": "Which one of the following is not a mixture?",
     "options": [
       "Air",
       "Mercury",
@@ -12085,7 +12085,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-388-220",
-    "questionText": "Trioxonitrate(V) acid is not used for preparing hydrogen gas from metals because it (JAMB 2006)",
+    "questionText": "Trioxonitrate(V) acid is not used for preparing hydrogen gas from metals because it",
     "options": [
       "Renders the metal passive",
       "Is strongly oxidizing",
@@ -12097,7 +12097,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-389-434",
-    "questionText": "In the diagram, X is (JAMB 2017)",
+    "questionText": "In the diagram, X is",
     "options": [
       "SO₃",
       "SO₂",
@@ -12109,7 +12109,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-390-478",
-    "questionText": "A quantity of electricity liberates 3.6 g of silver from its salt. What mass of aluminium will be liberated from its salt by the same quantity of electricity? [Al = 27, Ag = 108] (JAMB 2018)",
+    "questionText": "A quantity of electricity liberates 3.6 g of silver from its salt. What mass of aluminium will be liberated from its salt by the same quantity of electricity? [Al = 27, Ag = 108]",
     "options": [
       "2.7 g",
       "1.2 g",
@@ -12121,7 +12121,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-391-335",
-    "questionText": "Cu₂S(s) + O₂(g) = 2Cu(s) + SO₂(g). \n\nIn the above reaction, the oxidation number of Cu changes from ___ to ___? (JAMB 2015)",
+    "questionText": "Cu₂S(s) + O₂(g) = 2Cu(s) + SO₂(g). \n\nIn the above reaction, the oxidation number of Cu changes from ___ to ___?",
     "options": [
       "+1 to 0",
       "0 to +2",
@@ -12133,7 +12133,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-392-336",
-    "questionText": "The number of isomers formed by C₆H₁₄ is (JAMB 2015)",
+    "questionText": "The number of isomers formed by C₆H₁₄ is",
     "options": [
       "4",
       "5",
@@ -12145,7 +12145,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-393-687",
-    "questionText": "Which trace gas in the atmosphere plays a significant role in the greenhouse effect? (JAMB 2023)",
+    "questionText": "Which trace gas in the atmosphere plays a significant role in the greenhouse effect?",
     "options": [
       "Oxygen",
       "Argon",
@@ -12157,7 +12157,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-394-565",
-    "questionText": "When water drops are added to calcium carbide in a container and the gas produced is passed through a jet and lighted, the resultant flame is called an? (JAMB 2020)",
+    "questionText": "When water drops are added to calcium carbide in a container and the gas produced is passed through a jet and lighted, the resultant flame is called an?",
     "options": [
       "Oxyethene",
       "Oxyhydrocarbon flame",
@@ -12169,7 +12169,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-395-496",
-    "questionText": "In the laboratory preparation of oxygen, the gas cannot be collected by downward displacement of air because (JAMB 2018)",
+    "questionText": "In the laboratory preparation of oxygen, the gas cannot be collected by downward displacement of air because",
     "options": [
       "the density of oxygen is greater than that of air",
       "the density of air is nearly the same as that of oxygen",
@@ -12181,7 +12181,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-396-612",
-    "questionText": "The reactivity of fluorine is due to? (JAMB 2021)",
+    "questionText": "The reactivity of fluorine is due to?",
     "options": [
       "Its high electronegativity",
       "Small size of fluorine atom",
@@ -12193,7 +12193,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-397-772",
-    "questionText": "Water drops are spherical in shape because of (JAMB 2025)",
+    "questionText": "Water drops are spherical in shape because of",
     "options": [
       "polarity",
       "viscosity",
@@ -12205,7 +12205,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-398-746",
-    "questionText": "What method is suitable for the separation of gases present in air? (JAMB 2024)",
+    "questionText": "What method is suitable for the separation of gases present in air?",
     "options": [
       "Catalytic cracking of liquid air",
       "Fractional distillation of liquid air",
@@ -12217,7 +12217,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-399-740",
-    "questionText": "How many moles of CO₂ are produced when ethanol is burnt with 6g of oxygen? (JAMB 2024)",
+    "questionText": "How many moles of CO₂ are produced when ethanol is burnt with 6g of oxygen?",
     "options": [
       "0.125",
       "0.250",
@@ -12229,7 +12229,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-400-688",
-    "questionText": "Which of the following methods can be used to remove temporary hardness from water? (JAMB 2023)",
+    "questionText": "Which of the following methods can be used to remove temporary hardness from water?",
     "options": [
       "Boiling",
       "Filtration",
@@ -12241,7 +12241,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-401-759",
-    "questionText": "The dusty and sand particles present in the air is an example of (JAMB 2025)",
+    "questionText": "The dusty and sand particles present in the air is an example of",
     "options": [
       "a suspension",
       "a dispersion",
@@ -12253,7 +12253,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-402-638",
-    "questionText": "In the preparation of salts, the method employed will depend on the? (JAMB 2022)",
+    "questionText": "In the preparation of salts, the method employed will depend on the?",
     "options": [
       "composition",
       "dissociating ability",
@@ -12265,7 +12265,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-403-406",
-    "questionText": "The constituent common to duralumin and alnico is (JAMB 2017)",
+    "questionText": "The constituent common to duralumin and alnico is",
     "options": [
       "Co",
       "Mn",
@@ -12277,7 +12277,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-404-598",
-    "questionText": "What is the IUPAC name for the following compound? HC≡CCH₃ (JAMB 2021)",
+    "questionText": "What is the IUPAC name for the following compound? HC≡CCH₃",
     "options": [
       "Acetylene",
       "Methyl acetylene",
@@ -12289,7 +12289,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-405-633",
-    "questionText": "The fourteen elements (atomic number 90-103) after actinium are called? (JAMB 2021)",
+    "questionText": "The fourteen elements (atomic number 90-103) after actinium are called?",
     "options": [
       "Actinoids",
       "Nucleotides",
@@ -12301,7 +12301,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-406-507",
-    "questionText": "The IUPAC name for CH₃CH₂COOCH₂CH₃ is (JAMB 2019)",
+    "questionText": "The IUPAC name for CH₃CH₂COOCH₂CH₃ is",
     "options": [
       "methylpropanoate",
       "ethylethanoate",
@@ -12313,7 +12313,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-407-146",
-    "questionText": "The mass of silver deposited when a current of 10A is passed through a solution of silver salt for 4830s is    [Ag = 108, F = 96500 Cmol-1] (JAMB 2004)",
+    "questionText": "The mass of silver deposited when a current of 10A is passed through a solution of silver salt for 4830s is    [Ag = 108, F = 96500 Cmol-1]",
     "options": [
       "108.0g",
       "54.0g",
@@ -12325,7 +12325,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-408-702",
-    "questionText": "What is the molar mass of water (H₂O)? (JAMB 2023)",
+    "questionText": "What is the molar mass of water (H₂O)?",
     "options": [
       "18 g/mol",
       "22 g/mol",
@@ -12337,7 +12337,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-409-562",
-    "questionText": "What are the possible oxidation numbers of an element if its atomic number is 17? (JAMB 2020)",
+    "questionText": "What are the possible oxidation numbers of an element if its atomic number is 17?",
     "options": [
       "-1 and 7",
       "-1 and 6",
@@ -12349,7 +12349,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-410-789",
-    "questionText": "The gas that is commonly used to demonstrate the fountain experiment is (JAMB 2025)",
+    "questionText": "The gas that is commonly used to demonstrate the fountain experiment is",
     "options": [
       "hydrogen chloride",
       "hydrogen sulphide",
@@ -12361,7 +12361,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-411-361",
-    "questionText": "Ammonium chloride can be separated from its mixture with common salt by (JAMB 2016)",
+    "questionText": "Ammonium chloride can be separated from its mixture with common salt by",
     "options": [
       "Distillation",
       "Evaporation",
@@ -12373,7 +12373,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-412-693",
-    "questionText": "Identify the reducing agent in the following reaction: Zn + CuSO₄ → ZnSO₄ + Cu (JAMB 2023)",
+    "questionText": "Identify the reducing agent in the following reaction: Zn + CuSO₄ → ZnSO₄ + Cu",
     "options": [
       "Cu",
       "Zn",
@@ -12385,7 +12385,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-413-605",
-    "questionText": "The gas which causes global warming is? (JAMB 2021)",
+    "questionText": "The gas which causes global warming is?",
     "options": [
       "O₂",
       "CO₂",
@@ -12397,7 +12397,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-414-446",
-    "questionText": "Ethene is prepared industrially by (JAMB 2017)",
+    "questionText": "Ethene is prepared industrially by",
     "options": [
       "Reforming",
       "Polymerization",
@@ -12409,7 +12409,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-415-653",
-    "questionText": "In order to electroplate a spoon with silver, the arrangement of the electrolytic cell is? (JAMB 2022)",
+    "questionText": "In order to electroplate a spoon with silver, the arrangement of the electrolytic cell is?",
     "options": [
       "the anode is a silver rod and the cathode is the spoon",
       "the anode is the spoon and the cathode is a silver rod",
@@ -12421,7 +12421,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-416-666",
-    "questionText": "Electrons enter into orbitals in order of increasing energy as exemplified by? (JAMB 2022)",
+    "questionText": "Electrons enter into orbitals in order of increasing energy as exemplified by?",
     "options": [
       "1S²2S²2PX²2py²2pz⁰3s⁰",
       "1S²2S²2PX²2py¹2pz¹3s⁰",
@@ -12433,7 +12433,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-417-453",
-    "questionText": "X(g) + 3Y(g) → 2Z(g), ΔH = +ve. If the reaction above takes place at room temperature, the ΔG will be (JAMB 2017)",
+    "questionText": "X(g) + 3Y(g) → 2Z(g), ΔH = +ve. If the reaction above takes place at room temperature, the ΔG will be",
     "options": [
       "negative",
       "zero",
@@ -12445,7 +12445,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-418-466",
-    "questionText": "The consecutive members of an alkane homologous series differ by (JAMB 2018)",
+    "questionText": "The consecutive members of an alkane homologous series differ by",
     "options": [
       "CH",
       "CH₂",
@@ -12457,7 +12457,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-419-695",
-    "questionText": "What is the trend for ionization energy across a period in the periodic table? (JAMB 2023)",
+    "questionText": "What is the trend for ionization energy across a period in the periodic table?",
     "options": [
       "Increases from left to right.",
       "Remains constant",
@@ -12469,7 +12469,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-420-198",
-    "questionText": "Which of the following are structural isomers (JAMB 2005)",
+    "questionText": "Which of the following are structural isomers",
     "options": [
       "Propanoic acid and propan-1, 2-diol",
       "Ethanoic acid and propanoic acid",
@@ -12481,7 +12481,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-421-208",
-    "questionText": "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes. The ion that will be discharged at the cathode is (JAMB 2005)",
+    "questionText": "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes. The ion that will be discharged at the cathode is",
     "options": [
       "OH-",
       "Cl-",
@@ -12493,7 +12493,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-422-320",
-    "questionText": "A suitable reagent for distinguish between ethanoic and ethanol is (JAMB 2015)",
+    "questionText": "A suitable reagent for distinguish between ethanoic and ethanol is",
     "options": [
       "bromine water",
       "Fehling’s solution",
@@ -12505,7 +12505,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-423-694",
-    "questionText": "Balance the following redox reaction: Fe₂O₃ + CO → Fe + CO₂ (JAMB 2023)",
+    "questionText": "Balance the following redox reaction: Fe₂O₃ + CO → Fe + CO₂",
     "options": [
       "Fe₂O₃ + CO → 2Fe + 2CO₂",
       "2Fe₂O₃ + 3CO → 4Fe + 3CO₂",
@@ -12517,7 +12517,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-424-637",
-    "questionText": "SO₂ + O₂ → 2SO₃. In the reaction above, the most suitable catalyst is? (JAMB 2022)",
+    "questionText": "SO₂ + O₂ → 2SO₃. In the reaction above, the most suitable catalyst is?",
     "options": [
       "chromium(vi)oxide",
       "iron(iii)oxide",
@@ -12529,7 +12529,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-425-490",
-    "questionText": "(I) 3CuO(s) + 2NH₃(g) → 3Cu(s) + 3H₂O(l) + N₂(g)\n(II) 2NH₃(g) + 3Cl₂(g) → 6HCl(g) + N₂(g)\n(III) 4NH₃(g) + 3O₂(g) → 6H₂O(l) + N₂(g)\nThe reactions represented by the equations above demonstrate the (JAMB 2018)",
+    "questionText": "(I) 3CuO(s) + 2NH₃(g) → 3Cu(s) + 3H₂O(l) + N₂(g)\n(II) 2NH₃(g) + 3Cl₂(g) → 6HCl(g) + N₂(g)\n(III) 4NH₃(g) + 3O₂(g) → 6H₂O(l) + N₂(g)\nThe reactions represented by the equations above demonstrate the",
     "options": [
       "basic properties of ammonia",
       "acidic properties of ammonia",
@@ -12541,7 +12541,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-426-560",
-    "questionText": "The best treatment for a student who accidentally poured conc tetraoxosulphate(vi) on his skin in the laboratory is to wash his skin with? (JAMB 2020)",
+    "questionText": "The best treatment for a student who accidentally poured conc tetraoxosulphate(vi) on his skin in the laboratory is to wash his skin with?",
     "options": [
       "cool running water",
       "sodium hydroxide solution",
@@ -12553,7 +12553,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-427-409",
-    "questionText": "The tincture of iodine means iodine dissolved in (JAMB 2017)",
+    "questionText": "The tincture of iodine means iodine dissolved in",
     "options": [
       "ethanol",
       "bromine chloride",
@@ -12565,7 +12565,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-428-629",
-    "questionText": "The compounds made up of only carbon and hydrogen are called? (JAMB 2021)",
+    "questionText": "The compounds made up of only carbon and hydrogen are called?",
     "options": [
       "Carbon compounds",
       "Hydrocarbons",
@@ -12577,7 +12577,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-429-550",
-    "questionText": "The IUPAC nomenclature of the compound H₃C - CH(CH₃) - CH(CH₃) - CH₂ - CH₃ (JAMB 2019)",
+    "questionText": "The IUPAC nomenclature of the compound H₃C - CH(CH₃) - CH(CH₃) - CH₂ - CH₃",
     "options": [
       "3,4-dimethylhexane",
       "2,3-dimethyl pentane",
@@ -12589,7 +12589,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-430-543",
-    "questionText": "Which of the following pairs cannot be represented with a chemical formula? (JAMB 2019)",
+    "questionText": "Which of the following pairs cannot be represented with a chemical formula?",
     "options": [
       "air and bronze",
       "bronze and sodium chloride",
@@ -12601,7 +12601,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-431-615",
-    "questionText": "220g of carbon dioxide contains how many moles? (JAMB 2021)",
+    "questionText": "220g of carbon dioxide contains how many moles?",
     "options": [
       "5",
       "6",
@@ -12613,7 +12613,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-432-432",
-    "questionText": "The alkyl group is represented by the general formula (JAMB 2017)",
+    "questionText": "The alkyl group is represented by the general formula",
     "options": [
       "CₙH₂ₙ",
       "CₙH₂ₙ - 2",
@@ -12625,7 +12625,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-433-586",
-    "questionText": "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen? (JAMB 2020)",
+    "questionText": "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen?",
     "options": [
       "8.0g",
       "16.0g",
@@ -12637,7 +12637,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-434-333",
-    "questionText": "Which of these radioactive elements is commonly used as a nuclear fuel? (JAMB 2015)",
+    "questionText": "Which of these radioactive elements is commonly used as a nuclear fuel?",
     "options": [
       "uranium",
       "palladium",
@@ -12649,7 +12649,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-435-350",
-    "questionText": "PCl₅(g) = PCl₃(g) + Cl₂(g). In the reaction above, a decrease in pressure will (JAMB 2015)",
+    "questionText": "PCl₅(g) = PCl₃(g) + Cl₂(g). In the reaction above, a decrease in pressure will",
     "options": [
       "Decelerate the reaction",
       "Increase yield of PCl₃",
@@ -12661,7 +12661,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-436-351",
-    "questionText": "Which of the following gives a precipitation when treated with NaOH solution? (JAMB 2015)",
+    "questionText": "Which of the following gives a precipitation when treated with NaOH solution?",
     "options": [
       "AlCl₃",
       "NH₄Cl",
@@ -12673,7 +12673,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-437-318",
-    "questionText": "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays (JAMB 2015)",
+    "questionText": "Cathode rays cause an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays",
     "options": [
       "are positively charged",
       "are negatively charged",
@@ -12685,7 +12685,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-438-327",
-    "questionText": "A fixed mass of gas occupies 92 cm³ at 3°C. What will be its volume at 18°C if the pressure remains constant? (JAMB 2015)",
+    "questionText": "A fixed mass of gas occupies 92 cm³ at 3°C. What will be its volume at 18°C if the pressure remains constant?",
     "options": [
       "15.3 cm³",
       "87.3 cm³",
@@ -12697,7 +12697,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-439-352",
-    "questionText": "Electronic configuration of element 13 in the subsidiary energy level is (JAMB 2015)",
+    "questionText": "Electronic configuration of element 13 in the subsidiary energy level is",
     "options": [
       "1s²2s²2p⁶3s²3p¹",
       "1s²2s²2p⁴3p¹3s¹",
@@ -12709,7 +12709,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-440-309",
-    "questionText": "The gas that is most useful in protecting humans against solar marathon is (JAMB 2015)",
+    "questionText": "The gas that is most useful in protecting humans against solar marathon is",
     "options": [
       "chlorine",
       "ozone",
@@ -12721,7 +12721,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-441-341",
-    "questionText": "An oxidation state of Cr in K₂Cr₂O₇ (JAMB 2015)",
+    "questionText": "An oxidation state of Cr in K₂Cr₂O₇",
     "options": [
       "7",
       "6",
@@ -12733,7 +12733,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-442-347",
-    "questionText": "The furring of kettles is caused by the presence of what compound in water? (JAMB 2015)",
+    "questionText": "The furring of kettles is caused by the presence of what compound in water?",
     "options": [
       "calcium tetraoxosulphate (IV)",
       "calcium hydrogentrioxocarbonate (IV)",
@@ -12745,7 +12745,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-443-325",
-    "questionText": "Tartaric acid is used industrially to (JAMB 2015)",
+    "questionText": "Tartaric acid is used industrially to",
     "options": [
       "make baking powder",
       "make fruit juice",
@@ -12757,7 +12757,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-444-345",
-    "questionText": "Detergents are manufactured with straight hydrocarbon chains, is to make them (JAMB 2015)",
+    "questionText": "Detergents are manufactured with straight hydrocarbon chains, is to make them",
     "options": [
       "soluble",
       "biodegradable",
@@ -12769,7 +12769,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-445-315",
-    "questionText": "Which of the noble gases has the greatest ionization energy (JAMB 2015)",
+    "questionText": "Which of the noble gases has the greatest ionization energy",
     "options": [
       "He",
       "Xe",
@@ -12781,7 +12781,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-446-331",
-    "questionText": "Rare gases are stable because they (JAMB 2015)",
+    "questionText": "Rare gases are stable because they",
     "options": [
       "are monoatomic",
       "form ions easily",
@@ -12793,7 +12793,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-447-343",
-    "questionText": "When sugar is dissolved in tea, the reaction is accomplished by? (JAMB 2015)",
+    "questionText": "When sugar is dissolved in tea, the reaction is accomplished by?",
     "options": [
       "positive change",
       "negative entropy change",
@@ -12805,7 +12805,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-448-319",
-    "questionText": "Flow of current in electrolytes is due to the movement of (JAMB 2015)",
+    "questionText": "Flow of current in electrolytes is due to the movement of",
     "options": [
       "electrons",
       "Holes and electron",
@@ -12817,7 +12817,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-449-354",
-    "questionText": "In countries where the temperature fall below 273 K, salt is always spilled on the road in order to (JAMB 2015)",
+    "questionText": "In countries where the temperature fall below 273 K, salt is always spilled on the road in order to",
     "options": [
       "increase the boiling point",
       "increase the density of the ice",
@@ -12829,7 +12829,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-450-305",
-    "questionText": "The filter in the cigarette reduce the nicotine construct by (JAMB 2015)",
+    "questionText": "The filter in the cigarette reduce the nicotine construct by",
     "options": [
       "burning",
       "adsorption",
@@ -12841,7 +12841,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-451-324",
-    "questionText": "A liquid that will dissolve fat is (JAMB 2015)",
+    "questionText": "A liquid that will dissolve fat is",
     "options": [
       "hydrochloric acid",
       "calcium hydrochloride",
@@ -12853,7 +12853,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-452-330",
-    "questionText": "Which of the following types of alkanols undergo oxidation to produce alkanoic acids? (JAMB 2015)",
+    "questionText": "Which of the following types of alkanols undergo oxidation to produce alkanoic acids?",
     "options": [
       "I, II and III",
       "I and II only",
@@ -12865,7 +12865,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-453-310",
-    "questionText": "Vulcanization involve the removal of (JAMB 2015)",
+    "questionText": "Vulcanization involve the removal of",
     "options": [
       "monometer",
       "the single bond",
@@ -12877,7 +12877,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-454-329",
-    "questionText": "Hydrogen can be displaced from a hot alkaline solution by (JAMB 2015)",
+    "questionText": "Hydrogen can be displaced from a hot alkaline solution by",
     "options": [
       "Fe",
       "Cu",
@@ -12889,7 +12889,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-455-314",
-    "questionText": "Atomicity of ozone is (JAMB 2015)",
+    "questionText": "Atomicity of ozone is",
     "options": [
       "1",
       "2",
@@ -12901,7 +12901,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-456-339",
-    "questionText": "What volume of 0.5 mol dm⁻³ H₂SO₄ will exactly neutralize 20 cm³ of 0.1 mol dm⁻³ NaOH solution? (JAMB 2015)",
+    "questionText": "What volume of 0.5 mol dm⁻³ H₂SO₄ will exactly neutralize 20 cm³ of 0.1 mol dm⁻³ NaOH solution?",
     "options": [
       "2.0 cm³",
       "5.0 cm³",
@@ -12913,7 +12913,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-457-349",
-    "questionText": "According to the kinetic theory, an absence in temperature causes the kinetic energy of particles to (JAMB 2015)",
+    "questionText": "According to the kinetic theory, an absence in temperature causes the kinetic energy of particles to",
     "options": [
       "decrease",
       "increase",
@@ -12925,7 +12925,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-458-322",
-    "questionText": "Which of the following metals burns with brick red (JAMB 2015)",
+    "questionText": "Which of the following metals burns with brick red",
     "options": [
       "Pb",
       "Ca",
@@ -12937,7 +12937,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-459-358",
-    "questionText": "In the laboratory preparation of chlorine from concentrated hydrochloric acid in the presence of potassium tetraoxomanganate (VII), the product is dried by passing it through (JAMB 2016)",
+    "questionText": "In the laboratory preparation of chlorine from concentrated hydrochloric acid in the presence of potassium tetraoxomanganate (VII), the product is dried by passing it through",
     "options": [
       "Concentrated tetraoxosulphate (VI) acid",
       "Anhydrous calcium chloride",
@@ -12949,7 +12949,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-460-375",
-    "questionText": "Which of the following compounds is used as a gaseous fuel? (JAMB 2016)",
+    "questionText": "Which of the following compounds is used as a gaseous fuel?",
     "options": [
       "CH₃-CH₂-CHO₂-COOH",
       "CH₃-C≡CH",
@@ -12961,7 +12961,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-461-378",
-    "questionText": "Which of the following is not an alkali? (JAMB 2016)",
+    "questionText": "Which of the following is not an alkali?",
     "options": [
       "Ca(OH)₂",
       "NH₃",
@@ -12973,7 +12973,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-462-400",
-    "questionText": "The diagram represents (JAMB 2016)",
+    "questionText": "The diagram represents",
     "options": [
       "A spontaneous reaction",
       "An exothermic reaction",
@@ -12985,7 +12985,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-463-397",
-    "questionText": "n monosaccharide ⇌ (P/Q) polysaccharide + n water. In the process above, P and Q respectively represent (JAMB 2016)",
+    "questionText": "n monosaccharide ⇌ (P/Q) polysaccharide + n water. In the process above, P and Q respectively represent",
     "options": [
       "Condensation and hydrolysis",
       "Fermentation and condensation",
@@ -12997,7 +12997,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-464-369",
-    "questionText": "What is the concentration of a solution containing 2 g of NaOH in 100 cm³ of solution? [Na = 23, O = 16, H = 1] (JAMB 2016)",
+    "questionText": "What is the concentration of a solution containing 2 g of NaOH in 100 cm³ of solution? [Na = 23, O = 16, H = 1]",
     "options": [
       "0.05 mol dm⁻³",
       "0.30 mol dm⁻³",
@@ -13009,7 +13009,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-465-370",
-    "questionText": "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is (JAMB 2016)",
+    "questionText": "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is",
     "options": [
       "Phosphorus-32",
       "Cobalt-60",
@@ -13021,7 +13021,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-466-392",
-    "questionText": "Calculate the volume in cm³ of oxygen evolved at s.t.p when a current of 5 A is passed through acidified water for 193 s. \n\n[F = 96500 C mol⁻¹. Molar volume of a gas at s.t.p = 22.4 dm³] (JAMB 2016)",
+    "questionText": "Calculate the volume in cm³ of oxygen evolved at s.t.p when a current of 5 A is passed through acidified water for 193 s. \n\n[F = 96500 C mol⁻¹. Molar volume of a gas at s.t.p = 22.4 dm³]",
     "options": [
       "0.056 dm³",
       "0.224 dm³",
@@ -13033,7 +13033,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-467-365",
-    "questionText": "The colour of litmus in an alkaline medium is (JAMB 2016)",
+    "questionText": "The colour of litmus in an alkaline medium is",
     "options": [
       "Red",
       "Yellow",
@@ -13045,7 +13045,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-468-395",
-    "questionText": "MnO₄⁻(aq) + Y + 5Fe²⁺(aq) → Mn²⁺(aq) + 5Fe³⁺(aq) + 4H₂O(l). In the equation above, Y is (JAMB 2016)",
+    "questionText": "MnO₄⁻(aq) + Y + 5Fe²⁺(aq) → Mn²⁺(aq) + 5Fe³⁺(aq) + 4H₂O(l). In the equation above, Y is",
     "options": [
       "10H⁺(aq)",
       "5H⁺(aq)",
@@ -13057,7 +13057,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-469-374",
-    "questionText": "Cast iron is used in making (JAMB 2016)",
+    "questionText": "Cast iron is used in making",
     "options": [
       "Chains and agricultural implements",
       "Iron sheets and retort stand",
@@ -13069,7 +13069,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-470-376",
-    "questionText": "The products formed when primary alkanols are oxidized using acidified potassium tetraoxomanganate (VII) are what? (JAMB 2016)",
+    "questionText": "The products formed when primary alkanols are oxidized using acidified potassium tetraoxomanganate (VII) are what?",
     "options": [
       "CH₃CH₂CHO and H₂O",
       "CH₃CHO and CO₂",
@@ -13081,7 +13081,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-471-390",
-    "questionText": "An example of a solid emulsion is (JAMB 2016)",
+    "questionText": "An example of a solid emulsion is",
     "options": [
       "Butter",
       "Hair cream",
@@ -13093,7 +13093,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-472-384",
-    "questionText": "Ethanol is soluble in water due to the presence of a (JAMB 2016)",
+    "questionText": "Ethanol is soluble in water due to the presence of a",
     "options": [
       "Carbonyl group",
       "Hydroxyl group",
@@ -13105,7 +13105,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-473-399",
-    "questionText": "In the diagram above, X is the (JAMB 2016)",
+    "questionText": "In the diagram above, X is the",
     "options": [
       "Enthalpy",
       "Activated complex",
@@ -13117,7 +13117,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-474-368",
-    "questionText": "The process that requires the use of hard water in its operation is (JAMB 2016)",
+    "questionText": "The process that requires the use of hard water in its operation is",
     "options": [
       "Tanning",
       "Bottling",
@@ -13129,7 +13129,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-475-362",
-    "questionText": "The ability of carbon to form long chains is referred to as (JAMB 2016)",
+    "questionText": "The ability of carbon to form long chains is referred to as",
     "options": [
       "Alkylation",
       "Acylation",
@@ -13141,7 +13141,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-476-356",
-    "questionText": "The condition required for corrosion to take place is the presence of (JAMB 2016)",
+    "questionText": "The condition required for corrosion to take place is the presence of",
     "options": [
       "Oxygen and Carbon (IV) oxide",
       "Water and Oxygen",
@@ -13153,7 +13153,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-477-404",
-    "questionText": "N₂O₄(aq) ⇌ 2NO₂(g), ΔH = +ve. In the reaction above, an increase in temperature will (JAMB 2016)",
+    "questionText": "N₂O₄(aq) ⇌ 2NO₂(g), ΔH = +ve. In the reaction above, an increase in temperature will",
     "options": [
       "Increase the reactant production",
       "Increase the value of the equilibrium constant",
@@ -13165,7 +13165,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-478-377",
-    "questionText": "Alkanols have the general molecular formula (JAMB 2016)",
+    "questionText": "Alkanols have the general molecular formula",
     "options": [
       "CₙH₂ₙ₋₂",
       "CₙH₂ₙ₊₁CHO",
@@ -13177,7 +13177,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-479-402",
-    "questionText": "From the diagram above, an ideal gas can be represented by (JAMB 2016)",
+    "questionText": "From the diagram above, an ideal gas can be represented by",
     "options": [
       "K",
       "M",
@@ -13189,7 +13189,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-480-386",
-    "questionText": "The drying agent suitable for drying ammonia is (JAMB 2016)",
+    "questionText": "The drying agent suitable for drying ammonia is",
     "options": [
       "Calcium Chloride",
       "Calcium Oxide",
@@ -13201,7 +13201,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-481-355",
-    "questionText": "In an electrochemical cell, polarization is caused by (JAMB 2016)",
+    "questionText": "In an electrochemical cell, polarization is caused by",
     "options": [
       "Oxygen",
       "Hydrogen",
@@ -13213,7 +13213,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-482-403",
-    "questionText": "CH₄(g) + Cl₂(g) → CH₂Cl(s) + HCl(g). The major factor that influences the rate of the reaction above is (JAMB 2016)",
+    "questionText": "CH₄(g) + Cl₂(g) → CH₂Cl(s) + HCl(g). The major factor that influences the rate of the reaction above is",
     "options": [
       "Concentration",
       "Catalyst",
@@ -13225,7 +13225,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-483-357",
-    "questionText": "The enzyme used in the hydrolysis of starch to dextrin and maltose is (JAMB 2016)",
+    "questionText": "The enzyme used in the hydrolysis of starch to dextrin and maltose is",
     "options": [
       "Zymase",
       "Sucrase",
@@ -13237,7 +13237,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-484-387",
-    "questionText": "The arrangement of particles in crystal lattices can be studied using (JAMB 2016)",
+    "questionText": "The arrangement of particles in crystal lattices can be studied using",
     "options": [
       "X-rays",
       "β-rays",
@@ -13249,7 +13249,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-485-360",
-    "questionText": "The principle of column chromatography is based on the ability of the constituents to (JAMB 2016)",
+    "questionText": "The principle of column chromatography is based on the ability of the constituents to",
     "options": [
       "React with the solvent in the column",
       "React with each other in the solvent in the column",
@@ -13261,7 +13261,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-486-364",
-    "questionText": "The relative atomic mass of a naturally occurring lithium consisting of 90% ⁷₃Li and 10% ⁶₃Li is (JAMB 2016)",
+    "questionText": "The relative atomic mass of a naturally occurring lithium consisting of 90% ⁷₃Li and 10% ⁶₃Li is",
     "options": [
       "6.2",
       "6.8",
@@ -13273,7 +13273,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-487-438",
-    "questionText": "The reddish-brown rust on iron roofing sheets consists of (JAMB 2017)",
+    "questionText": "The reddish-brown rust on iron roofing sheets consists of",
     "options": [
       "Fe³⁺(H₂O)₆",
       "FeO·H₂O",
@@ -13285,7 +13285,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-488-425",
-    "questionText": "²²⁶₈₈Ra → ˣ₈₆Rn + alpha particle. What is the value of x? (JAMB 2017)",
+    "questionText": "²²⁶₈₈Ra → ˣ₈₆Rn + alpha particle. What is the value of x?",
     "options": [
       "226",
       "220",
@@ -13297,7 +13297,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-489-454",
-    "questionText": "Which of the following is the correct order of increasing electronegativity? (JAMB 2017)",
+    "questionText": "Which of the following is the correct order of increasing electronegativity?",
     "options": [
       "F < O < N < C",
       "C < N < O < F",
@@ -13309,7 +13309,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-490-433",
-    "questionText": "Cu₂S(g) + O₂(g) → 2Cu + SO₂(g). What is the change in the oxidation number of copper in the reaction? (JAMB 2017)",
+    "questionText": "Cu₂S(g) + O₂(g) → 2Cu + SO₂(g). What is the change in the oxidation number of copper in the reaction?",
     "options": [
       "0 to +2",
       "0 to +1",
@@ -13321,7 +13321,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-491-430",
-    "questionText": "The reaction of halogens with alkanes in the presence of sunlight is an example of (JAMB 2017)",
+    "questionText": "The reaction of halogens with alkanes in the presence of sunlight is an example of",
     "options": [
       "oxidation reaction",
       "addition reaction",
@@ -13333,7 +13333,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-492-411",
-    "questionText": "The acid anhydride that will produce weak acid in water is (JAMB 2017)",
+    "questionText": "The acid anhydride that will produce weak acid in water is",
     "options": [
       "SO₃",
       "NO₂",
@@ -13345,7 +13345,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-493-427",
-    "questionText": "The mass of silver deposited when a current of 10 A is passed through a solution of silver salt for 4830 s is [Ag = 108, F = 96500 C mol⁻¹] (JAMB 2017)",
+    "questionText": "The mass of silver deposited when a current of 10 A is passed through a solution of silver salt for 4830 s is [Ag = 108, F = 96500 C mol⁻¹]",
     "options": [
       "54.0 g",
       "27.0 g",
@@ -13357,7 +13357,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-494-443",
-    "questionText": "The gas that can be collected by downward displacement of air is (JAMB 2017)",
+    "questionText": "The gas that can be collected by downward displacement of air is",
     "options": [
       "chlorine",
       "sulphur (IV) oxide",
@@ -13369,7 +13369,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-495-442",
-    "questionText": "An oxide XO₂ has a vapour density of 32. What is the atomic mass of X? (JAMB 2017)",
+    "questionText": "An oxide XO₂ has a vapour density of 32. What is the atomic mass of X?",
     "options": [
       "20",
       "32",
@@ -13381,7 +13381,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-496-449",
-    "questionText": "Due to the high reactivity of sodium, it is usually stored under (JAMB 2017)",
+    "questionText": "Due to the high reactivity of sodium, it is usually stored under",
     "options": [
       "water",
       "mercury",
@@ -13393,7 +13393,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-497-417",
-    "questionText": "The oxidation number of iodine in KIO₃ is (JAMB 2017)",
+    "questionText": "The oxidation number of iodine in KIO₃ is",
     "options": [
       "7",
       "3",
@@ -13405,7 +13405,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-498-441",
-    "questionText": "According to Charles's law, the volume of a gas becomes zero at (JAMB 2017)",
+    "questionText": "According to Charles's law, the volume of a gas becomes zero at",
     "options": [
       "-100°C",
       "-273°C",
@@ -13417,7 +13417,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-499-447",
-    "questionText": "Calculate the amount in moles of a gas which occupies 10.5 dm³ at 6 atm and 30°C [R = 0.082 atm dm³ K⁻¹ mol⁻¹] (JAMB 2017)",
+    "questionText": "Calculate the amount in moles of a gas which occupies 10.5 dm³ at 6 atm and 30°C [R = 0.082 atm dm³ K⁻¹ mol⁻¹]",
     "options": [
       "2.536",
       "1.623",
@@ -13429,7 +13429,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-500-415",
-    "questionText": "For a general equation of the nature xP + yQ → mR + nS, the expression for the equilibrium constant is (JAMB 2017)",
+    "questionText": "For a general equation of the nature xP + yQ → mR + nS, the expression for the equilibrium constant is",
     "options": [
       "k[P]ˣ[Q]ʸ",
       "[P]ˣ[Q]ʸ / [R]ᵐ[S]ⁿ",
@@ -13441,7 +13441,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-501-445",
-    "questionText": "A particle that contains 9 protons, 10 neutrons and 10 electrons is (JAMB 2017)",
+    "questionText": "A particle that contains 9 protons, 10 neutrons and 10 electrons is",
     "options": [
       "positive ion",
       "neutral atom of a metal",
@@ -13453,7 +13453,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-502-435",
-    "questionText": "The diagram above. Y is (JAMB 2017)",
+    "questionText": "The diagram above. Y is",
     "options": [
       "fused CaO",
       "H₂O",
@@ -13465,7 +13465,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-503-444",
-    "questionText": "In the laboratory preparation of trioxonitrate (V) acid, the nitrogen (IV) oxide formed as a by-product is removed by (JAMB 2017)",
+    "questionText": "In the laboratory preparation of trioxonitrate (V) acid, the nitrogen (IV) oxide formed as a by-product is removed by",
     "options": [
       "further heating",
       "adding concentrated H₂SO₄",
@@ -13477,7 +13477,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-504-412",
-    "questionText": "The process that occurs when two equivalent forms of a compound are in equilibrium is (JAMB 2017)",
+    "questionText": "The process that occurs when two equivalent forms of a compound are in equilibrium is",
     "options": [
       "Isotopy",
       "Resonance",
@@ -13489,7 +13489,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-505-416",
-    "questionText": "A given mass of gas occupies 2 dm³ at 300 K. At what temperature will its volume be doubled, keeping the pressure constant? (JAMB 2017)",
+    "questionText": "A given mass of gas occupies 2 dm³ at 300 K. At what temperature will its volume be doubled, keeping the pressure constant?",
     "options": [
       "400 K",
       "480 K",
@@ -13501,7 +13501,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-506-422",
-    "questionText": "The salt formed from a weak acid and a strong base hydrolyzes in water to form (JAMB 2017)",
+    "questionText": "The salt formed from a weak acid and a strong base hydrolyzes in water to form",
     "options": [
       "A saturated solution",
       "an acidic solution",
@@ -13513,7 +13513,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-507-423",
-    "questionText": "The ideal gas laws and equations are true for all gases at (JAMB 2017)",
+    "questionText": "The ideal gas laws and equations are true for all gases at",
     "options": [
       "low pressures and lower temperatures",
       "low temperatures and high pressures",
@@ -13525,7 +13525,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-508-439",
-    "questionText": "The densities of two gases, X and Y are 0.5 g dm⁻³ and 2.0 g dm⁻³ respectively. What is the rate of diffusion of X relative to Y? (JAMB 2017)",
+    "questionText": "The densities of two gases, X and Y are 0.5 g dm⁻³ and 2.0 g dm⁻³ respectively. What is the rate of diffusion of X relative to Y?",
     "options": [
       "0.1",
       "0.5",
@@ -13537,7 +13537,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-509-451",
-    "questionText": "Water for town supply is chlorinated to make it free from (JAMB 2017)",
+    "questionText": "Water for town supply is chlorinated to make it free from",
     "options": [
       "bad colour",
       "bacteria",
@@ -13549,7 +13549,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-510-448",
-    "questionText": "If 100 cm³ of oxygen passes through a porous plug in 50 seconds, the time taken for the same volume of hydrogen to pass through the same porous plug is? [O = 16, H = 1] (JAMB 2017)",
+    "questionText": "If 100 cm³ of oxygen passes through a porous plug in 50 seconds, the time taken for the same volume of hydrogen to pass through the same porous plug is? [O = 16, H = 1]",
     "options": [
       "10.0 s",
       "12.5 s",
@@ -13561,7 +13561,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-511-428",
-    "questionText": "Tin is unaffected by air at ordinary temperature due to its (JAMB 2017)",
+    "questionText": "Tin is unaffected by air at ordinary temperature due to its",
     "options": [
       "Low melting point",
       "Weak electropositive character",
@@ -13573,7 +13573,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-512-465",
-    "questionText": "Which of the following gases may not be dried with concentrated sulphuric acid? (JAMB 2018)",
+    "questionText": "Which of the following gases may not be dried with concentrated sulphuric acid?",
     "options": [
       "HCl(g)",
       "NH₃",
@@ -13585,7 +13585,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-513-495",
-    "questionText": "When air which contains oxygen, nitrogen, carbon dioxide, water vapour and the rare gases is passed through alkaline pyrogallol and then over quicklime, the only gases left are (JAMB 2018)",
+    "questionText": "When air which contains oxygen, nitrogen, carbon dioxide, water vapour and the rare gases is passed through alkaline pyrogallol and then over quicklime, the only gases left are",
     "options": [
       "nitrogen and carbon dioxide",
       "the rare gases",
@@ -13597,7 +13597,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-514-460",
-    "questionText": "The type of bonding in [Cu(NH₃)₄]²⁺ is (JAMB 2018)",
+    "questionText": "The type of bonding in [Cu(NH₃)₄]²⁺ is",
     "options": [
       "coordinate",
       "electrovalent",
@@ -13609,7 +13609,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-515-477",
-    "questionText": "Methanoic acid mixes with water in all proportions and has about the same boiling point as water. Which of the following methods would you adopt to obtain pure water from a mixture of sand, water and methanoic acid? (JAMB 2018)",
+    "questionText": "Methanoic acid mixes with water in all proportions and has about the same boiling point as water. Which of the following methods would you adopt to obtain pure water from a mixture of sand, water and methanoic acid?",
     "options": [
       "Extractive distillation",
       "Filtration followed by distillation",
@@ -13621,7 +13621,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-516-469",
-    "questionText": "On which of the following is the solubility of a gaseous substance dependent?\nI. Nature of solvent\nII. Nature of solute\nIII. Temperature\nIV. Pressure (JAMB 2018)",
+    "questionText": "On which of the following is the solubility of a gaseous substance dependent?\nI. Nature of solvent\nII. Nature of solute\nIII. Temperature\nIV. Pressure",
     "options": [
       "I, II, III and IV",
       "I and II only",
@@ -13633,7 +13633,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-517-500",
-    "questionText": "To what volume must 300 cm³ of 0.60 M sodium hydroxide solution be diluted to give a 0.40 M solution? (JAMB 2018)",
+    "questionText": "To what volume must 300 cm³ of 0.60 M sodium hydroxide solution be diluted to give a 0.40 M solution?",
     "options": [
       "450 cm³",
       "300 cm³",
@@ -13645,7 +13645,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-518-488",
-    "questionText": "Beryllium and Aluminium have similar properties because they (JAMB 2018)",
+    "questionText": "Beryllium and Aluminium have similar properties because they",
     "options": [
       "are both metals",
       "belong to the same group",
@@ -13657,7 +13657,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-519-475",
-    "questionText": "Which of the following pairs of substances will react further with oxygen to form a higher oxide? (JAMB 2018)",
+    "questionText": "Which of the following pairs of substances will react further with oxygen to form a higher oxide?",
     "options": [
       "CO₂ and H₂O",
       "NO and H₂O",
@@ -13669,7 +13669,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-520-484",
-    "questionText": "An aqueous solution of a metal salt M gives a white precipitate with NaOH which dissolves in excess NaOH. With aqueous ammonia, the solution of M also gives a white precipitate which dissolves in excess ammonia. Therefore the cation in M is (JAMB 2018)",
+    "questionText": "An aqueous solution of a metal salt M gives a white precipitate with NaOH which dissolves in excess NaOH. With aqueous ammonia, the solution of M also gives a white precipitate which dissolves in excess ammonia. Therefore the cation in M is",
     "options": [
       "Zn",
       "Ca",
@@ -13681,7 +13681,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-521-468",
-    "questionText": "A basic postulate of the kinetic theory of gases is that the molecules of a gas move in straight lines between collisions. This implies that (JAMB 2018)",
+    "questionText": "A basic postulate of the kinetic theory of gases is that the molecules of a gas move in straight lines between collisions. This implies that",
     "options": [
       "collisions are perfectly elastic",
       "forces of repulsion exist",
@@ -13693,7 +13693,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-522-502",
-    "questionText": "The reaction between an organic acid and an alcohol in the presence of an acid catalyst is known as (JAMB 2018)",
+    "questionText": "The reaction between an organic acid and an alcohol in the presence of an acid catalyst is known as",
     "options": [
       "saponification",
       "dehydration",
@@ -13705,7 +13705,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-523-504",
-    "questionText": "The solubility of solids that dissolve in a given solvent with the liberation of heat will (JAMB 2018)",
+    "questionText": "The solubility of solids that dissolve in a given solvent with the liberation of heat will",
     "options": [
       "increase with an increase in temperature",
       "decrease with an increase in temperature",
@@ -13717,7 +13717,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-524-471",
-    "questionText": "The periodic classification is an arrangement of the elements in order of their (JAMB 2018)",
+    "questionText": "The periodic classification is an arrangement of the elements in order of their",
     "options": [
       "atomic weights",
       "isotopic weights",
@@ -13729,7 +13729,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-525-492",
-    "questionText": "The refreshing and characteristic taste of soda water and other soft drinks is as a result of the presence of (JAMB 2018)",
+    "questionText": "The refreshing and characteristic taste of soda water and other soft drinks is as a result of the presence of",
     "options": [
       "carbon (IV) oxide",
       "carbon (II) oxide",
@@ -13741,7 +13741,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-526-464",
-    "questionText": "An element used in the production of matches is (JAMB 2018)",
+    "questionText": "An element used in the production of matches is",
     "options": [
       "nitrogen",
       "aluminium",
@@ -13753,7 +13753,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079894-527-499",
-    "questionText": "In the reaction between sodium hydroxide and sulphuric acid solutions, what volume of 0.5 mol dm⁻³ sodium hydroxide would exactly neutralise 10 cm³ of 1.25 mol dm⁻³ sulphuric acid? (JAMB 2018)",
+    "questionText": "In the reaction between sodium hydroxide and sulphuric acid solutions, what volume of 0.5 mol dm⁻³ sodium hydroxide would exactly neutralise 10 cm³ of 1.25 mol dm⁻³ sulphuric acid?",
     "options": [
       "5 cm³",
       "10 cm³",
@@ -13765,7 +13765,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-528-476",
-    "questionText": "In the preparation of oxygen by heating KClO₃ in the presence of MnO₂, only moderate heat is needed because the catalyst acts by (JAMB 2018)",
+    "questionText": "In the preparation of oxygen by heating KClO₃ in the presence of MnO₂, only moderate heat is needed because the catalyst acts by",
     "options": [
       "lowering the pressure of the reaction",
       "increasing the surface area of the reaction",
@@ -13777,7 +13777,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-529-493",
-    "questionText": "Which of the following are mixtures?\nI. Petroleum\nII. Rubber latex\nIII. Vulcanizer's solution\nIV. Carbon sulphide (JAMB 2018)",
+    "questionText": "Which of the following are mixtures?\nI. Petroleum\nII. Rubber latex\nIII. Vulcanizer's solution\nIV. Carbon sulphide",
     "options": [
       "I, II and III",
       "I, II and IV",
@@ -13789,7 +13789,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-530-472",
-    "questionText": "If 1 litre of 2.2 M sulphuric acid is poured into a bucket containing 10 litres of water and the resulting solution mixed thoroughly, the resulting sulphuric acid concentration will be (JAMB 2018)",
+    "questionText": "If 1 litre of 2.2 M sulphuric acid is poured into a bucket containing 10 litres of water and the resulting solution mixed thoroughly, the resulting sulphuric acid concentration will be",
     "options": [
       "2.2 M",
       "1.1 M",
@@ -13801,7 +13801,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-531-489",
-    "questionText": "mE + nF → pG + qH. In the equation shown, the equilibrium constant is given by (JAMB 2018)",
+    "questionText": "mE + nF → pG + qH. In the equation shown, the equilibrium constant is given by",
     "options": [
       "[E]ᵐ[F]ⁿ / [G]ᵖ[H]ᵍ",
       "[E][F] / [G][H]",
@@ -13813,7 +13813,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-532-474",
-    "questionText": "The boiling of fat and aqueous caustic soda is referred to as (JAMB 2018)",
+    "questionText": "The boiling of fat and aqueous caustic soda is referred to as",
     "options": [
       "hydrolysis",
       "esterification",
@@ -13825,7 +13825,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-533-486",
-    "questionText": "How many atoms are present in 6.0 g of magnesium? [Mg = 24, Nₐ = 6.02 × 10²³ mol⁻¹] (JAMB 2018)",
+    "questionText": "How many atoms are present in 6.0 g of magnesium? [Mg = 24, Nₐ = 6.02 × 10²³ mol⁻¹]",
     "options": [
       "1.20 × 10²²",
       "2.4 × 10²²",
@@ -13837,7 +13837,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-534-517",
-    "questionText": "When chlorine water is exposed to bright sunlight, the following products are formed (JAMB 2019)",
+    "questionText": "When chlorine water is exposed to bright sunlight, the following products are formed",
     "options": [
       "HCl(aq) and Cl₂",
       "HOCl(aq) and Cl₂",
@@ -13849,7 +13849,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-535-548",
-    "questionText": "In the reaction: M + N → P, ΔH = +Q kJ. Which of the following would increase the concentration of the product? (JAMB 2019)",
+    "questionText": "In the reaction: M + N → P, ΔH = +Q kJ. Which of the following would increase the concentration of the product?",
     "options": [
       "Adding a suitable catalyst",
       "Increasing the concentration of P",
@@ -13861,7 +13861,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-536-527",
-    "questionText": "Consider the reaction A(s) + 2B(g) → 2C(aq) + D(g). What will be the effect of a decrease in pressure on the reaction? (JAMB 2019)",
+    "questionText": "Consider the reaction A(s) + 2B(g) → 2C(aq) + D(g). What will be the effect of a decrease in pressure on the reaction?",
     "options": [
       "the equilibrium will shift",
       "rate of forward reaction will increase",
@@ -13873,7 +13873,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-537-508",
-    "questionText": "A certain hydrocarbon on complete combustion at s.t.p produced 89.6 dm³ of CO₂ and 54 g of water. The hydrocarbon should be? (JAMB 2019)",
+    "questionText": "A certain hydrocarbon on complete combustion at s.t.p produced 89.6 dm³ of CO₂ and 54 g of water. The hydrocarbon should be?",
     "options": [
       "C₆H₆",
       "C₄H₁₀",
@@ -13885,7 +13885,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-538-526",
-    "questionText": "Which of the following represents the kind of bonding present in ammonium chloride? (JAMB 2019)",
+    "questionText": "Which of the following represents the kind of bonding present in ammonium chloride?",
     "options": [
       "ionic only",
       "covalent only",
@@ -13897,7 +13897,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-539-518",
-    "questionText": "Which process(es) is/are involved in the turning of starch iodide paper blue-black by chlorine gas? (JAMB 2019)",
+    "questionText": "Which process(es) is/are involved in the turning of starch iodide paper blue-black by chlorine gas?",
     "options": [
       "chlorine attacks the starch to give the blue-black colour",
       "chlorine attacks the iodide ion to give the blue-black colour",
@@ -13909,7 +13909,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-540-547",
-    "questionText": "Sulphur exists in six forms in the solid state. This property is known as (JAMB 2019)",
+    "questionText": "Sulphur exists in six forms in the solid state. This property is known as",
     "options": [
       "Isomerism",
       "Allotropy",
@@ -13921,7 +13921,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-541-522",
-    "questionText": "Elements X and Y have electronic configurations 1s²2s²2p⁴ and 1s²2s²2p⁶3s²3p¹ respectively. When they combine, the formula of the compound formed is (JAMB 2019)",
+    "questionText": "Elements X and Y have electronic configurations 1s²2s²2p⁴ and 1s²2s²2p⁶3s²3p¹ respectively. When they combine, the formula of the compound formed is",
     "options": [
       "XY",
       "X₂Y",
@@ -13933,7 +13933,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-542-524",
-    "questionText": "2CO + O₂ → 2CO₂. Calculate the volume of the resulting mixture at the end of the reaction, if 50 cm³ of carbon (II) oxide was exploded in 100 cm³ of oxygen. (JAMB 2019)",
+    "questionText": "2CO + O₂ → 2CO₂. Calculate the volume of the resulting mixture at the end of the reaction, if 50 cm³ of carbon (II) oxide was exploded in 100 cm³ of oxygen.",
     "options": [
       "75 cm³",
       "125 cm³",
@@ -13945,7 +13945,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-543-532",
-    "questionText": "Which of the following statements about catalyst is false? (JAMB 2019)",
+    "questionText": "Which of the following statements about catalyst is false?",
     "options": [
       "biological catalysts are called enzymes",
       "catalysts do not appear in the balanced equation",
@@ -13957,7 +13957,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-544-534",
-    "questionText": "What technique is suitable for separating a binary solution of potassium chloride and potassium trioxochlorate (V)? (JAMB 2019)",
+    "questionText": "What technique is suitable for separating a binary solution of potassium chloride and potassium trioxochlorate (V)?",
     "options": [
       "Fractional crystallization",
       "Fractional distillation",
@@ -13969,7 +13969,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-545-546",
-    "questionText": "In the reaction between sodium hydroxide and tetraoxosulphate (VI) solutions, what volume of 0.5 molar sodium hydroxide would exactly neutralize 10cm³ of 1.25 molar tetraoxosulphate (vi) acid? (JAMB 2019)",
+    "questionText": "In the reaction between sodium hydroxide and tetraoxosulphate (VI) solutions, what volume of 0.5 molar sodium hydroxide would exactly neutralize 10cm³ of 1.25 molar tetraoxosulphate (vi) acid?",
     "options": [
       "25cm³",
       "10cm³",
@@ -13981,7 +13981,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-546-523",
-    "questionText": "By what amount must the temperature of 200 cm³ of nitrogen at 27°C be increased to double the pressure if the final volume is 150 cm³? (Assume ideality) (JAMB 2019)",
+    "questionText": "By what amount must the temperature of 200 cm³ of nitrogen at 27°C be increased to double the pressure if the final volume is 150 cm³? (Assume ideality)",
     "options": [
       "150°C",
       "177°C",
@@ -13993,7 +13993,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-547-515",
-    "questionText": "Which of the following metals is the most essential in the regulation of blood volume, blood pressure and osmotic equilibrium? (JAMB 2019)",
+    "questionText": "Which of the following metals is the most essential in the regulation of blood volume, blood pressure and osmotic equilibrium?",
     "options": [
       "Zinc",
       "Manganese",
@@ -14005,7 +14005,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-548-529",
-    "questionText": "Which of the following reactions is an oxidation process? (JAMB 2019)",
+    "questionText": "Which of the following reactions is an oxidation process?",
     "options": [
       "2H⁺ + 2e⁻ → H₂",
       "2O²⁻ + 4e⁻ → O₂",
@@ -14017,7 +14017,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-549-536",
-    "questionText": "Which of the following properties increases from left to right along the period but decreases down the group in the Periodic Table? i. Atomic Number  ii. Ionization energy  iii. Metallic character  iv. Electron affinity (JAMB 2019)",
+    "questionText": "Which of the following properties increases from left to right along the period but decreases down the group in the Periodic Table? i. Atomic Number  ii. Ionization energy  iii. Metallic character  iv. Electron affinity",
     "options": [
       "ii and iii only",
       "ii and iv only",
@@ -14029,7 +14029,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-550-552",
-    "questionText": "What mass of magnesium would be obtained by passing a current of 2 amperes for 2 hours 30 mins, through molten magnesium chloride? [1 faraday = 96500C, Mg = 24] (JAMB 2019)",
+    "questionText": "What mass of magnesium would be obtained by passing a current of 2 amperes for 2 hours 30 mins, through molten magnesium chloride? [1 faraday = 96500C, Mg = 24]",
     "options": [
       "1.12g",
       "4.48g",
@@ -14041,7 +14041,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-551-510",
-    "questionText": "Hydrocarbons which will react with Tollen's reagent conform to the general formula (JAMB 2019)",
+    "questionText": "Hydrocarbons which will react with Tollen's reagent conform to the general formula",
     "options": [
       "CₙH₂ₙ",
       "CₙH₂ₙ₊₂",
@@ -14053,7 +14053,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-552-513",
-    "questionText": "Burning magnesium ribbon in air removes which of the following: (i) oxygen (ii) nitrogen (iii) argon and (iv) carbon (IV) oxide? (JAMB 2019)",
+    "questionText": "Burning magnesium ribbon in air removes which of the following: (i) oxygen (ii) nitrogen (iii) argon and (iv) carbon (IV) oxide?",
     "options": [
       "i and iv only",
       "i, ii, iii and iv only",
@@ -14065,7 +14065,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-553-539",
-    "questionText": "A radioactive nucleus has a half-life of 20 years, starting with 100,000 particles, how many particles will be left exactly at the end of 40 years (JAMB 2019)",
+    "questionText": "A radioactive nucleus has a half-life of 20 years, starting with 100,000 particles, how many particles will be left exactly at the end of 40 years",
     "options": [
       "75,000 particles",
       "35,000 particles",
@@ -14077,7 +14077,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-554-511",
-    "questionText": "The IUPAC name of the compound CF₃CHBrCl is (JAMB 2019)",
+    "questionText": "The IUPAC name of the compound CF₃CHBrCl is",
     "options": [
       "2-chloro-2-bromo-1,1,1-trifluoroethane",
       "2-bromo-2-chloro-1,1,1-trifluoroethane",
@@ -14089,7 +14089,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-555-554",
-    "questionText": "Elements in the periodic table are arranged in the order of their (JAMB 2019)",
+    "questionText": "Elements in the periodic table are arranged in the order of their",
     "options": [
       "atomic numbers",
       "metallic character",
@@ -14101,7 +14101,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-556-512",
-    "questionText": "A synthetic rubber is NOT obtained from the polymerization of? (JAMB 2019)",
+    "questionText": "A synthetic rubber is NOT obtained from the polymerization of?",
     "options": [
       "neoprene",
       "isoprene",
@@ -14113,7 +14113,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-557-538",
-    "questionText": "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂\nThe indicator most suitable for this reaction should have a pH equal to (JAMB 2019)",
+    "questionText": "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂\nThe indicator most suitable for this reaction should have a pH equal to",
     "options": [
       "5",
       "7",
@@ -14125,7 +14125,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-558-569",
-    "questionText": "The products of the thermal decomposition of ammonium trioxonitrate(v) are? (JAMB 2020)",
+    "questionText": "The products of the thermal decomposition of ammonium trioxonitrate(v) are?",
     "options": [
       "Nitrogen (I) Oxide and Water",
       "Ammonia and Oxide",
@@ -14137,7 +14137,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-559-561",
-    "questionText": "Which of the gas laws does this graph illustrate? (JAMB 2020)",
+    "questionText": "Which of the gas laws does this graph illustrate?",
     "options": [
       "Boyle",
       "Charles",
@@ -14149,7 +14149,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-560-566",
-    "questionText": "Which of the following substances is a mixture? (JAMB 2020)",
+    "questionText": "Which of the following substances is a mixture?",
     "options": [
       "Granulated sugar",
       "Seawater",
@@ -14161,7 +14161,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-561-556",
-    "questionText": "Which of the following can be obtained by fractional distillation? (JAMB 2020)",
+    "questionText": "Which of the following can be obtained by fractional distillation?",
     "options": [
       "Nitrogen from liquid air",
       "Sodium Chloride from sea water",
@@ -14173,7 +14173,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-562-575",
-    "questionText": "A few drops of conc HCl are added to about 10cm³ of a solution of pH 3.4. The pH of the resulting mixture is? (JAMB 2020)",
+    "questionText": "A few drops of conc HCl are added to about 10cm³ of a solution of pH 3.4. The pH of the resulting mixture is?",
     "options": [
       "less than 3.4",
       "greater than 3.4",
@@ -14185,7 +14185,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-563-576",
-    "questionText": "Chromatography is used to separate components of a mixture which differ in their rates of? (JAMB 2020)",
+    "questionText": "Chromatography is used to separate components of a mixture which differ in their rates of?",
     "options": [
       "diffusion",
       "migration",
@@ -14197,7 +14197,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-564-567",
-    "questionText": "If the quantity of oxygen occupying 2.76L container at a pressure of 0.825 atm and 300K is reduced by one-half, what is the pressure exerted by the remaining gas? (JAMB 2020)",
+    "questionText": "If the quantity of oxygen occupying 2.76L container at a pressure of 0.825 atm and 300K is reduced by one-half, what is the pressure exerted by the remaining gas?",
     "options": [
       "1.650atm",
       "0.825atm",
@@ -14209,7 +14209,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-565-559",
-    "questionText": "8g of CH₄ occupies 11.2 dm³ at S.T.P. What volume would 22g of CH₃CH₂CH₃ occupy under the same condition? (JAMB 2020)",
+    "questionText": "8g of CH₄ occupies 11.2 dm³ at S.T.P. What volume would 22g of CH₃CH₂CH₃ occupy under the same condition?",
     "options": [
       "3.7dm³",
       "11.2dm³",
@@ -14221,7 +14221,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-566-570",
-    "questionText": "How many valence electrons are contained in the element ³¹₁₅P? (JAMB 2020)",
+    "questionText": "How many valence electrons are contained in the element ³¹₁₅P?",
     "options": [
       "5",
       "4",
@@ -14233,7 +14233,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-567-583",
-    "questionText": "An organic compound that does not undergo a reaction with both hydrogen cyanide and hydroxylamine can be? (JAMB 2020)",
+    "questionText": "An organic compound that does not undergo a reaction with both hydrogen cyanide and hydroxylamine can be?",
     "options": [
       "Alkene",
       "Alkanal",
@@ -14245,7 +14245,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-568-580",
-    "questionText": "A gaseous metallic chloride MCl consists of 20.22% of M by mass. The formula of the chloride is? [M = 27, Cl = 35.5] (JAMB 2020)",
+    "questionText": "A gaseous metallic chloride MCl consists of 20.22% of M by mass. The formula of the chloride is? [M = 27, Cl = 35.5]",
     "options": [
       "MCl",
       "MCl₂",
@@ -14257,7 +14257,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-569-578",
-    "questionText": "Helium is used in observation balloons because it is? (JAMB 2020)",
+    "questionText": "Helium is used in observation balloons because it is?",
     "options": [
       "Light and combustible",
       "light and non-combustible",
@@ -14269,7 +14269,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-570-577",
-    "questionText": "Deliquescent substances are also? (JAMB 2020)",
+    "questionText": "Deliquescent substances are also?",
     "options": [
       "efflorescent",
       "anhydrous",
@@ -14281,7 +14281,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-571-585",
-    "questionText": "The chlorinated alkane often used industrially to remove grease is? (JAMB 2020)",
+    "questionText": "The chlorinated alkane often used industrially to remove grease is?",
     "options": [
       "Tetrachloromethane",
       "Chloromethane",
@@ -14293,7 +14293,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-572-572",
-    "questionText": "The volume occupied by 1.58g of a gas at S.T.P is 500cm³. What is the relative molecular mass of the gas? [G.M.V at S.T.P = 22.4dm³] (JAMB 2020)",
+    "questionText": "The volume occupied by 1.58g of a gas at S.T.P is 500cm³. What is the relative molecular mass of the gas? [G.M.V at S.T.P = 22.4dm³]",
     "options": [
       "28",
       "32",
@@ -14305,7 +14305,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-573-557",
-    "questionText": "Duralumin consists of aluminum, copper and? (JAMB 2020)",
+    "questionText": "Duralumin consists of aluminum, copper and?",
     "options": [
       "Zinc and Gold",
       "Lead and Manganese",
@@ -14317,7 +14317,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-574-589",
-    "questionText": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes? (JAMB 2020)",
+    "questionText": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes?",
     "options": [
       "Bipolar",
       "Negatively charged",
@@ -14329,7 +14329,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-575-579",
-    "questionText": "32g of anhydrous copper(ii)tetraoxosulphate(vi) dissolved in 1dm³ of water generated 13.0kJ of heat. The heat of solution is? (JAMB 2020)",
+    "questionText": "32g of anhydrous copper(ii)tetraoxosulphate(vi) dissolved in 1dm³ of water generated 13.0kJ of heat. The heat of solution is?",
     "options": [
       "26.0kJ/mol",
       "65.0kJ/mol",
@@ -14341,7 +14341,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-576-593",
-    "questionText": "The most important element on the earth's crust is? (JAMB 2020)",
+    "questionText": "The most important element on the earth's crust is?",
     "options": [
       "Nitrogen",
       "Hydrogen",
@@ -14353,7 +14353,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-577-563",
-    "questionText": "What process would coal undergo to give coal gas, coal tar, ammoniacal liquor and coke? (JAMB 2020)",
+    "questionText": "What process would coal undergo to give coal gas, coal tar, ammoniacal liquor and coke?",
     "options": [
       "Steam distillation",
       "Destructive distillation",
@@ -14365,7 +14365,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-578-564",
-    "questionText": "Liquid black soap is made by boiling palm oil with liquid extract of ash. The function of the ash is to provide the? (JAMB 2020)",
+    "questionText": "Liquid black soap is made by boiling palm oil with liquid extract of ash. The function of the ash is to provide the?",
     "options": [
       "Acid",
       "Ester of alkanoic acid",
@@ -14377,7 +14377,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-579-574",
-    "questionText": "The shape of ammonia molecule is? (JAMB 2020)",
+    "questionText": "The shape of ammonia molecule is?",
     "options": [
       "Trigonal planar",
       "Octahedral",
@@ -14389,7 +14389,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-580-594",
-    "questionText": "To obtain pure carbon(ii)oxide from its mixture with carbon(iv)oxide, the mixture should be? (JAMB 2020)",
+    "questionText": "To obtain pure carbon(ii)oxide from its mixture with carbon(iv)oxide, the mixture should be?",
     "options": [
       "Passed over heated copper(ii)oxide",
       "Bubbled through water",
@@ -14401,7 +14401,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-581-555",
-    "questionText": "The electronic configuration of an element is 1S² 2S² 2P⁶ 3S² 3P³. How many unpaired electrons are there in the element? (JAMB 2020)",
+    "questionText": "The electronic configuration of an element is 1S² 2S² 2P⁶ 3S² 3P³. How many unpaired electrons are there in the element?",
     "options": [
       "5",
       "4",
@@ -14413,7 +14413,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-582-614",
-    "questionText": "The mass of one Avogadro number of helium atoms is? (JAMB 2021)",
+    "questionText": "The mass of one Avogadro number of helium atoms is?",
     "options": [
       "1.00 gram",
       "4.00 grams",
@@ -14425,7 +14425,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-583-608",
-    "questionText": "The maximum number of electrons in the N shell is? (JAMB 2021)",
+    "questionText": "The maximum number of electrons in the N shell is?",
     "options": [
       "2",
       "8",
@@ -14437,7 +14437,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-584-596",
-    "questionText": "The enzyme that converts glucose to ethyl alcohol is? (JAMB 2021)",
+    "questionText": "The enzyme that converts glucose to ethyl alcohol is?",
     "options": [
       "Maltase",
       "Zymase",
@@ -14449,7 +14449,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-585-609",
-    "questionText": "Neutrons were discovered by? (JAMB 2021)",
+    "questionText": "Neutrons were discovered by?",
     "options": [
       "James Chadwick",
       "Ernest Rutherford",
@@ -14461,7 +14461,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-586-607",
-    "questionText": "A sample of any of the following substances disappears after some time when exposed to air like camphor, naphthalene, or dry ice. This phenomenon is called? (JAMB 2021)",
+    "questionText": "A sample of any of the following substances disappears after some time when exposed to air like camphor, naphthalene, or dry ice. This phenomenon is called?",
     "options": [
       "Sublimation",
       "Evaporation",
@@ -14473,7 +14473,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-587-625",
-    "questionText": "A chemical process in which there is a gain of electrons is known as? (JAMB 2021)",
+    "questionText": "A chemical process in which there is a gain of electrons is known as?",
     "options": [
       "Sublimation",
       "Reduction",
@@ -14485,7 +14485,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-588-624",
-    "questionText": "An element having the atomic number 17 will resemble which of the following elements having atomic number as given below? (JAMB 2021)",
+    "questionText": "An element having the atomic number 17 will resemble which of the following elements having atomic number as given below?",
     "options": [
       "33",
       "35",
@@ -14497,7 +14497,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-589-617",
-    "questionText": "The most abundant rare gas in the atmosphere is? (JAMB 2021)",
+    "questionText": "The most abundant rare gas in the atmosphere is?",
     "options": [
       "He",
       "Ne",
@@ -14509,7 +14509,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-590-616",
-    "questionText": "The inherited traits of an organism are controlled by? (JAMB 2021)",
+    "questionText": "The inherited traits of an organism are controlled by?",
     "options": [
       "RNA molecules",
       "Nucleotides",
@@ -14521,7 +14521,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-591-606",
-    "questionText": "Oxygen is absent in? (JAMB 2021)",
+    "questionText": "Oxygen is absent in?",
     "options": [
       "Kerosene",
       "Soil",
@@ -14533,7 +14533,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-592-631",
-    "questionText": "In the troposphere, the two types of pollutants are? (JAMB 2021)",
+    "questionText": "In the troposphere, the two types of pollutants are?",
     "options": [
       "Gaseous and particulate pollutants",
       "Carbon and metallic pollutants",
@@ -14545,7 +14545,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-593-621",
-    "questionText": "The nucleus of an atom consists of? (JAMB 2021)",
+    "questionText": "The nucleus of an atom consists of?",
     "options": [
       "Electrons and neutrons",
       "Electrons and protons",
@@ -14557,7 +14557,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-594-628",
-    "questionText": "The process or act of extracting a metal from its ore and refining it is called? (JAMB 2021)",
+    "questionText": "The process or act of extracting a metal from its ore and refining it is called?",
     "options": [
       "Extraction",
       "Metal mining",
@@ -14569,7 +14569,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-595-620",
-    "questionText": "The metal used to recover copper from a solution of copper sulphate is? (JAMB 2021)",
+    "questionText": "The metal used to recover copper from a solution of copper sulphate is?",
     "options": [
       "Na",
       "Ag",
@@ -14581,7 +14581,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-596-632",
-    "questionText": "The molar enthalpy change accompanying the removal of an electron from a gas phase atom or ion in its ground state is called? (JAMB 2021)",
+    "questionText": "The molar enthalpy change accompanying the removal of an electron from a gas phase atom or ion in its ground state is called?",
     "options": [
       "Electron gain enthalpy",
       "Ionization enthalpy",
@@ -14593,7 +14593,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-597-630",
-    "questionText": "One of the following is not a physical property of monosaccharides? (JAMB 2021)",
+    "questionText": "One of the following is not a physical property of monosaccharides?",
     "options": [
       "Monosaccharides get charred when heated",
       "Monosaccharides are water-soluble, sweet substances",
@@ -14605,7 +14605,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-598-627",
-    "questionText": "A binary compound of oxygen with another element is referred to as? (JAMB 2021)",
+    "questionText": "A binary compound of oxygen with another element is referred to as?",
     "options": [
       "Oxide",
       "Element",
@@ -14617,7 +14617,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-599-595",
-    "questionText": "Give the common name for the following compound (CH₃)₂ CH CH₂ -Br (JAMB 2021)",
+    "questionText": "Give the common name for the following compound (CH₃)₂ CH CH₂ -Br",
     "options": [
       "Isobutyl bromide",
       "Methyl bromide",
@@ -14629,7 +14629,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-600-618",
-    "questionText": "The heat required to raise the temperature of a body by 1K is called? (JAMB 2021)",
+    "questionText": "The heat required to raise the temperature of a body by 1K is called?",
     "options": [
       "Specific heat",
       "Thermal capacity",
@@ -14641,7 +14641,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-601-613",
-    "questionText": "The mass number of a nucleus is? (JAMB 2021)",
+    "questionText": "The mass number of a nucleus is?",
     "options": [
       "Always less than its atomic number",
       "The sum of the number of protons and neutrons present in the nucleus",
@@ -14653,7 +14653,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-602-602",
-    "questionText": "Which of the following is a non-metal that remains liquid at room temperature? (JAMB 2021)",
+    "questionText": "Which of the following is a non-metal that remains liquid at room temperature?",
     "options": [
       "Chlorine",
       "Phosphorus",
@@ -14665,7 +14665,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-603-623",
-    "questionText": "The only metal that is anti-bacterial is? (JAMB 2021)",
+    "questionText": "The only metal that is anti-bacterial is?",
     "options": [
       "Iron",
       "Sodium",
@@ -14677,7 +14677,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-604-604",
-    "questionText": "The atomic weight of nitrogen is? (JAMB 2021)",
+    "questionText": "The atomic weight of nitrogen is?",
     "options": [
       "10",
       "12",
@@ -14689,7 +14689,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-605-622",
-    "questionText": "A solution contains 20g of solute in 180g of solvent. If the solvent is water, what is the concentration of the solution in terms of mass by mass percentage? (JAMB 2021)",
+    "questionText": "A solution contains 20g of solute in 180g of solvent. If the solvent is water, what is the concentration of the solution in terms of mass by mass percentage?",
     "options": [
       "11%",
       "22.20%",
@@ -14701,7 +14701,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-606-597",
-    "questionText": "The scientist who stated that matter can be converted into energy is? (JAMB 2021)",
+    "questionText": "The scientist who stated that matter can be converted into energy is?",
     "options": [
       "Boyle",
       "Lavoiser",
@@ -14713,7 +14713,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-607-610",
-    "questionText": "Which of the following is a form of calcium carbonate? I. limestone  II. marble  III. chalk  IV. egg-shells (JAMB 2021)",
+    "questionText": "Which of the following is a form of calcium carbonate? I. limestone  II. marble  III. chalk  IV. egg-shells",
     "options": [
       "I only",
       "I, II and IV",
@@ -14725,7 +14725,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-608-645",
-    "questionText": "On the basis of the electrochemical series, which of these ions will show the greater tendency to be discharged at the cathode in an electrolytic cell? (JAMB 2022)",
+    "questionText": "On the basis of the electrochemical series, which of these ions will show the greater tendency to be discharged at the cathode in an electrolytic cell?",
     "options": [
       "Cu²⁺",
       "Sn²⁺",
@@ -14737,7 +14737,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-609-648",
-    "questionText": "An organic compound with fishy smell is likely to have a general formula? (JAMB 2022)",
+    "questionText": "An organic compound with fishy smell is likely to have a general formula?",
     "options": [
       "RCONHR¹",
       "RCONH₂",
@@ -14749,7 +14749,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-610-667",
-    "questionText": "Wrought iron is obtained by heating cast iron in a furnace with? (JAMB 2022)",
+    "questionText": "Wrought iron is obtained by heating cast iron in a furnace with?",
     "options": [
       "magnetite",
       "haematite",
@@ -14761,7 +14761,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-611-664",
-    "questionText": "Which of the following best represents a solid-gas mixture? (JAMB 2022)",
+    "questionText": "Which of the following best represents a solid-gas mixture?",
     "options": [
       "milk",
       "kerosene",
@@ -14773,7 +14773,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-612-643",
-    "questionText": "Addition of sodium chloride to water to form a solution would lead to? (JAMB 2022)",
+    "questionText": "Addition of sodium chloride to water to form a solution would lead to?",
     "options": [
       "increase in freezing point and increase the boiling point",
       "increase in freezing point and decrease the boiling point",
@@ -14785,7 +14785,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-613-672",
-    "questionText": "What volume (dm³) of water will be added to 10dm³ of 2.0 mol/dm³ HCl acid solution to give a final solution of 0.5 mol/dm³? (JAMB 2022)",
+    "questionText": "What volume (dm³) of water will be added to 10dm³ of 2.0 mol/dm³ HCl acid solution to give a final solution of 0.5 mol/dm³?",
     "options": [
       "30",
       "40",
@@ -14797,7 +14797,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-614-668",
-    "questionText": "In the extraction of iron, hot air is introduced into the blast furnace through? (JAMB 2022)",
+    "questionText": "In the extraction of iron, hot air is introduced into the blast furnace through?",
     "options": [
       "valves",
       "open-hearths",
@@ -14809,7 +14809,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-615-635",
-    "questionText": "The sub-atomic particles located in the nucleus of an atom are? (JAMB 2022)",
+    "questionText": "The sub-atomic particles located in the nucleus of an atom are?",
     "options": [
       "neutron and proton",
       "proton and electron",
@@ -14821,7 +14821,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-616-641",
-    "questionText": "The sulphide that is commonly used in coating electric fluorescent tubes is? (JAMB 2022)",
+    "questionText": "The sulphide that is commonly used in coating electric fluorescent tubes is?",
     "options": [
       "iron(ii)sulphide",
       "tin(ii)sulphide",
@@ -14833,7 +14833,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-617-665",
-    "questionText": "H⁺ + OH⁻ → H₂O. The equation above illustrates? (JAMB 2022)",
+    "questionText": "H⁺ + OH⁻ → H₂O. The equation above illustrates?",
     "options": [
       "precipitation",
       "hydration",
@@ -14845,7 +14845,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-618-657",
-    "questionText": "2H₂ + O₂ → 2H₂O. From the equation above, calculate the volume of unreacted oxygen gas if a mixture of 50cm³ of hydrogen and 75cm³ of oxygen are involved. (JAMB 2022)",
+    "questionText": "2H₂ + O₂ → 2H₂O. From the equation above, calculate the volume of unreacted oxygen gas if a mixture of 50cm³ of hydrogen and 75cm³ of oxygen are involved.",
     "options": [
       "85cm³",
       "50cm³",
@@ -14857,7 +14857,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-619-661",
-    "questionText": "The pollutant usually present in a city which generates its electricity from coal? (JAMB 2022)",
+    "questionText": "The pollutant usually present in a city which generates its electricity from coal?",
     "options": [
       "fog",
       "carbon(ii)oxide",
@@ -14869,7 +14869,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-620-651",
-    "questionText": "An organic functional group which can likely decolourise ammoniacal silver nitrate is? (JAMB 2022)",
+    "questionText": "An organic functional group which can likely decolourise ammoniacal silver nitrate is?",
     "options": [
       "alkene",
       "alkane",
@@ -14881,7 +14881,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-621-673",
-    "questionText": "The table shows the compositions of the atmosphere of planet X: CO₂ = 4%, N₂ = 72%, O₂ = 24%. Which of these gases are present in higher percentages on earth? (JAMB 2022)",
+    "questionText": "The table shows the compositions of the atmosphere of planet X: CO₂ = 4%, N₂ = 72%, O₂ = 24%. Which of these gases are present in higher percentages on earth?",
     "options": [
       "CO₂ and O₂",
       "N₂ and CO₂",
@@ -14893,7 +14893,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-622-647",
-    "questionText": "Using the metal activity series, the metal that can liberate hydrogen gas from steam is? (JAMB 2022)",
+    "questionText": "Using the metal activity series, the metal that can liberate hydrogen gas from steam is?",
     "options": [
       "iron",
       "copper",
@@ -14905,7 +14905,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-623-669",
-    "questionText": "How many bonding pairs are present in carbon(iv)oxide? (JAMB 2022)",
+    "questionText": "How many bonding pairs are present in carbon(iv)oxide?",
     "options": [
       "4",
       "3",
@@ -14917,7 +14917,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-624-644",
-    "questionText": "A chemical widely used as a fertilizer is? (JAMB 2022)",
+    "questionText": "A chemical widely used as a fertilizer is?",
     "options": [
       "galena",
       "bauxite",
@@ -14929,7 +14929,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-625-658",
-    "questionText": "In which of the following will hydrogen form an ionic compound? (JAMB 2022)",
+    "questionText": "In which of the following will hydrogen form an ionic compound?",
     "options": [
       "HCl",
       "NaH",
@@ -14941,7 +14941,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-626-646",
-    "questionText": "Addition of charcoal to the filter bed of sand during water treatment for township supply is to? (JAMB 2022)",
+    "questionText": "Addition of charcoal to the filter bed of sand during water treatment for township supply is to?",
     "options": [
       "prevent goiter",
       "prevent tooth decay",
@@ -14953,7 +14953,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-627-663",
-    "questionText": "When heat is absorbed during a chemical reaction, the reaction is said to be? (JAMB 2022)",
+    "questionText": "When heat is absorbed during a chemical reaction, the reaction is said to be?",
     "options": [
       "thermodynamic",
       "exothermic",
@@ -14965,7 +14965,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-628-674",
-    "questionText": "Hard water is water with high concentrations of dissolved ions, in particular calcium and? (JAMB 2022)",
+    "questionText": "Hard water is water with high concentrations of dissolved ions, in particular calcium and?",
     "options": [
       "magnesium ions",
       "nitrogen ions",
@@ -14977,7 +14977,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-629-636",
-    "questionText": "The IUPAC nomenclature of the structure CH₃-C(Cl)(CH₃)-CH₂-CH₃ is? (JAMB 2022)",
+    "questionText": "The IUPAC nomenclature of the structure CH₃-C(Cl)(CH₃)-CH₂-CH₃ is?",
     "options": [
       "3-chloro-3-methylbutane",
       "2,2-dichloro-3-methylbutane",
@@ -14989,7 +14989,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-630-655",
-    "questionText": "Crude petroleum is converted to useful products by the process of? (JAMB 2022)",
+    "questionText": "Crude petroleum is converted to useful products by the process of?",
     "options": [
       "fractional crystallization",
       "fractional distillation",
@@ -15001,7 +15001,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-631-649",
-    "questionText": "N₂O₄ ⇌ 2NO₂ (Δ = -ve). From the reaction above, which of these conditions would produce the highest equilibrium yield for N₂O₄? (JAMB 2022)",
+    "questionText": "N₂O₄ ⇌ 2NO₂ (Δ = -ve). From the reaction above, which of these conditions would produce the highest equilibrium yield for N₂O₄?",
     "options": [
       "Low temperature and high pressure",
       "Low temperature and low pressure",
@@ -15013,7 +15013,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-632-659",
-    "questionText": "If the volume of a given mass of a gas at 0°C is 29.5cm³. What will be the volume of the gas at 15°C, given that the pressure remains constant? (JAMB 2022)",
+    "questionText": "If the volume of a given mass of a gas at 0°C is 29.5cm³. What will be the volume of the gas at 15°C, given that the pressure remains constant?",
     "options": [
       "31.6",
       "62.2",
@@ -15025,7 +15025,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-633-652",
-    "questionText": "A coloured gas that is known to be poisonous and can readily damage the mucous lining of the lungs is? (JAMB 2022)",
+    "questionText": "A coloured gas that is known to be poisonous and can readily damage the mucous lining of the lungs is?",
     "options": [
       "hydrogen sulphide",
       "carbon(ii)oxide",
@@ -15037,7 +15037,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-634-639",
-    "questionText": "The following non-metals form acidic oxides with oxygen except? (JAMB 2022)",
+    "questionText": "The following non-metals form acidic oxides with oxygen except?",
     "options": [
       "phosphorus",
       "sulphur",
@@ -15049,7 +15049,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-635-660",
-    "questionText": "The reactions below represent neutralization reactions. In which of them is the value of ΔH highest? A. CH₃CH₂COOH + KOH → CH₃CH₂COOK + H₂O  B. NH₄OH + HCl → NH₄Cl + H₂O  C. NaOH + HCl → NaCl + H₂O  D. CH₃COOH + NaOH → CH₃COONa + H₂O (JAMB 2022)",
+    "questionText": "The reactions below represent neutralization reactions. In which of them is the value of ΔH highest? A. CH₃CH₂COOH + KOH → CH₃CH₂COOK + H₂O  B. NH₄OH + HCl → NH₄Cl + H₂O  C. NaOH + HCl → NaCl + H₂O  D. CH₃COOH + NaOH → CH₃COONa + H₂O",
     "options": [
       "CH₃CH₂COOH + KOH → CH₃CH₂COOK + H₂O",
       "NH₄OH + HCl → NH₄Cl + H₂O",
@@ -15061,7 +15061,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-636-650",
-    "questionText": "Zn + 2HCl → ZnCl₂ + H₂. What happens to zinc in the above reaction? (JAMB 2022)",
+    "questionText": "Zn + 2HCl → ZnCl₂ + H₂. What happens to zinc in the above reaction?",
     "options": [
       "oxidized",
       "a reactant",
@@ -15073,7 +15073,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-637-680",
-    "questionText": "What is eutrophication? (JAMB 2023)",
+    "questionText": "What is eutrophication?",
     "options": [
       "The release of harmful chemicals into water bodies",
       "The excessive growth of algae due to nutrient enrichment",
@@ -15085,7 +15085,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-638-682",
-    "questionText": "Who proposed the planetary model of the atom with electrons orbiting the nucleus? (JAMB 2023)",
+    "questionText": "Who proposed the planetary model of the atom with electrons orbiting the nucleus?",
     "options": [
       "Erwin Schrödinger",
       "Ernest Rutherford",
@@ -15097,7 +15097,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-639-676",
-    "questionText": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium? (JAMB 2023)",
+    "questionText": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium?",
     "options": [
       "Argon",
       "Krypton",
@@ -15109,7 +15109,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-640-713",
-    "questionText": "What is the mass percentage of carbon (C) in methane (CH₄)? (The molar mass of carbon is approximately 12 g/mol.) (JAMB 2023)",
+    "questionText": "What is the mass percentage of carbon (C) in methane (CH₄)? (The molar mass of carbon is approximately 12 g/mol.)",
     "options": [
       "25%",
       "12%",
@@ -15121,7 +15121,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-641-681",
-    "questionText": "What is the name of the process by which ammonia is produced on an industrial scale? (JAMB 2023)",
+    "questionText": "What is the name of the process by which ammonia is produced on an industrial scale?",
     "options": [
       "Nitrogenation",
       "Ammoniation",
@@ -15133,7 +15133,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-642-697",
-    "questionText": "Which of the following alkanes has a straight-chain structure? (JAMB 2023)",
+    "questionText": "Which of the following alkanes has a straight-chain structure?",
     "options": [
       "Cyclopentane (C₅H₁₀)",
       "Isobutane (C₄H₁₀)",
@@ -15145,7 +15145,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-643-701",
-    "questionText": "Which organic compound is responsible for the characteristic aroma of fruits? (JAMB 2023)",
+    "questionText": "Which organic compound is responsible for the characteristic aroma of fruits?",
     "options": [
       "Alkane",
       "Alkyne",
@@ -15157,7 +15157,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-644-708",
-    "questionText": "What is the main source of carbon monoxide (CO) in urban areas? (JAMB 2023)",
+    "questionText": "What is the main source of carbon monoxide (CO) in urban areas?",
     "options": [
       "Volcanic eruptions",
       "Vehicle emissions",
@@ -15169,7 +15169,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-645-686",
-    "questionText": "What is the solubility product constant (Ksp) used for? (JAMB 2023)",
+    "questionText": "What is the solubility product constant (Ksp) used for?",
     "options": [
       "To measure the total mass of a solute that can dissolve in a solvent",
       "To determine the concentration of a solute in a saturated solution",
@@ -15181,7 +15181,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-646-712",
-    "questionText": "What type of reaction is involved in the formation of alkanols from alkenes? (JAMB 2023)",
+    "questionText": "What type of reaction is involved in the formation of alkanols from alkenes?",
     "options": [
       "Elimination reaction",
       "Redox reaction",
@@ -15193,7 +15193,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-647-714",
-    "questionText": "Which of the following is a common property of non-metals? (JAMB 2023)",
+    "questionText": "Which of the following is a common property of non-metals?",
     "options": [
       "Exist as solids at room temperature",
       "Tend to gain electrons in chemical reactions",
@@ -15205,7 +15205,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-648-691",
-    "questionText": "Stainless steel is an alloy made up of? (JAMB 2023)",
+    "questionText": "Stainless steel is an alloy made up of?",
     "options": [
       "Iron and zinc",
       "Copper and tin",
@@ -15217,7 +15217,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-649-704",
-    "questionText": "How many pi (π) bonds are there in an alkene with six carbon atoms? (JAMB 2023)",
+    "questionText": "How many pi (π) bonds are there in an alkene with six carbon atoms?",
     "options": [
       "1",
       "6",
@@ -15229,7 +15229,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-650-703",
-    "questionText": "What is the chemical formula of rust, which is formed on the surface of iron in the presence of oxygen and moisture? (JAMB 2023)",
+    "questionText": "What is the chemical formula of rust, which is formed on the surface of iron in the presence of oxygen and moisture?",
     "options": [
       "Fe₃O₄",
       "FeO",
@@ -15241,7 +15241,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-651-699",
-    "questionText": "When an acidic solution is diluted, what happens to its pH? (JAMB 2023)",
+    "questionText": "When an acidic solution is diluted, what happens to its pH?",
     "options": [
       "It depends on the specific acid",
       "It decreases",
@@ -15253,7 +15253,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-652-710",
-    "questionText": "Which separation technique is used to separate different pigments in a mixture based on their affinity for a stationary phase and a mobile phase? (JAMB 2023)",
+    "questionText": "Which separation technique is used to separate different pigments in a mixture based on their affinity for a stationary phase and a mobile phase?",
     "options": [
       "Chromatography",
       "Filtration",
@@ -15265,7 +15265,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-653-677",
-    "questionText": "Which of the following reactions would be expected to have the highest entropy change? (JAMB 2023)",
+    "questionText": "Which of the following reactions would be expected to have the highest entropy change?",
     "options": [
       "Liquid → Gas",
       "Solid → Liquid",
@@ -15277,7 +15277,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-654-685",
-    "questionText": "What is the chemical structure of soap and detergent molecules? (JAMB 2023)",
+    "questionText": "What is the chemical structure of soap and detergent molecules?",
     "options": [
       "Hydrophilic head and hydrophobic tail",
       "Hydrophilic head and hydrophilic tail",
@@ -15289,7 +15289,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-655-696",
-    "questionText": "Which type of chemical combination involves the transfer of electrons from one atom to another, resulting in the formation of oppositely charged ions? (JAMB 2023)",
+    "questionText": "Which type of chemical combination involves the transfer of electrons from one atom to another, resulting in the formation of oppositely charged ions?",
     "options": [
       "Ionic bonding",
       "Hydrogen bonding",
@@ -15301,7 +15301,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-656-706",
-    "questionText": "Which group does calcium belong to in the periodic table? (JAMB 2023)",
+    "questionText": "Which group does calcium belong to in the periodic table?",
     "options": [
       "Alkaline earth metals",
       "Halogens",
@@ -15313,7 +15313,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-657-684",
-    "questionText": "What happens to the value of the equilibrium constant (Kc) for a reaction if the reaction is reversed? (JAMB 2023)",
+    "questionText": "What happens to the value of the equilibrium constant (Kc) for a reaction if the reaction is reversed?",
     "options": [
       "It becomes zero",
       "It becomes negative",
@@ -15325,7 +15325,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-658-700",
-    "questionText": "Which of the following factors does NOT affect the rate of a chemical reaction? (JAMB 2023)",
+    "questionText": "Which of the following factors does NOT affect the rate of a chemical reaction?",
     "options": [
       "Concentration of reactants",
       "Presence of a catalyst",
@@ -15337,7 +15337,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-659-689",
-    "questionText": "What is Faraday's constant? (JAMB 2023)",
+    "questionText": "What is Faraday's constant?",
     "options": [
       "6.022 × 10²³ mol⁻¹",
       "3.00 × 10⁸ m/s",
@@ -15349,7 +15349,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-660-675",
-    "questionText": "What happens to the position of equilibrium, if a reversible exothermic reaction is subjected to a decrease in temperature? (JAMB 2023)",
+    "questionText": "What happens to the position of equilibrium, if a reversible exothermic reaction is subjected to a decrease in temperature?",
     "options": [
       "The position of equilibrium shifts to the left",
       "The position of equilibrium shifts to the right.",
@@ -15361,7 +15361,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-661-709",
-    "questionText": "What is the empirical formula of a compound containing 40.00% carbon, 6.67% hydrogen, and 53.33% oxygen by mass? (JAMB 2023)",
+    "questionText": "What is the empirical formula of a compound containing 40.00% carbon, 6.67% hydrogen, and 53.33% oxygen by mass?",
     "options": [
       "C₄H₈O₄",
       "CH₂O",
@@ -15373,7 +15373,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-662-196",
-    "questionText": "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate(IV) solution is used to remove (JAMB 2005)",
+    "questionText": "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate(IV) solution is used to remove",
     "options": [
       "Water",
       "Acidic impurities",
@@ -15385,7 +15385,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-663-553",
-    "questionText": "Which important nitrogen-containing compound is produced in Haber's process? (JAMB 2019)",
+    "questionText": "Which important nitrogen-containing compound is produced in Haber's process?",
     "options": [
       "NH₃",
       "NO₂",
@@ -15397,7 +15397,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-664-279",
-    "questionText": "Which of the following salts is slightly soluble in water (JAMB 2010)",
+    "questionText": "Which of the following salts is slightly soluble in water",
     "options": [
       "CaSO4",
       "Na2CO3",
@@ -15409,7 +15409,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-665-717",
-    "questionText": "The constituents of Alnico are Aluminium, Nickel and (JAMB 2024)",
+    "questionText": "The constituents of Alnico are Aluminium, Nickel and",
     "options": [
       "Mg",
       "Co",
@@ -15421,7 +15421,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-666-344",
-    "questionText": "NH₃(g) + HCl(s) → NH₄Cl(s). The entropy change in the system above is (JAMB 2015)",
+    "questionText": "NH₃(g) + HCl(s) → NH₄Cl(s). The entropy change in the system above is",
     "options": [
       "positive",
       "zero",
@@ -15433,7 +15433,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-667-102",
-    "questionText": "When sugar is dissolved in tea, the reaction is always accompanied by (JAMB 2003)",
+    "questionText": "When sugar is dissolved in tea, the reaction is always accompanied by",
     "options": [
       "Positive entropy change",
       "Negative entropy change",
@@ -15445,7 +15445,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-668-750",
-    "questionText": "Na₂X ⇌ 2Na⁺ + X²⁻. The bond between Na and X is likely to be (JAMB 2024)",
+    "questionText": "Na₂X ⇌ 2Na⁺ + X²⁻. The bond between Na and X is likely to be",
     "options": [
       "covalent",
       "dative",
@@ -15457,7 +15457,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-669-718",
-    "questionText": "Silver and Gold are metals found as free uncombined elements in the earth's crust, which makes them to be referred to as (JAMB 2024)",
+    "questionText": "Silver and Gold are metals found as free uncombined elements in the earth's crust, which makes them to be referred to as",
     "options": [
       "corrosive metals",
       "reactive metals",
@@ -15469,7 +15469,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-670-739",
-    "questionText": "For a chemical reaction to be spontaneous, ΔG must be (JAMB 2024)",
+    "questionText": "For a chemical reaction to be spontaneous, ΔG must be",
     "options": [
       "positive",
       "negative",
@@ -15481,7 +15481,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-671-770",
-    "questionText": "2X + 2HCl → 2XCl + H₂. In the equation above, X is (JAMB 2025)",
+    "questionText": "2X + 2HCl → 2XCl + H₂. In the equation above, X is",
     "options": [
       "K",
       "Mg",
@@ -15493,7 +15493,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-672-725",
-    "questionText": "The empirical formula of an organic liquid hydrocarbon is XY. If the relative molar masses of X and Y are 72 and 6 respectively, its vapour density is likely to be (JAMB 2024)",
+    "questionText": "The empirical formula of an organic liquid hydrocarbon is XY. If the relative molar masses of X and Y are 72 and 6 respectively, its vapour density is likely to be",
     "options": [
       "33",
       "66",
@@ -15505,7 +15505,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-673-716",
-    "questionText": "The number of molecules of helium gas contained in 11.5g of the gas is (JAMB 2024)",
+    "questionText": "The number of molecules of helium gas contained in 11.5g of the gas is",
     "options": [
       "1.73 × 10²³",
       "1.73 × 10²²",
@@ -15517,7 +15517,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-674-30",
-    "questionText": "Fermentation is the (JAMB 2001)",
+    "questionText": "Fermentation is the",
     "options": [
       "Breaking down of carbohydrate to glucose",
       "Conversion of sugar to alcohol in the presence of yeast",
@@ -15529,7 +15529,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-675-142",
-    "questionText": "The oxidation state of chlorine in HClO4 is (JAMB 2004)",
+    "questionText": "The oxidation state of chlorine in HClO4 is",
     "options": [
       "-5",
       "-1",
@@ -15541,7 +15541,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-676-776",
-    "questionText": "The following is not a water pollutant? (JAMB 2025)",
+    "questionText": "The following is not a water pollutant?",
     "options": [
       "warm water affluent",
       "inorganic fertilizers",
@@ -15553,7 +15553,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-677-260",
-    "questionText": "Which of he following pairs of substances will react further with oxygen to form a higher oxide (JAMB 2006)",
+    "questionText": "Which of he following pairs of substances will react further with oxygen to form a higher oxide",
     "options": [
       "SO2 and NO",
       "CO2 and H2O",
@@ -15565,7 +15565,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-678-429",
-    "questionText": "Calculate the amount in moles of silver deposited when 9650 C of electricity is passed through a solution of silver salt [F = 96500 C mol⁻¹] (JAMB 2017)",
+    "questionText": "Calculate the amount in moles of silver deposited when 9650 C of electricity is passed through a solution of silver salt [F = 96500 C mol⁻¹]",
     "options": [
       "0.05",
       "10.8",
@@ -15577,7 +15577,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-679-720",
-    "questionText": "When Calcium ethynide is decomposed by water, the gas produced is (JAMB 2024)",
+    "questionText": "When Calcium ethynide is decomposed by water, the gas produced is",
     "options": [
       "CO",
       "H₂",
@@ -15589,7 +15589,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-680-786",
-    "questionText": "A metal that can be found in the free state in nature is (JAMB 2025)",
+    "questionText": "A metal that can be found in the free state in nature is",
     "options": [
       "silver",
       "Zinc",
@@ -15601,7 +15601,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-681-531",
-    "questionText": "The heat of formation of ethene, C₂H₄ is 50 kJ mol⁻¹ and that of ethane, C₂H₆ is -82 kJ mol⁻¹. Calculate the heat evolved in the process: C₂H₄ + H₂ → C₂H₆ (JAMB 2019)",
+    "questionText": "The heat of formation of ethene, C₂H₄ is 50 kJ mol⁻¹ and that of ethane, C₂H₆ is -82 kJ mol⁻¹. Calculate the heat evolved in the process: C₂H₄ + H₂ → C₂H₆",
     "options": [
       "-122 kJ",
       "-132 kJ",
@@ -15613,7 +15613,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-682-756",
-    "questionText": "The composition of petroleum varies because it is a (JAMB 2025)",
+    "questionText": "The composition of petroleum varies because it is a",
     "options": [
       "hydrocarbon",
       "liquid",
@@ -15625,7 +15625,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-683-747",
-    "questionText": "The principle which states that no two electrons in the same orbital of an atom have the same value for all four quantum numbers is the (JAMB 2024)",
+    "questionText": "The principle which states that no two electrons in the same orbital of an atom have the same value for all four quantum numbers is the",
     "options": [
       "Aufbau principle",
       "Hund's rule",
@@ -15637,7 +15637,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-684-727",
-    "questionText": "A gas when mixed with oxygen, it produces a very hot and easily controllable flame. What is the name of the flame and where is it used? (JAMB 2024)",
+    "questionText": "A gas when mixed with oxygen, it produces a very hot and easily controllable flame. What is the name of the flame and where is it used?",
     "options": [
       "Acetylene flame; miners' lamp",
       "Oxy-ethylene; hunters' torch",
@@ -15649,7 +15649,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-685-788",
-    "questionText": "From the graph, it can be inferred that (JAMB 2025)",
+    "questionText": "From the graph, it can be inferred that",
     "options": [
       "the solubility of X and Y is the same at all temperatures",
       "the solubility of X, Y and Z is temperature dependent",
@@ -15661,7 +15661,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079895-686-779",
-    "questionText": "Iron produced directly from a blast furnace is (JAMB 2025)",
+    "questionText": "Iron produced directly from a blast furnace is",
     "options": [
       "wrought iron",
       "cast iron",
@@ -15673,7 +15673,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-687-766",
-    "questionText": "Nitrogen, a component of air is used for (JAMB 2025)",
+    "questionText": "Nitrogen, a component of air is used for",
     "options": [
       "production of cooling agent",
       "production of margarine",
@@ -15685,7 +15685,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-688-89",
-    "questionText": "The structural component that makes detergent dissolve more quickly in water than soap is (JAMB 2003)",
+    "questionText": "The structural component that makes detergent dissolve more quickly in water than soap is",
     "options": [
       "–SO3 –Na+",
       "–COO-Na+",
@@ -15697,7 +15697,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-689-745",
-    "questionText": "CuO(s) + H₂(g) ⇌ Cu(s) + H₂O(g). In the equation above, the effect of increased pressure on the equilibrium position is that (JAMB 2024)",
+    "questionText": "CuO(s) + H₂(g) ⇌ Cu(s) + H₂O(g). In the equation above, the effect of increased pressure on the equilibrium position is that",
     "options": [
       "the equilibrium is shifted to the left",
       "the equilibrium is shifted to the right",
@@ -15709,7 +15709,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-690-290",
-    "questionText": "A constituent common to moist air, it gradually rusts. This is due to the formation of (JAMB 2010)",
+    "questionText": "A constituent common to moist air, it gradually rusts. This is due to the formation of",
     "options": [
       "Silver",
       "Copper",
@@ -15721,7 +15721,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-691-479",
-    "questionText": "Suitable reagents for the laboratory preparation of nitrogen are (JAMB 2018)",
+    "questionText": "Suitable reagents for the laboratory preparation of nitrogen are",
     "options": [
       "sodium dioxonitrate (III) and ammonium chloride",
       "sodium trioxonitrate (V) and ammonium chloride",
@@ -15733,7 +15733,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-692-301",
-    "questionText": "One of the major uses of Alkanes is (JAMB 2010)",
+    "questionText": "One of the major uses of Alkanes is",
     "options": [
       "In the hydrogenation of oils",
       "In the textile industries",
@@ -15745,7 +15745,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-693-729",
-    "questionText": "How many isomers has the organic compound represented by the formula C₃H₈O? (JAMB 2024)",
+    "questionText": "How many isomers has the organic compound represented by the formula C₃H₈O?",
     "options": [
       "2",
       "3",
@@ -15757,7 +15757,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-694-440",
-    "questionText": "The carbon atoms in ethane are (JAMB 2017)",
+    "questionText": "The carbon atoms in ethane are",
     "options": [
       "sp² hybridized",
       "sp³ hybridized",
@@ -15769,7 +15769,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-695-359",
-    "questionText": "The monomer of nylon is (JAMB 2016)",
+    "questionText": "The monomer of nylon is",
     "options": [
       "Hydroxybenzene",
       "Hexanedioic acid",
@@ -15781,7 +15781,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-696-761",
-    "questionText": "When ΔH is positive and small, and ΔS is positive and large, the reaction will be (JAMB 2025)",
+    "questionText": "When ΔH is positive and small, and ΔS is positive and large, the reaction will be",
     "options": [
       "Non-spontaneous",
       "favour forward reaction only",
@@ -15793,7 +15793,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-697-394",
-    "questionText": "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as (JAMB 2016)",
+    "questionText": "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as",
     "options": [
       "A reversible reaction",
       "A spontaneous reaction",
@@ -15805,7 +15805,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-698-771",
-    "questionText": "Alkanoic acids have higher boiling points than alkanols because (JAMB 2025)",
+    "questionText": "Alkanoic acids have higher boiling points than alkanols because",
     "options": [
       "alkanoic acids are more volatile than alkanols",
       "alkanols are more polar than alkanoic acids",
@@ -15817,7 +15817,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-699-393",
-    "questionText": "The gas that is used for the treatment of cancer is (JAMB 2016)",
+    "questionText": "The gas that is used for the treatment of cancer is",
     "options": [
       "Neon",
       "Radon",
@@ -15829,7 +15829,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-700-459",
-    "questionText": "What is the pH of 0.001 mol dm⁻³ solution of sodium hydroxide? (JAMB 2018)",
+    "questionText": "What is the pH of 0.001 mol dm⁻³ solution of sodium hydroxide?",
     "options": [
       "1400%",
       "1300%",
@@ -15841,7 +15841,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-701-751",
-    "questionText": "The heaviest isotope of hydrogen is (JAMB 2024)",
+    "questionText": "The heaviest isotope of hydrogen is",
     "options": [
       "Deuterium",
       "Protium",
@@ -15853,7 +15853,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-702-306",
-    "questionText": "Which of these require crystallization most? (JAMB 2015)",
+    "questionText": "Which of these require crystallization most?",
     "options": [
       "Drug making",
       "Cement making",
@@ -15865,7 +15865,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-703-437",
-    "questionText": "The IUPAC nomenclature of the structure shown (CH₂=C(CH₃)-CH₂-CH₃) is (JAMB 2017)",
+    "questionText": "The IUPAC nomenclature of the structure shown (CH₂=C(CH₃)-CH₂-CH₃) is",
     "options": [
       "3-methylbut-3-ene",
       "2-methylbut-1-ene",
@@ -15877,7 +15877,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-704-8",
-    "questionText": "An element X with relative atomic mass 16.2 contains two isotopes      X  with relative abundance of 90% and      X with relative abundance of 10%. The value of m is (JAMB 2001)",
+    "questionText": "An element X with relative atomic mass 16.2 contains two isotopes      X  with relative abundance of 90% and      X with relative abundance of 10%. The value of m is",
     "options": [
       "16",
       "18",
@@ -15889,7 +15889,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-705-326",
-    "questionText": "P₁V₁ = P₂V₂ supports? (JAMB 2015)",
+    "questionText": "P₁V₁ = P₂V₂ supports?",
     "options": [
       "Charles's law",
       "Boyle's law",
@@ -15901,7 +15901,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-706-514",
-    "questionText": "Which of the following is the best starting material for the preparation of oxygen by heating trioxonitrate (V) with? (JAMB 2019)",
+    "questionText": "Which of the following is the best starting material for the preparation of oxygen by heating trioxonitrate (V) with?",
     "options": [
       "Pb",
       "Zn",
@@ -15913,7 +15913,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-707-777",
-    "questionText": "Acid radicals are present in (JAMB 2025)",
+    "questionText": "Acid radicals are present in",
     "options": [
       "CO₃²⁻, PO₄³⁻, Mg²⁺",
       "CO₃²⁻, SO₄²⁻, Na⁺",
@@ -15925,7 +15925,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-708-211",
-    "questionText": "What is the correct IUPAC name for NO2 (JAMB 2005)",
+    "questionText": "What is the correct IUPAC name for NO2",
     "options": [
       "Dioxonitrate(III) ion",
       "Dioxonitrate(IV) ION",
@@ -15937,7 +15937,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-709-792",
-    "questionText": "The nitrogenous compound in dead materials in the soil is converted to (JAMB 2025)",
+    "questionText": "The nitrogenous compound in dead materials in the soil is converted to",
     "options": [
       "ammonia",
       "trioxonitrate(V)",
@@ -15949,7 +15949,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-710-414",
-    "questionText": "The constituent of air necessary in the rusting process are (JAMB 2017)",
+    "questionText": "The constituent of air necessary in the rusting process are",
     "options": [
       "O₂ and H₂O",
       "Ar and CO₂",
@@ -15961,7 +15961,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-711-785",
-    "questionText": "If a gold bar and a silver bar are tied together firmly and left for years, some of the gold particles will be found in the silver bar due to (JAMB 2025)",
+    "questionText": "If a gold bar and a silver bar are tied together firmly and left for years, some of the gold particles will be found in the silver bar due to",
     "options": [
       "Brownian movement",
       "diffusion",
@@ -15973,7 +15973,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-712-165",
-    "questionText": "Vulcanization involves the removal of (JAMB 2004)",
+    "questionText": "Vulcanization involves the removal of",
     "options": [
       "A monomer",
       "The single bond",
@@ -15985,7 +15985,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-713-754",
-    "questionText": "Sulphur(IV)oxide can be used as a (JAMB 2024)",
+    "questionText": "Sulphur(IV)oxide can be used as a",
     "options": [
       "coating agent",
       "dehydrating agent",
@@ -15997,7 +15997,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-714-737",
-    "questionText": "Strong acids can be distinguished from weak acids by any of the following methods, EXCEPT (JAMB 2024)",
+    "questionText": "Strong acids can be distinguished from weak acids by any of the following methods, EXCEPT",
     "options": [
       "Conductivity measurement",
       "The use of litmus paper",
@@ -16009,7 +16009,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-715-733",
-    "questionText": "The quantity of electricity required to deposit 180g of Ag from a molten silver trioxonitrate(V) is [Ag = 108] (JAMB 2024)",
+    "questionText": "The quantity of electricity required to deposit 180g of Ag from a molten silver trioxonitrate(V) is [Ag = 108]",
     "options": [
       "1.08F",
       "3.30F",
@@ -16021,7 +16021,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-716-149",
-    "questionText": " N2O4(g)    ⇌  2NO2(g) (JAMB 2004)",
+    "questionText": " N2O4(g)    ⇌  2NO2(g)",
     "options": [
       "A constant volume",
       "An increase in pressure",
@@ -16033,7 +16033,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-717-794",
-    "questionText": "In the laboratory preparation of oxygen using potassium trioxochlorate(V), tetraoxomanganate(VII) is usually not recommended in modern laboratory because (JAMB 2025)",
+    "questionText": "In the laboratory preparation of oxygen using potassium trioxochlorate(V), tetraoxomanganate(VII) is usually not recommended in modern laboratory because",
     "options": [
       "it forms explosive mixture with carbonaceous materials",
       "it is explosive",
@@ -16045,7 +16045,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-718-784",
-    "questionText": "Carbohydrates can generally be represented by the general formula Cₓ(H₂O)ᵧ. For fructose the value of x is (JAMB 2025)",
+    "questionText": "Carbohydrates can generally be represented by the general formula Cₓ(H₂O)ᵧ. For fructose the value of x is",
     "options": [
       "3",
       "12",
@@ -16057,7 +16057,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-719-530",
-    "questionText": "If acidified potassium dichromate (VI) (K₂Cr₂O₇) acts as oxidizing agent, the colour changes from (JAMB 2019)",
+    "questionText": "If acidified potassium dichromate (VI) (K₂Cr₂O₇) acts as oxidizing agent, the colour changes from",
     "options": [
       "yellow to green",
       "orange to green",
@@ -16069,7 +16069,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-720-332",
-    "questionText": "A major source of oxide of nitrogen is from the burning of (JAMB 2015)",
+    "questionText": "A major source of oxide of nitrogen is from the burning of",
     "options": [
       "coal",
       "wood",
@@ -16081,7 +16081,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-721-742",
-    "questionText": "In the graph above, y represents  (JAMB 2024)",
+    "questionText": "In the graph above, y represents",
     "options": [
       "endothermic reaction",
       "activation energy",
@@ -16093,7 +16093,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-722-519",
-    "questionText": "Which of the following is a set of neutral oxides? (JAMB 2019)",
+    "questionText": "Which of the following is a set of neutral oxides?",
     "options": [
       "N₂O, H₂O, CO",
       "N₂O, SO₂, CO",
@@ -16105,7 +16105,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-723-728",
-    "questionText": "The number of geometrical isomers of butene are (JAMB 2024)",
+    "questionText": "The number of geometrical isomers of butene are",
     "options": [
       "2",
       "3",
@@ -16117,7 +16117,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-724-738",
-    "questionText": "The chemical formula for potassiumhexacyanoferrate(II) is (JAMB 2024)",
+    "questionText": "The chemical formula for potassiumhexacyanoferrate(II) is",
     "options": [
       "[Fe(CN)₆]⁴⁻",
       "K₃Fe(CN)₆",
@@ -16129,7 +16129,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-725-107",
-    "questionText": "Which of the following statements is true of sulphur (IV) oxide (JAMB 2003)",
+    "questionText": "Which of the following statements is true of sulphur (IV) oxide",
     "options": [
       "It forms Tetraoxosulphate (VI) acid with water",
       "It is an odourless gas",
@@ -16141,7 +16141,7 @@ export const chemistryQuestions = [
   },
   {
     "id": "chemistry-1788729079896-726-273",
-    "questionText": "Calculate the solubility in mol dm -3 of 40g of Cu So4 dissolved in 100g of water at 1200C  {Cu = 64, S = 32, 0 = 16} (JAMB 2010)",
+    "questionText": "Calculate the solubility in mol dm -3 of 40g of Cu So4 dissolved in 100g of water at 1200C  {Cu = 64, S = 32, 0 = 16}",
     "options": [
       "2.5",
       "0.4",
