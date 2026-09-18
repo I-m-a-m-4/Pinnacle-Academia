@@ -259,9 +259,9 @@ export default function ManageMockExamPage() {
                 Share this direct link with your students for this specific exam event. It is hidden from the main site.
               </p>
               <div className="flex gap-2">
-                <Input readOnly value={`${window.location.origin}/mock-exam/${exam.id}`} className="bg-muted" />
+                <Input readOnly value={`https://pinnacleacademia.com/mock-exam/${exam.id}`} className="bg-muted" />
                 <Button variant="secondary" onClick={() => {
-                  navigator.clipboard.writeText(`${window.location.origin}/mock-exam/${exam.id}`);
+                  navigator.clipboard.writeText(`https://pinnacleacademia.com/mock-exam/${exam.id}`);
                   toast({ title: 'Copied!' });
                 }}>Copy</Button>
               </div>
