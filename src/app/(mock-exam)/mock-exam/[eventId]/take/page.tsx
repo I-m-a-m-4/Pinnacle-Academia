@@ -371,35 +371,44 @@ export default function TakeMockExamPage() {
             </div>
           </div>
 
-          {activeSubject?.questions.map((q, index) => (
-            <Card key={q.id} id={`question-${q.id}`} className="p-6 scroll-m-24 shadow-sm border-t-4 border-t-primary/20">
-              <div className="flex gap-4">
-                <div className="font-bold text-lg text-primary">{index + 1}.</div>
-                <div className="flex-1 space-y-4">
-                  <div className="text-lg font-medium" dangerouslySetInnerHTML={{ __html: q.questionText }} />
-                  
-                  <RadioGroup 
-                    value={answers[q.id] || ''} 
-                    onValueChange={(val) => setAnswers(prev => ({...prev, [q.id]: val}))}
-                  >
-                    <div className="space-y-3 mt-4">
-                      {q.options.map((opt, optIdx) => {
-                        const letter = String.fromCharCode(65 + optIdx); // A, B, C, D
-                        return (
-                          <div key={optIdx} className="flex items-start space-x-3 bg-muted/30 p-3 rounded-md hover:bg-muted/50 transition-colors">
-                            <RadioGroupItem value={letter} id={`${q.id}-${letter}`} className="mt-1" />
-                              <Label htmlFor={`${q.id}-${letter}`} className="text-base cursor-pointer leading-normal flex-1 font-normal">
-                                <span className="font-semibold mr-2">{letter}.</span> <span dangerouslySetInnerHTML={{ __html: opt }} />
-                              </Label>
-                          </div>
-                        );
-                      })}
-                    </div>
-                  </RadioGroup>
+          {(() => {
+            const sanitizeText = (text: string) => {
+              if (!text) return '';
+              let sanitized = text.replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+              sanitized = sanitized.replace(/\s*[\[\(]?\s*JAMB\s*,?\s*\d{4}\s*[\]\)]?/gi, '');
+              return sanitized;
+            };
+            
+            return activeSubject?.questions.map((q, index) => (
+              <Card key={q.id} id={`question-${q.id}`} className="p-6 scroll-m-24 shadow-sm border-t-4 border-t-primary/20">
+                <div className="flex gap-4">
+                  <div className="font-bold text-lg text-primary">{index + 1}.</div>
+                  <div className="flex-1 space-y-4">
+                    <div className="text-lg font-medium" dangerouslySetInnerHTML={{ __html: sanitizeText(q.questionText) }} />
+                    
+                    <RadioGroup 
+                      value={answers[q.id] || ''} 
+                      onValueChange={(val) => setAnswers(prev => ({...prev, [q.id]: val}))}
+                    >
+                      <div className="space-y-3 mt-4">
+                        {q.options.map((opt, optIdx) => {
+                          const letter = String.fromCharCode(65 + optIdx); // A, B, C, D
+                          return (
+                            <div key={optIdx} className="flex items-start space-x-3 bg-muted/30 p-3 rounded-md hover:bg-muted/50 transition-colors">
+                              <RadioGroupItem value={letter} id={`${q.id}-${letter}`} className="mt-1" />
+                                <Label htmlFor={`${q.id}-${letter}`} className="text-base cursor-pointer leading-normal flex-1 font-normal">
+                                  <span className="font-semibold mr-2">{letter}.</span> <span dangerouslySetInnerHTML={{ __html: sanitizeText(opt) }} />
+                                </Label>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    </RadioGroup>
+                  </div>
                 </div>
-              </div>
-            </Card>
-          ))}
+              </Card>
+            ));
+          })()}
           
           {activeSubject?.questions?.length === 0 && (
             <div className="text-center py-12 text-muted-foreground">

@@ -422,6 +422,13 @@ export default function ActiveTestPage() {
         setIsQuitDialogOpen(true);
     };
 
+    const sanitizeText = (text: string) => {
+        if (!text) return '';
+        let sanitized = text.replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+        sanitized = sanitized.replace(/\s*[\[\(]?\s*JAMB\s*,?\s*\d{4}\s*[\]\)]?/gi, '');
+        return sanitized;
+    };
+
     const confirmQuitExam = () => {
         if (botIntervalId) clearInterval(botIntervalId);
         sessionStorage.removeItem('active_exam_session');
