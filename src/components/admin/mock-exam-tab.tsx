@@ -13,6 +13,7 @@ import { MockExamEvent } from '@/types';
 import { useUser } from '@/firebase';
 import { toast } from '@/hooks/use-toast';
 import { format } from 'date-fns';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 
 export default function MockExamTab() {
   const [selectedEventId, setSelectedEventId] = useState<string | null>(null);
@@ -168,6 +169,7 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
   const [saving, setSaving] = useState(false);
   const [addingSubject, setAddingSubject] = useState(false);
   const [selectedSubject, setSelectedSubject] = useState('');
+  const [selectedCategory, setSelectedCategory] = useState('Science');
 
   const [title, setTitle] = useState('');
   const [startTimeStr, setStartTimeStr] = useState('');
@@ -306,9 +308,12 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
                 questions = (await import('@/app/(app)/cbt-simulator/data/history')).historyQuestions; break;
       }
 
-      const existingSubjects = exam.subjects || [];
+      const categorySubjects = exam.categorySubjects || { Art: [], Science: [], Commercial: [] };
+      const targetCategory = selectedCategory as 'Art' | 'Science' | 'Commercial';
+      const existingSubjects = categorySubjects[targetCategory] || [];
+      
       if (existingSubjects.find((s: any) => s.name === selectedSubject)) {
-        toast({ title: 'Error', description: 'Subject already added.', variant: 'destructive' });
+        toast({ title: 'Error', description: `Subject already added to ${targetCategory}.`, variant: 'destructive' });
         setAddingSubject(false);
         return;
       }
@@ -321,8 +326,13 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
         questions: shuffledQuestions.slice(0, 10)
       };
 
+      const updatedCategorySubjects = {
+        ...categorySubjects,
+        [targetCategory]: [...existingSubjects, newSubjectData]
+      };
+
       await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
-          subjects: [...existingSubjects, newSubjectData]
+          categorySubjects: updatedCategorySubjects
       });
       
       toast({ title: 'Success', description: `${selectedSubject} added to mock exam!` });
@@ -335,13 +345,21 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
     }
   };
 
-  const handleRemoveSubject = async (subjectId: string) => {
+  const handleRemoveSubject = async (category: string, subjectId: string) => {
     if (!academy || !exam) return;
-    if (!confirm('Are you sure you want to remove this subject?')) return;
+    if (!confirm(`Are you sure you want to remove this subject from ${category}?`)) return;
     try {
-      const newSubjects = (exam.subjects || []).filter((s: any) => s.id !== subjectId);
+      const categorySubjects = exam.categorySubjects || { Art: [], Science: [], Commercial: [] };
+      const currentList = categorySubjects[category as keyof typeof categorySubjects] || [];
+      const newSubjects = currentList.filter((s: any) => s.id !== subjectId);
+      
+      const updatedCategorySubjects = {
+        ...categorySubjects,
+        [category]: newSubjects
+      };
+
       await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
-        subjects: newSubjects
+        categorySubjects: updatedCategorySubjects
       });
       toast({ title: 'Success', description: 'Subject removed.' });
     } catch (error) {
@@ -359,17 +377,41 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
       const { aptitudeQuestions } = await import('@/app/(app)/cbt-simulator/data/aptitude');
       const { governmentQuestions } = await import('@/app/(app)/cbt-simulator/data/government');
 
+      const { physicsQuestions } = await import('@/app/(app)/cbt-simulator/data/physics');
+      const { chemistryQuestions } = await import('@/app/(app)/cbt-simulator/data/chemistry');
+      const { biologyQuestions } = await import('@/app/(app)/cbt-simulator/data/biology');
+      const { literatureQuestions } = await import('@/app/(app)/cbt-simulator/data/literature');
+      const { accountingQuestions } = await import('@/app/(app)/cbt-simulator/data/accounting');
+      const { commerceQuestions } = await import('@/app/(app)/cbt-simulator/data/commerce');
+
       const getShuffled10 = (arr: any[]) => [...arr].sort(() => 0.5 - Math.random()).slice(0, 10);
 
-      const defaultSubjects = [
+      const commonSubjects = [
         { id: 'use-of-english', name: 'Use of English', questions: getShuffled10(englishQuestions) },
         { id: 'mathematics', name: 'Mathematics', questions: getShuffled10(mathematicsQuestions) },
-        { id: 'aptitude-test', name: 'Aptitude Test', questions: getShuffled10(aptitudeQuestions) },
-        { id: 'government', name: 'Government', questions: getShuffled10(governmentQuestions) }
+        { id: 'aptitude-test', name: 'Aptitude Test', questions: getShuffled10(aptitudeQuestions) }
       ];
 
+      const categorySubjects = {
+        Science: [
+          ...commonSubjects,
+          { id: 'physics', name: 'Physics', questions: getShuffled10(physicsQuestions) },
+          { id: 'chemistry', name: 'Chemistry', questions: getShuffled10(chemistryQuestions) }
+        ],
+        Art: [
+          ...commonSubjects,
+          { id: 'government', name: 'Government', questions: getShuffled10(governmentQuestions) },
+          { id: 'literature', name: 'Literature in English', questions: getShuffled10(literatureQuestions) }
+        ],
+        Commercial: [
+          ...commonSubjects,
+          { id: 'accounting', name: 'Financial Accounting', questions: getShuffled10(accountingQuestions) },
+          { id: 'commerce', name: 'Commerce', questions: getShuffled10(commerceQuestions) }
+        ]
+      };
+
       await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
-          subjects: defaultSubjects
+          categorySubjects
       });
       
       toast({ title: 'Success', description: `Default subjects seeded successfully!` });
@@ -509,42 +551,70 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
           <Button variant="outline" onClick={handleQuickSeedDefault} disabled={addingSubject}>Seed Default Subjects</Button>
         </CardHeader>
         <CardContent>
-          <div className="flex gap-4 mb-6">
-            <select 
-              className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background"
-              value={selectedSubject} 
-              onChange={e => setSelectedSubject(e.target.value)}
-            >
-              <option value="">-- Select a subject to add --</option>
-              {AVAILABLE_SUBJECTS.map(sub => (
-                <option key={sub} value={sub}>{sub}</option>
-              ))}
-            </select>
-            <Button onClick={handleAddSubject} disabled={addingSubject || !selectedSubject}>
-              {addingSubject ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Plus className="mr-2 h-4 w-4" />}
-              Add Subject
-            </Button>
+          <div className="flex flex-col md:flex-row gap-4 mb-6 bg-muted/30 p-4 rounded-lg">
+            <div className="flex-1">
+              <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Category</Label>
+              <Select value={selectedCategory} onValueChange={setSelectedCategory}>
+                <SelectTrigger>
+                  <SelectValue placeholder="Select category" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="Science">Science Category</SelectItem>
+                  <SelectItem value="Art">Art Category</SelectItem>
+                  <SelectItem value="Commercial">Commercial Category</SelectItem>
+                </SelectContent>
+              </Select>
+            </div>
+            <div className="flex-1">
+              <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Subject</Label>
+              <Select value={selectedSubject} onValueChange={setSelectedSubject}>
+                <SelectTrigger>
+                  <SelectValue placeholder="Select subject" />
+                </SelectTrigger>
+                <SelectContent>
+                  {AVAILABLE_SUBJECTS.map(sub => (
+                    <SelectItem key={sub} value={sub}>{sub}</SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
+            <div className="flex items-end">
+              <Button onClick={handleAddSubject} disabled={addingSubject || !selectedSubject} className="w-full md:w-auto">
+                {addingSubject ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Plus className="mr-2 h-4 w-4" />}
+                Add to {selectedCategory}
+              </Button>
+            </div>
           </div>
 
-          {exam.subjects?.length > 0 ? (
-            <div className="space-y-4">
-              {exam.subjects.map((subject: any) => (
-                <div key={subject.id} className="border p-4 rounded-md flex justify-between items-center bg-card">
-                  <div>
-                    <h3 className="font-semibold text-lg">{subject.name}</h3>
-                    <p className="text-sm text-muted-foreground">{subject.questions.length} Questions</p>
-                  </div>
-                  <Button variant="ghost" size="sm" onClick={() => handleRemoveSubject(subject.id)} className="text-red-500 hover:text-red-600 hover:bg-red-50">
-                    <Trash2 className="h-4 w-4" />
-                  </Button>
+          <div className="grid md:grid-cols-3 gap-6">
+            {['Science', 'Art', 'Commercial'].map(category => {
+              const subjects = (exam.categorySubjects && exam.categorySubjects[category as keyof typeof exam.categorySubjects]) || [];
+              return (
+                <div key={category} className="space-y-4">
+                  <h3 className="font-semibold text-lg border-b pb-2">{category} Subjects</h3>
+                  {subjects.length > 0 ? (
+                    <div className="space-y-3">
+                      {subjects.map((subject: any) => (
+                        <div key={subject.id} className="border p-3 rounded-md flex justify-between items-center bg-card shadow-sm">
+                          <div>
+                            <p className="font-medium text-sm">{subject.name}</p>
+                            <p className="text-xs text-muted-foreground">{subject.questions.length} Questions</p>
+                          </div>
+                          <Button variant="ghost" size="sm" onClick={() => handleRemoveSubject(category, subject.id)} className="text-red-500 hover:text-red-600 hover:bg-red-50 h-8 w-8 p-0">
+                            <Trash2 className="h-4 w-4" />
+                          </Button>
+                        </div>
+                      ))}
+                    </div>
+                  ) : (
+                    <p className="text-muted-foreground text-sm py-4 text-center border rounded-md border-dashed">
+                      No subjects added.
+                    </p>
+                  )}
                 </div>
-              ))}
-            </div>
-          ) : (
-            <p className="text-muted-foreground py-8 text-center border rounded-md border-dashed">
-              No subjects added yet. Select a subject above and click "Add Subject".
-            </p>
-          )}
+              );
+            })}
+          </div>
         </CardContent>
       </Card>
     </div>

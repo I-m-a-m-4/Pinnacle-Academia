@@ -28,6 +28,8 @@ export default function TakeMockExamPage() {
   
   const [timeLeft, setTimeLeft] = useState<number>(0);
   const [submitting, setSubmitting] = useState(false);
+  const [isFullscreen, setIsFullscreen] = useState(false);
+  const strikesRef = useRef(0);
 
   // Load exam and student data
   useEffect(() => {
@@ -65,6 +67,10 @@ export default function TakeMockExamPage() {
           return;
         }
 
+        const category = sessionStorage.getItem(`mock_exam_${eventId}_category`) || 'Science';
+        const categorySubjects = data.categorySubjects?.[category as keyof typeof data.categorySubjects] || [];
+        data.subjects = categorySubjects;
+
         setExam(data);
         if (data.subjects && data.subjects.length > 0) {
           setActiveSubjectId(data.subjects[0].id);
@@ -95,7 +101,7 @@ export default function TakeMockExamPage() {
 
   // Timer Countdown Effect
   useEffect(() => {
-    if (loading || !exam || timeLeft <= 0 || submitting) return;
+    if (loading || !exam || timeLeft <= 0 || submitting || !isFullscreen) return;
 
     const timerId = setInterval(() => {
       setTimeLeft(prev => {
@@ -109,7 +115,72 @@ export default function TakeMockExamPage() {
     }, 1000);
 
     return () => clearInterval(timerId);
-  }, [loading, exam, timeLeft, submitting]);
+  }, [loading, exam, timeLeft, submitting, isFullscreen]);
+
+  // Anti-Cheat Features
+  useEffect(() => {
+    if (loading || !exam || submitting) return;
+
+    // 1. Disable Context Menu
+    const handleContextMenu = (e: MouseEvent) => {
+      e.preventDefault();
+      toast({ title: 'Action Blocked', description: 'Right-click is disabled during the exam.', variant: 'destructive' });
+    };
+
+    // 2. Disable Copying
+    const handleCopy = (e: ClipboardEvent) => {
+      e.preventDefault();
+      toast({ title: 'Action Blocked', description: 'Copying text is disabled during the exam.', variant: 'destructive' });
+    };
+
+    // 3. Page Visibility (Tab Switching)
+    const handleVisibilityChange = () => {
+      if (document.visibilityState === 'hidden') {
+        strikesRef.current += 1;
+        if (strikesRef.current >= 3) {
+          toast({ title: 'Exam Terminated', description: 'You have left the exam tab too many times. Your exam is being submitted.', variant: 'destructive' });
+          submitExam();
+        } else {
+          toast({ 
+            title: 'Warning!', 
+            description: `You left the exam tab. This is strike ${strikesRef.current}/3. Your exam will be submitted automatically on the 3rd strike.`, 
+            variant: 'destructive',
+            duration: 10000 
+          });
+        }
+      }
+    };
+
+    // 4. Fullscreen Tracking
+    const handleFullscreenChange = () => {
+      if (!document.fullscreenElement) {
+        setIsFullscreen(false);
+        toast({ title: 'Warning', description: 'You have exited full-screen mode. Enter full-screen to continue your exam.', variant: 'destructive' });
+      } else {
+        setIsFullscreen(true);
+      }
+    };
+
+    document.addEventListener('contextmenu', handleContextMenu);
+    document.addEventListener('copy', handleCopy);
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+    document.addEventListener('fullscreenchange', handleFullscreenChange);
+
+    return () => {
+      document.removeEventListener('contextmenu', handleContextMenu);
+      document.removeEventListener('copy', handleCopy);
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
+      document.removeEventListener('fullscreenchange', handleFullscreenChange);
+    };
+  }, [loading, exam, submitting]);
+
+  const enterFullscreen = () => {
+    document.documentElement.requestFullscreen().catch(e => {
+      console.log(e);
+      // Fallback if unsupported
+    });
+    setIsFullscreen(true);
+  };
 
   const handleAutoSubmit = () => {
     toast({ title: 'Time Up!', description: 'Your exam is automatically being submitted.' });
@@ -189,10 +260,27 @@ export default function TakeMockExamPage() {
 
   if (!exam) return null;
 
+  if (!isFullscreen && !loading) {
+     return (
+        <div className="flex flex-col items-center justify-center min-h-[calc(100vh-64px)] p-4 bg-muted/30">
+          <Card className="max-w-md w-full text-center p-6 shadow-xl border-t-4 border-t-yellow-500">
+            <AlertTriangle className="h-16 w-16 text-yellow-500 mx-auto mb-4" />
+            <h2 className="text-2xl font-bold mb-2">Strict Exam Environment</h2>
+            <p className="text-muted-foreground mb-6">
+              This exam requires full-screen mode. Leaving the tab or exiting full-screen may result in automatic submission. Do not attempt to copy text or open other applications.
+            </p>
+            <Button size="lg" className="w-full text-lg h-14 bg-primary text-white hover:bg-primary/90" onClick={enterFullscreen}>
+              Enter Fullscreen & Continue
+            </Button>
+          </Card>
+        </div>
+     );
+  }
+
   const activeSubject = exam.subjects?.find(s => s.id === activeSubjectId);
 
   return (
-    <div className="flex h-[calc(100vh-64px)] overflow-hidden">
+    <div className="flex h-[calc(100vh-64px)] overflow-hidden select-none">
       {/* Sidebar */}
       <div className="w-64 bg-white dark:bg-gray-900 border-r flex flex-col shrink-0">
         <div className="p-4 border-b flex flex-col items-center bg-gray-50 dark:bg-gray-800">
@@ -206,23 +294,46 @@ export default function TakeMockExamPage() {
         <div className="flex-1 overflow-y-auto p-2 space-y-1">
           <div className="text-xs font-semibold text-muted-foreground uppercase tracking-wider p-2">Subjects</div>
           {exam.subjects?.map(subject => (
-            <button
-              key={subject.id}
-              onClick={() => setActiveSubjectId(subject.id)}
-              className={`w-full text-left px-3 py-3 rounded-md text-sm font-medium transition-colors ${
-                activeSubjectId === subject.id 
-                  ? 'bg-primary text-primary-foreground' 
-                  : 'hover:bg-muted text-foreground'
-              }`}
-            >
-              <div className="flex justify-between items-center">
-                <span>{subject.name}</span>
-                {/* Visual indicator of answered questions */}
-                <span className="text-xs opacity-70">
-                  {subject.questions.filter(q => answers[q.id]).length}/{subject.questions.length}
-                </span>
-              </div>
-            </button>
+            <div key={subject.id} className="mb-2">
+              <button
+                onClick={() => setActiveSubjectId(subject.id)}
+                className={`w-full text-left px-3 py-3 rounded-md text-sm font-medium transition-colors ${
+                  activeSubjectId === subject.id 
+                    ? 'bg-primary text-primary-foreground' 
+                    : 'hover:bg-muted text-foreground'
+                }`}
+              >
+                <div className="flex justify-between items-center">
+                  <span>{subject.name}</span>
+                  {/* Visual indicator of answered questions */}
+                  <span className="text-xs opacity-70">
+                    {subject.questions.filter((q: any) => answers[q.id]).length}/{subject.questions.length}
+                  </span>
+                </div>
+              </button>
+
+              {/* Question Navigator Grid for Active Subject */}
+              {activeSubjectId === subject.id && (
+                <div className="grid grid-cols-5 gap-1 mt-2 p-1">
+                   {subject.questions.map((q: any, idx: number) => {
+                      const isAnswered = !!answers[q.id];
+                      return (
+                         <Button
+                           key={q.id}
+                           variant={isAnswered ? 'default' : 'outline'}
+                           size="sm"
+                           className={`h-8 w-8 p-0 text-xs font-semibold ${isAnswered ? 'bg-primary text-primary-foreground' : 'text-muted-foreground hover:bg-muted/80 border-dashed'}`}
+                           onClick={() => {
+                             document.getElementById(`question-${q.id}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                           }}
+                         >
+                           {idx + 1}
+                         </Button>
+                      )
+                   })}
+                </div>
+              )}
+            </div>
           ))}
         </div>
 
@@ -253,7 +364,7 @@ export default function TakeMockExamPage() {
           </div>
 
           {activeSubject?.questions.map((q, index) => (
-            <Card key={q.id} className="p-6">
+            <Card key={q.id} id={`question-${q.id}`} className="p-6 scroll-m-24 shadow-sm border-t-4 border-t-primary/20">
               <div className="flex gap-4">
                 <div className="font-bold text-lg text-primary">{index + 1}.</div>
                 <div className="flex-1 space-y-4">
