@@ -351,9 +351,7 @@ export default function TakeMockExamPage() {
           <Button 
             className="w-full bg-red-600 hover:bg-red-700 text-white" 
             onClick={() => {
-              if (confirm('Are you sure you want to submit? You cannot return to the exam.')) {
-                submitExam();
-              }
+              submitExam();
             }}
             disabled={submitting}
           >
@@ -378,7 +376,7 @@ export default function TakeMockExamPage() {
               <div className="flex gap-4">
                 <div className="font-bold text-lg text-primary">{index + 1}.</div>
                 <div className="flex-1 space-y-4">
-                  <p className="text-lg font-medium">{q.questionText}</p>
+                  <div className="text-lg font-medium" dangerouslySetInnerHTML={{ __html: q.questionText }} />
                   
                   <RadioGroup 
                     value={answers[q.id] || ''} 
@@ -390,9 +388,9 @@ export default function TakeMockExamPage() {
                         return (
                           <div key={optIdx} className="flex items-start space-x-3 bg-muted/30 p-3 rounded-md hover:bg-muted/50 transition-colors">
                             <RadioGroupItem value={letter} id={`${q.id}-${letter}`} className="mt-1" />
-                            <Label htmlFor={`${q.id}-${letter}`} className="text-base cursor-pointer leading-normal flex-1 font-normal">
-                              <span className="font-semibold mr-2">{letter}.</span> {opt}
-                            </Label>
+                              <Label htmlFor={`${q.id}-${letter}`} className="text-base cursor-pointer leading-normal flex-1 font-normal">
+                                <span className="font-semibold mr-2">{letter}.</span> <span dangerouslySetInnerHTML={{ __html: opt }} />
+                              </Label>
                           </div>
                         );
                       })}

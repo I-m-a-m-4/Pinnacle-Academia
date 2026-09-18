@@ -530,7 +530,7 @@ export default function ActiveTestPage() {
                                                     <Badge variant="outline" className="bg-slate-500/10 border-slate-500/20 text-slate-600 text-[10px]">Unanswered</Badge>
                                                 )}
                                             </div>
-                                            <p className="text-sm font-medium leading-relaxed">{q.questionText}</p>
+                                            <div className="text-sm font-medium leading-relaxed" dangerouslySetInnerHTML={{ __html: q.questionText }} />
                                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
                                                 {q.options.map((opt: string, optIdx: number) => {
                                                     const letter = String.fromCharCode(65 + optIdx);
@@ -542,7 +542,7 @@ export default function ActiveTestPage() {
                                                             isOptCorrect && "bg-green-500/10 border-green-500/30 text-green-600 font-medium",
                                                             isOptChosen && !isOptCorrect && "bg-red-500/10 border-red-500/30 text-red-600"
                                                         )}>
-                                                            <strong className="mr-1.5">{letter}.</strong> {opt}
+                                                            <strong className="mr-1.5">{letter}.</strong> <span dangerouslySetInnerHTML={{ __html: opt }} />
                                                         </div>
                                                     );
                                                 })}
@@ -668,9 +668,7 @@ export default function ActiveTestPage() {
                         </Button>
                     </CardHeader>
                     <CardContent className="p-0 flex-1 flex flex-col justify-center space-y-6 py-4">
-                        <p className="text-base sm:text-lg font-semibold leading-relaxed text-foreground/90">
-                            {currentQuestion ? currentQuestion.questionText : 'No question text provided.'}
-                        </p>
+                        <div className="text-base sm:text-lg font-semibold leading-relaxed text-foreground/90" dangerouslySetInnerHTML={{ __html: currentQuestion ? currentQuestion.questionText : 'No question text provided.' }} />
 
                         <div className="grid grid-cols-1 gap-3">
                             {currentQuestion?.options.map((opt: string, optIdx: number) => {
@@ -695,7 +693,7 @@ export default function ActiveTestPage() {
                                         )}>
                                             {letter}
                                         </span>
-                                        <span className="flex-1">{opt}</span>
+                                        <span className="flex-1" dangerouslySetInnerHTML={{ __html: opt }} />
                                     </button>
                                 );
                             })}
