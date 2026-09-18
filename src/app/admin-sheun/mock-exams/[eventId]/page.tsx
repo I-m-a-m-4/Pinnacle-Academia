@@ -12,7 +12,7 @@ import { Loader2, ArrowLeft, Save, Trash2, Plus, Ban } from 'lucide-react';
 import Link from 'next/link';
 import { useParams, useRouter } from 'next/navigation';
 import { MockExamEvent, MockExamSubject, MockExamQuestion } from '@/types';
-import { toast } from '@/components/ui/use-toast';
+import { toast } from '@/hooks/use-toast';
 
 export default function ManageMockExamPage() {
   const { academy } = useAcademy();

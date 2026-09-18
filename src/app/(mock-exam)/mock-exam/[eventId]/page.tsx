@@ -11,7 +11,7 @@ import { Label } from '@/components/ui/label';
 import { Loader2, AlertCircle, Clock } from 'lucide-react';
 import { useParams, useRouter } from 'next/navigation';
 import { MockExamEvent } from '@/types';
-import { toast } from '@/components/ui/use-toast';
+import { toast } from '@/hooks/use-toast';
 
 export default function MockExamLandingPage() {
   const { academy } = useAcademy();
