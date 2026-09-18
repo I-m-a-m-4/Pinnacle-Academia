@@ -74,6 +74,11 @@ export default function MockExamLandingPage() {
       return;
     }
 
+    if (exam?.completedEmails?.includes(studentEmail.trim())) {
+      toast({ title: 'Already Completed', description: 'You have already completed this exam and cannot retake it.', variant: 'destructive' });
+      return;
+    }
+
     // Save student details to sessionStorage for the /take page
     sessionStorage.setItem(`mock_exam_${eventId}_student`, JSON.stringify({ name: studentName, email: studentEmail }));
     router.push(`/mock-exam/${eventId}/take`);

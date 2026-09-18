@@ -350,6 +350,37 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
     }
   };
 
+  const handleQuickSeedDefault = async () => {
+    if (!academy || !exam) return;
+    setAddingSubject(true);
+    try {
+      const { englishQuestions } = await import('@/app/(app)/cbt-simulator/data/use-of-english');
+      const { mathematicsQuestions } = await import('@/app/(app)/cbt-simulator/data/mathematics');
+      const { aptitudeQuestions } = await import('@/app/(app)/cbt-simulator/data/aptitude');
+      const { governmentQuestions } = await import('@/app/(app)/cbt-simulator/data/government');
+
+      const getShuffled10 = (arr: any[]) => [...arr].sort(() => 0.5 - Math.random()).slice(0, 10);
+
+      const defaultSubjects = [
+        { id: 'use-of-english', name: 'Use of English', questions: getShuffled10(englishQuestions) },
+        { id: 'mathematics', name: 'Mathematics', questions: getShuffled10(mathematicsQuestions) },
+        { id: 'aptitude-test', name: 'Aptitude Test', questions: getShuffled10(aptitudeQuestions) },
+        { id: 'government', name: 'Government', questions: getShuffled10(governmentQuestions) }
+      ];
+
+      await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
+          subjects: defaultSubjects
+      });
+      
+      toast({ title: 'Success', description: `Default subjects seeded successfully!` });
+    } catch(e) {
+      console.error(e);
+      toast({ title: 'Error', description: 'Failed to seed subjects', variant: 'destructive' });
+    } finally {
+      setAddingSubject(false);
+    }
+  };
+
   if (loading) {
     return <div className="flex justify-center py-20"><Loader2 className="h-8 w-8 animate-spin" /></div>;
   }
@@ -475,6 +506,7 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
             <CardTitle>Exam Subjects & Questions</CardTitle>
             <CardDescription>Select and add subjects to this mock exam dynamically.</CardDescription>
           </div>
+          <Button variant="outline" onClick={handleQuickSeedDefault} disabled={addingSubject}>Seed Default Subjects</Button>
         </CardHeader>
         <CardContent>
           <div className="flex gap-4 mb-6">

@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { doc, getDoc, collection, addDoc, serverTimestamp } from 'firebase/firestore';
+import { doc, getDoc, collection, addDoc, serverTimestamp, updateDoc, arrayUnion } from 'firebase/firestore';
 import { db } from '@/firebase';
 import { useAcademy } from '@/context/academy-context';
 import { Button } from '@/components/ui/button';
@@ -55,6 +55,12 @@ export default function TakeMockExamPage() {
 
         if (data.bannedEmails?.includes(studentData.email)) {
           toast({ title: 'Banned', description: 'You are banned from this exam.', variant: 'destructive' });
+          router.replace(`/mock-exam/${eventId}`);
+          return;
+        }
+
+        if (data.completedEmails?.includes(studentData.email)) {
+          toast({ title: 'Already Completed', description: 'You have already submitted this exam and cannot retake it.', variant: 'destructive' });
           router.replace(`/mock-exam/${eventId}`);
           return;
         }
@@ -147,6 +153,11 @@ export default function TakeMockExamPage() {
     try {
       // Save to Firestore
       const docRef = await addDoc(collection(db, 'academies', academy.id, 'mockExams', exam.id, 'submissions'), submissionData);
+      
+      // Record that they completed it
+      await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
+        completedEmails: arrayUnion(student.email)
+      });
       
       // Save results to session for immediate viewing
       sessionStorage.setItem(`mock_exam_${eventId}_result`, JSON.stringify({
