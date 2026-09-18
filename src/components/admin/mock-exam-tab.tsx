@@ -13,6 +13,8 @@ import { MockExamEvent } from '@/types';
 import { useUser } from '@/firebase';
 import { toast } from '@/hooks/use-toast';
 import { format } from 'date-fns';
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from '@/components/ui/dialog';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 
 export default function MockExamTab() {
@@ -162,37 +164,20 @@ function MockExamList({ onSelectEvent }: { onSelectEvent: (id: string) => void }
   );
 }
 
+const FIXED_SUBJECTS = [
+  'Use of English', 'Mathematics', 'Physics', 'Chemistry', 'Biology',
+  'Literature in English', 'Government', 'Economics', 'Financial Accounting',
+  'Commerce', 'Christian Religious Studies', 'Islamic Religious Studies',
+  'Aptitude Test', 'Geography', 'Agricultural Science', 'Civic Education',
+  'Insurance', 'Current Affairs', 'History'
+];
+
 function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () => void }) {
   const { academy } = useAcademy();
   const [exam, setExam] = useState<MockExamEvent | null>(null);
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
-  const [addingSubject, setAddingSubject] = useState(false);
-  const [selectedSubject, setSelectedSubject] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState('Science');
-  const [questionSource, setQuestionSource] = useState<'database' | 'custom'>('database');
-  const [customQuestions, setCustomQuestions] = useState<any[]>([]);
-
-  const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const file = e.target.files?.[0];
-    if (!file) return;
-
-    const reader = new FileReader();
-    reader.onload = (event) => {
-      try {
-        const json = JSON.parse(event.target?.result as string);
-        if (Array.isArray(json) && json.length > 0 && json[0].questionText && json[0].options && json[0].correctAnswer) {
-          setCustomQuestions(json);
-          toast({ title: 'Success', description: `Loaded ${json.length} custom questions.` });
-        } else {
-          toast({ title: 'Error', description: 'Invalid JSON format. Make sure it contains questionText, options, and correctAnswer.', variant: 'destructive' });
-        }
-      } catch (err) {
-        toast({ title: 'Error', description: 'Failed to parse JSON file.', variant: 'destructive' });
-      }
-    };
-    reader.readAsText(file);
-  };
+  const [updatingSubject, setUpdatingSubject] = useState(false);
 
   const [title, setTitle] = useState('');
   const [startTimeStr, setStartTimeStr] = useState('');
@@ -200,6 +185,16 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
   const [status, setStatus] = useState<'pending' | 'active' | 'completed'>('pending');
   const [showResults, setShowResults] = useState(false);
   const [banEmail, setBanEmail] = useState('');
+
+  // Modal State
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [activeSubject, setActiveSubject] = useState<string | null>(null);
+  
+  // JSON Upload State
+  const [customQuestions, setCustomQuestions] = useState<any[]>([]);
+
+  // Manual Entry State
+  const [manualQuestions, setManualQuestions] = useState([{ questionText: '', options: ['', '', '', ''], correctAnswer: 'A' }]);
 
   useEffect(() => {
     if (!academy || !eventId) return;
@@ -277,184 +272,186 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
     }
   };
 
-  const AVAILABLE_SUBJECTS = [
-    'Use of English', 'Mathematics', 'Physics', 'Chemistry', 'Biology',
-    'Literature in English', 'Government', 'Economics', 'Financial Accounting',
-    'Christian Religious Studies', 'Aptitude Test', 'Geography',
-    'Agricultural Science', 'Commerce', 'Islamic Religious Studies',
-    'Civic Education', 'Insurance', 'Current Affairs', 'History'
-  ];
+  const openModalFor = (subjectName: string) => {
+    setActiveSubject(subjectName);
+    setCustomQuestions([]);
+    setManualQuestions([{ questionText: '', options: ['', '', '', ''], correctAnswer: 'A' }]);
+    setIsModalOpen(true);
+  };
 
-  const handleAddSubject = async () => {
-    if (!academy || !exam || !selectedSubject) return;
-    setAddingSubject(true);
-    try {
-      let questions: any[] = [];
-      
-      if (questionSource === 'custom') {
-        if (customQuestions.length === 0) {
-          toast({ title: 'Error', description: 'Please upload a valid JSON file with custom questions first.', variant: 'destructive' });
-          setAddingSubject(false);
-          return;
+  const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = (event) => {
+      try {
+        const json = JSON.parse(event.target?.result as string);
+        if (Array.isArray(json) && json.length > 0 && json[0].questionText && json[0].options && json[0].correctAnswer) {
+          setCustomQuestions(json);
+          toast({ title: 'Success', description: `Loaded ${json.length} custom questions.` });
+        } else {
+          toast({ title: 'Error', description: 'Invalid JSON format. Make sure it contains questionText, options, and correctAnswer.', variant: 'destructive' });
         }
-        questions = customQuestions;
-      } else {
-        switch (selectedSubject) {
-              case 'Use of English':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/use-of-english')).englishQuestions; break;
-              case 'Mathematics':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/mathematics')).mathematicsQuestions; break;
-              case 'Physics':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/physics')).physicsQuestions; break;
-              case 'Chemistry':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/chemistry')).chemistryQuestions; break;
-              case 'Biology':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/biology')).biologyQuestions; break;
-              case 'Government':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/government')).governmentQuestions; break;
-              case 'Literature in English':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/literature')).literatureQuestions; break;
-              case 'Economics':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/economics')).economicsQuestions; break;
-              case 'Financial Accounting':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/accounting')).accountingQuestions; break;
-              case 'Christian Religious Studies':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/crs')).crsQuestions; break;
-              case 'Aptitude Test':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/aptitude')).aptitudeQuestions; break;
-              case 'Geography':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/geography')).geographyQuestions; break;
-              case 'Agricultural Science':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/agric-science')).agricScienceQuestions; break;
-              case 'Commerce':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/commerce')).commerceQuestions; break;
-              case 'Islamic Religious Studies':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/irk')).irkQuestions; break;
-              case 'Civic Education':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/civic-education')).civicEducationQuestions; break;
-              case 'Insurance':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/insurance')).insuranceQuestions; break;
-              case 'Current Affairs':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/current-affairs')).currentAffairsQuestions; break;
-              case 'History':
-                  questions = (await import('@/app/(app)/cbt-simulator/data/history')).historyQuestions; break;
-        }
+      } catch (err) {
+        toast({ title: 'Error', description: 'Failed to parse JSON file.', variant: 'destructive' });
       }
+    };
+    reader.readAsText(file);
+  };
 
-      const categorySubjects = exam.categorySubjects || { Art: [], Science: [], Commercial: [] };
-      const targetCategory = selectedCategory as 'Art' | 'Science' | 'Commercial';
-      const existingSubjects = categorySubjects[targetCategory] || [];
-      
-      if (existingSubjects.find((s: any) => s.name === selectedSubject)) {
-        toast({ title: 'Error', description: `Subject already added to ${targetCategory}.`, variant: 'destructive' });
-        setAddingSubject(false);
+  const handleAddManualQuestion = () => {
+    setManualQuestions([...manualQuestions, { questionText: '', options: ['', '', '', ''], correctAnswer: 'A' }]);
+  };
+
+  const handleManualQuestionChange = (index: number, field: string, value: string) => {
+    const newQuestions = [...manualQuestions];
+    if (field.startsWith('option-')) {
+      const optIndex = parseInt(field.split('-')[1]);
+      newQuestions[index].options[optIndex] = value;
+    } else {
+      (newQuestions[index] as any)[field] = value;
+    }
+    setManualQuestions(newQuestions);
+  };
+
+  const saveSubjectToDatabase = async (questions: any[]) => {
+    if (!academy || !exam || !activeSubject) return;
+    setUpdatingSubject(true);
+
+    try {
+      const formattedQuestions = questions.map((q, idx) => ({
+        id: `q-${Date.now()}-${idx}`,
+        questionText: q.questionText,
+        options: q.options,
+        correctAnswer: q.correctAnswer
+      }));
+
+      const newSubjectData = {
+        id: activeSubject.toLowerCase().replace(/\s+/g, '-'),
+        name: activeSubject,
+        questions: formattedQuestions
+      };
+
+      const existingSubjects = exam.subjects || [];
+      const updatedSubjects = existingSubjects.filter(s => s.name !== activeSubject);
+      updatedSubjects.push(newSubjectData);
+
+      await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
+        subjects: updatedSubjects
+      });
+
+      toast({ title: 'Success', description: `Saved ${formattedQuestions.length} questions for ${activeSubject}.` });
+      setIsModalOpen(false);
+    } catch (e) {
+      console.error(e);
+      toast({ title: 'Error', description: 'Failed to save subject', variant: 'destructive' });
+    } finally {
+      setUpdatingSubject(false);
+    }
+  };
+
+  const handleSaveManual = () => {
+    // Validate manual questions
+    for (const q of manualQuestions) {
+      if (!q.questionText.trim()) {
+        toast({ title: 'Error', description: 'All questions must have text.', variant: 'destructive' });
         return;
       }
-
-      const shuffledQuestions = [...questions].sort(() => 0.5 - Math.random());
-      
-      const newSubjectData = {
-        id: selectedSubject.toLowerCase().replace(/\s+/g, '-'),
-        name: selectedSubject,
-        questions: shuffledQuestions.slice(0, 10)
-      };
-
-      const updatedCategorySubjects = {
-        ...categorySubjects,
-        [targetCategory]: [...existingSubjects, newSubjectData]
-      };
-
-      await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
-          categorySubjects: updatedCategorySubjects
-      });
-      
-      toast({ title: 'Success', description: `${selectedSubject} added to mock exam!` });
-      setSelectedSubject('');
-    } catch(e) {
-      console.error(e);
-      toast({ title: 'Error', description: 'Failed to add subject', variant: 'destructive' });
-    } finally {
-      setAddingSubject(false);
+      for (const opt of q.options) {
+        if (!opt.trim()) {
+          toast({ title: 'Error', description: 'All options must be filled out.', variant: 'destructive' });
+          return;
+        }
+      }
     }
+    saveSubjectToDatabase(manualQuestions);
   };
 
-  const handleRemoveSubject = async (category: string, subjectId: string) => {
-    if (!academy || !exam) return;
-    if (!confirm(`Are you sure you want to remove this subject from ${category}?`)) return;
+  const handleSaveJson = () => {
+    if (customQuestions.length === 0) {
+      toast({ title: 'Error', description: 'Please upload a valid JSON file first.', variant: 'destructive' });
+      return;
+    }
+    saveSubjectToDatabase(customQuestions);
+  };
+
+  const handleLoadDefaultDatabase = async () => {
+    if (!activeSubject) return;
+    setUpdatingSubject(true);
     try {
-      const categorySubjects = exam.categorySubjects || { Art: [], Science: [], Commercial: [] };
-      const currentList = categorySubjects[category as keyof typeof categorySubjects] || [];
-      const newSubjects = currentList.filter((s: any) => s.id !== subjectId);
+      let questions: any[] = [];
+      switch (activeSubject) {
+        case 'Use of English':
+            questions = (await import('@/app/(app)/cbt-simulator/data/use-of-english')).englishQuestions; break;
+        case 'Mathematics':
+            questions = (await import('@/app/(app)/cbt-simulator/data/mathematics')).mathematicsQuestions; break;
+        case 'Physics':
+            questions = (await import('@/app/(app)/cbt-simulator/data/physics')).physicsQuestions; break;
+        case 'Chemistry':
+            questions = (await import('@/app/(app)/cbt-simulator/data/chemistry')).chemistryQuestions; break;
+        case 'Biology':
+            questions = (await import('@/app/(app)/cbt-simulator/data/biology')).biologyQuestions; break;
+        case 'Government':
+            questions = (await import('@/app/(app)/cbt-simulator/data/government')).governmentQuestions; break;
+        case 'Literature in English':
+            questions = (await import('@/app/(app)/cbt-simulator/data/literature')).literatureQuestions; break;
+        case 'Economics':
+            questions = (await import('@/app/(app)/cbt-simulator/data/economics')).economicsQuestions; break;
+        case 'Financial Accounting':
+            questions = (await import('@/app/(app)/cbt-simulator/data/accounting')).accountingQuestions; break;
+        case 'Christian Religious Studies':
+            questions = (await import('@/app/(app)/cbt-simulator/data/crs')).crsQuestions; break;
+        case 'Aptitude Test':
+            questions = (await import('@/app/(app)/cbt-simulator/data/aptitude')).aptitudeQuestions; break;
+        case 'Geography':
+            questions = (await import('@/app/(app)/cbt-simulator/data/geography')).geographyQuestions; break;
+        case 'Agricultural Science':
+            questions = (await import('@/app/(app)/cbt-simulator/data/agric-science')).agricScienceQuestions; break;
+        case 'Commerce':
+            questions = (await import('@/app/(app)/cbt-simulator/data/commerce')).commerceQuestions; break;
+        case 'Islamic Religious Studies':
+            questions = (await import('@/app/(app)/cbt-simulator/data/irk')).irkQuestions; break;
+        case 'Civic Education':
+            questions = (await import('@/app/(app)/cbt-simulator/data/civic-education')).civicEducationQuestions; break;
+        case 'Insurance':
+            questions = (await import('@/app/(app)/cbt-simulator/data/insurance')).insuranceQuestions; break;
+        case 'Current Affairs':
+            questions = (await import('@/app/(app)/cbt-simulator/data/current-affairs')).currentAffairsQuestions; break;
+        case 'History':
+            questions = (await import('@/app/(app)/cbt-simulator/data/history')).historyQuestions; break;
+      }
       
-      const updatedCategorySubjects = {
-        ...categorySubjects,
-        [category]: newSubjects
-      };
-
-      await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
-        categorySubjects: updatedCategorySubjects
-      });
-      toast({ title: 'Success', description: 'Subject removed.' });
-    } catch (error) {
-      console.error(error);
-      toast({ title: 'Error', description: 'Failed to remove subject.', variant: 'destructive' });
-    }
-  };
-
-  const handleQuickSeedDefault = async () => {
-    if (!academy || !exam) return;
-    setAddingSubject(true);
-    try {
-      const { englishQuestions } = await import('@/app/(app)/cbt-simulator/data/use-of-english');
-      const { mathematicsQuestions } = await import('@/app/(app)/cbt-simulator/data/mathematics');
-      const { aptitudeQuestions } = await import('@/app/(app)/cbt-simulator/data/aptitude');
-      const { governmentQuestions } = await import('@/app/(app)/cbt-simulator/data/government');
-
-      const { physicsQuestions } = await import('@/app/(app)/cbt-simulator/data/physics');
-      const { chemistryQuestions } = await import('@/app/(app)/cbt-simulator/data/chemistry');
-      const { biologyQuestions } = await import('@/app/(app)/cbt-simulator/data/biology');
-      const { literatureQuestions } = await import('@/app/(app)/cbt-simulator/data/literature');
-      const { accountingQuestions } = await import('@/app/(app)/cbt-simulator/data/accounting');
-      const { commerceQuestions } = await import('@/app/(app)/cbt-simulator/data/commerce');
-
-      const getShuffled10 = (arr: any[]) => [...arr].sort(() => 0.5 - Math.random()).slice(0, 10);
-
-      const commonSubjects = [
-        { id: 'use-of-english', name: 'Use of English', questions: getShuffled10(englishQuestions) },
-        { id: 'mathematics', name: 'Mathematics', questions: getShuffled10(mathematicsQuestions) },
-        { id: 'aptitude-test', name: 'Aptitude Test', questions: getShuffled10(aptitudeQuestions) }
-      ];
-
-      const categorySubjects = {
-        Science: [
-          ...commonSubjects,
-          { id: 'physics', name: 'Physics', questions: getShuffled10(physicsQuestions) },
-          { id: 'chemistry', name: 'Chemistry', questions: getShuffled10(chemistryQuestions) }
-        ],
-        Art: [
-          ...commonSubjects,
-          { id: 'government', name: 'Government', questions: getShuffled10(governmentQuestions) },
-          { id: 'literature', name: 'Literature in English', questions: getShuffled10(literatureQuestions) }
-        ],
-        Commercial: [
-          ...commonSubjects,
-          { id: 'accounting', name: 'Financial Accounting', questions: getShuffled10(accountingQuestions) },
-          { id: 'commerce', name: 'Commerce', questions: getShuffled10(commerceQuestions) }
-        ]
-      };
-
-      await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
-          categorySubjects
-      });
-      
-      toast({ title: 'Success', description: `Default subjects seeded successfully!` });
-    } catch(e) {
+      const shuffledQuestions = [...questions].sort(() => 0.5 - Math.random()).slice(0, 10);
+      await saveSubjectToDatabase(shuffledQuestions);
+    } catch (e) {
       console.error(e);
-      toast({ title: 'Error', description: 'Failed to seed subjects', variant: 'destructive' });
-    } finally {
-      setAddingSubject(false);
+      toast({ title: 'Error', description: 'Failed to load default questions', variant: 'destructive' });
+      setUpdatingSubject(false);
     }
   };
+
+  const handleClearSubject = async () => {
+    if (!academy || !exam || !activeSubject) return;
+    if (!confirm(`Are you sure you want to remove all questions for ${activeSubject}?`)) return;
+    setUpdatingSubject(true);
+    try {
+      const existingSubjects = exam.subjects || [];
+      const updatedSubjects = existingSubjects.filter(s => s.name !== activeSubject);
+      
+      await updateDoc(doc(db, 'academies', academy.id, 'mockExams', exam.id), {
+        subjects: updatedSubjects
+      });
+      toast({ title: 'Success', description: 'Subject cleared.' });
+      setIsModalOpen(false);
+    } catch (e) {
+      console.error(e);
+      toast({ title: 'Error', description: 'Failed to clear subject', variant: 'destructive' });
+    } finally {
+      setUpdatingSubject(false);
+    }
+  };
+
 
   if (loading) {
     return <div className="flex justify-center py-20"><Loader2 className="h-8 w-8 animate-spin" /></div>;
@@ -576,107 +573,158 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
       </div>
 
       <Card>
-        <CardHeader className="flex flex-row items-center justify-between">
-          <div>
-            <CardTitle>Exam Subjects & Questions</CardTitle>
-            <CardDescription>Select and add subjects to this mock exam dynamically.</CardDescription>
-          </div>
-          <Button variant="outline" onClick={handleQuickSeedDefault} disabled={addingSubject}>Seed Default Subjects</Button>
+        <CardHeader>
+          <CardTitle>Exam Subjects (Fixed List)</CardTitle>
+          <CardDescription>Click on a subject to add or edit its questions.</CardDescription>
         </CardHeader>
         <CardContent>
-          <div className="flex flex-col gap-4 mb-6 bg-muted/30 p-4 rounded-lg">
-            <div className="flex flex-col md:flex-row gap-4">
-              <div className="flex-1">
-                <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Category</Label>
-                <Select value={selectedCategory} onValueChange={setSelectedCategory}>
-                  <SelectTrigger>
-                    <SelectValue placeholder="Select category" />
-                  </SelectTrigger>
-                  <SelectContent>
-                    <SelectItem value="Science">Science Category</SelectItem>
-                    <SelectItem value="Art">Art Category</SelectItem>
-                    <SelectItem value="Commercial">Commercial Category</SelectItem>
-                  </SelectContent>
-                </Select>
-              </div>
-              <div className="flex-1">
-                <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Question Source</Label>
-                <Select value={questionSource} onValueChange={(val: 'database' | 'custom') => setQuestionSource(val)}>
-                  <SelectTrigger>
-                    <SelectValue placeholder="Select Source" />
-                  </SelectTrigger>
-                  <SelectContent>
-                    <SelectItem value="database">Fetch From Database</SelectItem>
-                    <SelectItem value="custom">Upload Custom JSON</SelectItem>
-                  </SelectContent>
-                </Select>
-              </div>
-              <div className="flex-1">
-                <Label className="mb-2 block text-xs uppercase text-muted-foreground font-semibold">Subject</Label>
-                <Select value={selectedSubject} onValueChange={setSelectedSubject}>
-                  <SelectTrigger>
-                    <SelectValue placeholder="Select subject" />
-                  </SelectTrigger>
-                  <SelectContent>
-                    {AVAILABLE_SUBJECTS.map(sub => (
-                      <SelectItem key={sub} value={sub}>{sub}</SelectItem>
-                    ))}
-                  </SelectContent>
-                </Select>
-              </div>
-              <div className="flex items-end">
-                <Button onClick={handleAddSubject} disabled={addingSubject || !selectedSubject} className="w-full md:w-auto">
-                  {addingSubject ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Plus className="mr-2 h-4 w-4" />}
-                  Add to {selectedCategory}
-                </Button>
-              </div>
-            </div>
-            
-            {questionSource === 'custom' && (
-              <div className="bg-background border rounded-md p-4 mt-2">
-                <Label className="mb-2 block font-medium">Upload Custom Questions (JSON)</Label>
-                <Input type="file" accept=".json" onChange={handleFileUpload} className="max-w-md" />
-                <p className="text-sm text-muted-foreground mt-2">
-                  Format: <code>[{'{'}"questionText": "...", "options": ["A","B","C","D"], "correctAnswer": "A"{'}'}]</code>
-                </p>
-                {customQuestions.length > 0 && (
-                  <p className="text-sm text-green-600 mt-2 font-medium">Ready: {customQuestions.length} questions loaded.</p>
-                )}
-              </div>
-            )}
-          </div>
-
-          <div className="grid md:grid-cols-3 gap-6">
-            {['Science', 'Art', 'Commercial'].map(category => {
-              const subjects = (exam.categorySubjects && exam.categorySubjects[category as keyof typeof exam.categorySubjects]) || [];
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+            {FIXED_SUBJECTS.map(subjectName => {
+              const existingSub = exam.subjects?.find(s => s.name === subjectName);
+              const count = existingSub?.questions?.length || 0;
+              
               return (
-                <div key={category} className="space-y-4">
-                  <h3 className="font-semibold text-lg border-b pb-2">{category} Subjects</h3>
-                  {subjects.length > 0 ? (
-                    <div className="space-y-3">
-                      {subjects.map((subject: any) => (
-                        <div key={subject.id} className="border p-3 rounded-md flex justify-between items-center bg-card shadow-sm">
-                          <div>
-                            <p className="font-medium text-sm">{subject.name}</p>
-                            <p className="text-xs text-muted-foreground">{subject.questions.length} Questions</p>
-                          </div>
-                          <Button variant="ghost" size="sm" onClick={() => handleRemoveSubject(category, subject.id)} className="text-red-500 hover:text-red-600 hover:bg-red-50 h-8 w-8 p-0">
-                            <Trash2 className="h-4 w-4" />
-                          </Button>
-                        </div>
-                      ))}
-                    </div>
-                  ) : (
-                    <p className="text-muted-foreground text-sm py-4 text-center border rounded-md border-dashed">
-                      No subjects added.
-                    </p>
-                  )}
+                <div 
+                  key={subjectName} 
+                  onClick={() => openModalFor(subjectName)}
+                  className={`border rounded-lg p-4 cursor-pointer transition-all hover:shadow-md flex flex-col items-center text-center justify-center min-h-[100px] ${count > 0 ? 'border-green-200 bg-green-50/50' : 'hover:border-primary bg-card'}`}
+                >
+                   <h3 className="font-semibold text-sm mb-2">{subjectName}</h3>
+                   <div className={`text-xs font-medium px-2 py-1 rounded-full ${count > 0 ? 'bg-green-100 text-green-700' : 'bg-muted text-muted-foreground'}`}>
+                     {count} Questions
+                   </div>
                 </div>
-              );
+              )
             })}
           </div>
         </CardContent>
       </Card>
+
+      <Dialog open={isModalOpen} onOpenChange={setIsModalOpen}>
+        <DialogContent className="max-w-3xl max-h-[90vh] overflow-y-auto">
+          <DialogHeader>
+            <DialogTitle>Manage Questions: {activeSubject}</DialogTitle>
+            <DialogDescription>
+              Add questions for this subject. Currently has {exam.subjects?.find(s => s.name === activeSubject)?.questions?.length || 0} questions.
+            </DialogDescription>
+          </DialogHeader>
+
+          <Tabs defaultValue="manual" className="mt-4">
+            <TabsList className="grid w-full grid-cols-3">
+              <TabsTrigger value="manual">Enter Manually</TabsTrigger>
+              <TabsTrigger value="json">Upload JSON</TabsTrigger>
+              <TabsTrigger value="default">Fetch from Database</TabsTrigger>
+            </TabsList>
+            
+            <TabsContent value="manual" className="space-y-6 mt-4">
+              <div className="space-y-8">
+                {manualQuestions.map((q, idx) => (
+                  <div key={idx} className="p-4 border rounded-lg bg-muted/20 space-y-4">
+                    <div className="flex justify-between items-center">
+                      <Label className="font-semibold text-base">Question {idx + 1}</Label>
+                      {manualQuestions.length > 1 && (
+                         <Button variant="ghost" size="sm" className="text-red-500 h-8" onClick={() => {
+                            const newQ = [...manualQuestions];
+                            newQ.splice(idx, 1);
+                            setManualQuestions(newQ);
+                         }}>
+                           Remove
+                         </Button>
+                      )}
+                    </div>
+                    
+                    <div className="space-y-2">
+                      <Label>Question Text</Label>
+                      <Input 
+                        value={q.questionText} 
+                        onChange={(e) => handleManualQuestionChange(idx, 'questionText', e.target.value)} 
+                        placeholder="Enter the question..." 
+                      />
+                    </div>
+                    
+                    <div className="grid grid-cols-2 gap-4">
+                      {['A', 'B', 'C', 'D'].map((optLabel, optIdx) => (
+                        <div key={optLabel} className="space-y-2">
+                          <Label>Option {optLabel}</Label>
+                          <Input 
+                            value={q.options[optIdx]} 
+                            onChange={(e) => handleManualQuestionChange(idx, `option-${optIdx}`, e.target.value)} 
+                          />
+                        </div>
+                      ))}
+                    </div>
+
+                    <div className="space-y-2">
+                      <Label>Correct Answer</Label>
+                      <Select value={q.correctAnswer} onValueChange={(val) => handleManualQuestionChange(idx, 'correctAnswer', val)}>
+                        <SelectTrigger className="w-[180px]">
+                          <SelectValue placeholder="Select correct option" />
+                        </SelectTrigger>
+                        <SelectContent>
+                          <SelectItem value="A">Option A</SelectItem>
+                          <SelectItem value="B">Option B</SelectItem>
+                          <SelectItem value="C">Option C</SelectItem>
+                          <SelectItem value="D">Option D</SelectItem>
+                        </SelectContent>
+                      </Select>
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              <div className="flex justify-between items-center pt-4 border-t">
+                <Button variant="outline" onClick={handleAddManualQuestion}>
+                  <Plus className="h-4 w-4 mr-2" /> Add Another Question
+                </Button>
+                <Button onClick={handleSaveManual} disabled={updatingSubject}>
+                  {updatingSubject && <Loader2 className="h-4 w-4 mr-2 animate-spin" />}
+                  Save Manual Questions
+                </Button>
+              </div>
+            </TabsContent>
+
+            <TabsContent value="json" className="space-y-4 mt-4">
+              <div className="bg-background border rounded-md p-6 flex flex-col items-center justify-center text-center space-y-4">
+                <Label className="block font-medium text-lg">Upload Custom JSON File</Label>
+                <Input type="file" accept=".json" onChange={handleFileUpload} className="max-w-md" />
+                <p className="text-sm text-muted-foreground">
+                  Format: <code>[{'{'}"questionText": "...", "options": ["A","B","C","D"], "correctAnswer": "A"{'}'}]</code>
+                </p>
+                {customQuestions.length > 0 && (
+                  <p className="text-sm text-green-600 font-medium bg-green-50 p-2 rounded w-full max-w-md">Ready: {customQuestions.length} questions loaded.</p>
+                )}
+                <Button onClick={handleSaveJson} disabled={updatingSubject || customQuestions.length === 0} className="mt-4">
+                   {updatingSubject && <Loader2 className="h-4 w-4 mr-2 animate-spin" />}
+                   Save JSON Questions
+                </Button>
+              </div>
+            </TabsContent>
+
+            <TabsContent value="default" className="space-y-4 mt-4">
+               <div className="bg-background border rounded-md p-6 flex flex-col items-center justify-center text-center space-y-4">
+                  <h3 className="font-semibold text-lg">Use Built-in Database</h3>
+                  <p className="text-muted-foreground text-sm max-w-md">
+                    This will randomly fetch 10 questions from the existing CBT simulator database for {activeSubject}. 
+                    If questions already exist for this subject, they will be replaced.
+                  </p>
+                  <Button onClick={handleLoadDefaultDatabase} disabled={updatingSubject}>
+                     {updatingSubject && <Loader2 className="h-4 w-4 mr-2 animate-spin" />}
+                     Fetch & Save 10 Questions
+                  </Button>
+               </div>
+            </TabsContent>
+          </Tabs>
+
+          <div className="flex justify-end border-t pt-4 mt-6">
+             {exam.subjects?.find(s => s.name === activeSubject)?.questions?.length ? (
+               <Button variant="outline" className="mr-auto text-red-500 hover:text-red-600 border-red-200 hover:bg-red-50" onClick={handleClearSubject} disabled={updatingSubject}>
+                 Clear Subject
+               </Button>
+             ) : null}
+             <Button variant="ghost" onClick={() => setIsModalOpen(false)}>Close</Button>
+          </div>
+        </DialogContent>
+      </Dialog>
     </div>
   );
 }

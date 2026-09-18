@@ -68,8 +68,18 @@ export default function TakeMockExamPage() {
         }
 
         const category = sessionStorage.getItem(`mock_exam_${eventId}_category`) || 'Science';
-        const categorySubjects = data.categorySubjects?.[category as keyof typeof data.categorySubjects] || [];
-        data.subjects = categorySubjects;
+        
+        // Standard JAMB-style combinations for different categories
+        const standardSubjects: Record<string, string[]> = {
+           Science: ['Use of English', 'Mathematics', 'Aptitude Test', 'Physics', 'Chemistry', 'Biology', 'Geography', 'Agricultural Science'],
+           Art: ['Use of English', 'Mathematics', 'Aptitude Test', 'Government', 'Literature in English', 'Christian Religious Studies', 'Islamic Religious Studies', 'History', 'Civic Education'],
+           Commercial: ['Use of English', 'Mathematics', 'Aptitude Test', 'Financial Accounting', 'Commerce', 'Economics', 'Insurance']
+        };
+
+        const allowedSubjectNames = standardSubjects[category] || standardSubjects.Science;
+        
+        // Filter the available subjects to only show the ones meant for their category
+        data.subjects = (data.subjects || []).filter(s => allowedSubjectNames.includes(s.name));
 
         setExam(data);
         if (data.subjects && data.subjects.length > 0) {
