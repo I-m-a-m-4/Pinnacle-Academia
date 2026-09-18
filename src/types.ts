@@ -523,6 +523,7 @@ export interface MockExamEvent {
     startTime: any; // Firestore Timestamp
     durationMinutes: number;
     status: 'pending' | 'active' | 'completed';
+    showResults?: boolean;
     subjects: MockExamSubject[];
     bannedEmails: string[];
     createdAt: any;

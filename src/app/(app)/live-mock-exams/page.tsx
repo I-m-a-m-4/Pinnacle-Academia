@@ -18,17 +18,18 @@ export default function LiveMockExamsPage() {
   useEffect(() => {
     if (!academy) return;
 
-    // Get pending and active mock exams
-    const q = query(
-      collection(db, 'academies', academy.id, 'mockExams'),
-      where('status', 'in', ['pending', 'active'])
-    );
+    // Get all mock exams to avoid missing index errors, filter in memory
+    const q = query(collection(db, 'academies', academy.id, 'mockExams'));
 
     const unsubscribe = onSnapshot(q, (snapshot) => {
-      const examsData = snapshot.docs.map(doc => ({
+      let examsData = snapshot.docs.map(doc => ({
         id: doc.id,
         ...doc.data()
       })) as MockExamEvent[];
+      
+      // Filter for pending or active
+      examsData = examsData.filter(exam => exam.status === 'pending' || exam.status === 'active' || !exam.status);
+
       
       // Sort by startTime descending in memory (Firestore requires composite index for where + orderBy)
       examsData.sort((a, b) => b.startTime - a.startTime);

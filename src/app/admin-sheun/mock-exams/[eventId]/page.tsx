@@ -29,6 +29,7 @@ export default function ManageMockExamPage() {
   const [startTimeStr, setStartTimeStr] = useState('');
   const [duration, setDuration] = useState(60);
   const [status, setStatus] = useState<'pending' | 'active' | 'completed'>('pending');
+  const [showResults, setShowResults] = useState(false);
   const [banEmail, setBanEmail] = useState('');
 
   useEffect(() => {
@@ -41,6 +42,7 @@ export default function ManageMockExamPage() {
         setTitle(data.title || '');
         setDuration(data.durationMinutes || 60);
         setStatus(data.status || 'pending');
+        setShowResults(data.showResults || false);
         
         // Format for datetime-local input
         if (data.startTime) {
@@ -70,6 +72,7 @@ export default function ManageMockExamPage() {
         startTime: newStartTime,
         durationMinutes: duration,
         status,
+        showResults,
       });
       toast({ title: 'Success', description: 'Exam updated successfully.' });
     } catch (error) {
@@ -222,6 +225,21 @@ export default function ManageMockExamPage() {
                 <option value="active">Active (Running)</option>
                 <option value="completed">Completed (Closed)</option>
               </select>
+            </div>
+
+            <div className="flex flex-row items-center justify-between rounded-lg border p-4">
+              <div className="space-y-0.5">
+                <Label className="text-base">Release Results</Label>
+                <p className="text-sm text-muted-foreground">
+                  Allow students to view their scores after submitting.
+                </p>
+              </div>
+              <input 
+                type="checkbox" 
+                checked={showResults} 
+                onChange={(e) => setShowResults(e.target.checked)} 
+                className="h-5 w-5" 
+              />
             </div>
 
             <Button onClick={handleSave} disabled={saving} className="w-full mt-4">
