@@ -192,7 +192,13 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
   const [status, setStatus] = useState<'pending' | 'active' | 'completed'>('pending');
   const [showResults, setShowResults] = useState(false);
   const [banEmail, setBanEmail] = useState('');
-  const [categories, setCategories] = useState<Record<string, string[]>>({});
+  const [categoriesConfig, setCategoriesConfig] = useState<Record<string, string[]>>({});
+
+  const DEFAULT_CATEGORIES = {
+    Science: ['Aptitude Test', 'Mathematics', 'Physics', 'Chemistry'],
+    Arts: ['Aptitude Test', 'Government', 'Literature in English', 'Economics'],
+    Commercial: ['Aptitude Test', 'Mathematics', 'Financial Accounting', 'Commerce']
+  };
 
   // Modal State
   const [isModalOpen, setIsModalOpen] = useState(false);

@@ -25,6 +25,7 @@ export default function MockExamLandingPage() {
   const [studentName, setStudentName] = useState('');
   const [studentEmail, setStudentEmail] = useState('');
   const [timeLeft, setTimeLeft] = useState('');
+  const [selectedSubjects, setSelectedSubjects] = useState<string[]>([]);
 
   useEffect(() => {
     if (!academy || !eventId) return;
@@ -79,8 +80,14 @@ export default function MockExamLandingPage() {
       return;
     }
 
+    if (selectedSubjects.length !== 4) {
+      toast({ title: 'Subjects Required', description: 'Please select exactly 4 subjects.', variant: 'destructive' });
+      return;
+    }
+
     // Save student details to sessionStorage for the /take page
     sessionStorage.setItem(`mock_exam_${eventId}_student`, JSON.stringify({ name: studentName, email: studentEmail }));
+    sessionStorage.setItem(`mock_exam_${eventId}_subjects`, JSON.stringify(selectedSubjects));
     router.push(`/mock-exam/${eventId}/take`);
   };
 
@@ -140,29 +147,36 @@ export default function MockExamLandingPage() {
                   />
                 </div>
                 <div className="space-y-2 pb-4">
-                  <Label>Exam Category</Label>
-                  <div className="flex gap-4">
-                    {['Art', 'Science', 'Commercial'].map((cat) => (
-                      <label key={cat} className="flex items-center space-x-2 cursor-pointer">
+                  <Label>Select 4 Subjects ({selectedSubjects.length}/4)</Label>
+                  <div className="grid grid-cols-2 gap-3 max-h-48 overflow-y-auto p-2 border rounded-md">
+                    {exam.subjects?.map((sub) => (
+                      <label key={sub.id} className="flex items-center space-x-2 cursor-pointer">
                         <input 
-                          type="radio" 
-                          name="category" 
-                          value={cat} 
+                          type="checkbox" 
+                          value={sub.name} 
                           className="h-4 w-4 text-primary"
-                          onChange={(e) => sessionStorage.setItem(`mock_exam_${eventId}_category`, e.target.value)}
+                          checked={selectedSubjects.includes(sub.name)}
+                          onChange={(e) => {
+                            if (e.target.checked) {
+                              if (selectedSubjects.length < 4) {
+                                setSelectedSubjects([...selectedSubjects, sub.name]);
+                              } else {
+                                toast({ title: 'Limit Reached', description: 'You can only select 4 subjects.' });
+                              }
+                            } else {
+                              setSelectedSubjects(selectedSubjects.filter(s => s !== sub.name));
+                            }
+                          }}
                         />
-                        <span className="text-sm">{cat}</span>
+                        <span className="text-sm truncate">{sub.name}</span>
                       </label>
                     ))}
+                    {(!exam.subjects || exam.subjects.length === 0) && (
+                      <span className="text-sm text-muted-foreground">No subjects available</span>
+                    )}
                   </div>
                 </div>
-                <Button className="w-full text-lg h-12" onClick={() => {
-                  if (!sessionStorage.getItem(`mock_exam_${eventId}_category`)) {
-                    toast({ title: 'Category Required', description: 'Please select an exam category.', variant: 'destructive' });
-                    return;
-                  }
-                  handleStart();
-                }}>
+                <Button className="w-full text-lg h-12" onClick={handleStart} disabled={selectedSubjects.length !== 4}>
                   Start Exam
                 </Button>
                 <p className="text-xs text-muted-foreground text-center">

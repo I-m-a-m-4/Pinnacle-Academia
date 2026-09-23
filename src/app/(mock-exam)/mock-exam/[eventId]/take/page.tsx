@@ -67,16 +67,8 @@ export default function TakeMockExamPage() {
           return;
         }
 
-        const category = sessionStorage.getItem(`mock_exam_${eventId}_category`) || 'Science';
-        
-        // Standard JAMB-style combinations for different categories
-        const standardSubjects: Record<string, string[]> = {
-           Science: ['Use of English', 'Mathematics', 'Aptitude Test', 'Physics', 'Chemistry', 'Biology', 'Geography', 'Agricultural Science'],
-           Art: ['Use of English', 'Mathematics', 'Aptitude Test', 'Government', 'Literature in English', 'Christian Religious Studies', 'Islamic Religious Studies', 'History', 'Civic Education'],
-           Commercial: ['Use of English', 'Mathematics', 'Aptitude Test', 'Financial Accounting', 'Commerce', 'Economics', 'Insurance']
-        };
-
-        const allowedSubjectNames = standardSubjects[category] || standardSubjects.Science;
+        const selectedSubjectsStr = sessionStorage.getItem(`mock_exam_${eventId}_subjects`);
+        const allowedSubjectNames: string[] = selectedSubjectsStr ? JSON.parse(selectedSubjectsStr) : [];
         
         // Filter the available subjects to only show the ones meant for their category
         data.subjects = (data.subjects || []).filter(s => allowedSubjectNames.includes(s.name));
@@ -217,7 +209,8 @@ export default function TakeMockExamPage() {
       });
       scorePerSubject[subject.id] = { score: subjScore, total: subject.questions.length };
     });
-    const category = sessionStorage.getItem(`mock_exam_${eventId}_category`) || 'Unspecified';
+    const selectedSubjectsStr = sessionStorage.getItem(`mock_exam_${eventId}_subjects`);
+    const category = selectedSubjectsStr ? JSON.parse(selectedSubjectsStr).join(', ') : 'Unspecified';
 
     const submissionData = {
       eventId: exam.id,
