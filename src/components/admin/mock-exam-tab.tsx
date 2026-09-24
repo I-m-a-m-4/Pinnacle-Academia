@@ -607,7 +607,7 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
               <Card>
                 <CardHeader>
                   <CardTitle>Categories Configuration</CardTitle>
-                  <CardDescription>Configure the 4 subjects required for each category.</CardDescription>
+                  <CardDescription>Configure the subjects required for each category.</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <div className="grid gap-6 md:grid-cols-3">
@@ -616,7 +616,7 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
                         <h3 className="font-semibold mb-3 flex items-center justify-between">
                           {category} 
                           <span className="text-xs bg-primary/10 text-primary px-2 py-1 rounded-full">
-                            {categoriesConfig[category]?.length || 0}/4 Subjects
+                            {categoriesConfig[category]?.length || 0} Subjects
                           </span>
                         </h3>
                         <div className="space-y-2 mb-4">
@@ -641,33 +641,29 @@ function ManageMockExamEvent({ eventId, onBack }: { eventId: string, onBack: () 
                             <div className="text-sm text-muted-foreground italic">No subjects configured.</div>
                           )}
                         </div>
-                        {(!categoriesConfig[category] || categoriesConfig[category].length < 4) ? (
-                          <div className="flex gap-2">
-                            <Select 
-                              onValueChange={(val) => {
-                                const newConfig = { ...categoriesConfig };
-                                if (!newConfig[category]) newConfig[category] = [];
-                                if (!newConfig[category].includes(val) && newConfig[category].length < 4) {
-                                  newConfig[category].push(val);
-                                  setCategoriesConfig(newConfig);
-                                } else if (newConfig[category].includes(val)) {
-                                  toast({ title: 'Notice', description: 'Subject already in category' });
-                                }
-                              }}
-                            >
-                              <SelectTrigger className="h-8 text-xs">
-                                <SelectValue placeholder="Add subject..." />
-                              </SelectTrigger>
-                              <SelectContent>
-                                {FIXED_SUBJECTS.map(sub => (
-                                  <SelectItem key={sub} value={sub}>{sub}</SelectItem>
-                                ))}
-                              </SelectContent>
-                            </Select>
-                          </div>
-                        ) : (
-                          <div className="text-xs text-green-600 font-medium">Category limit reached (4 subjects).</div>
-                        )}
+                        <div className="flex gap-2">
+                          <Select 
+                            onValueChange={(val) => {
+                              const newConfig = { ...categoriesConfig };
+                              if (!newConfig[category]) newConfig[category] = [];
+                              if (!newConfig[category].includes(val)) {
+                                newConfig[category].push(val);
+                                setCategoriesConfig(newConfig);
+                              } else {
+                                toast({ title: 'Notice', description: 'Subject already in category' });
+                              }
+                            }}
+                          >
+                            <SelectTrigger className="h-8 text-xs">
+                              <SelectValue placeholder="Add subject..." />
+                            </SelectTrigger>
+                            <SelectContent>
+                              {FIXED_SUBJECTS.map(sub => (
+                                <SelectItem key={sub} value={sub}>{sub}</SelectItem>
+                              ))}
+                            </SelectContent>
+                          </Select>
+                        </div>
                       </div>
                     ))}
                   </div>
