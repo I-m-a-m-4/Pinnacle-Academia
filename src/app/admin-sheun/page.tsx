@@ -552,74 +552,279 @@ function PinnacleMilestoneDialog({ open, onOpenChange, daysActive, totalSessions
     );
 }
 
+const ADMIN_JAMB_SUBJECTS = [
+    'Use of English',
+    'Mathematics',
+    'Physics',
+    'Chemistry',
+    'Biology',
+    'Government',
+    'Economics',
+    'Literature in English',
+    'Christian Religious Studies',
+    'Islamic Religious Studies',
+    'Geography',
+    'Agricultural Science',
+    'History',
+    'Commerce',
+    'Financial Accounting',
+    'Civic Education',
+];
+
 function UserDetailDialog({ user, academy, open, onOpenChange }: { user: StudentProfile | null, academy: Academy | undefined, open: boolean, onOpenChange: (open: boolean) => void }) {
+    const firestore = useFirestore();
+    const { toast } = useToast();
+    const [isEditing, setIsEditing] = useState(false);
+    const [isSaving, setIsSaving] = useState(false);
+
+    const [name, setName] = useState('');
+    const [phone, setPhone] = useState('');
+    const [status, setStatus] = useState<'active' | 'inactive'>('active');
+    const [targetUTMEScore, setTargetUTMEScore] = useState<number>(300);
+    const [targetInstitution, setTargetInstitution] = useState('');
+    const [targetCourse, setTargetCourse] = useState('');
+    const [department, setDepartment] = useState('Science');
+    const [utmeSubjects, setUtmeSubjects] = useState<string[]>(['Use of English']);
+
+    useEffect(() => {
+        if (user && open) {
+            setName(user.name || '');
+            setPhone(user.phone || '');
+            setStatus(user.status === 'inactive' ? 'inactive' : 'active');
+            setTargetUTMEScore(user.targetUTMEScore && user.targetUTMEScore <= 400 ? user.targetUTMEScore : 300);
+            setTargetInstitution(user.targetInstitution || '');
+            setTargetCourse(user.targetCourse || '');
+            setDepartment(user.department || 'Science');
+            const normalized = (user.utmeSubjects || ['Use of English']).map(s =>
+                s.toLowerCase() === 'english language' ? 'Use of English' : s
+            );
+            const others = normalized.filter(s => s !== 'Use of English').slice(0, 3);
+            setUtmeSubjects(['Use of English', ...others]);
+            setIsEditing(false);
+        }
+    }, [user, open]);
+
     if (!user) return null;
+
+    const toggleSubject = (sub: string) => {
+        if (sub === 'Use of English') return;
+        setUtmeSubjects(prev => {
+            if (prev.includes(sub)) return prev.filter(s => s !== sub);
+            if (prev.length >= 4) {
+                toast({ variant: 'destructive', title: 'Maximum 4 Subjects', description: 'JAMB UTME requires Use of English + 3 other subjects.' });
+                return prev;
+            }
+            return [...prev, sub];
+        });
+    };
+
+    const handleSave = async () => {
+        if (!firestore || !user?.id) return;
+        setIsSaving(true);
+        try {
+            await updateDoc(doc(firestore, 'users', user.id), {
+                name: name.trim() || user.name,
+                phone: phone.trim(),
+                status,
+                targetUTMEScore: Math.min(400, Math.max(0, Number(targetUTMEScore) || 0)),
+                targetInstitution: targetInstitution.trim(),
+                targetCourse: targetCourse.trim(),
+                department,
+                utmeSubjects,
+            });
+            toast({ title: 'Student Profile Updated', description: `${name || user.name}'s profile has been updated.`, variant: 'success' });
+            setIsEditing(false);
+        } catch (err: any) {
+            console.error('Admin edit student error:', err);
+            toast({ title: 'Update Failed', description: err.message || 'Could not save student profile.', variant: 'destructive' });
+        } finally {
+            setIsSaving(false);
+        }
+    };
 
     return (
         <Dialog open={open} onOpenChange={onOpenChange}>
-            <DialogContent className="max-w-4xl max-h-[80vh] overflow-y-auto">
+            <DialogContent className="max-w-3xl max-h-[85vh] overflow-y-auto">
                 <DialogHeader>
-                    <DialogTitle>{user?.name}'s Profile</DialogTitle>
-                    <DialogDescription>Detailed view of user account and associated academy data.</DialogDescription>
+                    <div className="flex items-center justify-between gap-2 pr-6">
+                        <div>
+                            <DialogTitle>{user?.name}&apos;s Student Profile</DialogTitle>
+                            <DialogDescription>View and edit student profile, JAMB targets, and academy details.</DialogDescription>
+                        </div>
+                        <Button
+                            size="sm"
+                            variant={isEditing ? 'outline' : 'default'}
+                            onClick={() => setIsEditing(prev => !prev)}
+                        >
+                            {isEditing ? 'Cancel Edit' : 'Edit Profile'}
+                        </Button>
+                    </div>
                 </DialogHeader>
 
-                <div className="grid gap-6 py-4">
-                    <div className="grid grid-cols-2 gap-4">
-                        <div className='col-span-2'>
-                            <Label className="text-xs text-muted-foreground font-bold">Academy Name</Label>
-                            <p className="font-medium text-lg">{academy?.name || 'N/A'}</p>
-                        </div>
-
-                        <div>
-                            <Label className="text-xs text-muted-foreground font-bold">Contact Phone</Label>
-                            <p className="font-medium">{academy?.settings?.phone || user.phone || 'N/A'}</p>
-                        </div>
-                        <div>
-                            <Label className="text-xs text-muted-foreground font-bold">Contact Email</Label>
-                            <p className="font-medium">{academy?.settings?.email || user.email || 'N/A'}</p>
-                        </div>
-
-                        <div className='col-span-2'>
-                            <Label className="text-xs text-muted-foreground font-bold">Address</Label>
-                            <p className="font-medium">{academy?.address || 'N/A'}</p>
-                        </div>
-
-                        <div>
-                            <Label className="text-xs text-muted-foreground font-bold">State</Label>
-                            <p className="font-medium">{academy?.settings?.state || 'N/A'}</p>
-                        </div>
-                        <div>
-                            <Label className="text-xs text-muted-foreground font-bold">Country</Label>
-                            <p className="font-medium">{academy?.settings?.country || 'N/A'}</p>
-                        </div>
-                        <div>
-                            <Label className="text-xs text-muted-foreground font-bold">Currency</Label>
-                            <p className="font-medium">{academy?.settings?.currency || 'NGN'}</p>
-                        </div>
-                        <div>
-                            <Label className="text-xs text-muted-foreground font-bold">Plan</Label>
-                            <div className="mt-1">
-                                {academy ? (
-                                    academy.accessLevel === 'lifetime' ? <Badge variant="default" className="bg-green-600">Lifetime</Badge> : <Badge variant="secondary" className="capitalize">{academy.plan || 'starter'}</Badge>
-                                ) : <Badge variant="outline">N/A</Badge>}
+                {isEditing ? (
+                    <div className="grid gap-4 py-4">
+                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                            <div className="space-y-1.5">
+                                <Label className="text-xs font-bold">Full Name</Label>
+                                <Input value={name} onChange={e => setName(e.target.value)} />
+                            </div>
+                            <div className="space-y-1.5">
+                                <Label className="text-xs font-bold">Phone Number</Label>
+                                <Input value={phone} onChange={e => setPhone(e.target.value)} placeholder="e.g. 08012345678" />
+                            </div>
+                            <div className="space-y-1.5">
+                                <Label className="text-xs font-bold">Target JAMB UTME Score (0–400)</Label>
+                                <Input
+                                    type="number"
+                                    min={0}
+                                    max={400}
+                                    value={targetUTMEScore}
+                                    onChange={e => setTargetUTMEScore(Math.min(400, Math.max(0, Number(e.target.value))))}
+                                />
+                            </div>
+                            <div className="space-y-1.5">
+                                <Label className="text-xs font-bold">Account Status</Label>
+                                <Select value={status} onValueChange={(v) => setStatus(v as 'active' | 'inactive')}>
+                                    <SelectTrigger><SelectValue /></SelectTrigger>
+                                    <SelectContent>
+                                        <SelectItem value="active">Active</SelectItem>
+                                        <SelectItem value="inactive">Inactive</SelectItem>
+                                    </SelectContent>
+                                </Select>
+                            </div>
+                            <div className="space-y-1.5">
+                                <Label className="text-xs font-bold">Target Institution</Label>
+                                <Input value={targetInstitution} onChange={e => setTargetInstitution(e.target.value)} placeholder="e.g. OAU, UNILAG" />
+                            </div>
+                            <div className="space-y-1.5">
+                                <Label className="text-xs font-bold">Target Course</Label>
+                                <Input value={targetCourse} onChange={e => setTargetCourse(e.target.value)} placeholder="e.g. Medicine & Surgery" />
+                            </div>
+                            <div className="space-y-1.5 sm:col-span-2">
+                                <Label className="text-xs font-bold">Department</Label>
+                                <div className="flex gap-2">
+                                    {['Science', 'Art', 'Commercial'].map(d => (
+                                        <Button
+                                            key={d}
+                                            type="button"
+                                            size="sm"
+                                            variant={department === d ? 'default' : 'outline'}
+                                            className="flex-1"
+                                            onClick={() => setDepartment(d)}
+                                        >
+                                            {d}
+                                        </Button>
+                                    ))}
+                                </div>
                             </div>
                         </div>
-                        <div>
-                            <Label className="text-xs text-muted-foreground font-bold">User Status</Label>
-                            <div className="mt-1">
-                                <Badge variant={user.status === 'inactive' ? 'destructive' : 'outline'} className="capitalize">
-                                    {user.status || 'active'}
-                                </Badge>
+
+                        <div className="space-y-2 pt-2 border-t">
+                            <div className="flex items-center justify-between">
+                                <Label className="text-xs font-bold">JAMB UTME Subjects ({utmeSubjects.length}/4)</Label>
+                                <span className="text-[11px] text-muted-foreground">Use of English is compulsory</span>
+                            </div>
+                            <div className="grid grid-cols-2 sm:grid-cols-3 gap-1.5">
+                                {ADMIN_JAMB_SUBJECTS.map(sub => {
+                                    const isChecked = utmeSubjects.includes(sub);
+                                    return (
+                                        <button
+                                            key={sub}
+                                            type="button"
+                                            onClick={() => toggleSubject(sub)}
+                                            className={cn(
+                                                "px-2.5 py-2 rounded-lg border text-xs font-medium text-left transition-colors",
+                                                isChecked ? "bg-primary/15 border-primary text-primary font-semibold" : "bg-background hover:bg-muted/50"
+                                            )}
+                                        >
+                                            {sub}
+                                        </button>
+                                    );
+                                })}
                             </div>
                         </div>
-                        <div>
-                            <Label className="text-xs text-muted-foreground font-bold">Last Seen</Label>
-                            <div className="mt-1">
-                                <UserPresence lastSeen={user.lastSeen} />
+
+                        <div className="flex justify-end gap-2 pt-4 border-t">
+                            <Button variant="outline" onClick={() => setIsEditing(false)} disabled={isSaving}>Cancel</Button>
+                            <Button onClick={handleSave} disabled={isSaving} className="gap-1.5">
+                                {isSaving ? <Loader className="h-4 w-4 animate-spin" /> : <Save className="h-4 w-4" />}
+                                Save Student Profile
+                            </Button>
+                        </div>
+                    </div>
+                ) : (
+                    <div className="grid gap-6 py-4">
+                        <div className="grid grid-cols-2 gap-4">
+                            <div className='col-span-2'>
+                                <Label className="text-xs text-muted-foreground font-bold">Academy Name</Label>
+                                <p className="font-medium text-lg">{academy?.name || 'N/A'}</p>
+                            </div>
+
+                            <div>
+                                <Label className="text-xs text-muted-foreground font-bold">Contact Phone</Label>
+                                <p className="font-medium">{user.phone || academy?.settings?.phone || 'N/A'}</p>
+                            </div>
+                            <div>
+                                <Label className="text-xs text-muted-foreground font-bold">Contact Email</Label>
+                                <p className="font-medium">{user.email || academy?.settings?.email || 'N/A'}</p>
+                            </div>
+
+                            <div>
+                                <Label className="text-xs text-muted-foreground font-bold">Target JAMB Score</Label>
+                                <p className="font-semibold text-primary">{user.targetUTMEScore ? `${user.targetUTMEScore} / 400` : 'Not Set'}</p>
+                            </div>
+                            <div>
+                                <Label className="text-xs text-muted-foreground font-bold">Department</Label>
+                                <p className="font-medium">{user.department || 'Not Set'}</p>
+                            </div>
+
+                            <div>
+                                <Label className="text-xs text-muted-foreground font-bold">Target Institution</Label>
+                                <p className="font-medium">{user.targetInstitution || 'Not Set'}</p>
+                            </div>
+                            <div>
+                                <Label className="text-xs text-muted-foreground font-bold">Target Course</Label>
+                                <p className="font-medium">{user.targetCourse || 'Not Set'}</p>
+                            </div>
+
+                            <div className="col-span-2">
+                                <Label className="text-xs text-muted-foreground font-bold">UTME Subjects</Label>
+                                <div className="flex flex-wrap gap-1.5 mt-1">
+                                    {(user.utmeSubjects || []).length > 0 ? (
+                                        (user.utmeSubjects || []).map(sub => (
+                                            <Badge key={sub} variant="secondary" className="text-xs">{sub}</Badge>
+                                        ))
+                                    ) : (
+                                        <span className="text-xs text-muted-foreground">Not configured</span>
+                                    )}
+                                </div>
+                            </div>
+
+                            <div>
+                                <Label className="text-xs text-muted-foreground font-bold">Plan</Label>
+                                <div className="mt-1">
+                                    {academy ? (
+                                        academy.accessLevel === 'lifetime' ? <Badge variant="default" className="bg-green-600">Lifetime</Badge> : <Badge variant="secondary" className="capitalize">{academy.plan || 'starter'}</Badge>
+                                    ) : <Badge variant="outline">N/A</Badge>}
+                                </div>
+                            </div>
+                            <div>
+                                <Label className="text-xs text-muted-foreground font-bold">User Status</Label>
+                                <div className="mt-1">
+                                    <Badge variant={user.status === 'inactive' ? 'destructive' : 'outline'} className="capitalize">
+                                        {user.status || 'active'}
+                                    </Badge>
+                                </div>
+                            </div>
+                            <div>
+                                <Label className="text-xs text-muted-foreground font-bold">Last Seen</Label>
+                                <div className="mt-1">
+                                    <UserPresence lastSeen={user.lastSeen} />
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                )}
             </DialogContent>
         </Dialog>
     );
@@ -2276,9 +2481,24 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                                                                 <UserPresence lastSeen={user.lastSeen} />
                                                             </TableCell>
                                                             <TableCell>
-                                                                <Button variant="ghost" size="sm" onClick={(e) => { e.stopPropagation(); handleImpersonateUser(user); }} title="Inspect Data">
-                                                                    <LogIn className="h-4 w-4 text-muted-foreground hover:text-primary" />
-                                                                </Button>
+                                                                <div className="flex items-center gap-1">
+                                                                    <Button
+                                                                        variant="outline"
+                                                                        size="sm"
+                                                                        className="h-8 text-xs gap-1"
+                                                                        onClick={(e) => {
+                                                                            e.stopPropagation();
+                                                                            setSelectedUserForDetail(user);
+                                                                            setIsUserDetailOpen(true);
+                                                                        }}
+                                                                        title="View / Edit Student Profile"
+                                                                    >
+                                                                        <UserCog className="h-3.5 w-3.5" /> Edit
+                                                                    </Button>
+                                                                    <Button variant="ghost" size="sm" onClick={(e) => { e.stopPropagation(); handleImpersonateUser(user); }} title="Inspect Data">
+                                                                        <LogIn className="h-4 w-4 text-muted-foreground hover:text-primary" />
+                                                                    </Button>
+                                                                </div>
                                                             </TableCell>
                                                         </TableRow>
                                                     )

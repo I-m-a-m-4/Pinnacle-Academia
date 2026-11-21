@@ -18,7 +18,10 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Button } from "@/components/ui/button";
-import { PlusCircle, User, MoreHorizontal, AlertCircle, Trash2, Mail, UserCheck, UserX, ArrowUpDown, Clock, Calendar, Activity } from "lucide-react";
+import { PlusCircle, User, MoreHorizontal, AlertCircle, Trash2, Mail, UserCheck, UserX, ArrowUpDown, Clock, Calendar, Activity, Edit3, Save } from "lucide-react";
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
 import { useUser, useFirestore, useDoc, useMemoFirebase, useCollection } from '@/firebase';
 import { collection, doc, query, where, deleteDoc, updateDoc, runTransaction } from 'firebase/firestore';
 import type { StudentProfile, Invitation, Academy } from '@/types';
@@ -101,7 +104,43 @@ export default function UsersPage() {
   const [isAddUserDialogOpen, setIsAddUserDialogOpen] = React.useState(false);
   const [invitationToRevoke, setInvitationToRevoke] = React.useState<Invitation | null>(null);
   const [userToUpdate, setUserToUpdate] = React.useState<{ user: StudentProfile, action: 'activate' | 'deactivate' } | null>(null);
+  const [userToEdit, setUserToEdit] = React.useState<StudentProfile | null>(null);
+  const [editName, setEditName] = React.useState('');
+  const [editPhone, setEditPhone] = React.useState('');
+  const [editTargetScore, setEditTargetScore] = React.useState(300);
+  const [editInstitution, setEditInstitution] = React.useState('');
+  const [editCourse, setEditCourse] = React.useState('');
+  const [isSavingProfile, setIsSavingProfile] = React.useState(false);
   const [sortBy, setSortBy] = React.useState<'active' | 'joined' | 'name'>('active');
+
+  const openEditProfile = (u: StudentProfile) => {
+    setUserToEdit(u);
+    setEditName(u.name || '');
+    setEditPhone(u.phone || '');
+    setEditTargetScore(u.targetUTMEScore && u.targetUTMEScore <= 400 ? u.targetUTMEScore : 300);
+    setEditInstitution(u.targetInstitution || '');
+    setEditCourse(u.targetCourse || '');
+  };
+
+  const handleSaveStudentProfile = async () => {
+    if (!userToEdit || !firestore) return;
+    setIsSavingProfile(true);
+    try {
+      await updateDoc(doc(firestore, 'users', userToEdit.id), {
+        name: editName.trim() || userToEdit.name,
+        phone: editPhone.trim(),
+        targetUTMEScore: Math.min(400, Math.max(0, Number(editTargetScore) || 0)),
+        targetInstitution: editInstitution.trim(),
+        targetCourse: editCourse.trim(),
+      });
+      toast({ title: 'Profile Updated', description: `${editName || userToEdit.name}'s student profile has been saved.`, variant: 'success' });
+      setUserToEdit(null);
+    } catch (e: any) {
+      toast({ title: 'Update Failed', description: e.message || 'Could not update student profile.', variant: 'destructive' });
+    } finally {
+      setIsSavingProfile(false);
+    }
+  };
 
   const businessDocRef = useMemoFirebase(() => {
     if (!currentUser?.academyId || !firestore) return null;
@@ -327,6 +366,10 @@ export default function UsersPage() {
                           </DropdownMenuTrigger>
                           <DropdownMenuContent align="end">
                             <DropdownMenuLabel>Actions</DropdownMenuLabel>
+                            <DropdownMenuItem className="cursor-pointer" onSelect={(e) => { e.preventDefault(); openEditProfile(user); }}>
+                              <Edit3 className="mr-2 h-4 w-4" /> Edit Student Profile
+                            </DropdownMenuItem>
+                            <DropdownMenuSeparator />
                             {user.status === 'inactive' ? (
                               <DropdownMenuItem className="cursor-pointer" onSelect={(e) => { e.preventDefault(); setUserToUpdate({ user, action: 'activate' }); }}>
                                 <UserCheck className="mr-2 h-4 w-4" /> Activate User
@@ -422,6 +465,45 @@ export default function UsersPage() {
           </AlertDialogFooter>
         </AlertDialogContent>
       </AlertDialog>
+
+      <Dialog open={!!userToEdit} onOpenChange={(open) => !open && setUserToEdit(null)}>
+        <DialogContent className="sm:max-w-lg">
+          <DialogHeader>
+            <DialogTitle>Edit Student Profile</DialogTitle>
+            <DialogDescription>Update profile details and JAMB UTME goals for {userToEdit?.email}.</DialogDescription>
+          </DialogHeader>
+          <div className="grid gap-4 py-3">
+            <div className="space-y-1.5">
+              <Label>Full Name</Label>
+              <Input value={editName} onChange={(e) => setEditName(e.target.value)} />
+            </div>
+            <div className="grid grid-cols-2 gap-3">
+              <div className="space-y-1.5">
+                <Label>Phone</Label>
+                <Input value={editPhone} onChange={(e) => setEditPhone(e.target.value)} placeholder="080..." />
+              </div>
+              <div className="space-y-1.5">
+                <Label>Target JAMB Score (0–400)</Label>
+                <Input type="number" min={0} max={400} value={editTargetScore} onChange={(e) => setEditTargetScore(Number(e.target.value))} />
+              </div>
+            </div>
+            <div className="space-y-1.5">
+              <Label>Target Institution</Label>
+              <Input value={editInstitution} onChange={(e) => setEditInstitution(e.target.value)} placeholder="e.g. OAU, UNILAG" />
+            </div>
+            <div className="space-y-1.5">
+              <Label>Target Course</Label>
+              <Input value={editCourse} onChange={(e) => setEditCourse(e.target.value)} placeholder="e.g. Medicine & Surgery" />
+            </div>
+            <div className="flex justify-end gap-2 pt-2">
+              <Button variant="outline" onClick={() => setUserToEdit(null)} disabled={isSavingProfile}>Cancel</Button>
+              <Button onClick={handleSaveStudentProfile} disabled={isSavingProfile} className="gap-1.5">
+                <Save className="h-4 w-4" /> {isSavingProfile ? 'Saving...' : 'Save Changes'}
+              </Button>
+            </div>
+          </div>
+        </DialogContent>
+      </Dialog>
 
       <AlertDialog open={!!userToUpdate} onOpenChange={(open) => !open && setUserToUpdate(null)}>
         <AlertDialogContent>

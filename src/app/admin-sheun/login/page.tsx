@@ -42,39 +42,48 @@ export default function AdminLoginPage() {
     const lockRef = doc(firestore, 'admin_locks', email.toLowerCase());
 
     try {
-      // 1. Check for existing lockout
-      const lockSnap = await getDoc(lockRef);
-      if (lockSnap.exists()) {
-        const data = lockSnap.data();
-        if (data.lockoutUntil) {
-          const lockoutDate = data.lockoutUntil.toDate();
-          if (lockoutDate > new Date()) {
-            const timeRemaining = formatDistanceToNow(lockoutDate);
-            const message = `Too many failed attempts. This account is locked for ${timeRemaining}. Please try again tomorrow.`;
-            setError(message);
-            toast({ title: 'Account Locked', description: message, variant: 'destructive' });
-            setIsProcessing(false);
-            return;
+      // 1. Check for existing lockout (non-blocking if Firestore rules restrict unauthenticated reads)
+      try {
+        const lockSnap = await getDoc(lockRef);
+        if (lockSnap.exists()) {
+          const data = lockSnap.data();
+          if (data.lockoutUntil) {
+            const lockoutDate = data.lockoutUntil.toDate();
+            if (lockoutDate > new Date()) {
+              const timeRemaining = formatDistanceToNow(lockoutDate);
+              const message = `Too many failed attempts. This account is locked for ${timeRemaining}. Please try again tomorrow.`;
+              setError(message);
+              toast({ title: 'Account Locked', description: message, variant: 'destructive' });
+              setIsProcessing(false);
+              return;
+            }
           }
         }
+      } catch (lockReadErr) {
+        console.warn('Skipping pre-auth lockout check:', lockReadErr);
       }
 
       // 2. Attempt Login
-      await signInWithEmailAndPassword(auth, email, password);
+      await signInWithEmailAndPassword(auth, email.trim(), password);
       
-      // 3. Success: Reset lockout attempts
-      await deleteDoc(lockRef);
+      // 3. Success: Reset lockout attempts (non-blocking)
+      try {
+        await deleteDoc(lockRef);
+      } catch (lockClearErr) {
+        console.warn('Could not clear lockout doc:', lockClearErr);
+      }
       
       toast({ title: 'Login Successful', description: 'Redirecting to admin dashboard...' });
       router.push('/admin-sheun');
     } catch (err: any) {
+      console.error('Admin login error:', err);
       let message = 'An unexpected error occurred. Please try again.';
       
       // Handle Firebase Auth errors
       if (err.code === 'auth/invalid-credential' || err.code === 'auth/user-not-found' || err.code === 'auth/wrong-password') {
         message = 'Invalid credentials. Please check your email and password.';
         
-        // 4. Failure: Increment attempts
+        // 4. Failure: Increment attempts (best-effort)
         try {
           const lockSnap = await getDoc(lockRef);
           const currentData = lockSnap.exists() ? lockSnap.data() : { attempts: 0 };
@@ -97,12 +106,16 @@ export default function AdminLoginPage() {
             message = `Invalid credentials. ${5 - newAttempts} attempts remaining before lockout.`;
           }
         } catch (lockErr) {
-          console.error("Error updating lockout status:", lockErr);
+          console.warn('Could not update lockout status:', lockErr);
         }
       } else if (err.code === 'auth/invalid-email') {
         message = 'The email address is not valid.';
       } else if (err.code === 'auth/too-many-requests') {
         message = 'Too many requests. Please try again later or tomorrow.';
+      } else if (err.code === 'auth/network-request-failed') {
+        message = 'Network error. Please check your internet connection and try again.';
+      } else if (err.message) {
+        message = err.message;
       }
 
       setError(message);
@@ -175,15 +188,13 @@ export default function AdminLoginPage() {
         </Card>
       </div>
 
-      <div className="hidden bg-muted lg:block relative overflow-hidden">
+      <div className="hidden bg-zinc-950 lg:block relative overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1920&auto=format&fit=crop"
-          alt="Modern university library with warm lighting."
-          width="1920"
-          height="1080"
-          quality={100}
+          src="/assets/tutorserv.jpg"
+          alt="Pinnacle Academia Learning Hub"
+          fill
           priority
-          className="h-full w-full object-cover transform transition-transform [transition-duration:30s] ease-in-out hover:scale-110"
+          className="object-cover opacity-55 transform transition-transform [transition-duration:30s] ease-in-out hover:scale-110"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
         <div className="absolute bottom-12 left-12 right-12 p-0 bg-transparent">

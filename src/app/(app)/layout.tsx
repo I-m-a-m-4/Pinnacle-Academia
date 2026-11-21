@@ -80,7 +80,7 @@ const navItems = [
   { href: '/performance-analytics', icon: BarChart2, label: 'Performance Analytics', roles: ['admin', 'owner'] },
   { href: '/peers-mentors', icon: Users, label: 'Peers & Mentors', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
   { href: '/pinnacle-ai', icon: Bot, label: 'Pinnacle AI', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
-  { href: '/student-profile', icon: UserRound, label: 'Student Profile', roles: ['admin', 'owner'] },
+  { href: '/student-profile', icon: UserRound, label: 'Student Profile', roles: ['admin', 'manager', 'vendor_operator', 'owner'] },
 ];
 
 const bottomLinks = [

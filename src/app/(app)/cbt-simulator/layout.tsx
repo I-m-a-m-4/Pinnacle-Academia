@@ -14,12 +14,17 @@ const steps = [
 
 export default function CBTLayout({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
+  const isDirectJambFlow =
+    pathname === "/cbt-simulator/select-subjects" ||
+    pathname === "/cbt-simulator/active-test" ||
+    pathname === "/cbt-simulator/leaderboard";
   const currentStepIndex = steps.findIndex((step) => pathname === step.path);
 
   return (
-    <div className="p-4 sm:p-6">
-      {currentStepIndex === 0 && <CbtContestBanner />}
-      <nav aria-label="Progress" className="mb-8 no-print">
+    <div className={cn(isDirectJambFlow ? "p-2 sm:p-4" : "p-4 sm:p-6")}>
+      {pathname === "/cbt-simulator/select-subjects" && <CbtContestBanner />}
+      {!isDirectJambFlow && (
+        <nav aria-label="Progress" className="mb-8 no-print">
         <ol role="list" className="flex items-center">
           {steps.map((step, stepIdx) => (
             <li
@@ -72,6 +77,7 @@ export default function CBTLayout({ children }: { children: React.ReactNode }) {
           ))}
         </ol>
       </nav>
+      )}
       {children}
     </div>
   );
