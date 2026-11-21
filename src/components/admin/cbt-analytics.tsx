@@ -7,7 +7,7 @@ import { Badge } from '@/components/ui/badge';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import { BrainCircuit, Trophy, Target, TrendingUp, Users, MousePointerClick, Calendar, Activity } from 'lucide-react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, LineChart, Line, Legend } from 'recharts';
-import { collection, query, orderBy, getDocs, limit } from 'firebase/firestore';
+import { collection, collectionGroup, query, getDocs } from 'firebase/firestore';
 import { useFirestore } from '@/firebase';
 import { format, subDays, eachDayOfInterval, startOfDay } from 'date-fns';
 import type { StudentProfile, MockExamSubmission } from '@/types';
@@ -28,120 +28,171 @@ export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile
 
     useEffect(() => {
         const fetchRealAnalytics = async () => {
-            if (!academy || !users) return;
+            if (!firestore) return;
             setIsLoading(true);
             
             try {
-                // Fetch all mock exams
-                const examsQuery = query(collection(firestore, 'academies', academy.id, 'mockExams'));
-                const examsSnap = await getDocs(examsQuery);
-                
-                const allSubmissions: MockExamSubmission[] = [];
-                
-                // Fetch submissions for each exam
-                for (const examDoc of examsSnap.docs) {
-                    const subsQuery = query(collection(firestore, 'academies', academy.id, 'mockExams', examDoc.id, 'submissions'));
-                    const subsSnap = await getDocs(subsQuery);
-                    
-                    subsSnap.forEach(subDoc => {
-                        allSubmissions.push(subDoc.data() as MockExamSubmission);
-                    });
-                }
-                
-                setExamsTaken(allSubmissions.length);
-
-                // Aggregate by student
-                const studentStats: Record<string, { name: string, totalScore: number, maxPossible: number, count: number, subjectScores: Record<string, {score: number, total: number}> }> = {};
+                const studentStats: Record<string, { name: string, email: string, totalPct: number, count: number, bestScore: number, subjectScores: Record<string, {score: number, total: number}> }> = {};
                 const globalSubjectStats: Record<string, {score: number, total: number}> = {};
 
-                let globalTotalScore = 0;
-                let globalMaxPossible = 0;
+                let totalExamsCount = 0;
+                let globalPctSum = 0;
+                const userById = new Map((users || []).map(u => [u.id, u]));
 
-                allSubmissions.forEach(sub => {
-                    // Update global
-                    globalTotalScore += sub.totalScore;
-                    globalMaxPossible += sub.totalQuestions || 1;
+                // 1. Fetch real JAMB CBT Simulator results from collectionGroup('examResults')
+                try {
+                    const resultsSnap = await getDocs(collectionGroup(firestore, 'examResults'));
+                    resultsSnap.forEach(docSnap => {
+                        const data = docSnap.data();
+                        const userId = docSnap.ref.parent.parent?.id || 'unknown';
+                        const matchedUser = userById.get(userId);
+                        const pct = typeof data.percentage === 'number'
+                            ? data.percentage
+                            : (data.maxScore > 0 ? Math.round((data.score / data.maxScore) * 100) : 0);
 
-                    // Update student
-                    const email = sub.studentEmail;
-                    if (!studentStats[email]) {
-                        studentStats[email] = {
-                            name: sub.studentName,
-                            totalScore: 0,
-                            maxPossible: 0,
-                            count: 0,
-                            subjectScores: {}
-                        };
-                    }
-                    studentStats[email].count += 1;
-                    studentStats[email].totalScore += sub.totalScore;
-                    studentStats[email].maxPossible += sub.totalQuestions || 1;
+                        totalExamsCount += 1;
+                        globalPctSum += pct;
 
-                    // Update subjects
-                    if (sub.scorePerSubject) {
-                        Object.entries(sub.scorePerSubject).forEach(([subj, data]) => {
-                            // Student subject stat
-                            if (!studentStats[email].subjectScores[subj]) {
-                                studentStats[email].subjectScores[subj] = { score: 0, total: 0 };
-                            }
-                            studentStats[email].subjectScores[subj].score += data.score;
-                            studentStats[email].subjectScores[subj].total += data.total || 1;
+                        const key = matchedUser?.email || userId;
+                        if (!studentStats[key]) {
+                            studentStats[key] = {
+                                name: matchedUser?.name || data.studentName || 'Student',
+                                email: matchedUser?.email || 'Registered Student',
+                                totalPct: 0,
+                                count: 0,
+                                bestScore: 0,
+                                subjectScores: {}
+                            };
+                        }
+                        studentStats[key].count += 1;
+                        studentStats[key].totalPct += pct;
+                        studentStats[key].bestScore = Math.max(studentStats[key].bestScore, data.score || 0);
 
-                            // Global subject stat
-                            if (!globalSubjectStats[subj]) {
-                                globalSubjectStats[subj] = { score: 0, total: 0 };
-                            }
-                            globalSubjectStats[subj].score += data.score;
-                            globalSubjectStats[subj].total += data.total || 1;
-                        });
-                    }
-                });
-
-                // Compute Leaderboard
-                const realLeaderboard = Object.keys(studentStats).map(email => {
-                    const stats = studentStats[email];
-                    const avgScore = Math.round((stats.totalScore / stats.maxPossible) * 100);
-                    return {
-                        id: email, // use email as ID since they are unique
-                        name: stats.name,
-                        email: email,
-                        examsTaken: stats.count,
-                        avgScore: avgScore,
-                        subjectScores: stats.subjectScores
-                    };
-                }).sort((a, b) => b.avgScore - a.avgScore);
-
-                setLeaderboard(realLeaderboard);
-
-                // Compute Platform Averages
-                if (globalMaxPossible > 0) {
-                    setPlatformAvg(Math.round((globalTotalScore / globalMaxPossible) * 100));
+                        if (Array.isArray(data.breakdown)) {
+                            data.breakdown.forEach((b: any) => {
+                                if (!b?.name) return;
+                                const subTotal = (b.correct || 0) + (b.incorrect || 0) + (b.unanswered || 0);
+                                if (!globalSubjectStats[b.name]) {
+                                    globalSubjectStats[b.name] = { score: 0, total: 0 };
+                                }
+                                globalSubjectStats[b.name].score += (b.correct || 0);
+                                globalSubjectStats[b.name].total += Math.max(1, subTotal || b.total || 1);
+                            });
+                        }
+                    });
+                } catch (e) {
+                    console.warn('Could not query examResults collectionGroup, falling back to cbt_leaderboards:', e);
                 }
 
-                // Compute Subject Performance Matrix
+                // 2. Fallback/supplement with cbt_leaderboards if examResults had 0 docs
+                if (totalExamsCount === 0) {
+                    try {
+                        const lbSnap = await getDocs(collection(firestore, 'cbt_leaderboards'));
+                        lbSnap.forEach(docSnap => {
+                            const data = docSnap.data();
+                            const matchedUser = data.userId ? userById.get(data.userId) : undefined;
+                            const pct = typeof data.percentage === 'number'
+                                ? data.percentage
+                                : (data.maxScore > 0 ? Math.round((data.score / data.maxScore) * 100) : 0);
+
+                            totalExamsCount += 1;
+                            globalPctSum += pct;
+
+                            const key = matchedUser?.email || data.userId || docSnap.id;
+                            if (!studentStats[key]) {
+                                studentStats[key] = {
+                                    name: matchedUser?.name || data.alias || 'Student',
+                                    email: matchedUser?.email || data.alias || 'CBT Candidate',
+                                    totalPct: 0,
+                                    count: 0,
+                                    bestScore: 0,
+                                    subjectScores: {}
+                                };
+                            }
+                            studentStats[key].count += 1;
+                            studentStats[key].totalPct += pct;
+                            studentStats[key].bestScore = Math.max(studentStats[key].bestScore, data.score || 0);
+                        });
+                    } catch (e) {
+                        console.warn('Could not query cbt_leaderboards:', e);
+                    }
+                }
+
+                // 3. Also include Live Mock Exam submissions if academy exists
+                if (academy?.id) {
+                    try {
+                        const examsQuery = query(collection(firestore, 'academies', academy.id, 'mockExams'));
+                        const examsSnap = await getDocs(examsQuery);
+                        for (const examDoc of examsSnap.docs) {
+                            const subsSnap = await getDocs(collection(firestore, 'academies', academy.id, 'mockExams', examDoc.id, 'submissions'));
+                            subsSnap.forEach(subDoc => {
+                                const sub = subDoc.data() as MockExamSubmission;
+                                const pct = Math.round(((sub.totalScore || 0) / Math.max(1, sub.totalQuestions || 1)) * 100);
+                                totalExamsCount += 1;
+                                globalPctSum += pct;
+
+                                const key = sub.studentEmail || subDoc.id;
+                                if (!studentStats[key]) {
+                                    studentStats[key] = {
+                                        name: sub.studentName || 'Student',
+                                        email: sub.studentEmail || '',
+                                        totalPct: 0,
+                                        count: 0,
+                                        bestScore: 0,
+                                        subjectScores: {}
+                                    };
+                                }
+                                studentStats[key].count += 1;
+                                studentStats[key].totalPct += pct;
+                                studentStats[key].bestScore = Math.max(studentStats[key].bestScore, sub.totalScore || 0);
+
+                                if (sub.scorePerSubject) {
+                                    Object.entries(sub.scorePerSubject).forEach(([subj, data]) => {
+                                        if (!globalSubjectStats[subj]) globalSubjectStats[subj] = { score: 0, total: 0 };
+                                        globalSubjectStats[subj].score += data.score;
+                                        globalSubjectStats[subj].total += data.total || 1;
+                                    });
+                                }
+                            });
+                        }
+                    } catch (e) {
+                        console.warn('Could not query mockExams:', e);
+                    }
+                }
+
+                setExamsTaken(totalExamsCount);
+
+                const realLeaderboard = Object.entries(studentStats).map(([key, stats]) => ({
+                    id: key,
+                    name: stats.name,
+                    email: stats.email,
+                    examsTaken: stats.count,
+                    avgScore: Math.round(stats.totalPct / Math.max(1, stats.count)),
+                    bestScore: stats.bestScore,
+                    subjectScores: stats.subjectScores
+                })).sort((a, b) => b.avgScore - a.avgScore);
+
+                setLeaderboard(realLeaderboard);
+                setPlatformAvg(totalExamsCount > 0 ? Math.round(globalPctSum / totalExamsCount) : 0);
+
                 const COLORS = ['#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6', '#ec4899', '#14b8a6'];
                 let colorIdx = 0;
                 let lowestSubj = { name: '-', score: 100 };
 
                 const realSubjectPerformance = Object.entries(globalSubjectStats).map(([subj, data]) => {
-                    const avgScore = Math.round((data.score / data.total) * 100);
-                    
+                    const avgScore = Math.round((data.score / Math.max(1, data.total)) * 100);
                     if (avgScore < lowestSubj.score) {
                         lowestSubj = { name: subj, score: avgScore };
                     }
-                    
                     return {
                         subject: subj,
-                        avgScore: avgScore,
+                        avgScore,
                         fill: COLORS[colorIdx++ % COLORS.length]
                     };
                 });
 
                 setSubjectPerformance(realSubjectPerformance);
-                if (lowestSubj.name !== '-') {
-                    setMostChallenging(lowestSubj);
-                }
-
+                setMostChallenging(lowestSubj.name !== '-' ? lowestSubj : { name: 'N/A', score: 0 });
             } catch (error) {
                 console.error("Failed to load CBT analytics", error);
             } finally {
@@ -239,8 +290,8 @@ export default function CbtAnalyticsDashboard({ users }: { users: StudentProfile
                                                     </div>
                                                 </TableCell>
                                                 <TableCell className="text-right">
-                                                    <Badge variant={student.avgScore >= 250 ? 'default' : 'secondary'} className={student.avgScore >= 250 ? 'bg-emerald-500/20 text-emerald-400' : ''}>
-                                                        {student.avgScore}
+                                                    <Badge variant={student.avgScore >= 70 ? 'default' : 'secondary'} className={student.avgScore >= 70 ? 'bg-emerald-500/20 text-emerald-400' : ''}>
+                                                        {student.avgScore}%
                                                     </Badge>
                                                 </TableCell>
                                                 <TableCell className="text-right text-muted-foreground">

@@ -2131,268 +2131,238 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                 </TabsContent>
 
                 <TabsContent value="overview" className="space-y-6">
-                    <Card>
-                        <CardHeader>
-                            <CardTitle className="flex items-center gap-2">
-                                <HeartPulse className="h-5 w-5 text-primary" />
-                                Platform Overview Command
-                            </CardTitle>
-                        </CardHeader>
-                    <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 p-4">
-                        <button onClick={() => handleOpenDetailModal('totalUsers')} className="text-left w-full h-full transition-transform active:scale-95">
-                            <StatCard 
-                                title="Total Users" 
-                                value={analyticsData.totalUsers} 
-                                icon={Users} 
-                                description="Total registered user accounts"
-                            />
-                        </button>
-                        <button onClick={() => handleOpenDetailModal('totalBusinesses')} className="text-left w-full h-full transition-transform active:scale-95">
-                            <StatCard 
-                                title="Total Academies" 
-                                value={analyticsData.totalBusinesses} 
-                                icon={Building} 
-                                description="Total academy registrations"
-                            />
-                        </button>
-                        <button onClick={() => handleOpenDetailModal('inventoryActive')} className="text-left w-full h-full transition-transform active:scale-95">
-                            <StatCard 
-                                title="Active Subjects" 
-                                value={platformAnalytics.businessesWithProducts} 
-                                icon={Package} 
-                                description="Academies with added subjects"
-                            />
-                        </button>
-                        <button onClick={() => handleOpenDetailModal('generatingSales')} className="text-left w-full h-full transition-transform active:scale-95">
-                            <StatCard 
-                                title="Active Admissions" 
-                                value={platformAnalytics.businessesWithSales} 
-                                icon={Zap} 
-                                description="Academies with active enrollments"
-                            />
-                        </button>
+                    {(() => {
+                        const allUsers = users || [];
+                        const allBusinesses = businesses || [];
+                        const nowMs = Date.now();
+                        const oneDayMs = 24 * 60 * 60 * 1000;
+                        const activeTodayCount = allUsers.filter(u => u.lastSeen?.toDate && (nowMs - u.lastSeen.toDate().getTime()) < oneDayMs).length;
+                        const activeWeekCount = allUsers.filter(u => u.lastSeen?.toDate && (nowMs - u.lastSeen.toDate().getTime()) < 7 * oneDayMs).length;
 
-                        <button 
-                            onClick={() => toast({ title: "Download Traffic Intelligence", description: `Total engagement: ${analyticsData.downloadStats.totalClicks} total clicks. Breakdown: ${analyticsData.downloadStats.windows} Windows, ${analyticsData.downloadStats.macos} macOS, ${analyticsData.downloadStats.android} Android.` })} 
-                            className="text-left w-full h-full transition-transform active:scale-95"
-                        >
-                            <StatCard 
-                                title="Unique Downloaders" 
-                                value={analyticsData.uniqueDownloaders} 
-                                icon={Download} 
-                                description={`${analyticsData.downloadStats.windows} Win / ${analyticsData.downloadStats.macos} Mac / ${analyticsData.downloadStats.android} Android`}
-                            />
-                        </button>
-                    </div>
-                    
-                    <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4 border-t border-white/5 pt-6">
-                        <button onClick={() => handleOpenDetailModal('active')} className="text-left w-full h-full transition-transform active:scale-95">
-                            <StatCard title="Active Academies" value={platformAnalytics.totalActiveBusinesses} icon={Building} description="Currently active academies" />
-                        </button>
-                        <button onClick={() => handleOpenDetailModal('paying')} className="text-left w-full h-full transition-transform active:scale-95" disabled={platformAnalytics.payingBusinessesList.length === 0}>
-                            <StatCard title="MRR" value={`₦${analyticsData.mrr.toLocaleString()}`} icon={DollarSign} description="Monthly Recurring" />
-                        </button>
-                        <button onClick={() => setIsSalesVelocityOpen(true)} className="text-left w-full h-full transition-transform active:scale-95">
-                            <StatCard title="Admission Velocity" value={`₦${analyticsData.averageSalesPerDay.toLocaleString(undefined, { maximumFractionDigits: 0 })}/day`} icon={Activity} description="Platform enrollment momentum" />
-                        </button>
-                        <button onClick={() => handleOpenDetailModal('activated')} className="text-left w-full h-full transition-transform active:scale-95">
-                            <StatCard title="Activated Academies" value={platformAnalytics.activatedBusinessesCount} icon={UserCheck} description="Academies with >10 subjects" />
-                        </button>
-                        <button onClick={() => handleOpenDetailModal('atRisk')} className="text-left w-full h-full transition-transform active:scale-95" disabled={platformAnalytics.atRiskBusinesses.length === 0}>
-                            <StatCard title="Inactive Academies" value={platformAnalytics.atRiskBusinesses.length} icon={AlertTriangle} description="No student activity for 14 days" />
-                        </button>
-                    </div>
+                        const subscribedStudents = allUsers.filter(u => {
+                            if (u.role === 'super-admin') return true;
+                            const b = allBusinesses.find(biz => biz.id === u.academyId);
+                            if (!b) return false;
+                            if (b.accessLevel === 'lifetime') return true;
+                            const isPaid = b.plan === 'pro' || b.plan === 'academy';
+                            if (!isPaid) return false;
+                            if (!b.trialExpiresAt) return true;
+                            const exp = b.trialExpiresAt?.toDate ? b.trialExpiresAt.toDate() : new Date(b.trialExpiresAt);
+                            return exp.getTime() > nowMs;
+                        });
+                        const freeStudentsCount = Math.max(0, allUsers.length - subscribedStudents.length);
+                        const conversionRate = allUsers.length > 0 ? Math.round((subscribedStudents.length / allUsers.length) * 100) : 0;
 
-                    <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-4 mt-4">
-                        <StatCard title="ARR" value={`₦${analyticsData.arr.toLocaleString()}`} icon={TrendingUp} description="Annual Target" />
-                        <StatCard title="LTV" value={`₦${analyticsData.ltv.toLocaleString(undefined, { maximumFractionDigits: 0 })}`} icon={Crown} description="Est. Lifetime Value" />
-                        <StatCard title="Sub Revenue" value={`₦${analyticsData.totalSubscriptionRevenue.toLocaleString()}`} icon={ShieldCheck} description="Total Software Sales" />
-                        <StatCard title="Platform AOV" value={`₦${analyticsData.platformAOV.toLocaleString(undefined, { maximumFractionDigits: 0 })}`} icon={ShoppingCart} description="Avg. Admission Value" />
-                    </div>
-                    </Card>
+                        // Department distribution from student profiles
+                        const deptCounts: Record<string, number> = { Science: 0, Art: 0, Commercial: 0, Unset: 0 };
+                        allUsers.forEach(u => {
+                            const d = (u.department || '').trim();
+                            if (d === 'Science' || d === 'Art' || d === 'Commercial') deptCounts[d]++;
+                            else deptCounts.Unset++;
+                        });
+                        const deptData = [
+                            { name: 'Science', value: deptCounts.Science, fill: '#3b82f6' },
+                            { name: 'Art', value: deptCounts.Art, fill: '#f59e0b' },
+                            { name: 'Commercial', value: deptCounts.Commercial, fill: '#10b981' },
+                            { name: 'Unset', value: deptCounts.Unset, fill: '#64748b' },
+                        ].filter(d => d.value > 0);
 
-                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-                        <Card>
-                            <CardHeader><CardTitle className="flex items-center gap-2"><MapPin className="h-5 w-5 text-primary" /> Top Locations</CardTitle><CardDescription>Where are your users located?</CardDescription></CardHeader>
-                            <CardContent>
-                                <ResponsiveContainer width="100%" height={250}>
-                                    <ReBarChart data={platformAnalytics.topLocations} layout="vertical" margin={{ left: 20 }}>
-                                        <CartesianGrid strokeDasharray="3 3" horizontal={false} />
-                                        <XAxis type="number" hide />
-                                        <YAxis dataKey="name" type="category" width={100} tick={{ fontSize: 12 }} />
-                                        <ReTooltip content={<CustomTooltip />} cursor={{ fill: 'transparent' }} />
-                                        <Bar dataKey="value" fill="hsl(var(--primary))" radius={[0, 4, 4, 0]} barSize={20} />
-                                    </ReBarChart>
-                                </ResponsiveContainer>
-                            </CardContent>
-                        </Card>
+                        // Top target institutions from student profiles
+                        const instCounts: Record<string, number> = {};
+                        allUsers.forEach(u => {
+                            const inst = (u.targetInstitution || '').trim();
+                            if (inst) instCounts[inst] = (instCounts[inst] || 0) + 1;
+                        });
+                        const topInstitutions = Object.entries(instCounts)
+                            .map(([name, value]) => ({ name, value }))
+                            .sort((a, b) => b.value - a.value)
+                            .slice(0, 6);
 
-                        <Card className="border-yellow-500/20 overflow-hidden relative">
-                            <div className="absolute inset-0 bg-gradient-to-br from-yellow-500/10 to-transparent pointer-events-none" />
-                            <CardHeader className="pb-3 relative z-10">
-                                <CardTitle className="text-lg flex items-center gap-2">
-                                    <Trophy className="h-5 w-5 text-yellow-500" /> Top Academies Spotlight
-                                </CardTitle>
-                                <CardDescription>Top 3 academies driving the most admissions value.</CardDescription>
-                            </CardHeader>
-                            <CardContent className="relative z-10 space-y-3">
-                                {analyticsData.topPerformers && analyticsData.topPerformers.length > 0 ? (
-                                    analyticsData.topPerformers.map((academy, index) => (
-                                        <div key={academy.id} className={cn(
-                                            "flex items-center justify-between p-3 rounded-lg border",
-                                            index === 0 ? "bg-yellow-50/50 dark:bg-yellow-900/10 border-yellow-500/30" : "bg-background/60 border-border/50"
-                                        )}>
-                                            <div className="flex items-center gap-3">
-                                                <div className={cn( 
-                                                    "w-6 h-6 rounded-full flex items-center justify-center text-[10px] font-bold",
-                                                    index === 0 ? "bg-yellow-500 text-white" : "bg-muted text-muted-foreground"
-                                                )}>
-                                                    #{index + 1}
-                                                </div>
-                                                <div>
-                                                    <p className="text-sm font-bold leading-none">{academy.name}</p>
-                                                    <p className="text-[10px] text-muted-foreground mt-1">Academy Partner</p>
-                                                </div>
-                                            </div>
-                                            <div className="text-right">
-                                                <p className="text-sm font-bold">₦{academy.totalBookingValue.toLocaleString()}</p>
-                                                <p className="text-[10px] text-muted-foreground uppercase tracking-tighter">Gross Admissions Value</p>
-                                            </div>
-                                        </div>
-                                    ))
-                                ) : (
-                                    <div className="text-center py-6 text-muted-foreground text-sm">Waiting for more high-performing data...</div>
-                                )}
-                            </CardContent>
-                        </Card>
-                    </div>
+                        // Most popular JAMB UTME subjects
+                        const subjCounts: Record<string, number> = {};
+                        allUsers.forEach(u => {
+                            (u.utmeSubjects || []).forEach(s => {
+                                const norm = s.toLowerCase() === 'english language' ? 'Use of English' : s;
+                                subjCounts[norm] = (subjCounts[norm] || 0) + 1;
+                            });
+                        });
+                        const topSubjects = Object.entries(subjCounts)
+                            .map(([name, value]) => ({ name, value }))
+                            .sort((a, b) => b.value - a.value)
+                            .slice(0, 8);
 
+                        // Average target UTME score
+                        const validTargetScores = allUsers
+                            .map(u => Number(u.targetUTMEScore))
+                            .filter(s => !isNaN(s) && s >= 100 && s <= 400);
+                        const avgTargetScore = validTargetScores.length > 0
+                            ? Math.round(validTargetScores.reduce((a, b) => a + b, 0) / validTargetScores.length)
+                            : 0;
 
-                    <div className="mb-8">
-
-
-                    
-                    {/* New Industry & Country Analytics */}
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-                        <Card className="hover:shadow-md transition-shadow">
-                            <CardHeader>
-                                <CardTitle className="flex items-center gap-2">
-                                    <Briefcase className="h-5 w-5 text-blue-500" />
-                                    Faculty/Stream Diversity
-                                </CardTitle>
-                                <CardDescription>Number of academies categorized by faculty/stream.</CardDescription>
-                            </CardHeader>
-                            <CardContent>
-                                <div className="h-[250px] w-full">
-                                    <ResponsiveContainer width="100%" height="100%">
-                                        <ReBarChart
-                                            data={platformAnalytics.industryData}
-                                            layout="vertical"
-                                            margin={{ left: 40, right: 40 }}
-                                            onClick={(data) => {
-                                                if (data && data.activePayload) {
-                                                    const d = data.activePayload[0].payload;
-                                                    setDetailModalState({
-                                                        open: true,
-                                                        title: `${d.name} Academies`,
-                                                        description: `List of all academies in the ${d.name} stream.`,
-                                                        businesses: d.businesses,
-                                                    });
-                                                }
-                                            }}
-                                        >
-                                            <CartesianGrid strokeDasharray="3 3" horizontal={false} stroke="rgba(255,255,255,0.05)" />
-                                            <XAxis type="number" hide />
-                                            <YAxis
-                                                dataKey="name"
-                                                type="category"
-                                                tick={{ fontSize: 11, fontWeight: 500 }}
-                                                width={100}
+                        return (
+                            <>
+                                <Card>
+                                    <CardHeader>
+                                        <CardTitle className="flex items-center gap-2">
+                                            <HeartPulse className="h-5 w-5 text-primary" />
+                                            Pinnacle Academia — Live JAMB Platform Analytics
+                                        </CardTitle>
+                                        <CardDescription>
+                                            Real-time student registrations, CBT subscription breakdown, engagement, and revenue metrics.
+                                        </CardDescription>
+                                    </CardHeader>
+                                    <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 px-4 pb-4">
+                                        <button onClick={() => handleOpenDetailModal('totalUsers')} className="text-left w-full h-full transition-transform active:scale-95">
+                                            <StatCard
+                                                title="Total Students"
+                                                value={allUsers.length.toLocaleString()}
+                                                icon={Users}
+                                                description={`${activeWeekCount} active in the last 7 days`}
                                             />
-                                            <ReTooltip cursor={{ fill: 'rgba(255,255,255,0.05)' }} content={<CustomTooltip />} />
-                                            <Bar
-                                                dataKey="value"
-                                                radius={[0, 4, 4, 0]}
-                                                className="cursor-pointer"
-                                            >
-                                                {platformAnalytics.industryData.map((entry: any, index: number) => (
-                                                    <Cell key={`cell-${index}`} fill={entry.fill} />
-                                                ))}
-                                            </Bar>
-                                        </ReBarChart>
-                                    </ResponsiveContainer>
-                                </div>
-                            </CardContent>
-                        </Card>
-
-                        <Card className="hover:shadow-md transition-shadow">
-                            <CardHeader>
-                                <CardTitle className="flex items-center gap-2">
-                                    <Globe className="h-5 w-5 text-emerald-500" />
-                                    Country Presence
-                                </CardTitle>
-                                <CardDescription>Global footprint. Click a country to view businesses.</CardDescription>
-                            </CardHeader>
-                            <CardContent>
-                                <ScrollArea className="h-[250px] pr-4">
-                                    <div className="space-y-4">
-                                        {platformAnalytics.countryData.map((item, i) => {
-                                            const getFlag = (c: string) => {
-                                                const normalized = c.toLowerCase();
-                                                if (normalized.includes('nigeria')) return '🇳🇬';
-                                                if (normalized.includes('united states') || normalized === 'usa') return '🇺🇸';
-                                                if (normalized.includes('united kingdom') || normalized === 'uk') return '🇬🇧';
-                                                if (normalized.includes('ghana')) return '🇬🇭';
-                                                if (normalized.includes('canada')) return '🇨🇦';
-                                                if (normalized.includes('south africa')) return '🇿🇦';
-                                                if (normalized.includes('kenya')) return '🇰🇪';
-                                                if (normalized.includes('onboarding')) return '⏳';
-                                                return '🌐';
-                                            };
-                                            return (
-                                                <div 
-                                                    key={i} 
-                                                    className="flex items-center justify-between p-2 rounded-lg hover:bg-muted/50 transition-colors border border-transparent hover:border-border cursor-pointer group"
-                                                    onClick={() => setDetailModalState({
-                                                        open: true,
-                                                        title: `Academies in ${item.name}`,
-                                                        description: `Registered academies operating in ${item.name}.`,
-                                                        businesses: item.businesses
-                                                    })}
-                                                >
-                                                    <div className="flex items-center gap-3">
-                                                        <span className="text-2xl drop-shadow-sm group-hover:scale-110 transition-transform">{getFlag(item.name)}</span>
-                                                        <span className="font-semibold text-sm">{item.name}</span>
-                                                    </div>
-                                                    <div className="flex items-center gap-2">
-                                                        <Badge variant="secondary" className="font-mono">{item.value}</Badge>
-                                                        <ArrowRight className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-all -translate-x-2 group-hover:translate-x-0" />
-                                                    </div>
-                                                </div>
-                                            );
-                                        })}
+                                        </button>
+                                        <button onClick={() => handleOpenDetailModal('paying')} className="text-left w-full h-full transition-transform active:scale-95" disabled={platformAnalytics.payingBusinessesList.length === 0}>
+                                            <StatCard
+                                                title="Subscribed Students"
+                                                value={subscribedStudents.length.toLocaleString()}
+                                                icon={Crown}
+                                                description={`${conversionRate}% full CBT access rate`}
+                                            />
+                                        </button>
+                                        <StatCard
+                                            title="Free Preview Users"
+                                            value={freeStudentsCount.toLocaleString()}
+                                            icon={UserX}
+                                            description="Limited to 20-question CBT preview"
+                                        />
+                                        <StatCard
+                                            title="Active Today (24h)"
+                                            value={activeTodayCount.toLocaleString()}
+                                            icon={Activity}
+                                            description="Students online in last 24 hours"
+                                        />
                                     </div>
-                                </ScrollArea>
-                            </CardContent>
-                        </Card>
-                    </div>
-                </div>
 
-                <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 pb-6">
-                        <PlatformRevenueChart admissions={admissions || []} />
-                        <UserGrowthChart users={users || []} />
-                        <TransactionVolumeChart admissions={admissions || []} />
-                        <PlanDistributionChart businesses={businesses || []} />
-                        <div className="lg:col-span-2">
-                            <RevenueGrowthIndexChart purchases={purchases || []} />
-                        </div>
-                        <div className="lg:col-span-2">
-                            <RetentionCohortChart users={users || []} admissions={admissions || []} />
-                        </div>
-                        <div className="lg:col-span-2">
-                            <FeatureStickinessChart businesses={businesses || []} subjects={subjects || []} />
-                        </div>
-                    </div>
+                                    <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-4 pb-4 border-t border-white/5 pt-4">
+                                        <StatCard
+                                            title="Total Sub Revenue"
+                                            value={`₦${analyticsData.totalSubscriptionRevenue.toLocaleString()}`}
+                                            icon={DollarSign}
+                                            description="All-time CBT subscription sales"
+                                        />
+                                        <StatCard
+                                            title="Monthly Recurring (MRR)"
+                                            value={`₦${analyticsData.mrr.toLocaleString()}`}
+                                            icon={TrendingUp}
+                                            description={`ARR: ₦${analyticsData.arr.toLocaleString()}`}
+                                        />
+                                        <StatCard
+                                            title="Avg. Target UTME"
+                                            value={avgTargetScore > 0 ? `${avgTargetScore} / 400` : 'N/A'}
+                                            icon={Target}
+                                            description={`${validTargetScores.length} students set a JAMB goal`}
+                                        />
+                                        <button
+                                            onClick={() => toast({ title: "App Download Traffic", description: `Total clicks: ${analyticsData.downloadStats.totalClicks} (${analyticsData.downloadStats.windows} Win, ${analyticsData.downloadStats.macos} Mac, ${analyticsData.downloadStats.android} Android).` })}
+                                            className="text-left w-full h-full transition-transform active:scale-95"
+                                        >
+                                            <StatCard
+                                                title="App Downloaders"
+                                                value={analyticsData.uniqueDownloaders}
+                                                icon={Download}
+                                                description={`${analyticsData.downloadStats.android} Android / ${analyticsData.downloadStats.windows} Win`}
+                                            />
+                                        </button>
+                                    </div>
+                                </Card>
+
+                                <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                                    <Card>
+                                        <CardHeader>
+                                            <CardTitle className="flex items-center gap-2">
+                                                <BookOpen className="h-5 w-5 text-primary" /> Student Department Breakdown
+                                            </CardTitle>
+                                            <CardDescription>Distribution of JAMB candidates across Science, Art, and Commercial streams.</CardDescription>
+                                        </CardHeader>
+                                        <CardContent>
+                                            {deptData.length > 0 ? (
+                                                <ResponsiveContainer width="100%" height={240}>
+                                                    <ReBarChart data={deptData} layout="vertical" margin={{ left: 20, right: 20 }}>
+                                                        <CartesianGrid strokeDasharray="3 3" horizontal={false} />
+                                                        <XAxis type="number" allowDecimals={false} />
+                                                        <YAxis dataKey="name" type="category" width={95} tick={{ fontSize: 12 }} />
+                                                        <ReTooltip content={<CustomTooltip />} cursor={{ fill: 'transparent' }} />
+                                                        <Bar dataKey="value" name="Students" radius={[0, 4, 4, 0]} barSize={22}>
+                                                            {deptData.map((entry, idx) => (
+                                                                <Cell key={idx} fill={entry.fill} />
+                                                            ))}
+                                                        </Bar>
+                                                    </ReBarChart>
+                                                </ResponsiveContainer>
+                                            ) : (
+                                                <div className="h-[240px] flex items-center justify-center text-sm text-muted-foreground">No department data yet.</div>
+                                            )}
+                                        </CardContent>
+                                    </Card>
+
+                                    <Card>
+                                        <CardHeader>
+                                            <CardTitle className="flex items-center gap-2">
+                                                <Building className="h-5 w-5 text-emerald-500" /> Top Target Universities
+                                            </CardTitle>
+                                            <CardDescription>Most chosen dream institutions by registered JAMB students.</CardDescription>
+                                        </CardHeader>
+                                        <CardContent>
+                                            {topInstitutions.length > 0 ? (
+                                                <ResponsiveContainer width="100%" height={240}>
+                                                    <ReBarChart data={topInstitutions} layout="vertical" margin={{ left: 10, right: 20 }}>
+                                                        <CartesianGrid strokeDasharray="3 3" horizontal={false} />
+                                                        <XAxis type="number" allowDecimals={false} />
+                                                        <YAxis dataKey="name" type="category" width={140} tick={{ fontSize: 11 }} />
+                                                        <ReTooltip content={<CustomTooltip />} cursor={{ fill: 'transparent' }} />
+                                                        <Bar dataKey="value" name="Students" fill="#10b981" radius={[0, 4, 4, 0]} barSize={20} />
+                                                    </ReBarChart>
+                                                </ResponsiveContainer>
+                                            ) : (
+                                                <div className="h-[240px] flex items-center justify-center text-sm text-muted-foreground">Students have not set target institutions yet.</div>
+                                            )}
+                                        </CardContent>
+                                    </Card>
+                                </div>
+
+                                <Card>
+                                    <CardHeader>
+                                        <CardTitle className="flex items-center gap-2">
+                                            <Layers className="h-5 w-5 text-blue-500" /> Most Selected JAMB UTME Subjects
+                                        </CardTitle>
+                                        <CardDescription>Top subjects configured across student profiles.</CardDescription>
+                                    </CardHeader>
+                                    <CardContent>
+                                        {topSubjects.length > 0 ? (
+                                            <ResponsiveContainer width="100%" height={250}>
+                                                <ReBarChart data={topSubjects} margin={{ top: 10, right: 20, left: 0, bottom: 20 }}>
+                                                    <CartesianGrid strokeDasharray="3 3" vertical={false} />
+                                                    <XAxis dataKey="name" tick={{ fontSize: 11 }} interval={0} angle={-15} textAnchor="end" />
+                                                    <YAxis allowDecimals={false} />
+                                                    <ReTooltip content={<CustomTooltip />} />
+                                                    <Bar dataKey="value" name="Students" fill="hsl(var(--primary))" radius={[4, 4, 0, 0]} barSize={32} />
+                                                </ReBarChart>
+                                            </ResponsiveContainer>
+                                        ) : (
+                                            <div className="h-[200px] flex items-center justify-center text-sm text-muted-foreground">No UTME subject selections recorded yet.</div>
+                                        )}
+                                    </CardContent>
+                                </Card>
+
+                                <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 pb-6">
+                                    <UserGrowthChart users={users || []} />
+                                    <PlanDistributionChart businesses={businesses || []} />
+                                    <div className="lg:col-span-2">
+                                        <RevenueGrowthIndexChart purchases={purchases || []} />
+                                    </div>
+                                </div>
+                            </>
+                        );
+                    })()}
                  </TabsContent>
 
 
