@@ -536,7 +536,7 @@ export default function AuthenticatedLayout({
     )
   }
 
-  if (academyInstance?.status === 'deleted' || (hasPermissionError && !isLoading)) {
+  if (academyInstance?.status === 'deleted') {
     return (
       <div className="flex h-full w-full items-center justify-center bg-muted p-4">
         <Card className="w-full max-w-md text-center shadow-lg">
@@ -544,20 +544,14 @@ export default function AuthenticatedLayout({
             <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-destructive/10 mb-4">
               <ShieldAlert className="h-10 w-10 text-destructive" />
             </div>
-            <CardTitle className="text-2xl font-bold">
-              {academyInstance?.status === 'deleted' ? "Business Deleted" : "Access Revoked"}
-            </CardTitle>
+            <CardTitle className="text-2xl font-bold">Academy Deleted</CardTitle>
             <CardDescription>
-              {academyInstance?.status === 'deleted' 
-                ? "The academy associated with this account has been deleted by the owner."
-                : "Your access to this academy or resource has been revoked or expired."}
+              The academy associated with this account has been deleted by the owner.
             </CardDescription>
           </CardHeader>
           <CardContent>
             <p className="text-sm text-muted-foreground">
-              {hasPermissionError && permissionErrorDetails 
-                ? `Details: ${permissionErrorDetails.request?.method} on ${permissionErrorDetails.request?.path}`
-                : "For security, please log out and contact your administrator if you believe this is an error."}
+              For security, please log out and contact your administrator if you believe this is an error.
             </p>
           </CardContent>
           <CardFooter>

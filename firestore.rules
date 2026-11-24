@@ -28,7 +28,9 @@ service cloud.firestore {
     }
 
     function getCurrentUserBusinessId() {
-      return isUserAuthenticated() ? getUserData().get('businessId', 'none') : 'none';
+      return isUserAuthenticated()
+        ? getUserData().get('academyId', getUserData().get('businessId', 'none'))
+        : 'none';
     }
 
     function getCurrentUserRole() {
@@ -36,7 +38,12 @@ service cloud.firestore {
     }
 
     function isRequestingUserMemberOf(businessId) {
-      return isSuperAdmin() || (isUserAuthenticated() && getCurrentUserBusinessId() == businessId);
+      return isSuperAdmin() ||
+             (isUserAuthenticated() && (
+               getCurrentUserBusinessId() == businessId ||
+               (exists(/databases/$(database)/documents/businessInstances/$(businessId)) &&
+                get(/databases/$(database)/documents/businessInstances/$(businessId)).data.get('ownerId', null) == request.auth.uid)
+             ));
     }
     
     function isRequestingUserAdmin() {
@@ -158,10 +165,10 @@ service cloud.firestore {
 
     match /users/{userId} {
       allow get: if isSuperAdmin() || (isUserAuthenticated() && request.auth.uid == userId);
-      allow list: if isSuperAdmin() || (isUserAuthenticated() && getCurrentUserBusinessId() == resource.data.businessId);
+      allow list: if isSuperAdmin() || (isUserAuthenticated() && getCurrentUserBusinessId() == resource.data.get('academyId', resource.data.get('businessId', 'none')));
       allow update: if isSuperAdmin() || 
                        (isUserAuthenticated() && request.auth.uid == userId) ||
-                       (isRequestingUserAdmin() && isRequestingUserMemberOf(resource.data.get('businessId', 'none')));
+                       (isRequestingUserAdmin() && isRequestingUserMemberOf(resource.data.get('academyId', resource.data.get('businessId', 'none'))));
       allow create: if isUserAuthenticated() && request.auth.uid == userId;
       allow delete: if isSuperAdmin();
       
@@ -170,8 +177,13 @@ service cloud.firestore {
         allow write: if isSuperAdmin() || 
                         (isUserAuthenticated() && (
                           request.auth.uid == userId || 
-                          (isRequestingUserAdmin() && isRequestingUserMemberOf(get(/databases/$(database)/documents/users/$(userId)).data.get('businessId', 'none')))
+                          (isRequestingUserAdmin() && isRequestingUserMemberOf(get(/databases/$(database)/documents/users/$(userId)).data.get('academyId', get(/databases/$(database)/documents/users/$(userId)).data.get('businessId', 'none'))))
                         ));
+      }
+
+      match /examResults/{resultId} {
+        allow read, create: if isSuperAdmin() || (isUserAuthenticated() && request.auth.uid == userId);
+        allow update, delete: if isSuperAdmin();
       }
 
       match /fcmTokens/{tokenId} {

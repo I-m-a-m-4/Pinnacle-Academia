@@ -1915,7 +1915,8 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
             const historyColRef = collection(firestore, 'businessInstances', userData.academyId, 'subscription_history');
 
             if (grantLifetime) {
-                await updateDoc(businessDocRef, { accessLevel: 'lifetime', trialExpiresAt: null, plan: 'academy' });
+                await updateDoc(businessDocRef, { accessLevel: 'lifetime', trialExpiresAt: null, plan: 'academy', status: 'active' });
+                await updateDoc(userDoc.ref, { status: 'active', businessId: userData.academyId });
                 await addDoc(historyColRef, {
                     action: 'Admin Grant: Lifetime access',
                     amount: 0,
@@ -1931,11 +1932,12 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                     });
                 }
 
-                toast({ variant: 'success', title: 'Lifetime Access Granted!', description: `${userData.name} now has lifetime access.` });
+                toast({ variant: 'success', title: 'Lifetime Access Granted!', description: `${userData.name} now has full lifetime CBT access.` });
             } else if (grantDate) {
-                await updateDoc(businessDocRef, { trialExpiresAt: grantDate });
+                await updateDoc(businessDocRef, { trialExpiresAt: grantDate, plan: 'pro', status: 'active' });
+                await updateDoc(userDoc.ref, { status: 'active', businessId: userData.academyId });
                 await addDoc(historyColRef, {
-                    action: `Admin Grant: Trial extended to ${format(grantDate, 'PPP')}`,
+                    action: `Admin Grant: Full CBT access extended to ${format(grantDate, 'PPP')}`,
                     amount: 0,
                     currency: 'NGN',
                     timestamp: serverTimestamp()
@@ -1949,7 +1951,7 @@ function AdminDashboardContent({ users, businesses, subjects, admissions, purcha
                     });
                 }
 
-                toast({ variant: 'success', title: 'Access Granted', description: `${userData.name}'s trial now expires on ${format(grantDate, 'PPP')}.` });
+                toast({ variant: 'success', title: 'Access Granted', description: `${userData.name}'s full CBT access is now active until ${format(grantDate, 'PPP')}.` });
             }
             setGrantEmail('');
             setGrantDate(undefined);

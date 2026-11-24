@@ -84,12 +84,13 @@ export const createUserProfileDocument = async (
       batch.set(businessDocRef, newBusiness);
     }
 
-    const userProfile: Omit<StudentProfile, 'id'> = {
+    const userProfile: Omit<StudentProfile, 'id'> & { businessId: string } = {
       email: user.email!,
       name: displayName,
       phone: phone || '',
       createdAt: serverTimestamp(),
       academyId: academyId,
+      businessId: academyId,
       role: userRole,
       surveyCompleted: surveyCompleted,
       status: 'active',
